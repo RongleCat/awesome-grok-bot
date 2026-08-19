@@ -42,7 +42,7 @@ nav a:hover { color: var(--text); }
 .stats { display: flex; justify-content: center; gap: 28px; margin: 18px 0 8px; }
 .stats b { display: block; font-size: 28px; }
 .stats span { color: var(--muted); font-size: 13px; }
-.wrap { max-width: 1080px; margin: 0 auto; padding: 36px 20px; }
+.wrap { max-width: 1080px; margin: 0 auto; padding: 36px 20px; scroll-margin-top: 72px; }
 .rules { padding-left: 20px; }
 .rules li { margin: 10px 0; }
 .toolbar { display: grid; gap: 12px; margin-bottom: 22px; }
