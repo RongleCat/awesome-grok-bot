@@ -19,6 +19,14 @@
   <a href="https://grok-app.com"><strong>Grok App</strong></a>（<a href="https://github.com/RongleCat/grok-app">GitHub</a>）— 开源 Grok Build 桌面端 · <a href="https://x.com/cgnot996">铁柱AGI @cgnot996</a>
 </p>
 
+<p align="center">扫码进交流群；加不上群就添加好友，我拉你进。</p>
+<p align="center">
+  <img src="./assets/wechat/group-qr.jpg" alt="Grok Bot 交流群" width="140" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/wechat/personal-qr.png" alt="添加好友" width="140" />
+</p>
+<p align="center"><sub>交流群（8 月 27 日前有效）· 添加好友</sub></p>
+
 > **Grok Bot** 生态精选清单：官方文档、真实案例、教程、插件与开源替代。Grok Bot 是 xAI/SpaceXAI 与 Cursor 在 2026-08-11 上线的 always-on 云电脑队友。
 
 Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。
