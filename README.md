@@ -1,11 +1,9 @@
 <h1 align="center">
-  <a href="./website/index.html"><img src="./assets/banner.png" alt="Awesome Grok Bot" width="800" /></a>
+  <img src="./assets/banner.png" alt="Awesome Grok Bot" width="800" />
 </h1>
 
 <p align="center">
   <a href="./README.zh.md"><strong>中文</strong></a>
-  ·
-  <a href="./website/index.html">Website</a>
   ·
   <a href="./prompts/playbook-prompts.json">Playbook prompts</a>
 </p>
@@ -21,7 +19,7 @@
 
 Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.
 
-Browse with an **English / 中文** toggle at the GitHub Pages site after you enable Pages on `/website`.
+Switch language with the **中文** link above.
 
 This list is **not** grok.com chat, Grok Imagine, or a Grok 4.x model roundup. It is also **not affiliated with xAI or Cursor**.
 

@@ -22,24 +22,16 @@ def render(lang: str) -> str:
     n = count_items()
     nsec = len(CAT["sections"])
     product = CAT["product"][lang]
-    other = "zh" if lang == "en" else "en"
     other_file = "README.zh.md" if lang == "en" else "README.md"
     other_label = "中文" if lang == "en" else "English"
-    site_note = (
-        "Browse with an **English / 中文** toggle at the GitHub Pages site after you enable Pages on `/website`."
-        if lang == "en"
-        else "启用 GitHub Pages（源目录 `/website`）后，站点顶栏可在 **English / 中文** 之间切换。"
-    )
 
     if lang == "en":
         intro = f"""<h1 align="center">
-  <a href="./website/index.html"><img src="./assets/banner.png" alt="Awesome Grok Bot" width="800" /></a>
+  <img src="./assets/banner.png" alt="Awesome Grok Bot" width="800" />
 </h1>
 
 <p align="center">
   <a href="./{other_file}"><strong>{other_label}</strong></a>
-  ·
-  <a href="./website/index.html">Website</a>
   ·
   <a href="./prompts/playbook-prompts.json">Playbook prompts</a>
 </p>
@@ -55,19 +47,17 @@ def render(lang: str) -> str:
 
 {product}
 
-{site_note}
+Switch language with the **中文** link above.
 
 This list is **not** grok.com chat, Grok Imagine, or a Grok 4.x model roundup. It is also **not affiliated with xAI or Cursor**.
 """
     else:
         intro = f"""<h1 align="center">
-  <a href="./website/index.html"><img src="./assets/banner.png" alt="Awesome Grok Bot" width="800" /></a>
+  <img src="./assets/banner.png" alt="Awesome Grok Bot" width="800" />
 </h1>
 
 <p align="center">
   <a href="./{other_file}"><strong>{other_label}</strong></a>
-  ·
-  <a href="./website/index.html">网站</a>
   ·
   <a href="./prompts/playbook-prompts.json">玩法提示词</a>
 </p>
@@ -83,7 +73,7 @@ This list is **not** grok.com chat, Grok Imagine, or a Grok 4.x model roundup. I
 
 {product}
 
-{site_note}
+用上面的 **English** 链接切回英文。
 
 本清单**不是** grok.com 聊天、Grok Imagine 或 Grok 4.x 模型评测。**与 xAI / Cursor 无官方关系。**
 """

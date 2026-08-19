@@ -1,11 +1,9 @@
 <h1 align="center">
-  <a href="./website/index.html"><img src="./assets/banner.png" alt="Awesome Grok Bot" width="800" /></a>
+  <img src="./assets/banner.png" alt="Awesome Grok Bot" width="800" />
 </h1>
 
 <p align="center">
   <a href="./README.md"><strong>English</strong></a>
-  ·
-  <a href="./website/index.html">网站</a>
   ·
   <a href="./prompts/playbook-prompts.json">玩法提示词</a>
 </p>
@@ -21,7 +19,7 @@
 
 Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。
 
-启用 GitHub Pages（源目录 `/website`）后，站点顶栏可在 **English / 中文** 之间切换。
+用上面的 **English** 链接切回英文。
 
 本清单**不是** grok.com 聊天、Grok Imagine 或 Grok 4.x 模型评测。**与 xAI / Cursor 无官方关系。**
 
