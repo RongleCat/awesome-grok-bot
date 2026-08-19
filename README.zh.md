@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  顺手做了 <a href="https://github.com/RongleCat/grok-app"><strong>Grok App</strong></a> — 本机 Grok Build 桌面指挥台 · <a href="https://x.com/cgnot996">铁柱AGI @cgnot996</a>
+  顺手做了 <a href="https://grok-app.com"><strong>Grok App</strong></a>（<a href="https://github.com/RongleCat/grok-app">GitHub</a>）— 本机 Grok Build 桌面指挥台 · <a href="https://x.com/cgnot996">铁柱AGI @cgnot996</a>
 </p>
 
 > **Grok Bot** 生态精选清单：官方文档、真实案例、教程、插件与开源替代。Grok Bot 是 xAI/SpaceXAI 与 Cursor 在 2026-08-11 上线的 always-on 云电脑队友。
