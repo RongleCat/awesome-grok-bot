@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Also shipping <a href="https://grok-app.com"><strong>Grok App</strong></a> (<a href="https://github.com/RongleCat/grok-app">GitHub</a>) — desktop cockpit for local Grok Build · <a href="https://x.com/cgnot996">铁柱AGI @cgnot996</a>
+  Also shipping <a href="https://grok-app.com"><strong>Grok App</strong></a> (<a href="https://github.com/RongleCat/grok-app">GitHub</a>) — open-source Grok Build desktop app · <a href="https://x.com/cgnot996">铁柱AGI @cgnot996</a>
 </p>
 
 > A curated list of official docs, field cases, tutorials, plugins, and open-source stand-ins for **Grok Bot** — xAI/SpaceXAI and Cursor's always-on AI teammates, each sharing one persistent cloud computer. Launched in beta 2026-08-11.

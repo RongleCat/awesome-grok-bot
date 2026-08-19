@@ -44,7 +44,7 @@ def render(lang: str) -> str:
 </p>
 
 <p align="center">
-  Also shipping <a href="https://grok-app.com"><strong>Grok App</strong></a> (<a href="https://github.com/RongleCat/grok-app">GitHub</a>) — desktop cockpit for local Grok Build · <a href="https://x.com/cgnot996">铁柱AGI @cgnot996</a>
+  Also shipping <a href="https://grok-app.com"><strong>Grok App</strong></a> (<a href="https://github.com/RongleCat/grok-app">GitHub</a>) — open-source Grok Build desktop app · <a href="https://x.com/cgnot996">铁柱AGI @cgnot996</a>
 </p>
 
 > A curated list of official docs, field cases, tutorials, plugins, and open-source stand-ins for **Grok Bot** — xAI/SpaceXAI and Cursor's always-on AI teammates, each sharing one persistent cloud computer. Launched in beta 2026-08-11.
@@ -74,7 +74,7 @@ This list is **not** grok.com chat, Grok Imagine, or a Grok 4.x model roundup. I
 </p>
 
 <p align="center">
-  顺手做了 <a href="https://grok-app.com"><strong>Grok App</strong></a>（<a href="https://github.com/RongleCat/grok-app">GitHub</a>）— 本机 Grok Build 桌面指挥台 · <a href="https://x.com/cgnot996">铁柱AGI @cgnot996</a>
+  顺手做了 <a href="https://grok-app.com"><strong>Grok App</strong></a>（<a href="https://github.com/RongleCat/grok-app">GitHub</a>）— 开源 Grok Build 桌面端 · <a href="https://x.com/cgnot996">铁柱AGI @cgnot996</a>
 </p>
 
 > **Grok Bot** 生态精选清单：官方文档、真实案例、教程、插件与开源替代。Grok Bot 是 xAI/SpaceXAI 与 Cursor 在 2026-08-11 上线的 always-on 云电脑队友。
