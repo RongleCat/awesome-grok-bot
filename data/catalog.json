@@ -136,7 +136,6 @@
       "title": { "en": "Related Lists", "zh": "相关列表" },
       "items": [
         { "title": "ZeroPointRepo/awesome-grok-bot", "url": "https://github.com/ZeroPointRepo/awesome-grok-bot", "source": "GB-190", "blurb": { "en": "Day-one 19-entry directory, strong on marketplace format and self-hosted runtimes.", "zh": "上线首日 19 条目录，市场格式和自托管运行时写得很清楚。" } },
-        { "title": "awesome-workbuddy", "url": "https://github.com/staruhub/awesome-workbuddy", "source": "ref", "blurb": { "en": "Curated WorkBuddy resources — another always-on work-agent directory.", "zh": "WorkBuddy 资源精选：另一套 always-on 办公智能体清单。" } },
         { "title": "awesome-mcp-servers", "url": "https://github.com/punkpeye/awesome-mcp-servers", "source": "related", "blurb": { "en": "MCP server catalog. Grok Bot follows Cursor plugin/MCP policy.", "zh": "MCP Server 大全。Grok Bot 走 Cursor 的插件/MCP 政策。" } },
         { "title": "awesome-claude-code", "url": "https://github.com/hesreallyhim/awesome-claude-code", "source": "related", "blurb": { "en": "Skill-format sibling ecosystem; many SKILL.md packs are conceptually portable.", "zh": "Skill 格式的姐妹生态；不少 SKILL.md 概念上可迁移。" } },
         { "title": "botdirectory.ai (announced)", "url": "https://x.com/aiedge_/status/2089895147068924385", "source": "GB-177", "blurb": { "en": "Community directory of live Bots — treat the site as beta.", "zh": "社区 Bot 目录，站点本身也是 beta。" } }
