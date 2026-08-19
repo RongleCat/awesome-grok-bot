@@ -33,7 +33,7 @@ def render(lang: str) -> str:
 <p align="center">
   <a href="./{other_file}"><strong>{other_label}</strong></a>
   ·
-  <a href="./prompts/playbook-prompts.json">Playbook prompts</a>
+  <a href="./prompts/playbook-prompts.md">Playbook prompts</a>
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ This list is **not** grok.com chat, Grok Imagine, or a Grok 4.x model roundup. I
 <p align="center">
   <a href="./{other_file}"><strong>{other_label}</strong></a>
   ·
-  <a href="./prompts/playbook-prompts.json">玩法提示词</a>
+  <a href="./prompts/playbook-prompts.zh.md">玩法提示词</a>
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ This list is **not** grok.com chat, Grok Imagine, or a Grok 4.x model roundup. I
             "5. **Heavy / Ultra / Teams Premium is a gate, not infinite quota.** Usage resets weekly.",
             "6. **Linux desktop is not first-class.** Community `.deb` / Nix packs exist; official desktop is macOS / Windows + iOS.",
             "",
-            "Minimum roster that keeps showing up: Chief of Staff, read-only inbox, research scout, engineering squasher, on-call support. Start read-only, then Teach a task, then hang a routine. Copy-paste prompts live in [`prompts/playbook-prompts.json`](prompts/playbook-prompts.json).",
+            "Minimum roster that keeps showing up: Chief of Staff, read-only inbox, research scout, engineering squasher, on-call support. Start read-only, then Teach a task, then hang a routine. Copy-paste prompts: [`prompts/playbook-prompts.md`](prompts/playbook-prompts.md).",
             "",
         ]
     else:
@@ -118,7 +118,7 @@ This list is **not** grok.com chat, Grok Imagine, or a Grok 4.x model roundup. I
             "5. **Heavy / Ultra / Teams Premium 是门槛不是无限。** 用量按周重置。",
             "6. **Linux 桌面不是一等公民。** 社区有 `.deb` / Nix；官方桌面是 macOS / Windows + iOS。",
             "",
-            "反复出现的最小编制：幕僚长、只读收件箱、研究侦察、工程复现、值班客服。先只读，再 Teach，再挂 routine。可粘贴提示词见 [`prompts/playbook-prompts.json`](prompts/playbook-prompts.json)。",
+            "反复出现的最小编制：幕僚长、只读收件箱、研究侦察、工程复现、值班客服。先只读，再 Teach，再挂 routine。可粘贴提示词见 [`prompts/playbook-prompts.zh.md`](prompts/playbook-prompts.zh.md)。",
             "",
         ]
 

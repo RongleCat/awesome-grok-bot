@@ -5,7 +5,7 @@
 <p align="center">
   <a href="./README.zh.md"><strong>中文</strong></a>
   ·
-  <a href="./prompts/playbook-prompts.json">Playbook prompts</a>
+  <a href="./prompts/playbook-prompts.md">Playbook prompts</a>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ Field notes distilled from the local research catalog (175 reviewed sources). Th
 5. **Heavy / Ultra / Teams Premium is a gate, not infinite quota.** Usage resets weekly.
 6. **Linux desktop is not first-class.** Community `.deb` / Nix packs exist; official desktop is macOS / Windows + iOS.
 
-Minimum roster that keeps showing up: Chief of Staff, read-only inbox, research scout, engineering squasher, on-call support. Start read-only, then Teach a task, then hang a routine. Copy-paste prompts live in [`prompts/playbook-prompts.json`](prompts/playbook-prompts.json).
+Minimum roster that keeps showing up: Chief of Staff, read-only inbox, research scout, engineering squasher, on-call support. Start read-only, then Teach a task, then hang a routine. Copy-paste prompts: [`prompts/playbook-prompts.md`](prompts/playbook-prompts.md).
 
 ## Official Resources
 

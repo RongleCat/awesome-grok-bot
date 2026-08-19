@@ -5,7 +5,7 @@
 <p align="center">
   <a href="./README.md"><strong>English</strong></a>
   ·
-  <a href="./prompts/playbook-prompts.json">玩法提示词</a>
+  <a href="./prompts/playbook-prompts.zh.md">玩法提示词</a>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电�
 5. **Heavy / Ultra / Teams Premium 是门槛不是无限。** 用量按周重置。
 6. **Linux 桌面不是一等公民。** 社区有 `.deb` / Nix；官方桌面是 macOS / Windows + iOS。
 
-反复出现的最小编制：幕僚长、只读收件箱、研究侦察、工程复现、值班客服。先只读，再 Teach，再挂 routine。可粘贴提示词见 [`prompts/playbook-prompts.json`](prompts/playbook-prompts.json)。
+反复出现的最小编制：幕僚长、只读收件箱、研究侦察、工程复现、值班客服。先只读，再 Teach，再挂 routine。可粘贴提示词见 [`prompts/playbook-prompts.zh.md`](prompts/playbook-prompts.zh.md)。
 
 ## 官方资源
 
