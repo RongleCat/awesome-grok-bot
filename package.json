@@ -1,0 +1,9 @@
+{
+  "name": "awesome-grok-bot",
+  "private": true,
+  "description": "Curated bilingual directory for Grok Bot, the always-on cloud-computer teammate.",
+  "scripts": {
+    "readme": "python3 scripts/generate_readme.py",
+    "sync-site": "cp data/catalog.json website/catalog.json && cp prompts/playbook-prompts.json website/prompts.json && cp assets/banner.png assets/og.png assets/mark.png assets/apple-touch-icon.png website/assets/"
+  }
+}
