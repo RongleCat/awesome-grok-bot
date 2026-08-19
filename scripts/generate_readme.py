@@ -33,7 +33,7 @@ def render(lang: str) -> str:
 <p align="center">
   <a href="./{other_file}"><strong>{other_label}</strong></a>
   ·
-  <a href="./prompts/playbook-prompts.md">Playbook prompts</a>
+  <a href="https://usegrokbot.com/">Playbook prompts</a>
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ def render(lang: str) -> str:
 <p align="center">
   <a href="./{other_file}"><strong>{other_label}</strong></a>
   ·
-  <a href="./prompts/playbook-prompts.zh.md">玩法提示词</a>
+  <a href="https://usegrokbot.com/">玩法提示词</a>
 </p>
 
 <p align="center">

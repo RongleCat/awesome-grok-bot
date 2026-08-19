@@ -5,7 +5,7 @@
 <p align="center">
   <a href="./README.zh.md"><strong>中文</strong></a>
   ·
-  <a href="./prompts/playbook-prompts.md">Playbook prompts</a>
+  <a href="https://usegrokbot.com/">Playbook prompts</a>
 </p>
 
 <p align="center">
