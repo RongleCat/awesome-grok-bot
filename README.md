@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
 
+<p align="center">
+  Also shipping <a href="https://github.com/RongleCat/grok-app"><strong>Grok App</strong></a> — desktop cockpit for local Grok Build · <a href="https://x.com/cgnot996">铁柱AGI @cgnot996</a>
+</p>
+
 > A curated list of official docs, field cases, tutorials, plugins, and open-source stand-ins for **Grok Bot** — xAI/SpaceXAI and Cursor's always-on AI teammates, each sharing one persistent cloud computer. Launched in beta 2026-08-11.
 
 Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.
