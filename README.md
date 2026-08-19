@@ -27,17 +27,10 @@
 </p>
 <p align="center"><sub>WeChat group (valid until Aug 27) · Add friend</sub></p>
 
-> A curated list of official docs, field cases, tutorials, plugins, and open-source stand-ins for **Grok Bot** — xAI/SpaceXAI and Cursor's always-on AI teammates, each sharing one persistent cloud computer. Launched in beta 2026-08-11.
-
-Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.
-
-Switch language with the **中文** link above.
-
-This list is **not** grok.com chat, Grok Imagine, or a Grok 4.x model roundup. It is also **not affiliated with xAI or Cursor**.
+> Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup. Unofficial community list, not affiliated with xAI or Cursor.
 
 ## Contents
 
-- [Playbook (read this first)](#playbook-(read-this-first))
 - [Official Resources](#official-resources)
 - [Tutorials & Guides](#tutorials--guides)
 - [Field Cases](#field-cases)
@@ -47,19 +40,6 @@ This list is **not** grok.com chat, Grok Imagine, or a Grok 4.x model roundup. I
 - [Community & Failure Modes](#community--failure-modes)
 - [Related Lists](#related-lists)
 - [Contributing](#contributing)
-
-## Playbook (read this first)
-
-Field notes distilled from the local research catalog (175 reviewed sources). They are rules of thumb, not vendor canon.
-
-1. **One computer, not one machine per Bot.** Logins and files are visible to every Bot on the account.
-2. **Draw the approval line on irreversible actions.** Auto Review + take over for 2FA.
-3. **The cloud computer hits site risk controls.** X login locks and captchas show up in real threads.
-4. **Reconnect can drop state.** Rebuilding the bridge or deleting the Cursor account can orphan the Bot.
-5. **Heavy / Ultra / Teams Premium is a gate, not infinite quota.** Usage resets weekly.
-6. **Linux desktop is not first-class.** Community `.deb` / Nix packs exist; official desktop is macOS / Windows + iOS.
-
-Minimum roster that keeps showing up: Chief of Staff, read-only inbox, research scout, engineering squasher, on-call support. Start read-only, then Teach a task, then hang a routine. Copy-paste prompts: [`prompts/playbook-prompts.md`](prompts/playbook-prompts.md).
 
 ## Official Resources
 
@@ -168,7 +148,7 @@ Minimum roster that keeps showing up: Chief of Staff, read-only inbox, research 
 ## Related Lists
 
 - [ZeroPointRepo/awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) - Day-one 19-entry directory, strong on marketplace format and self-hosted runtimes.
-- [awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) - The WorkBuddy list this repo is modeled on — same job, different product.
+- [awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) - Curated WorkBuddy resources — another always-on work-agent directory.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - MCP server catalog. Grok Bot follows Cursor plugin/MCP policy.
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill-format sibling ecosystem; many SKILL.md packs are conceptually portable.
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - Community directory of live Bots — treat the site as beta.

@@ -27,17 +27,10 @@
 </p>
 <p align="center"><sub>交流群（8 月 27 日前有效）· 添加好友</sub></p>
 
-> **Grok Bot** 生态精选清单：官方文档、真实案例、教程、插件与开源替代。Grok Bot 是 xAI/SpaceXAI 与 Cursor 在 2026-08-11 上线的 always-on 云电脑队友。
-
-Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。
-
-用上面的 **English** 链接切回英文。
-
-本清单**不是** grok.com 聊天、Grok Imagine 或 Grok 4.x 模型评测。**与 xAI / Cursor 无官方关系。**
+> Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。 非官方社区清单，与 xAI / Cursor 无隶属关系。
 
 ## 目录
 
-- [玩法（先读这段）](#玩法（先读这段）)
 - [官方资源](#官方资源)
 - [教程与上手指南](#教程与上手指南)
 - [真实使用案例](#真实使用案例)
@@ -47,19 +40,6 @@ Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电�
 - [社区与故障现场](#社区与故障现场)
 - [相关列表](#相关列表)
 - [贡献](#贡献)
-
-## 玩法（先读这段）
-
-从本地 175 条过关材料里收出来的判断，是经验不是厂商 Canon。
-
-1. **一台电脑，不是一人一机。** 登录和文件对账号下全部 Bot 可见。
-2. **审批线画在不可逆动作上。** Auto Review + 2FA Take over。
-3. **云电脑会撞上站点风控。** X 登录锁、验证码在真实帖里反复出现。
-4. **重连会丢状态。** 重建桥或删 Cursor 号可能把 Bot 绑死。
-5. **Heavy / Ultra / Teams Premium 是门槛不是无限。** 用量按周重置。
-6. **Linux 桌面不是一等公民。** 社区有 `.deb` / Nix；官方桌面是 macOS / Windows + iOS。
-
-反复出现的最小编制：幕僚长、只读收件箱、研究侦察、工程复现、值班客服。先只读，再 Teach，再挂 routine。可粘贴提示词见 [`prompts/playbook-prompts.zh.md`](prompts/playbook-prompts.zh.md)。
 
 ## 官方资源
 
@@ -168,7 +148,7 @@ Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电�
 ## 相关列表
 
 - [ZeroPointRepo/awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) - 上线首日 19 条目录，市场格式和自托管运行时写得很清楚。.
-- [awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) - 本仓对照的 WorkBuddy 清单：同一类活，另一个产品。.
+- [awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) - WorkBuddy 资源精选：另一套 always-on 办公智能体清单。.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - MCP Server 大全。Grok Bot 走 Cursor 的插件/MCP 政策。.
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill 格式的姐妹生态；不少 SKILL.md 概念上可迁移。.
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - 社区 Bot 目录，站点本身也是 beta。.
