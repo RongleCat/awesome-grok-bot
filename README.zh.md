@@ -33,6 +33,10 @@
 
 > Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。 非官方社区清单，与 xAI / Cursor 无隶属关系。
 
+## 活动
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/5vkzzvqk"><img src="./assets/events/sz-20260830-cover.png" alt="Grok Bot 深圳线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 深圳线下交流</strong><br />2026-08-30 周日 14:00–17:30<br />深圳 · 报名通过后可见地址<br /><br />中国首场 Grok Bot 线下。破冰 + 分享 / Workshop。预报名，需主办审核，名额有限。到时铁柱AGI、阿真在。欢迎深圳 AI 博主，用过 Grok Bot 的优先。<br /><br /><a href="https://luma.com/5vkzzvqk"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 ## 目录
 
 - [官方资源](#官方资源)

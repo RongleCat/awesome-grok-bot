@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -36,6 +37,7 @@ CHROME = {
         "friend_alt": "Add 铁柱AGI on WeChat",
         "qr_sub": "WeChat group (valid until Aug 27) · Add friend",
         "unofficial": "Unofficial community list, not affiliated with xAI or Cursor.",
+        "events": "Upcoming",
         "toc": "Contents",
         "contrib": "Contributing",
         "contrib_body": (
@@ -62,6 +64,7 @@ CHROME = {
         "friend_alt": "添加好友",
         "qr_sub": "交流群（8 月 27 日前有效）· 添加好友",
         "unofficial": "非官方社区清单，与 xAI / Cursor 无隶属关系。",
+        "events": "活动",
         "toc": "目录",
         "contrib": "贡献",
         "contrib_body": (
@@ -87,6 +90,7 @@ CHROME = {
         "friend_alt": "铁柱AGI を WeChat で追加",
         "qr_sub": "WeChatグループ（8月27日まで有効）· 友だち追加",
         "unofficial": "非公式のコミュニティリストであり、xAI や Cursor とは無関係です。",
+        "events": "イベント",
         "toc": "目次",
         "contrib": "貢献",
         "contrib_body": (
@@ -119,7 +123,62 @@ def validate_catalog() -> None:
         require_i18n(sec["title"], f"sections.{sec['id']}.title")
         for item in sec["items"]:
             require_i18n(item["blurb"], f"{sec['id']}:{item['url']}")
+    for ev in CAT.get("events") or []:
+        eid = ev.get("id", "?")
+        for key in ("title", "when", "where", "body", "cta"):
+            require_i18n(ev[key], f"events.{eid}.{key}")
 
+
+
+SHANGHAI = timezone(timedelta(hours=8))
+
+
+def active_events() -> list[dict]:
+    now = datetime.now(SHANGHAI)
+    out = []
+    for ev in CAT.get("events") or []:
+        raw = ev.get("expires")
+        if not raw:
+            out.append(ev)
+            continue
+        exp = datetime.fromisoformat(raw)
+        if exp.tzinfo is None:
+            exp = exp.replace(tzinfo=SHANGHAI)
+        if now <= exp:
+            out.append(ev)
+    return out
+
+
+def render_events(lang: str, chrome: dict) -> str:
+    events = active_events()
+    if not events:
+        return ""
+    heading = chrome["events"]
+    blocks = [f"## {heading}", ""]
+    for ev in events:
+        title = ev["title"][lang]
+        when = ev["when"][lang]
+        where = ev["where"][lang]
+        body = ev["body"][lang]
+        cta = ev["cta"][lang]
+        img = ev.get("image", "")
+        url = ev["url"]
+        blocks.append(
+            f'<table><tr>'
+            f'<td width="320" valign="top">'
+            f'<a href="{url}"><img src="{img}" alt="{title}" width="300" /></a>'
+            f"</td>"
+            f'<td valign="top">'
+            f"<strong>{title}</strong><br />"
+            f"{when}<br />"
+            f"{where}<br /><br />"
+            f"{body}<br /><br />"
+            f'<a href="{url}"><strong>{cta} →</strong></a>'
+            f"</td>"
+            f"</tr></table>"
+        )
+        blocks.append("")
+    return "\n".join(blocks)
 
 def section_anchor(title: str) -> str:
     return title.lower().replace(" ", "-").replace("&", "").replace(",", "")
@@ -182,7 +241,11 @@ def render(lang: str) -> str:
 > {product} {chrome["unofficial"]}
 """
 
-    lines = [intro, f"## {chrome['toc']}", ""]
+    events_md = render_events(lang, chrome)
+    lines = [intro]
+    if events_md:
+        lines += [events_md]
+    lines += [f"## {chrome['toc']}", ""]
     for sec in CAT["sections"]:
         t = sec["title"][lang]
         lines.append(f"- [{t}](#{section_anchor(t)})")

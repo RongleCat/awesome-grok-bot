@@ -9,138 +9,986 @@
   "sections": [
     {
       "id": "official",
-      "title": { "en": "Official Resources", "zh": "官方资源", "ja": "公式リソース" },
+      "title": {
+        "en": "Official Resources",
+        "zh": "官方资源",
+        "ja": "公式リソース"
+      },
       "items": [
-        { "title": "Introducing Grok Bot", "url": "https://x.ai/news/introducing-grok-bot", "source": "GB-002", "blurb": { "en": "Launch note: always-on agents with their own computer, working inside your tools 24/7.", "zh": "首发稿：always-on 智能体自带电脑，在你的工具里 24/7 干活。", "ja": "発表記事：always-on のエージェントが専用パソコンを持ち、あなたのツール内で 24/7 働きます。" } },
-        { "title": "Grok Bot overview", "url": "https://docs.x.ai/grok-bot/overview", "source": "GB-003", "blurb": { "en": "Canonical product page: one named Bot, one shared cloud computer, isolation is per user not per Bot.", "zh": "产品总览：有名字的 Bot、共享一台云电脑；隔离按账号不按 Bot。", "ja": "製品の公式概要：名前付き Bot が 1 台のクラウドパソコンを共有し、分離は Bot 単位ではなくユーザー単位です。" } },
-        { "title": "Get started", "url": "https://docs.x.ai/grok-bot/get-started", "source": "GB-004", "blurb": { "en": "Install desktop, sign in with Cursor, create the first Bot. No official Linux desktop.", "zh": "装桌面端、用 Cursor 登录、建第一个 Bot。官方无 Linux 桌面。", "ja": "デスクトップ版を入れ、Cursor でログインし、最初の Bot を作ります。公式の Linux デスクトップはありません。" } },
-        { "title": "Use cases", "url": "https://docs.x.ai/grok-bot/use-cases", "source": "GB-005", "blurb": { "en": "Official roster ideas: sales CRM nights, ops invoices, engineering bug squash.", "zh": "官方编制示例：销售夜间更 CRM、运营发票入职、工程复现 Bug。", "ja": "公式の編成例：営業の夜間 CRM、運用の請求書処理、エンジニアリングのバグ潰し。" } },
-        { "title": "Grok Bot for iOS", "url": "https://docs.x.ai/grok-bot/mobile", "source": "GB-006", "blurb": { "en": "Companion phone app for messaging Bots that keep running on the cloud machine.", "zh": "iOS 同伴 App：在手机上给仍在云电脑上干活的 Bot 发消息。", "ja": "クラウドパソコン上で動き続ける Bot に、スマホからメッセージを送る同伴アプリです。" } },
-        { "title": "Create and manage Bots", "url": "https://docs.x.ai/grok-bot/bots", "source": "GB-007", "blurb": { "en": "How a Bot is named, scoped, and kept as a standing coworker instead of a chat thread.", "zh": "怎么给 Bot 起名、定工种，把它当常驻同事而不是话题线程。", "ja": "Bot の命名と担当範囲の決め方、チャットスレッドではなく常駐の同僚として置く方法。" } },
-        { "title": "Message and collaborate", "url": "https://docs.x.ai/grok-bot/chat-and-collaboration", "source": "GB-008", "blurb": { "en": "Bots message each other, join group chats, and assign ownership of work.", "zh": "Bot 互发消息、进群聊、互相派活和认领。", "ja": "Bot 同士がメッセージを送り、グループチャットに入り、仕事の担当を割り振ります。" } },
-        { "title": "Files and results", "url": "https://docs.x.ai/grok-bot/files-and-results", "source": "GB-009", "blurb": { "en": "Where artifacts live on the shared computer and how you pull results back.", "zh": "产物落在共享电脑哪里，以及怎么把结果拿回来。", "ja": "成果物が共有パソコンのどこに置かれ、どう手元へ戻すか。" } },
-        { "title": "Use the computer and apps", "url": "https://docs.x.ai/grok-bot/computer-and-apps", "source": "GB-010", "blurb": { "en": "Browser, filesystem, terminal. No clean API? Click the site like a person.", "zh": "浏览器、文件系统、终端。没有干净 API 就用云浏览器点。", "ja": "ブラウザ、ファイルシステム、ターミナル。きれいな API がなければ、人と同じようにサイトをクリックします。" } },
-        { "title": "Skills and routines", "url": "https://docs.x.ai/grok-bot/skills-routines-and-automations", "source": "GB-011", "blurb": { "en": "Teach a task (up to 10 minutes of screen, no mic), save as a reusable routine.", "zh": "Teach a task（最多录 10 分钟屏幕、不录麦），存成可复用 routine。", "ja": "Teach a task（画面最大 10 分、マイクなし）で教え、再利用できる routine として保存します。" } },
-        { "title": "Settings and notifications", "url": "https://docs.x.ai/grok-bot/settings-and-notifications", "source": "GB-012", "blurb": { "en": "Notification grouping, mobile alerts, and how Bots follow up stalled work.", "zh": "通知按 Bot 分组、手机提醒，以及 Bot 怎么跟未完成的活。", "ja": "通知のグループ分け、モバイル通知、止まっている仕事を Bot が追う方法。" } },
-        { "title": "Approvals, security, and privacy", "url": "https://docs.x.ai/grok-bot/approvals-security-and-privacy", "source": "GB-013", "blurb": { "en": "Bots do not see passwords; draw the approval line on irreversible actions and 2FA takeover.", "zh": "Bot 看不见密码；审批线画在不可逆动作和 2FA Take over 上。", "ja": "Bot はパスワードを見ません。承認ラインは不可逆な操作と 2FA の Take over に引きます。" } },
-        { "title": "Teams and enterprises", "url": "https://docs.x.ai/grok-bot/teams-and-enterprises", "source": "GB-014", "blurb": { "en": "Team marketplace, SSO, shared analytics. Plugins follow existing Cursor policy.", "zh": "团队市场、SSO、共享用量。插件策略跟现有 Cursor 政策走。", "ja": "チーム向けマーケット、SSO、共有アナリティクス。プラグインは既存の Cursor ポリシーに従います。" } },
-        { "title": "Troubleshooting", "url": "https://docs.x.ai/grok-bot/troubleshooting", "source": "GB-015", "blurb": { "en": "Official fix list for reconnect, runners, and common beta failures.", "zh": "官方排障：重连、runner 挂掉、常见 beta 故障。", "ja": "再接続、runner、よくある beta 障害向けの公式トラブルシュート一覧。" } },
-        { "title": "FAQ", "url": "https://docs.x.ai/grok-bot/faq", "source": "GB-016", "blurb": { "en": "Short official answers on access, computer sharing, and what Bots can remember.", "zh": "官方短答：资格、共享电脑、Bot 记得什么。", "ja": "利用資格、パソコンの共有、Bot が覚えられることについての公式の短い回答。" } },
-        { "title": "Get access with SuperGrok Heavy", "url": "https://cursor.com/help/grok-bot/supergrok-heavy", "source": "GB-020", "blurb": { "en": "Cursor help: Heavy / Ultra / Teams Premium gates, and Ultra does not stack twice.", "zh": "Cursor 帮助：Heavy / Ultra / Teams Premium 门槛；已在 Ultra 再绑不叠用量。", "ja": "Cursor ヘルプ：Heavy / Ultra / Teams Premium の条件。すでに Ultra でも枠は二重に積み上がりません。" } },
-        { "title": "Grok Bot on mobile (Cursor help)", "url": "https://cursor.com/help/grok-bot/mobile", "source": "GB-021", "blurb": { "en": "How the iOS companion talks to Bots that stay on the cloud computer.", "zh": "iOS 同伴怎么跟仍在云电脑上的 Bot 说话。", "ja": "クラウドパソコン上に残る Bot と、iOS 同伴アプリがどう会話するか。" } },
-        { "title": "Connect plugins", "url": "https://cursor.com/help/grok-bot/connect-plugins", "source": "GB-023", "blurb": { "en": "Prefer a plugin; fall back to the cloud browser when the connector is missing.", "zh": "优先插件；没有连接器就退回云浏览器。", "ja": "プラグインを優先し、コネクタがなければクラウドブラウザに戻します。" } },
-        { "title": "Store secrets securely", "url": "https://cursor.com/help/grok-bot/secrets", "source": "GB-024", "blurb": { "en": "Use the secret card. Never paste API keys into the Bot chat.", "zh": "密钥走 secret card，禁止把 Key 贴进聊天。", "ja": "秘密情報は secret card を使い、API キーを Bot のチャットに貼ってはいけません。" } },
-        { "title": "Grok Bot on the App Store", "url": "https://apps.apple.com/us/app/grok-bot/id6794501026", "source": "GB-038", "blurb": { "en": "Official iOS listing for the companion app.", "zh": "官方 iOS 同伴 App 商店页。", "ja": "同伴アプリの公式 iOS ストアページ。" } },
-        { "title": "xAI plugin marketplace", "url": "https://github.com/xai-org/plugin-marketplace", "source": "xai-marketplace", "blurb": { "en": "Official .grok-plugin marketplace Grok Bot inherits under Cursor plugin policy.", "zh": "官方 .grok-plugin 市场；Grok Bot 沿用 Cursor 插件政策。", "ja": "公式の .grok-plugin マーケット。Grok Bot は Cursor のプラグインポリシーを継承します。" } }
+        {
+          "title": "Introducing Grok Bot",
+          "url": "https://x.ai/news/introducing-grok-bot",
+          "source": "GB-002",
+          "blurb": {
+            "en": "Launch note: always-on agents with their own computer, working inside your tools 24/7.",
+            "zh": "首发稿：always-on 智能体自带电脑，在你的工具里 24/7 干活。",
+            "ja": "発表記事：always-on のエージェントが専用パソコンを持ち、あなたのツール内で 24/7 働きます。"
+          }
+        },
+        {
+          "title": "Grok Bot overview",
+          "url": "https://docs.x.ai/grok-bot/overview",
+          "source": "GB-003",
+          "blurb": {
+            "en": "Canonical product page: one named Bot, one shared cloud computer, isolation is per user not per Bot.",
+            "zh": "产品总览：有名字的 Bot、共享一台云电脑；隔离按账号不按 Bot。",
+            "ja": "製品の公式概要：名前付き Bot が 1 台のクラウドパソコンを共有し、分離は Bot 単位ではなくユーザー単位です。"
+          }
+        },
+        {
+          "title": "Get started",
+          "url": "https://docs.x.ai/grok-bot/get-started",
+          "source": "GB-004",
+          "blurb": {
+            "en": "Install desktop, sign in with Cursor, create the first Bot. No official Linux desktop.",
+            "zh": "装桌面端、用 Cursor 登录、建第一个 Bot。官方无 Linux 桌面。",
+            "ja": "デスクトップ版を入れ、Cursor でログインし、最初の Bot を作ります。公式の Linux デスクトップはありません。"
+          }
+        },
+        {
+          "title": "Use cases",
+          "url": "https://docs.x.ai/grok-bot/use-cases",
+          "source": "GB-005",
+          "blurb": {
+            "en": "Official roster ideas: sales CRM nights, ops invoices, engineering bug squash.",
+            "zh": "官方编制示例：销售夜间更 CRM、运营发票入职、工程复现 Bug。",
+            "ja": "公式の編成例：営業の夜間 CRM、運用の請求書処理、エンジニアリングのバグ潰し。"
+          }
+        },
+        {
+          "title": "Grok Bot for iOS",
+          "url": "https://docs.x.ai/grok-bot/mobile",
+          "source": "GB-006",
+          "blurb": {
+            "en": "Companion phone app for messaging Bots that keep running on the cloud machine.",
+            "zh": "iOS 同伴 App：在手机上给仍在云电脑上干活的 Bot 发消息。",
+            "ja": "クラウドパソコン上で動き続ける Bot に、スマホからメッセージを送る同伴アプリです。"
+          }
+        },
+        {
+          "title": "Create and manage Bots",
+          "url": "https://docs.x.ai/grok-bot/bots",
+          "source": "GB-007",
+          "blurb": {
+            "en": "How a Bot is named, scoped, and kept as a standing coworker instead of a chat thread.",
+            "zh": "怎么给 Bot 起名、定工种，把它当常驻同事而不是话题线程。",
+            "ja": "Bot の命名と担当範囲の決め方、チャットスレッドではなく常駐の同僚として置く方法。"
+          }
+        },
+        {
+          "title": "Message and collaborate",
+          "url": "https://docs.x.ai/grok-bot/chat-and-collaboration",
+          "source": "GB-008",
+          "blurb": {
+            "en": "Bots message each other, join group chats, and assign ownership of work.",
+            "zh": "Bot 互发消息、进群聊、互相派活和认领。",
+            "ja": "Bot 同士がメッセージを送り、グループチャットに入り、仕事の担当を割り振ります。"
+          }
+        },
+        {
+          "title": "Files and results",
+          "url": "https://docs.x.ai/grok-bot/files-and-results",
+          "source": "GB-009",
+          "blurb": {
+            "en": "Where artifacts live on the shared computer and how you pull results back.",
+            "zh": "产物落在共享电脑哪里，以及怎么把结果拿回来。",
+            "ja": "成果物が共有パソコンのどこに置かれ、どう手元へ戻すか。"
+          }
+        },
+        {
+          "title": "Use the computer and apps",
+          "url": "https://docs.x.ai/grok-bot/computer-and-apps",
+          "source": "GB-010",
+          "blurb": {
+            "en": "Browser, filesystem, terminal. No clean API? Click the site like a person.",
+            "zh": "浏览器、文件系统、终端。没有干净 API 就用云浏览器点。",
+            "ja": "ブラウザ、ファイルシステム、ターミナル。きれいな API がなければ、人と同じようにサイトをクリックします。"
+          }
+        },
+        {
+          "title": "Skills and routines",
+          "url": "https://docs.x.ai/grok-bot/skills-routines-and-automations",
+          "source": "GB-011",
+          "blurb": {
+            "en": "Teach a task (up to 10 minutes of screen, no mic), save as a reusable routine.",
+            "zh": "Teach a task（最多录 10 分钟屏幕、不录麦），存成可复用 routine。",
+            "ja": "Teach a task（画面最大 10 分、マイクなし）で教え、再利用できる routine として保存します。"
+          }
+        },
+        {
+          "title": "Settings and notifications",
+          "url": "https://docs.x.ai/grok-bot/settings-and-notifications",
+          "source": "GB-012",
+          "blurb": {
+            "en": "Notification grouping, mobile alerts, and how Bots follow up stalled work.",
+            "zh": "通知按 Bot 分组、手机提醒，以及 Bot 怎么跟未完成的活。",
+            "ja": "通知のグループ分け、モバイル通知、止まっている仕事を Bot が追う方法。"
+          }
+        },
+        {
+          "title": "Approvals, security, and privacy",
+          "url": "https://docs.x.ai/grok-bot/approvals-security-and-privacy",
+          "source": "GB-013",
+          "blurb": {
+            "en": "Bots do not see passwords; draw the approval line on irreversible actions and 2FA takeover.",
+            "zh": "Bot 看不见密码；审批线画在不可逆动作和 2FA Take over 上。",
+            "ja": "Bot はパスワードを見ません。承認ラインは不可逆な操作と 2FA の Take over に引きます。"
+          }
+        },
+        {
+          "title": "Teams and enterprises",
+          "url": "https://docs.x.ai/grok-bot/teams-and-enterprises",
+          "source": "GB-014",
+          "blurb": {
+            "en": "Team marketplace, SSO, shared analytics. Plugins follow existing Cursor policy.",
+            "zh": "团队市场、SSO、共享用量。插件策略跟现有 Cursor 政策走。",
+            "ja": "チーム向けマーケット、SSO、共有アナリティクス。プラグインは既存の Cursor ポリシーに従います。"
+          }
+        },
+        {
+          "title": "Troubleshooting",
+          "url": "https://docs.x.ai/grok-bot/troubleshooting",
+          "source": "GB-015",
+          "blurb": {
+            "en": "Official fix list for reconnect, runners, and common beta failures.",
+            "zh": "官方排障：重连、runner 挂掉、常见 beta 故障。",
+            "ja": "再接続、runner、よくある beta 障害向けの公式トラブルシュート一覧。"
+          }
+        },
+        {
+          "title": "FAQ",
+          "url": "https://docs.x.ai/grok-bot/faq",
+          "source": "GB-016",
+          "blurb": {
+            "en": "Short official answers on access, computer sharing, and what Bots can remember.",
+            "zh": "官方短答：资格、共享电脑、Bot 记得什么。",
+            "ja": "利用資格、パソコンの共有、Bot が覚えられることについての公式の短い回答。"
+          }
+        },
+        {
+          "title": "Get access with SuperGrok Heavy",
+          "url": "https://cursor.com/help/grok-bot/supergrok-heavy",
+          "source": "GB-020",
+          "blurb": {
+            "en": "Cursor help: Heavy / Ultra / Teams Premium gates, and Ultra does not stack twice.",
+            "zh": "Cursor 帮助：Heavy / Ultra / Teams Premium 门槛；已在 Ultra 再绑不叠用量。",
+            "ja": "Cursor ヘルプ：Heavy / Ultra / Teams Premium の条件。すでに Ultra でも枠は二重に積み上がりません。"
+          }
+        },
+        {
+          "title": "Grok Bot on mobile (Cursor help)",
+          "url": "https://cursor.com/help/grok-bot/mobile",
+          "source": "GB-021",
+          "blurb": {
+            "en": "How the iOS companion talks to Bots that stay on the cloud computer.",
+            "zh": "iOS 同伴怎么跟仍在云电脑上的 Bot 说话。",
+            "ja": "クラウドパソコン上に残る Bot と、iOS 同伴アプリがどう会話するか。"
+          }
+        },
+        {
+          "title": "Connect plugins",
+          "url": "https://cursor.com/help/grok-bot/connect-plugins",
+          "source": "GB-023",
+          "blurb": {
+            "en": "Prefer a plugin; fall back to the cloud browser when the connector is missing.",
+            "zh": "优先插件；没有连接器就退回云浏览器。",
+            "ja": "プラグインを優先し、コネクタがなければクラウドブラウザに戻します。"
+          }
+        },
+        {
+          "title": "Store secrets securely",
+          "url": "https://cursor.com/help/grok-bot/secrets",
+          "source": "GB-024",
+          "blurb": {
+            "en": "Use the secret card. Never paste API keys into the Bot chat.",
+            "zh": "密钥走 secret card，禁止把 Key 贴进聊天。",
+            "ja": "秘密情報は secret card を使い、API キーを Bot のチャットに貼ってはいけません。"
+          }
+        },
+        {
+          "title": "Grok Bot on the App Store",
+          "url": "https://apps.apple.com/us/app/grok-bot/id6794501026",
+          "source": "GB-038",
+          "blurb": {
+            "en": "Official iOS listing for the companion app.",
+            "zh": "官方 iOS 同伴 App 商店页。",
+            "ja": "同伴アプリの公式 iOS ストアページ。"
+          }
+        },
+        {
+          "title": "xAI plugin marketplace",
+          "url": "https://github.com/xai-org/plugin-marketplace",
+          "source": "xai-marketplace",
+          "blurb": {
+            "en": "Official .grok-plugin marketplace Grok Bot inherits under Cursor plugin policy.",
+            "zh": "官方 .grok-plugin 市场；Grok Bot 沿用 Cursor 插件政策。",
+            "ja": "公式の .grok-plugin マーケット。Grok Bot は Cursor のプラグインポリシーを継承します。"
+          }
+        }
       ]
     },
     {
       "id": "tutorials",
-      "title": { "en": "Tutorials & Guides", "zh": "教程与上手指南", "ja": "チュートリアルとガイド" },
+      "title": {
+        "en": "Tutorials & Guides",
+        "zh": "教程与上手指南",
+        "ja": "チュートリアルとガイド"
+      },
       "items": [
-        { "title": "How to Get Started with Grok Bot", "url": "https://debbie.codes/blog/how-to-get-started-with-grok-bot", "source": "GB-090", "blurb": { "en": "Debbie's field guide: first Bot, CoS prompt, and how she reorganizes the roster.", "zh": "Debbie 上手：第一个 Bot、CoS prompt、怎么重组编制。", "ja": "Debbie の現場ガイド：最初の Bot、CoS プロンプト、編成の組み直し方。" } },
-        { "title": "Grok Bot Masterclass", "url": "https://www.dailydoseofds.com/p/grok-bot-masterclass/", "source": "GB-048", "blurb": { "en": "Avi / Daily Dose: record once, turn it into a skill, hang it on a routine.", "zh": "Avi / Daily Dose：录一遍变 skill，再挂 routine，笔记本合上仍跑。", "ja": "Avi / Daily Dose：一度録画して skill にし、routine に載せます。" } },
-        { "title": "How to Set Up Grok Bot and Build Your First AI Agents", "url": "https://www.mindstudio.ai/blog/grok-bot-setup-guide", "source": "GB-047", "blurb": { "en": "Install-to-first-agent walkthrough with the Heavy / Ultra / Teams gates called out.", "zh": "从安装到第一个 Agent，并写清 Heavy / Ultra / Teams 门槛。", "ja": "インストールから最初の Agent までを通し、Heavy / Ultra / Teams の条件も明記しています。" } },
-        { "title": "Grok Bot Explained", "url": "https://www.ayautomate.com/blog/grok-bot-xai-ai-agents-explained", "source": "GB-040", "blurb": { "en": "Clear explainer with a real iPhone screenshot of a Bot roster.", "zh": "讲清楚产品是什么，并带真实 iPhone 编制截图。", "ja": "製品を分かりやすく説明し、実際の iPhone の Bot 編成スクリーンショット付き。" } },
-        { "title": "Hand Off Real Work Across Your Apps", "url": "https://app.therundown.ai/guides/hand-off-real-work-across-your-apps-with-grok-bot", "source": "GB-049", "blurb": { "en": "The Rundown's how-to for handing multi-app jobs to a Bot.", "zh": "The Rundown：怎么把跨应用的活交给 Bot。", "ja": "The Rundown：複数アプリにまたがる仕事を Bot へ渡す手順。" } },
-        { "title": "Connect Multiple Slack Workspaces", "url": "https://www.usecarly.com/blog/how-to-connect-multiple-slack-workspaces-to-grok-bot/", "source": "GB-088", "blurb": { "en": "Slack event wake-up is not the same as installing Grok Bot as a Slack App.", "zh": "Slack 事件唤醒 routine ≠ 把 Grok Bot 装成 Slack App。", "ja": "Slack イベントで routine を起こすことと、Grok Bot を Slack App として入れることは別です。" } },
-        { "title": "Peter Yang: 5 Must-Try Use Cases", "url": "https://www.youtube.com/watch?v=MkVcHbviYOw", "source": "GB-050", "blurb": { "en": "Advisor, YouTube researcher, X scout, Gmail declutter, travel concierge.", "zh": "顾问、YouTube 研究员、X scout、Gmail 断舍离、旅行管家。", "ja": "顧問、YouTube リサーチャー、X scout、Gmail 断捨離、旅行コンシェルジュ。" } },
-        { "title": "Alex Finn: setup that actually sticks", "url": "https://www.youtube.com/watch?v=vrgO4D_mUlA", "source": "GB-202", "blurb": { "en": "Long-form setup from someone already living on Cursor Cloud Agents.", "zh": "已经在用 Cursor Cloud Agent 的人讲怎么把 Grok Bot 装稳。", "ja": "すでに Cursor Cloud Agents で暮らしている人による、定着するセットアップの長編。" } },
-        { "title": "Nate Herk: Grok Bot is For Real", "url": "https://www.youtube.com/watch?v=PQBYZQqan2g", "source": "GB-204", "blurb": { "en": "Install-first agent pitch plus what the $200 seat actually buys.", "zh": "「装上就能用」的实测，以及 200 美元座位到底买到什么。", "ja": "「入れてすぐ使える」実演と、200 ドルの席で実際に得られるもの。" } },
-        { "title": "Teach a task by screen recording", "url": "https://x.com/_avichawla/status/2089817006065496530", "source": "GB-167", "blurb": { "en": "Official-adjacent tip: show the workflow once, Bot writes the skill.", "zh": "官方周边提示：演示一遍，Bot 自己写成 skill。", "ja": "公式周辺のヒント：作業を一度見せると、Bot が skill を書きます。" } },
-        { "title": "Use the remote computer from your phone", "url": "https://x.com/bot/status/2089802847223468116", "source": "GB-080", "blurb": { "en": "@bot QoL: drive the cloud machine from iOS without opening the laptop.", "zh": "@bot 体验更新：不用开笔记本，手机也能用云电脑。", "ja": "@bot の体験改善：ノート PC を開かず、iOS からクラウドマシンを操作できます。" } },
-        { "title": "Uncle-Gizmo notes", "url": "https://github.com/Uncle-Gizmo/grok-bot-info", "source": "GB-192", "blurb": { "en": "Public notes on safe example workflows and how Bot sits next to Grok Build.", "zh": "公开笔记：安全示例工作流，以及它和 Grok Build 怎么并存。", "ja": "安全な例のワークフローと、Bot が Grok Build とどう並ぶかの公開ノート。" } }
+        {
+          "title": "How to Get Started with Grok Bot",
+          "url": "https://debbie.codes/blog/how-to-get-started-with-grok-bot",
+          "source": "GB-090",
+          "blurb": {
+            "en": "Debbie's field guide: first Bot, CoS prompt, and how she reorganizes the roster.",
+            "zh": "Debbie 上手：第一个 Bot、CoS prompt、怎么重组编制。",
+            "ja": "Debbie の現場ガイド：最初の Bot、CoS プロンプト、編成の組み直し方。"
+          }
+        },
+        {
+          "title": "Grok Bot Masterclass",
+          "url": "https://www.dailydoseofds.com/p/grok-bot-masterclass/",
+          "source": "GB-048",
+          "blurb": {
+            "en": "Avi / Daily Dose: record once, turn it into a skill, hang it on a routine.",
+            "zh": "Avi / Daily Dose：录一遍变 skill，再挂 routine，笔记本合上仍跑。",
+            "ja": "Avi / Daily Dose：一度録画して skill にし、routine に載せます。"
+          }
+        },
+        {
+          "title": "How to Set Up Grok Bot and Build Your First AI Agents",
+          "url": "https://www.mindstudio.ai/blog/grok-bot-setup-guide",
+          "source": "GB-047",
+          "blurb": {
+            "en": "Install-to-first-agent walkthrough with the Heavy / Ultra / Teams gates called out.",
+            "zh": "从安装到第一个 Agent，并写清 Heavy / Ultra / Teams 门槛。",
+            "ja": "インストールから最初の Agent までを通し、Heavy / Ultra / Teams の条件も明記しています。"
+          }
+        },
+        {
+          "title": "Grok Bot Explained",
+          "url": "https://www.ayautomate.com/blog/grok-bot-xai-ai-agents-explained",
+          "source": "GB-040",
+          "blurb": {
+            "en": "Clear explainer with a real iPhone screenshot of a Bot roster.",
+            "zh": "讲清楚产品是什么，并带真实 iPhone 编制截图。",
+            "ja": "製品を分かりやすく説明し、実際の iPhone の Bot 編成スクリーンショット付き。"
+          }
+        },
+        {
+          "title": "Hand Off Real Work Across Your Apps",
+          "url": "https://app.therundown.ai/guides/hand-off-real-work-across-your-apps-with-grok-bot",
+          "source": "GB-049",
+          "blurb": {
+            "en": "The Rundown's how-to for handing multi-app jobs to a Bot.",
+            "zh": "The Rundown：怎么把跨应用的活交给 Bot。",
+            "ja": "The Rundown：複数アプリにまたがる仕事を Bot へ渡す手順。"
+          }
+        },
+        {
+          "title": "Connect Multiple Slack Workspaces",
+          "url": "https://www.usecarly.com/blog/how-to-connect-multiple-slack-workspaces-to-grok-bot/",
+          "source": "GB-088",
+          "blurb": {
+            "en": "Slack event wake-up is not the same as installing Grok Bot as a Slack App.",
+            "zh": "Slack 事件唤醒 routine ≠ 把 Grok Bot 装成 Slack App。",
+            "ja": "Slack イベントで routine を起こすことと、Grok Bot を Slack App として入れることは別です。"
+          }
+        },
+        {
+          "title": "Peter Yang: 5 Must-Try Use Cases",
+          "url": "https://www.youtube.com/watch?v=MkVcHbviYOw",
+          "source": "GB-050",
+          "blurb": {
+            "en": "Advisor, YouTube researcher, X scout, Gmail declutter, travel concierge.",
+            "zh": "顾问、YouTube 研究员、X scout、Gmail 断舍离、旅行管家。",
+            "ja": "顧問、YouTube リサーチャー、X scout、Gmail 断捨離、旅行コンシェルジュ。"
+          }
+        },
+        {
+          "title": "Alex Finn: setup that actually sticks",
+          "url": "https://www.youtube.com/watch?v=vrgO4D_mUlA",
+          "source": "GB-202",
+          "blurb": {
+            "en": "Long-form setup from someone already living on Cursor Cloud Agents.",
+            "zh": "已经在用 Cursor Cloud Agent 的人讲怎么把 Grok Bot 装稳。",
+            "ja": "すでに Cursor Cloud Agents で暮らしている人による、定着するセットアップの長編。"
+          }
+        },
+        {
+          "title": "Nate Herk: Grok Bot is For Real",
+          "url": "https://www.youtube.com/watch?v=PQBYZQqan2g",
+          "source": "GB-204",
+          "blurb": {
+            "en": "Install-first agent pitch plus what the $200 seat actually buys.",
+            "zh": "「装上就能用」的实测，以及 200 美元座位到底买到什么。",
+            "ja": "「入れてすぐ使える」実演と、200 ドルの席で実際に得られるもの。"
+          }
+        },
+        {
+          "title": "Teach a task by screen recording",
+          "url": "https://x.com/_avichawla/status/2089817006065496530",
+          "source": "GB-167",
+          "blurb": {
+            "en": "Official-adjacent tip: show the workflow once, Bot writes the skill.",
+            "zh": "官方周边提示：演示一遍，Bot 自己写成 skill。",
+            "ja": "公式周辺のヒント：作業を一度見せると、Bot が skill を書きます。"
+          }
+        },
+        {
+          "title": "Use the remote computer from your phone",
+          "url": "https://x.com/bot/status/2089802847223468116",
+          "source": "GB-080",
+          "blurb": {
+            "en": "@bot QoL: drive the cloud machine from iOS without opening the laptop.",
+            "zh": "@bot 体验更新：不用开笔记本，手机也能用云电脑。",
+            "ja": "@bot の体験改善：ノート PC を開かず、iOS からクラウドマシンを操作できます。"
+          }
+        },
+        {
+          "title": "Uncle-Gizmo notes",
+          "url": "https://github.com/Uncle-Gizmo/grok-bot-info",
+          "source": "GB-192",
+          "blurb": {
+            "en": "Public notes on safe example workflows and how Bot sits next to Grok Build.",
+            "zh": "公开笔记：安全示例工作流，以及它和 Grok Build 怎么并存。",
+            "ja": "安全な例のワークフローと、Bot が Grok Build とどう並ぶかの公開ノート。"
+          }
+        }
       ]
     },
     {
       "id": "cases",
-      "title": { "en": "Field Cases", "zh": "真实使用案例", "ja": "実地事例" },
+      "title": {
+        "en": "Field Cases",
+        "zh": "真实使用案例",
+        "ja": "実地事例"
+      },
       "items": [
-        { "title": "n2parko: CoS + EM + five eng ICs + Databricks + PM", "url": "https://x.com/n2parko/status/2087251704744235298", "source": "GB-277", "blurb": { "en": "SpaceXAI product roster with real agent-to-agent PR handoff screenshots.", "zh": "SpaceXAI 产品编制，带 Bot 互相当值守、交接 PR 的截图。", "ja": "SpaceXAI の製品編成。エージェント同士の PR 引き継ぎの実スクリーンショット付き。" } },
-        { "title": "Lee Robinson: four technical bets", "url": "https://x.com/leerob/status/2089169319099777364", "source": "GB-279", "blurb": { "en": "No UI, thin client / thick server, always-on computer, browser as a first-class tool.", "zh": "没有 UI、瘦客户端厚服务端、常驻电脑、浏览器是一等工具。", "ja": "UI なし、薄いクライアントと厚いサーバー、常時稼働パソコン、ブラウザは第一級の道具。" } },
-        { "title": "Debbie: book my flights", "url": "https://debbie.codes/blog/i-tested-if-grok-bot-could-book-my-flights", "source": "GB-092", "blurb": { "en": "Honest near-miss: the Bot can drive the airline site, the last click still needs you.", "zh": "诚实的差一点：Bot 能点航司网站，最后一下仍要人。", "ja": "正直な惜しい結果：Bot は航空会社サイトを操作できるが、最後のクリックはまだ人が要る。" } },
-        { "title": "Debbie: buy gluten-free beer on a Sunday night", "url": "https://debbie.codes/blog/i-sent-grok-bot-to-buy-my-gluten-free-beer", "source": "GB-093", "blurb": { "en": "CoS shopping run — the fun case that shows computer-use, not chat.", "zh": "让 CoS 周日夜去买无麸质啤酒：这是电脑操作，不是聊天。", "ja": "CoS に日曜夜のグルテンフリービールの買い物を任せる事例。チャットではなくパソコン操作だと分かる。" } },
-        { "title": "Yun-Ta: calendar + reservations while walking", "url": "https://x.com/yunta_tsai/status/2087415205756391461", "source": "GB-291", "blurb": { "en": "Mixed Chinese/English voice, Bot scans calendars and books a table.", "zh": "走路时中英夹杂口述，Bot 扫日历并去网站订位。", "ja": "歩きながら中英混じりの音声で頼むと、Bot がカレンダーを見て席を予約します。" } },
-        { "title": "Gota: twelve jobs on one roster", "url": "https://x.com/gota_bara/status/2087666940450152841", "source": "GB-301", "blurb": { "en": "Image factory, research briefs, 3D, travel debate, cancel subscriptions, local LLM on the VM.", "zh": "出图、调研周报、3D、旅行讨论、退订、在云 VM 里跑本地 LLM。", "ja": "画像工場、調査ブリーフ、3D、旅行の議論、解約、クラウド VM 上のローカル LLM。" } },
-        { "title": "Box: credit-committee pack", "url": "https://x.com/Box/status/2087275866950938662", "source": "GB-172", "blurb": { "en": "Reconcile materials, write the pack back into Box via MCP.", "zh": "对账委员会材料，再通过 MCP 写回 Box。", "ja": "与信委員会向け資料を突き合わせ、MCP 経由で Box に書き戻します。" } },
-        { "title": "WordPress updates taught once", "url": "https://x.com/mrfundman/status/2089760255890571404", "source": "GB-173", "blurb": { "en": "Teach-a-task on a real CMS instead of writing a deploy script.", "zh": "在真实 CMS 上 Teach a task，而不是先写部署脚本。", "ja": "デプロイスクリプトを書く前に、本物の CMS で Teach a task します。" } },
-        { "title": "Arduino updates from a Bot", "url": "https://x.com/KettlebellDan/status/2089920364419874937", "source": "GB-176", "blurb": { "en": "Bot pushes hardware updates so the human can stay off X.", "zh": "Bot 把更新推到硬件上，人少刷 X。", "ja": "Bot がハードウェアへ更新を送り、人が X を見なくて済むようにします。" } },
-        { "title": "Nate: twelve Bots in eight hours", "url": "https://natesnewsletter.substack.com/p/grok-bot-review", "source": "GB-083", "blurb": { "en": "Is the $200 agent team worth it — with a real first-day roster.", "zh": "200 美元的 Agent 小队值不值：第一天就组了 12 个 Bot。", "ja": "200 ドルの Agent チームは元が取れるか。初日の実際の編成付き。" } },
-        { "title": "24/7 support agent in 19 minutes", "url": "https://www.youtube.com/watch?v=bUALqTpUze0", "source": "GB-055", "blurb": { "en": "Customer-support Bot built on a routine, not a helpdesk rewrite.", "zh": "用 routine 搭 24/7 客服，而不是重写工单系统。", "ja": "ヘルプデスクを作り直すのではなく、routine で 24/7 サポート Bot を組む。" } },
-        { "title": "Farzad roster: Webby / Shotry / Writey", "url": "https://x.com/farzyness/status/2087340859138224540", "source": "GB-289", "blurb": { "en": "Named specialists plus an orchestrator — the pattern that keeps showing up.", "zh": "给专科 Bot 起名，再加一个编排者：反复出现的编制。", "ja": "名前付きの専門 Bot にオーケストレーターを足す、繰り返し現れるパターン。" } },
-        { "title": "Sid: Polymarket daily settlement brief", "url": "https://x.com/sidshekhar24/status/2089735218861326727", "source": "GB-298", "blurb": { "en": "Bot scans the day's settled markets and writes the report.", "zh": "Bot 扫当天结算盘并出报告。", "ja": "Bot がその日の決済済みマーケットを見てレポートを書きます。" } },
-        { "title": "Logan: the unlock is the computer, not 4.6", "url": "https://x.com/LoganJastremski/status/2089903051557491092", "source": "GB-165", "blurb": { "en": "No API, no MCP, no hosted browser — the Bot just uses software like a person.", "zh": "不靠 API / MCP / 托管浏览器，Bot 像人一样用软件。", "ja": "API も MCP もホスト型ブラウザも使わず、Bot は人と同じようにソフトを使います。" } },
-        { "title": "Japanese note group: cloud-computer field notes", "url": "https://note.com/azumimusuhi/n/n0485219790bb", "source": "GB-238", "blurb": { "en": "Hands-on JP writeup of living on the shared VM for a week.", "zh": "日文实测：在共享云电脑上过一周是什么感觉。", "ja": "共有クラウドパソコンで 1 週間暮らした日本語の実地メモ。" } }
+        {
+          "title": "n2parko: CoS + EM + five eng ICs + Databricks + PM",
+          "url": "https://x.com/n2parko/status/2087251704744235298",
+          "source": "GB-277",
+          "blurb": {
+            "en": "SpaceXAI product roster with real agent-to-agent PR handoff screenshots.",
+            "zh": "SpaceXAI 产品编制，带 Bot 互相当值守、交接 PR 的截图。",
+            "ja": "SpaceXAI の製品編成。エージェント同士の PR 引き継ぎの実スクリーンショット付き。"
+          }
+        },
+        {
+          "title": "Lee Robinson: four technical bets",
+          "url": "https://x.com/leerob/status/2089169319099777364",
+          "source": "GB-279",
+          "blurb": {
+            "en": "No UI, thin client / thick server, always-on computer, browser as a first-class tool.",
+            "zh": "没有 UI、瘦客户端厚服务端、常驻电脑、浏览器是一等工具。",
+            "ja": "UI なし、薄いクライアントと厚いサーバー、常時稼働パソコン、ブラウザは第一級の道具。"
+          }
+        },
+        {
+          "title": "Debbie: book my flights",
+          "url": "https://debbie.codes/blog/i-tested-if-grok-bot-could-book-my-flights",
+          "source": "GB-092",
+          "blurb": {
+            "en": "Honest near-miss: the Bot can drive the airline site, the last click still needs you.",
+            "zh": "诚实的差一点：Bot 能点航司网站，最后一下仍要人。",
+            "ja": "正直な惜しい結果：Bot は航空会社サイトを操作できるが、最後のクリックはまだ人が要る。"
+          }
+        },
+        {
+          "title": "Debbie: buy gluten-free beer on a Sunday night",
+          "url": "https://debbie.codes/blog/i-sent-grok-bot-to-buy-my-gluten-free-beer",
+          "source": "GB-093",
+          "blurb": {
+            "en": "CoS shopping run — the fun case that shows computer-use, not chat.",
+            "zh": "让 CoS 周日夜去买无麸质啤酒：这是电脑操作，不是聊天。",
+            "ja": "CoS に日曜夜のグルテンフリービールの買い物を任せる事例。チャットではなくパソコン操作だと分かる。"
+          }
+        },
+        {
+          "title": "Yun-Ta: calendar + reservations while walking",
+          "url": "https://x.com/yunta_tsai/status/2087415205756391461",
+          "source": "GB-291",
+          "blurb": {
+            "en": "Mixed Chinese/English voice, Bot scans calendars and books a table.",
+            "zh": "走路时中英夹杂口述，Bot 扫日历并去网站订位。",
+            "ja": "歩きながら中英混じりの音声で頼むと、Bot がカレンダーを見て席を予約します。"
+          }
+        },
+        {
+          "title": "Gota: twelve jobs on one roster",
+          "url": "https://x.com/gota_bara/status/2087666940450152841",
+          "source": "GB-301",
+          "blurb": {
+            "en": "Image factory, research briefs, 3D, travel debate, cancel subscriptions, local LLM on the VM.",
+            "zh": "出图、调研周报、3D、旅行讨论、退订、在云 VM 里跑本地 LLM。",
+            "ja": "画像工場、調査ブリーフ、3D、旅行の議論、解約、クラウド VM 上のローカル LLM。"
+          }
+        },
+        {
+          "title": "Box: credit-committee pack",
+          "url": "https://x.com/Box/status/2087275866950938662",
+          "source": "GB-172",
+          "blurb": {
+            "en": "Reconcile materials, write the pack back into Box via MCP.",
+            "zh": "对账委员会材料，再通过 MCP 写回 Box。",
+            "ja": "与信委員会向け資料を突き合わせ、MCP 経由で Box に書き戻します。"
+          }
+        },
+        {
+          "title": "WordPress updates taught once",
+          "url": "https://x.com/mrfundman/status/2089760255890571404",
+          "source": "GB-173",
+          "blurb": {
+            "en": "Teach-a-task on a real CMS instead of writing a deploy script.",
+            "zh": "在真实 CMS 上 Teach a task，而不是先写部署脚本。",
+            "ja": "デプロイスクリプトを書く前に、本物の CMS で Teach a task します。"
+          }
+        },
+        {
+          "title": "Arduino updates from a Bot",
+          "url": "https://x.com/KettlebellDan/status/2089920364419874937",
+          "source": "GB-176",
+          "blurb": {
+            "en": "Bot pushes hardware updates so the human can stay off X.",
+            "zh": "Bot 把更新推到硬件上，人少刷 X。",
+            "ja": "Bot がハードウェアへ更新を送り、人が X を見なくて済むようにします。"
+          }
+        },
+        {
+          "title": "Nate: twelve Bots in eight hours",
+          "url": "https://natesnewsletter.substack.com/p/grok-bot-review",
+          "source": "GB-083",
+          "blurb": {
+            "en": "Is the $200 agent team worth it — with a real first-day roster.",
+            "zh": "200 美元的 Agent 小队值不值：第一天就组了 12 个 Bot。",
+            "ja": "200 ドルの Agent チームは元が取れるか。初日の実際の編成付き。"
+          }
+        },
+        {
+          "title": "24/7 support agent in 19 minutes",
+          "url": "https://www.youtube.com/watch?v=bUALqTpUze0",
+          "source": "GB-055",
+          "blurb": {
+            "en": "Customer-support Bot built on a routine, not a helpdesk rewrite.",
+            "zh": "用 routine 搭 24/7 客服，而不是重写工单系统。",
+            "ja": "ヘルプデスクを作り直すのではなく、routine で 24/7 サポート Bot を組む。"
+          }
+        },
+        {
+          "title": "Farzad roster: Webby / Shotry / Writey",
+          "url": "https://x.com/farzyness/status/2087340859138224540",
+          "source": "GB-289",
+          "blurb": {
+            "en": "Named specialists plus an orchestrator — the pattern that keeps showing up.",
+            "zh": "给专科 Bot 起名，再加一个编排者：反复出现的编制。",
+            "ja": "名前付きの専門 Bot にオーケストレーターを足す、繰り返し現れるパターン。"
+          }
+        },
+        {
+          "title": "Sid: Polymarket daily settlement brief",
+          "url": "https://x.com/sidshekhar24/status/2089735218861326727",
+          "source": "GB-298",
+          "blurb": {
+            "en": "Bot scans the day's settled markets and writes the report.",
+            "zh": "Bot 扫当天结算盘并出报告。",
+            "ja": "Bot がその日の決済済みマーケットを見てレポートを書きます。"
+          }
+        },
+        {
+          "title": "Logan: the unlock is the computer, not 4.6",
+          "url": "https://x.com/LoganJastremski/status/2089903051557491092",
+          "source": "GB-165",
+          "blurb": {
+            "en": "No API, no MCP, no hosted browser — the Bot just uses software like a person.",
+            "zh": "不靠 API / MCP / 托管浏览器，Bot 像人一样用软件。",
+            "ja": "API も MCP もホスト型ブラウザも使わず、Bot は人と同じようにソフトを使います。"
+          }
+        },
+        {
+          "title": "Japanese note group: cloud-computer field notes",
+          "url": "https://note.com/azumimusuhi/n/n0485219790bb",
+          "source": "GB-238",
+          "blurb": {
+            "en": "Hands-on JP writeup of living on the shared VM for a week.",
+            "zh": "日文实测：在共享云电脑上过一周是什么感觉。",
+            "ja": "共有クラウドパソコンで 1 週間暮らした日本語の実地メモ。"
+          }
+        }
       ]
     },
     {
       "id": "skills",
-      "title": { "en": "Skills, Plugins & MCP", "zh": "技能、插件与 MCP", "ja": "スキル、プラグインと MCP" },
+      "title": {
+        "en": "Skills, Plugins & MCP",
+        "zh": "技能、插件与 MCP",
+        "ja": "スキル、プラグインと MCP"
+      },
       "items": [
-        { "title": "grokbot-imessage-skill", "url": "https://github.com/jeffhuber/grokbot-imessage-skill", "source": "GB-183", "blurb": { "en": "Read, triage, and send iMessage from the Bot via a local macOS helper.", "zh": "通过本机 macOS helper 让 Bot 读、分拣、发 iMessage。", "ja": "ローカルの macOS helper 経由で、Bot が iMessage を読み、仕分け、送ります。" } },
-        { "title": "Grok Bot Discord gateway", "url": "https://github.com/davefmurray/grok-bot-discord", "source": "GB-191", "blurb": { "en": "Bridge so a Bot can live in Discord without pretending to be a Slack App.", "zh": "Discord 网关：让 Bot 住在 Discord，而不是假装 Slack App。", "ja": "Slack App のふりをせず、Bot を Discord に住ませるブリッジ。" } },
-        { "title": "Werewolf gamemaster skill", "url": "https://github.com/Heyvhuang/werewolf-gamemaster", "source": "GB-189", "blurb": { "en": "A real skill pack: the Bot runs a Werewolf table, not a hello-world SKILL.md.", "zh": "真技能包：Bot 当狼人杀主持人，不是 hello-world SKILL.md。", "ja": "本物のスキルパック：hello-world の SKILL.md ではなく、Bot が人狼の進行役をします。" } },
-        { "title": "Hyperliquid 7-agent trading desk", "url": "https://github.com/galleonlabs/hypergrok-trading-desk", "source": "GB-184", "blurb": { "en": "Seven specialized Bots on one desk — treat as experimental, read the code first.", "zh": "七个专科 Bot 组成交易台。实验性质，先读代码再授权。", "ja": "7 体の専門 Bot で構成する取引デスク。実験的なので、権限を渡す前にコードを読んでください。" } },
-        { "title": "awesome-grok-bot-plugins", "url": "https://github.com/rdmgator12/awesome-grok-bot-plugins", "source": "GB-186", "blurb": { "en": "219 in-app marketplace listings captured 2026-08-12, grouped by category.", "zh": "2026-08-12 抓到的 219 个应用内插件目录，按分类整理。", "ja": "2026-08-12 に取得したアプリ内マーケット 219 件を、カテゴリ別に整理。" } },
-        { "title": "superpowers (marketplace)", "url": "https://github.com/obra/superpowers", "source": "marketplace", "blurb": { "en": "Largest general skill collection in the official marketplace: plan, debug, write.", "zh": "官方市场里最大的通用技能集：先计划、用证据调试、写能过审的东西。", "ja": "公式マーケット最大の汎用スキル集：計画、根拠あるデバッグ、通る文章を書く。" } },
-        { "title": "chrome-devtools MCP", "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp", "source": "marketplace", "blurb": { "en": "Drive a live Chrome: traces, network, source-mapped console errors.", "zh": "驱动真实 Chrome：性能轨迹、网络、带 sourcemap 的控制台错误。", "ja": "実機 Chrome を操作：トレース、ネットワーク、sourcemap 付きのコンソールエラー。" } },
-        { "title": "Vercel plugin", "url": "https://github.com/vercel/vercel-plugin", "source": "marketplace", "blurb": { "en": "Deployments, logs, domains. Pair with the forum thread on OAuth redirect failures.", "zh": "部署、日志、域名。请对照论坛里 OAuth 回调失败的帖。", "ja": "デプロイ、ログ、ドメイン。OAuth リダイレクト失敗のフォーラム投稿と合わせて読む。" } }
+        {
+          "title": "grokbot-imessage-skill",
+          "url": "https://github.com/jeffhuber/grokbot-imessage-skill",
+          "source": "GB-183",
+          "blurb": {
+            "en": "Read, triage, and send iMessage from the Bot via a local macOS helper.",
+            "zh": "通过本机 macOS helper 让 Bot 读、分拣、发 iMessage。",
+            "ja": "ローカルの macOS helper 経由で、Bot が iMessage を読み、仕分け、送ります。"
+          }
+        },
+        {
+          "title": "Grok Bot Discord gateway",
+          "url": "https://github.com/davefmurray/grok-bot-discord",
+          "source": "GB-191",
+          "blurb": {
+            "en": "Bridge so a Bot can live in Discord without pretending to be a Slack App.",
+            "zh": "Discord 网关：让 Bot 住在 Discord，而不是假装 Slack App。",
+            "ja": "Slack App のふりをせず、Bot を Discord に住ませるブリッジ。"
+          }
+        },
+        {
+          "title": "Werewolf gamemaster skill",
+          "url": "https://github.com/Heyvhuang/werewolf-gamemaster",
+          "source": "GB-189",
+          "blurb": {
+            "en": "A real skill pack: the Bot runs a Werewolf table, not a hello-world SKILL.md.",
+            "zh": "真技能包：Bot 当狼人杀主持人，不是 hello-world SKILL.md。",
+            "ja": "本物のスキルパック：hello-world の SKILL.md ではなく、Bot が人狼の進行役をします。"
+          }
+        },
+        {
+          "title": "Hyperliquid 7-agent trading desk",
+          "url": "https://github.com/galleonlabs/hypergrok-trading-desk",
+          "source": "GB-184",
+          "blurb": {
+            "en": "Seven specialized Bots on one desk — treat as experimental, read the code first.",
+            "zh": "七个专科 Bot 组成交易台。实验性质，先读代码再授权。",
+            "ja": "7 体の専門 Bot で構成する取引デスク。実験的なので、権限を渡す前にコードを読んでください。"
+          }
+        },
+        {
+          "title": "awesome-grok-bot-plugins",
+          "url": "https://github.com/rdmgator12/awesome-grok-bot-plugins",
+          "source": "GB-186",
+          "blurb": {
+            "en": "219 in-app marketplace listings captured 2026-08-12, grouped by category.",
+            "zh": "2026-08-12 抓到的 219 个应用内插件目录，按分类整理。",
+            "ja": "2026-08-12 に取得したアプリ内マーケット 219 件を、カテゴリ別に整理。"
+          }
+        },
+        {
+          "title": "superpowers (marketplace)",
+          "url": "https://github.com/obra/superpowers",
+          "source": "marketplace",
+          "blurb": {
+            "en": "Largest general skill collection in the official marketplace: plan, debug, write.",
+            "zh": "官方市场里最大的通用技能集：先计划、用证据调试、写能过审的东西。",
+            "ja": "公式マーケット最大の汎用スキル集：計画、根拠あるデバッグ、通る文章を書く。"
+          }
+        },
+        {
+          "title": "chrome-devtools MCP",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "marketplace",
+          "blurb": {
+            "en": "Drive a live Chrome: traces, network, source-mapped console errors.",
+            "zh": "驱动真实 Chrome：性能轨迹、网络、带 sourcemap 的控制台错误。",
+            "ja": "実機 Chrome を操作：トレース、ネットワーク、sourcemap 付きのコンソールエラー。"
+          }
+        },
+        {
+          "title": "Vercel plugin",
+          "url": "https://github.com/vercel/vercel-plugin",
+          "source": "marketplace",
+          "blurb": {
+            "en": "Deployments, logs, domains. Pair with the forum thread on OAuth redirect failures.",
+            "zh": "部署、日志、域名。请对照论坛里 OAuth 回调失败的帖。",
+            "ja": "デプロイ、ログ、ドメイン。OAuth リダイレクト失敗のフォーラム投稿と合わせて読む。"
+          }
+        }
       ]
     },
     {
       "id": "reviews",
-      "title": { "en": "Reviews & Comparisons", "zh": "评测与对比", "ja": "レビューと比較" },
+      "title": {
+        "en": "Reviews & Comparisons",
+        "zh": "评测与对比",
+        "ja": "レビューと比較"
+      },
       "items": [
-        { "title": "The Verge: an AI teammate you can assign work", "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch", "source": "GB-039", "blurb": { "en": "Launch coverage that keeps the product distinct from grok.com chat.", "zh": "首发报道，没有把它和 grok.com 聊天混为一谈。", "ja": "grok.com のチャットと混ぜずに製品を切り分けた発表報道。" } },
-        { "title": "VentureBeat: persistent digital coworkers", "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month", "source": "GB-096", "blurb": { "en": "Pricing and persistence: $120/seat Teams path, computer stays on.", "zh": "定价与常驻：Teams 约 120 美元/座，电脑不关。", "ja": "価格と常駐：Teams は約 120 ドル/席、パソコンは起動したまま。" } },
-        { "title": "Lenny's Newsletter: Grok Bot, Grok 4.6, and Cursor", "url": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor", "source": "GB-257", "blurb": { "en": "Separates the Bot product from the 4.6 model — do not collapse the two.", "zh": "把 Bot 产品和 4.6 模型拆开讲，不要混成一篇。", "ja": "Bot 製品と 4.6 モデルを分けて書いており、二つを一つにまとめてはいけない。" } },
-        { "title": "Grok Bot vs OpenClaw", "url": "https://myclaw.ai/blog/grok-bot-vs-openclaw", "source": "GB-084", "blurb": { "en": "Managed cloud computer vs self-hosted, bring-your-own-model.", "zh": "托管云电脑 vs 自托管、自带模型。", "ja": "マネージドのクラウドパソコン vs 自前ホスト・自前モデル。" } },
-        { "title": "Grok Bot vs OpenClaw vs ChatGPT", "url": "https://www.mindstudio.ai/blog/grok-bot-vs-openclaw-chatgpt", "source": "GB-085", "blurb": { "en": "Three-way: always-on VM, self-host, and chat-with-tools.", "zh": "三方对比：常驻 VM、自托管、带工具的聊天。", "ja": "三者比較：常時稼働 VM、自前ホスト、ツール付きチャット。" } },
-        { "title": "Grok Bot vs ChatGPT for work", "url": "https://www.eigent.ai/blog/grok-bot-vs-chatgpt-work", "source": "GB-245", "blurb": { "en": "Computer-use coworker vs a chat that sometimes calls tools.", "zh": "会用电脑的同事 vs 偶尔调工具的聊天。", "ja": "パソコンを使う同僚 vs ときどきツールを呼ぶチャット。" } },
-        { "title": "Grok Bot vs Claude Cowork", "url": "https://www.eigent.ai/blog/grok-bot-vs-claude-cowork", "source": "GB-246", "blurb": { "en": "Persistent shared VM vs session-scoped cowork.", "zh": "持久共享 VM vs 按会话的 cowork。", "ja": "永続する共有 VM vs セッション単位の cowork。" } },
-        { "title": "YouTube: Grok Bot vs OpenClaw and Hermes", "url": "https://www.youtube.com/watch?v=sAoTrUijP4g", "source": "GB-105", "blurb": { "en": "Video bake-off of the three agent stacks people actually compare.", "zh": "视频横评：大家真正拿来比的三套 Agent。", "ja": "実際によく比較される 3 つの Agent スタックの動画横断レビュー。" } },
-        { "title": "10 Best Grok Bot Alternatives (2026)", "url": "https://www.vellum.ai/blog/best-grok-bot-alternatives", "source": "GB-044", "blurb": { "en": "Landscape of substitutes if you do not want the Heavy/Ultra seat.", "zh": "不想买 Heavy/Ultra 座位时的替代盘点。", "ja": "Heavy/Ultra の席を買いたくないときの代替の見取り図。" } },
-        { "title": "Before You Hire a $200 Grok Bot", "url": "https://zchmael.substack.com/p/before-you-hire-a-200-grok-bot-ai", "source": "GB-101", "blurb": { "en": "Skeptical checklist: what the seat does not buy you.", "zh": "怀疑派清单：这个座位买不到什么。", "ja": "懐疑派チェックリスト：この席では買えないもの。" } }
+        {
+          "title": "The Verge: an AI teammate you can assign work",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+          "source": "GB-039",
+          "blurb": {
+            "en": "Launch coverage that keeps the product distinct from grok.com chat.",
+            "zh": "首发报道，没有把它和 grok.com 聊天混为一谈。",
+            "ja": "grok.com のチャットと混ぜずに製品を切り分けた発表報道。"
+          }
+        },
+        {
+          "title": "VentureBeat: persistent digital coworkers",
+          "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
+          "source": "GB-096",
+          "blurb": {
+            "en": "Pricing and persistence: $120/seat Teams path, computer stays on.",
+            "zh": "定价与常驻：Teams 约 120 美元/座，电脑不关。",
+            "ja": "価格と常駐：Teams は約 120 ドル/席、パソコンは起動したまま。"
+          }
+        },
+        {
+          "title": "Lenny's Newsletter: Grok Bot, Grok 4.6, and Cursor",
+          "url": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
+          "source": "GB-257",
+          "blurb": {
+            "en": "Separates the Bot product from the 4.6 model — do not collapse the two.",
+            "zh": "把 Bot 产品和 4.6 模型拆开讲，不要混成一篇。",
+            "ja": "Bot 製品と 4.6 モデルを分けて書いており、二つを一つにまとめてはいけない。"
+          }
+        },
+        {
+          "title": "Grok Bot vs OpenClaw",
+          "url": "https://myclaw.ai/blog/grok-bot-vs-openclaw",
+          "source": "GB-084",
+          "blurb": {
+            "en": "Managed cloud computer vs self-hosted, bring-your-own-model.",
+            "zh": "托管云电脑 vs 自托管、自带模型。",
+            "ja": "マネージドのクラウドパソコン vs 自前ホスト・自前モデル。"
+          }
+        },
+        {
+          "title": "Grok Bot vs OpenClaw vs ChatGPT",
+          "url": "https://www.mindstudio.ai/blog/grok-bot-vs-openclaw-chatgpt",
+          "source": "GB-085",
+          "blurb": {
+            "en": "Three-way: always-on VM, self-host, and chat-with-tools.",
+            "zh": "三方对比：常驻 VM、自托管、带工具的聊天。",
+            "ja": "三者比較：常時稼働 VM、自前ホスト、ツール付きチャット。"
+          }
+        },
+        {
+          "title": "Grok Bot vs ChatGPT for work",
+          "url": "https://www.eigent.ai/blog/grok-bot-vs-chatgpt-work",
+          "source": "GB-245",
+          "blurb": {
+            "en": "Computer-use coworker vs a chat that sometimes calls tools.",
+            "zh": "会用电脑的同事 vs 偶尔调工具的聊天。",
+            "ja": "パソコンを使う同僚 vs ときどきツールを呼ぶチャット。"
+          }
+        },
+        {
+          "title": "Grok Bot vs Claude Cowork",
+          "url": "https://www.eigent.ai/blog/grok-bot-vs-claude-cowork",
+          "source": "GB-246",
+          "blurb": {
+            "en": "Persistent shared VM vs session-scoped cowork.",
+            "zh": "持久共享 VM vs 按会话的 cowork。",
+            "ja": "永続する共有 VM vs セッション単位の cowork。"
+          }
+        },
+        {
+          "title": "YouTube: Grok Bot vs OpenClaw and Hermes",
+          "url": "https://www.youtube.com/watch?v=sAoTrUijP4g",
+          "source": "GB-105",
+          "blurb": {
+            "en": "Video bake-off of the three agent stacks people actually compare.",
+            "zh": "视频横评：大家真正拿来比的三套 Agent。",
+            "ja": "実際によく比較される 3 つの Agent スタックの動画横断レビュー。"
+          }
+        },
+        {
+          "title": "10 Best Grok Bot Alternatives (2026)",
+          "url": "https://www.vellum.ai/blog/best-grok-bot-alternatives",
+          "source": "GB-044",
+          "blurb": {
+            "en": "Landscape of substitutes if you do not want the Heavy/Ultra seat.",
+            "zh": "不想买 Heavy/Ultra 座位时的替代盘点。",
+            "ja": "Heavy/Ultra の席を買いたくないときの代替の見取り図。"
+          }
+        },
+        {
+          "title": "Before You Hire a $200 Grok Bot",
+          "url": "https://zchmael.substack.com/p/before-you-hire-a-200-grok-bot-ai",
+          "source": "GB-101",
+          "blurb": {
+            "en": "Skeptical checklist: what the seat does not buy you.",
+            "zh": "怀疑派清单：这个座位买不到什么。",
+            "ja": "懐疑派チェックリスト：この席では買えないもの。"
+          }
+        }
       ]
     },
     {
       "id": "opensource",
-      "title": { "en": "Open-Source Alternatives", "zh": "开源替代", "ja": "オープンソースの代替" },
+      "title": {
+        "en": "Open-Source Alternatives",
+        "zh": "开源替代",
+        "ja": "オープンソースの代替"
+      },
       "items": [
-        { "title": "rakazo", "url": "https://github.com/elie222/rakazo", "source": "GB-061", "blurb": { "en": "Open-source Grok Bot alternative — self-host the always-on teammate idea.", "zh": "开源 Grok Bot 替代：自己托管 always-on 队友。", "ja": "オープンソースの Grok Bot 代替。always-on の仲間を自分でホストします。" } },
-        { "title": "guaca", "url": "https://github.com/madebywelch/guaca", "source": "GB-062", "blurb": { "en": "Another self-hosted take on persistent computer-use agents.", "zh": "另一套自托管的持久电脑 Agent。", "ja": "持続するパソコン操作エージェントの、もう一つの自前ホスト実装。" } },
-        { "title": "OpenGrokBot", "url": "https://github.com/wolfqing/OpenGrokBot", "source": "GB-064", "blurb": { "en": "OpenClaw plus bring-your-own-model, assembled as a Bot stand-in.", "zh": "OpenClaw + 自带模型，拼成 Bot 替代。", "ja": "OpenClaw に自前モデルを足し、Bot の代わりとして組んだもの。" } },
-        { "title": "XinyunOpenBot", "url": "https://github.com/dongpen-max/XinyunOpenBot", "source": "GB-063", "blurb": { "en": "Chinese-language open alternative aimed at the same job-to-be-done.", "zh": "面向同一任务的中文开源替代。", "ja": "同じ仕事を狙った中国語のオープンソース代替。" } },
-        { "title": "OpenMausBot", "url": "https://github.com/milind-soni/OpenMausBot", "source": "GB-269", "blurb": { "en": "Community runtime exploring the same always-on computer pattern.", "zh": "社区运行时，探索同一套 always-on 电脑模式。", "ja": "同じ always-on パソコンの型を探るコミュニティランタイム。" } },
-        { "title": "open-grokbot", "url": "https://github.com/ishandutta2007/open-grokbot", "source": "GB-185", "blurb": { "en": "Early equivalent / experiment — read before you grant credentials.", "zh": "早期等价实验，授权前先读代码。", "ja": "初期の同等実験。資格情報を渡す前に読んでください。" } },
-        { "title": "grok-bot-flake", "url": "https://github.com/jordangarrison/grok-bot-flake", "source": "GB-187", "blurb": { "en": "Nix flake that repackages the official Linux .deb (no source build).", "zh": "把官方 Linux .deb 打成 Nix flake（不是从源码编）。", "ja": "公式 Linux .deb を詰め直した Nix flake（ソースからのビルドではない）。" } }
+        {
+          "title": "rakazo",
+          "url": "https://github.com/elie222/rakazo",
+          "source": "GB-061",
+          "blurb": {
+            "en": "Open-source Grok Bot alternative — self-host the always-on teammate idea.",
+            "zh": "开源 Grok Bot 替代：自己托管 always-on 队友。",
+            "ja": "オープンソースの Grok Bot 代替。always-on の仲間を自分でホストします。"
+          }
+        },
+        {
+          "title": "guaca",
+          "url": "https://github.com/madebywelch/guaca",
+          "source": "GB-062",
+          "blurb": {
+            "en": "Another self-hosted take on persistent computer-use agents.",
+            "zh": "另一套自托管的持久电脑 Agent。",
+            "ja": "持続するパソコン操作エージェントの、もう一つの自前ホスト実装。"
+          }
+        },
+        {
+          "title": "OpenGrokBot",
+          "url": "https://github.com/wolfqing/OpenGrokBot",
+          "source": "GB-064",
+          "blurb": {
+            "en": "OpenClaw plus bring-your-own-model, assembled as a Bot stand-in.",
+            "zh": "OpenClaw + 自带模型，拼成 Bot 替代。",
+            "ja": "OpenClaw に自前モデルを足し、Bot の代わりとして組んだもの。"
+          }
+        },
+        {
+          "title": "XinyunOpenBot",
+          "url": "https://github.com/dongpen-max/XinyunOpenBot",
+          "source": "GB-063",
+          "blurb": {
+            "en": "Chinese-language open alternative aimed at the same job-to-be-done.",
+            "zh": "面向同一任务的中文开源替代。",
+            "ja": "同じ仕事を狙った中国語のオープンソース代替。"
+          }
+        },
+        {
+          "title": "OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "source": "GB-269",
+          "blurb": {
+            "en": "Community runtime exploring the same always-on computer pattern.",
+            "zh": "社区运行时，探索同一套 always-on 电脑模式。",
+            "ja": "同じ always-on パソコンの型を探るコミュニティランタイム。"
+          }
+        },
+        {
+          "title": "open-grokbot",
+          "url": "https://github.com/ishandutta2007/open-grokbot",
+          "source": "GB-185",
+          "blurb": {
+            "en": "Early equivalent / experiment — read before you grant credentials.",
+            "zh": "早期等价实验，授权前先读代码。",
+            "ja": "初期の同等実験。資格情報を渡す前に読んでください。"
+          }
+        },
+        {
+          "title": "grok-bot-flake",
+          "url": "https://github.com/jordangarrison/grok-bot-flake",
+          "source": "GB-187",
+          "blurb": {
+            "en": "Nix flake that repackages the official Linux .deb (no source build).",
+            "zh": "把官方 Linux .deb 打成 Nix flake（不是从源码编）。",
+            "ja": "公式 Linux .deb を詰め直した Nix flake（ソースからのビルドではない）。"
+          }
+        }
       ]
     },
     {
       "id": "community",
-      "title": { "en": "Community & Failure Modes", "zh": "社区与故障现场", "ja": "コミュニティと障害事例" },
+      "title": {
+        "en": "Community & Failure Modes",
+        "zh": "社区与故障现场",
+        "ja": "コミュニティと障害事例"
+      },
       "items": [
-        { "title": "Forum: Introducing Grok Bot", "url": "https://forum.cursor.com/t/introducing-grok-bot/168053", "source": "GB-026", "blurb": { "en": "Launch thread: what people actually asked in the first 48 hours.", "zh": "首发帖：上线 48 小时里大家真正在问什么。", "ja": "発表スレッド：公開後 48 時間で実際に聞かれたこと。" } },
-        { "title": "Bots are not a security boundary", "url": "https://forum.cursor.com/t/grok-bot-ship-real-session-fences-bots-are-not-a-security-boundary/168476", "source": "GB-034", "blurb": { "en": "Must-read: every Bot on the account sees the same logins and files.", "zh": "必读：账号下所有 Bot 看见同一套登录和文件。", "ja": "必読：アカウント上の全 Bot が同じログインとファイルを見ます。" } },
-        { "title": "Always-on workers vs topic threads", "url": "https://forum.cursor.com/t/grok-bots-as-always-on-workers-vs-topic-threads/168183", "source": "GB-036", "blurb": { "en": "Community consensus: a Bot is a standing coworker, not a chat tab.", "zh": "社区共识：Bot 是常驻同事，不是聊天标签页。", "ja": "コミュニティの合意：Bot は常駐の同僚であり、チャットのタブではない。" } },
-        { "title": "Free Cursor Ultra with Grok (Heavy bundle)", "url": "https://forum.cursor.com/t/free-cursor-ultra-with-grok/168286", "source": "GB-027", "blurb": { "en": "How SuperGrok Heavy maps onto Ultra + Bot, and what does not stack.", "zh": "Heavy 怎么映射到 Ultra + Bot，以及什么不会叠。", "ja": "SuperGrok Heavy が Ultra + Bot にどう対応し、何が積み上がらないか。" } },
-        { "title": "Reconnect issue", "url": "https://forum.cursor.com/t/grok-bot-reconnect-issue/168500", "source": "GB-110", "blurb": { "en": "Real screenshot of “can't reach your computer” after a reconnect.", "zh": "重连后「连不上你的电脑」的真实截图。", "ja": "再接続後の「パソコンに接続できない」実スクリーンショット。" } },
-        { "title": "X login lock on the Bot computer", "url": "https://forum.cursor.com/t/grok-bot-x-login-lock-limit-not-lifting/168541", "source": "GB-126", "blurb": { "en": "Cloud computers hit site risk controls. X locks are not theoretical.", "zh": "云电脑会撞上站点风控。X 登录锁不是假设。", "ja": "クラウドパソコンはサイトのリスク対策に当たる。X のログインロックは仮定ではない。" } },
-        { "title": "ExternalShell blocked despite Always allow", "url": "https://forum.cursor.com/t/grok-bot-externalshell-blocked-despite-always-allow/168180", "source": "GB-131", "blurb": { "en": "Allow-lists still fail. Do not assume Always allow means always.", "zh": "白名单仍会拦。Always allow 不等于永远允许。", "ja": "許可リストでも止まる。Always allow が常に許可だと思わないこと。" } },
-        { "title": "Deleted Cursor account orphans the Grok link", "url": "https://forum.cursor.com/t/deleted-cursor-account-leaves-grok-link-orphaned-and-blocks-relinking/168783", "source": "GB-109", "blurb": { "en": "Account deletion can pin the Bot to a dead Cursor identity.", "zh": "删 Cursor 号可能把 Bot 绑死在失效身份上。", "ja": "Cursor アカウント削除で、Bot が無効になった身元に固定されることがある。" } },
-        { "title": "Hacker News discussion", "url": "https://news.ycombinator.com/item?id=49261514", "source": "GB-056", "blurb": { "en": "HN thread on the launch — useful for the skeptical read.", "zh": "HN 首发讨论，适合看怀疑派怎么说。", "ja": "発表時の HN スレッド。懐疑的な読みに向く。" } },
-        { "title": "Native desktop on Arch / Linux", "url": "https://forum.cursor.com/t/native-grok-bot-desktop-app-for-arch-linux-and-linux-generally/168084", "source": "GB-029", "blurb": { "en": "Linux desktop is not first-class; this is the request plus community packs.", "zh": "Linux 桌面不是一等公民；这里是诉求和社区打包。", "ja": "Linux デスクトップは第一級ではない。要望とコミュニティのパッケージがここにある。" } }
+        {
+          "title": "Forum: Introducing Grok Bot",
+          "url": "https://forum.cursor.com/t/introducing-grok-bot/168053",
+          "source": "GB-026",
+          "blurb": {
+            "en": "Launch thread: what people actually asked in the first 48 hours.",
+            "zh": "首发帖：上线 48 小时里大家真正在问什么。",
+            "ja": "発表スレッド：公開後 48 時間で実際に聞かれたこと。"
+          }
+        },
+        {
+          "title": "Bots are not a security boundary",
+          "url": "https://forum.cursor.com/t/grok-bot-ship-real-session-fences-bots-are-not-a-security-boundary/168476",
+          "source": "GB-034",
+          "blurb": {
+            "en": "Must-read: every Bot on the account sees the same logins and files.",
+            "zh": "必读：账号下所有 Bot 看见同一套登录和文件。",
+            "ja": "必読：アカウント上の全 Bot が同じログインとファイルを見ます。"
+          }
+        },
+        {
+          "title": "Always-on workers vs topic threads",
+          "url": "https://forum.cursor.com/t/grok-bots-as-always-on-workers-vs-topic-threads/168183",
+          "source": "GB-036",
+          "blurb": {
+            "en": "Community consensus: a Bot is a standing coworker, not a chat tab.",
+            "zh": "社区共识：Bot 是常驻同事，不是聊天标签页。",
+            "ja": "コミュニティの合意：Bot は常駐の同僚であり、チャットのタブではない。"
+          }
+        },
+        {
+          "title": "Free Cursor Ultra with Grok (Heavy bundle)",
+          "url": "https://forum.cursor.com/t/free-cursor-ultra-with-grok/168286",
+          "source": "GB-027",
+          "blurb": {
+            "en": "How SuperGrok Heavy maps onto Ultra + Bot, and what does not stack.",
+            "zh": "Heavy 怎么映射到 Ultra + Bot，以及什么不会叠。",
+            "ja": "SuperGrok Heavy が Ultra + Bot にどう対応し、何が積み上がらないか。"
+          }
+        },
+        {
+          "title": "Reconnect issue",
+          "url": "https://forum.cursor.com/t/grok-bot-reconnect-issue/168500",
+          "source": "GB-110",
+          "blurb": {
+            "en": "Real screenshot of “can't reach your computer” after a reconnect.",
+            "zh": "重连后「连不上你的电脑」的真实截图。",
+            "ja": "再接続後の「パソコンに接続できない」実スクリーンショット。"
+          }
+        },
+        {
+          "title": "X login lock on the Bot computer",
+          "url": "https://forum.cursor.com/t/grok-bot-x-login-lock-limit-not-lifting/168541",
+          "source": "GB-126",
+          "blurb": {
+            "en": "Cloud computers hit site risk controls. X locks are not theoretical.",
+            "zh": "云电脑会撞上站点风控。X 登录锁不是假设。",
+            "ja": "クラウドパソコンはサイトのリスク対策に当たる。X のログインロックは仮定ではない。"
+          }
+        },
+        {
+          "title": "ExternalShell blocked despite Always allow",
+          "url": "https://forum.cursor.com/t/grok-bot-externalshell-blocked-despite-always-allow/168180",
+          "source": "GB-131",
+          "blurb": {
+            "en": "Allow-lists still fail. Do not assume Always allow means always.",
+            "zh": "白名单仍会拦。Always allow 不等于永远允许。",
+            "ja": "許可リストでも止まる。Always allow が常に許可だと思わないこと。"
+          }
+        },
+        {
+          "title": "Deleted Cursor account orphans the Grok link",
+          "url": "https://forum.cursor.com/t/deleted-cursor-account-leaves-grok-link-orphaned-and-blocks-relinking/168783",
+          "source": "GB-109",
+          "blurb": {
+            "en": "Account deletion can pin the Bot to a dead Cursor identity.",
+            "zh": "删 Cursor 号可能把 Bot 绑死在失效身份上。",
+            "ja": "Cursor アカウント削除で、Bot が無効になった身元に固定されることがある。"
+          }
+        },
+        {
+          "title": "Hacker News discussion",
+          "url": "https://news.ycombinator.com/item?id=49261514",
+          "source": "GB-056",
+          "blurb": {
+            "en": "HN thread on the launch — useful for the skeptical read.",
+            "zh": "HN 首发讨论，适合看怀疑派怎么说。",
+            "ja": "発表時の HN スレッド。懐疑的な読みに向く。"
+          }
+        },
+        {
+          "title": "Native desktop on Arch / Linux",
+          "url": "https://forum.cursor.com/t/native-grok-bot-desktop-app-for-arch-linux-and-linux-generally/168084",
+          "source": "GB-029",
+          "blurb": {
+            "en": "Linux desktop is not first-class; this is the request plus community packs.",
+            "zh": "Linux 桌面不是一等公民；这里是诉求和社区打包。",
+            "ja": "Linux デスクトップは第一級ではない。要望とコミュニティのパッケージがここにある。"
+          }
+        }
       ]
     },
     {
       "id": "related",
-      "title": { "en": "Related Lists", "zh": "相关列表", "ja": "関連リスト" },
+      "title": {
+        "en": "Related Lists",
+        "zh": "相关列表",
+        "ja": "関連リスト"
+      },
       "items": [
-        { "title": "ZeroPointRepo/awesome-grok-bot", "url": "https://github.com/ZeroPointRepo/awesome-grok-bot", "source": "GB-190", "blurb": { "en": "Day-one 19-entry directory, strong on marketplace format and self-hosted runtimes.", "zh": "上线首日 19 条目录，市场格式和自托管运行时写得很清楚。", "ja": "公開初日の 19 件ディレクトリ。マーケット形式と自前ホストランタイムが厚い。" } },
-        { "title": "awesome-mcp-servers", "url": "https://github.com/punkpeye/awesome-mcp-servers", "source": "related", "blurb": { "en": "MCP server catalog. Grok Bot follows Cursor plugin/MCP policy.", "zh": "MCP Server 大全。Grok Bot 走 Cursor 的插件/MCP 政策。", "ja": "MCP サーバー一覧。Grok Bot は Cursor のプラグイン/MCP ポリシーに従います。" } },
-        { "title": "awesome-claude-code", "url": "https://github.com/hesreallyhim/awesome-claude-code", "source": "related", "blurb": { "en": "Skill-format sibling ecosystem; many SKILL.md packs are conceptually portable.", "zh": "Skill 格式的姐妹生态；不少 SKILL.md 概念上可迁移。", "ja": "Skill 形式の姉妹エコシステム。多くの SKILL.md は概念として移植できる。" } },
-        { "title": "botdirectory.ai (announced)", "url": "https://x.com/aiedge_/status/2089895147068924385", "source": "GB-177", "blurb": { "en": "Community directory of live Bots — treat the site as beta.", "zh": "社区 Bot 目录，站点本身也是 beta。", "ja": "稼働中 Bot のコミュニティディレクトリ。サイト自体も beta 扱い。" } }
+        {
+          "title": "ZeroPointRepo/awesome-grok-bot",
+          "url": "https://github.com/ZeroPointRepo/awesome-grok-bot",
+          "source": "GB-190",
+          "blurb": {
+            "en": "Day-one 19-entry directory, strong on marketplace format and self-hosted runtimes.",
+            "zh": "上线首日 19 条目录，市场格式和自托管运行时写得很清楚。",
+            "ja": "公開初日の 19 件ディレクトリ。マーケット形式と自前ホストランタイムが厚い。"
+          }
+        },
+        {
+          "title": "awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "related",
+          "blurb": {
+            "en": "MCP server catalog. Grok Bot follows Cursor plugin/MCP policy.",
+            "zh": "MCP Server 大全。Grok Bot 走 Cursor 的插件/MCP 政策。",
+            "ja": "MCP サーバー一覧。Grok Bot は Cursor のプラグイン/MCP ポリシーに従います。"
+          }
+        },
+        {
+          "title": "awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "source": "related",
+          "blurb": {
+            "en": "Skill-format sibling ecosystem; many SKILL.md packs are conceptually portable.",
+            "zh": "Skill 格式的姐妹生态；不少 SKILL.md 概念上可迁移。",
+            "ja": "Skill 形式の姉妹エコシステム。多くの SKILL.md は概念として移植できる。"
+          }
+        },
+        {
+          "title": "botdirectory.ai (announced)",
+          "url": "https://x.com/aiedge_/status/2089895147068924385",
+          "source": "GB-177",
+          "blurb": {
+            "en": "Community directory of live Bots — treat the site as beta.",
+            "zh": "社区 Bot 目录，站点本身也是 beta。",
+            "ja": "稼働中 Bot のコミュニティディレクトリ。サイト自体も beta 扱い。"
+          }
+        }
       ]
+    }
+  ],
+  "events": [
+    {
+      "id": "sz-20260830",
+      "url": "https://luma.com/5vkzzvqk",
+      "image": "./assets/events/sz-20260830-cover.png",
+      "expires": "2026-08-30T17:30:00+08:00",
+      "title": {
+        "en": "Grok Bot Meetup Shenzhen",
+        "zh": "Grok Bot 深圳线下交流",
+        "ja": "Grok Bot Meetup Shenzhen"
+      },
+      "when": {
+        "en": "Sun 30 Aug 2026, 14:00–17:30 (GMT+8)",
+        "zh": "2026-08-30 周日 14:00–17:30",
+        "ja": "2026-08-30（日）14:00–17:30（GMT+8）"
+      },
+      "where": {
+        "en": "Shenzhen · exact address after you register",
+        "zh": "深圳 · 报名通过后可见地址",
+        "ja": "深圳 · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "China’s first in-person Grok Bot meetup. Icebreaker + talks / workshop. Pre-register, host approval, limited seats. 铁柱AGI and 阿真 will be there. Shenzhen AI writers welcome — people who have used Grok Bot preferred.",
+        "zh": "中国首场 Grok Bot 线下。破冰 + 分享 / Workshop。预报名，需主办审核，名额有限。到时铁柱AGI、阿真在。欢迎深圳 AI 博主，用过 Grok Bot 的优先。",
+        "ja": "中国初の Grok Bot オフライン。アイスブレイクと共有 / Workshop。事前登録、主催者承認、定員あり。铁柱AGI と 阿真 が参加。深圳の AI ブロガー歓迎。Grok Bot を使った人を優先。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
     }
   ]
 }
