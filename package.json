@@ -1,7 +1,7 @@
 {
   "name": "awesome-grok-bot",
   "private": true,
-  "description": "Curated bilingual directory for Grok Bot, the always-on cloud-computer teammate.",
+  "description": "Curated EN / 中文 / 日本語 directory for Grok Bot, the always-on cloud-computer teammate.",
   "scripts": {
     "readme": "python3 scripts/generate_readme.py"
   }

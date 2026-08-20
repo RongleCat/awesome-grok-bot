@@ -3,7 +3,11 @@
 </h1>
 
 <p align="center">
-  <a href="./README.md"><strong>English</strong></a>
+  <a href="./README.md"><strong>EN</strong></a>
+  ·
+  <strong>中文</strong>
+  ·
+  <a href="./README.ja.md"><strong>日本語</strong></a>
   ·
   <a href="https://usegrokbot.com/">玩法提示词</a>
 </p>

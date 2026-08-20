@@ -2,7 +2,7 @@
 
 本清单只收 [Grok Bot](https://docs.x.ai/grok-bot/overview)——2026-08-11 上线的 always-on 云电脑队友。不是把所有首发通稿再堆一遍。
 
-[English](CONTRIBUTING.md)
+[English](CONTRIBUTING.md) · [日本語](CONTRIBUTING.ja.md)
 
 ## 收录标准
 
@@ -10,7 +10,7 @@
 2. 链接你自己打开过，能访问。
 3. 格式：`- [名称](URL) - 一句话说明.` 句号结尾。
 4. 放对分类。官方靠前，然后教程、案例、插件、对比、开源、社区。
-5. 同一条说明要同时写进 `data/catalog.json` 的 `en` 和 `zh`，再跑 `python3 scripts/generate_readme.py`。
+5. 同一条说明要同时写进 `data/catalog.json` 的 `en`、`zh` 和 `ja`，再跑 `python3 scripts/generate_readme.py`。
 
 ## 不收
 

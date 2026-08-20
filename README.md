@@ -3,7 +3,11 @@
 </h1>
 
 <p align="center">
+  <strong>EN</strong>
+  ·
   <a href="./README.zh.md"><strong>中文</strong></a>
+  ·
+  <a href="./README.ja.md"><strong>日本語</strong></a>
   ·
   <a href="https://usegrokbot.com/">Playbook prompts</a>
 </p>

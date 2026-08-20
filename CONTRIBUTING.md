@@ -2,7 +2,7 @@
 
 This list should stay a **curated** directory of [Grok Bot](https://docs.x.ai/grok-bot/overview) — the always-on cloud-computer teammate launched 2026-08-11. It is not a dump of every launch recap.
 
-[中文版](CONTRIBUTING.zh.md)
+[中文版](CONTRIBUTING.zh.md) · [日本語](CONTRIBUTING.ja.md)
 
 ## Acceptance
 
@@ -12,7 +12,7 @@ An entry must:
 2. Have a reachable URL you opened yourself.
 3. Use the form `- [Name](URL) - one sentence.` ending with a period.
 4. Land in the closest section. Official first, then tutorials, field cases, plugins, comparisons, open source, community.
-5. Add the same blurb to `data/catalog.json` in **both** `en` and `zh`, then run `python3 scripts/generate_readme.py`.
+5. Add the same blurb to `data/catalog.json` in **en**, **zh**, and **ja**, then run `python3 scripts/generate_readme.py`.
 
 ## Do not send
 
