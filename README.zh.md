@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-87-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-92-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -87,6 +87,7 @@
 - [Teach a task by screen recording](https://x.com/_avichawla/status/2089817006065496530) - 官方周边提示：演示一遍，Bot 自己写成 skill。.
 - [Use the remote computer from your phone](https://x.com/bot/status/2089802847223468116) - @bot 体验更新：不用开笔记本，手机也能用云电脑。.
 - [Uncle-Gizmo notes](https://github.com/Uncle-Gizmo/grok-bot-info) - 公开笔记：安全示例工作流，以及它和 Grok Build 怎么并存。.
+- [Grok Bot for GTM](https://github.com/bcharleson/grokbot-for-gtm) - 玩法包：让 Grok Bot 在自己电脑上跑 outbound（Instantly / HeyReach / 名单 CLI），外发需人点头。.
 
 ## 真实使用案例
 
@@ -116,6 +117,9 @@
 - [superpowers (marketplace)](https://github.com/obra/superpowers) - 官方市场里最大的通用技能集：先计划、用证据调试、写能过审的东西。.
 - [chrome-devtools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - 驱动真实 Chrome：性能轨迹、网络、带 sourcemap 的控制台错误。.
 - [Vercel plugin](https://github.com/vercel/vercel-plugin) - 部署、日志、域名。请对照论坛里 OAuth 回调失败的帖。.
+- [Grok Ship](https://github.com/kunchenguid/grok-ship) - 把 Grok Bot 编成软件工厂：scout/ship 分工、项目组员开 Cursor Cloud Agent，合 PR 前先对抗审查。.
+- [Coolify Cursor plugin](https://github.com/coollabsio/coolify-cursor-plugin) - Coolify 官方 Cursor / Grok Bot 插件：远程 HTTP MCP 看服务器、应用、部署和日志。.
+- [Grok Bot Telegram bridge](https://github.com/SSBrouhard/grokbot-telegram-bridge) - 非官方 Telegram 网关：跑在 Grok Bot 云电脑里，只跟本机 Sand 网关走回环。.
 
 ## 评测与对比
 
@@ -152,6 +156,7 @@
 - [Deleted Cursor account orphans the Grok link](https://forum.cursor.com/t/deleted-cursor-account-leaves-grok-link-orphaned-and-blocks-relinking/168783) - 删 Cursor 号可能把 Bot 绑死在失效身份上。.
 - [Hacker News discussion](https://news.ycombinator.com/item?id=49261514) - HN 首发讨论，适合看怀疑派怎么说。.
 - [Native desktop on Arch / Linux](https://forum.cursor.com/t/native-grok-bot-desktop-app-for-arch-linux-and-linux-generally/168084) - Linux 桌面不是一等公民；这里是诉求和社区打包。.
+- [Does Grok Bot support local MCP?](https://forum.cursor.com/t/does-grok-bot-support-local-mcp-e-g-workflowy/168182) - 官方确认：Grok Bot 接不了本机或 stdio MCP，只能远程 HTTP MCP 或云浏览器。.
 
 ## 相关列表
 
@@ -162,7 +167,7 @@
 
 ## 贡献
 
-目前 8 个分类、87 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、92 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

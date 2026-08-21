@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-87-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-92-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -87,6 +87,7 @@
 - [Teach a task by screen recording](https://x.com/_avichawla/status/2089817006065496530) - 公式周辺のヒント：作業を一度見せると、Bot が skill を書きます。
 - [Use the remote computer from your phone](https://x.com/bot/status/2089802847223468116) - @bot の体験改善：ノート PC を開かず、iOS からクラウドマシンを操作できます。
 - [Uncle-Gizmo notes](https://github.com/Uncle-Gizmo/grok-bot-info) - 安全な例のワークフローと、Bot が Grok Build とどう並ぶかの公開ノート。
+- [Grok Bot for GTM](https://github.com/bcharleson/grokbot-for-gtm) - Grok Bot のパソコン上でアウトバウンドを回すプレイブック。Instantly、HeyReach、リスト CLI。送信は人の承認が必要です。
 
 ## 実地事例
 
@@ -116,6 +117,9 @@
 - [superpowers (marketplace)](https://github.com/obra/superpowers) - 公式マーケット最大の汎用スキル集：計画、根拠あるデバッグ、通る文章を書く。
 - [chrome-devtools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - 実機 Chrome を操作：トレース、ネットワーク、sourcemap 付きのコンソールエラー。
 - [Vercel plugin](https://github.com/vercel/vercel-plugin) - デプロイ、ログ、ドメイン。OAuth リダイレクト失敗のフォーラム投稿と合わせて読む。
+- [Grok Ship](https://github.com/kunchenguid/grok-ship) - Grok Bot をソフトウェア工場にする配布物。scout と ship を分け、プロジェクトごとの仲間が Cursor Cloud Agent を動かし、PR 前にレビューします。
+- [Coolify Cursor plugin](https://github.com/coollabsio/coolify-cursor-plugin) - Coolify 公式の Cursor / Grok Bot プラグイン。リモート HTTP MCP でサーバー、アプリ、デプロイ、ログを見ます。
+- [Grok Bot Telegram bridge](https://github.com/SSBrouhard/grokbot-telegram-bridge) - 非公式の Telegram ブリッジ。Grok Bot のクラウドパソコン内で動き、ループバックの Sand ゲートウェイとだけ話します。
 
 ## レビューと比較
 
@@ -152,6 +156,7 @@
 - [Deleted Cursor account orphans the Grok link](https://forum.cursor.com/t/deleted-cursor-account-leaves-grok-link-orphaned-and-blocks-relinking/168783) - Cursor アカウント削除で、Bot が無効になった身元に固定されることがある。
 - [Hacker News discussion](https://news.ycombinator.com/item?id=49261514) - 発表時の HN スレッド。懐疑的な読みに向く。
 - [Native desktop on Arch / Linux](https://forum.cursor.com/t/native-grok-bot-desktop-app-for-arch-linux-and-linux-generally/168084) - Linux デスクトップは第一級ではない。要望とコミュニティのパッケージがここにある。
+- [Does Grok Bot support local MCP?](https://forum.cursor.com/t/does-grok-bot-support-local-mcp-e-g-workflowy/168182) - 公式確認：Grok Bot はローカル / stdio の MCP を付けられません。リモート HTTP MCP かクラウドブラウザです。
 
 ## 関連リスト
 
@@ -162,7 +167,7 @@
 
 ## 貢献
 
-8 セクションに 87 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 92 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

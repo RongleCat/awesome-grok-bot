@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -354,6 +354,16 @@
             "zh": "公开笔记：安全示例工作流，以及它和 Grok Build 怎么并存。",
             "ja": "安全な例のワークフローと、Bot が Grok Build とどう並ぶかの公開ノート。"
           }
+        },
+        {
+          "title": "Grok Bot for GTM",
+          "url": "https://github.com/bcharleson/grokbot-for-gtm",
+          "source": "day-20260821",
+          "blurb": {
+            "en": "Playbook plus skills so a Grok Bot can run outbound GTM on its own computer: Instantly, HeyReach, list CLIs, human-approved sends.",
+            "zh": "玩法包：让 Grok Bot 在自己电脑上跑 outbound（Instantly / HeyReach / 名单 CLI），外发需人点头。",
+            "ja": "Grok Bot のパソコン上でアウトバウンドを回すプレイブック。Instantly、HeyReach、リスト CLI。送信は人の承認が必要です。"
+          }
         }
       ]
     },
@@ -603,6 +613,36 @@
             "en": "Deployments, logs, domains. Pair with the forum thread on OAuth redirect failures.",
             "zh": "部署、日志、域名。请对照论坛里 OAuth 回调失败的帖。",
             "ja": "デプロイ、ログ、ドメイン。OAuth リダイレクト失敗のフォーラム投稿と合わせて読む。"
+          }
+        },
+        {
+          "title": "Grok Ship",
+          "url": "https://github.com/kunchenguid/grok-ship",
+          "source": "day-20260821",
+          "blurb": {
+            "en": "Agent distro that turns Grok Bot into a software factory: scout vs ship, per-project crewmates driving Cursor cloud agents, review before any PR.",
+            "zh": "把 Grok Bot 编成软件工厂：scout/ship 分工、项目组员开 Cursor Cloud Agent，合 PR 前先对抗审查。",
+            "ja": "Grok Bot をソフトウェア工場にする配布物。scout と ship を分け、プロジェクトごとの仲間が Cursor Cloud Agent を動かし、PR 前にレビューします。"
+          }
+        },
+        {
+          "title": "Coolify Cursor plugin",
+          "url": "https://github.com/coollabsio/coolify-cursor-plugin",
+          "source": "day-20260821",
+          "blurb": {
+            "en": "Official Coolify plugin for Cursor and Grok Bot: remote HTTP MCP to inspect servers, apps, deploys, and logs.",
+            "zh": "Coolify 官方 Cursor / Grok Bot 插件：远程 HTTP MCP 看服务器、应用、部署和日志。",
+            "ja": "Coolify 公式の Cursor / Grok Bot プラグイン。リモート HTTP MCP でサーバー、アプリ、デプロイ、ログを見ます。"
+          }
+        },
+        {
+          "title": "Grok Bot Telegram bridge",
+          "url": "https://github.com/SSBrouhard/grokbot-telegram-bridge",
+          "source": "day-20260821",
+          "blurb": {
+            "en": "Unofficial Telegram gateway that runs on the Grok Bot computer and talks to the local Sand gateway on loopback only.",
+            "zh": "非官方 Telegram 网关：跑在 Grok Bot 云电脑里，只跟本机 Sand 网关走回环。",
+            "ja": "非公式の Telegram ブリッジ。Grok Bot のクラウドパソコン内で動き、ループバックの Sand ゲートウェイとだけ話します。"
           }
         }
       ]
@@ -903,6 +943,16 @@
             "en": "Linux desktop is not first-class; this is the request plus community packs.",
             "zh": "Linux 桌面不是一等公民；这里是诉求和社区打包。",
             "ja": "Linux デスクトップは第一級ではない。要望とコミュニティのパッケージがここにある。"
+          }
+        },
+        {
+          "title": "Does Grok Bot support local MCP?",
+          "url": "https://forum.cursor.com/t/does-grok-bot-support-local-mcp-e-g-workflowy/168182",
+          "source": "day-20260821",
+          "blurb": {
+            "en": "Staff-confirmed: Grok Bot cannot attach local or stdio MCP; use remote HTTP MCP or the cloud browser.",
+            "zh": "官方确认：Grok Bot 接不了本机或 stdio MCP，只能远程 HTTP MCP 或云浏览器。",
+            "ja": "公式確認：Grok Bot はローカル / stdio の MCP を付けられません。リモート HTTP MCP かクラウドブラウザです。"
           }
         }
       ]

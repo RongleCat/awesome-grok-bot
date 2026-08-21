@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-87-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-92-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -87,6 +87,7 @@
 - [Teach a task by screen recording](https://x.com/_avichawla/status/2089817006065496530) - Official-adjacent tip: show the workflow once, Bot writes the skill.
 - [Use the remote computer from your phone](https://x.com/bot/status/2089802847223468116) - @bot QoL: drive the cloud machine from iOS without opening the laptop.
 - [Uncle-Gizmo notes](https://github.com/Uncle-Gizmo/grok-bot-info) - Public notes on safe example workflows and how Bot sits next to Grok Build.
+- [Grok Bot for GTM](https://github.com/bcharleson/grokbot-for-gtm) - Playbook plus skills so a Grok Bot can run outbound GTM on its own computer: Instantly, HeyReach, list CLIs, human-approved sends.
 
 ## Field Cases
 
@@ -116,6 +117,9 @@
 - [superpowers (marketplace)](https://github.com/obra/superpowers) - Largest general skill collection in the official marketplace: plan, debug, write.
 - [chrome-devtools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Drive a live Chrome: traces, network, source-mapped console errors.
 - [Vercel plugin](https://github.com/vercel/vercel-plugin) - Deployments, logs, domains. Pair with the forum thread on OAuth redirect failures.
+- [Grok Ship](https://github.com/kunchenguid/grok-ship) - Agent distro that turns Grok Bot into a software factory: scout vs ship, per-project crewmates driving Cursor cloud agents, review before any PR.
+- [Coolify Cursor plugin](https://github.com/coollabsio/coolify-cursor-plugin) - Official Coolify plugin for Cursor and Grok Bot: remote HTTP MCP to inspect servers, apps, deploys, and logs.
+- [Grok Bot Telegram bridge](https://github.com/SSBrouhard/grokbot-telegram-bridge) - Unofficial Telegram gateway that runs on the Grok Bot computer and talks to the local Sand gateway on loopback only.
 
 ## Reviews & Comparisons
 
@@ -152,6 +156,7 @@
 - [Deleted Cursor account orphans the Grok link](https://forum.cursor.com/t/deleted-cursor-account-leaves-grok-link-orphaned-and-blocks-relinking/168783) - Account deletion can pin the Bot to a dead Cursor identity.
 - [Hacker News discussion](https://news.ycombinator.com/item?id=49261514) - HN thread on the launch — useful for the skeptical read.
 - [Native desktop on Arch / Linux](https://forum.cursor.com/t/native-grok-bot-desktop-app-for-arch-linux-and-linux-generally/168084) - Linux desktop is not first-class; this is the request plus community packs.
+- [Does Grok Bot support local MCP?](https://forum.cursor.com/t/does-grok-bot-support-local-mcp-e-g-workflowy/168182) - Staff-confirmed: Grok Bot cannot attach local or stdio MCP; use remote HTTP MCP or the cloud browser.
 
 ## Related Lists
 
@@ -162,7 +167,7 @@
 
 ## Contributing
 
-87 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+92 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
