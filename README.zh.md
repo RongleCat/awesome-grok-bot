@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-100-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-113-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -53,6 +53,8 @@
 
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 首发稿：always-on 智能体自带电脑，在你的工具里 24/7 干活。.
 - [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - 官方 2026-08-21 扩面：SuperGrok Plus、Cursor Pro+ 和全部 Cursor Teams 现已包含 Grok Bot。.
+- [@bot: free trial and wider plan access](https://x.com/bot/status/2090852881373311369) - 官方 2026-08-21：SuperGrok Plus、Cursor Pro+、全部 Cursor Teams 已开通，其他人可领有限额的免费试用。.
+- [@bot: mobile notifications grouped by Bot](https://x.com/bot/status/2089802845239587150) - 官方 2026-08-18：手机通知按 Bot 分组，并显示该 Bot 自己的图标。.
 - [@bot: Some ways people used Grok Bot this week](https://x.com/bot/status/2090168861912170972) - 官方 2026-08-19 周报，点名 14 个真实活：扫地机、买域名上线、Stripe 退款、代开会上等。.
 - [Grok Bot overview](https://docs.x.ai/grok-bot/overview) - 产品总览：有名字的 Bot、共享一台云电脑；隔离按账号不按 Bot。.
 - [Get started](https://docs.x.ai/grok-bot/get-started) - 装桌面端、用 Cursor 登录、建第一个 Bot。官方无 Linux 桌面。.
@@ -111,6 +113,17 @@
 - [Peter Yang: Marie Kondo declutter Bot](https://x.com/petergyang/status/2089724101070086482) - 可复用提示词：审计邮件、Drive 和付费订阅，删除前等人点头。.
 - [Gergely Orosz: Stripe support refunds](https://x.com/GergelyOrosz/status/2090085668768694562) - 把 Bot 接到客服邮箱和 Stripe，常规退款先给自己确认再打钱。.
 - [Mike P: 90,000-email purge](https://x.com/mikepat711/status/2089879632929554498) - 让 Bot 翻两个 Gmail 里的 9 万封信，把从没敢自己清的垃圾扔掉。.
+- [Yun-Ta: text a Matic vacuum from Grok Bot](https://x.com/yunta_tsai/status/2089223114416898288) - 让「首席工程师」Bot 接上 Matic，随时发短信指挥扫地机。.
+- [Wayne Sutton: site, domain, and Cloudflare in two phone prompts](https://x.com/waynesutton/status/2088416215203295346) - 手机上两条提示词：装 Convex/Cloudflare 插件、买域名、配跳转，demo 在 tryground.dev。.
+- [Danny Limanseta: 74 game art assets in two hours](https://x.com/DannyLimanseta/status/2087228218797617404) - Bot 读代码、打开他的出图页，两小时做出 74 张透明 PNG 并装回游戏。.
+- [Jon ONeill: plumbing-shop office manager](https://x.com/HouseHackerJon/status/2087635639701573962) - 管道公司老板头一天就把办公室经理的活交给 Bot。.
+- [Ben Lang: internal Grok Bot job list](https://x.com/benln/status/2087929147406299313) - 内部最爱清单：偏 Starlink 的机票、菜谱买菜、胶片 GPS、跟承包商砍价等。.
+- [Gavin Baker: podcast summarizer in 15 seconds](https://x.com/GavinSBaker/status/2089379355692527813) - 说 Grok Bot 是又一个 Claude Code 时刻，15 秒搭好播客摘要。.
+- [Krista Letz: Grok Bot for enterprise GTM](https://x.com/kristaletz/status/2089103618121314689) - SpaceXAI 企业销售编制：CoS、夜间开发、大客户专家、通话中改幻灯片。.
+- [Peter Yang: Commander Keen on the cloud computer](https://x.com/petergyang/status/2089502606079197347) - 在 Grok Bot 云电脑上装并玩 Commander Keen，能玩但有延迟。.
+- [Kiara: Bot sits in on a missed meeting](https://x.com/kiaraplds/status/2088321112073547835) - SpaceXAI 现场工程师让 Bot 替她参会、自我介绍并记笔记。.
+- [KettlebellDan: Arduino LED stock ticker](https://x.com/KettlebellDan/status/2089387837204693202) - Bot 接通 Arduino，LED 字幕滚动 SPCX 股价、折线和 SpaceX 新闻。.
+- [Darian Shirazi: chase five merchant refunds](https://x.com/darian314/status/2089381004524093752) - Bot 在邮件里找没退的货，给 5 家商家写信，追回的钱超过月费。.
 
 ## 技能、插件与 MCP
 
@@ -175,7 +188,7 @@
 
 ## 贡献
 
-目前 8 个分类、100 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、113 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

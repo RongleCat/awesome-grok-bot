@@ -36,6 +36,26 @@
           }
         },
         {
+          "title": "@bot: free trial and wider plan access",
+          "url": "https://x.com/bot/status/2090852881373311369",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "Official 2026-08-21: SuperGrok Plus, Cursor Pro+, and all Cursor Teams get Grok Bot, plus a limited free trial for everyone else.",
+            "zh": "官方 2026-08-21：SuperGrok Plus、Cursor Pro+、全部 Cursor Teams 已开通，其他人可领有限额的免费试用。",
+            "ja": "公式 2026-08-21。SuperGrok Plus、Cursor Pro+、全 Cursor Teams に開放。その他は利用制限付きの無料トライアル。"
+          }
+        },
+        {
+          "title": "@bot: mobile notifications grouped by Bot",
+          "url": "https://x.com/bot/status/2089802845239587150",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "Official 2026-08-18 QoL: mobile notifications group by Bot and use that Bot's icon.",
+            "zh": "官方 2026-08-18：手机通知按 Bot 分组，并显示该 Bot 自己的图标。",
+            "ja": "公式 2026-08-18。モバイル通知が Bot ごとにまとまり、その Bot のアイコンを使う。"
+          }
+        },
+        {
           "title": "@bot: Some ways people used Grok Bot this week",
           "url": "https://x.com/bot/status/2090168861912170972",
           "source": "recap-20260819",
@@ -573,6 +593,116 @@
             "en": "Lets a Bot walk two Gmail accounts and throw out junk the owner never wanted to touch.",
             "zh": "让 Bot 翻两个 Gmail 里的 9 万封信，把从没敢自己清的垃圾扔掉。",
             "ja": "2 つの Gmail にある 9 万通を Bot に任せて、自分では手を付けなかったゴミを捨てる。"
+          }
+        },
+        {
+          "title": "Yun-Ta: text a Matic vacuum from Grok Bot",
+          "url": "https://x.com/yunta_tsai/status/2089223114416898288",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "Chief Engineer Bot talks to @maticrobots so he can text the vacuum from anywhere.",
+            "zh": "让「首席工程师」Bot 接上 Matic，随时发短信指挥扫地机。",
+            "ja": "Chief Engineer Bot が Matic と連携し、どこからでもテキストで掃除機に指示できる。"
+          }
+        },
+        {
+          "title": "Wayne Sutton: site, domain, and Cloudflare in two phone prompts",
+          "url": "https://x.com/waynesutton/status/2088416215203295346",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "Convex + Cloudflare plugins, a live demo at tryground.dev, domain and redirects bought from the phone.",
+            "zh": "手机上两条提示词：装 Convex/Cloudflare 插件、买域名、配跳转，demo 在 tryground.dev。",
+            "ja": "スマホでプロンプト 2 本。Convex と Cloudflare を入れ、ドメイン購入とリダイレクトまで。デモは tryground.dev。"
+          }
+        },
+        {
+          "title": "Danny Limanseta: 74 game art assets in two hours",
+          "url": "https://x.com/DannyLimanseta/status/2087228218797617404",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "Bot reads the codebase, hits his art-gen page, crops transparent PNGs, and wires 74 card assets back into the game.",
+            "zh": "Bot 读代码、打开他的出图页，两小时做出 74 张透明 PNG 并装回游戏。",
+            "ja": "Bot がコードを読み、自前の画像生成ページで 74 枚の透過 PNG を切ってゲームに戻す。"
+          }
+        },
+        {
+          "title": "Jon ONeill: plumbing-shop office manager",
+          "url": "https://x.com/HouseHackerJon/status/2087635639701573962",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "Drain-and-sewer shop owner handing office-manager work to a Bot in the first 24 hours.",
+            "zh": "管道公司老板头一天就把办公室经理的活交给 Bot。",
+            "ja": "配管会社の店主が、最初の 24 時間で事務仕事を Bot に渡す。"
+          }
+        },
+        {
+          "title": "Ben Lang: internal Grok Bot job list",
+          "url": "https://x.com/benln/status/2087929147406299313",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "Starlink-biased flights, recipe-to-Whole Foods, film-scan EXIF, contractor quotes, and more internal jobs.",
+            "zh": "内部最爱清单：偏 Starlink 的机票、菜谱买菜、胶片 GPS、跟承包商砍价等。",
+            "ja": "社内で人気の仕事一覧。Starlink 寄り航空券、レシピで食材注文、フィルムの GPS、見積交渉など。"
+          }
+        },
+        {
+          "title": "Gavin Baker: podcast summarizer in 15 seconds",
+          "url": "https://x.com/GavinSBaker/status/2089379355692527813",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "Calls Grok Bot another Claude Code moment and stands up a podcast summarizer in about 15 seconds.",
+            "zh": "说 Grok Bot 是又一个 Claude Code 时刻，15 秒搭好播客摘要。",
+            "ja": "Grok Bot を次の Claude Code モーメントと呼び、約 15 秒でポッドキャスト要約を組む。"
+          }
+        },
+        {
+          "title": "Krista Letz: Grok Bot for enterprise GTM",
+          "url": "https://x.com/kristaletz/status/2089103618121314689",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "SpaceXAI enterprise seller's roster: CoS, prospecting overnight, per-account experts, live slide updates.",
+            "zh": "SpaceXAI 企业销售编制：CoS、夜间开发、大客户专家、通话中改幻灯片。",
+            "ja": "SpaceXAI のエンタープライズ営業編成。CoS、夜間の見込み客、アカウント専門家、通話中のスライド更新。"
+          }
+        },
+        {
+          "title": "Peter Yang: Commander Keen on the cloud computer",
+          "url": "https://x.com/petergyang/status/2089502606079197347",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "Installs and plays Commander Keen on Grok Bot's cloud desktop, lag and all.",
+            "zh": "在 Grok Bot 云电脑上装并玩 Commander Keen，能玩但有延迟。",
+            "ja": "Grok Bot のクラウドデスクトップに Commander Keen を入れて遊ぶ。動くが遅延あり。"
+          }
+        },
+        {
+          "title": "Kiara: Bot sits in on a missed meeting",
+          "url": "https://x.com/kiaraplds/status/2088321112073547835",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "SpaceXAI field engineer has a Bot join a meeting she misses, announce itself, and take notes.",
+            "zh": "SpaceXAI 现场工程师让 Bot 替她参会、自我介绍并记笔记。",
+            "ja": "SpaceXAI のフィールドエンジニアが、欠席した会議に Bot を出席させ、自己紹介とメモを取る。"
+          }
+        },
+        {
+          "title": "KettlebellDan: Arduino LED stock ticker",
+          "url": "https://x.com/KettlebellDan/status/2089387837204693202",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "Bot talks to his Arduino so the LED marquee scrolls SPCX price, a sparkline, and SpaceX news.",
+            "zh": "Bot 接通 Arduino，LED 字幕滚动 SPCX 股价、折线和 SpaceX 新闻。",
+            "ja": "Bot が Arduino に接続し、LED が SPCX 株価、折れ線、SpaceX ニュースを流す。"
+          }
+        },
+        {
+          "title": "Darian Shirazi: chase five merchant refunds",
+          "url": "https://x.com/darian314/status/2089381004524093752",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "Bot hunts unrefunded returns in email, writes five merchants, and earns back more than the monthly fee.",
+            "zh": "Bot 在邮件里找没退的货，给 5 家商家写信，追回的钱超过月费。",
+            "ja": "Bot が未返金の返品をメールから探し、5 店に連絡して月額以上を取り戻す。"
           }
         }
       ]

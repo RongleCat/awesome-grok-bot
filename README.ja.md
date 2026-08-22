@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-100-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-113-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -53,6 +53,8 @@
 
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 発表記事：always-on のエージェントが専用パソコンを持ち、あなたのツール内で 24/7 働きます。
 - [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - 公式 2026-08-21 の拡大：SuperGrok Plus、Cursor Pro+、すべての Cursor Teams プランに Grok Bot が付きます。
+- [@bot: free trial and wider plan access](https://x.com/bot/status/2090852881373311369) - 公式 2026-08-21。SuperGrok Plus、Cursor Pro+、全 Cursor Teams に開放。その他は利用制限付きの無料トライアル。
+- [@bot: mobile notifications grouped by Bot](https://x.com/bot/status/2089802845239587150) - 公式 2026-08-18。モバイル通知が Bot ごとにまとまり、その Bot のアイコンを使う。
 - [@bot: Some ways people used Grok Bot this week](https://x.com/bot/status/2090168861912170972) - 公式 2026-08-19 スレ。Matic 掃除機から Stripe 返金、会議代理まで 14 件の実地ジョブを引用。
 - [Grok Bot overview](https://docs.x.ai/grok-bot/overview) - 製品の公式概要：名前付き Bot が 1 台のクラウドパソコンを共有し、分離は Bot 単位ではなくユーザー単位です。
 - [Get started](https://docs.x.ai/grok-bot/get-started) - デスクトップ版を入れ、Cursor でログインし、最初の Bot を作ります。公式の Linux デスクトップはありません。
@@ -111,6 +113,17 @@
 - [Peter Yang: Marie Kondo declutter Bot](https://x.com/petergyang/status/2089724101070086482) - 再利用できるプロンプト。メール、Drive、有料サブスクを監査し、削除は承認待ち。
 - [Gergely Orosz: Stripe support refunds](https://x.com/GergelyOrosz/status/2090085668768694562) - サポートメールと Stripe のエージェント返金をつなぎ、送金前に人が確認する。
 - [Mike P: 90,000-email purge](https://x.com/mikepat711/status/2089879632929554498) - 2 つの Gmail にある 9 万通を Bot に任せて、自分では手を付けなかったゴミを捨てる。
+- [Yun-Ta: text a Matic vacuum from Grok Bot](https://x.com/yunta_tsai/status/2089223114416898288) - Chief Engineer Bot が Matic と連携し、どこからでもテキストで掃除機に指示できる。
+- [Wayne Sutton: site, domain, and Cloudflare in two phone prompts](https://x.com/waynesutton/status/2088416215203295346) - スマホでプロンプト 2 本。Convex と Cloudflare を入れ、ドメイン購入とリダイレクトまで。デモは tryground.dev。
+- [Danny Limanseta: 74 game art assets in two hours](https://x.com/DannyLimanseta/status/2087228218797617404) - Bot がコードを読み、自前の画像生成ページで 74 枚の透過 PNG を切ってゲームに戻す。
+- [Jon ONeill: plumbing-shop office manager](https://x.com/HouseHackerJon/status/2087635639701573962) - 配管会社の店主が、最初の 24 時間で事務仕事を Bot に渡す。
+- [Ben Lang: internal Grok Bot job list](https://x.com/benln/status/2087929147406299313) - 社内で人気の仕事一覧。Starlink 寄り航空券、レシピで食材注文、フィルムの GPS、見積交渉など。
+- [Gavin Baker: podcast summarizer in 15 seconds](https://x.com/GavinSBaker/status/2089379355692527813) - Grok Bot を次の Claude Code モーメントと呼び、約 15 秒でポッドキャスト要約を組む。
+- [Krista Letz: Grok Bot for enterprise GTM](https://x.com/kristaletz/status/2089103618121314689) - SpaceXAI のエンタープライズ営業編成。CoS、夜間の見込み客、アカウント専門家、通話中のスライド更新。
+- [Peter Yang: Commander Keen on the cloud computer](https://x.com/petergyang/status/2089502606079197347) - Grok Bot のクラウドデスクトップに Commander Keen を入れて遊ぶ。動くが遅延あり。
+- [Kiara: Bot sits in on a missed meeting](https://x.com/kiaraplds/status/2088321112073547835) - SpaceXAI のフィールドエンジニアが、欠席した会議に Bot を出席させ、自己紹介とメモを取る。
+- [KettlebellDan: Arduino LED stock ticker](https://x.com/KettlebellDan/status/2089387837204693202) - Bot が Arduino に接続し、LED が SPCX 株価、折れ線、SpaceX ニュースを流す。
+- [Darian Shirazi: chase five merchant refunds](https://x.com/darian314/status/2089381004524093752) - Bot が未返金の返品をメールから探し、5 店に連絡して月額以上を取り戻す。
 
 ## スキル、プラグインと MCP
 
@@ -175,7 +188,7 @@
 
 ## 貢献
 
-8 セクションに 100 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 113 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

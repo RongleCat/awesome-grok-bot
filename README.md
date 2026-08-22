@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-100-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-113-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -53,6 +53,8 @@
 
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - Launch note: always-on agents with their own computer, working inside your tools 24/7.
 - [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - Official 2026-08-21 expansion: SuperGrok Plus, Cursor Pro+, and all Cursor Teams plans now include Grok Bot.
+- [@bot: free trial and wider plan access](https://x.com/bot/status/2090852881373311369) - Official 2026-08-21: SuperGrok Plus, Cursor Pro+, and all Cursor Teams get Grok Bot, plus a limited free trial for everyone else.
+- [@bot: mobile notifications grouped by Bot](https://x.com/bot/status/2089802845239587150) - Official 2026-08-18 QoL: mobile notifications group by Bot and use that Bot's icon.
 - [@bot: Some ways people used Grok Bot this week](https://x.com/bot/status/2090168861912170972) - Official 2026-08-19 thread quoting 14 field jobs, from a Matic vacuum to Stripe refunds and a meeting stand-in.
 - [Grok Bot overview](https://docs.x.ai/grok-bot/overview) - Canonical product page: one named Bot, one shared cloud computer, isolation is per user not per Bot.
 - [Get started](https://docs.x.ai/grok-bot/get-started) - Install desktop, sign in with Cursor, create the first Bot. No official Linux desktop.
@@ -111,6 +113,17 @@
 - [Peter Yang: Marie Kondo declutter Bot](https://x.com/petergyang/status/2089724101070086482) - Prompt-and-demo: audit email, Drive, and paid subs, then wait for approval before anything is deleted.
 - [Gergely Orosz: Stripe support refunds](https://x.com/GergelyOrosz/status/2090085668768694562) - Hooks Grok Bot to support mail and Stripe agentic refunds, with a human confirm before money moves.
 - [Mike P: 90,000-email purge](https://x.com/mikepat711/status/2089879632929554498) - Lets a Bot walk two Gmail accounts and throw out junk the owner never wanted to touch.
+- [Yun-Ta: text a Matic vacuum from Grok Bot](https://x.com/yunta_tsai/status/2089223114416898288) - Chief Engineer Bot talks to @maticrobots so he can text the vacuum from anywhere.
+- [Wayne Sutton: site, domain, and Cloudflare in two phone prompts](https://x.com/waynesutton/status/2088416215203295346) - Convex + Cloudflare plugins, a live demo at tryground.dev, domain and redirects bought from the phone.
+- [Danny Limanseta: 74 game art assets in two hours](https://x.com/DannyLimanseta/status/2087228218797617404) - Bot reads the codebase, hits his art-gen page, crops transparent PNGs, and wires 74 card assets back into the game.
+- [Jon ONeill: plumbing-shop office manager](https://x.com/HouseHackerJon/status/2087635639701573962) - Drain-and-sewer shop owner handing office-manager work to a Bot in the first 24 hours.
+- [Ben Lang: internal Grok Bot job list](https://x.com/benln/status/2087929147406299313) - Starlink-biased flights, recipe-to-Whole Foods, film-scan EXIF, contractor quotes, and more internal jobs.
+- [Gavin Baker: podcast summarizer in 15 seconds](https://x.com/GavinSBaker/status/2089379355692527813) - Calls Grok Bot another Claude Code moment and stands up a podcast summarizer in about 15 seconds.
+- [Krista Letz: Grok Bot for enterprise GTM](https://x.com/kristaletz/status/2089103618121314689) - SpaceXAI enterprise seller's roster: CoS, prospecting overnight, per-account experts, live slide updates.
+- [Peter Yang: Commander Keen on the cloud computer](https://x.com/petergyang/status/2089502606079197347) - Installs and plays Commander Keen on Grok Bot's cloud desktop, lag and all.
+- [Kiara: Bot sits in on a missed meeting](https://x.com/kiaraplds/status/2088321112073547835) - SpaceXAI field engineer has a Bot join a meeting she misses, announce itself, and take notes.
+- [KettlebellDan: Arduino LED stock ticker](https://x.com/KettlebellDan/status/2089387837204693202) - Bot talks to his Arduino so the LED marquee scrolls SPCX price, a sparkline, and SpaceX news.
+- [Darian Shirazi: chase five merchant refunds](https://x.com/darian314/status/2089381004524093752) - Bot hunts unrefunded returns in email, writes five merchants, and earns back more than the monthly fee.
 
 ## Skills, Plugins & MCP
 
@@ -175,7 +188,7 @@
 
 ## Contributing
 
-100 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+113 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
