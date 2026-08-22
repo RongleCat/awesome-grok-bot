@@ -36,6 +36,16 @@
           }
         },
         {
+          "title": "@bot: Some ways people used Grok Bot this week",
+          "url": "https://x.com/bot/status/2090168861912170972",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "Official 2026-08-19 thread quoting 14 field jobs, from a Matic vacuum to Stripe refunds and a meeting stand-in.",
+            "zh": "官方 2026-08-19 周报，点名 14 个真实活：扫地机、买域名上线、Stripe 退款、代开会上等。",
+            "ja": "公式 2026-08-19 スレ。Matic 掃除機から Stripe 返金、会議代理まで 14 件の実地ジョブを引用。"
+          }
+        },
+        {
           "title": "Grok Bot overview",
           "url": "https://docs.x.ai/grok-bot/overview",
           "source": "GB-003",
@@ -533,6 +543,36 @@
             "en": "Hands-on JP writeup of living on the shared VM for a week.",
             "zh": "日文实测：在共享云电脑上过一周是什么感觉。",
             "ja": "共有クラウドパソコンで 1 週間暮らした日本語の実地メモ。"
+          }
+        },
+        {
+          "title": "Peter Yang: Marie Kondo declutter Bot",
+          "url": "https://x.com/petergyang/status/2089724101070086482",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "Prompt-and-demo: audit email, Drive, and paid subs, then wait for approval before anything is deleted.",
+            "zh": "可复用提示词：审计邮件、Drive 和付费订阅，删除前等人点头。",
+            "ja": "再利用できるプロンプト。メール、Drive、有料サブスクを監査し、削除は承認待ち。"
+          }
+        },
+        {
+          "title": "Gergely Orosz: Stripe support refunds",
+          "url": "https://x.com/GergelyOrosz/status/2090085668768694562",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "Hooks Grok Bot to support mail and Stripe agentic refunds, with a human confirm before money moves.",
+            "zh": "把 Bot 接到客服邮箱和 Stripe，常规退款先给自己确认再打钱。",
+            "ja": "サポートメールと Stripe のエージェント返金をつなぎ、送金前に人が確認する。"
+          }
+        },
+        {
+          "title": "Mike P: 90,000-email purge",
+          "url": "https://x.com/mikepat711/status/2089879632929554498",
+          "source": "recap-20260819",
+          "blurb": {
+            "en": "Lets a Bot walk two Gmail accounts and throw out junk the owner never wanted to touch.",
+            "zh": "让 Bot 翻两个 Gmail 里的 9 万封信，把从没敢自己清的垃圾扔掉。",
+            "ja": "2 つの Gmail にある 9 万通を Bot に任せて、自分では手を付けなかったゴミを捨てる。"
           }
         }
       ]

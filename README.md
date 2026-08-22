@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-96-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-100-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -53,6 +53,7 @@
 
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - Launch note: always-on agents with their own computer, working inside your tools 24/7.
 - [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - Official 2026-08-21 expansion: SuperGrok Plus, Cursor Pro+, and all Cursor Teams plans now include Grok Bot.
+- [@bot: Some ways people used Grok Bot this week](https://x.com/bot/status/2090168861912170972) - Official 2026-08-19 thread quoting 14 field jobs, from a Matic vacuum to Stripe refunds and a meeting stand-in.
 - [Grok Bot overview](https://docs.x.ai/grok-bot/overview) - Canonical product page: one named Bot, one shared cloud computer, isolation is per user not per Bot.
 - [Get started](https://docs.x.ai/grok-bot/get-started) - Install desktop, sign in with Cursor, create the first Bot. No official Linux desktop.
 - [Use cases](https://docs.x.ai/grok-bot/use-cases) - Official roster ideas: sales CRM nights, ops invoices, engineering bug squash.
@@ -107,6 +108,9 @@
 - [Sid: Polymarket daily settlement brief](https://x.com/sidshekhar24/status/2089735218861326727) - Bot scans the day's settled markets and writes the report.
 - [Logan: the unlock is the computer, not 4.6](https://x.com/LoganJastremski/status/2089903051557491092) - No API, no MCP, no hosted browser — the Bot just uses software like a person.
 - [Japanese note group: cloud-computer field notes](https://note.com/azumimusuhi/n/n0485219790bb) - Hands-on JP writeup of living on the shared VM for a week.
+- [Peter Yang: Marie Kondo declutter Bot](https://x.com/petergyang/status/2089724101070086482) - Prompt-and-demo: audit email, Drive, and paid subs, then wait for approval before anything is deleted.
+- [Gergely Orosz: Stripe support refunds](https://x.com/GergelyOrosz/status/2090085668768694562) - Hooks Grok Bot to support mail and Stripe agentic refunds, with a human confirm before money moves.
+- [Mike P: 90,000-email purge](https://x.com/mikepat711/status/2089879632929554498) - Lets a Bot walk two Gmail accounts and throw out junk the owner never wanted to touch.
 
 ## Skills, Plugins & MCP
 
@@ -171,7 +175,7 @@
 
 ## Contributing
 
-96 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+100 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

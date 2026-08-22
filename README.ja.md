@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-96-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-100-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -53,6 +53,7 @@
 
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 発表記事：always-on のエージェントが専用パソコンを持ち、あなたのツール内で 24/7 働きます。
 - [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - 公式 2026-08-21 の拡大：SuperGrok Plus、Cursor Pro+、すべての Cursor Teams プランに Grok Bot が付きます。
+- [@bot: Some ways people used Grok Bot this week](https://x.com/bot/status/2090168861912170972) - 公式 2026-08-19 スレ。Matic 掃除機から Stripe 返金、会議代理まで 14 件の実地ジョブを引用。
 - [Grok Bot overview](https://docs.x.ai/grok-bot/overview) - 製品の公式概要：名前付き Bot が 1 台のクラウドパソコンを共有し、分離は Bot 単位ではなくユーザー単位です。
 - [Get started](https://docs.x.ai/grok-bot/get-started) - デスクトップ版を入れ、Cursor でログインし、最初の Bot を作ります。公式の Linux デスクトップはありません。
 - [Use cases](https://docs.x.ai/grok-bot/use-cases) - 公式の編成例：営業の夜間 CRM、運用の請求書処理、エンジニアリングのバグ潰し。
@@ -107,6 +108,9 @@
 - [Sid: Polymarket daily settlement brief](https://x.com/sidshekhar24/status/2089735218861326727) - Bot がその日の決済済みマーケットを見てレポートを書きます。
 - [Logan: the unlock is the computer, not 4.6](https://x.com/LoganJastremski/status/2089903051557491092) - API も MCP もホスト型ブラウザも使わず、Bot は人と同じようにソフトを使います。
 - [Japanese note group: cloud-computer field notes](https://note.com/azumimusuhi/n/n0485219790bb) - 共有クラウドパソコンで 1 週間暮らした日本語の実地メモ。
+- [Peter Yang: Marie Kondo declutter Bot](https://x.com/petergyang/status/2089724101070086482) - 再利用できるプロンプト。メール、Drive、有料サブスクを監査し、削除は承認待ち。
+- [Gergely Orosz: Stripe support refunds](https://x.com/GergelyOrosz/status/2090085668768694562) - サポートメールと Stripe のエージェント返金をつなぎ、送金前に人が確認する。
+- [Mike P: 90,000-email purge](https://x.com/mikepat711/status/2089879632929554498) - 2 つの Gmail にある 9 万通を Bot に任せて、自分では手を付けなかったゴミを捨てる。
 
 ## スキル、プラグインと MCP
 
@@ -171,7 +175,7 @@
 
 ## 貢献
 
-8 セクションに 96 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 100 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-96-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-100-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -53,6 +53,7 @@
 
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 首发稿：always-on 智能体自带电脑，在你的工具里 24/7 干活。.
 - [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - 官方 2026-08-21 扩面：SuperGrok Plus、Cursor Pro+ 和全部 Cursor Teams 现已包含 Grok Bot。.
+- [@bot: Some ways people used Grok Bot this week](https://x.com/bot/status/2090168861912170972) - 官方 2026-08-19 周报，点名 14 个真实活：扫地机、买域名上线、Stripe 退款、代开会上等。.
 - [Grok Bot overview](https://docs.x.ai/grok-bot/overview) - 产品总览：有名字的 Bot、共享一台云电脑；隔离按账号不按 Bot。.
 - [Get started](https://docs.x.ai/grok-bot/get-started) - 装桌面端、用 Cursor 登录、建第一个 Bot。官方无 Linux 桌面。.
 - [Use cases](https://docs.x.ai/grok-bot/use-cases) - 官方编制示例：销售夜间更 CRM、运营发票入职、工程复现 Bug。.
@@ -107,6 +108,9 @@
 - [Sid: Polymarket daily settlement brief](https://x.com/sidshekhar24/status/2089735218861326727) - Bot 扫当天结算盘并出报告。.
 - [Logan: the unlock is the computer, not 4.6](https://x.com/LoganJastremski/status/2089903051557491092) - 不靠 API / MCP / 托管浏览器，Bot 像人一样用软件。.
 - [Japanese note group: cloud-computer field notes](https://note.com/azumimusuhi/n/n0485219790bb) - 日文实测：在共享云电脑上过一周是什么感觉。.
+- [Peter Yang: Marie Kondo declutter Bot](https://x.com/petergyang/status/2089724101070086482) - 可复用提示词：审计邮件、Drive 和付费订阅，删除前等人点头。.
+- [Gergely Orosz: Stripe support refunds](https://x.com/GergelyOrosz/status/2090085668768694562) - 把 Bot 接到客服邮箱和 Stripe，常规退款先给自己确认再打钱。.
+- [Mike P: 90,000-email purge](https://x.com/mikepat711/status/2089879632929554498) - 让 Bot 翻两个 Gmail 里的 9 万封信，把从没敢自己清的垃圾扔掉。.
 
 ## 技能、插件与 MCP
 
@@ -171,7 +175,7 @@
 
 ## 贡献
 
-目前 8 个分类、96 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、100 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
