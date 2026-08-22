@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-92-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-96-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -52,6 +52,7 @@
 ## 公式リソース
 
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 発表記事：always-on のエージェントが専用パソコンを持ち、あなたのツール内で 24/7 働きます。
+- [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - 公式 2026-08-21 の拡大：SuperGrok Plus、Cursor Pro+、すべての Cursor Teams プランに Grok Bot が付きます。
 - [Grok Bot overview](https://docs.x.ai/grok-bot/overview) - 製品の公式概要：名前付き Bot が 1 台のクラウドパソコンを共有し、分離は Bot 単位ではなくユーザー単位です。
 - [Get started](https://docs.x.ai/grok-bot/get-started) - デスクトップ版を入れ、Cursor でログインし、最初の Bot を作ります。公式の Linux デスクトップはありません。
 - [Use cases](https://docs.x.ai/grok-bot/use-cases) - 公式の編成例：営業の夜間 CRM、運用の請求書処理、エンジニアリングのバグ潰し。
@@ -66,7 +67,7 @@
 - [Teams and enterprises](https://docs.x.ai/grok-bot/teams-and-enterprises) - チーム向けマーケット、SSO、共有アナリティクス。プラグインは既存の Cursor ポリシーに従います。
 - [Troubleshooting](https://docs.x.ai/grok-bot/troubleshooting) - 再接続、runner、よくある beta 障害向けの公式トラブルシュート一覧。
 - [FAQ](https://docs.x.ai/grok-bot/faq) - 利用資格、パソコンの共有、Bot が覚えられることについての公式の短い回答。
-- [Get access with SuperGrok Heavy](https://cursor.com/help/grok-bot/supergrok-heavy) - Cursor ヘルプ：Heavy / Ultra / Teams Premium の条件。すでに Ultra でも枠は二重に積み上がりません。
+- [Link SuperGrok for Grok Bot](https://cursor.com/help/grok-bot/supergrok-heavy) - Cursor ヘルプ：Grok Bot は SuperGrok Plus と Heavy に含まれる。Ultra 済みなら Plus を繋いでも用量は重なりません。
 - [Grok Bot on mobile (Cursor help)](https://cursor.com/help/grok-bot/mobile) - クラウドパソコン上に残る Bot と、iOS 同伴アプリがどう会話するか。
 - [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - プラグインを優先し、コネクタがなければクラウドブラウザに戻します。
 - [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - 秘密情報は secret card を使い、API キーを Bot のチャットに貼ってはいけません。
@@ -120,6 +121,7 @@
 - [Grok Ship](https://github.com/kunchenguid/grok-ship) - Grok Bot をソフトウェア工場にする配布物。scout と ship を分け、プロジェクトごとの仲間が Cursor Cloud Agent を動かし、PR 前にレビューします。
 - [Coolify Cursor plugin](https://github.com/coollabsio/coolify-cursor-plugin) - Coolify 公式の Cursor / Grok Bot プラグイン。リモート HTTP MCP でサーバー、アプリ、デプロイ、ログを見ます。
 - [Grok Bot Telegram bridge](https://github.com/SSBrouhard/grokbot-telegram-bridge) - 非公式の Telegram ブリッジ。Grok Bot のクラウドパソコン内で動き、ループバックの Sand ゲートウェイとだけ話します。
+- [grok-wechat-plugin](https://github.com/little-thing/grok-wechat-plugin) - 非公式の WeChat iLink チャネル。着信は webhook で Grok Bot の routine を起こします。
 
 ## レビューと比較
 
@@ -143,6 +145,7 @@
 - [OpenMausBot](https://github.com/milind-soni/OpenMausBot) - 同じ always-on パソコンの型を探るコミュニティランタイム。
 - [open-grokbot](https://github.com/ishandutta2007/open-grokbot) - 初期の同等実験。資格情報を渡す前に読んでください。
 - [grok-bot-flake](https://github.com/jordangarrison/grok-bot-flake) - 公式 Linux .deb を詰め直した Nix flake（ソースからのビルドではない）。
+- [grok-bot-bin](https://github.com/Jabbslad/grok-bot-bin) - 非公式の Arch パッケージ。公式 Linux .deb を再梱包します。内蔵アップデータは Linux 非対応です。
 
 ## コミュニティと障害事例
 
@@ -157,6 +160,7 @@
 - [Hacker News discussion](https://news.ycombinator.com/item?id=49261514) - 発表時の HN スレッド。懐疑的な読みに向く。
 - [Native desktop on Arch / Linux](https://forum.cursor.com/t/native-grok-bot-desktop-app-for-arch-linux-and-linux-generally/168084) - Linux デスクトップは第一級ではない。要望とコミュニティのパッケージがここにある。
 - [Does Grok Bot support local MCP?](https://forum.cursor.com/t/does-grok-bot-support-local-mcp-e-g-workflowy/168182) - 公式確認：Grok Bot はローカル / stdio の MCP を付けられません。リモート HTTP MCP かクラウドブラウザです。
+- [Is Grok Bot Down Currently?](https://forum.cursor.com/t/is-grok-bot-down-currently/168918) - 8/20–21 の障害スレ。途中で Bot が落ちる。公式は Settings → Updates の Reset Grok Bot’s Computer を案内。
 
 ## 関連リスト
 
@@ -167,7 +171,7 @@
 
 ## 貢献
 
-8 セクションに 92 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 96 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -23,6 +23,16 @@
             "en": "Launch note: always-on agents with their own computer, working inside your tools 24/7.",
             "zh": "首发稿：always-on 智能体自带电脑，在你的工具里 24/7 干活。",
             "ja": "発表記事：always-on のエージェントが専用パソコンを持ち、あなたのツール内で 24/7 働きます。"
+          }
+        },
+        {
+          "title": "Grok Bot is now included with more plans",
+          "url": "https://x.ai/news/grok-bot-more-plans",
+          "source": "day-20260822",
+          "blurb": {
+            "en": "Official 2026-08-21 expansion: SuperGrok Plus, Cursor Pro+, and all Cursor Teams plans now include Grok Bot.",
+            "zh": "官方 2026-08-21 扩面：SuperGrok Plus、Cursor Pro+ 和全部 Cursor Teams 现已包含 Grok Bot。",
+            "ja": "公式 2026-08-21 の拡大：SuperGrok Plus、Cursor Pro+、すべての Cursor Teams プランに Grok Bot が付きます。"
           }
         },
         {
@@ -166,13 +176,13 @@
           }
         },
         {
-          "title": "Get access with SuperGrok Heavy",
+          "title": "Link SuperGrok for Grok Bot",
           "url": "https://cursor.com/help/grok-bot/supergrok-heavy",
           "source": "GB-020",
           "blurb": {
-            "en": "Cursor help: Heavy / Ultra / Teams Premium gates, and Ultra does not stack twice.",
-            "zh": "Cursor 帮助：Heavy / Ultra / Teams Premium 门槛；已在 Ultra 再绑不叠用量。",
-            "ja": "Cursor ヘルプ：Heavy / Ultra / Teams Premium の条件。すでに Ultra でも枠は二重に積み上がりません。"
+            "en": "Cursor help: Grok Bot is now on SuperGrok Plus and Heavy; already on Ultra, linking Plus does not stack usage.",
+            "zh": "Cursor 帮助：Grok Bot 现含 SuperGrok Plus 与 Heavy；已在 Ultra 再绑 Plus 不叠用量。",
+            "ja": "Cursor ヘルプ：Grok Bot は SuperGrok Plus と Heavy に含まれる。Ultra 済みなら Plus を繋いでも用量は重なりません。"
           }
         },
         {
@@ -644,6 +654,16 @@
             "zh": "非官方 Telegram 网关：跑在 Grok Bot 云电脑里，只跟本机 Sand 网关走回环。",
             "ja": "非公式の Telegram ブリッジ。Grok Bot のクラウドパソコン内で動き、ループバックの Sand ゲートウェイとだけ話します。"
           }
+        },
+        {
+          "title": "grok-wechat-plugin",
+          "url": "https://github.com/little-thing/grok-wechat-plugin",
+          "source": "day-20260822",
+          "blurb": {
+            "en": "Unofficial WeChat iLink channel: inbound messages wake a Grok Bot routine over webhook.",
+            "zh": "非官方微信 iLink 渠道：入站消息走 webhook 唤醒 Grok Bot 例程。",
+            "ja": "非公式の WeChat iLink チャネル。着信は webhook で Grok Bot の routine を起こします。"
+          }
         }
       ]
     },
@@ -834,6 +854,16 @@
             "zh": "把官方 Linux .deb 打成 Nix flake（不是从源码编）。",
             "ja": "公式 Linux .deb を詰め直した Nix flake（ソースからのビルドではない）。"
           }
+        },
+        {
+          "title": "grok-bot-bin",
+          "url": "https://github.com/Jabbslad/grok-bot-bin",
+          "source": "day-20260822",
+          "blurb": {
+            "en": "Unofficial Arch package that repackages the official Linux .deb; the built-in updater does not support Linux.",
+            "zh": "非官方 Arch 包：把官方 Linux .deb 再打包；内置更新器不支持 Linux。",
+            "ja": "非公式の Arch パッケージ。公式 Linux .deb を再梱包します。内蔵アップデータは Linux 非対応です。"
+          }
         }
       ]
     },
@@ -953,6 +983,16 @@
             "en": "Staff-confirmed: Grok Bot cannot attach local or stdio MCP; use remote HTTP MCP or the cloud browser.",
             "zh": "官方确认：Grok Bot 接不了本机或 stdio MCP，只能远程 HTTP MCP 或云浏览器。",
             "ja": "公式確認：Grok Bot はローカル / stdio の MCP を付けられません。リモート HTTP MCP かクラウドブラウザです。"
+          }
+        },
+        {
+          "title": "Is Grok Bot Down Currently?",
+          "url": "https://forum.cursor.com/t/is-grok-bot-down-currently/168918",
+          "source": "day-20260822",
+          "blurb": {
+            "en": "Aug 20–21 outage thread: bots fail mid-turn; staff point to Reset Grok Bot’s Computer under Settings → Updates.",
+            "zh": "8/20–21 故障帖：Bot 做到一半挂掉；官方建议 Settings → Updates 里 Reset Grok Bot’s Computer。",
+            "ja": "8/20–21 の障害スレ。途中で Bot が落ちる。公式は Settings → Updates の Reset Grok Bot’s Computer を案内。"
           }
         }
       ]

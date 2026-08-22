@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-92-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-96-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -52,6 +52,7 @@
 ## Official Resources
 
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - Launch note: always-on agents with their own computer, working inside your tools 24/7.
+- [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - Official 2026-08-21 expansion: SuperGrok Plus, Cursor Pro+, and all Cursor Teams plans now include Grok Bot.
 - [Grok Bot overview](https://docs.x.ai/grok-bot/overview) - Canonical product page: one named Bot, one shared cloud computer, isolation is per user not per Bot.
 - [Get started](https://docs.x.ai/grok-bot/get-started) - Install desktop, sign in with Cursor, create the first Bot. No official Linux desktop.
 - [Use cases](https://docs.x.ai/grok-bot/use-cases) - Official roster ideas: sales CRM nights, ops invoices, engineering bug squash.
@@ -66,7 +67,7 @@
 - [Teams and enterprises](https://docs.x.ai/grok-bot/teams-and-enterprises) - Team marketplace, SSO, shared analytics. Plugins follow existing Cursor policy.
 - [Troubleshooting](https://docs.x.ai/grok-bot/troubleshooting) - Official fix list for reconnect, runners, and common beta failures.
 - [FAQ](https://docs.x.ai/grok-bot/faq) - Short official answers on access, computer sharing, and what Bots can remember.
-- [Get access with SuperGrok Heavy](https://cursor.com/help/grok-bot/supergrok-heavy) - Cursor help: Heavy / Ultra / Teams Premium gates, and Ultra does not stack twice.
+- [Link SuperGrok for Grok Bot](https://cursor.com/help/grok-bot/supergrok-heavy) - Cursor help: Grok Bot is now on SuperGrok Plus and Heavy; already on Ultra, linking Plus does not stack usage.
 - [Grok Bot on mobile (Cursor help)](https://cursor.com/help/grok-bot/mobile) - How the iOS companion talks to Bots that stay on the cloud computer.
 - [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - Prefer a plugin; fall back to the cloud browser when the connector is missing.
 - [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - Use the secret card. Never paste API keys into the Bot chat.
@@ -120,6 +121,7 @@
 - [Grok Ship](https://github.com/kunchenguid/grok-ship) - Agent distro that turns Grok Bot into a software factory: scout vs ship, per-project crewmates driving Cursor cloud agents, review before any PR.
 - [Coolify Cursor plugin](https://github.com/coollabsio/coolify-cursor-plugin) - Official Coolify plugin for Cursor and Grok Bot: remote HTTP MCP to inspect servers, apps, deploys, and logs.
 - [Grok Bot Telegram bridge](https://github.com/SSBrouhard/grokbot-telegram-bridge) - Unofficial Telegram gateway that runs on the Grok Bot computer and talks to the local Sand gateway on loopback only.
+- [grok-wechat-plugin](https://github.com/little-thing/grok-wechat-plugin) - Unofficial WeChat iLink channel: inbound messages wake a Grok Bot routine over webhook.
 
 ## Reviews & Comparisons
 
@@ -143,6 +145,7 @@
 - [OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Community runtime exploring the same always-on computer pattern.
 - [open-grokbot](https://github.com/ishandutta2007/open-grokbot) - Early equivalent / experiment — read before you grant credentials.
 - [grok-bot-flake](https://github.com/jordangarrison/grok-bot-flake) - Nix flake that repackages the official Linux .deb (no source build).
+- [grok-bot-bin](https://github.com/Jabbslad/grok-bot-bin) - Unofficial Arch package that repackages the official Linux .deb; the built-in updater does not support Linux.
 
 ## Community & Failure Modes
 
@@ -157,6 +160,7 @@
 - [Hacker News discussion](https://news.ycombinator.com/item?id=49261514) - HN thread on the launch — useful for the skeptical read.
 - [Native desktop on Arch / Linux](https://forum.cursor.com/t/native-grok-bot-desktop-app-for-arch-linux-and-linux-generally/168084) - Linux desktop is not first-class; this is the request plus community packs.
 - [Does Grok Bot support local MCP?](https://forum.cursor.com/t/does-grok-bot-support-local-mcp-e-g-workflowy/168182) - Staff-confirmed: Grok Bot cannot attach local or stdio MCP; use remote HTTP MCP or the cloud browser.
+- [Is Grok Bot Down Currently?](https://forum.cursor.com/t/is-grok-bot-down-currently/168918) - Aug 20–21 outage thread: bots fail mid-turn; staff point to Reset Grok Bot’s Computer under Settings → Updates.
 
 ## Related Lists
 
@@ -167,7 +171,7 @@
 
 ## Contributing
 
-92 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+96 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

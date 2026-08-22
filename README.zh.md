@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-92-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-96-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -52,6 +52,7 @@
 ## 官方资源
 
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 首发稿：always-on 智能体自带电脑，在你的工具里 24/7 干活。.
+- [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - 官方 2026-08-21 扩面：SuperGrok Plus、Cursor Pro+ 和全部 Cursor Teams 现已包含 Grok Bot。.
 - [Grok Bot overview](https://docs.x.ai/grok-bot/overview) - 产品总览：有名字的 Bot、共享一台云电脑；隔离按账号不按 Bot。.
 - [Get started](https://docs.x.ai/grok-bot/get-started) - 装桌面端、用 Cursor 登录、建第一个 Bot。官方无 Linux 桌面。.
 - [Use cases](https://docs.x.ai/grok-bot/use-cases) - 官方编制示例：销售夜间更 CRM、运营发票入职、工程复现 Bug。.
@@ -66,7 +67,7 @@
 - [Teams and enterprises](https://docs.x.ai/grok-bot/teams-and-enterprises) - 团队市场、SSO、共享用量。插件策略跟现有 Cursor 政策走。.
 - [Troubleshooting](https://docs.x.ai/grok-bot/troubleshooting) - 官方排障：重连、runner 挂掉、常见 beta 故障。.
 - [FAQ](https://docs.x.ai/grok-bot/faq) - 官方短答：资格、共享电脑、Bot 记得什么。.
-- [Get access with SuperGrok Heavy](https://cursor.com/help/grok-bot/supergrok-heavy) - Cursor 帮助：Heavy / Ultra / Teams Premium 门槛；已在 Ultra 再绑不叠用量。.
+- [Link SuperGrok for Grok Bot](https://cursor.com/help/grok-bot/supergrok-heavy) - Cursor 帮助：Grok Bot 现含 SuperGrok Plus 与 Heavy；已在 Ultra 再绑 Plus 不叠用量。.
 - [Grok Bot on mobile (Cursor help)](https://cursor.com/help/grok-bot/mobile) - iOS 同伴怎么跟仍在云电脑上的 Bot 说话。.
 - [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - 优先插件；没有连接器就退回云浏览器。.
 - [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - 密钥走 secret card，禁止把 Key 贴进聊天。.
@@ -120,6 +121,7 @@
 - [Grok Ship](https://github.com/kunchenguid/grok-ship) - 把 Grok Bot 编成软件工厂：scout/ship 分工、项目组员开 Cursor Cloud Agent，合 PR 前先对抗审查。.
 - [Coolify Cursor plugin](https://github.com/coollabsio/coolify-cursor-plugin) - Coolify 官方 Cursor / Grok Bot 插件：远程 HTTP MCP 看服务器、应用、部署和日志。.
 - [Grok Bot Telegram bridge](https://github.com/SSBrouhard/grokbot-telegram-bridge) - 非官方 Telegram 网关：跑在 Grok Bot 云电脑里，只跟本机 Sand 网关走回环。.
+- [grok-wechat-plugin](https://github.com/little-thing/grok-wechat-plugin) - 非官方微信 iLink 渠道：入站消息走 webhook 唤醒 Grok Bot 例程。.
 
 ## 评测与对比
 
@@ -143,6 +145,7 @@
 - [OpenMausBot](https://github.com/milind-soni/OpenMausBot) - 社区运行时，探索同一套 always-on 电脑模式。.
 - [open-grokbot](https://github.com/ishandutta2007/open-grokbot) - 早期等价实验，授权前先读代码。.
 - [grok-bot-flake](https://github.com/jordangarrison/grok-bot-flake) - 把官方 Linux .deb 打成 Nix flake（不是从源码编）。.
+- [grok-bot-bin](https://github.com/Jabbslad/grok-bot-bin) - 非官方 Arch 包：把官方 Linux .deb 再打包；内置更新器不支持 Linux。.
 
 ## 社区与故障现场
 
@@ -157,6 +160,7 @@
 - [Hacker News discussion](https://news.ycombinator.com/item?id=49261514) - HN 首发讨论，适合看怀疑派怎么说。.
 - [Native desktop on Arch / Linux](https://forum.cursor.com/t/native-grok-bot-desktop-app-for-arch-linux-and-linux-generally/168084) - Linux 桌面不是一等公民；这里是诉求和社区打包。.
 - [Does Grok Bot support local MCP?](https://forum.cursor.com/t/does-grok-bot-support-local-mcp-e-g-workflowy/168182) - 官方确认：Grok Bot 接不了本机或 stdio MCP，只能远程 HTTP MCP 或云浏览器。.
+- [Is Grok Bot Down Currently?](https://forum.cursor.com/t/is-grok-bot-down-currently/168918) - 8/20–21 故障帖：Bot 做到一半挂掉；官方建议 Settings → Updates 里 Reset Grok Bot’s Computer。.
 
 ## 相关列表
 
@@ -167,7 +171,7 @@
 
 ## 贡献
 
-目前 8 个分类、92 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、96 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
