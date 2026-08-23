@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-113-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-117-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -36,6 +36,10 @@
 ## 活动
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/5vkzzvqk"><img src="./assets/events/sz-20260830-cover.png" alt="Grok Bot 深圳线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 深圳线下交流</strong><br />2026-08-30 周日 14:00–17:30<br />深圳 · 报名通过后可见地址<br /><br />中国首场 Grok Bot 线下。破冰 + 分享 / Workshop。预报名，需主办审核，名额有限。到时铁柱AGI、阿真在。欢迎深圳 AI 博主，用过 Grok Bot 的优先。<br /><br /><a href="https://luma.com/5vkzzvqk"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><img src="./assets/events/mo-20260905-cover.png" alt="Grok Bot 澳门学生工作坊" width="300" /></a></td><td valign="top"><strong>Grok Bot 澳门学生工作坊</strong><br />2026-09-05 周六 14:30-17:30<br />澳门大学迎宾馆 N1-1005<br /><br />免费学生场：上手 Grok Bot + 创始人分享。粤语为主、可英辅。40 人已满，可候补。<br /><br /><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><strong>去 Luma 候补 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot 拉斯维加斯线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 拉斯维加斯线下交流</strong><br />2026-09-15 周一 18:00-20:00（太平洋夏令时）<br />拉斯维加斯 · 报名审核后可见场地<br /><br />破冰 + 分享 / Workshop，Cursor 团队视频问答。需主办审核，场地待定。<br /><br /><a href="https://luma.com/cursor-kaua"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 ## 目录
 
@@ -139,6 +143,8 @@
 - [Coolify Cursor plugin](https://github.com/coollabsio/coolify-cursor-plugin) - Coolify 官方 Cursor / Grok Bot 插件：远程 HTTP MCP 看服务器、应用、部署和日志。.
 - [Grok Bot Telegram bridge](https://github.com/SSBrouhard/grokbot-telegram-bridge) - 非官方 Telegram 网关：跑在 Grok Bot 云电脑里，只跟本机 Sand 网关走回环。.
 - [grok-wechat-plugin](https://github.com/little-thing/grok-wechat-plugin) - 非官方微信 iLink 渠道：入站消息走 webhook 唤醒 Grok Bot 例程。.
+- [grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli) - 复用已登录 macOS Grok Bot 应用，在终端列出、创建、给队友发消息。.
+- [grok-bot-skill](https://github.com/adamanz/grok-bot-skill) - Cursor/Claude 技能，让编程助手能列出、对话、创建 Grok Bot 队友。.
 
 ## 评测与对比
 
@@ -178,6 +184,7 @@
 - [Native desktop on Arch / Linux](https://forum.cursor.com/t/native-grok-bot-desktop-app-for-arch-linux-and-linux-generally/168084) - Linux 桌面不是一等公民；这里是诉求和社区打包。.
 - [Does Grok Bot support local MCP?](https://forum.cursor.com/t/does-grok-bot-support-local-mcp-e-g-workflowy/168182) - 官方确认：Grok Bot 接不了本机或 stdio MCP，只能远程 HTTP MCP 或云浏览器。.
 - [Is Grok Bot Down Currently?](https://forum.cursor.com/t/is-grok-bot-down-currently/168918) - 8/20–21 故障帖：Bot 做到一半挂掉；官方建议 Settings → Updates 里 Reset Grok Bot’s Computer。.
+- [Grok Bot 0.23.0 first setup: createAgent / Cannot reach your computer](https://forum.cursor.com/t/grok-bot-0-23-0-first-setup-fails-createagent-can-t-reach-your-computer/169007) - 官方确认的首装失败：云电脑没建出来，Reset 入口也没有。.
 
 ## 相关列表
 
@@ -185,10 +192,11 @@
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - MCP Server 大全。Grok Bot 走 Cursor 的插件/MCP 政策。.
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill 格式的姐妹生态；不少 SKILL.md 概念上可迁移。.
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - 社区 Bot 目录，站点本身也是 beta。.
+- [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 56 份可粘贴的 Bot 人设和起步小队，丢给 Setup Bot 即可。.
 
 ## 贡献
 
-目前 8 个分类、113 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、117 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-08-22",
+  "updated": "2026-08-23",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -834,6 +834,26 @@
             "zh": "非官方微信 iLink 渠道：入站消息走 webhook 唤醒 Grok Bot 例程。",
             "ja": "非公式の WeChat iLink チャネル。着信は webhook で Grok Bot の routine を起こします。"
           }
+        },
+        {
+          "title": "grok-bot-cli",
+          "url": "https://github.com/ScriptedAlchemy/grok-bot-cli",
+          "source": "day-20260823",
+          "blurb": {
+            "en": "Terminal CLI that reuses the signed-in macOS Grok Bot app to list, create, and message teammates.",
+            "zh": "复用已登录 macOS Grok Bot 应用，在终端列出、创建、给队友发消息。",
+            "ja": "サインイン済み macOS アプリを使い、端末から Bot の一覧・作成・送信をする CLI。"
+          }
+        },
+        {
+          "title": "grok-bot-skill",
+          "url": "https://github.com/adamanz/grok-bot-skill",
+          "source": "day-20260823",
+          "blurb": {
+            "en": "Cursor/Claude skill so a coding agent can list, chat with, and create Grok Bot teammates.",
+            "zh": "Cursor/Claude 技能，让编程助手能列出、对话、创建 Grok Bot 队友。",
+            "ja": "Cursor/Claude 用スキル。Grok Bot の一覧、会話、作成ができる。"
+          }
         }
       ]
     },
@@ -1164,6 +1184,16 @@
             "zh": "8/20–21 故障帖：Bot 做到一半挂掉；官方建议 Settings → Updates 里 Reset Grok Bot’s Computer。",
             "ja": "8/20–21 の障害スレ。途中で Bot が落ちる。公式は Settings → Updates の Reset Grok Bot’s Computer を案内。"
           }
+        },
+        {
+          "title": "Grok Bot 0.23.0 first setup: createAgent / Cannot reach your computer",
+          "url": "https://forum.cursor.com/t/grok-bot-0-23-0-first-setup-fails-createagent-can-t-reach-your-computer/169007",
+          "source": "day-20260823",
+          "blurb": {
+            "en": "Staff-confirmed first-run failure: the cloud computer never provisions, so Reset is unavailable.",
+            "zh": "官方确认的首装失败：云电脑没建出来，Reset 入口也没有。",
+            "ja": "公式確認の初回失敗。クラウド機が立たず Reset も出せない。"
+          }
         }
       ]
     },
@@ -1214,6 +1244,16 @@
             "zh": "社区 Bot 目录，站点本身也是 beta。",
             "ja": "稼働中 Bot のコミュニティディレクトリ。サイト自体も beta 扱い。"
           }
+        },
+        {
+          "title": "mergisi/awesome-grokbot",
+          "url": "https://github.com/mergisi/awesome-grokbot",
+          "source": "day-20260823",
+          "blurb": {
+            "en": "56 copy-paste Bot profiles and starter teams you drop into a Setup Bot.",
+            "zh": "56 份可粘贴的 Bot 人设和起步小队，丢给 Setup Bot 即可。",
+            "ja": "56 件のコピペ用 Bot プロフィールとスターターチーム。"
+          }
         }
       ]
     }
@@ -1243,6 +1283,68 @@
         "en": "China’s first in-person Grok Bot meetup. Icebreaker + talks / workshop. Pre-register, host approval, limited seats. 铁柱AGI and 阿真 will be there. Shenzhen AI writers welcome — people who have used Grok Bot preferred.",
         "zh": "中国首场 Grok Bot 线下。破冰 + 分享 / Workshop。预报名，需主办审核，名额有限。到时铁柱AGI、阿真在。欢迎深圳 AI 博主，用过 Grok Bot 的优先。",
         "ja": "中国初の Grok Bot オフライン。アイスブレイクと共有 / Workshop。事前登録、主催者承認、定員あり。铁柱AGI と 阿真 が参加。深圳の AI ブロガー歓迎。Grok Bot を使った人を優先。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "mo-20260905",
+      "url": "https://luma.com/cursor-macau-creativity-workshop-2026-sep",
+      "image": "./assets/events/mo-20260905-cover.png",
+      "expires": "2026-09-05T17:30:00+08:00",
+      "title": {
+        "en": "Grok Bot Macau Student Workshop",
+        "zh": "Grok Bot 澳门学生工作坊",
+        "ja": "Grok Bot Macau Student Workshop"
+      },
+      "when": {
+        "en": "Sat 5 Sep 2026, 14:30-17:30 (GMT+8)",
+        "zh": "2026-09-05 周六 14:30-17:30",
+        "ja": "2026-09-05（土）14:30-17:30（GMT+8）"
+      },
+      "where": {
+        "en": "University of Macau, Guest House N1-1005",
+        "zh": "澳门大学迎宾馆 N1-1005",
+        "ja": "マカオ大学ゲストハウス N1-1005"
+      },
+      "body": {
+        "en": "Free student workshop: hands-on Grok Bot plus a founder talk. Cantonese with English support. 40 seats, now waitlist.",
+        "zh": "免费学生场：上手 Grok Bot + 创始人分享。粤语为主、可英辅。40 人已满，可候补。",
+        "ja": "無料の学生ワークショップ。Grok Bot 実習と創業者トーク。広東語（英語サポートあり）。40 席は満席、ウェイティング可。"
+      },
+      "cta": {
+        "en": "Join the waitlist on Luma",
+        "zh": "去 Luma 候补",
+        "ja": "Luma でウェイティング登録"
+      }
+    },
+    {
+      "id": "lv-20260915",
+      "url": "https://luma.com/cursor-kaua",
+      "image": "./assets/events/lv-20260915-cover.png",
+      "expires": "2026-09-15T20:00:00-07:00",
+      "title": {
+        "en": "Grok Bot Meetup Las Vegas",
+        "zh": "Grok Bot 拉斯维加斯线下交流",
+        "ja": "Grok Bot Meetup Las Vegas"
+      },
+      "when": {
+        "en": "Mon 15 Sep 2026, 18:00-20:00 (PDT)",
+        "zh": "2026-09-15 周一 18:00-20:00（太平洋夏令时）",
+        "ja": "2026-09-15（月）18:00-20:00（PDT）"
+      },
+      "where": {
+        "en": "Las Vegas, NV, venue TBD after you register",
+        "zh": "拉斯维加斯 · 报名审核后可见场地",
+        "ja": "ラスベガス · 登録承認後に会場を表示"
+      },
+      "body": {
+        "en": "Networking, talks/workshop, and a Cursor-team Q&A on video. Host approval required, venue still TBD.",
+        "zh": "破冰 + 分享 / Workshop，Cursor 团队视频问答。需主办审核，场地待定。",
+        "ja": "交流、トーク / Workshop、Cursor チームのビデオ Q&A。主催者承認制、会場は未定。"
       },
       "cta": {
         "en": "Register on Luma",

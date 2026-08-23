@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-113-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-117-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -36,6 +36,10 @@
 ## イベント
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/5vkzzvqk"><img src="./assets/events/sz-20260830-cover.png" alt="Grok Bot Meetup Shenzhen" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Shenzhen</strong><br />2026-08-30（日）14:00–17:30（GMT+8）<br />深圳 · 登録後に住所を表示<br /><br />中国初の Grok Bot オフライン。アイスブレイクと共有 / Workshop。事前登録、主催者承認、定員あり。铁柱AGI と 阿真 が参加。深圳の AI ブロガー歓迎。Grok Bot を使った人を優先。<br /><br /><a href="https://luma.com/5vkzzvqk"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><img src="./assets/events/mo-20260905-cover.png" alt="Grok Bot Macau Student Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Macau Student Workshop</strong><br />2026-09-05（土）14:30-17:30（GMT+8）<br />マカオ大学ゲストハウス N1-1005<br /><br />無料の学生ワークショップ。Grok Bot 実習と創業者トーク。広東語（英語サポートあり）。40 席は満席、ウェイティング可。<br /><br /><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><strong>Luma でウェイティング登録 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot Meetup Las Vegas" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Las Vegas</strong><br />2026-09-15（月）18:00-20:00（PDT）<br />ラスベガス · 登録承認後に会場を表示<br /><br />交流、トーク / Workshop、Cursor チームのビデオ Q&A。主催者承認制、会場は未定。<br /><br /><a href="https://luma.com/cursor-kaua"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 ## 目次
 
@@ -139,6 +143,8 @@
 - [Coolify Cursor plugin](https://github.com/coollabsio/coolify-cursor-plugin) - Coolify 公式の Cursor / Grok Bot プラグイン。リモート HTTP MCP でサーバー、アプリ、デプロイ、ログを見ます。
 - [Grok Bot Telegram bridge](https://github.com/SSBrouhard/grokbot-telegram-bridge) - 非公式の Telegram ブリッジ。Grok Bot のクラウドパソコン内で動き、ループバックの Sand ゲートウェイとだけ話します。
 - [grok-wechat-plugin](https://github.com/little-thing/grok-wechat-plugin) - 非公式の WeChat iLink チャネル。着信は webhook で Grok Bot の routine を起こします。
+- [grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli) - サインイン済み macOS アプリを使い、端末から Bot の一覧・作成・送信をする CLI。
+- [grok-bot-skill](https://github.com/adamanz/grok-bot-skill) - Cursor/Claude 用スキル。Grok Bot の一覧、会話、作成ができる。
 
 ## レビューと比較
 
@@ -178,6 +184,7 @@
 - [Native desktop on Arch / Linux](https://forum.cursor.com/t/native-grok-bot-desktop-app-for-arch-linux-and-linux-generally/168084) - Linux デスクトップは第一級ではない。要望とコミュニティのパッケージがここにある。
 - [Does Grok Bot support local MCP?](https://forum.cursor.com/t/does-grok-bot-support-local-mcp-e-g-workflowy/168182) - 公式確認：Grok Bot はローカル / stdio の MCP を付けられません。リモート HTTP MCP かクラウドブラウザです。
 - [Is Grok Bot Down Currently?](https://forum.cursor.com/t/is-grok-bot-down-currently/168918) - 8/20–21 の障害スレ。途中で Bot が落ちる。公式は Settings → Updates の Reset Grok Bot’s Computer を案内。
+- [Grok Bot 0.23.0 first setup: createAgent / Cannot reach your computer](https://forum.cursor.com/t/grok-bot-0-23-0-first-setup-fails-createagent-can-t-reach-your-computer/169007) - 公式確認の初回失敗。クラウド機が立たず Reset も出せない。
 
 ## 関連リスト
 
@@ -185,10 +192,11 @@
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - MCP サーバー一覧。Grok Bot は Cursor のプラグイン/MCP ポリシーに従います。
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill 形式の姉妹エコシステム。多くの SKILL.md は概念として移植できる。
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - 稼働中 Bot のコミュニティディレクトリ。サイト自体も beta 扱い。
+- [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 56 件のコピペ用 Bot プロフィールとスターターチーム。
 
 ## 貢献
 
-8 セクションに 113 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 117 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

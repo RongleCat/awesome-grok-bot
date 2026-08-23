@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-113-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-117-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -36,6 +36,10 @@
 ## Upcoming
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/5vkzzvqk"><img src="./assets/events/sz-20260830-cover.png" alt="Grok Bot Meetup Shenzhen" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Shenzhen</strong><br />Sun 30 Aug 2026, 14:00–17:30 (GMT+8)<br />Shenzhen · exact address after you register<br /><br />China’s first in-person Grok Bot meetup. Icebreaker + talks / workshop. Pre-register, host approval, limited seats. 铁柱AGI and 阿真 will be there. Shenzhen AI writers welcome — people who have used Grok Bot preferred.<br /><br /><a href="https://luma.com/5vkzzvqk"><strong>Register on Luma →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><img src="./assets/events/mo-20260905-cover.png" alt="Grok Bot Macau Student Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Macau Student Workshop</strong><br />Sat 5 Sep 2026, 14:30-17:30 (GMT+8)<br />University of Macau, Guest House N1-1005<br /><br />Free student workshop: hands-on Grok Bot plus a founder talk. Cantonese with English support. 40 seats, now waitlist.<br /><br /><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><strong>Join the waitlist on Luma →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot Meetup Las Vegas" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Las Vegas</strong><br />Mon 15 Sep 2026, 18:00-20:00 (PDT)<br />Las Vegas, NV, venue TBD after you register<br /><br />Networking, talks/workshop, and a Cursor-team Q&A on video. Host approval required, venue still TBD.<br /><br /><a href="https://luma.com/cursor-kaua"><strong>Register on Luma →</strong></a></td></tr></table>
 
 ## Contents
 
@@ -139,6 +143,8 @@
 - [Coolify Cursor plugin](https://github.com/coollabsio/coolify-cursor-plugin) - Official Coolify plugin for Cursor and Grok Bot: remote HTTP MCP to inspect servers, apps, deploys, and logs.
 - [Grok Bot Telegram bridge](https://github.com/SSBrouhard/grokbot-telegram-bridge) - Unofficial Telegram gateway that runs on the Grok Bot computer and talks to the local Sand gateway on loopback only.
 - [grok-wechat-plugin](https://github.com/little-thing/grok-wechat-plugin) - Unofficial WeChat iLink channel: inbound messages wake a Grok Bot routine over webhook.
+- [grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli) - Terminal CLI that reuses the signed-in macOS Grok Bot app to list, create, and message teammates.
+- [grok-bot-skill](https://github.com/adamanz/grok-bot-skill) - Cursor/Claude skill so a coding agent can list, chat with, and create Grok Bot teammates.
 
 ## Reviews & Comparisons
 
@@ -178,6 +184,7 @@
 - [Native desktop on Arch / Linux](https://forum.cursor.com/t/native-grok-bot-desktop-app-for-arch-linux-and-linux-generally/168084) - Linux desktop is not first-class; this is the request plus community packs.
 - [Does Grok Bot support local MCP?](https://forum.cursor.com/t/does-grok-bot-support-local-mcp-e-g-workflowy/168182) - Staff-confirmed: Grok Bot cannot attach local or stdio MCP; use remote HTTP MCP or the cloud browser.
 - [Is Grok Bot Down Currently?](https://forum.cursor.com/t/is-grok-bot-down-currently/168918) - Aug 20–21 outage thread: bots fail mid-turn; staff point to Reset Grok Bot’s Computer under Settings → Updates.
+- [Grok Bot 0.23.0 first setup: createAgent / Cannot reach your computer](https://forum.cursor.com/t/grok-bot-0-23-0-first-setup-fails-createagent-can-t-reach-your-computer/169007) - Staff-confirmed first-run failure: the cloud computer never provisions, so Reset is unavailable.
 
 ## Related Lists
 
@@ -185,10 +192,11 @@
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - MCP server catalog. Grok Bot follows Cursor plugin/MCP policy.
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill-format sibling ecosystem; many SKILL.md packs are conceptually portable.
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - Community directory of live Bots — treat the site as beta.
+- [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 56 copy-paste Bot profiles and starter teams you drop into a Setup Bot.
 
 ## Contributing
 
-113 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+117 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
