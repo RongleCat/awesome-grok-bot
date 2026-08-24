@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-117-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-123-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -78,6 +78,8 @@
 - [Grok Bot on mobile (Cursor help)](https://cursor.com/help/grok-bot/mobile) - iOS 同伴怎么跟仍在云电脑上的 Bot 说话。.
 - [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - 优先插件；没有连接器就退回云浏览器。.
 - [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - 密钥走 secret card，禁止把 Key 贴进聊天。.
+- [Recover Grok Bot computer data](https://cursor.com/help/grok-bot/computer-recovery) - 官方恢复说明：对话在云电脑文件系统之外；重开盒子会灌回已同步文件，Reset 是最后手段。.
+- [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - 官方计费问答：Pro+ / Ultra / Teams 自带，试用是 7 天用量额度，绑定 SuperGrok 不可撤销。.
 - [Grok Bot on the App Store](https://apps.apple.com/us/app/grok-bot/id6794501026) - 官方 iOS 同伴 App 商店页。.
 - [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) - 官方 .grok-plugin 市场；Grok Bot 沿用 Cursor 插件政策。.
 
@@ -96,6 +98,7 @@
 - [Use the remote computer from your phone](https://x.com/bot/status/2089802847223468116) - @bot 体验更新：不用开笔记本，手机也能用云电脑。.
 - [Uncle-Gizmo notes](https://github.com/Uncle-Gizmo/grok-bot-info) - 公开笔记：安全示例工作流，以及它和 Grok Build 怎么并存。.
 - [Grok Bot for GTM](https://github.com/bcharleson/grokbot-for-gtm) - 玩法包：让 Grok Bot 在自己电脑上跑 outbound（Instantly / HeyReach / 名单 CLI），外发需人点头。.
+- [Paul J Lipsky: Cursor Just Released Grok Bot](https://www.youtube.com/watch?v=QTcZPI-g7is) - 按角色建 Bot、群聊、插件、教任务，以及把 iOS 当日常入口的上手视频。.
 
 ## 真实使用案例
 
@@ -185,6 +188,8 @@
 - [Does Grok Bot support local MCP?](https://forum.cursor.com/t/does-grok-bot-support-local-mcp-e-g-workflowy/168182) - 官方确认：Grok Bot 接不了本机或 stdio MCP，只能远程 HTTP MCP 或云浏览器。.
 - [Is Grok Bot Down Currently?](https://forum.cursor.com/t/is-grok-bot-down-currently/168918) - 8/20–21 故障帖：Bot 做到一半挂掉；官方建议 Settings → Updates 里 Reset Grok Bot’s Computer。.
 - [Grok Bot 0.23.0 first setup: createAgent / Cannot reach your computer](https://forum.cursor.com/t/grok-bot-0-23-0-first-setup-fails-createagent-can-t-reach-your-computer/169007) - 官方确认的首装失败：云电脑没建出来，Reset 入口也没有。.
+- [Grok Bot: Mac chat works, local computer reported offline](https://forum.cursor.com/t/grok-bot-mac-chat-works-local-computer-reported-offline/168973) - 官方确认的分裂故障：聊天还在，Mac 本机连接掉了；彻底退出可重连，0.23 已修。.
+- [Computer refresh wipes WhatsApp linked-device session in Grok Bot](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - 官方：电脑刷新会保留 /workspace、浏览器配置和 ~/.config，不含 ~/.local/state，WhatsApp 已链接会话会丢。.
 
 ## 相关列表
 
@@ -193,10 +198,11 @@
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill 格式的姐妹生态；不少 SKILL.md 概念上可迁移。.
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - 社区 Bot 目录，站点本身也是 beta。.
 - [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 56 份可粘贴的 Bot 人设和起步小队，丢给 Setup Bot 即可。.
+- [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - 社区提示词目录（111 star）：把条目贴进 Grok Bot，它会把自己配成定时 Bot。.
 
 ## 贡献
 
-目前 8 个分类、117 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、123 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

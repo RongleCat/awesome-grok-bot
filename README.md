@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-117-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-123-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -78,6 +78,8 @@
 - [Grok Bot on mobile (Cursor help)](https://cursor.com/help/grok-bot/mobile) - How the iOS companion talks to Bots that stay on the cloud computer.
 - [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - Prefer a plugin; fall back to the cloud browser when the connector is missing.
 - [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - Use the secret card. Never paste API keys into the Bot chat.
+- [Recover Grok Bot computer data](https://cursor.com/help/grok-bot/computer-recovery) - Official recovery guide: chat history lives outside the box; reopen restores synced files, Reset is last resort.
+- [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - Official billing FAQ: Pro+ / Ultra / Teams include it, trial is a 7-day usage credit, SuperGrok link is one-way.
 - [Grok Bot on the App Store](https://apps.apple.com/us/app/grok-bot/id6794501026) - Official iOS listing for the companion app.
 - [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) - Official .grok-plugin marketplace Grok Bot inherits under Cursor plugin policy.
 
@@ -96,6 +98,7 @@
 - [Use the remote computer from your phone](https://x.com/bot/status/2089802847223468116) - @bot QoL: drive the cloud machine from iOS without opening the laptop.
 - [Uncle-Gizmo notes](https://github.com/Uncle-Gizmo/grok-bot-info) - Public notes on safe example workflows and how Bot sits next to Grok Build.
 - [Grok Bot for GTM](https://github.com/bcharleson/grokbot-for-gtm) - Playbook plus skills so a Grok Bot can run outbound GTM on its own computer: Instantly, HeyReach, list CLIs, human-approved sends.
+- [Paul J Lipsky: Cursor Just Released Grok Bot](https://www.youtube.com/watch?v=QTcZPI-g7is) - Walkthrough of role-based bots, group chats, plugins, Teach a task, and the iOS app as the daily driver.
 
 ## Field Cases
 
@@ -185,6 +188,8 @@
 - [Does Grok Bot support local MCP?](https://forum.cursor.com/t/does-grok-bot-support-local-mcp-e-g-workflowy/168182) - Staff-confirmed: Grok Bot cannot attach local or stdio MCP; use remote HTTP MCP or the cloud browser.
 - [Is Grok Bot Down Currently?](https://forum.cursor.com/t/is-grok-bot-down-currently/168918) - Aug 20–21 outage thread: bots fail mid-turn; staff point to Reset Grok Bot’s Computer under Settings → Updates.
 - [Grok Bot 0.23.0 first setup: createAgent / Cannot reach your computer](https://forum.cursor.com/t/grok-bot-0-23-0-first-setup-fails-createagent-can-t-reach-your-computer/169007) - Staff-confirmed first-run failure: the cloud computer never provisions, so Reset is unavailable.
+- [Grok Bot: Mac chat works, local computer reported offline](https://forum.cursor.com/t/grok-bot-mac-chat-works-local-computer-reported-offline/168973) - Staff-confirmed split: chat stays up while the Mac local-computer link drops; full quit reconnects, 0.23 shipped a fix.
+- [Computer refresh wipes WhatsApp linked-device session in Grok Bot](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - Staff: computer refresh keeps /workspace, the browser profile, and ~/.config — not ~/.local/state, so WhatsApp link sessions vanish.
 
 ## Related Lists
 
@@ -193,10 +198,11 @@
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill-format sibling ecosystem; many SKILL.md packs are conceptually portable.
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - Community directory of live Bots — treat the site as beta.
 - [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 56 copy-paste Bot profiles and starter teams you drop into a Setup Bot.
+- [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - Community prompt directory (111 stars): paste a listing into Grok Bot and it sets itself up as a scheduled bot.
 
 ## Contributing
 
-117 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+123 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

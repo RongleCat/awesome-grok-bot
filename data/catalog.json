@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-08-23",
+  "updated": "2026-08-24",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -246,6 +246,26 @@
           }
         },
         {
+          "title": "Recover Grok Bot computer data",
+          "url": "https://cursor.com/help/grok-bot/computer-recovery",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "Official recovery guide: chat history lives outside the box; reopen restores synced files, Reset is last resort.",
+            "zh": "官方恢复说明：对话在云电脑文件系统之外；重开盒子会灌回已同步文件，Reset 是最后手段。",
+            "ja": "公式の復旧ガイド。会話はボックス外に保存。再オープンで同期済みファイルが戻り、Reset は最終手段。"
+          }
+        },
+        {
+          "title": "Grok Bot plans and billing",
+          "url": "https://cursor.com/help/grok-bot/plans",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "Official billing FAQ: Pro+ / Ultra / Teams include it, trial is a 7-day usage credit, SuperGrok link is one-way.",
+            "zh": "官方计费问答：Pro+ / Ultra / Teams 自带，试用是 7 天用量额度，绑定 SuperGrok 不可撤销。",
+            "ja": "公式の課金 FAQ。Pro+ / Ultra / Teams に含まれる。トライアルは 7 日の使用クレジット。SuperGrok 連携は一方通行。"
+          }
+        },
+        {
           "title": "Grok Bot on the App Store",
           "url": "https://apps.apple.com/us/app/grok-bot/id6794501026",
           "source": "GB-038",
@@ -403,6 +423,16 @@
             "en": "Playbook plus skills so a Grok Bot can run outbound GTM on its own computer: Instantly, HeyReach, list CLIs, human-approved sends.",
             "zh": "玩法包：让 Grok Bot 在自己电脑上跑 outbound（Instantly / HeyReach / 名单 CLI），外发需人点头。",
             "ja": "Grok Bot のパソコン上でアウトバウンドを回すプレイブック。Instantly、HeyReach、リスト CLI。送信は人の承認が必要です。"
+          }
+        },
+        {
+          "title": "Paul J Lipsky: Cursor Just Released Grok Bot",
+          "url": "https://www.youtube.com/watch?v=QTcZPI-g7is",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "Walkthrough of role-based bots, group chats, plugins, Teach a task, and the iOS app as the daily driver.",
+            "zh": "按角色建 Bot、群聊、插件、教任务，以及把 iOS 当日常入口的上手视频。",
+            "ja": "役割別 Bot、グループチャット、プラグイン、タスクの教え方、日常使いの iOS アプリまでの解説動画。"
           }
         }
       ]
@@ -1194,6 +1224,26 @@
             "zh": "官方确认的首装失败：云电脑没建出来，Reset 入口也没有。",
             "ja": "公式確認の初回失敗。クラウド機が立たず Reset も出せない。"
           }
+        },
+        {
+          "title": "Grok Bot: Mac chat works, local computer reported offline",
+          "url": "https://forum.cursor.com/t/grok-bot-mac-chat-works-local-computer-reported-offline/168973",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "Staff-confirmed split: chat stays up while the Mac local-computer link drops; full quit reconnects, 0.23 shipped a fix.",
+            "zh": "官方确认的分裂故障：聊天还在，Mac 本机连接掉了；彻底退出可重连，0.23 已修。",
+            "ja": "公式確認の分離障害。チャットは生きるが Mac のローカル接続が切れる。完全終了で復帰。0.23 で修正。"
+          }
+        },
+        {
+          "title": "Computer refresh wipes WhatsApp linked-device session in Grok Bot",
+          "url": "https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "Staff: computer refresh keeps /workspace, the browser profile, and ~/.config — not ~/.local/state, so WhatsApp link sessions vanish.",
+            "zh": "官方：电脑刷新会保留 /workspace、浏览器配置和 ~/.config，不含 ~/.local/state，WhatsApp 已链接会话会丢。",
+            "ja": "公式：更新後に残るのは /workspace、ブラウザプロファイル、~/.config。~/.local/state は消え、WhatsApp 連携も落ちる。"
+          }
         }
       ]
     },
@@ -1253,6 +1303,16 @@
             "en": "56 copy-paste Bot profiles and starter teams you drop into a Setup Bot.",
             "zh": "56 份可粘贴的 Bot 人设和起步小队，丢给 Setup Bot 即可。",
             "ja": "56 件のコピペ用 Bot プロフィールとスターターチーム。"
+          }
+        },
+        {
+          "title": "elie222/botdirectory.ai",
+          "url": "https://github.com/elie222/botdirectory.ai",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "Community prompt directory (111 stars): paste a listing into Grok Bot and it sets itself up as a scheduled bot.",
+            "zh": "社区提示词目录（111 star）：把条目贴进 Grok Bot，它会把自己配成定时 Bot。",
+            "ja": "コミュニティのプロンプト集（111 star）。Grok Bot に貼ると定期 Bot として自分で設定する。"
           }
         }
       ]

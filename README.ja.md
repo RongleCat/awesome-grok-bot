@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-117-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-123-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -78,6 +78,8 @@
 - [Grok Bot on mobile (Cursor help)](https://cursor.com/help/grok-bot/mobile) - クラウドパソコン上に残る Bot と、iOS 同伴アプリがどう会話するか。
 - [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - プラグインを優先し、コネクタがなければクラウドブラウザに戻します。
 - [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - 秘密情報は secret card を使い、API キーを Bot のチャットに貼ってはいけません。
+- [Recover Grok Bot computer data](https://cursor.com/help/grok-bot/computer-recovery) - 公式の復旧ガイド。会話はボックス外に保存。再オープンで同期済みファイルが戻り、Reset は最終手段。
+- [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - 公式の課金 FAQ。Pro+ / Ultra / Teams に含まれる。トライアルは 7 日の使用クレジット。SuperGrok 連携は一方通行。
 - [Grok Bot on the App Store](https://apps.apple.com/us/app/grok-bot/id6794501026) - 同伴アプリの公式 iOS ストアページ。
 - [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) - 公式の .grok-plugin マーケット。Grok Bot は Cursor のプラグインポリシーを継承します。
 
@@ -96,6 +98,7 @@
 - [Use the remote computer from your phone](https://x.com/bot/status/2089802847223468116) - @bot の体験改善：ノート PC を開かず、iOS からクラウドマシンを操作できます。
 - [Uncle-Gizmo notes](https://github.com/Uncle-Gizmo/grok-bot-info) - 安全な例のワークフローと、Bot が Grok Build とどう並ぶかの公開ノート。
 - [Grok Bot for GTM](https://github.com/bcharleson/grokbot-for-gtm) - Grok Bot のパソコン上でアウトバウンドを回すプレイブック。Instantly、HeyReach、リスト CLI。送信は人の承認が必要です。
+- [Paul J Lipsky: Cursor Just Released Grok Bot](https://www.youtube.com/watch?v=QTcZPI-g7is) - 役割別 Bot、グループチャット、プラグイン、タスクの教え方、日常使いの iOS アプリまでの解説動画。
 
 ## 実地事例
 
@@ -185,6 +188,8 @@
 - [Does Grok Bot support local MCP?](https://forum.cursor.com/t/does-grok-bot-support-local-mcp-e-g-workflowy/168182) - 公式確認：Grok Bot はローカル / stdio の MCP を付けられません。リモート HTTP MCP かクラウドブラウザです。
 - [Is Grok Bot Down Currently?](https://forum.cursor.com/t/is-grok-bot-down-currently/168918) - 8/20–21 の障害スレ。途中で Bot が落ちる。公式は Settings → Updates の Reset Grok Bot’s Computer を案内。
 - [Grok Bot 0.23.0 first setup: createAgent / Cannot reach your computer](https://forum.cursor.com/t/grok-bot-0-23-0-first-setup-fails-createagent-can-t-reach-your-computer/169007) - 公式確認の初回失敗。クラウド機が立たず Reset も出せない。
+- [Grok Bot: Mac chat works, local computer reported offline](https://forum.cursor.com/t/grok-bot-mac-chat-works-local-computer-reported-offline/168973) - 公式確認の分離障害。チャットは生きるが Mac のローカル接続が切れる。完全終了で復帰。0.23 で修正。
+- [Computer refresh wipes WhatsApp linked-device session in Grok Bot](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - 公式：更新後に残るのは /workspace、ブラウザプロファイル、~/.config。~/.local/state は消え、WhatsApp 連携も落ちる。
 
 ## 関連リスト
 
@@ -193,10 +198,11 @@
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill 形式の姉妹エコシステム。多くの SKILL.md は概念として移植できる。
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - 稼働中 Bot のコミュニティディレクトリ。サイト自体も beta 扱い。
 - [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 56 件のコピペ用 Bot プロフィールとスターターチーム。
+- [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - コミュニティのプロンプト集（111 star）。Grok Bot に貼ると定期 Bot として自分で設定する。
 
 ## 貢献
 
-8 セクションに 117 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 123 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
