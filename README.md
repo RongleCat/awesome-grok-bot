@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-125-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-133-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -105,6 +105,7 @@
 - [Uncle-Gizmo notes](https://github.com/Uncle-Gizmo/grok-bot-info) - Public notes on safe example workflows and how Bot sits next to Grok Build.
 - [Grok Bot for GTM](https://github.com/bcharleson/grokbot-for-gtm) - Playbook plus skills so a Grok Bot can run outbound GTM on its own computer: Instantly, HeyReach, list CLIs, human-approved sends.
 - [Paul J Lipsky: Cursor Just Released Grok Bot](https://www.youtube.com/watch?v=QTcZPI-g7is) - Walkthrough of role-based bots, group chats, plugins, Teach a task, and the iOS app as the daily driver.
+- [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book) - Chinese orange book (~16k chars) on multi-bot teams, routines, and cost control in the first two weeks.
 
 ## Field Cases
 
@@ -178,6 +179,9 @@
 - [open-grokbot](https://github.com/ishandutta2007/open-grokbot) - Early equivalent / experiment — read before you grant credentials.
 - [grok-bot-flake](https://github.com/jordangarrison/grok-bot-flake) - Nix flake that repackages the official Linux .deb (no source build).
 - [grok-bot-bin](https://github.com/Jabbslad/grok-bot-bin) - Unofficial Arch package that repackages the official Linux .deb; the built-in updater does not support Linux.
+- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - Wine-less Linux port of the official desktop app (Arch AUR packages); WIP because xAI ships no Linux build.
+- [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Unofficial TypeScript reconstruction of Grok Bot 0.18.0 for macOS, plus a local inference router experiment.
+- [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - Community index of official Cursor-CDN Linux .deb/.rpm/AppImage URLs; does not host installers.
 
 ## Community & Failure Modes
 
@@ -207,10 +211,14 @@
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - Community directory of live Bots — treat the site as beta.
 - [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 56 copy-paste Bot profiles and starter teams you drop into a Setup Bot.
 - [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - Community prompt directory (111 stars): paste a listing into Grok Bot and it sets itself up as a scheduled bot.
+- [rosterroom](https://github.com/codejunkie99/rosterroom) - 82 copy-paste agent-team rosters for Grok Bot, with ownership lanes and human approval gates.
+- [usegrokbot.com](https://github.com/a70win-wq/usegrokbot) - Searchable library of real Grok Bot workflows with a live discover site at usegrokbot.com.
+- [GrokBotDev / grokbot.dev](https://github.com/ZeroPointRepo/GrokBotDev) - Agent-run directory of prompts, plugins, and use cases; PRs are the write API, with JSON/RSS/MCP reads.
+- [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - Large template library of ready-to-paste Grok Bot prompts across productivity, sales, marketing, and ops.
 
 ## Contributing
 
-125 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+133 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

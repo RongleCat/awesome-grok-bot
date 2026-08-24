@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-125-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-133-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -105,6 +105,7 @@
 - [Uncle-Gizmo notes](https://github.com/Uncle-Gizmo/grok-bot-info) - 安全な例のワークフローと、Bot が Grok Build とどう並ぶかの公開ノート。
 - [Grok Bot for GTM](https://github.com/bcharleson/grokbot-for-gtm) - Grok Bot のパソコン上でアウトバウンドを回すプレイブック。Instantly、HeyReach、リスト CLI。送信は人の承認が必要です。
 - [Paul J Lipsky: Cursor Just Released Grok Bot](https://www.youtube.com/watch?v=QTcZPI-g7is) - 役割別 Bot、グループチャット、プラグイン、タスクの教え方、日常使いの iOS アプリまでの解説動画。
+- [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book) - 中国語の橙皮書（約 1.6 万字）。公開直後 2 週間の多 Bot 連携、Routine、コスト抑え方。
 
 ## 実地事例
 
@@ -178,6 +179,9 @@
 - [open-grokbot](https://github.com/ishandutta2007/open-grokbot) - 初期の同等実験。資格情報を渡す前に読んでください。
 - [grok-bot-flake](https://github.com/jordangarrison/grok-bot-flake) - 公式 Linux .deb を詰め直した Nix flake（ソースからのビルドではない）。
 - [grok-bot-bin](https://github.com/Jabbslad/grok-bot-bin) - 非公式の Arch パッケージ。公式 Linux .deb を再梱包します。内蔵アップデータは Linux 非対応です。
+- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - 公式デスクトップの Wine なし Linux 移植（Arch AUR）。公式に Linux 版がないため WIP。
+- [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Grok Bot 0.18.0 macOS 版の非公式 TypeScript 再構成。ローカル推論ルータの実験付き。
+- [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - Cursor CDN 上の公式 Linux パッケージ URL 一覧（deb/rpm/AppImage）。インストーラ自体は置かない。
 
 ## コミュニティと障害事例
 
@@ -207,10 +211,14 @@
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - 稼働中 Bot のコミュニティディレクトリ。サイト自体も beta 扱い。
 - [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 56 件のコピペ用 Bot プロフィールとスターターチーム。
 - [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - コミュニティのプロンプト集（111 star）。Grok Bot に貼ると定期 Bot として自分で設定する。
+- [rosterroom](https://github.com/codejunkie99/rosterroom) - Grok Bot 向けのコピペ用チーム編成 82 件。役割分担と人の承認ゲート付き。
+- [usegrokbot.com](https://github.com/a70win-wq/usegrokbot) - 実在の Grok Bot ワークフロー検索ライブラリ。公開サイトは usegrokbot.com。
+- [GrokBotDev / grokbot.dev](https://github.com/ZeroPointRepo/GrokBotDev) - Agent 向けのプロンプト / プラグイン / 用例ディレクトリ。書き込みは PR、読み取りは JSON/RSS/MCP。
+- [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - 生産性・営業・マーケ・運用向けの貼り付け用 Grok Bot プロンプト集。
 
 ## 貢献
 
-8 セクションに 125 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 133 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

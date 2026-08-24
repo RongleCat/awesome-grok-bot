@@ -434,6 +434,16 @@
             "zh": "按角色建 Bot、群聊、插件、教任务，以及把 iOS 当日常入口的上手视频。",
             "ja": "役割別 Bot、グループチャット、プラグイン、タスクの教え方、日常使いの iOS アプリまでの解説動画。"
           }
+        },
+        {
+          "title": "Grok Bot 橙皮书",
+          "url": "https://github.com/KinGao294/grok-bot-orange-book",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "Chinese orange book (~16k chars) on multi-bot teams, routines, and cost control in the first two weeks.",
+            "zh": "中文橙皮书（约 1.6 万字）：上线头两周的多 Bot 协作、Routine 和省钱玩法。",
+            "ja": "中国語の橙皮書（約 1.6 万字）。公開直後 2 週間の多 Bot 連携、Routine、コスト抑え方。"
+          }
         }
       ]
     },
@@ -1084,6 +1094,36 @@
             "zh": "非官方 Arch 包：把官方 Linux .deb 再打包；内置更新器不支持 Linux。",
             "ja": "非公式の Arch パッケージ。公式 Linux .deb を再梱包します。内蔵アップデータは Linux 非対応です。"
           }
+        },
+        {
+          "title": "grokbot-linux-port",
+          "url": "https://github.com/Nichokas/grokbot-linux-port",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "Wine-less Linux port of the official desktop app (Arch AUR packages); WIP because xAI ships no Linux build.",
+            "zh": "官方桌面端无 Wine 的 Linux 移植（Arch AUR）；官方没发 Linux，所以还是 WIP。",
+            "ja": "公式デスクトップの Wine なし Linux 移植（Arch AUR）。公式に Linux 版がないため WIP。"
+          }
+        },
+        {
+          "title": "grok-bot-0.18-reconstructed",
+          "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "Unofficial TypeScript reconstruction of Grok Bot 0.18.0 for macOS, plus a local inference router experiment.",
+            "zh": "非官方把 Grok Bot 0.18.0 macOS 端用 TypeScript 重构成可读源码，还带本地推理路由实验。",
+            "ja": "Grok Bot 0.18.0 macOS 版の非公式 TypeScript 再構成。ローカル推論ルータの実験付き。"
+          }
+        },
+        {
+          "title": "grok-bot-linux (CDN index)",
+          "url": "https://github.com/falser101/grok-bot-linux",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "Community index of official Cursor-CDN Linux .deb/.rpm/AppImage URLs; does not host installers.",
+            "zh": "社区整理的官方 Cursor CDN Linux 包链接（deb/rpm/AppImage），本身不托管安装包。",
+            "ja": "Cursor CDN 上の公式 Linux パッケージ URL 一覧（deb/rpm/AppImage）。インストーラ自体は置かない。"
+          }
         }
       ]
     },
@@ -1333,6 +1373,46 @@
             "en": "Community prompt directory (111 stars): paste a listing into Grok Bot and it sets itself up as a scheduled bot.",
             "zh": "社区提示词目录（111 star）：把条目贴进 Grok Bot，它会把自己配成定时 Bot。",
             "ja": "コミュニティのプロンプト集（111 star）。Grok Bot に貼ると定期 Bot として自分で設定する。"
+          }
+        },
+        {
+          "title": "rosterroom",
+          "url": "https://github.com/codejunkie99/rosterroom",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "82 copy-paste agent-team rosters for Grok Bot, with ownership lanes and human approval gates.",
+            "zh": "82 份可粘贴的 Grok Bot 小队编制，带分工和人工审批门槛。",
+            "ja": "Grok Bot 向けのコピペ用チーム編成 82 件。役割分担と人の承認ゲート付き。"
+          }
+        },
+        {
+          "title": "usegrokbot.com",
+          "url": "https://github.com/a70win-wq/usegrokbot",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "Searchable library of real Grok Bot workflows with a live discover site at usegrokbot.com.",
+            "zh": "可检索的真实 Grok Bot 工作流库，线上站 usegrokbot.com。",
+            "ja": "実在の Grok Bot ワークフロー検索ライブラリ。公開サイトは usegrokbot.com。"
+          }
+        },
+        {
+          "title": "GrokBotDev / grokbot.dev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "Agent-run directory of prompts, plugins, and use cases; PRs are the write API, with JSON/RSS/MCP reads.",
+            "zh": "给 Agent 读的提示词/插件/用例目录；PR 当写入接口，另有 JSON/RSS/MCP。",
+            "ja": "Agent 向けのプロンプト / プラグイン / 用例ディレクトリ。書き込みは PR、読み取りは JSON/RSS/MCP。"
+          }
+        },
+        {
+          "title": "Anil-matcha/awesome-grok-bot",
+          "url": "https://github.com/Anil-matcha/awesome-grok-bot",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "Large template library of ready-to-paste Grok Bot prompts across productivity, sales, marketing, and ops.",
+            "zh": "大而全的可粘贴 Grok Bot 提示词模板库，覆盖效率、销售、营销和运营。",
+            "ja": "生産性・営業・マーケ・運用向けの貼り付け用 Grok Bot プロンプト集。"
           }
         }
       ]

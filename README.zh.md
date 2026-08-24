@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-125-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-133-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -105,6 +105,7 @@
 - [Uncle-Gizmo notes](https://github.com/Uncle-Gizmo/grok-bot-info) - 公开笔记：安全示例工作流，以及它和 Grok Build 怎么并存。.
 - [Grok Bot for GTM](https://github.com/bcharleson/grokbot-for-gtm) - 玩法包：让 Grok Bot 在自己电脑上跑 outbound（Instantly / HeyReach / 名单 CLI），外发需人点头。.
 - [Paul J Lipsky: Cursor Just Released Grok Bot](https://www.youtube.com/watch?v=QTcZPI-g7is) - 按角色建 Bot、群聊、插件、教任务，以及把 iOS 当日常入口的上手视频。.
+- [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book) - 中文橙皮书（约 1.6 万字）：上线头两周的多 Bot 协作、Routine 和省钱玩法。.
 
 ## 真实使用案例
 
@@ -178,6 +179,9 @@
 - [open-grokbot](https://github.com/ishandutta2007/open-grokbot) - 早期等价实验，授权前先读代码。.
 - [grok-bot-flake](https://github.com/jordangarrison/grok-bot-flake) - 把官方 Linux .deb 打成 Nix flake（不是从源码编）。.
 - [grok-bot-bin](https://github.com/Jabbslad/grok-bot-bin) - 非官方 Arch 包：把官方 Linux .deb 再打包；内置更新器不支持 Linux。.
+- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - 官方桌面端无 Wine 的 Linux 移植（Arch AUR）；官方没发 Linux，所以还是 WIP。.
+- [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - 非官方把 Grok Bot 0.18.0 macOS 端用 TypeScript 重构成可读源码，还带本地推理路由实验。.
+- [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - 社区整理的官方 Cursor CDN Linux 包链接（deb/rpm/AppImage），本身不托管安装包。.
 
 ## 社区与故障现场
 
@@ -207,10 +211,14 @@
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - 社区 Bot 目录，站点本身也是 beta。.
 - [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 56 份可粘贴的 Bot 人设和起步小队，丢给 Setup Bot 即可。.
 - [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - 社区提示词目录（111 star）：把条目贴进 Grok Bot，它会把自己配成定时 Bot。.
+- [rosterroom](https://github.com/codejunkie99/rosterroom) - 82 份可粘贴的 Grok Bot 小队编制，带分工和人工审批门槛。.
+- [usegrokbot.com](https://github.com/a70win-wq/usegrokbot) - 可检索的真实 Grok Bot 工作流库，线上站 usegrokbot.com。.
+- [GrokBotDev / grokbot.dev](https://github.com/ZeroPointRepo/GrokBotDev) - 给 Agent 读的提示词/插件/用例目录；PR 当写入接口，另有 JSON/RSS/MCP。.
+- [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - 大而全的可粘贴 Grok Bot 提示词模板库，覆盖效率、销售、营销和运营。.
 
 ## 贡献
 
-目前 8 个分类、125 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、133 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
