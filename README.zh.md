@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-123-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-125-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -40,6 +40,12 @@
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><img src="./assets/events/mo-20260905-cover.png" alt="Grok Bot 澳门学生工作坊" width="300" /></a></td><td valign="top"><strong>Grok Bot 澳门学生工作坊</strong><br />2026-09-05 周六 14:30-17:30<br />澳门大学迎宾馆 N1-1005<br /><br />免费学生场：上手 Grok Bot + 创始人分享。粤语为主、可英辅。40 人已满，可候补。<br /><br /><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><strong>去 Luma 候补 →</strong></a></td></tr></table>
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot 拉斯维加斯线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 拉斯维加斯线下交流</strong><br />2026-09-15 周一 18:00-20:00（太平洋夏令时）<br />拉斯维加斯 · 报名审核后可见场地<br /><br />破冰 + 分享 / Workshop，Cursor 团队视频问答。需主办审核，场地待定。<br /><br /><a href="https://luma.com/cursor-kaua"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/a16zgrokbotbuildnight"><img src="./assets/events/sf-20260903-cover.png" alt="Grok Bot 女性 Build Night（旧金山）" width="300" /></a></td><td valign="top"><strong>Grok Bot 女性 Build Night（旧金山）</strong><br />2026-09-03 周三 17:00–21:00（太平洋夏令时）<br />旧金山 a16z，180 Townsend St<br /><br />旧金山女性向轻松场：一起了解 Grok Bot 能干啥，并现场搭起来。<br /><br /><a href="https://luma.com/a16zgrokbotbuildnight"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-qdl0"><img src="./assets/events/tlv-20260908-cover.png" alt="Grok Bot 特拉维夫线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 特拉维夫线下交流</strong><br />2026-09-08 周一 18:00–20:00（以色列夏令时）<br />特拉维夫 · 报名后可见地址<br /><br />特拉维夫全球首场 Grok Bot 线下：把真活交给云电脑队友。<br /><br /><a href="https://luma.com/cursor-qdl0"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-wgsj"><img src="./assets/events/mty-20260910-cover.png" alt="Grok Meetup 蒙特雷" width="300" /></a></td><td valign="top"><strong>Grok Meetup 蒙特雷</strong><br />2026-09-10 周三 18:00–21:00（蒙特雷时间）<br />蒙特雷理工 HUB，Av. Eugenio Garza Sada 2501 Sur<br /><br />Cursor 社区场：在蒙特雷理工创新中心看 Grok / Grok Bot 落地用法。<br /><br /><a href="https://luma.com/cursor-wgsj"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 ## 目录
 
@@ -190,6 +196,8 @@
 - [Grok Bot 0.23.0 first setup: createAgent / Cannot reach your computer](https://forum.cursor.com/t/grok-bot-0-23-0-first-setup-fails-createagent-can-t-reach-your-computer/169007) - 官方确认的首装失败：云电脑没建出来，Reset 入口也没有。.
 - [Grok Bot: Mac chat works, local computer reported offline](https://forum.cursor.com/t/grok-bot-mac-chat-works-local-computer-reported-offline/168973) - 官方确认的分裂故障：聊天还在，Mac 本机连接掉了；彻底退出可重连，0.23 已修。.
 - [Computer refresh wipes WhatsApp linked-device session in Grok Bot](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - 官方：电脑刷新会保留 /workspace、浏览器配置和 ~/.config，不含 ~/.local/state，WhatsApp 已链接会话会丢。.
+- [Grok Bot cloud workspace after trial exhaustion](https://forum.cursor.com/t/grok-bot-cloud-workspace-inaccessible-after-trial-exhaustion-ticket-t-e97475-pending/169010) - 官方：试用到期不会删电脑；Bot 不再回话，但还能开 Computer 视图把文件导出来，别乱点 Reset。.
+- [Reset Computer window opens behind Settings (0.24.0)](https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177) - 0.24.0 界面坑：Reset Computer 确认框开在设置窗后面，看起来点不了。.
 
 ## 相关列表
 
@@ -202,7 +210,7 @@
 
 ## 贡献
 
-目前 8 个分类、123 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、125 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

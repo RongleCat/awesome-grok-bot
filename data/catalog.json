@@ -1244,6 +1244,26 @@
             "zh": "官方：电脑刷新会保留 /workspace、浏览器配置和 ~/.config，不含 ~/.local/state，WhatsApp 已链接会话会丢。",
             "ja": "公式：更新後に残るのは /workspace、ブラウザプロファイル、~/.config。~/.local/state は消え、WhatsApp 連携も落ちる。"
           }
+        },
+        {
+          "title": "Grok Bot cloud workspace after trial exhaustion",
+          "url": "https://forum.cursor.com/t/grok-bot-cloud-workspace-inaccessible-after-trial-exhaustion-ticket-t-e97475-pending/169010",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "Staff: trial end deletes nothing; bots stop replying, but Computer view still lets you export until you Reset.",
+            "zh": "官方：试用到期不会删电脑；Bot 不再回话，但还能开 Computer 视图把文件导出来，别乱点 Reset。",
+            "ja": "公式：トライアル終了で削除はされない。Bot は返事を止めるが、Computer ビューで書き出し可能。Reset は避ける。"
+          }
+        },
+        {
+          "title": "Reset Computer window opens behind Settings (0.24.0)",
+          "url": "https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177",
+          "source": "day-20260824",
+          "blurb": {
+            "en": "0.24.0 UI bug: the Reset Computer confirm modal opens behind Settings and looks unclickable.",
+            "zh": "0.24.0 界面坑：Reset Computer 确认框开在设置窗后面，看起来点不了。",
+            "ja": "0.24.0 の UI 不具合。Reset Computer 確認が Settings の裏に開き、押せないように見える。"
+          }
         }
       ]
     },
@@ -1405,6 +1425,99 @@
         "en": "Networking, talks/workshop, and a Cursor-team Q&A on video. Host approval required, venue still TBD.",
         "zh": "破冰 + 分享 / Workshop，Cursor 团队视频问答。需主办审核，场地待定。",
         "ja": "交流、トーク / Workshop、Cursor チームのビデオ Q&A。主催者承認制、会場は未定。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "sf-20260903",
+      "url": "https://luma.com/a16zgrokbotbuildnight",
+      "image": "./assets/events/sf-20260903-cover.png",
+      "expires": "2026-09-03T21:00:00-07:00",
+      "title": {
+        "en": "Grok Bot build night for women (SF)",
+        "zh": "Grok Bot 女性 Build Night（旧金山）",
+        "ja": "Grok Bot build night for women（SF）"
+      },
+      "when": {
+        "en": "Wed 3 Sep 2026, 17:00–21:00 (PDT)",
+        "zh": "2026-09-03 周三 17:00–21:00（太平洋夏令时）",
+        "ja": "2026-09-03（水）17:00–21:00（PDT）"
+      },
+      "where": {
+        "en": "a16z, 180 Townsend St, San Francisco",
+        "zh": "旧金山 a16z，180 Townsend St",
+        "ja": "サンフランシスコ a16z、180 Townsend St"
+      },
+      "body": {
+        "en": "Low-pressure SF build night for women: learn Grok Bot capabilities and set one up together.",
+        "zh": "旧金山女性向轻松场：一起了解 Grok Bot 能干啥，并现场搭起来。",
+        "ja": "女性向けの気軽な SF ビルドナイト。Grok Bot の使い方を学び、その場でセットアップ。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "tlv-20260908",
+      "url": "https://luma.com/cursor-qdl0",
+      "image": "./assets/events/tlv-20260908-cover.png",
+      "expires": "2026-09-08T20:00:00+03:00",
+      "title": {
+        "en": "Grok Bot Meetup Tel Aviv",
+        "zh": "Grok Bot 特拉维夫线下交流",
+        "ja": "Grok Bot Meetup Tel Aviv"
+      },
+      "when": {
+        "en": "Mon 8 Sep 2026, 18:00–20:00 (IDT)",
+        "zh": "2026-09-08 周一 18:00–20:00（以色列夏令时）",
+        "ja": "2026-09-08（月）18:00–20:00（IDT）"
+      },
+      "where": {
+        "en": "Tel Aviv-Yafo · exact address after you register",
+        "zh": "特拉维夫 · 报名后可见地址",
+        "ja": "テルアビブ · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "World first Grok Bot meetup in Tel Aviv: AI teammates you give real work to, with Cursor/SpaceXAI.",
+        "zh": "特拉维夫全球首场 Grok Bot 线下：把真活交给云电脑队友。",
+        "ja": "テルアビブ初の Grok Bot ミートアップ。実作業を任せる AI チームメイト。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "mty-20260910",
+      "url": "https://luma.com/cursor-wgsj",
+      "image": "./assets/events/mty-20260910-cover.png",
+      "expires": "2026-09-10T21:00:00-06:00",
+      "title": {
+        "en": "Grok Meetup Monterrey",
+        "zh": "Grok Meetup 蒙特雷",
+        "ja": "Grok Meetup Monterrey"
+      },
+      "when": {
+        "en": "Wed 10 Sep 2026, 18:00–21:00 (Monterrey)",
+        "zh": "2026-09-10 周三 18:00–21:00（蒙特雷时间）",
+        "ja": "2026-09-10（水）18:00–21:00（Monterrey）"
+      },
+      "where": {
+        "en": "Tec de Monterrey HUB, Av. Eugenio Garza Sada 2501 Sur",
+        "zh": "蒙特雷理工 HUB，Av. Eugenio Garza Sada 2501 Sur",
+        "ja": "Tec de Monterrey HUB、Av. Eugenio Garza Sada 2501 Sur"
+      },
+      "body": {
+        "en": "Cursor community meetup on Grok / Grok Bot practice at Tec de Monterrey innovation hub.",
+        "zh": "Cursor 社区场：在蒙特雷理工创新中心看 Grok / Grok Bot 落地用法。",
+        "ja": "Cursor コミュニティの集まり。モンテレイ工科大ハブで Grok / Grok Bot の実例を見る。"
       },
       "cta": {
         "en": "Register on Luma",

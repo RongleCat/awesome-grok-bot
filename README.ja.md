@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-123-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-125-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -40,6 +40,12 @@
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><img src="./assets/events/mo-20260905-cover.png" alt="Grok Bot Macau Student Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Macau Student Workshop</strong><br />2026-09-05（土）14:30-17:30（GMT+8）<br />マカオ大学ゲストハウス N1-1005<br /><br />無料の学生ワークショップ。Grok Bot 実習と創業者トーク。広東語（英語サポートあり）。40 席は満席、ウェイティング可。<br /><br /><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><strong>Luma でウェイティング登録 →</strong></a></td></tr></table>
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot Meetup Las Vegas" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Las Vegas</strong><br />2026-09-15（月）18:00-20:00（PDT）<br />ラスベガス · 登録承認後に会場を表示<br /><br />交流、トーク / Workshop、Cursor チームのビデオ Q&A。主催者承認制、会場は未定。<br /><br /><a href="https://luma.com/cursor-kaua"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/a16zgrokbotbuildnight"><img src="./assets/events/sf-20260903-cover.png" alt="Grok Bot build night for women（SF）" width="300" /></a></td><td valign="top"><strong>Grok Bot build night for women（SF）</strong><br />2026-09-03（水）17:00–21:00（PDT）<br />サンフランシスコ a16z、180 Townsend St<br /><br />女性向けの気軽な SF ビルドナイト。Grok Bot の使い方を学び、その場でセットアップ。<br /><br /><a href="https://luma.com/a16zgrokbotbuildnight"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-qdl0"><img src="./assets/events/tlv-20260908-cover.png" alt="Grok Bot Meetup Tel Aviv" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Tel Aviv</strong><br />2026-09-08（月）18:00–20:00（IDT）<br />テルアビブ · 登録後に住所を表示<br /><br />テルアビブ初の Grok Bot ミートアップ。実作業を任せる AI チームメイト。<br /><br /><a href="https://luma.com/cursor-qdl0"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-wgsj"><img src="./assets/events/mty-20260910-cover.png" alt="Grok Meetup Monterrey" width="300" /></a></td><td valign="top"><strong>Grok Meetup Monterrey</strong><br />2026-09-10（水）18:00–21:00（Monterrey）<br />Tec de Monterrey HUB、Av. Eugenio Garza Sada 2501 Sur<br /><br />Cursor コミュニティの集まり。モンテレイ工科大ハブで Grok / Grok Bot の実例を見る。<br /><br /><a href="https://luma.com/cursor-wgsj"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 ## 目次
 
@@ -190,6 +196,8 @@
 - [Grok Bot 0.23.0 first setup: createAgent / Cannot reach your computer](https://forum.cursor.com/t/grok-bot-0-23-0-first-setup-fails-createagent-can-t-reach-your-computer/169007) - 公式確認の初回失敗。クラウド機が立たず Reset も出せない。
 - [Grok Bot: Mac chat works, local computer reported offline](https://forum.cursor.com/t/grok-bot-mac-chat-works-local-computer-reported-offline/168973) - 公式確認の分離障害。チャットは生きるが Mac のローカル接続が切れる。完全終了で復帰。0.23 で修正。
 - [Computer refresh wipes WhatsApp linked-device session in Grok Bot](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - 公式：更新後に残るのは /workspace、ブラウザプロファイル、~/.config。~/.local/state は消え、WhatsApp 連携も落ちる。
+- [Grok Bot cloud workspace after trial exhaustion](https://forum.cursor.com/t/grok-bot-cloud-workspace-inaccessible-after-trial-exhaustion-ticket-t-e97475-pending/169010) - 公式：トライアル終了で削除はされない。Bot は返事を止めるが、Computer ビューで書き出し可能。Reset は避ける。
+- [Reset Computer window opens behind Settings (0.24.0)](https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177) - 0.24.0 の UI 不具合。Reset Computer 確認が Settings の裏に開き、押せないように見える。
 
 ## 関連リスト
 
@@ -202,7 +210,7 @@
 
 ## 貢献
 
-8 セクションに 123 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 125 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
