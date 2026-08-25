@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -1303,6 +1303,46 @@
             "en": "0.24.0 UI bug: the Reset Computer confirm modal opens behind Settings and looks unclickable.",
             "zh": "0.24.0 界面坑：Reset Computer 确认框开在设置窗后面，看起来点不了。",
             "ja": "0.24.0 の UI 不具合。Reset Computer 確認が Settings の裏に開き、押せないように見える。"
+          }
+        },
+        {
+          "title": "Grok Bot webhooks failing with internal server error",
+          "url": "https://forum.cursor.com/t/grok-bot-webhooks-are-failing-with-internal-server-error/169323",
+          "source": "day-20260825",
+          "blurb": {
+            "en": "Staff: webhook POSTs to api2.cursor.sh returned internal error; they rolled back a change and the same curl started working again.",
+            "zh": "官方：打 api2.cursor.sh 的 webhook 回 internal error；他们回滚了一波改动后同样的 curl 又通了。",
+            "ja": "公式：api2.cursor.sh への webhook が internal error。変更をロールバックしたら同じ curl が通った。"
+          }
+        },
+        {
+          "title": "Grok Bot Gmail connector cannot download attachment bytes",
+          "url": "https://forum.cursor.com/t/grok-bot-gmail-connector-can-list-attachments-but-cannot-download-their-bytes/169261",
+          "source": "day-20260825",
+          "blurb": {
+            "en": "Staff: the Gmail connector lists attachment metadata only; no download tool. Use the cloud browser or park the file in Drive.",
+            "zh": "官方：Gmail 连接器只能列出附件元数据，没有下载工具。走云电脑浏览器，或先丢进 Drive。",
+            "ja": "公式：Gmail コネクタは添付のメタデータだけ。ダウンロードツールはない。クラウドブラウザか Drive 経由。"
+          }
+        },
+        {
+          "title": "Does logging into Grok Bot count as a separate computer?",
+          "url": "https://forum.cursor.com/t/does-logging-into-grokbot-count-as-a-separate-computer/169289",
+          "source": "day-20260825",
+          "blurb": {
+            "en": "Staff: a Grok Bot login is its own Cursor device, and the cloud workspace can count as a second one toward Too many computers.",
+            "zh": "官方：登录 Grok Bot 会算一台 Cursor 设备，云工作区还可能再占一台，会撞 Too many computers。",
+            "ja": "公式：Grok Bot のログイン自体が Cursor の 1 台。クラウド作業領域がもう 1 台になり、Too many computers に入る。"
+          }
+        },
+        {
+          "title": "Grok Bot Notion plugin OAuth Invalid redirect_uri",
+          "url": "https://forum.cursor.com/t/grok-bot-notion-plugin-oauth-invalid-redirect-uri/169234",
+          "source": "day-20260825",
+          "blurb": {
+            "en": "Staff: Notion sign-in is stored on the account, so retry fails; Re-authenticate (not Connect) clears it and OAuth succeeds.",
+            "zh": "官方：Notion 登录绑在账号上，光点 Connect 会复用坏会话；要用 Re-authenticate 清掉才能过 OAuth。",
+            "ja": "公式：Notion のログインはアカウント側に残る。Connect の再試行ではダメで、Re-authenticate で消すと OAuth が通る。"
           }
         }
       ]

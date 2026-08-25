@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-133-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-137-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -202,6 +202,10 @@
 - [Computer refresh wipes WhatsApp linked-device session in Grok Bot](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - Staff: computer refresh keeps /workspace, the browser profile, and ~/.config — not ~/.local/state, so WhatsApp link sessions vanish.
 - [Grok Bot cloud workspace after trial exhaustion](https://forum.cursor.com/t/grok-bot-cloud-workspace-inaccessible-after-trial-exhaustion-ticket-t-e97475-pending/169010) - Staff: trial end deletes nothing; bots stop replying, but Computer view still lets you export until you Reset.
 - [Reset Computer window opens behind Settings (0.24.0)](https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177) - 0.24.0 UI bug: the Reset Computer confirm modal opens behind Settings and looks unclickable.
+- [Grok Bot webhooks failing with internal server error](https://forum.cursor.com/t/grok-bot-webhooks-are-failing-with-internal-server-error/169323) - Staff: webhook POSTs to api2.cursor.sh returned internal error; they rolled back a change and the same curl started working again.
+- [Grok Bot Gmail connector cannot download attachment bytes](https://forum.cursor.com/t/grok-bot-gmail-connector-can-list-attachments-but-cannot-download-their-bytes/169261) - Staff: the Gmail connector lists attachment metadata only; no download tool. Use the cloud browser or park the file in Drive.
+- [Does logging into Grok Bot count as a separate computer?](https://forum.cursor.com/t/does-logging-into-grokbot-count-as-a-separate-computer/169289) - Staff: a Grok Bot login is its own Cursor device, and the cloud workspace can count as a second one toward Too many computers.
+- [Grok Bot Notion plugin OAuth Invalid redirect_uri](https://forum.cursor.com/t/grok-bot-notion-plugin-oauth-invalid-redirect-uri/169234) - Staff: Notion sign-in is stored on the account, so retry fails; Re-authenticate (not Connect) clears it and OAuth succeeds.
 
 ## Related Lists
 
@@ -218,7 +222,7 @@
 
 ## Contributing
 
-133 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+137 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

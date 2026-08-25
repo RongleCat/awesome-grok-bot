@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-133-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-137-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -202,6 +202,10 @@
 - [Computer refresh wipes WhatsApp linked-device session in Grok Bot](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - 公式：更新後に残るのは /workspace、ブラウザプロファイル、~/.config。~/.local/state は消え、WhatsApp 連携も落ちる。
 - [Grok Bot cloud workspace after trial exhaustion](https://forum.cursor.com/t/grok-bot-cloud-workspace-inaccessible-after-trial-exhaustion-ticket-t-e97475-pending/169010) - 公式：トライアル終了で削除はされない。Bot は返事を止めるが、Computer ビューで書き出し可能。Reset は避ける。
 - [Reset Computer window opens behind Settings (0.24.0)](https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177) - 0.24.0 の UI 不具合。Reset Computer 確認が Settings の裏に開き、押せないように見える。
+- [Grok Bot webhooks failing with internal server error](https://forum.cursor.com/t/grok-bot-webhooks-are-failing-with-internal-server-error/169323) - 公式：api2.cursor.sh への webhook が internal error。変更をロールバックしたら同じ curl が通った。
+- [Grok Bot Gmail connector cannot download attachment bytes](https://forum.cursor.com/t/grok-bot-gmail-connector-can-list-attachments-but-cannot-download-their-bytes/169261) - 公式：Gmail コネクタは添付のメタデータだけ。ダウンロードツールはない。クラウドブラウザか Drive 経由。
+- [Does logging into Grok Bot count as a separate computer?](https://forum.cursor.com/t/does-logging-into-grokbot-count-as-a-separate-computer/169289) - 公式：Grok Bot のログイン自体が Cursor の 1 台。クラウド作業領域がもう 1 台になり、Too many computers に入る。
+- [Grok Bot Notion plugin OAuth Invalid redirect_uri](https://forum.cursor.com/t/grok-bot-notion-plugin-oauth-invalid-redirect-uri/169234) - 公式：Notion のログインはアカウント側に残る。Connect の再試行ではダメで、Re-authenticate で消すと OAuth が通る。
 
 ## 関連リスト
 
@@ -218,7 +222,7 @@
 
 ## 貢献
 
-8 セクションに 133 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 137 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-133-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-137-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -202,6 +202,10 @@
 - [Computer refresh wipes WhatsApp linked-device session in Grok Bot](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - 官方：电脑刷新会保留 /workspace、浏览器配置和 ~/.config，不含 ~/.local/state，WhatsApp 已链接会话会丢。.
 - [Grok Bot cloud workspace after trial exhaustion](https://forum.cursor.com/t/grok-bot-cloud-workspace-inaccessible-after-trial-exhaustion-ticket-t-e97475-pending/169010) - 官方：试用到期不会删电脑；Bot 不再回话，但还能开 Computer 视图把文件导出来，别乱点 Reset。.
 - [Reset Computer window opens behind Settings (0.24.0)](https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177) - 0.24.0 界面坑：Reset Computer 确认框开在设置窗后面，看起来点不了。.
+- [Grok Bot webhooks failing with internal server error](https://forum.cursor.com/t/grok-bot-webhooks-are-failing-with-internal-server-error/169323) - 官方：打 api2.cursor.sh 的 webhook 回 internal error；他们回滚了一波改动后同样的 curl 又通了。.
+- [Grok Bot Gmail connector cannot download attachment bytes](https://forum.cursor.com/t/grok-bot-gmail-connector-can-list-attachments-but-cannot-download-their-bytes/169261) - 官方：Gmail 连接器只能列出附件元数据，没有下载工具。走云电脑浏览器，或先丢进 Drive。.
+- [Does logging into Grok Bot count as a separate computer?](https://forum.cursor.com/t/does-logging-into-grokbot-count-as-a-separate-computer/169289) - 官方：登录 Grok Bot 会算一台 Cursor 设备，云工作区还可能再占一台，会撞 Too many computers。.
+- [Grok Bot Notion plugin OAuth Invalid redirect_uri](https://forum.cursor.com/t/grok-bot-notion-plugin-oauth-invalid-redirect-uri/169234) - 官方：Notion 登录绑在账号上，光点 Connect 会复用坏会话；要用 Re-authenticate 清掉才能过 OAuth。.
 
 ## 相关列表
 
@@ -218,7 +222,7 @@
 
 ## 贡献
 
-目前 8 个分类、133 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、137 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
