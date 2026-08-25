@@ -894,6 +894,16 @@
             "zh": "Cursor/Claude 技能，让编程助手能列出、对话、创建 Grok Bot 队友。",
             "ja": "Cursor/Claude 用スキル。Grok Bot の一覧、会話、作成ができる。"
           }
+        },
+        {
+          "title": "budezllc/dictate-capture",
+          "url": "https://github.com/budezllc/dictate-capture",
+          "source": "day-20260825",
+          "blurb": {
+            "en": "Windows helper: hold Ctrl+D to dictate into Grok Bot, optionally drag a gold box to paste a screenshot.",
+            "zh": "Windows 辅助：按住 Ctrl+D 对着 Grok Bot 说话，再拖一个金框就能贴截图。",
+            "ja": "Windows 用。Ctrl+D を押しながら Grok Bot に口述し、金色の枠をドラッグするとスクショも貼る。"
+          }
         }
       ]
     },
@@ -1453,6 +1463,16 @@
             "en": "Large template library of ready-to-paste Grok Bot prompts across productivity, sales, marketing, and ops.",
             "zh": "大而全的可粘贴 Grok Bot 提示词模板库，覆盖效率、销售、营销和运营。",
             "ja": "生産性・営業・マーケ・運用向けの貼り付け用 Grok Bot プロンプト集。"
+          }
+        },
+        {
+          "title": "ellelion/botteams",
+          "url": "https://github.com/ellelion/botteams",
+          "source": "day-20260825",
+          "blurb": {
+            "en": "Public Grok Bot team directory: copy one installer prompt and it creates the named Bots, group chat, and routines.",
+            "zh": "公开的 Grok Bot 团队目录：复制一条安装提示词，就会建好命名 Bot、群聊和例行任务。",
+            "ja": "Grok Bot の公開チームディレクトリ。インストーラ用プロンプトを貼ると、Bot・グループチャット・ルーチンを作る。"
           }
         }
       ]

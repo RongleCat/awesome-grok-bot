@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-137-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-139-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -155,6 +155,7 @@
 - [grok-wechat-plugin](https://github.com/little-thing/grok-wechat-plugin) - Unofficial WeChat iLink channel: inbound messages wake a Grok Bot routine over webhook.
 - [grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli) - Terminal CLI that reuses the signed-in macOS Grok Bot app to list, create, and message teammates.
 - [grok-bot-skill](https://github.com/adamanz/grok-bot-skill) - Cursor/Claude skill so a coding agent can list, chat with, and create Grok Bot teammates.
+- [budezllc/dictate-capture](https://github.com/budezllc/dictate-capture) - Windows helper: hold Ctrl+D to dictate into Grok Bot, optionally drag a gold box to paste a screenshot.
 
 ## Reviews & Comparisons
 
@@ -219,10 +220,11 @@
 - [usegrokbot.com](https://github.com/a70win-wq/usegrokbot) - Searchable library of real Grok Bot workflows with a live discover site at usegrokbot.com.
 - [GrokBotDev / grokbot.dev](https://github.com/ZeroPointRepo/GrokBotDev) - Agent-run directory of prompts, plugins, and use cases; PRs are the write API, with JSON/RSS/MCP reads.
 - [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - Large template library of ready-to-paste Grok Bot prompts across productivity, sales, marketing, and ops.
+- [ellelion/botteams](https://github.com/ellelion/botteams) - Public Grok Bot team directory: copy one installer prompt and it creates the named Bots, group chat, and routines.
 
 ## Contributing
 
-137 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+139 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-137-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-139-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -155,6 +155,7 @@
 - [grok-wechat-plugin](https://github.com/little-thing/grok-wechat-plugin) - 非官方微信 iLink 渠道：入站消息走 webhook 唤醒 Grok Bot 例程。.
 - [grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli) - 复用已登录 macOS Grok Bot 应用，在终端列出、创建、给队友发消息。.
 - [grok-bot-skill](https://github.com/adamanz/grok-bot-skill) - Cursor/Claude 技能，让编程助手能列出、对话、创建 Grok Bot 队友。.
+- [budezllc/dictate-capture](https://github.com/budezllc/dictate-capture) - Windows 辅助：按住 Ctrl+D 对着 Grok Bot 说话，再拖一个金框就能贴截图。.
 
 ## 评测与对比
 
@@ -219,10 +220,11 @@
 - [usegrokbot.com](https://github.com/a70win-wq/usegrokbot) - 可检索的真实 Grok Bot 工作流库，线上站 usegrokbot.com。.
 - [GrokBotDev / grokbot.dev](https://github.com/ZeroPointRepo/GrokBotDev) - 给 Agent 读的提示词/插件/用例目录；PR 当写入接口，另有 JSON/RSS/MCP。.
 - [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - 大而全的可粘贴 Grok Bot 提示词模板库，覆盖效率、销售、营销和运营。.
+- [ellelion/botteams](https://github.com/ellelion/botteams) - 公开的 Grok Bot 团队目录：复制一条安装提示词，就会建好命名 Bot、群聊和例行任务。.
 
 ## 贡献
 
-目前 8 个分类、137 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、139 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

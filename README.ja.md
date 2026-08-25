@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-137-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-139-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -155,6 +155,7 @@
 - [grok-wechat-plugin](https://github.com/little-thing/grok-wechat-plugin) - 非公式の WeChat iLink チャネル。着信は webhook で Grok Bot の routine を起こします。
 - [grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli) - サインイン済み macOS アプリを使い、端末から Bot の一覧・作成・送信をする CLI。
 - [grok-bot-skill](https://github.com/adamanz/grok-bot-skill) - Cursor/Claude 用スキル。Grok Bot の一覧、会話、作成ができる。
+- [budezllc/dictate-capture](https://github.com/budezllc/dictate-capture) - Windows 用。Ctrl+D を押しながら Grok Bot に口述し、金色の枠をドラッグするとスクショも貼る。
 
 ## レビューと比較
 
@@ -219,10 +220,11 @@
 - [usegrokbot.com](https://github.com/a70win-wq/usegrokbot) - 実在の Grok Bot ワークフロー検索ライブラリ。公開サイトは usegrokbot.com。
 - [GrokBotDev / grokbot.dev](https://github.com/ZeroPointRepo/GrokBotDev) - Agent 向けのプロンプト / プラグイン / 用例ディレクトリ。書き込みは PR、読み取りは JSON/RSS/MCP。
 - [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - 生産性・営業・マーケ・運用向けの貼り付け用 Grok Bot プロンプト集。
+- [ellelion/botteams](https://github.com/ellelion/botteams) - Grok Bot の公開チームディレクトリ。インストーラ用プロンプトを貼ると、Bot・グループチャット・ルーチンを作る。
 
 ## 貢献
 
-8 セクションに 137 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 139 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
