@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-139-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-144-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -46,6 +46,10 @@
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-qdl0"><img src="./assets/events/tlv-20260908-cover.png" alt="Grok Bot Meetup Tel Aviv" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Tel Aviv</strong><br />Mon 8 Sep 2026, 18:00–20:00 (IDT)<br />Tel Aviv-Yafo · exact address after you register<br /><br />World first Grok Bot meetup in Tel Aviv: AI teammates you give real work to, with Cursor/SpaceXAI.<br /><br /><a href="https://luma.com/cursor-qdl0"><strong>Register on Luma →</strong></a></td></tr></table>
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-wgsj"><img src="./assets/events/mty-20260910-cover.png" alt="Grok Meetup Monterrey" width="300" /></a></td><td valign="top"><strong>Grok Meetup Monterrey</strong><br />Wed 10 Sep 2026, 18:00–21:00 (Monterrey)<br />Tec de Monterrey HUB, Av. Eugenio Garza Sada 2501 Sur<br /><br />Cursor community meetup on Grok / Grok Bot practice at Tec de Monterrey innovation hub.<br /><br /><a href="https://luma.com/cursor-wgsj"><strong>Register on Luma →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/ti4pujcs"><img src="./assets/events/syd-20260826-cover.png" alt="Grok Bot Sydney Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Sydney Meetup</strong><br />Wed 26 Aug 2026, 17:30–20:00 (AEST)<br />Chippendale, NSW · exact address after you register (Block)<br /><br />Cursor Sydney in-person Grok Bot night. Sold out, waitlist open, host approval. Bring an iPhone or a Windows/Mac laptop. Food and hands-on help.<br /><br /><a href="https://luma.com/ti4pujcs"><strong>Join the waitlist on Luma →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/wb8mrs0g"><img src="./assets/events/gtm-20260826-cover.png" alt="Grok Bot for GTM: Prospecting to Customer Calls" width="300" /></a></td><td valign="top"><strong>Grok Bot for GTM: Prospecting to Customer Calls</strong><br />Wed 26 Aug 2026, 10:00–11:00 (PDT)<br />Zoom · session will be recorded<br /><br />SpaceXAI’s Krista Letz walks through Grok Bots that run enterprise GTM: chief of staff, pipeline, and account research.<br /><br /><a href="https://luma.com/wb8mrs0g"><strong>Register on Luma →</strong></a></td></tr></table>
 
 ## Contents
 
@@ -207,6 +211,11 @@
 - [Grok Bot Gmail connector cannot download attachment bytes](https://forum.cursor.com/t/grok-bot-gmail-connector-can-list-attachments-but-cannot-download-their-bytes/169261) - Staff: the Gmail connector lists attachment metadata only; no download tool. Use the cloud browser or park the file in Drive.
 - [Does logging into Grok Bot count as a separate computer?](https://forum.cursor.com/t/does-logging-into-grokbot-count-as-a-separate-computer/169289) - Staff: a Grok Bot login is its own Cursor device, and the cloud workspace can count as a second one toward Too many computers.
 - [Grok Bot Notion plugin OAuth Invalid redirect_uri](https://forum.cursor.com/t/grok-bot-notion-plugin-oauth-invalid-redirect-uri/169234) - Staff: Notion sign-in is stored on the account, so retry fails; Re-authenticate (not Connect) clears it and OAuth succeeds.
+- [Grok Bot now has Channels](https://forum.cursor.com/t/grok-bot-threads-ui-is-unusable-needs-a-slack-style-right-panel/168315) - Staff: Grok Bot now has Channels (sidebar +, up to 6 bots per named space). A thread view that keeps the main chat visible is still in progress.
+- [Stuck Reconnecting can be a local cursorvm.com block](https://forum.cursor.com/t/grok-bot-desktop-on-macos-is-permanently-stuck-on-reconnecting-to-your-computer/169119) - Staff: the cloud computer was healthy; the Mac never finished reconnect because traffic to cursorvm.com was dropped (VPN or firewall).
+- [Agent never surfaces Take over for login](https://forum.cursor.com/t/grok-bot-failed-to-open-its-computer-and-couldnt-recognize-the-issue/169179) - Staff: login tasks should hand you the computer; ask it to hand me your computer, and skip passkeys with Try another way.
+- [Grok Bot Cursor Agent usage and model selection](https://forum.cursor.com/t/query-about-grok-bot-cursor-agent-usage-and-model-selection/169160) - Staff: agents Grok Bot starts run in your Cursor account and burn Cursor plan usage; Grok Bot chat has a separate allowance; unnamed-model agents use your Cloud Agent default.
+- [How to track Grok Bot releases](https://forum.cursor.com/t/multiple-questions/169338) - Staff: latest stable is 0.24.0; no public changelog yet (Settings → Updates plus X); there is no official Debian/Fedora desktop app.
 
 ## Related Lists
 
@@ -224,7 +233,7 @@
 
 ## Contributing
 
-139 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+144 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

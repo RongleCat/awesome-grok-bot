@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-139-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-144-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -46,6 +46,10 @@
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-qdl0"><img src="./assets/events/tlv-20260908-cover.png" alt="Grok Bot Meetup Tel Aviv" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Tel Aviv</strong><br />2026-09-08（月）18:00–20:00（IDT）<br />テルアビブ · 登録後に住所を表示<br /><br />テルアビブ初の Grok Bot ミートアップ。実作業を任せる AI チームメイト。<br /><br /><a href="https://luma.com/cursor-qdl0"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-wgsj"><img src="./assets/events/mty-20260910-cover.png" alt="Grok Meetup Monterrey" width="300" /></a></td><td valign="top"><strong>Grok Meetup Monterrey</strong><br />2026-09-10（水）18:00–21:00（Monterrey）<br />Tec de Monterrey HUB、Av. Eugenio Garza Sada 2501 Sur<br /><br />Cursor コミュニティの集まり。モンテレイ工科大ハブで Grok / Grok Bot の実例を見る。<br /><br /><a href="https://luma.com/cursor-wgsj"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/ti4pujcs"><img src="./assets/events/syd-20260826-cover.png" alt="Grok Bot Meetup Sydney" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Sydney</strong><br />2026-08-26（水）17:30–20:00（AEST）<br />シドニー Chippendale · 登録後に住所を表示（Block）<br /><br />Cursor Sydney の対面 Grok Bot ナイト。満席、ウェイティング可、主催者承認。iPhone か Win/Mac ノートを持参。食事とハンズオンあり。<br /><br /><a href="https://luma.com/ti4pujcs"><strong>Luma でウェイティング登録 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/wb8mrs0g"><img src="./assets/events/gtm-20260826-cover.png" alt="Grok Bot for GTM: 見込み客から顧客通話まで" width="300" /></a></td><td valign="top"><strong>Grok Bot for GTM: 見込み客から顧客通話まで</strong><br />2026-08-26（水）10:00–11:00（PDT）<br />Zoom · 録画あり<br /><br />SpaceXAI の Krista Letz が、企業 GTM を回す Grok Bot（チーフオブスタッフ、パイプライン、アカウント調査）を実演。<br /><br /><a href="https://luma.com/wb8mrs0g"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 ## 目次
 
@@ -207,6 +211,11 @@
 - [Grok Bot Gmail connector cannot download attachment bytes](https://forum.cursor.com/t/grok-bot-gmail-connector-can-list-attachments-but-cannot-download-their-bytes/169261) - 公式：Gmail コネクタは添付のメタデータだけ。ダウンロードツールはない。クラウドブラウザか Drive 経由。
 - [Does logging into Grok Bot count as a separate computer?](https://forum.cursor.com/t/does-logging-into-grokbot-count-as-a-separate-computer/169289) - 公式：Grok Bot のログイン自体が Cursor の 1 台。クラウド作業領域がもう 1 台になり、Too many computers に入る。
 - [Grok Bot Notion plugin OAuth Invalid redirect_uri](https://forum.cursor.com/t/grok-bot-notion-plugin-oauth-invalid-redirect-uri/169234) - 公式：Notion のログインはアカウント側に残る。Connect の再試行ではダメで、Re-authenticate で消すと OAuth が通る。
+- [Grok Bot now has Channels](https://forum.cursor.com/t/grok-bot-threads-ui-is-unusable-needs-a-slack-style-right-panel/168315) - 公式：Grok Bot に Channels が付いた（サイドバーの +、名前付きスペースあたり最大 6 Bot）。本チャットを残すスレッド表示はまだ開発中。
+- [Stuck Reconnecting can be a local cursorvm.com block](https://forum.cursor.com/t/grok-bot-desktop-on-macos-is-permanently-stuck-on-reconnecting-to-your-computer/169119) - 公式：クラウド側は正常。Mac が Reconnecting のままなのは、cursorvm.com への通信が VPN/ファイアウォールで落ちているため。
+- [Agent never surfaces Take over for login](https://forum.cursor.com/t/grok-bot-failed-to-open-its-computer-and-couldnt-recognize-the-issue/169179) - 公式：ログイン作業は本来コンピュータを渡すべき。hand me your computer と頼み、パスキーは Try another way で回避。
+- [Grok Bot Cursor Agent usage and model selection](https://forum.cursor.com/t/query-about-grok-bot-cursor-agent-usage-and-model-selection/169160) - 公式：Grok Bot が起動する Agent は Cursor アカウントで動き、Cursor プランを消費。Grok Bot チャットは別枠。モデル未指定の Agent は Cloud Agent の既定モデル。
+- [How to track Grok Bot releases](https://forum.cursor.com/t/multiple-questions/169338) - 公式：最新安定は 0.24.0。公開 changelog はまだない（Settings → Updates と X）。公式の Debian/Fedora デスクトップアプリはない。
 
 ## 関連リスト
 
@@ -224,7 +233,7 @@
 
 ## 貢献
 
-8 セクションに 139 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 144 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

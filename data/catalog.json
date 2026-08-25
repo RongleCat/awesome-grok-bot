@@ -1354,6 +1354,56 @@
             "zh": "官方：Notion 登录绑在账号上，光点 Connect 会复用坏会话；要用 Re-authenticate 清掉才能过 OAuth。",
             "ja": "公式：Notion のログインはアカウント側に残る。Connect の再試行ではダメで、Re-authenticate で消すと OAuth が通る。"
           }
+        },
+        {
+          "title": "Grok Bot now has Channels",
+          "url": "https://forum.cursor.com/t/grok-bot-threads-ui-is-unusable-needs-a-slack-style-right-panel/168315",
+          "source": "day-20260825",
+          "blurb": {
+            "en": "Staff: Grok Bot now has Channels (sidebar +, up to 6 bots per named space). A thread view that keeps the main chat visible is still in progress.",
+            "zh": "官方：Grok Bot 已经有 Channels（侧栏 +，每个命名空间最多 6 个 Bot）。能同时看见主聊天的线程视图还在做。",
+            "ja": "公式：Grok Bot に Channels が付いた（サイドバーの +、名前付きスペースあたり最大 6 Bot）。本チャットを残すスレッド表示はまだ開発中。"
+          }
+        },
+        {
+          "title": "Stuck Reconnecting can be a local cursorvm.com block",
+          "url": "https://forum.cursor.com/t/grok-bot-desktop-on-macos-is-permanently-stuck-on-reconnecting-to-your-computer/169119",
+          "source": "day-20260825",
+          "blurb": {
+            "en": "Staff: the cloud computer was healthy; the Mac never finished reconnect because traffic to cursorvm.com was dropped (VPN or firewall).",
+            "zh": "官方：云电脑是好的；Mac 一直 Reconnecting，是本机到 cursorvm.com 的流量被 VPN/防火墙丢掉了。",
+            "ja": "公式：クラウド側は正常。Mac が Reconnecting のままなのは、cursorvm.com への通信が VPN/ファイアウォールで落ちているため。"
+          }
+        },
+        {
+          "title": "Agent never surfaces Take over for login",
+          "url": "https://forum.cursor.com/t/grok-bot-failed-to-open-its-computer-and-couldnt-recognize-the-issue/169179",
+          "source": "day-20260825",
+          "blurb": {
+            "en": "Staff: login tasks should hand you the computer; ask it to hand me your computer, and skip passkeys with Try another way.",
+            "zh": "官方：登录任务本该把电脑交给你；直接说 hand me your computer，通行密钥选 Try another way。",
+            "ja": "公式：ログイン作業は本来コンピュータを渡すべき。hand me your computer と頼み、パスキーは Try another way で回避。"
+          }
+        },
+        {
+          "title": "Grok Bot Cursor Agent usage and model selection",
+          "url": "https://forum.cursor.com/t/query-about-grok-bot-cursor-agent-usage-and-model-selection/169160",
+          "source": "day-20260825",
+          "blurb": {
+            "en": "Staff: agents Grok Bot starts run in your Cursor account and burn Cursor plan usage; Grok Bot chat has a separate allowance; unnamed-model agents use your Cloud Agent default.",
+            "zh": "官方：Grok Bot 拉起的 Agent 走你的 Cursor 账号、吃 Cursor 套餐额度；Grok Bot 聊天是另一份额度；没点模型的 Agent 用 Cloud Agent 默认模型。",
+            "ja": "公式：Grok Bot が起動する Agent は Cursor アカウントで動き、Cursor プランを消費。Grok Bot チャットは別枠。モデル未指定の Agent は Cloud Agent の既定モデル。"
+          }
+        },
+        {
+          "title": "How to track Grok Bot releases",
+          "url": "https://forum.cursor.com/t/multiple-questions/169338",
+          "source": "day-20260825",
+          "blurb": {
+            "en": "Staff: latest stable is 0.24.0; no public changelog yet (Settings → Updates plus X); there is no official Debian/Fedora desktop app.",
+            "zh": "官方：当前稳定版 0.24.0；还没有公开 changelog（看 Settings → Updates 和 X）；没有官方 Debian/Fedora 桌面端。",
+            "ja": "公式：最新安定は 0.24.0。公開 changelog はまだない（Settings → Updates と X）。公式の Debian/Fedora デスクトップアプリはない。"
+          }
         }
       ]
     },
@@ -1658,6 +1708,68 @@
         "en": "Cursor community meetup on Grok / Grok Bot practice at Tec de Monterrey innovation hub.",
         "zh": "Cursor 社区场：在蒙特雷理工创新中心看 Grok / Grok Bot 落地用法。",
         "ja": "Cursor コミュニティの集まり。モンテレイ工科大ハブで Grok / Grok Bot の実例を見る。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "syd-20260826",
+      "url": "https://luma.com/ti4pujcs",
+      "image": "./assets/events/syd-20260826-cover.png",
+      "expires": "2026-08-26T20:00:00+10:00",
+      "title": {
+        "en": "Grok Bot Sydney Meetup",
+        "zh": "Grok Bot 悉尼线下交流",
+        "ja": "Grok Bot Meetup Sydney"
+      },
+      "when": {
+        "en": "Wed 26 Aug 2026, 17:30–20:00 (AEST)",
+        "zh": "2026-08-26 周三 17:30–20:00（悉尼）",
+        "ja": "2026-08-26（水）17:30–20:00（AEST）"
+      },
+      "where": {
+        "en": "Chippendale, NSW · exact address after you register (Block)",
+        "zh": "悉尼 Chippendale · 报名通过后可见地址（Block）",
+        "ja": "シドニー Chippendale · 登録後に住所を表示（Block）"
+      },
+      "body": {
+        "en": "Cursor Sydney in-person Grok Bot night. Sold out, waitlist open, host approval. Bring an iPhone or a Windows/Mac laptop. Food and hands-on help.",
+        "zh": "Cursor 悉尼线下 Grok Bot 夜。已满员可候补，需主办审核。带 iPhone 或 Win/Mac 笔记本。有餐食和现场帮手。",
+        "ja": "Cursor Sydney の対面 Grok Bot ナイト。満席、ウェイティング可、主催者承認。iPhone か Win/Mac ノートを持参。食事とハンズオンあり。"
+      },
+      "cta": {
+        "en": "Join the waitlist on Luma",
+        "zh": "去 Luma 候补",
+        "ja": "Luma でウェイティング登録"
+      }
+    },
+    {
+      "id": "gtm-20260826",
+      "url": "https://luma.com/wb8mrs0g",
+      "image": "./assets/events/gtm-20260826-cover.png",
+      "expires": "2026-08-26T11:00:00-07:00",
+      "title": {
+        "en": "Grok Bot for GTM: Prospecting to Customer Calls",
+        "zh": "Grok Bot 做 GTM：从获客到客户通话",
+        "ja": "Grok Bot for GTM: 見込み客から顧客通話まで"
+      },
+      "when": {
+        "en": "Wed 26 Aug 2026, 10:00–11:00 (PDT)",
+        "zh": "2026-08-26 周三 10:00–11:00（PDT）",
+        "ja": "2026-08-26（水）10:00–11:00（PDT）"
+      },
+      "where": {
+        "en": "Zoom · session will be recorded",
+        "zh": "Zoom · 会录播",
+        "ja": "Zoom · 録画あり"
+      },
+      "body": {
+        "en": "SpaceXAI’s Krista Letz walks through Grok Bots that run enterprise GTM: chief of staff, pipeline, and account research.",
+        "zh": "SpaceXAI 的 Krista Letz 演示用 Grok Bot 跑企业 GTM：虚拟幕僚、建管道、做客户研究。",
+        "ja": "SpaceXAI の Krista Letz が、企業 GTM を回す Grok Bot（チーフオブスタッフ、パイプライン、アカウント調査）を実演。"
       },
       "cta": {
         "en": "Register on Luma",

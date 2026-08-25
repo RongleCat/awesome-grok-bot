@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-139-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-144-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -46,6 +46,10 @@
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-qdl0"><img src="./assets/events/tlv-20260908-cover.png" alt="Grok Bot 特拉维夫线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 特拉维夫线下交流</strong><br />2026-09-08 周一 18:00–20:00（以色列夏令时）<br />特拉维夫 · 报名后可见地址<br /><br />特拉维夫全球首场 Grok Bot 线下：把真活交给云电脑队友。<br /><br /><a href="https://luma.com/cursor-qdl0"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-wgsj"><img src="./assets/events/mty-20260910-cover.png" alt="Grok Meetup 蒙特雷" width="300" /></a></td><td valign="top"><strong>Grok Meetup 蒙特雷</strong><br />2026-09-10 周三 18:00–21:00（蒙特雷时间）<br />蒙特雷理工 HUB，Av. Eugenio Garza Sada 2501 Sur<br /><br />Cursor 社区场：在蒙特雷理工创新中心看 Grok / Grok Bot 落地用法。<br /><br /><a href="https://luma.com/cursor-wgsj"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/ti4pujcs"><img src="./assets/events/syd-20260826-cover.png" alt="Grok Bot 悉尼线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 悉尼线下交流</strong><br />2026-08-26 周三 17:30–20:00（悉尼）<br />悉尼 Chippendale · 报名通过后可见地址（Block）<br /><br />Cursor 悉尼线下 Grok Bot 夜。已满员可候补，需主办审核。带 iPhone 或 Win/Mac 笔记本。有餐食和现场帮手。<br /><br /><a href="https://luma.com/ti4pujcs"><strong>去 Luma 候补 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/wb8mrs0g"><img src="./assets/events/gtm-20260826-cover.png" alt="Grok Bot 做 GTM：从获客到客户通话" width="300" /></a></td><td valign="top"><strong>Grok Bot 做 GTM：从获客到客户通话</strong><br />2026-08-26 周三 10:00–11:00（PDT）<br />Zoom · 会录播<br /><br />SpaceXAI 的 Krista Letz 演示用 Grok Bot 跑企业 GTM：虚拟幕僚、建管道、做客户研究。<br /><br /><a href="https://luma.com/wb8mrs0g"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 ## 目录
 
@@ -207,6 +211,11 @@
 - [Grok Bot Gmail connector cannot download attachment bytes](https://forum.cursor.com/t/grok-bot-gmail-connector-can-list-attachments-but-cannot-download-their-bytes/169261) - 官方：Gmail 连接器只能列出附件元数据，没有下载工具。走云电脑浏览器，或先丢进 Drive。.
 - [Does logging into Grok Bot count as a separate computer?](https://forum.cursor.com/t/does-logging-into-grokbot-count-as-a-separate-computer/169289) - 官方：登录 Grok Bot 会算一台 Cursor 设备，云工作区还可能再占一台，会撞 Too many computers。.
 - [Grok Bot Notion plugin OAuth Invalid redirect_uri](https://forum.cursor.com/t/grok-bot-notion-plugin-oauth-invalid-redirect-uri/169234) - 官方：Notion 登录绑在账号上，光点 Connect 会复用坏会话；要用 Re-authenticate 清掉才能过 OAuth。.
+- [Grok Bot now has Channels](https://forum.cursor.com/t/grok-bot-threads-ui-is-unusable-needs-a-slack-style-right-panel/168315) - 官方：Grok Bot 已经有 Channels（侧栏 +，每个命名空间最多 6 个 Bot）。能同时看见主聊天的线程视图还在做。.
+- [Stuck Reconnecting can be a local cursorvm.com block](https://forum.cursor.com/t/grok-bot-desktop-on-macos-is-permanently-stuck-on-reconnecting-to-your-computer/169119) - 官方：云电脑是好的；Mac 一直 Reconnecting，是本机到 cursorvm.com 的流量被 VPN/防火墙丢掉了。.
+- [Agent never surfaces Take over for login](https://forum.cursor.com/t/grok-bot-failed-to-open-its-computer-and-couldnt-recognize-the-issue/169179) - 官方：登录任务本该把电脑交给你；直接说 hand me your computer，通行密钥选 Try another way。.
+- [Grok Bot Cursor Agent usage and model selection](https://forum.cursor.com/t/query-about-grok-bot-cursor-agent-usage-and-model-selection/169160) - 官方：Grok Bot 拉起的 Agent 走你的 Cursor 账号、吃 Cursor 套餐额度；Grok Bot 聊天是另一份额度；没点模型的 Agent 用 Cloud Agent 默认模型。.
+- [How to track Grok Bot releases](https://forum.cursor.com/t/multiple-questions/169338) - 官方：当前稳定版 0.24.0；还没有公开 changelog（看 Settings → Updates 和 X）；没有官方 Debian/Fedora 桌面端。.
 
 ## 相关列表
 
@@ -224,7 +233,7 @@
 
 ## 贡献
 
-目前 8 个分类、139 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、144 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
