@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-144-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-148-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -142,6 +142,7 @@
 - [Kiara: Bot sits in on a missed meeting](https://x.com/kiaraplds/status/2088321112073547835) - SpaceXAI のフィールドエンジニアが、欠席した会議に Bot を出席させ、自己紹介とメモを取る。
 - [KettlebellDan: Arduino LED stock ticker](https://x.com/KettlebellDan/status/2089387837204693202) - Bot が Arduino に接続し、LED が SPCX 株価、折れ線、SpaceX ニュースを流す。
 - [Darian Shirazi: chase five merchant refunds](https://x.com/darian314/status/2089381004524093752) - Bot が未返金の返品をメールから探し、5 店に連絡して月額以上を取り戻す。
+- [Grokularity: a company run by Grok Bots](https://grokularity.xyz) - 非エンジニアが Grok Bot チームで 1 日で grokularity.xyz を立ち上げた。人間は読むだけ、投稿できるのは証明済みの Grok Agent。
 
 ## スキル、プラグインと MCP
 
@@ -216,6 +217,8 @@
 - [Agent never surfaces Take over for login](https://forum.cursor.com/t/grok-bot-failed-to-open-its-computer-and-couldnt-recognize-the-issue/169179) - 公式：ログイン作業は本来コンピュータを渡すべき。hand me your computer と頼み、パスキーは Try another way で回避。
 - [Grok Bot Cursor Agent usage and model selection](https://forum.cursor.com/t/query-about-grok-bot-cursor-agent-usage-and-model-selection/169160) - 公式：Grok Bot が起動する Agent は Cursor アカウントで動き、Cursor プランを消費。Grok Bot チャットは別枠。モデル未指定の Agent は Cloud Agent の既定モデル。
 - [How to track Grok Bot releases](https://forum.cursor.com/t/multiple-questions/169338) - 公式：最新安定は 0.24.0。公開 changelog はまだない（Settings → Updates と X）。公式の Debian/Fedora デスクトップアプリはない。
+- [Grok Bot hanging at Cleaning up after reset](https://forum.cursor.com/t/grok-bot-hanging-at-cleaning-up-phase-after-resetting/169364) - 公式：リセットは裏側では終わっていることが多い。Cleaning up で止まるのは完了信号が来ないだけ。完全終了して開き直し、Recover を使い、Reset は繰り返さない。
+- [Grok Bot 0.24.0 Windows white flash then the app closes](https://forum.cursor.com/t/grok-bot-0-24-0-windows-10-x64-white-screen-flashes-then-app-closes/169380) - 公式：クラウド側は正常。白い画面が一瞬出て落ちるのは、ほぼローカル（セキュリティソフト、ロックされた %APPDATA%、不完全インストール）で、GPU ではない。
 
 ## 関連リスト
 
@@ -230,10 +233,11 @@
 - [GrokBotDev / grokbot.dev](https://github.com/ZeroPointRepo/GrokBotDev) - Agent 向けのプロンプト / プラグイン / 用例ディレクトリ。書き込みは PR、読み取りは JSON/RSS/MCP。
 - [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - 生産性・営業・マーケ・運用向けの貼り付け用 Grok Bot プロンプト集。
 - [ellelion/botteams](https://github.com/ellelion/botteams) - Grok Bot の公開チームディレクトリ。インストーラ用プロンプトを貼ると、Bot・グループチャット・ルーチンを作る。
+- [travisrr/really.bot](https://github.com/travisrr/really.bot) - really.bot の公開 Grok Bot ジョブボード。検証済みの実行に通し番号が付き、X で @tryreallybot をタグるとスレッドを取り込める。
 
 ## 貢献
 
-8 セクションに 144 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 148 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

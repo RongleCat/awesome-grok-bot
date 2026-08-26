@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -744,6 +744,16 @@
             "zh": "Bot 在邮件里找没退的货，给 5 家商家写信，追回的钱超过月费。",
             "ja": "Bot が未返金の返品をメールから探し、5 店に連絡して月額以上を取り戻す。"
           }
+        },
+        {
+          "title": "Grokularity: a company run by Grok Bots",
+          "url": "https://grokularity.xyz",
+          "source": "day-20260826",
+          "blurb": {
+            "en": "A non-coder stood up grokularity.xyz in a day with a Grok Bot team: humans read, only proven Grok agents write.",
+            "zh": "没写过代码的人用一小队 Grok Bot 一天搭起 grokularity.xyz：人只读，只有核过的 Grok Agent 能写。",
+            "ja": "非エンジニアが Grok Bot チームで 1 日で grokularity.xyz を立ち上げた。人間は読むだけ、投稿できるのは証明済みの Grok Agent。"
+          }
         }
       ]
     },
@@ -1404,6 +1414,26 @@
             "zh": "官方：当前稳定版 0.24.0；还没有公开 changelog（看 Settings → Updates 和 X）；没有官方 Debian/Fedora 桌面端。",
             "ja": "公式：最新安定は 0.24.0。公開 changelog はまだない（Settings → Updates と X）。公式の Debian/Fedora デスクトップアプリはない。"
           }
+        },
+        {
+          "title": "Grok Bot hanging at Cleaning up after reset",
+          "url": "https://forum.cursor.com/t/grok-bot-hanging-at-cleaning-up-phase-after-resetting/169364",
+          "source": "day-20260826",
+          "blurb": {
+            "en": "Staff: the reset usually finishes on the backend; the dialog just misses the done signal at Cleaning up. Fully quit and reopen, then Recover — don’t Reset again.",
+            "zh": "官方：重置多半在后台已经完成，进度条卡在 Cleaning up 只是没收到结束信号。彻底退出再开，用 Recover，别再 Reset。",
+            "ja": "公式：リセットは裏側では終わっていることが多い。Cleaning up で止まるのは完了信号が来ないだけ。完全終了して開き直し、Recover を使い、Reset は繰り返さない。"
+          }
+        },
+        {
+          "title": "Grok Bot 0.24.0 Windows white flash then the app closes",
+          "url": "https://forum.cursor.com/t/grok-bot-0-24-0-windows-10-x64-white-screen-flashes-then-app-closes/169380",
+          "source": "day-20260826",
+          "blurb": {
+            "en": "Staff: the cloud computer was healthy; a white flash then the process dying is usually local (endpoint security, locked %APPDATA%, or a partial install), not GPU.",
+            "zh": "官方：云电脑是好的；白屏一闪就退出，多半是本机杀进程（安全软件、锁住的 %APPDATA%、或不完整安装），不是 GPU。",
+            "ja": "公式：クラウド側は正常。白い画面が一瞬出て落ちるのは、ほぼローカル（セキュリティソフト、ロックされた %APPDATA%、不完全インストール）で、GPU ではない。"
+          }
         }
       ]
     },
@@ -1523,6 +1553,16 @@
             "en": "Public Grok Bot team directory: copy one installer prompt and it creates the named Bots, group chat, and routines.",
             "zh": "公开的 Grok Bot 团队目录：复制一条安装提示词，就会建好命名 Bot、群聊和例行任务。",
             "ja": "Grok Bot の公開チームディレクトリ。インストーラ用プロンプトを貼ると、Bot・グループチャット・ルーチンを作る。"
+          }
+        },
+        {
+          "title": "travisrr/really.bot",
+          "url": "https://github.com/travisrr/really.bot",
+          "source": "day-20260826",
+          "blurb": {
+            "en": "Public Grok Bot job board at really.bot: verified runs get a serial, and tagging @tryreallybot on X imports a thread.",
+            "zh": "公开的 Grok Bot 任务板 really.bot：核过的跑次会盖序号，在 X 上 tag @tryreallybot 就能导入帖子。",
+            "ja": "really.bot の公開 Grok Bot ジョブボード。検証済みの実行に通し番号が付き、X で @tryreallybot をタグるとスレッドを取り込める。"
           }
         }
       ]

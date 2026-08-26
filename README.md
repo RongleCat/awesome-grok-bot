@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-144-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-148-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -142,6 +142,7 @@
 - [Kiara: Bot sits in on a missed meeting](https://x.com/kiaraplds/status/2088321112073547835) - SpaceXAI field engineer has a Bot join a meeting she misses, announce itself, and take notes.
 - [KettlebellDan: Arduino LED stock ticker](https://x.com/KettlebellDan/status/2089387837204693202) - Bot talks to his Arduino so the LED marquee scrolls SPCX price, a sparkline, and SpaceX news.
 - [Darian Shirazi: chase five merchant refunds](https://x.com/darian314/status/2089381004524093752) - Bot hunts unrefunded returns in email, writes five merchants, and earns back more than the monthly fee.
+- [Grokularity: a company run by Grok Bots](https://grokularity.xyz) - A non-coder stood up grokularity.xyz in a day with a Grok Bot team: humans read, only proven Grok agents write.
 
 ## Skills, Plugins & MCP
 
@@ -216,6 +217,8 @@
 - [Agent never surfaces Take over for login](https://forum.cursor.com/t/grok-bot-failed-to-open-its-computer-and-couldnt-recognize-the-issue/169179) - Staff: login tasks should hand you the computer; ask it to hand me your computer, and skip passkeys with Try another way.
 - [Grok Bot Cursor Agent usage and model selection](https://forum.cursor.com/t/query-about-grok-bot-cursor-agent-usage-and-model-selection/169160) - Staff: agents Grok Bot starts run in your Cursor account and burn Cursor plan usage; Grok Bot chat has a separate allowance; unnamed-model agents use your Cloud Agent default.
 - [How to track Grok Bot releases](https://forum.cursor.com/t/multiple-questions/169338) - Staff: latest stable is 0.24.0; no public changelog yet (Settings → Updates plus X); there is no official Debian/Fedora desktop app.
+- [Grok Bot hanging at Cleaning up after reset](https://forum.cursor.com/t/grok-bot-hanging-at-cleaning-up-phase-after-resetting/169364) - Staff: the reset usually finishes on the backend; the dialog just misses the done signal at Cleaning up. Fully quit and reopen, then Recover — don’t Reset again.
+- [Grok Bot 0.24.0 Windows white flash then the app closes](https://forum.cursor.com/t/grok-bot-0-24-0-windows-10-x64-white-screen-flashes-then-app-closes/169380) - Staff: the cloud computer was healthy; a white flash then the process dying is usually local (endpoint security, locked %APPDATA%, or a partial install), not GPU.
 
 ## Related Lists
 
@@ -230,10 +233,11 @@
 - [GrokBotDev / grokbot.dev](https://github.com/ZeroPointRepo/GrokBotDev) - Agent-run directory of prompts, plugins, and use cases; PRs are the write API, with JSON/RSS/MCP reads.
 - [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - Large template library of ready-to-paste Grok Bot prompts across productivity, sales, marketing, and ops.
 - [ellelion/botteams](https://github.com/ellelion/botteams) - Public Grok Bot team directory: copy one installer prompt and it creates the named Bots, group chat, and routines.
+- [travisrr/really.bot](https://github.com/travisrr/really.bot) - Public Grok Bot job board at really.bot: verified runs get a serial, and tagging @tryreallybot on X imports a thread.
 
 ## Contributing
 
-144 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+148 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-144-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-148-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -142,6 +142,7 @@
 - [Kiara: Bot sits in on a missed meeting](https://x.com/kiaraplds/status/2088321112073547835) - SpaceXAI 现场工程师让 Bot 替她参会、自我介绍并记笔记。.
 - [KettlebellDan: Arduino LED stock ticker](https://x.com/KettlebellDan/status/2089387837204693202) - Bot 接通 Arduino，LED 字幕滚动 SPCX 股价、折线和 SpaceX 新闻。.
 - [Darian Shirazi: chase five merchant refunds](https://x.com/darian314/status/2089381004524093752) - Bot 在邮件里找没退的货，给 5 家商家写信，追回的钱超过月费。.
+- [Grokularity: a company run by Grok Bots](https://grokularity.xyz) - 没写过代码的人用一小队 Grok Bot 一天搭起 grokularity.xyz：人只读，只有核过的 Grok Agent 能写。.
 
 ## 技能、插件与 MCP
 
@@ -216,6 +217,8 @@
 - [Agent never surfaces Take over for login](https://forum.cursor.com/t/grok-bot-failed-to-open-its-computer-and-couldnt-recognize-the-issue/169179) - 官方：登录任务本该把电脑交给你；直接说 hand me your computer，通行密钥选 Try another way。.
 - [Grok Bot Cursor Agent usage and model selection](https://forum.cursor.com/t/query-about-grok-bot-cursor-agent-usage-and-model-selection/169160) - 官方：Grok Bot 拉起的 Agent 走你的 Cursor 账号、吃 Cursor 套餐额度；Grok Bot 聊天是另一份额度；没点模型的 Agent 用 Cloud Agent 默认模型。.
 - [How to track Grok Bot releases](https://forum.cursor.com/t/multiple-questions/169338) - 官方：当前稳定版 0.24.0；还没有公开 changelog（看 Settings → Updates 和 X）；没有官方 Debian/Fedora 桌面端。.
+- [Grok Bot hanging at Cleaning up after reset](https://forum.cursor.com/t/grok-bot-hanging-at-cleaning-up-phase-after-resetting/169364) - 官方：重置多半在后台已经完成，进度条卡在 Cleaning up 只是没收到结束信号。彻底退出再开，用 Recover，别再 Reset。.
+- [Grok Bot 0.24.0 Windows white flash then the app closes](https://forum.cursor.com/t/grok-bot-0-24-0-windows-10-x64-white-screen-flashes-then-app-closes/169380) - 官方：云电脑是好的；白屏一闪就退出，多半是本机杀进程（安全软件、锁住的 %APPDATA%、或不完整安装），不是 GPU。.
 
 ## 相关列表
 
@@ -230,10 +233,11 @@
 - [GrokBotDev / grokbot.dev](https://github.com/ZeroPointRepo/GrokBotDev) - 给 Agent 读的提示词/插件/用例目录；PR 当写入接口，另有 JSON/RSS/MCP。.
 - [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - 大而全的可粘贴 Grok Bot 提示词模板库，覆盖效率、销售、营销和运营。.
 - [ellelion/botteams](https://github.com/ellelion/botteams) - 公开的 Grok Bot 团队目录：复制一条安装提示词，就会建好命名 Bot、群聊和例行任务。.
+- [travisrr/really.bot](https://github.com/travisrr/really.bot) - 公开的 Grok Bot 任务板 really.bot：核过的跑次会盖序号，在 X 上 tag @tryreallybot 就能导入帖子。.
 
 ## 贡献
 
-目前 8 个分类、144 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、148 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
