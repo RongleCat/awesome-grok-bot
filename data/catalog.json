@@ -1278,11 +1278,11 @@
         {
           "title": "Grok Bot 0.23.0 first setup: createAgent / Cannot reach your computer",
           "url": "https://forum.cursor.com/t/grok-bot-0-23-0-first-setup-fails-createagent-can-t-reach-your-computer/169007",
-          "source": "day-20260823",
+          "source": "day-20260826",
           "blurb": {
-            "en": "Staff-confirmed first-run failure: the cloud computer never provisions, so Reset is unavailable.",
-            "zh": "官方确认的首装失败：云电脑没建出来，Reset 入口也没有。",
-            "ja": "公式確認の初回失敗。クラウド機が立たず Reset も出せない。"
+            "en": "Staff: first-setup createAgent can fail before a computer exists (no Reset). A later note: bad ISP DNS for *.cursorvm.com can also block the computer while Cursor API still works — try 1.1.1.1 or 8.8.8.8.",
+            "zh": "官方：首装云电脑没建出来时没有 Reset。后来又补：ISP 把 *.cursorvm.com 解析坏了也会连不上（Cursor API 仍通），先换成 1.1.1.1 或 8.8.8.8。",
+            "ja": "公式：初回セットアップでコンピュータ未作成なら Reset もない。後報：ISP が *.cursorvm.com を壊すと API は通っても接続できない。1.1.1.1 か 8.8.8.8 を試す。"
           }
         },
         {
@@ -1810,6 +1810,440 @@
         "en": "SpaceXAI’s Krista Letz walks through Grok Bots that run enterprise GTM: chief of staff, pipeline, and account research.",
         "zh": "SpaceXAI 的 Krista Letz 演示用 Grok Bot 跑企业 GTM：虚拟幕僚、建管道、做客户研究。",
         "ja": "SpaceXAI の Krista Letz が、企業 GTM を回す Grok Bot（チーフオブスタッフ、パイプライン、アカウント調査）を実演。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "mnl-20260904",
+      "url": "https://luma.com/grok-bot-manila-01",
+      "image": "./assets/events/mnl-20260904-cover.png",
+      "expires": "2026-09-04T21:00:00+08:00",
+      "title": {
+        "en": "Grok Bot Meetup Manila",
+        "zh": "Grok Bot 马尼拉线下交流",
+        "ja": "Grok Bot Meetup Manila"
+      },
+      "when": {
+        "en": "Fri 4 Sep 2026, 17:00–21:00 (PHT)",
+        "zh": "2026-09-04 周五 17:00–21:00（马尼拉）",
+        "ja": "2026-09-04（金）17:00–21:00（PHT）"
+      },
+      "where": {
+        "en": "Pasig / Ortigas Center · exact address after you register",
+        "zh": "马尼拉 Pasig / Ortigas · 报名后可见地址",
+        "ja": "マニラ Pasig / Ortigas · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "Cursor Manila in-person Grok Bot night. Free, open registration, 282 seats left.",
+        "zh": "Cursor 马尼拉线下 Grok Bot 夜。免费开放报名，还剩 282 个名额。",
+        "ja": "Cursor Manila の対面 Grok Bot ナイト。無料・先着、残席 282。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "cd-20260905",
+      "url": "https://luma.com/pdj34ofn",
+      "image": "./assets/events/cd-20260905-cover.png",
+      "expires": "2026-09-05T17:30:00+08:00",
+      "title": {
+        "en": "Grok Bot Meetup Chengdu",
+        "zh": "Grok Bot 成都线下交流",
+        "ja": "Grok Bot Meetup Chengdu"
+      },
+      "when": {
+        "en": "Sat 5 Sep 2026, 14:30–17:30 (GMT+8)",
+        "zh": "2026-09-05 周六 14:30–17:30",
+        "ja": "2026-09-05（土）14:30–17:30（GMT+8）"
+      },
+      "where": {
+        "en": "Chengdu · exact address after you register",
+        "zh": "成都 · 报名通过后可见地址",
+        "ja": "成都 · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "China’s second in-person Grok Bot meetup. Icebreaker + talks / workshop. Host approval, 22 seats left.",
+        "zh": "中国第二场 Grok Bot 线下。破冰 + 分享 / Workshop。需主办审核，还剩 22 个名额。",
+        "ja": "中国 2 回目の Grok Bot オフライン。アイスブレイクと共有 / Workshop。主催者承認、残席 22。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "brc-20260910",
+      "url": "https://luma.com/cursor-38kv",
+      "image": "./assets/events/brc-20260910-cover.png",
+      "expires": "2026-09-10T21:30:00-03:00",
+      "title": {
+        "en": "Grok Bot Meetup Bariloche",
+        "zh": "Grok Bot 巴里洛切线下交流",
+        "ja": "Grok Bot Meetup Bariloche"
+      },
+      "when": {
+        "en": "Thu 10 Sep 2026, 19:00–21:30 (ART)",
+        "zh": "2026-09-10 周四 19:00–21:30（阿根廷）",
+        "ja": "2026-09-10（木）19:00–21:30（ART）"
+      },
+      "where": {
+        "en": "Av. Ezequiel Bustillo 3241, San Carlos de Bariloche",
+        "zh": "巴里洛切 Av. Ezequiel Bustillo 3241",
+        "ja": "バリローチェ Av. Ezequiel Bustillo 3241"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Bariloche. Free, 8 seats left.",
+        "zh": "巴里洛切线下 Grok Bot。免费，还剩 8 个名额。",
+        "ja": "バリローチェの対面 Grok Bot。無料、残席 8。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "aqp-20260911",
+      "url": "https://luma.com/vcow8a4c",
+      "image": "./assets/events/aqp-20260911-cover.png",
+      "expires": "2026-09-11T23:00:00-05:00",
+      "title": {
+        "en": "Grok Bot Arequipa Build Night",
+        "zh": "Grok Bot 阿雷基帕 Build Night",
+        "ja": "Grok Bot Arequipa Build Night"
+      },
+      "when": {
+        "en": "Fri 11 Sep 2026, 19:00–23:00 (PET)",
+        "zh": "2026-09-11 周五 19:00–23:00（秘鲁）",
+        "ja": "2026-09-11（金）19:00–23:00（PET）"
+      },
+      "where": {
+        "en": "Catholic University of Santa María, Yanahuara / Umacollo, Arequipa",
+        "zh": "阿雷基帕圣玛丽亚天主教大学（Yanahuara / Umacollo）",
+        "ja": "アレキパ サンタマリア・カトリック大学（Yanahuara / Umacollo）"
+      },
+      "body": {
+        "en": "Grok Bot build night in Arequipa. Free, host approval, waitlist open, 42 seats left.",
+        "zh": "阿雷基帕 Grok Bot 动手夜。免费，需审核，可候补，还剩 42 个名额。",
+        "ja": "アレキパの Grok Bot ビルドナイト。無料、主催者承認、ウェイティング可、残席 42。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "lim-20260911",
+      "url": "https://luma.com/ybo7udvo",
+      "image": "./assets/events/lim-20260911-cover.png",
+      "expires": "2026-09-11T23:00:00-05:00",
+      "title": {
+        "en": "Grok Bot Lima Build Night",
+        "zh": "Grok Bot 利马 Build Night",
+        "ja": "Grok Bot Lima Build Night"
+      },
+      "when": {
+        "en": "Fri 11 Sep 2026, 19:00–23:00 (PET)",
+        "zh": "2026-09-11 周五 19:00–23:00（秘鲁）",
+        "ja": "2026-09-11（金）19:00–23:00（PET）"
+      },
+      "where": {
+        "en": "Pontifical Catholic University of Peru, San Miguel, Lima",
+        "zh": "利马秘鲁天主教大学（San Miguel）",
+        "ja": "リマ ペルー・カトリック大学（San Miguel）"
+      },
+      "body": {
+        "en": "Grok Bot build night in Lima. Free, host approval, waitlist open, 36 seats left.",
+        "zh": "利马 Grok Bot 动手夜。免费，需审核，可候补，还剩 36 个名额。",
+        "ja": "リマの Grok Bot ビルドナイト。無料、主催者承認、ウェイティング可、残席 36。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "lfw-20260912",
+      "url": "https://luma.com/cursor-ec8v",
+      "image": "./assets/events/lfw-20260912-cover.png",
+      "expires": "2026-09-12T13:00:00+00:00",
+      "title": {
+        "en": "Grok Bot Meetup Lomé",
+        "zh": "Grok Bot 洛美线下交流",
+        "ja": "Grok Bot Meetup Lomé"
+      },
+      "when": {
+        "en": "Sat 12 Sep 2026, 09:00–13:00 (GMT)",
+        "zh": "2026-09-12 周六 09:00–13:00（洛美）",
+        "ja": "2026-09-12（土）09:00–13:00（GMT）"
+      },
+      "where": {
+        "en": "Institut Français du Togo, Lomé",
+        "zh": "洛美多哥法语学院",
+        "ja": "ロメ トーゴ・フランス学院"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Lomé. Free, waitlist open, 198 seats left.",
+        "zh": "洛美线下 Grok Bot。免费，可候补，还剩 198 个名额。",
+        "ja": "ロメの対面 Grok Bot。無料、ウェイティング可、残席 198。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "mec-20260912",
+      "url": "https://luma.com/cursor-manta",
+      "image": "./assets/events/mec-20260912-cover.png",
+      "expires": "2026-09-12T12:30:00-05:00",
+      "title": {
+        "en": "Grok Bot Manta Workshop",
+        "zh": "Grok Bot 曼塔工作坊",
+        "ja": "Grok Bot Manta Workshop"
+      },
+      "when": {
+        "en": "Sat 12 Sep 2026, 08:30–12:30 (ECT)",
+        "zh": "2026-09-12 周六 08:30–12:30（厄瓜多尔）",
+        "ja": "2026-09-12（土）08:30–12:30（ECT）"
+      },
+      "where": {
+        "en": "Manta, Ecuador · exact address after you register",
+        "zh": "厄瓜多尔曼塔 · 报名后可见地址",
+        "ja": "エクアドル マンタ · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "Workshop on the new agentic development stack with Grok Bot. Free, waitlist open, 41 seats left.",
+        "zh": "用 Grok Bot 讲新的 agent 开发栈。免费，可候补，还剩 41 个名额。",
+        "ja": "Grok Bot で新しいエージェント開発スタックを扱うワークショップ。無料、ウェイティング可、残席 41。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "bue-20260916",
+      "url": "https://luma.com/8l9u6sns",
+      "image": "./assets/events/bue-20260916-cover.png",
+      "expires": "2026-09-16T20:00:00-03:00",
+      "title": {
+        "en": "Grok Bot Meetup Buenos Aires",
+        "zh": "Grok Bot 布宜诺斯艾利斯线下交流",
+        "ja": "Grok Bot Meetup Buenos Aires"
+      },
+      "when": {
+        "en": "Wed 16 Sep 2026, 18:00–20:00 (ART)",
+        "zh": "2026-09-16 周三 18:00–20:00（阿根廷）",
+        "ja": "2026-09-16（水）18:00–20:00（ART）"
+      },
+      "where": {
+        "en": "Buenos Aires · exact address after you register",
+        "zh": "布宜诺斯艾利斯 · 报名通过后可见地址",
+        "ja": "ブエノスアイレス · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Buenos Aires. Free, host approval, waitlist open, 100 seats left.",
+        "zh": "布宜诺斯艾利斯线下 Grok Bot。免费，需审核，可候补，还剩 100 个名额。",
+        "ja": "ブエノスアイレスの対面 Grok Bot。無料、主催者承認、ウェイティング可、残席 100。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "nbo-20260917",
+      "url": "https://luma.com/cursor-0yk6",
+      "image": "./assets/events/nbo-20260917-cover.png",
+      "expires": "2026-09-17T18:00:00+03:00",
+      "title": {
+        "en": "Grok Bot Meetup Nairobi",
+        "zh": "Grok Bot 内罗毕线下交流",
+        "ja": "Grok Bot Meetup Nairobi"
+      },
+      "when": {
+        "en": "Thu 17 Sep 2026, 15:30–18:00 (EAT)",
+        "zh": "2026-09-17 周四 15:30–18:00（内罗毕）",
+        "ja": "2026-09-17（木）15:30–18:00（EAT）"
+      },
+      "where": {
+        "en": "Nairobi · venue TBA after you register",
+        "zh": "内罗毕 · 场地待定，报名后通知",
+        "ja": "ナイロビ · 会場は登録後に案内"
+      },
+      "body": {
+        "en": "Hands-on Grok Bot meetup in Nairobi. Free, host approval, 60 seats left.",
+        "zh": "内罗毕动手玩 Grok Bot。免费，需审核，还剩 60 个名额。",
+        "ja": "ナイロビのハンズオン Grok Bot。無料、主催者承認、残席 60。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "kul-20260919",
+      "url": "https://luma.com/grok-bot",
+      "image": "./assets/events/kul-20260919-cover.png",
+      "expires": "2026-09-19T20:00:00+08:00",
+      "title": {
+        "en": "Grok Bot Meetup Kuala Lumpur",
+        "zh": "Grok Bot 吉隆坡线下交流",
+        "ja": "Grok Bot Meetup Kuala Lumpur"
+      },
+      "when": {
+        "en": "Sat 19 Sep 2026, 18:00–20:00 (MYT)",
+        "zh": "2026-09-19 周六 18:00–20:00（吉隆坡）",
+        "ja": "2026-09-19（土）18:00–20:00（MYT）"
+      },
+      "where": {
+        "en": "Kuala Lumpur · exact address after you register",
+        "zh": "吉隆坡 · 报名通过后可见地址",
+        "ja": "クアラルンプール · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Kuala Lumpur. Free, host approval, waitlist open, 99 seats left.",
+        "zh": "吉隆坡线下 Grok Bot。免费，需审核，可候补，还剩 99 个名额。",
+        "ja": "クアラルンプールの対面 Grok Bot。無料、主催者承認、ウェイティング可、残席 99。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "uio-20260924",
+      "url": "https://luma.com/grokbotquitomeetup",
+      "image": "./assets/events/uio-20260924-cover.png",
+      "expires": "2026-09-24T21:30:00-05:00",
+      "title": {
+        "en": "Grok Bot Meetup Quito",
+        "zh": "Grok Bot 基多线下交流",
+        "ja": "Grok Bot Meetup Quito"
+      },
+      "when": {
+        "en": "Thu 24 Sep 2026, 19:30–21:30 (ECT)",
+        "zh": "2026-09-24 周四 19:30–21:30（厄瓜多尔）",
+        "ja": "2026-09-24（木）19:30–21:30（ECT）"
+      },
+      "where": {
+        "en": "Quito, Ecuador · exact address after you register",
+        "zh": "基多 · 报名通过后可见地址",
+        "ja": "キト · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Quito. Free, host approval, 47 seats left.",
+        "zh": "基多线下 Grok Bot。免费，需审核，还剩 47 个名额。",
+        "ja": "キトの対面 Grok Bot。無料、主催者承認、残席 47。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "yyc-20260930",
+      "url": "https://luma.com/cursor-coel",
+      "image": "./assets/events/yyc-20260930-cover.png",
+      "expires": "2026-09-30T20:30:00-06:00",
+      "title": {
+        "en": "Grok Bot Meetup Calgary",
+        "zh": "Grok Bot 卡尔加里线下交流",
+        "ja": "Grok Bot Meetup Calgary"
+      },
+      "when": {
+        "en": "Wed 30 Sep 2026, 17:30–20:30 (MDT)",
+        "zh": "2026-09-30 周三 17:30–20:30（卡尔加里）",
+        "ja": "2026-09-30（水）17:30–20:30（MDT）"
+      },
+      "where": {
+        "en": "Calgary · venue TBD after you register",
+        "zh": "卡尔加里 · 场地待定，报名后通知",
+        "ja": "カルガリー · 会場は登録後に案内"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Calgary. Free, open registration.",
+        "zh": "卡尔加里线下 Grok Bot。免费开放报名。",
+        "ja": "カルガリーの対面 Grok Bot。無料・先着。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "spk-20261002",
+      "url": "https://luma.com/91kju0je",
+      "image": "./assets/events/spk-20261002-cover.png",
+      "expires": "2026-10-02T22:00:00+09:00",
+      "title": {
+        "en": "Grok Bot Meetup Sapporo #2",
+        "zh": "Grok Bot 札幌线下交流 #2",
+        "ja": "Grok Bot Meetup 札幌 #2"
+      },
+      "when": {
+        "en": "Fri 2 Oct 2026, 19:00–22:00 (JST)",
+        "zh": "2026-10-02 周五 19:00–22:00（札幌）",
+        "ja": "2026-10-02（金）19:00–22:00（JST）"
+      },
+      "where": {
+        "en": "Sapporo · exact address after you register",
+        "zh": "札幌 · 报名通过后可见地址",
+        "ja": "札幌 · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "Second Sapporo Grok Bot meetup. Free, host approval.",
+        "zh": "札幌第二场 Grok Bot 线下。免费，需主办审核。",
+        "ja": "札幌 2 回目の Grok Bot ミートアップ。無料、主催者承認。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "cumb-20261003",
+      "url": "https://luma.com/cccumbaya",
+      "image": "./assets/events/cumb-20261003-cover.png",
+      "expires": "2026-10-03T12:00:00-05:00",
+      "title": {
+        "en": "Grok Bot Meetup Cumbayá",
+        "zh": "Grok Bot 昆巴亚线下交流",
+        "ja": "Grok Bot Meetup Cumbayá"
+      },
+      "when": {
+        "en": "Sat 3 Oct 2026, 09:30–12:00 (ECT)",
+        "zh": "2026-10-03 周六 09:30–12:00（厄瓜多尔）",
+        "ja": "2026-10-03（土）09:30–12:00（ECT）"
+      },
+      "where": {
+        "en": "Cumbayá, Quito, Ecuador",
+        "zh": "基多郊区 Cumbayá",
+        "ja": "キト近郊 Cumbayá"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Cumbayá. Free, waitlist open, 37 seats left.",
+        "zh": "基多郊区 Cumbayá 线下 Grok Bot。免费，可候补，还剩 37 个名额。",
+        "ja": "キト近郊 Cumbayá の対面 Grok Bot。無料、ウェイティング可、残席 37。"
       },
       "cta": {
         "en": "Register on Luma",

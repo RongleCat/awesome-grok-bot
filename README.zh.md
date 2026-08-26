@@ -51,6 +51,34 @@
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/wb8mrs0g"><img src="./assets/events/gtm-20260826-cover.png" alt="Grok Bot 做 GTM：从获客到客户通话" width="300" /></a></td><td valign="top"><strong>Grok Bot 做 GTM：从获客到客户通话</strong><br />2026-08-26 周三 10:00–11:00（PDT）<br />Zoom · 会录播<br /><br />SpaceXAI 的 Krista Letz 演示用 Grok Bot 跑企业 GTM：虚拟幕僚、建管道、做客户研究。<br /><br /><a href="https://luma.com/wb8mrs0g"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-manila-01"><img src="./assets/events/mnl-20260904-cover.png" alt="Grok Bot 马尼拉线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 马尼拉线下交流</strong><br />2026-09-04 周五 17:00–21:00（马尼拉）<br />马尼拉 Pasig / Ortigas · 报名后可见地址<br /><br />Cursor 马尼拉线下 Grok Bot 夜。免费开放报名，还剩 282 个名额。<br /><br /><a href="https://luma.com/grok-bot-manila-01"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/pdj34ofn"><img src="./assets/events/cd-20260905-cover.png" alt="Grok Bot 成都线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 成都线下交流</strong><br />2026-09-05 周六 14:30–17:30<br />成都 · 报名通过后可见地址<br /><br />中国第二场 Grok Bot 线下。破冰 + 分享 / Workshop。需主办审核，还剩 22 个名额。<br /><br /><a href="https://luma.com/pdj34ofn"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-38kv"><img src="./assets/events/brc-20260910-cover.png" alt="Grok Bot 巴里洛切线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 巴里洛切线下交流</strong><br />2026-09-10 周四 19:00–21:30（阿根廷）<br />巴里洛切 Av. Ezequiel Bustillo 3241<br /><br />巴里洛切线下 Grok Bot。免费，还剩 8 个名额。<br /><br /><a href="https://luma.com/cursor-38kv"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/vcow8a4c"><img src="./assets/events/aqp-20260911-cover.png" alt="Grok Bot 阿雷基帕 Build Night" width="300" /></a></td><td valign="top"><strong>Grok Bot 阿雷基帕 Build Night</strong><br />2026-09-11 周五 19:00–23:00（秘鲁）<br />阿雷基帕圣玛丽亚天主教大学（Yanahuara / Umacollo）<br /><br />阿雷基帕 Grok Bot 动手夜。免费，需审核，可候补，还剩 42 个名额。<br /><br /><a href="https://luma.com/vcow8a4c"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/ybo7udvo"><img src="./assets/events/lim-20260911-cover.png" alt="Grok Bot 利马 Build Night" width="300" /></a></td><td valign="top"><strong>Grok Bot 利马 Build Night</strong><br />2026-09-11 周五 19:00–23:00（秘鲁）<br />利马秘鲁天主教大学（San Miguel）<br /><br />利马 Grok Bot 动手夜。免费，需审核，可候补，还剩 36 个名额。<br /><br /><a href="https://luma.com/ybo7udvo"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-ec8v"><img src="./assets/events/lfw-20260912-cover.png" alt="Grok Bot 洛美线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 洛美线下交流</strong><br />2026-09-12 周六 09:00–13:00（洛美）<br />洛美多哥法语学院<br /><br />洛美线下 Grok Bot。免费，可候补，还剩 198 个名额。<br /><br /><a href="https://luma.com/cursor-ec8v"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-manta"><img src="./assets/events/mec-20260912-cover.png" alt="Grok Bot 曼塔工作坊" width="300" /></a></td><td valign="top"><strong>Grok Bot 曼塔工作坊</strong><br />2026-09-12 周六 08:30–12:30（厄瓜多尔）<br />厄瓜多尔曼塔 · 报名后可见地址<br /><br />用 Grok Bot 讲新的 agent 开发栈。免费，可候补，还剩 41 个名额。<br /><br /><a href="https://luma.com/cursor-manta"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/8l9u6sns"><img src="./assets/events/bue-20260916-cover.png" alt="Grok Bot 布宜诺斯艾利斯线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 布宜诺斯艾利斯线下交流</strong><br />2026-09-16 周三 18:00–20:00（阿根廷）<br />布宜诺斯艾利斯 · 报名通过后可见地址<br /><br />布宜诺斯艾利斯线下 Grok Bot。免费，需审核，可候补，还剩 100 个名额。<br /><br /><a href="https://luma.com/8l9u6sns"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-0yk6"><img src="./assets/events/nbo-20260917-cover.png" alt="Grok Bot 内罗毕线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 内罗毕线下交流</strong><br />2026-09-17 周四 15:30–18:00（内罗毕）<br />内罗毕 · 场地待定，报名后通知<br /><br />内罗毕动手玩 Grok Bot。免费，需审核，还剩 60 个名额。<br /><br /><a href="https://luma.com/cursor-0yk6"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot"><img src="./assets/events/kul-20260919-cover.png" alt="Grok Bot 吉隆坡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 吉隆坡线下交流</strong><br />2026-09-19 周六 18:00–20:00（吉隆坡）<br />吉隆坡 · 报名通过后可见地址<br /><br />吉隆坡线下 Grok Bot。免费，需审核，可候补，还剩 99 个名额。<br /><br /><a href="https://luma.com/grok-bot"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotquitomeetup"><img src="./assets/events/uio-20260924-cover.png" alt="Grok Bot 基多线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 基多线下交流</strong><br />2026-09-24 周四 19:30–21:30（厄瓜多尔）<br />基多 · 报名通过后可见地址<br /><br />基多线下 Grok Bot。免费，需审核，还剩 47 个名额。<br /><br /><a href="https://luma.com/grokbotquitomeetup"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-coel"><img src="./assets/events/yyc-20260930-cover.png" alt="Grok Bot 卡尔加里线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 卡尔加里线下交流</strong><br />2026-09-30 周三 17:30–20:30（卡尔加里）<br />卡尔加里 · 场地待定，报名后通知<br /><br />卡尔加里线下 Grok Bot。免费开放报名。<br /><br /><a href="https://luma.com/cursor-coel"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/91kju0je"><img src="./assets/events/spk-20261002-cover.png" alt="Grok Bot 札幌线下交流 #2" width="300" /></a></td><td valign="top"><strong>Grok Bot 札幌线下交流 #2</strong><br />2026-10-02 周五 19:00–22:00（札幌）<br />札幌 · 报名通过后可见地址<br /><br />札幌第二场 Grok Bot 线下。免费，需主办审核。<br /><br /><a href="https://luma.com/91kju0je"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cccumbaya"><img src="./assets/events/cumb-20261003-cover.png" alt="Grok Bot 昆巴亚线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 昆巴亚线下交流</strong><br />2026-10-03 周六 09:30–12:00（厄瓜多尔）<br />基多郊区 Cumbayá<br /><br />基多郊区 Cumbayá 线下 Grok Bot。免费，可候补，还剩 37 个名额。<br /><br /><a href="https://luma.com/cccumbaya"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 ## 目录
 
 - [官方资源](#官方资源)
@@ -203,7 +231,7 @@
 - [Native desktop on Arch / Linux](https://forum.cursor.com/t/native-grok-bot-desktop-app-for-arch-linux-and-linux-generally/168084) - Linux 桌面不是一等公民；这里是诉求和社区打包。.
 - [Does Grok Bot support local MCP?](https://forum.cursor.com/t/does-grok-bot-support-local-mcp-e-g-workflowy/168182) - 官方确认：Grok Bot 接不了本机或 stdio MCP，只能远程 HTTP MCP 或云浏览器。.
 - [Is Grok Bot Down Currently?](https://forum.cursor.com/t/is-grok-bot-down-currently/168918) - 8/20–21 故障帖：Bot 做到一半挂掉；官方建议 Settings → Updates 里 Reset Grok Bot’s Computer。.
-- [Grok Bot 0.23.0 first setup: createAgent / Cannot reach your computer](https://forum.cursor.com/t/grok-bot-0-23-0-first-setup-fails-createagent-can-t-reach-your-computer/169007) - 官方确认的首装失败：云电脑没建出来，Reset 入口也没有。.
+- [Grok Bot 0.23.0 first setup: createAgent / Cannot reach your computer](https://forum.cursor.com/t/grok-bot-0-23-0-first-setup-fails-createagent-can-t-reach-your-computer/169007) - 官方：首装云电脑没建出来时没有 Reset。后来又补：ISP 把 *.cursorvm.com 解析坏了也会连不上（Cursor API 仍通），先换成 1.1.1.1 或 8.8.8.8。.
 - [Grok Bot: Mac chat works, local computer reported offline](https://forum.cursor.com/t/grok-bot-mac-chat-works-local-computer-reported-offline/168973) - 官方确认的分裂故障：聊天还在，Mac 本机连接掉了；彻底退出可重连，0.23 已修。.
 - [Computer refresh wipes WhatsApp linked-device session in Grok Bot](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - 官方：电脑刷新会保留 /workspace、浏览器配置和 ~/.config，不含 ~/.local/state，WhatsApp 已链接会话会丢。.
 - [Grok Bot cloud workspace after trial exhaustion](https://forum.cursor.com/t/grok-bot-cloud-workspace-inaccessible-after-trial-exhaustion-ticket-t-e97475-pending/169010) - 官方：试用到期不会删电脑；Bot 不再回话，但还能开 Computer 视图把文件导出来，别乱点 Reset。.
