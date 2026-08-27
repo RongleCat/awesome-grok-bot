@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-151-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-153-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -90,7 +90,7 @@
 ## 公式リソース
 
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 発表記事：always-on のエージェントが専用パソコンを持ち、あなたのツール内で 24/7 働きます。
-- [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - 公式 2026-08-21 の拡大：SuperGrok Plus、Cursor Pro+、すべての Cursor Teams プランに Grok Bot が付きます。
+- [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - 公式の拡大告知（ページ更新済み）。Grok Bot は SuperGrok、Cursor Pro、全 Cursor Teams で利用可。
 - [@bot: free trial and wider plan access](https://x.com/bot/status/2090852881373311369) - 公式 2026-08-21。SuperGrok Plus、Cursor Pro+、全 Cursor Teams に開放。その他は利用制限付きの無料トライアル。
 - [@bot: mobile notifications grouped by Bot](https://x.com/bot/status/2089802845239587150) - 公式 2026-08-18。モバイル通知が Bot ごとにまとまり、その Bot のアイコンを使う。
 - [@bot: Some ways people used Grok Bot this week](https://x.com/bot/status/2090168861912170972) - 公式 2026-08-19 スレ。Matic 掃除機から Stripe 返金、会議代理まで 14 件の実地ジョブを引用。
@@ -113,9 +113,10 @@
 - [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - プラグインを優先し、コネクタがなければクラウドブラウザに戻します。
 - [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - 秘密情報は secret card を使い、API キーを Bot のチャットに貼ってはいけません。
 - [Recover Grok Bot computer data](https://cursor.com/help/grok-bot/computer-recovery) - 公式の復旧ガイド。会話はボックス外に保存。再オープンで同期済みファイルが戻り、Reset は最終手段。
-- [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - 公式の課金 FAQ。Pro+ / Ultra / Teams に含まれる。トライアルは 7 日の使用クレジット。SuperGrok 連携は一方通行。
+- [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - 公式の課金 FAQ。有料の Cursor 個人プランと Teams は Grok Bot 付き（Pro < Pro+ < Ultra）。SuperGrok / Plus / Heavy でも使える。週次枠はリセットされる。
 - [Grok Bot on the App Store](https://apps.apple.com/us/app/grok-bot/id6794501026) - 同伴アプリの公式 iOS ストアページ。
 - [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) - 公式の .grok-plugin マーケット。Grok Bot は Cursor のプラグインポリシーを継承します。
+- [@bot: SuperGrok and Cursor Pro get Grok Bot; weekly usage reset](https://x.com/bot/status/2092664183334846840) - 公式 2026-08-26：全 SuperGrok と Cursor Pro 加入者に Grok Bot を開放し、全員の週次利用枠をリセット。
 
 ## チュートリアルとガイド
 
@@ -135,6 +136,7 @@
 - [Paul J Lipsky: Cursor Just Released Grok Bot](https://www.youtube.com/watch?v=QTcZPI-g7is) - 役割別 Bot、グループチャット、プラグイン、タスクの教え方、日常使いの iOS アプリまでの解説動画。
 - [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book) - 中国語の橙皮書（約 1.6 万字）。公開直後 2 週間の多 Bot 連携、Routine、コスト抑え方。
 - [John Bai — The Grok Bot design journey (Dive Club)](https://www.youtube.com/watch?v=E-VxnQO73s4) - Grok Bot デザイナーの John Bai が、初期プロトタイプと製品化までの判断を振り返る。
+- [yuanyijie/learn-grok-bot](https://github.com/yuanyijie/learn-grok-bot) - 非公式 16 レッスン。Grok Bot デスクトップ Agent のハーネス（Electron、ターンループ、推論ルータ、サンドボックス、MCP、自動化）を学ぶ。
 
 ## 実地事例
 
@@ -264,7 +266,7 @@
 
 ## 貢献
 
-8 セクションに 151 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 153 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-151-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-153-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -90,7 +90,7 @@
 ## Official Resources
 
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - Launch note: always-on agents with their own computer, working inside your tools 24/7.
-- [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - Official 2026-08-21 expansion: SuperGrok Plus, Cursor Pro+, and all Cursor Teams plans now include Grok Bot.
+- [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - Official access expansion post (updated): Grok Bot is available for SuperGrok, Cursor Pro, and all Cursor Teams plans.
 - [@bot: free trial and wider plan access](https://x.com/bot/status/2090852881373311369) - Official 2026-08-21: SuperGrok Plus, Cursor Pro+, and all Cursor Teams get Grok Bot, plus a limited free trial for everyone else.
 - [@bot: mobile notifications grouped by Bot](https://x.com/bot/status/2089802845239587150) - Official 2026-08-18 QoL: mobile notifications group by Bot and use that Bot's icon.
 - [@bot: Some ways people used Grok Bot this week](https://x.com/bot/status/2090168861912170972) - Official 2026-08-19 thread quoting 14 field jobs, from a Matic vacuum to Stripe refunds and a meeting stand-in.
@@ -113,9 +113,10 @@
 - [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - Prefer a plugin; fall back to the cloud browser when the connector is missing.
 - [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - Use the secret card. Never paste API keys into the Bot chat.
 - [Recover Grok Bot computer data](https://cursor.com/help/grok-bot/computer-recovery) - Official recovery guide: chat history lives outside the box; reopen restores synced files, Reset is last resort.
-- [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - Official billing FAQ: Pro+ / Ultra / Teams include it, trial is a 7-day usage credit, SuperGrok link is one-way.
+- [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - Official billing FAQ: every paid Cursor plan and Teams includes Grok Bot (Pro below Pro+ below Ultra); SuperGrok / Plus / Heavy also grant it; weekly usage resets.
 - [Grok Bot on the App Store](https://apps.apple.com/us/app/grok-bot/id6794501026) - Official iOS listing for the companion app.
 - [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) - Official .grok-plugin marketplace Grok Bot inherits under Cursor plugin policy.
+- [@bot: SuperGrok and Cursor Pro get Grok Bot; weekly usage reset](https://x.com/bot/status/2092664183334846840) - Official 2026-08-26: all SuperGrok and Cursor Pro subscribers get Grok Bot, and weekly usage limits were reset for everyone.
 
 ## Tutorials & Guides
 
@@ -135,6 +136,7 @@
 - [Paul J Lipsky: Cursor Just Released Grok Bot](https://www.youtube.com/watch?v=QTcZPI-g7is) - Walkthrough of role-based bots, group chats, plugins, Teach a task, and the iOS app as the daily driver.
 - [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book) - Chinese orange book (~16k chars) on multi-bot teams, routines, and cost control in the first two weeks.
 - [John Bai — The Grok Bot design journey (Dive Club)](https://www.youtube.com/watch?v=E-VxnQO73s4) - Grok Bot designer John Bai walks through the early prototypes and the choices that became the shipped product.
+- [yuanyijie/learn-grok-bot](https://github.com/yuanyijie/learn-grok-bot) - Unofficial 16-lesson course on Grok Bot’s desktop-agent harness: Electron planes, turn loop, inference router, sandbox, MCP, automations.
 
 ## Field Cases
 
@@ -264,7 +266,7 @@
 
 ## Contributing
 
-151 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+153 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

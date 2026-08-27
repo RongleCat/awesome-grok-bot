@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-151-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-153-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -90,7 +90,7 @@
 ## 官方资源
 
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 首发稿：always-on 智能体自带电脑，在你的工具里 24/7 干活。.
-- [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - 官方 2026-08-21 扩面：SuperGrok Plus、Cursor Pro+ 和全部 Cursor Teams 现已包含 Grok Bot。.
+- [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - 官方扩面稿（页面已更新）：Grok Bot 现对 SuperGrok、Cursor Pro 和全部 Cursor Teams 开放。.
 - [@bot: free trial and wider plan access](https://x.com/bot/status/2090852881373311369) - 官方 2026-08-21：SuperGrok Plus、Cursor Pro+、全部 Cursor Teams 已开通，其他人可领有限额的免费试用。.
 - [@bot: mobile notifications grouped by Bot](https://x.com/bot/status/2089802845239587150) - 官方 2026-08-18：手机通知按 Bot 分组，并显示该 Bot 自己的图标。.
 - [@bot: Some ways people used Grok Bot this week](https://x.com/bot/status/2090168861912170972) - 官方 2026-08-19 周报，点名 14 个真实活：扫地机、买域名上线、Stripe 退款、代开会上等。.
@@ -113,9 +113,10 @@
 - [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - 优先插件；没有连接器就退回云浏览器。.
 - [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - 密钥走 secret card，禁止把 Key 贴进聊天。.
 - [Recover Grok Bot computer data](https://cursor.com/help/grok-bot/computer-recovery) - 官方恢复说明：对话在云电脑文件系统之外；重开盒子会灌回已同步文件，Reset 是最后手段。.
-- [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - 官方计费问答：Pro+ / Ultra / Teams 自带，试用是 7 天用量额度，绑定 SuperGrok 不可撤销。.
+- [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - 官方计费问答：付费 Cursor 个人档和 Teams 都带 Grok Bot（Pro < Pro+ < Ultra）；SuperGrok / Plus / Heavy 也能开通；周用量会重置。.
 - [Grok Bot on the App Store](https://apps.apple.com/us/app/grok-bot/id6794501026) - 官方 iOS 同伴 App 商店页。.
 - [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) - 官方 .grok-plugin 市场；Grok Bot 沿用 Cursor 插件政策。.
+- [@bot: SuperGrok and Cursor Pro get Grok Bot; weekly usage reset](https://x.com/bot/status/2092664183334846840) - 官方 2026-08-26：所有 SuperGrok 和 Cursor Pro 订阅者开通 Grok Bot，并给全员重置了周用量。.
 
 ## 教程与上手指南
 
@@ -135,6 +136,7 @@
 - [Paul J Lipsky: Cursor Just Released Grok Bot](https://www.youtube.com/watch?v=QTcZPI-g7is) - 按角色建 Bot、群聊、插件、教任务，以及把 iOS 当日常入口的上手视频。.
 - [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book) - 中文橙皮书（约 1.6 万字）：上线头两周的多 Bot 协作、Routine 和省钱玩法。.
 - [John Bai — The Grok Bot design journey (Dive Club)](https://www.youtube.com/watch?v=E-VxnQO73s4) - Grok Bot 设计师 John Bai 复盘最早的原型，以及后来做成现在这款产品的取舍。.
+- [yuanyijie/learn-grok-bot](https://github.com/yuanyijie/learn-grok-bot) - 非官方 16 课：拆 Grok Bot 桌面 Agent 的产品壳——Electron 分层、回合环、推理路由、沙箱、MCP、自动化。.
 
 ## 真实使用案例
 
@@ -264,7 +266,7 @@
 
 ## 贡献
 
-目前 8 个分类、151 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、153 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

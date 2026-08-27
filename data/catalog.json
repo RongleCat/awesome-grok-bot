@@ -28,11 +28,11 @@
         {
           "title": "Grok Bot is now included with more plans",
           "url": "https://x.ai/news/grok-bot-more-plans",
-          "source": "day-20260822",
+          "source": "day-20260827",
           "blurb": {
-            "en": "Official 2026-08-21 expansion: SuperGrok Plus, Cursor Pro+, and all Cursor Teams plans now include Grok Bot.",
-            "zh": "官方 2026-08-21 扩面：SuperGrok Plus、Cursor Pro+ 和全部 Cursor Teams 现已包含 Grok Bot。",
-            "ja": "公式 2026-08-21 の拡大：SuperGrok Plus、Cursor Pro+、すべての Cursor Teams プランに Grok Bot が付きます。"
+            "en": "Official access expansion post (updated): Grok Bot is available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+            "zh": "官方扩面稿（页面已更新）：Grok Bot 现对 SuperGrok、Cursor Pro 和全部 Cursor Teams 开放。",
+            "ja": "公式の拡大告知（ページ更新済み）。Grok Bot は SuperGrok、Cursor Pro、全 Cursor Teams で利用可。"
           }
         },
         {
@@ -258,11 +258,11 @@
         {
           "title": "Grok Bot plans and billing",
           "url": "https://cursor.com/help/grok-bot/plans",
-          "source": "day-20260824",
+          "source": "day-20260827",
           "blurb": {
-            "en": "Official billing FAQ: Pro+ / Ultra / Teams include it, trial is a 7-day usage credit, SuperGrok link is one-way.",
-            "zh": "官方计费问答：Pro+ / Ultra / Teams 自带，试用是 7 天用量额度，绑定 SuperGrok 不可撤销。",
-            "ja": "公式の課金 FAQ。Pro+ / Ultra / Teams に含まれる。トライアルは 7 日の使用クレジット。SuperGrok 連携は一方通行。"
+            "en": "Official billing FAQ: every paid Cursor plan and Teams includes Grok Bot (Pro below Pro+ below Ultra); SuperGrok / Plus / Heavy also grant it; weekly usage resets.",
+            "zh": "官方计费问答：付费 Cursor 个人档和 Teams 都带 Grok Bot（Pro < Pro+ < Ultra）；SuperGrok / Plus / Heavy 也能开通；周用量会重置。",
+            "ja": "公式の課金 FAQ。有料の Cursor 個人プランと Teams は Grok Bot 付き（Pro < Pro+ < Ultra）。SuperGrok / Plus / Heavy でも使える。週次枠はリセットされる。"
           }
         },
         {
@@ -283,6 +283,16 @@
             "en": "Official .grok-plugin marketplace Grok Bot inherits under Cursor plugin policy.",
             "zh": "官方 .grok-plugin 市场；Grok Bot 沿用 Cursor 插件政策。",
             "ja": "公式の .grok-plugin マーケット。Grok Bot は Cursor のプラグインポリシーを継承します。"
+          }
+        },
+        {
+          "title": "@bot: SuperGrok and Cursor Pro get Grok Bot; weekly usage reset",
+          "url": "https://x.com/bot/status/2092664183334846840",
+          "source": "day-20260827",
+          "blurb": {
+            "en": "Official 2026-08-26: all SuperGrok and Cursor Pro subscribers get Grok Bot, and weekly usage limits were reset for everyone.",
+            "zh": "官方 2026-08-26：所有 SuperGrok 和 Cursor Pro 订阅者开通 Grok Bot，并给全员重置了周用量。",
+            "ja": "公式 2026-08-26：全 SuperGrok と Cursor Pro 加入者に Grok Bot を開放し、全員の週次利用枠をリセット。"
           }
         }
       ]
@@ -453,6 +463,16 @@
             "en": "Grok Bot designer John Bai walks through the early prototypes and the choices that became the shipped product.",
             "zh": "Grok Bot 设计师 John Bai 复盘最早的原型，以及后来做成现在这款产品的取舍。",
             "ja": "Grok Bot デザイナーの John Bai が、初期プロトタイプと製品化までの判断を振り返る。"
+          }
+        },
+        {
+          "title": "yuanyijie/learn-grok-bot",
+          "url": "https://github.com/yuanyijie/learn-grok-bot",
+          "source": "day-20260827",
+          "blurb": {
+            "en": "Unofficial 16-lesson course on Grok Bot’s desktop-agent harness: Electron planes, turn loop, inference router, sandbox, MCP, automations.",
+            "zh": "非官方 16 课：拆 Grok Bot 桌面 Agent 的产品壳——Electron 分层、回合环、推理路由、沙箱、MCP、自动化。",
+            "ja": "非公式 16 レッスン。Grok Bot デスクトップ Agent のハーネス（Electron、ターンループ、推論ルータ、サンドボックス、MCP、自動化）を学ぶ。"
           }
         }
       ]
