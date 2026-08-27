@@ -1378,11 +1378,11 @@
         {
           "title": "Reset Computer window opens behind Settings (0.24.0)",
           "url": "https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177",
-          "source": "day-20260824",
+          "source": "day-20260827",
           "blurb": {
-            "en": "0.24.0 UI bug: the Reset Computer confirm modal opens behind Settings and looks unclickable.",
-            "zh": "0.24.0 界面坑：Reset Computer 确认框开在设置窗后面，看起来点不了。",
-            "ja": "0.24.0 の UI 不具合。Reset Computer 確認が Settings の裏に開き、押せないように見える。"
+            "en": "Staff: the Reset confirm dialog opens behind Settings; the fix ships in Grok Bot 0.26. Until then, Tab then Enter still confirms the hidden dialog.",
+            "zh": "官方：Reset 确认框开在 Settings 后面；修正在 Grok Bot 0.26。在此之前可以用 Tab 再 Enter 确认那个看不见的框。",
+            "ja": "公式：Reset 確認ダイアログが Settings の裏に出る。修正は Grok Bot 0.26。それまでは Tab のあと Enter で隠れたダイアログを確定できる。"
           }
         },
         {
@@ -1493,6 +1493,26 @@
             "en": "Staff: the cloud computer was healthy; a white flash then the process dying is usually local (endpoint security, locked %APPDATA%, or a partial install), not GPU.",
             "zh": "官方：云电脑是好的；白屏一闪就退出，多半是本机杀进程（安全软件、锁住的 %APPDATA%、或不完整安装），不是 GPU。",
             "ja": "公式：クラウド側は正常。白い画面が一瞬出て落ちるのは、ほぼローカル（セキュリティソフト、ロックされた %APPDATA%、不完全インストール）で、GPU ではない。"
+          }
+        },
+        {
+          "title": "Bots workspace looks empty after a rebuild",
+          "url": "https://forum.cursor.com/t/bots-workspace-missing-all-things-getting-new-user-experience/169448",
+          "source": "day-20260827",
+          "blurb": {
+            "en": "Staff: after a rebuild, logging in while the computer is still starting can show first-run UI; bots are not gone. Fully quit and reopen, and don’t create your first bot in that window.",
+            "zh": "官方：云电脑刚 rebuild、还在启动时登录，会误显新用户界面，bots 其实还在。彻底退出再开，这段时间别点 create your first bot。",
+            "ja": "公式：リビルド直後の起動中にログインすると初回セットアップ画面になる。Bot は消えていない。完全終了して開き直し、その間に create your first bot を押さない。"
+          }
+        },
+        {
+          "title": "No compact / new session; full transcript is sent each turn",
+          "url": "https://forum.cursor.com/t/grok-bot-prune-compact-an-agent-s-context-without-creating-a-new-bot/168333",
+          "source": "day-20260827",
+          "blurb": {
+            "en": "Staff: desktop and iOS have no explicit Compact or same-bot new session. Auto-summary is not compact; the full transcript is sent, and there is no model picker.",
+            "zh": "官方：桌面和手机都没有 Compact，也不能给同一个 Bot 新开 session。自动摘要不等于压缩；完整 transcript 会回传，也没有模型选择。",
+            "ja": "公式：デスクトップも iOS も明示的な Compact も同一 Bot の新セッションもない。自動要約は圧縮ではない。全文が送られ、モデル選択もない。"
           }
         }
       ]
@@ -2304,6 +2324,285 @@
         "en": "In-person Grok Bot meetup in Cumbayá. Free, waitlist open, 37 seats left.",
         "zh": "基多郊区 Cumbayá 线下 Grok Bot。免费，可候补，还剩 37 个名额。",
         "ja": "キト近郊 Cumbayá の対面 Grok Bot。無料、ウェイティング可、残席 37。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "maa-20260829",
+      "url": "https://luma.com/29amwgag",
+      "image": "./assets/events/maa-20260829-cover.png",
+      "expires": "2026-08-29T14:00:00+05:30",
+      "title": {
+        "en": "Grok Bot Meetup Chennai",
+        "zh": "Grok Bot 钦奈线下交流",
+        "ja": "Grok Bot Meetup Chennai"
+      },
+      "when": {
+        "en": "Sat 29 Aug 2026, 11:00–14:00 (IST)",
+        "zh": "2026-08-29 周六 11:00–14:00（钦奈）",
+        "ja": "2026-08-29（土）11:00–14:00（IST）"
+      },
+      "where": {
+        "en": "Chennai · exact address after you register",
+        "zh": "钦奈 · 报名通过后可见地址",
+        "ja": "チェンナイ · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Chennai. Host approval required.",
+        "zh": "钦奈线下 Grok Bot。需主办审核。",
+        "ja": "チェンナイの対面 Grok Bot。主催者承認が必要。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "sfb-20260901",
+      "url": "https://luma.com/p4rvaf0y",
+      "image": "./assets/events/sfb-20260901-cover.png",
+      "expires": "2026-09-01T20:00:00-07:00",
+      "title": {
+        "en": "Grok @bot builder demos (SF)",
+        "zh": "旧金山 Grok @bot 构建演示",
+        "ja": "Grok @bot builder demos（SF）"
+      },
+      "when": {
+        "en": "Tue 1 Sep 2026, 18:00–20:00 (PDT)",
+        "zh": "2026-09-01 周二 18:00–20:00（旧金山）",
+        "ja": "2026-09-01（火）18:00–20:00（PDT）"
+      },
+      "where": {
+        "en": "Yerba Buena, San Francisco · exact address after you register",
+        "zh": "旧金山 Yerba Buena · 报名通过后可见地址",
+        "ja": "サンフランシスコ Yerba Buena · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "Builder demos for Grok Bot in San Francisco. Host approval, waitlist open.",
+        "zh": "旧金山 Grok Bot 构建演示。需审核，可候补。",
+        "ja": "サンフランシスコの Grok Bot ビルダーデモ。主催者承認、ウェイティング可。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "nij-20260902",
+      "url": "https://luma.com/fw7ovtge",
+      "image": "./assets/events/nij-20260902-cover.png",
+      "expires": "2026-09-02T20:00:00+02:00",
+      "title": {
+        "en": "Build with Grok Bot: Nijmegen",
+        "zh": "Grok Bot 奈梅亨共建",
+        "ja": "Build with Grok Bot: Nijmegen"
+      },
+      "when": {
+        "en": "Wed 2 Sep 2026, 15:00–20:00 (CEST)",
+        "zh": "2026-09-02 周三 15:00–20:00（荷兰）",
+        "ja": "2026-09-02（水）15:00–20:00（CEST）"
+      },
+      "where": {
+        "en": "StartUp Nijmegen, Stationsplein 26, Unit 1.09, Nijmegen",
+        "zh": "奈梅亨 StartUp Nijmegen, Stationsplein 26",
+        "ja": "ナイメーヘン StartUp Nijmegen, Stationsplein 26"
+      },
+      "body": {
+        "en": "Afternoon of building with Grok Bot in Nijmegen. Open registration.",
+        "zh": "奈梅亨下午一起用 Grok Bot 做东西。开放报名。",
+        "ja": "ナイメーヘンで午後いちから Grok Bot で作る会。先着。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "vad-20260905",
+      "url": "https://luma.com/grokbot-vad-1",
+      "image": "./assets/events/vad-20260905-cover.png",
+      "expires": "2026-09-05T13:00:00+05:30",
+      "title": {
+        "en": "Grok Bot Meetup Vadodara",
+        "zh": "Grok Bot 巴罗达线下交流",
+        "ja": "Grok Bot Meetup Vadodara"
+      },
+      "when": {
+        "en": "Sat 5 Sep 2026, 10:00–13:00 (IST)",
+        "zh": "2026-09-05 周六 10:00–13:00（巴罗达）",
+        "ja": "2026-09-05（土）10:00–13:00（IST）"
+      },
+      "where": {
+        "en": "Vadodara · exact address after you register",
+        "zh": "巴罗达 · 报名通过后可见地址",
+        "ja": "ヴァドーダラー · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Vadodara. Host approval required.",
+        "zh": "巴罗达线下 Grok Bot。需主办审核。",
+        "ja": "ヴァドーダラーの対面 Grok Bot。主催者承認が必要。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "tyo-20260909",
+      "url": "https://luma.com/grokbottokyo",
+      "image": "./assets/events/tyo-20260909-cover.png",
+      "expires": "2026-09-09T21:30:00+09:00",
+      "title": {
+        "en": "Grok Bot Meetup Tokyo",
+        "zh": "Grok Bot 东京线下交流",
+        "ja": "Grok Bot Meetup 東京"
+      },
+      "when": {
+        "en": "Wed 9 Sep 2026, 19:00–21:30 (JST)",
+        "zh": "2026-09-09 周三 19:00–21:30（东京）",
+        "ja": "2026-09-09（水）19:00–21:30（JST）"
+      },
+      "where": {
+        "en": "Loglass / Kokusai Kogyo Mita 2nd Bldg 9F, Minato, Tokyo",
+        "zh": "东京港区 Loglass / 国际兴业三田第2ビル 9F",
+        "ja": "港区三田 ログラス / 国際興業三田第2ビル 9F"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Tokyo. Open registration.",
+        "zh": "东京线下 Grok Bot。开放报名。",
+        "ja": "東京の対面 Grok Bot。先着。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "osa-20260917",
+      "url": "https://luma.com/grokbotosaka",
+      "image": "./assets/events/osa-20260917-cover.png",
+      "expires": "2026-09-17T21:30:00+09:00",
+      "title": {
+        "en": "Grok Bot Meetup Osaka",
+        "zh": "Grok Bot 大阪线下交流",
+        "ja": "Grok Bot Meetup 大阪"
+      },
+      "when": {
+        "en": "Thu 17 Sep 2026, 19:00–21:30 (JST)",
+        "zh": "2026-09-17 周四 19:00–21:30（大阪）",
+        "ja": "2026-09-17（木）19:00–21:30（JST）"
+      },
+      "where": {
+        "en": "North Gate Building, 3-chōme-1-3 Umeda, Kita Ward, Osaka",
+        "zh": "大阪北区梅田 North Gate Building",
+        "ja": "大阪市北区梅田 North Gate Building"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Osaka. Host approval required.",
+        "zh": "大阪线下 Grok Bot。需主办审核。",
+        "ja": "大阪の対面 Grok Bot。主催者承認が必要。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "ceb-20260919",
+      "url": "https://luma.com/cursor-dyb8",
+      "image": "./assets/events/ceb-20260919-cover.png",
+      "expires": "2026-09-19T11:30:00+08:00",
+      "title": {
+        "en": "Grok Bot Meetup Cebu",
+        "zh": "Grok Bot 宿务线下交流",
+        "ja": "Grok Bot Meetup Cebu"
+      },
+      "when": {
+        "en": "Sat 19 Sep 2026, 09:00–11:30 (PHT)",
+        "zh": "2026-09-19 周六 09:00–11:30（宿务）",
+        "ja": "2026-09-19（土）09:00–11:30（PHT）"
+      },
+      "where": {
+        "en": "Cebu City · exact address after you register",
+        "zh": "宿务 · 报名通过后可见地址",
+        "ja": "セブ · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Cebu. Host approval required.",
+        "zh": "宿务线下 Grok Bot。需主办审核。",
+        "ja": "セブの対面 Grok Bot。主催者承認が必要。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "vic-20260921",
+      "url": "https://luma.com/grokbot",
+      "image": "./assets/events/vic-20260921-cover.png",
+      "expires": "2026-09-21T21:00:00-07:00",
+      "title": {
+        "en": "Grok Bot Meetup Victoria BC",
+        "zh": "Grok Bot 维多利亚（BC）线下交流",
+        "ja": "Grok Bot Meetup Victoria BC"
+      },
+      "when": {
+        "en": "Mon 21 Sep 2026, 18:00–21:00 (PDT)",
+        "zh": "2026-09-21 周一 18:00–21:00（维多利亚）",
+        "ja": "2026-09-21（月）18:00–21:00（PDT）"
+      },
+      "where": {
+        "en": "Victoria, BC · exact address after you register",
+        "zh": "维多利亚（BC）· 报名通过后可见地址",
+        "ja": "ビクトリア（BC）· 登録後に住所を表示"
+      },
+      "body": {
+        "en": "Grok Bot build night in Victoria. Host approval required.",
+        "zh": "维多利亚 Grok Bot 动手夜。需主办审核。",
+        "ja": "ビクトリアの Grok Bot ビルドナイト。主催者承認が必要。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "mdz-20260929",
+      "url": "https://luma.com/cursor-mtu0",
+      "image": "./assets/events/mdz-20260929-cover.png",
+      "expires": "2026-09-29T19:00:00-03:00",
+      "title": {
+        "en": "Grok Bot Meetup Mendoza",
+        "zh": "Grok Bot 门多萨线下交流",
+        "ja": "Grok Bot Meetup Mendoza"
+      },
+      "when": {
+        "en": "Tue 29 Sep 2026, 16:00–19:00 (ART)",
+        "zh": "2026-09-29 周二 16:00–19:00（门多萨）",
+        "ja": "2026-09-29（火）16:00–19:00（ART）"
+      },
+      "where": {
+        "en": "Mendoza TIC Parque Tecnológico, Rafael Cubillos 2100-2198, Godoy Cruz",
+        "zh": "门多萨 TIC 科技园，Rafael Cubillos 2100-2198",
+        "ja": "メンドーサ TIC テクノパーク、Rafael Cubillos 2100-2198"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Mendoza. Open registration.",
+        "zh": "门多萨线下 Grok Bot。开放报名。",
+        "ja": "メンドーサの対面 Grok Bot。先着。"
       },
       "cta": {
         "en": "Register on Luma",

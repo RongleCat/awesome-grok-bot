@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-154-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-156-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -74,6 +74,24 @@
 <table><tr><td width="320" valign="top"><a href="https://luma.com/91kju0je"><img src="./assets/events/spk-20261002-cover.png" alt="Grok Bot 札幌线下交流 #2" width="300" /></a></td><td valign="top"><strong>Grok Bot 札幌线下交流 #2</strong><br />2026-10-02 周五 19:00–22:00（札幌）<br />札幌 · 报名通过后可见地址<br /><br />札幌第二场 Grok Bot 线下。免费，需主办审核。<br /><br /><a href="https://luma.com/91kju0je"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cccumbaya"><img src="./assets/events/cumb-20261003-cover.png" alt="Grok Bot 昆巴亚线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 昆巴亚线下交流</strong><br />2026-10-03 周六 09:30–12:00（厄瓜多尔）<br />基多郊区 Cumbayá<br /><br />基多郊区 Cumbayá 线下 Grok Bot。免费，可候补，还剩 37 个名额。<br /><br /><a href="https://luma.com/cccumbaya"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/29amwgag"><img src="./assets/events/maa-20260829-cover.png" alt="Grok Bot 钦奈线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 钦奈线下交流</strong><br />2026-08-29 周六 11:00–14:00（钦奈）<br />钦奈 · 报名通过后可见地址<br /><br />钦奈线下 Grok Bot。需主办审核。<br /><br /><a href="https://luma.com/29amwgag"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/p4rvaf0y"><img src="./assets/events/sfb-20260901-cover.png" alt="旧金山 Grok @bot 构建演示" width="300" /></a></td><td valign="top"><strong>旧金山 Grok @bot 构建演示</strong><br />2026-09-01 周二 18:00–20:00（旧金山）<br />旧金山 Yerba Buena · 报名通过后可见地址<br /><br />旧金山 Grok Bot 构建演示。需审核，可候补。<br /><br /><a href="https://luma.com/p4rvaf0y"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/fw7ovtge"><img src="./assets/events/nij-20260902-cover.png" alt="Grok Bot 奈梅亨共建" width="300" /></a></td><td valign="top"><strong>Grok Bot 奈梅亨共建</strong><br />2026-09-02 周三 15:00–20:00（荷兰）<br />奈梅亨 StartUp Nijmegen, Stationsplein 26<br /><br />奈梅亨下午一起用 Grok Bot 做东西。开放报名。<br /><br /><a href="https://luma.com/fw7ovtge"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-vad-1"><img src="./assets/events/vad-20260905-cover.png" alt="Grok Bot 巴罗达线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 巴罗达线下交流</strong><br />2026-09-05 周六 10:00–13:00（巴罗达）<br />巴罗达 · 报名通过后可见地址<br /><br />巴罗达线下 Grok Bot。需主办审核。<br /><br /><a href="https://luma.com/grokbot-vad-1"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbottokyo"><img src="./assets/events/tyo-20260909-cover.png" alt="Grok Bot 东京线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 东京线下交流</strong><br />2026-09-09 周三 19:00–21:30（东京）<br />东京港区 Loglass / 国际兴业三田第2ビル 9F<br /><br />东京线下 Grok Bot。开放报名。<br /><br /><a href="https://luma.com/grokbottokyo"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotosaka"><img src="./assets/events/osa-20260917-cover.png" alt="Grok Bot 大阪线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 大阪线下交流</strong><br />2026-09-17 周四 19:00–21:30（大阪）<br />大阪北区梅田 North Gate Building<br /><br />大阪线下 Grok Bot。需主办审核。<br /><br /><a href="https://luma.com/grokbotosaka"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot 宿务线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 宿务线下交流</strong><br />2026-09-19 周六 09:00–11:30（宿务）<br />宿务 · 报名通过后可见地址<br /><br />宿务线下 Grok Bot。需主办审核。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot"><img src="./assets/events/vic-20260921-cover.png" alt="Grok Bot 维多利亚（BC）线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 维多利亚（BC）线下交流</strong><br />2026-09-21 周一 18:00–21:00（维多利亚）<br />维多利亚（BC）· 报名通过后可见地址<br /><br />维多利亚 Grok Bot 动手夜。需主办审核。<br /><br /><a href="https://luma.com/grokbot"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-mtu0"><img src="./assets/events/mdz-20260929-cover.png" alt="Grok Bot 门多萨线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 门多萨线下交流</strong><br />2026-09-29 周二 16:00–19:00（门多萨）<br />门多萨 TIC 科技园，Rafael Cubillos 2100-2198<br /><br />门多萨线下 Grok Bot。开放报名。<br /><br /><a href="https://luma.com/cursor-mtu0"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 ## 目录
 
@@ -237,7 +255,7 @@
 - [Grok Bot: Mac chat works, local computer reported offline](https://forum.cursor.com/t/grok-bot-mac-chat-works-local-computer-reported-offline/168973) - 官方确认的分裂故障：聊天还在，Mac 本机连接掉了；彻底退出可重连，0.23 已修。.
 - [Computer refresh wipes WhatsApp linked-device session in Grok Bot](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - 官方：电脑刷新会保留 /workspace、浏览器配置和 ~/.config，不含 ~/.local/state，WhatsApp 已链接会话会丢。.
 - [Grok Bot cloud workspace after trial exhaustion](https://forum.cursor.com/t/grok-bot-cloud-workspace-inaccessible-after-trial-exhaustion-ticket-t-e97475-pending/169010) - 官方：试用到期不会删电脑；Bot 不再回话，但还能开 Computer 视图把文件导出来，别乱点 Reset。.
-- [Reset Computer window opens behind Settings (0.24.0)](https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177) - 0.24.0 界面坑：Reset Computer 确认框开在设置窗后面，看起来点不了。.
+- [Reset Computer window opens behind Settings (0.24.0)](https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177) - 官方：Reset 确认框开在 Settings 后面；修正在 Grok Bot 0.26。在此之前可以用 Tab 再 Enter 确认那个看不见的框。.
 - [Grok Bot webhooks failing with internal server error](https://forum.cursor.com/t/grok-bot-webhooks-are-failing-with-internal-server-error/169323) - 官方：打 api2.cursor.sh 的 webhook 回 internal error；他们回滚了一波改动后同样的 curl 又通了。.
 - [Grok Bot Gmail connector cannot download attachment bytes](https://forum.cursor.com/t/grok-bot-gmail-connector-can-list-attachments-but-cannot-download-their-bytes/169261) - 官方：Gmail 连接器只能列出附件元数据，没有下载工具。走云电脑浏览器，或先丢进 Drive。.
 - [Does logging into Grok Bot count as a separate computer?](https://forum.cursor.com/t/does-logging-into-grokbot-count-as-a-separate-computer/169289) - 官方：登录 Grok Bot 会算一台 Cursor 设备，云工作区还可能再占一台，会撞 Too many computers。.
@@ -249,6 +267,8 @@
 - [How to track Grok Bot releases](https://forum.cursor.com/t/multiple-questions/169338) - 官方：当前稳定版 0.24.0；还没有公开 changelog（看 Settings → Updates 和 X）；没有官方 Debian/Fedora 桌面端。.
 - [Grok Bot hanging at Cleaning up after reset](https://forum.cursor.com/t/grok-bot-hanging-at-cleaning-up-phase-after-resetting/169364) - 官方：重置多半在后台已经完成，进度条卡在 Cleaning up 只是没收到结束信号。彻底退出再开，用 Recover，别再 Reset。.
 - [Grok Bot 0.24.0 Windows white flash then the app closes](https://forum.cursor.com/t/grok-bot-0-24-0-windows-10-x64-white-screen-flashes-then-app-closes/169380) - 官方：云电脑是好的；白屏一闪就退出，多半是本机杀进程（安全软件、锁住的 %APPDATA%、或不完整安装），不是 GPU。.
+- [Bots workspace looks empty after a rebuild](https://forum.cursor.com/t/bots-workspace-missing-all-things-getting-new-user-experience/169448) - 官方：云电脑刚 rebuild、还在启动时登录，会误显新用户界面，bots 其实还在。彻底退出再开，这段时间别点 create your first bot。.
+- [No compact / new session; full transcript is sent each turn](https://forum.cursor.com/t/grok-bot-prune-compact-an-agent-s-context-without-creating-a-new-bot/168333) - 官方：桌面和手机都没有 Compact，也不能给同一个 Bot 新开 session。自动摘要不等于压缩；完整 transcript 会回传，也没有模型选择。.
 
 ## 相关列表
 
@@ -267,7 +287,7 @@
 
 ## 贡献
 
-目前 8 个分类、154 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、156 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

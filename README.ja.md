@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-154-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-156-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -74,6 +74,24 @@
 <table><tr><td width="320" valign="top"><a href="https://luma.com/91kju0je"><img src="./assets/events/spk-20261002-cover.png" alt="Grok Bot Meetup 札幌 #2" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 札幌 #2</strong><br />2026-10-02（金）19:00–22:00（JST）<br />札幌 · 登録後に住所を表示<br /><br />札幌 2 回目の Grok Bot ミートアップ。無料、主催者承認。<br /><br /><a href="https://luma.com/91kju0je"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cccumbaya"><img src="./assets/events/cumb-20261003-cover.png" alt="Grok Bot Meetup Cumbayá" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cumbayá</strong><br />2026-10-03（土）09:30–12:00（ECT）<br />キト近郊 Cumbayá<br /><br />キト近郊 Cumbayá の対面 Grok Bot。無料、ウェイティング可、残席 37。<br /><br /><a href="https://luma.com/cccumbaya"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/29amwgag"><img src="./assets/events/maa-20260829-cover.png" alt="Grok Bot Meetup Chennai" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Chennai</strong><br />2026-08-29（土）11:00–14:00（IST）<br />チェンナイ · 登録後に住所を表示<br /><br />チェンナイの対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/29amwgag"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/p4rvaf0y"><img src="./assets/events/sfb-20260901-cover.png" alt="Grok @bot builder demos（SF）" width="300" /></a></td><td valign="top"><strong>Grok @bot builder demos（SF）</strong><br />2026-09-01（火）18:00–20:00（PDT）<br />サンフランシスコ Yerba Buena · 登録後に住所を表示<br /><br />サンフランシスコの Grok Bot ビルダーデモ。主催者承認、ウェイティング可。<br /><br /><a href="https://luma.com/p4rvaf0y"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/fw7ovtge"><img src="./assets/events/nij-20260902-cover.png" alt="Build with Grok Bot: Nijmegen" width="300" /></a></td><td valign="top"><strong>Build with Grok Bot: Nijmegen</strong><br />2026-09-02（水）15:00–20:00（CEST）<br />ナイメーヘン StartUp Nijmegen, Stationsplein 26<br /><br />ナイメーヘンで午後いちから Grok Bot で作る会。先着。<br /><br /><a href="https://luma.com/fw7ovtge"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-vad-1"><img src="./assets/events/vad-20260905-cover.png" alt="Grok Bot Meetup Vadodara" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Vadodara</strong><br />2026-09-05（土）10:00–13:00（IST）<br />ヴァドーダラー · 登録後に住所を表示<br /><br />ヴァドーダラーの対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/grokbot-vad-1"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbottokyo"><img src="./assets/events/tyo-20260909-cover.png" alt="Grok Bot Meetup 東京" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 東京</strong><br />2026-09-09（水）19:00–21:30（JST）<br />港区三田 ログラス / 国際興業三田第2ビル 9F<br /><br />東京の対面 Grok Bot。先着。<br /><br /><a href="https://luma.com/grokbottokyo"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotosaka"><img src="./assets/events/osa-20260917-cover.png" alt="Grok Bot Meetup 大阪" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 大阪</strong><br />2026-09-17（木）19:00–21:30（JST）<br />大阪市北区梅田 North Gate Building<br /><br />大阪の対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/grokbotosaka"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot Meetup Cebu" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cebu</strong><br />2026-09-19（土）09:00–11:30（PHT）<br />セブ · 登録後に住所を表示<br /><br />セブの対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot"><img src="./assets/events/vic-20260921-cover.png" alt="Grok Bot Meetup Victoria BC" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Victoria BC</strong><br />2026-09-21（月）18:00–21:00（PDT）<br />ビクトリア（BC）· 登録後に住所を表示<br /><br />ビクトリアの Grok Bot ビルドナイト。主催者承認が必要。<br /><br /><a href="https://luma.com/grokbot"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-mtu0"><img src="./assets/events/mdz-20260929-cover.png" alt="Grok Bot Meetup Mendoza" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Mendoza</strong><br />2026-09-29（火）16:00–19:00（ART）<br />メンドーサ TIC テクノパーク、Rafael Cubillos 2100-2198<br /><br />メンドーサの対面 Grok Bot。先着。<br /><br /><a href="https://luma.com/cursor-mtu0"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 ## 目次
 
@@ -237,7 +255,7 @@
 - [Grok Bot: Mac chat works, local computer reported offline](https://forum.cursor.com/t/grok-bot-mac-chat-works-local-computer-reported-offline/168973) - 公式確認の分離障害。チャットは生きるが Mac のローカル接続が切れる。完全終了で復帰。0.23 で修正。
 - [Computer refresh wipes WhatsApp linked-device session in Grok Bot](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - 公式：更新後に残るのは /workspace、ブラウザプロファイル、~/.config。~/.local/state は消え、WhatsApp 連携も落ちる。
 - [Grok Bot cloud workspace after trial exhaustion](https://forum.cursor.com/t/grok-bot-cloud-workspace-inaccessible-after-trial-exhaustion-ticket-t-e97475-pending/169010) - 公式：トライアル終了で削除はされない。Bot は返事を止めるが、Computer ビューで書き出し可能。Reset は避ける。
-- [Reset Computer window opens behind Settings (0.24.0)](https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177) - 0.24.0 の UI 不具合。Reset Computer 確認が Settings の裏に開き、押せないように見える。
+- [Reset Computer window opens behind Settings (0.24.0)](https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177) - 公式：Reset 確認ダイアログが Settings の裏に出る。修正は Grok Bot 0.26。それまでは Tab のあと Enter で隠れたダイアログを確定できる。
 - [Grok Bot webhooks failing with internal server error](https://forum.cursor.com/t/grok-bot-webhooks-are-failing-with-internal-server-error/169323) - 公式：api2.cursor.sh への webhook が internal error。変更をロールバックしたら同じ curl が通った。
 - [Grok Bot Gmail connector cannot download attachment bytes](https://forum.cursor.com/t/grok-bot-gmail-connector-can-list-attachments-but-cannot-download-their-bytes/169261) - 公式：Gmail コネクタは添付のメタデータだけ。ダウンロードツールはない。クラウドブラウザか Drive 経由。
 - [Does logging into Grok Bot count as a separate computer?](https://forum.cursor.com/t/does-logging-into-grokbot-count-as-a-separate-computer/169289) - 公式：Grok Bot のログイン自体が Cursor の 1 台。クラウド作業領域がもう 1 台になり、Too many computers に入る。
@@ -249,6 +267,8 @@
 - [How to track Grok Bot releases](https://forum.cursor.com/t/multiple-questions/169338) - 公式：最新安定は 0.24.0。公開 changelog はまだない（Settings → Updates と X）。公式の Debian/Fedora デスクトップアプリはない。
 - [Grok Bot hanging at Cleaning up after reset](https://forum.cursor.com/t/grok-bot-hanging-at-cleaning-up-phase-after-resetting/169364) - 公式：リセットは裏側では終わっていることが多い。Cleaning up で止まるのは完了信号が来ないだけ。完全終了して開き直し、Recover を使い、Reset は繰り返さない。
 - [Grok Bot 0.24.0 Windows white flash then the app closes](https://forum.cursor.com/t/grok-bot-0-24-0-windows-10-x64-white-screen-flashes-then-app-closes/169380) - 公式：クラウド側は正常。白い画面が一瞬出て落ちるのは、ほぼローカル（セキュリティソフト、ロックされた %APPDATA%、不完全インストール）で、GPU ではない。
+- [Bots workspace looks empty after a rebuild](https://forum.cursor.com/t/bots-workspace-missing-all-things-getting-new-user-experience/169448) - 公式：リビルド直後の起動中にログインすると初回セットアップ画面になる。Bot は消えていない。完全終了して開き直し、その間に create your first bot を押さない。
+- [No compact / new session; full transcript is sent each turn](https://forum.cursor.com/t/grok-bot-prune-compact-an-agent-s-context-without-creating-a-new-bot/168333) - 公式：デスクトップも iOS も明示的な Compact も同一 Bot の新セッションもない。自動要約は圧縮ではない。全文が送られ、モデル選択もない。
 
 ## 関連リスト
 
@@ -267,7 +287,7 @@
 
 ## 貢献
 
-8 セクションに 154 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 156 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

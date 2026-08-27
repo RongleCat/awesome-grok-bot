@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-154-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-156-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -74,6 +74,24 @@
 <table><tr><td width="320" valign="top"><a href="https://luma.com/91kju0je"><img src="./assets/events/spk-20261002-cover.png" alt="Grok Bot Meetup Sapporo #2" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Sapporo #2</strong><br />Fri 2 Oct 2026, 19:00–22:00 (JST)<br />Sapporo · exact address after you register<br /><br />Second Sapporo Grok Bot meetup. Free, host approval.<br /><br /><a href="https://luma.com/91kju0je"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cccumbaya"><img src="./assets/events/cumb-20261003-cover.png" alt="Grok Bot Meetup Cumbayá" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cumbayá</strong><br />Sat 3 Oct 2026, 09:30–12:00 (ECT)<br />Cumbayá, Quito, Ecuador<br /><br />In-person Grok Bot meetup in Cumbayá. Free, waitlist open, 37 seats left.<br /><br /><a href="https://luma.com/cccumbaya"><strong>Register on Luma →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/29amwgag"><img src="./assets/events/maa-20260829-cover.png" alt="Grok Bot Meetup Chennai" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Chennai</strong><br />Sat 29 Aug 2026, 11:00–14:00 (IST)<br />Chennai · exact address after you register<br /><br />In-person Grok Bot meetup in Chennai. Host approval required.<br /><br /><a href="https://luma.com/29amwgag"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/p4rvaf0y"><img src="./assets/events/sfb-20260901-cover.png" alt="Grok @bot builder demos (SF)" width="300" /></a></td><td valign="top"><strong>Grok @bot builder demos (SF)</strong><br />Tue 1 Sep 2026, 18:00–20:00 (PDT)<br />Yerba Buena, San Francisco · exact address after you register<br /><br />Builder demos for Grok Bot in San Francisco. Host approval, waitlist open.<br /><br /><a href="https://luma.com/p4rvaf0y"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/fw7ovtge"><img src="./assets/events/nij-20260902-cover.png" alt="Build with Grok Bot: Nijmegen" width="300" /></a></td><td valign="top"><strong>Build with Grok Bot: Nijmegen</strong><br />Wed 2 Sep 2026, 15:00–20:00 (CEST)<br />StartUp Nijmegen, Stationsplein 26, Unit 1.09, Nijmegen<br /><br />Afternoon of building with Grok Bot in Nijmegen. Open registration.<br /><br /><a href="https://luma.com/fw7ovtge"><strong>Register on Luma →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-vad-1"><img src="./assets/events/vad-20260905-cover.png" alt="Grok Bot Meetup Vadodara" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Vadodara</strong><br />Sat 5 Sep 2026, 10:00–13:00 (IST)<br />Vadodara · exact address after you register<br /><br />In-person Grok Bot meetup in Vadodara. Host approval required.<br /><br /><a href="https://luma.com/grokbot-vad-1"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbottokyo"><img src="./assets/events/tyo-20260909-cover.png" alt="Grok Bot Meetup Tokyo" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Tokyo</strong><br />Wed 9 Sep 2026, 19:00–21:30 (JST)<br />Loglass / Kokusai Kogyo Mita 2nd Bldg 9F, Minato, Tokyo<br /><br />In-person Grok Bot meetup in Tokyo. Open registration.<br /><br /><a href="https://luma.com/grokbottokyo"><strong>Register on Luma →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotosaka"><img src="./assets/events/osa-20260917-cover.png" alt="Grok Bot Meetup Osaka" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Osaka</strong><br />Thu 17 Sep 2026, 19:00–21:30 (JST)<br />North Gate Building, 3-chōme-1-3 Umeda, Kita Ward, Osaka<br /><br />In-person Grok Bot meetup in Osaka. Host approval required.<br /><br /><a href="https://luma.com/grokbotosaka"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot Meetup Cebu" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cebu</strong><br />Sat 19 Sep 2026, 09:00–11:30 (PHT)<br />Cebu City · exact address after you register<br /><br />In-person Grok Bot meetup in Cebu. Host approval required.<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot"><img src="./assets/events/vic-20260921-cover.png" alt="Grok Bot Meetup Victoria BC" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Victoria BC</strong><br />Mon 21 Sep 2026, 18:00–21:00 (PDT)<br />Victoria, BC · exact address after you register<br /><br />Grok Bot build night in Victoria. Host approval required.<br /><br /><a href="https://luma.com/grokbot"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-mtu0"><img src="./assets/events/mdz-20260929-cover.png" alt="Grok Bot Meetup Mendoza" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Mendoza</strong><br />Tue 29 Sep 2026, 16:00–19:00 (ART)<br />Mendoza TIC Parque Tecnológico, Rafael Cubillos 2100-2198, Godoy Cruz<br /><br />In-person Grok Bot meetup in Mendoza. Open registration.<br /><br /><a href="https://luma.com/cursor-mtu0"><strong>Register on Luma →</strong></a></td></tr></table>
 
 ## Contents
 
@@ -237,7 +255,7 @@
 - [Grok Bot: Mac chat works, local computer reported offline](https://forum.cursor.com/t/grok-bot-mac-chat-works-local-computer-reported-offline/168973) - Staff-confirmed split: chat stays up while the Mac local-computer link drops; full quit reconnects, 0.23 shipped a fix.
 - [Computer refresh wipes WhatsApp linked-device session in Grok Bot](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - Staff: computer refresh keeps /workspace, the browser profile, and ~/.config — not ~/.local/state, so WhatsApp link sessions vanish.
 - [Grok Bot cloud workspace after trial exhaustion](https://forum.cursor.com/t/grok-bot-cloud-workspace-inaccessible-after-trial-exhaustion-ticket-t-e97475-pending/169010) - Staff: trial end deletes nothing; bots stop replying, but Computer view still lets you export until you Reset.
-- [Reset Computer window opens behind Settings (0.24.0)](https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177) - 0.24.0 UI bug: the Reset Computer confirm modal opens behind Settings and looks unclickable.
+- [Reset Computer window opens behind Settings (0.24.0)](https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177) - Staff: the Reset confirm dialog opens behind Settings; the fix ships in Grok Bot 0.26. Until then, Tab then Enter still confirms the hidden dialog.
 - [Grok Bot webhooks failing with internal server error](https://forum.cursor.com/t/grok-bot-webhooks-are-failing-with-internal-server-error/169323) - Staff: webhook POSTs to api2.cursor.sh returned internal error; they rolled back a change and the same curl started working again.
 - [Grok Bot Gmail connector cannot download attachment bytes](https://forum.cursor.com/t/grok-bot-gmail-connector-can-list-attachments-but-cannot-download-their-bytes/169261) - Staff: the Gmail connector lists attachment metadata only; no download tool. Use the cloud browser or park the file in Drive.
 - [Does logging into Grok Bot count as a separate computer?](https://forum.cursor.com/t/does-logging-into-grokbot-count-as-a-separate-computer/169289) - Staff: a Grok Bot login is its own Cursor device, and the cloud workspace can count as a second one toward Too many computers.
@@ -249,6 +267,8 @@
 - [How to track Grok Bot releases](https://forum.cursor.com/t/multiple-questions/169338) - Staff: latest stable is 0.24.0; no public changelog yet (Settings → Updates plus X); there is no official Debian/Fedora desktop app.
 - [Grok Bot hanging at Cleaning up after reset](https://forum.cursor.com/t/grok-bot-hanging-at-cleaning-up-phase-after-resetting/169364) - Staff: the reset usually finishes on the backend; the dialog just misses the done signal at Cleaning up. Fully quit and reopen, then Recover — don’t Reset again.
 - [Grok Bot 0.24.0 Windows white flash then the app closes](https://forum.cursor.com/t/grok-bot-0-24-0-windows-10-x64-white-screen-flashes-then-app-closes/169380) - Staff: the cloud computer was healthy; a white flash then the process dying is usually local (endpoint security, locked %APPDATA%, or a partial install), not GPU.
+- [Bots workspace looks empty after a rebuild](https://forum.cursor.com/t/bots-workspace-missing-all-things-getting-new-user-experience/169448) - Staff: after a rebuild, logging in while the computer is still starting can show first-run UI; bots are not gone. Fully quit and reopen, and don’t create your first bot in that window.
+- [No compact / new session; full transcript is sent each turn](https://forum.cursor.com/t/grok-bot-prune-compact-an-agent-s-context-without-creating-a-new-bot/168333) - Staff: desktop and iOS have no explicit Compact or same-bot new session. Auto-summary is not compact; the full transcript is sent, and there is no model picker.
 
 ## Related Lists
 
@@ -267,7 +287,7 @@
 
 ## Contributing
 
-154 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+156 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
