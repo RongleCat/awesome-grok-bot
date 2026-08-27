@@ -23,13 +23,13 @@
   <a href="https://grok-app.com"><strong>Grok App</strong></a>（<a href="https://github.com/RongleCat/grok-app">GitHub</a>）— オープンソースの Grok Build デスクトップアプリ · <a href="https://x.com/cgnot996">铁柱AGI @cgnot996</a>
 </p>
 
-<p align="center">グループのQRをスキャンして参加するか、友だち追加してもらえれば招待します。</p>
+<p align="center">公式アカウントをフォローするか、友だち追加してください。</p>
 <p align="center">
-  <img src="./assets/wechat/group-qr.jpg" alt="Grok Bot の WeChat グループ" width="140" />
+  <img src="./assets/wechat/mp-search-scan.png" alt="WeChat 公式アカウント 铁柱AGI" width="280" />
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/wechat/personal-qr.png" alt="铁柱AGI を WeChat で追加" width="140" />
 </p>
-<p align="center"><sub>WeChatグループ（8月27日まで有効）· 友だち追加</sub></p>
+<p align="center"><sub>公式アカウント（铁柱AGI で検索）· 友だち追加</sub></p>
 
 > Grok Bot は、2026-08-11 に xAI/SpaceXAI と Cursor が公開した always-on のクラウドパソコン仲間です。各 Bot は 1 台の永続クラウドパソコン（ブラウザ、ファイル、ターミナル）を共有し、ノート PC を閉じても動き続けます。grok.com のチャット、Grok Imagine、Grok 4.x のモデル解説ではありません。 非公式のコミュニティリストであり、xAI や Cursor とは無関係です。
 

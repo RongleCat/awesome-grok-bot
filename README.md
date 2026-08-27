@@ -23,13 +23,13 @@
   <a href="https://grok-app.com"><strong>Grok App</strong></a> (<a href="https://github.com/RongleCat/grok-app">GitHub</a>) — open-source Grok Build desktop app · <a href="https://x.com/cgnot996">铁柱AGI @cgnot996</a>
 </p>
 
-<p align="center">Scan the group QR to join, or add me as a friend and I will pull you in.</p>
+<p align="center">Follow the WeChat official account, or add me as a friend.</p>
 <p align="center">
-  <img src="./assets/wechat/group-qr.jpg" alt="Grok Bot WeChat group" width="140" />
+  <img src="./assets/wechat/mp-search-scan.png" alt="WeChat official account 铁柱AGI" width="280" />
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/wechat/personal-qr.png" alt="Add 铁柱AGI on WeChat" width="140" />
 </p>
-<p align="center"><sub>WeChat group (valid until Aug 27) · Add friend</sub></p>
+<p align="center"><sub>Official account (search 铁柱AGI) · Add friend</sub></p>
 
 > Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup. Unofficial community list, not affiliated with xAI or Cursor.
 

@@ -32,10 +32,10 @@ CHROME = {
             'open-source Grok Build desktop app · '
             '<a href="https://x.com/cgnot996">铁柱AGI @cgnot996</a>'
         ),
-        "scan": "Scan the group QR to join, or add me as a friend and I will pull you in.",
-        "group_alt": "Grok Bot WeChat group",
+        "scan": "Follow the WeChat official account, or add me as a friend.",
+        "group_alt": "WeChat official account 铁柱AGI",
         "friend_alt": "Add 铁柱AGI on WeChat",
-        "qr_sub": "WeChat group (valid until Aug 27) · Add friend",
+        "qr_sub": "Official account (search 铁柱AGI) · Add friend",
         "unofficial": "Unofficial community list, not affiliated with xAI or Cursor.",
         "events": "Upcoming",
         "toc": "Contents",
@@ -59,10 +59,10 @@ CHROME = {
             "开源 Grok Build 桌面端 · "
             '<a href="https://x.com/cgnot996">铁柱AGI @cgnot996</a>'
         ),
-        "scan": "扫码进交流群；加不上群就添加好友，我拉你进。",
-        "group_alt": "Grok Bot 交流群",
+        "scan": "扫码关注公众号，或添加好友。",
+        "group_alt": "微信公众号 铁柱AGI",
         "friend_alt": "添加好友",
-        "qr_sub": "交流群（8 月 27 日前有效）· 添加好友",
+        "qr_sub": "公众号（搜 铁柱AGI）· 添加好友",
         "unofficial": "非官方社区清单，与 xAI / Cursor 无隶属关系。",
         "events": "活动",
         "toc": "目录",
@@ -85,10 +85,10 @@ CHROME = {
             "オープンソースの Grok Build デスクトップアプリ · "
             '<a href="https://x.com/cgnot996">铁柱AGI @cgnot996</a>'
         ),
-        "scan": "グループのQRをスキャンして参加するか、友だち追加してもらえれば招待します。",
-        "group_alt": "Grok Bot の WeChat グループ",
+        "scan": "公式アカウントをフォローするか、友だち追加してください。",
+        "group_alt": "WeChat 公式アカウント 铁柱AGI",
         "friend_alt": "铁柱AGI を WeChat で追加",
-        "qr_sub": "WeChatグループ（8月27日まで有効）· 友だち追加",
+        "qr_sub": "公式アカウント（铁柱AGI で検索）· 友だち追加",
         "unofficial": "非公式のコミュニティリストであり、xAI や Cursor とは無関係です。",
         "events": "イベント",
         "toc": "目次",
@@ -232,7 +232,7 @@ def render(lang: str) -> str:
 
 <p align="center">{chrome["scan"]}</p>
 <p align="center">
-  <img src="./assets/wechat/group-qr.jpg" alt="{chrome["group_alt"]}" width="140" />
+  <img src="./assets/wechat/mp-search-scan.png" alt="{chrome["group_alt"]}" width="280" />
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/wechat/personal-qr.png" alt="{chrome["friend_alt"]}" width="140" />
 </p>
