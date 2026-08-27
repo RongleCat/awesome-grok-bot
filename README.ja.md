@@ -35,63 +35,37 @@
 
 ## イベント
 
-<table><tr><td width="320" valign="top"><a href="https://luma.com/5vkzzvqk"><img src="./assets/events/sz-20260830-cover.png" alt="Grok Bot Meetup Shenzhen" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Shenzhen</strong><br />2026-08-30（日）14:00–17:30（GMT+8）<br />深圳 · 登録後に住所を表示<br /><br />中国初の Grok Bot オフライン。アイスブレイクと共有 / Workshop。事前登録、主催者承認、定員あり。铁柱AGI と 阿真 が参加。深圳の AI ブロガー歓迎。Grok Bot を使った人を優先。<br /><br /><a href="https://luma.com/5vkzzvqk"><strong>Luma で申し込む →</strong></a></td></tr></table>
+[イベントの詳細](./EVENTS.ja.md)
 
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><img src="./assets/events/mo-20260905-cover.png" alt="Grok Bot Macau Student Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Macau Student Workshop</strong><br />2026-09-05（土）14:30-17:30（GMT+8）<br />マカオ大学ゲストハウス N1-1005<br /><br />無料の学生ワークショップ。Grok Bot 実習と創業者トーク。広東語（英語サポートあり）。40 席は満席、ウェイティング可。<br /><br /><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><strong>Luma でウェイティング登録 →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot Meetup Las Vegas" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Las Vegas</strong><br />2026-09-15（月）18:00-20:00（PDT）<br />ラスベガス · 登録承認後に会場を表示<br /><br />交流、トーク / Workshop、Cursor チームのビデオ Q&A。主催者承認制、会場は未定。<br /><br /><a href="https://luma.com/cursor-kaua"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/a16zgrokbotbuildnight"><img src="./assets/events/sf-20260903-cover.png" alt="Grok Bot build night for women（SF）" width="300" /></a></td><td valign="top"><strong>Grok Bot build night for women（SF）</strong><br />2026-09-03（水）17:00–21:00（PDT）<br />サンフランシスコ a16z、180 Townsend St<br /><br />女性向けの気軽な SF ビルドナイト。Grok Bot の使い方を学び、その場でセットアップ。<br /><br /><a href="https://luma.com/a16zgrokbotbuildnight"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-qdl0"><img src="./assets/events/tlv-20260908-cover.png" alt="Grok Bot Meetup Tel Aviv" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Tel Aviv</strong><br />2026-09-08（月）18:00–20:00（IDT）<br />テルアビブ · 登録後に住所を表示<br /><br />テルアビブ初の Grok Bot ミートアップ。実作業を任せる AI チームメイト。<br /><br /><a href="https://luma.com/cursor-qdl0"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-wgsj"><img src="./assets/events/mty-20260910-cover.png" alt="Grok Meetup Monterrey" width="300" /></a></td><td valign="top"><strong>Grok Meetup Monterrey</strong><br />2026-09-10（水）18:00–21:00（Monterrey）<br />Tec de Monterrey HUB、Av. Eugenio Garza Sada 2501 Sur<br /><br />Cursor コミュニティの集まり。モンテレイ工科大ハブで Grok / Grok Bot の実例を見る。<br /><br /><a href="https://luma.com/cursor-wgsj"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-manila-01"><img src="./assets/events/mnl-20260904-cover.png" alt="Grok Bot Meetup Manila" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Manila</strong><br />2026-09-04（金）17:00–21:00（PHT）<br />マニラ Pasig / Ortigas · 登録後に住所を表示<br /><br />Cursor Manila の対面 Grok Bot ナイト。無料・先着、残席 282。<br /><br /><a href="https://luma.com/grok-bot-manila-01"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/pdj34ofn"><img src="./assets/events/cd-20260905-cover.png" alt="Grok Bot Meetup Chengdu" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Chengdu</strong><br />2026-09-05（土）14:30–17:30（GMT+8）<br />成都 · 登録後に住所を表示<br /><br />中国 2 回目の Grok Bot オフライン。アイスブレイクと共有 / Workshop。主催者承認、残席 22。<br /><br /><a href="https://luma.com/pdj34ofn"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-38kv"><img src="./assets/events/brc-20260910-cover.png" alt="Grok Bot Meetup Bariloche" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Bariloche</strong><br />2026-09-10（木）19:00–21:30（ART）<br />バリローチェ Av. Ezequiel Bustillo 3241<br /><br />バリローチェの対面 Grok Bot。無料、残席 8。<br /><br /><a href="https://luma.com/cursor-38kv"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/vcow8a4c"><img src="./assets/events/aqp-20260911-cover.png" alt="Grok Bot Arequipa Build Night" width="300" /></a></td><td valign="top"><strong>Grok Bot Arequipa Build Night</strong><br />2026-09-11（金）19:00–23:00（PET）<br />アレキパ サンタマリア・カトリック大学（Yanahuara / Umacollo）<br /><br />アレキパの Grok Bot ビルドナイト。無料、主催者承認、ウェイティング可、残席 42。<br /><br /><a href="https://luma.com/vcow8a4c"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/ybo7udvo"><img src="./assets/events/lim-20260911-cover.png" alt="Grok Bot Lima Build Night" width="300" /></a></td><td valign="top"><strong>Grok Bot Lima Build Night</strong><br />2026-09-11（金）19:00–23:00（PET）<br />リマ ペルー・カトリック大学（San Miguel）<br /><br />リマの Grok Bot ビルドナイト。無料、主催者承認、ウェイティング可、残席 36。<br /><br /><a href="https://luma.com/ybo7udvo"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-ec8v"><img src="./assets/events/lfw-20260912-cover.png" alt="Grok Bot Meetup Lomé" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Lomé</strong><br />2026-09-12（土）09:00–13:00（GMT）<br />ロメ トーゴ・フランス学院<br /><br />ロメの対面 Grok Bot。無料、ウェイティング可、残席 198。<br /><br /><a href="https://luma.com/cursor-ec8v"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-manta"><img src="./assets/events/mec-20260912-cover.png" alt="Grok Bot Manta Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Manta Workshop</strong><br />2026-09-12（土）08:30–12:30（ECT）<br />エクアドル マンタ · 登録後に住所を表示<br /><br />Grok Bot で新しいエージェント開発スタックを扱うワークショップ。無料、ウェイティング可、残席 41。<br /><br /><a href="https://luma.com/cursor-manta"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/8l9u6sns"><img src="./assets/events/bue-20260916-cover.png" alt="Grok Bot Meetup Buenos Aires" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Buenos Aires</strong><br />2026-09-16（水）18:00–20:00（ART）<br />ブエノスアイレス · 登録後に住所を表示<br /><br />ブエノスアイレスの対面 Grok Bot。無料、主催者承認、ウェイティング可、残席 100。<br /><br /><a href="https://luma.com/8l9u6sns"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-0yk6"><img src="./assets/events/nbo-20260917-cover.png" alt="Grok Bot Meetup Nairobi" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Nairobi</strong><br />2026-09-17（木）15:30–18:00（EAT）<br />ナイロビ · 会場は登録後に案内<br /><br />ナイロビのハンズオン Grok Bot。無料、主催者承認、残席 60。<br /><br /><a href="https://luma.com/cursor-0yk6"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot"><img src="./assets/events/kul-20260919-cover.png" alt="Grok Bot Meetup Kuala Lumpur" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Kuala Lumpur</strong><br />2026-09-19（土）18:00–20:00（MYT）<br />クアラルンプール · 登録後に住所を表示<br /><br />クアラルンプールの対面 Grok Bot。無料、主催者承認、ウェイティング可、残席 99。<br /><br /><a href="https://luma.com/grok-bot"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotquitomeetup"><img src="./assets/events/uio-20260924-cover.png" alt="Grok Bot Meetup Quito" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Quito</strong><br />2026-09-24（木）19:30–21:30（ECT）<br />キト · 登録後に住所を表示<br /><br />キトの対面 Grok Bot。無料、主催者承認、残席 47。<br /><br /><a href="https://luma.com/grokbotquitomeetup"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-coel"><img src="./assets/events/yyc-20260930-cover.png" alt="Grok Bot Meetup Calgary" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Calgary</strong><br />2026-09-30（水）17:30–20:30（MDT）<br />カルガリー · 会場は登録後に案内<br /><br />カルガリーの対面 Grok Bot。無料・先着。<br /><br /><a href="https://luma.com/cursor-coel"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/91kju0je"><img src="./assets/events/spk-20261002-cover.png" alt="Grok Bot Meetup 札幌 #2" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 札幌 #2</strong><br />2026-10-02（金）19:00–22:00（JST）<br />札幌 · 登録後に住所を表示<br /><br />札幌 2 回目の Grok Bot ミートアップ。無料、主催者承認。<br /><br /><a href="https://luma.com/91kju0je"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cccumbaya"><img src="./assets/events/cumb-20261003-cover.png" alt="Grok Bot Meetup Cumbayá" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cumbayá</strong><br />2026-10-03（土）09:30–12:00（ECT）<br />キト近郊 Cumbayá<br /><br />キト近郊 Cumbayá の対面 Grok Bot。無料、ウェイティング可、残席 37。<br /><br /><a href="https://luma.com/cccumbaya"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/29amwgag"><img src="./assets/events/maa-20260829-cover.png" alt="Grok Bot Meetup Chennai" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Chennai</strong><br />2026-08-29（土）11:00–14:00（IST）<br />チェンナイ · 登録後に住所を表示<br /><br />チェンナイの対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/29amwgag"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/p4rvaf0y"><img src="./assets/events/sfb-20260901-cover.png" alt="Grok @bot builder demos（SF）" width="300" /></a></td><td valign="top"><strong>Grok @bot builder demos（SF）</strong><br />2026-09-01（火）18:00–20:00（PDT）<br />サンフランシスコ Yerba Buena · 登録後に住所を表示<br /><br />サンフランシスコの Grok Bot ビルダーデモ。主催者承認、ウェイティング可。<br /><br /><a href="https://luma.com/p4rvaf0y"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/fw7ovtge"><img src="./assets/events/nij-20260902-cover.png" alt="Build with Grok Bot: Nijmegen" width="300" /></a></td><td valign="top"><strong>Build with Grok Bot: Nijmegen</strong><br />2026-09-02（水）15:00–20:00（CEST）<br />ナイメーヘン StartUp Nijmegen, Stationsplein 26<br /><br />ナイメーヘンで午後いちから Grok Bot で作る会。先着。<br /><br /><a href="https://luma.com/fw7ovtge"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-vad-1"><img src="./assets/events/vad-20260905-cover.png" alt="Grok Bot Meetup Vadodara" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Vadodara</strong><br />2026-09-05（土）10:00–13:00（IST）<br />ヴァドーダラー · 登録後に住所を表示<br /><br />ヴァドーダラーの対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/grokbot-vad-1"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbottokyo"><img src="./assets/events/tyo-20260909-cover.png" alt="Grok Bot Meetup 東京" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 東京</strong><br />2026-09-09（水）19:00–21:30（JST）<br />港区三田 ログラス / 国際興業三田第2ビル 9F<br /><br />東京の対面 Grok Bot。先着。<br /><br /><a href="https://luma.com/grokbottokyo"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotosaka"><img src="./assets/events/osa-20260917-cover.png" alt="Grok Bot Meetup 大阪" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 大阪</strong><br />2026-09-17（木）19:00–21:30（JST）<br />大阪市北区梅田 North Gate Building<br /><br />大阪の対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/grokbotosaka"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot Meetup Cebu" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cebu</strong><br />2026-09-19（土）09:00–11:30（PHT）<br />セブ · 登録後に住所を表示<br /><br />セブの対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot"><img src="./assets/events/vic-20260921-cover.png" alt="Grok Bot Meetup Victoria BC" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Victoria BC</strong><br />2026-09-21（月）18:00–21:00（PDT）<br />ビクトリア（BC）· 登録後に住所を表示<br /><br />ビクトリアの Grok Bot ビルドナイト。主催者承認が必要。<br /><br /><a href="https://luma.com/grokbot"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-mtu0"><img src="./assets/events/mdz-20260929-cover.png" alt="Grok Bot Meetup Mendoza" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Mendoza</strong><br />2026-09-29（火）16:00–19:00（ART）<br />メンドーサ TIC テクノパーク、Rafael Cubillos 2100-2198<br /><br />メンドーサの対面 Grok Bot。先着。<br /><br /><a href="https://luma.com/cursor-mtu0"><strong>Luma で申し込む →</strong></a></td></tr></table>
+- [Grok Bot Meetup Shenzhen](https://luma.com/5vkzzvqk) — 2026-08-30（日）14:00–17:30（GMT+8）. 中国初の Grok Bot オフライン。
+- [Grok Bot Macau Student Workshop](https://luma.com/cursor-macau-creativity-workshop-2026-sep) — 2026-09-05（土）14:30-17:30（GMT+8）. 無料の学生ワークショップ。
+- [Grok Bot Meetup Las Vegas](https://luma.com/cursor-kaua) — 2026-09-15（月）18:00-20:00（PDT）. 交流、トーク / Workshop、Cursor チームのビデオ Q&A。
+- [Grok Bot build night for women（SF）](https://luma.com/a16zgrokbotbuildnight) — 2026-09-03（水）17:00–21:00（PDT）. 女性向けの気軽な SF ビルドナイト。
+- [Grok Bot Meetup Tel Aviv](https://luma.com/cursor-qdl0) — 2026-09-08（月）18:00–20:00（IDT）. テルアビブ初の Grok Bot ミートアップ。
+- [Grok Meetup Monterrey](https://luma.com/cursor-wgsj) — 2026-09-10（水）18:00–21:00（Monterrey）. Cursor コミュニティの集まり。
+- [Grok Bot Meetup Manila](https://luma.com/grok-bot-manila-01) — 2026-09-04（金）17:00–21:00（PHT）. Cursor Manila の対面 Grok Bot ナイト。
+- [Grok Bot Meetup Chengdu](https://luma.com/pdj34ofn) — 2026-09-05（土）14:30–17:30（GMT+8）. 中国 2 回目の Grok Bot オフライン。
+- [Grok Bot Meetup Bariloche](https://luma.com/cursor-38kv) — 2026-09-10（木）19:00–21:30（ART）. バリローチェの対面 Grok Bot。
+- [Grok Bot Arequipa Build Night](https://luma.com/vcow8a4c) — 2026-09-11（金）19:00–23:00（PET）. アレキパの Grok Bot ビルドナイト。
+- [Grok Bot Lima Build Night](https://luma.com/ybo7udvo) — 2026-09-11（金）19:00–23:00（PET）. リマの Grok Bot ビルドナイト。
+- [Grok Bot Meetup Lomé](https://luma.com/cursor-ec8v) — 2026-09-12（土）09:00–13:00（GMT）. ロメの対面 Grok Bot。
+- [Grok Bot Manta Workshop](https://luma.com/cursor-manta) — 2026-09-12（土）08:30–12:30（ECT）. Grok Bot で新しいエージェント開発スタックを扱うワークショップ。
+- [Grok Bot Meetup Buenos Aires](https://luma.com/8l9u6sns) — 2026-09-16（水）18:00–20:00（ART）. ブエノスアイレスの対面 Grok Bot。
+- [Grok Bot Meetup Nairobi](https://luma.com/cursor-0yk6) — 2026-09-17（木）15:30–18:00（EAT）. ナイロビのハンズオン Grok Bot。
+- [Grok Bot Meetup Kuala Lumpur](https://luma.com/grok-bot) — 2026-09-19（土）18:00–20:00（MYT）. クアラルンプールの対面 Grok Bot。
+- [Grok Bot Meetup Quito](https://luma.com/grokbotquitomeetup) — 2026-09-24（木）19:30–21:30（ECT）. キトの対面 Grok Bot。
+- [Grok Bot Meetup Calgary](https://luma.com/cursor-coel) — 2026-09-30（水）17:30–20:30（MDT）. カルガリーの対面 Grok Bot。
+- [Grok Bot Meetup 札幌 #2](https://luma.com/91kju0je) — 2026-10-02（金）19:00–22:00（JST）. 札幌 2 回目の Grok Bot ミートアップ。
+- [Grok Bot Meetup Cumbayá](https://luma.com/cccumbaya) — 2026-10-03（土）09:30–12:00（ECT）. キト近郊 Cumbayá の対面 Grok Bot。
+- [Grok Bot Meetup Chennai](https://luma.com/29amwgag) — 2026-08-29（土）11:00–14:00（IST）. チェンナイの対面 Grok Bot。
+- [Grok @bot builder demos（SF）](https://luma.com/p4rvaf0y) — 2026-09-01（火）18:00–20:00（PDT）. サンフランシスコの Grok Bot ビルダーデモ。
+- [Build with Grok Bot: Nijmegen](https://luma.com/fw7ovtge) — 2026-09-02（水）15:00–20:00（CEST）. ナイメーヘンで午後いちから Grok Bot で作る会。
+- [Grok Bot Meetup Vadodara](https://luma.com/grokbot-vad-1) — 2026-09-05（土）10:00–13:00（IST）. ヴァドーダラーの対面 Grok Bot。
+- [Grok Bot Meetup 東京](https://luma.com/grokbottokyo) — 2026-09-09（水）19:00–21:30（JST）. 東京の対面 Grok Bot。
+- [Grok Bot Meetup 大阪](https://luma.com/grokbotosaka) — 2026-09-17（木）19:00–21:30（JST）. 大阪の対面 Grok Bot。
+- [Grok Bot Meetup Cebu](https://luma.com/cursor-dyb8) — 2026-09-19（土）09:00–11:30（PHT）. セブの対面 Grok Bot。
+- [Grok Bot Meetup Victoria BC](https://luma.com/grokbot) — 2026-09-21（月）18:00–21:00（PDT）. ビクトリアの Grok Bot ビルドナイト。
+- [Grok Bot Meetup Mendoza](https://luma.com/cursor-mtu0) — 2026-09-29（火）16:00–19:00（ART）. メンドーサの対面 Grok Bot。
 
 ## 目次
 

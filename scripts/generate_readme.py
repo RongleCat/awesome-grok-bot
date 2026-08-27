@@ -16,6 +16,11 @@ README_NAME = {
     "zh": "README.zh.md",
     "ja": "README.ja.md",
 }
+EVENTS_NAME = {
+    "en": "EVENTS.md",
+    "zh": "EVENTS.zh.md",
+    "ja": "EVENTS.ja.md",
+}
 LANG_LABEL = {
     "en": "EN",
     "zh": "中文",
@@ -38,6 +43,9 @@ CHROME = {
         "qr_sub": "Official account (search 铁柱AGI) · Add friend",
         "unofficial": "Unofficial community list, not affiliated with xAI or Cursor.",
         "events": "Upcoming",
+        "events_more": "Full meetup notes",
+        "events_page_lead": "Posters, venues, and how to register. One-line list stays on the [README](README.md).",
+        "events_back": "Back to the list",
         "toc": "Contents",
         "contrib": "Contributing",
         "contrib_body": (
@@ -65,6 +73,9 @@ CHROME = {
         "qr_sub": "公众号（搜 铁柱AGI）· 添加好友",
         "unofficial": "非官方社区清单，与 xAI / Cursor 无隶属关系。",
         "events": "活动",
+        "events_more": "全部活动介绍",
+        "events_page_lead": "海报、场地和报名方式。首页只留一句话，完整介绍在这一页。[回 README](README.zh.md)。",
+        "events_back": "回清单",
         "toc": "目录",
         "contrib": "贡献",
         "contrib_body": (
@@ -91,6 +102,9 @@ CHROME = {
         "qr_sub": "公式アカウント（铁柱AGI で検索）· 友だち追加",
         "unofficial": "非公式のコミュニティリストであり、xAI や Cursor とは無関係です。",
         "events": "イベント",
+        "events_more": "イベントの詳細",
+        "events_page_lead": "ポスター、会場、申し込み。一覧の一文は [README](README.ja.md) に残しています。",
+        "events_back": "一覧に戻る",
         "toc": "目次",
         "contrib": "貢献",
         "contrib_body": (
@@ -149,36 +163,95 @@ def active_events() -> list[dict]:
     return out
 
 
-def render_events(lang: str, chrome: dict) -> str:
+def events_switcher(lang: str) -> str:
+    parts = []
+    for code in LANGS:
+        label = f"<strong>{LANG_LABEL[code]}</strong>"
+        if code == lang:
+            parts.append(label)
+        else:
+            parts.append(f'<a href="./{EVENTS_NAME[code]}">{label}</a>')
+    return " · ".join(parts)
+
+
+def first_sentence(text: str, lang: str) -> str:
+    text = (text or "").strip()
+    if not text:
+        return text
+    if lang in ("zh", "ja"):
+        head, sep, _ = text.partition("。")
+        return (head + "。") if sep else text
+    head, sep, _ = text.partition(". ")
+    if sep:
+        return head.rstrip(".") + "."
+    return text.rstrip(".") + "."
+
+
+def render_events_index(lang: str, chrome: dict) -> str:
     events = active_events()
     if not events:
         return ""
-    heading = chrome["events"]
-    blocks = [f"## {heading}", ""]
+    more = EVENTS_NAME[lang]
+    blocks = [
+        f"## {chrome['events']}",
+        "",
+        f"[{chrome['events_more']}](./{more})",
+        "",
+    ]
     for ev in events:
         title = ev["title"][lang]
         when = ev["when"][lang]
-        where = ev["where"][lang]
-        body = ev["body"][lang]
-        cta = ev["cta"][lang]
-        img = ev.get("image", "")
+        body = first_sentence(ev["body"][lang], lang)
         url = ev["url"]
-        blocks.append(
-            f'<table><tr>'
-            f'<td width="320" valign="top">'
-            f'<a href="{url}"><img src="{img}" alt="{title}" width="300" /></a>'
-            f"</td>"
-            f'<td valign="top">'
-            f"<strong>{title}</strong><br />"
-            f"{when}<br />"
-            f"{where}<br /><br />"
-            f"{body}<br /><br />"
-            f'<a href="{url}"><strong>{cta} →</strong></a>'
-            f"</td>"
-            f"</tr></table>"
-        )
-        blocks.append("")
+        blocks.append(f"- [{title}]({url}) — {when}. {body}")
+    blocks.append("")
     return "\n".join(blocks)
+
+
+def render_event_card(ev: dict, lang: str) -> str:
+    title = ev["title"][lang]
+    when = ev["when"][lang]
+    where = ev["where"][lang]
+    body = ev["body"][lang]
+    cta = ev["cta"][lang]
+    img = ev.get("image", "")
+    url = ev["url"]
+    return (
+        f'<table><tr>'
+        f'<td width="320" valign="top">'
+        f'<a href="{url}"><img src="{img}" alt="{title}" width="300" /></a>'
+        f"</td>"
+        f'<td valign="top">'
+        f"<strong>{title}</strong><br />"
+        f"{when}<br />"
+        f"{where}<br /><br />"
+        f"{body}<br /><br />"
+        f'<a href="{url}"><strong>{cta} →</strong></a>'
+        f"</td>"
+        f"</tr></table>"
+    )
+
+
+def render_events_page(lang: str) -> str:
+    chrome = CHROME[lang]
+    events = active_events()
+    readme = README_NAME[lang]
+    lines = [
+        f'# {chrome["events"]}',
+        "",
+        f'<p align="center">{events_switcher(lang)}</p>',
+        "",
+        chrome["events_page_lead"],
+        "",
+        f'[{chrome["events_back"]}](./{readme})',
+        "",
+    ]
+    if not events:
+        return "\n".join(lines)
+    for ev in events:
+        lines.append(render_event_card(ev, lang))
+        lines.append("")
+    return "\n".join(lines)
 
 def section_anchor(title: str) -> str:
     return title.lower().replace(" ", "-").replace("&", "").replace(",", "")
@@ -241,7 +314,7 @@ def render(lang: str) -> str:
 > {product} {chrome["unofficial"]}
 """
 
-    events_md = render_events(lang, chrome)
+    events_md = render_events_index(lang, chrome)
     lines = [intro]
     if events_md:
         lines += [events_md]
@@ -279,7 +352,8 @@ def main() -> None:
     validate_catalog()
     for lang in LANGS:
         (ROOT / README_NAME[lang]).write_text(render(lang), encoding="utf-8")
-    print("entries", count_items(), "sections", len(CAT["sections"]), "langs", ",".join(LANGS))
+        (ROOT / EVENTS_NAME[lang]).write_text(render_events_page(lang), encoding="utf-8")
+    print("entries", count_items(), "sections", len(CAT["sections"]), "langs", ",".join(LANGS), "events", len(active_events()))
 
 
 if __name__ == "__main__":
