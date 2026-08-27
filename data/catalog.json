@@ -944,6 +944,16 @@
             "zh": "Windows 辅助：按住 Ctrl+D 对着 Grok Bot 说话，再拖一个金框就能贴截图。",
             "ja": "Windows 用。Ctrl+D を押しながら Grok Bot に口述し、金色の枠をドラッグするとスクショも貼る。"
           }
+        },
+        {
+          "title": "HAEGONG/grok-bot-profiles",
+          "url": "https://github.com/HAEGONG/grok-bot-profiles",
+          "source": "day-20260827",
+          "blurb": {
+            "en": "Paste-in Grok Bot profiles that split spec, bug repro, implementation, and verification so a bot never approves its own work.",
+            "zh": "可粘贴的 Grok Bot 人设：规格、复现、实现、验收分开，Bot 不能给自己过审。",
+            "ja": "貼り付け用の Grok Bot プロファイル。仕様・再現・実装・検証を分け、自分の成果を自分で承認させない。"
+          }
         }
       ]
     },
@@ -1178,11 +1188,11 @@
         {
           "title": "glorics/grok-bot-linux",
           "url": "https://github.com/glorics/grok-bot-linux",
-          "source": "day-20260826",
+          "source": "day-20260827",
           "blurb": {
-            "en": "Unofficial Linux x86_64 desktop client built from the official Windows installer; tested on Debian 12 with 0.24.0.",
-            "zh": "非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，Debian 12 上用 0.24.0 测过。",
-            "ja": "公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。Debian 12 で 0.24.0 を確認。"
+            "en": "Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.28.0, tested on Debian 12 and Arch.",
+            "zh": "非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.28.0，Debian 12 和 Arch 测过。",
+            "ja": "公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.28.0。Debian 12 と Arch で確認。"
           }
         },
         {

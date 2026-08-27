@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-153-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-154-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -188,6 +188,7 @@
 - [grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli) - サインイン済み macOS アプリを使い、端末から Bot の一覧・作成・送信をする CLI。
 - [grok-bot-skill](https://github.com/adamanz/grok-bot-skill) - Cursor/Claude 用スキル。Grok Bot の一覧、会話、作成ができる。
 - [budezllc/dictate-capture](https://github.com/budezllc/dictate-capture) - Windows 用。Ctrl+D を押しながら Grok Bot に口述し、金色の枠をドラッグするとスクショも貼る。
+- [HAEGONG/grok-bot-profiles](https://github.com/HAEGONG/grok-bot-profiles) - 貼り付け用の Grok Bot プロファイル。仕様・再現・実装・検証を分け、自分の成果を自分で承認させない。
 
 ## レビューと比較
 
@@ -215,7 +216,7 @@
 - [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - 公式デスクトップの Wine なし Linux 移植（Arch AUR）。公式に Linux 版がないため WIP。
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Grok Bot 0.18.0 macOS 版の非公式 TypeScript 再構成。ローカル推論ルータの実験付き。
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - Cursor CDN 上の公式 Linux パッケージ URL 一覧（deb/rpm/AppImage）。インストーラ自体は置かない。
-- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。Debian 12 で 0.24.0 を確認。
+- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.28.0。Debian 12 と Arch で確認。
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - Grok Bot 型の OSS。名前付きチームメイト、共有の永続コンピュータ、承認とルーチン（Rust/Tauri）。
 
 ## コミュニティと障害事例
@@ -266,7 +267,7 @@
 
 ## 貢献
 
-8 セクションに 153 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 154 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

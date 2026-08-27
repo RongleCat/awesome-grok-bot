@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-153-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-154-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -188,6 +188,7 @@
 - [grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli) - Terminal CLI that reuses the signed-in macOS Grok Bot app to list, create, and message teammates.
 - [grok-bot-skill](https://github.com/adamanz/grok-bot-skill) - Cursor/Claude skill so a coding agent can list, chat with, and create Grok Bot teammates.
 - [budezllc/dictate-capture](https://github.com/budezllc/dictate-capture) - Windows helper: hold Ctrl+D to dictate into Grok Bot, optionally drag a gold box to paste a screenshot.
+- [HAEGONG/grok-bot-profiles](https://github.com/HAEGONG/grok-bot-profiles) - Paste-in Grok Bot profiles that split spec, bug repro, implementation, and verification so a bot never approves its own work.
 
 ## Reviews & Comparisons
 
@@ -215,7 +216,7 @@
 - [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - Wine-less Linux port of the official desktop app (Arch AUR packages); WIP because xAI ships no Linux build.
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Unofficial TypeScript reconstruction of Grok Bot 0.18.0 for macOS, plus a local inference router experiment.
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - Community index of official Cursor-CDN Linux .deb/.rpm/AppImage URLs; does not host installers.
-- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - Unofficial Linux x86_64 desktop client built from the official Windows installer; tested on Debian 12 with 0.24.0.
+- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.28.0, tested on Debian 12 and Arch.
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - Open-source Grok Bot-shaped roster: named teammates, one durable computer, approvals, and routines (Rust/Tauri).
 
 ## Community & Failure Modes
@@ -266,7 +267,7 @@
 
 ## Contributing
 
-153 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+154 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

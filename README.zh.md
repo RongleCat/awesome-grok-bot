@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-153-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-154-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -188,6 +188,7 @@
 - [grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli) - 复用已登录 macOS Grok Bot 应用，在终端列出、创建、给队友发消息。.
 - [grok-bot-skill](https://github.com/adamanz/grok-bot-skill) - Cursor/Claude 技能，让编程助手能列出、对话、创建 Grok Bot 队友。.
 - [budezllc/dictate-capture](https://github.com/budezllc/dictate-capture) - Windows 辅助：按住 Ctrl+D 对着 Grok Bot 说话，再拖一个金框就能贴截图。.
+- [HAEGONG/grok-bot-profiles](https://github.com/HAEGONG/grok-bot-profiles) - 可粘贴的 Grok Bot 人设：规格、复现、实现、验收分开，Bot 不能给自己过审。.
 
 ## 评测与对比
 
@@ -215,7 +216,7 @@
 - [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - 官方桌面端无 Wine 的 Linux 移植（Arch AUR）；官方没发 Linux，所以还是 WIP。.
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - 非官方把 Grok Bot 0.18.0 macOS 端用 TypeScript 重构成可读源码，还带本地推理路由实验。.
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - 社区整理的官方 Cursor CDN Linux 包链接（deb/rpm/AppImage），本身不托管安装包。.
-- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，Debian 12 上用 0.24.0 测过。.
+- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.28.0，Debian 12 和 Arch 测过。.
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - 开源的 Grok Bot 形态花名册：命名队友、共用一台持久电脑、审批和例行任务（Rust/Tauri）。.
 
 ## 社区与故障现场
@@ -266,7 +267,7 @@
 
 ## 贡献
 
-目前 8 个分类、153 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、154 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
