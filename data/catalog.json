@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-08-27",
+  "updated": "2026-08-28",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -954,6 +954,16 @@
             "zh": "可粘贴的 Grok Bot 人设：规格、复现、实现、验收分开，Bot 不能给自己过审。",
             "ja": "貼り付け用の Grok Bot プロファイル。仕様・再現・実装・検証を分け、自分の成果を自分で承認させない。"
           }
+        },
+        {
+          "title": "adam91holt/grokbot-sdk",
+          "url": "https://github.com/adam91holt/grokbot-sdk",
+          "source": "day-20260828",
+          "blurb": {
+            "en": "TypeScript SDK for a running Grok Bot host: typed local HTTP gateway client plus sand-data disk readers (6★, MIT).",
+            "zh": "给正在跑的 Grok Bot 主机用的 TypeScript SDK：类型化本地 HTTP 网关客户端，外加 sand-data 磁盘读取（6★，MIT）。",
+            "ja": "稼働中の Grok Bot ホスト向け TypeScript SDK。型付きローカル HTTP ゲートウェイと sand-data ディスク読み取り（6★、MIT）。"
+          }
         }
       ]
     },
@@ -1063,6 +1073,16 @@
             "en": "Skeptical checklist: what the seat does not buy you.",
             "zh": "怀疑派清单：这个座位买不到什么。",
             "ja": "懐疑派チェックリスト：この席では買えないもの。"
+          }
+        },
+        {
+          "title": "CellCog: Grok Bot pricing after the $20 Pro expansion",
+          "url": "https://cellcog.ai/blog/grok-bot-pricing/",
+          "source": "day-20260828",
+          "blurb": {
+            "en": "Living pricing note updated 2026-08-27: eight routes from Cursor Pro $20 / SuperGrok $30, unpublished weekly allowance, shared on-demand, and no published enterprise price.",
+            "zh": "2026-08-27 更新的定价长文：八条入门（Cursor Pro $20 / SuperGrok $30 起）、周额度未公开、超额走共享 On-Demand、企业价未公布。",
+            "ja": "2026-08-27 更新の料金解説。Cursor Pro $20 / SuperGrok $30 からの 8 経路、週次枠は非公開、超過は共有 On-Demand、企業価格は未発表。"
           }
         }
       ]
@@ -1190,9 +1210,9 @@
           "url": "https://github.com/glorics/grok-bot-linux",
           "source": "day-20260827",
           "blurb": {
-            "en": "Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.28.0, tested on Debian 12 and Arch.",
-            "zh": "非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.28.0，Debian 12 和 Arch 测过。",
-            "ja": "公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.28.0。Debian 12 と Arch で確認。"
+            "en": "Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.29.0, tested on Debian 12 and Arch.",
+            "zh": "非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.29.0，Debian 12 和 Arch 测过。",
+            "ja": "公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.29.0。Debian 12 と Arch で確認。"
           }
         },
         {
@@ -1203,6 +1223,16 @@
             "en": "Open-source Grok Bot-shaped roster: named teammates, one durable computer, approvals, and routines (Rust/Tauri).",
             "zh": "开源的 Grok Bot 形态花名册：命名队友、共用一台持久电脑、审批和例行任务（Rust/Tauri）。",
             "ja": "Grok Bot 型の OSS。名前付きチームメイト、共有の永続コンピュータ、承認とルーチン（Rust/Tauri）。"
+          }
+        },
+        {
+          "title": "OnlyTerp/opengrok",
+          "url": "https://github.com/OnlyTerp/opengrok",
+          "source": "day-20260828",
+          "blurb": {
+            "en": "Unofficial model picker for the official Grok Bot client: one model per agent, verified wire maps for Grok/Claude/GLM/Gemini/DeepSeek/local, keys stay on your machine (33★).",
+            "zh": "非官方模型选择器：给官方客户端每个 Agent 换模型，Grok/Claude/GLM/Gemini/DeepSeek/本地有核过的 wire map，密钥不出本机（33★）。",
+            "ja": "公式クライアント向け非公式モデルピッカー。エージェントごとに Grok/Claude/GLM/Gemini/DeepSeek/ローカルを切替。wire map は検証済み、鍵は手元（33★）。"
           }
         }
       ]
@@ -1513,6 +1543,66 @@
             "en": "Staff: desktop and iOS have no explicit Compact or same-bot new session. Auto-summary is not compact; the full transcript is sent, and there is no model picker.",
             "zh": "官方：桌面和手机都没有 Compact，也不能给同一个 Bot 新开 session。自动摘要不等于压缩；完整 transcript 会回传，也没有模型选择。",
             "ja": "公式：デスクトップも iOS も明示的な Compact も同一 Bot の新セッションもない。自動要約は圧縮ではない。全文が送られ、モデル選択もない。"
+          }
+        },
+        {
+          "title": "Overbooked then Bot failed to respond is model load",
+          "url": "https://forum.cursor.com/t/grok-bot-is-broke/169537",
+          "source": "day-20260828",
+          "blurb": {
+            "en": "Staff: “overbooked” then “Bot failed to respond” is service-side Grok model load, not your account, usage, or computer; wait for a quieter window or reset again.",
+            "zh": "官方：先 overbooked 再 Bot failed to respond 是服务端模型过载，不是账号、额度或本机问题；等负载低或再 Reset 一次。",
+            "ja": "公式：overbooked のあと Bot failed to respond はサービス側のモデル過負荷。アカウント・残量・手元マシンではない。閑散時を待つか Reset し直す。"
+          }
+        },
+        {
+          "title": "Black screen after setup: hosted computer never finished starting",
+          "url": "https://forum.cursor.com/t/grok-bot-gets-stuck-on-black-screen-after-setting-up-grok-bots-computer/169593",
+          "source": "day-20260828",
+          "blurb": {
+            "en": "Staff: after “Setting up Grok Bot’s computer” the window goes black because the hosted computer never finished starting; reinstall and network changes will not help, wait for a staff rebuild.",
+            "zh": "官方：出现 Setting up 后黑屏，是账号上的云电脑没启动完；重装、清缓存、换网络都没用，等他们后台重建。",
+            "ja": "公式：Setting up のあと黒画面になるのはホスト側パソコンが起動しきっていないため。再インストールや回線変更では直らず、スタッフの再構築待ち。"
+          }
+        },
+        {
+          "title": "0.27.0 Windows: local host stays disconnected after clean registration",
+          "url": "https://forum.cursor.com/t/grok-bot-0-27-0-windows-local-host-permanently-isn-t-connected-after-clean-registration-new-identity-server-side/169594",
+          "source": "day-20260828",
+          "blurb": {
+            "en": "Staff: on 0.27.0 Windows the agent can say the local machine isn’t connected even after a clean daemon registration; fully quit every Grok process and launch once, and if it still fails it is service-side.",
+            "zh": "官方：0.27.0 Windows 上本机守护进程登记干净了，Agent 仍报 local host isn’t connected；先彻底退出所有 Grok 进程再开一次，还不行就是服务端。",
+            "ja": "公式：0.27.0 Windows ではデーモン登録が成功しても Agent が local host isn’t connected と出す。Grok プロセスを全部終了して一度だけ起動。だめならサービス側。"
+          }
+        },
+        {
+          "title": "Webhook URL and sender key are desktop-only, not on iOS",
+          "url": "https://forum.cursor.com/t/webhook-url-missing-on-ios/169589",
+          "source": "day-20260828",
+          "blurb": {
+            "en": "Staff: a webhook routine’s POST URL and sender key only appear on the Grok Bot desktop app, not iOS; open the trigger card there (keep the desktop app updated).",
+            "zh": "官方：webhook 例程的 POST 地址和 sender key 只在桌面端例程卡片上，iOS 看不到；去桌面端打开（先更新客户端）。",
+            "ja": "公式：webhook ルーチンの POST URL と sender key はデスクトップにだけ出る。iOS には無い。デスクトップのトリガーカードを開く（アプリは最新に）。"
+          }
+        },
+        {
+          "title": "Official X plugin auth is broken on desktop, Cloud, and Grok Bot",
+          "url": "https://forum.cursor.com/t/official-x-plugin-auth-is-broken-on-cursor-cloud-grok-bot-and-desktop-refresh/169592",
+          "source": "day-20260828",
+          "blurb": {
+            "en": "Staff: official X plugin connect/refresh is failing across desktop, Cloud Agents, and Grok Bot (including “connected but tools=0”); no clean workaround while they fix X-side app config.",
+            "zh": "官方：官方 X 插件在桌面、Cloud Agent 和 Grok Bot 上连接/刷新都坏（含已连接但 tools=0）；他们在改 X 侧应用配置，目前没有干净绕法。",
+            "ja": "公式：公式 X プラグインの接続/更新がデスクトップ、Cloud Agents、Grok Bot で壊れている（connected なのに tools=0 も含む）。X 側のアプリ設定修正中で回避策なし。"
+          }
+        },
+        {
+          "title": "Weekly Grok Bot usage can spill into paid On-Demand with no warning",
+          "url": "https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679",
+          "source": "day-20260828",
+          "blurb": {
+            "en": "Users: Grok Bot can keep running after the weekly included meter hits 100% (and sometimes earlier) and bill the shared On-Demand pool with no in-app warning; the dashboard also does not label Grok Bot as the source.",
+            "zh": "用户：周额度到 100%（有人说更早）后 Grok Bot 会无提示打进共享 On-Demand，看板也不标明是 Grok Bot 花的。",
+            "ja": "ユーザー報告：週次枠が 100%（より早い例もあり）を超えても警告なく共有 On-Demand に課金される。ダッシュボードも Grok Bot 由来と表示しない。"
           }
         }
       ]
@@ -2608,6 +2698,254 @@
         "en": "Register on Luma",
         "zh": "去 Luma 报名",
         "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "cph-20260909",
+      "url": "https://luma.com/cursor-t9m9",
+      "image": "./assets/events/cph-20260909-cover.png",
+      "expires": "2026-09-09T20:00:00+02:00",
+      "title": {
+        "en": "Grok Bot Copenhagen Meetup",
+        "zh": "Grok Bot 哥本哈根线下交流",
+        "ja": "Grok Bot Meetup Copenhagen"
+      },
+      "when": {
+        "en": "Wed 9 Sep 2026, 17:00–20:00 (CEST)",
+        "zh": "2026-09-09 周三 17:00–20:00（哥本哈根）",
+        "ja": "2026-09-09（水）17:00–20:00（CEST）"
+      },
+      "where": {
+        "en": "Copenhagen · exact address after you register",
+        "zh": "哥本哈根 · 报名通过后可见地址",
+        "ja": "コペンハーゲン · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "First Grok Bot meetup in Copenhagen. Host approval required.",
+        "zh": "哥本哈根首场 Grok Bot 线下。需主办审核。",
+        "ja": "コペンハーゲン初の Grok Bot ミートアップ。主催者承認が必要。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "yde-20260910",
+      "url": "https://luma.com/cursor-90pj",
+      "image": "./assets/events/yde-20260910-cover.png",
+      "expires": "2026-09-10T15:00:00+01:00",
+      "title": {
+        "en": "Grok Bot Meetup Yaoundé",
+        "zh": "Grok Bot 雅温得线下交流",
+        "ja": "Grok Bot Meetup Yaoundé"
+      },
+      "when": {
+        "en": "Thu 10 Sep 2026, 11:30–15:00 (WAT)",
+        "zh": "2026-09-10 周四 11:30–15:00（雅温得）",
+        "ja": "2026-09-10（木）11:30–15:00（WAT）"
+      },
+      "where": {
+        "en": "Yaoundé · exact address after you register",
+        "zh": "雅温得 · 报名通过后可见地址",
+        "ja": "ヤウンデ · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Yaoundé. Host approval required.",
+        "zh": "雅温得线下 Grok Bot。需主办审核。",
+        "ja": "ヤウンデの対面 Grok Bot。主催者承認が必要。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "sud-20260917",
+      "url": "https://luma.com/cursor-nmzu",
+      "image": "./assets/events/sud-20260917-cover.png",
+      "expires": "2026-09-17T20:00:00-04:00",
+      "title": {
+        "en": "Grok Bot Meetup Sudbury #1",
+        "zh": "Grok Bot 萨德伯里线下交流 #1",
+        "ja": "Grok Bot Meetup Sudbury #1"
+      },
+      "when": {
+        "en": "Thu 17 Sep 2026, 18:00–20:00 (EDT)",
+        "zh": "2026-09-17 周四 18:00–20:00（萨德伯里）",
+        "ja": "2026-09-17（木）18:00–20:00（EDT）"
+      },
+      "where": {
+        "en": "Greater Sudbury · exact address after you register",
+        "zh": "萨德伯里 · 报名通过后可见地址",
+        "ja": "サドベリー · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "First Grok Bot meetup in Sudbury. Host approval required; credits for participants.",
+        "zh": "萨德伯里首场 Grok Bot 线下。需主办审核，到场有 credits。",
+        "ja": "サドベリー初の Grok Bot。主催者承認が必要。参加者にクレジットあり。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "tia-20260917",
+      "url": "https://luma.com/cursor-ibxj",
+      "image": "./assets/events/tia-20260917-cover.png",
+      "expires": "2026-09-17T20:00:00+02:00",
+      "title": {
+        "en": "Grok Bot Tirana Meetup",
+        "zh": "Grok Bot 地拉那线下交流",
+        "ja": "Grok Bot Meetup Tirana"
+      },
+      "when": {
+        "en": "Thu 17 Sep 2026, 18:30–20:00 (CEST)",
+        "zh": "2026-09-17 周四 18:30–20:00（地拉那）",
+        "ja": "2026-09-17（木）18:30–20:00（CEST）"
+      },
+      "where": {
+        "en": "Tirana · exact address after you register",
+        "zh": "地拉那 · 报名通过后可见地址",
+        "ja": "ティラナ · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "Grok Bot and Cursor meetup in Tirana this September. Host approval required.",
+        "zh": "地拉那 9 月 Grok Bot / Cursor 线下。需主办审核。",
+        "ja": "ティラナの 9 月 Grok Bot / Cursor ミートアップ。主催者承認が必要。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "pue-20260924",
+      "url": "https://luma.com/puebla-d4iw",
+      "image": "./assets/events/pue-20260924-cover.png",
+      "expires": "2026-09-24T22:00:00-06:00",
+      "title": {
+        "en": "Grok Bot Meetup Puebla",
+        "zh": "Grok Bot 普埃布拉线下交流",
+        "ja": "Grok Bot Meetup Puebla"
+      },
+      "when": {
+        "en": "Thu 24 Sep 2026, 18:00–22:00 (CST)",
+        "zh": "2026-09-24 周四 18:00–22:00（普埃布拉）",
+        "ja": "2026-09-24（木）18:00–22:00（CST）"
+      },
+      "where": {
+        "en": "Puebla · exact address after you register",
+        "zh": "普埃布拉 · 报名通过后可见地址",
+        "ja": "プエブラ · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "First Grok Bot meetup in Puebla. Host approval required.",
+        "zh": "普埃布拉首场 Grok Bot 线下。需主办审核。",
+        "ja": "プエブラ初の Grok Bot ミートアップ。主催者承認が必要。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "ygn-20260926",
+      "url": "https://luma.com/cursor-qu3x",
+      "image": "./assets/events/ygn-20260926-cover.png",
+      "expires": "2026-09-26T17:00:00+06:30",
+      "title": {
+        "en": "Grok Bot Yangon Workshop @ ACY",
+        "zh": "Grok Bot 仰光工作坊（ACY）",
+        "ja": "Grok Bot Yangon Workshop @ ACY"
+      },
+      "when": {
+        "en": "Sat 26 Sep 2026, 13:30–17:00 (MMT)",
+        "zh": "2026-09-26 周六 13:30–17:00（仰光）",
+        "ja": "2026-09-26（土）13:30–17:00（MMT）"
+      },
+      "where": {
+        "en": "American Center Yangon",
+        "zh": "仰光 American Center Yangon",
+        "ja": "ヤンゴン American Center Yangon"
+      },
+      "body": {
+        "en": "Hands-on Grok Bot workshop at American Center Yangon. Host approval required.",
+        "zh": "仰光 American Center 的 Grok Bot 动手工作坊。需主办审核。",
+        "ja": "ヤンゴン American Center での Grok Bot ハンズオン。主催者承認が必要。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "syd-20261007",
+      "url": "https://luma.com/cursor-d70v",
+      "image": "./assets/events/syd-20261007-cover.png",
+      "expires": "2026-10-07T21:00:00+11:00",
+      "title": {
+        "en": "Grok Bot Meetup Sydney",
+        "zh": "Grok Bot 悉尼线下交流",
+        "ja": "Grok Bot Meetup Sydney"
+      },
+      "when": {
+        "en": "Wed 7 Oct 2026, 17:30–21:00 (AEDT)",
+        "zh": "2026-10-07 周三 17:30–21:00（悉尼）",
+        "ja": "2026-10-07（水）17:30–21:00（AEDT）"
+      },
+      "where": {
+        "en": "Sydney · exact address after you register",
+        "zh": "悉尼 · 报名通过后可见地址",
+        "ja": "シドニー · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "Next official Cursor Sydney Grok Bot night after the August meetup. Host approval required.",
+        "zh": "8 月场之后的下一场官方 Cursor 悉尼 Grok Bot 夜。需主办审核。",
+        "ja": "8 月開催の次、公式 Cursor Sydney の Grok Bot ナイト。主催者承認が必要。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "utr-20261029",
+      "url": "https://luma.com/cfk3aokj",
+      "image": "./assets/events/utr-20261029-cover.png",
+      "expires": "2026-10-29T21:30:00+01:00",
+      "title": {
+        "en": "Grok Bot Meetup Utrecht",
+        "zh": "Grok Bot 乌得勒支线下交流",
+        "ja": "Grok Bot Meetup Utrecht"
+      },
+      "when": {
+        "en": "Thu 29 Oct 2026, 19:00–21:30 (CET)",
+        "zh": "2026-10-29 周四 19:00–21:30（乌得勒支）",
+        "ja": "2026-10-29（木）19:00–21:30（CET）"
+      },
+      "where": {
+        "en": "Utrecht · exact address after you register",
+        "zh": "乌得勒支 · 报名通过后可见地址",
+        "ja": "ユトレヒト · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "Second Grok Bot community meetup in Utrecht. Host approval required.",
+        "zh": "乌得勒支第二场 Grok Bot 社区线下。需主办审核。",
+        "ja": "ユトレヒト 2 回目の Grok Bot コミュニティ集会。主催者承認が必要。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
       }
     }
   ]

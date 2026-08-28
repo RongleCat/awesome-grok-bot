@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-156-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-165-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -66,6 +66,14 @@
 - [Grok Bot 宿务线下交流](https://luma.com/cursor-dyb8) — 2026-09-19 周六 09:00–11:30（宿务）. 宿务线下 Grok Bot。
 - [Grok Bot 维多利亚（BC）线下交流](https://luma.com/grokbot) — 2026-09-21 周一 18:00–21:00（维多利亚）. 维多利亚 Grok Bot 动手夜。
 - [Grok Bot 门多萨线下交流](https://luma.com/cursor-mtu0) — 2026-09-29 周二 16:00–19:00（门多萨）. 门多萨线下 Grok Bot。
+- [Grok Bot 哥本哈根线下交流](https://luma.com/cursor-t9m9) — 2026-09-09 周三 17:00–20:00（哥本哈根）. 哥本哈根首场 Grok Bot 线下。
+- [Grok Bot 雅温得线下交流](https://luma.com/cursor-90pj) — 2026-09-10 周四 11:30–15:00（雅温得）. 雅温得线下 Grok Bot。
+- [Grok Bot 萨德伯里线下交流 #1](https://luma.com/cursor-nmzu) — 2026-09-17 周四 18:00–20:00（萨德伯里）. 萨德伯里首场 Grok Bot 线下。
+- [Grok Bot 地拉那线下交流](https://luma.com/cursor-ibxj) — 2026-09-17 周四 18:30–20:00（地拉那）. 地拉那 9 月 Grok Bot / Cursor 线下。
+- [Grok Bot 普埃布拉线下交流](https://luma.com/puebla-d4iw) — 2026-09-24 周四 18:00–22:00（普埃布拉）. 普埃布拉首场 Grok Bot 线下。
+- [Grok Bot 仰光工作坊（ACY）](https://luma.com/cursor-qu3x) — 2026-09-26 周六 13:30–17:00（仰光）. 仰光 American Center 的 Grok Bot 动手工作坊。
+- [Grok Bot 悉尼线下交流](https://luma.com/cursor-d70v) — 2026-10-07 周三 17:30–21:00（悉尼）. 8 月场之后的下一场官方 Cursor 悉尼 Grok Bot 夜。
+- [Grok Bot 乌得勒支线下交流](https://luma.com/cfk3aokj) — 2026-10-29 周四 19:00–21:30（乌得勒支）. 乌得勒支第二场 Grok Bot 社区线下。
 
 ## 目录
 
@@ -181,6 +189,7 @@
 - [grok-bot-skill](https://github.com/adamanz/grok-bot-skill) - Cursor/Claude 技能，让编程助手能列出、对话、创建 Grok Bot 队友。.
 - [budezllc/dictate-capture](https://github.com/budezllc/dictate-capture) - Windows 辅助：按住 Ctrl+D 对着 Grok Bot 说话，再拖一个金框就能贴截图。.
 - [HAEGONG/grok-bot-profiles](https://github.com/HAEGONG/grok-bot-profiles) - 可粘贴的 Grok Bot 人设：规格、复现、实现、验收分开，Bot 不能给自己过审。.
+- [adam91holt/grokbot-sdk](https://github.com/adam91holt/grokbot-sdk) - 给正在跑的 Grok Bot 主机用的 TypeScript SDK：类型化本地 HTTP 网关客户端，外加 sand-data 磁盘读取（6★，MIT）。.
 
 ## 评测与对比
 
@@ -194,6 +203,7 @@
 - [YouTube: Grok Bot vs OpenClaw and Hermes](https://www.youtube.com/watch?v=sAoTrUijP4g) - 视频横评：大家真正拿来比的三套 Agent。.
 - [10 Best Grok Bot Alternatives (2026)](https://www.vellum.ai/blog/best-grok-bot-alternatives) - 不想买 Heavy/Ultra 座位时的替代盘点。.
 - [Before You Hire a $200 Grok Bot](https://zchmael.substack.com/p/before-you-hire-a-200-grok-bot-ai) - 怀疑派清单：这个座位买不到什么。.
+- [CellCog: Grok Bot pricing after the $20 Pro expansion](https://cellcog.ai/blog/grok-bot-pricing/) - 2026-08-27 更新的定价长文：八条入门（Cursor Pro $20 / SuperGrok $30 起）、周额度未公开、超额走共享 On-Demand、企业价未公布。.
 
 ## 开源替代
 
@@ -208,8 +218,9 @@
 - [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - 官方桌面端无 Wine 的 Linux 移植（Arch AUR）；官方没发 Linux，所以还是 WIP。.
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - 非官方把 Grok Bot 0.18.0 macOS 端用 TypeScript 重构成可读源码，还带本地推理路由实验。.
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - 社区整理的官方 Cursor CDN Linux 包链接（deb/rpm/AppImage），本身不托管安装包。.
-- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.28.0，Debian 12 和 Arch 测过。.
+- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.29.0，Debian 12 和 Arch 测过。.
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - 开源的 Grok Bot 形态花名册：命名队友、共用一台持久电脑、审批和例行任务（Rust/Tauri）。.
+- [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 非官方模型选择器：给官方客户端每个 Agent 换模型，Grok/Claude/GLM/Gemini/DeepSeek/本地有核过的 wire map，密钥不出本机（33★）。.
 
 ## 社区与故障现场
 
@@ -243,6 +254,12 @@
 - [Grok Bot 0.24.0 Windows white flash then the app closes](https://forum.cursor.com/t/grok-bot-0-24-0-windows-10-x64-white-screen-flashes-then-app-closes/169380) - 官方：云电脑是好的；白屏一闪就退出，多半是本机杀进程（安全软件、锁住的 %APPDATA%、或不完整安装），不是 GPU。.
 - [Bots workspace looks empty after a rebuild](https://forum.cursor.com/t/bots-workspace-missing-all-things-getting-new-user-experience/169448) - 官方：云电脑刚 rebuild、还在启动时登录，会误显新用户界面，bots 其实还在。彻底退出再开，这段时间别点 create your first bot。.
 - [No compact / new session; full transcript is sent each turn](https://forum.cursor.com/t/grok-bot-prune-compact-an-agent-s-context-without-creating-a-new-bot/168333) - 官方：桌面和手机都没有 Compact，也不能给同一个 Bot 新开 session。自动摘要不等于压缩；完整 transcript 会回传，也没有模型选择。.
+- [Overbooked then Bot failed to respond is model load](https://forum.cursor.com/t/grok-bot-is-broke/169537) - 官方：先 overbooked 再 Bot failed to respond 是服务端模型过载，不是账号、额度或本机问题；等负载低或再 Reset 一次。.
+- [Black screen after setup: hosted computer never finished starting](https://forum.cursor.com/t/grok-bot-gets-stuck-on-black-screen-after-setting-up-grok-bots-computer/169593) - 官方：出现 Setting up 后黑屏，是账号上的云电脑没启动完；重装、清缓存、换网络都没用，等他们后台重建。.
+- [0.27.0 Windows: local host stays disconnected after clean registration](https://forum.cursor.com/t/grok-bot-0-27-0-windows-local-host-permanently-isn-t-connected-after-clean-registration-new-identity-server-side/169594) - 官方：0.27.0 Windows 上本机守护进程登记干净了，Agent 仍报 local host isn’t connected；先彻底退出所有 Grok 进程再开一次，还不行就是服务端。.
+- [Webhook URL and sender key are desktop-only, not on iOS](https://forum.cursor.com/t/webhook-url-missing-on-ios/169589) - 官方：webhook 例程的 POST 地址和 sender key 只在桌面端例程卡片上，iOS 看不到；去桌面端打开（先更新客户端）。.
+- [Official X plugin auth is broken on desktop, Cloud, and Grok Bot](https://forum.cursor.com/t/official-x-plugin-auth-is-broken-on-cursor-cloud-grok-bot-and-desktop-refresh/169592) - 官方：官方 X 插件在桌面、Cloud Agent 和 Grok Bot 上连接/刷新都坏（含已连接但 tools=0）；他们在改 X 侧应用配置，目前没有干净绕法。.
+- [Weekly Grok Bot usage can spill into paid On-Demand with no warning](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - 用户：周额度到 100%（有人说更早）后 Grok Bot 会无提示打进共享 On-Demand，看板也不标明是 Grok Bot 花的。.
 
 ## 相关列表
 
@@ -261,7 +278,7 @@
 
 ## 贡献
 
-目前 8 个分类、156 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、165 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
