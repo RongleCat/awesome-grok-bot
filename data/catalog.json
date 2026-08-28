@@ -926,6 +926,16 @@
           }
         },
         {
+          "title": "grokbot-tui",
+          "url": "https://github.com/smarzban/grokbot-tui",
+          "source": "day-20260828",
+          "blurb": {
+            "en": "Terminal TUI to chat with your bots and channels from the terminal you already work in.",
+            "zh": "终端 TUI：在你已经在用的终端里和 bots、频道聊天。",
+            "ja": "いつものターミナルから Bot とチャンネルにチャットする TUI。"
+          }
+        },
+        {
           "title": "grok-bot-skill",
           "url": "https://github.com/adamanz/grok-bot-skill",
           "source": "day-20260823",
