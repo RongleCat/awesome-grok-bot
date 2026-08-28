@@ -964,6 +964,16 @@
             "zh": "给正在跑的 Grok Bot 主机用的 TypeScript SDK：类型化本地 HTTP 网关客户端，外加 sand-data 磁盘读取（6★，MIT）。",
             "ja": "稼働中の Grok Bot ホスト向け TypeScript SDK。型付きローカル HTTP ゲートウェイと sand-data ディスク読み取り（6★、MIT）。"
           }
+        },
+        {
+          "title": "Thin Grok Bot, deep work on CLI",
+          "url": "https://github.com/Luca-Blight/thin-grok-bot-deep-work-on-cli",
+          "source": "day-20260828",
+          "blurb": {
+            "en": "Keep Grok Bot as a teammate mesh and hand deep builds to Cursor CLI, Cursor cloud agents, or grok CLI.",
+            "zh": "把 Grok Bot 留作队友网格，把深度构建交给 Cursor CLI、Cursor 云 Agent 或 grok CLI。",
+            "ja": "Grok Bot はチームメイトのメッシュとして残し、深いビルドは Cursor CLI、Cursor クラウドエージェント、または grok CLI に渡します。"
+          }
         }
       ]
     },
