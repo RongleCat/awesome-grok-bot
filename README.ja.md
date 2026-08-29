@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-192-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-193-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -79,6 +79,7 @@
 - [Grok Bot Meetup Guatemala (Xela)](https://luma.com/cursor-kfex) — 2026-09-20（日）09:00–15:00（CST）. ケツァルテナンゴ終日。
 - [Cursor + Grok Bot Workshop Recife](https://luma.com/cursor-obsw) — 2026-09-23（水）14:00–17:30（BRT）. レシフェのハンズオン。
 - [Grok Bot Curitiba Startups Meetup](https://luma.com/cursor-dx23) — 2026-11-11（水）18:30–21:00（BRT）. クリチバのスタートアップ向け。
+- [Grok Bot Meetup Singapore](https://luma.com/grokbotsg) — 2026-09-04（金）18:00–21:00（SGT）. シンガポール初の Grok Bot オフライン。
 
 ## 目次
 
@@ -289,6 +290,7 @@
 - [Grok-spawned Cloud Agents can ignore your non-Fast default](https://forum.cursor.com/t/cloud-cursor-agents-spawned-by-grok-bot-do-not-fully-respect-the-user-selected-default-model-and-speed-preferences/169746) - 公式：Grok Bot が起動した Cursor Cloud Agent は、デフォルトが非 Fast でも Fast で始まることがある。Cursor Grok 4.6 をホバーして Edit、Fast を外す。
 - [Local execution offline while chat still works](https://forum.cursor.com/t/local-execution-stays-offline-while-chat-still-works/169821) - 公式：ローカル実行ヘルパーが登録直後にサーバ接続を落とし、チャットは生きたまま Mac がオフライン表示になる。完全終了→再起動し、ダメなら ~/.grokbot/local-exec-daemon.log を送る。
 - [Reset stuck at 50% Starting is a server-side bad state](https://forum.cursor.com/t/currently-down-grok-bot-retrying-back-end-vm/169834) - 公式：リセットが 50%「Starting Grok Bot’s computer」で止まるのはサーバ側の不良状態。データは失われていないので数分待ち、ダメならスレで返信。
+- [Local CLI orchestration and always-allow are intended use](https://forum.cursor.com/t/bot-as-the-orchestrator-of-local-clis/169588) - スタッフ確認。ローカルCLI（Cursor CLI含む）・Always-allow・ログイン済みブラウザ操作は想定用途。第三者利用規約は別、BotはクラウドPCを共有し、Proの常駐オーケストレータは週次枠をすぐ消費する。
 
 ## 関連リスト
 
@@ -310,7 +312,7 @@
 
 ## 貢献
 
-8 セクションに 192 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 193 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

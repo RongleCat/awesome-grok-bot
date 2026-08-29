@@ -1844,6 +1844,16 @@
             "zh": "官方：重置卡在 50%「Starting Grok Bot’s computer」是服务端坏状态，不是本机问题；Bot 数据还在，先多等几分钟，仍失败就在帖里回复。",
             "ja": "公式：リセットが 50%「Starting Grok Bot’s computer」で止まるのはサーバ側の不良状態。データは失われていないので数分待ち、ダメならスレで返信。"
           }
+        },
+        {
+          "title": "Local CLI orchestration and always-allow are intended use",
+          "url": "https://forum.cursor.com/t/bot-as-the-orchestrator-of-local-clis/169588",
+          "source": "day-20260829-1804",
+          "blurb": {
+            "en": "Staff: local-CLI orchestration (including Cursor CLI), always-allow local execution, and authenticated browser sessions are intended Grok Bot use; third-party ToS stay separate, bots share one computer, and a continuous Pro orchestrator burns the weekly pool fast.",
+            "zh": "官方确认用本机 CLI（含 Cursor CLI）、Always-allow 本地执行与已登录浏览器会话是 Grok Bot 预期用法；第三方条款另算，多 Bot 共享一台云电脑，Pro 上常驻编排会很快烧完周额度。",
+            "ja": "スタッフ確認。ローカルCLI（Cursor CLI含む）・Always-allow・ログイン済みブラウザ操作は想定用途。第三者利用規約は別、BotはクラウドPCを共有し、Proの常駐オーケストレータは週次枠をすぐ消費する。"
+          }
         }
       ]
     },
@@ -3397,6 +3407,37 @@
         "en": "Curitiba startups meetup on building with Grok Bot, founder lessons, and shipping ideas in the agent era (speakers TBA). Host approval required.",
         "zh": "库里蒂巴创业场：用 Grok Bot 做事、创始人经验，以及智能体时代怎么把想法做出来（嘉宾待定）。需主办审核。",
         "ja": "クリチバのスタートアップ向け。Grok Bot での作り方、創業者の知見、エージェント時代の出荷（登壇者は未定）。主催者承認が必要。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "sg-20260904",
+      "url": "https://luma.com/grokbotsg",
+      "image": "./assets/events/sg-20260904-cover.png",
+      "expires": "2026-09-04T21:00:00+08:00",
+      "title": {
+        "en": "Grok Bot Meetup Singapore",
+        "zh": "Grok Bot 新加坡线下交流",
+        "ja": "Grok Bot Meetup Singapore"
+      },
+      "when": {
+        "en": "Fri 4 Sep 2026, 18:00–21:00 (SGT)",
+        "zh": "2026-09-04 周五 18:00–21:00（新加坡）",
+        "ja": "2026-09-04（金）18:00–21:00（SGT）"
+      },
+      "where": {
+        "en": "SGInnovate, Singapore River · exact street after you register",
+        "zh": "新加坡河 SGInnovate · 报名通过后可见门牌",
+        "ja": "シンガポール川 SGInnovate · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "Singapore’s first in-person Grok Bot meetup: see what the cloud-computer teammate can do, swap workflows, try it on the spot with credits (laptop or phone). Surprise SpaceX-family guest. Host approval, collab with SGInnovate.",
+        "zh": "新加坡首场 Grok Bot 线下：看云电脑队友能干什么、换用法、现场领额度上手（笔记本或手机即可）。有 SpaceX 体系惊喜嘉宾。需主办审核，与 SGInnovate 合办。",
+        "ja": "シンガポール初の Grok Bot オフライン。クラウドパソコン仲間の実演、ワークフロー共有、その場でクレジット試用（ノートでもスマホでも可）。SpaceX ファミリーのサプライズゲストあり。主催者承認、SGInnovate 共催。"
       },
       "cta": {
         "en": "Apply on Luma (host approval)",

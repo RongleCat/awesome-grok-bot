@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-192-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-193-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -79,6 +79,7 @@
 - [Grok Bot 危地马拉克萨尔特南戈线下](https://luma.com/cursor-kfex) — 2026-09-20 周日 09:00–15:00（克萨尔特南戈）. 克萨尔特南戈全天创客场：用 Grok Bot 做玛雅语、农村农业、中小企业和医疗教育方向的原型。
 - [Cursor + Grok Bot 累西腓工作坊](https://luma.com/cursor-obsw) — 2026-09-23 周三 14:00–17:30（累西腓）. 累西腓动手课：用 Cursor 和 Grok Bot 一起交付，把 Grok Bot 当编辑器旁边的队友。
 - [Grok Bot 库里蒂巴创业线下](https://luma.com/cursor-dx23) — 2026-11-11 周三 18:30–21:00（库里蒂巴）. 库里蒂巴创业场：用 Grok Bot 做事、创始人经验，以及智能体时代怎么把想法做出来（嘉宾待定）。
+- [Grok Bot 新加坡线下交流](https://luma.com/grokbotsg) — 2026-09-04 周五 18:00–21:00（新加坡）. 新加坡首场 Grok Bot 线下：看云电脑队友能干什么、换用法、现场领额度上手（笔记本或手机即可）。
 
 ## 目录
 
@@ -289,6 +290,7 @@
 - [Grok-spawned Cloud Agents can ignore your non-Fast default](https://forum.cursor.com/t/cloud-cursor-agents-spawned-by-grok-bot-do-not-fully-respect-the-user-selected-default-model-and-speed-preferences/169746) - 官方：Grok Bot 拉起的 Cursor Cloud Agent 可能无视你的非 Fast 默认、直接用 Fast；把 Default Model 里 Cursor Grok 4.6 悬停 Edit 去掉 Fast，跟帖框如果又跳回去就改回来。.
 - [Local execution offline while chat still works](https://forum.cursor.com/t/local-execution-stays-offline-while-chat-still-works/169821) - 官方：本机执行助手可能注册成功后又掉线，于是 Mac 显示离线但聊天还在；先完全退出再开，仍不行就把 ~/.grokbot/local-exec-daemon.log 最近几行贴给官方。.
 - [Reset stuck at 50% Starting is a server-side bad state](https://forum.cursor.com/t/currently-down-grok-bot-retrying-back-end-vm/169834) - 官方：重置卡在 50%「Starting Grok Bot’s computer」是服务端坏状态，不是本机问题；Bot 数据还在，先多等几分钟，仍失败就在帖里回复。.
+- [Local CLI orchestration and always-allow are intended use](https://forum.cursor.com/t/bot-as-the-orchestrator-of-local-clis/169588) - 官方确认用本机 CLI（含 Cursor CLI）、Always-allow 本地执行与已登录浏览器会话是 Grok Bot 预期用法；第三方条款另算，多 Bot 共享一台云电脑，Pro 上常驻编排会很快烧完周额度。.
 
 ## 相关列表
 
@@ -310,7 +312,7 @@
 
 ## 贡献
 
-目前 8 个分类、192 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、193 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

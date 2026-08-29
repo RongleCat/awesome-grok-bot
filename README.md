@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-192-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-193-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -79,6 +79,7 @@
 - [Grok Bot Meetup Guatemala (Xela)](https://luma.com/cursor-kfex) — Sun 20 Sep 2026, 09:00–15:00 (CST). Full-day Quetzaltenango builders meetup to prototype with Grok Bot across Maya languages, rural/ag, SME, and health/education tracks.
 - [Cursor + Grok Bot Workshop Recife](https://luma.com/cursor-obsw) — Wed 23 Sep 2026, 14:00–17:30 (BRT). Hands-on Recife workshop for shipping with Cursor and Grok Bot, treating Grok Bot as a teammate alongside the editor.
 - [Grok Bot Curitiba Startups Meetup](https://luma.com/cursor-dx23) — Wed 11 Nov 2026, 18:30–21:00 (BRT). Curitiba startups meetup on building with Grok Bot, founder lessons, and shipping ideas in the agent era (speakers TBA).
+- [Grok Bot Meetup Singapore](https://luma.com/grokbotsg) — Fri 4 Sep 2026, 18:00–21:00 (SGT). Singapore’s first in-person Grok Bot meetup: see what the cloud-computer teammate can do, swap workflows, try it on the spot with credits (laptop or phone).
 
 ## Contents
 
@@ -289,6 +290,7 @@
 - [Grok-spawned Cloud Agents can ignore your non-Fast default](https://forum.cursor.com/t/cloud-cursor-agents-spawned-by-grok-bot-do-not-fully-respect-the-user-selected-default-model-and-speed-preferences/169746) - Staff: Grok-spawned Cursor Cloud Agents can start in Fast even when your default is not; hover Cursor Grok 4.6 → Edit and uncheck Fast, and switch the follow-up box back if it flips.
 - [Local execution offline while chat still works](https://forum.cursor.com/t/local-execution-stays-offline-while-chat-still-works/169821) - Staff: the local-exec helper can register then drop its server link, so the Mac shows offline while chat still works; fully quit and reopen, and if it fails again send ~/.grokbot/local-exec-daemon.log.
 - [Reset stuck at 50% Starting is a server-side bad state](https://forum.cursor.com/t/currently-down-grok-bot-retrying-back-end-vm/169834) - Staff: a Reset hung at 50% “Starting Grok Bot’s computer” is a bad hosted state, not your install; Bot data is not lost — wait a few minutes, and reply on the thread if it still fails.
+- [Local CLI orchestration and always-allow are intended use](https://forum.cursor.com/t/bot-as-the-orchestrator-of-local-clis/169588) - Staff: local-CLI orchestration (including Cursor CLI), always-allow local execution, and authenticated browser sessions are intended Grok Bot use; third-party ToS stay separate, bots share one computer, and a continuous Pro orchestrator burns the weekly pool fast.
 
 ## Related Lists
 
@@ -310,7 +312,7 @@
 
 ## Contributing
 
-192 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+193 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
