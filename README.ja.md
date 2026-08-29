@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-193-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-195-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -207,6 +207,7 @@
 - [mykemueller1-ctrl/grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - レストランのソーシャル商用スカウト向け Grok Bot パック。エージェント設定、朝スキャン／脚本／カタログ技能、日次ルーチン、MCP、SETUP.md 付き。
 - [ShuhangGe/grokbot-queue](https://github.com/ShuhangGe/grokbot-queue) - Tailscale/SSH 経由で稼働中の Grok Bot に仕事を投げる CLI（gbq）。クラウド側で実行し、ローカルは約 400MB で頭打ち。
 - [3Fold-Labs/grok-bot-org-chart](https://github.com/3Fold-Labs/grok-bot-org-chart) - 1 台の共有パソコン上で役職 Bot を回すための権限プレイブックと CoS／Eng／Ops などのテンプレ。
+- [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - Grok Bot の採点付き運用契約（職務、never リスト、既定 L1、CI）。START.md を Setup に貼り、チームをタップする。
 
 ## レビューと比較
 
@@ -309,10 +310,11 @@
 - [thomasbek3/hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Hermes Desktop 向けプラグイン。Grok Bot 風の吹き出しと、各 Bot パソコンのライブ画面（46★、xAI 非公式）。
 - [Ritesh-Root/grok-template](https://github.com/Ritesh-Root/grok-template) - groktemplate.vercel.app のコミュニティ市集。動く Grok Bot 共有リンクと GitHub パックを、アカウントなしで閲覧・コピー。
 - [mostdesign01-sudo/grokbot-use-cases](https://github.com/mostdesign01-sudo/grokbot-use-cases) - 非公式のバイリンガル事例館（AI UP LAB）。再利用できる Grok Bot 事例・HTML・Agent UI を JSON データから日次更新。
+- [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - Grok Bot の採点付き契約キット。仕様、Bot Ready スコア、チーム、START.md インストーラ。
 
 ## 貢献
 
-8 セクションに 193 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 195 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

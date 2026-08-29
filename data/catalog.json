@@ -1074,6 +1074,16 @@
             "zh": "把小公司做成共享电脑上的角色 Bot：权限问答、批准清单和 CoS/工程/运营等人设模板。",
             "ja": "1 台の共有パソコン上で役職 Bot を回すための権限プレイブックと CoS／Eng／Ops などのテンプレ。"
           }
+        },
+        {
+          "title": "cobusgreyling/grok-bot-templates",
+          "url": "https://github.com/cobusgreyling/grok-bot-templates",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Scored operating contracts for Grok Bot (job, never-list, L1 default, CI). Paste START.md into Setup, tap a team",
+            "zh": "可打分的 Grok Bot 操作契约（岗位、永不清单、默认 L1、CI）。把 START.md 贴进 Setup，点一个团队",
+            "ja": "Grok Bot の採点付き運用契約（職務、never リスト、既定 L1、CI）。START.md を Setup に貼り、チームをタップする"
+          }
         }
       ]
     },
@@ -2013,6 +2023,16 @@
             "en": "Unofficial bilingual gallery (AI UP LAB) of reusable Grok Bot cases, HTML collects, and Agent UI, updated from data JSON.",
             "zh": "非官方双语案例馆（AI UP LAB）：可复用的 Grok Bot 案例、HTML 收集和 Agent UI，数据与页面分离、按 JSON 日更。",
             "ja": "非公式のバイリンガル事例館（AI UP LAB）。再利用できる Grok Bot 事例・HTML・Agent UI を JSON データから日次更新。"
+          }
+        },
+        {
+          "title": "cobusgreyling/grok-bot-templates",
+          "url": "https://github.com/cobusgreyling/grok-bot-templates",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Engineering kit of scored Grok Bot contracts: spec, Bot Ready score, teams, and a START.md installer",
+            "zh": "Grok Bot 工程套件：规格、Bot Ready 分数、团队编制，以及 START.md 安装器",
+            "ja": "Grok Bot の採点付き契約キット。仕様、Bot Ready スコア、チーム、START.md インストーラ"
           }
         }
       ]

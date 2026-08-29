@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-193-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-195-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -207,6 +207,7 @@
 - [mykemueller1-ctrl/grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - 餐厅社媒带货侦察用的 Grok Bot 配置包：代理人设、早间扫描/脚本/目录技能、每日例行，以及可粘贴的 SETUP.md 与 MCP 连接器。.
 - [ShuhangGe/grokbot-queue](https://github.com/ShuhangGe/grokbot-queue) - gbq 命令行：经 Tailscale/SSH 把任务派给正在跑的 Grok Bot，云端干活，本机内存大约固定 400MB。.
 - [3Fold-Labs/grok-bot-org-chart](https://github.com/3Fold-Labs/grok-bot-org-chart) - 把小公司做成共享电脑上的角色 Bot：权限问答、批准清单和 CoS/工程/运营等人设模板。.
+- [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - 可打分的 Grok Bot 操作契约（岗位、永不清单、默认 L1、CI）。把 START.md 贴进 Setup，点一个团队.
 
 ## 评测与对比
 
@@ -309,10 +310,11 @@
 - [thomasbek3/hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Hermes 桌面插件，把 Grok Bot 那套搬过去：聊天气泡，外加盯着每台 Bot 电脑的实时窗口（46★，与 xAI 无关）。.
 - [Ritesh-Root/grok-template](https://github.com/Ritesh-Root/grok-template) - 社区模板市集 groktemplate.vercel.app：可浏览复制可用的 Grok Bot 分享链接和 GitHub 包，浏览无需账号。.
 - [mostdesign01-sudo/grokbot-use-cases](https://github.com/mostdesign01-sudo/grokbot-use-cases) - 非官方双语案例馆（AI UP LAB）：可复用的 Grok Bot 案例、HTML 收集和 Agent UI，数据与页面分离、按 JSON 日更。.
+- [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - Grok Bot 工程套件：规格、Bot Ready 分数、团队编制，以及 START.md 安装器.
 
 ## 贡献
 
-目前 8 个分类、193 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、195 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-193-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-195-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -207,6 +207,7 @@
 - [mykemueller1-ctrl/grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - Grok Bot pack for a restaurant social-commerce scout: agent profile, morning-scan/script/catalog skills, daily routine, and MCP connectors with a copy-paste SETUP.md.
 - [ShuhangGe/grokbot-queue](https://github.com/ShuhangGe/grokbot-queue) - CLI (gbq) that queues work onto your running Grok Bots over Tailscale/SSH so many cloud tasks share a ~400MB local footprint.
 - [3Fold-Labs/grok-bot-org-chart](https://github.com/3Fold-Labs/grok-bot-org-chart) - Permissions playbook and role-bot templates (Chief of Staff, Eng, Ops, and more) for running a small company as named Grok Bots on one shared computer.
+- [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - Scored operating contracts for Grok Bot (job, never-list, L1 default, CI). Paste START.md into Setup, tap a team.
 
 ## Reviews & Comparisons
 
@@ -309,10 +310,11 @@
 - [thomasbek3/hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Hermes Desktop plugins that copy the Grok Bot feel: iMessage-style bubbles plus a live window into each bot’s computer (46★, not affiliated with xAI).
 - [Ritesh-Root/grok-template](https://github.com/Ritesh-Root/grok-template) - Community marketplace at groktemplate.vercel.app for working Grok Bot share links and GitHub packs — browse and copy with no account.
 - [mostdesign01-sudo/grokbot-use-cases](https://github.com/mostdesign01-sudo/grokbot-use-cases) - Unofficial bilingual gallery (AI UP LAB) of reusable Grok Bot cases, HTML collects, and Agent UI, updated from data JSON.
+- [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - Engineering kit of scored Grok Bot contracts: spec, Bot Ready score, teams, and a START.md installer.
 
 ## Contributing
 
-193 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+195 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
