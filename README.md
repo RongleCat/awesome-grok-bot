@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-172-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-181-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -74,6 +74,12 @@
 - [Grok Bot Yangon Workshop @ ACY](https://luma.com/cursor-qu3x) — Sat 26 Sep 2026, 13:30–17:00 (MMT). Hands-on Grok Bot workshop at American Center Yangon.
 - [Grok Bot Meetup Sydney](https://luma.com/cursor-d70v) — Wed 7 Oct 2026, 17:30–21:00 (AEDT). Next official Cursor Sydney Grok Bot night after the August meetup.
 - [Grok Bot Meetup Utrecht](https://luma.com/cfk3aokj) — Thu 29 Oct 2026, 19:00–21:30 (CET). Second Grok Bot community meetup in Utrecht.
+- [Grok Bot Student Build Night (NYC)](https://luma.com/nc8i3yo7) — Thu 3 Sep 2026, 18:00–20:00 (EDT). Students build night at SpaceXAI NYC with a live Grok Bot demo, coworking, snacks, and a free month of Cursor Pro (includes Grok Bot).
+- [Grok Bot Student Build Night (SF)](https://luma.com/xyd87jsr) — Thu 3 Sep 2026, 18:00–20:00 (PDT). Bay Area students meet at SpaceXAI SF for a Grok Bot demo, build time, networking, snacks, and a free month of Cursor Pro (includes Grok Bot).
+- [Grok Bot Meetup Villahermosa](https://luma.com/cursor-9mh5) — Thu 3 Sep 2026, 19:00–21:30 (CST). In-person Villahermosa meetup for Cursor and Grok Bot builders to share workflows, cloud agents, and how teams use Grok Bot.
+- [Grok Bot Meetup Guatemala (Xela)](https://luma.com/cursor-kfex) — Sun 20 Sep 2026, 09:00–15:00 (CST). Full-day Quetzaltenango builders meetup to prototype with Grok Bot across Maya languages, rural/ag, SME, and health/education tracks.
+- [Cursor + Grok Bot Workshop Recife](https://luma.com/cursor-obsw) — Wed 23 Sep 2026, 14:00–17:30 (BRT). Hands-on Recife workshop for shipping with Cursor and Grok Bot, treating Grok Bot as a teammate alongside the editor.
+- [Grok Bot Curitiba Startups Meetup](https://luma.com/cursor-dx23) — Wed 11 Nov 2026, 18:30–21:00 (BRT). Curitiba startups meetup on building with Grok Bot, founder lessons, and shipping ideas in the agent era (speakers TBA).
 
 ## Contents
 
@@ -117,6 +123,9 @@
 - [Grok Bot on the App Store](https://apps.apple.com/us/app/grok-bot/id6794501026) - Official iOS listing for the companion app.
 - [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) - Official .grok-plugin marketplace Grok Bot inherits under Cursor plugin policy.
 - [@bot: SuperGrok and Cursor Pro get Grok Bot; weekly usage reset](https://x.com/bot/status/2092664183334846840) - Official 2026-08-26: all SuperGrok and Cursor Pro subscribers get Grok Bot, and weekly usage limits were reset for everyone.
+- [@bot: share Bot templates](https://x.com/bot/status/2093376523919323618) - Official 2026-08-28: you can now share templates of your Bots with others.
+- [@bot: Grok Bot can buy things](https://x.com/bot/status/2093419921007108385) - Official 2026-08-28: connect Stripe Link and Grok Bot can complete purchases on your behalf.
+- [Grok Bot on Google Play](https://play.google.com/store/apps/details?id=ai.x.grok.bot) - Official Google Play listing (updated 2026-08-28): Android shows Install, but Cursor help still says iOS-only, so treat this as a listing rather than confirmed Android GA.
 
 ## Tutorials & Guides
 
@@ -191,6 +200,7 @@
 - [budezllc/dictate-capture](https://github.com/budezllc/dictate-capture) - Windows helper: hold Ctrl+D to dictate into Grok Bot, optionally drag a gold box to paste a screenshot.
 - [HAEGONG/grok-bot-profiles](https://github.com/HAEGONG/grok-bot-profiles) - Paste-in Grok Bot profiles that split spec, bug repro, implementation, and verification so a bot never approves its own work.
 - [adam91holt/grokbot-sdk](https://github.com/adam91holt/grokbot-sdk) - TypeScript SDK for a running Grok Bot host: typed local HTTP gateway client plus sand-data disk readers (6★, MIT).
+- [steve228uk/grok-bot-shopping](https://github.com/steve228uk/grok-bot-shopping) - Shopping skills pack: merchant UCP/MCP, Shopify Shop CLI via npx, and Stripe Onelink; paste INSTALL.md into Grok Bot (2★).
 
 ## Reviews & Comparisons
 
@@ -205,6 +215,7 @@
 - [10 Best Grok Bot Alternatives (2026)](https://www.vellum.ai/blog/best-grok-bot-alternatives) - Landscape of substitutes if you do not want the Heavy/Ultra seat.
 - [Before You Hire a $200 Grok Bot](https://zchmael.substack.com/p/before-you-hire-a-200-grok-bot-ai) - Skeptical checklist: what the seat does not buy you.
 - [CellCog: Grok Bot pricing after the $20 Pro expansion](https://cellcog.ai/blog/grok-bot-pricing/) - Living pricing note updated 2026-08-27: eight routes from Cursor Pro $20 / SuperGrok $30, unpublished weekly allowance, shared on-demand, and no published enterprise price.
+- [What is Grok Bot? The Real Cost & Hidden Risks](https://4geeks.com/en/blog/ai-tools/what-is-grok-bot) - 4Geeks 2026-08-27 review of Grok Bot cost and credential risk: one shared computer is not a security boundary, Auto-review is best-effort, and the public docs never mention prompt injection.
 
 ## Open-Source Alternatives
 
@@ -216,12 +227,13 @@
 - [open-grokbot](https://github.com/ishandutta2007/open-grokbot) - Early equivalent / experiment — read before you grant credentials.
 - [grok-bot-flake](https://github.com/jordangarrison/grok-bot-flake) - Nix flake that repackages the official Linux .deb (no source build).
 - [grok-bot-bin](https://github.com/Jabbslad/grok-bot-bin) - Unofficial Arch package that repackages the official Linux .deb; the built-in updater does not support Linux.
-- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - Wine-less Linux port of the official desktop app (Arch AUR packages); WIP because xAI ships no Linux build.
+- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - Wine-less Linux port of the official desktop app (Arch AUR packages); current release 0.30.0, WIP because xAI ships no Linux build.
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Unofficial TypeScript reconstruction of Grok Bot 0.18.0 for macOS, plus a local inference router experiment.
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - Community index of official Cursor-CDN Linux .deb/.rpm/AppImage URLs; does not host installers.
 - [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.30.0, tested on Debian 12, Omarchy, Arch, and Mint (20★).
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - Open-source Grok Bot-shaped roster: named teammates, one durable computer, approvals, and routines (Rust/Tauri).
 - [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - Unofficial model picker for the official Grok Bot client: one model per agent, verified wire maps for Grok/Claude/GLM/Gemini/DeepSeek/local, keys stay on your machine (235★).
+- [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - Unofficial Ubuntu/Linux desktop port (deb / AppImage / tarball) that merges the official Windows app.asar onto Electron 42; current target 0.29.0 (18★).
 
 ## Community & Failure Modes
 
@@ -241,7 +253,7 @@
 - [Grok Bot: Mac chat works, local computer reported offline](https://forum.cursor.com/t/grok-bot-mac-chat-works-local-computer-reported-offline/168973) - Staff-confirmed split: chat stays up while the Mac local-computer link drops; full quit reconnects, 0.23 shipped a fix.
 - [Computer refresh wipes WhatsApp linked-device session in Grok Bot](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - Staff: computer refresh keeps /workspace, the browser profile, and ~/.config — not ~/.local/state, so WhatsApp link sessions vanish.
 - [Grok Bot cloud workspace after trial exhaustion](https://forum.cursor.com/t/grok-bot-cloud-workspace-inaccessible-after-trial-exhaustion-ticket-t-e97475-pending/169010) - Staff: trial end deletes nothing; bots stop replying, but Computer view still lets you export until you Reset.
-- [Reset Computer window opens behind Settings (0.24.0)](https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177) - Staff: the Reset confirm dialog opens behind Settings; the fix ships in Grok Bot 0.26. Until then, Tab then Enter still confirms the hidden dialog.
+- [Reset Computer window opens behind Settings (0.24.0)](https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177) - Staff: the Reset confirm dialog that opened behind Settings is fixed in the latest desktop; Tab then Enter was the workaround on older builds.
 - [Grok Bot webhooks failing with internal server error](https://forum.cursor.com/t/grok-bot-webhooks-are-failing-with-internal-server-error/169323) - Staff: webhook POSTs to api2.cursor.sh returned internal error; they rolled back a change and the same curl started working again.
 - [Grok Bot Gmail connector cannot download attachment bytes](https://forum.cursor.com/t/grok-bot-gmail-connector-can-list-attachments-but-cannot-download-their-bytes/169261) - Staff: the Gmail connector lists attachment metadata only; no download tool. Use the cloud browser or park the file in Drive.
 - [Does logging into Grok Bot count as a separate computer?](https://forum.cursor.com/t/does-logging-into-grokbot-count-as-a-separate-computer/169289) - Staff: a Grok Bot login is its own Cursor device, and the cloud workspace can count as a second one toward Too many computers.
@@ -260,13 +272,15 @@
 - [0.27.0 Windows: local host stays disconnected after clean registration](https://forum.cursor.com/t/grok-bot-0-27-0-windows-local-host-permanently-isn-t-connected-after-clean-registration-new-identity-server-side/169594) - Staff: on 0.27.0 Windows the agent can say the local machine isn’t connected even after a clean daemon registration; fully quit every Grok process and launch once, and if it still fails it is service-side.
 - [Webhook URL and sender key are desktop-only, not on iOS](https://forum.cursor.com/t/webhook-url-missing-on-ios/169589) - Staff: a webhook routine’s POST URL and sender key only appear on the Grok Bot desktop app, not iOS; open the trigger card there (keep the desktop app updated).
 - [Official X plugin auth is broken on desktop, Cloud, and Grok Bot](https://forum.cursor.com/t/official-x-plugin-auth-is-broken-on-cursor-cloud-grok-bot-and-desktop-refresh/169592) - Staff: official X plugin connect/refresh is failing across desktop, Cloud Agents, and Grok Bot (including “connected but tools=0”); no clean workaround while they fix X-side app config.
-- [Weekly Grok Bot usage can spill into paid On-Demand with no warning](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - Users: Grok Bot can keep running after the weekly included meter hits 100% (and sometimes earlier) and bill the shared On-Demand pool with no in-app warning; the dashboard also does not label Grok Bot as the source.
+- [Weekly Grok Bot usage can spill into paid On-Demand with no warning](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - Staff: weekly included Grok Bot usage then shared On-Demand is intended; there is no in-app warning and the dashboard does not split Bot vs Cursor, so set a $0 On-Demand cap if you want no paid spill.
 - [Pro weekly pool is separate; overflow hits shared On-Demand](https://forum.cursor.com/t/grok-bot-spend-cursor-usage-i-cant-accept-it/169796) - Staff correction: on Pro, Grok Bot has its own included weekly pool, separate from Cursor plan usage; overflow still bills the shared On-Demand pool, so set a $0 On-Demand cap if you want no paid spill.
 - [Access is live for paid plans, not legacy request-based](https://forum.cursor.com/t/cursor-says-grok-bot-is-included-with-pro-now-do-you-actually-have-access-yet/169808) - Staff: Grok Bot is live for all paid individual plans (Pro / Pro+ / Ultra) and self-serve Teams with no percent or region rollout; legacy request-based pricing does not get it unless you opt into usage-based.
 - [Gmail plugin OAuth is broken; authorize from Cursor](https://forum.cursor.com/t/grok-bot-unable-to-authenticate-via-gmail-plugin/169782) - Staff: the Grok Bot Gmail plugin OAuth is broken; authorizing Gmail from Cursor uses a different path and the connection is shared with Grok Bot until the plugin is fixed.
 - [iOS 1.3.2 sends a question list on the first tap](https://forum.cursor.com/t/multiple-choice-list-doesn-t-work-on-grok-bot-mobile/169830) - Staff: iOS 1.3.2 sends a question list as soon as you tap one option; multi-select before send needs a newer Grok Bot app build.
 - [Grok-launched agents hide behind the Source filter](https://forum.cursor.com/t/grok-bot-open-cloud-agent-cards-in-the-browser-and-show-grok-launched-agents-on-agents/169754) - Staff: Grok-launched cloud agents do appear on cursor.com/agents — enable the Source → Grok Bot filter; middle-click “Open in Cursor” opens the same agent in the browser.
 - [Days-long “Can’t reach your computer” needs a staff restore](https://forum.cursor.com/t/grok-bot-can-t-reach-your-computer-for-48-hours/169450) - Staff: a days-long “Can’t reach your computer” can be a stuck hosted box that Reset / Recover / reinstall cannot clear; staff restores it on their side, then fully quit and reopen the app.
+- [Fresh-install white screen is a local profile, not the cloud box](https://forum.cursor.com/t/grok-bot-shows-white-screen-upon-opening-and-is-unusable/169815) - Staff: a fresh-install white window is a local profile bug, not a stuck cloud computer; fully quit, rename ~/Library/Application Support/Grok Bot to Grok Bot.bak, then relaunch — reinstall alone will not clear it.
+- [Grok-spawned Cloud Agents can ignore your non-Fast default](https://forum.cursor.com/t/cloud-cursor-agents-spawned-by-grok-bot-do-not-fully-respect-the-user-selected-default-model-and-speed-preferences/169746) - Staff: Grok-spawned Cursor Cloud Agents can start in Fast even when your default is not; hover Cursor Grok 4.6 → Edit and uncheck Fast, and switch the follow-up box back if it flips.
 
 ## Related Lists
 
@@ -282,10 +296,11 @@
 - [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - Large template library of ready-to-paste Grok Bot prompts across productivity, sales, marketing, and ops.
 - [ellelion/botteams](https://github.com/ellelion/botteams) - Public Grok Bot team directory: copy one installer prompt and it creates the named Bots, group chat, and routines.
 - [travisrr/really.bot](https://github.com/travisrr/really.bot) - Public Grok Bot job board at really.bot: verified runs get a serial, and tagging @tryreallybot on X imports a thread.
+- [thomasbek3/hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Hermes Desktop plugins that copy the Grok Bot feel: iMessage-style bubbles plus a live window into each bot’s computer (46★, not affiliated with xAI).
 
 ## Contributing
 
-172 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+181 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

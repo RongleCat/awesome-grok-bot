@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-172-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-181-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -74,6 +74,12 @@
 - [Grok Bot Yangon Workshop @ ACY](https://luma.com/cursor-qu3x) — 2026-09-26（土）13:30–17:00（MMT）. ヤンゴン American Center での Grok Bot ハンズオン。
 - [Grok Bot Meetup Sydney](https://luma.com/cursor-d70v) — 2026-10-07（水）17:30–21:00（AEDT）. 8 月開催の次、公式 Cursor Sydney の Grok Bot ナイト。
 - [Grok Bot Meetup Utrecht](https://luma.com/cfk3aokj) — 2026-10-29（木）19:00–21:30（CET）. ユトレヒト 2 回目の Grok Bot コミュニティ集会。
+- [Grok Bot Student Build Night (NYC)](https://luma.com/nc8i3yo7) — 2026-09-03（木）18:00–20:00（EDT）. SpaceXAI NYC の学生ビルドナイト。
+- [Grok Bot Student Build Night (SF)](https://luma.com/xyd87jsr) — 2026-09-03（木）18:00–20:00（PDT）. SpaceXAI SF の学生ビルドナイト。
+- [Grok Bot Meetup Villahermosa](https://luma.com/cursor-9mh5) — 2026-09-03（木）19:00–21:30（CST）. Villahermosa の対面ミートアップ。
+- [Grok Bot Meetup Guatemala (Xela)](https://luma.com/cursor-kfex) — 2026-09-20（日）09:00–15:00（CST）. ケツァルテナンゴ終日。
+- [Cursor + Grok Bot Workshop Recife](https://luma.com/cursor-obsw) — 2026-09-23（水）14:00–17:30（BRT）. レシフェのハンズオン。
+- [Grok Bot Curitiba Startups Meetup](https://luma.com/cursor-dx23) — 2026-11-11（水）18:30–21:00（BRT）. クリチバのスタートアップ向け。
 
 ## 目次
 
@@ -117,6 +123,9 @@
 - [Grok Bot on the App Store](https://apps.apple.com/us/app/grok-bot/id6794501026) - 同伴アプリの公式 iOS ストアページ。
 - [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) - 公式の .grok-plugin マーケット。Grok Bot は Cursor のプラグインポリシーを継承します。
 - [@bot: SuperGrok and Cursor Pro get Grok Bot; weekly usage reset](https://x.com/bot/status/2092664183334846840) - 公式 2026-08-26：全 SuperGrok と Cursor Pro 加入者に Grok Bot を開放し、全員の週次利用枠をリセット。
+- [@bot: share Bot templates](https://x.com/bot/status/2093376523919323618) - 公式 2026-08-28：Bot のテンプレートを他の人と共有できるようになった。
+- [@bot: Grok Bot can buy things](https://x.com/bot/status/2093419921007108385) - 公式 2026-08-28：Stripe Link を接続すると、Grok Bot が代わりに買い物を完了できる。
+- [Grok Bot on Google Play](https://play.google.com/store/apps/details?id=ai.x.grok.bot) - 公式 Google Play（2026-08-28 更新）。Install はあるが、Cursor ヘルプはまだ iOS のみと書いており、正式な Android GA とは断定しない。
 
 ## チュートリアルとガイド
 
@@ -191,6 +200,7 @@
 - [budezllc/dictate-capture](https://github.com/budezllc/dictate-capture) - Windows 用。Ctrl+D を押しながら Grok Bot に口述し、金色の枠をドラッグするとスクショも貼る。
 - [HAEGONG/grok-bot-profiles](https://github.com/HAEGONG/grok-bot-profiles) - 貼り付け用の Grok Bot プロファイル。仕様・再現・実装・検証を分け、自分の成果を自分で承認させない。
 - [adam91holt/grokbot-sdk](https://github.com/adam91holt/grokbot-sdk) - 稼働中の Grok Bot ホスト向け TypeScript SDK。型付きローカル HTTP ゲートウェイと sand-data ディスク読み取り（6★、MIT）。
+- [steve228uk/grok-bot-shopping](https://github.com/steve228uk/grok-bot-shopping) - 買い物スキル。merchant UCP/MCP、npx の Shopify Shop CLI、Stripe Onelink。INSTALL.md を貼る（2★）。
 
 ## レビューと比較
 
@@ -205,6 +215,7 @@
 - [10 Best Grok Bot Alternatives (2026)](https://www.vellum.ai/blog/best-grok-bot-alternatives) - Heavy/Ultra の席を買いたくないときの代替の見取り図。
 - [Before You Hire a $200 Grok Bot](https://zchmael.substack.com/p/before-you-hire-a-200-grok-bot-ai) - 懐疑派チェックリスト：この席では買えないもの。
 - [CellCog: Grok Bot pricing after the $20 Pro expansion](https://cellcog.ai/blog/grok-bot-pricing/) - 2026-08-27 更新の料金解説。Cursor Pro $20 / SuperGrok $30 からの 8 経路、週次枠は非公開、超過は共有 On-Demand、企業価格は未発表。
+- [What is Grok Bot? The Real Cost & Hidden Risks](https://4geeks.com/en/blog/ai-tools/what-is-grok-bot) - 4Geeks の 2026-08-27 レビュー。共有パソコンはセキュリティ境界ではない。Auto-review は最善努力で、公開文書にプロンプトインジェクションの言及がない。
 
 ## オープンソースの代替
 
@@ -216,12 +227,13 @@
 - [open-grokbot](https://github.com/ishandutta2007/open-grokbot) - 初期の同等実験。資格情報を渡す前に読んでください。
 - [grok-bot-flake](https://github.com/jordangarrison/grok-bot-flake) - 公式 Linux .deb を詰め直した Nix flake（ソースからのビルドではない）。
 - [grok-bot-bin](https://github.com/Jabbslad/grok-bot-bin) - 非公式の Arch パッケージ。公式 Linux .deb を再梱包します。内蔵アップデータは Linux 非対応です。
-- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - 公式デスクトップの Wine なし Linux 移植（Arch AUR）。公式に Linux 版がないため WIP。
+- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - 公式デスクトップの Wine なし Linux 移植（Arch AUR）。現行リリース 0.30.0。公式に Linux 版がないため WIP。
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Grok Bot 0.18.0 macOS 版の非公式 TypeScript 再構成。ローカル推論ルータの実験付き。
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - Cursor CDN 上の公式 Linux パッケージ URL 一覧（deb/rpm/AppImage）。インストーラ自体は置かない。
 - [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.30.0。Debian 12 / Omarchy / Arch / Mint で確認（20★）。
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - Grok Bot 型の OSS。名前付きチームメイト、共有の永続コンピュータ、承認とルーチン（Rust/Tauri）。
 - [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 公式クライアント向け非公式モデルピッカー。エージェントごとに Grok/Claude/GLM/Gemini/DeepSeek/ローカルを切替。wire map は検証済み、鍵は手元（235★）。
+- [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - 非公式の Ubuntu/Linux 移植（deb / AppImage / tarball）。公式 Windows の app.asar を Electron 42 に載せる。現行ターゲット 0.29.0（18★）。
 
 ## コミュニティと障害事例
 
@@ -241,7 +253,7 @@
 - [Grok Bot: Mac chat works, local computer reported offline](https://forum.cursor.com/t/grok-bot-mac-chat-works-local-computer-reported-offline/168973) - 公式確認の分離障害。チャットは生きるが Mac のローカル接続が切れる。完全終了で復帰。0.23 で修正。
 - [Computer refresh wipes WhatsApp linked-device session in Grok Bot](https://forum.cursor.com/t/computer-refresh-wipes-whatsapp-linked-device-session-in-grok-bot/169025) - 公式：更新後に残るのは /workspace、ブラウザプロファイル、~/.config。~/.local/state は消え、WhatsApp 連携も落ちる。
 - [Grok Bot cloud workspace after trial exhaustion](https://forum.cursor.com/t/grok-bot-cloud-workspace-inaccessible-after-trial-exhaustion-ticket-t-e97475-pending/169010) - 公式：トライアル終了で削除はされない。Bot は返事を止めるが、Computer ビューで書き出し可能。Reset は避ける。
-- [Reset Computer window opens behind Settings (0.24.0)](https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177) - 公式：Reset 確認ダイアログが Settings の裏に出る。修正は Grok Bot 0.26。それまでは Tab のあと Enter で隠れたダイアログを確定できる。
+- [Reset Computer window opens behind Settings (0.24.0)](https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177) - 公式：設定の裏に開いていた Reset 確認ダイアログは最新デスクトップで修正済み。旧版は Tab のあと Enter。
 - [Grok Bot webhooks failing with internal server error](https://forum.cursor.com/t/grok-bot-webhooks-are-failing-with-internal-server-error/169323) - 公式：api2.cursor.sh への webhook が internal error。変更をロールバックしたら同じ curl が通った。
 - [Grok Bot Gmail connector cannot download attachment bytes](https://forum.cursor.com/t/grok-bot-gmail-connector-can-list-attachments-but-cannot-download-their-bytes/169261) - 公式：Gmail コネクタは添付のメタデータだけ。ダウンロードツールはない。クラウドブラウザか Drive 経由。
 - [Does logging into Grok Bot count as a separate computer?](https://forum.cursor.com/t/does-logging-into-grokbot-count-as-a-separate-computer/169289) - 公式：Grok Bot のログイン自体が Cursor の 1 台。クラウド作業領域がもう 1 台になり、Too many computers に入る。
@@ -260,13 +272,15 @@
 - [0.27.0 Windows: local host stays disconnected after clean registration](https://forum.cursor.com/t/grok-bot-0-27-0-windows-local-host-permanently-isn-t-connected-after-clean-registration-new-identity-server-side/169594) - 公式：0.27.0 Windows ではデーモン登録が成功しても Agent が local host isn’t connected と出す。Grok プロセスを全部終了して一度だけ起動。だめならサービス側。
 - [Webhook URL and sender key are desktop-only, not on iOS](https://forum.cursor.com/t/webhook-url-missing-on-ios/169589) - 公式：webhook ルーチンの POST URL と sender key はデスクトップにだけ出る。iOS には無い。デスクトップのトリガーカードを開く（アプリは最新に）。
 - [Official X plugin auth is broken on desktop, Cloud, and Grok Bot](https://forum.cursor.com/t/official-x-plugin-auth-is-broken-on-cursor-cloud-grok-bot-and-desktop-refresh/169592) - 公式：公式 X プラグインの接続/更新がデスクトップ、Cloud Agents、Grok Bot で壊れている（connected なのに tools=0 も含む）。X 側のアプリ設定修正中で回避策なし。
-- [Weekly Grok Bot usage can spill into paid On-Demand with no warning](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - ユーザー報告：週次枠が 100%（より早い例もあり）を超えても警告なく共有 On-Demand に課金される。ダッシュボードも Grok Bot 由来と表示しない。
+- [Weekly Grok Bot usage can spill into paid On-Demand with no warning](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - 公式：週次枠のあと共有 On-Demand に流れるのは仕様。アプリ内警告はなく、ダッシュボードも Bot と Cursor を分けない。課金したくなければ上限を $0 に。
 - [Pro weekly pool is separate; overflow hits shared On-Demand](https://forum.cursor.com/t/grok-bot-spend-cursor-usage-i-cant-accept-it/169796) - 公式訂正：Pro では Grok Bot に Cursor プランとは別の週次枠がある。枠を使い切ると共有 On-Demand に流れ、課金したくなければ上限を $0 にする。
 - [Access is live for paid plans, not legacy request-based](https://forum.cursor.com/t/cursor-says-grok-bot-is-included-with-pro-now-do-you-actually-have-access-yet/169808) - 公式：有料個人プラン（Pro / Pro+ / Ultra）とセルフサーブ Teams は全開で地域段階なし。旧リクエスト課金は従量に切り替えないと使えない。
 - [Gmail plugin OAuth is broken; authorize from Cursor](https://forum.cursor.com/t/grok-bot-unable-to-authenticate-via-gmail-plugin/169782) - 公式：Grok Bot の Gmail プラグイン OAuth が壊れている。Cursor 側で Gmail を認可すれば別経路で接続が共有される。
 - [iOS 1.3.2 sends a question list on the first tap](https://forum.cursor.com/t/multiple-choice-list-doesn-t-work-on-grok-bot-mobile/169830) - 公式：iOS 1.3.2 は選択肢をタップした瞬間に送信する。複数選んでから送るには新しいアプリが必要。
 - [Grok-launched agents hide behind the Source filter](https://forum.cursor.com/t/grok-bot-open-cloud-agent-cards-in-the-browser-and-show-grok-launched-agents-on-agents/169754) - 公式：Grok Bot が起動したクラウド Agent は cursor.com/agents にある。フィルタで Source → Grok Bot をオンに。中クリックの Open in Cursor はブラウザで開く。
 - [Days-long “Can’t reach your computer” needs a staff restore](https://forum.cursor.com/t/grok-bot-can-t-reach-your-computer-for-48-hours/169450) - 公式：数日続く “Can’t reach your computer” はホスト側の固まりで、Reset / Recover / 再インストールでは直らない。スタッフが復旧したらアプリを完全終了して開き直す。
+- [Fresh-install white screen is a local profile, not the cloud box](https://forum.cursor.com/t/grok-bot-shows-white-screen-upon-opening-and-is-unusable/169815) - 公式：新規インストール後の白画面はローカルプロファイルの不具合で、クラウドパソコンの固まりではない。完全終了し、~/Library/Application Support/Grok Bot を Grok Bot.bak に改名して再起動。再インストールだけでは消えない。
+- [Grok-spawned Cloud Agents can ignore your non-Fast default](https://forum.cursor.com/t/cloud-cursor-agents-spawned-by-grok-bot-do-not-fully-respect-the-user-selected-default-model-and-speed-preferences/169746) - 公式：Grok Bot が起動した Cursor Cloud Agent は、デフォルトが非 Fast でも Fast で始まることがある。Cursor Grok 4.6 をホバーして Edit、Fast を外す。
 
 ## 関連リスト
 
@@ -282,10 +296,11 @@
 - [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - 生産性・営業・マーケ・運用向けの貼り付け用 Grok Bot プロンプト集。
 - [ellelion/botteams](https://github.com/ellelion/botteams) - Grok Bot の公開チームディレクトリ。インストーラ用プロンプトを貼ると、Bot・グループチャット・ルーチンを作る。
 - [travisrr/really.bot](https://github.com/travisrr/really.bot) - really.bot の公開 Grok Bot ジョブボード。検証済みの実行に通し番号が付き、X で @tryreallybot をタグるとスレッドを取り込める。
+- [thomasbek3/hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Hermes Desktop 向けプラグイン。Grok Bot 風の吹き出しと、各 Bot パソコンのライブ画面（46★、xAI 非公式）。
 
 ## 貢献
 
-8 セクションに 172 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 181 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

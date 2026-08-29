@@ -294,6 +294,36 @@
             "zh": "官方 2026-08-26：所有 SuperGrok 和 Cursor Pro 订阅者开通 Grok Bot，并给全员重置了周用量。",
             "ja": "公式 2026-08-26：全 SuperGrok と Cursor Pro 加入者に Grok Bot を開放し、全員の週次利用枠をリセット。"
           }
+        },
+        {
+          "title": "@bot: share Bot templates",
+          "url": "https://x.com/bot/status/2093376523919323618",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Official 2026-08-28: you can now share templates of your Bots with others.",
+            "zh": "官方 2026-08-28：可以把 Bot 模板分享给别人。",
+            "ja": "公式 2026-08-28：Bot のテンプレートを他の人と共有できるようになった。"
+          }
+        },
+        {
+          "title": "@bot: Grok Bot can buy things",
+          "url": "https://x.com/bot/status/2093419921007108385",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Official 2026-08-28: connect Stripe Link and Grok Bot can complete purchases on your behalf.",
+            "zh": "官方 2026-08-28：连上 Stripe Link 后，Grok Bot 可以替你完成网购付款。",
+            "ja": "公式 2026-08-28：Stripe Link を接続すると、Grok Bot が代わりに買い物を完了できる。"
+          }
+        },
+        {
+          "title": "Grok Bot on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=ai.x.grok.bot",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Official Google Play listing (updated 2026-08-28): Android shows Install, but Cursor help still says iOS-only, so treat this as a listing rather than confirmed Android GA.",
+            "zh": "官方 Google Play 页（2026-08-28 更新）：Android 已能点安装，但 Cursor 帮助仍写仅 iOS，先当上架页，不要当成已正式开放。",
+            "ja": "公式 Google Play（2026-08-28 更新）。Install はあるが、Cursor ヘルプはまだ iOS のみと書いており、正式な Android GA とは断定しない。"
+          }
         }
       ]
     },
@@ -974,6 +1004,16 @@
             "zh": "给正在跑的 Grok Bot 主机用的 TypeScript SDK：类型化本地 HTTP 网关客户端，外加 sand-data 磁盘读取（6★，MIT）。",
             "ja": "稼働中の Grok Bot ホスト向け TypeScript SDK。型付きローカル HTTP ゲートウェイと sand-data ディスク読み取り（6★、MIT）。"
           }
+        },
+        {
+          "title": "steve228uk/grok-bot-shopping",
+          "url": "https://github.com/steve228uk/grok-bot-shopping",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Shopping skills pack: merchant UCP/MCP, Shopify Shop CLI via npx, and Stripe Onelink; paste INSTALL.md into Grok Bot (2★).",
+            "zh": "购物技能包：商家 UCP/MCP、用 npx 跑 Shopify Shop CLI、Stripe Onelink；把 INSTALL.md 贴给 Grok Bot 即可（2★）。",
+            "ja": "買い物スキル。merchant UCP/MCP、npx の Shopify Shop CLI、Stripe Onelink。INSTALL.md を貼る（2★）。"
+          }
         }
       ]
     },
@@ -1094,6 +1134,16 @@
             "zh": "2026-08-27 更新的定价长文：八条入门（Cursor Pro $20 / SuperGrok $30 起）、周额度未公开、超额走共享 On-Demand、企业价未公布。",
             "ja": "2026-08-27 更新の料金解説。Cursor Pro $20 / SuperGrok $30 からの 8 経路、週次枠は非公開、超過は共有 On-Demand、企業価格は未発表。"
           }
+        },
+        {
+          "title": "What is Grok Bot? The Real Cost & Hidden Risks",
+          "url": "https://4geeks.com/en/blog/ai-tools/what-is-grok-bot",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "4Geeks 2026-08-27 review of Grok Bot cost and credential risk: one shared computer is not a security boundary, Auto-review is best-effort, and the public docs never mention prompt injection.",
+            "zh": "4Geeks 2026-08-27 评测：共享云电脑不是安全边界，Auto-review 只是尽力，公开文档没提 prompt injection，还拆了价格和条款。",
+            "ja": "4Geeks の 2026-08-27 レビュー。共有パソコンはセキュリティ境界ではない。Auto-review は最善努力で、公開文書にプロンプトインジェクションの言及がない。"
+          }
         }
       ]
     },
@@ -1190,9 +1240,9 @@
           "url": "https://github.com/Nichokas/grokbot-linux-port",
           "source": "day-20260824",
           "blurb": {
-            "en": "Wine-less Linux port of the official desktop app (Arch AUR packages); WIP because xAI ships no Linux build.",
-            "zh": "官方桌面端无 Wine 的 Linux 移植（Arch AUR）；官方没发 Linux，所以还是 WIP。",
-            "ja": "公式デスクトップの Wine なし Linux 移植（Arch AUR）。公式に Linux 版がないため WIP。"
+            "en": "Wine-less Linux port of the official desktop app (Arch AUR packages); current release 0.30.0, WIP because xAI ships no Linux build.",
+            "zh": "官方桌面端无 Wine 的 Linux 移植（Arch AUR）；当前发布 0.30.0，官方没发 Linux，所以还是 WIP。",
+            "ja": "公式デスクトップの Wine なし Linux 移植（Arch AUR）。現行リリース 0.30.0。公式に Linux 版がないため WIP。"
           }
         },
         {
@@ -1243,6 +1293,16 @@
             "en": "Unofficial model picker for the official Grok Bot client: one model per agent, verified wire maps for Grok/Claude/GLM/Gemini/DeepSeek/local, keys stay on your machine (235★).",
             "zh": "非官方模型选择器：给官方客户端每个 Agent 换模型，Grok/Claude/GLM/Gemini/DeepSeek/本地有核过的 wire map，密钥不出本机（235★）。",
             "ja": "公式クライアント向け非公式モデルピッカー。エージェントごとに Grok/Claude/GLM/Gemini/DeepSeek/ローカルを切替。wire map は検証済み、鍵は手元（235★）。"
+          }
+        },
+        {
+          "title": "jakob-bu/grok-bot-linux-unofficial",
+          "url": "https://github.com/jakob-bu/grok-bot-linux-unofficial",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Unofficial Ubuntu/Linux desktop port (deb / AppImage / tarball) that merges the official Windows app.asar onto Electron 42; current target 0.29.0 (18★).",
+            "zh": "非官方 Ubuntu/Linux 桌面移植（deb / AppImage / tarball），把官方 Windows app.asar 接到 Electron 42；当前目标 0.29.0（18★）。",
+            "ja": "非公式の Ubuntu/Linux 移植（deb / AppImage / tarball）。公式 Windows の app.asar を Electron 42 に載せる。現行ターゲット 0.29.0（18★）。"
           }
         }
       ]
@@ -1420,9 +1480,9 @@
           "url": "https://forum.cursor.com/t/the-reset-computer-window-opens-behind-the-settings-window-and-is-invisible-and-unclickable/169177",
           "source": "day-20260827",
           "blurb": {
-            "en": "Staff: the Reset confirm dialog opens behind Settings; the fix ships in Grok Bot 0.26. Until then, Tab then Enter still confirms the hidden dialog.",
-            "zh": "官方：Reset 确认框开在 Settings 后面；修正在 Grok Bot 0.26。在此之前可以用 Tab 再 Enter 确认那个看不见的框。",
-            "ja": "公式：Reset 確認ダイアログが Settings の裏に出る。修正は Grok Bot 0.26。それまでは Tab のあと Enter で隠れたダイアログを確定できる。"
+            "en": "Staff: the Reset confirm dialog that opened behind Settings is fixed in the latest desktop; Tab then Enter was the workaround on older builds.",
+            "zh": "官方：Reset 确认框藏在设置后面的问题已在最新桌面端修好；旧版仍可用 Tab 再 Enter 确认。",
+            "ja": "公式：設定の裏に開いていた Reset 確認ダイアログは最新デスクトップで修正済み。旧版は Tab のあと Enter。"
           }
         },
         {
@@ -1610,9 +1670,9 @@
           "url": "https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679",
           "source": "day-20260828",
           "blurb": {
-            "en": "Users: Grok Bot can keep running after the weekly included meter hits 100% (and sometimes earlier) and bill the shared On-Demand pool with no in-app warning; the dashboard also does not label Grok Bot as the source.",
-            "zh": "用户：周额度到 100%（有人说更早）后 Grok Bot 会无提示打进共享 On-Demand，看板也不标明是 Grok Bot 花的。",
-            "ja": "ユーザー報告：週次枠が 100%（より早い例もあり）を超えても警告なく共有 On-Demand に課金される。ダッシュボードも Grok Bot 由来と表示しない。"
+            "en": "Staff: weekly included Grok Bot usage then shared On-Demand is intended; there is no in-app warning and the dashboard does not split Bot vs Cursor, so set a $0 On-Demand cap if you want no paid spill.",
+            "zh": "官方：周包含额度用完后打进共享 On-Demand 是设计如此，应用内无提示、看板也不拆 Bot/Cursor，不想付费就把 On-Demand 上限设成 $0。",
+            "ja": "公式：週次枠のあと共有 On-Demand に流れるのは仕様。アプリ内警告はなく、ダッシュボードも Bot と Cursor を分けない。課金したくなければ上限を $0 に。"
           }
         },
         {
@@ -1673,6 +1733,26 @@
             "en": "Staff: a days-long “Can’t reach your computer” can be a stuck hosted box that Reset / Recover / reinstall cannot clear; staff restores it on their side, then fully quit and reopen the app.",
             "zh": "官方：连续多日「Can't reach your computer」可以是服务端电脑卡死，Reset / Recover / 重装都清不掉，得等官方在后端拉起来，再彻底退出重开。",
             "ja": "公式：数日続く “Can’t reach your computer” はホスト側の固まりで、Reset / Recover / 再インストールでは直らない。スタッフが復旧したらアプリを完全終了して開き直す。"
+          }
+        },
+        {
+          "title": "Fresh-install white screen is a local profile, not the cloud box",
+          "url": "https://forum.cursor.com/t/grok-bot-shows-white-screen-upon-opening-and-is-unusable/169815",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Staff: a fresh-install white window is a local profile bug, not a stuck cloud computer; fully quit, rename ~/Library/Application Support/Grok Bot to Grok Bot.bak, then relaunch — reinstall alone will not clear it.",
+            "zh": "官方：全新安装后白屏是本机配置目录问题，不是云电脑卡死；彻底退出，把 ~/Library/Application Support/Grok Bot 改名为 Grok Bot.bak 再开，只重装清不掉。",
+            "ja": "公式：新規インストール後の白画面はローカルプロファイルの不具合で、クラウドパソコンの固まりではない。完全終了し、~/Library/Application Support/Grok Bot を Grok Bot.bak に改名して再起動。再インストールだけでは消えない。"
+          }
+        },
+        {
+          "title": "Grok-spawned Cloud Agents can ignore your non-Fast default",
+          "url": "https://forum.cursor.com/t/cloud-cursor-agents-spawned-by-grok-bot-do-not-fully-respect-the-user-selected-default-model-and-speed-preferences/169746",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Staff: Grok-spawned Cursor Cloud Agents can start in Fast even when your default is not; hover Cursor Grok 4.6 → Edit and uncheck Fast, and switch the follow-up box back if it flips.",
+            "zh": "官方：Grok Bot 拉起的 Cursor Cloud Agent 可能无视你的非 Fast 默认、直接用 Fast；把 Default Model 里 Cursor Grok 4.6 悬停 Edit 去掉 Fast，跟帖框如果又跳回去就改回来。",
+            "ja": "公式：Grok Bot が起動した Cursor Cloud Agent は、デフォルトが非 Fast でも Fast で始まることがある。Cursor Grok 4.6 をホバーして Edit、Fast を外す。"
           }
         }
       ]
@@ -1803,6 +1883,16 @@
             "en": "Public Grok Bot job board at really.bot: verified runs get a serial, and tagging @tryreallybot on X imports a thread.",
             "zh": "公开的 Grok Bot 任务板 really.bot：核过的跑次会盖序号，在 X 上 tag @tryreallybot 就能导入帖子。",
             "ja": "really.bot の公開 Grok Bot ジョブボード。検証済みの実行に通し番号が付き、X で @tryreallybot をタグるとスレッドを取り込める。"
+          }
+        },
+        {
+          "title": "thomasbek3/hermes-bot-kit",
+          "url": "https://github.com/thomasbek3/hermes-bot-kit",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Hermes Desktop plugins that copy the Grok Bot feel: iMessage-style bubbles plus a live window into each bot’s computer (46★, not affiliated with xAI).",
+            "zh": "Hermes 桌面插件，把 Grok Bot 那套搬过去：聊天气泡，外加盯着每台 Bot 电脑的实时窗口（46★，与 xAI 无关）。",
+            "ja": "Hermes Desktop 向けプラグイン。Grok Bot 風の吹き出しと、各 Bot パソコンのライブ画面（46★、xAI 非公式）。"
           }
         }
       ]
@@ -3011,6 +3101,192 @@
         "en": "Second Grok Bot community meetup in Utrecht. Host approval required.",
         "zh": "乌得勒支第二场 Grok Bot 社区线下。需主办审核。",
         "ja": "ユトレヒト 2 回目の Grok Bot コミュニティ集会。主催者承認が必要。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "nyc-20260903",
+      "url": "https://luma.com/nc8i3yo7",
+      "image": "./assets/events/nyc-20260903-cover.png",
+      "expires": "2026-09-03T20:00:00-04:00",
+      "title": {
+        "en": "Grok Bot Student Build Night (NYC)",
+        "zh": "Grok Bot 纽约学生 Build Night",
+        "ja": "Grok Bot Student Build Night (NYC)"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:00–20:00 (EDT)",
+        "zh": "2026-09-03 周四 18:00–20:00（纽约）",
+        "ja": "2026-09-03（木）18:00–20:00（EDT）"
+      },
+      "where": {
+        "en": "SpaceXAI NYC · exact address after you register",
+        "zh": "SpaceXAI 纽约 · 报名后可见地址",
+        "ja": "SpaceXAI NYC · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "Students build night at SpaceXAI NYC with a live Grok Bot demo, coworking, snacks, and a free month of Cursor Pro (includes Grok Bot).",
+        "zh": "SpaceXAI 纽约学生场：现场演示 Grok Bot、一起做、有零食，并送一个月含 Grok Bot 的 Cursor Pro。",
+        "ja": "SpaceXAI NYC の学生ビルドナイト。Grok Bot のライブデモ、コーワーキング、軽食、Cursor Pro（Grok Bot 込み）1 か月付き。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "sfs-20260903",
+      "url": "https://luma.com/xyd87jsr",
+      "image": "./assets/events/sfs-20260903-cover.png",
+      "expires": "2026-09-03T20:00:00-07:00",
+      "title": {
+        "en": "Grok Bot Student Build Night (SF)",
+        "zh": "Grok Bot 旧金山学生 Build Night",
+        "ja": "Grok Bot Student Build Night (SF)"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:00–20:00 (PDT)",
+        "zh": "2026-09-03 周四 18:00–20:00（旧金山）",
+        "ja": "2026-09-03（木）18:00–20:00（PDT）"
+      },
+      "where": {
+        "en": "SpaceXAI SF · exact address after you register",
+        "zh": "SpaceXAI 旧金山 · 报名后可见地址",
+        "ja": "SpaceXAI SF · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "Bay Area students meet at SpaceXAI SF for a Grok Bot demo, build time, networking, snacks, and a free month of Cursor Pro (includes Grok Bot).",
+        "zh": "SpaceXAI 旧金山学生场：演示 Grok Bot、动手做、社交和零食，并送一个月含 Grok Bot 的 Cursor Pro。",
+        "ja": "SpaceXAI SF の学生ビルドナイト。デモ、制作時間、交流、軽食、Cursor Pro（Grok Bot 込み）1 か月付き。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "vhs-20260903",
+      "url": "https://luma.com/cursor-9mh5",
+      "image": "./assets/events/vhs-20260903-cover.png",
+      "expires": "2026-09-03T21:30:00-06:00",
+      "title": {
+        "en": "Grok Bot Meetup Villahermosa",
+        "zh": "Grok Bot 比亚埃尔莫萨线下交流",
+        "ja": "Grok Bot Meetup Villahermosa"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 19:00–21:30 (CST)",
+        "zh": "2026-09-03 周四 19:00–21:30（比亚埃尔莫萨）",
+        "ja": "2026-09-03（木）19:00–21:30（CST）"
+      },
+      "where": {
+        "en": "LATI, Villahermosa · exact address after you register",
+        "zh": "比亚埃尔莫萨 LATI · 报名后可见地址",
+        "ja": "Villahermosa の LATI · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "In-person Villahermosa meetup for Cursor and Grok Bot builders to share workflows, cloud agents, and how teams use Grok Bot.",
+        "zh": "比亚埃尔莫萨线下：Cursor 和 Grok Bot 使用者交流工作流、云 Agent，以及团队怎么用 Grok Bot。",
+        "ja": "Villahermosa の対面ミートアップ。Cursor と Grok Bot のワークフロー、クラウド Agent、現場の使い方を共有。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "xela-20260920",
+      "url": "https://luma.com/cursor-kfex",
+      "image": "./assets/events/xela-20260920-cover.png",
+      "expires": "2026-09-20T15:00:00-06:00",
+      "title": {
+        "en": "Grok Bot Meetup Guatemala (Xela)",
+        "zh": "Grok Bot 危地马拉克萨尔特南戈线下",
+        "ja": "Grok Bot Meetup Guatemala (Xela)"
+      },
+      "when": {
+        "en": "Sun 20 Sep 2026, 09:00–15:00 (CST)",
+        "zh": "2026-09-20 周日 09:00–15:00（克萨尔特南戈）",
+        "ja": "2026-09-20（日）09:00–15:00（CST）"
+      },
+      "where": {
+        "en": "Universidad Mesoamericana, Quetzaltenango",
+        "zh": "克萨尔特南戈中美洲大学",
+        "ja": "ケツァルテナンゴの Universidad Mesoamericana"
+      },
+      "body": {
+        "en": "Full-day Quetzaltenango builders meetup to prototype with Grok Bot across Maya languages, rural/ag, SME, and health/education tracks.",
+        "zh": "克萨尔特南戈全天创客场：用 Grok Bot 做玛雅语、农村农业、中小企业和医疗教育方向的原型。",
+        "ja": "ケツァルテナンゴ終日。マヤ語、農村・農業、中小企業、医療・教育のトラックで Grok Bot の試作。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "rec-20260923",
+      "url": "https://luma.com/cursor-obsw",
+      "image": "./assets/events/rec-20260923-cover.png",
+      "expires": "2026-09-23T17:30:00-03:00",
+      "title": {
+        "en": "Cursor + Grok Bot Workshop Recife",
+        "zh": "Cursor + Grok Bot 累西腓工作坊",
+        "ja": "Cursor + Grok Bot Workshop Recife"
+      },
+      "when": {
+        "en": "Wed 23 Sep 2026, 14:00–17:30 (BRT)",
+        "zh": "2026-09-23 周三 14:00–17:30（累西腓）",
+        "ja": "2026-09-23（水）14:00–17:30（BRT）"
+      },
+      "where": {
+        "en": "Hub Plural Espinheiro, Recife",
+        "zh": "累西腓 Hub Plural Espinheiro",
+        "ja": "レシフェの Hub Plural Espinheiro"
+      },
+      "body": {
+        "en": "Hands-on Recife workshop for shipping with Cursor and Grok Bot, treating Grok Bot as a teammate alongside the editor.",
+        "zh": "累西腓动手课：用 Cursor 和 Grok Bot 一起交付，把 Grok Bot 当编辑器旁边的队友。",
+        "ja": "レシフェのハンズオン。Cursor と Grok Bot で出荷し、Bot をエディタ横の仲間として扱う。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "cwb-20261111",
+      "url": "https://luma.com/cursor-dx23",
+      "image": "./assets/events/cwb-20261111-cover.png",
+      "expires": "2026-11-11T21:00:00-03:00",
+      "title": {
+        "en": "Grok Bot Curitiba Startups Meetup",
+        "zh": "Grok Bot 库里蒂巴创业线下",
+        "ja": "Grok Bot Curitiba Startups Meetup"
+      },
+      "when": {
+        "en": "Wed 11 Nov 2026, 18:30–21:00 (BRT)",
+        "zh": "2026-11-11 周三 18:30–21:00（库里蒂巴）",
+        "ja": "2026-11-11（水）18:30–21:00（BRT）"
+      },
+      "where": {
+        "en": "Rua Marcos Moro 72, Curitiba",
+        "zh": "库里蒂巴 Rua Marcos Moro 72",
+        "ja": "クリチバ Rua Marcos Moro 72"
+      },
+      "body": {
+        "en": "Curitiba startups meetup on building with Grok Bot, founder lessons, and shipping ideas in the agent era (speakers TBA). Host approval required.",
+        "zh": "库里蒂巴创业场：用 Grok Bot 做事、创始人经验，以及智能体时代怎么把想法做出来（嘉宾待定）。需主办审核。",
+        "ja": "クリチバのスタートアップ向け。Grok Bot での作り方、創業者の知見、エージェント時代の出荷（登壇者は未定）。主催者承認が必要。"
       },
       "cta": {
         "en": "Apply on Luma (host approval)",
