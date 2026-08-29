@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-188-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-192-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -57,7 +57,6 @@
 - [Grok Bot Meetup Calgary](https://luma.com/cursor-coel) — Wed 30 Sep 2026, 17:30–20:30 (MDT). In-person Grok Bot meetup in Calgary.
 - [Grok Bot Meetup Sapporo #2](https://luma.com/91kju0je) — Fri 2 Oct 2026, 19:00–22:00 (JST). Second Sapporo Grok Bot meetup.
 - [Grok Bot Meetup Cumbayá](https://luma.com/cccumbaya) — Sat 3 Oct 2026, 09:30–12:00 (ECT). In-person Grok Bot meetup in Cumbayá.
-- [Grok Bot Meetup Chennai](https://luma.com/29amwgag) — Sat 29 Aug 2026, 11:00–14:00 (IST). In-person Grok Bot meetup in Chennai.
 - [Grok @bot builder demos (SF)](https://luma.com/p4rvaf0y) — Tue 1 Sep 2026, 18:00–20:00 (PDT). Builder demos for Grok Bot in San Francisco.
 - [Build with Grok Bot: Nijmegen](https://luma.com/fw7ovtge) — Wed 2 Sep 2026, 15:00–20:00 (CEST). Afternoon of building with Grok Bot in Nijmegen.
 - [Grok Bot Meetup Vadodara](https://luma.com/grokbot-vad-1) — Sat 5 Sep 2026, 10:00–13:00 (IST). In-person Grok Bot meetup in Vadodara.
@@ -126,6 +125,7 @@
 - [@bot: share Bot templates](https://x.com/bot/status/2093376523919323618) - Official 2026-08-28: you can now share templates of your Bots with others.
 - [@bot: Grok Bot can buy things](https://x.com/bot/status/2093419921007108385) - Official 2026-08-28: connect Stripe Link and Grok Bot can complete purchases on your behalf.
 - [Grok Bot on Google Play](https://play.google.com/store/apps/details?id=ai.x.grok.bot) - Official Google Play listing (updated 2026-08-28): Android shows Install, but Cursor help still says iOS-only, so treat this as a listing rather than confirmed Android GA.
+- [Sign in to Grok Bot](https://cursor.com/help/grok-bot/sign-in) - Official help: Grok Bot uses your Cursor account (no separate login); persistent auth loops or phone-verification blocks often need support after the listed retries.
 
 ## Tutorials & Guides
 
@@ -204,6 +204,8 @@
 - [steve228uk/grok-bot-shopping](https://github.com/steve228uk/grok-bot-shopping) - Shopping skills pack: merchant UCP/MCP, Shopify Shop CLI via npx, and Stripe Onelink; paste INSTALL.md into Grok Bot (2★).
 - [Thin Grok Bot, deep work on CLI](https://github.com/Luca-Blight/thin-grok-bot-deep-work-on-cli) - Skill that keeps the Grok Bot mesh thin and hands deep builds or investigations to Cursor CLI, Cursor cloud agents, or grok CLI.
 - [mykemueller1-ctrl/grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - Grok Bot pack for a restaurant social-commerce scout: agent profile, morning-scan/script/catalog skills, daily routine, and MCP connectors with a copy-paste SETUP.md.
+- [ShuhangGe/grokbot-queue](https://github.com/ShuhangGe/grokbot-queue) - CLI (gbq) that queues work onto your running Grok Bots over Tailscale/SSH so many cloud tasks share a ~400MB local footprint.
+- [3Fold-Labs/grok-bot-org-chart](https://github.com/3Fold-Labs/grok-bot-org-chart) - Permissions playbook and role-bot templates (Chief of Staff, Eng, Ops, and more) for running a small company as named Grok Bots on one shared computer.
 
 ## Reviews & Comparisons
 
@@ -233,10 +235,11 @@
 - [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - Wine-less Linux port of the official desktop app (Arch AUR packages); current release 0.30.0, WIP because xAI ships no Linux build.
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Unofficial TypeScript reconstruction of Grok Bot 0.18.0 for macOS, plus a local inference router experiment.
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - Community index of official Cursor-CDN Linux .deb/.rpm/AppImage URLs; does not host installers.
-- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.30.0, tested on Debian 12, Omarchy, Arch, and Mint (20★).
+- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.30.0, tested on Debian 12, Omarchy, Arch, and Mint (23★).
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - Open-source Grok Bot-shaped roster: named teammates, one durable computer, approvals, and routines (Rust/Tauri).
 - [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - Unofficial model picker for the official Grok Bot client: one model per agent, verified wire maps for Grok/Claude/GLM/Gemini/DeepSeek/local, keys stay on your machine (235★).
 - [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - Unofficial Ubuntu/Linux desktop port (deb / AppImage / tarball) that merges the official Windows app.asar onto Electron 42; current target 0.29.0 (18★).
+- [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - Omarchy bar plugin for the unofficial Linux Grok Bot client: running/idle/crash state, GitHub AppImage updates, and launch-or-focus.
 
 ## Community & Failure Modes
 
@@ -307,7 +310,7 @@
 
 ## Contributing
 
-188 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+192 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

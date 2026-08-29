@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-188-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-192-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -57,7 +57,6 @@
 - [Grok Bot Meetup Calgary](https://luma.com/cursor-coel) — 2026-09-30（水）17:30–20:30（MDT）. カルガリーの対面 Grok Bot。
 - [Grok Bot Meetup 札幌 #2](https://luma.com/91kju0je) — 2026-10-02（金）19:00–22:00（JST）. 札幌 2 回目の Grok Bot ミートアップ。
 - [Grok Bot Meetup Cumbayá](https://luma.com/cccumbaya) — 2026-10-03（土）09:30–12:00（ECT）. キト近郊 Cumbayá の対面 Grok Bot。
-- [Grok Bot Meetup Chennai](https://luma.com/29amwgag) — 2026-08-29（土）11:00–14:00（IST）. チェンナイの対面 Grok Bot。
 - [Grok @bot builder demos（SF）](https://luma.com/p4rvaf0y) — 2026-09-01（火）18:00–20:00（PDT）. サンフランシスコの Grok Bot ビルダーデモ。
 - [Build with Grok Bot: Nijmegen](https://luma.com/fw7ovtge) — 2026-09-02（水）15:00–20:00（CEST）. ナイメーヘンで午後いちから Grok Bot で作る会。
 - [Grok Bot Meetup Vadodara](https://luma.com/grokbot-vad-1) — 2026-09-05（土）10:00–13:00（IST）. ヴァドーダラーの対面 Grok Bot。
@@ -126,6 +125,7 @@
 - [@bot: share Bot templates](https://x.com/bot/status/2093376523919323618) - 公式 2026-08-28：Bot のテンプレートを他の人と共有できるようになった。
 - [@bot: Grok Bot can buy things](https://x.com/bot/status/2093419921007108385) - 公式 2026-08-28：Stripe Link を接続すると、Grok Bot が代わりに買い物を完了できる。
 - [Grok Bot on Google Play](https://play.google.com/store/apps/details?id=ai.x.grok.bot) - 公式 Google Play（2026-08-28 更新）。Install はあるが、Cursor ヘルプはまだ iOS のみと書いており、正式な Android GA とは断定しない。
+- [Sign in to Grok Bot](https://cursor.com/help/grok-bot/sign-in) - 公式ヘルプ。Grok Bot は Cursor アカウントで入り、別ログインはない。認証ループや電話認証ブロックは、記載の手順のあとサポートが必要。
 
 ## チュートリアルとガイド
 
@@ -204,6 +204,8 @@
 - [steve228uk/grok-bot-shopping](https://github.com/steve228uk/grok-bot-shopping) - 買い物スキル。merchant UCP/MCP、npx の Shopify Shop CLI、Stripe Onelink。INSTALL.md を貼る（2★）。
 - [Thin Grok Bot, deep work on CLI](https://github.com/Luca-Blight/thin-grok-bot-deep-work-on-cli) - Grok Bot のメッシュは薄く保ち、深いビルドや調査は Cursor CLI、クラウドエージェント、または grok CLI に渡すスキル。
 - [mykemueller1-ctrl/grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - レストランのソーシャル商用スカウト向け Grok Bot パック。エージェント設定、朝スキャン／脚本／カタログ技能、日次ルーチン、MCP、SETUP.md 付き。
+- [ShuhangGe/grokbot-queue](https://github.com/ShuhangGe/grokbot-queue) - Tailscale/SSH 経由で稼働中の Grok Bot に仕事を投げる CLI（gbq）。クラウド側で実行し、ローカルは約 400MB で頭打ち。
+- [3Fold-Labs/grok-bot-org-chart](https://github.com/3Fold-Labs/grok-bot-org-chart) - 1 台の共有パソコン上で役職 Bot を回すための権限プレイブックと CoS／Eng／Ops などのテンプレ。
 
 ## レビューと比較
 
@@ -233,10 +235,11 @@
 - [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - 公式デスクトップの Wine なし Linux 移植（Arch AUR）。現行リリース 0.30.0。公式に Linux 版がないため WIP。
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Grok Bot 0.18.0 macOS 版の非公式 TypeScript 再構成。ローカル推論ルータの実験付き。
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - Cursor CDN 上の公式 Linux パッケージ URL 一覧（deb/rpm/AppImage）。インストーラ自体は置かない。
-- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.30.0。Debian 12 / Omarchy / Arch / Mint で確認（20★）。
+- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.30.0。Debian 12 / Omarchy / Arch / Mint で確認（23★）。
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - Grok Bot 型の OSS。名前付きチームメイト、共有の永続コンピュータ、承認とルーチン（Rust/Tauri）。
 - [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 公式クライアント向け非公式モデルピッカー。エージェントごとに Grok/Claude/GLM/Gemini/DeepSeek/ローカルを切替。wire map は検証済み、鍵は手元（235★）。
 - [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - 非公式の Ubuntu/Linux 移植（deb / AppImage / tarball）。公式 Windows の app.asar を Electron 42 に載せる。現行ターゲット 0.29.0（18★）。
+- [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - 非公式 Linux クライアント向け Omarchy バープラグイン。起動／アイドル／クラッシュ表示、GitHub の AppImage 更新、起動またはフォーカス。
 
 ## コミュニティと障害事例
 
@@ -307,7 +310,7 @@
 
 ## 貢献
 
-8 セクションに 188 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 192 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

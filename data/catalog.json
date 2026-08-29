@@ -324,6 +324,16 @@
             "zh": "官方 Google Play 页（2026-08-28 更新）：Android 已能点安装，但 Cursor 帮助仍写仅 iOS，先当上架页，不要当成已正式开放。",
             "ja": "公式 Google Play（2026-08-28 更新）。Install はあるが、Cursor ヘルプはまだ iOS のみと書いており、正式な Android GA とは断定しない。"
           }
+        },
+        {
+          "title": "Sign in to Grok Bot",
+          "url": "https://cursor.com/help/grok-bot/sign-in",
+          "source": "day-20260829-1804",
+          "blurb": {
+            "en": "Official help: Grok Bot uses your Cursor account (no separate login); persistent auth loops or phone-verification blocks often need support after the listed retries.",
+            "zh": "官方帮助：Grok Bot 用你的 Cursor 账号，没有单独登录；反复重登仍卡认证或手机验证封号时，按页上步骤试过后要找支持。",
+            "ja": "公式ヘルプ。Grok Bot は Cursor アカウントで入り、別ログインはない。認証ループや電話認証ブロックは、記載の手順のあとサポートが必要。"
+          }
         }
       ]
     },
@@ -1044,6 +1054,26 @@
             "zh": "餐厅社媒带货侦察用的 Grok Bot 配置包：代理人设、早间扫描/脚本/目录技能、每日例行，以及可粘贴的 SETUP.md 与 MCP 连接器。",
             "ja": "レストランのソーシャル商用スカウト向け Grok Bot パック。エージェント設定、朝スキャン／脚本／カタログ技能、日次ルーチン、MCP、SETUP.md 付き。"
           }
+        },
+        {
+          "title": "ShuhangGe/grokbot-queue",
+          "url": "https://github.com/ShuhangGe/grokbot-queue",
+          "source": "day-20260829-1804",
+          "blurb": {
+            "en": "CLI (gbq) that queues work onto your running Grok Bots over Tailscale/SSH so many cloud tasks share a ~400MB local footprint.",
+            "zh": "gbq 命令行：经 Tailscale/SSH 把任务派给正在跑的 Grok Bot，云端干活，本机内存大约固定 400MB。",
+            "ja": "Tailscale/SSH 経由で稼働中の Grok Bot に仕事を投げる CLI（gbq）。クラウド側で実行し、ローカルは約 400MB で頭打ち。"
+          }
+        },
+        {
+          "title": "3Fold-Labs/grok-bot-org-chart",
+          "url": "https://github.com/3Fold-Labs/grok-bot-org-chart",
+          "source": "day-20260829-1804",
+          "blurb": {
+            "en": "Permissions playbook and role-bot templates (Chief of Staff, Eng, Ops, and more) for running a small company as named Grok Bots on one shared computer.",
+            "zh": "把小公司做成共享电脑上的角色 Bot：权限问答、批准清单和 CoS/工程/运营等人设模板。",
+            "ja": "1 台の共有パソコン上で役職 Bot を回すための権限プレイブックと CoS／Eng／Ops などのテンプレ。"
+          }
         }
       ]
     },
@@ -1300,9 +1330,9 @@
           "url": "https://github.com/glorics/grok-bot-linux",
           "source": "day-20260827",
           "blurb": {
-            "en": "Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.30.0, tested on Debian 12, Omarchy, Arch, and Mint (20★).",
-            "zh": "非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.30.0，Debian 12、Omarchy、Arch、Mint 测过（20★）。",
-            "ja": "公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.30.0。Debian 12 / Omarchy / Arch / Mint で確認（20★）。"
+            "en": "Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.30.0, tested on Debian 12, Omarchy, Arch, and Mint (23★).",
+            "zh": "非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.30.0，Debian 12、Omarchy、Arch、Mint 测过（23★）。",
+            "ja": "公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.30.0。Debian 12 / Omarchy / Arch / Mint で確認（23★）。"
           }
         },
         {
@@ -1333,6 +1363,16 @@
             "en": "Unofficial Ubuntu/Linux desktop port (deb / AppImage / tarball) that merges the official Windows app.asar onto Electron 42; current target 0.29.0 (18★).",
             "zh": "非官方 Ubuntu/Linux 桌面移植（deb / AppImage / tarball），把官方 Windows app.asar 接到 Electron 42；当前目标 0.29.0（18★）。",
             "ja": "非公式の Ubuntu/Linux 移植（deb / AppImage / tarball）。公式 Windows の app.asar を Electron 42 に載せる。現行ターゲット 0.29.0（18★）。"
+          }
+        },
+        {
+          "title": "glorics/omarchy-grok-bot",
+          "url": "https://github.com/glorics/omarchy-grok-bot",
+          "source": "day-20260829-1804",
+          "blurb": {
+            "en": "Omarchy bar plugin for the unofficial Linux Grok Bot client: running/idle/crash state, GitHub AppImage updates, and launch-or-focus.",
+            "zh": "非官方 Linux 客户端的 Omarchy 顶栏插件：显示运行/空闲/崩溃、检查 GitHub 上的新 AppImage，以及启动或切到前台。",
+            "ja": "非公式 Linux クライアント向け Omarchy バープラグイン。起動／アイドル／クラッシュ表示、GitHub の AppImage 更新、起動またはフォーカス。"
           }
         }
       ]

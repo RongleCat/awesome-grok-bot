@@ -46,8 +46,6 @@
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cccumbaya"><img src="./assets/events/cumb-20261003-cover.png" alt="Grok Bot 昆巴亚线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 昆巴亚线下交流</strong><br />2026-10-03 周六 09:30–12:00（厄瓜多尔）<br />基多郊区 Cumbayá<br /><br />基多郊区 Cumbayá 线下 Grok Bot。免费，可候补，还剩 37 个名额。<br /><br /><a href="https://luma.com/cccumbaya"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<table><tr><td width="320" valign="top"><a href="https://luma.com/29amwgag"><img src="./assets/events/maa-20260829-cover.png" alt="Grok Bot 钦奈线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 钦奈线下交流</strong><br />2026-08-29 周六 11:00–14:00（钦奈）<br />钦奈 · 报名通过后可见地址<br /><br />钦奈线下 Grok Bot。需主办审核。<br /><br /><a href="https://luma.com/29amwgag"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
 <table><tr><td width="320" valign="top"><a href="https://luma.com/p4rvaf0y"><img src="./assets/events/sfb-20260901-cover.png" alt="旧金山 Grok @bot 构建演示" width="300" /></a></td><td valign="top"><strong>旧金山 Grok @bot 构建演示</strong><br />2026-09-01 周二 18:00–20:00（旧金山）<br />旧金山 Yerba Buena · 报名通过后可见地址<br /><br />旧金山 Grok Bot 构建演示。需审核，可候补。<br /><br /><a href="https://luma.com/p4rvaf0y"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/fw7ovtge"><img src="./assets/events/nij-20260902-cover.png" alt="Grok Bot 奈梅亨共建" width="300" /></a></td><td valign="top"><strong>Grok Bot 奈梅亨共建</strong><br />2026-09-02 周三 15:00–20:00（荷兰）<br />奈梅亨 StartUp Nijmegen, Stationsplein 26<br /><br />奈梅亨下午一起用 Grok Bot 做东西。开放报名。<br /><br /><a href="https://luma.com/fw7ovtge"><strong>去 Luma 报名 →</strong></a></td></tr></table>

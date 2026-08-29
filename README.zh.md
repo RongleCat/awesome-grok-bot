@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-188-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-192-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -57,7 +57,6 @@
 - [Grok Bot 卡尔加里线下交流](https://luma.com/cursor-coel) — 2026-09-30 周三 17:30–20:30（卡尔加里）. 卡尔加里线下 Grok Bot。
 - [Grok Bot 札幌线下交流 #2](https://luma.com/91kju0je) — 2026-10-02 周五 19:00–22:00（札幌）. 札幌第二场 Grok Bot 线下。
 - [Grok Bot 昆巴亚线下交流](https://luma.com/cccumbaya) — 2026-10-03 周六 09:30–12:00（厄瓜多尔）. 基多郊区 Cumbayá 线下 Grok Bot。
-- [Grok Bot 钦奈线下交流](https://luma.com/29amwgag) — 2026-08-29 周六 11:00–14:00（钦奈）. 钦奈线下 Grok Bot。
 - [旧金山 Grok @bot 构建演示](https://luma.com/p4rvaf0y) — 2026-09-01 周二 18:00–20:00（旧金山）. 旧金山 Grok Bot 构建演示。
 - [Grok Bot 奈梅亨共建](https://luma.com/fw7ovtge) — 2026-09-02 周三 15:00–20:00（荷兰）. 奈梅亨下午一起用 Grok Bot 做东西。
 - [Grok Bot 巴罗达线下交流](https://luma.com/grokbot-vad-1) — 2026-09-05 周六 10:00–13:00（巴罗达）. 巴罗达线下 Grok Bot。
@@ -126,6 +125,7 @@
 - [@bot: share Bot templates](https://x.com/bot/status/2093376523919323618) - 官方 2026-08-28：可以把 Bot 模板分享给别人。.
 - [@bot: Grok Bot can buy things](https://x.com/bot/status/2093419921007108385) - 官方 2026-08-28：连上 Stripe Link 后，Grok Bot 可以替你完成网购付款。.
 - [Grok Bot on Google Play](https://play.google.com/store/apps/details?id=ai.x.grok.bot) - 官方 Google Play 页（2026-08-28 更新）：Android 已能点安装，但 Cursor 帮助仍写仅 iOS，先当上架页，不要当成已正式开放。.
+- [Sign in to Grok Bot](https://cursor.com/help/grok-bot/sign-in) - 官方帮助：Grok Bot 用你的 Cursor 账号，没有单独登录；反复重登仍卡认证或手机验证封号时，按页上步骤试过后要找支持。.
 
 ## 教程与上手指南
 
@@ -204,6 +204,8 @@
 - [steve228uk/grok-bot-shopping](https://github.com/steve228uk/grok-bot-shopping) - 购物技能包：商家 UCP/MCP、用 npx 跑 Shopify Shop CLI、Stripe Onelink；把 INSTALL.md 贴给 Grok Bot 即可（2★）。.
 - [Thin Grok Bot, deep work on CLI](https://github.com/Luca-Blight/thin-grok-bot-deep-work-on-cli) - 技能：把 Grok Bot 网格留薄，把深度构建和排查交给 Cursor CLI、云 Agent 或 grok CLI。.
 - [mykemueller1-ctrl/grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - 餐厅社媒带货侦察用的 Grok Bot 配置包：代理人设、早间扫描/脚本/目录技能、每日例行，以及可粘贴的 SETUP.md 与 MCP 连接器。.
+- [ShuhangGe/grokbot-queue](https://github.com/ShuhangGe/grokbot-queue) - gbq 命令行：经 Tailscale/SSH 把任务派给正在跑的 Grok Bot，云端干活，本机内存大约固定 400MB。.
+- [3Fold-Labs/grok-bot-org-chart](https://github.com/3Fold-Labs/grok-bot-org-chart) - 把小公司做成共享电脑上的角色 Bot：权限问答、批准清单和 CoS/工程/运营等人设模板。.
 
 ## 评测与对比
 
@@ -233,10 +235,11 @@
 - [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - 官方桌面端无 Wine 的 Linux 移植（Arch AUR）；当前发布 0.30.0，官方没发 Linux，所以还是 WIP。.
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - 非官方把 Grok Bot 0.18.0 macOS 端用 TypeScript 重构成可读源码，还带本地推理路由实验。.
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - 社区整理的官方 Cursor CDN Linux 包链接（deb/rpm/AppImage），本身不托管安装包。.
-- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.30.0，Debian 12、Omarchy、Arch、Mint 测过（20★）。.
+- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.30.0，Debian 12、Omarchy、Arch、Mint 测过（23★）。.
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - 开源的 Grok Bot 形态花名册：命名队友、共用一台持久电脑、审批和例行任务（Rust/Tauri）。.
 - [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 非官方模型选择器：给官方客户端每个 Agent 换模型，Grok/Claude/GLM/Gemini/DeepSeek/本地有核过的 wire map，密钥不出本机（235★）。.
 - [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - 非官方 Ubuntu/Linux 桌面移植（deb / AppImage / tarball），把官方 Windows app.asar 接到 Electron 42；当前目标 0.29.0（18★）。.
+- [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - 非官方 Linux 客户端的 Omarchy 顶栏插件：显示运行/空闲/崩溃、检查 GitHub 上的新 AppImage，以及启动或切到前台。.
 
 ## 社区与故障现场
 
@@ -307,7 +310,7 @@
 
 ## 贡献
 
-目前 8 个分类、188 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、192 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
