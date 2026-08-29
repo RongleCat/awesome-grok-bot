@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-165-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-172-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -98,7 +98,7 @@
 - [Get started](https://docs.x.ai/grok-bot/get-started) - 装桌面端、用 Cursor 登录、建第一个 Bot。官方无 Linux 桌面。.
 - [Use cases](https://docs.x.ai/grok-bot/use-cases) - 官方编制示例：销售夜间更 CRM、运营发票入职、工程复现 Bug。.
 - [Grok Bot for iOS](https://docs.x.ai/grok-bot/mobile) - iOS 同伴 App：在手机上给仍在云电脑上干活的 Bot 发消息。.
-- [Create and manage Bots](https://docs.x.ai/grok-bot/bots) - 怎么给 Bot 起名、定工种，把它当常驻同事而不是话题线程。.
+- [Create and manage Bots](https://docs.x.ai/grok-bot/bots) - 怎么给 Bot 起名定岗；新增公开分享链接，会复制人设、技能和例程（不含你的电脑和登录）。.
 - [Message and collaborate](https://docs.x.ai/grok-bot/chat-and-collaboration) - Bot 互发消息、进群聊、互相派活和认领。.
 - [Files and results](https://docs.x.ai/grok-bot/files-and-results) - 产物落在共享电脑哪里，以及怎么把结果拿回来。.
 - [Use the computer and apps](https://docs.x.ai/grok-bot/computer-and-apps) - 浏览器、文件系统、终端。没有干净 API 就用云浏览器点。.
@@ -113,7 +113,7 @@
 - [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - 优先插件；没有连接器就退回云浏览器。.
 - [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - 密钥走 secret card，禁止把 Key 贴进聊天。.
 - [Recover Grok Bot computer data](https://cursor.com/help/grok-bot/computer-recovery) - 官方恢复说明：对话在云电脑文件系统之外；重开盒子会灌回已同步文件，Reset 是最后手段。.
-- [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - 官方计费问答：付费 Cursor 个人档和 Teams 都带 Grok Bot（Pro < Pro+ < Ultra）；SuperGrok / Plus / Heavy 也能开通；周用量会重置。.
+- [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - 官方账单：付费 Cursor 和 Teams 都带 Grok Bot（Pro < Pro+ < Ultra）；SuperGrok / Plus / Heavy 能关联，Lite 和 SuperGrok Team/Enterprise 不能；周额度会重置；旧版按次计费要先切按用量。.
 - [Grok Bot on the App Store](https://apps.apple.com/us/app/grok-bot/id6794501026) - 官方 iOS 同伴 App 商店页。.
 - [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) - 官方 .grok-plugin 市场；Grok Bot 沿用 Cursor 插件政策。.
 - [@bot: SuperGrok and Cursor Pro get Grok Bot; weekly usage reset](https://x.com/bot/status/2092664183334846840) - 官方 2026-08-26：所有 SuperGrok 和 Cursor Pro 订阅者开通 Grok Bot，并给全员重置了周用量。.
@@ -137,6 +137,7 @@
 - [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book) - 中文橙皮书（约 1.6 万字）：上线头两周的多 Bot 协作、Routine 和省钱玩法。.
 - [John Bai — The Grok Bot design journey (Dive Club)](https://www.youtube.com/watch?v=E-VxnQO73s4) - Grok Bot 设计师 John Bai 复盘最早的原型，以及后来做成现在这款产品的取舍。.
 - [yuanyijie/learn-grok-bot](https://github.com/yuanyijie/learn-grok-bot) - 非官方 16 课：拆 Grok Bot 桌面 Agent 的产品壳——Electron 分层、回合环、推理路由、沙箱、MCP、自动化。.
+- [A deep dive into Grok Bot](https://flaviocopes.com/grok-bot/) - Flavio Copes 2026-08-28 长文：共享云电脑、技能变例程、分享模板、Stripe Link 付款审批，以及什么时候该写脚本而不是用 Bot。.
 
 ## 真实使用案例
 
@@ -218,9 +219,9 @@
 - [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - 官方桌面端无 Wine 的 Linux 移植（Arch AUR）；官方没发 Linux，所以还是 WIP。.
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - 非官方把 Grok Bot 0.18.0 macOS 端用 TypeScript 重构成可读源码，还带本地推理路由实验。.
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - 社区整理的官方 Cursor CDN Linux 包链接（deb/rpm/AppImage），本身不托管安装包。.
-- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.29.0，Debian 12 和 Arch 测过。.
+- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.30.0，Debian 12、Omarchy、Arch、Mint 测过（20★）。.
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - 开源的 Grok Bot 形态花名册：命名队友、共用一台持久电脑、审批和例行任务（Rust/Tauri）。.
-- [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 非官方模型选择器：给官方客户端每个 Agent 换模型，Grok/Claude/GLM/Gemini/DeepSeek/本地有核过的 wire map，密钥不出本机（33★）。.
+- [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 非官方模型选择器：给官方客户端每个 Agent 换模型，Grok/Claude/GLM/Gemini/DeepSeek/本地有核过的 wire map，密钥不出本机（235★）。.
 
 ## 社区与故障现场
 
@@ -260,6 +261,12 @@
 - [Webhook URL and sender key are desktop-only, not on iOS](https://forum.cursor.com/t/webhook-url-missing-on-ios/169589) - 官方：webhook 例程的 POST 地址和 sender key 只在桌面端例程卡片上，iOS 看不到；去桌面端打开（先更新客户端）。.
 - [Official X plugin auth is broken on desktop, Cloud, and Grok Bot](https://forum.cursor.com/t/official-x-plugin-auth-is-broken-on-cursor-cloud-grok-bot-and-desktop-refresh/169592) - 官方：官方 X 插件在桌面、Cloud Agent 和 Grok Bot 上连接/刷新都坏（含已连接但 tools=0）；他们在改 X 侧应用配置，目前没有干净绕法。.
 - [Weekly Grok Bot usage can spill into paid On-Demand with no warning](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - 用户：周额度到 100%（有人说更早）后 Grok Bot 会无提示打进共享 On-Demand，看板也不标明是 Grok Bot 花的。.
+- [Pro weekly pool is separate; overflow hits shared On-Demand](https://forum.cursor.com/t/grok-bot-spend-cursor-usage-i-cant-accept-it/169796) - 官方更正：Pro 上 Grok Bot 有独立的每周包含额度（和 Cursor 计划用量分开）；用完后仍会打进共享 On-Demand，不想付费就把 On-Demand 上限设成 $0。.
+- [Access is live for paid plans, not legacy request-based](https://forum.cursor.com/t/cursor-says-grok-bot-is-included-with-pro-now-do-you-actually-have-access-yet/169808) - 官方：所有付费个人套餐（Pro / Pro+ / Ultra）和自助 Teams 已全开，没有按比例或地区放量；旧版按次计费套餐要先切到按用量才有。.
+- [Gmail plugin OAuth is broken; authorize from Cursor](https://forum.cursor.com/t/grok-bot-unable-to-authenticate-via-gmail-plugin/169782) - 官方：Grok Bot 的 Gmail 插件 OAuth 坏了；先在 Cursor 里授权 Gmail（另一条通路），连接会共享给 Grok Bot，等插件修好。.
+- [iOS 1.3.2 sends a question list on the first tap](https://forum.cursor.com/t/multiple-choice-list-doesn-t-work-on-grok-bot-mobile/169830) - 官方：iOS 1.3.2 点选择题立刻就发出去；要先多选再发送得升级到更新的 App。.
+- [Grok-launched agents hide behind the Source filter](https://forum.cursor.com/t/grok-bot-open-cloud-agent-cards-in-the-browser-and-show-grok-launched-agents-on-agents/169754) - 官方：Grok Bot 拉起的云 Agent 其实在 cursor.com/agents 里，打开筛选 Source → Grok Bot；中键点 Open in Cursor 会在浏览器打开。.
+- [Days-long “Can’t reach your computer” needs a staff restore](https://forum.cursor.com/t/grok-bot-can-t-reach-your-computer-for-48-hours/169450) - 官方：连续多日「Can't reach your computer」可以是服务端电脑卡死，Reset / Recover / 重装都清不掉，得等官方在后端拉起来，再彻底退出重开。.
 
 ## 相关列表
 
@@ -278,7 +285,7 @@
 
 ## 贡献
 
-目前 8 个分类、165 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、172 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

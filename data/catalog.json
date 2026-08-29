@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -110,9 +110,9 @@
           "url": "https://docs.x.ai/grok-bot/bots",
           "source": "GB-007",
           "blurb": {
-            "en": "How a Bot is named, scoped, and kept as a standing coworker instead of a chat thread.",
-            "zh": "怎么给 Bot 起名、定工种，把它当常驻同事而不是话题线程。",
-            "ja": "Bot の命名と担当範囲の決め方、チャットスレッドではなく常駐の同僚として置く方法。"
+            "en": "How a Bot is named and scoped, plus the public share link that copies identity, skills, and routines (not your computer or logins).",
+            "zh": "怎么给 Bot 起名定岗；新增公开分享链接，会复制人设、技能和例程（不含你的电脑和登录）。",
+            "ja": "Bot の名前と役割の付け方。公開シェアリンクで人設・スキル・ルーチンをコピーする（パソコンとログインは含まれない）。"
           }
         },
         {
@@ -260,9 +260,9 @@
           "url": "https://cursor.com/help/grok-bot/plans",
           "source": "day-20260827",
           "blurb": {
-            "en": "Official billing FAQ: every paid Cursor plan and Teams includes Grok Bot (Pro below Pro+ below Ultra); SuperGrok / Plus / Heavy also grant it; weekly usage resets.",
-            "zh": "官方计费问答：付费 Cursor 个人档和 Teams 都带 Grok Bot（Pro < Pro+ < Ultra）；SuperGrok / Plus / Heavy 也能开通；周用量会重置。",
-            "ja": "公式の課金 FAQ。有料の Cursor 個人プランと Teams は Grok Bot 付き（Pro < Pro+ < Ultra）。SuperGrok / Plus / Heavy でも使える。週次枠はリセットされる。"
+            "en": "Official billing FAQ: paid Cursor plans and Teams include Grok Bot (Pro below Pro+ below Ultra); SuperGrok / Plus / Heavy can link, Lite and SuperGrok Team/Enterprise cannot; weekly usage resets; legacy request-based pricing is excluded unless you opt into usage-based.",
+            "zh": "官方账单：付费 Cursor 和 Teams 都带 Grok Bot（Pro < Pro+ < Ultra）；SuperGrok / Plus / Heavy 能关联，Lite 和 SuperGrok Team/Enterprise 不能；周额度会重置；旧版按次计费要先切按用量。",
+            "ja": "公式の課金 FAQ。有料 Cursor と Teams に Grok Bot が付く（Pro < Pro+ < Ultra）。SuperGrok / Plus / Heavy はリンク可、Lite と SuperGrok Team/Enterprise は不可。週次リセット。旧リクエスト課金は従量に切り替えが必要。"
           }
         },
         {
@@ -473,6 +473,16 @@
             "en": "Unofficial 16-lesson course on Grok Bot’s desktop-agent harness: Electron planes, turn loop, inference router, sandbox, MCP, automations.",
             "zh": "非官方 16 课：拆 Grok Bot 桌面 Agent 的产品壳——Electron 分层、回合环、推理路由、沙箱、MCP、自动化。",
             "ja": "非公式 16 レッスン。Grok Bot デスクトップ Agent のハーネス（Electron、ターンループ、推論ルータ、サンドボックス、MCP、自動化）を学ぶ。"
+          }
+        },
+        {
+          "title": "A deep dive into Grok Bot",
+          "url": "https://flaviocopes.com/grok-bot/",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Flavio Copes’ 2026-08-28 deep dive: shared computer, skills to routines, share-as-template, Stripe Link spend requests, and when a script beats a Bot.",
+            "zh": "Flavio Copes 2026-08-28 长文：共享云电脑、技能变例程、分享模板、Stripe Link 付款审批，以及什么时候该写脚本而不是用 Bot。",
+            "ja": "Flavio Copes の 2026-08-28 深掘り。共有パソコン、スキルからルーチン、テンプレート共有、Stripe Link の支出承認、スクリプトの方がよい場合。"
           }
         }
       ]
@@ -1210,9 +1220,9 @@
           "url": "https://github.com/glorics/grok-bot-linux",
           "source": "day-20260827",
           "blurb": {
-            "en": "Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.29.0, tested on Debian 12 and Arch.",
-            "zh": "非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.29.0，Debian 12 和 Arch 测过。",
-            "ja": "公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.29.0。Debian 12 と Arch で確認。"
+            "en": "Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.30.0, tested on Debian 12, Omarchy, Arch, and Mint (20★).",
+            "zh": "非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.30.0，Debian 12、Omarchy、Arch、Mint 测过（20★）。",
+            "ja": "公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.30.0。Debian 12 / Omarchy / Arch / Mint で確認（20★）。"
           }
         },
         {
@@ -1230,9 +1240,9 @@
           "url": "https://github.com/OnlyTerp/opengrok",
           "source": "day-20260828",
           "blurb": {
-            "en": "Unofficial model picker for the official Grok Bot client: one model per agent, verified wire maps for Grok/Claude/GLM/Gemini/DeepSeek/local, keys stay on your machine (33★).",
-            "zh": "非官方模型选择器：给官方客户端每个 Agent 换模型，Grok/Claude/GLM/Gemini/DeepSeek/本地有核过的 wire map，密钥不出本机（33★）。",
-            "ja": "公式クライアント向け非公式モデルピッカー。エージェントごとに Grok/Claude/GLM/Gemini/DeepSeek/ローカルを切替。wire map は検証済み、鍵は手元（33★）。"
+            "en": "Unofficial model picker for the official Grok Bot client: one model per agent, verified wire maps for Grok/Claude/GLM/Gemini/DeepSeek/local, keys stay on your machine (235★).",
+            "zh": "非官方模型选择器：给官方客户端每个 Agent 换模型，Grok/Claude/GLM/Gemini/DeepSeek/本地有核过的 wire map，密钥不出本机（235★）。",
+            "ja": "公式クライアント向け非公式モデルピッカー。エージェントごとに Grok/Claude/GLM/Gemini/DeepSeek/ローカルを切替。wire map は検証済み、鍵は手元（235★）。"
           }
         }
       ]
@@ -1603,6 +1613,66 @@
             "en": "Users: Grok Bot can keep running after the weekly included meter hits 100% (and sometimes earlier) and bill the shared On-Demand pool with no in-app warning; the dashboard also does not label Grok Bot as the source.",
             "zh": "用户：周额度到 100%（有人说更早）后 Grok Bot 会无提示打进共享 On-Demand，看板也不标明是 Grok Bot 花的。",
             "ja": "ユーザー報告：週次枠が 100%（より早い例もあり）を超えても警告なく共有 On-Demand に課金される。ダッシュボードも Grok Bot 由来と表示しない。"
+          }
+        },
+        {
+          "title": "Pro weekly pool is separate; overflow hits shared On-Demand",
+          "url": "https://forum.cursor.com/t/grok-bot-spend-cursor-usage-i-cant-accept-it/169796",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Staff correction: on Pro, Grok Bot has its own included weekly pool, separate from Cursor plan usage; overflow still bills the shared On-Demand pool, so set a $0 On-Demand cap if you want no paid spill.",
+            "zh": "官方更正：Pro 上 Grok Bot 有独立的每周包含额度（和 Cursor 计划用量分开）；用完后仍会打进共享 On-Demand，不想付费就把 On-Demand 上限设成 $0。",
+            "ja": "公式訂正：Pro では Grok Bot に Cursor プランとは別の週次枠がある。枠を使い切ると共有 On-Demand に流れ、課金したくなければ上限を $0 にする。"
+          }
+        },
+        {
+          "title": "Access is live for paid plans, not legacy request-based",
+          "url": "https://forum.cursor.com/t/cursor-says-grok-bot-is-included-with-pro-now-do-you-actually-have-access-yet/169808",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Staff: Grok Bot is live for all paid individual plans (Pro / Pro+ / Ultra) and self-serve Teams with no percent or region rollout; legacy request-based pricing does not get it unless you opt into usage-based.",
+            "zh": "官方：所有付费个人套餐（Pro / Pro+ / Ultra）和自助 Teams 已全开，没有按比例或地区放量；旧版按次计费套餐要先切到按用量才有。",
+            "ja": "公式：有料個人プラン（Pro / Pro+ / Ultra）とセルフサーブ Teams は全開で地域段階なし。旧リクエスト課金は従量に切り替えないと使えない。"
+          }
+        },
+        {
+          "title": "Gmail plugin OAuth is broken; authorize from Cursor",
+          "url": "https://forum.cursor.com/t/grok-bot-unable-to-authenticate-via-gmail-plugin/169782",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Staff: the Grok Bot Gmail plugin OAuth is broken; authorizing Gmail from Cursor uses a different path and the connection is shared with Grok Bot until the plugin is fixed.",
+            "zh": "官方：Grok Bot 的 Gmail 插件 OAuth 坏了；先在 Cursor 里授权 Gmail（另一条通路），连接会共享给 Grok Bot，等插件修好。",
+            "ja": "公式：Grok Bot の Gmail プラグイン OAuth が壊れている。Cursor 側で Gmail を認可すれば別経路で接続が共有される。"
+          }
+        },
+        {
+          "title": "iOS 1.3.2 sends a question list on the first tap",
+          "url": "https://forum.cursor.com/t/multiple-choice-list-doesn-t-work-on-grok-bot-mobile/169830",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Staff: iOS 1.3.2 sends a question list as soon as you tap one option; multi-select before send needs a newer Grok Bot app build.",
+            "zh": "官方：iOS 1.3.2 点选择题立刻就发出去；要先多选再发送得升级到更新的 App。",
+            "ja": "公式：iOS 1.3.2 は選択肢をタップした瞬間に送信する。複数選んでから送るには新しいアプリが必要。"
+          }
+        },
+        {
+          "title": "Grok-launched agents hide behind the Source filter",
+          "url": "https://forum.cursor.com/t/grok-bot-open-cloud-agent-cards-in-the-browser-and-show-grok-launched-agents-on-agents/169754",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Staff: Grok-launched cloud agents do appear on cursor.com/agents — enable the Source → Grok Bot filter; middle-click “Open in Cursor” opens the same agent in the browser.",
+            "zh": "官方：Grok Bot 拉起的云 Agent 其实在 cursor.com/agents 里，打开筛选 Source → Grok Bot；中键点 Open in Cursor 会在浏览器打开。",
+            "ja": "公式：Grok Bot が起動したクラウド Agent は cursor.com/agents にある。フィルタで Source → Grok Bot をオンに。中クリックの Open in Cursor はブラウザで開く。"
+          }
+        },
+        {
+          "title": "Days-long “Can’t reach your computer” needs a staff restore",
+          "url": "https://forum.cursor.com/t/grok-bot-can-t-reach-your-computer-for-48-hours/169450",
+          "source": "day-20260829",
+          "blurb": {
+            "en": "Staff: a days-long “Can’t reach your computer” can be a stuck hosted box that Reset / Recover / reinstall cannot clear; staff restores it on their side, then fully quit and reopen the app.",
+            "zh": "官方：连续多日「Can't reach your computer」可以是服务端电脑卡死，Reset / Recover / 重装都清不掉，得等官方在后端拉起来，再彻底退出重开。",
+            "ja": "公式：数日続く “Can’t reach your computer” はホスト側の固まりで、Reset / Recover / 再インストールでは直らない。スタッフが復旧したらアプリを完全終了して開き直す。"
           }
         }
       ]
