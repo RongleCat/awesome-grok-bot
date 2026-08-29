@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-181-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-183-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -196,11 +196,13 @@
 - [Grok Bot Telegram bridge](https://github.com/SSBrouhard/grokbot-telegram-bridge) - 非官方 Telegram 网关：跑在 Grok Bot 云电脑里，只跟本机 Sand 网关走回环。.
 - [grok-wechat-plugin](https://github.com/little-thing/grok-wechat-plugin) - 非官方微信 iLink 渠道：入站消息走 webhook 唤醒 Grok Bot 例程。.
 - [grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli) - 复用已登录 macOS Grok Bot 应用，在终端列出、创建、给队友发消息。.
+- [grokbot-tui](https://github.com/smarzban/grokbot-tui) - 非官方终端 TUI：走 Grok Bot 主机网关，在你已经在用的终端里和 Bot、频道聊天。.
 - [grok-bot-skill](https://github.com/adamanz/grok-bot-skill) - Cursor/Claude 技能，让编程助手能列出、对话、创建 Grok Bot 队友。.
 - [budezllc/dictate-capture](https://github.com/budezllc/dictate-capture) - Windows 辅助：按住 Ctrl+D 对着 Grok Bot 说话，再拖一个金框就能贴截图。.
 - [HAEGONG/grok-bot-profiles](https://github.com/HAEGONG/grok-bot-profiles) - 可粘贴的 Grok Bot 人设：规格、复现、实现、验收分开，Bot 不能给自己过审。.
 - [adam91holt/grokbot-sdk](https://github.com/adam91holt/grokbot-sdk) - 给正在跑的 Grok Bot 主机用的 TypeScript SDK：类型化本地 HTTP 网关客户端，外加 sand-data 磁盘读取（6★，MIT）。.
 - [steve228uk/grok-bot-shopping](https://github.com/steve228uk/grok-bot-shopping) - 购物技能包：商家 UCP/MCP、用 npx 跑 Shopify Shop CLI、Stripe Onelink；把 INSTALL.md 贴给 Grok Bot 即可（2★）。.
+- [Thin Grok Bot, deep work on CLI](https://github.com/Luca-Blight/thin-grok-bot-deep-work-on-cli) - 技能：把 Grok Bot 网格留薄，把深度构建和排查交给 Cursor CLI、云 Agent 或 grok CLI。.
 
 ## 评测与对比
 
@@ -300,7 +302,7 @@
 
 ## 贡献
 
-目前 8 个分类、181 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、183 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

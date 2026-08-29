@@ -966,6 +966,16 @@
           }
         },
         {
+          "title": "grokbot-tui",
+          "url": "https://github.com/smarzban/grokbot-tui",
+          "source": "pr-2-20260829",
+          "blurb": {
+            "en": "Unofficial terminal TUI that talks to the Grok Bot host gateway so you can chat with bots and channels from the terminal.",
+            "zh": "非官方终端 TUI：走 Grok Bot 主机网关，在你已经在用的终端里和 Bot、频道聊天。",
+            "ja": "非公式の端末 TUI。Grok Bot ホストゲートウェイ経由で、いつものターミナルから Bot とチャンネルにチャットする。"
+          }
+        },
+        {
           "title": "grok-bot-skill",
           "url": "https://github.com/adamanz/grok-bot-skill",
           "source": "day-20260823",
@@ -1013,6 +1023,16 @@
             "en": "Shopping skills pack: merchant UCP/MCP, Shopify Shop CLI via npx, and Stripe Onelink; paste INSTALL.md into Grok Bot (2★).",
             "zh": "购物技能包：商家 UCP/MCP、用 npx 跑 Shopify Shop CLI、Stripe Onelink；把 INSTALL.md 贴给 Grok Bot 即可（2★）。",
             "ja": "買い物スキル。merchant UCP/MCP、npx の Shopify Shop CLI、Stripe Onelink。INSTALL.md を貼る（2★）。"
+          }
+        },
+        {
+          "title": "Thin Grok Bot, deep work on CLI",
+          "url": "https://github.com/Luca-Blight/thin-grok-bot-deep-work-on-cli",
+          "source": "pr-3-20260829",
+          "blurb": {
+            "en": "Skill that keeps the Grok Bot mesh thin and hands deep builds or investigations to Cursor CLI, Cursor cloud agents, or grok CLI.",
+            "zh": "技能：把 Grok Bot 网格留薄，把深度构建和排查交给 Cursor CLI、云 Agent 或 grok CLI。",
+            "ja": "Grok Bot のメッシュは薄く保ち、深いビルドや調査は Cursor CLI、クラウドエージェント、または grok CLI に渡すスキル。"
           }
         }
       ]

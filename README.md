@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-181-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-183-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -196,11 +196,13 @@
 - [Grok Bot Telegram bridge](https://github.com/SSBrouhard/grokbot-telegram-bridge) - Unofficial Telegram gateway that runs on the Grok Bot computer and talks to the local Sand gateway on loopback only.
 - [grok-wechat-plugin](https://github.com/little-thing/grok-wechat-plugin) - Unofficial WeChat iLink channel: inbound messages wake a Grok Bot routine over webhook.
 - [grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli) - Terminal CLI that reuses the signed-in macOS Grok Bot app to list, create, and message teammates.
+- [grokbot-tui](https://github.com/smarzban/grokbot-tui) - Unofficial terminal TUI that talks to the Grok Bot host gateway so you can chat with bots and channels from the terminal.
 - [grok-bot-skill](https://github.com/adamanz/grok-bot-skill) - Cursor/Claude skill so a coding agent can list, chat with, and create Grok Bot teammates.
 - [budezllc/dictate-capture](https://github.com/budezllc/dictate-capture) - Windows helper: hold Ctrl+D to dictate into Grok Bot, optionally drag a gold box to paste a screenshot.
 - [HAEGONG/grok-bot-profiles](https://github.com/HAEGONG/grok-bot-profiles) - Paste-in Grok Bot profiles that split spec, bug repro, implementation, and verification so a bot never approves its own work.
 - [adam91holt/grokbot-sdk](https://github.com/adam91holt/grokbot-sdk) - TypeScript SDK for a running Grok Bot host: typed local HTTP gateway client plus sand-data disk readers (6★, MIT).
 - [steve228uk/grok-bot-shopping](https://github.com/steve228uk/grok-bot-shopping) - Shopping skills pack: merchant UCP/MCP, Shopify Shop CLI via npx, and Stripe Onelink; paste INSTALL.md into Grok Bot (2★).
+- [Thin Grok Bot, deep work on CLI](https://github.com/Luca-Blight/thin-grok-bot-deep-work-on-cli) - Skill that keeps the Grok Bot mesh thin and hands deep builds or investigations to Cursor CLI, Cursor cloud agents, or grok CLI.
 
 ## Reviews & Comparisons
 
@@ -300,7 +302,7 @@
 
 ## Contributing
 
-181 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+183 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
