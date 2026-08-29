@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-188-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -203,6 +203,7 @@
 - [adam91holt/grokbot-sdk](https://github.com/adam91holt/grokbot-sdk) - 给正在跑的 Grok Bot 主机用的 TypeScript SDK：类型化本地 HTTP 网关客户端，外加 sand-data 磁盘读取（6★，MIT）。.
 - [steve228uk/grok-bot-shopping](https://github.com/steve228uk/grok-bot-shopping) - 购物技能包：商家 UCP/MCP、用 npx 跑 Shopify Shop CLI、Stripe Onelink；把 INSTALL.md 贴给 Grok Bot 即可（2★）。.
 - [Thin Grok Bot, deep work on CLI](https://github.com/Luca-Blight/thin-grok-bot-deep-work-on-cli) - 技能：把 Grok Bot 网格留薄，把深度构建和排查交给 Cursor CLI、云 Agent 或 grok CLI。.
+- [mykemueller1-ctrl/grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - 餐厅社媒带货侦察用的 Grok Bot 配置包：代理人设、早间扫描/脚本/目录技能、每日例行，以及可粘贴的 SETUP.md 与 MCP 连接器。.
 
 ## 评测与对比
 
@@ -283,6 +284,8 @@
 - [Days-long “Can’t reach your computer” needs a staff restore](https://forum.cursor.com/t/grok-bot-can-t-reach-your-computer-for-48-hours/169450) - 官方：连续多日「Can't reach your computer」可以是服务端电脑卡死，Reset / Recover / 重装都清不掉，得等官方在后端拉起来，再彻底退出重开。.
 - [Fresh-install white screen is a local profile, not the cloud box](https://forum.cursor.com/t/grok-bot-shows-white-screen-upon-opening-and-is-unusable/169815) - 官方：全新安装后白屏是本机配置目录问题，不是云电脑卡死；彻底退出，把 ~/Library/Application Support/Grok Bot 改名为 Grok Bot.bak 再开，只重装清不掉。.
 - [Grok-spawned Cloud Agents can ignore your non-Fast default](https://forum.cursor.com/t/cloud-cursor-agents-spawned-by-grok-bot-do-not-fully-respect-the-user-selected-default-model-and-speed-preferences/169746) - 官方：Grok Bot 拉起的 Cursor Cloud Agent 可能无视你的非 Fast 默认、直接用 Fast；把 Default Model 里 Cursor Grok 4.6 悬停 Edit 去掉 Fast，跟帖框如果又跳回去就改回来。.
+- [Local execution offline while chat still works](https://forum.cursor.com/t/local-execution-stays-offline-while-chat-still-works/169821) - 官方：本机执行助手可能注册成功后又掉线，于是 Mac 显示离线但聊天还在；先完全退出再开，仍不行就把 ~/.grokbot/local-exec-daemon.log 最近几行贴给官方。.
+- [Reset stuck at 50% Starting is a server-side bad state](https://forum.cursor.com/t/currently-down-grok-bot-retrying-back-end-vm/169834) - 官方：重置卡在 50%「Starting Grok Bot’s computer」是服务端坏状态，不是本机问题；Bot 数据还在，先多等几分钟，仍失败就在帖里回复。.
 
 ## 相关列表
 
@@ -299,10 +302,12 @@
 - [ellelion/botteams](https://github.com/ellelion/botteams) - 公开的 Grok Bot 团队目录：复制一条安装提示词，就会建好命名 Bot、群聊和例行任务。.
 - [travisrr/really.bot](https://github.com/travisrr/really.bot) - 公开的 Grok Bot 任务板 really.bot：核过的跑次会盖序号，在 X 上 tag @tryreallybot 就能导入帖子。.
 - [thomasbek3/hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Hermes 桌面插件，把 Grok Bot 那套搬过去：聊天气泡，外加盯着每台 Bot 电脑的实时窗口（46★，与 xAI 无关）。.
+- [Ritesh-Root/grok-template](https://github.com/Ritesh-Root/grok-template) - 社区模板市集 groktemplate.vercel.app：可浏览复制可用的 Grok Bot 分享链接和 GitHub 包，浏览无需账号。.
+- [mostdesign01-sudo/grokbot-use-cases](https://github.com/mostdesign01-sudo/grokbot-use-cases) - 非官方双语案例馆（AI UP LAB）：可复用的 Grok Bot 案例、HTML 收集和 Agent UI，数据与页面分离、按 JSON 日更。.
 
 ## 贡献
 
-目前 8 个分类、183 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、188 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

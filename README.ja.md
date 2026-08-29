@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-188-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -203,6 +203,7 @@
 - [adam91holt/grokbot-sdk](https://github.com/adam91holt/grokbot-sdk) - 稼働中の Grok Bot ホスト向け TypeScript SDK。型付きローカル HTTP ゲートウェイと sand-data ディスク読み取り（6★、MIT）。
 - [steve228uk/grok-bot-shopping](https://github.com/steve228uk/grok-bot-shopping) - 買い物スキル。merchant UCP/MCP、npx の Shopify Shop CLI、Stripe Onelink。INSTALL.md を貼る（2★）。
 - [Thin Grok Bot, deep work on CLI](https://github.com/Luca-Blight/thin-grok-bot-deep-work-on-cli) - Grok Bot のメッシュは薄く保ち、深いビルドや調査は Cursor CLI、クラウドエージェント、または grok CLI に渡すスキル。
+- [mykemueller1-ctrl/grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - レストランのソーシャル商用スカウト向け Grok Bot パック。エージェント設定、朝スキャン／脚本／カタログ技能、日次ルーチン、MCP、SETUP.md 付き。
 
 ## レビューと比較
 
@@ -283,6 +284,8 @@
 - [Days-long “Can’t reach your computer” needs a staff restore](https://forum.cursor.com/t/grok-bot-can-t-reach-your-computer-for-48-hours/169450) - 公式：数日続く “Can’t reach your computer” はホスト側の固まりで、Reset / Recover / 再インストールでは直らない。スタッフが復旧したらアプリを完全終了して開き直す。
 - [Fresh-install white screen is a local profile, not the cloud box](https://forum.cursor.com/t/grok-bot-shows-white-screen-upon-opening-and-is-unusable/169815) - 公式：新規インストール後の白画面はローカルプロファイルの不具合で、クラウドパソコンの固まりではない。完全終了し、~/Library/Application Support/Grok Bot を Grok Bot.bak に改名して再起動。再インストールだけでは消えない。
 - [Grok-spawned Cloud Agents can ignore your non-Fast default](https://forum.cursor.com/t/cloud-cursor-agents-spawned-by-grok-bot-do-not-fully-respect-the-user-selected-default-model-and-speed-preferences/169746) - 公式：Grok Bot が起動した Cursor Cloud Agent は、デフォルトが非 Fast でも Fast で始まることがある。Cursor Grok 4.6 をホバーして Edit、Fast を外す。
+- [Local execution offline while chat still works](https://forum.cursor.com/t/local-execution-stays-offline-while-chat-still-works/169821) - 公式：ローカル実行ヘルパーが登録直後にサーバ接続を落とし、チャットは生きたまま Mac がオフライン表示になる。完全終了→再起動し、ダメなら ~/.grokbot/local-exec-daemon.log を送る。
+- [Reset stuck at 50% Starting is a server-side bad state](https://forum.cursor.com/t/currently-down-grok-bot-retrying-back-end-vm/169834) - 公式：リセットが 50%「Starting Grok Bot’s computer」で止まるのはサーバ側の不良状態。データは失われていないので数分待ち、ダメならスレで返信。
 
 ## 関連リスト
 
@@ -299,10 +302,12 @@
 - [ellelion/botteams](https://github.com/ellelion/botteams) - Grok Bot の公開チームディレクトリ。インストーラ用プロンプトを貼ると、Bot・グループチャット・ルーチンを作る。
 - [travisrr/really.bot](https://github.com/travisrr/really.bot) - really.bot の公開 Grok Bot ジョブボード。検証済みの実行に通し番号が付き、X で @tryreallybot をタグるとスレッドを取り込める。
 - [thomasbek3/hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Hermes Desktop 向けプラグイン。Grok Bot 風の吹き出しと、各 Bot パソコンのライブ画面（46★、xAI 非公式）。
+- [Ritesh-Root/grok-template](https://github.com/Ritesh-Root/grok-template) - groktemplate.vercel.app のコミュニティ市集。動く Grok Bot 共有リンクと GitHub パックを、アカウントなしで閲覧・コピー。
+- [mostdesign01-sudo/grokbot-use-cases](https://github.com/mostdesign01-sudo/grokbot-use-cases) - 非公式のバイリンガル事例館（AI UP LAB）。再利用できる Grok Bot 事例・HTML・Agent UI を JSON データから日次更新。
 
 ## 貢献
 
-8 セクションに 183 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 188 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

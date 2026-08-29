@@ -1034,6 +1034,16 @@
             "zh": "技能：把 Grok Bot 网格留薄，把深度构建和排查交给 Cursor CLI、云 Agent 或 grok CLI。",
             "ja": "Grok Bot のメッシュは薄く保ち、深いビルドや調査は Cursor CLI、クラウドエージェント、または grok CLI に渡すスキル。"
           }
+        },
+        {
+          "title": "mykemueller1-ctrl/grok-bot-restaurant-scout",
+          "url": "https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout",
+          "source": "day-20260829-1304",
+          "blurb": {
+            "en": "Grok Bot pack for a restaurant social-commerce scout: agent profile, morning-scan/script/catalog skills, daily routine, and MCP connectors with a copy-paste SETUP.md.",
+            "zh": "餐厅社媒带货侦察用的 Grok Bot 配置包：代理人设、早间扫描/脚本/目录技能、每日例行，以及可粘贴的 SETUP.md 与 MCP 连接器。",
+            "ja": "レストランのソーシャル商用スカウト向け Grok Bot パック。エージェント設定、朝スキャン／脚本／カタログ技能、日次ルーチン、MCP、SETUP.md 付き。"
+          }
         }
       ]
     },
@@ -1774,6 +1784,26 @@
             "zh": "官方：Grok Bot 拉起的 Cursor Cloud Agent 可能无视你的非 Fast 默认、直接用 Fast；把 Default Model 里 Cursor Grok 4.6 悬停 Edit 去掉 Fast，跟帖框如果又跳回去就改回来。",
             "ja": "公式：Grok Bot が起動した Cursor Cloud Agent は、デフォルトが非 Fast でも Fast で始まることがある。Cursor Grok 4.6 をホバーして Edit、Fast を外す。"
           }
+        },
+        {
+          "title": "Local execution offline while chat still works",
+          "url": "https://forum.cursor.com/t/local-execution-stays-offline-while-chat-still-works/169821",
+          "source": "day-20260829-1304",
+          "blurb": {
+            "en": "Staff: the local-exec helper can register then drop its server link, so the Mac shows offline while chat still works; fully quit and reopen, and if it fails again send ~/.grokbot/local-exec-daemon.log.",
+            "zh": "官方：本机执行助手可能注册成功后又掉线，于是 Mac 显示离线但聊天还在；先完全退出再开，仍不行就把 ~/.grokbot/local-exec-daemon.log 最近几行贴给官方。",
+            "ja": "公式：ローカル実行ヘルパーが登録直後にサーバ接続を落とし、チャットは生きたまま Mac がオフライン表示になる。完全終了→再起動し、ダメなら ~/.grokbot/local-exec-daemon.log を送る。"
+          }
+        },
+        {
+          "title": "Reset stuck at 50% Starting is a server-side bad state",
+          "url": "https://forum.cursor.com/t/currently-down-grok-bot-retrying-back-end-vm/169834",
+          "source": "day-20260829-1304",
+          "blurb": {
+            "en": "Staff: a Reset hung at 50% “Starting Grok Bot’s computer” is a bad hosted state, not your install; Bot data is not lost — wait a few minutes, and reply on the thread if it still fails.",
+            "zh": "官方：重置卡在 50%「Starting Grok Bot’s computer」是服务端坏状态，不是本机问题；Bot 数据还在，先多等几分钟，仍失败就在帖里回复。",
+            "ja": "公式：リセットが 50%「Starting Grok Bot’s computer」で止まるのはサーバ側の不良状態。データは失われていないので数分待ち、ダメならスレで返信。"
+          }
         }
       ]
     },
@@ -1913,6 +1943,26 @@
             "en": "Hermes Desktop plugins that copy the Grok Bot feel: iMessage-style bubbles plus a live window into each bot’s computer (46★, not affiliated with xAI).",
             "zh": "Hermes 桌面插件，把 Grok Bot 那套搬过去：聊天气泡，外加盯着每台 Bot 电脑的实时窗口（46★，与 xAI 无关）。",
             "ja": "Hermes Desktop 向けプラグイン。Grok Bot 風の吹き出しと、各 Bot パソコンのライブ画面（46★、xAI 非公式）。"
+          }
+        },
+        {
+          "title": "Ritesh-Root/grok-template",
+          "url": "https://github.com/Ritesh-Root/grok-template",
+          "source": "day-20260829-1304",
+          "blurb": {
+            "en": "Community marketplace at groktemplate.vercel.app for working Grok Bot share links and GitHub packs — browse and copy with no account.",
+            "zh": "社区模板市集 groktemplate.vercel.app：可浏览复制可用的 Grok Bot 分享链接和 GitHub 包，浏览无需账号。",
+            "ja": "groktemplate.vercel.app のコミュニティ市集。動く Grok Bot 共有リンクと GitHub パックを、アカウントなしで閲覧・コピー。"
+          }
+        },
+        {
+          "title": "mostdesign01-sudo/grokbot-use-cases",
+          "url": "https://github.com/mostdesign01-sudo/grokbot-use-cases",
+          "source": "day-20260829-1304",
+          "blurb": {
+            "en": "Unofficial bilingual gallery (AI UP LAB) of reusable Grok Bot cases, HTML collects, and Agent UI, updated from data JSON.",
+            "zh": "非官方双语案例馆（AI UP LAB）：可复用的 Grok Bot 案例、HTML 收集和 Agent UI，数据与页面分离、按 JSON 日更。",
+            "ja": "非公式のバイリンガル事例館（AI UP LAB）。再利用できる Grok Bot 事例・HTML・Agent UI を JSON データから日次更新。"
           }
         }
       ]
