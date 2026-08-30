@@ -594,6 +594,16 @@
             "zh": "非官方 Grok Bot 玩法目录：从公开帖和文档改写并附来源链接；站点有 138 条英文玩法（grokbotplays.com）。",
             "ja": "非公式の Grok Bot プレイ集。公開投稿とドキュメントから書き直し、出典付き。サイトに英語 138 本（grokbotplays.com）。"
           }
+        },
+        {
+          "title": "s-hiraoku/grok-bot-playbook",
+          "url": "https://github.com/s-hiraoku/grok-bot-playbook",
+          "source": "GB-304",
+          "blurb": {
+            "en": "Japanese field handbook (Next.js) for running Grok Bot as named roles: contracts, request templates, Skill/Routine flows, team boundaries, and handoff .md files.",
+            "zh": "日文现场手册（Next.js）：把 Grok Bot 当有名角色来跑——角色契约、请求模板、Skill/Routine 流程、团队边界与交接用 .md。",
+            "ja": "Grok Bot を役割契約・依頼型・Skill/Routine・承認境界で回す日本語の現場手帳（Next.js）。ハンドオフ用 .md 付き（0★）。"
+          }
         }
       ]
     },
@@ -1174,6 +1184,46 @@
             "zh": "可 `follow …/GROK_FACTORY.md` 安装的 Grok Bot 套装（软件+研究+通用）；由 Firstmate 在共享电脑上调度。",
             "ja": "`follow …/GROK_FACTORY.md` で入れる Grok Bot パック（ソフト／リサーチ／汎用）。共有コンピュータ上で Firstmate が振り分け（1★）。"
           }
+        },
+        {
+          "title": "Chakhdz/grok-bot-token-saver",
+          "url": "https://github.com/Chakhdz/grok-bot-token-saver",
+          "source": "GB-305",
+          "blurb": {
+            "en": "Token-thrifty chief/worker mold: remaster long chats on a timer and revive bots from a short role card; ships installable Botsi Archivist via x.ai/bot.",
+            "zh": "省 token 的首席/工人模具：定时 remaster 长对话，用短角色卡复活 Bot；可用 x.ai/bot 安装 Botsi Archivist。",
+            "ja": "トークン節約の chief/worker 型。長会話の remaster と短い役割カードからの revive。x.ai/bot で Botsi Archivist を導入（MIT、0★）。"
+          }
+        },
+        {
+          "title": "supervised-nl/tesla-fleet-mcp",
+          "url": "https://github.com/supervised-nl/tesla-fleet-mcp",
+          "source": "GB-306",
+          "blurb": {
+            "en": "Tesla Fleet API MCP with `.grok-plugin` for Grok Bot (Streamable HTTP on public HTTPS; climate/charge/lock need tesla-http-proxy + virtual key).",
+            "zh": "带 `.grok-plugin` 的 Tesla Fleet API MCP，可给 Grok Bot 用（公网 HTTPS 的 Streamable HTTP；控制车辆需 tesla-http-proxy + 虚拟钥匙）。",
+            "ja": "Grok Bot 向け `.grok-plugin` 付き Tesla Fleet MCP（公開 HTTPS の Streamable HTTP。車両操作は tesla-http-proxy + 仮想キー、MIT、0★）。"
+          }
+        },
+        {
+          "title": "DomenicFotino/grok-bot-template-market",
+          "url": "https://github.com/DomenicFotino/grok-bot-template-market",
+          "source": "GB-307",
+          "blurb": {
+            "en": "Hosted MCP plugin for Bot Template Market (catalog / licenses / apply_pack); add `https://grok-raqet.vercel.app/api/mcp` in Grok Bot Plugins.",
+            "zh": "Bot Template Market 的托管 MCP 插件（catalog / licenses / apply_pack）；在 Grok Bot 插件里添加 `https://grok-raqet.vercel.app/api/mcp`。",
+            "ja": "Bot Template Market 向けホスト MCP（catalog / licenses / apply_pack）。Grok Bot の Plugins に `https://grok-raqet.vercel.app/api/mcp` を追加（MIT、0★）。"
+          }
+        },
+        {
+          "title": "novusordos666/grokbot-outreach-agent-team",
+          "url": "https://github.com/novusordos666/grokbot-outreach-agent-team",
+          "source": "GB-308",
+          "blurb": {
+            "en": "Five coordinated Grok Bot agent prompts (chief, research, qualify, outreach, inbox/Calendly) for evidence-based outbound with human approvals.",
+            "zh": "五套协同的 Grok Bot 角色提示词（首席、研究、资质、外联、收件/Calendly），做需人工批准的证据型外联。",
+            "ja": "Grok Bot 向け5役プロンプト（chief／調査／審査／アウトリーチ／受信・Calendly）。人承認付きの証拠ベース外販（MIT、0★）。"
+          }
         }
       ]
     },
@@ -1400,9 +1450,9 @@
           "url": "https://github.com/Nichokas/grokbot-linux-port",
           "source": "day-20260824",
           "blurb": {
-            "en": "Wine-less Linux port of the official desktop app (Arch AUR packages); current release 0.30.0, WIP because xAI ships no Linux build.",
-            "zh": "官方桌面端无 Wine 的 Linux 移植（Arch AUR）；当前发布 0.30.0，官方没发 Linux，所以还是 WIP。",
-            "ja": "公式デスクトップの Wine なし Linux 移植（Arch AUR）。現行リリース 0.30.0。公式に Linux 版がないため WIP。"
+            "en": "Wine-less community Linux port (Arch AUR + Fedora COPR + Ubuntu PPA); tracks 0.30.0. Note: Cursor CDN now also hosts official Linux 0.30.0 packages (35★).",
+            "zh": "无 Wine 社区 Linux 移植（Arch AUR + Fedora COPR + Ubuntu PPA），跟 0.30.0。注意：Cursor CDN 现也有官方 Linux 0.30.0 包（35★）。",
+            "ja": "Wine なしのコミュニティ Linux 移植（AUR + COPR + PPA）、0.30.0 追従。注: Cursor CDN にも公式 Linux 0.30.0 あり（35★）。"
           }
         },
         {
@@ -1430,9 +1480,9 @@
           "url": "https://github.com/glorics/grok-bot-linux",
           "source": "day-20260827",
           "blurb": {
-            "en": "Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.30.0, tested on Debian 12, Omarchy, Arch, and Mint (26★).",
-            "zh": "非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.30.0，Debian 12、Omarchy、Arch、Mint 测过（26★）。",
-            "ja": "公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.30.0。Debian 12 / Omarchy / Arch / Mint で確認（26★）。"
+            "en": "Retired unofficial Windows→Linux port; README now points to official Grok Bot 0.30.0 Linux packages on the Cursor CDN (AppImage/deb/rpm; 26★).",
+            "zh": "已退役的非官方 Windows→Linux 移植；README 现指向 Cursor CDN 上的官方 Grok Bot 0.30.0 Linux 包（AppImage/deb/rpm；26★）。",
+            "ja": "非公式 Windows→Linux 移植は退役。README は Cursor CDN の公式 Grok Bot 0.30.0 Linux（AppImage/deb/rpm）を案内（26★）。"
           }
         },
         {
@@ -1460,9 +1510,9 @@
           "url": "https://github.com/jakob-bu/grok-bot-linux-unofficial",
           "source": "day-20260829",
           "blurb": {
-            "en": "Unofficial Ubuntu/Linux desktop port (deb / AppImage / tarball) that merges the official Windows app.asar onto Electron 42; current target 0.29.0 (22★).",
-            "zh": "非官方 Ubuntu/Linux 桌面移植（deb / AppImage / tarball），把官方 Windows app.asar 接到 Electron 42；当前目标 0.29.0（22★）。",
-            "ja": "非公式の Ubuntu/Linux 移植（deb / AppImage / tarball）。公式 Windows の app.asar を Electron 42 に載せる。現行ターゲット 0.29.0（22★）。"
+            "en": "Unofficial Ubuntu/Linux desktop port (deb / AppImage / tarball) merging official app.asar onto Electron 42; resolves latest stable via Cursor update service (23★).",
+            "zh": "非官方 Ubuntu/Linux 桌面移植（deb / AppImage / tarball），官方 app.asar + Electron 42；经 Cursor 更新服务解析最新稳定版（23★）。",
+            "ja": "非公式 Ubuntu/Linux 移植（deb / AppImage / tarball）。公式 app.asar を Electron 42 に載せ、Cursor 更新サービスで最新安定版を解決（23★）。"
           }
         },
         {
@@ -1500,9 +1550,39 @@
           "url": "https://github.com/ChHsiching/grok-bot-0.18-original",
           "source": "day-20260830-1304",
           "blurb": {
-            "en": "Untouched Grok Bot 0.18.0 runtime archive: unminified bundles mechanically split into a reproducible per-module tree (study-only; pairs with b-nnett reconstruction).",
-            "zh": "未改动的 Grok Bot 0.18.0 运行时存档：未压缩包机械拆成可复现的模块树（仅供研究；可对照 b-nnett 改造版）。",
-            "ja": "未改変の Grok Bot 0.18.0 ランタイム保管庫。非圧縮バンドルを機械分割した再現可能なモジュール樹（研究用。b-nnett 改造版の対になる、10★）。"
+            "en": "Untouched Grok Bot 0.18.0 runtime archive: unminified bundles mechanically split into a reproducible per-module tree (study-only; pairs with b-nnett reconstruction, 12★).",
+            "zh": "未改动的 Grok Bot 0.18.0 运行时存档：未压缩包机械拆成可复现的模块树（仅供研究；可对照 b-nnett 改造版，12★）。",
+            "ja": "未改変の Grok Bot 0.18.0 ランタイム保管庫。非圧縮バンドルを機械分割した再現可能なモジュール樹（研究用。b-nnett 対照、12★）。"
+          }
+        },
+        {
+          "title": "stealth-bots/grok-bot-proxies",
+          "url": "https://github.com/stealth-bots/grok-bot-proxies",
+          "source": "GB-302",
+          "blurb": {
+            "en": "Public HTTPS hops that forward Slack Events and Linear Agent webhooks into Grok Bot/Cursor routines (Bearer auth, challenge echo, Linear GraphQL reply path); MIT, Vercel.",
+            "zh": "把 Slack Events 与 Linear Agent webhook 转到 Grok Bot/Cursor routine 的公共 HTTPS 中转（Bearer、challenge echo、Linear GraphQL 回写）；MIT，跑在 Vercel。",
+            "ja": "Slack Events と Linear Agent の webhook を Grok Bot/Cursor の routine へ中継する公開 HTTPS ホップ（Bearer・challenge・Linear GraphQL 返信）。MIT、Vercel（0★）。"
+          }
+        },
+        {
+          "title": "aaravarr/openbot",
+          "url": "https://github.com/aaravarr/openbot",
+          "source": "GB-303",
+          "blurb": {
+            "en": "Bring-your-own-model hop for Grok Bot Computer: one-line install, local control UI, and an Official switch that restores stock host behavior (MIT).",
+            "zh": "给 Grok Bot 电脑用的自带模型中转：一行安装、本机控制台，以及把官方主机行为还原的 Official 开关（MIT）。",
+            "ja": "Grok Bot Computer 向け BYOM ホップ。一行インストール、ローカル制御 UI、公式ホストへ戻す Official 切替（MIT、0★）。"
+          }
+        },
+        {
+          "title": "Allan-Aa/QuotaRail",
+          "url": "https://github.com/Allan-Aa/QuotaRail",
+          "source": "GB-309",
+          "blurb": {
+            "en": "Native macOS Dock-style usage rail; Cursor integration treats Grok Bot weekly usage as the primary ring (also Claude/Codex/Grok; MIT, v0.9.1).",
+            "zh": "原生 macOS 侧栏额度条；接 Cursor 时以 Grok Bot 周额度为主环（也看 Claude/Codex/Grok；MIT，v0.9.1）。",
+            "ja": "macOS ネイティブの利用量レール。Cursor 連携では Grok Bot 週次枠を主リングに表示（Claude/Codex/Grok も、MIT、v0.9.1、0★）。"
           }
         }
       ]
@@ -2014,6 +2094,26 @@
             "zh": "官方：Pro 的 20 美元 Other Models 额度不是 Grok Bot 周池；仪表盘「Included in Pro」只是合并账单，关 On-Demand 后周池用完即停。",
             "ja": "スタッフ。Pro の Other Models $20 は Grok Bot 週次枠ではない。ダッシュボードの Included in Pro は請求のまとめ表示で、On-Demand オフなら週次上限で止まる。"
           }
+        },
+        {
+          "title": "Does GrokBot not have access to my Cursor Codebase?",
+          "url": "https://forum.cursor.com/t/does-grokbot-not-have-access-to-my-cursor-codebase/169684",
+          "source": "day-20260830",
+          "blurb": {
+            "en": "Staff: Grok Bot has no codebase plugin and does not index your repo; coding work is handed to a Cursor Cloud Agent on a GitHub-connected account (Dashboard → Integrations), with an optional GitHub PAT connector for read-only, auto-created repos from scratch, and no Origin access yet.",
+            "zh": "官方：Grok Bot 没有 codebase 插件、也不会直接索引仓库；写代码会交给已连接 GitHub 的 Cursor Cloud Agent（Dashboard → Integrations），只读可用 GitHub PAT 连接器，从零构建会自动建仓，尚不能访问 Origin。",
+            "ja": "スタッフ：Grok Bot に codebase プラグインはなくリポジトリを直接索引しない。実装は GitHub 接続済みの Cursor Cloud Agent に委譲（Dashboard → Integrations）。読み取りは GitHub PAT コネクタ、ゼロからの構築は自動で新リポジトリ、Origin は未対応。"
+          }
+        },
+        {
+          "title": "Phantom in Grok Bot is a Mess",
+          "url": "https://forum.cursor.com/t/phantom-in-grok-bot-is-a-mess/169930",
+          "source": "day-20260830",
+          "blurb": {
+            "en": "Staff: the Phantom plugin runs on @phantom/mcp-server and each new auth creates a separate dedicated agent wallet, not your personal Phantom wallet, so reconnects show a new address while funded funds stay on the old agent wallet (recover via chat history or Phantom Support).",
+            "zh": "官方：Phantom 插件走 @phantom/mcp-server，每次重新授权都会新建独立 agent 钱包而非个人钱包，所以重连会看到新地址，已充值资金仍在旧 agent 地址（可对照聊天记录或找 Phantom Support）。",
+            "ja": "スタッフ：Phantom プラグインは @phantom/mcp-server で、再認証のたびに個人ウォレットではなく専用 agent ウォレットが新規作成される。再接続で別アドレスになり、入金は旧アドレスに残る（履歴照合か Phantom Support）。"
+          }
         }
       ]
     },
@@ -2080,9 +2180,9 @@
           "url": "https://github.com/elie222/botdirectory.ai",
           "source": "day-20260824",
           "blurb": {
-            "en": "Community prompt directory (111 stars): paste a listing into Grok Bot and it sets itself up as a scheduled bot.",
-            "zh": "社区提示词目录（111 star）：把条目贴进 Grok Bot，它会把自己配成定时 Bot。",
-            "ja": "コミュニティのプロンプト集（111 star）。Grok Bot に貼ると定期 Bot として自分で設定する。"
+            "en": "Community prompt directory (147 stars): paste a listing into Grok Bot and it sets itself up as a scheduled bot.",
+            "zh": "社区提示词目录（147 star）：把条目贴进 Grok Bot，它会把自己配成定时 Bot。",
+            "ja": "コミュニティのプロンプト目錄（147★）。掲載を Grok Bot に貼るとスケジュール Bot として自己設定。"
           }
         },
         {
@@ -2150,9 +2250,9 @@
           "url": "https://github.com/thomasbek3/hermes-bot-kit",
           "source": "day-20260829",
           "blurb": {
-            "en": "Hermes Desktop plugins that copy the Grok Bot feel: iMessage-style bubbles plus a live window into each bot’s computer (46★, not affiliated with xAI).",
-            "zh": "Hermes 桌面插件，把 Grok Bot 那套搬过去：聊天气泡，外加盯着每台 Bot 电脑的实时窗口（46★，与 xAI 无关）。",
-            "ja": "Hermes Desktop 向けプラグイン。Grok Bot 風の吹き出しと、各 Bot パソコンのライブ画面（46★、xAI 非公式）。"
+            "en": "Hermes Desktop plugins that copy the Grok Bot feel: iMessage-style bubbles plus a live window into each bot’s computer (50★, not affiliated with xAI).",
+            "zh": "Hermes 桌面插件，把 Grok Bot 那套搬过去：聊天气泡，外加盯着每台 Bot 电脑的实时窗口（50★，与 xAI 无关）。",
+            "ja": "Grok Bot 風の Hermes Desktop プラグイン。iMessage 風バブルと各 Bot コンピュータのライブ窓（50★、xAI 非公式）。"
           }
         },
         {

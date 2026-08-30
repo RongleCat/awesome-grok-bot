@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-212-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-222-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,7 +37,6 @@
 
 [Full meetup notes](./EVENTS.md)
 
-- [Grok Bot Meetup Shenzhen](https://luma.com/5vkzzvqk) — Sun 30 Aug 2026, 14:00–17:30 (GMT+8). China’s first in-person Grok Bot meetup.
 - [Grok Bot Macau Student Workshop](https://luma.com/cursor-macau-creativity-workshop-2026-sep) — Sat 5 Sep 2026, 14:30-17:30 (GMT+8). Free student workshop: hands-on Grok Bot plus a founder talk.
 - [Grok Bot Meetup Las Vegas](https://luma.com/cursor-kaua) — Mon 15 Sep 2026, 18:00-20:00 (PDT). Networking, talks/workshop, and a Cursor-team Q&A on video.
 - [Grok Bot build night for women (SF)](https://luma.com/a16zgrokbotbuildnight) — Wed 3 Sep 2026, 17:00–21:00 (PDT). Low-pressure SF build night for women: learn Grok Bot capabilities and set one up together.
@@ -155,6 +154,7 @@
 - [A deep dive into Grok Bot](https://flaviocopes.com/grok-bot/) - Flavio Copes’ 2026-08-28 deep dive: shared computer, skills to routines, share-as-template, Stripe Link spend requests, and when a script beats a Bot.
 - [LAVX: a deep dive into Grok Bot](https://news.lavx.hu/article/a-deep-dive-into-grok-bot) - 2026-08-29 practitioner guide: shared-computer isolation, plugin-then-browser tool order, Stripe Link approvals, and when Zapier/n8n or a coding agent is a better fit.
 - [Grok Bot Plays](https://github.com/ZooHero500/plays) - Unofficial how-to catalog of Grok Bot plays rewritten from public posts and docs with source links; the site hosts 138 English plays (grokbotplays.com).
+- [s-hiraoku/grok-bot-playbook](https://github.com/s-hiraoku/grok-bot-playbook) - Japanese field handbook (Next.js) for running Grok Bot as named roles: contracts, request templates, Skill/Routine flows, team boundaries, and handoff .md files.
 
 ## Field Cases
 
@@ -217,6 +217,10 @@
 - [crew-contract](https://github.com/lsj210001/crew-contract) - Operating protocol for Grok Bot crews: seven-field missions, artifact handoffs, stop-on-budget, plus a paste-in Signal Crew and Notion schema.
 - [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - Scored Grok Bot operating contracts (job, never-list, L1 default, CI) with a START.md installer: paste into Setup, tap a team, get 49 paste-ready profiles.
 - [jaredtrichard/grok-factory](https://github.com/jaredtrichard/grok-factory) - Followable Grok Bot pack (software + research + general) installed via `follow …/GROK_FACTORY.md`; Firstmate routes work on the shared computer.
+- [Chakhdz/grok-bot-token-saver](https://github.com/Chakhdz/grok-bot-token-saver) - Token-thrifty chief/worker mold: remaster long chats on a timer and revive bots from a short role card; ships installable Botsi Archivist via x.ai/bot.
+- [supervised-nl/tesla-fleet-mcp](https://github.com/supervised-nl/tesla-fleet-mcp) - Tesla Fleet API MCP with `.grok-plugin` for Grok Bot (Streamable HTTP on public HTTPS; climate/charge/lock need tesla-http-proxy + virtual key).
+- [DomenicFotino/grok-bot-template-market](https://github.com/DomenicFotino/grok-bot-template-market) - Hosted MCP plugin for Bot Template Market (catalog / licenses / apply_pack); add `https://grok-raqet.vercel.app/api/mcp` in Grok Bot Plugins.
+- [novusordos666/grokbot-outreach-agent-team](https://github.com/novusordos666/grokbot-outreach-agent-team) - Five coordinated Grok Bot agent prompts (chief, research, qualify, outreach, inbox/Calendly) for evidence-based outbound with human approvals.
 
 ## Reviews & Comparisons
 
@@ -243,17 +247,20 @@
 - [open-grokbot](https://github.com/ishandutta2007/open-grokbot) - Early equivalent / experiment — read before you grant credentials.
 - [grok-bot-flake](https://github.com/jordangarrison/grok-bot-flake) - Nix flake that repackages the official Linux .deb (no source build).
 - [grok-bot-bin](https://github.com/Jabbslad/grok-bot-bin) - Unofficial Arch package that repackages the official Linux .deb; the built-in updater does not support Linux.
-- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - Wine-less Linux port of the official desktop app (Arch AUR packages); current release 0.30.0, WIP because xAI ships no Linux build.
+- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - Wine-less community Linux port (Arch AUR + Fedora COPR + Ubuntu PPA); tracks 0.30.0. Note: Cursor CDN now also hosts official Linux 0.30.0 packages (35★).
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Unofficial TypeScript reconstruction of Grok Bot 0.18.0 for macOS, plus a local inference router experiment.
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - Community index of official Cursor-CDN Linux .deb/.rpm/AppImage URLs; does not host installers.
-- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.30.0, tested on Debian 12, Omarchy, Arch, and Mint (26★).
+- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - Retired unofficial Windows→Linux port; README now points to official Grok Bot 0.30.0 Linux packages on the Cursor CDN (AppImage/deb/rpm; 26★).
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - Open-source Grok Bot-shaped roster: named teammates, one durable computer, approvals, and routines (Rust/Tauri).
 - [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - Unofficial model picker for the official Grok Bot client: one model per agent, verified wire maps for Grok/Claude/GLM/Gemini/DeepSeek/local, keys stay on your machine (235★).
-- [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - Unofficial Ubuntu/Linux desktop port (deb / AppImage / tarball) that merges the official Windows app.asar onto Electron 42; current target 0.29.0 (22★).
+- [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - Unofficial Ubuntu/Linux desktop port (deb / AppImage / tarball) merging official app.asar onto Electron 42; resolves latest stable via Cursor update service (23★).
 - [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - Omarchy bar plugin for the unofficial Linux Grok Bot client: running/idle/crash state, GitHub AppImage updates, and launch-or-focus.
 - [discord-grok-bot-kit](https://github.com/larry-fuqua/discord-grok-bot-kit) - Drop-in Discord listener that wakes a Grok Bot webhook on the owner’s mention, with keep-alive routines and a stdlib reply CLI.
 - [parasite6/grok-bot-linux](https://github.com/parasite6/grok-bot-linux) - Unofficial Fedora RPM of Grok Bot 0.30.0 converted from the public .deb (MIT packaging notes; not affiliated with xAI).
-- [grok-bot-0.18-original](https://github.com/ChHsiching/grok-bot-0.18-original) - Untouched Grok Bot 0.18.0 runtime archive: unminified bundles mechanically split into a reproducible per-module tree (study-only; pairs with b-nnett reconstruction).
+- [grok-bot-0.18-original](https://github.com/ChHsiching/grok-bot-0.18-original) - Untouched Grok Bot 0.18.0 runtime archive: unminified bundles mechanically split into a reproducible per-module tree (study-only; pairs with b-nnett reconstruction, 12★).
+- [stealth-bots/grok-bot-proxies](https://github.com/stealth-bots/grok-bot-proxies) - Public HTTPS hops that forward Slack Events and Linear Agent webhooks into Grok Bot/Cursor routines (Bearer auth, challenge echo, Linear GraphQL reply path); MIT, Vercel.
+- [aaravarr/openbot](https://github.com/aaravarr/openbot) - Bring-your-own-model hop for Grok Bot Computer: one-line install, local control UI, and an Official switch that restores stock host behavior (MIT).
+- [Allan-Aa/QuotaRail](https://github.com/Allan-Aa/QuotaRail) - Native macOS Dock-style usage rail; Cursor integration treats Grok Bot weekly usage as the primary ring (also Claude/Codex/Grok; MIT, v0.9.1).
 
 ## Community & Failure Modes
 
@@ -307,6 +314,8 @@
 - [Local-computer helper fails registration](https://forum.cursor.com/t/grok-bot-cannot-access-my-local-computer/169924) - Staff: the local-computer helper can start then fail registration after an update; full-quit plus sign-out recreates it, and desktop 0.31.0 is rolling out.
 - [Mac black screen is local DNS not cloud](https://forum.cursor.com/t/grok-bot-desktop-never-joins-existing-ios-bots-latest-app-stuck-on-black-screen/169940) - Staff: Mac 0.30.0 black screen with working iOS bots is a local network/DNS block to the healthy cloud computer, not a recreate-computer problem.
 - [Grok Bot does not spend Pro $20 IDE credit](https://forum.cursor.com/t/is-grok-bot-usage-separate-from-cursor-plan/169658) - Staff: Pro’s $20 Other Models credit is not Grok Bot’s weekly pool; dashboard “Included in Pro” is shared billing, and with On-Demand off the Bot just stops at the weekly cap.
+- [Does GrokBot not have access to my Cursor Codebase?](https://forum.cursor.com/t/does-grokbot-not-have-access-to-my-cursor-codebase/169684) - Staff: Grok Bot has no codebase plugin and does not index your repo; coding work is handed to a Cursor Cloud Agent on a GitHub-connected account (Dashboard → Integrations), with an optional GitHub PAT connector for read-only, auto-created repos from scratch, and no Origin access yet.
+- [Phantom in Grok Bot is a Mess](https://forum.cursor.com/t/phantom-in-grok-bot-is-a-mess/169930) - Staff: the Phantom plugin runs on @phantom/mcp-server and each new auth creates a separate dedicated agent wallet, not your personal Phantom wallet, so reconnects show a new address while funded funds stay on the old agent wallet (recover via chat history or Phantom Support).
 
 ## Related Lists
 
@@ -315,14 +324,14 @@
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill-format sibling ecosystem; many SKILL.md packs are conceptually portable.
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - Community directory of live Bots — treat the site as beta.
 - [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 56 copy-paste Bot profiles and starter teams you drop into a Setup Bot.
-- [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - Community prompt directory (111 stars): paste a listing into Grok Bot and it sets itself up as a scheduled bot.
+- [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - Community prompt directory (147 stars): paste a listing into Grok Bot and it sets itself up as a scheduled bot.
 - [rosterroom](https://github.com/codejunkie99/rosterroom) - 82 copy-paste agent-team rosters for Grok Bot, with ownership lanes and human approval gates.
 - [usegrokbot.com](https://github.com/a70win-wq/usegrokbot) - Searchable library of real Grok Bot workflows with a live discover site at usegrokbot.com.
 - [GrokBotDev / grokbot.dev](https://github.com/ZeroPointRepo/GrokBotDev) - Agent-run directory of prompts, plugins, and use cases; PRs are the write API, with JSON/RSS/MCP reads.
 - [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - Large template library of ready-to-paste Grok Bot prompts across productivity, sales, marketing, and ops.
 - [ellelion/botteams](https://github.com/ellelion/botteams) - Public Grok Bot team directory: copy one installer prompt and it creates the named Bots, group chat, and routines.
 - [travisrr/really.bot](https://github.com/travisrr/really.bot) - Public Grok Bot job board at really.bot: verified runs get a serial, and tagging @tryreallybot on X imports a thread.
-- [thomasbek3/hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Hermes Desktop plugins that copy the Grok Bot feel: iMessage-style bubbles plus a live window into each bot’s computer (46★, not affiliated with xAI).
+- [thomasbek3/hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Hermes Desktop plugins that copy the Grok Bot feel: iMessage-style bubbles plus a live window into each bot’s computer (50★, not affiliated with xAI).
 - [Ritesh-Root/grok-template](https://github.com/Ritesh-Root/grok-template) - Community marketplace at groktemplate.vercel.app for working Grok Bot share links and GitHub packs — browse and copy with no account.
 - [mostdesign01-sudo/grokbot-use-cases](https://github.com/mostdesign01-sudo/grokbot-use-cases) - Unofficial bilingual gallery (AI UP LAB) of reusable Grok Bot cases, HTML collects, and Agent UI, updated from data JSON.
 - [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) - Curated official x.ai/bot share links (not prompt dumps) with vetting notes, team packs, and SECURITY.md; points to RongleCat for resource lists.
@@ -331,7 +340,7 @@
 
 ## Contributing
 
-212 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+222 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

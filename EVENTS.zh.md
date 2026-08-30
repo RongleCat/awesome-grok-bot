@@ -6,8 +6,6 @@
 
 [回清单](./README.zh.md)
 
-<table><tr><td width="320" valign="top"><a href="https://luma.com/5vkzzvqk"><img src="./assets/events/sz-20260830-cover.png" alt="Grok Bot 深圳线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 深圳线下交流</strong><br />2026-08-30 周日 14:00–17:30<br />深圳 · 报名通过后可见地址<br /><br />中国首场 Grok Bot 线下。破冰 + 分享 / Workshop。预报名，需主办审核，名额有限。到时铁柱AGI、阿真在。欢迎深圳 AI 博主，用过 Grok Bot 的优先。<br /><br /><a href="https://luma.com/5vkzzvqk"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><img src="./assets/events/mo-20260905-cover.png" alt="Grok Bot 澳门学生工作坊" width="300" /></a></td><td valign="top"><strong>Grok Bot 澳门学生工作坊</strong><br />2026-09-05 周六 14:30-17:30<br />澳门大学迎宾馆 N1-1005<br /><br />免费学生场：上手 Grok Bot + 创始人分享。粤语为主、可英辅。40 人已满，可候补。<br /><br /><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><strong>去 Luma 候补 →</strong></a></td></tr></table>
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot 拉斯维加斯线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 拉斯维加斯线下交流</strong><br />2026-09-15 周一 18:00-20:00（太平洋夏令时）<br />拉斯维加斯 · 报名审核后可见场地<br /><br />破冰 + 分享 / Workshop，Cursor 团队视频问答。需主办审核，场地待定。<br /><br /><a href="https://luma.com/cursor-kaua"><strong>去 Luma 报名 →</strong></a></td></tr></table>

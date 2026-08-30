@@ -6,8 +6,6 @@
 
 [一覧に戻る](./README.ja.md)
 
-<table><tr><td width="320" valign="top"><a href="https://luma.com/5vkzzvqk"><img src="./assets/events/sz-20260830-cover.png" alt="Grok Bot Meetup Shenzhen" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Shenzhen</strong><br />2026-08-30（日）14:00–17:30（GMT+8）<br />深圳 · 登録後に住所を表示<br /><br />中国初の Grok Bot オフライン。アイスブレイクと共有 / Workshop。事前登録、主催者承認、定員あり。铁柱AGI と 阿真 が参加。深圳の AI ブロガー歓迎。Grok Bot を使った人を優先。<br /><br /><a href="https://luma.com/5vkzzvqk"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><img src="./assets/events/mo-20260905-cover.png" alt="Grok Bot Macau Student Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Macau Student Workshop</strong><br />2026-09-05（土）14:30-17:30（GMT+8）<br />マカオ大学ゲストハウス N1-1005<br /><br />無料の学生ワークショップ。Grok Bot 実習と創業者トーク。広東語（英語サポートあり）。40 席は満席、ウェイティング可。<br /><br /><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><strong>Luma でウェイティング登録 →</strong></a></td></tr></table>
 
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot Meetup Las Vegas" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Las Vegas</strong><br />2026-09-15（月）18:00-20:00（PDT）<br />ラスベガス · 登録承認後に会場を表示<br /><br />交流、トーク / Workshop、Cursor チームのビデオ Q&A。主催者承認制、会場は未定。<br /><br /><a href="https://luma.com/cursor-kaua"><strong>Luma で申し込む →</strong></a></td></tr></table>

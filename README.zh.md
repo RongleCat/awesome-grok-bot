@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-212-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-222-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,7 +37,6 @@
 
 [全部活动介绍](./EVENTS.zh.md)
 
-- [Grok Bot 深圳线下交流](https://luma.com/5vkzzvqk) — 2026-08-30 周日 14:00–17:30. 中国首场 Grok Bot 线下。
 - [Grok Bot 澳门学生工作坊](https://luma.com/cursor-macau-creativity-workshop-2026-sep) — 2026-09-05 周六 14:30-17:30. 免费学生场：上手 Grok Bot + 创始人分享。
 - [Grok Bot 拉斯维加斯线下交流](https://luma.com/cursor-kaua) — 2026-09-15 周一 18:00-20:00（太平洋夏令时）. 破冰 + 分享 / Workshop，Cursor 团队视频问答。
 - [Grok Bot 女性 Build Night（旧金山）](https://luma.com/a16zgrokbotbuildnight) — 2026-09-03 周三 17:00–21:00（太平洋夏令时）. 旧金山女性向轻松场：一起了解 Grok Bot 能干啥，并现场搭起来。
@@ -155,6 +154,7 @@
 - [A deep dive into Grok Bot](https://flaviocopes.com/grok-bot/) - Flavio Copes 2026-08-28 长文：共享云电脑、技能变例程、分享模板、Stripe Link 付款审批，以及什么时候该写脚本而不是用 Bot。.
 - [LAVX: a deep dive into Grok Bot](https://news.lavx.hu/article/a-deep-dive-into-grok-bot) - 2026-08-29 实操长文：共享云电脑隔离、先插件后浏览器、Stripe Link 审批，以及何时该用 Zapier/n8n 或编程代理。.
 - [Grok Bot Plays](https://github.com/ZooHero500/plays) - 非官方 Grok Bot 玩法目录：从公开帖和文档改写并附来源链接；站点有 138 条英文玩法（grokbotplays.com）。.
+- [s-hiraoku/grok-bot-playbook](https://github.com/s-hiraoku/grok-bot-playbook) - 日文现场手册（Next.js）：把 Grok Bot 当有名角色来跑——角色契约、请求模板、Skill/Routine 流程、团队边界与交接用 .md。.
 
 ## 真实使用案例
 
@@ -217,6 +217,10 @@
 - [crew-contract](https://github.com/lsj210001/crew-contract) - Grok Bot 机队作业协议：七字段任务、制品交接、额度用完即停，附 Signal Crew 安装词和 Notion 库结构。.
 - [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - 可打分的 Grok Bot 操作契约（岗位、永不清单、默认 L1、CI）：把 START.md 贴进 Setup，点一个团队即可装上 49 套可粘贴人设。.
 - [jaredtrichard/grok-factory](https://github.com/jaredtrichard/grok-factory) - 可 `follow …/GROK_FACTORY.md` 安装的 Grok Bot 套装（软件+研究+通用）；由 Firstmate 在共享电脑上调度。.
+- [Chakhdz/grok-bot-token-saver](https://github.com/Chakhdz/grok-bot-token-saver) - 省 token 的首席/工人模具：定时 remaster 长对话，用短角色卡复活 Bot；可用 x.ai/bot 安装 Botsi Archivist。.
+- [supervised-nl/tesla-fleet-mcp](https://github.com/supervised-nl/tesla-fleet-mcp) - 带 `.grok-plugin` 的 Tesla Fleet API MCP，可给 Grok Bot 用（公网 HTTPS 的 Streamable HTTP；控制车辆需 tesla-http-proxy + 虚拟钥匙）。.
+- [DomenicFotino/grok-bot-template-market](https://github.com/DomenicFotino/grok-bot-template-market) - Bot Template Market 的托管 MCP 插件（catalog / licenses / apply_pack）；在 Grok Bot 插件里添加 `https://grok-raqet.vercel.app/api/mcp`。.
+- [novusordos666/grokbot-outreach-agent-team](https://github.com/novusordos666/grokbot-outreach-agent-team) - 五套协同的 Grok Bot 角色提示词（首席、研究、资质、外联、收件/Calendly），做需人工批准的证据型外联。.
 
 ## 评测与对比
 
@@ -243,17 +247,20 @@
 - [open-grokbot](https://github.com/ishandutta2007/open-grokbot) - 早期等价实验，授权前先读代码。.
 - [grok-bot-flake](https://github.com/jordangarrison/grok-bot-flake) - 把官方 Linux .deb 打成 Nix flake（不是从源码编）。.
 - [grok-bot-bin](https://github.com/Jabbslad/grok-bot-bin) - 非官方 Arch 包：把官方 Linux .deb 再打包；内置更新器不支持 Linux。.
-- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - 官方桌面端无 Wine 的 Linux 移植（Arch AUR）；当前发布 0.30.0，官方没发 Linux，所以还是 WIP。.
+- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - 无 Wine 社区 Linux 移植（Arch AUR + Fedora COPR + Ubuntu PPA），跟 0.30.0。注意：Cursor CDN 现也有官方 Linux 0.30.0 包（35★）。.
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - 非官方把 Grok Bot 0.18.0 macOS 端用 TypeScript 重构成可读源码，还带本地推理路由实验。.
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - 社区整理的官方 Cursor CDN Linux 包链接（deb/rpm/AppImage），本身不托管安装包。.
-- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.30.0，Debian 12、Omarchy、Arch、Mint 测过（26★）。.
+- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 已退役的非官方 Windows→Linux 移植；README 现指向 Cursor CDN 上的官方 Grok Bot 0.30.0 Linux 包（AppImage/deb/rpm；26★）。.
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - 开源的 Grok Bot 形态花名册：命名队友、共用一台持久电脑、审批和例行任务（Rust/Tauri）。.
 - [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 非官方模型选择器：给官方客户端每个 Agent 换模型，Grok/Claude/GLM/Gemini/DeepSeek/本地有核过的 wire map，密钥不出本机（235★）。.
-- [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - 非官方 Ubuntu/Linux 桌面移植（deb / AppImage / tarball），把官方 Windows app.asar 接到 Electron 42；当前目标 0.29.0（22★）。.
+- [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - 非官方 Ubuntu/Linux 桌面移植（deb / AppImage / tarball），官方 app.asar + Electron 42；经 Cursor 更新服务解析最新稳定版（23★）。.
 - [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - 非官方 Linux 客户端的 Omarchy 顶栏插件：显示运行/空闲/崩溃、检查 GitHub 上的新 AppImage，以及启动或切到前台。.
 - [discord-grok-bot-kit](https://github.com/larry-fuqua/discord-grok-bot-kit) - 即插即用的 Discord 监听：主人 @ 才唤醒 Grok Bot webhook，带保活 routine 和标准库回复命令。.
 - [parasite6/grok-bot-linux](https://github.com/parasite6/grok-bot-linux) - 非官方 Fedora RPM：把公开 .deb 转成 Grok Bot 0.30.0（打包说明 MIT；与 xAI 无关）。.
-- [grok-bot-0.18-original](https://github.com/ChHsiching/grok-bot-0.18-original) - 未改动的 Grok Bot 0.18.0 运行时存档：未压缩包机械拆成可复现的模块树（仅供研究；可对照 b-nnett 改造版）。.
+- [grok-bot-0.18-original](https://github.com/ChHsiching/grok-bot-0.18-original) - 未改动的 Grok Bot 0.18.0 运行时存档：未压缩包机械拆成可复现的模块树（仅供研究；可对照 b-nnett 改造版，12★）。.
+- [stealth-bots/grok-bot-proxies](https://github.com/stealth-bots/grok-bot-proxies) - 把 Slack Events 与 Linear Agent webhook 转到 Grok Bot/Cursor routine 的公共 HTTPS 中转（Bearer、challenge echo、Linear GraphQL 回写）；MIT，跑在 Vercel。.
+- [aaravarr/openbot](https://github.com/aaravarr/openbot) - 给 Grok Bot 电脑用的自带模型中转：一行安装、本机控制台，以及把官方主机行为还原的 Official 开关（MIT）。.
+- [Allan-Aa/QuotaRail](https://github.com/Allan-Aa/QuotaRail) - 原生 macOS 侧栏额度条；接 Cursor 时以 Grok Bot 周额度为主环（也看 Claude/Codex/Grok；MIT，v0.9.1）。.
 
 ## 社区与故障现场
 
@@ -307,6 +314,8 @@
 - [Local-computer helper fails registration](https://forum.cursor.com/t/grok-bot-cannot-access-my-local-computer/169924) - 官方：本机助手更新后会启动却注册失败；彻底退出再登出可重建，桌面 0.31.0 正在放量。.
 - [Mac black screen is local DNS not cloud](https://forum.cursor.com/t/grok-bot-desktop-never-joins-existing-ios-bots-latest-app-stuck-on-black-screen/169940) - 官方：Mac 0.30.0 黑屏而 iOS 正常，是本机网络/DNS 连不上健康的云电脑，重建电脑没用。.
 - [Grok Bot does not spend Pro $20 IDE credit](https://forum.cursor.com/t/is-grok-bot-usage-separate-from-cursor-plan/169658) - 官方：Pro 的 20 美元 Other Models 额度不是 Grok Bot 周池；仪表盘「Included in Pro」只是合并账单，关 On-Demand 后周池用完即停。.
+- [Does GrokBot not have access to my Cursor Codebase?](https://forum.cursor.com/t/does-grokbot-not-have-access-to-my-cursor-codebase/169684) - 官方：Grok Bot 没有 codebase 插件、也不会直接索引仓库；写代码会交给已连接 GitHub 的 Cursor Cloud Agent（Dashboard → Integrations），只读可用 GitHub PAT 连接器，从零构建会自动建仓，尚不能访问 Origin。.
+- [Phantom in Grok Bot is a Mess](https://forum.cursor.com/t/phantom-in-grok-bot-is-a-mess/169930) - 官方：Phantom 插件走 @phantom/mcp-server，每次重新授权都会新建独立 agent 钱包而非个人钱包，所以重连会看到新地址，已充值资金仍在旧 agent 地址（可对照聊天记录或找 Phantom Support）。.
 
 ## 相关列表
 
@@ -315,14 +324,14 @@
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill 格式的姐妹生态；不少 SKILL.md 概念上可迁移。.
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - 社区 Bot 目录，站点本身也是 beta。.
 - [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 56 份可粘贴的 Bot 人设和起步小队，丢给 Setup Bot 即可。.
-- [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - 社区提示词目录（111 star）：把条目贴进 Grok Bot，它会把自己配成定时 Bot。.
+- [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - 社区提示词目录（147 star）：把条目贴进 Grok Bot，它会把自己配成定时 Bot。.
 - [rosterroom](https://github.com/codejunkie99/rosterroom) - 82 份可粘贴的 Grok Bot 小队编制，带分工和人工审批门槛。.
 - [usegrokbot.com](https://github.com/a70win-wq/usegrokbot) - 可检索的真实 Grok Bot 工作流库，线上站 usegrokbot.com。.
 - [GrokBotDev / grokbot.dev](https://github.com/ZeroPointRepo/GrokBotDev) - 给 Agent 读的提示词/插件/用例目录；PR 当写入接口，另有 JSON/RSS/MCP。.
 - [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - 大而全的可粘贴 Grok Bot 提示词模板库，覆盖效率、销售、营销和运营。.
 - [ellelion/botteams](https://github.com/ellelion/botteams) - 公开的 Grok Bot 团队目录：复制一条安装提示词，就会建好命名 Bot、群聊和例行任务。.
 - [travisrr/really.bot](https://github.com/travisrr/really.bot) - 公开的 Grok Bot 任务板 really.bot：核过的跑次会盖序号，在 X 上 tag @tryreallybot 就能导入帖子。.
-- [thomasbek3/hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Hermes 桌面插件，把 Grok Bot 那套搬过去：聊天气泡，外加盯着每台 Bot 电脑的实时窗口（46★，与 xAI 无关）。.
+- [thomasbek3/hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Hermes 桌面插件，把 Grok Bot 那套搬过去：聊天气泡，外加盯着每台 Bot 电脑的实时窗口（50★，与 xAI 无关）。.
 - [Ritesh-Root/grok-template](https://github.com/Ritesh-Root/grok-template) - 社区模板市集 groktemplate.vercel.app：可浏览复制可用的 Grok Bot 分享链接和 GitHub 包，浏览无需账号。.
 - [mostdesign01-sudo/grokbot-use-cases](https://github.com/mostdesign01-sudo/grokbot-use-cases) - 非官方双语案例馆（AI UP LAB）：可复用的 Grok Bot 案例、HTML 收集和 Agent UI，数据与页面分离、按 JSON 日更。.
 - [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) - 精选可 Add 的官方 x.ai/bot 分享链接（不是提示词堆），含审查说明、团队套装与 SECURITY.md；资源清单仍指向 RongleCat。.
@@ -331,7 +340,7 @@
 
 ## 贡献
 
-目前 8 个分类、212 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、222 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
