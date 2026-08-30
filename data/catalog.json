@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-08-29",
+  "updated": "2026-08-30",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -334,6 +334,46 @@
             "zh": "官方帮助：Grok Bot 用你的 Cursor 账号，没有单独登录；反复重登仍卡认证或手机验证封号时，按页上步骤试过后要找支持。",
             "ja": "公式ヘルプ。Grok Bot は Cursor アカウントで入り、別ログインはない。認証ループや電話認証ブロックは、記載の手順のあとサポートが必要。"
           }
+        },
+        {
+          "title": "Grok Bot now works with X",
+          "url": "https://x.ai/news/grok-bot-and-x",
+          "source": "day-20260830",
+          "blurb": {
+            "en": "Official 2026-08-29: connect X in Grok Bot (a developer account is created if needed); paid users get free X API credits to search posts, timelines, and mentions.",
+            "zh": "官方 2026-08-29：在 Grok Bot 里接 X（没有开发者账号会代开）；付费用户送 X API 额度，可搜帖、时间线与 mentions。",
+            "ja": "公式 2026-08-29。Grok Bot で X を接続（開発者アカウントが無ければ作成）。有料ユーザーは無料の X API 枠で投稿・タイムライン・メンションを検索できる。"
+          }
+        },
+        {
+          "title": "Getting started with Grok Bot",
+          "url": "https://cursor.com/help/grok-bot/getting-started",
+          "source": "day-20260830",
+          "blurb": {
+            "en": "Cursor help: first-agent setup, Sidebar Sections on iOS v1.2.0+ to group Bots, the beta label is not Cursor Beta Services terms, and a restart-first troubleshooting table.",
+            "zh": "Cursor 帮助：建第一个 Bot、用 iOS v1.2.0+ 侧栏分区归组、beta 不等于 Cursor Beta 条款，以及先彻底退出再排查的表。",
+            "ja": "Cursor ヘルプ。最初のエージェント作成、iOS v1.2.0+ のサイドバー区画、ベータは Cursor Beta 条項ではないこと、再起動優先のトラブル表。"
+          }
+        },
+        {
+          "title": "Subscribe from the mobile app",
+          "url": "https://cursor.com/help/grok-bot/mobile-purchase",
+          "source": "day-20260830",
+          "blurb": {
+            "en": "iOS in-app purchase is monthly individual only; existing Cursor or SuperGrok access carries over, and SuperGrok linking still has to be done on desktop.",
+            "zh": "iOS 内购只有个人月付；已有 Cursor/SuperGrok 权限会带过来，SuperGrok 绑定仍须在桌面完成。",
+            "ja": "iOS のアプリ内課金は個人月額のみ。既存の Cursor/SuperGrok 権限は引き継がれ、SuperGrok のリンクはデスクトップで行う。"
+          }
+        },
+        {
+          "title": "Delete your Grok Bot account",
+          "url": "https://cursor.com/help/grok-bot/delete-account",
+          "source": "day-20260830",
+          "blurb": {
+            "en": "Grok Bot has no separate account: iOS has Delete Account, desktop only signs out, and wiping it deletes the Cursor account plus agents, chats, and the computer.",
+            "zh": "Grok Bot 没有独立账号：iOS 可删号，桌面只能退出；删除等于删 Cursor 账号及 Bot、对话和云电脑。",
+            "ja": "Grok Bot に別アカウントはなく、iOS は削除可、デスクトップはログアウトのみ。削除すると Cursor アカウントと Bot・会話・クラウドPCも消える。"
+          }
         }
       ]
     },
@@ -523,6 +563,16 @@
             "en": "Flavio Copes’ 2026-08-28 deep dive: shared computer, skills to routines, share-as-template, Stripe Link spend requests, and when a script beats a Bot.",
             "zh": "Flavio Copes 2026-08-28 长文：共享云电脑、技能变例程、分享模板、Stripe Link 付款审批，以及什么时候该写脚本而不是用 Bot。",
             "ja": "Flavio Copes の 2026-08-28 深掘り。共有パソコン、スキルからルーチン、テンプレート共有、Stripe Link の支出承認、スクリプトの方がよい場合。"
+          }
+        },
+        {
+          "title": "LAVX: a deep dive into Grok Bot",
+          "url": "https://news.lavx.hu/article/a-deep-dive-into-grok-bot",
+          "source": "day-20260830",
+          "blurb": {
+            "en": "2026-08-29 practitioner guide: shared-computer isolation, plugin-then-browser tool order, Stripe Link approvals, and when Zapier/n8n or a coding agent is a better fit.",
+            "zh": "2026-08-29 实操长文：共享云电脑隔离、先插件后浏览器、Stripe Link 审批，以及何时该用 Zapier/n8n 或编程代理。",
+            "ja": "2026-08-29 の実務ガイド。共有クラウドPCの境界、プラグイン優先、Stripe Link 承認、Zapier/n8n やコーディングエージェントの方が向く場合。"
           }
         }
       ]
@@ -1074,6 +1124,26 @@
             "zh": "把小公司做成共享电脑上的角色 Bot：权限问答、批准清单和 CoS/工程/运营等人设模板。",
             "ja": "1 台の共有パソコン上で役職 Bot を回すための権限プレイブックと CoS／Eng／Ops などのテンプレ。"
           }
+        },
+        {
+          "title": "crew-contract",
+          "url": "https://github.com/lsj210001/crew-contract",
+          "source": "day-20260830",
+          "blurb": {
+            "en": "Operating protocol for Grok Bot crews: seven-field missions, artifact handoffs, stop-on-budget, plus a paste-in Signal Crew and Notion schema.",
+            "zh": "Grok Bot 机队作业协议：七字段任务、制品交接、额度用完即停，附 Signal Crew 安装词和 Notion 库结构。",
+            "ja": "Grok Bot 機隊の運用契約。7 フィールド任務・成果物引き渡し・予算で停止。Signal Crew の貼り付け手順と Notion スキーマ付き。"
+          }
+        },
+        {
+          "title": "cobusgreyling/grok-bot-templates",
+          "url": "https://github.com/cobusgreyling/grok-bot-templates",
+          "source": "pr-4-20260830",
+          "blurb": {
+            "en": "Scored Grok Bot operating contracts (job, never-list, L1 default, CI) with a START.md installer: paste into Setup, tap a team, get 49 paste-ready profiles.",
+            "zh": "可打分的 Grok Bot 操作契约（岗位、永不清单、默认 L1、CI）：把 START.md 贴进 Setup，点一个团队即可装上 49 套可粘贴人设。",
+            "ja": "Grok Bot の採点付き運用契約（職務、never リスト、既定 L1、CI）。START.md を Setup に貼り、チームをタップすると 49 件の人設が入る。"
+          }
         }
       ]
     },
@@ -1373,6 +1443,16 @@
             "en": "Omarchy bar plugin for the unofficial Linux Grok Bot client: running/idle/crash state, GitHub AppImage updates, and launch-or-focus.",
             "zh": "非官方 Linux 客户端的 Omarchy 顶栏插件：显示运行/空闲/崩溃、检查 GitHub 上的新 AppImage，以及启动或切到前台。",
             "ja": "非公式 Linux クライアント向け Omarchy バープラグイン。起動／アイドル／クラッシュ表示、GitHub の AppImage 更新、起動またはフォーカス。"
+          }
+        },
+        {
+          "title": "discord-grok-bot-kit",
+          "url": "https://github.com/larry-fuqua/discord-grok-bot-kit",
+          "source": "day-20260830",
+          "blurb": {
+            "en": "Drop-in Discord listener that wakes a Grok Bot webhook on the owner’s mention, with keep-alive routines and a stdlib reply CLI.",
+            "zh": "即插即用的 Discord 监听：主人 @ 才唤醒 Grok Bot webhook，带保活 routine 和标准库回复命令。",
+            "ja": "オーナーのメンションだけで Grok Bot webhook を起こす Discord リスナー。キープアライブ routine と標準ライブラリの返信 CLI 付き。"
           }
         }
       ]
@@ -1853,6 +1933,36 @@
             "en": "Staff: local-CLI orchestration (including Cursor CLI), always-allow local execution, and authenticated browser sessions are intended Grok Bot use; third-party ToS stay separate, bots share one computer, and a continuous Pro orchestrator burns the weekly pool fast.",
             "zh": "官方确认用本机 CLI（含 Cursor CLI）、Always-allow 本地执行与已登录浏览器会话是 Grok Bot 预期用法；第三方条款另算，多 Bot 共享一台云电脑，Pro 上常驻编排会很快烧完周额度。",
             "ja": "スタッフ確認。ローカルCLI（Cursor CLI含む）・Always-allow・ログイン済みブラウザ操作は想定用途。第三者利用規約は別、BotはクラウドPCを共有し、Proの常駐オーケストレータは週次枠をすぐ消費する。"
+          }
+        },
+        {
+          "title": "Local-computer helper fails registration",
+          "url": "https://forum.cursor.com/t/grok-bot-cannot-access-my-local-computer/169924",
+          "source": "day-20260830",
+          "blurb": {
+            "en": "Staff: the local-computer helper can start then fail registration after an update; full-quit plus sign-out recreates it, and desktop 0.31.0 is rolling out.",
+            "zh": "官方：本机助手更新后会启动却注册失败；彻底退出再登出可重建，桌面 0.31.0 正在放量。",
+            "ja": "スタッフ確認。更新後にローカルヘルパーが起動しても登録に失敗しうる。完全終了＋再ログインで再作成。デスクトップ 0.31.0 配信中。"
+          }
+        },
+        {
+          "title": "Mac black screen is local DNS not cloud",
+          "url": "https://forum.cursor.com/t/grok-bot-desktop-never-joins-existing-ios-bots-latest-app-stuck-on-black-screen/169940",
+          "source": "day-20260830",
+          "blurb": {
+            "en": "Staff: Mac 0.30.0 black screen with working iOS bots is a local network/DNS block to the healthy cloud computer, not a recreate-computer problem.",
+            "zh": "官方：Mac 0.30.0 黑屏而 iOS 正常，是本机网络/DNS 连不上健康的云电脑，重建电脑没用。",
+            "ja": "スタッフ。iOS は動くのに Mac 0.30.0 が黒画面なのは、健全なクラウドPCへのローカルネット/DNS 障害で、再作成では直らない。"
+          }
+        },
+        {
+          "title": "Grok Bot does not spend Pro $20 IDE credit",
+          "url": "https://forum.cursor.com/t/is-grok-bot-usage-separate-from-cursor-plan/169658",
+          "source": "day-20260830",
+          "blurb": {
+            "en": "Staff: Pro’s $20 Other Models credit is not Grok Bot’s weekly pool; dashboard “Included in Pro” is shared billing, and with On-Demand off the Bot just stops at the weekly cap.",
+            "zh": "官方：Pro 的 20 美元 Other Models 额度不是 Grok Bot 周池；仪表盘「Included in Pro」只是合并账单，关 On-Demand 后周池用完即停。",
+            "ja": "スタッフ。Pro の Other Models $20 は Grok Bot 週次枠ではない。ダッシュボードの Included in Pro は請求のまとめ表示で、On-Demand オフなら週次上限で止まる。"
           }
         }
       ]

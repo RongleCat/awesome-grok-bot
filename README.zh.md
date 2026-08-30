@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-193-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-204-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -127,6 +127,10 @@
 - [@bot: Grok Bot can buy things](https://x.com/bot/status/2093419921007108385) - 官方 2026-08-28：连上 Stripe Link 后，Grok Bot 可以替你完成网购付款。.
 - [Grok Bot on Google Play](https://play.google.com/store/apps/details?id=ai.x.grok.bot) - 官方 Google Play 页（2026-08-28 更新）：Android 已能点安装，但 Cursor 帮助仍写仅 iOS，先当上架页，不要当成已正式开放。.
 - [Sign in to Grok Bot](https://cursor.com/help/grok-bot/sign-in) - 官方帮助：Grok Bot 用你的 Cursor 账号，没有单独登录；反复重登仍卡认证或手机验证封号时，按页上步骤试过后要找支持。.
+- [Grok Bot now works with X](https://x.ai/news/grok-bot-and-x) - 官方 2026-08-29：在 Grok Bot 里接 X（没有开发者账号会代开）；付费用户送 X API 额度，可搜帖、时间线与 mentions。.
+- [Getting started with Grok Bot](https://cursor.com/help/grok-bot/getting-started) - Cursor 帮助：建第一个 Bot、用 iOS v1.2.0+ 侧栏分区归组、beta 不等于 Cursor Beta 条款，以及先彻底退出再排查的表。.
+- [Subscribe from the mobile app](https://cursor.com/help/grok-bot/mobile-purchase) - iOS 内购只有个人月付；已有 Cursor/SuperGrok 权限会带过来，SuperGrok 绑定仍须在桌面完成。.
+- [Delete your Grok Bot account](https://cursor.com/help/grok-bot/delete-account) - Grok Bot 没有独立账号：iOS 可删号，桌面只能退出；删除等于删 Cursor 账号及 Bot、对话和云电脑。.
 
 ## 教程与上手指南
 
@@ -148,6 +152,7 @@
 - [John Bai — The Grok Bot design journey (Dive Club)](https://www.youtube.com/watch?v=E-VxnQO73s4) - Grok Bot 设计师 John Bai 复盘最早的原型，以及后来做成现在这款产品的取舍。.
 - [yuanyijie/learn-grok-bot](https://github.com/yuanyijie/learn-grok-bot) - 非官方 16 课：拆 Grok Bot 桌面 Agent 的产品壳——Electron 分层、回合环、推理路由、沙箱、MCP、自动化。.
 - [A deep dive into Grok Bot](https://flaviocopes.com/grok-bot/) - Flavio Copes 2026-08-28 长文：共享云电脑、技能变例程、分享模板、Stripe Link 付款审批，以及什么时候该写脚本而不是用 Bot。.
+- [LAVX: a deep dive into Grok Bot](https://news.lavx.hu/article/a-deep-dive-into-grok-bot) - 2026-08-29 实操长文：共享云电脑隔离、先插件后浏览器、Stripe Link 审批，以及何时该用 Zapier/n8n 或编程代理。.
 
 ## 真实使用案例
 
@@ -207,6 +212,8 @@
 - [mykemueller1-ctrl/grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - 餐厅社媒带货侦察用的 Grok Bot 配置包：代理人设、早间扫描/脚本/目录技能、每日例行，以及可粘贴的 SETUP.md 与 MCP 连接器。.
 - [ShuhangGe/grokbot-queue](https://github.com/ShuhangGe/grokbot-queue) - gbq 命令行：经 Tailscale/SSH 把任务派给正在跑的 Grok Bot，云端干活，本机内存大约固定 400MB。.
 - [3Fold-Labs/grok-bot-org-chart](https://github.com/3Fold-Labs/grok-bot-org-chart) - 把小公司做成共享电脑上的角色 Bot：权限问答、批准清单和 CoS/工程/运营等人设模板。.
+- [crew-contract](https://github.com/lsj210001/crew-contract) - Grok Bot 机队作业协议：七字段任务、制品交接、额度用完即停，附 Signal Crew 安装词和 Notion 库结构。.
+- [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - 可打分的 Grok Bot 操作契约（岗位、永不清单、默认 L1、CI）：把 START.md 贴进 Setup，点一个团队即可装上 49 套可粘贴人设。.
 
 ## 评测与对比
 
@@ -241,6 +248,7 @@
 - [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 非官方模型选择器：给官方客户端每个 Agent 换模型，Grok/Claude/GLM/Gemini/DeepSeek/本地有核过的 wire map，密钥不出本机（235★）。.
 - [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - 非官方 Ubuntu/Linux 桌面移植（deb / AppImage / tarball），把官方 Windows app.asar 接到 Electron 42；当前目标 0.29.0（18★）。.
 - [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - 非官方 Linux 客户端的 Omarchy 顶栏插件：显示运行/空闲/崩溃、检查 GitHub 上的新 AppImage，以及启动或切到前台。.
+- [discord-grok-bot-kit](https://github.com/larry-fuqua/discord-grok-bot-kit) - 即插即用的 Discord 监听：主人 @ 才唤醒 Grok Bot webhook，带保活 routine 和标准库回复命令。.
 
 ## 社区与故障现场
 
@@ -291,6 +299,9 @@
 - [Local execution offline while chat still works](https://forum.cursor.com/t/local-execution-stays-offline-while-chat-still-works/169821) - 官方：本机执行助手可能注册成功后又掉线，于是 Mac 显示离线但聊天还在；先完全退出再开，仍不行就把 ~/.grokbot/local-exec-daemon.log 最近几行贴给官方。.
 - [Reset stuck at 50% Starting is a server-side bad state](https://forum.cursor.com/t/currently-down-grok-bot-retrying-back-end-vm/169834) - 官方：重置卡在 50%「Starting Grok Bot’s computer」是服务端坏状态，不是本机问题；Bot 数据还在，先多等几分钟，仍失败就在帖里回复。.
 - [Local CLI orchestration and always-allow are intended use](https://forum.cursor.com/t/bot-as-the-orchestrator-of-local-clis/169588) - 官方确认用本机 CLI（含 Cursor CLI）、Always-allow 本地执行与已登录浏览器会话是 Grok Bot 预期用法；第三方条款另算，多 Bot 共享一台云电脑，Pro 上常驻编排会很快烧完周额度。.
+- [Local-computer helper fails registration](https://forum.cursor.com/t/grok-bot-cannot-access-my-local-computer/169924) - 官方：本机助手更新后会启动却注册失败；彻底退出再登出可重建，桌面 0.31.0 正在放量。.
+- [Mac black screen is local DNS not cloud](https://forum.cursor.com/t/grok-bot-desktop-never-joins-existing-ios-bots-latest-app-stuck-on-black-screen/169940) - 官方：Mac 0.30.0 黑屏而 iOS 正常，是本机网络/DNS 连不上健康的云电脑，重建电脑没用。.
+- [Grok Bot does not spend Pro $20 IDE credit](https://forum.cursor.com/t/is-grok-bot-usage-separate-from-cursor-plan/169658) - 官方：Pro 的 20 美元 Other Models 额度不是 Grok Bot 周池；仪表盘「Included in Pro」只是合并账单，关 On-Demand 后周池用完即停。.
 
 ## 相关列表
 
@@ -312,7 +323,7 @@
 
 ## 贡献
 
-目前 8 个分类、193 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、204 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

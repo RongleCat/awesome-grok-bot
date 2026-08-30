@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-193-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-204-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -127,6 +127,10 @@
 - [@bot: Grok Bot can buy things](https://x.com/bot/status/2093419921007108385) - Official 2026-08-28: connect Stripe Link and Grok Bot can complete purchases on your behalf.
 - [Grok Bot on Google Play](https://play.google.com/store/apps/details?id=ai.x.grok.bot) - Official Google Play listing (updated 2026-08-28): Android shows Install, but Cursor help still says iOS-only, so treat this as a listing rather than confirmed Android GA.
 - [Sign in to Grok Bot](https://cursor.com/help/grok-bot/sign-in) - Official help: Grok Bot uses your Cursor account (no separate login); persistent auth loops or phone-verification blocks often need support after the listed retries.
+- [Grok Bot now works with X](https://x.ai/news/grok-bot-and-x) - Official 2026-08-29: connect X in Grok Bot (a developer account is created if needed); paid users get free X API credits to search posts, timelines, and mentions.
+- [Getting started with Grok Bot](https://cursor.com/help/grok-bot/getting-started) - Cursor help: first-agent setup, Sidebar Sections on iOS v1.2.0+ to group Bots, the beta label is not Cursor Beta Services terms, and a restart-first troubleshooting table.
+- [Subscribe from the mobile app](https://cursor.com/help/grok-bot/mobile-purchase) - iOS in-app purchase is monthly individual only; existing Cursor or SuperGrok access carries over, and SuperGrok linking still has to be done on desktop.
+- [Delete your Grok Bot account](https://cursor.com/help/grok-bot/delete-account) - Grok Bot has no separate account: iOS has Delete Account, desktop only signs out, and wiping it deletes the Cursor account plus agents, chats, and the computer.
 
 ## Tutorials & Guides
 
@@ -148,6 +152,7 @@
 - [John Bai — The Grok Bot design journey (Dive Club)](https://www.youtube.com/watch?v=E-VxnQO73s4) - Grok Bot designer John Bai walks through the early prototypes and the choices that became the shipped product.
 - [yuanyijie/learn-grok-bot](https://github.com/yuanyijie/learn-grok-bot) - Unofficial 16-lesson course on Grok Bot’s desktop-agent harness: Electron planes, turn loop, inference router, sandbox, MCP, automations.
 - [A deep dive into Grok Bot](https://flaviocopes.com/grok-bot/) - Flavio Copes’ 2026-08-28 deep dive: shared computer, skills to routines, share-as-template, Stripe Link spend requests, and when a script beats a Bot.
+- [LAVX: a deep dive into Grok Bot](https://news.lavx.hu/article/a-deep-dive-into-grok-bot) - 2026-08-29 practitioner guide: shared-computer isolation, plugin-then-browser tool order, Stripe Link approvals, and when Zapier/n8n or a coding agent is a better fit.
 
 ## Field Cases
 
@@ -207,6 +212,8 @@
 - [mykemueller1-ctrl/grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - Grok Bot pack for a restaurant social-commerce scout: agent profile, morning-scan/script/catalog skills, daily routine, and MCP connectors with a copy-paste SETUP.md.
 - [ShuhangGe/grokbot-queue](https://github.com/ShuhangGe/grokbot-queue) - CLI (gbq) that queues work onto your running Grok Bots over Tailscale/SSH so many cloud tasks share a ~400MB local footprint.
 - [3Fold-Labs/grok-bot-org-chart](https://github.com/3Fold-Labs/grok-bot-org-chart) - Permissions playbook and role-bot templates (Chief of Staff, Eng, Ops, and more) for running a small company as named Grok Bots on one shared computer.
+- [crew-contract](https://github.com/lsj210001/crew-contract) - Operating protocol for Grok Bot crews: seven-field missions, artifact handoffs, stop-on-budget, plus a paste-in Signal Crew and Notion schema.
+- [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - Scored Grok Bot operating contracts (job, never-list, L1 default, CI) with a START.md installer: paste into Setup, tap a team, get 49 paste-ready profiles.
 
 ## Reviews & Comparisons
 
@@ -241,6 +248,7 @@
 - [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - Unofficial model picker for the official Grok Bot client: one model per agent, verified wire maps for Grok/Claude/GLM/Gemini/DeepSeek/local, keys stay on your machine (235★).
 - [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - Unofficial Ubuntu/Linux desktop port (deb / AppImage / tarball) that merges the official Windows app.asar onto Electron 42; current target 0.29.0 (18★).
 - [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - Omarchy bar plugin for the unofficial Linux Grok Bot client: running/idle/crash state, GitHub AppImage updates, and launch-or-focus.
+- [discord-grok-bot-kit](https://github.com/larry-fuqua/discord-grok-bot-kit) - Drop-in Discord listener that wakes a Grok Bot webhook on the owner’s mention, with keep-alive routines and a stdlib reply CLI.
 
 ## Community & Failure Modes
 
@@ -291,6 +299,9 @@
 - [Local execution offline while chat still works](https://forum.cursor.com/t/local-execution-stays-offline-while-chat-still-works/169821) - Staff: the local-exec helper can register then drop its server link, so the Mac shows offline while chat still works; fully quit and reopen, and if it fails again send ~/.grokbot/local-exec-daemon.log.
 - [Reset stuck at 50% Starting is a server-side bad state](https://forum.cursor.com/t/currently-down-grok-bot-retrying-back-end-vm/169834) - Staff: a Reset hung at 50% “Starting Grok Bot’s computer” is a bad hosted state, not your install; Bot data is not lost — wait a few minutes, and reply on the thread if it still fails.
 - [Local CLI orchestration and always-allow are intended use](https://forum.cursor.com/t/bot-as-the-orchestrator-of-local-clis/169588) - Staff: local-CLI orchestration (including Cursor CLI), always-allow local execution, and authenticated browser sessions are intended Grok Bot use; third-party ToS stay separate, bots share one computer, and a continuous Pro orchestrator burns the weekly pool fast.
+- [Local-computer helper fails registration](https://forum.cursor.com/t/grok-bot-cannot-access-my-local-computer/169924) - Staff: the local-computer helper can start then fail registration after an update; full-quit plus sign-out recreates it, and desktop 0.31.0 is rolling out.
+- [Mac black screen is local DNS not cloud](https://forum.cursor.com/t/grok-bot-desktop-never-joins-existing-ios-bots-latest-app-stuck-on-black-screen/169940) - Staff: Mac 0.30.0 black screen with working iOS bots is a local network/DNS block to the healthy cloud computer, not a recreate-computer problem.
+- [Grok Bot does not spend Pro $20 IDE credit](https://forum.cursor.com/t/is-grok-bot-usage-separate-from-cursor-plan/169658) - Staff: Pro’s $20 Other Models credit is not Grok Bot’s weekly pool; dashboard “Included in Pro” is shared billing, and with On-Demand off the Bot just stops at the weekly cap.
 
 ## Related Lists
 
@@ -312,7 +323,7 @@
 
 ## Contributing
 
-193 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+204 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

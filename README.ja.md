@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-193-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-204-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -127,6 +127,10 @@
 - [@bot: Grok Bot can buy things](https://x.com/bot/status/2093419921007108385) - 公式 2026-08-28：Stripe Link を接続すると、Grok Bot が代わりに買い物を完了できる。
 - [Grok Bot on Google Play](https://play.google.com/store/apps/details?id=ai.x.grok.bot) - 公式 Google Play（2026-08-28 更新）。Install はあるが、Cursor ヘルプはまだ iOS のみと書いており、正式な Android GA とは断定しない。
 - [Sign in to Grok Bot](https://cursor.com/help/grok-bot/sign-in) - 公式ヘルプ。Grok Bot は Cursor アカウントで入り、別ログインはない。認証ループや電話認証ブロックは、記載の手順のあとサポートが必要。
+- [Grok Bot now works with X](https://x.ai/news/grok-bot-and-x) - 公式 2026-08-29。Grok Bot で X を接続（開発者アカウントが無ければ作成）。有料ユーザーは無料の X API 枠で投稿・タイムライン・メンションを検索できる。
+- [Getting started with Grok Bot](https://cursor.com/help/grok-bot/getting-started) - Cursor ヘルプ。最初のエージェント作成、iOS v1.2.0+ のサイドバー区画、ベータは Cursor Beta 条項ではないこと、再起動優先のトラブル表。
+- [Subscribe from the mobile app](https://cursor.com/help/grok-bot/mobile-purchase) - iOS のアプリ内課金は個人月額のみ。既存の Cursor/SuperGrok 権限は引き継がれ、SuperGrok のリンクはデスクトップで行う。
+- [Delete your Grok Bot account](https://cursor.com/help/grok-bot/delete-account) - Grok Bot に別アカウントはなく、iOS は削除可、デスクトップはログアウトのみ。削除すると Cursor アカウントと Bot・会話・クラウドPCも消える。
 
 ## チュートリアルとガイド
 
@@ -148,6 +152,7 @@
 - [John Bai — The Grok Bot design journey (Dive Club)](https://www.youtube.com/watch?v=E-VxnQO73s4) - Grok Bot デザイナーの John Bai が、初期プロトタイプと製品化までの判断を振り返る。
 - [yuanyijie/learn-grok-bot](https://github.com/yuanyijie/learn-grok-bot) - 非公式 16 レッスン。Grok Bot デスクトップ Agent のハーネス（Electron、ターンループ、推論ルータ、サンドボックス、MCP、自動化）を学ぶ。
 - [A deep dive into Grok Bot](https://flaviocopes.com/grok-bot/) - Flavio Copes の 2026-08-28 深掘り。共有パソコン、スキルからルーチン、テンプレート共有、Stripe Link の支出承認、スクリプトの方がよい場合。
+- [LAVX: a deep dive into Grok Bot](https://news.lavx.hu/article/a-deep-dive-into-grok-bot) - 2026-08-29 の実務ガイド。共有クラウドPCの境界、プラグイン優先、Stripe Link 承認、Zapier/n8n やコーディングエージェントの方が向く場合。
 
 ## 実地事例
 
@@ -207,6 +212,8 @@
 - [mykemueller1-ctrl/grok-bot-restaurant-scout](https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout) - レストランのソーシャル商用スカウト向け Grok Bot パック。エージェント設定、朝スキャン／脚本／カタログ技能、日次ルーチン、MCP、SETUP.md 付き。
 - [ShuhangGe/grokbot-queue](https://github.com/ShuhangGe/grokbot-queue) - Tailscale/SSH 経由で稼働中の Grok Bot に仕事を投げる CLI（gbq）。クラウド側で実行し、ローカルは約 400MB で頭打ち。
 - [3Fold-Labs/grok-bot-org-chart](https://github.com/3Fold-Labs/grok-bot-org-chart) - 1 台の共有パソコン上で役職 Bot を回すための権限プレイブックと CoS／Eng／Ops などのテンプレ。
+- [crew-contract](https://github.com/lsj210001/crew-contract) - Grok Bot 機隊の運用契約。7 フィールド任務・成果物引き渡し・予算で停止。Signal Crew の貼り付け手順と Notion スキーマ付き。
+- [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - Grok Bot の採点付き運用契約（職務、never リスト、既定 L1、CI）。START.md を Setup に貼り、チームをタップすると 49 件の人設が入る。
 
 ## レビューと比較
 
@@ -241,6 +248,7 @@
 - [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 公式クライアント向け非公式モデルピッカー。エージェントごとに Grok/Claude/GLM/Gemini/DeepSeek/ローカルを切替。wire map は検証済み、鍵は手元（235★）。
 - [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - 非公式の Ubuntu/Linux 移植（deb / AppImage / tarball）。公式 Windows の app.asar を Electron 42 に載せる。現行ターゲット 0.29.0（18★）。
 - [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - 非公式 Linux クライアント向け Omarchy バープラグイン。起動／アイドル／クラッシュ表示、GitHub の AppImage 更新、起動またはフォーカス。
+- [discord-grok-bot-kit](https://github.com/larry-fuqua/discord-grok-bot-kit) - オーナーのメンションだけで Grok Bot webhook を起こす Discord リスナー。キープアライブ routine と標準ライブラリの返信 CLI 付き。
 
 ## コミュニティと障害事例
 
@@ -291,6 +299,9 @@
 - [Local execution offline while chat still works](https://forum.cursor.com/t/local-execution-stays-offline-while-chat-still-works/169821) - 公式：ローカル実行ヘルパーが登録直後にサーバ接続を落とし、チャットは生きたまま Mac がオフライン表示になる。完全終了→再起動し、ダメなら ~/.grokbot/local-exec-daemon.log を送る。
 - [Reset stuck at 50% Starting is a server-side bad state](https://forum.cursor.com/t/currently-down-grok-bot-retrying-back-end-vm/169834) - 公式：リセットが 50%「Starting Grok Bot’s computer」で止まるのはサーバ側の不良状態。データは失われていないので数分待ち、ダメならスレで返信。
 - [Local CLI orchestration and always-allow are intended use](https://forum.cursor.com/t/bot-as-the-orchestrator-of-local-clis/169588) - スタッフ確認。ローカルCLI（Cursor CLI含む）・Always-allow・ログイン済みブラウザ操作は想定用途。第三者利用規約は別、BotはクラウドPCを共有し、Proの常駐オーケストレータは週次枠をすぐ消費する。
+- [Local-computer helper fails registration](https://forum.cursor.com/t/grok-bot-cannot-access-my-local-computer/169924) - スタッフ確認。更新後にローカルヘルパーが起動しても登録に失敗しうる。完全終了＋再ログインで再作成。デスクトップ 0.31.0 配信中。
+- [Mac black screen is local DNS not cloud](https://forum.cursor.com/t/grok-bot-desktop-never-joins-existing-ios-bots-latest-app-stuck-on-black-screen/169940) - スタッフ。iOS は動くのに Mac 0.30.0 が黒画面なのは、健全なクラウドPCへのローカルネット/DNS 障害で、再作成では直らない。
+- [Grok Bot does not spend Pro $20 IDE credit](https://forum.cursor.com/t/is-grok-bot-usage-separate-from-cursor-plan/169658) - スタッフ。Pro の Other Models $20 は Grok Bot 週次枠ではない。ダッシュボードの Included in Pro は請求のまとめ表示で、On-Demand オフなら週次上限で止まる。
 
 ## 関連リスト
 
@@ -312,7 +323,7 @@
 
 ## 貢献
 
-8 セクションに 193 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 204 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
