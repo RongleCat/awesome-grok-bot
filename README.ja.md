@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-204-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-212-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -116,7 +116,7 @@
 - [FAQ](https://docs.x.ai/grok-bot/faq) - 利用資格、パソコンの共有、Bot が覚えられることについての公式の短い回答。
 - [Link SuperGrok for Grok Bot](https://cursor.com/help/grok-bot/supergrok-heavy) - Cursor ヘルプ：Grok Bot は SuperGrok Plus と Heavy に含まれる。Ultra 済みなら Plus を繋いでも用量は重なりません。
 - [Grok Bot on mobile (Cursor help)](https://cursor.com/help/grok-bot/mobile) - クラウドパソコン上に残る Bot と、iOS 同伴アプリがどう会話するか。
-- [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - プラグインを優先し、コネクタがなければクラウドブラウザに戻します。
+- [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - プラグインを優先し、無いときはクラウドブラウザに退き、Zoom のデスクトップ認証はエラー 4700（無効なリダイレクト）で回避策がない。
 - [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - 秘密情報は secret card を使い、API キーを Bot のチャットに貼ってはいけません。
 - [Recover Grok Bot computer data](https://cursor.com/help/grok-bot/computer-recovery) - 公式の復旧ガイド。会話はボックス外に保存。再オープンで同期済みファイルが戻り、Reset は最終手段。
 - [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - 公式の課金 FAQ。有料 Cursor と Teams に Grok Bot が付く（Pro < Pro+ < Ultra）。SuperGrok / Plus / Heavy はリンク可、Lite と SuperGrok Team/Enterprise は不可。週次リセット。旧リクエスト課金は従量に切り替えが必要。
@@ -125,12 +125,13 @@
 - [@bot: SuperGrok and Cursor Pro get Grok Bot; weekly usage reset](https://x.com/bot/status/2092664183334846840) - 公式 2026-08-26：全 SuperGrok と Cursor Pro 加入者に Grok Bot を開放し、全員の週次利用枠をリセット。
 - [@bot: share Bot templates](https://x.com/bot/status/2093376523919323618) - 公式 2026-08-28：Bot のテンプレートを他の人と共有できるようになった。
 - [@bot: Grok Bot can buy things](https://x.com/bot/status/2093419921007108385) - 公式 2026-08-28：Stripe Link を接続すると、Grok Bot が代わりに買い物を完了できる。
-- [Grok Bot on Google Play](https://play.google.com/store/apps/details?id=ai.x.grok.bot) - 公式 Google Play（2026-08-28 更新）。Install はあるが、Cursor ヘルプはまだ iOS のみと書いており、正式な Android GA とは断定しない。
+- [Grok Bot on Google Play](https://play.google.com/store/apps/details?id=ai.x.grok.bot) - 公式 Google Play（2026-08-29 更新）。Install はあるが、Cursor ヘルプはまだ iOS のみと書いており、正式な Android GA とは断定しない。
 - [Sign in to Grok Bot](https://cursor.com/help/grok-bot/sign-in) - 公式ヘルプ。Grok Bot は Cursor アカウントで入り、別ログインはない。認証ループや電話認証ブロックは、記載の手順のあとサポートが必要。
 - [Grok Bot now works with X](https://x.ai/news/grok-bot-and-x) - 公式 2026-08-29。Grok Bot で X を接続（開発者アカウントが無ければ作成）。有料ユーザーは無料の X API 枠で投稿・タイムライン・メンションを検索できる。
 - [Getting started with Grok Bot](https://cursor.com/help/grok-bot/getting-started) - Cursor ヘルプ。最初のエージェント作成、iOS v1.2.0+ のサイドバー区画、ベータは Cursor Beta 条項ではないこと、再起動優先のトラブル表。
 - [Subscribe from the mobile app](https://cursor.com/help/grok-bot/mobile-purchase) - iOS のアプリ内課金は個人月額のみ。既存の Cursor/SuperGrok 権限は引き継がれ、SuperGrok のリンクはデスクトップで行う。
 - [Delete your Grok Bot account](https://cursor.com/help/grok-bot/delete-account) - Grok Bot に別アカウントはなく、iOS は削除可、デスクトップはログアウトのみ。削除すると Cursor アカウントと Bot・会話・クラウドPCも消える。
+- [@bot: improved X support](https://x.com/bot/status/2093822274067706170) - 公式 2026-08-29。Grok Bot の X 連携が強化され、プロフィール接続で開発者アカウントが自動作成されクレジットが付く。
 
 ## チュートリアルとガイド
 
@@ -153,6 +154,7 @@
 - [yuanyijie/learn-grok-bot](https://github.com/yuanyijie/learn-grok-bot) - 非公式 16 レッスン。Grok Bot デスクトップ Agent のハーネス（Electron、ターンループ、推論ルータ、サンドボックス、MCP、自動化）を学ぶ。
 - [A deep dive into Grok Bot](https://flaviocopes.com/grok-bot/) - Flavio Copes の 2026-08-28 深掘り。共有パソコン、スキルからルーチン、テンプレート共有、Stripe Link の支出承認、スクリプトの方がよい場合。
 - [LAVX: a deep dive into Grok Bot](https://news.lavx.hu/article/a-deep-dive-into-grok-bot) - 2026-08-29 の実務ガイド。共有クラウドPCの境界、プラグイン優先、Stripe Link 承認、Zapier/n8n やコーディングエージェントの方が向く場合。
+- [Grok Bot Plays](https://github.com/ZooHero500/plays) - 非公式の Grok Bot プレイ集。公開投稿とドキュメントから書き直し、出典付き。サイトに英語 138 本（grokbotplays.com）。
 
 ## 実地事例
 
@@ -214,6 +216,7 @@
 - [3Fold-Labs/grok-bot-org-chart](https://github.com/3Fold-Labs/grok-bot-org-chart) - 1 台の共有パソコン上で役職 Bot を回すための権限プレイブックと CoS／Eng／Ops などのテンプレ。
 - [crew-contract](https://github.com/lsj210001/crew-contract) - Grok Bot 機隊の運用契約。7 フィールド任務・成果物引き渡し・予算で停止。Signal Crew の貼り付け手順と Notion スキーマ付き。
 - [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - Grok Bot の採点付き運用契約（職務、never リスト、既定 L1、CI）。START.md を Setup に貼り、チームをタップすると 49 件の人設が入る。
+- [jaredtrichard/grok-factory](https://github.com/jaredtrichard/grok-factory) - `follow …/GROK_FACTORY.md` で入れる Grok Bot パック（ソフト／リサーチ／汎用）。共有コンピュータ上で Firstmate が振り分け（1★）。
 
 ## レビューと比較
 
@@ -243,12 +246,14 @@
 - [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - 公式デスクトップの Wine なし Linux 移植（Arch AUR）。現行リリース 0.30.0。公式に Linux 版がないため WIP。
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Grok Bot 0.18.0 macOS 版の非公式 TypeScript 再構成。ローカル推論ルータの実験付き。
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - Cursor CDN 上の公式 Linux パッケージ URL 一覧（deb/rpm/AppImage）。インストーラ自体は置かない。
-- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.30.0。Debian 12 / Omarchy / Arch / Mint で確認（23★）。
+- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.30.0。Debian 12 / Omarchy / Arch / Mint で確認（26★）。
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - Grok Bot 型の OSS。名前付きチームメイト、共有の永続コンピュータ、承認とルーチン（Rust/Tauri）。
 - [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 公式クライアント向け非公式モデルピッカー。エージェントごとに Grok/Claude/GLM/Gemini/DeepSeek/ローカルを切替。wire map は検証済み、鍵は手元（235★）。
-- [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - 非公式の Ubuntu/Linux 移植（deb / AppImage / tarball）。公式 Windows の app.asar を Electron 42 に載せる。現行ターゲット 0.29.0（18★）。
+- [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - 非公式の Ubuntu/Linux 移植（deb / AppImage / tarball）。公式 Windows の app.asar を Electron 42 に載せる。現行ターゲット 0.29.0（22★）。
 - [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - 非公式 Linux クライアント向け Omarchy バープラグイン。起動／アイドル／クラッシュ表示、GitHub の AppImage 更新、起動またはフォーカス。
 - [discord-grok-bot-kit](https://github.com/larry-fuqua/discord-grok-bot-kit) - オーナーのメンションだけで Grok Bot webhook を起こす Discord リスナー。キープアライブ routine と標準ライブラリの返信 CLI 付き。
+- [parasite6/grok-bot-linux](https://github.com/parasite6/grok-bot-linux) - 公開 .deb から作った非公式 Fedora RPM（Grok Bot 0.30.0）。パッケージ文書は MIT。xAI 非公式（1★）。
+- [grok-bot-0.18-original](https://github.com/ChHsiching/grok-bot-0.18-original) - 未改変の Grok Bot 0.18.0 ランタイム保管庫。非圧縮バンドルを機械分割した再現可能なモジュール樹（研究用。b-nnett 改造版の対になる、10★）。
 
 ## コミュニティと障害事例
 
@@ -320,10 +325,13 @@
 - [thomasbek3/hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Hermes Desktop 向けプラグイン。Grok Bot 風の吹き出しと、各 Bot パソコンのライブ画面（46★、xAI 非公式）。
 - [Ritesh-Root/grok-template](https://github.com/Ritesh-Root/grok-template) - groktemplate.vercel.app のコミュニティ市集。動く Grok Bot 共有リンクと GitHub パックを、アカウントなしで閲覧・コピー。
 - [mostdesign01-sudo/grokbot-use-cases](https://github.com/mostdesign01-sudo/grokbot-use-cases) - 非公式のバイリンガル事例館（AI UP LAB）。再利用できる Grok Bot 事例・HTML・Agent UI を JSON データから日次更新。
+- [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) - 公式 x.ai/bot 共有リンクの厳選リスト（プロンプト置き場ではない）。審査メモ・チームパック・SECURITY.md あり。リソース一覧は RongleCat を案内（1★）。
+- [PramodDutta/botskills](https://github.com/PramodDutta/botskills) - Grok Bot / Rakazo 向けの貼り付け用 BOT.md カタログ。各掲載に人の承認なしではしない境界文が必須で、Next.js リーダーボード付き（MIT、1★）。
+- [AmitMirgal/orgbot-hub](https://github.com/AmitMirgal/orgbot-hub) - 導入可能な Grok Bot チームパックのディレクトリアプリ（公式 x.ai/bot 共有 URL のみ）。Supabase/Docker シードでローカル閲覧（1★）。
 
 ## 貢献
 
-8 セクションに 204 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 212 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

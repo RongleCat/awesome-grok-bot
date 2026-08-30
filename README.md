@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-204-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-212-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -116,7 +116,7 @@
 - [FAQ](https://docs.x.ai/grok-bot/faq) - Short official answers on access, computer sharing, and what Bots can remember.
 - [Link SuperGrok for Grok Bot](https://cursor.com/help/grok-bot/supergrok-heavy) - Cursor help: Grok Bot is now on SuperGrok Plus and Heavy; already on Ultra, linking Plus does not stack usage.
 - [Grok Bot on mobile (Cursor help)](https://cursor.com/help/grok-bot/mobile) - How the iOS companion talks to Bots that stay on the cloud computer.
-- [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - Prefer a plugin; fall back to the cloud browser when the connector is missing.
+- [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - Prefer a plugin and fall back to the cloud browser when it is missing; Zoom desktop auth currently fails with error 4700 (invalid redirect) and has no workaround.
 - [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - Use the secret card. Never paste API keys into the Bot chat.
 - [Recover Grok Bot computer data](https://cursor.com/help/grok-bot/computer-recovery) - Official recovery guide: chat history lives outside the box; reopen restores synced files, Reset is last resort.
 - [Grok Bot plans and billing](https://cursor.com/help/grok-bot/plans) - Official billing FAQ: paid Cursor plans and Teams include Grok Bot (Pro below Pro+ below Ultra); SuperGrok / Plus / Heavy can link, Lite and SuperGrok Team/Enterprise cannot; weekly usage resets; legacy request-based pricing is excluded unless you opt into usage-based.
@@ -125,12 +125,13 @@
 - [@bot: SuperGrok and Cursor Pro get Grok Bot; weekly usage reset](https://x.com/bot/status/2092664183334846840) - Official 2026-08-26: all SuperGrok and Cursor Pro subscribers get Grok Bot, and weekly usage limits were reset for everyone.
 - [@bot: share Bot templates](https://x.com/bot/status/2093376523919323618) - Official 2026-08-28: you can now share templates of your Bots with others.
 - [@bot: Grok Bot can buy things](https://x.com/bot/status/2093419921007108385) - Official 2026-08-28: connect Stripe Link and Grok Bot can complete purchases on your behalf.
-- [Grok Bot on Google Play](https://play.google.com/store/apps/details?id=ai.x.grok.bot) - Official Google Play listing (updated 2026-08-28): Android shows Install, but Cursor help still says iOS-only, so treat this as a listing rather than confirmed Android GA.
+- [Grok Bot on Google Play](https://play.google.com/store/apps/details?id=ai.x.grok.bot) - Official Google Play listing (updated 2026-08-29): Android shows Install, but Cursor help still says iOS-only, so treat this as a listing rather than confirmed Android GA.
 - [Sign in to Grok Bot](https://cursor.com/help/grok-bot/sign-in) - Official help: Grok Bot uses your Cursor account (no separate login); persistent auth loops or phone-verification blocks often need support after the listed retries.
 - [Grok Bot now works with X](https://x.ai/news/grok-bot-and-x) - Official 2026-08-29: connect X in Grok Bot (a developer account is created if needed); paid users get free X API credits to search posts, timelines, and mentions.
 - [Getting started with Grok Bot](https://cursor.com/help/grok-bot/getting-started) - Cursor help: first-agent setup, Sidebar Sections on iOS v1.2.0+ to group Bots, the beta label is not Cursor Beta Services terms, and a restart-first troubleshooting table.
 - [Subscribe from the mobile app](https://cursor.com/help/grok-bot/mobile-purchase) - iOS in-app purchase is monthly individual only; existing Cursor or SuperGrok access carries over, and SuperGrok linking still has to be done on desktop.
 - [Delete your Grok Bot account](https://cursor.com/help/grok-bot/delete-account) - Grok Bot has no separate account: iOS has Delete Account, desktop only signs out, and wiping it deletes the Cursor account plus agents, chats, and the computer.
+- [@bot: improved X support](https://x.com/bot/status/2093822274067706170) - Official 2026-08-29: Grok Bot now has improved X support; connecting your X profile auto-creates a developer account with included credits.
 
 ## Tutorials & Guides
 
@@ -153,6 +154,7 @@
 - [yuanyijie/learn-grok-bot](https://github.com/yuanyijie/learn-grok-bot) - Unofficial 16-lesson course on Grok Bot’s desktop-agent harness: Electron planes, turn loop, inference router, sandbox, MCP, automations.
 - [A deep dive into Grok Bot](https://flaviocopes.com/grok-bot/) - Flavio Copes’ 2026-08-28 deep dive: shared computer, skills to routines, share-as-template, Stripe Link spend requests, and when a script beats a Bot.
 - [LAVX: a deep dive into Grok Bot](https://news.lavx.hu/article/a-deep-dive-into-grok-bot) - 2026-08-29 practitioner guide: shared-computer isolation, plugin-then-browser tool order, Stripe Link approvals, and when Zapier/n8n or a coding agent is a better fit.
+- [Grok Bot Plays](https://github.com/ZooHero500/plays) - Unofficial how-to catalog of Grok Bot plays rewritten from public posts and docs with source links; the site hosts 138 English plays (grokbotplays.com).
 
 ## Field Cases
 
@@ -214,6 +216,7 @@
 - [3Fold-Labs/grok-bot-org-chart](https://github.com/3Fold-Labs/grok-bot-org-chart) - Permissions playbook and role-bot templates (Chief of Staff, Eng, Ops, and more) for running a small company as named Grok Bots on one shared computer.
 - [crew-contract](https://github.com/lsj210001/crew-contract) - Operating protocol for Grok Bot crews: seven-field missions, artifact handoffs, stop-on-budget, plus a paste-in Signal Crew and Notion schema.
 - [cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - Scored Grok Bot operating contracts (job, never-list, L1 default, CI) with a START.md installer: paste into Setup, tap a team, get 49 paste-ready profiles.
+- [jaredtrichard/grok-factory](https://github.com/jaredtrichard/grok-factory) - Followable Grok Bot pack (software + research + general) installed via `follow …/GROK_FACTORY.md`; Firstmate routes work on the shared computer.
 
 ## Reviews & Comparisons
 
@@ -243,12 +246,14 @@
 - [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - Wine-less Linux port of the official desktop app (Arch AUR packages); current release 0.30.0, WIP because xAI ships no Linux build.
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Unofficial TypeScript reconstruction of Grok Bot 0.18.0 for macOS, plus a local inference router experiment.
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - Community index of official Cursor-CDN Linux .deb/.rpm/AppImage URLs; does not host installers.
-- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.30.0, tested on Debian 12, Omarchy, Arch, and Mint (23★).
+- [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.30.0, tested on Debian 12, Omarchy, Arch, and Mint (26★).
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - Open-source Grok Bot-shaped roster: named teammates, one durable computer, approvals, and routines (Rust/Tauri).
 - [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - Unofficial model picker for the official Grok Bot client: one model per agent, verified wire maps for Grok/Claude/GLM/Gemini/DeepSeek/local, keys stay on your machine (235★).
-- [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - Unofficial Ubuntu/Linux desktop port (deb / AppImage / tarball) that merges the official Windows app.asar onto Electron 42; current target 0.29.0 (18★).
+- [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - Unofficial Ubuntu/Linux desktop port (deb / AppImage / tarball) that merges the official Windows app.asar onto Electron 42; current target 0.29.0 (22★).
 - [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - Omarchy bar plugin for the unofficial Linux Grok Bot client: running/idle/crash state, GitHub AppImage updates, and launch-or-focus.
 - [discord-grok-bot-kit](https://github.com/larry-fuqua/discord-grok-bot-kit) - Drop-in Discord listener that wakes a Grok Bot webhook on the owner’s mention, with keep-alive routines and a stdlib reply CLI.
+- [parasite6/grok-bot-linux](https://github.com/parasite6/grok-bot-linux) - Unofficial Fedora RPM of Grok Bot 0.30.0 converted from the public .deb (MIT packaging notes; not affiliated with xAI).
+- [grok-bot-0.18-original](https://github.com/ChHsiching/grok-bot-0.18-original) - Untouched Grok Bot 0.18.0 runtime archive: unminified bundles mechanically split into a reproducible per-module tree (study-only; pairs with b-nnett reconstruction).
 
 ## Community & Failure Modes
 
@@ -320,10 +325,13 @@
 - [thomasbek3/hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Hermes Desktop plugins that copy the Grok Bot feel: iMessage-style bubbles plus a live window into each bot’s computer (46★, not affiliated with xAI).
 - [Ritesh-Root/grok-template](https://github.com/Ritesh-Root/grok-template) - Community marketplace at groktemplate.vercel.app for working Grok Bot share links and GitHub packs — browse and copy with no account.
 - [mostdesign01-sudo/grokbot-use-cases](https://github.com/mostdesign01-sudo/grokbot-use-cases) - Unofficial bilingual gallery (AI UP LAB) of reusable Grok Bot cases, HTML collects, and Agent UI, updated from data JSON.
+- [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) - Curated official x.ai/bot share links (not prompt dumps) with vetting notes, team packs, and SECURITY.md; points to RongleCat for resource lists.
+- [PramodDutta/botskills](https://github.com/PramodDutta/botskills) - Paste-ready BOT.md directory for Grok Bot and Rakazo; every listing requires a hard human-approval boundary and ships a Next.js leaderboard.
+- [AmitMirgal/orgbot-hub](https://github.com/AmitMirgal/orgbot-hub) - Directory app for installable Grok Bot team packs (official x.ai/bot share URLs only); local catalog via Supabase/Docker seed.
 
 ## Contributing
 
-204 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+212 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

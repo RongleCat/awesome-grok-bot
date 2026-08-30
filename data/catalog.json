@@ -230,9 +230,9 @@
           "url": "https://cursor.com/help/grok-bot/connect-plugins",
           "source": "GB-023",
           "blurb": {
-            "en": "Prefer a plugin; fall back to the cloud browser when the connector is missing.",
-            "zh": "优先插件；没有连接器就退回云浏览器。",
-            "ja": "プラグインを優先し、コネクタがなければクラウドブラウザに戻します。"
+            "en": "Prefer a plugin and fall back to the cloud browser when it is missing; Zoom desktop auth currently fails with error 4700 (invalid redirect) and has no workaround.",
+            "zh": "优先用插件，没有连接器再退到云浏览器；桌面端 Zoom 授权会报 4700（无效跳转），目前没有变通办法。",
+            "ja": "プラグインを優先し、無いときはクラウドブラウザに退き、Zoom のデスクトップ認証はエラー 4700（無効なリダイレクト）で回避策がない。"
           }
         },
         {
@@ -320,9 +320,9 @@
           "url": "https://play.google.com/store/apps/details?id=ai.x.grok.bot",
           "source": "day-20260829",
           "blurb": {
-            "en": "Official Google Play listing (updated 2026-08-28): Android shows Install, but Cursor help still says iOS-only, so treat this as a listing rather than confirmed Android GA.",
-            "zh": "官方 Google Play 页（2026-08-28 更新）：Android 已能点安装，但 Cursor 帮助仍写仅 iOS，先当上架页，不要当成已正式开放。",
-            "ja": "公式 Google Play（2026-08-28 更新）。Install はあるが、Cursor ヘルプはまだ iOS のみと書いており、正式な Android GA とは断定しない。"
+            "en": "Official Google Play listing (updated 2026-08-29): Android shows Install, but Cursor help still says iOS-only, so treat this as a listing rather than confirmed Android GA.",
+            "zh": "官方 Google Play 页（2026-08-29 更新）：Android 已能点安装，但 Cursor 帮助仍写仅 iOS，先当上架页，不要当成已正式开放。",
+            "ja": "公式 Google Play（2026-08-29 更新）。Install はあるが、Cursor ヘルプはまだ iOS のみと書いており、正式な Android GA とは断定しない。"
           }
         },
         {
@@ -373,6 +373,16 @@
             "en": "Grok Bot has no separate account: iOS has Delete Account, desktop only signs out, and wiping it deletes the Cursor account plus agents, chats, and the computer.",
             "zh": "Grok Bot 没有独立账号：iOS 可删号，桌面只能退出；删除等于删 Cursor 账号及 Bot、对话和云电脑。",
             "ja": "Grok Bot に別アカウントはなく、iOS は削除可、デスクトップはログアウトのみ。削除すると Cursor アカウントと Bot・会話・クラウドPCも消える。"
+          }
+        },
+        {
+          "title": "@bot: improved X support",
+          "url": "https://x.com/bot/status/2093822274067706170",
+          "source": "day-20260830-1304",
+          "blurb": {
+            "en": "Official 2026-08-29: Grok Bot now has improved X support; connecting your X profile auto-creates a developer account with included credits.",
+            "zh": "官方 2026-08-29：Grok Bot 加强 X 支持；连接 X 资料会自动创建开发者账号并附赠额度。",
+            "ja": "公式 2026-08-29。Grok Bot の X 連携が強化され、プロフィール接続で開発者アカウントが自動作成されクレジットが付く。"
           }
         }
       ]
@@ -573,6 +583,16 @@
             "en": "2026-08-29 practitioner guide: shared-computer isolation, plugin-then-browser tool order, Stripe Link approvals, and when Zapier/n8n or a coding agent is a better fit.",
             "zh": "2026-08-29 实操长文：共享云电脑隔离、先插件后浏览器、Stripe Link 审批，以及何时该用 Zapier/n8n 或编程代理。",
             "ja": "2026-08-29 の実務ガイド。共有クラウドPCの境界、プラグイン優先、Stripe Link 承認、Zapier/n8n やコーディングエージェントの方が向く場合。"
+          }
+        },
+        {
+          "title": "Grok Bot Plays",
+          "url": "https://github.com/ZooHero500/plays",
+          "source": "day-20260830-1304",
+          "blurb": {
+            "en": "Unofficial how-to catalog of Grok Bot plays rewritten from public posts and docs with source links; the site hosts 138 English plays (grokbotplays.com).",
+            "zh": "非官方 Grok Bot 玩法目录：从公开帖和文档改写并附来源链接；站点有 138 条英文玩法（grokbotplays.com）。",
+            "ja": "非公式の Grok Bot プレイ集。公開投稿とドキュメントから書き直し、出典付き。サイトに英語 138 本（grokbotplays.com）。"
           }
         }
       ]
@@ -1144,6 +1164,16 @@
             "zh": "可打分的 Grok Bot 操作契约（岗位、永不清单、默认 L1、CI）：把 START.md 贴进 Setup，点一个团队即可装上 49 套可粘贴人设。",
             "ja": "Grok Bot の採点付き運用契約（職務、never リスト、既定 L1、CI）。START.md を Setup に貼り、チームをタップすると 49 件の人設が入る。"
           }
+        },
+        {
+          "title": "jaredtrichard/grok-factory",
+          "url": "https://github.com/jaredtrichard/grok-factory",
+          "source": "day-20260830-1304",
+          "blurb": {
+            "en": "Followable Grok Bot pack (software + research + general) installed via `follow …/GROK_FACTORY.md`; Firstmate routes work on the shared computer.",
+            "zh": "可 `follow …/GROK_FACTORY.md` 安装的 Grok Bot 套装（软件+研究+通用）；由 Firstmate 在共享电脑上调度。",
+            "ja": "`follow …/GROK_FACTORY.md` で入れる Grok Bot パック（ソフト／リサーチ／汎用）。共有コンピュータ上で Firstmate が振り分け（1★）。"
+          }
         }
       ]
     },
@@ -1400,9 +1430,9 @@
           "url": "https://github.com/glorics/grok-bot-linux",
           "source": "day-20260827",
           "blurb": {
-            "en": "Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.30.0, tested on Debian 12, Omarchy, Arch, and Mint (23★).",
-            "zh": "非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.30.0，Debian 12、Omarchy、Arch、Mint 测过（23★）。",
-            "ja": "公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.30.0。Debian 12 / Omarchy / Arch / Mint で確認（23★）。"
+            "en": "Unofficial Linux x86_64 desktop client built from the official Windows installer; current 0.30.0, tested on Debian 12, Omarchy, Arch, and Mint (26★).",
+            "zh": "非官方 Linux x86_64 桌面端：从官方 Windows 安装包抽出再打，当前 0.30.0，Debian 12、Omarchy、Arch、Mint 测过（26★）。",
+            "ja": "公式 Windows インストーラから作った非公式 Linux x86_64 デスクトップ。現行 0.30.0。Debian 12 / Omarchy / Arch / Mint で確認（26★）。"
           }
         },
         {
@@ -1430,9 +1460,9 @@
           "url": "https://github.com/jakob-bu/grok-bot-linux-unofficial",
           "source": "day-20260829",
           "blurb": {
-            "en": "Unofficial Ubuntu/Linux desktop port (deb / AppImage / tarball) that merges the official Windows app.asar onto Electron 42; current target 0.29.0 (18★).",
-            "zh": "非官方 Ubuntu/Linux 桌面移植（deb / AppImage / tarball），把官方 Windows app.asar 接到 Electron 42；当前目标 0.29.0（18★）。",
-            "ja": "非公式の Ubuntu/Linux 移植（deb / AppImage / tarball）。公式 Windows の app.asar を Electron 42 に載せる。現行ターゲット 0.29.0（18★）。"
+            "en": "Unofficial Ubuntu/Linux desktop port (deb / AppImage / tarball) that merges the official Windows app.asar onto Electron 42; current target 0.29.0 (22★).",
+            "zh": "非官方 Ubuntu/Linux 桌面移植（deb / AppImage / tarball），把官方 Windows app.asar 接到 Electron 42；当前目标 0.29.0（22★）。",
+            "ja": "非公式の Ubuntu/Linux 移植（deb / AppImage / tarball）。公式 Windows の app.asar を Electron 42 に載せる。現行ターゲット 0.29.0（22★）。"
           }
         },
         {
@@ -1453,6 +1483,26 @@
             "en": "Drop-in Discord listener that wakes a Grok Bot webhook on the owner’s mention, with keep-alive routines and a stdlib reply CLI.",
             "zh": "即插即用的 Discord 监听：主人 @ 才唤醒 Grok Bot webhook，带保活 routine 和标准库回复命令。",
             "ja": "オーナーのメンションだけで Grok Bot webhook を起こす Discord リスナー。キープアライブ routine と標準ライブラリの返信 CLI 付き。"
+          }
+        },
+        {
+          "title": "parasite6/grok-bot-linux",
+          "url": "https://github.com/parasite6/grok-bot-linux",
+          "source": "day-20260830-1304",
+          "blurb": {
+            "en": "Unofficial Fedora RPM of Grok Bot 0.30.0 converted from the public .deb (MIT packaging notes; not affiliated with xAI).",
+            "zh": "非官方 Fedora RPM：把公开 .deb 转成 Grok Bot 0.30.0（打包说明 MIT；与 xAI 无关）。",
+            "ja": "公開 .deb から作った非公式 Fedora RPM（Grok Bot 0.30.0）。パッケージ文書は MIT。xAI 非公式（1★）。"
+          }
+        },
+        {
+          "title": "grok-bot-0.18-original",
+          "url": "https://github.com/ChHsiching/grok-bot-0.18-original",
+          "source": "day-20260830-1304",
+          "blurb": {
+            "en": "Untouched Grok Bot 0.18.0 runtime archive: unminified bundles mechanically split into a reproducible per-module tree (study-only; pairs with b-nnett reconstruction).",
+            "zh": "未改动的 Grok Bot 0.18.0 运行时存档：未压缩包机械拆成可复现的模块树（仅供研究；可对照 b-nnett 改造版）。",
+            "ja": "未改変の Grok Bot 0.18.0 ランタイム保管庫。非圧縮バンドルを機械分割した再現可能なモジュール樹（研究用。b-nnett 改造版の対になる、10★）。"
           }
         }
       ]
@@ -2123,6 +2173,36 @@
             "en": "Unofficial bilingual gallery (AI UP LAB) of reusable Grok Bot cases, HTML collects, and Agent UI, updated from data JSON.",
             "zh": "非官方双语案例馆（AI UP LAB）：可复用的 Grok Bot 案例、HTML 收集和 Agent UI，数据与页面分离、按 JSON 日更。",
             "ja": "非公式のバイリンガル事例館（AI UP LAB）。再利用できる Grok Bot 事例・HTML・Agent UI を JSON データから日次更新。"
+          }
+        },
+        {
+          "title": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot",
+          "source": "day-20260830-1304",
+          "blurb": {
+            "en": "Curated official x.ai/bot share links (not prompt dumps) with vetting notes, team packs, and SECURITY.md; points to RongleCat for resource lists.",
+            "zh": "精选可 Add 的官方 x.ai/bot 分享链接（不是提示词堆），含审查说明、团队套装与 SECURITY.md；资源清单仍指向 RongleCat。",
+            "ja": "公式 x.ai/bot 共有リンクの厳選リスト（プロンプト置き場ではない）。審査メモ・チームパック・SECURITY.md あり。リソース一覧は RongleCat を案内（1★）。"
+          }
+        },
+        {
+          "title": "PramodDutta/botskills",
+          "url": "https://github.com/PramodDutta/botskills",
+          "source": "day-20260830-1304",
+          "blurb": {
+            "en": "Paste-ready BOT.md directory for Grok Bot and Rakazo; every listing requires a hard human-approval boundary and ships a Next.js leaderboard.",
+            "zh": "面向 Grok Bot 与 Rakazo 的可粘贴 BOT.md 目录；每条必须写清「未经人批绝不做」的硬边界，并带 Next.js 排行榜站。",
+            "ja": "Grok Bot / Rakazo 向けの貼り付け用 BOT.md カタログ。各掲載に人の承認なしではしない境界文が必須で、Next.js リーダーボード付き（MIT、1★）。"
+          }
+        },
+        {
+          "title": "AmitMirgal/orgbot-hub",
+          "url": "https://github.com/AmitMirgal/orgbot-hub",
+          "source": "day-20260830-1304",
+          "blurb": {
+            "en": "Directory app for installable Grok Bot team packs (official x.ai/bot share URLs only); local catalog via Supabase/Docker seed.",
+            "zh": "可安装的 Grok Bot 团队套装目录应用（只收录官方 x.ai/bot 分享链接）；可用 Supabase/Docker 种子本地跑目录。",
+            "ja": "導入可能な Grok Bot チームパックのディレクトリアプリ（公式 x.ai/bot 共有 URL のみ）。Supabase/Docker シードでローカル閲覧（1★）。"
           }
         }
       ]
