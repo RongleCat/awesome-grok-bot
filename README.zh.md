@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-256-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-269-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -57,13 +57,13 @@
 - [Grok Bot 札幌线下交流 #2](https://luma.com/91kju0je) — 2026-10-02 周五 19:00–22:00（札幌）. 札幌第二场 Grok Bot 线下。
 - [Grok Bot 昆巴亚线下交流](https://luma.com/cccumbaya) — 2026-10-03 周六 09:30–12:00（厄瓜多尔）. 基多郊区 Cumbayá 线下 Grok Bot。
 - [旧金山 Grok @bot 构建演示](https://luma.com/p4rvaf0y) — 2026-09-01 周二 18:00–20:00（旧金山）. 旧金山 Grok Bot 构建演示。
-- [Grok Bot 奈梅亨共建](https://luma.com/fw7ovtge) — 2026-09-02 周三 15:00–20:00（荷兰）. 奈梅亨下午一起用 Grok Bot 做东西。
+- [Grok Bot 奈梅亨共建](https://luma.com/fw7ovtge) — 2026-09-02 周三 16:00–21:00（荷兰）. 奈梅亨下午一起用 Grok Bot 做东西。
 - [Grok Bot 巴罗达线下交流](https://luma.com/grokbot-vad-1) — 2026-09-05 周六 10:00–13:00（巴罗达）. 巴罗达线下 Grok Bot。
 - [Grok Bot 东京线下交流](https://luma.com/grokbottokyo) — 2026-09-09 周三 19:00–21:30（东京）. 东京线下 Grok Bot。
 - [Grok Bot 大阪线下交流](https://luma.com/grokbotosaka) — 2026-09-17 周四 19:00–21:30（大阪）. 大阪线下 Grok Bot。
 - [Grok Bot 宿务线下交流](https://luma.com/cursor-dyb8) — 2026-09-19 周六 09:00–11:30（宿务）. 宿务线下 Grok Bot。
 - [Grok Bot 维多利亚（BC）线下交流](https://luma.com/grokbot) — 2026-09-21 周一 18:00–21:00（维多利亚）. 维多利亚 Grok Bot 动手夜。
-- [Grok Bot 门多萨线下交流](https://luma.com/cursor-mtu0) — 2026-09-29 周二 16:00–19:00（门多萨）. 门多萨线下 Grok Bot。
+- [Grok Bot 门多萨线下交流](https://luma.com/cursor-mtu0) — 2026-10-03 周六 17:00–20:00（门多萨）. 门多萨线下 Grok Bot。
 - [Grok Bot 哥本哈根线下交流](https://luma.com/cursor-t9m9) — 2026-09-09 周三 17:00–20:00（哥本哈根）. 哥本哈根首场 Grok Bot 线下。
 - [Grok Bot 雅温得线下交流](https://luma.com/cursor-90pj) — 2026-09-10 周四 11:30–15:00（雅温得）. 雅温得线下 Grok Bot。
 - [Grok Bot 萨德伯里线下交流 #1](https://luma.com/cursor-nmzu) — 2026-09-17 周四 18:00–20:00（萨德伯里）. 萨德伯里首场 Grok Bot 线下。
@@ -87,6 +87,8 @@
 - [Grok Bot Build Night（Rose-Hulman / 特雷霍特）](https://luma.com/s76hornw) — 2026-09-03 周四 18:30–20:30（印第安纳）. Rose-Hulman × SpaceXAI 的 Cursor & Grok Bot 之夜：演示自带电脑的 always-on 智能体，再动手与交流，并送一个月 Cursor Pro。
 - [Grok Bot 学生 Build Night（罗切斯特大学）](https://luma.com/myqb4rsj) — 2026-09-03 周四 18:30–21:00（罗切斯特）. 罗切斯特大学学生 Grok Bot 之夜（全国 9/3 场次之一）：用 Grok Bot 与 Cursor 动手，观看 SpaceXAI 演示，无需高阶 AI 经验。
 - [Grok Bot 见面会圣萨尔瓦多](https://luma.com/bot) — 2026-09-19 周六 15:00–19:00（萨尔瓦多）. Ai Labs 在圣萨尔瓦多办的 Grok Bot 见面会：用更好的指令、上下文与端到端流程，而不只是零散任务（约 50 人意向）。
+- [Grok Bot 产品实践课](https://luma.com/5w6kru6i) — 2026-09-02 周三 10:00–11:00（PDT）. SpaceXAI 产品经理 Kevin Niparko、Roshan Sadanani 讲 always-on Grok Bot 团队：注意力清单、客户洞察汇总、专职智能体，以及哪些事仍要人审。
+- [Grok Bot 危地马拉城线下交流](https://luma.com/cursor-is2h) — 2026-10-03 周六 10:00–14:00（危地马拉城）. Open2 在危地马拉城办的 Grok Bot 见面会：用更好的指令、上下文与端到端流程，而不只是零散任务，并有试用额度（约 36 人意向，需主办审核）。
 
 ## 目录
 
@@ -165,6 +167,7 @@
 - [Grok Bot Plays](https://github.com/ZooHero500/plays) - 非官方 Grok Bot 玩法目录：从公开帖和文档改写并附来源链接；站点有 138 条英文玩法（grokbotplays.com）。.
 - [s-hiraoku/grok-bot-playbook](https://github.com/s-hiraoku/grok-bot-playbook) - 日文现场手册（Next.js）：把 Grok Bot 当有名角色来跑——角色契约、请求模板、Skill/Routine 流程、团队边界与交接用 .md。.
 - [mKay00/grok-bot-second-brain](https://github.com/mKay00/grok-bot-second-brain) - 可克隆的五 Bot 第二大脑方案：共用一台 Grok Bot 电脑（Conductor/Capture/Memory/Ops/Research + vault-template 与 PLAN.md 问卷）。.
+- [maplefukku/grok-bot-ops](https://github.com/maplefukku/grok-bot-ops) - 用 Grok Bot 跑产品开发的日文司令室：routine 原稿、验证技能移植包、knowhow 日志，以及 Cursor 插件包装。.
 
 ## 真实使用案例
 
@@ -238,6 +241,9 @@
 - [canvascloudai/cwm-cursor-plugin](https://github.com/canvascloudai/cwm-cursor-plugin) - Cloud World Model 官方 Cursor/Grok Bot 插件包：托管 Streamable HTTP MCP + simulate-architecture skill（MIT）。.
 - [sigmashakeinc/sigmashake-guardrails](https://github.com/sigmashakeinc/sigmashake-guardrails) - SigmaShake Guardrails：面向 Grok Bot/Cursor 的托管管控面，`.grok-plugin` + Streamable HTTP MCP，按规则评估工具调用（ALLOW/DENY/ASK/…）。.
 - [Deploy-Forward/convoy](https://github.com/Deploy-Forward/convoy) - Convoy 托管 MCP（convoy.bot/mcp）：以 Grok Bot 为指挥，向自带 harness CLI 做 onboard/roster/send/feed 跳转（含测试与文档）。.
+- [nessielabs/nessie-grokbot](https://github.com/nessielabs/nessie-grokbot) - 给 Grok Bot/Cursor 用的 Nessie 插件：接托管 MCP（`mcp.nessielabs.com`），让 Bot 检索、阅读并安全写入你的 Nessie 上下文库（MIT）。.
+- [GlobalTC/steer](https://github.com/GlobalTC/steer) - STEER 的 Grok Bot 分享配方：给草稿打标记、Save 后得到改写；含 profile、memory、两个 skill 和一条 webhook routine（Apache-2.0）。.
+- [AgentMindCloud/grok-bot-super](https://github.com/AgentMindCloud/grok-bot-super) - 给 Grok Bot 读的社区剧本库：把 playbook URL 发给 Bot，用官方 save-as-skill 保存（邮件分拣、调研简报、X 串稿等；MIT，1★）。.
 
 ## 评测与对比
 
@@ -264,12 +270,12 @@
 - [open-grokbot](https://github.com/ishandutta2007/open-grokbot) - 早期等价实验，授权前先读代码。.
 - [grok-bot-flake](https://github.com/jordangarrison/grok-bot-flake) - 把官方 Linux .deb 打成 Nix flake（不是从源码编）。.
 - [grok-bot-bin](https://github.com/Jabbslad/grok-bot-bin) - 非官方 Arch 包：把官方 Linux .deb 再打包；内置更新器不支持 Linux。.
-- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - 无 Wine 社区 Linux 移植（Arch AUR + Fedora COPR + Ubuntu PPA），跟 0.30.0。注意：Cursor CDN 现也有官方 Linux 0.30.0 包（35★）。.
+- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - 无 Wine 社区 Linux 移植（Arch AUR + Fedora COPR + Ubuntu PPA），跟 0.30.0。注意：Cursor CDN 现也有官方 Linux 0.30.0 包（36★）。.
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - 非官方把 Grok Bot 0.18.0 macOS 端用 TypeScript 重构成可读源码，还带本地推理路由实验。.
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - 社区整理的官方 Cursor CDN Linux 包链接（deb/rpm/AppImage），本身不托管安装包。.
 - [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 已退役的非官方 Windows→Linux 移植；README 现指向 Cursor CDN 上的官方 Grok Bot 0.30.0 Linux 包（AppImage/deb/rpm；26★）。.
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - 开源的 Grok Bot 形态花名册：命名队友、共用一台持久电脑、审批和例行任务（Rust/Tauri）。.
-- [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 非官方 Grok Bot 客户端模型切换器：每代理一模型，已核对 Grok/Claude/GLM/Gemini/DeepSeek/本地线路图，密钥留在本机（384★）。.
+- [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 非官方 Grok Bot 客户端模型切换器：每代理一模型，已核对 Grok/Claude/GLM/Gemini/DeepSeek/本地线路图，密钥留在本机（385★）。.
 - [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - 非官方 Ubuntu/Linux 桌面移植（deb / AppImage / tarball），官方 app.asar + Electron 42；经 Cursor 更新服务解析最新稳定版（23★）。.
 - [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - 非官方 Linux 客户端的 Omarchy 顶栏插件：运行/空闲状态、Cursor CDN 更新检查，以及启动或切到前台（x.ai/bot 主题脸）。.
 - [discord-grok-bot-kit](https://github.com/larry-fuqua/discord-grok-bot-kit) - 即插即用的 Discord 监听：主人 @ 才唤醒 Grok Bot webhook，带保活 routine 和标准库回复命令。.
@@ -287,6 +293,10 @@
 - [Archive228/foreman](https://github.com/Archive228/foreman) - 托管 Grok Bot 班组的 harness/CLI（`foreman`）：声明式 packs、相对 gbot JSON 的 inspect/sync、effect ledger、值班报告，以及 `.grok-plugin`（MIT，2★）。.
 - [falser101/grok-bot-bin](https://github.com/falser101/grok-bot-bin) - AUR 包 grok-bot-bin：从 Cursor 官方 Linux .deb 安装 Grok Bot 0.30.0（锁定 sha256；打包许可 0BSD）。.
 - [ATLTuck/unofficial-grok-bot-arch-installer](https://github.com/ATLTuck/unofficial-grok-bot-arch-installer) - 非官方 Arch/Manjaro 安装器：把官方 Grok Bot .deb 打成原生 pacman 包（install.sh + PKGBUILD）。.
+- [d-513/grok-bot-nix](https://github.com/d-513/grok-bot-nix) - 把官方 Grok Bot 0.30.0 .deb 用 Electron 42 包成 Nix flake（`nix run github:d-513/grok-bot-nix`），支持 NixOS、Home Manager、overlay，并每六小时自动钉版本。.
+- [trac3r00/groken](https://github.com/trac3r00/groken) - macOS 上的 CLI/MCP/SKILL.md 客户端：用官方应用的 OAuth 与网关驱动 Grok Bot 云电脑（聊天、VNC、exec、routines；MIT，1★）。.
+- [codeaashu/grokbot-shim](https://github.com/codeaashu/grokbot-shim) - 在 Linux 上把已安装的 Grok Bot 桌面端接到本机运行时：本地 Chrome/XFCE 电脑，并可接 Codex 或 OpenAI 兼容模型（ISC，19★）。.
+- [pmcclelland/bot-board](https://github.com/pmcclelland/bot-board) - 人和 Grok Bot 共用的看板（Backlog / To Do / Doing / Done），REST 与单一 MCP 地址；线上 botboard.pmcclel.land。.
 
 ## 社区与故障现场
 
@@ -339,7 +349,7 @@
 - [Local CLI orchestration and always-allow are intended use](https://forum.cursor.com/t/bot-as-the-orchestrator-of-local-clis/169588) - 官方确认用本机 CLI（含 Cursor CLI）、Always-allow 本地执行与已登录浏览器会话是 Grok Bot 预期用法；第三方条款另算，多 Bot 共享一台云电脑，Pro 上常驻编排会很快烧完周额度。.
 - [Local-computer helper fails registration](https://forum.cursor.com/t/grok-bot-cannot-access-my-local-computer/169924) - 官方：本机助手更新后会启动却注册失败；彻底退出再登出可重建，桌面 0.31.0 正在放量。.
 - [Mac black screen is local DNS not cloud](https://forum.cursor.com/t/grok-bot-desktop-never-joins-existing-ios-bots-latest-app-stuck-on-black-screen/169940) - 官方：Mac 0.30.0 黑屏而 iOS 正常，是本机网络/DNS 连不上健康的云电脑，重建电脑没用。.
-- [Grok Bot does not spend Pro $20 IDE credit](https://forum.cursor.com/t/is-grok-bot-usage-separate-from-cursor-plan/169658) - 官方：Pro 的 20 美元 Other Models 额度不是 Grok Bot 周池；仪表盘「Included in Pro」只是合并账单，关 On-Demand 后周池用完即停。.
+- [Grok Bot does not spend Pro $20 IDE credit](https://forum.cursor.com/t/is-grok-bot-usage-separate-from-cursor-plan/169658) - 官方：Pro 的 20 美元 Other Models 额度不是 Grok Bot 周池；仪表盘「Included in Pro」只是合并账单——关 On-Demand 后仍可能先花 Cursor 积分（推荐/促销）再停（见 169982）。.
 - [Does GrokBot not have access to my Cursor Codebase?](https://forum.cursor.com/t/does-grokbot-not-have-access-to-my-cursor-codebase/169684) - 官方：Grok Bot 没有 codebase 插件、也不会直接索引仓库；写代码会交给已连接 GitHub 的 Cursor Cloud Agent（Dashboard → Integrations），只读可用 GitHub PAT 连接器，从零构建会自动建仓，尚不能访问 Origin。.
 - [Phantom in Grok Bot is a Mess](https://forum.cursor.com/t/phantom-in-grok-bot-is-a-mess/169930) - 官方：Phantom 插件走 @phantom/mcp-server，每次重新授权都会新建独立 agent 钱包而非个人钱包，所以重连会看到新地址，已充值资金仍在旧 agent 地址（可对照聊天记录或找 Phantom Support）。.
 - [Grokbot custom connectors](https://forum.cursor.com/t/grokbot-custom-connectors/169965) - 官方：自定义连接器没有设置表单；在聊天里让 Bot 添加 MCP 服务器（公网 HTTPS，streamable HTTP/SSE），确认后下一句消息即可用新工具；只监听本机 localhost 的 MCP 云端电脑访问不到。.
@@ -352,6 +362,10 @@
 - [Unable to reconnect to my Grok Bot's computer after attempted update](https://forum.cursor.com/t/unable-to-reconnect-to-my-grok-bots-computer-after-attempted-update/170000) - 官方：机器人/文件/登录态在远端电脑；出现 Can’t Reach 且 Recover/Reset 失败，多半是应用会话丢失——彻底退出后重新登录（或重装再登录），二者都依赖有效会话。.
 - [Grok Bot Computer Stuck in Partial State — Reset Failed, Existing Cloud Computer Unreachable](https://forum.cursor.com/t/grok-bot-computer-stuck-in-partial-state-reset-failed-existing-cloud-computer-unreachable/170006) - 官方：出现 partial state 提示后先别狂点 Reset/Recover——数据在远端，失败的 Reset 常只在应用侧失败；先重新登录，用手机流量开移动端核对，再试公共 DNS／关 VPN。.
 - [Grok Bot couldn't finish setup](https://forum.cursor.com/t/grok-bot-couldnt-finish-setup/170010) - 官方：Linux 上 Grok Bot 0.18.0 报 Can’t reach your computer 并非网络问题——Linux 尚未正式支持，旧构建会被服务端拒绝；正式平台为 macOS / Windows / iOS。.
+- [Grok Bot 0.30.0 (Windows) — setup fails with Can't reach your computer, all network checks pass](https://forum.cursor.com/t/grok-bot-0-30-0-windows-setup-fails-with-cant-reach-your-computer-all-network-checks-pass/170035) - 官方：应用连的是 cursorvm.com 下每台电脑的子域而不是 apex；若 nslookup test123.us8.cursorvm.com 被 Query refused 而 apex 能解析，IPv4 和 IPv6 DNS 都要改（路由器 RA 会在你设了 1.1.1.1 后仍走运营商解析）。.
+- [Grok Bot draining Cursor credit pool](https://forum.cursor.com/t/grok-bot-draining-cursor-credit-pool/169982) - 官方：Pro+ 上 Grok Bot 周额度用尽后会继续花 Cursor 积分（推荐/促销）再进 On-Demand；On-Demand 上限设 $0 只能挡住付费超支、挡不住积分消耗；账单里的 claude-opus / grok-4.6-high-fast 是 Bot 服务端自选模型，不是计量错误。.
+- [Grok Bot templates: preview shows skills, but the export ships skills: [] — skills are never delivered](https://forum.cursor.com/t/grok-bot-templates-preview-shows-skills-but-the-export-ships-skills-skills-are-never-delivered/169911) - 官方：Bot 模板预览能看到 skills，但导入不会套上（导出是 skills: []）；修好前从预览复制 skill 正文，让新 Bot 再创建一次。.
+- [Cloud computer wipes packages after rebuild](https://forum.cursor.com/t/cloud-computer-wipes-packages-after-rebuild/169847) - 官方：Update Computer 会保留文件和登录，但 OS 镜像重建，apt/应用/守护进程会没；空闲会休眠（后台进程停）且空闲时可能自动更新——把软件清单放文件里，更新后让 Bot 重装。.
 
 ## 相关列表
 
@@ -360,7 +374,7 @@
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill 格式的姐妹生态；不少 SKILL.md 概念上可迁移。.
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - 社区 Bot 目录，站点本身也是 beta。.
 - [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 56 份可粘贴的 Bot 人设和起步小队，丢给 Setup Bot 即可。.
-- [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - 社区提示词目录（152★）：把条目贴进 Grok Bot，即可设成定时机器人。.
+- [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - 社区提示词目录（153★）：把条目贴进 Grok Bot，即可设成定时机器人。.
 - [rosterroom](https://github.com/codejunkie99/rosterroom) - 82 份可粘贴的 Grok Bot 小队编制，带分工和人工审批门槛。.
 - [usegrokbot.com](https://github.com/a70win-wq/usegrokbot) - 可检索的真实 Grok Bot 工作流库，线上站 usegrokbot.com。.
 - [GrokBotDev / grokbot.dev](https://github.com/ZeroPointRepo/GrokBotDev) - 给 Agent 读的提示词/插件/用例目录；PR 当写入接口，另有 JSON/RSS/MCP。.
@@ -379,10 +393,11 @@
 - [Krishnamurthy-sfdx/grokbot-wall](https://github.com/Krishnamurthy-sfdx/grokbot-wall) - Grok Bot 相关 X 动态墙（grokbot-wall.vercel.app），每日用公开 syndication 重建静态页。.
 - [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) - 多语言 awesome：收录带官方 x.ai/bot 分享链接的社区 Grok Bot 模板（CC0；目录站 grokbot-templates.com）。.
 - [LinXiaoTao/awesome-grokbot](https://github.com/LinXiaoTao/awesome-grokbot) - 中英双语整理的社区 Grok Bot 列表（官方 x.ai/bot 分享链接；站点 awsomebot.com）。.
+- [sefuzhou770801-hub/groki-bot](https://github.com/sefuzhou770801-hub/groki-bot) - 驱动桌面机器人的 M5Stack CoreS3 固件：经本机 loopback HTTP 代理调用已登录的 grok-bot-cli，对接 Grok Bot 对话（BSL-1.0）。.
 
 ## 贡献
 
-目前 8 个分类、256 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、269 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-256-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-269-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -57,13 +57,13 @@
 - [Grok Bot Meetup 札幌 #2](https://luma.com/91kju0je) — 2026-10-02（金）19:00–22:00（JST）. 札幌 2 回目の Grok Bot ミートアップ。
 - [Grok Bot Meetup Cumbayá](https://luma.com/cccumbaya) — 2026-10-03（土）09:30–12:00（ECT）. キト近郊 Cumbayá の対面 Grok Bot。
 - [Grok @bot builder demos（SF）](https://luma.com/p4rvaf0y) — 2026-09-01（火）18:00–20:00（PDT）. サンフランシスコの Grok Bot ビルダーデモ。
-- [Build with Grok Bot: Nijmegen](https://luma.com/fw7ovtge) — 2026-09-02（水）15:00–20:00（CEST）. ナイメーヘンで午後いちから Grok Bot で作る会。
+- [Build with Grok Bot: Nijmegen](https://luma.com/fw7ovtge) — 2026-09-02（水）16:00–21:00（CEST）. ナイメーヘンで午後いちから Grok Bot で作る会。
 - [Grok Bot Meetup Vadodara](https://luma.com/grokbot-vad-1) — 2026-09-05（土）10:00–13:00（IST）. ヴァドーダラーの対面 Grok Bot。
 - [Grok Bot Meetup 東京](https://luma.com/grokbottokyo) — 2026-09-09（水）19:00–21:30（JST）. 東京の対面 Grok Bot。
 - [Grok Bot Meetup 大阪](https://luma.com/grokbotosaka) — 2026-09-17（木）19:00–21:30（JST）. 大阪の対面 Grok Bot。
 - [Grok Bot Meetup Cebu](https://luma.com/cursor-dyb8) — 2026-09-19（土）09:00–11:30（PHT）. セブの対面 Grok Bot。
 - [Grok Bot Meetup Victoria BC](https://luma.com/grokbot) — 2026-09-21（月）18:00–21:00（PDT）. ビクトリアの Grok Bot ビルドナイト。
-- [Grok Bot Meetup Mendoza](https://luma.com/cursor-mtu0) — 2026-09-29（火）16:00–19:00（ART）. メンドーサの対面 Grok Bot。
+- [Grok Bot Meetup Mendoza](https://luma.com/cursor-mtu0) — 2026-10-03（土）17:00–20:00（ART）. メンドーサの対面 Grok Bot。
 - [Grok Bot Meetup Copenhagen](https://luma.com/cursor-t9m9) — 2026-09-09（水）17:00–20:00（CEST）. コペンハーゲン初の Grok Bot ミートアップ。
 - [Grok Bot Meetup Yaoundé](https://luma.com/cursor-90pj) — 2026-09-10（木）11:30–15:00（WAT）. ヤウンデの対面 Grok Bot。
 - [Grok Bot Meetup Sudbury #1](https://luma.com/cursor-nmzu) — 2026-09-17（木）18:00–20:00（EDT）. サドベリー初の Grok Bot。
@@ -87,6 +87,8 @@
 - [Grok Bot Build Night（Rose-Hulman / テレホート）](https://luma.com/s76hornw) — 2026-09-03（木）18:30–20:30（EDT）. Rose-Hulman × SpaceXAI の Cursor & Grok Bot ナイト。
 - [Grok Bot Student Build Night（ロチェスター大学）](https://luma.com/myqb4rsj) — 2026-09-03（木）18:30–21:00（EDT）. ロチェスター大学の学生 Grok Bot ナイト（全国 9/3 波）。
 - [Grok Bot Meetup サンサルバドル](https://luma.com/bot) — 2026-09-19（土）15:00–19:00（El Salvador）. Ai Labs 主催のサンサルバドル Grok Bot ミートアップ。
+- [Grok Bot: Product Best Practices](https://luma.com/5w6kru6i) — 2026-09-02（水）10:00–11:00（PDT）. SpaceXAI の PM Kevin Niparko と Roshan Sadanani が always-on の Grok Bot チーム（アテンションリスト、顧客インサイト、専門エージェント、人のレビュー境界）を解説。
+- [Grok Bot Meetup グアテマラシティ](https://luma.com/cursor-is2h) — 2026-10-03（土）10:00–14:00（CST）. Open2 主催のグアテマラシティ Grok Bot ミートアップ。
 
 ## 目次
 
@@ -165,6 +167,7 @@
 - [Grok Bot Plays](https://github.com/ZooHero500/plays) - 非公式の Grok Bot プレイ集。公開投稿とドキュメントから書き直し、出典付き。サイトに英語 138 本（grokbotplays.com）。
 - [s-hiraoku/grok-bot-playbook](https://github.com/s-hiraoku/grok-bot-playbook) - Grok Bot を役割契約・依頼型・Skill/Routine・承認境界で回す日本語の現場手帳（Next.js）。ハンドオフ用 .md 付き（0★）。
 - [mKay00/grok-bot-second-brain](https://github.com/mKay00/grok-bot-second-brain) - 共有 Grok Bot コンピュータ向け5 Bot 第二脳プラン（Conductor/Capture/Memory/Ops/Research + vault-template と PLAN.md、0★）。
+- [maplefukku/grok-bot-ops](https://github.com/maplefukku/grok-bot-ops) - Grok Bot で製品開発を回す日本語の司令室リポジトリ。routine 原稿、検証スキル移植、ノウハウ記録、Cursor プラグイン包装（0★）。
 
 ## 実地事例
 
@@ -238,6 +241,9 @@
 - [canvascloudai/cwm-cursor-plugin](https://github.com/canvascloudai/cwm-cursor-plugin) - Cloud World Model 公式 Cursor/Grok Bot プラグイン。ホスト MCP と simulate-architecture skill（MIT、0★）。
 - [sigmashakeinc/sigmashake-guardrails](https://github.com/sigmashakeinc/sigmashake-guardrails) - SigmaShake Guardrails。Grok Bot/Cursor 向けホスト型ガードレール。`.grok-plugin`＋Streamable HTTP MCP でツール呼出を評価（0★）。
 - [Deploy-Forward/convoy](https://github.com/Deploy-Forward/convoy) - Convoy ホスト MCP（convoy.bot/mcp）。Grok Bot を指揮者に BYO ハーネスへ onboard/roster/send/feed（テスト／ドキュメント付き、0★）。
+- [nessielabs/nessie-grokbot](https://github.com/nessielabs/nessie-grokbot) - Nessie のホスト MCP（`mcp.nessielabs.com`）を付ける Cursor／Grok Bot プラグイン。Bot がコンテキスト庫を検索・読み・安全に書ける（MIT、0★）。
+- [GlobalTC/steer](https://github.com/GlobalTC/steer) - STEER 向け Grok Bot 共有レシピ。下書きに印を付け Save するとリライト。profile／memory／スキル2本／webhook routine 付き（Apache-2.0、0★）。
+- [AgentMindCloud/grok-bot-super](https://github.com/AgentMindCloud/grok-bot-super) - Grok Bot が読んで公式 save-as-skill で保存するコミュニティ・プレイブック（メール仕分け、調査ブリーフ、X スレなど。MIT、1★）。
 
 ## レビューと比較
 
@@ -264,12 +270,12 @@
 - [open-grokbot](https://github.com/ishandutta2007/open-grokbot) - 初期の同等実験。資格情報を渡す前に読んでください。
 - [grok-bot-flake](https://github.com/jordangarrison/grok-bot-flake) - 公式 Linux .deb を詰め直した Nix flake（ソースからのビルドではない）。
 - [grok-bot-bin](https://github.com/Jabbslad/grok-bot-bin) - 非公式の Arch パッケージ。公式 Linux .deb を再梱包します。内蔵アップデータは Linux 非対応です。
-- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - Wine なしのコミュニティ Linux 移植（AUR + COPR + PPA）、0.30.0 追従。注: Cursor CDN にも公式 Linux 0.30.0 あり（35★）。
+- [grokbot-linux-port](https://github.com/Nichokas/grokbot-linux-port) - Wine なしのコミュニティ Linux 移植（AUR + COPR + PPA）、0.30.0 追従。注: Cursor CDN にも公式 Linux 0.30.0 あり（36★）。
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Grok Bot 0.18.0 macOS 版の非公式 TypeScript 再構成。ローカル推論ルータの実験付き。
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - Cursor CDN 上の公式 Linux パッケージ URL 一覧（deb/rpm/AppImage）。インストーラ自体は置かない。
 - [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 非公式 Windows→Linux 移植は退役。README は Cursor CDN の公式 Grok Bot 0.30.0 Linux（AppImage/deb/rpm）を案内（26★）。
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - Grok Bot 型の OSS。名前付きチームメイト、共有の永続コンピュータ、承認とルーチン（Rust/Tauri）。
-- [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 公式 Grok Bot クライアント用の非公式モデル切替。エージェントごとに1モデル、Grok/Claude/GLM/Gemini/DeepSeek/ローカルの配線確認済み、鍵は手元（384★）。
+- [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 公式 Grok Bot クライアント用の非公式モデル切替。エージェントごとに1モデル、Grok/Claude/GLM/Gemini/DeepSeek/ローカルの配線確認済み、鍵は手元（385★）。
 - [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - 非公式 Ubuntu/Linux 移植（deb / AppImage / tarball）。公式 app.asar を Electron 42 に載せ、Cursor 更新サービスで最新安定版を解決（23★）。
 - [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - 非公式 Linux クライアント向け Omarchy バープラグイン。起動／アイドル表示、Cursor CDN 更新確認、起動またはフォーカス（x.ai/bot 顔）。
 - [discord-grok-bot-kit](https://github.com/larry-fuqua/discord-grok-bot-kit) - オーナーのメンションだけで Grok Bot webhook を起こす Discord リスナー。キープアライブ routine と標準ライブラリの返信 CLI 付き。
@@ -287,6 +293,10 @@
 - [Archive228/foreman](https://github.com/Archive228/foreman) - ホスト型 Grok Bot 班用 harness/CLI（`foreman`）。宣言 packs、gbot JSON 照合、effect ledger、シフト報告、`.grok-plugin`（MIT、2★）。
 - [falser101/grok-bot-bin](https://github.com/falser101/grok-bot-bin) - AUR の grok-bot-bin。Cursor 公式 Linux .deb から Grok Bot 0.30.0 を入れる（sha256 固定、0BSD、0★）。
 - [ATLTuck/unofficial-grok-bot-arch-installer](https://github.com/ATLTuck/unofficial-grok-bot-arch-installer) - 非公式 Arch/Manjaro インストーラ。公式 Grok Bot .deb を pacman パッケージ化（install.sh＋PKGBUILD、0★）。
+- [d-513/grok-bot-nix](https://github.com/d-513/grok-bot-nix) - 公式 Grok Bot 0.30.0 の .deb を Electron 42 で包む Nix flake（`nix run github:d-513/grok-bot-nix`）。NixOS／Home Manager／overlay と 6 時間ごとのピン更新（0★）。
+- [trac3r00/groken](https://github.com/trac3r00/groken) - 公式アプリの OAuth とゲートウェイで Grok Bot クラウドパソコンを動かす macOS 向け CLI／MCP／SKILL.md クライアント（チャット、VNC、exec、routines。MIT、1★）。
+- [codeaashu/grokbot-shim](https://github.com/codeaashu/grokbot-shim) - 導入済み Grok Bot デスクトップを Linux 本機で動かす。ローカル Chrome/XFCE コンピュータと Codex／OpenAI 互換モデル（ISC、19★）。
+- [pmcclelland/bot-board](https://github.com/pmcclelland/bot-board) - 人と Grok Bot が共有するカンバン（Backlog／To Do／Doing／Done）。REST と MCP 1本。公開サイト botboard.pmcclel.land（0★）。
 
 ## コミュニティと障害事例
 
@@ -339,7 +349,7 @@
 - [Local CLI orchestration and always-allow are intended use](https://forum.cursor.com/t/bot-as-the-orchestrator-of-local-clis/169588) - スタッフ確認。ローカルCLI（Cursor CLI含む）・Always-allow・ログイン済みブラウザ操作は想定用途。第三者利用規約は別、BotはクラウドPCを共有し、Proの常駐オーケストレータは週次枠をすぐ消費する。
 - [Local-computer helper fails registration](https://forum.cursor.com/t/grok-bot-cannot-access-my-local-computer/169924) - スタッフ確認。更新後にローカルヘルパーが起動しても登録に失敗しうる。完全終了＋再ログインで再作成。デスクトップ 0.31.0 配信中。
 - [Mac black screen is local DNS not cloud](https://forum.cursor.com/t/grok-bot-desktop-never-joins-existing-ios-bots-latest-app-stuck-on-black-screen/169940) - スタッフ。iOS は動くのに Mac 0.30.0 が黒画面なのは、健全なクラウドPCへのローカルネット/DNS 障害で、再作成では直らない。
-- [Grok Bot does not spend Pro $20 IDE credit](https://forum.cursor.com/t/is-grok-bot-usage-separate-from-cursor-plan/169658) - スタッフ。Pro の Other Models $20 は Grok Bot 週次枠ではない。ダッシュボードの Included in Pro は請求のまとめ表示で、On-Demand オフなら週次上限で止まる。
+- [Grok Bot does not spend Pro $20 IDE credit](https://forum.cursor.com/t/is-grok-bot-usage-separate-from-cursor-plan/169658) - スタッフ：Pro の Other Models $20 は Grok Bot 週次枠ではない。ダッシュボードの Included in Pro は請求のまとめ表示で、On-Demand オフでも Cursor クレジット（紹介/プロモ）を使い切ってから止まることがある（169982 参照）。
 - [Does GrokBot not have access to my Cursor Codebase?](https://forum.cursor.com/t/does-grokbot-not-have-access-to-my-cursor-codebase/169684) - スタッフ：Grok Bot に codebase プラグインはなくリポジトリを直接索引しない。実装は GitHub 接続済みの Cursor Cloud Agent に委譲（Dashboard → Integrations）。読み取りは GitHub PAT コネクタ、ゼロからの構築は自動で新リポジトリ、Origin は未対応。
 - [Phantom in Grok Bot is a Mess](https://forum.cursor.com/t/phantom-in-grok-bot-is-a-mess/169930) - スタッフ：Phantom プラグインは @phantom/mcp-server で、再認証のたびに個人ウォレットではなく専用 agent ウォレットが新規作成される。再接続で別アドレスになり、入金は旧アドレスに残る（履歴照合か Phantom Support）。
 - [Grokbot custom connectors](https://forum.cursor.com/t/grokbot-custom-connectors/169965) - スタッフ：カスタムコネクタに設定フォームはない。チャットで Bot に MCP サーバ追加を依頼（公開 HTTPS の streamable HTTP/SSE）。確認後、次のメッセージから新ツールが使える。PC の localhost のみの MCP はクラウドからは届かない。
@@ -352,6 +362,10 @@
 - [Unable to reconnect to my Grok Bot's computer after attempted update](https://forum.cursor.com/t/unable-to-reconnect-to-my-grok-bots-computer-after-attempted-update/170000) - 公式：Bot／ファイル／ログインは遠隔マシン上。Can’t Reach と Recover/Reset 失敗はアプリセッション切れが多い。完全終了→サインアウト／イン（または再インストール後ログイン）。Recover/Reset も有効セッションが必要。
 - [Grok Bot Computer Stuck in Partial State — Reset Failed, Existing Cloud Computer Unreachable](https://forum.cursor.com/t/grok-bot-computer-stuck-in-partial-state-reset-failed-existing-cloud-computer-unreachable/170006) - 公式：partial state 表示後は Reset/Recover を急がない。データは遠隔で、失敗リセットはアプリ側だけのことが多い。再ログイン、モバイル回線のアプリで確認、DNS／VPN 切り分けを先に。
 - [Grok Bot couldn't finish setup](https://forum.cursor.com/t/grok-bot-couldnt-finish-setup/170010) - 公式：Linux の Grok Bot 0.18.0 での Can’t reach your computer は回線ではなく、Linux 未正式対応＋古いビルド拒否。対応は macOS / Windows / iOS。
+- [Grok Bot 0.30.0 (Windows) — setup fails with Can't reach your computer, all network checks pass](https://forum.cursor.com/t/grok-bot-0-30-0-windows-setup-fails-with-cant-reach-your-computer-all-network-checks-pass/170035) - スタッフ：アプリは apex ではなく cursorvm.com 配下のパソコンごとのサブドメインに接続する。apex は通るのに nslookup test123.us8.cursorvm.com が Query refused なら、IPv4 と IPv6 の両方の DNS を変える（ルータ RA が 1.1.1.1 設定後も ISP リゾルバを残す）。
+- [Grok Bot draining Cursor credit pool](https://forum.cursor.com/t/grok-bot-draining-cursor-credit-pool/169982) - スタッフ：Pro+ の Grok Bot 週次枠が尽きると、先に Cursor のクレジット（紹介/プロモ）を使い、On-Demand が有効ならその次。On-Demand を $0 にしてもクレジット消費は止まらず、claude-opus / grok-4.6-high-fast は Bot がサーバ側で選ぶモデル表示。
+- [Grok Bot templates: preview shows skills, but the export ships skills: [] — skills are never delivered](https://forum.cursor.com/t/grok-bot-templates-preview-shows-skills-but-the-export-ships-skills-skills-are-never-delivered/169911) - スタッフ：Bot テンプレのプレビューには skills が出るが、インポートでは適用されない（エクスポートは skills: []）。修正までプレビューから本文をコピーし、新しい Bot に作り直させる。
+- [Cloud computer wipes packages after rebuild](https://forum.cursor.com/t/cloud-computer-wipes-packages-after-rebuild/169847) - スタッフ：Update Computer はファイルとログインを残すが OS イメージは作り直すので apt/アプリ/デーモンは消える。アイドルでスリープし（常駐プロセスは落ちる）、アイドル中に自動更新もかかる。パッケージ一覧をファイルに残し、更新後に Bot へ再インストールさせる。
 
 ## 関連リスト
 
@@ -360,7 +374,7 @@
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill 形式の姉妹エコシステム。多くの SKILL.md は概念として移植できる。
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - 稼働中 Bot のコミュニティディレクトリ。サイト自体も beta 扱い。
 - [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 56 件のコピペ用 Bot プロフィールとスターターチーム。
-- [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - コミュニティ用プロンプトディレクトリ（152★）。リストを Grok Bot に貼るとスケジュール Bot としてセットアップ。
+- [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - コミュニティ用プロンプトディレクトリ（153★）。リストを Grok Bot に貼るとスケジュール Bot としてセットアップ。
 - [rosterroom](https://github.com/codejunkie99/rosterroom) - Grok Bot 向けのコピペ用チーム編成 82 件。役割分担と人の承認ゲート付き。
 - [usegrokbot.com](https://github.com/a70win-wq/usegrokbot) - 実在の Grok Bot ワークフロー検索ライブラリ。公開サイトは usegrokbot.com。
 - [GrokBotDev / grokbot.dev](https://github.com/ZeroPointRepo/GrokBotDev) - Agent 向けのプロンプト / プラグイン / 用例ディレクトリ。書き込みは PR、読み取りは JSON/RSS/MCP。
@@ -379,10 +393,11 @@
 - [Krishnamurthy-sfdx/grokbot-wall](https://github.com/Krishnamurthy-sfdx/grokbot-wall) - Grok Bot 関連の X 投稿ウォール（grokbot-wall.vercel.app）。公開 syndication から日次再生成（0★）。
 - [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) - 公式 x.ai/bot 共有リンク付きコミュニティテンプレの多言語 awesome（CC0、grokbot-templates.com、0★）。
 - [LinXiaoTao/awesome-grokbot](https://github.com/LinXiaoTao/awesome-grokbot) - 公式 x.ai/bot 共有リンク付きコミュニティ Grok Bot の日英リスト（awsomebot.com、0★）。
+- [sefuzhou770801-hub/groki-bot](https://github.com/sefuzhou770801-hub/groki-bot) - ログイン済み grok-bot-cli を loopback HTTP プロキシ経由で呼び、Grok Bot と話す卓上ロボット用 M5Stack CoreS3 ファーム（BSL-1.0、0★）。
 
 ## 貢献
 
-8 セクションに 256 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 269 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
