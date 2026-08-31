@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-237-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-238-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -223,6 +223,7 @@
 - [Chakhdz/grok-bot-token-saver](https://github.com/Chakhdz/grok-bot-token-saver) - トークン節約の chief/worker 型。長会話の remaster と短い役割カードからの revive。x.ai/bot で Botsi Archivist を導入（MIT、0★）。
 - [supervised-nl/tesla-fleet-mcp](https://github.com/supervised-nl/tesla-fleet-mcp) - Grok Bot 向け `.grok-plugin` 付き Tesla Fleet MCP（公開 HTTPS の Streamable HTTP。車両操作は tesla-http-proxy + 仮想キー、MIT、0★）。
 - [DomenicFotino/grok-bot-template-market](https://github.com/DomenicFotino/grok-bot-template-market) - Bot Template Market 向けホスト MCP（catalog / licenses / apply_pack）。Grok Bot の Plugins に `https://grok-raqet.vercel.app/api/mcp` を追加（MIT、0★）。
+- [Bot Shelf](https://github.com/getbotshelf/botshelf) - すでに走った Grok Bot ジョブパックの店（markdown を貼るだけ。Claude Code と ChatGPT のパックもあり。checkout は未公開)。
 - [novusordos666/grokbot-outreach-agent-team](https://github.com/novusordos666/grokbot-outreach-agent-team) - Grok Bot 向け5役プロンプト（chief／調査／審査／アウトリーチ／受信・Calendly）。人承認付きの証拠ベース外販（MIT、0★）。
 - [NexFade/nexfade-grok-plugin](https://github.com/NexFade/nexfade-grok-plugin) - Grok Bot 向け NexFade `.grok-plugin` + MCP。Bot 上で AES-256-GCM 暗号化し、平文を NexFade に送らず共有（MIT、0★）。
 
@@ -357,7 +358,7 @@
 
 ## 貢献
 
-8 セクションに 237 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 238 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
