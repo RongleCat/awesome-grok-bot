@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-237-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-256-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -81,6 +81,12 @@
 - [Grok Bot Meetup Singapore](https://luma.com/grokbotsg) — 2026-09-04（金）18:00–21:00（SGT）. シンガポール初の Grok Bot オフライン。
 - [Grok Bot Student Build Night（Penn / フィラデルフィア）](https://luma.com/vkh1pg34) — 2026-09-03（木）18:30–21:30（EDT）. Penn Labs・PER・Product Space 共催の学生ビルドナイト。
 - [Grok Bot Build Night（UIUC / シャンペーン）](https://luma.com/wmznb83e) — 2026-09-03（木）17:30–19:00（CDT）. UIUC の Siebel Center でクラウドパソコン仲間の Grok Bot を 1 時間使い、ライブデモ。
+- [Grok Bot Build Night（Iowa State / エイムズ）](https://luma.com/00x0vh1t) — 2026-09-03（木）17:00–19:30（CDT）. SpaceXAI × Iowa State の GrokBot ビルドナイト。
+- [Grok Bot Build Night（Pitt / ピッツバーグ）](https://luma.com/nbzn8j2m) — 2026-09-03（木）18:00–20:00（EDT）. SpaceXAI × Pitt AWS Cloud Club の Grok Bot ビルドナイト（Sennott Square）。
+- [Grok Bot Build Night（NC State）](https://luma.com/9ck911r9) — 2026-09-03（木）18:00–20:00（EDT）. SpaceXAI × NC State の学生ナイト。
+- [Grok Bot Build Night（Rose-Hulman / テレホート）](https://luma.com/s76hornw) — 2026-09-03（木）18:30–20:30（EDT）. Rose-Hulman × SpaceXAI の Cursor & Grok Bot ナイト。
+- [Grok Bot Student Build Night（ロチェスター大学）](https://luma.com/myqb4rsj) — 2026-09-03（木）18:30–21:00（EDT）. ロチェスター大学の学生 Grok Bot ナイト（全国 9/3 波）。
+- [Grok Bot Meetup サンサルバドル](https://luma.com/bot) — 2026-09-19（土）15:00–19:00（El Salvador）. Ai Labs 主催のサンサルバドル Grok Bot ミートアップ。
 
 ## 目次
 
@@ -133,6 +139,7 @@
 - [Subscribe from the mobile app](https://cursor.com/help/grok-bot/mobile-purchase) - iOS のアプリ内課金は個人月額のみ。既存の Cursor/SuperGrok 権限は引き継がれ、SuperGrok のリンクはデスクトップで行う。
 - [Delete your Grok Bot account](https://cursor.com/help/grok-bot/delete-account) - Grok Bot に別アカウントはなく、iOS は削除可、デスクトップはログアウトのみ。削除すると Cursor アカウントと Bot・会話・クラウドPCも消える。
 - [@bot: improved X support](https://x.com/bot/status/2093822274067706170) - 公式 2026-08-29。Grok Bot の X 連携が強化され、プロフィール接続で開発者アカウントが自動作成されクレジットが付く。
+- [Get help (Cursor Help)](https://cursor.com/help/grok-bot/get-help) - 公式ヘルプ：Grok Bot サポートは hi@cursor.com。アカウントメール、版／OS（Mac/Windows/iOS）、試したこと、スクショを添える（課金も同宛先）。
 
 ## チュートリアルとガイド
 
@@ -225,6 +232,12 @@
 - [DomenicFotino/grok-bot-template-market](https://github.com/DomenicFotino/grok-bot-template-market) - Bot Template Market 向けホスト MCP（catalog / licenses / apply_pack）。Grok Bot の Plugins に `https://grok-raqet.vercel.app/api/mcp` を追加（MIT、0★）。
 - [novusordos666/grokbot-outreach-agent-team](https://github.com/novusordos666/grokbot-outreach-agent-team) - Grok Bot 向け5役プロンプト（chief／調査／審査／アウトリーチ／受信・Calendly）。人承認付きの証拠ベース外販（MIT、0★）。
 - [NexFade/nexfade-grok-plugin](https://github.com/NexFade/nexfade-grok-plugin) - Grok Bot 向け NexFade `.grok-plugin` + MCP。Bot 上で AES-256-GCM 暗号化し、平文を NexFade に送らず共有（MIT、0★）。
+- [elderibeiro/proton-mail-mcp-grokbot](https://github.com/elderibeiro/proton-mail-mcp-grokbot) - Grok Bot 向け公開 Proton Mail MCP。公式 Bridge（loopback）＋stdio プロキシ（秘密は pass/環境変数、1★）。
+- [elderibeiro/subaru-starlink-mcp-grokbot](https://github.com/elderibeiro/subaru-starlink-mcp-grokbot) - Grok Bot 向け公開 Subaru STARLINK / MySubaru MCP（subarulink、VIN/PIN なし、MIT、1★）。
+- [koreysmith123/recallsmith](https://github.com/koreysmith123/recallsmith) - RecallSmith。GrokBot 向け経験メモリ。一言インストール、`.grok-plugin`/MCP skills、docker-compose／pgvector（MIT、0★）。
+- [canvascloudai/cwm-cursor-plugin](https://github.com/canvascloudai/cwm-cursor-plugin) - Cloud World Model 公式 Cursor/Grok Bot プラグイン。ホスト MCP と simulate-architecture skill（MIT、0★）。
+- [sigmashakeinc/sigmashake-guardrails](https://github.com/sigmashakeinc/sigmashake-guardrails) - SigmaShake Guardrails。Grok Bot/Cursor 向けホスト型ガードレール。`.grok-plugin`＋Streamable HTTP MCP でツール呼出を評価（0★）。
+- [Deploy-Forward/convoy](https://github.com/Deploy-Forward/convoy) - Convoy ホスト MCP（convoy.bot/mcp）。Grok Bot を指揮者に BYO ハーネスへ onboard/roster/send/feed（テスト／ドキュメント付き、0★）。
 
 ## レビューと比較
 
@@ -256,7 +269,7 @@
 - [grok-bot-linux (CDN index)](https://github.com/falser101/grok-bot-linux) - Cursor CDN 上の公式 Linux パッケージ URL 一覧（deb/rpm/AppImage）。インストーラ自体は置かない。
 - [glorics/grok-bot-linux](https://github.com/glorics/grok-bot-linux) - 非公式 Windows→Linux 移植は退役。README は Cursor CDN の公式 Grok Bot 0.30.0 Linux（AppImage/deb/rpm）を案内（26★）。
 - [mandarwagh9/botroster](https://github.com/mandarwagh9/botroster) - Grok Bot 型の OSS。名前付きチームメイト、共有の永続コンピュータ、承認とルーチン（Rust/Tauri）。
-- [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 公式クライアント向け非公式モデルピッカー。エージェントごとに Grok/Claude/GLM/Gemini/DeepSeek/ローカルを切替。wire map は検証済み、鍵は手元（235★）。
+- [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) - 公式 Grok Bot クライアント用の非公式モデル切替。エージェントごとに1モデル、Grok/Claude/GLM/Gemini/DeepSeek/ローカルの配線確認済み、鍵は手元（384★）。
 - [jakob-bu/grok-bot-linux-unofficial](https://github.com/jakob-bu/grok-bot-linux-unofficial) - 非公式 Ubuntu/Linux 移植（deb / AppImage / tarball）。公式 app.asar を Electron 42 に載せ、Cursor 更新サービスで最新安定版を解決（23★）。
 - [glorics/omarchy-grok-bot](https://github.com/glorics/omarchy-grok-bot) - 非公式 Linux クライアント向け Omarchy バープラグイン。起動／アイドル表示、Cursor CDN 更新確認、起動またはフォーカス（x.ai/bot 顔）。
 - [discord-grok-bot-kit](https://github.com/larry-fuqua/discord-grok-bot-kit) - オーナーのメンションだけで Grok Bot webhook を起こす Discord リスナー。キープアライブ routine と標準ライブラリの返信 CLI 付き。
@@ -272,6 +285,8 @@
 - [IgorWarzocha/grok-codex-router](https://github.com/IgorWarzocha/grok-codex-router) - Grok Bot の UI/ツールを残したまま ChatGPT Codex へ推論を流す実験 Sand VM ルータ（エージェント別 GPT-5.6 + 制御 UI、MIT、0★）。
 - [n0nag0n/patb](https://github.com/n0nag0n/patb) - Grok Bot コンピュータ向けファイリング CLI。ルールを1件ずつ保存し、routine から `patb get/search`（profile 肥大化を避ける、3★）。
 - [Archive228/foreman](https://github.com/Archive228/foreman) - ホスト型 Grok Bot 班用 harness/CLI（`foreman`）。宣言 packs、gbot JSON 照合、effect ledger、シフト報告、`.grok-plugin`（MIT、2★）。
+- [falser101/grok-bot-bin](https://github.com/falser101/grok-bot-bin) - AUR の grok-bot-bin。Cursor 公式 Linux .deb から Grok Bot 0.30.0 を入れる（sha256 固定、0BSD、0★）。
+- [ATLTuck/unofficial-grok-bot-arch-installer](https://github.com/ATLTuck/unofficial-grok-bot-arch-installer) - 非公式 Arch/Manjaro インストーラ。公式 Grok Bot .deb を pacman パッケージ化（install.sh＋PKGBUILD、0★）。
 
 ## コミュニティと障害事例
 
@@ -330,6 +345,13 @@
 - [Grokbot custom connectors](https://forum.cursor.com/t/grokbot-custom-connectors/169965) - スタッフ：カスタムコネクタに設定フォームはない。チャットで Bot に MCP サーバ追加を依頼（公開 HTTPS の streamable HTTP/SSE）。確認後、次のメッセージから新ツールが使える。PC の localhost のみの MCP はクラウドからは届かない。
 - [Grok Bot: Drive MCP should write Google Docs body and Sheet cells, not only file metadata](https://forum.cursor.com/t/grok-bot-drive-mcp-should-write-google-docs-body-and-sheet-cells-not-only-file-metadata/169971) - スタッフ：Google Doc/Sheet の中身編集は専用 Docs/Sheets コネクタ（既存ファイル ID に対して編集）。Drive はファイル操作のみ。同じ Google アカウントでマーケットから両方追加する。
 - [Blank screen after opening Grok Bot](https://forum.cursor.com/t/blank-screen-after-opening-grok-bot/169966) - スタッフ：空白/白画面はだいたいデスクトップがクラウド PC に届かない印。Cloudflare WARP がその通信を横取りし（ホットスポットでも同様）、WARP オフかスプリットトンネル/除外が必要。0.28.0 以降は空白ではなくエラー+リトライ表示。
+- [Cloud Agents created in Grok Bot not displayed in Cursor](https://forum.cursor.com/t/cloud-agents-created-in-grok-bot-not-displayed-in-cursor/169939) - 公式：Grok Bot から起動した Cloud Agents はアカウント上では動くが、cursor.com/agents とデスクトップ側欄ではデフォルト非表示。フィルタで Source > Grok Bot を有効化（Web／デスクトップ各1回）。
+- [Can't reach your computer from last 72 hours](https://forum.cursor.com/t/cant-reach-your-computer-from-last-72-hours/169970) - 公式：クラウド側は正常なのに Can’t reach your computer のとき、Windows DNS を 1.1.1.1 / 8.8.8.8 にするか、別キャリアのテザリングで切り分け。
+- [Grok Bot 0.30.0 stuck on "Setting up your Grok Bot" on macOS](https://forum.cursor.com/t/grok-bot-0-30-0-stuck-on-setting-up-your-grok-bot-on-macos/169981) - 公式：無料 Cursor で Setting up your Grok Bot が終わらないのはホストマシン未作成のため。Pro/Pro+/Ultra/Teams か SuperGrok/Plus/Heavy 連携が必要。権限不足を出さずスピナーになるのは既知 UX 不具合。
+- [Grok Bot Zoom plugin OAuth hardcodes http://localhost:8787/callback — Zoom rejects hostname localhost (error 4700)](https://forum.cursor.com/t/grok-bot-zoom-plugin-oauth-hardcodes-http-localhost-8787-callback-zoom-rejects-hostname-localhost-error-4700/169991) - 公式：カタログ Zoom プラグインの OAuth が http://localhost:8787/callback 固定で Zoom が拒否（error 4700）。ユーザー側回避不可。localhost 以外（例 127.0.0.1）への変更を追跡中。
+- [Unable to reconnect to my Grok Bot's computer after attempted update](https://forum.cursor.com/t/unable-to-reconnect-to-my-grok-bots-computer-after-attempted-update/170000) - 公式：Bot／ファイル／ログインは遠隔マシン上。Can’t Reach と Recover/Reset 失敗はアプリセッション切れが多い。完全終了→サインアウト／イン（または再インストール後ログイン）。Recover/Reset も有効セッションが必要。
+- [Grok Bot Computer Stuck in Partial State — Reset Failed, Existing Cloud Computer Unreachable](https://forum.cursor.com/t/grok-bot-computer-stuck-in-partial-state-reset-failed-existing-cloud-computer-unreachable/170006) - 公式：partial state 表示後は Reset/Recover を急がない。データは遠隔で、失敗リセットはアプリ側だけのことが多い。再ログイン、モバイル回線のアプリで確認、DNS／VPN 切り分けを先に。
+- [Grok Bot couldn't finish setup](https://forum.cursor.com/t/grok-bot-couldnt-finish-setup/170010) - 公式：Linux の Grok Bot 0.18.0 での Can’t reach your computer は回線ではなく、Linux 未正式対応＋古いビルド拒否。対応は macOS / Windows / iOS。
 
 ## 関連リスト
 
@@ -338,14 +360,14 @@
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill 形式の姉妹エコシステム。多くの SKILL.md は概念として移植できる。
 - [botdirectory.ai (announced)](https://x.com/aiedge_/status/2089895147068924385) - 稼働中 Bot のコミュニティディレクトリ。サイト自体も beta 扱い。
 - [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 56 件のコピペ用 Bot プロフィールとスターターチーム。
-- [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - コミュニティのプロンプト目錄（149★）。掲載を Grok Bot に貼るとスケジュール Bot として自己設定。
+- [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) - コミュニティ用プロンプトディレクトリ（152★）。リストを Grok Bot に貼るとスケジュール Bot としてセットアップ。
 - [rosterroom](https://github.com/codejunkie99/rosterroom) - Grok Bot 向けのコピペ用チーム編成 82 件。役割分担と人の承認ゲート付き。
 - [usegrokbot.com](https://github.com/a70win-wq/usegrokbot) - 実在の Grok Bot ワークフロー検索ライブラリ。公開サイトは usegrokbot.com。
 - [GrokBotDev / grokbot.dev](https://github.com/ZeroPointRepo/GrokBotDev) - Agent 向けのプロンプト / プラグイン / 用例ディレクトリ。書き込みは PR、読み取りは JSON/RSS/MCP。
 - [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - 生産性・営業・マーケ・運用向けの貼り付け用 Grok Bot プロンプト集。
 - [ellelion/botteams](https://github.com/ellelion/botteams) - Grok Bot の公開チームディレクトリ。インストーラ用プロンプトを貼ると、Bot・グループチャット・ルーチンを作る。
 - [travisrr/really.bot](https://github.com/travisrr/really.bot) - really.bot の公開 Grok Bot ジョブボード。検証済みの実行に通し番号が付き、X で @tryreallybot をタグるとスレッドを取り込める。
-- [thomasbek3/hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Grok Bot 風の Hermes Desktop プラグイン。iMessage 風バブルと各 Bot コンピュータのライブ窓（51★、xAI 非公式）。
+- [thomasbek3/hermes-bot-kit](https://github.com/thomasbek3/hermes-bot-kit) - Grok Bot 風の Hermes Desktop プラグイン。iMessage 風バブルと各 Bot コンピュータのライブ窓（52★、xAI 非公認）。
 - [Ritesh-Root/grok-template](https://github.com/Ritesh-Root/grok-template) - groktemplate.vercel.app のコミュニティ市集。動く Grok Bot 共有リンクと GitHub パックを、アカウントなしで閲覧・コピー。
 - [mostdesign01-sudo/grokbot-use-cases](https://github.com/mostdesign01-sudo/grokbot-use-cases) - 非公式のバイリンガル事例館（AI UP LAB）。再利用できる Grok Bot 事例・HTML・Agent UI を JSON データから日次更新。
 - [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) - 公式 x.ai/bot 共有リンクの厳選リスト（プロンプト置き場ではない）。審査メモ・チームパック・SECURITY.md あり。リソース一覧は RongleCat を案内（1★）。
@@ -354,10 +376,13 @@
 - [computindev/busca.bot](https://github.com/computindev/busca.bot) - スペイン語の Grok Bot プロンプト目錄（Astro）。本番 https://busca.bot（HTTP 200、0★）。
 - [ddhjy/grok-bot-hub](https://github.com/ddhjy/grok-bot-hub) - 非公式の中国語 Grok Bot ナビ（Astro + catalog.json 328件）。https://ddhjy.github.io/grok-bot-hub/（MIT、0★）。
 - [0xNyk/awesome-grok-bot](https://github.com/0xNyk/awesome-grok-bot) - 0xNyk 独自の Grok Bot skills/plugins/MCP 目錄。production|beta|experimental タグと信頼境界メモ（CC BY 4.0、4★）。
+- [Krishnamurthy-sfdx/grokbot-wall](https://github.com/Krishnamurthy-sfdx/grokbot-wall) - Grok Bot 関連の X 投稿ウォール（grokbot-wall.vercel.app）。公開 syndication から日次再生成（0★）。
+- [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) - 公式 x.ai/bot 共有リンク付きコミュニティテンプレの多言語 awesome（CC0、grokbot-templates.com、0★）。
+- [LinXiaoTao/awesome-grokbot](https://github.com/LinXiaoTao/awesome-grokbot) - 公式 x.ai/bot 共有リンク付きコミュニティ Grok Bot の日英リスト（awsomebot.com、0★）。
 
 ## 貢献
 
-8 セクションに 237 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 256 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -384,6 +384,16 @@
             "zh": "官方 2026-08-29：Grok Bot 加强 X 支持；连接 X 资料会自动创建开发者账号并附赠额度。",
             "ja": "公式 2026-08-29。Grok Bot の X 連携が強化され、プロフィール接続で開発者アカウントが自動作成されクレジットが付く。"
           }
+        },
+        {
+          "title": "Get help (Cursor Help)",
+          "url": "https://cursor.com/help/grok-bot/get-help",
+          "source": "day-20260831-1304",
+          "blurb": {
+            "en": "Official Cursor help: contact Grok Bot support at hi@cursor.com and include account email, app version/platform (Mac/Windows/iOS), what you tried, and a screenshot (billing issues same inbox).",
+            "zh": "官方帮助：Grok Bot 支持发 hi@cursor.com，附账号邮箱、版本与平台（Mac/Windows/iOS）、已尝试步骤与截图（账单问题同邮箱）。",
+            "ja": "公式ヘルプ：Grok Bot サポートは hi@cursor.com。アカウントメール、版／OS（Mac/Windows/iOS）、試したこと、スクショを添える（課金も同宛先）。"
+          }
         }
       ]
     },
@@ -1244,6 +1254,66 @@
             "zh": "NexFade 的 `.grok-plugin` + MCP：在 Grok Bot 电脑上 AES-256-GCM 加密文件/笔记，只上传密文分享链接（明文不进 NexFade；MIT）。",
             "ja": "Grok Bot 向け NexFade `.grok-plugin` + MCP。Bot 上で AES-256-GCM 暗号化し、平文を NexFade に送らず共有（MIT、0★）。"
           }
+        },
+        {
+          "title": "elderibeiro/proton-mail-mcp-grokbot",
+          "url": "https://github.com/elderibeiro/proton-mail-mcp-grokbot",
+          "source": "GB-322",
+          "blurb": {
+            "en": "Public Proton Mail MCP recovery base for Grok Bot: official Bridge on loopback plus a stdio proxy (pass/env secrets; no credentials in-repo; 1★).",
+            "zh": "面向 Grok Bot 的公开 Proton Mail MCP 恢复底包：本机官方 Bridge + stdio 代理（密钥走 pass/环境变量，仓库不含凭据；1★）。",
+            "ja": "Grok Bot 向け公開 Proton Mail MCP。公式 Bridge（loopback）＋stdio プロキシ（秘密は pass/環境変数、1★）。"
+          }
+        },
+        {
+          "title": "elderibeiro/subaru-starlink-mcp-grokbot",
+          "url": "https://github.com/elderibeiro/subaru-starlink-mcp-grokbot",
+          "source": "GB-323",
+          "blurb": {
+            "en": "Public Subaru STARLINK / MySubaru MCP for Grok Bot via subarulink (no VIN/PIN/secrets in-repo; MIT; 1★).",
+            "zh": "面向 Grok Bot 的公开 Subaru STARLINK/MySubaru MCP（subarulink；仓库不含 VIN/PIN/密钥；MIT；1★）。",
+            "ja": "Grok Bot 向け公開 Subaru STARLINK / MySubaru MCP（subarulink、VIN/PIN なし、MIT、1★）。"
+          }
+        },
+        {
+          "title": "koreysmith123/recallsmith",
+          "url": "https://github.com/koreysmith123/recallsmith",
+          "source": "GB-324",
+          "blurb": {
+            "en": "RecallSmith experiential memory for GrokBot: one-message install, `.grok-plugin`/MCP skills, docker-compose and pgvector profiles (MIT).",
+            "zh": "RecallSmith：给 GrokBot 的三层经验记忆，支持一句话安装、`.grok-plugin`/MCP skills、docker-compose 与 pgvector（MIT）。",
+            "ja": "RecallSmith。GrokBot 向け経験メモリ。一言インストール、`.grok-plugin`/MCP skills、docker-compose／pgvector（MIT、0★）。"
+          }
+        },
+        {
+          "title": "canvascloudai/cwm-cursor-plugin",
+          "url": "https://github.com/canvascloudai/cwm-cursor-plugin",
+          "source": "GB-325",
+          "blurb": {
+            "en": "Cloud World Model official Cursor/Grok Bot plugin pack: hosted Streamable HTTP MCP plus simulate-architecture skill (MIT).",
+            "zh": "Cloud World Model 官方 Cursor/Grok Bot 插件包：托管 Streamable HTTP MCP + simulate-architecture skill（MIT）。",
+            "ja": "Cloud World Model 公式 Cursor/Grok Bot プラグイン。ホスト MCP と simulate-architecture skill（MIT、0★）。"
+          }
+        },
+        {
+          "title": "sigmashakeinc/sigmashake-guardrails",
+          "url": "https://github.com/sigmashakeinc/sigmashake-guardrails",
+          "source": "GB-326",
+          "blurb": {
+            "en": "SigmaShake Guardrails hosted control plane for Grok Bot/Cursor: `.grok-plugin` + Streamable HTTP MCP evaluating tool calls (ALLOW/DENY/ASK/…).",
+            "zh": "SigmaShake Guardrails：面向 Grok Bot/Cursor 的托管管控面，`.grok-plugin` + Streamable HTTP MCP，按规则评估工具调用（ALLOW/DENY/ASK/…）。",
+            "ja": "SigmaShake Guardrails。Grok Bot/Cursor 向けホスト型ガードレール。`.grok-plugin`＋Streamable HTTP MCP でツール呼出を評価（0★）。"
+          }
+        },
+        {
+          "title": "Deploy-Forward/convoy",
+          "url": "https://github.com/Deploy-Forward/convoy",
+          "source": "GB-327",
+          "blurb": {
+            "en": "Convoy hosted MCP (convoy.bot/mcp) with Grok Bot as conductor: onboard/roster/send/feed hops to BYO harness CLIs (tests + docs).",
+            "zh": "Convoy 托管 MCP（convoy.bot/mcp）：以 Grok Bot 为指挥，向自带 harness CLI 做 onboard/roster/send/feed 跳转（含测试与文档）。",
+            "ja": "Convoy ホスト MCP（convoy.bot/mcp）。Grok Bot を指揮者に BYO ハーネスへ onboard/roster/send/feed（テスト／ドキュメント付き、0★）。"
+          }
         }
       ]
     },
@@ -1520,9 +1590,9 @@
           "url": "https://github.com/OnlyTerp/opengrok",
           "source": "day-20260828",
           "blurb": {
-            "en": "Unofficial model picker for the official Grok Bot client: one model per agent, verified wire maps for Grok/Claude/GLM/Gemini/DeepSeek/local, keys stay on your machine (235★).",
-            "zh": "非官方模型选择器：给官方客户端每个 Agent 换模型，Grok/Claude/GLM/Gemini/DeepSeek/本地有核过的 wire map，密钥不出本机（235★）。",
-            "ja": "公式クライアント向け非公式モデルピッカー。エージェントごとに Grok/Claude/GLM/Gemini/DeepSeek/ローカルを切替。wire map は検証済み、鍵は手元（235★）。"
+            "en": "Unofficial model picker for the official Grok Bot client: one model per agent, verified wire maps for Grok/Claude/GLM/Gemini/DeepSeek/local, keys stay on your machine (384★).",
+            "zh": "非官方 Grok Bot 客户端模型切换器：每代理一模型，已核对 Grok/Claude/GLM/Gemini/DeepSeek/本地线路图，密钥留在本机（384★）。",
+            "ja": "公式 Grok Bot クライアント用の非公式モデル切替。エージェントごとに1モデル、Grok/Claude/GLM/Gemini/DeepSeek/ローカルの配線確認済み、鍵は手元（384★）。"
           }
         },
         {
@@ -1673,6 +1743,26 @@
             "en": "Crew harness/CLI (`foreman`) for hosted Grok Bot teams: declared packs, inspect/sync against gbot JSON, effect ledger, shift reports, and a `.grok-plugin` (MIT, 2★).",
             "zh": "托管 Grok Bot 班组的 harness/CLI（`foreman`）：声明式 packs、相对 gbot JSON 的 inspect/sync、effect ledger、值班报告，以及 `.grok-plugin`（MIT，2★）。",
             "ja": "ホスト型 Grok Bot 班用 harness/CLI（`foreman`）。宣言 packs、gbot JSON 照合、effect ledger、シフト報告、`.grok-plugin`（MIT、2★）。"
+          }
+        },
+        {
+          "title": "falser101/grok-bot-bin",
+          "url": "https://github.com/falser101/grok-bot-bin",
+          "source": "GB-328",
+          "blurb": {
+            "en": "AUR package grok-bot-bin that installs official Grok Bot 0.30.0 from Cursor’s Linux .deb (pinned sha256; packaging 0BSD).",
+            "zh": "AUR 包 grok-bot-bin：从 Cursor 官方 Linux .deb 安装 Grok Bot 0.30.0（锁定 sha256；打包许可 0BSD）。",
+            "ja": "AUR の grok-bot-bin。Cursor 公式 Linux .deb から Grok Bot 0.30.0 を入れる（sha256 固定、0BSD、0★）。"
+          }
+        },
+        {
+          "title": "ATLTuck/unofficial-grok-bot-arch-installer",
+          "url": "https://github.com/ATLTuck/unofficial-grok-bot-arch-installer",
+          "source": "GB-329",
+          "blurb": {
+            "en": "Unofficial Arch/Manjaro installer that turns the official Grok Bot .deb into a native pacman package (install.sh + PKGBUILD).",
+            "zh": "非官方 Arch/Manjaro 安装器：把官方 Grok Bot .deb 打成原生 pacman 包（install.sh + PKGBUILD）。",
+            "ja": "非公式 Arch/Manjaro インストーラ。公式 Grok Bot .deb を pacman パッケージ化（install.sh＋PKGBUILD、0★）。"
           }
         }
       ]
@@ -2234,6 +2324,76 @@
             "zh": "官方：空白/白屏通常是桌面端连不上云电脑；Cloudflare WARP 会拦截该流量（热点也一样）——关闭 WARP 或用分流/排除路由；并优先用 0.28.0 之后能显示错误与重试的版本。",
             "ja": "スタッフ：空白/白画面はだいたいデスクトップがクラウド PC に届かない印。Cloudflare WARP がその通信を横取りし（ホットスポットでも同様）、WARP オフかスプリットトンネル/除外が必要。0.28.0 以降は空白ではなくエラー+リトライ表示。"
           }
+        },
+        {
+          "title": "Cloud Agents created in Grok Bot not displayed in Cursor",
+          "url": "https://forum.cursor.com/t/cloud-agents-created-in-grok-bot-not-displayed-in-cursor/169939",
+          "source": "day-20260831-1304",
+          "blurb": {
+            "en": "Staff: Cloud Agents launched from Grok Bot keep running under your account but stay hidden on cursor.com/agents and the desktop sidebar until you enable filter Source > Grok Bot (once per client: web and desktop).",
+            "zh": "官方：从 Grok Bot 拉起的 Cloud Agents 仍在你账号下运行，但默认不出现在 cursor.com/agents 与桌面侧栏；在列表过滤器里打开 Source > Grok Bot（网页端与桌面端需各开一次）。",
+            "ja": "公式：Grok Bot から起動した Cloud Agents はアカウント上では動くが、cursor.com/agents とデスクトップ側欄ではデフォルト非表示。フィルタで Source > Grok Bot を有効化（Web／デスクトップ各1回）。"
+          }
+        },
+        {
+          "title": "Can't reach your computer from last 72 hours",
+          "url": "https://forum.cursor.com/t/cant-reach-your-computer-from-last-72-hours/169970",
+          "source": "day-20260831-1304",
+          "blurb": {
+            "en": "Staff: when the cloud computer is healthy but the app still says Can’t reach your computer, switch Windows DNS to 1.1.1.1 / 8.8.8.8 or confirm via a phone hotspot on another carrier.",
+            "zh": "官方：云电脑本身正常却仍提示 Can’t reach your computer 时，把 Windows DNS 改成 1.1.1.1 / 8.8.8.8，或用另一运营商手机热点验证。",
+            "ja": "公式：クラウド側は正常なのに Can’t reach your computer のとき、Windows DNS を 1.1.1.1 / 8.8.8.8 にするか、別キャリアのテザリングで切り分け。"
+          }
+        },
+        {
+          "title": "Grok Bot 0.30.0 stuck on \"Setting up your Grok Bot\" on macOS",
+          "url": "https://forum.cursor.com/t/grok-bot-0-30-0-stuck-on-setting-up-your-grok-bot-on-macos/169981",
+          "source": "day-20260831-1304",
+          "blurb": {
+            "en": "Staff: endless Setting up your Grok Bot on a free Cursor plan means no hosted machine is provisioned — needs Pro/Pro+/Ultra/Teams or linked SuperGrok/Plus/Heavy; the spinner instead of an access message is a known UX bug.",
+            "zh": "官方：免费 Cursor 账号一直停在 Setting up your Grok Bot，是因为未开通托管电脑（需 Pro/Pro+/Ultra/Teams 或绑定 SuperGrok/Plus/Heavy）；应用未给出明确无权限提示属已知问题。",
+            "ja": "公式：無料 Cursor で Setting up your Grok Bot が終わらないのはホストマシン未作成のため。Pro/Pro+/Ultra/Teams か SuperGrok/Plus/Heavy 連携が必要。権限不足を出さずスピナーになるのは既知 UX 不具合。"
+          }
+        },
+        {
+          "title": "Grok Bot Zoom plugin OAuth hardcodes http://localhost:8787/callback — Zoom rejects hostname localhost (error 4700)",
+          "url": "https://forum.cursor.com/t/grok-bot-zoom-plugin-oauth-hardcodes-http-localhost-8787-callback-zoom-rejects-hostname-localhost-error-4700/169991",
+          "source": "day-20260831-1304",
+          "blurb": {
+            "en": "Staff: the catalog Zoom plugin OAuth hardcodes http://localhost:8787/callback, which Zoom rejects (error 4700); no user workaround until the redirect moves off localhost (e.g. 127.0.0.1).",
+            "zh": "官方：目录 Zoom 插件 OAuth 写死 http://localhost:8787/callback，Zoom 会拒绝 localhost（error 4700）；用户侧无法改 redirect，需等官方改掉（如 127.0.0.1）。",
+            "ja": "公式：カタログ Zoom プラグインの OAuth が http://localhost:8787/callback 固定で Zoom が拒否（error 4700）。ユーザー側回避不可。localhost 以外（例 127.0.0.1）への変更を追跡中。"
+          }
+        },
+        {
+          "title": "Unable to reconnect to my Grok Bot's computer after attempted update",
+          "url": "https://forum.cursor.com/t/unable-to-reconnect-to-my-grok-bots-computer-after-attempted-update/170000",
+          "source": "day-20260831-1304",
+          "blurb": {
+            "en": "Staff: bots/files/logins live on the remote computer; Can’t Reach plus failed Recover/Reset often means a lost app login session — fully quit, sign out/in (or reinstall and sign in), since Recover/Reset need a working session.",
+            "zh": "官方：机器人/文件/登录态在远端电脑；出现 Can’t Reach 且 Recover/Reset 失败，多半是应用会话丢失——彻底退出后重新登录（或重装再登录），二者都依赖有效会话。",
+            "ja": "公式：Bot／ファイル／ログインは遠隔マシン上。Can’t Reach と Recover/Reset 失敗はアプリセッション切れが多い。完全終了→サインアウト／イン（または再インストール後ログイン）。Recover/Reset も有効セッションが必要。"
+          }
+        },
+        {
+          "title": "Grok Bot Computer Stuck in Partial State — Reset Failed, Existing Cloud Computer Unreachable",
+          "url": "https://forum.cursor.com/t/grok-bot-computer-stuck-in-partial-state-reset-failed-existing-cloud-computer-unreachable/170006",
+          "source": "day-20260831-1304",
+          "blurb": {
+            "en": "Staff: hold off on Reset/Recover after a scary partial-state dialog — data is remote and failed resets often failed on the app side; re-login, verify via mobile on cellular, and try public DNS / disable VPN before resetting.",
+            "zh": "官方：出现 partial state 提示后先别狂点 Reset/Recover——数据在远端，失败的 Reset 常只在应用侧失败；先重新登录，用手机流量开移动端核对，再试公共 DNS／关 VPN。",
+            "ja": "公式：partial state 表示後は Reset/Recover を急がない。データは遠隔で、失敗リセットはアプリ側だけのことが多い。再ログイン、モバイル回線のアプリで確認、DNS／VPN 切り分けを先に。"
+          }
+        },
+        {
+          "title": "Grok Bot couldn't finish setup",
+          "url": "https://forum.cursor.com/t/grok-bot-couldnt-finish-setup/170010",
+          "source": "day-20260831-1304",
+          "blurb": {
+            "en": "Staff: Can’t reach your computer on Linux Grok Bot 0.18.0 is not your network — Grok Bot is not officially available on Linux yet and that old build is rejected; supported platforms are macOS, Windows, and iOS.",
+            "zh": "官方：Linux 上 Grok Bot 0.18.0 报 Can’t reach your computer 并非网络问题——Linux 尚未正式支持，旧构建会被服务端拒绝；正式平台为 macOS / Windows / iOS。",
+            "ja": "公式：Linux の Grok Bot 0.18.0 での Can’t reach your computer は回線ではなく、Linux 未正式対応＋古いビルド拒否。対応は macOS / Windows / iOS。"
+          }
         }
       ]
     },
@@ -2300,9 +2460,9 @@
           "url": "https://github.com/elie222/botdirectory.ai",
           "source": "day-20260824",
           "blurb": {
-            "en": "Community prompt directory (149 stars): paste a listing into Grok Bot and it sets itself up as a scheduled bot.",
-            "zh": "社区提示词目录（149 star）：把条目贴进 Grok Bot，它会把自己配成定时 Bot。",
-            "ja": "コミュニティのプロンプト目錄（149★）。掲載を Grok Bot に貼るとスケジュール Bot として自己設定。"
+            "en": "Community prompt directory (152 stars): paste a listing into Grok Bot and it sets itself up as a scheduled bot.",
+            "zh": "社区提示词目录（152★）：把条目贴进 Grok Bot，即可设成定时机器人。",
+            "ja": "コミュニティ用プロンプトディレクトリ（152★）。リストを Grok Bot に貼るとスケジュール Bot としてセットアップ。"
           }
         },
         {
@@ -2370,9 +2530,9 @@
           "url": "https://github.com/thomasbek3/hermes-bot-kit",
           "source": "day-20260829",
           "blurb": {
-            "en": "Hermes Desktop plugins that copy the Grok Bot feel: iMessage-style bubbles plus a live window into each bot’s computer (51★, not affiliated with xAI).",
-            "zh": "Hermes 桌面插件，把 Grok Bot 那套搬过去：聊天气泡，外加盯着每台 Bot 电脑的实时窗口（51★，与 xAI 无关）。",
-            "ja": "Grok Bot 風の Hermes Desktop プラグイン。iMessage 風バブルと各 Bot コンピュータのライブ窓（51★、xAI 非公式）。"
+            "en": "Hermes Desktop plugins that copy the Grok Bot feel: iMessage-style bubbles plus a live window into each bot’s computer (52★, not affiliated with xAI).",
+            "zh": "Hermes Desktop 插件，仿 Grok Bot 体验：iMessage 风格气泡 + 每个机器人电脑的实时窗口（52★，与 xAI 无关）。",
+            "ja": "Grok Bot 風の Hermes Desktop プラグイン。iMessage 風バブルと各 Bot コンピュータのライブ窓（52★、xAI 非公認）。"
           }
         },
         {
@@ -2453,6 +2613,36 @@
             "en": "Independent 0xNyk awesome directory of Grok Bot skills/plugins/MCP with production|beta|experimental maturity tags and a trust-boundary note (CC BY 4.0, 4★).",
             "zh": "0xNyk 独立整理的 Grok Bot skills/plugins/MCP 目录，带 production|beta|experimental 成熟度标签与信任边界说明（CC BY 4.0，4★）。",
             "ja": "0xNyk 独自の Grok Bot skills/plugins/MCP 目錄。production|beta|experimental タグと信頼境界メモ（CC BY 4.0、4★）。"
+          }
+        },
+        {
+          "title": "Krishnamurthy-sfdx/grokbot-wall",
+          "url": "https://github.com/Krishnamurthy-sfdx/grokbot-wall",
+          "source": "GB-330",
+          "blurb": {
+            "en": "Live wall of recent X posts about Grok Bot (grokbot-wall.vercel.app) rebuilt daily from public syndication feeds.",
+            "zh": "Grok Bot 相关 X 动态墙（grokbot-wall.vercel.app），每日用公开 syndication 重建静态页。",
+            "ja": "Grok Bot 関連の X 投稿ウォール（grokbot-wall.vercel.app）。公開 syndication から日次再生成（0★）。"
+          }
+        },
+        {
+          "title": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+          "source": "GB-331",
+          "blurb": {
+            "en": "Multi-language awesome list of community Grok Bot templates with official x.ai/bot share links (CC0; directory at grokbot-templates.com).",
+            "zh": "多语言 awesome：收录带官方 x.ai/bot 分享链接的社区 Grok Bot 模板（CC0；目录站 grokbot-templates.com）。",
+            "ja": "公式 x.ai/bot 共有リンク付きコミュニティテンプレの多言語 awesome（CC0、grokbot-templates.com、0★）。"
+          }
+        },
+        {
+          "title": "LinXiaoTao/awesome-grokbot",
+          "url": "https://github.com/LinXiaoTao/awesome-grokbot",
+          "source": "GB-332",
+          "blurb": {
+            "en": "Curated EN/ZH list of community Grok Bots with official x.ai/bot share links (site: awsomebot.com).",
+            "zh": "中英双语整理的社区 Grok Bot 列表（官方 x.ai/bot 分享链接；站点 awsomebot.com）。",
+            "ja": "公式 x.ai/bot 共有リンク付きコミュニティ Grok Bot の日英リスト（awsomebot.com、0★）。"
           }
         }
       ]
@@ -3945,6 +4135,192 @@
         "en": "Apply on Luma (host approval)",
         "zh": "去 Luma 报名（需审核）",
         "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "isu-20260903",
+      "url": "https://luma.com/00x0vh1t",
+      "image": "./assets/events/isu-20260903-cover.png",
+      "expires": "2026-09-03T19:30:00-05:00",
+      "title": {
+        "en": "Grok Bot Build Night (Iowa State / Ames)",
+        "zh": "Grok Bot Build Night（爱荷华州立 / 埃姆斯）",
+        "ja": "Grok Bot Build Night（Iowa State / エイムズ）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 17:00–19:30 (CDT)",
+        "zh": "2026-09-03 周四 17:00–19:30（埃姆斯）",
+        "ja": "2026-09-03（木）17:00–19:30（CDT）"
+      },
+      "where": {
+        "en": "Iowa State University Student Innovation Center, 606 Bissell Rd, Ames, IA",
+        "zh": "爱荷华州立大学 Student Innovation Center, 606 Bissell Rd, Ames",
+        "ja": "Iowa State University Student Innovation Center, 606 Bissell Rd, Ames, IA"
+      },
+      "body": {
+        "en": "SpaceXAI × Iowa State GrokBot build night: agents that connect to Gmail/Slack/calendar/web, run on schedules, and hand off work — then live demos, plus a free month of Cursor Pro.",
+        "zh": "SpaceXAI × 爱荷华州立 GrokBot 之夜：可接 Gmail/Slack/日历/网页、定时跑并能互相交接的智能体，现场演示，并送一个月 Cursor Pro。",
+        "ja": "SpaceXAI × Iowa State の GrokBot ビルドナイト。Gmail/Slack/カレンダー等に繋ぎスケジュール動作するエージェントを作りデモ。Cursor Pro 1 か月付き。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "pitt-20260903",
+      "url": "https://luma.com/nbzn8j2m",
+      "image": "./assets/events/pitt-20260903-cover.png",
+      "expires": "2026-09-03T20:00:00-04:00",
+      "title": {
+        "en": "Grok Bot Build Night (Pitt / Pittsburgh)",
+        "zh": "Grok Bot Build Night（匹兹堡大学）",
+        "ja": "Grok Bot Build Night（Pitt / ピッツバーグ）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:00–20:00 (EDT)",
+        "zh": "2026-09-03 周四 18:00–20:00（匹兹堡）",
+        "ja": "2026-09-03（木）18:00–20:00（EDT）"
+      },
+      "where": {
+        "en": "Sennott Square Room 5502, University of Pittsburgh, 3810 Forbes Ave, Pittsburgh, PA",
+        "zh": "匹兹堡大学 Sennott Square 5502, 3810 Forbes Ave",
+        "ja": "Sennott Square Room 5502, University of Pittsburgh, 3810 Forbes Ave"
+      },
+      "body": {
+        "en": "SpaceXAI × AWS Cloud Club at Pitt Grok Bot build night in Sennott Square — every attendee gets one free month of Cursor Pro (includes Grok Bot).",
+        "zh": "SpaceXAI × 匹大 AWS Cloud Club 的 Grok Bot 之夜（Sennott Square），每位到场者获一个月含 Grok Bot 的 Cursor Pro。",
+        "ja": "SpaceXAI × Pitt AWS Cloud Club の Grok Bot ビルドナイト（Sennott Square）。参加者に Cursor Pro（Grok Bot 込み）1 か月。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "ncsu-20260903",
+      "url": "https://luma.com/9ck911r9",
+      "image": "./assets/events/ncsu-20260903-cover.png",
+      "expires": "2026-09-03T20:00:00-04:00",
+      "title": {
+        "en": "Grok Bot Build Night (NC State)",
+        "zh": "Grok Bot Build Night（北卡州立）",
+        "ja": "Grok Bot Build Night（NC State）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:00–20:00 (EDT)",
+        "zh": "2026-09-03 周四 18:00–20:00（东美）",
+        "ja": "2026-09-03（木）18:00–20:00（EDT）"
+      },
+      "where": {
+        "en": "NC State University · exact address after you register",
+        "zh": "北卡州立大学 · 报名后可见地址",
+        "ja": "NC State University · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "SpaceXAI × NC State student GrokBot night: demo of always-on agents with their own computer, then build/network/eat, plus a free month of Cursor Pro (includes Grok Bot).",
+        "zh": "SpaceXAI × 北卡州立学生场：演示自带电脑的 always-on GrokBot，再动手做与社交用餐，并送一个月含 Grok Bot 的 Cursor Pro。",
+        "ja": "SpaceXAI × NC State の学生ナイト。専用パソコン付き always-on の GrokBot デモのあと制作・交流。Cursor Pro（Grok Bot 込み）1 か月。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "rose-20260903",
+      "url": "https://luma.com/s76hornw",
+      "image": "./assets/events/rose-20260903-cover.png",
+      "expires": "2026-09-03T20:30:00-04:00",
+      "title": {
+        "en": "Grok Bot Build Night (Rose-Hulman / Terre Haute)",
+        "zh": "Grok Bot Build Night（Rose-Hulman / 特雷霍特）",
+        "ja": "Grok Bot Build Night（Rose-Hulman / テレホート）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:30–20:30 (EDT)",
+        "zh": "2026-09-03 周四 18:30–20:30（印第安纳）",
+        "ja": "2026-09-03（木）18:30–20:30（EDT）"
+      },
+      "where": {
+        "en": "Rose-Hulman, 5500 Wabash Ave, Terre Haute, IN (CS Labs TBD)",
+        "zh": "Rose-Hulman, 5500 Wabash Ave, Terre Haute（CS Labs 待定）",
+        "ja": "Rose-Hulman, 5500 Wabash Ave, Terre Haute, IN（CS Labs TBD）"
+      },
+      "body": {
+        "en": "Rose-Hulman Cursor & Grok Bot build night with SpaceXAI: demo of always-on agents that have their own computer, then build/network, plus a free month of Cursor Pro.",
+        "zh": "Rose-Hulman × SpaceXAI 的 Cursor & Grok Bot 之夜：演示自带电脑的 always-on 智能体，再动手与交流，并送一个月 Cursor Pro。",
+        "ja": "Rose-Hulman × SpaceXAI の Cursor & Grok Bot ナイト。専用パソコン付き always-on エージェントのデモ後に制作・交流。Cursor Pro 1 か月付き。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "roc-20260903",
+      "url": "https://luma.com/myqb4rsj",
+      "image": "./assets/events/roc-20260903-cover.png",
+      "expires": "2026-09-03T21:00:00-04:00",
+      "title": {
+        "en": "Grok Bot Student Build Night (Rochester)",
+        "zh": "Grok Bot 学生 Build Night（罗切斯特大学）",
+        "ja": "Grok Bot Student Build Night（ロチェスター大学）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:30–21:00 (EDT)",
+        "zh": "2026-09-03 周四 18:30–21:00（罗切斯特）",
+        "ja": "2026-09-03（木）18:30–21:00（EDT）"
+      },
+      "where": {
+        "en": "University of Rochester, Rochester, NY (186 Cumberland St area · confirm on Luma)",
+        "zh": "罗切斯特大学（纽约州；Luma 页显示 186 Cumberland St 一带）",
+        "ja": "University of Rochester, Rochester, NY（Luma 表記の住所を確認）"
+      },
+      "body": {
+        "en": "University of Rochester student Grok Bot build night (nationwide Sep 3 wave): build with Grok Bot and Cursor, live SpaceXAI demo, no advanced AI experience required.",
+        "zh": "罗切斯特大学学生 Grok Bot 之夜（全国 9/3 场次之一）：用 Grok Bot 与 Cursor 动手，观看 SpaceXAI 演示，无需高阶 AI 经验。",
+        "ja": "ロチェスター大学の学生 Grok Bot ナイト（全国 9/3 波）。Grok Bot と Cursor で制作、SpaceXAI ライブデモ。高度な AI 経験は不要。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "sal-20260919",
+      "url": "https://luma.com/bot",
+      "image": "./assets/events/sal-20260919-cover.png",
+      "expires": "2026-09-19T19:00:00-06:00",
+      "title": {
+        "en": "Grok Bot Meetup San Salvador",
+        "zh": "Grok Bot 见面会圣萨尔瓦多",
+        "ja": "Grok Bot Meetup サンサルバドル"
+      },
+      "when": {
+        "en": "Sat 19 Sep 2026, 15:00–19:00 (America/El_Salvador)",
+        "zh": "2026-09-19 周六 15:00–19:00（萨尔瓦多）",
+        "ja": "2026-09-19（土）15:00–19:00（El Salvador）"
+      },
+      "where": {
+        "en": "San Salvador, El Salvador · address TBD (shown after register)",
+        "zh": "萨尔瓦多圣萨尔瓦多 · 地址待定（报名后可见）",
+        "ja": "サンサルバドル · 住所 TBD（登録後に表示）"
+      },
+      "body": {
+        "en": "Ai Labs Grok Bot meetup in San Salvador: go beyond one-off tasks with better instructions, context, and end-to-end workflows — builders and operators welcome (~50 going).",
+        "zh": "Ai Labs 在圣萨尔瓦多办的 Grok Bot 见面会：用更好的指令、上下文与端到端流程，而不只是零散任务（约 50 人意向）。",
+        "ja": "Ai Labs 主催のサンサルバドル Grok Bot ミートアップ。単発タスクを超える指示・文脈・一気通貫フローを探る（約 50 going）。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     }
   ]
