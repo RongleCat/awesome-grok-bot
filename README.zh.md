@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-237-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-238-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -223,6 +223,7 @@
 - [Chakhdz/grok-bot-token-saver](https://github.com/Chakhdz/grok-bot-token-saver) - 省 token 的首席/工人模具：定时 remaster 长对话，用短角色卡复活 Bot；可用 x.ai/bot 安装 Botsi Archivist。.
 - [supervised-nl/tesla-fleet-mcp](https://github.com/supervised-nl/tesla-fleet-mcp) - 带 `.grok-plugin` 的 Tesla Fleet API MCP，可给 Grok Bot 用（公网 HTTPS 的 Streamable HTTP；控制车辆需 tesla-http-proxy + 虚拟钥匙）。.
 - [DomenicFotino/grok-bot-template-market](https://github.com/DomenicFotino/grok-bot-template-market) - Bot Template Market 的托管 MCP 插件（catalog / licenses / apply_pack）；在 Grok Bot 插件里添加 `https://grok-raqet.vercel.app/api/mcp`。.
+- [Bot Shelf](https://github.com/getbotshelf/botshelf) - 已经跑过的 Grok Bot 工作包商店（markdown 可粘贴；也有 Claude Code 和 ChatGPT 包；checkout 尚未上线）.
 - [novusordos666/grokbot-outreach-agent-team](https://github.com/novusordos666/grokbot-outreach-agent-team) - 五套协同的 Grok Bot 角色提示词（首席、研究、资质、外联、收件/Calendly），做需人工批准的证据型外联。.
 - [NexFade/nexfade-grok-plugin](https://github.com/NexFade/nexfade-grok-plugin) - NexFade 的 `.grok-plugin` + MCP：在 Grok Bot 电脑上 AES-256-GCM 加密文件/笔记，只上传密文分享链接（明文不进 NexFade；MIT）。.
 
@@ -357,7 +358,7 @@
 
 ## 贡献
 
-目前 8 个分类、237 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、238 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
