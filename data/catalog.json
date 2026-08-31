@@ -1226,6 +1226,16 @@
           }
         },
         {
+          "title": "Bot Shelf",
+          "url": "https://github.com/getbotshelf/botshelf",
+          "source": "pr-getbotshelf-20260831",
+          "blurb": {
+            "en": "Shop of Grok Bot job packs that already ran (copy-paste markdown; Claude Code and ChatGPT packs too; checkout not live).",
+            "zh": "已经跑过的 Grok Bot 工作包商店（markdown 可粘贴；也有 Claude Code 和 ChatGPT 包；checkout 尚未上线）.",
+            "ja": "すでに走った Grok Bot ジョブパックの店（markdown を貼るだけ。Claude Code と ChatGPT のパックもあり。checkout は未公開)."
+          }
+        },
+        {
           "title": "novusordos666/grokbot-outreach-agent-team",
           "url": "https://github.com/novusordos666/grokbot-outreach-agent-team",
           "source": "GB-308",
