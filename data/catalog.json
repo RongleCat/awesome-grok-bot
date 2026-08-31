@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -603,6 +603,16 @@
             "en": "Japanese field handbook (Next.js) for running Grok Bot as named roles: contracts, request templates, Skill/Routine flows, team boundaries, and handoff .md files.",
             "zh": "日文现场手册（Next.js）：把 Grok Bot 当有名角色来跑——角色契约、请求模板、Skill/Routine 流程、团队边界与交接用 .md。",
             "ja": "Grok Bot を役割契約・依頼型・Skill/Routine・承認境界で回す日本語の現場手帳（Next.js）。ハンドオフ用 .md 付き（0★）。"
+          }
+        },
+        {
+          "title": "mKay00/grok-bot-second-brain",
+          "url": "https://github.com/mKay00/grok-bot-second-brain",
+          "source": "GB-318",
+          "blurb": {
+            "en": "Cloneable five-bot second-brain plan for one shared Grok Bot computer (Conductor/Capture/Memory/Ops/Research + vault-template and PLAN.md questionnaire).",
+            "zh": "可克隆的五 Bot 第二大脑方案：共用一台 Grok Bot 电脑（Conductor/Capture/Memory/Ops/Research + vault-template 与 PLAN.md 问卷）。",
+            "ja": "共有 Grok Bot コンピュータ向け5 Bot 第二脳プラン（Conductor/Capture/Memory/Ops/Research + vault-template と PLAN.md、0★）。"
           }
         }
       ]
@@ -1224,6 +1234,16 @@
             "zh": "五套协同的 Grok Bot 角色提示词（首席、研究、资质、外联、收件/Calendly），做需人工批准的证据型外联。",
             "ja": "Grok Bot 向け5役プロンプト（chief／調査／審査／アウトリーチ／受信・Calendly）。人承認付きの証拠ベース外販（MIT、0★）。"
           }
+        },
+        {
+          "title": "NexFade/nexfade-grok-plugin",
+          "url": "https://github.com/NexFade/nexfade-grok-plugin",
+          "source": "GB-317",
+          "blurb": {
+            "en": "NexFade `.grok-plugin` + MCP for Grok Bot: encrypt files/notes on the Bot computer (AES-256-GCM) and share ciphertext links without sending plaintext to NexFade (MIT).",
+            "zh": "NexFade 的 `.grok-plugin` + MCP：在 Grok Bot 电脑上 AES-256-GCM 加密文件/笔记，只上传密文分享链接（明文不进 NexFade；MIT）。",
+            "ja": "Grok Bot 向け NexFade `.grok-plugin` + MCP。Bot 上で AES-256-GCM 暗号化し、平文を NexFade に送らず共有（MIT、0★）。"
+          }
         }
       ]
     },
@@ -1520,9 +1540,9 @@
           "url": "https://github.com/glorics/omarchy-grok-bot",
           "source": "day-20260829-1804",
           "blurb": {
-            "en": "Omarchy bar plugin for the unofficial Linux Grok Bot client: running/idle/crash state, GitHub AppImage updates, and launch-or-focus.",
-            "zh": "非官方 Linux 客户端的 Omarchy 顶栏插件：显示运行/空闲/崩溃、检查 GitHub 上的新 AppImage，以及启动或切到前台。",
-            "ja": "非公式 Linux クライアント向け Omarchy バープラグイン。起動／アイドル／クラッシュ表示、GitHub の AppImage 更新、起動またはフォーカス。"
+            "en": "Omarchy bar plugin for the unofficial Linux Grok Bot client: running/idle state, Cursor CDN update checks, and launch-or-focus (themed x.ai/bot face).",
+            "zh": "非官方 Linux 客户端的 Omarchy 顶栏插件：运行/空闲状态、Cursor CDN 更新检查，以及启动或切到前台（x.ai/bot 主题脸）。",
+            "ja": "非公式 Linux クライアント向け Omarchy バープラグイン。起動／アイドル表示、Cursor CDN 更新確認、起動またはフォーカス（x.ai/bot 顔）。"
           }
         },
         {
@@ -1583,6 +1603,76 @@
             "en": "Native macOS Dock-style usage rail; Cursor integration treats Grok Bot weekly usage as the primary ring (also Claude/Codex/Grok; MIT, v0.9.1).",
             "zh": "原生 macOS 侧栏额度条；接 Cursor 时以 Grok Bot 周额度为主环（也看 Claude/Codex/Grok；MIT，v0.9.1）。",
             "ja": "macOS ネイティブの利用量レール。Cursor 連携では Grok Bot 週次枠を主リングに表示（Claude/Codex/Grok も、MIT、v0.9.1、0★）。"
+          }
+        },
+        {
+          "title": "diegocp01/grok_bot_usage_menu_bar",
+          "url": "https://github.com/diegocp01/grok_bot_usage_menu_bar",
+          "source": "GB-310",
+          "blurb": {
+            "en": "Native macOS menu-bar app that shows weekly Cursor Grok Bot usage remaining and the reset countdown (battery or percent; MIT).",
+            "zh": "原生 macOS 菜单栏小工具：显示 Cursor Grok Bot 本周剩余用量与重置倒计时（电量或百分比；MIT）。",
+            "ja": "Cursor Grok Bot の週間残り枠とリセット倒計時を出すネイティブ macOS メニューバーアプリ（電池／％表示、MIT、0★）。"
+          }
+        },
+        {
+          "title": "HxHippy/grok-bot-arch",
+          "url": "https://github.com/HxHippy/grok-bot-arch",
+          "source": "GB-311",
+          "blurb": {
+            "en": "Arch Linux installer/updater that pulls the official Grok Bot .deb from Cursor’s signed apt index (Anysphere GPG + SHA256 checks; MIT).",
+            "zh": "Arch 安装/更新脚本：从 Cursor 签名 apt 索引拉取官方 Grok Bot .deb（校验 Anysphere GPG 与 SHA256；MIT）。",
+            "ja": "Cursor 署名 apt 索引から公式 Grok Bot .deb を入れる Arch 用インストーラ／更新（Anysphere GPG+SHA256、MIT、0★）。"
+          }
+        },
+        {
+          "title": "limehawk/omarchy-grok-bot",
+          "url": "https://github.com/limehawk/omarchy-grok-bot",
+          "source": "GB-312",
+          "blurb": {
+            "en": "Omarchy bar plugin (limehawk.grok-bot) for official `/usr/bin/grok-bot`: keep-alive, show/hide, and a Hyprland special-workspace park rule (MIT).",
+            "zh": "面向官方 `/usr/bin/grok-bot` 的 Omarchy 顶栏插件（limehawk.grok-bot）：保活、显示/隐藏，以及 Hyprland 特殊工作区停靠规则（MIT）。",
+            "ja": "公式 `/usr/bin/grok-bot` 向け Omarchy バープラグイン（limehawk.grok-bot）。keepalive・表示切替・Hyprland 専用ワークスペース退避（MIT、0★）。"
+          }
+        },
+        {
+          "title": "enderzcx/grok-bot-switch",
+          "url": "https://github.com/enderzcx/grok-bot-switch",
+          "source": "GB-313",
+          "blurb": {
+            "en": "Preview channel switcher for Grok Bot Computer: install via Bot prompt, then flip between native inference and external OpenAI-compatible providers (independent-mode panel).",
+            "zh": "Grok Bot 电脑通道切换预览：用安装提示词装到云端，再在官方推理与外部 OpenAI 兼容供应商之间切换（独立模式面板）。",
+            "ja": "Grok Bot Computer のチャネル切替プレビュー。Bot 用インストールプロンプトで入れ、公式推論と外部 OpenAI 互換を切り替える独立モードパネル（0★）。"
+          }
+        },
+        {
+          "title": "IgorWarzocha/grok-codex-router",
+          "url": "https://github.com/IgorWarzocha/grok-codex-router",
+          "source": "GB-314",
+          "blurb": {
+            "en": "Experimental Sand-VM router that keeps Grok Bot’s UI/tools while sending inference to ChatGPT Codex (per-agent GPT-5.6 routes + local control UI; MIT).",
+            "zh": "实验性 Sand VM 路由：保留 Grok Bot 界面与工具，把推理打到 ChatGPT Codex（按 agent 配 GPT-5.6 + 本机控制台；MIT）。",
+            "ja": "Grok Bot の UI/ツールを残したまま ChatGPT Codex へ推論を流す実験 Sand VM ルータ（エージェント別 GPT-5.6 + 制御 UI、MIT、0★）。"
+          }
+        },
+        {
+          "title": "n0nag0n/patb",
+          "url": "https://github.com/n0nag0n/patb",
+          "source": "GB-315",
+          "blurb": {
+            "en": "Filing-cabinet CLI for Grok Bot computers: store one decision per record and have routines `patb get/search` instead of stuffing rules into the profile (3★).",
+            "zh": "给 Grok Bot 电脑用的「档案柜」CLI：一条规则一条记录，用 routine 调 `patb get/search`，别再把长规则塞进 profile（3★）。",
+            "ja": "Grok Bot コンピュータ向けファイリング CLI。ルールを1件ずつ保存し、routine から `patb get/search`（profile 肥大化を避ける、3★）。"
+          }
+        },
+        {
+          "title": "Archive228/foreman",
+          "url": "https://github.com/Archive228/foreman",
+          "source": "GB-316",
+          "blurb": {
+            "en": "Crew harness/CLI (`foreman`) for hosted Grok Bot teams: declared packs, inspect/sync against gbot JSON, effect ledger, shift reports, and a `.grok-plugin` (MIT, 2★).",
+            "zh": "托管 Grok Bot 班组的 harness/CLI（`foreman`）：声明式 packs、相对 gbot JSON 的 inspect/sync、effect ledger、值班报告，以及 `.grok-plugin`（MIT，2★）。",
+            "ja": "ホスト型 Grok Bot 班用 harness/CLI（`foreman`）。宣言 packs、gbot JSON 照合、effect ledger、シフト報告、`.grok-plugin`（MIT、2★）。"
           }
         }
       ]
@@ -2114,6 +2204,36 @@
             "zh": "官方：Phantom 插件走 @phantom/mcp-server，每次重新授权都会新建独立 agent 钱包而非个人钱包，所以重连会看到新地址，已充值资金仍在旧 agent 地址（可对照聊天记录或找 Phantom Support）。",
             "ja": "スタッフ：Phantom プラグインは @phantom/mcp-server で、再認証のたびに個人ウォレットではなく専用 agent ウォレットが新規作成される。再接続で別アドレスになり、入金は旧アドレスに残る（履歴照合か Phantom Support）。"
           }
+        },
+        {
+          "title": "Grokbot custom connectors",
+          "url": "https://forum.cursor.com/t/grokbot-custom-connectors/169965",
+          "source": "day-20260831",
+          "blurb": {
+            "en": "Staff: there is no settings form for custom connectors; tell the Bot in chat to add an MCP server (public HTTPS streamable HTTP/SSE), confirm the details, and new tools appear from the next message — localhost-only MCP on your PC is unreachable from the cloud computer.",
+            "zh": "官方：自定义连接器没有设置表单；在聊天里让 Bot 添加 MCP 服务器（公网 HTTPS，streamable HTTP/SSE），确认后下一句消息即可用新工具；只监听本机 localhost 的 MCP 云端电脑访问不到。",
+            "ja": "スタッフ：カスタムコネクタに設定フォームはない。チャットで Bot に MCP サーバ追加を依頼（公開 HTTPS の streamable HTTP/SSE）。確認後、次のメッセージから新ツールが使える。PC の localhost のみの MCP はクラウドからは届かない。"
+          }
+        },
+        {
+          "title": "Grok Bot: Drive MCP should write Google Docs body and Sheet cells, not only file metadata",
+          "url": "https://forum.cursor.com/t/grok-bot-drive-mcp-should-write-google-docs-body-and-sheet-cells-not-only-file-metadata/169971",
+          "source": "day-20260831",
+          "blurb": {
+            "en": "Staff: in-place Google Doc/Sheet editing lives in the dedicated Docs and Sheets connectors (edit content against the existing file ID), while Drive is file-level only; add both from the connector marketplace with the same Google account.",
+            "zh": "官方：就地编辑 Google Doc/Sheet 内容走专用 Docs/Sheets 连接器（对已有 file ID 改内容），Drive 只做文件级操作；用同一 Google 账号从连接器市场添加即可。",
+            "ja": "スタッフ：Google Doc/Sheet の中身編集は専用 Docs/Sheets コネクタ（既存ファイル ID に対して編集）。Drive はファイル操作のみ。同じ Google アカウントでマーケットから両方追加する。"
+          }
+        },
+        {
+          "title": "Blank screen after opening Grok Bot",
+          "url": "https://forum.cursor.com/t/blank-screen-after-opening-grok-bot/169966",
+          "source": "day-20260831",
+          "blurb": {
+            "en": "Staff: a blank/white screen usually means the desktop app cannot reach the cloud computer; Cloudflare WARP can intercept that traffic even on a hotspot — turn WARP off or use split tunneling/excluded routes, and prefer builds after 0.28.0 that show an error+retry instead of a blank screen.",
+            "zh": "官方：空白/白屏通常是桌面端连不上云电脑；Cloudflare WARP 会拦截该流量（热点也一样）——关闭 WARP 或用分流/排除路由；并优先用 0.28.0 之后能显示错误与重试的版本。",
+            "ja": "スタッフ：空白/白画面はだいたいデスクトップがクラウド PC に届かない印。Cloudflare WARP がその通信を横取りし（ホットスポットでも同様）、WARP オフかスプリットトンネル/除外が必要。0.28.0 以降は空白ではなくエラー+リトライ表示。"
+          }
         }
       ]
     },
@@ -2180,9 +2300,9 @@
           "url": "https://github.com/elie222/botdirectory.ai",
           "source": "day-20260824",
           "blurb": {
-            "en": "Community prompt directory (147 stars): paste a listing into Grok Bot and it sets itself up as a scheduled bot.",
-            "zh": "社区提示词目录（147 star）：把条目贴进 Grok Bot，它会把自己配成定时 Bot。",
-            "ja": "コミュニティのプロンプト目錄（147★）。掲載を Grok Bot に貼るとスケジュール Bot として自己設定。"
+            "en": "Community prompt directory (149 stars): paste a listing into Grok Bot and it sets itself up as a scheduled bot.",
+            "zh": "社区提示词目录（149 star）：把条目贴进 Grok Bot，它会把自己配成定时 Bot。",
+            "ja": "コミュニティのプロンプト目錄（149★）。掲載を Grok Bot に貼るとスケジュール Bot として自己設定。"
           }
         },
         {
@@ -2250,9 +2370,9 @@
           "url": "https://github.com/thomasbek3/hermes-bot-kit",
           "source": "day-20260829",
           "blurb": {
-            "en": "Hermes Desktop plugins that copy the Grok Bot feel: iMessage-style bubbles plus a live window into each bot’s computer (50★, not affiliated with xAI).",
-            "zh": "Hermes 桌面插件，把 Grok Bot 那套搬过去：聊天气泡，外加盯着每台 Bot 电脑的实时窗口（50★，与 xAI 无关）。",
-            "ja": "Grok Bot 風の Hermes Desktop プラグイン。iMessage 風バブルと各 Bot コンピュータのライブ窓（50★、xAI 非公式）。"
+            "en": "Hermes Desktop plugins that copy the Grok Bot feel: iMessage-style bubbles plus a live window into each bot’s computer (51★, not affiliated with xAI).",
+            "zh": "Hermes 桌面插件，把 Grok Bot 那套搬过去：聊天气泡，外加盯着每台 Bot 电脑的实时窗口（51★，与 xAI 无关）。",
+            "ja": "Grok Bot 風の Hermes Desktop プラグイン。iMessage 風バブルと各 Bot コンピュータのライブ窓（51★、xAI 非公式）。"
           }
         },
         {
@@ -2303,6 +2423,36 @@
             "en": "Directory app for installable Grok Bot team packs (official x.ai/bot share URLs only); local catalog via Supabase/Docker seed.",
             "zh": "可安装的 Grok Bot 团队套装目录应用（只收录官方 x.ai/bot 分享链接）；可用 Supabase/Docker 种子本地跑目录。",
             "ja": "導入可能な Grok Bot チームパックのディレクトリアプリ（公式 x.ai/bot 共有 URL のみ）。Supabase/Docker シードでローカル閲覧（1★）。"
+          }
+        },
+        {
+          "title": "computindev/busca.bot",
+          "url": "https://github.com/computindev/busca.bot",
+          "source": "GB-319",
+          "blurb": {
+            "en": "Spanish-language Grok Bot prompt directory (Astro content collections) with live site at busca.bot.",
+            "zh": "西班牙文 Grok Bot 提示词目录（Astro content collections），站点 busca.bot 已上线。",
+            "ja": "スペイン語の Grok Bot プロンプト目錄（Astro）。本番 https://busca.bot（HTTP 200、0★）。"
+          }
+        },
+        {
+          "title": "ddhjy/grok-bot-hub",
+          "url": "https://github.com/ddhjy/grok-bot-hub",
+          "source": "GB-320",
+          "blurb": {
+            "en": "Unofficial Chinese Grok Bot navigation site (Astro + data/catalog.json, 328 entries) at ddhjy.github.io/grok-bot-hub (MIT).",
+            "zh": "非官方中文 Grok Bot 导航站（Astro + data/catalog.json，328 条）https://ddhjy.github.io/grok-bot-hub/（MIT）。",
+            "ja": "非公式の中国語 Grok Bot ナビ（Astro + catalog.json 328件）。https://ddhjy.github.io/grok-bot-hub/（MIT、0★）。"
+          }
+        },
+        {
+          "title": "0xNyk/awesome-grok-bot",
+          "url": "https://github.com/0xNyk/awesome-grok-bot",
+          "source": "GB-321",
+          "blurb": {
+            "en": "Independent 0xNyk awesome directory of Grok Bot skills/plugins/MCP with production|beta|experimental maturity tags and a trust-boundary note (CC BY 4.0, 4★).",
+            "zh": "0xNyk 独立整理的 Grok Bot skills/plugins/MCP 目录，带 production|beta|experimental 成熟度标签与信任边界说明（CC BY 4.0，4★）。",
+            "ja": "0xNyk 独自の Grok Bot skills/plugins/MCP 目錄。production|beta|experimental タグと信頼境界メモ（CC BY 4.0、4★）。"
           }
         }
       ]
@@ -3728,6 +3878,68 @@
         "en": "Singapore’s first in-person Grok Bot meetup: see what the cloud-computer teammate can do, swap workflows, try it on the spot with credits (laptop or phone). Surprise SpaceX-family guest. Host approval, collab with SGInnovate.",
         "zh": "新加坡首场 Grok Bot 线下：看云电脑队友能干什么、换用法、现场领额度上手（笔记本或手机即可）。有 SpaceX 体系惊喜嘉宾。需主办审核，与 SGInnovate 合办。",
         "ja": "シンガポール初の Grok Bot オフライン。クラウドパソコン仲間の実演、ワークフロー共有、その場でクレジット試用（ノートでもスマホでも可）。SpaceX ファミリーのサプライズゲストあり。主催者承認、SGInnovate 共催。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "phl-20260903",
+      "url": "https://luma.com/vkh1pg34",
+      "image": "./assets/events/phl-20260903-cover.png",
+      "expires": "2026-09-03T21:30:00-04:00",
+      "title": {
+        "en": "Grok Bot Student Build Night (Penn / Philadelphia)",
+        "zh": "Grok Bot 宾大学生 Build Night（费城）",
+        "ja": "Grok Bot Student Build Night（Penn / フィラデルフィア）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:30–21:30 (EDT)",
+        "zh": "2026-09-03 周四 18:30–21:30（费城）",
+        "ja": "2026-09-03（木）18:30–21:30（EDT）"
+      },
+      "where": {
+        "en": "Philadelphia (Penn Labs × PER × Product Space) · exact address after you register",
+        "zh": "费城宾大（Penn Labs × PER × Product Space）· 报名后可见地址",
+        "ja": "フィラデルフィア（Penn Labs × PER × Product Space）· 登録後に住所を表示"
+      },
+      "body": {
+        "en": "Student Grok Bot build night with Penn Labs, PER, and Product Space: live demo of the always-on teammate with its own computer, then build/network/eat, plus a free month of Cursor Pro (includes Grok Bot).",
+        "zh": "宾大 Penn Labs / PER / Product Space 学生场：演示自带电脑的 always-on Grok Bot，再动手做、社交用餐，并送一个月含 Grok Bot 的 Cursor Pro。",
+        "ja": "Penn Labs・PER・Product Space 共催の学生ビルドナイト。専用パソコン付き always-on の Grok Bot デモのあと制作・交流・食事。Cursor Pro（Grok Bot 込み）1 か月付き。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "uiuc-20260903",
+      "url": "https://luma.com/wmznb83e",
+      "image": "./assets/events/uiuc-20260903-cover.png",
+      "expires": "2026-09-03T19:00:00-05:00",
+      "title": {
+        "en": "Grok Bot Build Night (UIUC / Champaign)",
+        "zh": "Grok Bot 香槟 Build Night（UIUC）",
+        "ja": "Grok Bot Build Night（UIUC / シャンペーン）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 17:30–19:00 (CDT)",
+        "zh": "2026-09-03 周四 17:30–19:00（香槟）",
+        "ja": "2026-09-03（木）17:30–19:00（CDT）"
+      },
+      "where": {
+        "en": "Siebel Center for Design, 1208 S 4th St, Champaign, IL (lower lobby)",
+        "zh": "伊利诺伊香槟 Siebel Center for Design, 1208 S 4th St（底层大厅）",
+        "ja": "シャンペーン Siebel Center for Design, 1208 S 4th St（下層ロビー）"
+      },
+      "body": {
+        "en": "UIUC student Grok Bot night at Siebel Center: one hour to build with the cloud-computer teammate, live demos, merch, and a free month of Cursor Pro (includes Grok Bot). Host approval, 30 spots.",
+        "zh": "UIUC 学生场：在 Siebel Center 用云电脑队友 Grok Bot 做一小时、现场演示、周边，并送一个月含 Grok Bot 的 Cursor Pro。需审核，30 人。",
+        "ja": "UIUC の Siebel Center でクラウドパソコン仲間の Grok Bot を 1 時間使い、ライブデモ。Cursor Pro（Grok Bot 込み）1 か月とグッズ付き。承認制・30 名。"
       },
       "cta": {
         "en": "Apply on Luma (host approval)",
