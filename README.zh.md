@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-303-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-313-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -108,6 +108,9 @@
 - [Grok Bot Build Night（McNeese / 莱克查尔斯）](https://luma.com/zcyllw4p) — 2026-09-03 周四 17:30–19:30（17:15 签到）. McNeese × SpaceXAI 教育场：动手用 Grok Bot + Cursor，不是纯讲座。
 - [Grok Bot Build Night（哈佛）](https://luma.com/oddeynku) — 2026-09-03 周四 20:00–22:00. 哈佛 × SpaceXAI：Grok Bot 直播演示后动手做，有披萨和奶茶。
 - [Grok Bot Build Night（UCR / 河滨）](https://luma.com/swqijv16) — 2026-09-03 周四 18:00–20:00. UCR Grok Bot 动手夜：和校园同学一起做、看演示。
+- [Grok Bot 伦敦线下交流](https://luma.com/grok-bot-london) — 2026-09-16 周三 18:00–21:00（伦敦）. 伦敦首场 Grok Bot：晚间 cowork、本地重度用户演示（SpaceXAI 现场工程师 Kiara Polychroniadi），带电脑领额度。
+- [Grok Bot 阿姆斯特丹线下交流](https://luma.com/grok-bot-amsterdam) — 2026-09-22 周二 18:00–21:00（阿姆斯特丹）. 阿姆斯特丹首场 Grok Bot：晚间 cowork、本地重度用户演示，带电脑领额度。
+- [Grok Bot After Dark（旧金山）](https://luma.com/spacexai-7alp) — 2026-09-02 周三 18:00–22:00（旧金山）. SpaceXAI After Dark：创作者/构建者/创始人一起探索 Grok Bot 边界。
 
 ## 目录
 
@@ -277,6 +280,11 @@
 - [BaseMouse Cursor plugin](https://github.com/basemouse/cursor-plugin) - Cursor/Grok Bot 插件：封装 BaseMouse MCP（search / context pack / upsert），并带 SKILL.md 做有出处的项目记忆.
 - [deskforge](https://github.com/mturac/deskforge) - Go CLI：在 git 仓库里初始化台账，并生成六份可贴进 Grok Bot 的角色说明（Mainer、Pulse、Scout、Judge、Builder、Critic），用于群组工位循环.
 - [Unlist](https://github.com/shawnyeager/unlist) - 给 Grok Bot 的 BOT.md 剧本加本地 CLI 和数据商名单：让 Bot 提交人肉搜索网站的退出申请并记录跟进，profile.json 不进 git.
+- [Brew for Grok Bot](https://github.com/GetBrew/cursor-plugin) - Cursor/Grok Bot 插件和 SKILL.md：用 OAuth 接 Brew 托管 MCP，让 Bot 生成、发送、排期并分析品牌邮件。.
+- [GojiberryAI Sales OS](https://github.com/romangojiberryAI/gojiberryai-sales-os) - Grok Bot 插件：13 个岗位的 SKILL.md 加 GojiberryAI 托管 MCP，让 Bot 做外呼销售（意向、补全、LinkedIn、回复），不编造联系人。.
+- [Steltic Grok Bot](https://github.com/Steltic/steltic_grokbot) - 打包好的 SKILL.md 加 Python 转换/索引/检索流水线：三个 Grok Bot 在 Bot 电脑上检索自备的钢结构规范，不靠外部 RAG。.
+- [GrokBot Body](https://github.com/rowline/grokbot-body) - iPhone + DockKit 应用和自建 Cloudflare Worker MCP：给某一个 Grok Bot 装上身体，能在手机上听、说、换脸。.
+- [Grok Bot Telegram private bridge](https://github.com/liush2yuxjtu/grok-bot-telegram-private-bridge) - 非官方、仅配对主人的 Telegram 前端：跑在 Grok Bot 云电脑里，只连本机 loopback 网关。.
 
 ## 评测与对比
 
@@ -336,6 +344,7 @@
 - [grok-bridge](https://github.com/shihao918/grok-bridge) - 非官方 Windows 守护进程：挂到 Grok Bot 的 UserComputer 通道，把云端 Agent 任务交给本机 LangGraph 或 AutoGen 流水线。.
 - [download-grok-bot](https://github.com/gprot42/grok-bot-tool) - 无依赖 Python CLI：把公开的 x.ai/bot 分享（资料、打包配方、skills、routines）存到本地；在 macOS 上可读取已登录的 Grok Bot 会话。.
 - [grokbot-openai](https://github.com/owenisas/grokbot-openai) - 非官方、无 pip 依赖的 Python：用 Grok Bot 的 PKCE 登录后，在本地提供 OpenAI /v1/chat/completions，给 Hermes、OpenCode 或 curl 用.
+- [omarchy-grokbot (rlimberger)](https://github.com/rlimberger/omarchy-grokbot) - 非官方 Omarchy 状态栏插件（QML）：显示 grokbot-tui 收件箱，并在原生 Rust TUI 里打开 Bot，不启动 Electron 的 /usr/bin/grokbot。.
 
 ## 社区与故障现场
 
@@ -374,7 +383,7 @@
 - [0.27.0 Windows: local host stays disconnected after clean registration](https://forum.cursor.com/t/grok-bot-0-27-0-windows-local-host-permanently-isn-t-connected-after-clean-registration-new-identity-server-side/169594) - 官方：0.27.0 Windows 上本机守护进程登记干净了，Agent 仍报 local host isn’t connected；先彻底退出所有 Grok 进程再开一次，还不行就是服务端。.
 - [Webhook URL and sender key are desktop-only, not on iOS](https://forum.cursor.com/t/webhook-url-missing-on-ios/169589) - 官方：webhook 例程的 POST 地址和 sender key 只在桌面端例程卡片上，iOS 看不到；去桌面端打开（先更新客户端）。.
 - [Official X plugin auth is broken on desktop, Cloud, and Grok Bot](https://forum.cursor.com/t/official-x-plugin-auth-is-broken-on-cursor-cloud-grok-bot-and-desktop-refresh/169592) - 官方：官方 X 插件在桌面、Cloud Agent 和 Grok Bot 上连接/刷新都坏（含已连接但 tools=0）；他们在改 X 侧应用配置，目前没有干净绕法。.
-- [Weekly Grok Bot usage can spill into paid On-Demand with no warning](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - 官方：周包含额度用完后打进共享 On-Demand 是设计如此，应用内无提示、看板也不拆 Bot/Cursor，不想付费就把 On-Demand 上限设成 $0。.
+- [Weekly Grok Bot usage can spill into paid On-Demand with no warning](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - 官方：扣费顺序是 Grok Bot 周额度 → 推荐/促销积分 → 付费 On-Demand，应用内无预警；$0 On-Demand 上限挡不住积分，不想溢出去就在周额度接近 100% 时暂停。.
 - [Pro weekly pool is separate; overflow hits shared On-Demand](https://forum.cursor.com/t/grok-bot-spend-cursor-usage-i-cant-accept-it/169796) - 官方更正：Pro 上 Grok Bot 有独立的每周包含额度（和 Cursor 计划用量分开）；用完后仍会打进共享 On-Demand，不想付费就把 On-Demand 上限设成 $0。.
 - [Access is live for paid plans, not legacy request-based](https://forum.cursor.com/t/cursor-says-grok-bot-is-included-with-pro-now-do-you-actually-have-access-yet/169808) - 官方：所有付费个人套餐（Pro / Pro+ / Ultra）和自助 Teams 已全开，没有按比例或地区放量；旧版按次计费套餐要先切到按用量才有。.
 - [Gmail plugin OAuth is broken; authorize from Cursor](https://forum.cursor.com/t/grok-bot-unable-to-authenticate-via-gmail-plugin/169782) - 官方：Grok Bot 的 Gmail 插件 OAuth 坏了；先在 Cursor 里授权 Gmail（另一条通路），连接会共享给 Grok Bot，等插件修好。.
@@ -395,7 +404,7 @@
 - [Grok Bot: Drive MCP should write Google Docs body and Sheet cells, not only file metadata](https://forum.cursor.com/t/grok-bot-drive-mcp-should-write-google-docs-body-and-sheet-cells-not-only-file-metadata/169971) - 官方：就地编辑 Google Doc/Sheet 内容走专用 Docs/Sheets 连接器（对已有 file ID 改内容），Drive 只做文件级操作；用同一 Google 账号从连接器市场添加即可。.
 - [Blank screen after opening Grok Bot](https://forum.cursor.com/t/blank-screen-after-opening-grok-bot/169966) - 官方：空白/白屏通常是桌面端连不上云电脑；Cloudflare WARP 会拦截该流量（热点也一样）——关闭 WARP 或用分流/排除路由；并优先用 0.28.0 之后能显示错误与重试的版本。.
 - [Cloud Agents created in Grok Bot not displayed in Cursor](https://forum.cursor.com/t/cloud-agents-created-in-grok-bot-not-displayed-in-cursor/169939) - 官方：从 Grok Bot 拉起的 Cloud Agents 仍在你账号下运行，但默认不出现在 cursor.com/agents 与桌面侧栏；在列表过滤器里打开 Source > Grok Bot（网页端与桌面端需各开一次）。.
-- [Can't reach your computer from last 72 hours](https://forum.cursor.com/t/cant-reach-your-computer-from-last-72-hours/169970) - 官方：云电脑本身正常却仍提示 Can’t reach your computer 时，把 Windows DNS 改成 1.1.1.1 / 8.8.8.8，或用另一运营商手机热点验证。.
+- [Can't reach your computer from last 72 hours](https://forum.cursor.com/t/cant-reach-your-computer-from-last-72-hours/169970) - 官方：云电脑本身健康但应用仍显示连不上时，把 IPv4 和 IPv6 DNS 都改成 1.1.1.1/8.8.8.8（JioFiber 路由常仍走 IPv6 DNS），或用另一运营商热点对照。.
 - [Grok Bot 0.30.0 stuck on "Setting up your Grok Bot" on macOS](https://forum.cursor.com/t/grok-bot-0-30-0-stuck-on-setting-up-your-grok-bot-on-macos/169981) - 官方：免费 Cursor 账号一直停在 Setting up your Grok Bot，是因为未开通托管电脑（需 Pro/Pro+/Ultra/Teams 或绑定 SuperGrok/Plus/Heavy）；应用未给出明确无权限提示属已知问题。.
 - [Grok Bot Zoom plugin OAuth hardcodes http://localhost:8787/callback — Zoom rejects hostname localhost (error 4700)](https://forum.cursor.com/t/grok-bot-zoom-plugin-oauth-hardcodes-http-localhost-8787-callback-zoom-rejects-hostname-localhost-error-4700/169991) - 官方：目录 Zoom 插件 OAuth 写死 http://localhost:8787/callback，Zoom 会拒绝 localhost（error 4700）；用户侧无法改 redirect，需等官方改掉（如 127.0.0.1）。.
 - [Unable to reconnect to my Grok Bot's computer after attempted update](https://forum.cursor.com/t/unable-to-reconnect-to-my-grok-bots-computer-after-attempted-update/170000) - 官方：机器人/文件/登录态在远端电脑；出现 Can’t Reach 且 Recover/Reset 失败，多半是应用会话丢失——彻底退出后重新登录（或重装再登录），二者都依赖有效会话。.
@@ -411,6 +420,10 @@
 - [Authorization death by 1000 clicks](https://forum.cursor.com/t/authorization-death-by-1000-clicks/170087) - 官方：本机操作的「Always allow」只在那台电脑的桌面端 Settings → Execution on Local Computer；iOS 只能一次性批准，且每发一条新消息就清空，所以会反复弹审批。.
 - [Wrangler/box auth reminder stays stuck after auth already succeeded via another path](https://forum.cursor.com/t/grok-bot-wrangler-box-auth-reminder-stays-stuck-after-auth-already-succeeded-via-another-path/170052) - 官方：电脑协助 / Waiting-for-you 提醒只有点卡片上的 “I’m done, continue” 或 Skip，或随便发一条聊天才会消失；Bot 另路径登完也不会自动清。.
 - [Fastmail Filters & Rules Save is a silent no-op (Chrome on the box)](https://forum.cursor.com/t/grok-bot-fastmail-filters-rules-save-is-a-silent-no-op-chrome-on-the-box/170018) - 官方：盒子 Chrome 里 Fastmail Filters & Rules 的 Save 不会发出任何网络请求；变通是用 API token 走 Fastmail JMAP/API 管过滤与 Sieve（邮件 helper 已能走通）。.
+- [VPN, SSO, Passkey, and YubiKey Within Grokbot](https://forum.cursor.com/t/vpn-sso-passkey-and-yubikey-within-grokbot/170148) - 官方：Grok Bot 云电脑目前无法加入公司 VPN（勿在其上安装 VPN 客户端，可能导致掉线）；公网 Atlassian Cloud / SSO 可通过浏览器接管登录，YubiKey 在 macOS/Windows 的设置 → Security Key 可用，仅 VPN 可达的内网需用本机「在本地电脑执行」。.
+- [Unable to connect](https://forum.cursor.com/t/unable-to-connect/170123) - 官方：对话与 Agent 存在托管电脑上；故障恢复时该电脑可能被临时换成空白机（名单看似清空），可从已保存数据还原，退出并重新打开应用后 Agent/历史应回来。.
+- [GrokBot Linux Execution on Local Computer not working](https://forum.cursor.com/t/grokbot-linux-execution-on-local-computer-not-working/170157) - 官方：Grok Bot 0.30.0 Linux 上 ListMachines 为空/本地执行失败是已知问题，修复已合并并将随下一桌面版发布；临时可装并解锁系统钥匙环（gnome-keyring 或 KWallet），彻底退出残留进程后重开。.
+- [New report, Windows, leftover daemon on 0.30.0](https://forum.cursor.com/t/new-report-windows-leftover-daemon-on-0-30-0/170121) - 官方：0.30.0 已修 macOS 上守护进程退出后不拉起的一类问题，但 Windows 残留 local-exec-daemon 是另一已知路径；连不上时请从托盘 Quit，在任务管理器结束残留 Grok Bot / local-exec-daemon，再启动并等待约一分钟重新注册。.
 
 ## 相关列表
 
@@ -450,7 +463,7 @@
 
 ## 贡献
 
-目前 8 个分类、303 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、313 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

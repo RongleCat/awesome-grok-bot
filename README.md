@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-303-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-313-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -108,6 +108,9 @@
 - [Grok Bot Build Night (McNeese / Lake Charles)](https://luma.com/zcyllw4p) — Thu 3 Sep 2026, 17:30–19:30 (CDT) (check-in 17:15). McNeese × SpaceXAI Edu Grok Bot student night: hands-on with Grok Bot + Cursor, not just a talk.
 - [Grok Bot Build Night (Harvard)](https://luma.com/oddeynku) — Thu 3 Sep 2026, 20:00–22:00 (EDT). Harvard × SpaceXAI Grok Bot night: live-streamed demo, then casual build with pizza/boba.
 - [Grok Bot Build Night (UCR / Riverside)](https://luma.com/swqijv16) — Thu 3 Sep 2026, 18:00–20:00 (PDT). UCR Grok Bot Build Night: evening of building and demos with campus makers.
+- [Grok Bot Meetup London](https://luma.com/grok-bot-london) — Wed 16 Sep 2026, 18:00–21:00 (BST). First Grok Bot meetup in London: evening cowork, local power-user demos (SpaceXAI field engineer Kiara Polychroniadi), laptop + credits.
+- [Grok Bot Meetup Amsterdam](https://luma.com/grok-bot-amsterdam) — Tue 22 Sep 2026, 18:00–21:00 (CEST). First Grok Bot meetup in Amsterdam: evening cowork, local power-user demos, bring a laptop for credits.
+- [Grok Bot After Dark (SF)](https://luma.com/spacexai-7alp) — Wed 2 Sep 2026, 18:00–22:00 (PDT). SpaceXAI After Dark: creators, builders, founders, and creative technologists exploring what’s possible with Grok Bot.
 
 ## Contents
 
@@ -277,6 +280,11 @@
 - [BaseMouse Cursor plugin](https://github.com/basemouse/cursor-plugin) - Cursor/Grok Bot plugin wrapping BaseMouse MCP (search, context packs, upsert) with a SKILL.md for grounded project memory.
 - [deskforge](https://github.com/mturac/deskforge) - Go CLI that inits a git ledger and six paste-ready Grok Bot agent descriptions (Mainer, Pulse, Scout, Judge, Builder, Critic) for a group desk loop.
 - [Unlist](https://github.com/shawnyeager/unlist) - Grok Bot playbook (BOT.md) plus a local CLI and broker list so a Bot can file people-search opt-outs and log follow-ups without committing profile.json.
+- [Brew for Grok Bot](https://github.com/GetBrew/cursor-plugin) - Cursor/Grok Bot plugin plus SKILL.md that OAuth-connects to Brew hosted MCP so a Bot can generate, send, schedule, and analyze on-brand email.
+- [GojiberryAI Sales OS](https://github.com/romangojiberryAI/gojiberryai-sales-os) - Grok Bot plugin with a 13-agent SKILL.md and hosted GojiberryAI MCP so a Bot can run outbound sales (intent, enrich, LinkedIn, replies) without inventing contacts.
+- [Steltic Grok Bot](https://github.com/Steltic/steltic_grokbot) - Packaged SKILL.md files plus a Python convert/index/search pipeline so three Grok Bots can retrieve licensed structural-steel specs on the Bot computer without an external RAG.
+- [GrokBot Body](https://github.com/rowline/grokbot-body) - iPhone plus DockKit app and a self-hosted Cloudflare Worker MCP so one Grok Bot can listen, speak, and change face on a phone as its body.
+- [Grok Bot Telegram private bridge](https://github.com/liush2yuxjtu/grok-bot-telegram-private-bridge) - Unofficial owner-paired Telegram front end that runs on the Grok Bot cloud computer and talks to the local gateway on loopback only.
 
 ## Reviews & Comparisons
 
@@ -336,6 +344,7 @@
 - [grok-bridge](https://github.com/shihao918/grok-bridge) - Unofficial Windows daemon that registers on Grok Bot's UserComputer channel and hands cloud-agent tasks to a local LangGraph or AutoGen pipeline.
 - [download-grok-bot](https://github.com/gprot42/grok-bot-tool) - Zero-dependency Python CLI that saves a public x.ai/bot share (profile, packed recipe, skills, routines) to a local folder, reading the macOS Grok Bot session when present.
 - [grokbot-openai](https://github.com/owenisas/grokbot-openai) - Unofficial zero-dependency Python login plus local server that turns a Grok Bot PKCE session into OpenAI /v1/chat/completions for Hermes, OpenCode, or curl.
+- [omarchy-grokbot (rlimberger)](https://github.com/rlimberger/omarchy-grokbot) - Unofficial Omarchy bar widget (QML) that shows a grokbot-tui inbox and opens bots in the native Rust TUI, not the Electron /usr/bin/grokbot client.
 
 ## Community & Failure Modes
 
@@ -374,7 +383,7 @@
 - [0.27.0 Windows: local host stays disconnected after clean registration](https://forum.cursor.com/t/grok-bot-0-27-0-windows-local-host-permanently-isn-t-connected-after-clean-registration-new-identity-server-side/169594) - Staff: on 0.27.0 Windows the agent can say the local machine isn’t connected even after a clean daemon registration; fully quit every Grok process and launch once, and if it still fails it is service-side.
 - [Webhook URL and sender key are desktop-only, not on iOS](https://forum.cursor.com/t/webhook-url-missing-on-ios/169589) - Staff: a webhook routine’s POST URL and sender key only appear on the Grok Bot desktop app, not iOS; open the trigger card there (keep the desktop app updated).
 - [Official X plugin auth is broken on desktop, Cloud, and Grok Bot](https://forum.cursor.com/t/official-x-plugin-auth-is-broken-on-cursor-cloud-grok-bot-and-desktop-refresh/169592) - Staff: official X plugin connect/refresh is failing across desktop, Cloud Agents, and Grok Bot (including “connected but tools=0”); no clean workaround while they fix X-side app config.
-- [Weekly Grok Bot usage can spill into paid On-Demand with no warning](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - Staff: weekly included Grok Bot usage then shared On-Demand is intended; there is no in-app warning and the dashboard does not split Bot vs Cursor, so set a $0 On-Demand cap if you want no paid spill.
+- [Weekly Grok Bot usage can spill into paid On-Demand with no warning](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - Staff: spend order is Grok Bot weekly allowance, then referral/promo credits, then paid On-Demand, with no in-app warning; a $0 On-Demand cap does not block credits, so pause near 100% weekly meter if you want no spill.
 - [Pro weekly pool is separate; overflow hits shared On-Demand](https://forum.cursor.com/t/grok-bot-spend-cursor-usage-i-cant-accept-it/169796) - Staff correction: on Pro, Grok Bot has its own included weekly pool, separate from Cursor plan usage; overflow still bills the shared On-Demand pool, so set a $0 On-Demand cap if you want no paid spill.
 - [Access is live for paid plans, not legacy request-based](https://forum.cursor.com/t/cursor-says-grok-bot-is-included-with-pro-now-do-you-actually-have-access-yet/169808) - Staff: Grok Bot is live for all paid individual plans (Pro / Pro+ / Ultra) and self-serve Teams with no percent or region rollout; legacy request-based pricing does not get it unless you opt into usage-based.
 - [Gmail plugin OAuth is broken; authorize from Cursor](https://forum.cursor.com/t/grok-bot-unable-to-authenticate-via-gmail-plugin/169782) - Staff: the Grok Bot Gmail plugin OAuth is broken; authorizing Gmail from Cursor uses a different path and the connection is shared with Grok Bot until the plugin is fixed.
@@ -395,7 +404,7 @@
 - [Grok Bot: Drive MCP should write Google Docs body and Sheet cells, not only file metadata](https://forum.cursor.com/t/grok-bot-drive-mcp-should-write-google-docs-body-and-sheet-cells-not-only-file-metadata/169971) - Staff: in-place Google Doc/Sheet editing lives in the dedicated Docs and Sheets connectors (edit content against the existing file ID), while Drive is file-level only; add both from the connector marketplace with the same Google account.
 - [Blank screen after opening Grok Bot](https://forum.cursor.com/t/blank-screen-after-opening-grok-bot/169966) - Staff: a blank/white screen usually means the desktop app cannot reach the cloud computer; Cloudflare WARP can intercept that traffic even on a hotspot — turn WARP off or use split tunneling/excluded routes, and prefer builds after 0.28.0 that show an error+retry instead of a blank screen.
 - [Cloud Agents created in Grok Bot not displayed in Cursor](https://forum.cursor.com/t/cloud-agents-created-in-grok-bot-not-displayed-in-cursor/169939) - Staff: Cloud Agents launched from Grok Bot keep running under your account but stay hidden on cursor.com/agents and the desktop sidebar until you enable filter Source > Grok Bot (once per client: web and desktop).
-- [Can't reach your computer from last 72 hours](https://forum.cursor.com/t/cant-reach-your-computer-from-last-72-hours/169970) - Staff: when the cloud computer is healthy but the app still says Can’t reach your computer, switch Windows DNS to 1.1.1.1 / 8.8.8.8 or confirm via a phone hotspot on another carrier.
+- [Can't reach your computer from last 72 hours](https://forum.cursor.com/t/cant-reach-your-computer-from-last-72-hours/169970) - Staff: when the cloud computer is healthy but the app still says Can’t reach, set both IPv4 and IPv6 DNS to 1.1.1.1/8.8.8.8 (JioFiber routers often keep IPv6 DNS) or confirm via a phone hotspot on another carrier.
 - [Grok Bot 0.30.0 stuck on "Setting up your Grok Bot" on macOS](https://forum.cursor.com/t/grok-bot-0-30-0-stuck-on-setting-up-your-grok-bot-on-macos/169981) - Staff: endless Setting up your Grok Bot on a free Cursor plan means no hosted machine is provisioned — needs Pro/Pro+/Ultra/Teams or linked SuperGrok/Plus/Heavy; the spinner instead of an access message is a known UX bug.
 - [Grok Bot Zoom plugin OAuth hardcodes http://localhost:8787/callback — Zoom rejects hostname localhost (error 4700)](https://forum.cursor.com/t/grok-bot-zoom-plugin-oauth-hardcodes-http-localhost-8787-callback-zoom-rejects-hostname-localhost-error-4700/169991) - Staff: the catalog Zoom plugin OAuth hardcodes http://localhost:8787/callback, which Zoom rejects (error 4700); no user workaround until the redirect moves off localhost (e.g. 127.0.0.1).
 - [Unable to reconnect to my Grok Bot's computer after attempted update](https://forum.cursor.com/t/unable-to-reconnect-to-my-grok-bots-computer-after-attempted-update/170000) - Staff: bots/files/logins live on the remote computer; Can’t Reach plus failed Recover/Reset often means a lost app login session — fully quit, sign out/in (or reinstall and sign in), since Recover/Reset need a working session.
@@ -411,6 +420,10 @@
 - [Authorization death by 1000 clicks](https://forum.cursor.com/t/authorization-death-by-1000-clicks/170087) - Staff: “Always allow” for local-computer actions lives only in the desktop app on that machine; iOS can only one-time-approve, and those approvals clear on every new message—set Always Allow under desktop Settings → Execution on Local Computer.
 - [Wrangler/box auth reminder stays stuck after auth already succeeded via another path](https://forum.cursor.com/t/grok-bot-wrangler-box-auth-reminder-stays-stuck-after-auth-already-succeeded-via-another-path/170052) - Staff: the “help on its computer” / Waiting-for-you reminder only clears when you answer that card (“I’m done, continue” or Skip) or send any chat message—it does not auto-dismiss if the Bot finished login another way.
 - [Fastmail Filters & Rules Save is a silent no-op (Chrome on the box)](https://forum.cursor.com/t/grok-bot-fastmail-filters-rules-save-is-a-silent-no-op-chrome-on-the-box/170018) - Staff: Fastmail Settings → Filters & Rules Save on the box Chrome fires zero network requests; workaround is manage filters/Sieve via Fastmail’s API (JMAP) with a token—the mail helper already uses that path successfully.
+- [VPN, SSO, Passkey, and YubiKey Within Grokbot](https://forum.cursor.com/t/vpn-sso-passkey-and-yubikey-within-grokbot/170148) - Staff: Grok Bot’s cloud computer cannot join a corporate VPN today (don’t install a VPN client on it — that can knock the box offline); Atlassian Cloud / public SSO works via browser takeover (Okta etc.), YubiKey works on macOS/Windows under Settings → Security Key, and internal VPN-only sites need Execution on Local Computer on your VPN’d machine.
+- [Unable to connect](https://forum.cursor.com/t/unable-to-connect/170123) - Staff: chats and agents live on the hosted Grok Bot computer — during an outage recovery that computer can be temporarily replaced with a blank one (roster looks empty); Cursor can restore it from saved data, then quit and reopen the app to see agents/history again.
+- [GrokBot Linux Execution on Local Computer not working](https://forum.cursor.com/t/grokbot-linux-execution-on-local-computer-not-working/170157) - Staff: empty ListMachines / local execution failing on Grok Bot 0.30.0 Linux is a known bug with a fix already merged for the next desktop update; interim workaround is an unlocked system keyring (gnome-keyring or KWallet), fully quit leftover Grok Bot processes, then relaunch.
+- [New report, Windows, leftover daemon on 0.30.0](https://forum.cursor.com/t/new-report-windows-leftover-daemon-on-0-30-0/170121) - Staff: 0.30.0 fixed one macOS daemon exit/no-respawn path, but Windows leftover local-exec-daemon is a different known failure; when the machine is unreachable, Quit from the tray, end remaining “Grok Bot” and local-exec-daemon processes in Task Manager, relaunch, and wait about a minute to re-register.
 
 ## Related Lists
 
@@ -450,7 +463,7 @@
 
 ## Contributing
 
-303 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+313 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

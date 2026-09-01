@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-303-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-313-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -108,6 +108,9 @@
 - [Grok Bot Build Night（McNeese / Lake Charles）](https://luma.com/zcyllw4p) — 2026-09-03（木）17:30–19:30（CDT、17:15 受付）. McNeese × SpaceXAI Edu。
 - [Grok Bot Build Night（Harvard）](https://luma.com/oddeynku) — 2026-09-03（木）20:00–22:00（EDT）. Harvard × SpaceXAI。
 - [Grok Bot Build Night（UCR / Riverside）](https://luma.com/swqijv16) — 2026-09-03（木）18:00–20:00（PDT）. UCR の Grok Bot Build Night。
+- [Grok Bot Meetup London](https://luma.com/grok-bot-london) — 2026-09-16（水）18:00–21:00（BST）. ロンドン初の Grok Bot。
+- [Grok Bot Meetup Amsterdam](https://luma.com/grok-bot-amsterdam) — 2026-09-22（火）18:00–21:00（CEST）. アムステルダム初の Grok Bot。
+- [Grok Bot After Dark（SF）](https://luma.com/spacexai-7alp) — 2026-09-02（水）18:00–22:00（PDT）. SpaceXAI After Dark。
 
 ## 目次
 
@@ -277,6 +280,11 @@
 - [BaseMouse Cursor plugin](https://github.com/basemouse/cursor-plugin) - Cursor / Grok Bot プラグイン。BaseMouse MCP（search / context pack / upsert）を包み、根拠付きのプロジェクト記憶用 SKILL.md 付き。
 - [deskforge](https://github.com/mturac/deskforge) - Go CLI。git 台帳を初期化し、Grok Bot に貼る役職説明 6 本（Mainer / Pulse / Scout / Judge / Builder / Critic）を出してグループ机のループにします。
 - [Unlist](https://github.com/shawnyeager/unlist) - Grok Bot 向け BOT.md とローカル CLI・業者リスト。人名検索サイトのオプトアウトを提出し、フォローを記録。profile.json は git に置きません。
+- [Brew for Grok Bot](https://github.com/GetBrew/cursor-plugin) - Cursor / Grok Bot プラグインと SKILL.md。OAuth で Brew のホスト MCP に繋ぎ、ブランドメールの生成・送信・予約・分析ができます。
+- [GojiberryAI Sales OS](https://github.com/romangojiberryAI/gojiberryai-sales-os) - Grok Bot プラグイン。13 役職の SKILL.md と GojiberryAI ホスト MCP で、架空の連絡先を作らずアウトバウンド営業（インテント・補完・LinkedIn・返信）ができます。
+- [Steltic Grok Bot](https://github.com/Steltic/steltic_grokbot) - パッケージ済み SKILL.md と Python の変換・索引・検索パイプライン。3 体の Grok Bot が Bot のパソコン上で、外部 RAG なしに鋼構造仕様を検索します。
+- [GrokBot Body](https://github.com/rowline/grokbot-body) - iPhone + DockKit アプリと自前 Cloudflare Worker MCP。特定の Grok Bot に体を付け、スマホで聞く・話す・表情を変えられます。
+- [Grok Bot Telegram private bridge](https://github.com/liush2yuxjtu/grok-bot-telegram-private-bridge) - 非公式のオーナー紐付け Telegram フロント。Grok Bot のクラウドパソコン上で動き、ループバックのゲートウェイにだけ話します。
 
 ## レビューと比較
 
@@ -336,6 +344,7 @@
 - [grok-bridge](https://github.com/shihao918/grok-bridge) - 非公式の Windows デーモン。Grok Bot の UserComputer チャネルに登録し、クラウド側の仕事をローカルの LangGraph / AutoGen に渡します。
 - [download-grok-bot](https://github.com/gprot42/grok-bot-tool) - 依存なしの Python CLI。公開 x.ai/bot シェア（プロフィール、レシピ、skills、routines）をローカルへ保存。macOS ではログイン済み Grok Bot セッションも読めます。
 - [grokbot-openai](https://github.com/owenisas/grokbot-openai) - 非公式・pip 不要の Python。Grok Bot の PKCE ログイン後、ローカルで OpenAI /v1/chat/completions を出し、Hermes / OpenCode / curl から使えます。
+- [omarchy-grokbot (rlimberger)](https://github.com/rlimberger/omarchy-grokbot) - 非公式 Omarchy バーウィジェット（QML）。grokbot-tui の受信箱を出し、Electron の /usr/bin/grokbot ではなくネイティブ Rust TUI で Bot を開きます。
 
 ## コミュニティと障害事例
 
@@ -374,7 +383,7 @@
 - [0.27.0 Windows: local host stays disconnected after clean registration](https://forum.cursor.com/t/grok-bot-0-27-0-windows-local-host-permanently-isn-t-connected-after-clean-registration-new-identity-server-side/169594) - 公式：0.27.0 Windows ではデーモン登録が成功しても Agent が local host isn’t connected と出す。Grok プロセスを全部終了して一度だけ起動。だめならサービス側。
 - [Webhook URL and sender key are desktop-only, not on iOS](https://forum.cursor.com/t/webhook-url-missing-on-ios/169589) - 公式：webhook ルーチンの POST URL と sender key はデスクトップにだけ出る。iOS には無い。デスクトップのトリガーカードを開く（アプリは最新に）。
 - [Official X plugin auth is broken on desktop, Cloud, and Grok Bot](https://forum.cursor.com/t/official-x-plugin-auth-is-broken-on-cursor-cloud-grok-bot-and-desktop-refresh/169592) - 公式：公式 X プラグインの接続/更新がデスクトップ、Cloud Agents、Grok Bot で壊れている（connected なのに tools=0 も含む）。X 側のアプリ設定修正中で回避策なし。
-- [Weekly Grok Bot usage can spill into paid On-Demand with no warning](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - 公式：週次枠のあと共有 On-Demand に流れるのは仕様。アプリ内警告はなく、ダッシュボードも Bot と Cursor を分けない。課金したくなければ上限を $0 に。
+- [Weekly Grok Bot usage can spill into paid On-Demand with no warning](https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679) - 公式：消化順は Grok Bot 週間枠 → 紹介/プロモクレジット → 有料 On-Demand で、アプリ内警告なし；$0 の On-Demand 上限ではクレジットは止まらないので、溢したくなければ週間メーターが 100% 近くで一時停止。
 - [Pro weekly pool is separate; overflow hits shared On-Demand](https://forum.cursor.com/t/grok-bot-spend-cursor-usage-i-cant-accept-it/169796) - 公式訂正：Pro では Grok Bot に Cursor プランとは別の週次枠がある。枠を使い切ると共有 On-Demand に流れ、課金したくなければ上限を $0 にする。
 - [Access is live for paid plans, not legacy request-based](https://forum.cursor.com/t/cursor-says-grok-bot-is-included-with-pro-now-do-you-actually-have-access-yet/169808) - 公式：有料個人プラン（Pro / Pro+ / Ultra）とセルフサーブ Teams は全開で地域段階なし。旧リクエスト課金は従量に切り替えないと使えない。
 - [Gmail plugin OAuth is broken; authorize from Cursor](https://forum.cursor.com/t/grok-bot-unable-to-authenticate-via-gmail-plugin/169782) - 公式：Grok Bot の Gmail プラグイン OAuth が壊れている。Cursor 側で Gmail を認可すれば別経路で接続が共有される。
@@ -395,7 +404,7 @@
 - [Grok Bot: Drive MCP should write Google Docs body and Sheet cells, not only file metadata](https://forum.cursor.com/t/grok-bot-drive-mcp-should-write-google-docs-body-and-sheet-cells-not-only-file-metadata/169971) - スタッフ：Google Doc/Sheet の中身編集は専用 Docs/Sheets コネクタ（既存ファイル ID に対して編集）。Drive はファイル操作のみ。同じ Google アカウントでマーケットから両方追加する。
 - [Blank screen after opening Grok Bot](https://forum.cursor.com/t/blank-screen-after-opening-grok-bot/169966) - スタッフ：空白/白画面はだいたいデスクトップがクラウド PC に届かない印。Cloudflare WARP がその通信を横取りし（ホットスポットでも同様）、WARP オフかスプリットトンネル/除外が必要。0.28.0 以降は空白ではなくエラー+リトライ表示。
 - [Cloud Agents created in Grok Bot not displayed in Cursor](https://forum.cursor.com/t/cloud-agents-created-in-grok-bot-not-displayed-in-cursor/169939) - 公式：Grok Bot から起動した Cloud Agents はアカウント上では動くが、cursor.com/agents とデスクトップ側欄ではデフォルト非表示。フィルタで Source > Grok Bot を有効化（Web／デスクトップ各1回）。
-- [Can't reach your computer from last 72 hours](https://forum.cursor.com/t/cant-reach-your-computer-from-last-72-hours/169970) - 公式：クラウド側は正常なのに Can’t reach your computer のとき、Windows DNS を 1.1.1.1 / 8.8.8.8 にするか、別キャリアのテザリングで切り分け。
+- [Can't reach your computer from last 72 hours](https://forum.cursor.com/t/cant-reach-your-computer-from-last-72-hours/169970) - 公式：クラウド PC は健全なのに Can’t reach のときは IPv4 と IPv6 の DNS を両方 1.1.1.1/8.8.8.8 にする（JioFiber は IPv6 DNS が残りやすい）。別キャリアのテザリングでも切り分け可。
 - [Grok Bot 0.30.0 stuck on "Setting up your Grok Bot" on macOS](https://forum.cursor.com/t/grok-bot-0-30-0-stuck-on-setting-up-your-grok-bot-on-macos/169981) - 公式：無料 Cursor で Setting up your Grok Bot が終わらないのはホストマシン未作成のため。Pro/Pro+/Ultra/Teams か SuperGrok/Plus/Heavy 連携が必要。権限不足を出さずスピナーになるのは既知 UX 不具合。
 - [Grok Bot Zoom plugin OAuth hardcodes http://localhost:8787/callback — Zoom rejects hostname localhost (error 4700)](https://forum.cursor.com/t/grok-bot-zoom-plugin-oauth-hardcodes-http-localhost-8787-callback-zoom-rejects-hostname-localhost-error-4700/169991) - 公式：カタログ Zoom プラグインの OAuth が http://localhost:8787/callback 固定で Zoom が拒否（error 4700）。ユーザー側回避不可。localhost 以外（例 127.0.0.1）への変更を追跡中。
 - [Unable to reconnect to my Grok Bot's computer after attempted update](https://forum.cursor.com/t/unable-to-reconnect-to-my-grok-bots-computer-after-attempted-update/170000) - 公式：Bot／ファイル／ログインは遠隔マシン上。Can’t Reach と Recover/Reset 失敗はアプリセッション切れが多い。完全終了→サインアウト／イン（または再インストール後ログイン）。Recover/Reset も有効セッションが必要。
@@ -411,6 +420,10 @@
 - [Authorization death by 1000 clicks](https://forum.cursor.com/t/authorization-death-by-1000-clicks/170087) - スタッフ：ローカル実行の Always allow は該当マシンのデスクトップ版 Settings → Execution on Local Computer にだけある。iOS は都度承認のみで、新メッセージごとに消えるため何度も聞かれる。
 - [Wrangler/box auth reminder stays stuck after auth already succeeded via another path](https://forum.cursor.com/t/grok-bot-wrangler-box-auth-reminder-stays-stuck-after-auth-already-succeeded-via-another-path/170052) - スタッフ：コンピュータ上のヘルプ / Waiting-for-you リマインダは、カードの “I’m done, continue” か Skip、あるいは任意のチャット送信でのみ消える。別経路でログイン完了しても自動では消えない。
 - [Fastmail Filters & Rules Save is a silent no-op (Chrome on the box)](https://forum.cursor.com/t/grok-bot-fastmail-filters-rules-save-is-a-silent-no-op-chrome-on-the-box/170018) - スタッフ：ボックス上 Chrome の Fastmail Filters & Rules の Save はネットワーク要求を一切出さない。回避策は API トークンで Fastmail の JMAP/API からフィルタ/Sieve を管理する（メール helper は既にその経路で動く）。
+- [VPN, SSO, Passkey, and YubiKey Within Grokbot](https://forum.cursor.com/t/vpn-sso-passkey-and-yubikey-within-grokbot/170148) - 公式：Grok Bot のクラウド PC は現時点で社内 VPN に参加不可（VPN クライアント導入はオフライン化の恐れ）；公開 Atlassian Cloud / SSO はブラウザ引き継ぎで可、YubiKey は macOS/Windows の Settings → Security Key、VPN 内だけ見えるサイトはローカル実行が必要。
+- [Unable to connect](https://forum.cursor.com/t/unable-to-connect/170123) - 公式：チャットと Agent はホストされた Grok Bot PC 上にあり、障害復旧中に一時的に空の PC へ差し替わることがあり（一覧が空に見える）；保存データから復元後、アプリを終了→再起動すれば戻る。
+- [GrokBot Linux Execution on Local Computer not working](https://forum.cursor.com/t/grokbot-linux-execution-on-local-computer-not-working/170157) - 公式：Grok Bot 0.30.0 Linux で ListMachines が空／ローカル実行不可は既知不具合で修正は次のデスクトップ更新に入る予定；当面は keyring（gnome-keyring / KWallet）をアンロックし、残留プロセスを終了して再起動。
+- [New report, Windows, leftover daemon on 0.30.0](https://forum.cursor.com/t/new-report-windows-leftover-daemon-on-0-30-0/170121) - 公式：0.30.0 は macOS の daemon 終了後未再起動を直したが、Windows の local-exec-daemon 残留は別の既知経路；到達不能時はトレイから Quit → タスクマネージャで Grok Bot / local-exec-daemon を終了 → 再起動し約1分待つ。
 
 ## 関連リスト
 
@@ -450,7 +463,7 @@
 
 ## 貢献
 
-8 セクションに 303 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 313 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

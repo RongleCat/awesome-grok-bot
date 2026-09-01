@@ -1494,6 +1494,56 @@
             "zh": "给 Grok Bot 的 BOT.md 剧本加本地 CLI 和数据商名单：让 Bot 提交人肉搜索网站的退出申请并记录跟进，profile.json 不进 git",
             "ja": "Grok Bot 向け BOT.md とローカル CLI・業者リスト。人名検索サイトのオプトアウトを提出し、フォローを記録。profile.json は git に置きません"
           }
+        },
+        {
+          "title": "Brew for Grok Bot",
+          "url": "https://github.com/GetBrew/cursor-plugin",
+          "source": "GB-369",
+          "blurb": {
+            "en": "Cursor/Grok Bot plugin plus SKILL.md that OAuth-connects to Brew hosted MCP so a Bot can generate, send, schedule, and analyze on-brand email.",
+            "zh": "Cursor/Grok Bot 插件和 SKILL.md：用 OAuth 接 Brew 托管 MCP，让 Bot 生成、发送、排期并分析品牌邮件。",
+            "ja": "Cursor / Grok Bot プラグインと SKILL.md。OAuth で Brew のホスト MCP に繋ぎ、ブランドメールの生成・送信・予約・分析ができます。"
+          }
+        },
+        {
+          "title": "GojiberryAI Sales OS",
+          "url": "https://github.com/romangojiberryAI/gojiberryai-sales-os",
+          "source": "GB-370",
+          "blurb": {
+            "en": "Grok Bot plugin with a 13-agent SKILL.md and hosted GojiberryAI MCP so a Bot can run outbound sales (intent, enrich, LinkedIn, replies) without inventing contacts.",
+            "zh": "Grok Bot 插件：13 个岗位的 SKILL.md 加 GojiberryAI 托管 MCP，让 Bot 做外呼销售（意向、补全、LinkedIn、回复），不编造联系人。",
+            "ja": "Grok Bot プラグイン。13 役職の SKILL.md と GojiberryAI ホスト MCP で、架空の連絡先を作らずアウトバウンド営業（インテント・補完・LinkedIn・返信）ができます。"
+          }
+        },
+        {
+          "title": "Steltic Grok Bot",
+          "url": "https://github.com/Steltic/steltic_grokbot",
+          "source": "GB-371",
+          "blurb": {
+            "en": "Packaged SKILL.md files plus a Python convert/index/search pipeline so three Grok Bots can retrieve licensed structural-steel specs on the Bot computer without an external RAG.",
+            "zh": "打包好的 SKILL.md 加 Python 转换/索引/检索流水线：三个 Grok Bot 在 Bot 电脑上检索自备的钢结构规范，不靠外部 RAG。",
+            "ja": "パッケージ済み SKILL.md と Python の変換・索引・検索パイプライン。3 体の Grok Bot が Bot のパソコン上で、外部 RAG なしに鋼構造仕様を検索します。"
+          }
+        },
+        {
+          "title": "GrokBot Body",
+          "url": "https://github.com/rowline/grokbot-body",
+          "source": "GB-372",
+          "blurb": {
+            "en": "iPhone plus DockKit app and a self-hosted Cloudflare Worker MCP so one Grok Bot can listen, speak, and change face on a phone as its body.",
+            "zh": "iPhone + DockKit 应用和自建 Cloudflare Worker MCP：给某一个 Grok Bot 装上身体，能在手机上听、说、换脸。",
+            "ja": "iPhone + DockKit アプリと自前 Cloudflare Worker MCP。特定の Grok Bot に体を付け、スマホで聞く・話す・表情を変えられます。"
+          }
+        },
+        {
+          "title": "Grok Bot Telegram private bridge",
+          "url": "https://github.com/liush2yuxjtu/grok-bot-telegram-private-bridge",
+          "source": "GB-373",
+          "blurb": {
+            "en": "Unofficial owner-paired Telegram front end that runs on the Grok Bot cloud computer and talks to the local gateway on loopback only.",
+            "zh": "非官方、仅配对主人的 Telegram 前端：跑在 Grok Bot 云电脑里，只连本机 loopback 网关。",
+            "ja": "非公式のオーナー紐付け Telegram フロント。Grok Bot のクラウドパソコン上で動き、ループバックのゲートウェイにだけ話します。"
+          }
         }
       ]
     },
@@ -2044,6 +2094,16 @@
             "zh": "非官方、无 pip 依赖的 Python：用 Grok Bot 的 PKCE 登录后，在本地提供 OpenAI /v1/chat/completions，给 Hermes、OpenCode 或 curl 用",
             "ja": "非公式・pip 不要の Python。Grok Bot の PKCE ログイン後、ローカルで OpenAI /v1/chat/completions を出し、Hermes / OpenCode / curl から使えます"
           }
+        },
+        {
+          "title": "omarchy-grokbot (rlimberger)",
+          "url": "https://github.com/rlimberger/omarchy-grokbot",
+          "source": "GB-374",
+          "blurb": {
+            "en": "Unofficial Omarchy bar widget (QML) that shows a grokbot-tui inbox and opens bots in the native Rust TUI, not the Electron /usr/bin/grokbot client.",
+            "zh": "非官方 Omarchy 状态栏插件（QML）：显示 grokbot-tui 收件箱，并在原生 Rust TUI 里打开 Bot，不启动 Electron 的 /usr/bin/grokbot。",
+            "ja": "非公式 Omarchy バーウィジェット（QML）。grokbot-tui の受信箱を出し、Electron の /usr/bin/grokbot ではなくネイティブ Rust TUI で Bot を開きます。"
+          }
         }
       ]
     },
@@ -2410,9 +2470,9 @@
           "url": "https://forum.cursor.com/t/grok-bot-gives-no-warning-before-weekly-usage-spills-into-paid-on-demand/169679",
           "source": "day-20260828",
           "blurb": {
-            "en": "Staff: weekly included Grok Bot usage then shared On-Demand is intended; there is no in-app warning and the dashboard does not split Bot vs Cursor, so set a $0 On-Demand cap if you want no paid spill.",
-            "zh": "官方：周包含额度用完后打进共享 On-Demand 是设计如此，应用内无提示、看板也不拆 Bot/Cursor，不想付费就把 On-Demand 上限设成 $0。",
-            "ja": "公式：週次枠のあと共有 On-Demand に流れるのは仕様。アプリ内警告はなく、ダッシュボードも Bot と Cursor を分けない。課金したくなければ上限を $0 に。"
+            "en": "Staff: spend order is Grok Bot weekly allowance, then referral/promo credits, then paid On-Demand, with no in-app warning; a $0 On-Demand cap does not block credits, so pause near 100% weekly meter if you want no spill.",
+            "zh": "官方：扣费顺序是 Grok Bot 周额度 → 推荐/促销积分 → 付费 On-Demand，应用内无预警；$0 On-Demand 上限挡不住积分，不想溢出去就在周额度接近 100% 时暂停。",
+            "ja": "公式：消化順は Grok Bot 週間枠 → 紹介/プロモクレジット → 有料 On-Demand で、アプリ内警告なし；$0 の On-Demand 上限ではクレジットは止まらないので、溢したくなければ週間メーターが 100% 近くで一時停止。"
           }
         },
         {
@@ -2620,9 +2680,9 @@
           "url": "https://forum.cursor.com/t/cant-reach-your-computer-from-last-72-hours/169970",
           "source": "day-20260831-1304",
           "blurb": {
-            "en": "Staff: when the cloud computer is healthy but the app still says Can’t reach your computer, switch Windows DNS to 1.1.1.1 / 8.8.8.8 or confirm via a phone hotspot on another carrier.",
-            "zh": "官方：云电脑本身正常却仍提示 Can’t reach your computer 时，把 Windows DNS 改成 1.1.1.1 / 8.8.8.8，或用另一运营商手机热点验证。",
-            "ja": "公式：クラウド側は正常なのに Can’t reach your computer のとき、Windows DNS を 1.1.1.1 / 8.8.8.8 にするか、別キャリアのテザリングで切り分け。"
+            "en": "Staff: when the cloud computer is healthy but the app still says Can’t reach, set both IPv4 and IPv6 DNS to 1.1.1.1/8.8.8.8 (JioFiber routers often keep IPv6 DNS) or confirm via a phone hotspot on another carrier.",
+            "zh": "官方：云电脑本身健康但应用仍显示连不上时，把 IPv4 和 IPv6 DNS 都改成 1.1.1.1/8.8.8.8（JioFiber 路由常仍走 IPv6 DNS），或用另一运营商热点对照。",
+            "ja": "公式：クラウド PC は健全なのに Can’t reach のときは IPv4 と IPv6 の DNS を両方 1.1.1.1/8.8.8.8 にする（JioFiber は IPv6 DNS が残りやすい）。別キャリアのテザリングでも切り分け可。"
           }
         },
         {
@@ -2773,6 +2833,46 @@
             "en": "Staff: Fastmail Settings → Filters & Rules Save on the box Chrome fires zero network requests; workaround is manage filters/Sieve via Fastmail’s API (JMAP) with a token—the mail helper already uses that path successfully.",
             "zh": "官方：盒子 Chrome 里 Fastmail Filters & Rules 的 Save 不会发出任何网络请求；变通是用 API token 走 Fastmail JMAP/API 管过滤与 Sieve（邮件 helper 已能走通）。",
             "ja": "スタッフ：ボックス上 Chrome の Fastmail Filters & Rules の Save はネットワーク要求を一切出さない。回避策は API トークンで Fastmail の JMAP/API からフィルタ/Sieve を管理する（メール helper は既にその経路で動く）。"
+          }
+        },
+        {
+          "title": "VPN, SSO, Passkey, and YubiKey Within Grokbot",
+          "url": "https://forum.cursor.com/t/vpn-sso-passkey-and-yubikey-within-grokbot/170148",
+          "source": "day-20260901-1804",
+          "blurb": {
+            "en": "Staff: Grok Bot’s cloud computer cannot join a corporate VPN today (don’t install a VPN client on it — that can knock the box offline); Atlassian Cloud / public SSO works via browser takeover (Okta etc.), YubiKey works on macOS/Windows under Settings → Security Key, and internal VPN-only sites need Execution on Local Computer on your VPN’d machine.",
+            "zh": "官方：Grok Bot 云电脑目前无法加入公司 VPN（勿在其上安装 VPN 客户端，可能导致掉线）；公网 Atlassian Cloud / SSO 可通过浏览器接管登录，YubiKey 在 macOS/Windows 的设置 → Security Key 可用，仅 VPN 可达的内网需用本机「在本地电脑执行」。",
+            "ja": "公式：Grok Bot のクラウド PC は現時点で社内 VPN に参加不可（VPN クライアント導入はオフライン化の恐れ）；公開 Atlassian Cloud / SSO はブラウザ引き継ぎで可、YubiKey は macOS/Windows の Settings → Security Key、VPN 内だけ見えるサイトはローカル実行が必要。"
+          }
+        },
+        {
+          "title": "Unable to connect",
+          "url": "https://forum.cursor.com/t/unable-to-connect/170123",
+          "source": "day-20260901-1804",
+          "blurb": {
+            "en": "Staff: chats and agents live on the hosted Grok Bot computer — during an outage recovery that computer can be temporarily replaced with a blank one (roster looks empty); Cursor can restore it from saved data, then quit and reopen the app to see agents/history again.",
+            "zh": "官方：对话与 Agent 存在托管电脑上；故障恢复时该电脑可能被临时换成空白机（名单看似清空），可从已保存数据还原，退出并重新打开应用后 Agent/历史应回来。",
+            "ja": "公式：チャットと Agent はホストされた Grok Bot PC 上にあり、障害復旧中に一時的に空の PC へ差し替わることがあり（一覧が空に見える）；保存データから復元後、アプリを終了→再起動すれば戻る。"
+          }
+        },
+        {
+          "title": "GrokBot Linux Execution on Local Computer not working",
+          "url": "https://forum.cursor.com/t/grokbot-linux-execution-on-local-computer-not-working/170157",
+          "source": "day-20260901-1804",
+          "blurb": {
+            "en": "Staff: empty ListMachines / local execution failing on Grok Bot 0.30.0 Linux is a known bug with a fix already merged for the next desktop update; interim workaround is an unlocked system keyring (gnome-keyring or KWallet), fully quit leftover Grok Bot processes, then relaunch.",
+            "zh": "官方：Grok Bot 0.30.0 Linux 上 ListMachines 为空/本地执行失败是已知问题，修复已合并并将随下一桌面版发布；临时可装并解锁系统钥匙环（gnome-keyring 或 KWallet），彻底退出残留进程后重开。",
+            "ja": "公式：Grok Bot 0.30.0 Linux で ListMachines が空／ローカル実行不可は既知不具合で修正は次のデスクトップ更新に入る予定；当面は keyring（gnome-keyring / KWallet）をアンロックし、残留プロセスを終了して再起動。"
+          }
+        },
+        {
+          "title": "New report, Windows, leftover daemon on 0.30.0",
+          "url": "https://forum.cursor.com/t/new-report-windows-leftover-daemon-on-0-30-0/170121",
+          "source": "day-20260901-1804",
+          "blurb": {
+            "en": "Staff: 0.30.0 fixed one macOS daemon exit/no-respawn path, but Windows leftover local-exec-daemon is a different known failure; when the machine is unreachable, Quit from the tray, end remaining “Grok Bot” and local-exec-daemon processes in Task Manager, relaunch, and wait about a minute to re-register.",
+            "zh": "官方：0.30.0 已修 macOS 上守护进程退出后不拉起的一类问题，但 Windows 残留 local-exec-daemon 是另一已知路径；连不上时请从托盘 Quit，在任务管理器结束残留 Grok Bot / local-exec-daemon，再启动并等待约一分钟重新注册。",
+            "ja": "公式：0.30.0 は macOS の daemon 終了後未再起動を直したが、Windows の local-exec-daemon 残留は別の既知経路；到達不能時はトレイから Quit → タスクマネージャで Grok Bot / local-exec-daemon を終了 → 再起動し約1分待つ。"
           }
         }
       ]
@@ -3259,9 +3359,9 @@
         "ja": "2026-09-08（月）18:00–20:00（IDT）"
       },
       "where": {
-        "en": "Tel Aviv-Yafo · exact address after you register",
-        "zh": "特拉维夫 · 报名后可见地址",
-        "ja": "テルアビブ · 登録後に住所を表示"
+        "en": "Tel Aviv-Yafo · Sarona (exact pin after register)",
+        "zh": "特拉维夫 · Sarona（报名后可见精确地址）",
+        "ja": "テルアビブ · Sarona（登録後に住所）"
       },
       "body": {
         "en": "World first Grok Bot meetup in Tel Aviv: AI teammates you give real work to, with Cursor/SpaceXAI.",
@@ -4096,9 +4196,9 @@
         "ja": "2026-09-09（水）17:00–20:00（CEST）"
       },
       "where": {
-        "en": "Copenhagen · exact address after you register",
-        "zh": "哥本哈根 · 报名通过后可见地址",
-        "ja": "コペンハーゲン · 登録後に住所を表示"
+        "en": "Copenhagen · Trustpilot A/S, Pilestræde 58",
+        "zh": "哥本哈根 · Trustpilot A/S, Pilestræde 58",
+        "ja": "コペンハーゲン · Trustpilot A/S, Pilestræde 58"
       },
       "body": {
         "en": "First Grok Bot meetup in Copenhagen. Host approval required.",
@@ -5442,6 +5542,99 @@
         "en": "Register on Luma →",
         "zh": "去 Luma 报名 →",
         "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "ldn-20260916",
+      "url": "https://luma.com/grok-bot-london",
+      "image": "./assets/events/ldn-20260916-cover.png",
+      "expires": "2026-09-16T21:00:00+01:00",
+      "title": {
+        "en": "Grok Bot Meetup London",
+        "zh": "Grok Bot 伦敦线下交流",
+        "ja": "Grok Bot Meetup London"
+      },
+      "when": {
+        "en": "Wed 16 Sep 2026, 18:00–21:00 (BST)",
+        "zh": "2026-09-16 周三 18:00–21:00（伦敦）",
+        "ja": "2026-09-16（水）18:00–21:00（BST）"
+      },
+      "where": {
+        "en": "London · Granola hosting (exact street after register)",
+        "zh": "伦敦 · Granola 主办场地（报名后可见门牌）",
+        "ja": "ロンドン · Granola 主催（登録後に住所）"
+      },
+      "body": {
+        "en": "First Grok Bot meetup in London: evening cowork, local power-user demos (SpaceXAI field engineer Kiara Polychroniadi), laptop + credits. Free registration.",
+        "zh": "伦敦首场 Grok Bot：晚间 cowork、本地重度用户演示（SpaceXAI 现场工程师 Kiara Polychroniadi），带电脑领额度。免费报名。",
+        "ja": "ロンドン初の Grok Bot。夕方コーワークと地元パワーユーザーデモ（SpaceXAI フィールドエンジニア）、ノート PC とクレジット。無料登録。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "ams-20260922",
+      "url": "https://luma.com/grok-bot-amsterdam",
+      "image": "./assets/events/ams-20260922-cover.png",
+      "expires": "2026-09-22T21:00:00+02:00",
+      "title": {
+        "en": "Grok Bot Meetup Amsterdam",
+        "zh": "Grok Bot 阿姆斯特丹线下交流",
+        "ja": "Grok Bot Meetup Amsterdam"
+      },
+      "when": {
+        "en": "Tue 22 Sep 2026, 18:00–21:00 (CEST)",
+        "zh": "2026-09-22 周二 18:00–21:00（阿姆斯特丹）",
+        "ja": "2026-09-22（火）18:00–21:00（CEST）"
+      },
+      "where": {
+        "en": "Amsterdam · venue TBD (address on Luma / after register)",
+        "zh": "阿姆斯特丹 · 场地待定（Luma / 报名后可见）",
+        "ja": "アムステルダム · 会場 TBD（Luma / 登録後に住所）"
+      },
+      "body": {
+        "en": "First Grok Bot meetup in Amsterdam: evening cowork, local power-user demos, bring a laptop for credits. Free registration.",
+        "zh": "阿姆斯特丹首场 Grok Bot：晚间 cowork、本地重度用户演示，带电脑领额度。免费报名。",
+        "ja": "アムステルダム初の Grok Bot。夕方コーワークと地元パワーユーザーデモ、ノート PC 持参でクレジット。無料登録。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "sfd-20260902",
+      "url": "https://luma.com/spacexai-7alp",
+      "image": "./assets/events/sfd-20260902-cover.png",
+      "expires": "2026-09-02T22:00:00-07:00",
+      "title": {
+        "en": "Grok Bot After Dark (SF)",
+        "zh": "Grok Bot After Dark（旧金山）",
+        "ja": "Grok Bot After Dark（SF）"
+      },
+      "when": {
+        "en": "Wed 2 Sep 2026, 18:00–22:00 (PDT)",
+        "zh": "2026-09-02 周三 18:00–22:00（旧金山）",
+        "ja": "2026-09-02（水）18:00–22:00（PDT）"
+      },
+      "where": {
+        "en": "San Francisco · Radhaus, 2 Marina Blvd Bldg A (Fort Mason)",
+        "zh": "旧金山 · Radhaus, 2 Marina Blvd Bldg A（Fort Mason）",
+        "ja": "サンフランシスコ · Radhaus, 2 Marina Blvd Bldg A（Fort Mason）"
+      },
+      "body": {
+        "en": "SpaceXAI After Dark: creators, builders, founders, and creative technologists exploring what’s possible with Grok Bot. Host approval.",
+        "zh": "SpaceXAI After Dark：创作者/构建者/创始人一起探索 Grok Bot 边界。需审核。",
+        "ja": "SpaceXAI After Dark。クリエイター・ビルダー・創業者が Grok Bot の可能性を探る。主催者承認。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
       }
     }
   ]
