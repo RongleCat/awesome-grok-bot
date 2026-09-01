@@ -37,80 +37,32 @@
 
 [Full meetup notes](./EVENTS.md)
 
-- [Grok Bot Macau Student Workshop](https://luma.com/cursor-macau-creativity-workshop-2026-sep) — Sat 5 Sep 2026, 14:30-17:30 (GMT+8). Free student workshop: hands-on Grok Bot plus a founder talk.
-- [Grok Bot Meetup Las Vegas](https://luma.com/cursor-kaua) — Mon 15 Sep 2026, 18:00-20:00 (PDT). Networking, talks/workshop, and a Cursor-team Q&A on video.
-- [Grok Bot build night for women (SF)](https://luma.com/a16zgrokbotbuildnight) — Wed 3 Sep 2026, 17:00–21:00 (PDT). Low-pressure SF build night for women: learn Grok Bot capabilities and set one up together.
-- [Grok Bot Meetup Tel Aviv](https://luma.com/cursor-qdl0) — Mon 8 Sep 2026, 18:00–20:00 (IDT). World first Grok Bot meetup in Tel Aviv: AI teammates you give real work to, with Cursor/SpaceXAI.
-- [Grok Meetup Monterrey](https://luma.com/cursor-wgsj) — Wed 10 Sep 2026, 18:00–21:00 (Monterrey). Cursor community meetup on Grok / Grok Bot practice at Tec de Monterrey innovation hub.
-- [Grok Bot Meetup Manila](https://luma.com/grok-bot-manila-01) — Fri 4 Sep 2026, 17:00–21:00 (PHT). Cursor Manila in-person Grok Bot night.
-- [Grok Bot Meetup Chengdu](https://luma.com/pdj34ofn) — Sat 5 Sep 2026, 14:30–17:30 (GMT+8). China’s second in-person Grok Bot meetup.
-- [Grok Bot Meetup Bariloche](https://luma.com/cursor-38kv) — Thu 10 Sep 2026, 19:00–21:30 (ART). In-person Grok Bot meetup in Bariloche.
-- [Grok Bot Arequipa Build Night](https://luma.com/vcow8a4c) — Fri 11 Sep 2026, 19:00–23:00 (PET). Grok Bot build night in Arequipa.
-- [Grok Bot Lima Build Night](https://luma.com/ybo7udvo) — Fri 11 Sep 2026, 19:00–23:00 (PET). Grok Bot build night in Lima.
-- [Grok Bot Meetup Lomé](https://luma.com/cursor-ec8v) — Sat 12 Sep 2026, 09:00–13:00 (GMT). In-person Grok Bot meetup in Lomé.
-- [Grok Bot Manta Workshop](https://luma.com/cursor-manta) — Sat 12 Sep 2026, 08:30–12:30 (ECT). Workshop on the new agentic development stack with Grok Bot.
-- [Grok Bot Meetup Buenos Aires](https://luma.com/8l9u6sns) — Wed 16 Sep 2026, 18:00–20:00 (ART). In-person Grok Bot meetup in Buenos Aires.
-- [Grok Bot Meetup Nairobi](https://luma.com/cursor-0yk6) — Thu 17 Sep 2026, 15:30–18:00 (EAT). Hands-on Grok Bot meetup in Nairobi.
-- [Grok Bot Meetup Kuala Lumpur](https://luma.com/grok-bot) — Sat 19 Sep 2026, 18:00–20:00 (MYT). In-person Grok Bot meetup in Kuala Lumpur.
-- [Grok Bot Meetup Quito](https://luma.com/grokbotquitomeetup) — Thu 24 Sep 2026, 19:30–21:30 (ECT). In-person Grok Bot meetup in Quito.
-- [Grok Bot Meetup Calgary](https://luma.com/cursor-coel) — Wed 30 Sep 2026, 17:30–20:30 (MDT). In-person Grok Bot meetup in Calgary.
-- [Grok Bot Meetup Sapporo #2](https://luma.com/91kju0je) — Fri 2 Oct 2026, 19:00–22:00 (JST). Second Sapporo Grok Bot meetup.
-- [Grok Bot Meetup Cumbayá](https://luma.com/cccumbaya) — Sat 3 Oct 2026, 09:30–12:00 (ECT). In-person Grok Bot meetup in Cumbayá.
-- [Grok @bot builder demos (SF)](https://luma.com/p4rvaf0y) — Tue 1 Sep 2026, 18:00–20:00 (PDT). Builder demos for Grok Bot in San Francisco.
-- [Build with Grok Bot: Nijmegen](https://luma.com/fw7ovtge) — Wed 2 Sep 2026, 16:00–21:00 (CEST). Afternoon of building with Grok Bot in Nijmegen.
-- [Grok Bot Meetup Vadodara](https://luma.com/grokbot-vad-1) — Sat 5 Sep 2026, 10:00–13:00 (IST). In-person Grok Bot meetup in Vadodara.
-- [Grok Bot Meetup Tokyo](https://luma.com/grokbottokyo) — Wed 9 Sep 2026, 19:00–21:30 (JST). In-person Grok Bot meetup in Tokyo.
-- [Grok Bot Meetup Osaka](https://luma.com/grokbotosaka) — Thu 17 Sep 2026, 19:00–21:30 (JST). In-person Grok Bot meetup in Osaka.
-- [Grok Bot Meetup Cebu](https://luma.com/cursor-dyb8) — Sat 19 Sep 2026, 09:00–11:30 (PHT). In-person Grok Bot meetup in Cebu.
-- [Grok Bot Meetup Victoria BC](https://luma.com/grokbot) — Mon 21 Sep 2026, 18:00–21:00 (PDT). Grok Bot build night in Victoria.
-- [Grok Bot Meetup Mendoza](https://luma.com/cursor-mtu0) — Sat 3 Oct 2026, 17:00–20:00 (ART). In-person Grok Bot meetup in Mendoza.
-- [Grok Bot Copenhagen Meetup](https://luma.com/cursor-t9m9) — Wed 9 Sep 2026, 17:00–20:00 (CEST). First Grok Bot meetup in Copenhagen.
-- [Grok Bot Meetup Yaoundé](https://luma.com/cursor-90pj) — Thu 10 Sep 2026, 11:30–15:00 (WAT). In-person Grok Bot meetup in Yaoundé.
-- [Grok Bot Meetup Sudbury #1](https://luma.com/cursor-nmzu) — Thu 17 Sep 2026, 18:00–20:00 (EDT). First Grok Bot meetup in Sudbury.
-- [Grok Bot Tirana Meetup](https://luma.com/cursor-ibxj) — Thu 17 Sep 2026, 18:30–20:00 (CEST). Grok Bot and Cursor meetup in Tirana this September.
-- [Grok Bot Meetup Puebla](https://luma.com/puebla-d4iw) — Thu 24 Sep 2026, 18:00–22:00 (CST). First Grok Bot meetup in Puebla.
-- [Grok Bot Yangon Workshop @ ACY](https://luma.com/cursor-qu3x) — Sat 26 Sep 2026, 13:30–17:00 (MMT). Hands-on Grok Bot workshop at American Center Yangon.
-- [Grok Bot Meetup Sydney](https://luma.com/cursor-d70v) — Wed 7 Oct 2026, 17:30–21:00 (AEDT). Next official Cursor Sydney Grok Bot night after the August meetup.
-- [Grok Bot Meetup Utrecht](https://luma.com/cfk3aokj) — Thu 29 Oct 2026, 19:00–21:30 (CET). Second Grok Bot community meetup in Utrecht.
-- [Grok Bot Student Build Night (NYC)](https://luma.com/nc8i3yo7) — Thu 3 Sep 2026, 18:00–20:00 (EDT). Students build night at SpaceXAI NYC with a live Grok Bot demo, coworking, snacks, and a free month of Cursor Pro (includes Grok Bot).
-- [Grok Bot Student Build Night (SF)](https://luma.com/xyd87jsr) — Thu 3 Sep 2026, 18:00–20:00 (PDT). Bay Area students meet at SpaceXAI SF for a Grok Bot demo, build time, networking, snacks, and a free month of Cursor Pro (includes Grok Bot).
-- [Grok Bot Meetup Villahermosa](https://luma.com/cursor-9mh5) — Thu 3 Sep 2026, 19:00–21:30 (CST). In-person Villahermosa meetup for Cursor and Grok Bot builders to share workflows, cloud agents, and how teams use Grok Bot.
-- [Grok Bot Meetup Guatemala (Xela)](https://luma.com/cursor-kfex) — Sun 20 Sep 2026, 09:00–15:00 (CST). Full-day Quetzaltenango builders meetup to prototype with Grok Bot across Maya languages, rural/ag, SME, and health/education tracks.
-- [Cursor + Grok Bot Workshop Recife](https://luma.com/cursor-obsw) — Wed 23 Sep 2026, 14:00–17:30 (BRT). Hands-on Recife workshop for shipping with Cursor and Grok Bot, treating Grok Bot as a teammate alongside the editor.
-- [Grok Bot Curitiba Startups Meetup](https://luma.com/cursor-dx23) — Wed 11 Nov 2026, 18:30–21:00 (BRT). Curitiba startups meetup on building with Grok Bot, founder lessons, and shipping ideas in the agent era (speakers TBA).
-- [Grok Bot Meetup Singapore](https://luma.com/grokbotsg) — Fri 4 Sep 2026, 18:00–21:00 (SGT). Singapore’s first in-person Grok Bot meetup: see what the cloud-computer teammate can do, swap workflows, try it on the spot with credits (laptop or phone).
-- [Grok Bot Student Build Night (Penn / Philadelphia)](https://luma.com/vkh1pg34) — Thu 3 Sep 2026, 18:30–21:30 (EDT). Student Grok Bot build night with Penn Labs, PER, and Product Space: live demo of the always-on teammate with its own computer, then build/network/eat, plus a free month of Cursor Pro (includes Grok Bot).
-- [Grok Bot Build Night (UIUC / Champaign)](https://luma.com/wmznb83e) — Thu 3 Sep 2026, 17:30–19:00 (CDT). UIUC student Grok Bot night at Siebel Center: one hour to build with the cloud-computer teammate, live demos, merch, and a free month of Cursor Pro (includes Grok Bot).
-- [Grok Bot Build Night (Iowa State / Ames)](https://luma.com/00x0vh1t) — Thu 3 Sep 2026, 17:00–19:30 (CDT). SpaceXAI × Iowa State GrokBot build night: agents that connect to Gmail/Slack/calendar/web, run on schedules, and hand off work — then live demos, plus a free month of Cursor Pro.
-- [Grok Bot Build Night (Pitt / Pittsburgh)](https://luma.com/nbzn8j2m) — Thu 3 Sep 2026, 18:00–20:00 (EDT). SpaceXAI × AWS Cloud Club at Pitt Grok Bot build night in Sennott Square — every attendee gets one free month of Cursor Pro (includes Grok Bot).
-- [Grok Bot Build Night (NC State)](https://luma.com/9ck911r9) — Thu 3 Sep 2026, 18:00–20:00 (EDT). SpaceXAI × NC State student GrokBot night: demo of always-on agents with their own computer, then build/network/eat, plus a free month of Cursor Pro (includes Grok Bot).
-- [Grok Bot Build Night (Rose-Hulman / Terre Haute)](https://luma.com/s76hornw) — Thu 3 Sep 2026, 18:30–20:30 (EDT). Rose-Hulman Cursor & Grok Bot build night with SpaceXAI: demo of always-on agents that have their own computer, then build/network, plus a free month of Cursor Pro.
-- [Grok Bot Student Build Night (Rochester)](https://luma.com/myqb4rsj) — Thu 3 Sep 2026, 18:30–21:00 (EDT). University of Rochester student Grok Bot build night (nationwide Sep 3 wave): build with Grok Bot and Cursor, live SpaceXAI demo, no advanced AI experience required.
-- [Grok Bot Meetup San Salvador](https://luma.com/bot) — Sat 19 Sep 2026, 15:00–19:00 (America/El_Salvador). Ai Labs Grok Bot meetup in San Salvador: go beyond one-off tasks with better instructions, context, and end-to-end workflows — builders and operators welcome (~50 going).
-- [Grok Bot: Product Best Practices](https://luma.com/5w6kru6i) — Wed 2 Sep 2026, 10:00–11:00 (PDT). SpaceXAI PMs Kevin Niparko and Roshan Sadanani on always-on Grok Bot teams: attention lists, customer-insight synthesis, specialist agents, and when humans still review.
-- [Grok Bot Meetup Guatemala City](https://luma.com/cursor-is2h) — Sat 3 Oct 2026, 10:00–14:00 (CST). Open2 Grok Bot meetup in Guatemala City: go beyond one-off tasks with better instructions, context, and end-to-end workflows, plus credits to try Grok Bot (~36 going, host approval).
-- [Grok Bot Build Night (Chaffey College)](https://luma.com/3ubz4eav) — Thu 3 Sep 2026, 16:00–18:00 (PDT). Chaffey College Grok Bot build night at Rancho Library Room 333—come build with the always-on cloud-computer teammate.
-- [Grok Bot Build Night (RIT / Rochester)](https://luma.com/4veyk6o4) — Thu 3 Sep 2026, 18:30–19:30 (EDT). RIT AI Club × SpaceXAI build night in Rochester—campus session to try Grok Bot with student organizers.
-- [Grok Bot Build Night (Cal Poly)](https://luma.com/821u6j1t) — Thu 3 Sep 2026, 18:00–20:00 (PDT). CIE Hatchery × SpaceXAI campus night: demo Grok Bot (agents on your tools with their own computer), then free-build and share ideas.
-- [Grok Bot Student Build Night (UCSB)](https://luma.com/89plh2i2) — Thu 3 Sep 2026, 18:00–20:00 (PDT). UCSB student evening: live SpaceXAI Grok Bot demo, then build projects together—any major welcome, no prior Grok Bot experience needed.
-- [Grok Bot Build Night (University of Delaware)](https://luma.com/8u9fzdtb) — Thu 3 Sep 2026, 18:00–21:00 (EDT). Hands-on University of Delaware night to build with Grok Bot and Cursor across AI, product, design, and entrepreneurship.
-- [Grok Bot Build Night (UC Davis)](https://luma.com/bqjdbblj) — Thu 3 Sep 2026, 18:00–19:00 (PDT). UC Davis builders night with SpaceXAI’s Grok Bot agent platform—spin up agents on Gmail and more, then build together.
-- [Grok Bot Build Night (UMich / Ann Arbor)](https://luma.com/ephlo70e) — Thu 3 Sep 2026, 18:00–20:00 (EDT). UMich Grok Bot Build Night: live-streamed demo, then casual build sessions with organizers and fellow builders.
-- [Grok Bot Build Night (UF × SASE / Gainesville)](https://luma.com/evqjr7os) — Thu 3 Sep 2026, 18:30–20:30 (EDT). University of Florida × SASE Grok Bot build night in Gainesville—demo and hands-on with campus builders.
-- [Grok Bot Build Night (Texas A&M / tidalTAMU)](https://luma.com/fx9cjrpu) — Thu 3 Sep 2026, 17:30–20:30 (CDT). Texas A&M tidalTAMU night in BLOC 150: build with Grok Bot, SpaceXAI’s agent platform for campus builders.
-- [Grok Bot Build Night (TX Luminescence)](https://luma.com/pt7tj0rn) — Thu 3 Sep 2026, 18:00–20:00 (CDT). TX Luminescence × SpaceXAI: join a live Grok Bot demo, then build and share—no prior experience needed.
-- [Grok Bot Build Night (Johns Hopkins / HopAI)](https://luma.com/sgeks0ku) — Thu 3 Sep 2026, 18:15–20:00 (EDT). Johns Hopkins HopAI × SpaceXAI campus build night with Grok Bot—demo then build with student organizers.
-- [Grok Bot Build Night (Princeton / HackPrinceton)](https://luma.com/7eho2mpc) — Thu 3 Sep 2026, 21:15–22:15 (EDT). SpaceXAI × HackPrinceton campus hour: Grok Bot demo (always-on agents with their own computer), then build/network.
-- [Grok Bot Meetup Salta](https://luma.com/cursor-sh4i) — Wed 16 Sep 2026, 18:00–20:00 (ART). First Grok Bot meetup in Salta: intro workshop, real use-cases, Q&A, and cowork on your laptop.
-- [Grok Bot Meetup Toronto](https://luma.com/grok-bot-toronto) — Thu 17 Sep 2026, 17:30–20:30 (EDT). Inaugural in-person Grok Bot meetup in Toronto (Cursor Community).
-- [Grok Bot Build Night (CMU / Pittsburgh)](https://luma.com/9fjimdxk) — Thu 3 Sep 2026, 16:00–18:00 (EDT). SpaceXAI Grok Bot night at CMU: live demo then free-build/network/snack.
-- [Grok Bot Build Night (Purdue / Boiler Blockchain)](https://luma.com/a3uciep0) — Thu 3 Sep 2026, 18:00–19:00 (EDT). Boiler Blockchain × SpaceXAI campus hour: live-streamed Grok Bot demo, then casual build.
-- [Grok Bot Build Night (McNeese / Lake Charles)](https://luma.com/zcyllw4p) — Thu 3 Sep 2026, 17:30–19:30 (CDT) (check-in 17:15). McNeese × SpaceXAI Edu Grok Bot student night: hands-on with Grok Bot + Cursor, not just a talk.
-- [Grok Bot Build Night (Harvard)](https://luma.com/oddeynku) — Thu 3 Sep 2026, 20:00–22:00 (EDT). Harvard × SpaceXAI Grok Bot night: live-streamed demo, then casual build with pizza/boba.
-- [Grok Bot Build Night (UCR / Riverside)](https://luma.com/swqijv16) — Thu 3 Sep 2026, 18:00–20:00 (PDT). UCR Grok Bot Build Night: evening of building and demos with campus makers.
-- [Grok Bot Meetup London](https://luma.com/grok-bot-london) — Wed 16 Sep 2026, 18:00–21:00 (BST). First Grok Bot meetup in London: evening cowork, local power-user demos (SpaceXAI field engineer Kiara Polychroniadi), laptop + credits.
-- [Grok Bot Meetup Amsterdam](https://luma.com/grok-bot-amsterdam) — Tue 22 Sep 2026, 18:00–21:00 (CEST). First Grok Bot meetup in Amsterdam: evening cowork, local power-user demos, bring a laptop for credits.
-- [Grok Bot After Dark (SF)](https://luma.com/spacexai-7alp) — Wed 2 Sep 2026, 18:00–22:00 (PDT). SpaceXAI After Dark: creators, builders, founders, and creative technologists exploring what’s possible with Grok Bot.
+- **China**（2）：[Macao](./EVENTS.md#mo-20260905) · [Chengdu](./EVENTS.md#cd-20260905)
+- **United States**（30）：[Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco (women)](./EVENTS.md#sf-20260903) · [San Francisco (demo)](./EVENTS.md#sfb-20260901) · [New York (students)](./EVENTS.md#nyc-20260903) · [San Francisco (students)](./EVENTS.md#sfs-20260903) · [Penn / Philadelphia](./EVENTS.md#phl-20260903) · [UIUC](./EVENTS.md#uiuc-20260903) · [Iowa State / Ames](./EVENTS.md#isu-20260903) · [Pitt](./EVENTS.md#pitt-20260903) · [NC State](./EVENTS.md#ncsu-20260903) · [Rose-Hulman](./EVENTS.md#rose-20260903) · [URochester](./EVENTS.md#roc-20260903) · [Chaffey College](./EVENTS.md#chf-20260903) · [RIT / Rochester](./EVENTS.md#rit-20260903) · [Cal Poly](./EVENTS.md#slo-20260903) · [UC Santa Barbara](./EVENTS.md#sba-20260903) · [Delaware](./EVENTS.md#udel-20260903) · [UC Davis](./EVENTS.md#davis-20260903) · [Michigan / Ann Arbor](./EVENTS.md#a2-20260903) · [Florida / Gainesville](./EVENTS.md#uf-20260903) · [Texas A&M](./EVENTS.md#tamu-20260903) · [TX Luminescence](./EVENTS.md#txl-20260903) · [Johns Hopkins](./EVENTS.md#jhu-20260903) · [Princeton](./EVENTS.md#prin-20260903) · [CMU / Pittsburgh](./EVENTS.md#cmu-20260903) · [Purdue](./EVENTS.md#laf-20260903) · [McNeese / Lake Charles](./EVENTS.md#mcn-20260903) · [Harvard](./EVENTS.md#hvd-20260903) · [UC Riverside](./EVENTS.md#ucr-20260903) · [San Francisco After Dark](./EVENTS.md#sfd-20260902)
+- **Argentina**（4）：[Bariloche](./EVENTS.md#brc-20260910) · [Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
+- **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260917) · [Toronto](./EVENTS.md#yyz-20260917)
+- **Ecuador**（3）：[Manta](./EVENTS.md#mec-20260912) · [Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
+- **Japan**（3）：[Sapporo](./EVENTS.md#spk-20261002) · [Tokyo](./EVENTS.md#tyo-20260909) · [Osaka](./EVENTS.md#osa-20260917)
+- **Mexico**（3）：[Monterrey](./EVENTS.md#mty-20260910) · [Puebla](./EVENTS.md#pue-20260924) · [Villahermosa](./EVENTS.md#vhs-20260903)
+- **Netherlands**（3）：[Nijmegen](./EVENTS.md#nij-20260902) · [Utrecht](./EVENTS.md#utr-20261029) · [Amsterdam](./EVENTS.md#ams-20260922)
+- **Brazil**（2）：[Recife](./EVENTS.md#rec-20260923) · [Curitiba](./EVENTS.md#cwb-20261111)
+- **Guatemala**（2）：[Quetzaltenango](./EVENTS.md#xela-20260920) · [Guatemala City](./EVENTS.md#gua-20261003)
+- **Peru**（2）：[Arequipa](./EVENTS.md#aqp-20260911) · [Lima](./EVENTS.md#lim-20260911)
+- **Philippines**（2）：[Manila](./EVENTS.md#mnl-20260904) · [Cebu](./EVENTS.md#ceb-20260919)
+- **Albania**（1）：[Tirana](./EVENTS.md#tia-20260917)
+- **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
+- **Cameroon**（1）：[Yaoundé](./EVENTS.md#yde-20260910)
+- **Denmark**（1）：[Copenhagen](./EVENTS.md#cph-20260909)
+- **United Kingdom**（1）：[London](./EVENTS.md#ldn-20260916)
+- **Israel**（1）：[Tel Aviv](./EVENTS.md#tlv-20260908)
+- **India**（1）：[Vadodara](./EVENTS.md#vad-20260905)
+- **Kenya**（1）：[Nairobi](./EVENTS.md#nbo-20260917)
+- **Myanmar**（1）：[Yangon](./EVENTS.md#ygn-20260926)
+- **Malaysia**（1）：[Kuala Lumpur](./EVENTS.md#kul-20260919)
+- **Singapore**（1）：[Singapore](./EVENTS.md#sg-20260904)
+- **El Salvador**（1）：[San Salvador](./EVENTS.md#sal-20260919)
+- **Togo**（1）：[Lomé](./EVENTS.md#lfw-20260912)
+- **Online**（1）：[Product practice](./EVENTS.md#pbp-20260902)
 
 ## Contents
 

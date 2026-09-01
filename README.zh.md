@@ -37,80 +37,32 @@
 
 [全部活动介绍](./EVENTS.zh.md)
 
-- [Grok Bot 澳门学生工作坊](https://luma.com/cursor-macau-creativity-workshop-2026-sep) — 2026-09-05 周六 14:30-17:30. 免费学生场：上手 Grok Bot + 创始人分享。
-- [Grok Bot 拉斯维加斯线下交流](https://luma.com/cursor-kaua) — 2026-09-15 周一 18:00-20:00（太平洋夏令时）. 破冰 + 分享 / Workshop，Cursor 团队视频问答。
-- [Grok Bot 女性 Build Night（旧金山）](https://luma.com/a16zgrokbotbuildnight) — 2026-09-03 周三 17:00–21:00（太平洋夏令时）. 旧金山女性向轻松场：一起了解 Grok Bot 能干啥，并现场搭起来。
-- [Grok Bot 特拉维夫线下交流](https://luma.com/cursor-qdl0) — 2026-09-08 周一 18:00–20:00（以色列夏令时）. 特拉维夫全球首场 Grok Bot 线下：把真活交给云电脑队友。
-- [Grok Meetup 蒙特雷](https://luma.com/cursor-wgsj) — 2026-09-10 周三 18:00–21:00（蒙特雷时间）. Cursor 社区场：在蒙特雷理工创新中心看 Grok / Grok Bot 落地用法。
-- [Grok Bot 马尼拉线下交流](https://luma.com/grok-bot-manila-01) — 2026-09-04 周五 17:00–21:00（马尼拉）. Cursor 马尼拉线下 Grok Bot 夜。
-- [Grok Bot 成都线下交流](https://luma.com/pdj34ofn) — 2026-09-05 周六 14:30–17:30. 中国第二场 Grok Bot 线下。
-- [Grok Bot 巴里洛切线下交流](https://luma.com/cursor-38kv) — 2026-09-10 周四 19:00–21:30（阿根廷）. 巴里洛切线下 Grok Bot。
-- [Grok Bot 阿雷基帕 Build Night](https://luma.com/vcow8a4c) — 2026-09-11 周五 19:00–23:00（秘鲁）. 阿雷基帕 Grok Bot 动手夜。
-- [Grok Bot 利马 Build Night](https://luma.com/ybo7udvo) — 2026-09-11 周五 19:00–23:00（秘鲁）. 利马 Grok Bot 动手夜。
-- [Grok Bot 洛美线下交流](https://luma.com/cursor-ec8v) — 2026-09-12 周六 09:00–13:00（洛美）. 洛美线下 Grok Bot。
-- [Grok Bot 曼塔工作坊](https://luma.com/cursor-manta) — 2026-09-12 周六 08:30–12:30（厄瓜多尔）. 用 Grok Bot 讲新的 agent 开发栈。
-- [Grok Bot 布宜诺斯艾利斯线下交流](https://luma.com/8l9u6sns) — 2026-09-16 周三 18:00–20:00（阿根廷）. 布宜诺斯艾利斯线下 Grok Bot。
-- [Grok Bot 内罗毕线下交流](https://luma.com/cursor-0yk6) — 2026-09-17 周四 15:30–18:00（内罗毕）. 内罗毕动手玩 Grok Bot。
-- [Grok Bot 吉隆坡线下交流](https://luma.com/grok-bot) — 2026-09-19 周六 18:00–20:00（吉隆坡）. 吉隆坡线下 Grok Bot。
-- [Grok Bot 基多线下交流](https://luma.com/grokbotquitomeetup) — 2026-09-24 周四 19:30–21:30（厄瓜多尔）. 基多线下 Grok Bot。
-- [Grok Bot 卡尔加里线下交流](https://luma.com/cursor-coel) — 2026-09-30 周三 17:30–20:30（卡尔加里）. 卡尔加里线下 Grok Bot。
-- [Grok Bot 札幌线下交流 #2](https://luma.com/91kju0je) — 2026-10-02 周五 19:00–22:00（札幌）. 札幌第二场 Grok Bot 线下。
-- [Grok Bot 昆巴亚线下交流](https://luma.com/cccumbaya) — 2026-10-03 周六 09:30–12:00（厄瓜多尔）. 基多郊区 Cumbayá 线下 Grok Bot。
-- [旧金山 Grok @bot 构建演示](https://luma.com/p4rvaf0y) — 2026-09-01 周二 18:00–20:00（旧金山）. 旧金山 Grok Bot 构建演示。
-- [Grok Bot 奈梅亨共建](https://luma.com/fw7ovtge) — 2026-09-02 周三 16:00–21:00（荷兰）. 奈梅亨下午一起用 Grok Bot 做东西。
-- [Grok Bot 巴罗达线下交流](https://luma.com/grokbot-vad-1) — 2026-09-05 周六 10:00–13:00（巴罗达）. 巴罗达线下 Grok Bot。
-- [Grok Bot 东京线下交流](https://luma.com/grokbottokyo) — 2026-09-09 周三 19:00–21:30（东京）. 东京线下 Grok Bot。
-- [Grok Bot 大阪线下交流](https://luma.com/grokbotosaka) — 2026-09-17 周四 19:00–21:30（大阪）. 大阪线下 Grok Bot。
-- [Grok Bot 宿务线下交流](https://luma.com/cursor-dyb8) — 2026-09-19 周六 09:00–11:30（宿务）. 宿务线下 Grok Bot。
-- [Grok Bot 维多利亚（BC）线下交流](https://luma.com/grokbot) — 2026-09-21 周一 18:00–21:00（维多利亚）. 维多利亚 Grok Bot 动手夜。
-- [Grok Bot 门多萨线下交流](https://luma.com/cursor-mtu0) — 2026-10-03 周六 17:00–20:00（门多萨）. 门多萨线下 Grok Bot。
-- [Grok Bot 哥本哈根线下交流](https://luma.com/cursor-t9m9) — 2026-09-09 周三 17:00–20:00（哥本哈根）. 哥本哈根首场 Grok Bot 线下。
-- [Grok Bot 雅温得线下交流](https://luma.com/cursor-90pj) — 2026-09-10 周四 11:30–15:00（雅温得）. 雅温得线下 Grok Bot。
-- [Grok Bot 萨德伯里线下交流 #1](https://luma.com/cursor-nmzu) — 2026-09-17 周四 18:00–20:00（萨德伯里）. 萨德伯里首场 Grok Bot 线下。
-- [Grok Bot 地拉那线下交流](https://luma.com/cursor-ibxj) — 2026-09-17 周四 18:30–20:00（地拉那）. 地拉那 9 月 Grok Bot / Cursor 线下。
-- [Grok Bot 普埃布拉线下交流](https://luma.com/puebla-d4iw) — 2026-09-24 周四 18:00–22:00（普埃布拉）. 普埃布拉首场 Grok Bot 线下。
-- [Grok Bot 仰光工作坊（ACY）](https://luma.com/cursor-qu3x) — 2026-09-26 周六 13:30–17:00（仰光）. 仰光 American Center 的 Grok Bot 动手工作坊。
-- [Grok Bot 悉尼线下交流](https://luma.com/cursor-d70v) — 2026-10-07 周三 17:30–21:00（悉尼）. 8 月场之后的下一场官方 Cursor 悉尼 Grok Bot 夜。
-- [Grok Bot 乌得勒支线下交流](https://luma.com/cfk3aokj) — 2026-10-29 周四 19:00–21:30（乌得勒支）. 乌得勒支第二场 Grok Bot 社区线下。
-- [Grok Bot 纽约学生 Build Night](https://luma.com/nc8i3yo7) — 2026-09-03 周四 18:00–20:00（纽约）. SpaceXAI 纽约学生场：现场演示 Grok Bot、一起做、有零食，并送一个月含 Grok Bot 的 Cursor Pro。
-- [Grok Bot 旧金山学生 Build Night](https://luma.com/xyd87jsr) — 2026-09-03 周四 18:00–20:00（旧金山）. SpaceXAI 旧金山学生场：演示 Grok Bot、动手做、社交和零食，并送一个月含 Grok Bot 的 Cursor Pro。
-- [Grok Bot 比亚埃尔莫萨线下交流](https://luma.com/cursor-9mh5) — 2026-09-03 周四 19:00–21:30（比亚埃尔莫萨）. 比亚埃尔莫萨线下：Cursor 和 Grok Bot 使用者交流工作流、云 Agent，以及团队怎么用 Grok Bot。
-- [Grok Bot 危地马拉克萨尔特南戈线下](https://luma.com/cursor-kfex) — 2026-09-20 周日 09:00–15:00（克萨尔特南戈）. 克萨尔特南戈全天创客场：用 Grok Bot 做玛雅语、农村农业、中小企业和医疗教育方向的原型。
-- [Cursor + Grok Bot 累西腓工作坊](https://luma.com/cursor-obsw) — 2026-09-23 周三 14:00–17:30（累西腓）. 累西腓动手课：用 Cursor 和 Grok Bot 一起交付，把 Grok Bot 当编辑器旁边的队友。
-- [Grok Bot 库里蒂巴创业线下](https://luma.com/cursor-dx23) — 2026-11-11 周三 18:30–21:00（库里蒂巴）. 库里蒂巴创业场：用 Grok Bot 做事、创始人经验，以及智能体时代怎么把想法做出来（嘉宾待定）。
-- [Grok Bot 新加坡线下交流](https://luma.com/grokbotsg) — 2026-09-04 周五 18:00–21:00（新加坡）. 新加坡首场 Grok Bot 线下：看云电脑队友能干什么、换用法、现场领额度上手（笔记本或手机即可）。
-- [Grok Bot 宾大学生 Build Night（费城）](https://luma.com/vkh1pg34) — 2026-09-03 周四 18:30–21:30（费城）. 宾大 Penn Labs / PER / Product Space 学生场：演示自带电脑的 always-on Grok Bot，再动手做、社交用餐，并送一个月含 Grok Bot 的 Cursor Pro。
-- [Grok Bot 香槟 Build Night（UIUC）](https://luma.com/wmznb83e) — 2026-09-03 周四 17:30–19:00（香槟）. UIUC 学生场：在 Siebel Center 用云电脑队友 Grok Bot 做一小时、现场演示、周边，并送一个月含 Grok Bot 的 Cursor Pro。
-- [Grok Bot Build Night（爱荷华州立 / 埃姆斯）](https://luma.com/00x0vh1t) — 2026-09-03 周四 17:00–19:30（埃姆斯）. SpaceXAI × 爱荷华州立 GrokBot 之夜：可接 Gmail/Slack/日历/网页、定时跑并能互相交接的智能体，现场演示，并送一个月 Cursor Pro。
-- [Grok Bot Build Night（匹兹堡大学）](https://luma.com/nbzn8j2m) — 2026-09-03 周四 18:00–20:00（匹兹堡）. SpaceXAI × 匹大 AWS Cloud Club 的 Grok Bot 之夜（Sennott Square），每位到场者获一个月含 Grok Bot 的 Cursor Pro。
-- [Grok Bot Build Night（北卡州立）](https://luma.com/9ck911r9) — 2026-09-03 周四 18:00–20:00（东美）. SpaceXAI × 北卡州立学生场：演示自带电脑的 always-on GrokBot，再动手做与社交用餐，并送一个月含 Grok Bot 的 Cursor Pro。
-- [Grok Bot Build Night（Rose-Hulman / 特雷霍特）](https://luma.com/s76hornw) — 2026-09-03 周四 18:30–20:30（印第安纳）. Rose-Hulman × SpaceXAI 的 Cursor & Grok Bot 之夜：演示自带电脑的 always-on 智能体，再动手与交流，并送一个月 Cursor Pro。
-- [Grok Bot 学生 Build Night（罗切斯特大学）](https://luma.com/myqb4rsj) — 2026-09-03 周四 18:30–21:00（罗切斯特）. 罗切斯特大学学生 Grok Bot 之夜（全国 9/3 场次之一）：用 Grok Bot 与 Cursor 动手，观看 SpaceXAI 演示，无需高阶 AI 经验。
-- [Grok Bot 见面会圣萨尔瓦多](https://luma.com/bot) — 2026-09-19 周六 15:00–19:00（萨尔瓦多）. Ai Labs 在圣萨尔瓦多办的 Grok Bot 见面会：用更好的指令、上下文与端到端流程，而不只是零散任务（约 50 人意向）。
-- [Grok Bot 产品实践课](https://luma.com/5w6kru6i) — 2026-09-02 周三 10:00–11:00（PDT）. SpaceXAI 产品经理 Kevin Niparko、Roshan Sadanani 讲 always-on Grok Bot 团队：注意力清单、客户洞察汇总、专职智能体，以及哪些事仍要人审。
-- [Grok Bot 危地马拉城线下交流](https://luma.com/cursor-is2h) — 2026-10-03 周六 10:00–14:00（危地马拉城）. Open2 在危地马拉城办的 Grok Bot 见面会：用更好的指令、上下文与端到端流程，而不只是零散任务，并有试用额度（约 36 人意向，需主办审核）。
-- [Grok Bot Build Night（Chaffey College）](https://luma.com/3ubz4eav) — 2026-09-03 周四 16:00–18:00. Chaffey College 场：Rancho Library Room 333，一起用自带云电脑的 Grok Bot 动手做。
-- [Grok Bot Build Night（RIT / 罗切斯特）](https://luma.com/4veyk6o4) — 2026-09-03 周四 18:30–19:30. 罗切斯特 RIT AI Club × SpaceXAI 动手夜：和学生组织者一起试用 Grok Bot。
-- [Grok Bot Build Night（Cal Poly）](https://luma.com/821u6j1t) — 2026-09-03 周四 18:00–20:00. Cal Poly CIE Hatchery × SpaceXAI：先演示能登录工具、自带电脑的 Grok Bot，再自由动手做并分享。
-- [Grok Bot 学生 Build Night（UCSB）](https://luma.com/89plh2i2) — 2026-09-03 周四 18:00–20:00. UCSB 学生场：先看 SpaceXAI 的 Grok Bot 直播演示，再一起做项目；不限专业，零基础可来。
-- [Grok Bot Build Night（特拉华大学）](https://luma.com/8u9fzdtb) — 2026-09-03 周四 18:00–21:00. 特拉华大学动手夜：用 Grok Bot 和 Cursor 做 AI / 产品 / 设计 / 创业向的小项目。
-- [Grok Bot Build Night（UC Davis）](https://luma.com/bqjdbblj) — 2026-09-03 周四 18:00–19:00. UC Davis × SpaceXAI：用 Grok Bot 代理平台（可接 Gmail 等）一起动手做。
-- [Grok Bot Build Night（密歇根大学 / 安娜堡）](https://luma.com/ephlo70e) — 2026-09-03 周四 18:00–20:00. 密歇根大学 Grok Bot Build Night：直播演示后分组动手，组织者和同伴可帮你。
-- [Grok Bot Build Night（佛罗里达大学 × SASE）](https://luma.com/evqjr7os) — 2026-09-03 周四 18:30–20:30. 盖恩斯维尔佛罗里达大学 × SASE：Grok Bot 演示与动手夜。
-- [Grok Bot Build Night（德州农工 / tidalTAMU）](https://luma.com/fx9cjrpu) — 2026-09-03 周四 17:30–20:30. 德州农工 tidalTAMU 在 BLOC 150：用 SpaceXAI 的 Grok Bot 代理平台动手做。
-- [Grok Bot Build Night（TX Luminescence）](https://luma.com/pt7tj0rn) — 2026-09-03 周四 18:00–20:00. TX Luminescence × SpaceXAI：先看 Grok Bot 直播演示，再动手做并分享，零基础可来。
-- [Grok Bot Build Night（约翰霍普金斯 / HopAI）](https://luma.com/sgeks0ku) — 2026-09-03 周四 18:15–20:00. 约翰霍普金斯 HopAI × SpaceXAI：Grok Bot 校园动手夜，演示后和同学一起做。
-- [Grok Bot Build Night（普林斯顿 / HackPrinceton）](https://luma.com/7eho2mpc) — 2026-09-03 周四 21:15–22:15. SpaceXAI × HackPrinceton 校园一小时：先演示自带电脑的 always-on Grok Bot，再动手/社交。
-- [Grok Bot 萨尔塔线下交流](https://luma.com/cursor-sh4i) — 2026-09-16 周三 18:00–20:00（阿根廷）. 萨尔塔首场 Grok Bot：入门工作坊、真实用例、问答，带电脑一起做。
-- [Grok Bot 多伦多线下交流](https://luma.com/grok-bot-toronto) — 2026-09-17 周四 17:30–20:30. 多伦多首场线下 Grok Bot（Cursor 社区）。
-- [Grok Bot Build Night（卡内基梅隆 / 匹兹堡）](https://luma.com/9fjimdxk) — 2026-09-03 周四 16:00–18:00. 卡内基梅隆 Grok Bot 动手夜：直播演示后自由动手、社交、吃零食。
-- [Grok Bot Build Night（普渡 / Boiler Blockchain）](https://luma.com/a3uciep0) — 2026-09-03 周四 18:00–19:00. 普渡 Boiler Blockchain × SpaceXAI 一小时：Grok Bot 直播演示后动手做。
-- [Grok Bot Build Night（McNeese / 莱克查尔斯）](https://luma.com/zcyllw4p) — 2026-09-03 周四 17:30–19:30（17:15 签到）. McNeese × SpaceXAI 教育场：动手用 Grok Bot + Cursor，不是纯讲座。
-- [Grok Bot Build Night（哈佛）](https://luma.com/oddeynku) — 2026-09-03 周四 20:00–22:00. 哈佛 × SpaceXAI：Grok Bot 直播演示后动手做，有披萨和奶茶。
-- [Grok Bot Build Night（UCR / 河滨）](https://luma.com/swqijv16) — 2026-09-03 周四 18:00–20:00. UCR Grok Bot 动手夜：和校园同学一起做、看演示。
-- [Grok Bot 伦敦线下交流](https://luma.com/grok-bot-london) — 2026-09-16 周三 18:00–21:00（伦敦）. 伦敦首场 Grok Bot：晚间 cowork、本地重度用户演示（SpaceXAI 现场工程师 Kiara Polychroniadi），带电脑领额度。
-- [Grok Bot 阿姆斯特丹线下交流](https://luma.com/grok-bot-amsterdam) — 2026-09-22 周二 18:00–21:00（阿姆斯特丹）. 阿姆斯特丹首场 Grok Bot：晚间 cowork、本地重度用户演示，带电脑领额度。
-- [Grok Bot After Dark（旧金山）](https://luma.com/spacexai-7alp) — 2026-09-02 周三 18:00–22:00（旧金山）. SpaceXAI After Dark：创作者/构建者/创始人一起探索 Grok Bot 边界。
+- **中国**（2）：[澳门](./EVENTS.zh.md#mo-20260905) · [成都](./EVENTS.zh.md#cd-20260905)
+- **美国**（30）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山（女性场）](./EVENTS.zh.md#sf-20260903) · [旧金山（演示）](./EVENTS.zh.md#sfb-20260901) · [纽约（学生）](./EVENTS.zh.md#nyc-20260903) · [旧金山（学生）](./EVENTS.zh.md#sfs-20260903) · [费城宾大](./EVENTS.zh.md#phl-20260903) · [香槟 UIUC](./EVENTS.zh.md#uiuc-20260903) · [爱荷华州立](./EVENTS.zh.md#isu-20260903) · [匹兹堡大学](./EVENTS.zh.md#pitt-20260903) · [北卡州立](./EVENTS.zh.md#ncsu-20260903) · [Rose-Hulman](./EVENTS.zh.md#rose-20260903) · [罗切斯特大学](./EVENTS.zh.md#roc-20260903) · [Chaffey College](./EVENTS.zh.md#chf-20260903) · [RIT 罗切斯特](./EVENTS.zh.md#rit-20260903) · [Cal Poly](./EVENTS.zh.md#slo-20260903) · [UCSB](./EVENTS.zh.md#sba-20260903) · [特拉华大学](./EVENTS.zh.md#udel-20260903) · [UC Davis](./EVENTS.zh.md#davis-20260903) · [密歇根大学](./EVENTS.zh.md#a2-20260903) · [佛罗里达大学](./EVENTS.zh.md#uf-20260903) · [德州农工](./EVENTS.zh.md#tamu-20260903) · [德州 TX Luminescence](./EVENTS.zh.md#txl-20260903) · [约翰霍普金斯](./EVENTS.zh.md#jhu-20260903) · [普林斯顿](./EVENTS.zh.md#prin-20260903) · [卡内基梅隆](./EVENTS.zh.md#cmu-20260903) · [普渡](./EVENTS.zh.md#laf-20260903) · [McNeese](./EVENTS.zh.md#mcn-20260903) · [哈佛](./EVENTS.zh.md#hvd-20260903) · [UCR 河滨](./EVENTS.zh.md#ucr-20260903) · [旧金山 After Dark](./EVENTS.zh.md#sfd-20260902)
+- **阿根廷**（4）：[巴里洛切](./EVENTS.zh.md#brc-20260910) · [布宜诺斯艾利斯](./EVENTS.zh.md#bue-20260916) · [门多萨](./EVENTS.zh.md#mdz-20261003) · [萨尔塔](./EVENTS.zh.md#sla-20260916)
+- **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [萨德伯里](./EVENTS.zh.md#sud-20260917) · [多伦多](./EVENTS.zh.md#yyz-20260917)
+- **厄瓜多尔**（3）：[曼塔](./EVENTS.zh.md#mec-20260912) · [基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
+- **日本**（3）：[札幌](./EVENTS.zh.md#spk-20261002) · [东京](./EVENTS.zh.md#tyo-20260909) · [大阪](./EVENTS.zh.md#osa-20260917)
+- **墨西哥**（3）：[蒙特雷](./EVENTS.zh.md#mty-20260910) · [普埃布拉](./EVENTS.zh.md#pue-20260924) · [比亚埃尔莫萨](./EVENTS.zh.md#vhs-20260903)
+- **荷兰**（3）：[奈梅亨](./EVENTS.zh.md#nij-20260902) · [乌得勒支](./EVENTS.zh.md#utr-20261029) · [阿姆斯特丹](./EVENTS.zh.md#ams-20260922)
+- **巴西**（2）：[累西腓](./EVENTS.zh.md#rec-20260923) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111)
+- **危地马拉**（2）：[克萨尔特南戈](./EVENTS.zh.md#xela-20260920) · [危地马拉城](./EVENTS.zh.md#gua-20261003)
+- **秘鲁**（2）：[阿雷基帕](./EVENTS.zh.md#aqp-20260911) · [利马](./EVENTS.zh.md#lim-20260911)
+- **菲律宾**（2）：[马尼拉](./EVENTS.zh.md#mnl-20260904) · [宿务](./EVENTS.zh.md#ceb-20260919)
+- **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20260917)
+- **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
+- **喀麦隆**（1）：[雅温得](./EVENTS.zh.md#yde-20260910)
+- **丹麦**（1）：[哥本哈根](./EVENTS.zh.md#cph-20260909)
+- **英国**（1）：[伦敦](./EVENTS.zh.md#ldn-20260916)
+- **以色列**（1）：[特拉维夫](./EVENTS.zh.md#tlv-20260908)
+- **印度**（1）：[巴罗达](./EVENTS.zh.md#vad-20260905)
+- **肯尼亚**（1）：[内罗毕](./EVENTS.zh.md#nbo-20260917)
+- **缅甸**（1）：[仰光](./EVENTS.zh.md#ygn-20260926)
+- **马来西亚**（1）：[吉隆坡](./EVENTS.zh.md#kul-20260919)
+- **新加坡**（1）：[新加坡](./EVENTS.zh.md#sg-20260904)
+- **萨尔瓦多**（1）：[圣萨尔瓦多](./EVENTS.zh.md#sal-20260919)
+- **多哥**（1）：[洛美](./EVENTS.zh.md#lfw-20260912)
+- **线上**（1）：[产品实践课](./EVENTS.zh.md#pbp-20260902)
 
 ## 目录
 

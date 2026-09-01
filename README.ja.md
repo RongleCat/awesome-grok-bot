@@ -37,80 +37,32 @@
 
 [イベントの詳細](./EVENTS.ja.md)
 
-- [Grok Bot Macau Student Workshop](https://luma.com/cursor-macau-creativity-workshop-2026-sep) — 2026-09-05（土）14:30-17:30（GMT+8）. 無料の学生ワークショップ。
-- [Grok Bot Meetup Las Vegas](https://luma.com/cursor-kaua) — 2026-09-15（月）18:00-20:00（PDT）. 交流、トーク / Workshop、Cursor チームのビデオ Q&A。
-- [Grok Bot build night for women（SF）](https://luma.com/a16zgrokbotbuildnight) — 2026-09-03（水）17:00–21:00（PDT）. 女性向けの気軽な SF ビルドナイト。
-- [Grok Bot Meetup Tel Aviv](https://luma.com/cursor-qdl0) — 2026-09-08（月）18:00–20:00（IDT）. テルアビブ初の Grok Bot ミートアップ。
-- [Grok Meetup Monterrey](https://luma.com/cursor-wgsj) — 2026-09-10（水）18:00–21:00（Monterrey）. Cursor コミュニティの集まり。
-- [Grok Bot Meetup Manila](https://luma.com/grok-bot-manila-01) — 2026-09-04（金）17:00–21:00（PHT）. Cursor Manila の対面 Grok Bot ナイト。
-- [Grok Bot Meetup Chengdu](https://luma.com/pdj34ofn) — 2026-09-05（土）14:30–17:30（GMT+8）. 中国 2 回目の Grok Bot オフライン。
-- [Grok Bot Meetup Bariloche](https://luma.com/cursor-38kv) — 2026-09-10（木）19:00–21:30（ART）. バリローチェの対面 Grok Bot。
-- [Grok Bot Arequipa Build Night](https://luma.com/vcow8a4c) — 2026-09-11（金）19:00–23:00（PET）. アレキパの Grok Bot ビルドナイト。
-- [Grok Bot Lima Build Night](https://luma.com/ybo7udvo) — 2026-09-11（金）19:00–23:00（PET）. リマの Grok Bot ビルドナイト。
-- [Grok Bot Meetup Lomé](https://luma.com/cursor-ec8v) — 2026-09-12（土）09:00–13:00（GMT）. ロメの対面 Grok Bot。
-- [Grok Bot Manta Workshop](https://luma.com/cursor-manta) — 2026-09-12（土）08:30–12:30（ECT）. Grok Bot で新しいエージェント開発スタックを扱うワークショップ。
-- [Grok Bot Meetup Buenos Aires](https://luma.com/8l9u6sns) — 2026-09-16（水）18:00–20:00（ART）. ブエノスアイレスの対面 Grok Bot。
-- [Grok Bot Meetup Nairobi](https://luma.com/cursor-0yk6) — 2026-09-17（木）15:30–18:00（EAT）. ナイロビのハンズオン Grok Bot。
-- [Grok Bot Meetup Kuala Lumpur](https://luma.com/grok-bot) — 2026-09-19（土）18:00–20:00（MYT）. クアラルンプールの対面 Grok Bot。
-- [Grok Bot Meetup Quito](https://luma.com/grokbotquitomeetup) — 2026-09-24（木）19:30–21:30（ECT）. キトの対面 Grok Bot。
-- [Grok Bot Meetup Calgary](https://luma.com/cursor-coel) — 2026-09-30（水）17:30–20:30（MDT）. カルガリーの対面 Grok Bot。
-- [Grok Bot Meetup 札幌 #2](https://luma.com/91kju0je) — 2026-10-02（金）19:00–22:00（JST）. 札幌 2 回目の Grok Bot ミートアップ。
-- [Grok Bot Meetup Cumbayá](https://luma.com/cccumbaya) — 2026-10-03（土）09:30–12:00（ECT）. キト近郊 Cumbayá の対面 Grok Bot。
-- [Grok @bot builder demos（SF）](https://luma.com/p4rvaf0y) — 2026-09-01（火）18:00–20:00（PDT）. サンフランシスコの Grok Bot ビルダーデモ。
-- [Build with Grok Bot: Nijmegen](https://luma.com/fw7ovtge) — 2026-09-02（水）16:00–21:00（CEST）. ナイメーヘンで午後いちから Grok Bot で作る会。
-- [Grok Bot Meetup Vadodara](https://luma.com/grokbot-vad-1) — 2026-09-05（土）10:00–13:00（IST）. ヴァドーダラーの対面 Grok Bot。
-- [Grok Bot Meetup 東京](https://luma.com/grokbottokyo) — 2026-09-09（水）19:00–21:30（JST）. 東京の対面 Grok Bot。
-- [Grok Bot Meetup 大阪](https://luma.com/grokbotosaka) — 2026-09-17（木）19:00–21:30（JST）. 大阪の対面 Grok Bot。
-- [Grok Bot Meetup Cebu](https://luma.com/cursor-dyb8) — 2026-09-19（土）09:00–11:30（PHT）. セブの対面 Grok Bot。
-- [Grok Bot Meetup Victoria BC](https://luma.com/grokbot) — 2026-09-21（月）18:00–21:00（PDT）. ビクトリアの Grok Bot ビルドナイト。
-- [Grok Bot Meetup Mendoza](https://luma.com/cursor-mtu0) — 2026-10-03（土）17:00–20:00（ART）. メンドーサの対面 Grok Bot。
-- [Grok Bot Meetup Copenhagen](https://luma.com/cursor-t9m9) — 2026-09-09（水）17:00–20:00（CEST）. コペンハーゲン初の Grok Bot ミートアップ。
-- [Grok Bot Meetup Yaoundé](https://luma.com/cursor-90pj) — 2026-09-10（木）11:30–15:00（WAT）. ヤウンデの対面 Grok Bot。
-- [Grok Bot Meetup Sudbury #1](https://luma.com/cursor-nmzu) — 2026-09-17（木）18:00–20:00（EDT）. サドベリー初の Grok Bot。
-- [Grok Bot Meetup Tirana](https://luma.com/cursor-ibxj) — 2026-09-17（木）18:30–20:00（CEST）. ティラナの 9 月 Grok Bot / Cursor ミートアップ。
-- [Grok Bot Meetup Puebla](https://luma.com/puebla-d4iw) — 2026-09-24（木）18:00–22:00（CST）. プエブラ初の Grok Bot ミートアップ。
-- [Grok Bot Yangon Workshop @ ACY](https://luma.com/cursor-qu3x) — 2026-09-26（土）13:30–17:00（MMT）. ヤンゴン American Center での Grok Bot ハンズオン。
-- [Grok Bot Meetup Sydney](https://luma.com/cursor-d70v) — 2026-10-07（水）17:30–21:00（AEDT）. 8 月開催の次、公式 Cursor Sydney の Grok Bot ナイト。
-- [Grok Bot Meetup Utrecht](https://luma.com/cfk3aokj) — 2026-10-29（木）19:00–21:30（CET）. ユトレヒト 2 回目の Grok Bot コミュニティ集会。
-- [Grok Bot Student Build Night (NYC)](https://luma.com/nc8i3yo7) — 2026-09-03（木）18:00–20:00（EDT）. SpaceXAI NYC の学生ビルドナイト。
-- [Grok Bot Student Build Night (SF)](https://luma.com/xyd87jsr) — 2026-09-03（木）18:00–20:00（PDT）. SpaceXAI SF の学生ビルドナイト。
-- [Grok Bot Meetup Villahermosa](https://luma.com/cursor-9mh5) — 2026-09-03（木）19:00–21:30（CST）. Villahermosa の対面ミートアップ。
-- [Grok Bot Meetup Guatemala (Xela)](https://luma.com/cursor-kfex) — 2026-09-20（日）09:00–15:00（CST）. ケツァルテナンゴ終日。
-- [Cursor + Grok Bot Workshop Recife](https://luma.com/cursor-obsw) — 2026-09-23（水）14:00–17:30（BRT）. レシフェのハンズオン。
-- [Grok Bot Curitiba Startups Meetup](https://luma.com/cursor-dx23) — 2026-11-11（水）18:30–21:00（BRT）. クリチバのスタートアップ向け。
-- [Grok Bot Meetup Singapore](https://luma.com/grokbotsg) — 2026-09-04（金）18:00–21:00（SGT）. シンガポール初の Grok Bot オフライン。
-- [Grok Bot Student Build Night（Penn / フィラデルフィア）](https://luma.com/vkh1pg34) — 2026-09-03（木）18:30–21:30（EDT）. Penn Labs・PER・Product Space 共催の学生ビルドナイト。
-- [Grok Bot Build Night（UIUC / シャンペーン）](https://luma.com/wmznb83e) — 2026-09-03（木）17:30–19:00（CDT）. UIUC の Siebel Center でクラウドパソコン仲間の Grok Bot を 1 時間使い、ライブデモ。
-- [Grok Bot Build Night（Iowa State / エイムズ）](https://luma.com/00x0vh1t) — 2026-09-03（木）17:00–19:30（CDT）. SpaceXAI × Iowa State の GrokBot ビルドナイト。
-- [Grok Bot Build Night（Pitt / ピッツバーグ）](https://luma.com/nbzn8j2m) — 2026-09-03（木）18:00–20:00（EDT）. SpaceXAI × Pitt AWS Cloud Club の Grok Bot ビルドナイト（Sennott Square）。
-- [Grok Bot Build Night（NC State）](https://luma.com/9ck911r9) — 2026-09-03（木）18:00–20:00（EDT）. SpaceXAI × NC State の学生ナイト。
-- [Grok Bot Build Night（Rose-Hulman / テレホート）](https://luma.com/s76hornw) — 2026-09-03（木）18:30–20:30（EDT）. Rose-Hulman × SpaceXAI の Cursor & Grok Bot ナイト。
-- [Grok Bot Student Build Night（ロチェスター大学）](https://luma.com/myqb4rsj) — 2026-09-03（木）18:30–21:00（EDT）. ロチェスター大学の学生 Grok Bot ナイト（全国 9/3 波）。
-- [Grok Bot Meetup サンサルバドル](https://luma.com/bot) — 2026-09-19（土）15:00–19:00（El Salvador）. Ai Labs 主催のサンサルバドル Grok Bot ミートアップ。
-- [Grok Bot: Product Best Practices](https://luma.com/5w6kru6i) — 2026-09-02（水）10:00–11:00（PDT）. SpaceXAI の PM Kevin Niparko と Roshan Sadanani が always-on の Grok Bot チーム（アテンションリスト、顧客インサイト、専門エージェント、人のレビュー境界）を解説。
-- [Grok Bot Meetup グアテマラシティ](https://luma.com/cursor-is2h) — 2026-10-03（土）10:00–14:00（CST）. Open2 主催のグアテマラシティ Grok Bot ミートアップ。
-- [Grok Bot Build Night（Chaffey College）](https://luma.com/3ubz4eav) — 2026-09-03（木）16:00–18:00（PDT）. Chaffey College（Rancho Library Room 333）。
-- [Grok Bot Build Night（RIT / ロチェスター）](https://luma.com/4veyk6o4) — 2026-09-03（木）18:30–19:30（EDT）. ロチェスター RIT AI Club × SpaceXAI。
-- [Grok Bot Build Night（Cal Poly）](https://luma.com/821u6j1t) — 2026-09-03（木）18:00–20:00（PDT）. Cal Poly CIE Hatchery × SpaceXAI。
-- [Grok Bot Student Build Night（UCSB）](https://luma.com/89plh2i2) — 2026-09-03（木）18:00–20:00（PDT）. UCSB 学生向け。
-- [Grok Bot Build Night（Delaware）](https://luma.com/8u9fzdtb) — 2026-09-03（木）18:00–21:00（EDT）. デラウェア大学のハンズオン。
-- [Grok Bot Build Night（UC Davis）](https://luma.com/bqjdbblj) — 2026-09-03（木）18:00–19:00（PDT）. UC Davis × SpaceXAI。
-- [Grok Bot Build Night（UMich / アナーバー）](https://luma.com/ephlo70e) — 2026-09-03（木）18:00–20:00（EDT）. ミシガン大の Grok Bot Build Night。
-- [Grok Bot Build Night（UF × SASE / ゲインズビル）](https://luma.com/evqjr7os) — 2026-09-03（木）18:30–20:30（EDT）. ゲインズビル UF × SASE の Grok Bot ビルドナイト。
-- [Grok Bot Build Night（Texas A&M / tidalTAMU）](https://luma.com/fx9cjrpu) — 2026-09-03（木）17:30–20:30（CDT）. Texas A&M tidalTAMU（BLOC 150）。
-- [Grok Bot Build Night（TX Luminescence）](https://luma.com/pt7tj0rn) — 2026-09-03（木）18:00–20:00（CDT）. TX Luminescence × SpaceXAI。
-- [Grok Bot Build Night（Johns Hopkins / HopAI）](https://luma.com/sgeks0ku) — 2026-09-03（木）18:15–20:00（EDT）. Johns Hopkins HopAI × SpaceXAI の Grok Bot ビルドナイト。
-- [Grok Bot Build Night（Princeton / HackPrinceton）](https://luma.com/7eho2mpc) — 2026-09-03（木）21:15–22:15（EDT）. SpaceXAI × HackPrinceton。
-- [Grok Bot Meetup Salta](https://luma.com/cursor-sh4i) — 2026-09-16（水）18:00–20:00（ART）. サルタ初の Grok Bot。
-- [Grok Bot Meetup Toronto](https://luma.com/grok-bot-toronto) — 2026-09-17（木）17:30–20:30（EDT）. トロント初の対面 Grok Bot（Cursor Community）。
-- [Grok Bot Build Night（CMU / ピッツバーグ）](https://luma.com/9fjimdxk) — 2026-09-03（木）16:00–18:00（EDT）. CMU の Grok Bot ナイト。
-- [Grok Bot Build Night（Purdue / Boiler Blockchain）](https://luma.com/a3uciep0) — 2026-09-03（木）18:00–19:00（EDT）. Purdue Boiler Blockchain × SpaceXAI。
-- [Grok Bot Build Night（McNeese / Lake Charles）](https://luma.com/zcyllw4p) — 2026-09-03（木）17:30–19:30（CDT、17:15 受付）. McNeese × SpaceXAI Edu。
-- [Grok Bot Build Night（Harvard）](https://luma.com/oddeynku) — 2026-09-03（木）20:00–22:00（EDT）. Harvard × SpaceXAI。
-- [Grok Bot Build Night（UCR / Riverside）](https://luma.com/swqijv16) — 2026-09-03（木）18:00–20:00（PDT）. UCR の Grok Bot Build Night。
-- [Grok Bot Meetup London](https://luma.com/grok-bot-london) — 2026-09-16（水）18:00–21:00（BST）. ロンドン初の Grok Bot。
-- [Grok Bot Meetup Amsterdam](https://luma.com/grok-bot-amsterdam) — 2026-09-22（火）18:00–21:00（CEST）. アムステルダム初の Grok Bot。
-- [Grok Bot After Dark（SF）](https://luma.com/spacexai-7alp) — 2026-09-02（水）18:00–22:00（PDT）. SpaceXAI After Dark。
+- **中国**（2）：[マカオ](./EVENTS.ja.md#mo-20260905) · [成都](./EVENTS.ja.md#cd-20260905)
+- **アメリカ**（30）：[ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ（女性）](./EVENTS.ja.md#sf-20260903) · [サンフランシスコ（デモ）](./EVENTS.ja.md#sfb-20260901) · [ニューヨーク（学生）](./EVENTS.ja.md#nyc-20260903) · [サンフランシスコ（学生）](./EVENTS.ja.md#sfs-20260903) · [ペンシルベニア大](./EVENTS.ja.md#phl-20260903) · [UIUC](./EVENTS.ja.md#uiuc-20260903) · [アイオワ州立](./EVENTS.ja.md#isu-20260903) · [ピッツバーグ大](./EVENTS.ja.md#pitt-20260903) · [NC State](./EVENTS.ja.md#ncsu-20260903) · [Rose-Hulman](./EVENTS.ja.md#rose-20260903) · [ロチェスター大](./EVENTS.ja.md#roc-20260903) · [Chaffey College](./EVENTS.ja.md#chf-20260903) · [RIT](./EVENTS.ja.md#rit-20260903) · [Cal Poly](./EVENTS.ja.md#slo-20260903) · [UCSB](./EVENTS.ja.md#sba-20260903) · [デラウェア大](./EVENTS.ja.md#udel-20260903) · [UC Davis](./EVENTS.ja.md#davis-20260903) · [ミシガン大](./EVENTS.ja.md#a2-20260903) · [フロリダ大](./EVENTS.ja.md#uf-20260903) · [テキサスA&M](./EVENTS.ja.md#tamu-20260903) · [TX Luminescence](./EVENTS.ja.md#txl-20260903) · [ジョンズホプキンス](./EVENTS.ja.md#jhu-20260903) · [プリンストン](./EVENTS.ja.md#prin-20260903) · [CMU](./EVENTS.ja.md#cmu-20260903) · [パデュー](./EVENTS.ja.md#laf-20260903) · [McNeese](./EVENTS.ja.md#mcn-20260903) · [ハーバード](./EVENTS.ja.md#hvd-20260903) · [UCR](./EVENTS.ja.md#ucr-20260903) · [サンフランシスコ After Dark](./EVENTS.ja.md#sfd-20260902)
+- **アルゼンチン**（4）：[バリローチェ](./EVENTS.ja.md#brc-20260910) · [ブエノスアイレス](./EVENTS.ja.md#bue-20260916) · [メンドサ](./EVENTS.ja.md#mdz-20261003) · [サルタ](./EVENTS.ja.md#sla-20260916)
+- **カナダ**（4）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [ビクトリア（BC）](./EVENTS.ja.md#vic-20260921) · [サドベリー](./EVENTS.ja.md#sud-20260917) · [トロント](./EVENTS.ja.md#yyz-20260917)
+- **エクアドル**（3）：[マンタ](./EVENTS.ja.md#mec-20260912) · [キト](./EVENTS.ja.md#uio-20260924) · [クンバヤ](./EVENTS.ja.md#cumb-20261003)
+- **日本**（3）：[札幌](./EVENTS.ja.md#spk-20261002) · [東京](./EVENTS.ja.md#tyo-20260909) · [大阪](./EVENTS.ja.md#osa-20260917)
+- **メキシコ**（3）：[モンテレイ](./EVENTS.ja.md#mty-20260910) · [プエブラ](./EVENTS.ja.md#pue-20260924) · [ビヤエルモサ](./EVENTS.ja.md#vhs-20260903)
+- **オランダ**（3）：[ナイメーヘン](./EVENTS.ja.md#nij-20260902) · [ユトレヒト](./EVENTS.ja.md#utr-20261029) · [アムステルダム](./EVENTS.ja.md#ams-20260922)
+- **ブラジル**（2）：[レシフェ](./EVENTS.ja.md#rec-20260923) · [クリチバ](./EVENTS.ja.md#cwb-20261111)
+- **グアテマラ**（2）：[ケツァルテナンゴ](./EVENTS.ja.md#xela-20260920) · [グアテマラシティ](./EVENTS.ja.md#gua-20261003)
+- **ペルー**（2）：[アレキパ](./EVENTS.ja.md#aqp-20260911) · [リマ](./EVENTS.ja.md#lim-20260911)
+- **フィリピン**（2）：[マニラ](./EVENTS.ja.md#mnl-20260904) · [セブ](./EVENTS.ja.md#ceb-20260919)
+- **アルバニア**（1）：[ティラナ](./EVENTS.ja.md#tia-20260917)
+- **オーストラリア**（1）：[シドニー](./EVENTS.ja.md#syd-20261007)
+- **カメルーン**（1）：[ヤウンデ](./EVENTS.ja.md#yde-20260910)
+- **デンマーク**（1）：[コペンハーゲン](./EVENTS.ja.md#cph-20260909)
+- **イギリス**（1）：[ロンドン](./EVENTS.ja.md#ldn-20260916)
+- **イスラエル**（1）：[テルアビブ](./EVENTS.ja.md#tlv-20260908)
+- **インド**（1）：[ヴァドーダラー](./EVENTS.ja.md#vad-20260905)
+- **ケニア**（1）：[ナイロビ](./EVENTS.ja.md#nbo-20260917)
+- **ミャンマー**（1）：[ヤンゴン](./EVENTS.ja.md#ygn-20260926)
+- **マレーシア**（1）：[クアラルンプール](./EVENTS.ja.md#kul-20260919)
+- **シンガポール**（1）：[シンガポール](./EVENTS.ja.md#sg-20260904)
+- **エルサルバドル**（1）：[サンサルバドル](./EVENTS.ja.md#sal-20260919)
+- **トーゴ**（1）：[ロメ](./EVENTS.ja.md#lfw-20260912)
+- **オンライン**（1）：[プロダクト実践](./EVENTS.ja.md#pbp-20260902)
 
 ## 目次
 

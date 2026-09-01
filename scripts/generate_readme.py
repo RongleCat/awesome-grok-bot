@@ -44,7 +44,7 @@ CHROME = {
         "unofficial": "Unofficial community list, not affiliated with xAI or Cursor.",
         "events": "Upcoming",
         "events_more": "Full meetup notes",
-        "events_page_lead": "Posters, venues, and how to register. One-line list stays on the [README](README.md).",
+        "events_page_lead": "Posters, venues, and how to register. The README groups cities by country; tap a name to jump here.",
         "events_back": "Back to the list",
         "toc": "Contents",
         "contrib": "Contributing",
@@ -74,7 +74,7 @@ CHROME = {
         "unofficial": "非官方社区清单，与 xAI / Cursor 无隶属关系。",
         "events": "活动",
         "events_more": "全部活动介绍",
-        "events_page_lead": "海报、场地和报名方式。首页只留一句话，完整介绍在这一页。[回 README](README.zh.md)。",
+        "events_page_lead": "海报、场地和报名方式。首页按国家列出城市，点名称跳到这一页的对应场次。[回 README](README.zh.md)。",
         "events_back": "回清单",
         "toc": "目录",
         "contrib": "贡献",
@@ -103,7 +103,7 @@ CHROME = {
         "unofficial": "非公式のコミュニティリストであり、xAI や Cursor とは無関係です。",
         "events": "イベント",
         "events_more": "イベントの詳細",
-        "events_page_lead": "ポスター、会場、申し込み。一覧の一文は [README](README.ja.md) に残しています。",
+        "events_page_lead": "ポスター、会場、申し込み。README は国ごとに都市を並べ、名前を押すとこのページの該当イベントへ飛びます。",
         "events_back": "一覧に戻る",
         "toc": "目次",
         "contrib": "貢献",
@@ -174,6 +174,152 @@ def events_switcher(lang: str) -> str:
     return " · ".join(parts)
 
 
+COUNTRY_LABEL = {
+    "cn": {"en": "China", "zh": "中国", "ja": "中国"},
+    "us": {"en": "United States", "zh": "美国", "ja": "アメリカ"},
+    "jp": {"en": "Japan", "zh": "日本", "ja": "日本"},
+    "ca": {"en": "Canada", "zh": "加拿大", "ja": "カナダ"},
+    "mx": {"en": "Mexico", "zh": "墨西哥", "ja": "メキシコ"},
+    "ar": {"en": "Argentina", "zh": "阿根廷", "ja": "アルゼンチン"},
+    "ec": {"en": "Ecuador", "zh": "厄瓜多尔", "ja": "エクアドル"},
+    "pe": {"en": "Peru", "zh": "秘鲁", "ja": "ペルー"},
+    "br": {"en": "Brazil", "zh": "巴西", "ja": "ブラジル"},
+    "gt": {"en": "Guatemala", "zh": "危地马拉", "ja": "グアテマラ"},
+    "sv": {"en": "El Salvador", "zh": "萨尔瓦多", "ja": "エルサルバドル"},
+    "ph": {"en": "Philippines", "zh": "菲律宾", "ja": "フィリピン"},
+    "my": {"en": "Malaysia", "zh": "马来西亚", "ja": "マレーシア"},
+    "sg": {"en": "Singapore", "zh": "新加坡", "ja": "シンガポール"},
+    "in": {"en": "India", "zh": "印度", "ja": "インド"},
+    "mm": {"en": "Myanmar", "zh": "缅甸", "ja": "ミャンマー"},
+    "il": {"en": "Israel", "zh": "以色列", "ja": "イスラエル"},
+    "ke": {"en": "Kenya", "zh": "肯尼亚", "ja": "ケニア"},
+    "cm": {"en": "Cameroon", "zh": "喀麦隆", "ja": "カメルーン"},
+    "tg": {"en": "Togo", "zh": "多哥", "ja": "トーゴ"},
+    "nl": {"en": "Netherlands", "zh": "荷兰", "ja": "オランダ"},
+    "dk": {"en": "Denmark", "zh": "丹麦", "ja": "デンマーク"},
+    "al": {"en": "Albania", "zh": "阿尔巴尼亚", "ja": "アルバニア"},
+    "gb": {"en": "United Kingdom", "zh": "英国", "ja": "イギリス"},
+    "au": {"en": "Australia", "zh": "澳大利亚", "ja": "オーストラリア"},
+    "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
+    "other": {"en": "Other", "zh": "其他", "ja": "その他"},
+}
+
+# Hong Kong, Macau, and Taiwan are listed under China.
+# (country, place_en, place_zh, place_ja)
+EVENT_GEO = {
+    "sz-20260830": ("cn", "Shenzhen", "深圳", "深圳"),
+    "mo-20260905": ("cn", "Macao", "澳门", "マカオ"),
+    "cd-20260905": ("cn", "Chengdu", "成都", "成都"),
+    "lv-20260915": ("us", "Las Vegas", "拉斯维加斯", "ラスベガス"),
+    "sf-20260903": ("us", "San Francisco (women)", "旧金山（女性场）", "サンフランシスコ（女性）"),
+    "sfb-20260901": ("us", "San Francisco (demo)", "旧金山（演示）", "サンフランシスコ（デモ）"),
+    "sfs-20260903": ("us", "San Francisco (students)", "旧金山（学生）", "サンフランシスコ（学生）"),
+    "sfd-20260902": ("us", "San Francisco After Dark", "旧金山 After Dark", "サンフランシスコ After Dark"),
+    "nyc-20260903": ("us", "New York (students)", "纽约（学生）", "ニューヨーク（学生）"),
+    "phl-20260903": ("us", "Penn / Philadelphia", "费城宾大", "ペンシルベニア大"),
+    "uiuc-20260903": ("us", "UIUC", "香槟 UIUC", "UIUC"),
+    "isu-20260903": ("us", "Iowa State / Ames", "爱荷华州立", "アイオワ州立"),
+    "pitt-20260903": ("us", "Pitt", "匹兹堡大学", "ピッツバーグ大"),
+    "cmu-20260903": ("us", "CMU / Pittsburgh", "卡内基梅隆", "CMU"),
+    "ncsu-20260903": ("us", "NC State", "北卡州立", "NC State"),
+    "rose-20260903": ("us", "Rose-Hulman", "Rose-Hulman", "Rose-Hulman"),
+    "roc-20260903": ("us", "URochester", "罗切斯特大学", "ロチェスター大"),
+    "rit-20260903": ("us", "RIT / Rochester", "RIT 罗切斯特", "RIT"),
+    "chf-20260903": ("us", "Chaffey College", "Chaffey College", "Chaffey College"),
+    "slo-20260903": ("us", "Cal Poly", "Cal Poly", "Cal Poly"),
+    "sba-20260903": ("us", "UC Santa Barbara", "UCSB", "UCSB"),
+    "udel-20260903": ("us", "Delaware", "特拉华大学", "デラウェア大"),
+    "davis-20260903": ("us", "UC Davis", "UC Davis", "UC Davis"),
+    "a2-20260903": ("us", "Michigan / Ann Arbor", "密歇根大学", "ミシガン大"),
+    "uf-20260903": ("us", "Florida / Gainesville", "佛罗里达大学", "フロリダ大"),
+    "tamu-20260903": ("us", "Texas A&M", "德州农工", "テキサスA&M"),
+    "txl-20260903": ("us", "TX Luminescence", "德州 TX Luminescence", "TX Luminescence"),
+    "jhu-20260903": ("us", "Johns Hopkins", "约翰霍普金斯", "ジョンズホプキンス"),
+    "prin-20260903": ("us", "Princeton", "普林斯顿", "プリンストン"),
+    "laf-20260903": ("us", "Purdue", "普渡", "パデュー"),
+    "mcn-20260903": ("us", "McNeese / Lake Charles", "McNeese", "McNeese"),
+    "hvd-20260903": ("us", "Harvard", "哈佛", "ハーバード"),
+    "ucr-20260903": ("us", "UC Riverside", "UCR 河滨", "UCR"),
+    "tlv-20260908": ("il", "Tel Aviv", "特拉维夫", "テルアビブ"),
+    "mty-20260910": ("mx", "Monterrey", "蒙特雷", "モンテレイ"),
+    "pue-20260924": ("mx", "Puebla", "普埃布拉", "プエブラ"),
+    "vhs-20260903": ("mx", "Villahermosa", "比亚埃尔莫萨", "ビヤエルモサ"),
+    "mnl-20260904": ("ph", "Manila", "马尼拉", "マニラ"),
+    "ceb-20260919": ("ph", "Cebu", "宿务", "セブ"),
+    "brc-20260910": ("ar", "Bariloche", "巴里洛切", "バリローチェ"),
+    "bue-20260916": ("ar", "Buenos Aires", "布宜诺斯艾利斯", "ブエノスアイレス"),
+    "mdz-20261003": ("ar", "Mendoza", "门多萨", "メンドサ"),
+    "sla-20260916": ("ar", "Salta", "萨尔塔", "サルタ"),
+    "aqp-20260911": ("pe", "Arequipa", "阿雷基帕", "アレキパ"),
+    "lim-20260911": ("pe", "Lima", "利马", "リマ"),
+    "lfw-20260912": ("tg", "Lomé", "洛美", "ロメ"),
+    "mec-20260912": ("ec", "Manta", "曼塔", "マンタ"),
+    "uio-20260924": ("ec", "Quito", "基多", "キト"),
+    "cumb-20261003": ("ec", "Cumbayá", "昆巴亚", "クンバヤ"),
+    "nbo-20260917": ("ke", "Nairobi", "内罗毕", "ナイロビ"),
+    "kul-20260919": ("my", "Kuala Lumpur", "吉隆坡", "クアラルンプール"),
+    "yyc-20260930": ("ca", "Calgary", "卡尔加里", "カルガリー"),
+    "vic-20260921": ("ca", "Victoria BC", "维多利亚（BC）", "ビクトリア（BC）"),
+    "sud-20260917": ("ca", "Sudbury", "萨德伯里", "サドベリー"),
+    "yyz-20260917": ("ca", "Toronto", "多伦多", "トロント"),
+    "spk-20261002": ("jp", "Sapporo", "札幌", "札幌"),
+    "tyo-20260909": ("jp", "Tokyo", "东京", "東京"),
+    "osa-20260917": ("jp", "Osaka", "大阪", "大阪"),
+    "syd-20260826": ("au", "Sydney", "悉尼", "シドニー"),
+    "syd-20261007": ("au", "Sydney", "悉尼", "シドニー"),
+    "maa-20260829": ("in", "Chennai", "钦奈", "チェンナイ"),
+    "vad-20260905": ("in", "Vadodara", "巴罗达", "ヴァドーダラー"),
+    "nij-20260902": ("nl", "Nijmegen", "奈梅亨", "ナイメーヘン"),
+    "utr-20261029": ("nl", "Utrecht", "乌得勒支", "ユトレヒト"),
+    "ams-20260922": ("nl", "Amsterdam", "阿姆斯特丹", "アムステルダム"),
+    "cph-20260909": ("dk", "Copenhagen", "哥本哈根", "コペンハーゲン"),
+    "yde-20260910": ("cm", "Yaoundé", "雅温得", "ヤウンデ"),
+    "tia-20260917": ("al", "Tirana", "地拉那", "ティラナ"),
+    "ygn-20260926": ("mm", "Yangon", "仰光", "ヤンゴン"),
+    "sg-20260904": ("sg", "Singapore", "新加坡", "シンガポール"),
+    "xela-20260920": ("gt", "Quetzaltenango", "克萨尔特南戈", "ケツァルテナンゴ"),
+    "gua-20261003": ("gt", "Guatemala City", "危地马拉城", "グアテマラシティ"),
+    "rec-20260923": ("br", "Recife", "累西腓", "レシフェ"),
+    "cwb-20261111": ("br", "Curitiba", "库里蒂巴", "クリチバ"),
+    "sal-20260919": ("sv", "San Salvador", "圣萨尔瓦多", "サンサルバドル"),
+    "ldn-20260916": ("gb", "London", "伦敦", "ロンドン"),
+    "gtm-20260826": ("online", "GTM workshop", "GTM 课", "GTM"),
+    "pbp-20260902": ("online", "Product practice", "产品实践课", "プロダクト実践"),
+}
+
+
+def event_geo(ev: dict) -> tuple[str, dict[str, str]]:
+    eid = ev.get("id") or ""
+    if eid in EVENT_GEO:
+        code, en, zh, ja = EVENT_GEO[eid]
+        return code, {"en": en, "zh": zh, "ja": ja}
+    where = " ".join(
+        str((ev.get("where") or {}).get(k, "")) for k in ("en", "zh", "ja")
+    ) + " " + " ".join(str((ev.get("title") or {}).get(k, "")) for k in ("en", "zh", "ja"))
+    # HK / TW / Macau always China.
+    if any(k in where for k in ("香港", "Hong Kong", "台湾", "Taiwan", "澳門", "澳门", "Macau", "Macao")):
+        place = "Macao" if any(k in where for k in ("澳门", "澳門", "Macau", "Macao")) else (
+            "Hong Kong" if any(k in where for k in ("香港", "Hong Kong")) else "Taiwan"
+        )
+        zh_place = {"Macao": "澳门", "Hong Kong": "香港", "Taiwan": "台湾"}[place]
+        ja_place = {"Macao": "マカオ", "Hong Kong": "香港", "Taiwan": "台湾"}[place]
+        return "cn", {"en": place, "zh": zh_place, "ja": ja_place}
+    if any(k in where for k in ("Zoom", "线上", "Online", "オンライン")):
+        return "online", {"en": "Online", "zh": "线上", "ja": "オンライン"}
+    title = (ev.get("title") or {}).get("zh") or (ev.get("title") or {}).get("en") or eid
+    return "other", {"en": title, "zh": title, "ja": title}
+
+
+def grouped_events(events: list[dict]) -> list[tuple[str, list[dict]]]:
+    buckets: dict[str, list[dict]] = {}
+    for ev in events:
+        code, _ = event_geo(ev)
+        buckets.setdefault(code, []).append(ev)
+    codes = list(buckets)
+    codes.sort(key=lambda c: (0 if c == "cn" else 2 if c == "online" else 1, -len(buckets[c]), c))
+    return [(c, buckets[c]) for c in codes]
+
+
 def first_sentence(text: str, lang: str) -> str:
     text = (text or "").strip()
     if not text:
@@ -198,12 +344,13 @@ def render_events_index(lang: str, chrome: dict) -> str:
         f"[{chrome['events_more']}](./{more})",
         "",
     ]
-    for ev in events:
-        title = ev["title"][lang]
-        when = ev["when"][lang]
-        body = first_sentence(ev["body"][lang], lang)
-        url = ev["url"]
-        blocks.append(f"- [{title}]({url}) — {when}. {body}")
+    for code, group in grouped_events(events):
+        country = COUNTRY_LABEL[code][lang]
+        links = []
+        for ev in group:
+            _, place = event_geo(ev)
+            links.append(f"[{place[lang]}](./{more}#{ev['id']})")
+        blocks.append(f"- **{country}**（{len(group)}）：{' · '.join(links)}")
     blocks.append("")
     return "\n".join(blocks)
 
@@ -216,7 +363,9 @@ def render_event_card(ev: dict, lang: str) -> str:
     cta = ev["cta"][lang]
     img = ev.get("image", "")
     url = ev["url"]
+    eid = ev.get("id", "")
     return (
+        f'<a id="{eid}"></a>\n'
         f'<table><tr>'
         f'<td width="320" valign="top">'
         f'<a href="{url}"><img src="{img}" alt="{title}" width="300" /></a>'
@@ -248,9 +397,14 @@ def render_events_page(lang: str) -> str:
     ]
     if not events:
         return "\n".join(lines)
-    for ev in events:
-        lines.append(render_event_card(ev, lang))
+    for code, group in grouped_events(events):
+        country = COUNTRY_LABEL[code][lang]
+        lines.append(f'<a id="country-{code}"></a>')
+        lines.append(f"### {country}")
         lines.append("")
+        for ev in group:
+            lines.append(render_event_card(ev, lang))
+            lines.append("")
     return "\n".join(lines)
 
 def section_anchor(title: str) -> str:
