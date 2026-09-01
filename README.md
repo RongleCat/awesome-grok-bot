@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-296-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-303-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -100,6 +100,14 @@
 - [Grok Bot Build Night (Texas A&M / tidalTAMU)](https://luma.com/fx9cjrpu) — Thu 3 Sep 2026, 17:30–20:30 (CDT). Texas A&M tidalTAMU night in BLOC 150: build with Grok Bot, SpaceXAI’s agent platform for campus builders.
 - [Grok Bot Build Night (TX Luminescence)](https://luma.com/pt7tj0rn) — Thu 3 Sep 2026, 18:00–20:00 (CDT). TX Luminescence × SpaceXAI: join a live Grok Bot demo, then build and share—no prior experience needed.
 - [Grok Bot Build Night (Johns Hopkins / HopAI)](https://luma.com/sgeks0ku) — Thu 3 Sep 2026, 18:15–20:00 (EDT). Johns Hopkins HopAI × SpaceXAI campus build night with Grok Bot—demo then build with student organizers.
+- [Grok Bot Build Night (Princeton / HackPrinceton)](https://luma.com/7eho2mpc) — Thu 3 Sep 2026, 21:15–22:15 (EDT). SpaceXAI × HackPrinceton campus hour: Grok Bot demo (always-on agents with their own computer), then build/network.
+- [Grok Bot Meetup Salta](https://luma.com/cursor-sh4i) — Wed 16 Sep 2026, 18:00–20:00 (ART). First Grok Bot meetup in Salta: intro workshop, real use-cases, Q&A, and cowork on your laptop.
+- [Grok Bot Meetup Toronto](https://luma.com/grok-bot-toronto) — Thu 17 Sep 2026, 17:30–20:30 (EDT). Inaugural in-person Grok Bot meetup in Toronto (Cursor Community).
+- [Grok Bot Build Night (CMU / Pittsburgh)](https://luma.com/9fjimdxk) — Thu 3 Sep 2026, 16:00–18:00 (EDT). SpaceXAI Grok Bot night at CMU: live demo then free-build/network/snack.
+- [Grok Bot Build Night (Purdue / Boiler Blockchain)](https://luma.com/a3uciep0) — Thu 3 Sep 2026, 18:00–19:00 (EDT). Boiler Blockchain × SpaceXAI campus hour: live-streamed Grok Bot demo, then casual build.
+- [Grok Bot Build Night (McNeese / Lake Charles)](https://luma.com/zcyllw4p) — Thu 3 Sep 2026, 17:30–19:30 (CDT) (check-in 17:15). McNeese × SpaceXAI Edu Grok Bot student night: hands-on with Grok Bot + Cursor, not just a talk.
+- [Grok Bot Build Night (Harvard)](https://luma.com/oddeynku) — Thu 3 Sep 2026, 20:00–22:00 (EDT). Harvard × SpaceXAI Grok Bot night: live-streamed demo, then casual build with pizza/boba.
+- [Grok Bot Build Night (UCR / Riverside)](https://luma.com/swqijv16) — Thu 3 Sep 2026, 18:00–20:00 (PDT). UCR Grok Bot Build Night: evening of building and demos with campus makers.
 
 ## Contents
 
@@ -134,7 +142,7 @@
 - [Teams and enterprises](https://docs.x.ai/grok-bot/teams-and-enterprises) - Team marketplace, SSO, shared analytics. Plugins follow existing Cursor policy.
 - [Troubleshooting](https://docs.x.ai/grok-bot/troubleshooting) - Official fix list for reconnect, runners, and common beta failures.
 - [FAQ](https://docs.x.ai/grok-bot/faq) - Short official answers on access, computer sharing, and what Bots can remember.
-- [Link SuperGrok for Grok Bot](https://cursor.com/help/grok-bot/supergrok-heavy) - Cursor help: Grok Bot is now on SuperGrok Plus and Heavy; already on Ultra, linking Plus does not stack usage.
+- [Link SuperGrok for Grok Bot](https://cursor.com/help/grok-bot/supergrok) - Cursor help: Grok Bot is now on SuperGrok Plus and Heavy; already on Ultra, linking Plus does not stack usage.
 - [Grok Bot on mobile (Cursor help)](https://cursor.com/help/grok-bot/mobile) - How the iOS companion talks to Bots that stay on the cloud computer.
 - [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - Prefer a plugin and fall back to the cloud browser when it is missing; Zoom desktop auth currently fails with error 4700 (invalid redirect) and has no workaround.
 - [Store secrets securely](https://cursor.com/help/grok-bot/secrets) - Use the secret card. Never paste API keys into the Bot chat.
@@ -264,6 +272,11 @@
 - [remem-grokbot](https://github.com/asimgilani/remem-grokbot) - Cursor/Grok Bot plugin that exposes ten remem.io memory tools over stdio MCP, with tests and a grokbot namespace policy.
 - [Podcast Summary Bot](https://github.com/noam99moyal-sudo/podcast-summary-bot) - Grok Bot template (x.ai/bot share) plus a skill that turns a YouTube, X, or Spotify episode into five reusable insights.
 - [Buses & Trains MCP](https://github.com/BusesAndTrains/busesandtrains-mcp) - Grok Bot plugin for live UK bus and train times, journey planning, and rail fares via the Buses & Trains API.
+- [Balise for Grok Bot](https://github.com/baliseai/balise-grok-plugin) - Cursor/Grok Bot plugin plus SKILL.md that OAuth-connects to Balise hosted MCP so a Bot can search private Apple Photos visual memory.
+- [GbNet for Cursor](https://github.com/medomatic-ai/gbnet-cursor-plugin) - Cursor/Grok Bot plugin with a collaboration SKILL.md and hosted MCP so two permissioned partners can share plans, tasks, and evidence.
+- [BaseMouse Cursor plugin](https://github.com/basemouse/cursor-plugin) - Cursor/Grok Bot plugin wrapping BaseMouse MCP (search, context packs, upsert) with a SKILL.md for grounded project memory.
+- [deskforge](https://github.com/mturac/deskforge) - Go CLI that inits a git ledger and six paste-ready Grok Bot agent descriptions (Mainer, Pulse, Scout, Judge, Builder, Critic) for a group desk loop.
+- [Unlist](https://github.com/shawnyeager/unlist) - Grok Bot playbook (BOT.md) plus a local CLI and broker list so a Bot can file people-search opt-outs and log follow-ups without committing profile.json.
 
 ## Reviews & Comparisons
 
@@ -322,6 +335,7 @@
 - [Grokbot Permissions Helper](https://github.com/vinxp97/grokbot-permissions-helper) - Tiny signed macOS .app so a desktop Grok Bot can get Calendar, Contacts, and Reminders TCC prompts and dump a parseable snapshot without storing secrets in git.
 - [grok-bridge](https://github.com/shihao918/grok-bridge) - Unofficial Windows daemon that registers on Grok Bot's UserComputer channel and hands cloud-agent tasks to a local LangGraph or AutoGen pipeline.
 - [download-grok-bot](https://github.com/gprot42/grok-bot-tool) - Zero-dependency Python CLI that saves a public x.ai/bot share (profile, packed recipe, skills, routines) to a local folder, reading the macOS Grok Bot session when present.
+- [grokbot-openai](https://github.com/owenisas/grokbot-openai) - Unofficial zero-dependency Python login plus local server that turns a Grok Bot PKCE session into OpenAI /v1/chat/completions for Hermes, OpenCode, or curl.
 
 ## Community & Failure Modes
 
@@ -356,7 +370,7 @@
 - [Bots workspace looks empty after a rebuild](https://forum.cursor.com/t/bots-workspace-missing-all-things-getting-new-user-experience/169448) - Staff: after a rebuild, logging in while the computer is still starting can show first-run UI; bots are not gone. Fully quit and reopen, and don’t create your first bot in that window.
 - [No compact / new session; full transcript is sent each turn](https://forum.cursor.com/t/grok-bot-prune-compact-an-agent-s-context-without-creating-a-new-bot/168333) - Staff: desktop and iOS have no explicit Compact or same-bot new session. Auto-summary is not compact; the full transcript is sent, and there is no model picker.
 - [Overbooked then Bot failed to respond is model load](https://forum.cursor.com/t/grok-bot-is-broke/169537) - Staff: “overbooked” then “Bot failed to respond” is service-side Grok model load, not your account, usage, or computer; wait for a quieter window or reset again.
-- [Black screen after setup: hosted computer never finished starting](https://forum.cursor.com/t/grok-bot-gets-stuck-on-black-screen-after-setting-up-grok-bots-computer/169593) - Staff: after “Setting up Grok Bot’s computer” the window goes black because the hosted computer never finished starting; reinstall and network changes will not help, wait for a staff rebuild.
+- [Black screen after setup: hosted computer never finished starting](https://forum.cursor.com/t/grok-bot-gets-stuck-on-black-screen-after-setting-up-grok-bots-computer/169593) - Staff: black screen after “Setting up Grok Bot’s computer” means the hosted computer never finished starting; reinstall will not help, and if the same account still works on iOS do not Reset (that drops bots)—wait for a staff rebuild.
 - [0.27.0 Windows: local host stays disconnected after clean registration](https://forum.cursor.com/t/grok-bot-0-27-0-windows-local-host-permanently-isn-t-connected-after-clean-registration-new-identity-server-side/169594) - Staff: on 0.27.0 Windows the agent can say the local machine isn’t connected even after a clean daemon registration; fully quit every Grok process and launch once, and if it still fails it is service-side.
 - [Webhook URL and sender key are desktop-only, not on iOS](https://forum.cursor.com/t/webhook-url-missing-on-ios/169589) - Staff: a webhook routine’s POST URL and sender key only appear on the Grok Bot desktop app, not iOS; open the trigger card there (keep the desktop app updated).
 - [Official X plugin auth is broken on desktop, Cloud, and Grok Bot](https://forum.cursor.com/t/official-x-plugin-auth-is-broken-on-cursor-cloud-grok-bot-and-desktop-refresh/169592) - Staff: official X plugin connect/refresh is failing across desktop, Cloud Agents, and Grok Bot (including “connected but tools=0”); no clean workaround while they fix X-side app config.
@@ -432,10 +446,11 @@
 - [Grokdex](https://github.com/andrewkittridge/grokory) - Public ranked board of Grok Bot share links (Hot/Top/New) at grokdex.net; paste an x.ai/bot URL to list, then Add to Grok Bot.
 - [grokbotit](https://github.com/raxmichter/Grok-Bot-It) - Product Hunt-style community for Grok Bots (grokbotit.com) with X login, upvotes, and an MCP to search and install listed bots.
 - [AI社員 Control Plane](https://github.com/pacifico-1106/grokbot-control-plane) - Next.js control plane for Japanese SMEs to treat Grok Bots as named AI employees with ID cards, approval queues, and an audit timeline.
+- [awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot) - Bilingual catalog of 361 live x.ai/bot share links (status-checked 2026-09-01) with JSON schema, CI, and a searchable site at kydlikebtc.github.io/awesome-grokbot.
 
 ## Contributing
 
-296 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+303 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
