@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-269-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-296-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -89,6 +89,17 @@
 - [Grok Bot Meetup San Salvador](https://luma.com/bot) — Sat 19 Sep 2026, 15:00–19:00 (America/El_Salvador). Ai Labs Grok Bot meetup in San Salvador: go beyond one-off tasks with better instructions, context, and end-to-end workflows — builders and operators welcome (~50 going).
 - [Grok Bot: Product Best Practices](https://luma.com/5w6kru6i) — Wed 2 Sep 2026, 10:00–11:00 (PDT). SpaceXAI PMs Kevin Niparko and Roshan Sadanani on always-on Grok Bot teams: attention lists, customer-insight synthesis, specialist agents, and when humans still review.
 - [Grok Bot Meetup Guatemala City](https://luma.com/cursor-is2h) — Sat 3 Oct 2026, 10:00–14:00 (CST). Open2 Grok Bot meetup in Guatemala City: go beyond one-off tasks with better instructions, context, and end-to-end workflows, plus credits to try Grok Bot (~36 going, host approval).
+- [Grok Bot Build Night (Chaffey College)](https://luma.com/3ubz4eav) — Thu 3 Sep 2026, 16:00–18:00 (PDT). Chaffey College Grok Bot build night at Rancho Library Room 333—come build with the always-on cloud-computer teammate.
+- [Grok Bot Build Night (RIT / Rochester)](https://luma.com/4veyk6o4) — Thu 3 Sep 2026, 18:30–19:30 (EDT). RIT AI Club × SpaceXAI build night in Rochester—campus session to try Grok Bot with student organizers.
+- [Grok Bot Build Night (Cal Poly)](https://luma.com/821u6j1t) — Thu 3 Sep 2026, 18:00–20:00 (PDT). CIE Hatchery × SpaceXAI campus night: demo Grok Bot (agents on your tools with their own computer), then free-build and share ideas.
+- [Grok Bot Student Build Night (UCSB)](https://luma.com/89plh2i2) — Thu 3 Sep 2026, 18:00–20:00 (PDT). UCSB student evening: live SpaceXAI Grok Bot demo, then build projects together—any major welcome, no prior Grok Bot experience needed.
+- [Grok Bot Build Night (University of Delaware)](https://luma.com/8u9fzdtb) — Thu 3 Sep 2026, 18:00–21:00 (EDT). Hands-on University of Delaware night to build with Grok Bot and Cursor across AI, product, design, and entrepreneurship.
+- [Grok Bot Build Night (UC Davis)](https://luma.com/bqjdbblj) — Thu 3 Sep 2026, 18:00–19:00 (PDT). UC Davis builders night with SpaceXAI’s Grok Bot agent platform—spin up agents on Gmail and more, then build together.
+- [Grok Bot Build Night (UMich / Ann Arbor)](https://luma.com/ephlo70e) — Thu 3 Sep 2026, 18:00–20:00 (EDT). UMich Grok Bot Build Night: live-streamed demo, then casual build sessions with organizers and fellow builders.
+- [Grok Bot Build Night (UF × SASE / Gainesville)](https://luma.com/evqjr7os) — Thu 3 Sep 2026, 18:30–20:30 (EDT). University of Florida × SASE Grok Bot build night in Gainesville—demo and hands-on with campus builders.
+- [Grok Bot Build Night (Texas A&M / tidalTAMU)](https://luma.com/fx9cjrpu) — Thu 3 Sep 2026, 17:30–20:30 (CDT). Texas A&M tidalTAMU night in BLOC 150: build with Grok Bot, SpaceXAI’s agent platform for campus builders.
+- [Grok Bot Build Night (TX Luminescence)](https://luma.com/pt7tj0rn) — Thu 3 Sep 2026, 18:00–20:00 (CDT). TX Luminescence × SpaceXAI: join a live Grok Bot demo, then build and share—no prior experience needed.
+- [Grok Bot Build Night (Johns Hopkins / HopAI)](https://luma.com/sgeks0ku) — Thu 3 Sep 2026, 18:15–20:00 (EDT). Johns Hopkins HopAI × SpaceXAI campus build night with Grok Bot—demo then build with student organizers.
 
 ## Contents
 
@@ -142,6 +153,7 @@
 - [Delete your Grok Bot account](https://cursor.com/help/grok-bot/delete-account) - Grok Bot has no separate account: iOS has Delete Account, desktop only signs out, and wiping it deletes the Cursor account plus agents, chats, and the computer.
 - [@bot: improved X support](https://x.com/bot/status/2093822274067706170) - Official 2026-08-29: Grok Bot now has improved X support; connecting your X profile auto-creates a developer account with included credits.
 - [Get help (Cursor Help)](https://cursor.com/help/grok-bot/get-help) - Official Cursor help: contact Grok Bot support at hi@cursor.com and include account email, app version/platform (Mac/Windows/iOS), what you tried, and a screenshot (billing issues same inbox).
+- [@bot: Microsoft Outlook, Calendar, and OneDrive plugins](https://x.com/bot/status/2094543253811183943) - Official @bot (2026-08-31) says Grok Bot can now read, write, and act across Microsoft accounts via new Outlook, Calendar, and OneDrive plugins.
 
 ## Tutorials & Guides
 
@@ -168,6 +180,7 @@
 - [s-hiraoku/grok-bot-playbook](https://github.com/s-hiraoku/grok-bot-playbook) - Japanese field handbook (Next.js) for running Grok Bot as named roles: contracts, request templates, Skill/Routine flows, team boundaries, and handoff .md files.
 - [mKay00/grok-bot-second-brain](https://github.com/mKay00/grok-bot-second-brain) - Cloneable five-bot second-brain plan for one shared Grok Bot computer (Conductor/Capture/Memory/Ops/Research + vault-template and PLAN.md questionnaire).
 - [maplefukku/grok-bot-ops](https://github.com/maplefukku/grok-bot-ops) - Japanese command-center repo for running product work through Grok Bot: routine drafts, verification bootstrap, knowhow log, and a Cursor plugin wrapper.
+- [Technocore Grok Bot 日本語ガイド](https://github.com/hariou/technocore-grokbot-ja) - Japanese operating guide plus GROKBOT_PROMPT.md for running a Technocore DID safely on Grok Bot without leaking seeds or spamming the lobby.
 
 ## Field Cases
 
@@ -244,6 +257,13 @@
 - [nessielabs/nessie-grokbot](https://github.com/nessielabs/nessie-grokbot) - Cursor/Grok Bot plugin that attaches Nessie’s hosted MCP (`mcp.nessielabs.com`) so a Bot can search, read, and safely write your Nessie context library (MIT).
 - [GlobalTC/steer](https://github.com/GlobalTC/steer) - Grok Bot share recipe for STEER: mark a draft, Save, get a rewrite; ships profile, memory, two skills, and a webhook routine (Apache-2.0).
 - [AgentMindCloud/grok-bot-super](https://github.com/AgentMindCloud/grok-bot-super) - Community playbook library a Grok Bot can read and save as skills (email triage, research brief, X-thread builder, and more) via official save-as-skill (MIT, 1★).
+- [grok-bot-mcp-connector](https://github.com/chipherndon/grok-bot-mcp-connector) - Cloudflare Worker MCP with send and inbox tools so two dedicated Grok Bots can message each other and wake via webhook routines.
+- [grok-skills](https://github.com/jaskirat1616/grok-skills) - Catalog of 195 SKILL.md playbooks for Grok Bot, browsable at grokbotskills.vercel.app and installable via grok plugin marketplace add.
+- [Firstmate](https://github.com/matteoantoci/firstmate) - Paste-ready Grok Bot prompt that runs a crew and writes decisions into a git repo so memory is not trapped in one chat thread.
+- [GTM agent automations](https://github.com/OpulentiaAI/gtm-agent-automations) - Copy-paste Grok Bot automation prompts for GTM work (outbound, CRM, Stripe, Slack triggers), modeled on dabit3/cloud-agent-automations.
+- [remem-grokbot](https://github.com/asimgilani/remem-grokbot) - Cursor/Grok Bot plugin that exposes ten remem.io memory tools over stdio MCP, with tests and a grokbot namespace policy.
+- [Podcast Summary Bot](https://github.com/noam99moyal-sudo/podcast-summary-bot) - Grok Bot template (x.ai/bot share) plus a skill that turns a YouTube, X, or Spotify episode into five reusable insights.
+- [Buses & Trains MCP](https://github.com/BusesAndTrains/busesandtrains-mcp) - Grok Bot plugin for live UK bus and train times, journey planning, and rail fares via the Buses & Trains API.
 
 ## Reviews & Comparisons
 
@@ -297,6 +317,11 @@
 - [trac3r00/groken](https://github.com/trac3r00/groken) - macOS CLI/MCP/SKILL.md client that drives official Grok Bot cloud computers over the app’s OAuth and gateway (chat, VNC, exec, routines; MIT, 1★).
 - [codeaashu/grokbot-shim](https://github.com/codeaashu/grokbot-shim) - Run the installed Grok Bot desktop locally on Linux with a local Chrome/XFCE computer and Codex or OpenAI-compatible models (ISC, 19★).
 - [pmcclelland/bot-board](https://github.com/pmcclelland/bot-board) - Shared kanban for humans and Grok Bots (Backlog / To Do / Doing / Done) with REST plus one MCP URL; live at botboard.pmcclel.land.
+- [GrokRouter](https://github.com/promptadvisers/grokrouter) - Unofficial reversible router that keeps official Grok Bot 0.30.0 chat, files, and cloud computer while sending a Bot through Codex SDK or OpenRouter.
+- [Filicon](https://github.com/irons163/filicon-bot) - Native macOS SwiftUI port of Grok Bot 0.18 product behavior, with Keychain keys, MCP, remote-computer viewing, and no Electron runtime.
+- [Grokbot Permissions Helper](https://github.com/vinxp97/grokbot-permissions-helper) - Tiny signed macOS .app so a desktop Grok Bot can get Calendar, Contacts, and Reminders TCC prompts and dump a parseable snapshot without storing secrets in git.
+- [grok-bridge](https://github.com/shihao918/grok-bridge) - Unofficial Windows daemon that registers on Grok Bot's UserComputer channel and hands cloud-agent tasks to a local LangGraph or AutoGen pipeline.
+- [download-grok-bot](https://github.com/gprot42/grok-bot-tool) - Zero-dependency Python CLI that saves a public x.ai/bot share (profile, packed recipe, skills, routines) to a local folder, reading the macOS Grok Bot session when present.
 
 ## Community & Failure Modes
 
@@ -366,6 +391,12 @@
 - [Grok Bot draining Cursor credit pool](https://forum.cursor.com/t/grok-bot-draining-cursor-credit-pool/169982) - Staff: after the Grok Bot weekly pool on Pro+ is gone, usage keeps going onto Cursor credits (referral/promo) first, then on-demand if enabled; a $0 on-demand cap stops paid overage but not credit drain, and claude-opus / grok-4.6-high-fast lines are models the Bot picks server-side.
 - [Grok Bot templates: preview shows skills, but the export ships skills: [] — skills are never delivered](https://forum.cursor.com/t/grok-bot-templates-preview-shows-skills-but-the-export-ships-skills-skills-are-never-delivered/169911) - Staff: Bot template preview lists skills, but import does not apply them (export ships skills: []); until that is fixed, copy the skill body from the preview and ask the new Bot to recreate it.
 - [Cloud computer wipes packages after rebuild](https://forum.cursor.com/t/cloud-computer-wipes-packages-after-rebuild/169847) - Staff: Update Computer keeps files and logins but rebuilds the OS image, so apt/apps/daemons are gone; the box also sleeps when idle (background processes die) and can auto-update during idle — keep a package list in a file and ask the Bot to reinstall after an update.
+- [/review-bugbot is missing on cloud agents launched from Grok Bot](https://forum.cursor.com/t/review-bugbot-is-missing-on-cloud-agents-launched-from-grok-bot/170096) - Staff: /review and /review-bugbot do not attach to cloud agents created by Grok Bot (decided at create time); start a new agent from cursor.com/agents on the same PR branch and include /review-bugbot there.
+- [Grok Bot Bug Report (empty roster / black screen after reconnect)](https://forum.cursor.com/t/grok-bot-bug-report/170104) - Staff: empty bot list and black/white loading after reconnect usually means the Agent Computer was slow waking from sleep—nothing deleted; do not Reset; fully quit and relaunch once the box is awake.
+- [Grokbot and GitHub (Connected but Authorization header badly formatted)](https://forum.cursor.com/t/grokbot-and-github/170137) - Staff: GitHub connector shows Connected but fails with “Authorization header is badly formatted”—tracked bug; workaround is press-and-hold the account → Remove, then reconnect and sign in again.
+- [Authorization death by 1000 clicks](https://forum.cursor.com/t/authorization-death-by-1000-clicks/170087) - Staff: “Always allow” for local-computer actions lives only in the desktop app on that machine; iOS can only one-time-approve, and those approvals clear on every new message—set Always Allow under desktop Settings → Execution on Local Computer.
+- [Wrangler/box auth reminder stays stuck after auth already succeeded via another path](https://forum.cursor.com/t/grok-bot-wrangler-box-auth-reminder-stays-stuck-after-auth-already-succeeded-via-another-path/170052) - Staff: the “help on its computer” / Waiting-for-you reminder only clears when you answer that card (“I’m done, continue” or Skip) or send any chat message—it does not auto-dismiss if the Bot finished login another way.
+- [Fastmail Filters & Rules Save is a silent no-op (Chrome on the box)](https://forum.cursor.com/t/grok-bot-fastmail-filters-rules-save-is-a-silent-no-op-chrome-on-the-box/170018) - Staff: Fastmail Settings → Filters & Rules Save on the box Chrome fires zero network requests; workaround is manage filters/Sieve via Fastmail’s API (JMAP) with a token—the mail helper already uses that path successfully.
 
 ## Related Lists
 
@@ -394,10 +425,17 @@
 - [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) - Multi-language awesome list of community Grok Bot templates with official x.ai/bot share links (CC0; directory at grokbot-templates.com).
 - [LinXiaoTao/awesome-grokbot](https://github.com/LinXiaoTao/awesome-grokbot) - Curated EN/ZH list of community Grok Bots with official x.ai/bot share links (site: awsomebot.com).
 - [sefuzhou770801-hub/groki-bot](https://github.com/sefuzhou770801-hub/groki-bot) - M5Stack CoreS3 firmware for a desktop robot that talks to a signed-in Grok Bot via a loopback HTTP proxy over grok-bot-cli (BSL-1.0).
+- [Anomalia](https://github.com/anomaliaso/anomalia) - Open-source Grok Bot alternative that plans, writes, and publishes marketing work with a human approve step, hosted or self-run.
+- [getgrokbot](https://github.com/kwakseongjae/awesome-grok-bot) - Multilingual directory of Grok Bot setups, teams, and templates at getgrokbot.com, with Add-to-Grok share links and paste-ready copy.
+- [Awesome Grok Bots (Composio)](https://github.com/composio-community/awesome-grok-bots) - Curated knowledge-work Grok Bot blueprints: copy-paste Markdown briefs plus public x.ai/bot shares for product, research, and governance jobs.
+- [Grok Bot 中文目录](https://github.com/245678000000/grokbot-zh) - Independent Simplified-Chinese localization of grokbot.dev (marketplace, plugins, use cases) built with Astro and a Python localize pipeline.
+- [Grokdex](https://github.com/andrewkittridge/grokory) - Public ranked board of Grok Bot share links (Hot/Top/New) at grokdex.net; paste an x.ai/bot URL to list, then Add to Grok Bot.
+- [grokbotit](https://github.com/raxmichter/Grok-Bot-It) - Product Hunt-style community for Grok Bots (grokbotit.com) with X login, upvotes, and an MCP to search and install listed bots.
+- [AI社員 Control Plane](https://github.com/pacifico-1106/grokbot-control-plane) - Next.js control plane for Japanese SMEs to treat Grok Bots as named AI employees with ID cards, approval queues, and an audit timeline.
 
 ## Contributing
 
-269 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+296 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

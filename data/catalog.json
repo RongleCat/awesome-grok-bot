@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -394,6 +394,16 @@
             "zh": "官方帮助：Grok Bot 支持发 hi@cursor.com，附账号邮箱、版本与平台（Mac/Windows/iOS）、已尝试步骤与截图（账单问题同邮箱）。",
             "ja": "公式ヘルプ：Grok Bot サポートは hi@cursor.com。アカウントメール、版／OS（Mac/Windows/iOS）、試したこと、スクショを添える（課金も同宛先）。"
           }
+        },
+        {
+          "title": "@bot: Microsoft Outlook, Calendar, and OneDrive plugins",
+          "url": "https://x.com/bot/status/2094543253811183943",
+          "source": "day-20260901-0804",
+          "blurb": {
+            "en": "Official @bot (2026-08-31) says Grok Bot can now read, write, and act across Microsoft accounts via new Outlook, Calendar, and OneDrive plugins.",
+            "zh": "官方 @bot（2026-08-31）宣布 Grok Bot 可通过新的 Outlook、Calendar、OneDrive 插件读写并操作 Microsoft 账号。",
+            "ja": "公式 @bot（2026-08-31）が、新しい Outlook / Calendar / OneDrive プラグインで Grok Bot が Microsoft アカウントを読み書き・操作できると発表。"
+          }
         }
       ]
     },
@@ -633,6 +643,16 @@
             "en": "Japanese command-center repo for running product work through Grok Bot: routine drafts, verification bootstrap, knowhow log, and a Cursor plugin wrapper.",
             "zh": "用 Grok Bot 跑产品开发的日文司令室：routine 原稿、验证技能移植包、knowhow 日志，以及 Cursor 插件包装。",
             "ja": "Grok Bot で製品開発を回す日本語の司令室リポジトリ。routine 原稿、検証スキル移植、ノウハウ記録、Cursor プラグイン包装（0★）。"
+          }
+        },
+        {
+          "title": "Technocore Grok Bot 日本語ガイド",
+          "url": "https://github.com/hariou/technocore-grokbot-ja",
+          "source": "GB-355",
+          "blurb": {
+            "en": "Japanese operating guide plus GROKBOT_PROMPT.md for running a Technocore DID safely on Grok Bot without leaking seeds or spamming the lobby.",
+            "zh": "日文操作指南和 GROKBOT_PROMPT.md：教 Grok Bot 安全持有 Technocore DID，不泄露种子、不刷大厅。",
+            "ja": "Technocore の DID を Grok Bot で安全に運用する日本語ガイドと GROKBOT_PROMPT.md。seed を漏らさず、ロビーも荒らしません。"
           }
         }
       ]
@@ -1354,6 +1374,76 @@
             "zh": "给 Grok Bot 读的社区剧本库：把 playbook URL 发给 Bot，用官方 save-as-skill 保存（邮件分拣、调研简报、X 串稿等；MIT，1★）。",
             "ja": "Grok Bot が読んで公式 save-as-skill で保存するコミュニティ・プレイブック（メール仕分け、調査ブリーフ、X スレなど。MIT、1★）。"
           }
+        },
+        {
+          "title": "grok-bot-mcp-connector",
+          "url": "https://github.com/chipherndon/grok-bot-mcp-connector",
+          "source": "GB-345",
+          "blurb": {
+            "en": "Cloudflare Worker MCP with send and inbox tools so two dedicated Grok Bots can message each other and wake via webhook routines.",
+            "zh": "Cloudflare Worker 上的 MCP：两个专用 Grok Bot 用 send/inbox 互发消息，并用 webhook routine 叫醒对方。",
+            "ja": "Cloudflare Worker の MCP。専用 Grok Bot 同士が send / inbox でやり取りし、webhook routine で相手を起こします。"
+          }
+        },
+        {
+          "title": "grok-skills",
+          "url": "https://github.com/jaskirat1616/grok-skills",
+          "source": "GB-346",
+          "blurb": {
+            "en": "Catalog of 195 SKILL.md playbooks for Grok Bot, browsable at grokbotskills.vercel.app and installable via grok plugin marketplace add.",
+            "zh": "195 份给 Grok Bot 的 SKILL.md 剧本，可在 grokbotskills.vercel.app 浏览，也可用 grok plugin marketplace add 安装。",
+            "ja": "Grok Bot 向け SKILL.md プレイブック 195 本。grokbotskills.vercel.app で閲覧でき、grok plugin marketplace add でも入れられます。"
+          }
+        },
+        {
+          "title": "Firstmate",
+          "url": "https://github.com/matteoantoci/firstmate",
+          "source": "GB-347",
+          "blurb": {
+            "en": "Paste-ready Grok Bot prompt that runs a crew and writes decisions into a git repo so memory is not trapped in one chat thread.",
+            "zh": "可粘贴的 Grok Bot 提示词：让一名 Bot 调度一组船员，并把决策写进 git 仓库，避免只活在一条聊天线程里。",
+            "ja": "貼るだけの Grok Bot プロンプト。クルーを回し、決定を git リポジトリへ書くので、記憶が 1 本のスレに閉じません。"
+          }
+        },
+        {
+          "title": "GTM agent automations",
+          "url": "https://github.com/OpulentiaAI/gtm-agent-automations",
+          "source": "GB-348",
+          "blurb": {
+            "en": "Copy-paste Grok Bot automation prompts for GTM work (outbound, CRM, Stripe, Slack triggers), modeled on dabit3/cloud-agent-automations.",
+            "zh": "可粘贴的 Grok Bot 自动化提示词，覆盖获客、CRM、Stripe、Slack 触发等 GTM 场景，结构仿 dabit3/cloud-agent-automations。",
+            "ja": "貼り付け用の Grok Bot 自動化プロンプト。アウトバウンド、CRM、Stripe、Slack トリガーなど GTM 向けで、dabit3/cloud-agent-automations に倣います。"
+          }
+        },
+        {
+          "title": "remem-grokbot",
+          "url": "https://github.com/asimgilani/remem-grokbot",
+          "source": "GB-349",
+          "blurb": {
+            "en": "Cursor/Grok Bot plugin that exposes ten remem.io memory tools over stdio MCP, with tests and a grokbot namespace policy.",
+            "zh": "Cursor/Grok Bot 插件：用 stdio MCP 接 remem.io 的十个记忆工具，带测试和 grokbot 命名空间策略。",
+            "ja": "Cursor / Grok Bot プラグイン。stdio MCP で remem.io の記憶ツール 10 個を出し、テストと grokbot 名前空間ポリシー付き。"
+          }
+        },
+        {
+          "title": "Podcast Summary Bot",
+          "url": "https://github.com/noam99moyal-sudo/podcast-summary-bot",
+          "source": "GB-350",
+          "blurb": {
+            "en": "Grok Bot template (x.ai/bot share) plus a skill that turns a YouTube, X, or Spotify episode into five reusable insights.",
+            "zh": "Grok Bot 模板（x.ai/bot 分享链接）加一份 skill：把 YouTube / X / Spotify 节目收成五条可复用洞察。",
+            "ja": "Grok Bot テンプレート（x.ai/bot シェア）とスキル。YouTube / X / Spotify の回を再利用できる洞察 5 本にまとめます。"
+          }
+        },
+        {
+          "title": "Buses & Trains MCP",
+          "url": "https://github.com/BusesAndTrains/busesandtrains-mcp",
+          "source": "GB-351",
+          "blurb": {
+            "en": "Grok Bot plugin for live UK bus and train times, journey planning, and rail fares via the Buses & Trains API.",
+            "zh": "Grok Bot 插件：用 Buses & Trains API 查英国实时公交/火车、行程规划和火车票价。",
+            "ja": "Grok Bot プラグイン。Buses & Trains API で英国のバス・列車のリアルタイム、経路、運賃を扱います。"
+          }
         }
       ]
     },
@@ -1843,6 +1933,56 @@
             "en": "Shared kanban for humans and Grok Bots (Backlog / To Do / Doing / Done) with REST plus one MCP URL; live at botboard.pmcclel.land.",
             "zh": "人和 Grok Bot 共用的看板（Backlog / To Do / Doing / Done），REST 与单一 MCP 地址；线上 botboard.pmcclel.land。",
             "ja": "人と Grok Bot が共有するカンバン（Backlog／To Do／Doing／Done）。REST と MCP 1本。公開サイト botboard.pmcclel.land（0★）。"
+          }
+        },
+        {
+          "title": "GrokRouter",
+          "url": "https://github.com/promptadvisers/grokrouter",
+          "source": "GB-342",
+          "blurb": {
+            "en": "Unofficial reversible router that keeps official Grok Bot 0.30.0 chat, files, and cloud computer while sending a Bot through Codex SDK or OpenRouter.",
+            "zh": "非官方、可还原的路由：保留官方 Grok Bot 0.30.0 的聊天、文件和云电脑，把单个 Bot 接到 Codex SDK 或 OpenRouter。",
+            "ja": "非公式で可逆なルータ。公式 Grok Bot 0.30.0 のチャット・ファイル・クラウドパソコンはそのまま、Bot ごとに Codex SDK か OpenRouter へ通せます。"
+          }
+        },
+        {
+          "title": "Filicon",
+          "url": "https://github.com/irons163/filicon-bot",
+          "source": "GB-344",
+          "blurb": {
+            "en": "Native macOS SwiftUI port of Grok Bot 0.18 product behavior, with Keychain keys, MCP, remote-computer viewing, and no Electron runtime.",
+            "zh": "用原生 macOS SwiftUI 重做 Grok Bot 0.18 的产品行为：钥匙串存密钥、MCP、远程电脑预览，不依赖 Electron。",
+            "ja": "Grok Bot 0.18 の製品挙動をネイティブ macOS SwiftUI に移植。Keychain・MCP・リモートパソコン表示があり、Electron は使いません。"
+          }
+        },
+        {
+          "title": "Grokbot Permissions Helper",
+          "url": "https://github.com/vinxp97/grokbot-permissions-helper",
+          "source": "GB-352",
+          "blurb": {
+            "en": "Tiny signed macOS .app so a desktop Grok Bot can get Calendar, Contacts, and Reminders TCC prompts and dump a parseable snapshot without storing secrets in git.",
+            "zh": "体积很小的已签名 macOS .app，让桌面端 Grok Bot 弹出日历/通讯录/提醒的 TCC 授权，并写出可解析快照，密钥不进 git。",
+            "ja": "小さな署名済み macOS .app。デスクトップの Grok Bot がカレンダー・連絡先・リマインダーの TCC を出せ、解析しやすいダンプを書き、秘密は git に置きません。"
+          }
+        },
+        {
+          "title": "grok-bridge",
+          "url": "https://github.com/shihao918/grok-bridge",
+          "source": "GB-353",
+          "blurb": {
+            "en": "Unofficial Windows daemon that registers on Grok Bot's UserComputer channel and hands cloud-agent tasks to a local LangGraph or AutoGen pipeline.",
+            "zh": "非官方 Windows 守护进程：挂到 Grok Bot 的 UserComputer 通道，把云端 Agent 任务交给本机 LangGraph 或 AutoGen 流水线。",
+            "ja": "非公式の Windows デーモン。Grok Bot の UserComputer チャネルに登録し、クラウド側の仕事をローカルの LangGraph / AutoGen に渡します。"
+          }
+        },
+        {
+          "title": "download-grok-bot",
+          "url": "https://github.com/gprot42/grok-bot-tool",
+          "source": "GB-354",
+          "blurb": {
+            "en": "Zero-dependency Python CLI that saves a public x.ai/bot share (profile, packed recipe, skills, routines) to a local folder, reading the macOS Grok Bot session when present.",
+            "zh": "无依赖 Python CLI：把公开的 x.ai/bot 分享（资料、打包配方、skills、routines）存到本地；在 macOS 上可读取已登录的 Grok Bot 会话。",
+            "ja": "依存なしの Python CLI。公開 x.ai/bot シェア（プロフィール、レシピ、skills、routines）をローカルへ保存。macOS ではログイン済み Grok Bot セッションも読めます。"
           }
         }
       ]
@@ -2514,6 +2654,66 @@
             "zh": "官方：Update Computer 会保留文件和登录，但 OS 镜像重建，apt/应用/守护进程会没；空闲会休眠（后台进程停）且空闲时可能自动更新——把软件清单放文件里，更新后让 Bot 重装。",
             "ja": "スタッフ：Update Computer はファイルとログインを残すが OS イメージは作り直すので apt/アプリ/デーモンは消える。アイドルでスリープし（常駐プロセスは落ちる）、アイドル中に自動更新もかかる。パッケージ一覧をファイルに残し、更新後に Bot へ再インストールさせる。"
           }
+        },
+        {
+          "title": "/review-bugbot is missing on cloud agents launched from Grok Bot",
+          "url": "https://forum.cursor.com/t/review-bugbot-is-missing-on-cloud-agents-launched-from-grok-bot/170096",
+          "source": "day-20260901-0804",
+          "blurb": {
+            "en": "Staff: /review and /review-bugbot do not attach to cloud agents created by Grok Bot (decided at create time); start a new agent from cursor.com/agents on the same PR branch and include /review-bugbot there.",
+            "zh": "官方：Grok Bot 拉起的 Cloud Agent 不会带上 /review、/review-bugbot（创建时就定了）；请在 cursor.com/agents 对同一 PR 分支新建 agent 并写上 /review-bugbot。",
+            "ja": "スタッフ：Grok Bot 起動の Cloud Agent には /review / /review-bugbot が付かない（作成時に決まる）。同じ PR ブランチで cursor.com/agents から新規エージェントを立て、そこで /review-bugbot を使う。"
+          }
+        },
+        {
+          "title": "Grok Bot Bug Report (empty roster / black screen after reconnect)",
+          "url": "https://forum.cursor.com/t/grok-bot-bug-report/170104",
+          "source": "day-20260901-0804",
+          "blurb": {
+            "en": "Staff: empty bot list and black/white loading after reconnect usually means the Agent Computer was slow waking from sleep—nothing deleted; do not Reset; fully quit and relaunch once the box is awake.",
+            "zh": "官方：重连后机器人列表空、黑/白加载屏多半是 Agent Computer 从休眠醒得慢——东西没删；别点 Reset；等机器醒了再完全退出并重开应用。",
+            "ja": "スタッフ：再接続後の空ロスターや黒/白ローディングは、多くの場合 Agent Computer のスリープ起床が遅いだけ。削除は起きておらず Reset は不要。起床後に完全終了して再起動する。"
+          }
+        },
+        {
+          "title": "Grokbot and GitHub (Connected but Authorization header badly formatted)",
+          "url": "https://forum.cursor.com/t/grokbot-and-github/170137",
+          "source": "day-20260901-0804",
+          "blurb": {
+            "en": "Staff: GitHub connector shows Connected but fails with “Authorization header is badly formatted”—tracked bug; workaround is press-and-hold the account → Remove, then reconnect and sign in again.",
+            "zh": "官方：GitHub 显示 Connected 却报 “Authorization header is badly formatted”（已知问题）；变通：长按账号 → Remove，再重新连接并登录。",
+            "ja": "スタッフ：GitHub が Connected なのに “Authorization header is badly formatted” で失敗する既知問題。回避策はアカウントを長押し → Remove してから再接続・再ログイン。"
+          }
+        },
+        {
+          "title": "Authorization death by 1000 clicks",
+          "url": "https://forum.cursor.com/t/authorization-death-by-1000-clicks/170087",
+          "source": "day-20260901-0804",
+          "blurb": {
+            "en": "Staff: “Always allow” for local-computer actions lives only in the desktop app on that machine; iOS can only one-time-approve, and those approvals clear on every new message—set Always Allow under desktop Settings → Execution on Local Computer.",
+            "zh": "官方：本机操作的「Always allow」只在那台电脑的桌面端 Settings → Execution on Local Computer；iOS 只能一次性批准，且每发一条新消息就清空，所以会反复弹审批。",
+            "ja": "スタッフ：ローカル実行の Always allow は該当マシンのデスクトップ版 Settings → Execution on Local Computer にだけある。iOS は都度承認のみで、新メッセージごとに消えるため何度も聞かれる。"
+          }
+        },
+        {
+          "title": "Wrangler/box auth reminder stays stuck after auth already succeeded via another path",
+          "url": "https://forum.cursor.com/t/grok-bot-wrangler-box-auth-reminder-stays-stuck-after-auth-already-succeeded-via-another-path/170052",
+          "source": "day-20260901-0804",
+          "blurb": {
+            "en": "Staff: the “help on its computer” / Waiting-for-you reminder only clears when you answer that card (“I’m done, continue” or Skip) or send any chat message—it does not auto-dismiss if the Bot finished login another way.",
+            "zh": "官方：电脑协助 / Waiting-for-you 提醒只有点卡片上的 “I’m done, continue” 或 Skip，或随便发一条聊天才会消失；Bot 另路径登完也不会自动清。",
+            "ja": "スタッフ：コンピュータ上のヘルプ / Waiting-for-you リマインダは、カードの “I’m done, continue” か Skip、あるいは任意のチャット送信でのみ消える。別経路でログイン完了しても自動では消えない。"
+          }
+        },
+        {
+          "title": "Fastmail Filters & Rules Save is a silent no-op (Chrome on the box)",
+          "url": "https://forum.cursor.com/t/grok-bot-fastmail-filters-rules-save-is-a-silent-no-op-chrome-on-the-box/170018",
+          "source": "day-20260901-0804",
+          "blurb": {
+            "en": "Staff: Fastmail Settings → Filters & Rules Save on the box Chrome fires zero network requests; workaround is manage filters/Sieve via Fastmail’s API (JMAP) with a token—the mail helper already uses that path successfully.",
+            "zh": "官方：盒子 Chrome 里 Fastmail Filters & Rules 的 Save 不会发出任何网络请求；变通是用 API token 走 Fastmail JMAP/API 管过滤与 Sieve（邮件 helper 已能走通）。",
+            "ja": "スタッフ：ボックス上 Chrome の Fastmail Filters & Rules の Save はネットワーク要求を一切出さない。回避策は API トークンで Fastmail の JMAP/API からフィルタ/Sieve を管理する（メール helper は既にその経路で動く）。"
+          }
         }
       ]
     },
@@ -2773,6 +2973,76 @@
             "en": "M5Stack CoreS3 firmware for a desktop robot that talks to a signed-in Grok Bot via a loopback HTTP proxy over grok-bot-cli (BSL-1.0).",
             "zh": "驱动桌面机器人的 M5Stack CoreS3 固件：经本机 loopback HTTP 代理调用已登录的 grok-bot-cli，对接 Grok Bot 对话（BSL-1.0）。",
             "ja": "ログイン済み grok-bot-cli を loopback HTTP プロキシ経由で呼び、Grok Bot と話す卓上ロボット用 M5Stack CoreS3 ファーム（BSL-1.0、0★）。"
+          }
+        },
+        {
+          "title": "Anomalia",
+          "url": "https://github.com/anomaliaso/anomalia",
+          "source": "GB-343",
+          "blurb": {
+            "en": "Open-source Grok Bot alternative that plans, writes, and publishes marketing work with a human approve step, hosted or self-run.",
+            "zh": "开源的 Grok Bot 替代品，专做营销企划、撰稿与发布，发出前需人工批准，可托管也可自建。",
+            "ja": "オープンソースの Grok Bot 代替。マーケの企画・執筆・公開を行い、発信前に人が承認。ホスト利用も自前運用も可。"
+          }
+        },
+        {
+          "title": "getgrokbot",
+          "url": "https://github.com/kwakseongjae/awesome-grok-bot",
+          "source": "GB-356",
+          "blurb": {
+            "en": "Multilingual directory of Grok Bot setups, teams, and templates at getgrokbot.com, with Add-to-Grok share links and paste-ready copy.",
+            "zh": "多语言 Grok Bot 目录 getgrokbot.com，收录机器人、团队和模板，支持 Add to Grok 分享链接和一键复制文案。",
+            "ja": "getgrokbot.com の多言語ディレクトリ。Grok Bot のセットアップ・チーム・テンプレを載せ、Add to Grok とコピー用文面があります。"
+          }
+        },
+        {
+          "title": "Awesome Grok Bots (Composio)",
+          "url": "https://github.com/composio-community/awesome-grok-bots",
+          "source": "GB-357",
+          "blurb": {
+            "en": "Curated knowledge-work Grok Bot blueprints: copy-paste Markdown briefs plus public x.ai/bot shares for product, research, and governance jobs.",
+            "zh": "面向知识工作的 Grok Bot 精选蓝图：可贴的 Markdown 简报，外加产品、研究和治理类的公开 x.ai/bot 分享。",
+            "ja": "知識仕事向けに絞った Grok Bot ブループリント。貼る Markdown ブリーフと、プロダクト・調査・ガバナンス用の公開 x.ai/bot シェア。"
+          }
+        },
+        {
+          "title": "Grok Bot 中文目录",
+          "url": "https://github.com/245678000000/grokbot-zh",
+          "source": "GB-358",
+          "blurb": {
+            "en": "Independent Simplified-Chinese localization of grokbot.dev (marketplace, plugins, use cases) built with Astro and a Python localize pipeline.",
+            "zh": "grokbot.dev 的独立简体中文本地化（市场、插件、用例），Astro 站点加 Python 汉化管线。",
+            "ja": "grokbot.dev の独立した簡体字ローカライズ（マーケット、プラグイン、用例）。Astro と Python の翻訳パイプライン。"
+          }
+        },
+        {
+          "title": "Grokdex",
+          "url": "https://github.com/andrewkittridge/grokory",
+          "source": "GB-359",
+          "blurb": {
+            "en": "Public ranked board of Grok Bot share links (Hot/Top/New) at grokdex.net; paste an x.ai/bot URL to list, then Add to Grok Bot.",
+            "zh": "公开的 Grok Bot 分享链接排行榜 grokdex.net（热门/最高/最新）：粘贴 x.ai/bot 链接上架，再一键 Add to Grok Bot。",
+            "ja": "grokdex.net の公開ランキング板（Hot/Top/New）。x.ai/bot URL を貼って掲載し、Add to Grok Bot できます。"
+          }
+        },
+        {
+          "title": "grokbotit",
+          "url": "https://github.com/raxmichter/Grok-Bot-It",
+          "source": "GB-360",
+          "blurb": {
+            "en": "Product Hunt-style community for Grok Bots (grokbotit.com) with X login, upvotes, and an MCP to search and install listed bots.",
+            "zh": "面向 Grok Bot 的 Product Hunt 式社区 grokbotit.com：用 X 登录、投票，并提供搜索/安装机器人的 MCP。",
+            "ja": "Grok Bot 向け Product Hunt 風コミュニティ grokbotit.com。X ログイン、upvote、掲載 Bot を検索・導入する MCP 付き。"
+          }
+        },
+        {
+          "title": "AI社員 Control Plane",
+          "url": "https://github.com/pacifico-1106/grokbot-control-plane",
+          "source": "GB-361",
+          "blurb": {
+            "en": "Next.js control plane for Japanese SMEs to treat Grok Bots as named AI employees with ID cards, approval queues, and an audit timeline.",
+            "zh": "面向日本中小企业的 Next.js 控制面：把 Grok Bot 当「AI 社員」管，含社員证、审批队列和审计时间线。",
+            "ja": "日本の中小企業向け Next.js 制御面。Grok Bot を名札付きの AI 社員として扱い、社員証・承認キュー・監査タイムラインがあります。"
           }
         }
       ]
@@ -4513,6 +4783,347 @@
         "en": "Apply on Luma (host approval)",
         "zh": "去 Luma 报名（需审核）",
         "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "chf-20260903",
+      "url": "https://luma.com/3ubz4eav",
+      "image": "./assets/events/chf-20260903-cover.png",
+      "expires": "2026-09-03T18:00:00-07:00",
+      "title": {
+        "en": "Grok Bot Build Night (Chaffey College)",
+        "zh": "Grok Bot Build Night（Chaffey College）",
+        "ja": "Grok Bot Build Night（Chaffey College）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 16:00–18:00 (PDT)",
+        "zh": "2026-09-03 周四 16:00–18:00",
+        "ja": "2026-09-03（木）16:00–18:00（PDT）"
+      },
+      "where": {
+        "en": "Rancho Cucamonga · Rancho Library Room 333",
+        "zh": "Rancho Cucamonga · Rancho Library Room 333",
+        "ja": "Rancho Cucamonga · Rancho Library Room 333"
+      },
+      "body": {
+        "en": "Chaffey College Grok Bot build night at Rancho Library Room 333—come build with the always-on cloud-computer teammate.",
+        "zh": "Chaffey College 场：Rancho Library Room 333，一起用自带云电脑的 Grok Bot 动手做。",
+        "ja": "Chaffey College（Rancho Library Room 333）。クラウドパソコン付き Grok Bot で制作。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "rit-20260903",
+      "url": "https://luma.com/4veyk6o4",
+      "image": "./assets/events/rit-20260903-cover.png",
+      "expires": "2026-09-03T19:30:00-04:00",
+      "title": {
+        "en": "Grok Bot Build Night (RIT / Rochester)",
+        "zh": "Grok Bot Build Night（RIT / 罗切斯特）",
+        "ja": "Grok Bot Build Night（RIT / ロチェスター）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:30–19:30 (EDT)",
+        "zh": "2026-09-03 周四 18:30–19:30",
+        "ja": "2026-09-03（木）18:30–19:30（EDT）"
+      },
+      "where": {
+        "en": "Rochester · RIT AI Club × SpaceXAI",
+        "zh": "罗切斯特 · RIT AI Club × SpaceXAI",
+        "ja": "ロチェスター · RIT AI Club × SpaceXAI"
+      },
+      "body": {
+        "en": "RIT AI Club × SpaceXAI build night in Rochester—campus session to try Grok Bot with student organizers.",
+        "zh": "罗切斯特 RIT AI Club × SpaceXAI 动手夜：和学生组织者一起试用 Grok Bot。",
+        "ja": "ロチェスター RIT AI Club × SpaceXAI。学生主催で Grok Bot を試すビルドナイト。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "slo-20260903",
+      "url": "https://luma.com/821u6j1t",
+      "image": "./assets/events/slo-20260903-cover.png",
+      "expires": "2026-09-03T20:00:00-07:00",
+      "title": {
+        "en": "Grok Bot Build Night (Cal Poly)",
+        "zh": "Grok Bot Build Night（Cal Poly）",
+        "ja": "Grok Bot Build Night（Cal Poly）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:00–20:00 (PDT)",
+        "zh": "2026-09-03 周四 18:00–20:00",
+        "ja": "2026-09-03（木）18:00–20:00（PDT）"
+      },
+      "where": {
+        "en": "Cal Poly · CIE Hatchery × SpaceXAI (address after register)",
+        "zh": "Cal Poly · CIE Hatchery × SpaceXAI（报名后可见地址）",
+        "ja": "Cal Poly · CIE Hatchery × SpaceXAI（登録後に住所）"
+      },
+      "body": {
+        "en": "CIE Hatchery × SpaceXAI campus night: demo Grok Bot (agents on your tools with their own computer), then free-build and share ideas.",
+        "zh": "Cal Poly CIE Hatchery × SpaceXAI：先演示能登录工具、自带电脑的 Grok Bot，再自由动手做并分享。",
+        "ja": "Cal Poly CIE Hatchery × SpaceXAI。ツールに接続し専用パソコンを持つ Grok Bot のデモのあと、自由制作と共有。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "sba-20260903",
+      "url": "https://luma.com/89plh2i2",
+      "image": "./assets/events/sba-20260903-cover.png",
+      "expires": "2026-09-03T20:00:00-07:00",
+      "title": {
+        "en": "Grok Bot Student Build Night (UCSB)",
+        "zh": "Grok Bot 学生 Build Night（UCSB）",
+        "ja": "Grok Bot Student Build Night（UCSB）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:00–20:00 (PDT)",
+        "zh": "2026-09-03 周四 18:00–20:00",
+        "ja": "2026-09-03（木）18:00–20:00（PDT）"
+      },
+      "where": {
+        "en": "UC Santa Barbara (address after register)",
+        "zh": "UC Santa Barbara（报名后可见地址）",
+        "ja": "UC Santa Barbara（登録後に住所）"
+      },
+      "body": {
+        "en": "UCSB student evening: live SpaceXAI Grok Bot demo, then build projects together—any major welcome, no prior Grok Bot experience needed.",
+        "zh": "UCSB 学生场：先看 SpaceXAI 的 Grok Bot 直播演示，再一起做项目；不限专业，零基础可来。",
+        "ja": "UCSB 学生向け。SpaceXAI の Grok Bot ライブデモのあと共同制作。専攻不問、初心者歓迎。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "udel-20260903",
+      "url": "https://luma.com/8u9fzdtb",
+      "image": "./assets/events/udel-20260903-cover.jpg",
+      "expires": "2026-09-03T21:00:00-04:00",
+      "title": {
+        "en": "Grok Bot Build Night (University of Delaware)",
+        "zh": "Grok Bot Build Night（特拉华大学）",
+        "ja": "Grok Bot Build Night（Delaware）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:00–21:00 (EDT)",
+        "zh": "2026-09-03 周四 18:00–21:00",
+        "ja": "2026-09-03（木）18:00–21:00（EDT）"
+      },
+      "where": {
+        "en": "Newark · University of Delaware",
+        "zh": "纽瓦克 · 特拉华大学",
+        "ja": "ニューアーク · University of Delaware"
+      },
+      "body": {
+        "en": "Hands-on University of Delaware night to build with Grok Bot and Cursor across AI, product, design, and entrepreneurship.",
+        "zh": "特拉华大学动手夜：用 Grok Bot 和 Cursor 做 AI / 产品 / 设计 / 创业向的小项目。",
+        "ja": "デラウェア大学のハンズオン。Grok Bot と Cursor で AI・プロダクト・デザイン・起業寄りに制作。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "davis-20260903",
+      "url": "https://luma.com/bqjdbblj",
+      "image": "./assets/events/davis-20260903-cover.png",
+      "expires": "2026-09-03T19:00:00-07:00",
+      "title": {
+        "en": "Grok Bot Build Night (UC Davis)",
+        "zh": "Grok Bot Build Night（UC Davis）",
+        "ja": "Grok Bot Build Night（UC Davis）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:00–19:00 (PDT)",
+        "zh": "2026-09-03 周四 18:00–19:00",
+        "ja": "2026-09-03（木）18:00–19:00（PDT）"
+      },
+      "where": {
+        "en": "UC Davis (address after register)",
+        "zh": "UC Davis（报名后可见地址）",
+        "ja": "UC Davis（登録後に住所）"
+      },
+      "body": {
+        "en": "UC Davis builders night with SpaceXAI’s Grok Bot agent platform—spin up agents on Gmail and more, then build together.",
+        "zh": "UC Davis × SpaceXAI：用 Grok Bot 代理平台（可接 Gmail 等）一起动手做。",
+        "ja": "UC Davis × SpaceXAI。Grok Bot のエージェント基盤（Gmail など接続）で一緒に作る夜。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "a2-20260903",
+      "url": "https://luma.com/ephlo70e",
+      "image": "./assets/events/a2-20260903-cover.png",
+      "expires": "2026-09-03T20:00:00-04:00",
+      "title": {
+        "en": "Grok Bot Build Night (UMich / Ann Arbor)",
+        "zh": "Grok Bot Build Night（密歇根大学 / 安娜堡）",
+        "ja": "Grok Bot Build Night（UMich / アナーバー）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:00–20:00 (EDT)",
+        "zh": "2026-09-03 周四 18:00–20:00",
+        "ja": "2026-09-03（木）18:00–20:00（EDT）"
+      },
+      "where": {
+        "en": "Ann Arbor · University of Michigan",
+        "zh": "安娜堡 · 密歇根大学",
+        "ja": "アナーバー · University of Michigan"
+      },
+      "body": {
+        "en": "UMich Grok Bot Build Night: live-streamed demo, then casual build sessions with organizers and fellow builders.",
+        "zh": "密歇根大学 Grok Bot Build Night：直播演示后分组动手，组织者和同伴可帮你。",
+        "ja": "ミシガン大の Grok Bot Build Night。ライブ配信デモのあとカジュアル制作。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "uf-20260903",
+      "url": "https://luma.com/evqjr7os",
+      "image": "./assets/events/uf-20260903-cover.png",
+      "expires": "2026-09-03T20:30:00-04:00",
+      "title": {
+        "en": "Grok Bot Build Night (UF × SASE / Gainesville)",
+        "zh": "Grok Bot Build Night（佛罗里达大学 × SASE）",
+        "ja": "Grok Bot Build Night（UF × SASE / ゲインズビル）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:30–20:30 (EDT)",
+        "zh": "2026-09-03 周四 18:30–20:30",
+        "ja": "2026-09-03（木）18:30–20:30（EDT）"
+      },
+      "where": {
+        "en": "Gainesville · University of Florida × SASE",
+        "zh": "盖恩斯维尔 · 佛罗里达大学 × SASE",
+        "ja": "ゲインズビル · University of Florida × SASE"
+      },
+      "body": {
+        "en": "University of Florida × SASE Grok Bot build night in Gainesville—demo and hands-on with campus builders.",
+        "zh": "盖恩斯维尔佛罗里达大学 × SASE：Grok Bot 演示与动手夜。",
+        "ja": "ゲインズビル UF × SASE の Grok Bot ビルドナイト。デモとハンズオン。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "tamu-20260903",
+      "url": "https://luma.com/fx9cjrpu",
+      "image": "./assets/events/tamu-20260903-cover.png",
+      "expires": "2026-09-03T20:30:00-05:00",
+      "title": {
+        "en": "Grok Bot Build Night (Texas A&M / tidalTAMU)",
+        "zh": "Grok Bot Build Night（德州农工 / tidalTAMU）",
+        "ja": "Grok Bot Build Night（Texas A&M / tidalTAMU）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 17:30–20:30 (CDT)",
+        "zh": "2026-09-03 周四 17:30–20:30",
+        "ja": "2026-09-03（木）17:30–20:30（CDT）"
+      },
+      "where": {
+        "en": "College Station · BLOC 150 (Texas A&M)",
+        "zh": "College Station · BLOC 150（德州农工）",
+        "ja": "College Station · BLOC 150（Texas A&M）"
+      },
+      "body": {
+        "en": "Texas A&M tidalTAMU night in BLOC 150: build with Grok Bot, SpaceXAI’s agent platform for campus builders.",
+        "zh": "德州农工 tidalTAMU 在 BLOC 150：用 SpaceXAI 的 Grok Bot 代理平台动手做。",
+        "ja": "Texas A&M tidalTAMU（BLOC 150）。SpaceXAI の Grok Bot で制作する夜。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "txl-20260903",
+      "url": "https://luma.com/pt7tj0rn",
+      "image": "./assets/events/txl-20260903-cover.png",
+      "expires": "2026-09-03T20:00:00-05:00",
+      "title": {
+        "en": "Grok Bot Build Night (TX Luminescence)",
+        "zh": "Grok Bot Build Night（TX Luminescence）",
+        "ja": "Grok Bot Build Night（TX Luminescence）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:00–20:00 (CDT)",
+        "zh": "2026-09-03 周四 18:00–20:00",
+        "ja": "2026-09-03（木）18:00–20:00（CDT）"
+      },
+      "where": {
+        "en": "Texas · TX Luminescence × SpaceXAI (address after register)",
+        "zh": "德州 · TX Luminescence × SpaceXAI（报名后可见地址）",
+        "ja": "テキサス · TX Luminescence × SpaceXAI（登録後に住所）"
+      },
+      "body": {
+        "en": "TX Luminescence × SpaceXAI: join a live Grok Bot demo, then build and share—no prior experience needed.",
+        "zh": "TX Luminescence × SpaceXAI：先看 Grok Bot 直播演示，再动手做并分享，零基础可来。",
+        "ja": "TX Luminescence × SpaceXAI。ライブデモのあと制作・共有。経験不問。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "jhu-20260903",
+      "url": "https://luma.com/sgeks0ku",
+      "image": "./assets/events/jhu-20260903-cover.png",
+      "expires": "2026-09-03T20:00:00-04:00",
+      "title": {
+        "en": "Grok Bot Build Night (Johns Hopkins / HopAI)",
+        "zh": "Grok Bot Build Night（约翰霍普金斯 / HopAI）",
+        "ja": "Grok Bot Build Night（Johns Hopkins / HopAI）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:15–20:00 (EDT)",
+        "zh": "2026-09-03 周四 18:15–20:00",
+        "ja": "2026-09-03（木）18:15–20:00（EDT）"
+      },
+      "where": {
+        "en": "Baltimore · Johns Hopkins University × HopAI",
+        "zh": "巴尔的摩 · 约翰霍普金斯大学 × HopAI",
+        "ja": "ボルチモア · Johns Hopkins University × HopAI"
+      },
+      "body": {
+        "en": "Johns Hopkins HopAI × SpaceXAI campus build night with Grok Bot—demo then build with student organizers.",
+        "zh": "约翰霍普金斯 HopAI × SpaceXAI：Grok Bot 校园动手夜，演示后和同学一起做。",
+        "ja": "Johns Hopkins HopAI × SpaceXAI の Grok Bot ビルドナイト。デモのあと学生同士で制作。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
       }
     }
   ]
