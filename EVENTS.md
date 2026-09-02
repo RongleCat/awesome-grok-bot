@@ -129,6 +129,9 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="usc-20260903"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/nry7q7y9"><img src="./assets/events/usc-20260903-cover.png" alt="Grok Bot Build Night (USC / Los Angeles)" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night (USC / Los Angeles)</strong><br />Thu 3 Sep 2026, 18:20–19:20 (PDT)<br />Los Angeles, CA · USC, 850 Bloom Walk ste 204<br /><br />SpaceX AI @ USC Grokbot Build Night on the SpaceXAI Education calendar. Offline student build session.<br /><br /><a href="https://luma.com/nry7q7y9"><strong>Register on Luma → →</strong></a></td></tr></table>
 
+<a id="bab-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/fh0tsnpe"><img src="./assets/events/bab-20260903-cover.png" alt="Grok Bot Build Night (Babson / Wellesley)" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night (Babson / Wellesley)</strong><br />Thu 3 Sep 2026, 18:00–20:00 (EDT)<br />Wellesley, MA · Babson College, Coleman Hall (Ground Floor)<br /><br />SpaceXAI @ Babson College Grokbot Build Night. Two-hour offline student/builder session at Coleman Hall. Free, 20 seats left.<br /><br /><a href="https://luma.com/fh0tsnpe"><strong>Register on Luma → →</strong></a></td></tr></table>
+
 <a id="country-ar"></a>
 ### Argentina
 
@@ -163,7 +166,7 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 ### Ecuador
 
 <a id="mec-20260912"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-manta"><img src="./assets/events/mec-20260912-cover.png" alt="Grok Bot Manta Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Manta Workshop</strong><br />Sat 12 Sep 2026, 08:30–12:30 (ECT)<br />Manta, Ecuador · exact address after you register<br /><br />Workshop on the new agentic development stack with Grok Bot. Free, waitlist open, 41 seats left.<br /><br /><a href="https://luma.com/cursor-manta"><strong>Register on Luma →</strong></a></td></tr></table>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-manta"><img src="./assets/events/mec-20260912-cover.png" alt="Grok Bot Manta Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Manta Workshop</strong><br />Sat 12 Sep 2026, 08:30–12:30 (ECT)<br />Manta, Ecuador · exact address after you register<br /><br />Workshop on the new agentic development stack with Grok Bot. Free, waitlist open, 41 seats left.<br /><br /><a href="https://luma.com/grokbot-manta"><strong>Register on Luma →</strong></a></td></tr></table>
 
 <a id="uio-20260924"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotquitomeetup"><img src="./assets/events/uio-20260924-cover.png" alt="Grok Bot Meetup Quito" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Quito</strong><br />Thu 24 Sep 2026, 19:30–21:30 (ECT)<br />Quito, Ecuador · exact address after you register<br /><br />In-person Grok Bot meetup in Quito. Free, host approval, 47 seats left.<br /><br /><a href="https://luma.com/grokbotquitomeetup"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
@@ -308,6 +311,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="ygn-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-qu3x"><img src="./assets/events/ygn-20260926-cover.png" alt="Grok Bot Yangon Workshop @ ACY" width="300" /></a></td><td valign="top"><strong>Grok Bot Yangon Workshop @ ACY</strong><br />Sat 26 Sep 2026, 13:30–17:00 (MMT)<br />American Center Yangon<br /><br />Hands-on Grok Bot workshop at American Center Yangon. Host approval required.<br /><br /><a href="https://luma.com/cursor-qu3x"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<a id="country-mt"></a>
+### Malta
+
+<a id="mlt-20260917"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-malta"><img src="./assets/events/mlt-20260917-cover.png" alt="Grok Bot Meetup Malta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Malta</strong><br />Thu 17 Sep 2026, 18:00–21:00 (CEST)<br />Ta' Xbiex, Malta · Coffee Circus Porto, 149 Triq D'Argens<br /><br />First SpaceXAI Grok Bot Meetup in Malta. Live demos, build with Grok Bots/agents, networking. Free, 31 seats left (host Niccolò Mascaro).<br /><br /><a href="https://luma.com/grok-malta"><strong>Register on Luma → →</strong></a></td></tr></table>
 
 <a id="country-my"></a>
 ### Malaysia

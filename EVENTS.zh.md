@@ -129,6 +129,9 @@
 <a id="usc-20260903"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/nry7q7y9"><img src="./assets/events/usc-20260903-cover.png" alt="Grok Bot Build Night（USC / 洛杉矶）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（USC / 洛杉矶）</strong><br />2026-09-03 周四 18:20–19:20（洛杉矶）<br />加州洛杉矶 · USC, 850 Bloom Walk ste 204<br /><br />SpaceX AI @ USC Grok Bot 动手夜，SpaceXAI Education 日历。线下学生场。<br /><br /><a href="https://luma.com/nry7q7y9"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
+<a id="bab-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/fh0tsnpe"><img src="./assets/events/bab-20260903-cover.png" alt="Grok Bot Build Night（Babson / 韦尔斯利）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（Babson / 韦尔斯利）</strong><br />2026-09-03 周四 18:00–20:00（韦尔斯利）<br />马萨诸塞州韦尔斯利 · Babson College, Coleman Hall（一层）<br /><br />SpaceXAI @ Babson College Grok Bot 动手夜。Coleman Hall 线下两小时。免费，还剩约 20 席。<br /><br /><a href="https://luma.com/fh0tsnpe"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
 <a id="country-ar"></a>
 ### 阿根廷
 
@@ -163,7 +166,7 @@
 ### 厄瓜多尔
 
 <a id="mec-20260912"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-manta"><img src="./assets/events/mec-20260912-cover.png" alt="Grok Bot 曼塔工作坊" width="300" /></a></td><td valign="top"><strong>Grok Bot 曼塔工作坊</strong><br />2026-09-12 周六 08:30–12:30（厄瓜多尔）<br />厄瓜多尔曼塔 · 报名后可见地址<br /><br />用 Grok Bot 讲新的 agent 开发栈。免费，可候补，还剩 41 个名额。<br /><br /><a href="https://luma.com/cursor-manta"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-manta"><img src="./assets/events/mec-20260912-cover.png" alt="Grok Bot 曼塔工作坊" width="300" /></a></td><td valign="top"><strong>Grok Bot 曼塔工作坊</strong><br />2026-09-12 周六 08:30–12:30（厄瓜多尔）<br />厄瓜多尔曼塔 · 报名后可见地址<br /><br />用 Grok Bot 讲新的 agent 开发栈。免费，可候补，还剩 41 个名额。<br /><br /><a href="https://luma.com/grokbot-manta"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 <a id="uio-20260924"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotquitomeetup"><img src="./assets/events/uio-20260924-cover.png" alt="Grok Bot 基多线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 基多线下交流</strong><br />2026-09-24 周四 19:30–21:30（厄瓜多尔）<br />基多 · 报名通过后可见地址<br /><br />基多线下 Grok Bot。免费，需审核，还剩 47 个名额。<br /><br /><a href="https://luma.com/grokbotquitomeetup"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
@@ -308,6 +311,12 @@
 
 <a id="ygn-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-qu3x"><img src="./assets/events/ygn-20260926-cover.png" alt="Grok Bot 仰光工作坊（ACY）" width="300" /></a></td><td valign="top"><strong>Grok Bot 仰光工作坊（ACY）</strong><br />2026-09-26 周六 13:30–17:00（仰光）<br />仰光 American Center Yangon<br /><br />仰光 American Center 的 Grok Bot 动手工作坊。需主办审核。<br /><br /><a href="https://luma.com/cursor-qu3x"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="country-mt"></a>
+### 马耳他
+
+<a id="mlt-20260917"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-malta"><img src="./assets/events/mlt-20260917-cover.png" alt="Grok Bot 马耳他线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 马耳他线下交流</strong><br />2026-09-17 周四 18:00–21:00（马耳他）<br />马耳他 Ta' Xbiex · Coffee Circus Porto, 149 Triq D'Argens<br /><br />马耳他首场 SpaceXAI Grok Bot 线下。演示、动手玩 Bot/Agent、networking。免费，还剩约 31 席。<br /><br /><a href="https://luma.com/grok-malta"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="country-my"></a>
 ### 马来西亚

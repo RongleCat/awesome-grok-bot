@@ -129,6 +129,9 @@
 <a id="usc-20260903"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/nry7q7y9"><img src="./assets/events/usc-20260903-cover.png" alt="Grok Bot Build Night（USC / Los Angeles）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（USC / Los Angeles）</strong><br />2026-09-03（木）18:20–19:20（PDT）<br />Los Angeles, CA · USC, 850 Bloom Walk ste 204<br /><br />SpaceX AI @ USC の Grokbot Build Night。SpaceXAI Education カレンダーの学生オフライン。<br /><br /><a href="https://luma.com/nry7q7y9"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
+<a id="bab-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/fh0tsnpe"><img src="./assets/events/bab-20260903-cover.png" alt="Grok Bot Build Night（Babson / Wellesley）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（Babson / Wellesley）</strong><br />2026-09-03（木）18:00–20:00（EDT）<br />Wellesley, MA · Babson College, Coleman Hall（1F）<br /><br />SpaceXAI @ Babson College の Grokbot Build Night。Coleman Hall で 2 時間オフライン。無料、残席約 20。<br /><br /><a href="https://luma.com/fh0tsnpe"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
 <a id="country-ar"></a>
 ### アルゼンチン
 
@@ -163,7 +166,7 @@
 ### エクアドル
 
 <a id="mec-20260912"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-manta"><img src="./assets/events/mec-20260912-cover.png" alt="Grok Bot Manta Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Manta Workshop</strong><br />2026-09-12（土）08:30–12:30（ECT）<br />エクアドル マンタ · 登録後に住所を表示<br /><br />Grok Bot で新しいエージェント開発スタックを扱うワークショップ。無料、ウェイティング可、残席 41。<br /><br /><a href="https://luma.com/cursor-manta"><strong>Luma で申し込む →</strong></a></td></tr></table>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-manta"><img src="./assets/events/mec-20260912-cover.png" alt="Grok Bot Manta Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Manta Workshop</strong><br />2026-09-12（土）08:30–12:30（ECT）<br />エクアドル マンタ · 登録後に住所を表示<br /><br />Grok Bot で新しいエージェント開発スタックを扱うワークショップ。無料、ウェイティング可、残席 41。<br /><br /><a href="https://luma.com/grokbot-manta"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="uio-20260924"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotquitomeetup"><img src="./assets/events/uio-20260924-cover.png" alt="Grok Bot Meetup Quito" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Quito</strong><br />2026-09-24（木）19:30–21:30（ECT）<br />キト · 登録後に住所を表示<br /><br />キトの対面 Grok Bot。無料、主催者承認、残席 47。<br /><br /><a href="https://luma.com/grokbotquitomeetup"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
@@ -308,6 +311,12 @@
 
 <a id="ygn-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-qu3x"><img src="./assets/events/ygn-20260926-cover.png" alt="Grok Bot Yangon Workshop @ ACY" width="300" /></a></td><td valign="top"><strong>Grok Bot Yangon Workshop @ ACY</strong><br />2026-09-26（土）13:30–17:00（MMT）<br />ヤンゴン American Center Yangon<br /><br />ヤンゴン American Center での Grok Bot ハンズオン。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-qu3x"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="country-mt"></a>
+### マルタ
+
+<a id="mlt-20260917"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-malta"><img src="./assets/events/mlt-20260917-cover.png" alt="Grok Bot Meetup Malta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Malta</strong><br />2026-09-17（木）18:00–21:00（CEST）<br />マルタ Ta' Xbiex · Coffee Circus Porto, 149 Triq D'Argens<br /><br />マルタ初の SpaceXAI Grok Bot Meetup。デモ、Bot/エージェント体験、交流。無料、残席約 31。<br /><br /><a href="https://luma.com/grok-malta"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
 <a id="country-my"></a>
 ### マレーシア

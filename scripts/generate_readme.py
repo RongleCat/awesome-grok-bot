@@ -202,6 +202,7 @@ COUNTRY_LABEL = {
     "al": {"en": "Albania", "zh": "阿尔巴尼亚", "ja": "アルバニア"},
     "gb": {"en": "United Kingdom", "zh": "英国", "ja": "イギリス"},
     "au": {"en": "Australia", "zh": "澳大利亚", "ja": "オーストラリア"},
+    "mt": {"en": "Malta", "zh": "马耳他", "ja": "マルタ"},
     "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
     "other": {"en": "Other", "zh": "其他", "ja": "その他"},
 }
@@ -250,6 +251,8 @@ EVENT_GEO = {
     "unc-20260903": ("us", "UNC / Chapel Hill", "UNC 教堂山", "UNC / Chapel Hill"),
     "sjsu-20260903": ("us", "SJSU / San Jose", "SJSU 圣何塞", "SJSU / San Jose"),
     "usc-20260903": ("us", "USC / Los Angeles", "USC 洛杉矶", "USC / Los Angeles"),
+    "mlt-20260917": ("mt", "Ta' Xbiex / Malta", "马耳他 Ta' Xbiex", "マルタ Ta' Xbiex"),
+    "bab-20260903": ("us", "Babson / Wellesley", "Babson 韦尔斯利", "Babson / Wellesley"),
     "tlv-20260908": ("il", "Tel Aviv", "特拉维夫", "テルアビブ"),
     "mty-20260910": ("mx", "Monterrey", "蒙特雷", "モンテレイ"),
     "pue-20260924": ("mx", "Puebla", "普埃布拉", "プエブラ"),
