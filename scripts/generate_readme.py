@@ -248,6 +248,8 @@ EVENT_GEO = {
     "oxf-20260903": ("us", "Miami U / Oxford OH", "迈阿密大学 Oxford", "Miami U / Oxford OH"),
     "tmp-20260903": ("us", "Temple / Philadelphia", "天普大学 费城", "Temple / フィラデルフィア"),
     "unc-20260903": ("us", "UNC / Chapel Hill", "UNC 教堂山", "UNC / Chapel Hill"),
+    "sjsu-20260903": ("us", "SJSU / San Jose", "SJSU 圣何塞", "SJSU / San Jose"),
+    "usc-20260903": ("us", "USC / Los Angeles", "USC 洛杉矶", "USC / Los Angeles"),
     "tlv-20260908": ("il", "Tel Aviv", "特拉维夫", "テルアビブ"),
     "mty-20260910": ("mx", "Monterrey", "蒙特雷", "モンテレイ"),
     "pue-20260924": ("mx", "Puebla", "普埃布拉", "プエブラ"),

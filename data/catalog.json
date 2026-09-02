@@ -664,6 +664,16 @@
             "zh": "精简的 Docusaurus 入门站：什么是 Grok Bot、安装登录、第一个任务，并深度链到 docs.x.ai 与 x.ai/bot。",
             "ja": "薄い Docusaurus ハブ。Grok Bot とは／インストールとサインイン／最初のタスクを、docs.x.ai と x.ai/bot へディープリンク。"
           }
+        },
+        {
+          "source": "GB-400",
+          "title": "Grok Bot 蓝皮书",
+          "url": "https://github.com/rockyzhuo/grok-bot-blue-book",
+          "blurb": {
+            "en": "Operator playbook (companion to the orange book) for running a Grok Bot team as a delivery company—artifact contracts, INSTALL.md bootstrap, and five route templates.",
+            "zh": "经营者蓝皮书（橙皮书续篇）：把 Grok Bot 团队当成会交货的公司来运营——制品契约、INSTALL.md 一键立站、五条路线模板。",
+            "ja": "橙皮書の続編オペレーション本。Grok Bot チームを納品する会社として回す：成果物契約、INSTALL.md 立ち上げ、5 本のルート雛形。"
+          }
         }
       ]
     },
@@ -993,6 +1003,16 @@
             "en": "Personal paper-to-live \"hedge fund\" desk run by three Grok Bot teammates on the cloud computer, with versioned playbooks merged only via human PRs.",
             "zh": "用三个 Grok Bot 队友在云电脑上跑的个人模拟盘→实盘「对冲基金」工位，玩法变更只能经人工 PR 合并。",
             "ja": "クラウドパソコン上の Grok Bot 3体で回す個人ペーパー→ライブ「ヘッジファンド」デスク。プレイブック変更は人の PR マージのみ。"
+          }
+        },
+        {
+          "source": "GB-401",
+          "title": "ExploreGrokBot market desk",
+          "url": "https://github.com/WebDevJasonCameron/ExploreGrokBot",
+          "blurb": {
+            "en": "File-based Grok Bot market-research desk: company mission, analyst agent instructions, scored opportunities, and a decision log under one repo layout.",
+            "zh": "面向 Grok Bot 的文件式市场调研工位：公司使命、分析师 agent 指令、打分机会与决策日志，全在一套仓库布局里。",
+            "ja": "Grok Bot 向けファイルベース市場調査デスク。会社ミッション、アナリスト指示、スコア付き機会、意思決定ログを一リポジトリに。"
           }
         }
       ]
@@ -1654,6 +1674,56 @@
             "zh": "120 个营销技能：可装成插件、便携技能包，或在含 Grok Bot 在内的具名 Bot 主机上跑 8 Bot 营销团队。",
             "ja": "120 のマーケスキル。プラグイン／持ち運びスキル、または Grok Bot など名前付き Bot ホスト上の 8 Bot マーケ部隊として導入できます。"
           }
+        },
+        {
+          "source": "GB-393",
+          "title": "AICA Life OS plugin",
+          "url": "https://github.com/Comdei/aica-cursor-plugin",
+          "blurb": {
+            "en": "Cursor/Grok Bot plugin that wires the hosted AICA Life OS MCP with OAuth so a Bot can read the day, tasks, and moments, then propose writes you confirm in AICA.",
+            "zh": "Cursor/Grok Bot 插件：接入 AICA Life OS 托管 MCP（OAuth），让 Bot 读日程、任务与瞬间，并在 AICA 里确认后再写入。",
+            "ja": "Cursor / Grok Bot プラグイン。ホスト AICA Life OS MCP を OAuth で繋ぎ、予定・タスク・モーメントを読み、AICA 側で承認してから書けます。"
+          }
+        },
+        {
+          "source": "GB-394",
+          "title": "GbNet for Grok Bot",
+          "url": "https://github.com/medomatic-ai/gbnet-grok-bot-plugin",
+          "blurb": {
+            "en": "Grok Bot–specific GbNet plugin (distinct from the Cursor IDE package) with hosted MCP and a collaboration SKILL.md so invited Bots can work together under your permissions.",
+            "zh": "面向 Grok Bot 的 GbNet 插件（有别于 Cursor IDE 包）：托管 MCP 加协作 SKILL.md，让受邀 Bot 在你授权下协作。",
+            "ja": "Grok Bot 向け GbNet プラグイン（Cursor IDE 版とは別）。ホスト MCP と協業 SKILL.md で、招待した Bot 同士を権限付きで協働させます。"
+          }
+        },
+        {
+          "source": "GB-395",
+          "title": "ADD Framework agent plugin",
+          "url": "https://github.com/dragosroua/grok-bot-add-plugin",
+          "blurb": {
+            "en": "Grok Bot / Agent Plugin skills pack for the Assess-Decide-Do framework—six SKILL.md files that detect explore vs decide vs execute and answer in-alignment.",
+            "zh": "Grok Bot / Agent Plugin 技能包：Assess-Decide-Do 框架，六个 SKILL.md，识别探索/决策/执行并按阶段对齐回应。",
+            "ja": "Grok Bot / Agent Plugin 向け Assess-Decide-Do スキル。探索・決定・実行を検知し、段階に合わせて答える SKILL.md が6本。"
+          }
+        },
+        {
+          "source": "GB-396",
+          "title": "unslopifymy agent plugin",
+          "url": "https://github.com/dragosroua/grok-bot-unslopifymy-plugin",
+          "blurb": {
+            "en": "Grok Bot–named Agent Plugin with local Node MCP and an unslopify SKILL.md that rewrites AI-slop text via unslopifymy.ai (API key or x402).",
+            "zh": "以 Grok Bot 命名的 Agent Plugin：本地 Node MCP 加 unslopify SKILL.md，通过 unslopifymy.ai（API key 或 x402）改写 AI 味文本。",
+            "ja": "Grok Bot 向け Agent Plugin。ローカル Node MCP と unslopify SKILL.md で、unslopifymy.ai（API キーまたは x402）により AI スロップ文を書き換えます。"
+          }
+        },
+        {
+          "source": "GB-397",
+          "title": "Google Sheets agent plugin",
+          "url": "https://github.com/euca-net/grok-bot-plugins",
+          "blurb": {
+            "en": "grok-bot-plugins Agent Plugin wrapping Google Sheets API v4 as MCP tools (get/update/append/list tabs) plus a google-sheets SKILL.md—now past the morning empty-stub state.",
+            "zh": "grok-bot-plugins 仓库里的 Agent Plugin：把 Google Sheets API v4 封成 MCP 工具（读/写/追加/列标签）并带 google-sheets SKILL.md；已比早间空壳充实。",
+            "ja": "grok-bot-plugins の Agent Plugin。Google Sheets API v4 を get/update/append/list の MCP にし、google-sheets SKILL.md 付き（朝の空スタブから充実）。"
+          }
         }
       ]
     },
@@ -2263,6 +2333,26 @@
             "en": "Second-brain OS for Grok Bot: one CHIEF plus six decks with human approval; local engine and deck prompts are live, Grok Bot host still in build.",
             "zh": "给 Grok Bot 用的第二大脑：一个 CHIEF 加六个 deck，需人工批准；本地引擎与 deck 提示已可用，Grok Bot 托管仍在建设。",
             "ja": "Grok Bot 向けセカンドブレイン。CHIEF 1体と6デッキ、人の承認付き。ローカル引擎とデッキプロンプトは稼働、Grok Bot ホストは構築中。"
+          }
+        },
+        {
+          "source": "GB-398",
+          "title": "Aluvia geo proxy for agents",
+          "url": "https://github.com/aluvia-connect/aluvia",
+          "blurb": {
+            "en": "CLI plus SKILL.md that routes a cloud agent's Chrome through residential/mobile IPs by country—docs and install paths explicitly cover Grok Bot (~/.grok) and Cursor.",
+            "zh": "CLI 加 SKILL.md：按国家把云端 Agent 的 Chrome 经住宅/移动 IP 出口；文档与安装路径明确覆盖 Grok Bot（~/.grok）和 Cursor。",
+            "ja": "CLI と SKILL.md。国別にクラウドエージェントの Chrome を住宅／モバイル IP 経由にし、Grok Bot（~/.grok）と Cursor の導入パスを明記。"
+          }
+        },
+        {
+          "source": "GB-399",
+          "title": "botmigrate",
+          "url": "https://github.com/colesmcintosh/botmigrate",
+          "blurb": {
+            "en": "Local Python CLI that converts and syncs bot definitions between Grok Bot share JSON and Hermes Agent profiles (skills, cron, mcp stubs)—no hosted calls.",
+            "zh": "本地 Python CLI：在 Grok Bot 分享 JSON 与 Hermes Agent 配置（skills、cron、mcp 桩）之间转换与同步，不调用托管服务。",
+            "ja": "ローカル Python CLI。Grok Bot 共有 JSON と Hermes Agent プロファイル（skills / cron / mcp スタブ）を変換・同期。ホスト呼び出しなし。"
           }
         }
       ]
@@ -5986,16 +6076,16 @@
       "id": "unc-20260903",
       "url": "https://luma.com/8y156yr2",
       "image": "./assets/events/unc-20260903-cover.png",
-      "expires": "2026-09-04T08:00:00-04:00",
+      "expires": "2026-09-03T20:00:00-04:00",
       "title": {
         "en": "Grok Bot Build Night (UNC / Chapel Hill)",
         "zh": "Grok Bot Build Night（UNC / 教堂山）",
         "ja": "Grok Bot Build Night（UNC / Chapel Hill）"
       },
       "when": {
-        "en": "Thu 3 Sep 2026, from 18:00 (EDT; Luma end listed 08:00 Fri)",
-        "zh": "2026-09-03 周四 18:00 起（EDT；Luma 结束标到周五 08:00）",
-        "ja": "2026-09-03（木）18:00〜（EDT・Luma 終了は金曜 08:00）"
+        "en": "Thu 3 Sep 2026, 18:00–20:00 (EDT)",
+        "zh": "2026-09-03 周四 18:00–20:00（EDT）",
+        "ja": "2026-09-03（木）18:00–20:00（EDT）"
       },
       "where": {
         "en": "Chapel Hill · Innovate Carolina Junction, 136 E Rosemary St",
@@ -6068,6 +6158,68 @@
         "en": "Cartago meetup on Cursor + SpaceXAI and real Grok Bot uses; 5 local speakers. Offline at the Chamber of Commerce.",
         "zh": "卡塔戈线下：Cursor/SpaceXAI 与 Grok Bot 真实用法，5 位本地分享。商会场地。",
         "ja": "Cartago のオフライン。Cursor / SpaceXAI と Grok Bot の実例、スピーカー 5 名。商工会議所。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "sjsu-20260903",
+      "url": "https://luma.com/7cwp04yy",
+      "image": "./assets/events/sjsu-20260903-cover.png",
+      "expires": "2026-09-03T20:00:00-07:00",
+      "title": {
+        "en": "Grok Bot Build Night (SJSU / San Jose)",
+        "zh": "Grok Bot Build Night（SJSU / 圣何塞）",
+        "ja": "Grok Bot Build Night（SJSU / San Jose）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:00–20:00 (PDT)",
+        "zh": "2026-09-03 周四 18:00–20:00（圣何塞）",
+        "ja": "2026-09-03（木）18:00–20:00（PDT）"
+      },
+      "where": {
+        "en": "San Jose, CA · San José State University, 1 Washington Sq",
+        "zh": "加州圣何塞 · San José State University, 1 Washington Sq",
+        "ja": "San Jose, CA · San José State University, 1 Washington Sq"
+      },
+      "body": {
+        "en": "SJSU Grok Bot Build Night on the SpaceXAI Education calendar. Offline student build session at San José State University.",
+        "zh": "SJSU（圣何塞州立大学）Grok Bot 动手夜，SpaceXAI Education 日历。线下学生场。",
+        "ja": "SJSU（San José State University）の Grok Bot Build Night。SpaceXAI Education カレンダーの学生オフライン。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "usc-20260903",
+      "url": "https://luma.com/nry7q7y9",
+      "image": "./assets/events/usc-20260903-cover.png",
+      "expires": "2026-09-03T19:20:00-07:00",
+      "title": {
+        "en": "Grok Bot Build Night (USC / Los Angeles)",
+        "zh": "Grok Bot Build Night（USC / 洛杉矶）",
+        "ja": "Grok Bot Build Night（USC / Los Angeles）"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:20–19:20 (PDT)",
+        "zh": "2026-09-03 周四 18:20–19:20（洛杉矶）",
+        "ja": "2026-09-03（木）18:20–19:20（PDT）"
+      },
+      "where": {
+        "en": "Los Angeles, CA · USC, 850 Bloom Walk ste 204",
+        "zh": "加州洛杉矶 · USC, 850 Bloom Walk ste 204",
+        "ja": "Los Angeles, CA · USC, 850 Bloom Walk ste 204"
+      },
+      "body": {
+        "en": "SpaceX AI @ USC Grokbot Build Night on the SpaceXAI Education calendar. Offline student build session.",
+        "zh": "SpaceX AI @ USC Grok Bot 动手夜，SpaceXAI Education 日历。线下学生场。",
+        "ja": "SpaceX AI @ USC の Grokbot Build Night。SpaceXAI Education カレンダーの学生オフライン。"
       },
       "cta": {
         "en": "Register on Luma →",

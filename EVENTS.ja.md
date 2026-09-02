@@ -24,9 +24,6 @@
 <a id="sf-20260903"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/a16zgrokbotbuildnight"><img src="./assets/events/sf-20260903-cover.png" alt="Grok Bot build night for women（SF）" width="300" /></a></td><td valign="top"><strong>Grok Bot build night for women（SF）</strong><br />2026-09-03（水）17:00–21:00（PDT）<br />サンフランシスコ a16z、180 Townsend St<br /><br />女性向けの気軽な SF ビルドナイト。Grok Bot の使い方を学び、その場でセットアップ。<br /><br /><a href="https://luma.com/a16zgrokbotbuildnight"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="sfb-20260901"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/p4rvaf0y"><img src="./assets/events/sfb-20260901-cover.png" alt="Grok @bot builder demos（SF）" width="300" /></a></td><td valign="top"><strong>Grok @bot builder demos（SF）</strong><br />2026-09-01（火）18:00–20:00（PDT）<br />サンフランシスコ Yerba Buena · 登録後に住所を表示<br /><br />サンフランシスコの Grok Bot ビルダーデモ。主催者承認、ウェイティング可。<br /><br /><a href="https://luma.com/p4rvaf0y"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
 <a id="nyc-20260903"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/nc8i3yo7"><img src="./assets/events/nyc-20260903-cover.png" alt="Grok Bot Student Build Night (NYC)" width="300" /></a></td><td valign="top"><strong>Grok Bot Student Build Night (NYC)</strong><br />2026-09-03（木）18:00–20:00（EDT）<br />SpaceXAI NYC · 登録後に住所を表示<br /><br />SpaceXAI NYC の学生ビルドナイト。Grok Bot のライブデモ、コーワーキング、軽食、Cursor Pro（Grok Bot 込み）1 か月付き。<br /><br /><a href="https://luma.com/nc8i3yo7"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
@@ -124,7 +121,13 @@
 <table><tr><td width="320" valign="top"><a href="https://luma.com/0wfa472i"><img src="./assets/events/tmp-20260903-cover.png" alt="Grok Bot Build Night（Temple / フィラデルフィア）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（Temple / フィラデルフィア）</strong><br />2026-09-03（木）17:45–19:45（EDT）<br />フィラデルフィア · SERC, 1925 N 12th St<br /><br />Temple の Grok Bot ナイト。ライブデモのあと制作。Penn Labs（phl）とは別イベント。<br /><br /><a href="https://luma.com/0wfa472i"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
 <a id="unc-20260903"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/8y156yr2"><img src="./assets/events/unc-20260903-cover.png" alt="Grok Bot Build Night（UNC / Chapel Hill）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（UNC / Chapel Hill）</strong><br />2026-09-03（木）18:00〜（EDT・Luma 終了は金曜 08:00）<br />Chapel Hill · Innovate Carolina Junction, 136 E Rosemary St<br /><br />UNC Chapel Hill の Grok Bot Build Night。ライブデモのあと制作。Cursor Pro（Grok Bot 含む）1 ヶ月。<br /><br /><a href="https://luma.com/8y156yr2"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/8y156yr2"><img src="./assets/events/unc-20260903-cover.png" alt="Grok Bot Build Night（UNC / Chapel Hill）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（UNC / Chapel Hill）</strong><br />2026-09-03（木）18:00–20:00（EDT）<br />Chapel Hill · Innovate Carolina Junction, 136 E Rosemary St<br /><br />UNC Chapel Hill の Grok Bot Build Night。ライブデモのあと制作。Cursor Pro（Grok Bot 含む）1 ヶ月。<br /><br /><a href="https://luma.com/8y156yr2"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="sjsu-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/7cwp04yy"><img src="./assets/events/sjsu-20260903-cover.png" alt="Grok Bot Build Night（SJSU / San Jose）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（SJSU / San Jose）</strong><br />2026-09-03（木）18:00–20:00（PDT）<br />San Jose, CA · San José State University, 1 Washington Sq<br /><br />SJSU（San José State University）の Grok Bot Build Night。SpaceXAI Education カレンダーの学生オフライン。<br /><br /><a href="https://luma.com/7cwp04yy"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="usc-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/nry7q7y9"><img src="./assets/events/usc-20260903-cover.png" alt="Grok Bot Build Night（USC / Los Angeles）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（USC / Los Angeles）</strong><br />2026-09-03（木）18:20–19:20（PDT）<br />Los Angeles, CA · USC, 850 Bloom Walk ste 204<br /><br />SpaceX AI @ USC の Grokbot Build Night。SpaceXAI Education カレンダーの学生オフライン。<br /><br /><a href="https://luma.com/nry7q7y9"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
 <a id="country-ar"></a>
 ### アルゼンチン

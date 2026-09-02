@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-332-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-341-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（2）：[澳门](./EVENTS.zh.md#mo-20260905) · [成都](./EVENTS.zh.md#cd-20260905)
-- **美国**（36）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山（女性场）](./EVENTS.zh.md#sf-20260903) · [旧金山（演示）](./EVENTS.zh.md#sfb-20260901) · [纽约（学生）](./EVENTS.zh.md#nyc-20260903) · [旧金山（学生）](./EVENTS.zh.md#sfs-20260903) · [费城宾大](./EVENTS.zh.md#phl-20260903) · [香槟 UIUC](./EVENTS.zh.md#uiuc-20260903) · [爱荷华州立](./EVENTS.zh.md#isu-20260903) · [匹兹堡大学](./EVENTS.zh.md#pitt-20260903) · [北卡州立](./EVENTS.zh.md#ncsu-20260903) · [Rose-Hulman](./EVENTS.zh.md#rose-20260903) · [罗切斯特大学](./EVENTS.zh.md#roc-20260903) · [Chaffey College](./EVENTS.zh.md#chf-20260903) · [RIT 罗切斯特](./EVENTS.zh.md#rit-20260903) · [Cal Poly](./EVENTS.zh.md#slo-20260903) · [UCSB](./EVENTS.zh.md#sba-20260903) · [特拉华大学](./EVENTS.zh.md#udel-20260903) · [UC Davis](./EVENTS.zh.md#davis-20260903) · [密歇根大学](./EVENTS.zh.md#a2-20260903) · [佛罗里达大学](./EVENTS.zh.md#uf-20260903) · [德州农工](./EVENTS.zh.md#tamu-20260903) · [德州 TX Luminescence](./EVENTS.zh.md#txl-20260903) · [约翰霍普金斯](./EVENTS.zh.md#jhu-20260903) · [普林斯顿](./EVENTS.zh.md#prin-20260903) · [卡内基梅隆](./EVENTS.zh.md#cmu-20260903) · [普渡](./EVENTS.zh.md#laf-20260903) · [McNeese](./EVENTS.zh.md#mcn-20260903) · [哈佛](./EVENTS.zh.md#hvd-20260903) · [UCR 河滨](./EVENTS.zh.md#ucr-20260903) · [旧金山 After Dark](./EVENTS.zh.md#sfd-20260902) · [纽约 After Dark](./EVENTS.zh.md#nyd-20260902) · [5Cs 克莱蒙特](./EVENTS.zh.md#cla-20260903) · [MSJC 特曼库拉](./EVENTS.zh.md#tem-20260903) · [迈阿密大学 Oxford](./EVENTS.zh.md#oxf-20260903) · [天普大学 费城](./EVENTS.zh.md#tmp-20260903) · [UNC 教堂山](./EVENTS.zh.md#unc-20260903)
+- **美国**（37）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山（女性场）](./EVENTS.zh.md#sf-20260903) · [纽约（学生）](./EVENTS.zh.md#nyc-20260903) · [旧金山（学生）](./EVENTS.zh.md#sfs-20260903) · [费城宾大](./EVENTS.zh.md#phl-20260903) · [香槟 UIUC](./EVENTS.zh.md#uiuc-20260903) · [爱荷华州立](./EVENTS.zh.md#isu-20260903) · [匹兹堡大学](./EVENTS.zh.md#pitt-20260903) · [北卡州立](./EVENTS.zh.md#ncsu-20260903) · [Rose-Hulman](./EVENTS.zh.md#rose-20260903) · [罗切斯特大学](./EVENTS.zh.md#roc-20260903) · [Chaffey College](./EVENTS.zh.md#chf-20260903) · [RIT 罗切斯特](./EVENTS.zh.md#rit-20260903) · [Cal Poly](./EVENTS.zh.md#slo-20260903) · [UCSB](./EVENTS.zh.md#sba-20260903) · [特拉华大学](./EVENTS.zh.md#udel-20260903) · [UC Davis](./EVENTS.zh.md#davis-20260903) · [密歇根大学](./EVENTS.zh.md#a2-20260903) · [佛罗里达大学](./EVENTS.zh.md#uf-20260903) · [德州农工](./EVENTS.zh.md#tamu-20260903) · [德州 TX Luminescence](./EVENTS.zh.md#txl-20260903) · [约翰霍普金斯](./EVENTS.zh.md#jhu-20260903) · [普林斯顿](./EVENTS.zh.md#prin-20260903) · [卡内基梅隆](./EVENTS.zh.md#cmu-20260903) · [普渡](./EVENTS.zh.md#laf-20260903) · [McNeese](./EVENTS.zh.md#mcn-20260903) · [哈佛](./EVENTS.zh.md#hvd-20260903) · [UCR 河滨](./EVENTS.zh.md#ucr-20260903) · [旧金山 After Dark](./EVENTS.zh.md#sfd-20260902) · [纽约 After Dark](./EVENTS.zh.md#nyd-20260902) · [5Cs 克莱蒙特](./EVENTS.zh.md#cla-20260903) · [MSJC 特曼库拉](./EVENTS.zh.md#tem-20260903) · [迈阿密大学 Oxford](./EVENTS.zh.md#oxf-20260903) · [天普大学 费城](./EVENTS.zh.md#tmp-20260903) · [UNC 教堂山](./EVENTS.zh.md#unc-20260903) · [SJSU 圣何塞](./EVENTS.zh.md#sjsu-20260903) · [USC 洛杉矶](./EVENTS.zh.md#usc-20260903)
 - **阿根廷**（4）：[巴里洛切](./EVENTS.zh.md#brc-20260910) · [布宜诺斯艾利斯](./EVENTS.zh.md#bue-20260916) · [门多萨](./EVENTS.zh.md#mdz-20261003) · [萨尔塔](./EVENTS.zh.md#sla-20260916)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [萨德伯里](./EVENTS.zh.md#sud-20260917) · [多伦多](./EVENTS.zh.md#yyz-20260917)
 - **厄瓜多尔**（3）：[曼塔](./EVENTS.zh.md#mec-20260912) · [基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
@@ -147,6 +147,7 @@
 - [maplefukku/grok-bot-ops](https://github.com/maplefukku/grok-bot-ops) - 用 Grok Bot 跑产品开发的日文司令室：routine 原稿、验证技能移植包、knowhow 日志，以及 Cursor 插件包装。.
 - [Technocore Grok Bot 日本語ガイド](https://github.com/hariou/technocore-grokbot-ja) - 日文操作指南和 GROKBOT_PROMPT.md：教 Grok Bot 安全持有 Technocore DID，不泄露种子、不刷大厅。.
 - [Grok Bot Getting Started hubs](https://github.com/mrlynn/grok-bot-getting-started) - 精简的 Docusaurus 入门站：什么是 Grok Bot、安装登录、第一个任务，并深度链到 docs.x.ai 与 x.ai/bot。.
+- [Grok Bot 蓝皮书](https://github.com/rockyzhuo/grok-bot-blue-book) - 经营者蓝皮书（橙皮书续篇）：把 Grok Bot 团队当成会交货的公司来运营——制品契约、INSTALL.md 一键立站、五条路线模板。.
 
 ## 真实使用案例
 
@@ -182,6 +183,7 @@
 - [Grokularity: a company run by Grok Bots](https://grokularity.xyz) - 没写过代码的人用一小队 Grok Bot 一天搭起 grokularity.xyz：人只读，只有核过的 Grok Agent 能写。.
 - [Signal outbound Grok Bot](https://github.com/thoughtpilot99/signal-outbound-grok-bot) - Grok Bot 打法配方：猎取实时买家信号、输出排序名单、写两封触达稿，发送仍由人确认。.
 - [Grok-Bot-Fund](https://github.com/jjregier/Grok-Bot-Fund) - 用三个 Grok Bot 队友在云电脑上跑的个人模拟盘→实盘「对冲基金」工位，玩法变更只能经人工 PR 合并。.
+- [ExploreGrokBot market desk](https://github.com/WebDevJasonCameron/ExploreGrokBot) - 面向 Grok Bot 的文件式市场调研工位：公司使命、分析师 agent 指令、打分机会与决策日志，全在一套仓库布局里。.
 
 ## 技能、插件与 MCP
 
@@ -250,6 +252,11 @@
 - [Grok Bot Vision](https://github.com/kenarakelian1/grok-bot-vision) - Grok Bot 视觉插件：本地 Node MCP，让 Bot 看实时摄像头画面，以及图片、截图、PDF 和文档。.
 - [Glome plugin](https://github.com/ObsidianCodes/glome-plugin) - Cursor Marketplace / Grok Bot 插件：把 Bot 接到 Glome Cloud 托管 MCP，做 Bot 之间的一对一消息。.
 - [Aaron Marketing Skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) - 120 个营销技能：可装成插件、便携技能包，或在含 Grok Bot 在内的具名 Bot 主机上跑 8 Bot 营销团队。.
+- [AICA Life OS plugin](https://github.com/Comdei/aica-cursor-plugin) - Cursor/Grok Bot 插件：接入 AICA Life OS 托管 MCP（OAuth），让 Bot 读日程、任务与瞬间，并在 AICA 里确认后再写入。.
+- [GbNet for Grok Bot](https://github.com/medomatic-ai/gbnet-grok-bot-plugin) - 面向 Grok Bot 的 GbNet 插件（有别于 Cursor IDE 包）：托管 MCP 加协作 SKILL.md，让受邀 Bot 在你授权下协作。.
+- [ADD Framework agent plugin](https://github.com/dragosroua/grok-bot-add-plugin) - Grok Bot / Agent Plugin 技能包：Assess-Decide-Do 框架，六个 SKILL.md，识别探索/决策/执行并按阶段对齐回应。.
+- [unslopifymy agent plugin](https://github.com/dragosroua/grok-bot-unslopifymy-plugin) - 以 Grok Bot 命名的 Agent Plugin：本地 Node MCP 加 unslopify SKILL.md，通过 unslopifymy.ai（API key 或 x402）改写 AI 味文本。.
+- [Google Sheets agent plugin](https://github.com/euca-net/grok-bot-plugins) - grok-bot-plugins 仓库里的 Agent Plugin：把 Google Sheets API v4 封成 MCP 工具（读/写/追加/列标签）并带 google-sheets SKILL.md；已比早间空壳充实。.
 
 ## 评测与对比
 
@@ -315,6 +322,8 @@
 - [Lots of Agents](https://github.com/carllippert/lots_of_agents) - 原生 macOS Swift 工具：同一安装包多开 Grok Bot、Cursor、Claude、ChatGPT，各克隆独立数据目录、可同时登录。.
 - [BotRouter](https://github.com/lazerusrm/botrouter) - 在保留 Computer/浏览器/Shell 的前提下，让 Grok Bot 在云电脑里把推理路由到其他订阅（Cursor、Codex、xAI）。.
 - [Orbital](https://github.com/beamnxw/Orbital) - 给 Grok Bot 用的第二大脑：一个 CHIEF 加六个 deck，需人工批准；本地引擎与 deck 提示已可用，Grok Bot 托管仍在建设。.
+- [Aluvia geo proxy for agents](https://github.com/aluvia-connect/aluvia) - CLI 加 SKILL.md：按国家把云端 Agent 的 Chrome 经住宅/移动 IP 出口；文档与安装路径明确覆盖 Grok Bot（~/.grok）和 Cursor。.
+- [botmigrate](https://github.com/colesmcintosh/botmigrate) - 本地 Python CLI：在 Grok Bot 分享 JSON 与 Hermes Agent 配置（skills、cron、mcp 桩）之间转换与同步，不调用托管服务。.
 
 ## 社区与故障现场
 
@@ -436,7 +445,7 @@
 
 ## 贡献
 
-目前 8 个分类、332 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、341 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

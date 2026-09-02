@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-332-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-341-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（2）：[Macao](./EVENTS.md#mo-20260905) · [Chengdu](./EVENTS.md#cd-20260905)
-- **United States**（36）：[Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco (women)](./EVENTS.md#sf-20260903) · [San Francisco (demo)](./EVENTS.md#sfb-20260901) · [New York (students)](./EVENTS.md#nyc-20260903) · [San Francisco (students)](./EVENTS.md#sfs-20260903) · [Penn / Philadelphia](./EVENTS.md#phl-20260903) · [UIUC](./EVENTS.md#uiuc-20260903) · [Iowa State / Ames](./EVENTS.md#isu-20260903) · [Pitt](./EVENTS.md#pitt-20260903) · [NC State](./EVENTS.md#ncsu-20260903) · [Rose-Hulman](./EVENTS.md#rose-20260903) · [URochester](./EVENTS.md#roc-20260903) · [Chaffey College](./EVENTS.md#chf-20260903) · [RIT / Rochester](./EVENTS.md#rit-20260903) · [Cal Poly](./EVENTS.md#slo-20260903) · [UC Santa Barbara](./EVENTS.md#sba-20260903) · [Delaware](./EVENTS.md#udel-20260903) · [UC Davis](./EVENTS.md#davis-20260903) · [Michigan / Ann Arbor](./EVENTS.md#a2-20260903) · [Florida / Gainesville](./EVENTS.md#uf-20260903) · [Texas A&M](./EVENTS.md#tamu-20260903) · [TX Luminescence](./EVENTS.md#txl-20260903) · [Johns Hopkins](./EVENTS.md#jhu-20260903) · [Princeton](./EVENTS.md#prin-20260903) · [CMU / Pittsburgh](./EVENTS.md#cmu-20260903) · [Purdue](./EVENTS.md#laf-20260903) · [McNeese / Lake Charles](./EVENTS.md#mcn-20260903) · [Harvard](./EVENTS.md#hvd-20260903) · [UC Riverside](./EVENTS.md#ucr-20260903) · [San Francisco After Dark](./EVENTS.md#sfd-20260902) · [New York After Dark](./EVENTS.md#nyd-20260902) · [5Cs / Claremont](./EVENTS.md#cla-20260903) · [MSJC / Temecula](./EVENTS.md#tem-20260903) · [Miami U / Oxford OH](./EVENTS.md#oxf-20260903) · [Temple / Philadelphia](./EVENTS.md#tmp-20260903) · [UNC / Chapel Hill](./EVENTS.md#unc-20260903)
+- **United States**（37）：[Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco (women)](./EVENTS.md#sf-20260903) · [New York (students)](./EVENTS.md#nyc-20260903) · [San Francisco (students)](./EVENTS.md#sfs-20260903) · [Penn / Philadelphia](./EVENTS.md#phl-20260903) · [UIUC](./EVENTS.md#uiuc-20260903) · [Iowa State / Ames](./EVENTS.md#isu-20260903) · [Pitt](./EVENTS.md#pitt-20260903) · [NC State](./EVENTS.md#ncsu-20260903) · [Rose-Hulman](./EVENTS.md#rose-20260903) · [URochester](./EVENTS.md#roc-20260903) · [Chaffey College](./EVENTS.md#chf-20260903) · [RIT / Rochester](./EVENTS.md#rit-20260903) · [Cal Poly](./EVENTS.md#slo-20260903) · [UC Santa Barbara](./EVENTS.md#sba-20260903) · [Delaware](./EVENTS.md#udel-20260903) · [UC Davis](./EVENTS.md#davis-20260903) · [Michigan / Ann Arbor](./EVENTS.md#a2-20260903) · [Florida / Gainesville](./EVENTS.md#uf-20260903) · [Texas A&M](./EVENTS.md#tamu-20260903) · [TX Luminescence](./EVENTS.md#txl-20260903) · [Johns Hopkins](./EVENTS.md#jhu-20260903) · [Princeton](./EVENTS.md#prin-20260903) · [CMU / Pittsburgh](./EVENTS.md#cmu-20260903) · [Purdue](./EVENTS.md#laf-20260903) · [McNeese / Lake Charles](./EVENTS.md#mcn-20260903) · [Harvard](./EVENTS.md#hvd-20260903) · [UC Riverside](./EVENTS.md#ucr-20260903) · [San Francisco After Dark](./EVENTS.md#sfd-20260902) · [New York After Dark](./EVENTS.md#nyd-20260902) · [5Cs / Claremont](./EVENTS.md#cla-20260903) · [MSJC / Temecula](./EVENTS.md#tem-20260903) · [Miami U / Oxford OH](./EVENTS.md#oxf-20260903) · [Temple / Philadelphia](./EVENTS.md#tmp-20260903) · [UNC / Chapel Hill](./EVENTS.md#unc-20260903) · [SJSU / San Jose](./EVENTS.md#sjsu-20260903) · [USC / Los Angeles](./EVENTS.md#usc-20260903)
 - **Argentina**（4）：[Bariloche](./EVENTS.md#brc-20260910) · [Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
 - **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260917) · [Toronto](./EVENTS.md#yyz-20260917)
 - **Ecuador**（3）：[Manta](./EVENTS.md#mec-20260912) · [Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
@@ -147,6 +147,7 @@
 - [maplefukku/grok-bot-ops](https://github.com/maplefukku/grok-bot-ops) - Japanese command-center repo for running product work through Grok Bot: routine drafts, verification bootstrap, knowhow log, and a Cursor plugin wrapper.
 - [Technocore Grok Bot 日本語ガイド](https://github.com/hariou/technocore-grokbot-ja) - Japanese operating guide plus GROKBOT_PROMPT.md for running a Technocore DID safely on Grok Bot without leaking seeds or spamming the lobby.
 - [Grok Bot Getting Started hubs](https://github.com/mrlynn/grok-bot-getting-started) - Thin branded Docusaurus hubs for What is Grok Bot, install/sign-in, and first task, deep-linking to docs.x.ai and x.ai/bot.
+- [Grok Bot 蓝皮书](https://github.com/rockyzhuo/grok-bot-blue-book) - Operator playbook (companion to the orange book) for running a Grok Bot team as a delivery company—artifact contracts, INSTALL.md bootstrap, and five route templates.
 
 ## Field Cases
 
@@ -182,6 +183,7 @@
 - [Grokularity: a company run by Grok Bots](https://grokularity.xyz) - A non-coder stood up grokularity.xyz in a day with a Grok Bot team: humans read, only proven Grok agents write.
 - [Signal outbound Grok Bot](https://github.com/thoughtpilot99/signal-outbound-grok-bot) - Recipe for a Grok Bot that hunts live buyer signals, returns a ranked list, and drafts two outreach scripts while a human sends.
 - [Grok-Bot-Fund](https://github.com/jjregier/Grok-Bot-Fund) - Personal paper-to-live "hedge fund" desk run by three Grok Bot teammates on the cloud computer, with versioned playbooks merged only via human PRs.
+- [ExploreGrokBot market desk](https://github.com/WebDevJasonCameron/ExploreGrokBot) - File-based Grok Bot market-research desk: company mission, analyst agent instructions, scored opportunities, and a decision log under one repo layout.
 
 ## Skills, Plugins & MCP
 
@@ -250,6 +252,11 @@
 - [Grok Bot Vision](https://github.com/kenarakelian1/grok-bot-vision) - Grok Bot vision plugin with local Node MCP so a Bot can see a live camera stream plus pictures, screenshots, PDFs, and documents.
 - [Glome plugin](https://github.com/ObsidianCodes/glome-plugin) - Cursor Marketplace / Grok Bot plugin that binds Bots to Glome Cloud hosted MCP for 1:1 Bot-to-Bot messaging.
 - [Aaron Marketing Skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) - 120 marketing skills installable as a plugin, portable skills, or an 8-bot AI staff on named-bot hosts including Grok Bot.
+- [AICA Life OS plugin](https://github.com/Comdei/aica-cursor-plugin) - Cursor/Grok Bot plugin that wires the hosted AICA Life OS MCP with OAuth so a Bot can read the day, tasks, and moments, then propose writes you confirm in AICA.
+- [GbNet for Grok Bot](https://github.com/medomatic-ai/gbnet-grok-bot-plugin) - Grok Bot–specific GbNet plugin (distinct from the Cursor IDE package) with hosted MCP and a collaboration SKILL.md so invited Bots can work together under your permissions.
+- [ADD Framework agent plugin](https://github.com/dragosroua/grok-bot-add-plugin) - Grok Bot / Agent Plugin skills pack for the Assess-Decide-Do framework—six SKILL.md files that detect explore vs decide vs execute and answer in-alignment.
+- [unslopifymy agent plugin](https://github.com/dragosroua/grok-bot-unslopifymy-plugin) - Grok Bot–named Agent Plugin with local Node MCP and an unslopify SKILL.md that rewrites AI-slop text via unslopifymy.ai (API key or x402).
+- [Google Sheets agent plugin](https://github.com/euca-net/grok-bot-plugins) - grok-bot-plugins Agent Plugin wrapping Google Sheets API v4 as MCP tools (get/update/append/list tabs) plus a google-sheets SKILL.md—now past the morning empty-stub state.
 
 ## Reviews & Comparisons
 
@@ -315,6 +322,8 @@
 - [Lots of Agents](https://github.com/carllippert/lots_of_agents) - Native macOS Swift tool that launches multiple signed-in clones of Grok Bot, Cursor, Claude, and ChatGPT from one installed app with private data folders.
 - [BotRouter](https://github.com/lazerusrm/botrouter) - Tools that let Grok Bot keep Computer/browser/shell while routing inference through other subscriptions (Cursor, Codex, xAI) from inside the Bot computer.
 - [Orbital](https://github.com/beamnxw/Orbital) - Second-brain OS for Grok Bot: one CHIEF plus six decks with human approval; local engine and deck prompts are live, Grok Bot host still in build.
+- [Aluvia geo proxy for agents](https://github.com/aluvia-connect/aluvia) - CLI plus SKILL.md that routes a cloud agent's Chrome through residential/mobile IPs by country—docs and install paths explicitly cover Grok Bot (~/.grok) and Cursor.
+- [botmigrate](https://github.com/colesmcintosh/botmigrate) - Local Python CLI that converts and syncs bot definitions between Grok Bot share JSON and Hermes Agent profiles (skills, cron, mcp stubs)—no hosted calls.
 
 ## Community & Failure Modes
 
@@ -436,7 +445,7 @@
 
 ## Contributing
 
-332 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+341 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

@@ -24,9 +24,6 @@
 <a id="sf-20260903"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/a16zgrokbotbuildnight"><img src="./assets/events/sf-20260903-cover.png" alt="Grok Bot 女性 Build Night（旧金山）" width="300" /></a></td><td valign="top"><strong>Grok Bot 女性 Build Night（旧金山）</strong><br />2026-09-03 周三 17:00–21:00（太平洋夏令时）<br />旧金山 a16z，180 Townsend St<br /><br />旧金山女性向轻松场：一起了解 Grok Bot 能干啥，并现场搭起来。<br /><br /><a href="https://luma.com/a16zgrokbotbuildnight"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="sfb-20260901"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/p4rvaf0y"><img src="./assets/events/sfb-20260901-cover.png" alt="旧金山 Grok @bot 构建演示" width="300" /></a></td><td valign="top"><strong>旧金山 Grok @bot 构建演示</strong><br />2026-09-01 周二 18:00–20:00（旧金山）<br />旧金山 Yerba Buena · 报名通过后可见地址<br /><br />旧金山 Grok Bot 构建演示。需审核，可候补。<br /><br /><a href="https://luma.com/p4rvaf0y"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
 <a id="nyc-20260903"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/nc8i3yo7"><img src="./assets/events/nyc-20260903-cover.png" alt="Grok Bot 纽约学生 Build Night" width="300" /></a></td><td valign="top"><strong>Grok Bot 纽约学生 Build Night</strong><br />2026-09-03 周四 18:00–20:00（纽约）<br />SpaceXAI 纽约 · 报名后可见地址<br /><br />SpaceXAI 纽约学生场：现场演示 Grok Bot、一起做、有零食，并送一个月含 Grok Bot 的 Cursor Pro。<br /><br /><a href="https://luma.com/nc8i3yo7"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
@@ -124,7 +121,13 @@
 <table><tr><td width="320" valign="top"><a href="https://luma.com/0wfa472i"><img src="./assets/events/tmp-20260903-cover.png" alt="Grok Bot Build Night（天普大学 / 费城）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（天普大学 / 费城）</strong><br />2026-09-03 周四 17:45–19:45（费城天普）<br />费城 · SERC, 1925 N 12th St<br /><br />SpaceXAI @ 天普：直播 Grok Bot 演示后动手。到场领 Cursor Pro/Grok Bot。与宾大 phl-20260903 不同场。<br /><br /><a href="https://luma.com/0wfa472i"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="unc-20260903"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/8y156yr2"><img src="./assets/events/unc-20260903-cover.png" alt="Grok Bot Build Night（UNC / 教堂山）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（UNC / 教堂山）</strong><br />2026-09-03 周四 18:00 起（EDT；Luma 结束标到周五 08:00）<br />教堂山 · Innovate Carolina Junction, 136 E Rosemary St<br /><br />SpaceXAI × Cursor @ UNC：直播 Grok Bot 演示后动手。到场领一个月 Cursor Pro（含 Grok Bot）。<br /><br /><a href="https://luma.com/8y156yr2"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/8y156yr2"><img src="./assets/events/unc-20260903-cover.png" alt="Grok Bot Build Night（UNC / 教堂山）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（UNC / 教堂山）</strong><br />2026-09-03 周四 18:00–20:00（EDT）<br />教堂山 · Innovate Carolina Junction, 136 E Rosemary St<br /><br />SpaceXAI × Cursor @ UNC：直播 Grok Bot 演示后动手。到场领一个月 Cursor Pro（含 Grok Bot）。<br /><br /><a href="https://luma.com/8y156yr2"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
+<a id="sjsu-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/7cwp04yy"><img src="./assets/events/sjsu-20260903-cover.png" alt="Grok Bot Build Night（SJSU / 圣何塞）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（SJSU / 圣何塞）</strong><br />2026-09-03 周四 18:00–20:00（圣何塞）<br />加州圣何塞 · San José State University, 1 Washington Sq<br /><br />SJSU（圣何塞州立大学）Grok Bot 动手夜，SpaceXAI Education 日历。线下学生场。<br /><br /><a href="https://luma.com/7cwp04yy"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
+<a id="usc-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/nry7q7y9"><img src="./assets/events/usc-20260903-cover.png" alt="Grok Bot Build Night（USC / 洛杉矶）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（USC / 洛杉矶）</strong><br />2026-09-03 周四 18:20–19:20（洛杉矶）<br />加州洛杉矶 · USC, 850 Bloom Walk ste 204<br /><br />SpaceX AI @ USC Grok Bot 动手夜，SpaceXAI Education 日历。线下学生场。<br /><br /><a href="https://luma.com/nry7q7y9"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="country-ar"></a>
 ### 阿根廷

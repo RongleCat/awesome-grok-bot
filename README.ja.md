@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-332-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-341-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [イベントの詳細](./EVENTS.ja.md)
 
 - **中国**（2）：[マカオ](./EVENTS.ja.md#mo-20260905) · [成都](./EVENTS.ja.md#cd-20260905)
-- **アメリカ**（36）：[ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ（女性）](./EVENTS.ja.md#sf-20260903) · [サンフランシスコ（デモ）](./EVENTS.ja.md#sfb-20260901) · [ニューヨーク（学生）](./EVENTS.ja.md#nyc-20260903) · [サンフランシスコ（学生）](./EVENTS.ja.md#sfs-20260903) · [ペンシルベニア大](./EVENTS.ja.md#phl-20260903) · [UIUC](./EVENTS.ja.md#uiuc-20260903) · [アイオワ州立](./EVENTS.ja.md#isu-20260903) · [ピッツバーグ大](./EVENTS.ja.md#pitt-20260903) · [NC State](./EVENTS.ja.md#ncsu-20260903) · [Rose-Hulman](./EVENTS.ja.md#rose-20260903) · [ロチェスター大](./EVENTS.ja.md#roc-20260903) · [Chaffey College](./EVENTS.ja.md#chf-20260903) · [RIT](./EVENTS.ja.md#rit-20260903) · [Cal Poly](./EVENTS.ja.md#slo-20260903) · [UCSB](./EVENTS.ja.md#sba-20260903) · [デラウェア大](./EVENTS.ja.md#udel-20260903) · [UC Davis](./EVENTS.ja.md#davis-20260903) · [ミシガン大](./EVENTS.ja.md#a2-20260903) · [フロリダ大](./EVENTS.ja.md#uf-20260903) · [テキサスA&M](./EVENTS.ja.md#tamu-20260903) · [TX Luminescence](./EVENTS.ja.md#txl-20260903) · [ジョンズホプキンス](./EVENTS.ja.md#jhu-20260903) · [プリンストン](./EVENTS.ja.md#prin-20260903) · [CMU](./EVENTS.ja.md#cmu-20260903) · [パデュー](./EVENTS.ja.md#laf-20260903) · [McNeese](./EVENTS.ja.md#mcn-20260903) · [ハーバード](./EVENTS.ja.md#hvd-20260903) · [UCR](./EVENTS.ja.md#ucr-20260903) · [サンフランシスコ After Dark](./EVENTS.ja.md#sfd-20260902) · [ニューヨーク After Dark](./EVENTS.ja.md#nyd-20260902) · [5Cs / Claremont](./EVENTS.ja.md#cla-20260903) · [MSJC / Temecula](./EVENTS.ja.md#tem-20260903) · [Miami U / Oxford OH](./EVENTS.ja.md#oxf-20260903) · [Temple / フィラデルフィア](./EVENTS.ja.md#tmp-20260903) · [UNC / Chapel Hill](./EVENTS.ja.md#unc-20260903)
+- **アメリカ**（37）：[ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ（女性）](./EVENTS.ja.md#sf-20260903) · [ニューヨーク（学生）](./EVENTS.ja.md#nyc-20260903) · [サンフランシスコ（学生）](./EVENTS.ja.md#sfs-20260903) · [ペンシルベニア大](./EVENTS.ja.md#phl-20260903) · [UIUC](./EVENTS.ja.md#uiuc-20260903) · [アイオワ州立](./EVENTS.ja.md#isu-20260903) · [ピッツバーグ大](./EVENTS.ja.md#pitt-20260903) · [NC State](./EVENTS.ja.md#ncsu-20260903) · [Rose-Hulman](./EVENTS.ja.md#rose-20260903) · [ロチェスター大](./EVENTS.ja.md#roc-20260903) · [Chaffey College](./EVENTS.ja.md#chf-20260903) · [RIT](./EVENTS.ja.md#rit-20260903) · [Cal Poly](./EVENTS.ja.md#slo-20260903) · [UCSB](./EVENTS.ja.md#sba-20260903) · [デラウェア大](./EVENTS.ja.md#udel-20260903) · [UC Davis](./EVENTS.ja.md#davis-20260903) · [ミシガン大](./EVENTS.ja.md#a2-20260903) · [フロリダ大](./EVENTS.ja.md#uf-20260903) · [テキサスA&M](./EVENTS.ja.md#tamu-20260903) · [TX Luminescence](./EVENTS.ja.md#txl-20260903) · [ジョンズホプキンス](./EVENTS.ja.md#jhu-20260903) · [プリンストン](./EVENTS.ja.md#prin-20260903) · [CMU](./EVENTS.ja.md#cmu-20260903) · [パデュー](./EVENTS.ja.md#laf-20260903) · [McNeese](./EVENTS.ja.md#mcn-20260903) · [ハーバード](./EVENTS.ja.md#hvd-20260903) · [UCR](./EVENTS.ja.md#ucr-20260903) · [サンフランシスコ After Dark](./EVENTS.ja.md#sfd-20260902) · [ニューヨーク After Dark](./EVENTS.ja.md#nyd-20260902) · [5Cs / Claremont](./EVENTS.ja.md#cla-20260903) · [MSJC / Temecula](./EVENTS.ja.md#tem-20260903) · [Miami U / Oxford OH](./EVENTS.ja.md#oxf-20260903) · [Temple / フィラデルフィア](./EVENTS.ja.md#tmp-20260903) · [UNC / Chapel Hill](./EVENTS.ja.md#unc-20260903) · [SJSU / San Jose](./EVENTS.ja.md#sjsu-20260903) · [USC / Los Angeles](./EVENTS.ja.md#usc-20260903)
 - **アルゼンチン**（4）：[バリローチェ](./EVENTS.ja.md#brc-20260910) · [ブエノスアイレス](./EVENTS.ja.md#bue-20260916) · [メンドサ](./EVENTS.ja.md#mdz-20261003) · [サルタ](./EVENTS.ja.md#sla-20260916)
 - **カナダ**（4）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [ビクトリア（BC）](./EVENTS.ja.md#vic-20260921) · [サドベリー](./EVENTS.ja.md#sud-20260917) · [トロント](./EVENTS.ja.md#yyz-20260917)
 - **エクアドル**（3）：[マンタ](./EVENTS.ja.md#mec-20260912) · [キト](./EVENTS.ja.md#uio-20260924) · [クンバヤ](./EVENTS.ja.md#cumb-20261003)
@@ -147,6 +147,7 @@
 - [maplefukku/grok-bot-ops](https://github.com/maplefukku/grok-bot-ops) - Grok Bot で製品開発を回す日本語の司令室リポジトリ。routine 原稿、検証スキル移植、ノウハウ記録、Cursor プラグイン包装（0★）。
 - [Technocore Grok Bot 日本語ガイド](https://github.com/hariou/technocore-grokbot-ja) - Technocore の DID を Grok Bot で安全に運用する日本語ガイドと GROKBOT_PROMPT.md。seed を漏らさず、ロビーも荒らしません。
 - [Grok Bot Getting Started hubs](https://github.com/mrlynn/grok-bot-getting-started) - 薄い Docusaurus ハブ。Grok Bot とは／インストールとサインイン／最初のタスクを、docs.x.ai と x.ai/bot へディープリンク。
+- [Grok Bot 蓝皮书](https://github.com/rockyzhuo/grok-bot-blue-book) - 橙皮書の続編オペレーション本。Grok Bot チームを納品する会社として回す：成果物契約、INSTALL.md 立ち上げ、5 本のルート雛形。
 
 ## 実地事例
 
@@ -182,6 +183,7 @@
 - [Grokularity: a company run by Grok Bots](https://grokularity.xyz) - 非エンジニアが Grok Bot チームで 1 日で grokularity.xyz を立ち上げた。人間は読むだけ、投稿できるのは証明済みの Grok Agent。
 - [Signal outbound Grok Bot](https://github.com/thoughtpilot99/signal-outbound-grok-bot) - ライブの買いシグナルを狩り、順位付きリストと2通のアウトリーチ案を出す Grok Bot レシピ。送信は人が行う。
 - [Grok-Bot-Fund](https://github.com/jjregier/Grok-Bot-Fund) - クラウドパソコン上の Grok Bot 3体で回す個人ペーパー→ライブ「ヘッジファンド」デスク。プレイブック変更は人の PR マージのみ。
+- [ExploreGrokBot market desk](https://github.com/WebDevJasonCameron/ExploreGrokBot) - Grok Bot 向けファイルベース市場調査デスク。会社ミッション、アナリスト指示、スコア付き機会、意思決定ログを一リポジトリに。
 
 ## スキル、プラグインと MCP
 
@@ -250,6 +252,11 @@
 - [Grok Bot Vision](https://github.com/kenarakelian1/grok-bot-vision) - Grok Bot ビジョンプラグイン。ローカル Node MCP でライブカメラに加え、画像・スクショ・PDF・文書を見せられます。
 - [Glome plugin](https://github.com/ObsidianCodes/glome-plugin) - Cursor Marketplace / Grok Bot プラグイン。Glome Cloud ホスト MCP に繋ぎ、Bot 同士の 1:1 メッセージができます。
 - [Aaron Marketing Skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) - 120 のマーケスキル。プラグイン／持ち運びスキル、または Grok Bot など名前付き Bot ホスト上の 8 Bot マーケ部隊として導入できます。
+- [AICA Life OS plugin](https://github.com/Comdei/aica-cursor-plugin) - Cursor / Grok Bot プラグイン。ホスト AICA Life OS MCP を OAuth で繋ぎ、予定・タスク・モーメントを読み、AICA 側で承認してから書けます。
+- [GbNet for Grok Bot](https://github.com/medomatic-ai/gbnet-grok-bot-plugin) - Grok Bot 向け GbNet プラグイン（Cursor IDE 版とは別）。ホスト MCP と協業 SKILL.md で、招待した Bot 同士を権限付きで協働させます。
+- [ADD Framework agent plugin](https://github.com/dragosroua/grok-bot-add-plugin) - Grok Bot / Agent Plugin 向け Assess-Decide-Do スキル。探索・決定・実行を検知し、段階に合わせて答える SKILL.md が6本。
+- [unslopifymy agent plugin](https://github.com/dragosroua/grok-bot-unslopifymy-plugin) - Grok Bot 向け Agent Plugin。ローカル Node MCP と unslopify SKILL.md で、unslopifymy.ai（API キーまたは x402）により AI スロップ文を書き換えます。
+- [Google Sheets agent plugin](https://github.com/euca-net/grok-bot-plugins) - grok-bot-plugins の Agent Plugin。Google Sheets API v4 を get/update/append/list の MCP にし、google-sheets SKILL.md 付き（朝の空スタブから充実）。
 
 ## レビューと比較
 
@@ -315,6 +322,8 @@
 - [Lots of Agents](https://github.com/carllippert/lots_of_agents) - ネイティブ macOS Swift ツール。入れたアプリを複数クローン起動し、Grok Bot / Cursor / Claude / ChatGPT を別データフォルダで同時ログインできます。
 - [BotRouter](https://github.com/lazerusrm/botrouter) - Computer／ブラウザ／Shell はそのままに、Bot のパソコン内から Cursor / Codex / xAI など別サブスクへ推論をルーティングするツール。
 - [Orbital](https://github.com/beamnxw/Orbital) - Grok Bot 向けセカンドブレイン。CHIEF 1体と6デッキ、人の承認付き。ローカル引擎とデッキプロンプトは稼働、Grok Bot ホストは構築中。
+- [Aluvia geo proxy for agents](https://github.com/aluvia-connect/aluvia) - CLI と SKILL.md。国別にクラウドエージェントの Chrome を住宅／モバイル IP 経由にし、Grok Bot（~/.grok）と Cursor の導入パスを明記。
+- [botmigrate](https://github.com/colesmcintosh/botmigrate) - ローカル Python CLI。Grok Bot 共有 JSON と Hermes Agent プロファイル（skills / cron / mcp スタブ）を変換・同期。ホスト呼び出しなし。
 
 ## コミュニティと障害事例
 
@@ -436,7 +445,7 @@
 
 ## 貢献
 
-8 セクションに 332 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 341 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
