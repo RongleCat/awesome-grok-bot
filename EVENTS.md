@@ -108,6 +108,24 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="sfd-20260902"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-7alp"><img src="./assets/events/sfd-20260902-cover.png" alt="Grok Bot After Dark (SF)" width="300" /></a></td><td valign="top"><strong>Grok Bot After Dark (SF)</strong><br />Wed 2 Sep 2026, 18:00–22:00 (PDT)<br />San Francisco · Radhaus, 2 Marina Blvd Bldg A (Fort Mason)<br /><br />SpaceXAI After Dark: creators, builders, founders, and creative technologists exploring what’s possible with Grok Bot. Host approval.<br /><br /><a href="https://luma.com/spacexai-7alp"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
+<a id="nyd-20260902"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-jm84"><img src="./assets/events/nyd-20260902-cover.png" alt="Grok Bot After Dark (NYC)" width="300" /></a></td><td valign="top"><strong>Grok Bot After Dark (NYC)</strong><br />Wed 2 Sep 2026, 18:00–22:00 (EDT)<br />Brooklyn · Public Records, 233 Butler St<br /><br />SpaceXAI After Dark NYC: creators, builders, founders exploring what’s possible with Grok Bot at Public Records. Host approval; currently sold out on Luma.<br /><br /><a href="https://luma.com/spacexai-jm84"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<a id="cla-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/w1bt19vc"><img src="./assets/events/cla-20260903-cover.png" alt="Grok Bot Build Night (5Cs / Claremont)" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night (5Cs / Claremont)</strong><br />Thu 3 Sep 2026, 10:00–23:30 (PDT)<br />Claremont, CA · 130 E 7th St<br /><br />5Cs (Claremont Colleges) Grok Bot Build Night on the SpaceXAI Education calendar. Offline student build session.<br /><br /><a href="https://luma.com/w1bt19vc"><strong>Register on Luma → →</strong></a></td></tr></table>
+
+<a id="tem-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/z8jhz0zv"><img src="./assets/events/tem-20260903-cover.png" alt="Grok Bot Build Night (Mt. San Jacinto / Temecula)" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night (Mt. San Jacinto / Temecula)</strong><br />Thu 3 Sep 2026, 13:00–17:00 (PDT)<br />Temecula, CA · Mt. San Jacinto College (exact room after register)<br /><br />SpaceXAI × MSJC Grok Bot night: live demo then build/share. Free month of Cursor Pro (incl. Grok Bot) via attendee code.<br /><br /><a href="https://luma.com/z8jhz0zv"><strong>Register on Luma → →</strong></a></td></tr></table>
+
+<a id="oxf-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/q9cvyjrr"><img src="./assets/events/oxf-20260903-cover.png" alt="Grok Bot Build Night (Miami University / Oxford OH)" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night (Miami University / Oxford OH)</strong><br />Thu 3 Sep 2026, 17:00–18:00 (EDT)<br />Oxford, OH · Lee and Rosemary Innovation College@Elm, 20 S Elm St<br /><br />SpaceXAI × Miami University: Grok Bot demo then free-build/network/food. Free month of Cursor Pro (incl. Grok Bot).<br /><br /><a href="https://luma.com/q9cvyjrr"><strong>Register on Luma → →</strong></a></td></tr></table>
+
+<a id="tmp-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/0wfa472i"><img src="./assets/events/tmp-20260903-cover.png" alt="Grok Bot Build Night (Temple / Philadelphia)" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night (Temple / Philadelphia)</strong><br />Thu 3 Sep 2026, 17:45–19:45 (EDT)<br />Philadelphia · Science Education and Research Center, 1925 N 12th St<br /><br />SpaceXAI @ Temple: live-streamed Grok Bot demo then casual build sessions. Free month of Cursor Pro / Grok Bot for attendees. Distinct from Penn Labs phl-20260903.<br /><br /><a href="https://luma.com/0wfa472i"><strong>Register on Luma → →</strong></a></td></tr></table>
+
+<a id="unc-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/8y156yr2"><img src="./assets/events/unc-20260903-cover.png" alt="Grok Bot Build Night (UNC / Chapel Hill)" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night (UNC / Chapel Hill)</strong><br />Thu 3 Sep 2026, from 18:00 (EDT; Luma end listed 08:00 Fri)<br />Chapel Hill · Innovate Carolina Junction, 136 E Rosemary St<br /><br />SpaceXAI × Cursor @ UNC: live Grok Bot demo then hands-on build. Free month of Cursor Pro (incl. Grok Bot).<br /><br /><a href="https://luma.com/8y156yr2"><strong>Register on Luma → →</strong></a></td></tr></table>
+
 <a id="country-ar"></a>
 ### Argentina
 
@@ -240,6 +258,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="yde-20260910"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-90pj"><img src="./assets/events/yde-20260910-cover.png" alt="Grok Bot Meetup Yaoundé" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Yaoundé</strong><br />Thu 10 Sep 2026, 11:30–15:00 (WAT)<br />Yaoundé · exact address after you register<br /><br />In-person Grok Bot meetup in Yaoundé. Host approval required.<br /><br /><a href="https://luma.com/cursor-90pj"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
+<a id="country-co"></a>
+### Colombia
+
+<a id="ctg-20260911"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-meetup"><img src="./assets/events/ctg-20260911-cover.png" alt="Grok Bot Meetup Cartago" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cartago</strong><br />Fri 11 Sep 2026, 14:00–18:00 (COT)<br />Cartago, Colombia · Cámara de Comercio, Cra. 4 # 12-101<br /><br />Cartago meetup on Cursor + SpaceXAI and real Grok Bot uses; 5 local speakers. Offline at the Chamber of Commerce.<br /><br /><a href="https://luma.com/grokbot-meetup"><strong>Register on Luma → →</strong></a></td></tr></table>
+
 <a id="country-dk"></a>
 ### Denmark
 
@@ -251,6 +275,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="ldn-20260916"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-london"><img src="./assets/events/ldn-20260916-cover.png" alt="Grok Bot Meetup London" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup London</strong><br />Wed 16 Sep 2026, 18:00–21:00 (BST)<br />London · Granola hosting (exact street after register)<br /><br />First Grok Bot meetup in London: evening cowork, local power-user demos (SpaceXAI field engineer Kiara Polychroniadi), laptop + credits. Free registration.<br /><br /><a href="https://luma.com/grok-bot-london"><strong>Register on Luma → →</strong></a></td></tr></table>
+
+<a id="country-id"></a>
+### Indonesia
+
+<a id="tgr-20260911"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-tgr"><img src="./assets/events/tgr-20260911-cover.png" alt="Grok Bot Workshop | Tangerang" width="300" /></a></td><td valign="top"><strong>Grok Bot Workshop | Tangerang</strong><br />Fri 11 Sep 2026, 18:00–20:30 (WIB)<br />Tangerang · Garuda Spark Innovation Hub - BSD City<br /><br />Hands-on Grok Bot workshop in Tangerang: demo + build + hang. Bring laptop/iPhone; download x.ai/bot ahead. Approval required.<br /><br /><a href="https://luma.com/grok-bot-tgr"><strong>Register on Luma → →</strong></a></td></tr></table>
 
 <a id="country-il"></a>
 ### Israel

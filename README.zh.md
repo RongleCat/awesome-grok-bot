@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-313-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-332-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（2）：[澳门](./EVENTS.zh.md#mo-20260905) · [成都](./EVENTS.zh.md#cd-20260905)
-- **美国**（30）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山（女性场）](./EVENTS.zh.md#sf-20260903) · [旧金山（演示）](./EVENTS.zh.md#sfb-20260901) · [纽约（学生）](./EVENTS.zh.md#nyc-20260903) · [旧金山（学生）](./EVENTS.zh.md#sfs-20260903) · [费城宾大](./EVENTS.zh.md#phl-20260903) · [香槟 UIUC](./EVENTS.zh.md#uiuc-20260903) · [爱荷华州立](./EVENTS.zh.md#isu-20260903) · [匹兹堡大学](./EVENTS.zh.md#pitt-20260903) · [北卡州立](./EVENTS.zh.md#ncsu-20260903) · [Rose-Hulman](./EVENTS.zh.md#rose-20260903) · [罗切斯特大学](./EVENTS.zh.md#roc-20260903) · [Chaffey College](./EVENTS.zh.md#chf-20260903) · [RIT 罗切斯特](./EVENTS.zh.md#rit-20260903) · [Cal Poly](./EVENTS.zh.md#slo-20260903) · [UCSB](./EVENTS.zh.md#sba-20260903) · [特拉华大学](./EVENTS.zh.md#udel-20260903) · [UC Davis](./EVENTS.zh.md#davis-20260903) · [密歇根大学](./EVENTS.zh.md#a2-20260903) · [佛罗里达大学](./EVENTS.zh.md#uf-20260903) · [德州农工](./EVENTS.zh.md#tamu-20260903) · [德州 TX Luminescence](./EVENTS.zh.md#txl-20260903) · [约翰霍普金斯](./EVENTS.zh.md#jhu-20260903) · [普林斯顿](./EVENTS.zh.md#prin-20260903) · [卡内基梅隆](./EVENTS.zh.md#cmu-20260903) · [普渡](./EVENTS.zh.md#laf-20260903) · [McNeese](./EVENTS.zh.md#mcn-20260903) · [哈佛](./EVENTS.zh.md#hvd-20260903) · [UCR 河滨](./EVENTS.zh.md#ucr-20260903) · [旧金山 After Dark](./EVENTS.zh.md#sfd-20260902)
+- **美国**（36）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山（女性场）](./EVENTS.zh.md#sf-20260903) · [旧金山（演示）](./EVENTS.zh.md#sfb-20260901) · [纽约（学生）](./EVENTS.zh.md#nyc-20260903) · [旧金山（学生）](./EVENTS.zh.md#sfs-20260903) · [费城宾大](./EVENTS.zh.md#phl-20260903) · [香槟 UIUC](./EVENTS.zh.md#uiuc-20260903) · [爱荷华州立](./EVENTS.zh.md#isu-20260903) · [匹兹堡大学](./EVENTS.zh.md#pitt-20260903) · [北卡州立](./EVENTS.zh.md#ncsu-20260903) · [Rose-Hulman](./EVENTS.zh.md#rose-20260903) · [罗切斯特大学](./EVENTS.zh.md#roc-20260903) · [Chaffey College](./EVENTS.zh.md#chf-20260903) · [RIT 罗切斯特](./EVENTS.zh.md#rit-20260903) · [Cal Poly](./EVENTS.zh.md#slo-20260903) · [UCSB](./EVENTS.zh.md#sba-20260903) · [特拉华大学](./EVENTS.zh.md#udel-20260903) · [UC Davis](./EVENTS.zh.md#davis-20260903) · [密歇根大学](./EVENTS.zh.md#a2-20260903) · [佛罗里达大学](./EVENTS.zh.md#uf-20260903) · [德州农工](./EVENTS.zh.md#tamu-20260903) · [德州 TX Luminescence](./EVENTS.zh.md#txl-20260903) · [约翰霍普金斯](./EVENTS.zh.md#jhu-20260903) · [普林斯顿](./EVENTS.zh.md#prin-20260903) · [卡内基梅隆](./EVENTS.zh.md#cmu-20260903) · [普渡](./EVENTS.zh.md#laf-20260903) · [McNeese](./EVENTS.zh.md#mcn-20260903) · [哈佛](./EVENTS.zh.md#hvd-20260903) · [UCR 河滨](./EVENTS.zh.md#ucr-20260903) · [旧金山 After Dark](./EVENTS.zh.md#sfd-20260902) · [纽约 After Dark](./EVENTS.zh.md#nyd-20260902) · [5Cs 克莱蒙特](./EVENTS.zh.md#cla-20260903) · [MSJC 特曼库拉](./EVENTS.zh.md#tem-20260903) · [迈阿密大学 Oxford](./EVENTS.zh.md#oxf-20260903) · [天普大学 费城](./EVENTS.zh.md#tmp-20260903) · [UNC 教堂山](./EVENTS.zh.md#unc-20260903)
 - **阿根廷**（4）：[巴里洛切](./EVENTS.zh.md#brc-20260910) · [布宜诺斯艾利斯](./EVENTS.zh.md#bue-20260916) · [门多萨](./EVENTS.zh.md#mdz-20261003) · [萨尔塔](./EVENTS.zh.md#sla-20260916)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [萨德伯里](./EVENTS.zh.md#sud-20260917) · [多伦多](./EVENTS.zh.md#yyz-20260917)
 - **厄瓜多尔**（3）：[曼塔](./EVENTS.zh.md#mec-20260912) · [基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
@@ -52,8 +52,10 @@
 - **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20260917)
 - **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
 - **喀麦隆**（1）：[雅温得](./EVENTS.zh.md#yde-20260910)
+- **哥伦比亚**（1）：[卡塔戈](./EVENTS.zh.md#ctg-20260911)
 - **丹麦**（1）：[哥本哈根](./EVENTS.zh.md#cph-20260909)
 - **英国**（1）：[伦敦](./EVENTS.zh.md#ldn-20260916)
+- **印度尼西亚**（1）：[坦格朗](./EVENTS.zh.md#tgr-20260911)
 - **以色列**（1）：[特拉维夫](./EVENTS.zh.md#tlv-20260908)
 - **印度**（1）：[巴罗达](./EVENTS.zh.md#vad-20260905)
 - **肯尼亚**（1）：[内罗毕](./EVENTS.zh.md#nbo-20260917)
@@ -144,6 +146,7 @@
 - [mKay00/grok-bot-second-brain](https://github.com/mKay00/grok-bot-second-brain) - 可克隆的五 Bot 第二大脑方案：共用一台 Grok Bot 电脑（Conductor/Capture/Memory/Ops/Research + vault-template 与 PLAN.md 问卷）。.
 - [maplefukku/grok-bot-ops](https://github.com/maplefukku/grok-bot-ops) - 用 Grok Bot 跑产品开发的日文司令室：routine 原稿、验证技能移植包、knowhow 日志，以及 Cursor 插件包装。.
 - [Technocore Grok Bot 日本語ガイド](https://github.com/hariou/technocore-grokbot-ja) - 日文操作指南和 GROKBOT_PROMPT.md：教 Grok Bot 安全持有 Technocore DID，不泄露种子、不刷大厅。.
+- [Grok Bot Getting Started hubs](https://github.com/mrlynn/grok-bot-getting-started) - 精简的 Docusaurus 入门站：什么是 Grok Bot、安装登录、第一个任务，并深度链到 docs.x.ai 与 x.ai/bot。.
 
 ## 真实使用案例
 
@@ -177,6 +180,8 @@
 - [KettlebellDan: Arduino LED stock ticker](https://x.com/KettlebellDan/status/2089387837204693202) - Bot 接通 Arduino，LED 字幕滚动 SPCX 股价、折线和 SpaceX 新闻。.
 - [Darian Shirazi: chase five merchant refunds](https://x.com/darian314/status/2089381004524093752) - Bot 在邮件里找没退的货，给 5 家商家写信，追回的钱超过月费。.
 - [Grokularity: a company run by Grok Bots](https://grokularity.xyz) - 没写过代码的人用一小队 Grok Bot 一天搭起 grokularity.xyz：人只读，只有核过的 Grok Agent 能写。.
+- [Signal outbound Grok Bot](https://github.com/thoughtpilot99/signal-outbound-grok-bot) - Grok Bot 打法配方：猎取实时买家信号、输出排序名单、写两封触达稿，发送仍由人确认。.
+- [Grok-Bot-Fund](https://github.com/jjregier/Grok-Bot-Fund) - 用三个 Grok Bot 队友在云电脑上跑的个人模拟盘→实盘「对冲基金」工位，玩法变更只能经人工 PR 合并。.
 
 ## 技能、插件与 MCP
 
@@ -237,6 +242,14 @@
 - [Steltic Grok Bot](https://github.com/Steltic/steltic_grokbot) - 打包好的 SKILL.md 加 Python 转换/索引/检索流水线：三个 Grok Bot 在 Bot 电脑上检索自备的钢结构规范，不靠外部 RAG。.
 - [GrokBot Body](https://github.com/rowline/grokbot-body) - iPhone + DockKit 应用和自建 Cloudflare Worker MCP：给某一个 Grok Bot 装上身体，能在手机上听、说、换脸。.
 - [Grok Bot Telegram private bridge](https://github.com/liush2yuxjtu/grok-bot-telegram-private-bridge) - 非官方、仅配对主人的 Telegram 前端：跑在 Grok Bot 云电脑里，只连本机 loopback 网关。.
+- [Paygent plugin](https://github.com/usepaygent/paygent-plugin) - Cursor/Grok Bot 插件和 SKILL.md：接 Paygent 托管 MCP，让 Bot 申请加密货币注资卡、查余额并完成结账。.
+- [Kijiji Marketplace skills](https://github.com/alifarooq0/grok-bot-kijiji-marketplace) - Grok Bot Agent Plugin：四个 SKILL.md，覆盖 Kijiji 搜索、写广告、比价和买家私信（纯技能包，无 MCP）。.
+- [Stashiro agent plugin](https://github.com/c4davide/stashiro-agent-plugin) - 仅客户端的 Stashiro 插件：支持 Cursor、Grok Bot 和 Claude Code，带托管 MCP 和五个看板/工作区 SKILL.md。.
+- [create-custom-mcp skill](https://github.com/larry-fuqua/create-custom-mcp) - 给 Grok Build 和 Grok Bot 用的 create-custom-mcp 技能包：在 OAuth/API key 网关后搭自定义 MCP，并做最终落成安全复核。.
+- [GSC Wizard Grok plugin](https://github.com/gscwizard/grok-plugin) - 面向 Grok / Grok Bot / Grok Build 的插件：接入 GSC Wizard 托管 MCP，做 Search Console 排名、衰减、蚕食、CTR 与周报。.
+- [Grok Bot Vision](https://github.com/kenarakelian1/grok-bot-vision) - Grok Bot 视觉插件：本地 Node MCP，让 Bot 看实时摄像头画面，以及图片、截图、PDF 和文档。.
+- [Glome plugin](https://github.com/ObsidianCodes/glome-plugin) - Cursor Marketplace / Grok Bot 插件：把 Bot 接到 Glome Cloud 托管 MCP，做 Bot 之间的一对一消息。.
+- [Aaron Marketing Skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) - 120 个营销技能：可装成插件、便携技能包，或在含 Grok Bot 在内的具名 Bot 主机上跑 8 Bot 营销团队。.
 
 ## 评测与对比
 
@@ -297,6 +310,11 @@
 - [download-grok-bot](https://github.com/gprot42/grok-bot-tool) - 无依赖 Python CLI：把公开的 x.ai/bot 分享（资料、打包配方、skills、routines）存到本地；在 macOS 上可读取已登录的 Grok Bot 会话。.
 - [grokbot-openai](https://github.com/owenisas/grokbot-openai) - 非官方、无 pip 依赖的 Python：用 Grok Bot 的 PKCE 登录后，在本地提供 OpenAI /v1/chat/completions，给 Hermes、OpenCode 或 curl 用.
 - [omarchy-grokbot (rlimberger)](https://github.com/rlimberger/omarchy-grokbot) - 非官方 Omarchy 状态栏插件（QML）：显示 grokbot-tui 收件箱，并在原生 Rust TUI 里打开 Bot，不启动 Electron 的 /usr/bin/grokbot。.
+- [huginn](https://github.com/pyrex41/huginn) - 主机侧车：让 Grok Bot 通过原生控制面 MCP 接入正在跑的 Claude Code、Codex、Grok Build 会话（列表/监视/提问/中断）。.
+- [floks-pc](https://github.com/Adaptive-Liquidity/floks-pc) - 独立的 Agent Computer Cloud 插件：通过配对码 MCP，给每个 Grok Bot 一台隔离的供应商机器（Runloop Devbox v1）。.
+- [Lots of Agents](https://github.com/carllippert/lots_of_agents) - 原生 macOS Swift 工具：同一安装包多开 Grok Bot、Cursor、Claude、ChatGPT，各克隆独立数据目录、可同时登录。.
+- [BotRouter](https://github.com/lazerusrm/botrouter) - 在保留 Computer/浏览器/Shell 的前提下，让 Grok Bot 在云电脑里把推理路由到其他订阅（Cursor、Codex、xAI）。.
+- [Orbital](https://github.com/beamnxw/Orbital) - 给 Grok Bot 用的第二大脑：一个 CHIEF 加六个 deck，需人工批准；本地引擎与 deck 提示已可用，Grok Bot 托管仍在建设。.
 
 ## 社区与故障现场
 
@@ -376,6 +394,7 @@
 - [Unable to connect](https://forum.cursor.com/t/unable-to-connect/170123) - 官方：对话与 Agent 存在托管电脑上；故障恢复时该电脑可能被临时换成空白机（名单看似清空），可从已保存数据还原，退出并重新打开应用后 Agent/历史应回来。.
 - [GrokBot Linux Execution on Local Computer not working](https://forum.cursor.com/t/grokbot-linux-execution-on-local-computer-not-working/170157) - 官方：Grok Bot 0.30.0 Linux 上 ListMachines 为空/本地执行失败是已知问题，修复已合并并将随下一桌面版发布；临时可装并解锁系统钥匙环（gnome-keyring 或 KWallet），彻底退出残留进程后重开。.
 - [New report, Windows, leftover daemon on 0.30.0](https://forum.cursor.com/t/new-report-windows-leftover-daemon-on-0-30-0/170121) - 官方：0.30.0 已修 macOS 上守护进程退出后不拉起的一类问题，但 Windows 残留 local-exec-daemon 是另一已知路径；连不上时请从托盘 Quit，在任务管理器结束残留 Grok Bot / local-exec-daemon，再启动并等待约一分钟重新注册。.
+- [Grok bot failed to respond](https://forum.cursor.com/t/grok-bot-failed-to-respond/170235) - 官方（kevinn）：所有 Bot（含新建副本）都报 “Bot failed to respond” 说明共享云电脑卡死，重启或再建 Bot 无效；官方恢复后请完全退出（Mac Cmd+Q / iOS 强退）、把每台设备升到最新并只开一台，在新对话里试发一条短消息。.
 
 ## 相关列表
 
@@ -412,10 +431,12 @@
 - [grokbotit](https://github.com/raxmichter/Grok-Bot-It) - 面向 Grok Bot 的 Product Hunt 式社区 grokbotit.com：用 X 登录、投票，并提供搜索/安装机器人的 MCP。.
 - [AI社員 Control Plane](https://github.com/pacifico-1106/grokbot-control-plane) - 面向日本中小企业的 Next.js 控制面：把 Grok Bot 当「AI 社員」管，含社員证、审批队列和审计时间线。.
 - [awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot) - 双语目录：361 条经 2026-09-01 存活检查的 x.ai/bot 分享链接，含 JSON schema、CI，以及可搜索站点 kydlikebtc.github.io/awesome-grokbot.
+- [Awesome Grok Bot Templates](https://github.com/divo12/awesome-grok-bot-templates) - 精选公开 Grok Bot 模板列表：每项都是可「Add to Grok Bot」的 x.ai/bot 分享页，含 data/ 与测试，不是提示词堆。.
+- [Bot Jobs](https://github.com/lureilly1/botjobs) - 独立的 Astro 目录站：按「想让 Grok Bot 做什么」找 Bot，尚无 Bot 的需求会留成 open job。.
 
 ## 贡献
 
-目前 8 个分类、313 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、332 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

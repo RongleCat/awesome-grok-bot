@@ -108,6 +108,24 @@
 <a id="sfd-20260902"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-7alp"><img src="./assets/events/sfd-20260902-cover.png" alt="Grok Bot After Dark（SF）" width="300" /></a></td><td valign="top"><strong>Grok Bot After Dark（SF）</strong><br />2026-09-02（水）18:00–22:00（PDT）<br />サンフランシスコ · Radhaus, 2 Marina Blvd Bldg A（Fort Mason）<br /><br />SpaceXAI After Dark。クリエイター・ビルダー・創業者が Grok Bot の可能性を探る。主催者承認。<br /><br /><a href="https://luma.com/spacexai-7alp"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
+<a id="nyd-20260902"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-jm84"><img src="./assets/events/nyd-20260902-cover.png" alt="Grok Bot After Dark（NYC）" width="300" /></a></td><td valign="top"><strong>Grok Bot After Dark（NYC）</strong><br />2026-09-02（水）18:00–22:00（EDT）<br />ブルックリン · Public Records, 233 Butler St<br /><br />SpaceXAI After Dark NYC。Public Records で Grok Bot の可能性を探る。主催者承認・Luma 上は売り切れ。<br /><br /><a href="https://luma.com/spacexai-jm84"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="cla-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/w1bt19vc"><img src="./assets/events/cla-20260903-cover.png" alt="Grok Bot Build Night（5Cs / Claremont）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（5Cs / Claremont）</strong><br />2026-09-03（木）10:00–23:30（PDT）<br />Claremont, CA · 130 E 7th St<br /><br />5Cs（Claremont Colleges）の Grok Bot Build Night。SpaceXAI Education カレンダーの学生オフライン。<br /><br /><a href="https://luma.com/w1bt19vc"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="tem-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/z8jhz0zv"><img src="./assets/events/tem-20260903-cover.png" alt="Grok Bot Build Night（Mt. San Jacinto / Temecula）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（Mt. San Jacinto / Temecula）</strong><br />2026-09-03（木）13:00–17:00（PDT）<br />Temecula, CA · Mt. San Jacinto College（登録後に部屋）<br /><br />SpaceXAI × MSJC の Grok Bot ナイト。ライブデモのあと制作。参加者に Cursor Pro（Grok Bot 含む）1 ヶ月。<br /><br /><a href="https://luma.com/z8jhz0zv"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="oxf-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/q9cvyjrr"><img src="./assets/events/oxf-20260903-cover.png" alt="Grok Bot Build Night（Miami University / Oxford OH）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（Miami University / Oxford OH）</strong><br />2026-09-03（木）17:00–18:00（EDT）<br />Oxford, OH · Innovation College@Elm, 20 S Elm St<br /><br />SpaceXAI × Miami University。Grok Bot デモのあと自由制作・交流。Cursor Pro（Grok Bot 含む）1 ヶ月。<br /><br /><a href="https://luma.com/q9cvyjrr"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="tmp-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/0wfa472i"><img src="./assets/events/tmp-20260903-cover.png" alt="Grok Bot Build Night（Temple / フィラデルフィア）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（Temple / フィラデルフィア）</strong><br />2026-09-03（木）17:45–19:45（EDT）<br />フィラデルフィア · SERC, 1925 N 12th St<br /><br />Temple の Grok Bot ナイト。ライブデモのあと制作。Penn Labs（phl）とは別イベント。<br /><br /><a href="https://luma.com/0wfa472i"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="unc-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/8y156yr2"><img src="./assets/events/unc-20260903-cover.png" alt="Grok Bot Build Night（UNC / Chapel Hill）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（UNC / Chapel Hill）</strong><br />2026-09-03（木）18:00〜（EDT・Luma 終了は金曜 08:00）<br />Chapel Hill · Innovate Carolina Junction, 136 E Rosemary St<br /><br />UNC Chapel Hill の Grok Bot Build Night。ライブデモのあと制作。Cursor Pro（Grok Bot 含む）1 ヶ月。<br /><br /><a href="https://luma.com/8y156yr2"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
 <a id="country-ar"></a>
 ### アルゼンチン
 
@@ -240,6 +258,12 @@
 <a id="yde-20260910"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-90pj"><img src="./assets/events/yde-20260910-cover.png" alt="Grok Bot Meetup Yaoundé" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Yaoundé</strong><br />2026-09-10（木）11:30–15:00（WAT）<br />ヤウンデ · 登録後に住所を表示<br /><br />ヤウンデの対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-90pj"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
+<a id="country-co"></a>
+### コロンビア
+
+<a id="ctg-20260911"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-meetup"><img src="./assets/events/ctg-20260911-cover.png" alt="Grok Bot Meetup Cartago" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cartago</strong><br />2026-09-11（金）14:00–18:00（COT）<br />コロンビア Cartago · Cámara de Comercio, Cra. 4 # 12-101<br /><br />Cartago のオフライン。Cursor / SpaceXAI と Grok Bot の実例、スピーカー 5 名。商工会議所。<br /><br /><a href="https://luma.com/grokbot-meetup"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
 <a id="country-dk"></a>
 ### デンマーク
 
@@ -251,6 +275,12 @@
 
 <a id="ldn-20260916"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-london"><img src="./assets/events/ldn-20260916-cover.png" alt="Grok Bot Meetup London" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup London</strong><br />2026-09-16（水）18:00–21:00（BST）<br />ロンドン · Granola 主催（登録後に住所）<br /><br />ロンドン初の Grok Bot。夕方コーワークと地元パワーユーザーデモ（SpaceXAI フィールドエンジニア）、ノート PC とクレジット。無料登録。<br /><br /><a href="https://luma.com/grok-bot-london"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="country-id"></a>
+### インドネシア
+
+<a id="tgr-20260911"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-tgr"><img src="./assets/events/tgr-20260911-cover.png" alt="Grok Bot Workshop｜Tangerang" width="300" /></a></td><td valign="top"><strong>Grok Bot Workshop｜Tangerang</strong><br />2026-09-11（金）18:00–20:30（WIB）<br />タンゲラン · Garuda Spark Innovation Hub（BSD City）<br /><br />タンゲランの Grok Bot ワークショップ。デモとハンズオン。ノート PC / iPhone、x.ai/bot 事前 DL。承認制。<br /><br /><a href="https://luma.com/grok-bot-tgr"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
 <a id="country-il"></a>
 ### イスラエル
