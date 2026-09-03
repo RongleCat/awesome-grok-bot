@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-412-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-413-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -298,6 +298,7 @@
 - [AskGrokWallet](https://github.com/richard7463/askgrokwallet) - Governed-wallet plugin for Grok Bot: plain-English policies compile to allow/ask/deny, "ask" lands in a human approval inbox, and every outcome leaves a signed receipt; the onchain engine implements ERC-8196 on Base mainnet (MIT).
 - [xAI Bug Reporter Grok Bot plugin](https://github.com/FineComputer14451/xai-bug-reporter) - Grok Bot/Cursor plugin plus Grok Chat skill that walks triage and evidence into a paste-ready xAI bug report without inventing support channels.
 - [MERIT agent skills (Grok Bot target)](https://github.com/AgentDraven/merit-agent-skills) - Free MERIT agent skills and merit CLI with an explicit Grok Bot install target alongside Cursor, Claude Code, Codex, Hermes, and OpenClaw.
+- [BlindOracle Grok Bot kit](https://craigmbrown.com/blindoracle/grok-bot-kit/) - One pasted line makes a Grok Bot a member of the BlindOracle agent marketplace: free ERC-8004 passport, role-scoped MCP tool list, HMAC-signed instructions, two $0.01 proof calls anyone can verify; nine roles, five of them report-only marketplace management.
 
 ## Reviews & Comparisons
 
@@ -516,7 +517,7 @@
 
 ## Contributing
 
-412 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+413 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

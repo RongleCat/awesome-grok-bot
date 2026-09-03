@@ -2134,6 +2134,16 @@
             "zh": "免费 MERIT 智能体技能与 merit CLI，安装目标明确包含 Grok Bot，并覆盖 Cursor、Claude Code、Codex、Hermes、OpenClaw。",
             "ja": "無料の MERIT エージェントスキルと merit CLI で、Cursor・Claude Code・Codex・Hermes・OpenClaw に加え Grok Bot 向けインストール先も明示しています。"
           }
+        },
+        {
+          "title": "BlindOracle Grok Bot kit",
+          "url": "https://craigmbrown.com/blindoracle/grok-bot-kit/",
+          "source": "community-20260903",
+          "blurb": {
+            "en": "One pasted line makes a Grok Bot a member of the BlindOracle agent marketplace: free ERC-8004 passport, role-scoped MCP tool list, HMAC-signed instructions, two $0.01 proof calls anyone can verify; nine roles, five of them report-only marketplace management.",
+            "zh": "粘贴一行即可让 Grok Bot 加入 BlindOracle 智能体市场：免费 ERC-8004 护照、按角色限定的 MCP 工具列表、HMAC 签名指令、两次 $0.01 的可公开验证工作证明；共九个角色，其中五个为只汇报的市场管理角色。",
+            "ja": "1 行貼るだけで Grok Bot が BlindOracle エージェント市場のメンバーになります：無料の ERC-8004 パスポート、役割ごとに絞った MCP ツール一覧、HMAC 署名付き指示、誰でも検証できる $0.01 ×2 の作業証明。9 つの役割のうち 5 つは報告のみの市場運営役です。"
+          }
         }
       ]
     },

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-412-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-413-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -298,6 +298,7 @@
 - [AskGrokWallet](https://github.com/richard7463/askgrokwallet) - Grok Bot 向けの管理型ウォレットプラグインで、平易なポリシーを allow/ask/deny に変換し、「ask」は人の承認ボックスへ、すべての結果に署名済みレシートを残し、オンチェーンエンジンは ERC-8196 を実装して Base メインネットにデプロイされています（MIT）。
 - [xAI Bug Reporter Grok Bot plugin](https://github.com/FineComputer14451/xai-bug-reporter) - Grok Bot/Cursor プラグイン兼 Grok Chat スキルで、トリアージと証拠収集を進め、サポート窓口を捏造せず貼り付け可能な xAI バグ報告を作ります。
 - [MERIT agent skills (Grok Bot target)](https://github.com/AgentDraven/merit-agent-skills) - 無料の MERIT エージェントスキルと merit CLI で、Cursor・Claude Code・Codex・Hermes・OpenClaw に加え Grok Bot 向けインストール先も明示しています。
+- [BlindOracle Grok Bot kit](https://craigmbrown.com/blindoracle/grok-bot-kit/) - 1 行貼るだけで Grok Bot が BlindOracle エージェント市場のメンバーになります：無料の ERC-8004 パスポート、役割ごとに絞った MCP ツール一覧、HMAC 署名付き指示、誰でも検証できる $0.01 ×2 の作業証明。9 つの役割のうち 5 つは報告のみの市場運営役です。
 
 ## レビューと比較
 
@@ -516,7 +517,7 @@
 
 ## 貢献
 
-8 セクションに 412 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 413 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
