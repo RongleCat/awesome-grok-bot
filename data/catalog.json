@@ -714,6 +714,26 @@
             "zh": "对照《Getting started with Grok Bot》视频八个用例的动手教程，含起始提示词与仓库内 HTML 指南。",
             "ja": "Getting started with Grok Bot 動画の8用例を自分で組むチュートリアルで、開始プロンプトと HTML 版ガイドを同梱しています。"
           }
+        },
+        {
+          "title": "Grok Bot setup & 5 pitfalls guide",
+          "url": "https://github.com/dadamingmax/Grok-Bot-Setup-and-Usage-Guide",
+          "source": "GB-455",
+          "blurb": {
+            "en": "Chinese longform guide covering what Grok Bot is, SuperGrok/Cursor access, first-bot setup steps, and five measured pitfalls around quotas and approvals.",
+            "zh": "中文长文：讲清 Grok Bot 是什么、SuperGrok/Cursor 开通、从零搭第一个 Bot，以及额度与审批等 5 个实测踩坑。",
+            "ja": "Grok Bot の定義、SuperGrok/Cursor の利用条件、最初の Bot 構築手順、枠と承認まわりの実測ピットフォール 5 点をまとめた中国語長文ガイドです。"
+          }
+        },
+        {
+          "title": "China Grok Bot install tutorial",
+          "url": "https://github.com/jobinben/Grok-Bot-Tutorial",
+          "source": "GB-456",
+          "blurb": {
+            "en": "2026 China-focused Grok Bot tutorial on what the cloud teammate is, how to use it, and how to upgrade SuperGrok for access.",
+            "zh": "面向国内的 2026 Grok Bot 教程：讲清云端队友是什么、怎么用，以及如何升级 SuperGrok 获得使用资格。",
+            "ja": "2026 年の中国向け Grok Bot チュートリアルで、クラウド仲間の概要・使い方・SuperGrok アップグレードによる利用条件を説明します。"
+          }
         }
       ]
     },
@@ -1093,6 +1113,36 @@
             "en": "Evidence-first market-memory implementation pack for turning public pages into decision briefs with Grok Bot, matching a public X article walkthrough.",
             "zh": "证据优先的市场记忆实现包：用 Grok Bot 把公开网页收成决策简报，对应一篇公开 X 文章流程。",
             "ja": "公開ページを意思決定ブリーフにする証拠優先の市場メモリ実装パックで、公開 X 記事の手順に沿って Grok Bot で動かします。"
+          }
+        },
+        {
+          "title": "Grok Bot fleet public packets",
+          "url": "https://github.com/Logos52/grok-bot-packets",
+          "source": "GB-457",
+          "blurb": {
+            "en": "Public weekday dump of files a Grok Bot fleet writes under /workspace on the shared cloud computer, mirrored for Mac /fold skill intake.",
+            "zh": "Grok Bot 舰队在共享云电脑 /workspace 写入的公开素材按工作日备份到此，供 Mac 端 /fold 技能拉取折叠。",
+            "ja": "共有クラウド PC の /workspace に Grok Bot 艦隊が書いた公開素材を平日バックアップし、Mac の /fold スキルが取り込めるようにしたリポジトリです。"
+          }
+        },
+        {
+          "title": "Per-bot durable knowledge log",
+          "url": "https://github.com/jblack4vols/grok-bot",
+          "source": "GB-458",
+          "blurb": {
+            "en": "Durable per-bot knowledge log for a real Grok Bot roster, with dated America/New_York files for decisions, shipped work, and standing preferences.",
+            "zh": "真实 Grok Bot 名册的持久知识日志：按 Bot 分目录、按美国东部日期记录决策、交付与长期偏好。",
+            "ja": "実在 Grok Bot 名簿向けの永続ナレッジログで、Bot ごと・America/New_York 日付のファイルに決定・納品・常設の好みを残します。"
+          }
+        },
+        {
+          "title": "UiTM calendar Grok Bot + MCP",
+          "url": "https://github.com/bilauitmcuti/bot",
+          "source": "GB-459",
+          "blurb": {
+            "en": "UiTM academic calendar assistant running on Grok Bot with a remote MCP server for live lecture, cuti, exam, and holiday dates.",
+            "zh": "跑在 Grok Bot 上的 UiTM 校历助手，经远程 MCP 拉取查询上课周、假期、考试与公共假日。",
+            "ja": "Grok Bot 上の UiTM 学事カレンダー助手で、リモート MCP から授業週・休み・試験・祝日の最新日付を取得します。"
           }
         }
       ]
@@ -2054,6 +2104,36 @@
             "zh": "Agent 插件（仓库名 grok-bot-plugin-example）为 Grok Bot 提供助手登记、房间签到、斜杠命令与主持邀请大厅。",
             "ja": "リポジトリ名 grok-bot-plugin-example の Agent プラグインで、Grok Bot 向けにアシスタント登録・ルームチェックイン・スラッシュコマンド・ホスト招待ロビーを提供します。"
           }
+        },
+        {
+          "title": "AskGrokWallet",
+          "url": "https://github.com/richard7463/askgrokwallet",
+          "source": "GB-451",
+          "blurb": {
+            "en": "Governed-wallet plugin for Grok Bot: plain-English policies compile to allow/ask/deny, \"ask\" lands in a human approval inbox, and every outcome leaves a signed receipt; the onchain engine implements ERC-8196 on Base mainnet (MIT).",
+            "zh": "面向 Grok Bot 的受治理钱包插件：大白话规则编译成放行/询问/拒绝，“询问”进入人工审批台，每笔结果留下签名回执；链上引擎实现 ERC-8196，部署在 Base 主网（MIT）。",
+            "ja": "Grok Bot 向けの管理型ウォレットプラグインで、平易なポリシーを allow/ask/deny に変換し、「ask」は人の承認ボックスへ、すべての結果に署名済みレシートを残し、オンチェーンエンジンは ERC-8196 を実装して Base メインネットにデプロイされています（MIT）。"
+          }
+        },
+        {
+          "title": "xAI Bug Reporter Grok Bot plugin",
+          "url": "https://github.com/FineComputer14451/xai-bug-reporter",
+          "source": "GB-452",
+          "blurb": {
+            "en": "Grok Bot/Cursor plugin plus Grok Chat skill that walks triage and evidence into a paste-ready xAI bug report without inventing support channels.",
+            "zh": "Grok Bot/Cursor 插件兼 Grok Chat 技能：引导分诊与取证，生成可粘贴的 xAI 缺陷报告，不虚构客服渠道。",
+            "ja": "Grok Bot/Cursor プラグイン兼 Grok Chat スキルで、トリアージと証拠収集を進め、サポート窓口を捏造せず貼り付け可能な xAI バグ報告を作ります。"
+          }
+        },
+        {
+          "title": "MERIT agent skills (Grok Bot target)",
+          "url": "https://github.com/AgentDraven/merit-agent-skills",
+          "source": "GB-453",
+          "blurb": {
+            "en": "Free MERIT agent skills and merit CLI with an explicit Grok Bot install target alongside Cursor, Claude Code, Codex, Hermes, and OpenClaw.",
+            "zh": "免费 MERIT 智能体技能与 merit CLI，安装目标明确包含 Grok Bot，并覆盖 Cursor、Claude Code、Codex、Hermes、OpenClaw。",
+            "ja": "無料の MERIT エージェントスキルと merit CLI で、Cursor・Claude Code・Codex・Hermes・OpenClaw に加え Grok Bot 向けインストール先も明示しています。"
+          }
         }
       ]
     },
@@ -2843,6 +2923,16 @@
             "en": "Bring-your-own-key inference adapter that routes Grok Bot AI calls through your providers, with a large TypeScript test suite and multi-provider failover.",
             "zh": "自带密钥推理适配器，把 Grok Bot 的推理路由到你的供应商，含大型 TypeScript 测试与多供应商故障转移。",
             "ja": "Grok Bot の推論を自分のプロバイダへルーティングする BYOK アダプタで、大規模 TypeScript テストとフェイルオーバーを備えます."
+          }
+        },
+        {
+          "title": "Cursor Account Manager + Grok Bot Sand",
+          "url": "https://github.com/kuk-888/cursor-account-manager",
+          "source": "GB-454",
+          "blurb": {
+            "en": "Cursor multi-account VSIX that switches logins, shows Auto/Other/Bot quotas, and can inject Grok Bot Sand Stream routing on Cursor 3.18.9.",
+            "zh": "Cursor 多账号 VSIX：切换登录、查看 Auto/Other/Bot 额度，并可为 Cursor 3.18.9 注入 Grok Bot Sand Stream 路由。",
+            "ja": "Cursor 多アカウント VSIX でログイン切替、Auto/Other/Bot 枠表示、Cursor 3.18.9 への Grok Bot Sand Stream ルート注入ができます。"
           }
         }
       ]
@@ -3713,6 +3803,36 @@
             "en": "Staff (Colin): A homepage “Approval needed” tile with nothing pending usually means an approval card timed out (~10 minutes unanswered); open the agent and send a short message or restart the app to clear a stuck badge — the tile is supposed to clear when the card expires.",
             "zh": "官方（Colin）：主页仍显示「Approval needed」但点进去没有待批时，多半是审批卡片约 10 分钟未处理已超时；打开该 Agent 发一句短消息或重启 App 可清掉卡住的角标——卡片过期后主页磁贴本应自行消失。",
             "ja": "スタッフ（Colin）：ホームページの「Approval needed」なのに承認待ちが無いときは、未応答の承認カードが約 10 分でタイムアウトした可能性が高い。エージェントを開いて短いメッセージを送るかアプリを再起動すれば張り付いたバッジが消える。カード期限切れ後はタイルも消える想定。"
+          }
+        },
+        {
+          "title": "File contents and grokbot — viewer Copy vs Download",
+          "url": "https://forum.cursor.com/t/file-contents-and-grokbot/170421",
+          "source": "day-20260903-1804",
+          "blurb": {
+            "en": "Staff (Colin): The in-app file viewer only offers Download today; for .md/.txt you can click-drag to select and Cmd/Ctrl+C, while .docx/.pdf won’t highlight — ask the Bot to paste the full text into chat and use the message Copy action as a workaround.",
+            "zh": "官方（Colin）：应用内文件预览目前只有 Download；.md/.txt 可拖选后 Cmd/Ctrl+C，.docx/.pdf 暂无法高亮——可让 Bot 把全文贴进聊天再用消息的 Copy。",
+            "ja": "スタッフ（Colin）：アプリ内ファイルビューアは現状 Download のみ。.md/.txt はドラッグ選択して Cmd/Ctrl+C できるが .docx/.pdf はハイライト不可——Bot に全文をチャットへ貼らせ、メッセージの Copy で回避できる。"
+          }
+        },
+        {
+          "title": "Grok Bot Canva connector failing — Invalid redirect URI on iOS",
+          "url": "https://forum.cursor.com/t/grok-bot-canva-connector-failing/170431",
+          "source": "day-20260903-1804",
+          "blurb": {
+            "en": "Staff (deanrie): Canva “Invalid redirect URI” on Grok Bot iOS 1.4.0 is a known app-link vs web-redirect mismatch (not your Canva settings) — connect Canva from desktop Grok Bot on the same account and the connector syncs to iPhone.",
+            "zh": "官方（deanrie）：Grok Bot iOS 1.4.0 连接 Canva 出现 Invalid redirect URI 是已知问题（移动端发 app link，Canva 只收 web redirect），与账号/Canva 设置无关——用同一账号在桌面版先连好，连接会同步到 iPhone。",
+            "ja": "スタッフ（deanrie）：Grok Bot iOS 1.4.0 の Canva「Invalid redirect URI」は既知の不具合（モバイルが app link を送り、Canva は web redirect のみ受付）。アカウント設定の問題ではない——同じアカウントでデスクトップ版から接続すれば iPhone に同期される。"
+          }
+        },
+        {
+          "title": "Local computer looks connected but CopyFromBox/Shell flaps after large transfer timeout",
+          "url": "https://forum.cursor.com/t/grok-bot-local-computer-execution-looks-connected-in-settings-but-is-not-actually-usable-for-file-i-o/169877",
+          "source": "day-20260903-1804",
+          "blurb": {
+            "en": "Staff (deanrie): A large CopyFromBox (or timed-out Shell) can drop the local machine from the agent list for ~1 minute while Settings still says connected — split big copies, wait a minute before retrying, and if stuck Cmd+Q then pkill -f local-exec-daemon and reopen.",
+            "zh": "官方（deanrie）：大体积 CopyFromBox（或超时的 Shell）可能让本机从 agent 机器列表消失约 1 分钟，Settings 仍显示已连接——拆分大文件、等约 1 分钟再试；若仍卡住则 Cmd+Q，终端执行 pkill -f local-exec-daemon 后重开。",
+            "ja": "スタッフ（deanrie）：大きな CopyFromBox（やタイムアウトした Shell）で、Settings は connected のまま約 1 分マシンが agent 一覧から消えることがある——大きな転送は分割し、再試行前に約 1 分待つ。固まったら Cmd+Q → Terminal で pkill -f local-exec-daemon → 再起動。"
           }
         }
       ]

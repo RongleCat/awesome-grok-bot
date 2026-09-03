@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-400-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-412-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -152,6 +152,8 @@
 - [Grok Bot Getting Started hubs](https://github.com/mrlynn/grok-bot-getting-started) - 精简的 Docusaurus 入门站：什么是 Grok Bot、安装登录、第一个任务，并深度链到 docs.x.ai 与 x.ai/bot。.
 - [Grok Bot 蓝皮书](https://github.com/rockyzhuo/grok-bot-blue-book) - 经营者蓝皮书（橙皮书续篇）：把 Grok Bot 团队当成会交货的公司来运营——制品契约、INSTALL.md 一键立站、五条路线模板。.
 - [Grokbot Field Guide (8 use cases)](https://github.com/tal-giladi/grokbot-field-guide) - 对照《Getting started with Grok Bot》视频八个用例的动手教程，含起始提示词与仓库内 HTML 指南。.
+- [Grok Bot setup & 5 pitfalls guide](https://github.com/dadamingmax/Grok-Bot-Setup-and-Usage-Guide) - 中文长文：讲清 Grok Bot 是什么、SuperGrok/Cursor 开通、从零搭第一个 Bot，以及额度与审批等 5 个实测踩坑。.
+- [China Grok Bot install tutorial](https://github.com/jobinben/Grok-Bot-Tutorial) - 面向国内的 2026 Grok Bot 教程：讲清云端队友是什么、怎么用，以及如何升级 SuperGrok 获得使用资格。.
 
 ## 真实使用案例
 
@@ -192,6 +194,9 @@
 - [Bull Desk Webull trading](https://github.com/HammeredSmithy/bull-trade) - HyperGrok 风格七代理交易台的 Webull OpenAPI 美区移植：研究/仓位/按 id 审批执行与复盘 Bot，先用模拟盘再上实盘密钥。.
 - [Growth Grok Bots self-serve team](https://github.com/jay-sahnan/growth-grok-bots) - 可分享的增长多智能体团队（增长负责人+专家）：职责窄、可交接，发货或外发前须人工批准。.
 - [Grok Bot Market Memory pack](https://github.com/palehonk0-o/grokbot-market-memory) - 证据优先的市场记忆实现包：用 Grok Bot 把公开网页收成决策简报，对应一篇公开 X 文章流程。.
+- [Grok Bot fleet public packets](https://github.com/Logos52/grok-bot-packets) - Grok Bot 舰队在共享云电脑 /workspace 写入的公开素材按工作日备份到此，供 Mac 端 /fold 技能拉取折叠。.
+- [Per-bot durable knowledge log](https://github.com/jblack4vols/grok-bot) - 真实 Grok Bot 名册的持久知识日志：按 Bot 分目录、按美国东部日期记录决策、交付与长期偏好。.
+- [UiTM calendar Grok Bot + MCP](https://github.com/bilauitmcuti/bot) - 跑在 Grok Bot 上的 UiTM 校历助手，经远程 MCP 拉取查询上课周、假期、考试与公共假日。.
 
 ## 技能、插件与 MCP
 
@@ -290,6 +295,9 @@
 - [Peekaboo Mac UI skill](https://github.com/bcharleson/grokbot-peekaboo) - Grok Bot 技能：经 Peekaboo 驱动已注册 Mac，完成录屏、截图、窗口列表与 UI 输入，补足纯 bash 不足。.
 - [awesome-claude-skills port for Grok Bot](https://github.com/jeremybrasher/grokbot-skills) - 从 awesome-claude-skills 改编的大型 Grok Bot 技能合集，保留原许可证与 SOURCE.md，一技能一目录。.
 - [grok-bot-rooms registry plugin](https://github.com/mrlynn/grok-bot-plugin-example) - Agent 插件（仓库名 grok-bot-plugin-example）为 Grok Bot 提供助手登记、房间签到、斜杠命令与主持邀请大厅。.
+- [AskGrokWallet](https://github.com/richard7463/askgrokwallet) - 面向 Grok Bot 的受治理钱包插件：大白话规则编译成放行/询问/拒绝，“询问”进入人工审批台，每笔结果留下签名回执；链上引擎实现 ERC-8196，部署在 Base 主网（MIT）。.
+- [xAI Bug Reporter Grok Bot plugin](https://github.com/FineComputer14451/xai-bug-reporter) - Grok Bot/Cursor 插件兼 Grok Chat 技能：引导分诊与取证，生成可粘贴的 xAI 缺陷报告，不虚构客服渠道。.
+- [MERIT agent skills (Grok Bot target)](https://github.com/AgentDraven/merit-agent-skills) - 免费 MERIT 智能体技能与 merit CLI，安装目标明确包含 Grok Bot，并覆盖 Cursor、Claude Code、Codex、Hermes、OpenClaw。.
 
 ## 评测与对比
 
@@ -373,6 +381,7 @@
 - [plaude NotePin→GrokBot pipeline](https://github.com/quolu/plaude) - Plaud NotePin S 录音流水线（Whisper、模板、邮件），附 SKILL.md，可在 Linux Grok Bot 电脑上做分类与摘要。.
 - [Arena Grok Bot connector MVP](https://github.com/openlawteam/arena-test) - Next.js Arena MVP：用一次性配对码连接用户自托管 Grok Bot，安装原生插件/MCP，并中继免费 bot 对 bot 房间对话。.
 - [grokbot-BYOK inference adapter](https://github.com/jroth1111/grokbot-BYOK) - 自带密钥推理适配器，把 Grok Bot 的推理路由到你的供应商，含大型 TypeScript 测试与多供应商故障转移。.
+- [Cursor Account Manager + Grok Bot Sand](https://github.com/kuk-888/cursor-account-manager) - Cursor 多账号 VSIX：切换登录、查看 Auto/Other/Bot 额度，并可为 Cursor 3.18.9 注入 Grok Bot Sand Stream 路由。.
 
 ## 社区与故障现场
 
@@ -462,6 +471,9 @@
 - [Grok Bot 0.30.0 — Agent Computer unreachable after Update, Recover, and Reset all failed](https://forum.cursor.com/t/grok-bot-0-30-0-agent-computer-unreachable-after-update-recover-and-reset-all-failed/170258) - 官方（kevinn）：空闲唤醒后 Bot 屏幕上的 Chrome “Aw, Snap!” 是云电脑里浏览器崩了、电脑本身仍健康——刷新该标签或让 Bot 重载页面，必要时完全退出再开 Grok Bot，不要跑 Update/Recover/Reset；空闲机器唤醒需要片刻，首条消息可能丢，重发是安全的。.
 - [Grok Bot Mac “unavailable” after password reset (expired session)](https://forum.cursor.com/t/grok-bot-mac-blocked-after-password-change-app-says-unavailable-spending-shows-supergrok-plus/170389) - 官方（deanrie）：改密后 Mac 上的 Grok Bot 可能仍拿着过期会话，明明 SuperGrok/Cursor 权限和云电脑/Bot 都还在，却显示「此账户尚不可用」——在该提示页底部点 Log out，完全退出（Cmd+Q）再打开并用新密码 Sign in；Check Access 跳到下载页是过期会话的误导文案，不是没买权限。.
 - [Homepage “Approval needed” stuck after card timeout](https://forum.cursor.com/t/grok-bot-approval-needed-stays-on-agent-view-homepage-when-coder-has-nothing-to-approve/170127) - 官方（Colin）：主页仍显示「Approval needed」但点进去没有待批时，多半是审批卡片约 10 分钟未处理已超时；打开该 Agent 发一句短消息或重启 App 可清掉卡住的角标——卡片过期后主页磁贴本应自行消失。.
+- [File contents and grokbot — viewer Copy vs Download](https://forum.cursor.com/t/file-contents-and-grokbot/170421) - 官方（Colin）：应用内文件预览目前只有 Download；.md/.txt 可拖选后 Cmd/Ctrl+C，.docx/.pdf 暂无法高亮——可让 Bot 把全文贴进聊天再用消息的 Copy。.
+- [Grok Bot Canva connector failing — Invalid redirect URI on iOS](https://forum.cursor.com/t/grok-bot-canva-connector-failing/170431) - 官方（deanrie）：Grok Bot iOS 1.4.0 连接 Canva 出现 Invalid redirect URI 是已知问题（移动端发 app link，Canva 只收 web redirect），与账号/Canva 设置无关——用同一账号在桌面版先连好，连接会同步到 iPhone。.
+- [Local computer looks connected but CopyFromBox/Shell flaps after large transfer timeout](https://forum.cursor.com/t/grok-bot-local-computer-execution-looks-connected-in-settings-but-is-not-actually-usable-for-file-i-o/169877) - 官方（deanrie）：大体积 CopyFromBox（或超时的 Shell）可能让本机从 agent 机器列表消失约 1 分钟，Settings 仍显示已连接——拆分大文件、等约 1 分钟再试；若仍卡住则 Cmd+Q，终端执行 pkill -f local-exec-daemon 后重开。.
 
 ## 相关列表
 
@@ -504,7 +516,7 @@
 
 ## 贡献
 
-目前 8 个分类、400 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、412 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

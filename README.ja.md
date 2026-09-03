@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-400-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-412-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -152,6 +152,8 @@
 - [Grok Bot Getting Started hubs](https://github.com/mrlynn/grok-bot-getting-started) - 薄い Docusaurus ハブ。Grok Bot とは／インストールとサインイン／最初のタスクを、docs.x.ai と x.ai/bot へディープリンク。
 - [Grok Bot 蓝皮书](https://github.com/rockyzhuo/grok-bot-blue-book) - 橙皮書の続編オペレーション本。Grok Bot チームを納品する会社として回す：成果物契約、INSTALL.md 立ち上げ、5 本のルート雛形。
 - [Grokbot Field Guide (8 use cases)](https://github.com/tal-giladi/grokbot-field-guide) - Getting started with Grok Bot 動画の8用例を自分で組むチュートリアルで、開始プロンプトと HTML 版ガイドを同梱しています。
+- [Grok Bot setup & 5 pitfalls guide](https://github.com/dadamingmax/Grok-Bot-Setup-and-Usage-Guide) - Grok Bot の定義、SuperGrok/Cursor の利用条件、最初の Bot 構築手順、枠と承認まわりの実測ピットフォール 5 点をまとめた中国語長文ガイドです。
+- [China Grok Bot install tutorial](https://github.com/jobinben/Grok-Bot-Tutorial) - 2026 年の中国向け Grok Bot チュートリアルで、クラウド仲間の概要・使い方・SuperGrok アップグレードによる利用条件を説明します。
 
 ## 実地事例
 
@@ -192,6 +194,9 @@
 - [Bull Desk Webull trading](https://github.com/HammeredSmithy/bull-trade) - HyperGrok 風7エージェント取引デスクの Webull OpenAPI（米国向け）移植。調査・サイズ・ID 承認執行・レビュー Bot で、本番鍵の前にペーパーサンドボックス。
 - [Growth Grok Bots self-serve team](https://github.com/jay-sahnan/growth-grok-bots) - 共有可能なグロース多ボットチーム（Head of Growth＋専門家）。狭い職務と引き継ぎ、出荷・送信前は人間承認必須。
 - [Grok Bot Market Memory pack](https://github.com/palehonk0-o/grokbot-market-memory) - 公開ページを意思決定ブリーフにする証拠優先の市場メモリ実装パックで、公開 X 記事の手順に沿って Grok Bot で動かします。
+- [Grok Bot fleet public packets](https://github.com/Logos52/grok-bot-packets) - 共有クラウド PC の /workspace に Grok Bot 艦隊が書いた公開素材を平日バックアップし、Mac の /fold スキルが取り込めるようにしたリポジトリです。
+- [Per-bot durable knowledge log](https://github.com/jblack4vols/grok-bot) - 実在 Grok Bot 名簿向けの永続ナレッジログで、Bot ごと・America/New_York 日付のファイルに決定・納品・常設の好みを残します。
+- [UiTM calendar Grok Bot + MCP](https://github.com/bilauitmcuti/bot) - Grok Bot 上の UiTM 学事カレンダー助手で、リモート MCP から授業週・休み・試験・祝日の最新日付を取得します。
 
 ## スキル、プラグインと MCP
 
@@ -290,6 +295,9 @@
 - [Peekaboo Mac UI skill](https://github.com/bcharleson/grokbot-peekaboo) - 登録済み Mac を Peekaboo 経由で操作する Grok Bot スキルで、録画・スクショ・ウィンドウ一覧・UI 入力を bash 以上に拡張します。
 - [awesome-claude-skills port for Grok Bot](https://github.com/jeremybrasher/grokbot-skills) - awesome-claude-skills を Grok Bot 向けに再構成した大規模スキル集で、元ライセンスと SOURCE.md を保った1スキル1フォルダ構成です。
 - [grok-bot-rooms registry plugin](https://github.com/mrlynn/grok-bot-plugin-example) - リポジトリ名 grok-bot-plugin-example の Agent プラグインで、Grok Bot 向けにアシスタント登録・ルームチェックイン・スラッシュコマンド・ホスト招待ロビーを提供します。
+- [AskGrokWallet](https://github.com/richard7463/askgrokwallet) - Grok Bot 向けの管理型ウォレットプラグインで、平易なポリシーを allow/ask/deny に変換し、「ask」は人の承認ボックスへ、すべての結果に署名済みレシートを残し、オンチェーンエンジンは ERC-8196 を実装して Base メインネットにデプロイされています（MIT）。
+- [xAI Bug Reporter Grok Bot plugin](https://github.com/FineComputer14451/xai-bug-reporter) - Grok Bot/Cursor プラグイン兼 Grok Chat スキルで、トリアージと証拠収集を進め、サポート窓口を捏造せず貼り付け可能な xAI バグ報告を作ります。
+- [MERIT agent skills (Grok Bot target)](https://github.com/AgentDraven/merit-agent-skills) - 無料の MERIT エージェントスキルと merit CLI で、Cursor・Claude Code・Codex・Hermes・OpenClaw に加え Grok Bot 向けインストール先も明示しています。
 
 ## レビューと比較
 
@@ -373,6 +381,7 @@
 - [plaude NotePin→GrokBot pipeline](https://github.com/quolu/plaude) - Plaud NotePin S 録音を Whisper・テンプレ・メールへ流すパイプラインで、Linux の Grok Bot 上で分類・要約する SKILL.md 付きです。
 - [Arena Grok Bot connector MVP](https://github.com/openlawteam/arena-test) - 短命ペアリングコードでユーザー主催 Grok Bot を繋ぎ、ネイティブ plugin/MCP を入れ、無料の bot 同士ルーム会話を中継する Next.js Arena MVP です。
 - [grokbot-BYOK inference adapter](https://github.com/jroth1111/grokbot-BYOK) - Grok Bot の推論を自分のプロバイダへルーティングする BYOK アダプタで、大規模 TypeScript テストとフェイルオーバーを備えます。
+- [Cursor Account Manager + Grok Bot Sand](https://github.com/kuk-888/cursor-account-manager) - Cursor 多アカウント VSIX でログイン切替、Auto/Other/Bot 枠表示、Cursor 3.18.9 への Grok Bot Sand Stream ルート注入ができます。
 
 ## コミュニティと障害事例
 
@@ -462,6 +471,9 @@
 - [Grok Bot 0.30.0 — Agent Computer unreachable after Update, Recover, and Reset all failed](https://forum.cursor.com/t/grok-bot-0-30-0-agent-computer-unreachable-after-update-recover-and-reset-all-failed/170258) - スタッフ（kevinn）：アイドル起床後の Bot 画面の Chrome「Aw, Snap!」は健全な PC 内ブラウザのクラッシュ。タブ再読込か Bot にリロードを頼み、必要なら Grok Bot を完全終了して再起動し、Update／Recover／Reset はしない。起床直後の最初のメッセージは落ちることがあり、再送してよい。
 - [Grok Bot Mac “unavailable” after password reset (expired session)](https://forum.cursor.com/t/grok-bot-mac-blocked-after-password-change-app-says-unavailable-spending-shows-supergrok-plus/170389) - スタッフ（deanrie）：パスワード再設定後、Mac の Grok Bot が期限切れセッションのまま「このアカウントではまだ利用できません」と出すことがある。SuperGrok／Cursor 権限もクラウド PC／Bot も生きているのに起きる。その画面下部の Log out → 完全終了（Cmd+Q）→ 再起動して新パスワードで Sign in。Check Access がダウンロードへ飛ぶのは権限不足ではなく期限切れセッションの誤表示。
 - [Homepage “Approval needed” stuck after card timeout](https://forum.cursor.com/t/grok-bot-approval-needed-stays-on-agent-view-homepage-when-coder-has-nothing-to-approve/170127) - スタッフ（Colin）：ホームページの「Approval needed」なのに承認待ちが無いときは、未応答の承認カードが約 10 分でタイムアウトした可能性が高い。エージェントを開いて短いメッセージを送るかアプリを再起動すれば張り付いたバッジが消える。カード期限切れ後はタイルも消える想定。
+- [File contents and grokbot — viewer Copy vs Download](https://forum.cursor.com/t/file-contents-and-grokbot/170421) - スタッフ（Colin）：アプリ内ファイルビューアは現状 Download のみ。.md/.txt はドラッグ選択して Cmd/Ctrl+C できるが .docx/.pdf はハイライト不可——Bot に全文をチャットへ貼らせ、メッセージの Copy で回避できる。
+- [Grok Bot Canva connector failing — Invalid redirect URI on iOS](https://forum.cursor.com/t/grok-bot-canva-connector-failing/170431) - スタッフ（deanrie）：Grok Bot iOS 1.4.0 の Canva「Invalid redirect URI」は既知の不具合（モバイルが app link を送り、Canva は web redirect のみ受付）。アカウント設定の問題ではない——同じアカウントでデスクトップ版から接続すれば iPhone に同期される。
+- [Local computer looks connected but CopyFromBox/Shell flaps after large transfer timeout](https://forum.cursor.com/t/grok-bot-local-computer-execution-looks-connected-in-settings-but-is-not-actually-usable-for-file-i-o/169877) - スタッフ（deanrie）：大きな CopyFromBox（やタイムアウトした Shell）で、Settings は connected のまま約 1 分マシンが agent 一覧から消えることがある——大きな転送は分割し、再試行前に約 1 分待つ。固まったら Cmd+Q → Terminal で pkill -f local-exec-daemon → 再起動。
 
 ## 関連リスト
 
@@ -504,7 +516,7 @@
 
 ## 貢献
 
-8 セクションに 400 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 412 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

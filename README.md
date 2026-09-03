@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-400-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-412-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -152,6 +152,8 @@
 - [Grok Bot Getting Started hubs](https://github.com/mrlynn/grok-bot-getting-started) - Thin branded Docusaurus hubs for What is Grok Bot, install/sign-in, and first task, deep-linking to docs.x.ai and x.ai/bot.
 - [Grok Bot 蓝皮书](https://github.com/rockyzhuo/grok-bot-blue-book) - Operator playbook (companion to the orange book) for running a Grok Bot team as a delivery company—artifact contracts, INSTALL.md bootstrap, and five route templates.
 - [Grokbot Field Guide (8 use cases)](https://github.com/tal-giladi/grokbot-field-guide) - Build-it-yourself tutorial covering the eight Getting started with Grok Bot video use cases, with prompts plus an HTML field guide in-repo.
+- [Grok Bot setup & 5 pitfalls guide](https://github.com/dadamingmax/Grok-Bot-Setup-and-Usage-Guide) - Chinese longform guide covering what Grok Bot is, SuperGrok/Cursor access, first-bot setup steps, and five measured pitfalls around quotas and approvals.
+- [China Grok Bot install tutorial](https://github.com/jobinben/Grok-Bot-Tutorial) - 2026 China-focused Grok Bot tutorial on what the cloud teammate is, how to use it, and how to upgrade SuperGrok for access.
 
 ## Field Cases
 
@@ -192,6 +194,9 @@
 - [Bull Desk Webull trading](https://github.com/HammeredSmithy/bull-trade) - HyperGrok-style seven-agent trading desk ported to Webull OpenAPI for US users—research, size, approve-by-id execution and review Bots with paper sandbox before live keys.
 - [Growth Grok Bots self-serve team](https://github.com/jay-sahnan/growth-grok-bots) - Shareable multi-bot growth team (Head of Growth plus specialists) with narrow jobs, handoffs, and human approval before anything ships or sends.
 - [Grok Bot Market Memory pack](https://github.com/palehonk0-o/grokbot-market-memory) - Evidence-first market-memory implementation pack for turning public pages into decision briefs with Grok Bot, matching a public X article walkthrough.
+- [Grok Bot fleet public packets](https://github.com/Logos52/grok-bot-packets) - Public weekday dump of files a Grok Bot fleet writes under /workspace on the shared cloud computer, mirrored for Mac /fold skill intake.
+- [Per-bot durable knowledge log](https://github.com/jblack4vols/grok-bot) - Durable per-bot knowledge log for a real Grok Bot roster, with dated America/New_York files for decisions, shipped work, and standing preferences.
+- [UiTM calendar Grok Bot + MCP](https://github.com/bilauitmcuti/bot) - UiTM academic calendar assistant running on Grok Bot with a remote MCP server for live lecture, cuti, exam, and holiday dates.
 
 ## Skills, Plugins & MCP
 
@@ -290,6 +295,9 @@
 - [Peekaboo Mac UI skill](https://github.com/bcharleson/grokbot-peekaboo) - Grok Bot skill that drives registered Macs through Peekaboo for screen recording, screenshots, window lists, and UI input beyond plain bash.
 - [awesome-claude-skills port for Grok Bot](https://github.com/jeremybrasher/grokbot-skills) - Large Grok Bot skill collection reshaped from awesome-claude-skills, keeping original licenses and SOURCE.md links in one-folder-per-skill layout.
 - [grok-bot-rooms registry plugin](https://github.com/mrlynn/grok-bot-plugin-example) - Agent Plugin (repo slug grok-bot-plugin-example) that registers assistants into hosted rooms, check-ins, slash commands, and host-and-invite lobbies for Grok Bot.
+- [AskGrokWallet](https://github.com/richard7463/askgrokwallet) - Governed-wallet plugin for Grok Bot: plain-English policies compile to allow/ask/deny, "ask" lands in a human approval inbox, and every outcome leaves a signed receipt; the onchain engine implements ERC-8196 on Base mainnet (MIT).
+- [xAI Bug Reporter Grok Bot plugin](https://github.com/FineComputer14451/xai-bug-reporter) - Grok Bot/Cursor plugin plus Grok Chat skill that walks triage and evidence into a paste-ready xAI bug report without inventing support channels.
+- [MERIT agent skills (Grok Bot target)](https://github.com/AgentDraven/merit-agent-skills) - Free MERIT agent skills and merit CLI with an explicit Grok Bot install target alongside Cursor, Claude Code, Codex, Hermes, and OpenClaw.
 
 ## Reviews & Comparisons
 
@@ -373,6 +381,7 @@
 - [plaude NotePin→GrokBot pipeline](https://github.com/quolu/plaude) - Plaud NotePin S inbox pipeline (Whisper, templates, email) with a SKILL.md meant to run on a Linux Grok Bot computer as the classifier and summarizer.
 - [Arena Grok Bot connector MVP](https://github.com/openlawteam/arena-test) - Next.js Arena MVP that pairs user-hosted Grok Bots with short-lived codes, installs a native plugin/MCP, and relays free bot-to-bot room chats.
 - [grokbot-BYOK inference adapter](https://github.com/jroth1111/grokbot-BYOK) - Bring-your-own-key inference adapter that routes Grok Bot AI calls through your providers, with a large TypeScript test suite and multi-provider failover.
+- [Cursor Account Manager + Grok Bot Sand](https://github.com/kuk-888/cursor-account-manager) - Cursor multi-account VSIX that switches logins, shows Auto/Other/Bot quotas, and can inject Grok Bot Sand Stream routing on Cursor 3.18.9.
 
 ## Community & Failure Modes
 
@@ -462,6 +471,9 @@
 - [Grok Bot 0.30.0 — Agent Computer unreachable after Update, Recover, and Reset all failed](https://forum.cursor.com/t/grok-bot-0-30-0-agent-computer-unreachable-after-update-recover-and-reset-all-failed/170258) - Staff (kevinn): An “Aw, Snap!” Chrome page on the Bot screen after idle wake is the Bot’s browser crashing inside a healthy computer — reload the tab or ask the Bot to reload, fully quit/reopen Grok Bot if needed, and do not run Update/Recover/Reset; idle machines take a moment to wake and a first message can miss, so resend is safe.
 - [Grok Bot Mac “unavailable” after password reset (expired session)](https://forum.cursor.com/t/grok-bot-mac-blocked-after-password-change-app-says-unavailable-spending-shows-supergrok-plus/170389) - Staff (deanrie): After a password reset, Grok Bot on Mac can keep an expired session and show “isn’t available on this account yet” even though SuperGrok/Cursor access and your cloud computer/Bots are fine — Log out from the bottom of that screen, fully Quit (Cmd+Q), reopen and Sign in with the new password; Check Access→download is a misleading expired-session UI, not a missing entitlement.
 - [Homepage “Approval needed” stuck after card timeout](https://forum.cursor.com/t/grok-bot-approval-needed-stays-on-agent-view-homepage-when-coder-has-nothing-to-approve/170127) - Staff (Colin): A homepage “Approval needed” tile with nothing pending usually means an approval card timed out (~10 minutes unanswered); open the agent and send a short message or restart the app to clear a stuck badge — the tile is supposed to clear when the card expires.
+- [File contents and grokbot — viewer Copy vs Download](https://forum.cursor.com/t/file-contents-and-grokbot/170421) - Staff (Colin): The in-app file viewer only offers Download today; for .md/.txt you can click-drag to select and Cmd/Ctrl+C, while .docx/.pdf won’t highlight — ask the Bot to paste the full text into chat and use the message Copy action as a workaround.
+- [Grok Bot Canva connector failing — Invalid redirect URI on iOS](https://forum.cursor.com/t/grok-bot-canva-connector-failing/170431) - Staff (deanrie): Canva “Invalid redirect URI” on Grok Bot iOS 1.4.0 is a known app-link vs web-redirect mismatch (not your Canva settings) — connect Canva from desktop Grok Bot on the same account and the connector syncs to iPhone.
+- [Local computer looks connected but CopyFromBox/Shell flaps after large transfer timeout](https://forum.cursor.com/t/grok-bot-local-computer-execution-looks-connected-in-settings-but-is-not-actually-usable-for-file-i-o/169877) - Staff (deanrie): A large CopyFromBox (or timed-out Shell) can drop the local machine from the agent list for ~1 minute while Settings still says connected — split big copies, wait a minute before retrying, and if stuck Cmd+Q then pkill -f local-exec-daemon and reopen.
 
 ## Related Lists
 
@@ -504,7 +516,7 @@
 
 ## Contributing
 
-400 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+412 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
