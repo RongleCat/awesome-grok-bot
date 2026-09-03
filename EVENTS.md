@@ -45,9 +45,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="ncsu-20260903"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/9ck911r9"><img src="./assets/events/ncsu-20260903-cover.png" alt="Grok Bot Build Night (NC State)" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night (NC State)</strong><br />Thu 3 Sep 2026, 18:00–20:00 (EDT)<br />NC State University · exact address after you register<br /><br />SpaceXAI × NC State student GrokBot night: demo of always-on agents with their own computer, then build/network/eat, plus a free month of Cursor Pro (includes Grok Bot).<br /><br /><a href="https://luma.com/9ck911r9"><strong>Register on Luma →</strong></a></td></tr></table>
 
-<a id="rose-20260903"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/s76hornw"><img src="./assets/events/rose-20260903-cover.png" alt="Grok Bot Build Night (Rose-Hulman / Terre Haute)" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night (Rose-Hulman / Terre Haute)</strong><br />Thu 3 Sep 2026, 18:30–20:30 (EDT)<br />Rose-Hulman, 5500 Wabash Ave, Terre Haute, IN (CS Labs TBD)<br /><br />Rose-Hulman Cursor & Grok Bot build night with SpaceXAI: demo of always-on agents that have their own computer, then build/network, plus a free month of Cursor Pro.<br /><br /><a href="https://luma.com/s76hornw"><strong>Register on Luma →</strong></a></td></tr></table>
-
 <a id="roc-20260903"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/myqb4rsj"><img src="./assets/events/roc-20260903-cover.png" alt="Grok Bot Student Build Night (Rochester)" width="300" /></a></td><td valign="top"><strong>Grok Bot Student Build Night (Rochester)</strong><br />Thu 3 Sep 2026, 18:30–21:00 (EDT)<br />University of Rochester, Rochester, NY (186 Cumberland St area · confirm on Luma)<br /><br />University of Rochester student Grok Bot build night (nationwide Sep 3 wave): build with Grok Bot and Cursor, live SpaceXAI demo, no advanced AI experience required.<br /><br /><a href="https://luma.com/myqb4rsj"><strong>Register on Luma →</strong></a></td></tr></table>
 
@@ -101,12 +98,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="ucr-20260903"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/swqijv16"><img src="./assets/events/ucr-20260903-cover.png" alt="Grok Bot Build Night (UCR / Riverside)" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night (UCR / Riverside)</strong><br />Thu 3 Sep 2026, 18:00–20:00 (PDT)<br />UC Riverside (address after register)<br /><br />UCR Grok Bot Build Night: evening of building and demos with campus makers. Location TBA after register. Bring a laptop.<br /><br /><a href="https://luma.com/swqijv16"><strong>Register on Luma → →</strong></a></td></tr></table>
-
-<a id="sfd-20260902"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-7alp"><img src="./assets/events/sfd-20260902-cover.png" alt="Grok Bot After Dark (SF)" width="300" /></a></td><td valign="top"><strong>Grok Bot After Dark (SF)</strong><br />Wed 2 Sep 2026, 18:00–22:00 (PDT)<br />San Francisco · Radhaus, 2 Marina Blvd Bldg A (Fort Mason)<br /><br />SpaceXAI After Dark: creators, builders, founders, and creative technologists exploring what’s possible with Grok Bot. Host approval.<br /><br /><a href="https://luma.com/spacexai-7alp"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
-
-<a id="nyd-20260902"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-jm84"><img src="./assets/events/nyd-20260902-cover.png" alt="Grok Bot After Dark (NYC)" width="300" /></a></td><td valign="top"><strong>Grok Bot After Dark (NYC)</strong><br />Wed 2 Sep 2026, 18:00–22:00 (EDT)<br />Brooklyn · Public Records, 233 Butler St<br /><br />SpaceXAI After Dark NYC: creators, builders, founders exploring what’s possible with Grok Bot at Public Records. Host approval; currently sold out on Luma.<br /><br /><a href="https://luma.com/spacexai-jm84"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
 <a id="cla-20260903"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/w1bt19vc"><img src="./assets/events/cla-20260903-cover.png" alt="Grok Bot Build Night (5Cs / Claremont)" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night (5Cs / Claremont)</strong><br />Thu 3 Sep 2026, 10:00–23:30 (PDT)<br />Claremont, CA · 130 E 7th St<br /><br />5Cs (Claremont Colleges) Grok Bot Build Night on the SpaceXAI Education calendar. Offline student build session.<br /><br /><a href="https://luma.com/w1bt19vc"><strong>Register on Luma → →</strong></a></td></tr></table>
@@ -167,6 +158,9 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="sfm-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-1ctm"><img src="./assets/events/sfm-20260917-cover.png" alt="Grok Bot for Marketing (SF)" width="300" /></a></td><td valign="top"><strong>Grok Bot for Marketing (SF)</strong><br />Wed 17 Sep 2026, 14:30–16:00 (PDT)<br />San Francisco, CA · The Howard SF, 661 Howard St<br /><br />Official Marketing Grok Bot session at The Howard. Free; ~148 seats (hosts Jenna Nanpei, Kathryn Trainor).<br /><br /><a href="https://luma.com/spacexai-1ctm"><strong>Register on Luma → →</strong></a></td></tr></table>
+
+<a id="utep-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/u18y6rln"><img src="./assets/events/utep-20260903-cover.png" alt="UTEP Grok Bot Build Night" width="300" /></a></td><td valign="top"><strong>UTEP Grok Bot Build Night</strong><br />Thu 3 Sep 2026, 15:30–16:30 (MDT)<br />El Paso, TX · UTEP CSSB 1.0510<br /><br />UTEP student build night for Grok Bots — internship automation, club ops, and more. Live demo then hands-on build/network/snack. Free offline session (host Nan Jiang).<br /><br /><a href="https://luma.com/u18y6rln"><strong>Register on Luma → →</strong></a></td></tr></table>
 
 <a id="country-ar"></a>
 ### Argentina

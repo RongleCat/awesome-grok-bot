@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-380-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-400-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [イベントの詳細](./EVENTS.ja.md)
 
 - **中国**（2）：[マカオ](./EVENTS.ja.md#mo-20260905) · [成都](./EVENTS.ja.md#cd-20260905)
-- **アメリカ**（50）：[ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ（女性）](./EVENTS.ja.md#sf-20260903) · [ニューヨーク（学生）](./EVENTS.ja.md#nyc-20260903) · [サンフランシスコ（学生）](./EVENTS.ja.md#sfs-20260903) · [ペンシルベニア大](./EVENTS.ja.md#phl-20260903) · [UIUC](./EVENTS.ja.md#uiuc-20260903) · [アイオワ州立](./EVENTS.ja.md#isu-20260903) · [ピッツバーグ大](./EVENTS.ja.md#pitt-20260903) · [NC State](./EVENTS.ja.md#ncsu-20260903) · [Rose-Hulman](./EVENTS.ja.md#rose-20260903) · [ロチェスター大](./EVENTS.ja.md#roc-20260903) · [Chaffey College](./EVENTS.ja.md#chf-20260903) · [RIT](./EVENTS.ja.md#rit-20260903) · [Cal Poly](./EVENTS.ja.md#slo-20260903) · [UCSB](./EVENTS.ja.md#sba-20260903) · [デラウェア大](./EVENTS.ja.md#udel-20260903) · [UC Davis](./EVENTS.ja.md#davis-20260903) · [ミシガン大](./EVENTS.ja.md#a2-20260903) · [フロリダ大](./EVENTS.ja.md#uf-20260903) · [テキサスA&M](./EVENTS.ja.md#tamu-20260903) · [TX Luminescence](./EVENTS.ja.md#txl-20260903) · [ジョンズホプキンス](./EVENTS.ja.md#jhu-20260903) · [プリンストン](./EVENTS.ja.md#prin-20260903) · [CMU](./EVENTS.ja.md#cmu-20260903) · [パデュー](./EVENTS.ja.md#laf-20260903) · [McNeese](./EVENTS.ja.md#mcn-20260903) · [ハーバード](./EVENTS.ja.md#hvd-20260903) · [UCR](./EVENTS.ja.md#ucr-20260903) · [サンフランシスコ After Dark](./EVENTS.ja.md#sfd-20260902) · [ニューヨーク After Dark](./EVENTS.ja.md#nyd-20260902) · [5Cs / Claremont](./EVENTS.ja.md#cla-20260903) · [MSJC / Temecula](./EVENTS.ja.md#tem-20260903) · [Miami U / Oxford OH](./EVENTS.ja.md#oxf-20260903) · [Temple / フィラデルフィア](./EVENTS.ja.md#tmp-20260903) · [UNC / Chapel Hill](./EVENTS.ja.md#unc-20260903) · [SJSU / San Jose](./EVENTS.ja.md#sjsu-20260903) · [USC / Los Angeles](./EVENTS.ja.md#usc-20260903) · [Babson / Wellesley](./EVENTS.ja.md#bab-20260903) · [Rutgers / New Brunswick](./EVENTS.ja.md#ru-20260903) · [Greencastle / DePauw](./EVENTS.ja.md#dpu-20260903) · [Salisbury / Livingstone](./EVENTS.ja.md#lc-20260903) · [サンフランシスコ](./EVENTS.ja.md#sfi-20260904) · [ホノルル](./EVENTS.ja.md#hnl-20260905) · [サンフランシスコ](./EVENTS.ja.md#g101-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfe-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917)
+- **アメリカ**（48）：[ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ（女性）](./EVENTS.ja.md#sf-20260903) · [ニューヨーク（学生）](./EVENTS.ja.md#nyc-20260903) · [サンフランシスコ（学生）](./EVENTS.ja.md#sfs-20260903) · [ペンシルベニア大](./EVENTS.ja.md#phl-20260903) · [UIUC](./EVENTS.ja.md#uiuc-20260903) · [アイオワ州立](./EVENTS.ja.md#isu-20260903) · [ピッツバーグ大](./EVENTS.ja.md#pitt-20260903) · [NC State](./EVENTS.ja.md#ncsu-20260903) · [ロチェスター大](./EVENTS.ja.md#roc-20260903) · [Chaffey College](./EVENTS.ja.md#chf-20260903) · [RIT](./EVENTS.ja.md#rit-20260903) · [Cal Poly](./EVENTS.ja.md#slo-20260903) · [UCSB](./EVENTS.ja.md#sba-20260903) · [デラウェア大](./EVENTS.ja.md#udel-20260903) · [UC Davis](./EVENTS.ja.md#davis-20260903) · [ミシガン大](./EVENTS.ja.md#a2-20260903) · [フロリダ大](./EVENTS.ja.md#uf-20260903) · [テキサスA&M](./EVENTS.ja.md#tamu-20260903) · [TX Luminescence](./EVENTS.ja.md#txl-20260903) · [ジョンズホプキンス](./EVENTS.ja.md#jhu-20260903) · [プリンストン](./EVENTS.ja.md#prin-20260903) · [CMU](./EVENTS.ja.md#cmu-20260903) · [パデュー](./EVENTS.ja.md#laf-20260903) · [McNeese](./EVENTS.ja.md#mcn-20260903) · [ハーバード](./EVENTS.ja.md#hvd-20260903) · [UCR](./EVENTS.ja.md#ucr-20260903) · [5Cs / Claremont](./EVENTS.ja.md#cla-20260903) · [MSJC / Temecula](./EVENTS.ja.md#tem-20260903) · [Miami U / Oxford OH](./EVENTS.ja.md#oxf-20260903) · [Temple / フィラデルフィア](./EVENTS.ja.md#tmp-20260903) · [UNC / Chapel Hill](./EVENTS.ja.md#unc-20260903) · [SJSU / San Jose](./EVENTS.ja.md#sjsu-20260903) · [USC / Los Angeles](./EVENTS.ja.md#usc-20260903) · [Babson / Wellesley](./EVENTS.ja.md#bab-20260903) · [Rutgers / New Brunswick](./EVENTS.ja.md#ru-20260903) · [Greencastle / DePauw](./EVENTS.ja.md#dpu-20260903) · [Salisbury / Livingstone](./EVENTS.ja.md#lc-20260903) · [サンフランシスコ](./EVENTS.ja.md#sfi-20260904) · [ホノルル](./EVENTS.ja.md#hnl-20260905) · [サンフランシスコ](./EVENTS.ja.md#g101-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfe-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [UTEP / El Paso](./EVENTS.ja.md#utep-20260903)
 - **アルゼンチン**（4）：[バリローチェ](./EVENTS.ja.md#brc-20260910) · [ブエノスアイレス](./EVENTS.ja.md#bue-20260916) · [メンドサ](./EVENTS.ja.md#mdz-20261003) · [サルタ](./EVENTS.ja.md#sla-20260916)
 - **カナダ**（4）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [ビクトリア（BC）](./EVENTS.ja.md#vic-20260921) · [サドベリー](./EVENTS.ja.md#sud-20260917) · [トロント](./EVENTS.ja.md#yyz-20260917)
 - **エクアドル**（3）：[マンタ](./EVENTS.ja.md#mec-20260912) · [キト](./EVENTS.ja.md#uio-20260924) · [クンバヤ](./EVENTS.ja.md#cumb-20261003)
@@ -88,7 +88,7 @@
 - [Grok Bot overview](https://docs.x.ai/grok-bot/overview) - 製品の公式概要：名前付き Bot が 1 台のクラウドパソコンを共有し、分離は Bot 単位ではなくユーザー単位です。
 - [Get started](https://docs.x.ai/grok-bot/get-started) - デスクトップ版を入れ、Cursor でログインし、最初の Bot を作ります。公式の Linux デスクトップはありません。
 - [Use cases](https://docs.x.ai/grok-bot/use-cases) - 公式の編成例：営業の夜間 CRM、運用の請求書処理、エンジニアリングのバグ潰し。
-- [Grok Bot for iOS](https://docs.x.ai/grok-bot/mobile) - クラウドパソコン上で動き続ける Bot に、スマホからメッセージを送る同伴アプリです。
+- [Grok Bot for mobile (iOS + Android)](https://docs.x.ai/grok-bot/mobile) - iPhone と Android（Android 9+ / iOS 18+）向け Grok Bot 公式ドキュメント。App Store と Google Play のインストール案内付き。
 - [Create and manage Bots](https://docs.x.ai/grok-bot/bots) - Bot の名前と役割の付け方。公開シェアリンクで人設・スキル・ルーチンをコピーする（パソコンとログインは含まれない）。
 - [Message and collaborate](https://docs.x.ai/grok-bot/chat-and-collaboration) - Bot 同士がメッセージを送り、グループチャットに入り、仕事の担当を割り振ります。
 - [Files and results](https://docs.x.ai/grok-bot/files-and-results) - 成果物が共有パソコンのどこに置かれ、どう手元へ戻すか。
@@ -151,6 +151,7 @@
 - [Technocore Grok Bot 日本語ガイド](https://github.com/hariou/technocore-grokbot-ja) - Technocore の DID を Grok Bot で安全に運用する日本語ガイドと GROKBOT_PROMPT.md。seed を漏らさず、ロビーも荒らしません。
 - [Grok Bot Getting Started hubs](https://github.com/mrlynn/grok-bot-getting-started) - 薄い Docusaurus ハブ。Grok Bot とは／インストールとサインイン／最初のタスクを、docs.x.ai と x.ai/bot へディープリンク。
 - [Grok Bot 蓝皮书](https://github.com/rockyzhuo/grok-bot-blue-book) - 橙皮書の続編オペレーション本。Grok Bot チームを納品する会社として回す：成果物契約、INSTALL.md 立ち上げ、5 本のルート雛形。
+- [Grokbot Field Guide (8 use cases)](https://github.com/tal-giladi/grokbot-field-guide) - Getting started with Grok Bot 動画の8用例を自分で組むチュートリアルで、開始プロンプトと HTML 版ガイドを同梱しています。
 
 ## 実地事例
 
@@ -190,6 +191,7 @@
 - [build-brief Grok Build desk](https://github.com/mtrxdev/build-brief) - 再利用可能な Grok Bot デスク。生のアイデアを問い詰めて Git 上の Grok Build brief（PROFILE + BOT-SKILL + inspect gate）にし、まず Print してローカル grok に貼る運用。
 - [Bull Desk Webull trading](https://github.com/HammeredSmithy/bull-trade) - HyperGrok 風7エージェント取引デスクの Webull OpenAPI（米国向け）移植。調査・サイズ・ID 承認執行・レビュー Bot で、本番鍵の前にペーパーサンドボックス。
 - [Growth Grok Bots self-serve team](https://github.com/jay-sahnan/growth-grok-bots) - 共有可能なグロース多ボットチーム（Head of Growth＋専門家）。狭い職務と引き継ぎ、出荷・送信前は人間承認必須。
+- [Grok Bot Market Memory pack](https://github.com/palehonk0-o/grokbot-market-memory) - 公開ページを意思決定ブリーフにする証拠優先の市場メモリ実装パックで、公開 X 記事の手順に沿って Grok Bot で動かします。
 
 ## スキル、プラグインと MCP
 
@@ -280,6 +282,14 @@
 - [Multi-agent Grok Bot skill templates](https://github.com/EndeavorYen/grok-bot-skills) - チーフ＋専門家のマルチエージェント向け再利用 Grok Bot スキル。ディスク引き継ぎ、承認ゲート、ボット設計の作成／監査チェックリストを含みます。
 - [punk-records Grok Bot round-table setup](https://github.com/VeigaPunk/punk-records-brain) - Grok Bot 自動セットアッププラグイン。好みの CLI で set grok bot for me と言うと CDP 経由で名前付き円卓カードを発行し、手動 New を不要にします。
 - [PumpGrok Solana trading-desk pack](https://github.com/swcstudiospace/PumpGrok) - Grok Bot 向け 8 役割 Solana ミームコイン取引デスク。23 スキル・厳格な安全憲章・読み取り専用ヘルパーで、鍵は入れず人間承認の行動のみ。
+- [ShopMonkey REST v3 Cursor plugin](https://github.com/skyburxd/grokbot-shopmonkey-plugin) - mcp.json と ShopMonkey スキル付きの Cursor/Grok Bot プラグインで、Marketplace から入れたあと REST v3 で注文・顧客・車両を扱えます。
+- [Tender Years household MCP plugin](https://github.com/voeliz/tender-years-grok-plugin) - Tender Years のホスト MCP を繋ぐ読み取り専用 Cursor/Grok Bot プラグインで、キー設定後に家事メンバー・ルーチン・タスク・週次スナップショットを参照できます。
+- [74-skill Grok Bot library](https://github.com/shrdgn/grokbot-skills) - 12カテゴリ・74本のすぐ使える Grok Bot スキル集で、統一 SKILL.md レシピとしてオンデマンドやスケジュール実行に使えます。
+- [technocore-safe Flop skill](https://github.com/mahathir69/technocore-safe) - 鍵漏洩やロビー連投なしで Flop/Technocore を手伝う Grok Bot スキルで、公開前に APPROVE SEND の手入力を必須にします。
+- [Sales Outbound workforce teaser](https://github.com/PROJECT-073-X/grok-bot-workforce) - 無料の Sales Outbound 向け Grok Bot プロファイル＋スキル予告で、送信前に人が承認する契約と自動レビュー閘を付けています。
+- [Peekaboo Mac UI skill](https://github.com/bcharleson/grokbot-peekaboo) - 登録済み Mac を Peekaboo 経由で操作する Grok Bot スキルで、録画・スクショ・ウィンドウ一覧・UI 入力を bash 以上に拡張します。
+- [awesome-claude-skills port for Grok Bot](https://github.com/jeremybrasher/grokbot-skills) - awesome-claude-skills を Grok Bot 向けに再構成した大規模スキル集で、元ライセンスと SOURCE.md を保った1スキル1フォルダ構成です。
+- [grok-bot-rooms registry plugin](https://github.com/mrlynn/grok-bot-plugin-example) - リポジトリ名 grok-bot-plugin-example の Agent プラグインで、Grok Bot 向けにアシスタント登録・ルームチェックイン・スラッシュコマンド・ホスト招待ロビーを提供します。
 
 ## レビューと比較
 
@@ -355,6 +365,14 @@
 - [grok-to-hermes profile converter](https://github.com/jmporchet/grok-to-hermes) - 共有可能な Grok Bot エクスポートを Hermes Agent プロファイル配布とインストール用 tar.gz に変換する TypeScript CLI。
 - [Codex↔Grok MCP second-opinion bridge](https://github.com/Fato07/codex-grok-mcp) - 非公式のローカル優先 MCP 橋。認証済み Grok CLI に有界のセカンドオピニオンを求め、秘密を出さずに永続 Grok Bot へメッセージも可能。
 - [Grok Bot Cloudflare Workers inbox](https://github.com/ethanolivertroy/grokbot-cloudflare-inbox) - Agentic Inbox 由来の公開 Cloudflare Workers メール受信箱テンプレ。自前デプロイ後に MCP で Grok Bot を接続できます。
+- [grokbot-fleet MCP manager](https://github.com/Dahhrk/grokbot-fleet) - 公式管理 API がないため、Fleet bot のジョブ受信箱経由で Cursor から Grok Bot のプロンプト・ルーチン・スキルを一覧・更新するオープンソース MCP です。
+- [Omarchy Grok/Cursor usage tabs](https://github.com/jexmarc/omarchy-spacexai-usage) - Omarchy Agents パネル用サービスプラグインで、Grok・Grok Bot（grokbot）・Cursor の残クォータを既存 usage JSON 契約に書き込みます。
+- [Cursor Grokbot Helper VSIX](https://github.com/banana2556/cursor-grokbot-helper) - セッション内容を送らず、ローカルに Sand クライアントモードを入れて Grok Bot 上級モードを有効にする Cursor 拡張（VSIX）です。
+- [Discord↔Grok Bot gateway](https://github.com/RudeDude/grokbot-discord) - メンションやボット名を複数の私有 Grok Bot に紐づける Python Discord ゲートウェイで、即 ACK のあと webhook で起こしスマホからも会話できます。
+- [pigeon-mcp Gmail connector](https://github.com/iXanadu/pigeon-mcp) - Grok Bot 向け自前 Gmail MCP。複数アカウント OAuth、添付付き実 MIME 送信、base64 をモデルに流さない読み取りを提供します。
+- [plaude NotePin→GrokBot pipeline](https://github.com/quolu/plaude) - Plaud NotePin S 録音を Whisper・テンプレ・メールへ流すパイプラインで、Linux の Grok Bot 上で分類・要約する SKILL.md 付きです。
+- [Arena Grok Bot connector MVP](https://github.com/openlawteam/arena-test) - 短命ペアリングコードでユーザー主催 Grok Bot を繋ぎ、ネイティブ plugin/MCP を入れ、無料の bot 同士ルーム会話を中継する Next.js Arena MVP です。
+- [grokbot-BYOK inference adapter](https://github.com/jroth1111/grokbot-BYOK) - Grok Bot の推論を自分のプロバイダへルーティングする BYOK アダプタで、大規模 TypeScript テストとフェイルオーバーを備えます。
 
 ## コミュニティと障害事例
 
@@ -442,6 +460,8 @@
 - [Grok Bot cannot attach inline images to Cursor bug reports (chat drop and forum upload)](https://forum.cursor.com/t/grok-bot-cannot-attach-inline-images-to-cursor-bug-reports-chat-drop-and-forum-upload/170255) - スタッフ（mohitjain）：スクショを Grok Bot チャットに入れるには composer の +（または保存済みファイルのドラッグ）を使い、サムネイルが出てから送信する。ブラウザ／他アプリからのドラッグやサムネ前の Enter では落ちやすい。アシスタントのフォーラムアップロードは現状制限；自分で添付するかサポートメールに返信する。
 - [Grok Bot routines don't auto-run on schedule](https://forum.cursor.com/t/grok-bot-routines-dont-auto-run-on-schedule/170358) - スタッフ（Colin）：Bot 説明の編集や作成プラットフォームはスケジュールを壊さない。「Next run: Run now」で遅延するのは、枠は発火したがキュー待ち（多くは 10–37 分）で、完了してもチャットに投稿しない実行もある。routine の作り直しは不要；確認は Bot へメッセージで。
 - [Grok Bot 0.30.0 — Agent Computer unreachable after Update, Recover, and Reset all failed](https://forum.cursor.com/t/grok-bot-0-30-0-agent-computer-unreachable-after-update-recover-and-reset-all-failed/170258) - スタッフ（kevinn）：アイドル起床後の Bot 画面の Chrome「Aw, Snap!」は健全な PC 内ブラウザのクラッシュ。タブ再読込か Bot にリロードを頼み、必要なら Grok Bot を完全終了して再起動し、Update／Recover／Reset はしない。起床直後の最初のメッセージは落ちることがあり、再送してよい。
+- [Grok Bot Mac “unavailable” after password reset (expired session)](https://forum.cursor.com/t/grok-bot-mac-blocked-after-password-change-app-says-unavailable-spending-shows-supergrok-plus/170389) - スタッフ（deanrie）：パスワード再設定後、Mac の Grok Bot が期限切れセッションのまま「このアカウントではまだ利用できません」と出すことがある。SuperGrok／Cursor 権限もクラウド PC／Bot も生きているのに起きる。その画面下部の Log out → 完全終了（Cmd+Q）→ 再起動して新パスワードで Sign in。Check Access がダウンロードへ飛ぶのは権限不足ではなく期限切れセッションの誤表示。
+- [Homepage “Approval needed” stuck after card timeout](https://forum.cursor.com/t/grok-bot-approval-needed-stays-on-agent-view-homepage-when-coder-has-nothing-to-approve/170127) - スタッフ（Colin）：ホームページの「Approval needed」なのに承認待ちが無いときは、未応答の承認カードが約 10 分でタイムアウトした可能性が高い。エージェントを開いて短いメッセージを送るかアプリを再起動すれば張り付いたバッジが消える。カード期限切れ後はタイルも消える想定。
 
 ## 関連リスト
 
@@ -484,7 +504,7 @@
 
 ## 貢献
 
-8 セクションに 380 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 400 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

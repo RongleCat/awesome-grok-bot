@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-380-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-400-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（2）：[Macao](./EVENTS.md#mo-20260905) · [Chengdu](./EVENTS.md#cd-20260905)
-- **United States**（50）：[Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco (women)](./EVENTS.md#sf-20260903) · [New York (students)](./EVENTS.md#nyc-20260903) · [San Francisco (students)](./EVENTS.md#sfs-20260903) · [Penn / Philadelphia](./EVENTS.md#phl-20260903) · [UIUC](./EVENTS.md#uiuc-20260903) · [Iowa State / Ames](./EVENTS.md#isu-20260903) · [Pitt](./EVENTS.md#pitt-20260903) · [NC State](./EVENTS.md#ncsu-20260903) · [Rose-Hulman](./EVENTS.md#rose-20260903) · [URochester](./EVENTS.md#roc-20260903) · [Chaffey College](./EVENTS.md#chf-20260903) · [RIT / Rochester](./EVENTS.md#rit-20260903) · [Cal Poly](./EVENTS.md#slo-20260903) · [UC Santa Barbara](./EVENTS.md#sba-20260903) · [Delaware](./EVENTS.md#udel-20260903) · [UC Davis](./EVENTS.md#davis-20260903) · [Michigan / Ann Arbor](./EVENTS.md#a2-20260903) · [Florida / Gainesville](./EVENTS.md#uf-20260903) · [Texas A&M](./EVENTS.md#tamu-20260903) · [TX Luminescence](./EVENTS.md#txl-20260903) · [Johns Hopkins](./EVENTS.md#jhu-20260903) · [Princeton](./EVENTS.md#prin-20260903) · [CMU / Pittsburgh](./EVENTS.md#cmu-20260903) · [Purdue](./EVENTS.md#laf-20260903) · [McNeese / Lake Charles](./EVENTS.md#mcn-20260903) · [Harvard](./EVENTS.md#hvd-20260903) · [UC Riverside](./EVENTS.md#ucr-20260903) · [San Francisco After Dark](./EVENTS.md#sfd-20260902) · [New York After Dark](./EVENTS.md#nyd-20260902) · [5Cs / Claremont](./EVENTS.md#cla-20260903) · [MSJC / Temecula](./EVENTS.md#tem-20260903) · [Miami U / Oxford OH](./EVENTS.md#oxf-20260903) · [Temple / Philadelphia](./EVENTS.md#tmp-20260903) · [UNC / Chapel Hill](./EVENTS.md#unc-20260903) · [SJSU / San Jose](./EVENTS.md#sjsu-20260903) · [USC / Los Angeles](./EVENTS.md#usc-20260903) · [Babson / Wellesley](./EVENTS.md#bab-20260903) · [New Brunswick / Rutgers](./EVENTS.md#ru-20260903) · [Greencastle / DePauw](./EVENTS.md#dpu-20260903) · [Salisbury / Livingstone](./EVENTS.md#lc-20260903) · [San Francisco](./EVENTS.md#sfi-20260904) · [Honolulu](./EVENTS.md#hnl-20260905) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917)
+- **United States**（48）：[Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco (women)](./EVENTS.md#sf-20260903) · [New York (students)](./EVENTS.md#nyc-20260903) · [San Francisco (students)](./EVENTS.md#sfs-20260903) · [Penn / Philadelphia](./EVENTS.md#phl-20260903) · [UIUC](./EVENTS.md#uiuc-20260903) · [Iowa State / Ames](./EVENTS.md#isu-20260903) · [Pitt](./EVENTS.md#pitt-20260903) · [NC State](./EVENTS.md#ncsu-20260903) · [URochester](./EVENTS.md#roc-20260903) · [Chaffey College](./EVENTS.md#chf-20260903) · [RIT / Rochester](./EVENTS.md#rit-20260903) · [Cal Poly](./EVENTS.md#slo-20260903) · [UC Santa Barbara](./EVENTS.md#sba-20260903) · [Delaware](./EVENTS.md#udel-20260903) · [UC Davis](./EVENTS.md#davis-20260903) · [Michigan / Ann Arbor](./EVENTS.md#a2-20260903) · [Florida / Gainesville](./EVENTS.md#uf-20260903) · [Texas A&M](./EVENTS.md#tamu-20260903) · [TX Luminescence](./EVENTS.md#txl-20260903) · [Johns Hopkins](./EVENTS.md#jhu-20260903) · [Princeton](./EVENTS.md#prin-20260903) · [CMU / Pittsburgh](./EVENTS.md#cmu-20260903) · [Purdue](./EVENTS.md#laf-20260903) · [McNeese / Lake Charles](./EVENTS.md#mcn-20260903) · [Harvard](./EVENTS.md#hvd-20260903) · [UC Riverside](./EVENTS.md#ucr-20260903) · [5Cs / Claremont](./EVENTS.md#cla-20260903) · [MSJC / Temecula](./EVENTS.md#tem-20260903) · [Miami U / Oxford OH](./EVENTS.md#oxf-20260903) · [Temple / Philadelphia](./EVENTS.md#tmp-20260903) · [UNC / Chapel Hill](./EVENTS.md#unc-20260903) · [SJSU / San Jose](./EVENTS.md#sjsu-20260903) · [USC / Los Angeles](./EVENTS.md#usc-20260903) · [Babson / Wellesley](./EVENTS.md#bab-20260903) · [New Brunswick / Rutgers](./EVENTS.md#ru-20260903) · [Greencastle / DePauw](./EVENTS.md#dpu-20260903) · [Salisbury / Livingstone](./EVENTS.md#lc-20260903) · [San Francisco](./EVENTS.md#sfi-20260904) · [Honolulu](./EVENTS.md#hnl-20260905) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [UTEP / El Paso](./EVENTS.md#utep-20260903)
 - **Argentina**（4）：[Bariloche](./EVENTS.md#brc-20260910) · [Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
 - **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260917) · [Toronto](./EVENTS.md#yyz-20260917)
 - **Ecuador**（3）：[Manta](./EVENTS.md#mec-20260912) · [Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
@@ -88,7 +88,7 @@
 - [Grok Bot overview](https://docs.x.ai/grok-bot/overview) - Canonical product page: one named Bot, one shared cloud computer, isolation is per user not per Bot.
 - [Get started](https://docs.x.ai/grok-bot/get-started) - Install desktop, sign in with Cursor, create the first Bot. No official Linux desktop.
 - [Use cases](https://docs.x.ai/grok-bot/use-cases) - Official roster ideas: sales CRM nights, ops invoices, engineering bug squash.
-- [Grok Bot for iOS](https://docs.x.ai/grok-bot/mobile) - Companion phone app for messaging Bots that keep running on the cloud machine.
+- [Grok Bot for mobile (iOS + Android)](https://docs.x.ai/grok-bot/mobile) - Official docs for Grok Bot on iPhone and Android (Android 9+ / iOS 18+), with App Store and Google Play install links.
 - [Create and manage Bots](https://docs.x.ai/grok-bot/bots) - How a Bot is named and scoped, plus the public share link that copies identity, skills, and routines (not your computer or logins).
 - [Message and collaborate](https://docs.x.ai/grok-bot/chat-and-collaboration) - Bots message each other, join group chats, and assign ownership of work.
 - [Files and results](https://docs.x.ai/grok-bot/files-and-results) - Where artifacts live on the shared computer and how you pull results back.
@@ -151,6 +151,7 @@
 - [Technocore Grok Bot 日本語ガイド](https://github.com/hariou/technocore-grokbot-ja) - Japanese operating guide plus GROKBOT_PROMPT.md for running a Technocore DID safely on Grok Bot without leaking seeds or spamming the lobby.
 - [Grok Bot Getting Started hubs](https://github.com/mrlynn/grok-bot-getting-started) - Thin branded Docusaurus hubs for What is Grok Bot, install/sign-in, and first task, deep-linking to docs.x.ai and x.ai/bot.
 - [Grok Bot 蓝皮书](https://github.com/rockyzhuo/grok-bot-blue-book) - Operator playbook (companion to the orange book) for running a Grok Bot team as a delivery company—artifact contracts, INSTALL.md bootstrap, and five route templates.
+- [Grokbot Field Guide (8 use cases)](https://github.com/tal-giladi/grokbot-field-guide) - Build-it-yourself tutorial covering the eight Getting started with Grok Bot video use cases, with prompts plus an HTML field guide in-repo.
 
 ## Field Cases
 
@@ -190,6 +191,7 @@
 - [build-brief Grok Build desk](https://github.com/mtrxdev/build-brief) - Reusable Grok Bot desk that grills a raw idea into a grounded Grok Build brief on Git (PROFILE + BOT-SKILL + inspect gate)—Print-first delivery you paste into local grok.
 - [Bull Desk Webull trading](https://github.com/HammeredSmithy/bull-trade) - HyperGrok-style seven-agent trading desk ported to Webull OpenAPI for US users—research, size, approve-by-id execution and review Bots with paper sandbox before live keys.
 - [Growth Grok Bots self-serve team](https://github.com/jay-sahnan/growth-grok-bots) - Shareable multi-bot growth team (Head of Growth plus specialists) with narrow jobs, handoffs, and human approval before anything ships or sends.
+- [Grok Bot Market Memory pack](https://github.com/palehonk0-o/grokbot-market-memory) - Evidence-first market-memory implementation pack for turning public pages into decision briefs with Grok Bot, matching a public X article walkthrough.
 
 ## Skills, Plugins & MCP
 
@@ -280,6 +282,14 @@
 - [Multi-agent Grok Bot skill templates](https://github.com/EndeavorYen/grok-bot-skills) - Reusable Grok Bot skills for chief-plus-specialist multi-agent teams covering disk handoffs, approval gates, and a create/audit checklist for bot designers.
 - [punk-records Grok Bot round-table setup](https://github.com/VeigaPunk/punk-records-brain) - Grok Bot auto-setup plugin: say set grok bot for me in your preferred CLI to mint named round-table cards via CDP instead of clicking New by hand.
 - [PumpGrok Solana trading-desk pack](https://github.com/swcstudiospace/PumpGrok) - Eight-role Solana memecoin trading desk for Grok Bot with 23 skills, a hard security constitution, and read-only helpers—no keys in the system and only human-approved actions.
+- [ShopMonkey REST v3 Cursor plugin](https://github.com/skyburxd/grokbot-shopmonkey-plugin) - Cursor/Grok Bot Agent Plugin with mcp.json and a ShopMonkey skill that wraps ShopMonkey REST v3 for orders, customers, and vehicles via Marketplace install.
+- [Tender Years household MCP plugin](https://github.com/voeliz/tender-years-grok-plugin) - Read-only Cursor/Grok Bot Agent Plugin that wires the Tender Years hosted MCP for household members, routines, tasks, and week snapshots after you paste an API key.
+- [74-skill Grok Bot library](https://github.com/shrdgn/grokbot-skills) - Curated library of 74 ready-to-run Grok Bot skills across 12 categories, each as a consistent SKILL.md recipe for on-demand or scheduled runs.
+- [technocore-safe Flop skill](https://github.com/mahathir69/technocore-safe) - Grok Bot skill for helping Flop/Technocore without leaking keys or lobby spam, requiring typed APPROVE SEND before any publish.
+- [Sales Outbound workforce teaser](https://github.com/PROJECT-073-X/grok-bot-workforce) - Free Sales Outbound Grok Bot profile and skill teaser with job contract and auto-review gates that wait for human approval before sending.
+- [Peekaboo Mac UI skill](https://github.com/bcharleson/grokbot-peekaboo) - Grok Bot skill that drives registered Macs through Peekaboo for screen recording, screenshots, window lists, and UI input beyond plain bash.
+- [awesome-claude-skills port for Grok Bot](https://github.com/jeremybrasher/grokbot-skills) - Large Grok Bot skill collection reshaped from awesome-claude-skills, keeping original licenses and SOURCE.md links in one-folder-per-skill layout.
+- [grok-bot-rooms registry plugin](https://github.com/mrlynn/grok-bot-plugin-example) - Agent Plugin (repo slug grok-bot-plugin-example) that registers assistants into hosted rooms, check-ins, slash commands, and host-and-invite lobbies for Grok Bot.
 
 ## Reviews & Comparisons
 
@@ -355,6 +365,14 @@
 - [grok-to-hermes profile converter](https://github.com/jmporchet/grok-to-hermes) - TypeScript CLI that converts sharable Grok Bot export data into Hermes Agent profile distributions and installable tar.gz packages.
 - [Codex↔Grok MCP second-opinion bridge](https://github.com/Fato07/codex-grok-mcp) - Unofficial local-first MCP bridge that lets Codex ask authenticated Grok CLI for bounded second opinions and optionally message a persistent Grok Bot without exporting secrets.
 - [Grok Bot Cloudflare Workers inbox](https://github.com/ethanolivertroy/grokbot-cloudflare-inbox) - Public Cloudflare Workers email-inbox template based on Agentic Inbox so a Grok Bot can connect over MCP to a self-hosted mailbox you deploy yourself.
+- [grokbot-fleet MCP manager](https://github.com/Dahhrk/grokbot-fleet) - Open-source MCP server that lists and updates Grok Bots from Cursor—prompts, routines, and skills—via a Fleet bot job inbox because there is no official management API.
+- [Omarchy Grok/Cursor usage tabs](https://github.com/jexmarc/omarchy-spacexai-usage) - Omarchy Agents panel service plugin that writes remaining-quota JSON for Grok, Grok Bot (grokbot), and Cursor into the stock usage contract.
+- [Cursor Grokbot Helper VSIX](https://github.com/banana2556/cursor-grokbot-helper) - Cursor extension (VSIX) that installs a local Sand client-mode patch so Grok Bot advanced mode works, without uploading session contents.
+- [Discord↔Grok Bot gateway](https://github.com/RudeDude/grokbot-discord) - Python Discord gateway that maps mentions or bot names to many private Grok Bots, acks immediately, then wakes them over webhooks for phone-friendly chat.
+- [pigeon-mcp Gmail connector](https://github.com/iXanadu/pigeon-mcp) - Self-hosted Gmail MCP for Grok Bot and other clients: multi-account OAuth, real MIME sends with attachments, and reads that avoid dumping base64 into the model.
+- [plaude NotePin→GrokBot pipeline](https://github.com/quolu/plaude) - Plaud NotePin S inbox pipeline (Whisper, templates, email) with a SKILL.md meant to run on a Linux Grok Bot computer as the classifier and summarizer.
+- [Arena Grok Bot connector MVP](https://github.com/openlawteam/arena-test) - Next.js Arena MVP that pairs user-hosted Grok Bots with short-lived codes, installs a native plugin/MCP, and relays free bot-to-bot room chats.
+- [grokbot-BYOK inference adapter](https://github.com/jroth1111/grokbot-BYOK) - Bring-your-own-key inference adapter that routes Grok Bot AI calls through your providers, with a large TypeScript test suite and multi-provider failover.
 
 ## Community & Failure Modes
 
@@ -442,6 +460,8 @@
 - [Grok Bot cannot attach inline images to Cursor bug reports (chat drop and forum upload)](https://forum.cursor.com/t/grok-bot-cannot-attach-inline-images-to-cursor-bug-reports-chat-drop-and-forum-upload/170255) - Staff (mohitjain): To get a screenshot into Grok Bot chat, use the composer + button (or drag a saved file) and wait for the thumbnail before send — drag-from-browser/other-app or Enter-before-thumbnail usually drops it. Forum upload by the assistant is a current limitation; attach the screenshot yourself or reply to support email.
 - [Grok Bot routines don't auto-run on schedule](https://forum.cursor.com/t/grok-bot-routines-dont-auto-run-on-schedule/170358) - Staff (Colin): Editing bot instructions or which platform created a routine does not break schedules — late “Next run: Run now” usually means the slot fired but sat in a queue (often 10–37 min), and some runs finish without posting to chat; don’t recreate routines; message the bot for an on-demand check-in.
 - [Grok Bot 0.30.0 — Agent Computer unreachable after Update, Recover, and Reset all failed](https://forum.cursor.com/t/grok-bot-0-30-0-agent-computer-unreachable-after-update-recover-and-reset-all-failed/170258) - Staff (kevinn): An “Aw, Snap!” Chrome page on the Bot screen after idle wake is the Bot’s browser crashing inside a healthy computer — reload the tab or ask the Bot to reload, fully quit/reopen Grok Bot if needed, and do not run Update/Recover/Reset; idle machines take a moment to wake and a first message can miss, so resend is safe.
+- [Grok Bot Mac “unavailable” after password reset (expired session)](https://forum.cursor.com/t/grok-bot-mac-blocked-after-password-change-app-says-unavailable-spending-shows-supergrok-plus/170389) - Staff (deanrie): After a password reset, Grok Bot on Mac can keep an expired session and show “isn’t available on this account yet” even though SuperGrok/Cursor access and your cloud computer/Bots are fine — Log out from the bottom of that screen, fully Quit (Cmd+Q), reopen and Sign in with the new password; Check Access→download is a misleading expired-session UI, not a missing entitlement.
+- [Homepage “Approval needed” stuck after card timeout](https://forum.cursor.com/t/grok-bot-approval-needed-stays-on-agent-view-homepage-when-coder-has-nothing-to-approve/170127) - Staff (Colin): A homepage “Approval needed” tile with nothing pending usually means an approval card timed out (~10 minutes unanswered); open the agent and send a short message or restart the app to clear a stuck badge — the tile is supposed to clear when the card expires.
 
 ## Related Lists
 
@@ -484,7 +504,7 @@
 
 ## Contributing
 
-380 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+400 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

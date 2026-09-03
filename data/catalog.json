@@ -96,13 +96,13 @@
           }
         },
         {
-          "title": "Grok Bot for iOS",
+          "title": "Grok Bot for mobile (iOS + Android)",
           "url": "https://docs.x.ai/grok-bot/mobile",
           "source": "GB-006",
           "blurb": {
-            "en": "Companion phone app for messaging Bots that keep running on the cloud machine.",
-            "zh": "iOS 同伴 App：在手机上给仍在云电脑上干活的 Bot 发消息。",
-            "ja": "クラウドパソコン上で動き続ける Bot に、スマホからメッセージを送る同伴アプリです。"
+            "en": "Official docs for Grok Bot on iPhone and Android (Android 9+ / iOS 18+), with App Store and Google Play install links.",
+            "zh": "官方文档：在 iPhone 与 Android（Android 9+ / iOS 18+）上使用 Grok Bot，含 App Store 与 Google Play 安装入口。",
+            "ja": "iPhone と Android（Android 9+ / iOS 18+）向け Grok Bot 公式ドキュメント。App Store と Google Play のインストール案内付き。"
           }
         },
         {
@@ -704,6 +704,16 @@
             "zh": "经营者蓝皮书（橙皮书续篇）：把 Grok Bot 团队当成会交货的公司来运营——制品契约、INSTALL.md 一键立站、五条路线模板。",
             "ja": "橙皮書の続編オペレーション本。Grok Bot チームを納品する会社として回す：成果物契約、INSTALL.md 立ち上げ、5 本のルート雛形。"
           }
+        },
+        {
+          "title": "Grokbot Field Guide (8 use cases)",
+          "url": "https://github.com/tal-giladi/grokbot-field-guide",
+          "source": "GB-445",
+          "blurb": {
+            "en": "Build-it-yourself tutorial covering the eight Getting started with Grok Bot video use cases, with prompts plus an HTML field guide in-repo.",
+            "zh": "对照《Getting started with Grok Bot》视频八个用例的动手教程，含起始提示词与仓库内 HTML 指南。",
+            "ja": "Getting started with Grok Bot 動画の8用例を自分で組むチュートリアルで、開始プロンプトと HTML 版ガイドを同梱しています。"
+          }
         }
       ]
     },
@@ -1073,6 +1083,16 @@
             "en": "Shareable multi-bot growth team (Head of Growth plus specialists) with narrow jobs, handoffs, and human approval before anything ships or sends.",
             "zh": "可分享的增长多智能体团队（增长负责人+专家）：职责窄、可交接，发货或外发前须人工批准。",
             "ja": "共有可能なグロース多ボットチーム（Head of Growth＋専門家）。狭い職務と引き継ぎ、出荷・送信前は人間承認必須。"
+          }
+        },
+        {
+          "title": "Grok Bot Market Memory pack",
+          "url": "https://github.com/palehonk0-o/grokbot-market-memory",
+          "source": "GB-440",
+          "blurb": {
+            "en": "Evidence-first market-memory implementation pack for turning public pages into decision briefs with Grok Bot, matching a public X article walkthrough.",
+            "zh": "证据优先的市场记忆实现包：用 Grok Bot 把公开网页收成决策简报，对应一篇公开 X 文章流程。",
+            "ja": "公開ページを意思決定ブリーフにする証拠優先の市場メモリ実装パックで、公開 X 記事の手順に沿って Grok Bot で動かします。"
           }
         }
       ]
@@ -1954,6 +1974,86 @@
             "zh": "面向 Grok Bot 的八角色 Solana 模因币交易台：23 项技能、硬安全宪章与只读助手；系统不进私钥，仅人类批准后才行动。",
             "ja": "Grok Bot 向け 8 役割 Solana ミームコイン取引デスク。23 スキル・厳格な安全憲章・読み取り専用ヘルパーで、鍵は入れず人間承認の行動のみ。"
           }
+        },
+        {
+          "title": "ShopMonkey REST v3 Cursor plugin",
+          "url": "https://github.com/skyburxd/grokbot-shopmonkey-plugin",
+          "source": "GB-433",
+          "blurb": {
+            "en": "Cursor/Grok Bot Agent Plugin with mcp.json and a ShopMonkey skill that wraps ShopMonkey REST v3 for orders, customers, and vehicles via Marketplace install.",
+            "zh": "带 mcp.json 与 ShopMonkey 技能的 Cursor/Grok Bot 插件，通过 Marketplace 安装后用 REST v3 处理订单、客户与车辆。",
+            "ja": "mcp.json と ShopMonkey スキル付きの Cursor/Grok Bot プラグインで、Marketplace から入れたあと REST v3 で注文・顧客・車両を扱えます。"
+          }
+        },
+        {
+          "title": "Tender Years household MCP plugin",
+          "url": "https://github.com/voeliz/tender-years-grok-plugin",
+          "source": "GB-435",
+          "blurb": {
+            "en": "Read-only Cursor/Grok Bot Agent Plugin that wires the Tender Years hosted MCP for household members, routines, tasks, and week snapshots after you paste an API key.",
+            "zh": "只读 Cursor/Grok Bot 插件，接入 Tender Years 托管 MCP，用密钥后可查家庭成员、例行事务、任务与一周快照。",
+            "ja": "Tender Years のホスト MCP を繋ぐ読み取り専用 Cursor/Grok Bot プラグインで、キー設定後に家事メンバー・ルーチン・タスク・週次スナップショットを参照できます。"
+          }
+        },
+        {
+          "title": "74-skill Grok Bot library",
+          "url": "https://github.com/shrdgn/grokbot-skills",
+          "source": "GB-437",
+          "blurb": {
+            "en": "Curated library of 74 ready-to-run Grok Bot skills across 12 categories, each as a consistent SKILL.md recipe for on-demand or scheduled runs.",
+            "zh": "收录 12 类共 74 个可即用的 Grok Bot 技能库，统一 SKILL.md 配方，可按需或定时执行。",
+            "ja": "12カテゴリ・74本のすぐ使える Grok Bot スキル集で、統一 SKILL.md レシピとしてオンデマンドやスケジュール実行に使えます。"
+          }
+        },
+        {
+          "title": "technocore-safe Flop skill",
+          "url": "https://github.com/mahathir69/technocore-safe",
+          "source": "GB-441",
+          "blurb": {
+            "en": "Grok Bot skill for helping Flop/Technocore without leaking keys or lobby spam, requiring typed APPROVE SEND before any publish.",
+            "zh": "面向 Flop/Technocore 的 Grok Bot 安全技能：不泄漏密钥、不刷屏，发布前须手打 APPROVE SEND。",
+            "ja": "鍵漏洩やロビー連投なしで Flop/Technocore を手伝う Grok Bot スキルで、公開前に APPROVE SEND の手入力を必須にします。"
+          }
+        },
+        {
+          "title": "Sales Outbound workforce teaser",
+          "url": "https://github.com/PROJECT-073-X/grok-bot-workforce",
+          "source": "GB-442",
+          "blurb": {
+            "en": "Free Sales Outbound Grok Bot profile and skill teaser with job contract and auto-review gates that wait for human approval before sending.",
+            "zh": "免费 Sales Outbound Grok Bot 配置与技能预告包，含岗位契约与自动审核闸门，发送前等人确认。",
+            "ja": "無料の Sales Outbound 向け Grok Bot プロファイル＋スキル予告で、送信前に人が承認する契約と自動レビュー閘を付けています。"
+          }
+        },
+        {
+          "title": "Peekaboo Mac UI skill",
+          "url": "https://github.com/bcharleson/grokbot-peekaboo",
+          "source": "GB-443",
+          "blurb": {
+            "en": "Grok Bot skill that drives registered Macs through Peekaboo for screen recording, screenshots, window lists, and UI input beyond plain bash.",
+            "zh": "Grok Bot 技能：经 Peekaboo 驱动已注册 Mac，完成录屏、截图、窗口列表与 UI 输入，补足纯 bash 不足。",
+            "ja": "登録済み Mac を Peekaboo 経由で操作する Grok Bot スキルで、録画・スクショ・ウィンドウ一覧・UI 入力を bash 以上に拡張します。"
+          }
+        },
+        {
+          "title": "awesome-claude-skills port for Grok Bot",
+          "url": "https://github.com/jeremybrasher/grokbot-skills",
+          "source": "GB-444",
+          "blurb": {
+            "en": "Large Grok Bot skill collection reshaped from awesome-claude-skills, keeping original licenses and SOURCE.md links in one-folder-per-skill layout.",
+            "zh": "从 awesome-claude-skills 改编的大型 Grok Bot 技能合集，保留原许可证与 SOURCE.md，一技能一目录。",
+            "ja": "awesome-claude-skills を Grok Bot 向けに再構成した大規模スキル集で、元ライセンスと SOURCE.md を保った1スキル1フォルダ構成です。"
+          }
+        },
+        {
+          "title": "grok-bot-rooms registry plugin",
+          "url": "https://github.com/mrlynn/grok-bot-plugin-example",
+          "source": "GB-450",
+          "blurb": {
+            "en": "Agent Plugin (repo slug grok-bot-plugin-example) that registers assistants into hosted rooms, check-ins, slash commands, and host-and-invite lobbies for Grok Bot.",
+            "zh": "Agent 插件（仓库名 grok-bot-plugin-example）为 Grok Bot 提供助手登记、房间签到、斜杠命令与主持邀请大厅。",
+            "ja": "リポジトリ名 grok-bot-plugin-example の Agent プラグインで、Grok Bot 向けにアシスタント登録・ルームチェックイン・スラッシュコマンド・ホスト招待ロビーを提供します。"
+          }
         }
       ]
     },
@@ -2663,6 +2763,86 @@
             "en": "Public Cloudflare Workers email-inbox template based on Agentic Inbox so a Grok Bot can connect over MCP to a self-hosted mailbox you deploy yourself.",
             "zh": "基于 Agentic Inbox 的公开 Cloudflare Workers 邮箱模板，部署后可通过 MCP 让 Grok Bot 连接你自托管的收件箱。",
             "ja": "Agentic Inbox 由来の公開 Cloudflare Workers メール受信箱テンプレ。自前デプロイ後に MCP で Grok Bot を接続できます。"
+          }
+        },
+        {
+          "title": "grokbot-fleet MCP manager",
+          "url": "https://github.com/Dahhrk/grokbot-fleet",
+          "source": "GB-434",
+          "blurb": {
+            "en": "Open-source MCP server that lists and updates Grok Bots from Cursor—prompts, routines, and skills—via a Fleet bot job inbox because there is no official management API.",
+            "zh": "开源 MCP 服务，因无官方管理 API，通过 Fleet 机器人任务收件箱从 Cursor 列出并更新 Grok Bot 的提示词、例程与技能。",
+            "ja": "公式管理 API がないため、Fleet bot のジョブ受信箱経由で Cursor から Grok Bot のプロンプト・ルーチン・スキルを一覧・更新するオープンソース MCP です。"
+          }
+        },
+        {
+          "title": "Omarchy Grok/Cursor usage tabs",
+          "url": "https://github.com/jexmarc/omarchy-spacexai-usage",
+          "source": "GB-436",
+          "blurb": {
+            "en": "Omarchy Agents panel service plugin that writes remaining-quota JSON for Grok, Grok Bot (grokbot), and Cursor into the stock usage contract.",
+            "zh": "Omarchy Agents 面板服务插件：按官方 usage 约定写入 Grok、Grok Bot（grokbot）与 Cursor 剩余额度 JSON。",
+            "ja": "Omarchy Agents パネル用サービスプラグインで、Grok・Grok Bot（grokbot）・Cursor の残クォータを既存 usage JSON 契約に書き込みます。"
+          }
+        },
+        {
+          "title": "Cursor Grokbot Helper VSIX",
+          "url": "https://github.com/banana2556/cursor-grokbot-helper",
+          "source": "GB-438",
+          "blurb": {
+            "en": "Cursor extension (VSIX) that installs a local Sand client-mode patch so Grok Bot advanced mode works, without uploading session contents.",
+            "zh": "Cursor 扩展（VSIX）：本机安装 Sand 客户端模式补丁以启用 Grok Bot 高级模式，不回传会话内容。",
+            "ja": "セッション内容を送らず、ローカルに Sand クライアントモードを入れて Grok Bot 上級モードを有効にする Cursor 拡張（VSIX）です。"
+          }
+        },
+        {
+          "title": "Discord↔Grok Bot gateway",
+          "url": "https://github.com/RudeDude/grokbot-discord",
+          "source": "GB-439",
+          "blurb": {
+            "en": "Python Discord gateway that maps mentions or bot names to many private Grok Bots, acks immediately, then wakes them over webhooks for phone-friendly chat.",
+            "zh": "Python Discord 网关：把 @提及或机器人名映射到多台私有 Grok Bot，先即时回复再 webhook 唤醒，方便手机聊。",
+            "ja": "メンションやボット名を複数の私有 Grok Bot に紐づける Python Discord ゲートウェイで、即 ACK のあと webhook で起こしスマホからも会話できます。"
+          }
+        },
+        {
+          "title": "pigeon-mcp Gmail connector",
+          "url": "https://github.com/iXanadu/pigeon-mcp",
+          "source": "GB-446",
+          "blurb": {
+            "en": "Self-hosted Gmail MCP for Grok Bot and other clients: multi-account OAuth, real MIME sends with attachments, and reads that avoid dumping base64 into the model.",
+            "zh": "面向 Grok Bot 等的自托管 Gmail MCP：多账号 OAuth、真实 MIME 附件发送，读取时避免把 base64 灌进模型。",
+            "ja": "Grok Bot 向け自前 Gmail MCP。複数アカウント OAuth、添付付き実 MIME 送信、base64 をモデルに流さない読み取りを提供します。"
+          }
+        },
+        {
+          "title": "plaude NotePin→GrokBot pipeline",
+          "url": "https://github.com/quolu/plaude",
+          "source": "GB-447",
+          "blurb": {
+            "en": "Plaud NotePin S inbox pipeline (Whisper, templates, email) with a SKILL.md meant to run on a Linux Grok Bot computer as the classifier and summarizer.",
+            "zh": "Plaud NotePin S 录音流水线（Whisper、模板、邮件），附 SKILL.md，可在 Linux Grok Bot 电脑上做分类与摘要。",
+            "ja": "Plaud NotePin S 録音を Whisper・テンプレ・メールへ流すパイプラインで、Linux の Grok Bot 上で分類・要約する SKILL.md 付きです。"
+          }
+        },
+        {
+          "title": "Arena Grok Bot connector MVP",
+          "url": "https://github.com/openlawteam/arena-test",
+          "source": "GB-448",
+          "blurb": {
+            "en": "Next.js Arena MVP that pairs user-hosted Grok Bots with short-lived codes, installs a native plugin/MCP, and relays free bot-to-bot room chats.",
+            "zh": "Next.js Arena MVP：用一次性配对码连接用户自托管 Grok Bot，安装原生插件/MCP，并中继免费 bot 对 bot 房间对话。",
+            "ja": "短命ペアリングコードでユーザー主催 Grok Bot を繋ぎ、ネイティブ plugin/MCP を入れ、無料の bot 同士ルーム会話を中継する Next.js Arena MVP です。"
+          }
+        },
+        {
+          "title": "grokbot-BYOK inference adapter",
+          "url": "https://github.com/jroth1111/grokbot-BYOK",
+          "source": "GB-449",
+          "blurb": {
+            "en": "Bring-your-own-key inference adapter that routes Grok Bot AI calls through your providers, with a large TypeScript test suite and multi-provider failover.",
+            "zh": "自带密钥推理适配器，把 Grok Bot 的推理路由到你的供应商，含大型 TypeScript 测试与多供应商故障转移。",
+            "ja": "Grok Bot の推論を自分のプロバイダへルーティングする BYOK アダプタで、大規模 TypeScript テストとフェイルオーバーを備えます."
           }
         }
       ]
@@ -3513,6 +3693,26 @@
             "en": "Staff (kevinn): An “Aw, Snap!” Chrome page on the Bot screen after idle wake is the Bot’s browser crashing inside a healthy computer — reload the tab or ask the Bot to reload, fully quit/reopen Grok Bot if needed, and do not run Update/Recover/Reset; idle machines take a moment to wake and a first message can miss, so resend is safe.",
             "zh": "官方（kevinn）：空闲唤醒后 Bot 屏幕上的 Chrome “Aw, Snap!” 是云电脑里浏览器崩了、电脑本身仍健康——刷新该标签或让 Bot 重载页面，必要时完全退出再开 Grok Bot，不要跑 Update/Recover/Reset；空闲机器唤醒需要片刻，首条消息可能丢，重发是安全的。",
             "ja": "スタッフ（kevinn）：アイドル起床後の Bot 画面の Chrome「Aw, Snap!」は健全な PC 内ブラウザのクラッシュ。タブ再読込か Bot にリロードを頼み、必要なら Grok Bot を完全終了して再起動し、Update／Recover／Reset はしない。起床直後の最初のメッセージは落ちることがあり、再送してよい。"
+          }
+        },
+        {
+          "title": "Grok Bot Mac “unavailable” after password reset (expired session)",
+          "url": "https://forum.cursor.com/t/grok-bot-mac-blocked-after-password-change-app-says-unavailable-spending-shows-supergrok-plus/170389",
+          "source": "day-20260903-1304",
+          "blurb": {
+            "en": "Staff (deanrie): After a password reset, Grok Bot on Mac can keep an expired session and show “isn’t available on this account yet” even though SuperGrok/Cursor access and your cloud computer/Bots are fine — Log out from the bottom of that screen, fully Quit (Cmd+Q), reopen and Sign in with the new password; Check Access→download is a misleading expired-session UI, not a missing entitlement.",
+            "zh": "官方（deanrie）：改密后 Mac 上的 Grok Bot 可能仍拿着过期会话，明明 SuperGrok/Cursor 权限和云电脑/Bot 都还在，却显示「此账户尚不可用」——在该提示页底部点 Log out，完全退出（Cmd+Q）再打开并用新密码 Sign in；Check Access 跳到下载页是过期会话的误导文案，不是没买权限。",
+            "ja": "スタッフ（deanrie）：パスワード再設定後、Mac の Grok Bot が期限切れセッションのまま「このアカウントではまだ利用できません」と出すことがある。SuperGrok／Cursor 権限もクラウド PC／Bot も生きているのに起きる。その画面下部の Log out → 完全終了（Cmd+Q）→ 再起動して新パスワードで Sign in。Check Access がダウンロードへ飛ぶのは権限不足ではなく期限切れセッションの誤表示。"
+          }
+        },
+        {
+          "title": "Homepage “Approval needed” stuck after card timeout",
+          "url": "https://forum.cursor.com/t/grok-bot-approval-needed-stays-on-agent-view-homepage-when-coder-has-nothing-to-approve/170127",
+          "source": "day-20260903-1304",
+          "blurb": {
+            "en": "Staff (Colin): A homepage “Approval needed” tile with nothing pending usually means an approval card timed out (~10 minutes unanswered); open the agent and send a short message or restart the app to clear a stuck badge — the tile is supposed to clear when the card expires.",
+            "zh": "官方（Colin）：主页仍显示「Approval needed」但点进去没有待批时，多半是审批卡片约 10 分钟未处理已超时；打开该 Agent 发一句短消息或重启 App 可清掉卡住的角标——卡片过期后主页磁贴本应自行消失。",
+            "ja": "スタッフ（Colin）：ホームページの「Approval needed」なのに承認待ちが無いときは、未応答の承認カードが約 10 分でタイムアウトした可能性が高い。エージェントを開いて短いメッセージを送るかアプリを再起動すれば張り付いたバッジが消える。カード期限切れ後はタイルも消える想定。"
           }
         }
       ]
@@ -5474,16 +5674,16 @@
       "id": "rose-20260903",
       "url": "https://luma.com/s76hornw",
       "image": "./assets/events/rose-20260903-cover.png",
-      "expires": "2026-09-03T20:30:00-04:00",
+      "expires": "2026-09-03T00:00:00-04:00",
       "title": {
         "en": "Grok Bot Build Night (Rose-Hulman / Terre Haute)",
         "zh": "Grok Bot Build Night（Rose-Hulman / 特雷霍特）",
         "ja": "Grok Bot Build Night（Rose-Hulman / テレホート）"
       },
       "when": {
-        "en": "Thu 3 Sep 2026, 18:30–20:30 (EDT)",
-        "zh": "2026-09-03 周四 18:30–20:30（印第安纳）",
-        "ja": "2026-09-03（木）18:30–20:30（EDT）"
+        "en": "Cancelled (Luma 404) — was Thu 3 Sep 2026, 18:30–20:30 (EDT)",
+        "zh": "已取消（Luma 404）— 原定 2026-09-03 周四 18:30–20:30",
+        "ja": "中止（Luma 404）— 予定は 2026-09-03（木）18:30–20:30（EDT）"
       },
       "where": {
         "en": "Rose-Hulman, 5500 Wabash Ave, Terre Haute, IN (CS Labs TBD)",
@@ -7106,6 +7306,37 @@
         "en": "Official Marketing Grok Bot session at The Howard. Free; ~148 seats (hosts Jenna Nanpei, Kathryn Trainor).",
         "zh": "面向 Marketing 的官方 Grok Bot 场（The Howard）。免费，约 148 席（Jenna Nanpei / Kathryn Trainor）。",
         "ja": "Marketing 向け公式セッション（The Howard）。無料・残席約 148（Jenna Nanpei / Kathryn Trainor）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "utep-20260903",
+      "url": "https://luma.com/u18y6rln",
+      "image": "./assets/events/utep-20260903-cover.png",
+      "expires": "2026-09-03T16:30:00-06:00",
+      "title": {
+        "en": "UTEP Grok Bot Build Night",
+        "zh": "Grok Bot Build Night（UTEP / 埃尔帕索）",
+        "ja": "UTEP Grok Bot Build Night"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 15:30–16:30 (MDT)",
+        "zh": "2026-09-03 周四 15:30–16:30（埃尔帕索）",
+        "ja": "2026-09-03（木）15:30–16:30（MDT）"
+      },
+      "where": {
+        "en": "El Paso, TX · UTEP CSSB 1.0510",
+        "zh": "得克萨斯埃尔帕索 · UTEP CSSB 1.0510",
+        "ja": "El Paso, TX · UTEP CSSB 1.0510"
+      },
+      "body": {
+        "en": "UTEP student build night for Grok Bots — internship automation, club ops, and more. Live demo then hands-on build/network/snack. Free offline session (host Nan Jiang).",
+        "zh": "UTEP 学生 Grok Bot 动手夜：实习自动投递、社团运营等。先演示再动手与交流。免费线下（主持 Nan Jiang）。",
+        "ja": "UTEP 学生向け Grok Bot ビルドナイト。インターン応募自動化やクラブ運営など。デモ後に制作・交流。無料オフライン（Nan Jiang）。"
       },
       "cta": {
         "en": "Register on Luma →",

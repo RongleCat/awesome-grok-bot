@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-380-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-400-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（2）：[澳门](./EVENTS.zh.md#mo-20260905) · [成都](./EVENTS.zh.md#cd-20260905)
-- **美国**（50）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山（女性场）](./EVENTS.zh.md#sf-20260903) · [纽约（学生）](./EVENTS.zh.md#nyc-20260903) · [旧金山（学生）](./EVENTS.zh.md#sfs-20260903) · [费城宾大](./EVENTS.zh.md#phl-20260903) · [香槟 UIUC](./EVENTS.zh.md#uiuc-20260903) · [爱荷华州立](./EVENTS.zh.md#isu-20260903) · [匹兹堡大学](./EVENTS.zh.md#pitt-20260903) · [北卡州立](./EVENTS.zh.md#ncsu-20260903) · [Rose-Hulman](./EVENTS.zh.md#rose-20260903) · [罗切斯特大学](./EVENTS.zh.md#roc-20260903) · [Chaffey College](./EVENTS.zh.md#chf-20260903) · [RIT 罗切斯特](./EVENTS.zh.md#rit-20260903) · [Cal Poly](./EVENTS.zh.md#slo-20260903) · [UCSB](./EVENTS.zh.md#sba-20260903) · [特拉华大学](./EVENTS.zh.md#udel-20260903) · [UC Davis](./EVENTS.zh.md#davis-20260903) · [密歇根大学](./EVENTS.zh.md#a2-20260903) · [佛罗里达大学](./EVENTS.zh.md#uf-20260903) · [德州农工](./EVENTS.zh.md#tamu-20260903) · [德州 TX Luminescence](./EVENTS.zh.md#txl-20260903) · [约翰霍普金斯](./EVENTS.zh.md#jhu-20260903) · [普林斯顿](./EVENTS.zh.md#prin-20260903) · [卡内基梅隆](./EVENTS.zh.md#cmu-20260903) · [普渡](./EVENTS.zh.md#laf-20260903) · [McNeese](./EVENTS.zh.md#mcn-20260903) · [哈佛](./EVENTS.zh.md#hvd-20260903) · [UCR 河滨](./EVENTS.zh.md#ucr-20260903) · [旧金山 After Dark](./EVENTS.zh.md#sfd-20260902) · [纽约 After Dark](./EVENTS.zh.md#nyd-20260902) · [5Cs 克莱蒙特](./EVENTS.zh.md#cla-20260903) · [MSJC 特曼库拉](./EVENTS.zh.md#tem-20260903) · [迈阿密大学 Oxford](./EVENTS.zh.md#oxf-20260903) · [天普大学 费城](./EVENTS.zh.md#tmp-20260903) · [UNC 教堂山](./EVENTS.zh.md#unc-20260903) · [SJSU 圣何塞](./EVENTS.zh.md#sjsu-20260903) · [USC 洛杉矶](./EVENTS.zh.md#usc-20260903) · [Babson 韦尔斯利](./EVENTS.zh.md#bab-20260903) · [罗格斯 新布朗斯维克](./EVENTS.zh.md#ru-20260903) · [格林卡斯尔 DePauw](./EVENTS.zh.md#dpu-20260903) · [索尔兹伯里 Livingstone](./EVENTS.zh.md#lc-20260903) · [旧金山](./EVENTS.zh.md#sfi-20260904) · [檀香山](./EVENTS.zh.md#hnl-20260905) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917)
+- **美国**（48）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山（女性场）](./EVENTS.zh.md#sf-20260903) · [纽约（学生）](./EVENTS.zh.md#nyc-20260903) · [旧金山（学生）](./EVENTS.zh.md#sfs-20260903) · [费城宾大](./EVENTS.zh.md#phl-20260903) · [香槟 UIUC](./EVENTS.zh.md#uiuc-20260903) · [爱荷华州立](./EVENTS.zh.md#isu-20260903) · [匹兹堡大学](./EVENTS.zh.md#pitt-20260903) · [北卡州立](./EVENTS.zh.md#ncsu-20260903) · [罗切斯特大学](./EVENTS.zh.md#roc-20260903) · [Chaffey College](./EVENTS.zh.md#chf-20260903) · [RIT 罗切斯特](./EVENTS.zh.md#rit-20260903) · [Cal Poly](./EVENTS.zh.md#slo-20260903) · [UCSB](./EVENTS.zh.md#sba-20260903) · [特拉华大学](./EVENTS.zh.md#udel-20260903) · [UC Davis](./EVENTS.zh.md#davis-20260903) · [密歇根大学](./EVENTS.zh.md#a2-20260903) · [佛罗里达大学](./EVENTS.zh.md#uf-20260903) · [德州农工](./EVENTS.zh.md#tamu-20260903) · [德州 TX Luminescence](./EVENTS.zh.md#txl-20260903) · [约翰霍普金斯](./EVENTS.zh.md#jhu-20260903) · [普林斯顿](./EVENTS.zh.md#prin-20260903) · [卡内基梅隆](./EVENTS.zh.md#cmu-20260903) · [普渡](./EVENTS.zh.md#laf-20260903) · [McNeese](./EVENTS.zh.md#mcn-20260903) · [哈佛](./EVENTS.zh.md#hvd-20260903) · [UCR 河滨](./EVENTS.zh.md#ucr-20260903) · [5Cs 克莱蒙特](./EVENTS.zh.md#cla-20260903) · [MSJC 特曼库拉](./EVENTS.zh.md#tem-20260903) · [迈阿密大学 Oxford](./EVENTS.zh.md#oxf-20260903) · [天普大学 费城](./EVENTS.zh.md#tmp-20260903) · [UNC 教堂山](./EVENTS.zh.md#unc-20260903) · [SJSU 圣何塞](./EVENTS.zh.md#sjsu-20260903) · [USC 洛杉矶](./EVENTS.zh.md#usc-20260903) · [Babson 韦尔斯利](./EVENTS.zh.md#bab-20260903) · [罗格斯 新布朗斯维克](./EVENTS.zh.md#ru-20260903) · [格林卡斯尔 DePauw](./EVENTS.zh.md#dpu-20260903) · [索尔兹伯里 Livingstone](./EVENTS.zh.md#lc-20260903) · [旧金山](./EVENTS.zh.md#sfi-20260904) · [檀香山](./EVENTS.zh.md#hnl-20260905) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [UTEP 埃尔帕索](./EVENTS.zh.md#utep-20260903)
 - **阿根廷**（4）：[巴里洛切](./EVENTS.zh.md#brc-20260910) · [布宜诺斯艾利斯](./EVENTS.zh.md#bue-20260916) · [门多萨](./EVENTS.zh.md#mdz-20261003) · [萨尔塔](./EVENTS.zh.md#sla-20260916)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [萨德伯里](./EVENTS.zh.md#sud-20260917) · [多伦多](./EVENTS.zh.md#yyz-20260917)
 - **厄瓜多尔**（3）：[曼塔](./EVENTS.zh.md#mec-20260912) · [基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
@@ -88,7 +88,7 @@
 - [Grok Bot overview](https://docs.x.ai/grok-bot/overview) - 产品总览：有名字的 Bot、共享一台云电脑；隔离按账号不按 Bot。.
 - [Get started](https://docs.x.ai/grok-bot/get-started) - 装桌面端、用 Cursor 登录、建第一个 Bot。官方无 Linux 桌面。.
 - [Use cases](https://docs.x.ai/grok-bot/use-cases) - 官方编制示例：销售夜间更 CRM、运营发票入职、工程复现 Bug。.
-- [Grok Bot for iOS](https://docs.x.ai/grok-bot/mobile) - iOS 同伴 App：在手机上给仍在云电脑上干活的 Bot 发消息。.
+- [Grok Bot for mobile (iOS + Android)](https://docs.x.ai/grok-bot/mobile) - 官方文档：在 iPhone 与 Android（Android 9+ / iOS 18+）上使用 Grok Bot，含 App Store 与 Google Play 安装入口。.
 - [Create and manage Bots](https://docs.x.ai/grok-bot/bots) - 怎么给 Bot 起名定岗；新增公开分享链接，会复制人设、技能和例程（不含你的电脑和登录）。.
 - [Message and collaborate](https://docs.x.ai/grok-bot/chat-and-collaboration) - Bot 互发消息、进群聊、互相派活和认领。.
 - [Files and results](https://docs.x.ai/grok-bot/files-and-results) - 产物落在共享电脑哪里，以及怎么把结果拿回来。.
@@ -151,6 +151,7 @@
 - [Technocore Grok Bot 日本語ガイド](https://github.com/hariou/technocore-grokbot-ja) - 日文操作指南和 GROKBOT_PROMPT.md：教 Grok Bot 安全持有 Technocore DID，不泄露种子、不刷大厅。.
 - [Grok Bot Getting Started hubs](https://github.com/mrlynn/grok-bot-getting-started) - 精简的 Docusaurus 入门站：什么是 Grok Bot、安装登录、第一个任务，并深度链到 docs.x.ai 与 x.ai/bot。.
 - [Grok Bot 蓝皮书](https://github.com/rockyzhuo/grok-bot-blue-book) - 经营者蓝皮书（橙皮书续篇）：把 Grok Bot 团队当成会交货的公司来运营——制品契约、INSTALL.md 一键立站、五条路线模板。.
+- [Grokbot Field Guide (8 use cases)](https://github.com/tal-giladi/grokbot-field-guide) - 对照《Getting started with Grok Bot》视频八个用例的动手教程，含起始提示词与仓库内 HTML 指南。.
 
 ## 真实使用案例
 
@@ -190,6 +191,7 @@
 - [build-brief Grok Build desk](https://github.com/mtrxdev/build-brief) - 可复用的 Grok Bot 工位：把粗糙想法拷问成落在 Git 上的 Grok Build brief（PROFILE + BOT-SKILL + inspect gate），默认 Print 后粘贴到本地 grok。.
 - [Bull Desk Webull trading](https://github.com/HammeredSmithy/bull-trade) - HyperGrok 风格七代理交易台的 Webull OpenAPI 美区移植：研究/仓位/按 id 审批执行与复盘 Bot，先用模拟盘再上实盘密钥。.
 - [Growth Grok Bots self-serve team](https://github.com/jay-sahnan/growth-grok-bots) - 可分享的增长多智能体团队（增长负责人+专家）：职责窄、可交接，发货或外发前须人工批准。.
+- [Grok Bot Market Memory pack](https://github.com/palehonk0-o/grokbot-market-memory) - 证据优先的市场记忆实现包：用 Grok Bot 把公开网页收成决策简报，对应一篇公开 X 文章流程。.
 
 ## 技能、插件与 MCP
 
@@ -280,6 +282,14 @@
 - [Multi-agent Grok Bot skill templates](https://github.com/EndeavorYen/grok-bot-skills) - 可复用的 Grok Bot 技能模板：面向首席+专家多智能体团队，覆盖磁盘交接、审批门禁与机器人设计创建/审计清单。.
 - [punk-records Grok Bot round-table setup](https://github.com/VeigaPunk/punk-records-brain) - Grok Bot 自动配置插件：在偏好 CLI 里说 set grok bot for me，即可经 CDP 铸造命名圆桌卡片，无需手点 New。.
 - [PumpGrok Solana trading-desk pack](https://github.com/swcstudiospace/PumpGrok) - 面向 Grok Bot 的八角色 Solana 模因币交易台：23 项技能、硬安全宪章与只读助手；系统不进私钥，仅人类批准后才行动。.
+- [ShopMonkey REST v3 Cursor plugin](https://github.com/skyburxd/grokbot-shopmonkey-plugin) - 带 mcp.json 与 ShopMonkey 技能的 Cursor/Grok Bot 插件，通过 Marketplace 安装后用 REST v3 处理订单、客户与车辆。.
+- [Tender Years household MCP plugin](https://github.com/voeliz/tender-years-grok-plugin) - 只读 Cursor/Grok Bot 插件，接入 Tender Years 托管 MCP，用密钥后可查家庭成员、例行事务、任务与一周快照。.
+- [74-skill Grok Bot library](https://github.com/shrdgn/grokbot-skills) - 收录 12 类共 74 个可即用的 Grok Bot 技能库，统一 SKILL.md 配方，可按需或定时执行。.
+- [technocore-safe Flop skill](https://github.com/mahathir69/technocore-safe) - 面向 Flop/Technocore 的 Grok Bot 安全技能：不泄漏密钥、不刷屏，发布前须手打 APPROVE SEND。.
+- [Sales Outbound workforce teaser](https://github.com/PROJECT-073-X/grok-bot-workforce) - 免费 Sales Outbound Grok Bot 配置与技能预告包，含岗位契约与自动审核闸门，发送前等人确认。.
+- [Peekaboo Mac UI skill](https://github.com/bcharleson/grokbot-peekaboo) - Grok Bot 技能：经 Peekaboo 驱动已注册 Mac，完成录屏、截图、窗口列表与 UI 输入，补足纯 bash 不足。.
+- [awesome-claude-skills port for Grok Bot](https://github.com/jeremybrasher/grokbot-skills) - 从 awesome-claude-skills 改编的大型 Grok Bot 技能合集，保留原许可证与 SOURCE.md，一技能一目录。.
+- [grok-bot-rooms registry plugin](https://github.com/mrlynn/grok-bot-plugin-example) - Agent 插件（仓库名 grok-bot-plugin-example）为 Grok Bot 提供助手登记、房间签到、斜杠命令与主持邀请大厅。.
 
 ## 评测与对比
 
@@ -355,6 +365,14 @@
 - [grok-to-hermes profile converter](https://github.com/jmporchet/grok-to-hermes) - TypeScript CLI：把可分享的 Grok Bot 导出数据转换成 Hermes Agent 配置发行目录与可安装的 tar.gz 包。.
 - [Codex↔Grok MCP second-opinion bridge](https://github.com/Fato07/codex-grok-mcp) - 非官方本地优先 MCP 桥：让 Codex 向已登录的 Grok CLI 征求有界第二意见，并可在不导出密钥的情况下向持久 Grok Bot 发消息。.
 - [Grok Bot Cloudflare Workers inbox](https://github.com/ethanolivertroy/grokbot-cloudflare-inbox) - 基于 Agentic Inbox 的公开 Cloudflare Workers 邮箱模板，部署后可通过 MCP 让 Grok Bot 连接你自托管的收件箱。.
+- [grokbot-fleet MCP manager](https://github.com/Dahhrk/grokbot-fleet) - 开源 MCP 服务，因无官方管理 API，通过 Fleet 机器人任务收件箱从 Cursor 列出并更新 Grok Bot 的提示词、例程与技能。.
+- [Omarchy Grok/Cursor usage tabs](https://github.com/jexmarc/omarchy-spacexai-usage) - Omarchy Agents 面板服务插件：按官方 usage 约定写入 Grok、Grok Bot（grokbot）与 Cursor 剩余额度 JSON。.
+- [Cursor Grokbot Helper VSIX](https://github.com/banana2556/cursor-grokbot-helper) - Cursor 扩展（VSIX）：本机安装 Sand 客户端模式补丁以启用 Grok Bot 高级模式，不回传会话内容。.
+- [Discord↔Grok Bot gateway](https://github.com/RudeDude/grokbot-discord) - Python Discord 网关：把 @提及或机器人名映射到多台私有 Grok Bot，先即时回复再 webhook 唤醒，方便手机聊。.
+- [pigeon-mcp Gmail connector](https://github.com/iXanadu/pigeon-mcp) - 面向 Grok Bot 等的自托管 Gmail MCP：多账号 OAuth、真实 MIME 附件发送，读取时避免把 base64 灌进模型。.
+- [plaude NotePin→GrokBot pipeline](https://github.com/quolu/plaude) - Plaud NotePin S 录音流水线（Whisper、模板、邮件），附 SKILL.md，可在 Linux Grok Bot 电脑上做分类与摘要。.
+- [Arena Grok Bot connector MVP](https://github.com/openlawteam/arena-test) - Next.js Arena MVP：用一次性配对码连接用户自托管 Grok Bot，安装原生插件/MCP，并中继免费 bot 对 bot 房间对话。.
+- [grokbot-BYOK inference adapter](https://github.com/jroth1111/grokbot-BYOK) - 自带密钥推理适配器，把 Grok Bot 的推理路由到你的供应商，含大型 TypeScript 测试与多供应商故障转移。.
 
 ## 社区与故障现场
 
@@ -442,6 +460,8 @@
 - [Grok Bot cannot attach inline images to Cursor bug reports (chat drop and forum upload)](https://forum.cursor.com/t/grok-bot-cannot-attach-inline-images-to-cursor-bug-reports-chat-drop-and-forum-upload/170255) - 官方（mohitjain）：要把截图进 Grok Bot 聊天，请用 composer 的 + 按钮（或拖入已保存文件），等缩略图出现再发送——从浏览器/其他应用拖入或缩略图未出就按 Enter 通常会丢。助手代传论坛附件目前受限；请自行附上截图或回复支持邮件。.
 - [Grok Bot routines don't auto-run on schedule](https://forum.cursor.com/t/grok-bot-routines-dont-auto-run-on-schedule/170358) - 官方（Colin）：改 Bot 说明书或在哪个端创建 routine 都不会弄坏日程——“Next run: Run now” 且迟到，多半是槽位已触发但在队列里排队（常见 10–37 分钟），有的跑完还不往聊天发消息；不必反复删建 routine，需要时直接给 Bot 发消息做即时检查。.
 - [Grok Bot 0.30.0 — Agent Computer unreachable after Update, Recover, and Reset all failed](https://forum.cursor.com/t/grok-bot-0-30-0-agent-computer-unreachable-after-update-recover-and-reset-all-failed/170258) - 官方（kevinn）：空闲唤醒后 Bot 屏幕上的 Chrome “Aw, Snap!” 是云电脑里浏览器崩了、电脑本身仍健康——刷新该标签或让 Bot 重载页面，必要时完全退出再开 Grok Bot，不要跑 Update/Recover/Reset；空闲机器唤醒需要片刻，首条消息可能丢，重发是安全的。.
+- [Grok Bot Mac “unavailable” after password reset (expired session)](https://forum.cursor.com/t/grok-bot-mac-blocked-after-password-change-app-says-unavailable-spending-shows-supergrok-plus/170389) - 官方（deanrie）：改密后 Mac 上的 Grok Bot 可能仍拿着过期会话，明明 SuperGrok/Cursor 权限和云电脑/Bot 都还在，却显示「此账户尚不可用」——在该提示页底部点 Log out，完全退出（Cmd+Q）再打开并用新密码 Sign in；Check Access 跳到下载页是过期会话的误导文案，不是没买权限。.
+- [Homepage “Approval needed” stuck after card timeout](https://forum.cursor.com/t/grok-bot-approval-needed-stays-on-agent-view-homepage-when-coder-has-nothing-to-approve/170127) - 官方（Colin）：主页仍显示「Approval needed」但点进去没有待批时，多半是审批卡片约 10 分钟未处理已超时；打开该 Agent 发一句短消息或重启 App 可清掉卡住的角标——卡片过期后主页磁贴本应自行消失。.
 
 ## 相关列表
 
@@ -484,7 +504,7 @@
 
 ## 贡献
 
-目前 8 个分类、380 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、400 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

@@ -45,9 +45,6 @@
 <a id="ncsu-20260903"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/9ck911r9"><img src="./assets/events/ncsu-20260903-cover.png" alt="Grok Bot Build Night（NC State）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（NC State）</strong><br />2026-09-03（木）18:00–20:00（EDT）<br />NC State University · 登録後に住所を表示<br /><br />SpaceXAI × NC State の学生ナイト。専用パソコン付き always-on の GrokBot デモのあと制作・交流。Cursor Pro（Grok Bot 込み）1 か月。<br /><br /><a href="https://luma.com/9ck911r9"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="rose-20260903"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/s76hornw"><img src="./assets/events/rose-20260903-cover.png" alt="Grok Bot Build Night（Rose-Hulman / テレホート）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（Rose-Hulman / テレホート）</strong><br />2026-09-03（木）18:30–20:30（EDT）<br />Rose-Hulman, 5500 Wabash Ave, Terre Haute, IN（CS Labs TBD）<br /><br />Rose-Hulman × SpaceXAI の Cursor & Grok Bot ナイト。専用パソコン付き always-on エージェントのデモ後に制作・交流。Cursor Pro 1 か月付き。<br /><br /><a href="https://luma.com/s76hornw"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
 <a id="roc-20260903"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/myqb4rsj"><img src="./assets/events/roc-20260903-cover.png" alt="Grok Bot Student Build Night（ロチェスター大学）" width="300" /></a></td><td valign="top"><strong>Grok Bot Student Build Night（ロチェスター大学）</strong><br />2026-09-03（木）18:30–21:00（EDT）<br />University of Rochester, Rochester, NY（Luma 表記の住所を確認）<br /><br />ロチェスター大学の学生 Grok Bot ナイト（全国 9/3 波）。Grok Bot と Cursor で制作、SpaceXAI ライブデモ。高度な AI 経験は不要。<br /><br /><a href="https://luma.com/myqb4rsj"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
@@ -101,12 +98,6 @@
 
 <a id="ucr-20260903"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/swqijv16"><img src="./assets/events/ucr-20260903-cover.png" alt="Grok Bot Build Night（UCR / Riverside）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（UCR / Riverside）</strong><br />2026-09-03（木）18:00–20:00（PDT）<br />UC Riverside（登録後に住所）<br /><br />UCR の Grok Bot Build Night。制作とデモ。場所は登録後。ノート PC 持参。<br /><br /><a href="https://luma.com/swqijv16"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
-<a id="sfd-20260902"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-7alp"><img src="./assets/events/sfd-20260902-cover.png" alt="Grok Bot After Dark（SF）" width="300" /></a></td><td valign="top"><strong>Grok Bot After Dark（SF）</strong><br />2026-09-02（水）18:00–22:00（PDT）<br />サンフランシスコ · Radhaus, 2 Marina Blvd Bldg A（Fort Mason）<br /><br />SpaceXAI After Dark。クリエイター・ビルダー・創業者が Grok Bot の可能性を探る。主催者承認。<br /><br /><a href="https://luma.com/spacexai-7alp"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="nyd-20260902"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-jm84"><img src="./assets/events/nyd-20260902-cover.png" alt="Grok Bot After Dark（NYC）" width="300" /></a></td><td valign="top"><strong>Grok Bot After Dark（NYC）</strong><br />2026-09-02（水）18:00–22:00（EDT）<br />ブルックリン · Public Records, 233 Butler St<br /><br />SpaceXAI After Dark NYC。Public Records で Grok Bot の可能性を探る。主催者承認・Luma 上は売り切れ。<br /><br /><a href="https://luma.com/spacexai-jm84"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
 <a id="cla-20260903"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/w1bt19vc"><img src="./assets/events/cla-20260903-cover.png" alt="Grok Bot Build Night（5Cs / Claremont）" width="300" /></a></td><td valign="top"><strong>Grok Bot Build Night（5Cs / Claremont）</strong><br />2026-09-03（木）10:00–23:30（PDT）<br />Claremont, CA · 130 E 7th St<br /><br />5Cs（Claremont Colleges）の Grok Bot Build Night。SpaceXAI Education カレンダーの学生オフライン。<br /><br /><a href="https://luma.com/w1bt19vc"><strong>Luma で申し込む → →</strong></a></td></tr></table>
@@ -167,6 +158,9 @@
 
 <a id="sfm-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-1ctm"><img src="./assets/events/sfm-20260917-cover.png" alt="Grok Bot for Marketing（SF）" width="300" /></a></td><td valign="top"><strong>Grok Bot for Marketing（SF）</strong><br />2026-09-17（水）14:30–16:00（PDT）<br />San Francisco, CA · The Howard SF, 661 Howard St<br /><br />Marketing 向け公式セッション（The Howard）。無料・残席約 148（Jenna Nanpei / Kathryn Trainor）。<br /><br /><a href="https://luma.com/spacexai-1ctm"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="utep-20260903"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/u18y6rln"><img src="./assets/events/utep-20260903-cover.png" alt="UTEP Grok Bot Build Night" width="300" /></a></td><td valign="top"><strong>UTEP Grok Bot Build Night</strong><br />2026-09-03（木）15:30–16:30（MDT）<br />El Paso, TX · UTEP CSSB 1.0510<br /><br />UTEP 学生向け Grok Bot ビルドナイト。インターン応募自動化やクラブ運営など。デモ後に制作・交流。無料オフライン（Nan Jiang）。<br /><br /><a href="https://luma.com/u18y6rln"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
 <a id="country-ar"></a>
 ### アルゼンチン

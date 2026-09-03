@@ -301,6 +301,7 @@ EVENT_GEO = {
     "gtm-20260826": ("online", "GTM workshop", "GTM 课", "GTM"),
     "pbp-20260902": ("online", "Product practice", "产品实践课", "プロダクト実践"),
     "ru-20260903": ("us", "New Brunswick / Rutgers", "罗格斯 新布朗斯维克", "Rutgers / New Brunswick"),
+    "utep-20260903": ("us", "UTEP / El Paso", "UTEP 埃尔帕索", "UTEP / El Paso"),
     "lc-20260903": ("us", "Salisbury / Livingstone", "索尔兹伯里 Livingstone", "Salisbury / Livingstone"),
     "dpu-20260903": ("us", "Greencastle / DePauw", "格林卡斯尔 DePauw", "Greencastle / DePauw"),
     "sfi-20260904": ("us", "San Francisco", "旧金山", "サンフランシスコ"),
