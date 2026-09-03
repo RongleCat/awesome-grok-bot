@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-400-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-401-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -290,6 +290,7 @@
 - [Peekaboo Mac UI skill](https://github.com/bcharleson/grokbot-peekaboo) - Grok Bot skill that drives registered Macs through Peekaboo for screen recording, screenshots, window lists, and UI input beyond plain bash.
 - [awesome-claude-skills port for Grok Bot](https://github.com/jeremybrasher/grokbot-skills) - Large Grok Bot skill collection reshaped from awesome-claude-skills, keeping original licenses and SOURCE.md links in one-folder-per-skill layout.
 - [grok-bot-rooms registry plugin](https://github.com/mrlynn/grok-bot-plugin-example) - Agent Plugin (repo slug grok-bot-plugin-example) that registers assistants into hosted rooms, check-ins, slash commands, and host-and-invite lobbies for Grok Bot.
+- [AskGrokWallet](https://github.com/richard7463/askgrokwallet) - Governed-wallet plugin for Grok Bot: plain-English policies compile to allow/ask/deny, "ask" lands in a human approval inbox, and every outcome leaves a signed receipt; the onchain engine implements ERC-8196 on Base mainnet (MIT).
 
 ## Reviews & Comparisons
 
@@ -504,7 +505,7 @@
 
 ## Contributing
 
-400 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+401 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

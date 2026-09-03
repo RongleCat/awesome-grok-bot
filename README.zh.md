@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-400-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-401-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -290,6 +290,7 @@
 - [Peekaboo Mac UI skill](https://github.com/bcharleson/grokbot-peekaboo) - Grok Bot 技能：经 Peekaboo 驱动已注册 Mac，完成录屏、截图、窗口列表与 UI 输入，补足纯 bash 不足。.
 - [awesome-claude-skills port for Grok Bot](https://github.com/jeremybrasher/grokbot-skills) - 从 awesome-claude-skills 改编的大型 Grok Bot 技能合集，保留原许可证与 SOURCE.md，一技能一目录。.
 - [grok-bot-rooms registry plugin](https://github.com/mrlynn/grok-bot-plugin-example) - Agent 插件（仓库名 grok-bot-plugin-example）为 Grok Bot 提供助手登记、房间签到、斜杠命令与主持邀请大厅。.
+- [AskGrokWallet](https://github.com/richard7463/askgrokwallet) - 面向 Grok Bot 的受治理钱包插件：大白话规则编译成放行/询问/拒绝，“询问”进入人工审批台，每笔结果留下签名回执；链上引擎实现 ERC-8196，部署在 Base 主网（MIT）。.
 
 ## 评测与对比
 
@@ -504,7 +505,7 @@
 
 ## 贡献
 
-目前 8 个分类、400 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、401 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

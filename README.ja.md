@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-400-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-401-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -290,6 +290,7 @@
 - [Peekaboo Mac UI skill](https://github.com/bcharleson/grokbot-peekaboo) - 登録済み Mac を Peekaboo 経由で操作する Grok Bot スキルで、録画・スクショ・ウィンドウ一覧・UI 入力を bash 以上に拡張します。
 - [awesome-claude-skills port for Grok Bot](https://github.com/jeremybrasher/grokbot-skills) - awesome-claude-skills を Grok Bot 向けに再構成した大規模スキル集で、元ライセンスと SOURCE.md を保った1スキル1フォルダ構成です。
 - [grok-bot-rooms registry plugin](https://github.com/mrlynn/grok-bot-plugin-example) - リポジトリ名 grok-bot-plugin-example の Agent プラグインで、Grok Bot 向けにアシスタント登録・ルームチェックイン・スラッシュコマンド・ホスト招待ロビーを提供します。
+- [AskGrokWallet](https://github.com/richard7463/askgrokwallet) - Grok Bot 向けの管理型ウォレットプラグインで、平易なポリシーを allow/ask/deny に変換し、「ask」は人の承認ボックスへ、すべての結果に署名済みレシートを残し、オンチェーンエンジンは ERC-8196 を実装して Base メインネットにデプロイされています（MIT）。
 
 ## レビューと比較
 
@@ -504,7 +505,7 @@
 
 ## 貢献
 
-8 セクションに 400 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 401 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

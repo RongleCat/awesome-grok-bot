@@ -2054,6 +2054,16 @@
             "zh": "Agent 插件（仓库名 grok-bot-plugin-example）为 Grok Bot 提供助手登记、房间签到、斜杠命令与主持邀请大厅。",
             "ja": "リポジトリ名 grok-bot-plugin-example の Agent プラグインで、Grok Bot 向けにアシスタント登録・ルームチェックイン・スラッシュコマンド・ホスト招待ロビーを提供します。"
           }
+        },
+        {
+          "title": "AskGrokWallet",
+          "url": "https://github.com/richard7463/askgrokwallet",
+          "source": "GB-451",
+          "blurb": {
+            "en": "Governed-wallet plugin for Grok Bot: plain-English policies compile to allow/ask/deny, \"ask\" lands in a human approval inbox, and every outcome leaves a signed receipt; the onchain engine implements ERC-8196 on Base mainnet (MIT).",
+            "zh": "面向 Grok Bot 的受治理钱包插件：大白话规则编译成放行/询问/拒绝，“询问”进入人工审批台，每笔结果留下签名回执；链上引擎实现 ERC-8196，部署在 Base 主网（MIT）。",
+            "ja": "Grok Bot 向けの管理型ウォレットプラグインで、平易なポリシーを allow/ask/deny に変換し、「ask」は人の承認ボックスへ、すべての結果に署名済みレシートを残し、オンチェーンエンジンは ERC-8196 を実装して Base メインネットにデプロイされています（MIT）。"
+          }
         }
       ]
     },
