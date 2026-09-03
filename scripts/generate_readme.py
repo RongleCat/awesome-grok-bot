@@ -300,6 +300,20 @@ EVENT_GEO = {
     "ldn-20260916": ("gb", "London", "伦敦", "ロンドン"),
     "gtm-20260826": ("online", "GTM workshop", "GTM 课", "GTM"),
     "pbp-20260902": ("online", "Product practice", "产品实践课", "プロダクト実践"),
+    "ru-20260903": ("us", "New Brunswick / Rutgers", "罗格斯 新布朗斯维克", "Rutgers / New Brunswick"),
+    "lc-20260903": ("us", "Salisbury / Livingstone", "索尔兹伯里 Livingstone", "Salisbury / Livingstone"),
+    "dpu-20260903": ("us", "Greencastle / DePauw", "格林卡斯尔 DePauw", "Greencastle / DePauw"),
+    "sfi-20260904": ("us", "San Francisco", "旧金山", "サンフランシスコ"),
+    "hnl-20260905": ("us", "Honolulu", "檀香山", "ホノルル"),
+    "amd-20260912": ("in", "Ahmedabad", "艾哈迈达巴德", "アーメダバード"),
+    "bli-20260915": ("id", "Uluwatu / Bali", "巴厘岛乌鲁瓦图", "ウルワツ / バリ"),
+    "g101-20260915": ("us", "San Francisco", "旧金山", "サンフランシスコ"),
+    "sfe-20260915": ("us", "San Francisco", "旧金山", "サンフランシスコ"),
+    "sfse-20260916": ("us", "San Francisco", "旧金山", "サンフランシスコ"),
+    "sfsdr-20260916": ("us", "San Francisco", "旧金山", "サンフランシスコ"),
+    "sfmo-20260917": ("us", "San Francisco", "旧金山", "サンフランシスコ"),
+    "sfps-20260917": ("us", "San Francisco", "旧金山", "サンフランシスコ"),
+    "sfm-20260917": ("us", "San Francisco", "旧金山", "サンフランシスコ"),
 }
 
 

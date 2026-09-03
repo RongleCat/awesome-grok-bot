@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -320,9 +320,9 @@
           "url": "https://play.google.com/store/apps/details?id=ai.x.grok.bot",
           "source": "day-20260829",
           "blurb": {
-            "en": "Official Google Play listing (updated 2026-08-29): Android shows Install, but Cursor help still says iOS-only, so treat this as a listing rather than confirmed Android GA.",
-            "zh": "官方 Google Play 页（2026-08-29 更新）：Android 已能点安装，但 Cursor 帮助仍写仅 iOS，先当上架页，不要当成已正式开放。",
-            "ja": "公式 Google Play（2026-08-29 更新）。Install はあるが、Cursor ヘルプはまだ iOS のみと書いており、正式な Android GA とは断定しない。"
+            "en": "Official Google Play listing: Grok Bot for Android is available — same Bots and threads as desktop/iOS; work continues on the cloud computer after you lock the phone (eligible Cursor/SuperGrok plan).",
+            "zh": "官方 Google Play 上架：Android 版 Grok Bot 已可用——与桌面/iOS 共用同一批 Bot 与对话，锁屏后云电脑上仍继续干活（需符合条件的 Cursor/SuperGrok 计划）。",
+            "ja": "公式 Google Play：Android 版 Grok Bot が利用可能。デスクトップ／iOS と同じ Bot・スレッドで、ロック後もクラウド PC 上で作業が続きます（対象の Cursor／SuperGrok プラン）。"
           }
         },
         {
@@ -403,6 +403,36 @@
             "en": "Official @bot (2026-08-31) says Grok Bot can now read, write, and act across Microsoft accounts via new Outlook, Calendar, and OneDrive plugins.",
             "zh": "官方 @bot（2026-08-31）宣布 Grok Bot 可通过新的 Outlook、Calendar、OneDrive 插件读写并操作 Microsoft 账号。",
             "ja": "公式 @bot（2026-08-31）が、新しい Outlook / Calendar / OneDrive プラグインで Grok Bot が Microsoft アカウントを読み書き・操作できると発表。"
+          }
+        },
+        {
+          "title": "Identity and access",
+          "url": "https://docs.x.ai/grok-bot/identity-and-access",
+          "source": "GB-431",
+          "blurb": {
+            "en": "Official admin guide: widen Cursor SSO assignment (Okta/Entra) so non-engineering teammates get Grok Bot, and add an IdP auth rule so the Linux Bot computer can sign into device-trust apps (passkeys/Team Setup); do not create a separate Grok Bot SSO app.",
+            "zh": "官方管理员指南：扩大 Cursor SSO 分配（Okta/Entra）让非工程成员也能用 Grok Bot，并加一条 IdP 认证规则，使 Linux 云电脑能登录受设备信任策略保护的应用（可用 passkey/Team Setup）；不要另建 Grok Bot SSO 应用。",
+            "ja": "公式の管理者ガイド。Cursor SSO の割り当て（Okta/Entra）を広げてエンジニア以外も Grok Bot を使えるようにし、Linux の Bot パソコンがデバイス信頼付きアプリに入れる IdP 認証ルールを追加する（パスキー／Team Setup 可）。Grok Bot 専用 SSO アプリは作らない。"
+          }
+        },
+        {
+          "title": "Private networks",
+          "url": "https://docs.x.ai/grok-bot/private-networks",
+          "source": "GB-432",
+          "blurb": {
+            "en": "Official Enterprise guide: use Team Setup to install Tailscale, Cloudflare Tunnel, or other Linux VPN/mesh clients on every team Bot computer so Bots reach private APIs without exposing them; private reach does not replace the Grok Bot destination allowlist.",
+            "zh": "官方 Enterprise 指南：用 Team Setup 在每台团队 Bot 电脑上安装 Tailscale、Cloudflare Tunnel 或其他 Linux VPN/mesh 客户端，让 Bot 访问内网 API 且不必公网暴露；私网可达不替代 Grok Bot 目标放行名单。",
+            "ja": "公式 Enterprise ガイド。Team Setup で全チーム Bot パソコンに Tailscale／Cloudflare Tunnel など Linux VPN／メッシュを入れ、サービスを公開せずにプライベート API へ届ける。プライベート到達は Grok Bot の宛先許可リストの代替ではない。"
+          }
+        },
+        {
+          "title": "@bot: Grok Bot is now available on Android",
+          "url": "https://x.com/bot/status/2095168633559462197",
+          "source": "day-20260903-0804",
+          "blurb": {
+            "en": "Official @bot (2026-09-02): Grok Bot is now available on Android — same Bots and threads as desktop/iOS, work continues on the cloud computer after you lock the phone; download from Google Play with an eligible Cursor/SuperGrok plan.",
+            "zh": "官方 @bot（2026-09-02）：Grok Bot 现已上架 Android——与桌面/iOS 共用同一批 Bot 与对话，锁屏后云电脑上仍继续干活；用符合条件的 Cursor/SuperGrok 计划从 Google Play 安装。",
+            "ja": "公式 @bot（2026-09-02）：Grok Bot が Android で利用可能に。デスクトップ／iOS と同じ Bot・スレッドで、ロック後もクラウド PC 上で作業継続。対象の Cursor／SuperGrok プランで Google Play から。"
           }
         }
       ]
@@ -1033,6 +1063,16 @@
             "en": "HyperGrok-style seven-agent trading desk ported to Webull OpenAPI for US users—research, size, approve-by-id execution and review Bots with paper sandbox before live keys.",
             "zh": "HyperGrok 风格七代理交易台的 Webull OpenAPI 美区移植：研究/仓位/按 id 审批执行与复盘 Bot，先用模拟盘再上实盘密钥。",
             "ja": "HyperGrok 風7エージェント取引デスクの Webull OpenAPI（米国向け）移植。調査・サイズ・ID 承認執行・レビュー Bot で、本番鍵の前にペーパーサンドボックス。"
+          }
+        },
+        {
+          "title": "Growth Grok Bots self-serve team",
+          "url": "https://github.com/jay-sahnan/growth-grok-bots",
+          "source": "GB-430",
+          "blurb": {
+            "en": "Shareable multi-bot growth team (Head of Growth plus specialists) with narrow jobs, handoffs, and human approval before anything ships or sends.",
+            "zh": "可分享的增长多智能体团队（增长负责人+专家）：职责窄、可交接，发货或外发前须人工批准。",
+            "ja": "共有可能なグロース多ボットチーム（Head of Growth＋専門家）。狭い職務と引き継ぎ、出荷・送信前は人間承認必須。"
           }
         }
       ]
@@ -1824,6 +1864,96 @@
             "zh": "Grok Bot「固定席位」工作包（Mouth/Desk/Hands/Check，可选 Scout/Watch/List/Judge）：hire-roster 与 bind-local 技能加模板，雇佣空座位而非克隆整间已有办公室。",
             "ja": "Grok Bot の定席キット（Mouth/Desk/Hands/Check、任意で Scout/Watch/List/Judge）。hire-roster と bind-local スキル＋テンプレで、人員済みオフィスの複製ではなく空席を雇います。"
           }
+        },
+        {
+          "title": "Hermes↔Grok Bot wake bridge plugin",
+          "url": "https://github.com/barkleesanders/hermes-grok-bridge",
+          "source": "GB-415",
+          "blurb": {
+            "en": "Agent Plugin with MCP plus one skill that bridges Hermes outbound session hooks and inbound webhooks to Grok Bot wakes, using env placeholders so secrets stay off the shared Bot computer.",
+            "zh": "Agent 插件：MCP 加一条技能，把 Hermes 出站会话钩子与入站 webhook 桥到 Grok Bot 唤醒，密钥只用环境变量占位，不放在共享 Bot 电脑上。",
+            "ja": "Hermes の出方向セッションフックと入方向 webhook を Grok Bot ウェイクへ橋渡しする MCP＋スキルの Agent Plugin。秘密は環境変数プレースホルダのみで共有 Bot 機外に保てます。"
+          }
+        },
+        {
+          "title": "Primo IT fleet MCP plugin",
+          "url": "https://github.com/getprimo/primo-mcp-plugin",
+          "source": "GB-416",
+          "blurb": {
+            "en": "Cursor/Grok Bot Agent Plugin that points at Primo hosted MCP so a Bot can answer IT fleet questions on devices, tickets, SaaS identities, CVEs, and onboarding without a local server.",
+            "zh": "Cursor/Grok Bot Agent 插件：指向 Primo 托管 MCP，让 Bot 查询设备、工单、SaaS 身份、CVE 与入职离职等 IT 机队问题，无需本地服务器。",
+            "ja": "Primo ホスト MCP を指す Cursor / Grok Bot Agent Plugin。ローカルサーバなしでデバイス・チケット・SaaS 身分・CVE・オンボなどを IT 艦隊質問として扱えます。"
+          }
+        },
+        {
+          "title": "Agnic Gifts shopping plugin",
+          "url": "https://github.com/agnicpay/agnic-gifts-grok-bot-plugin",
+          "source": "GB-417",
+          "blurb": {
+            "en": "Cursor/Grok Bot plugin that wires the hosted Agnic Gifts MCP for in-stock gift shopping, with nothing purchased until the user passkey-approves a spend cap.",
+            "zh": "Cursor/Grok Bot 插件：接入 Agnic Gifts 托管 MCP 做现货礼品选购，须用户 passkey 批准消费上限后才会下单。",
+            "ja": "Agnic Gifts ホスト MCP を繋ぐ Cursor / Grok Bot プラグイン。在庫ギフト買い物ができ、ユーザーが passkey で支出上限を承認するまで購入しません。"
+          }
+        },
+        {
+          "title": "OverSkill app-builder plugin",
+          "url": "https://github.com/OverskillDev/overskill-cursor",
+          "source": "GB-418",
+          "blurb": {
+            "en": "Cursor/Grok Bot plugin that connects OverSkill hosted MCP plus an app-builder skill so the agent can create, iterate, and publish full-stack OverSkill apps after OAuth.",
+            "zh": "Cursor/Grok Bot 插件：接入 OverSkill 托管 MCP 与 app-builder 技能，OAuth 后可在对话里创建、迭代并发布全栈 OverSkill 应用。",
+            "ja": "OverSkill ホスト MCP と app-builder スキルを付ける Cursor / Grok Bot プラグイン。OAuth 後にフルスタック OverSkill アプリを会話から作成・反復・公開できます。"
+          }
+        },
+        {
+          "title": "SourceMedium commerce MCP plugin",
+          "url": "https://github.com/source-medium/cursor-plugin",
+          "source": "GB-419",
+          "blurb": {
+            "en": "Cursor/Grok Bot plugin that installs SourceMedium secure MCP so the agent can analyze warehouse, Shopify, and Meta Ads commerce data while keeping metric definitions intact.",
+            "zh": "Cursor/Grok Bot 插件：安装 SourceMedium 安全 MCP，让代理在保持指标定义不变的前提下分析仓库、Shopify 与 Meta Ads 电商数据。",
+            "ja": "SourceMedium の安全な MCP を入れる Cursor / Grok Bot プラグイン。指標定義を保ったまま倉庫・Shopify・Meta Ads のコマースデータを分析できます。"
+          }
+        },
+        {
+          "title": "GrokBot↔Hermes self-hosted MCP bridge",
+          "url": "https://github.com/iamsupersocks/grokbot-hermes-bridge",
+          "source": "GB-420",
+          "blurb": {
+            "en": "Self-hosted OAuth MCP gateway and Agent Plugin template that lets Grok Bot stay the chat UI while a local Hermes Agent produces answers on your own machine.",
+            "zh": "自托管 OAuth MCP 网关与 Agent 插件模板：Grok Bot 继续当聊天界面，本机 Hermes Agent 负责作答。",
+            "ja": "自前ホストの OAuth MCP ゲートウェイ＋Agent Plugin テンプレ。Grok Bot をチャット UI のまま、ローカル Hermes Agent が回答を生成します。"
+          }
+        },
+        {
+          "title": "Multi-agent Grok Bot skill templates",
+          "url": "https://github.com/EndeavorYen/grok-bot-skills",
+          "source": "GB-421",
+          "blurb": {
+            "en": "Reusable Grok Bot skills for chief-plus-specialist multi-agent teams covering disk handoffs, approval gates, and a create/audit checklist for bot designers.",
+            "zh": "可复用的 Grok Bot 技能模板：面向首席+专家多智能体团队，覆盖磁盘交接、审批门禁与机器人设计创建/审计清单。",
+            "ja": "チーフ＋専門家のマルチエージェント向け再利用 Grok Bot スキル。ディスク引き継ぎ、承認ゲート、ボット設計の作成／監査チェックリストを含みます。"
+          }
+        },
+        {
+          "title": "punk-records Grok Bot round-table setup",
+          "url": "https://github.com/VeigaPunk/punk-records-brain",
+          "source": "GB-422",
+          "blurb": {
+            "en": "Grok Bot auto-setup plugin: say set grok bot for me in your preferred CLI to mint named round-table cards via CDP instead of clicking New by hand.",
+            "zh": "Grok Bot 自动配置插件：在偏好 CLI 里说 set grok bot for me，即可经 CDP 铸造命名圆桌卡片，无需手点 New。",
+            "ja": "Grok Bot 自動セットアッププラグイン。好みの CLI で set grok bot for me と言うと CDP 経由で名前付き円卓カードを発行し、手動 New を不要にします。"
+          }
+        },
+        {
+          "title": "PumpGrok Solana trading-desk pack",
+          "url": "https://github.com/swcstudiospace/PumpGrok",
+          "source": "GB-423",
+          "blurb": {
+            "en": "Eight-role Solana memecoin trading desk for Grok Bot with 23 skills, a hard security constitution, and read-only helpers—no keys in the system and only human-approved actions.",
+            "zh": "面向 Grok Bot 的八角色 Solana 模因币交易台：23 项技能、硬安全宪章与只读助手；系统不进私钥，仅人类批准后才行动。",
+            "ja": "Grok Bot 向け 8 役割 Solana ミームコイン取引デスク。23 スキル・厳格な安全憲章・読み取り専用ヘルパーで、鍵は入れず人間承認の行動のみ。"
+          }
         }
       ]
     },
@@ -2483,6 +2613,56 @@
             "en": "Local MCP server that lets any MCP client create/message/search Grok Bots, read transcripts, and check usage against the desktop app—companion to gbu, distinct from the catalogued grok-bot-mcp-connector.",
             "zh": "本地 MCP 服务：让任意 MCP 客户端创建/发消息/搜索 Grok Bot、读转录并查用量（对接桌面端）；与 gbu 配套，有别于目录里的 grok-bot-mcp-connector。",
             "ja": "ローカル MCP サーバ。任意 MCP クライアントから Grok Bot の作成・送信・検索、転写読取、利用量確認（デスクトップ連携）。gbu の相棒で、既存 grok-bot-mcp-connector とは別。"
+          }
+        },
+        {
+          "title": "multiBot CLI teammate factory",
+          "url": "https://github.com/simo255/multiBot",
+          "source": "GB-424",
+          "blurb": {
+            "en": "Grok Bot factory template that spawns CLI-delegated teammates (Cursor agent, grok-build, Antigravity, Codex) via CreateAgent with install scripts and workflow examples.",
+            "zh": "Grok Bot 工厂模板：经 CreateAgent 拉起 CLI 委派队友（Cursor agent、grok-build、Antigravity、Codex），含安装脚本与工作流示例。",
+            "ja": "CreateAgent で CLI 委任チームメイト（Cursor agent、grok-build、Antigravity、Codex）を生む Grok Bot 工場テンプレ。インストール脚本とワークフロー例付き。"
+          }
+        },
+        {
+          "title": "grokbot2api Cursor inference proxy",
+          "url": "https://github.com/taowen/grokbot2api",
+          "source": "GB-425",
+          "blurb": {
+            "en": "Local OpenAI-compatible proxy that bridges Grok Build to Cursor native inference protobuf with multi-turn tool calls for Responses and Chat Completions.",
+            "zh": "本地 OpenAI 兼容代理：把 Grok Build 桥到 Cursor 原生推理 protobuf，支持多轮工具调用的 Responses 与 Chat Completions。",
+            "ja": "Grok Build を Cursor ネイティブ推論 protobuf へ橋渡しするローカル OpenAI 互換プロキシ。マルチターンツール付き Responses／Chat Completions 対応。"
+          }
+        },
+        {
+          "title": "grok-to-hermes profile converter",
+          "url": "https://github.com/jmporchet/grok-to-hermes",
+          "source": "GB-426",
+          "blurb": {
+            "en": "TypeScript CLI that converts sharable Grok Bot export data into Hermes Agent profile distributions and installable tar.gz packages.",
+            "zh": "TypeScript CLI：把可分享的 Grok Bot 导出数据转换成 Hermes Agent 配置发行目录与可安装的 tar.gz 包。",
+            "ja": "共有可能な Grok Bot エクスポートを Hermes Agent プロファイル配布とインストール用 tar.gz に変換する TypeScript CLI。"
+          }
+        },
+        {
+          "title": "Codex↔Grok MCP second-opinion bridge",
+          "url": "https://github.com/Fato07/codex-grok-mcp",
+          "source": "GB-427",
+          "blurb": {
+            "en": "Unofficial local-first MCP bridge that lets Codex ask authenticated Grok CLI for bounded second opinions and optionally message a persistent Grok Bot without exporting secrets.",
+            "zh": "非官方本地优先 MCP 桥：让 Codex 向已登录的 Grok CLI 征求有界第二意见，并可在不导出密钥的情况下向持久 Grok Bot 发消息。",
+            "ja": "非公式のローカル優先 MCP 橋。認証済み Grok CLI に有界のセカンドオピニオンを求め、秘密を出さずに永続 Grok Bot へメッセージも可能。"
+          }
+        },
+        {
+          "title": "Grok Bot Cloudflare Workers inbox",
+          "url": "https://github.com/ethanolivertroy/grokbot-cloudflare-inbox",
+          "source": "GB-428",
+          "blurb": {
+            "en": "Public Cloudflare Workers email-inbox template based on Agentic Inbox so a Grok Bot can connect over MCP to a self-hosted mailbox you deploy yourself.",
+            "zh": "基于 Agentic Inbox 的公开 Cloudflare Workers 邮箱模板，部署后可通过 MCP 让 Grok Bot 连接你自托管的收件箱。",
+            "ja": "Agentic Inbox 由来の公開 Cloudflare Workers メール受信箱テンプレ。自前デプロイ後に MCP で Grok Bot を接続できます。"
           }
         }
       ]
@@ -3314,6 +3494,26 @@
             "zh": "官方（mohitjain）：要把截图进 Grok Bot 聊天，请用 composer 的 + 按钮（或拖入已保存文件），等缩略图出现再发送——从浏览器/其他应用拖入或缩略图未出就按 Enter 通常会丢。助手代传论坛附件目前受限；请自行附上截图或回复支持邮件。",
             "ja": "スタッフ（mohitjain）：スクショを Grok Bot チャットに入れるには composer の +（または保存済みファイルのドラッグ）を使い、サムネイルが出てから送信する。ブラウザ／他アプリからのドラッグやサムネ前の Enter では落ちやすい。アシスタントのフォーラムアップロードは現状制限；自分で添付するかサポートメールに返信する。"
           }
+        },
+        {
+          "title": "Grok Bot routines don't auto-run on schedule",
+          "url": "https://forum.cursor.com/t/grok-bot-routines-dont-auto-run-on-schedule/170358",
+          "source": "day-20260903-0804",
+          "blurb": {
+            "en": "Staff (Colin): Editing bot instructions or which platform created a routine does not break schedules — late “Next run: Run now” usually means the slot fired but sat in a queue (often 10–37 min), and some runs finish without posting to chat; don’t recreate routines; message the bot for an on-demand check-in.",
+            "zh": "官方（Colin）：改 Bot 说明书或在哪个端创建 routine 都不会弄坏日程——“Next run: Run now” 且迟到，多半是槽位已触发但在队列里排队（常见 10–37 分钟），有的跑完还不往聊天发消息；不必反复删建 routine，需要时直接给 Bot 发消息做即时检查。",
+            "ja": "スタッフ（Colin）：Bot 説明の編集や作成プラットフォームはスケジュールを壊さない。「Next run: Run now」で遅延するのは、枠は発火したがキュー待ち（多くは 10–37 分）で、完了してもチャットに投稿しない実行もある。routine の作り直しは不要；確認は Bot へメッセージで。"
+          }
+        },
+        {
+          "title": "Grok Bot 0.30.0 — Agent Computer unreachable after Update, Recover, and Reset all failed",
+          "url": "https://forum.cursor.com/t/grok-bot-0-30-0-agent-computer-unreachable-after-update-recover-and-reset-all-failed/170258",
+          "source": "day-20260903-0804",
+          "blurb": {
+            "en": "Staff (kevinn): An “Aw, Snap!” Chrome page on the Bot screen after idle wake is the Bot’s browser crashing inside a healthy computer — reload the tab or ask the Bot to reload, fully quit/reopen Grok Bot if needed, and do not run Update/Recover/Reset; idle machines take a moment to wake and a first message can miss, so resend is safe.",
+            "zh": "官方（kevinn）：空闲唤醒后 Bot 屏幕上的 Chrome “Aw, Snap!” 是云电脑里浏览器崩了、电脑本身仍健康——刷新该标签或让 Bot 重载页面，必要时完全退出再开 Grok Bot，不要跑 Update/Recover/Reset；空闲机器唤醒需要片刻，首条消息可能丢，重发是安全的。",
+            "ja": "スタッフ（kevinn）：アイドル起床後の Bot 画面の Chrome「Aw, Snap!」は健全な PC 内ブラウザのクラッシュ。タブ再読込か Bot にリロードを頼み、必要なら Grok Bot を完全終了して再起動し、Update／Recover／Reset はしない。起床直後の最初のメッセージは落ちることがあり、再送してよい。"
+          }
         }
       ]
     },
@@ -3673,6 +3873,16 @@
             "en": "Independent Astro directory of jobs you can get a Grok Bot to do (intent-first), with open jobs when no bot exists yet.",
             "zh": "独立的 Astro 目录站：按「想让 Grok Bot 做什么」找 Bot，尚无 Bot 的需求会留成 open job。",
             "ja": "独立 Astro ディレクトリ。やりたい仕事（インテント）から Grok Bot を探し、未作成の仕事は open job として残します。"
+          }
+        },
+        {
+          "title": "Omabot Omarchy bar for Grok Bot",
+          "url": "https://github.com/njpatel/omabot",
+          "source": "GB-429",
+          "blurb": {
+            "en": "Omarchy bar widget that draws every Grok Bot as its own avatar with state expressions and one keypress to open the app.",
+            "zh": "Omarchy 栏小部件：把每个 Grok Bot 画成独立头像并显示状态表情，一键打开应用。",
+            "ja": "各 Grok Bot を状態表情付きアバターで並べ、一キーでアプリを開く Omarchy バーウィジェット。"
           }
         }
       ]
@@ -6316,7 +6526,7 @@
     },
     {
       "id": "ctg-20260911",
-      "url": "https://luma.com/grokbot-meetup",
+      "url": "https://luma.com/grokbot-meetup-cartago",
       "image": "./assets/events/ctg-20260911-cover.png",
       "expires": "2026-09-11T18:00:00-05:00",
       "title": {
@@ -6462,6 +6672,440 @@
         "en": "SpaceXAI @ Babson College Grokbot Build Night. Two-hour offline student/builder session at Coleman Hall. Free, 20 seats left.",
         "zh": "SpaceXAI @ Babson College Grok Bot 动手夜。Coleman Hall 线下两小时。免费，还剩约 20 席。",
         "ja": "SpaceXAI @ Babson College の Grokbot Build Night。Coleman Hall で 2 時間オフライン。無料、残席約 20。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "ru-20260903",
+      "url": "https://luma.com/rbrit5wc",
+      "image": "./assets/events/ru-20260903-cover.png",
+      "expires": "2026-09-03T18:00:00-04:00",
+      "title": {
+        "en": "RU Grok Bot Build Night",
+        "zh": "Grok Bot Build Night（罗格斯大学）",
+        "ja": "RU Grok Bot Build Night"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 17:00–18:00 (EDT)",
+        "zh": "2026-09-03 周四 17:00–18:00（新布朗斯维克）",
+        "ja": "2026-09-03（木）17:00–18:00（EDT）"
+      },
+      "where": {
+        "en": "New Brunswick, NJ · Rutgers University",
+        "zh": "新泽西新布朗斯维克 · 罗格斯大学",
+        "ja": "New Brunswick, NJ · Rutgers University"
+      },
+      "body": {
+        "en": "Rutgers student build night for Grok Bots — internship automation, club ops, and more. Free offline session (host Arihant Deva).",
+        "zh": "罗格斯大学学生 Grok Bot 动手夜：实习自动投递、社团运营等。免费线下（主持 Arihant Deva）。",
+        "ja": "Rutgers 学生向け Grok Bot ビルドナイト。インターン応募自動化やクラブ運営など。無料オフライン（Arihant Deva）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "dpu-20260903",
+      "url": "https://luma.com/qr0itssu",
+      "image": "./assets/events/dpu-20260903-cover.png",
+      "expires": "2026-09-03T21:30:00-04:00",
+      "title": {
+        "en": "DePauw Grok Bot Build Night",
+        "zh": "Grok Bot Build Night（DePauw）",
+        "ja": "DePauw Grok Bot Build Night"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 18:30–21:30 (EDT)",
+        "zh": "2026-09-03 周四 18:30–21:30（格林卡斯尔）",
+        "ja": "2026-09-03（木）18:30–21:30（EDT）"
+      },
+      "where": {
+        "en": "Greencastle, IN · Percy L. Julian Science Center, 602 S College Ave",
+        "zh": "印第安纳格林卡斯尔 · Percy L. Julian Science Center, 602 S College Ave",
+        "ja": "Greencastle, IN · Percy L. Julian Science Center, 602 S College Ave"
+      },
+      "body": {
+        "en": "DePauw SpaceXAI build night: live Grok Bot demo then hands-on build. Free; approval required (host Hanje Unesaki).",
+        "zh": "DePauw × SpaceXAI 动手夜：先看 Grok Bot 演示再动手。免费，需审批（主持 Hanje Unesaki）。",
+        "ja": "DePauw × SpaceXAI のビルドナイト。デモ後にハンズオン。無料・承認制（Hanje Unesaki）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "lc-20260903",
+      "url": "https://luma.com/airb3wma",
+      "image": "./assets/events/lc-20260903-cover.png",
+      "expires": "2026-09-03T20:30:00-04:00",
+      "title": {
+        "en": "Grok Bot Build Night @ Livingstone College",
+        "zh": "Grok Bot Build Night（Livingstone College）",
+        "ja": "Grok Bot Build Night @ Livingstone College"
+      },
+      "when": {
+        "en": "Thu 3 Sep 2026, 19:00–20:30 (EDT)",
+        "zh": "2026-09-03 周四 19:00–20:30（索尔兹伯里）",
+        "ja": "2026-09-03（木）19:00–20:30（EDT）"
+      },
+      "where": {
+        "en": "Salisbury, NC · Livingstone College (venue TBA on RSVP)",
+        "zh": "北卡索尔兹伯里 · Livingstone College（具体场地报名后可见）",
+        "ja": "Salisbury, NC · Livingstone College（会場は RSVP 後）"
+      },
+      "body": {
+        "en": "SpaceXAI Grok Bot build night at Livingstone College. Free offline student session (host Johnson Ameyaw).",
+        "zh": "Livingstone College 的 SpaceXAI Grok Bot 动手夜。免费学生线下（主持 Johnson Ameyaw）。",
+        "ja": "Livingstone College の SpaceXAI Grok Bot ビルドナイト。無料学生向け（Johnson Ameyaw）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "sfi-20260904",
+      "url": "https://luma.com/spacexai-qdwh",
+      "image": "./assets/events/sfi-20260904-cover.png",
+      "expires": "2026-09-04T14:00:00-07:00",
+      "title": {
+        "en": "Grok Bot Pop-up @ Ikon Coffee",
+        "zh": "Grok Bot Pop-up（Ikon Coffee）",
+        "ja": "Grok Bot Pop-up @ Ikon Coffee"
+      },
+      "when": {
+        "en": "Fri 4 Sep 2026, 10:00–14:00 (PDT)",
+        "zh": "2026-09-04 周五 10:00–14:00（旧金山）",
+        "ja": "2026-09-04（金）10:00–14:00（PDT）"
+      },
+      "where": {
+        "en": "San Francisco, CA · Ikon Coffee, 1302 22nd St",
+        "zh": "旧金山 · Ikon Coffee, 1302 22nd St",
+        "ja": "San Francisco, CA · Ikon Coffee, 1302 22nd St"
+      },
+      "body": {
+        "en": "Morning cowork/build pop-up at Ikon Coffee. Meet Matt Palmer, learn Grok Bot, credits + free month. Approval required (hosts Sarah Goomar, Matt Palmer).",
+        "zh": "Ikon Coffee 上午 cowork/动手：见 Matt Palmer、了解 Grok Bot，送 credits + 免费月。需审批（Sarah Goomar / Matt Palmer）。",
+        "ja": "Ikon Coffee の午前ポップアップ。Matt Palmer と交流、Grok Bot 体験、credits と無料月。承認制（Sarah Goomar / Matt Palmer）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "hnl-20260905",
+      "url": "https://luma.com/hawaii-z15e",
+      "image": "./assets/events/hnl-20260905-cover.png",
+      "expires": "2026-09-05T12:30:00-10:00",
+      "title": {
+        "en": "Build with Grok Bot @ Hawaii Tech Week",
+        "zh": "Grok Bot 动手（Hawaii Tech Week）",
+        "ja": "Build with Grok Bot @ Hawaii Tech Week"
+      },
+      "when": {
+        "en": "Fri 5 Sep 2026, 09:00–12:30 (HST)",
+        "zh": "2026-09-05 周五 09:00–12:30（檀香山）",
+        "ja": "2026-09-05（金）09:00–12:30（HST）"
+      },
+      "where": {
+        "en": "Honolulu, HI · Entrepreneurs Sandbox, 643 Ilalo St",
+        "zh": "夏威夷檀香山 · Entrepreneurs Sandbox, 643 Ilalo St",
+        "ja": "Honolulu, HI · Entrepreneurs Sandbox, 643 Ilalo St"
+      },
+      "body": {
+        "en": "Hawaii Tech Week morning of building with Grok Bot agents — cowork, ship, help each other. Free; sold out / waitlist (hosts Hawaii Tech Week, Ray Fernando).",
+        "zh": "Hawaii Tech Week 上午用 Grok Bot 一起做：cowork、出活、互帮。免费，已满/候补（Hawaii Tech Week / Ray Fernando）。",
+        "ja": "Hawaii Tech Week の午前。Grok Bot エージェントで cowork / ship。無料・満席/ウェイトリスト（Hawaii Tech Week / Ray Fernando）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "amd-20260912",
+      "url": "https://luma.com/hc0xjkw3",
+      "image": "./assets/events/amd-20260912-cover.png",
+      "expires": "2026-09-12T19:00:00+05:30",
+      "title": {
+        "en": "Grok Bot Meetup Ahmedabad",
+        "zh": "Grok Bot 艾哈迈达巴德线下交流",
+        "ja": "Grok Bot Meetup Ahmedabad"
+      },
+      "when": {
+        "en": "Sat 12 Sep 2026, 17:00–19:00 (IST)",
+        "zh": "2026-09-12 周六 17:00–19:00（艾哈迈达巴德）",
+        "ja": "2026-09-12（土）17:00–19:00（IST）"
+      },
+      "where": {
+        "en": "Ahmedabad, India · venue TBA",
+        "zh": "印度艾哈迈达巴德 · 场地待定",
+        "ja": "Ahmedabad, India · 会場 TBA"
+      },
+      "body": {
+        "en": "Hands-on Ahmedabad meetup on actually using Grok Bot as an AI teammate with real tools. Free; ~29 seats; approval required (host Aakash).",
+        "zh": "艾哈迈达巴德动手会：真正用 Grok Bot 当 AI 队友、接真实工具。免费，约 29 席，需审批（主持 Aakash）。",
+        "ja": "Ahmedabad のハンズオン。Grok Bot を実ツールと使う AI チームメイト体験。無料・残席約 29・承認制（Aakash）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "bli-20260915",
+      "url": "https://luma.com/bn7nfv0s",
+      "image": "./assets/events/bli-20260915-cover.png",
+      "expires": "2026-09-15T21:00:00+08:00",
+      "title": {
+        "en": "Grok Bot Meetup Bali",
+        "zh": "Grok Bot 巴厘岛线下交流",
+        "ja": "Grok Bot Meetup Bali"
+      },
+      "when": {
+        "en": "Mon 15 Sep 2026, 16:00–21:00 (WITA)",
+        "zh": "2026-09-15 周一 16:00–21:00（巴厘岛）",
+        "ja": "2026-09-15（月）16:00–21:00（WITA）"
+      },
+      "where": {
+        "en": "Uluwatu / Badung, Bali · BukitHub Coworking, Jl. Pura Batu Pageh No.177AA, Ungasan",
+        "zh": "巴厘岛乌鲁瓦图 · BukitHub Coworking, Jl. Pura Batu Pageh No.177AA, Ungasan",
+        "ja": "バリ Uluwatu · BukitHub Coworking, Jl. Pura Batu Pageh No.177AA, Ungasan"
+      },
+      "body": {
+        "en": "First Grok Bot meetup in Uluwatu — try Grok Bot, demos, hang with Cursor/SpaceXAI community. Free; 30 seats; approval required (forum 170338; hosts Sachin S, Jacqueline Yusak, Bali Squad).",
+        "zh": "乌鲁瓦图首场 Grok Bot 线下：试用、演示、和 Cursor/SpaceXAI 社区交流。免费 30 席，需审批（论坛 170338）。",
+        "ja": "Uluwatu 初の Grok Bot Meetup。体験・デモ・交流。無料 30 席・承認制（forum 170338）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "g101-20260915",
+      "url": "https://luma.com/spacexai-i8qf",
+      "image": "./assets/events/g101-20260915-cover.png",
+      "expires": "2026-09-15T10:00:00-07:00",
+      "title": {
+        "en": "Grok Bot 101 (SF)",
+        "zh": "Grok Bot 101（旧金山）",
+        "ja": "Grok Bot 101（SF）"
+      },
+      "when": {
+        "en": "Mon 15 Sep 2026, 09:00–10:00 (PDT)",
+        "zh": "2026-09-15 周一 09:00–10:00（旧金山）",
+        "ja": "2026-09-15（月）09:00–10:00（PDT）"
+      },
+      "where": {
+        "en": "San Francisco, CA · The Howard SF, 661 Howard St",
+        "zh": "旧金山 · The Howard SF, 661 Howard St",
+        "ja": "San Francisco, CA · The Howard SF, 661 Howard St"
+      },
+      "body": {
+        "en": "Official Grok Bot intro at The Howard: AI teammates with their own computer across your tools. Free; ~146 seats (Grok Bot calendar).",
+        "zh": "官方 Grok Bot 入门（The Howard）：有独立电脑的 AI 队友，打通现有工具。免费，约 146 席。",
+        "ja": "The Howard での公式 Grok Bot 入門。独自コンピュータを持つ AI チームメイト。無料・残席約 146。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "sfe-20260915",
+      "url": "https://luma.com/spacexai-n2o0",
+      "image": "./assets/events/sfe-20260915-cover.png",
+      "expires": "2026-09-15T14:00:00-07:00",
+      "title": {
+        "en": "Grok Bot for Engineers (SF)",
+        "zh": "Grok Bot for Engineers（旧金山）",
+        "ja": "Grok Bot for Engineers（SF）"
+      },
+      "when": {
+        "en": "Mon 15 Sep 2026, 12:30–14:00 (PDT)",
+        "zh": "2026-09-15 周一 12:30–14:00（旧金山）",
+        "ja": "2026-09-15（月）12:30–14:00（PDT）"
+      },
+      "where": {
+        "en": "San Francisco, CA · The Howard SF, 661 Howard St",
+        "zh": "旧金山 · The Howard SF, 661 Howard St",
+        "ja": "San Francisco, CA · The Howard SF, 661 Howard St"
+      },
+      "body": {
+        "en": "Official engineer-focused Grok Bot workshop at The Howard. Free; ~145 seats (Grok Bot calendar).",
+        "zh": "面向工程师的官方 Grok Bot 工作坊（The Howard）。免费，约 145 席。",
+        "ja": "エンジニア向け公式 Grok Bot ワークショップ（The Howard）。無料・残席約 145。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "sfse-20260916",
+      "url": "https://luma.com/spacexai-7n4l",
+      "image": "./assets/events/sfse-20260916-cover.png",
+      "expires": "2026-09-16T10:30:00-07:00",
+      "title": {
+        "en": "Grok Bot for Sales Engineering (SF)",
+        "zh": "Grok Bot for Sales Engineering（旧金山）",
+        "ja": "Grok Bot for Sales Engineering（SF）"
+      },
+      "when": {
+        "en": "Tue 16 Sep 2026, 09:00–10:30 (PDT)",
+        "zh": "2026-09-16 周二 09:00–10:30（旧金山）",
+        "ja": "2026-09-16（火）09:00–10:30（PDT）"
+      },
+      "where": {
+        "en": "San Francisco, CA · The Howard SF, 661 Howard St",
+        "zh": "旧金山 · The Howard SF, 661 Howard St",
+        "ja": "San Francisco, CA · The Howard SF, 661 Howard St"
+      },
+      "body": {
+        "en": "Official Sales Engineering Grok Bot session at The Howard. Free; ~146 seats (hosts Jenna Nanpei, Kathryn Trainor).",
+        "zh": "官方 Sales Engineering Grok Bot 场（The Howard）。免费，约 146 席（Jenna Nanpei / Kathryn Trainor）。",
+        "ja": "Sales Engineering 向け公式セッション（The Howard）。無料・残席約 146（Jenna Nanpei / Kathryn Trainor）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "sfsdr-20260916",
+      "url": "https://luma.com/spacexai-dtez",
+      "image": "./assets/events/sfsdr-20260916-cover.png",
+      "expires": "2026-09-16T15:30:00-07:00",
+      "title": {
+        "en": "Grok Bot for SDRs (SF)",
+        "zh": "Grok Bot for SDRs（旧金山）",
+        "ja": "Grok Bot for SDRs（SF）"
+      },
+      "when": {
+        "en": "Tue 16 Sep 2026, 14:30–15:30 (PDT)",
+        "zh": "2026-09-16 周二 14:30–15:30（旧金山）",
+        "ja": "2026-09-16（火）14:30–15:30（PDT）"
+      },
+      "where": {
+        "en": "San Francisco, CA · The Howard SF, 661 Howard St",
+        "zh": "旧金山 · The Howard SF, 661 Howard St",
+        "ja": "San Francisco, CA · The Howard SF, 661 Howard St"
+      },
+      "body": {
+        "en": "Official SDR-focused Grok Bot workshop at The Howard. Free; ~147 seats (host Jenna Nanpei).",
+        "zh": "面向 SDR 的官方 Grok Bot 工作坊（The Howard）。免费，约 147 席（Jenna Nanpei）。",
+        "ja": "SDR 向け公式ワークショップ（The Howard）。無料・残席約 147（Jenna Nanpei）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "sfmo-20260917",
+      "url": "https://luma.com/spacexai-obof",
+      "image": "./assets/events/sfmo-20260917-cover.png",
+      "expires": "2026-09-17T10:30:00-07:00",
+      "title": {
+        "en": "Grok Bot for Marketing Operations (SF)",
+        "zh": "Grok Bot for Marketing Operations（旧金山）",
+        "ja": "Grok Bot for Marketing Operations（SF）"
+      },
+      "when": {
+        "en": "Wed 17 Sep 2026, 09:00–10:30 (PDT)",
+        "zh": "2026-09-17 周三 09:00–10:30（旧金山）",
+        "ja": "2026-09-17（水）09:00–10:30（PDT）"
+      },
+      "where": {
+        "en": "San Francisco, CA · The Howard SF, 661 Howard St",
+        "zh": "旧金山 · The Howard SF, 661 Howard St",
+        "ja": "San Francisco, CA · The Howard SF, 661 Howard St"
+      },
+      "body": {
+        "en": "Official Marketing Operations Grok Bot session at The Howard. Free; ~146 seats (host Jenna Nanpei).",
+        "zh": "面向 Marketing Ops 的官方 Grok Bot 场（The Howard）。免费，约 146 席（Jenna Nanpei）。",
+        "ja": "Marketing Ops 向け公式セッション（The Howard）。無料・残席約 146（Jenna Nanpei）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "sfps-20260917",
+      "url": "https://luma.com/spacexai-kczr",
+      "image": "./assets/events/sfps-20260917-cover.png",
+      "expires": "2026-09-17T13:30:00-07:00",
+      "title": {
+        "en": "Grok Bot for Post-Sales (SF)",
+        "zh": "Grok Bot for Post-Sales（旧金山）",
+        "ja": "Grok Bot for Post-Sales（SF）"
+      },
+      "when": {
+        "en": "Wed 17 Sep 2026, 12:30–13:30 (PDT)",
+        "zh": "2026-09-17 周三 12:30–13:30（旧金山）",
+        "ja": "2026-09-17（水）12:30–13:30（PDT）"
+      },
+      "where": {
+        "en": "San Francisco, CA · The Howard SF, 661 Howard St",
+        "zh": "旧金山 · The Howard SF, 661 Howard St",
+        "ja": "San Francisco, CA · The Howard SF, 661 Howard St"
+      },
+      "body": {
+        "en": "Official Post-Sales Grok Bot workshop at The Howard. Free; ~148 seats (host Jenna Nanpei).",
+        "zh": "面向 Post-Sales 的官方 Grok Bot 工作坊（The Howard）。免费，约 148 席（Jenna Nanpei）。",
+        "ja": "Post-Sales 向け公式ワークショップ（The Howard）。無料・残席約 148（Jenna Nanpei）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "sfm-20260917",
+      "url": "https://luma.com/spacexai-1ctm",
+      "image": "./assets/events/sfm-20260917-cover.png",
+      "expires": "2026-09-17T16:00:00-07:00",
+      "title": {
+        "en": "Grok Bot for Marketing (SF)",
+        "zh": "Grok Bot for Marketing（旧金山）",
+        "ja": "Grok Bot for Marketing（SF）"
+      },
+      "when": {
+        "en": "Wed 17 Sep 2026, 14:30–16:00 (PDT)",
+        "zh": "2026-09-17 周三 14:30–16:00（旧金山）",
+        "ja": "2026-09-17（水）14:30–16:00（PDT）"
+      },
+      "where": {
+        "en": "San Francisco, CA · The Howard SF, 661 Howard St",
+        "zh": "旧金山 · The Howard SF, 661 Howard St",
+        "ja": "San Francisco, CA · The Howard SF, 661 Howard St"
+      },
+      "body": {
+        "en": "Official Marketing Grok Bot session at The Howard. Free; ~148 seats (hosts Jenna Nanpei, Kathryn Trainor).",
+        "zh": "面向 Marketing 的官方 Grok Bot 场（The Howard）。免费，约 148 席（Jenna Nanpei / Kathryn Trainor）。",
+        "ja": "Marketing 向け公式セッション（The Howard）。無料・残席約 148（Jenna Nanpei / Kathryn Trainor）。"
       },
       "cta": {
         "en": "Register on Luma →",
