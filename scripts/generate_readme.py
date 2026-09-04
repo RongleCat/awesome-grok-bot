@@ -323,6 +323,10 @@ EVENT_GEO = {
     "fln-20260926": ("br", "Florianópolis", "弗洛里亚诺波利斯", "フロリアノポリス"),
     "bliw-20261004": ("id", "Jimbaran / Bali (Udayana)", "巴厘岛金巴兰（乌达亚纳）", "ジンバラン / バリ（Udayana）"),
     "sha-20261017": ("cn", "Shanghai", "上海", "上海"),
+    "hzo-20260905": ("cn", "Hangzhou", "杭州", "杭州"),
+    "hzo-20260919": ("cn", "Hangzhou", "杭州", "杭州"),
+    "sfpm-20260915": ("us", "San Francisco (PMs)", "旧金山（产品经理）", "サンフランシスコ（PM）"),
+    "sffo-20260915": ("us", "San Francisco (Founders)", "旧金山（创始人）", "サンフランシスコ（Founders）"),
 }
 
 

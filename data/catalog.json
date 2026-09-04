@@ -474,6 +474,76 @@
             "zh": "官方安全 FAQ（新文档页）：用户间隔离、Bot 能访问什么、仅禁用插件挡不住浏览器访问该站，以及 Network Controls（目的地放行）仅 Enterprise 可用。",
             "ja": "公式セキュリティ FAQ（新規ドキュメント）。ユーザー間分離、Bot が触れる範囲、プラグイン遮断だけではブラウザ経由を止められないこと、Network Controls（宛先許可）は Enterprise 限定。"
           }
+        },
+        {
+          "title": "Grok Bot Guides",
+          "url": "https://x.ai/bot/guides",
+          "source": "day-20260904-1304",
+          "blurb": {
+            "en": "Official Grok Bot Guides hub: practical playbooks for AI teammates (teams of bots, mobile app studio, design, GTM, PMs), with category indexes for engineering, product, design, and GTM.",
+            "zh": "官方 Grok Bot Guides 入口：面向 AI 队友的实战手册合集（多 Bot 团队、移动应用工作室、设计、GTM、产品经理），并按工程/产品/设计/GTM 分类索引。",
+            "ja": "公式 Grok Bot Guides ハブ。AI チームメイト向け実践プレイブック（複数 Bot チーム、モバイルアプリ、デザイン、GTM、PM）と engineering / product / design / GTM カテゴリ一覧。"
+          }
+        },
+        {
+          "title": "How I run multiple teams of Grok Bots",
+          "url": "https://x.ai/bot/guides/how-i-run-multiple-teams-of-grok-bots",
+          "source": "day-20260904-1304",
+          "blurb": {
+            "en": "Official guide (2026-08-27): coordinate Grok Bots like a human team—each project gets a channel, a roster, and a Notion board, with a Projects Manager bot for staffing and task tracking.",
+            "zh": "官方指南（2026-08-27）：像带人团队一样编排 Grok Bot——每个项目一个频道、一份名单和一块 Notion 看板，并由 Projects Manager Bot 负责组队与任务跟踪。",
+            "ja": "公式ガイド（2026-08-27）。Grok Bot を人間のチームのように運用——プロジェクトごとにチャンネル・名簿・Notion ボード、Projects Manager bot がスタッフィングとタスク管理。"
+          }
+        },
+        {
+          "title": "Grok Bot for mobile app development",
+          "url": "https://x.ai/bot/guides/grok-bot-for-mobile-app-development",
+          "source": "day-20260904-1304",
+          "blurb": {
+            "en": "Official guide (2026-08-25): six specialized Grok Bots run a mobile game studio end-to-end—build, ship, analytics feedback loops, and skills recorded on the Bot’s own computer.",
+            "zh": "官方指南（2026-08-25）：用六个专职 Grok Bot 端到端运转移动游戏工作室——构建、上架、分析反馈闭环，以及在 Bot 自有云电脑上录制的技能。",
+            "ja": "公式ガイド（2026-08-25）。6体の専門 Grok Bot でモバイルゲームスタジオを端到端運用——ビルド・配布・分析ループ、Bot 専用コンピュータ上で録ったスキル。"
+          }
+        },
+        {
+          "title": "Designing Grok Bot with Grok Bot",
+          "url": "https://x.ai/bot/guides/designing-grok-bot-with-grok-bot",
+          "source": "day-20260904-1304",
+          "blurb": {
+            "en": "Official guide (2026-08-24): a designer uses always-on Grok Bot agents (Figma production, motion prototypes, experiments, eng Q&A) to explore more ideas with real production assets while keeping human judgment in the loop.",
+            "zh": "官方指南（2026-08-24）：设计师用常驻 Grok Bot（Figma 生产、动效原型、实验、工程问答）在真实资产上探索更多方案，同时把最终判断留在人这边。",
+            "ja": "公式ガイド（2026-08-24）。デザイナーが常駐 Grok Bot（Figma 量産・モーション試作・実験・Eng Q&A）で本番アセットを使い案を広げつつ、最終判断は人が握る。"
+          }
+        },
+        {
+          "title": "Grok Bot for GTM",
+          "url": "https://x.ai/bot/guides/grok-bot-for-gtm",
+          "source": "day-20260904-1304",
+          "blurb": {
+            "en": "Official guide (2026-08-16): Enterprise GTM with Grok Bot—Chief of Staff, prospecting/account prompts, live slides, and the rest of the GTM roster on persistent cloud computers.",
+            "zh": "官方指南（2026-08-16）：用 Grok Bot 做企业 GTM——Chief of Staff、获客/客户提示词、实时幻灯，以及跑在持久云电脑上的其余 GTM 席位。",
+            "ja": "公式ガイド（2026-08-16）。Grok Bot で Enterprise GTM——Chief of Staff、見込み/アカウント用プロンプト、ライブスライド、持続クラウド PC 上の GTM ロスター。"
+          }
+        },
+        {
+          "title": "Grok Bot for PMs",
+          "url": "https://x.ai/bot/guides/grok-bot-for-pms",
+          "source": "day-20260904-1304",
+          "blurb": {
+            "en": "Official guide (2026-08-15): PM playbook—attention lists, shipping via Cloud Agents, and a concrete Bot roster (Chief of Staff, EM, eng ICs, analyst, PM, recruiter) that reports to you.",
+            "zh": "官方指南（2026-08-15）：产品经理玩法——注意力清单、借 Cloud Agents 真正出活，以及可向你汇报的具体 Bot 名单（Chief of Staff、EM、工程师、分析、PM、招聘）。",
+            "ja": "公式ガイド（2026-08-15）。PM 向け——注意力リスト、Cloud Agents での出荷、自分にレポートする具体ロスター（Chief of Staff / EM / Eng / 分析 / PM / 採用）。"
+          }
+        },
+        {
+          "title": "Grok Bot use cases",
+          "url": "https://x.ai/bot/use-cases",
+          "source": "day-20260904-1304",
+          "blurb": {
+            "en": "Official use-case gallery on x.ai/bot: browse handoff-ready Bot jobs across sales, marketing, support, recruiting, ops, product, and engineering (distinct from the docs.x.ai/grok-bot/use-cases guide page).",
+            "zh": "官方 x.ai/bot 用例廊：按销售、营销、支持、招聘、运营、产品、工程浏览可直接交办的 Bot 工作（与已收录的 docs.x.ai/grok-bot/use-cases 文档页不同）。",
+            "ja": "公式 x.ai/bot ユースケース一覧。営業・マーケ・サポート・採用・Ops・プロダクト・エンジニアリング向けの引き渡し可能な Bot 仕事（収録済み docs.x.ai/grok-bot/use-cases とは別ページ）。"
+          }
         }
       ]
     },
@@ -2274,6 +2344,56 @@
             "zh": "Cursor/Grok Bot Agent 插件：含 plugin.json 与 mcp.json，经 Data Parrot 托管 MCP 查询 HubSpot 成交健康度、预测、管道与赢单/丢单分析。",
             "ja": "plugin.json と mcp.json 付きの Cursor / Grok Bot Agent Plugin。Data Parrot ホスト MCP から HubSpot の案件健全性・予測・パイプライン・勝敗分析を引けます。"
           }
+        },
+        {
+          "title": "Grok Mem (claude-mem) Grok Bot plugin",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "source": "GB-474",
+          "blurb": {
+            "en": "Persistent session memory for Grok Bot via .grok-plugin plus claude-mem-grok-bot MCP/skills: capture agent work, compress it, and reinject relevant context without replacing Grok's own memory.",
+            "zh": "Grok Bot 持久会话记忆插件（.grok-plugin + claude-mem-grok-bot MCP/skills）：捕获与压缩会话工作，并回注相关上下文，且不替代 Grok 自带记忆。",
+            "ja": ".grok-plugin と claude-mem-grok-bot の MCP/スキルで Grok Bot に永続セッション記憶を追加。作業を圧縮して再注入し、Grok 本体の記憶は置き換えません。"
+          }
+        },
+        {
+          "title": "get-fable Grok Bot lifecycle plugin",
+          "url": "https://github.com/imMamdouhaboammar/get-fable",
+          "source": "GB-475",
+          "blurb": {
+            "en": "xAI Grok and Grok Bot coding-lifecycle governance plugin with .grok-plugin, hooks, and connected skills for planning, TDD, verification, review, and recovery around the model you already use.",
+            "zh": "面向 xAI Grok 与 Grok Bot 的编码生命周期治理插件：含 .grok-plugin、hooks 与规划/TDD/验证/评审/恢复等联动 skills，强化你已在用的模型工作环。",
+            "ja": "xAI Grok / Grok Bot 向けコーディングライフサイクル統治プラグイン。.grok-plugin・hooks・計画/TDD/検証/レビュー/復旧スキルで、既存モデルの作業ループを強化します。"
+          }
+        },
+        {
+          "title": "PPC Path B emulated Grok MCP",
+          "url": "https://github.com/ThePrivatePirateCompany/ppc-path-b-emulated-mcp",
+          "source": "GB-476",
+          "blurb": {
+            "en": "Reference emulated MCP server (create/assign/status/approve) for Grok Custom Connector Path B, with a local Python /mcp endpoint meant to be tunnelled over public HTTPS.",
+            "zh": "面向 Grok Custom Connector Path B 的参考模拟 MCP（create/assign/status/approve）：本地 Python /mcp 端点，需经公网 HTTPS 隧道接入。",
+            "ja": "Grok Custom Connector Path B 向けの参考エミュレート MCP（create/assign/status/approve）。ローカル Python の /mcp を公開 HTTPS トンネルで繋ぎます。"
+          }
+        },
+        {
+          "title": "Pitch Machine MCP for Grok Bot",
+          "url": "https://github.com/rcabanes-ops/pitchmachine-mcp",
+          "source": "GB-477",
+          "blurb": {
+            "en": "npm MCP server (@pitchmachine/mcp-server) that lets Cursor or Grok Bot create receivers and generate personalized pitch microsites, returning a public URL without sending email for you.",
+            "zh": "npm MCP（@pitchmachine/mcp-server）：让 Cursor/Grok Bot 创建接收方并生成个性化 pitch 微站，返回公开 URL，故意不代发邮件。",
+            "ja": "Cursor / Grok Bot 向け npm MCP（@pitchmachine/mcp-server）。受信者作成とパーソナライズ pitch 微サイト生成まで行い、公開 URL を返す（送信はしない）。"
+          }
+        },
+        {
+          "title": "RivetOS rivet-memory Grok Bot plugin",
+          "url": "https://github.com/philbert440/rivetOS",
+          "source": "GB-478",
+          "blurb": {
+            "en": "RivetOS ships integrations/grok-bot/rivet-memory with plugin.json so Cursor Grok Bot can query/write memory and ingest sessions tagged source=grokbot.",
+            "zh": "RivetOS 提供 integrations/grok-bot/rivet-memory（含 plugin.json），供 Cursor Grok Bot 查询/写入记忆并摄入 source=grokbot 的会话。",
+            "ja": "RivetOS の integrations/grok-bot/rivet-memory（plugin.json 付き）で、Cursor Grok Bot が記憶の読み書きと source=grokbot セッション取り込みができます。"
+          }
         }
       ]
     },
@@ -3093,6 +3213,26 @@
             "en": "npm CLI (grok-bot-cli) to create, group, message, and delete official Grok Bot agents from the terminal, with live smoke-test demos in-repo.",
             "zh": "npm CLI（grok-bot-cli）：在终端创建、编组、发消息与删除官方 Grok Bot 代理，仓库内含实况冒烟演示。",
             "ja": "公式 Grok Bot エージェントを端末から作成・グループ化・送信・削除する npm CLI（grok-bot-cli）。リポジトリ内に実況スモークデモあり。"
+          }
+        },
+        {
+          "title": "grokbox Grok Bot control-plane CLI",
+          "url": "https://github.com/yoyooyooo/grokbox",
+          "source": "GB-479",
+          "blurb": {
+            "en": "Unofficial CLI/control plane (grokbox/gbox) for operating Grok Bot cloud computers locally or over Tailscale: profiles, daemon, doctor, fs/exec/jobs, and desktop adapters.",
+            "zh": "非官方 Grok Bot 云电脑控制面 CLI（grokbox/gbox）：本地或经 Tailscale 管理 profile、守护进程、doctor、文件/执行/任务与桌面适配。",
+            "ja": "非公式の Grok Bot クラウド PC 制御プレーン CLI（grokbox/gbox）。ローカルまたは Tailscale 経由で profile・daemon・doctor・fs/exec/jobs・デスクトップを操作します。"
+          }
+        },
+        {
+          "title": "dsh-grokbot DeepSeek Harness crew plugin",
+          "url": "https://github.com/nescafe2009/dsh-grokbot",
+          "source": "GB-480",
+          "blurb": {
+            "en": "Out-of-tree DeepSeek Harness plugin that recreates Grok Bot–style always-on named crews with per-bot workspaces and a file-driven inbox protocol compatible with todi-hub.",
+            "zh": "DeepSeek Harness 树外插件：复刻 Grok Bot 式常驻具名 crew、每 bot 工作区，以及兼容 todi-hub 的文件驱动 inbox 协议。",
+            "ja": "DeepSeek Harness のツリー外プラグイン。Grok Bot 風の常駐ネームド crew・bot 別ワークスペース・todi-hub 互換のファイル駆動 inbox を再現します。"
           }
         }
       ]
@@ -4024,6 +4164,26 @@
             "zh": "官方（deanrie）：近期版本里从 Grok Bot 拉起 Cloud Agent 可能误触 “Privacy Mode (Legacy)” 检查（账号已是现行 Privacy Mode 也会中招）——从 Cursor 桌面端启动仍正常；退出/重置无效，属服务端问题正在修。",
             "ja": "スタッフ（deanrie）：最近のリリース後、Grok Bot から Cloud Agent を起動すると現行 Privacy Mode でも「Privacy Mode (Legacy)」誤判定が出ることがある——Cursor デスクトップからの起動は成功。サインアウトやリセットでは直らず、サーバー側の修正を追跡中。"
           }
+        },
+        {
+          "title": "Grok Bot 0.39.0 first setup: Reconnecting forever until Privacy Mode is saved",
+          "url": "https://forum.cursor.com/t/grok-bot-0-39-0-first-setup-reconnecting-to-your-computer-forever-mac/170509",
+          "source": "day-20260904-1304",
+          "blurb": {
+            "en": "Staff (deanrie): First-setup “Reconnecting to your computer” can mean the account never saved an explicit Privacy Mode choice (data notice alone is not enough)—set Privacy Mode in cursor.com/dashboard → Settings → Privacy, fully Quit (Cmd+Q), reopen; Retry/Recover/Reset will not fix a missing privacy choice.",
+            "zh": "官方（deanrie）：首次安装一直 “Reconnecting to your computer” 可能是账号从未保存明确的 Privacy Mode 选择（只确认数据提示不够）——在 cursor.com/dashboard → Settings → Privacy 选定 Privacy Mode 后完全退出（Cmd+Q）再开；Retry/Recover/Reset 无法补上缺失的隐私选项。",
+            "ja": "スタッフ（deanrie）：初回セットアップで「Reconnecting to your computer」が続くのは、Privacy Mode の明示選択が未保存のことがある（データ通知だけでは不足）——cursor.com/dashboard → Settings → Privacy で Privacy Mode を選び、Cmd+Q で完全終了して再起動。Retry/Recover/Reset では直らない。"
+          }
+        },
+        {
+          "title": "Grok Bot reset usage early — Sep 1 global weekly reset",
+          "url": "https://forum.cursor.com/t/grok-bot-reset-usage-early/170283",
+          "source": "day-20260904-1304",
+          "blurb": {
+            "en": "Staff (deanrie): Seeing weekly usage drop to 0% mid-cycle can be the Sep 1 global Grok Bot weekly-usage reset (announced on X), not an account bug—the next-reset countdown keeps running, so remaining days may look unchanged while the bar restarts at 0%.",
+            "zh": "官方（deanrie）：周期中途用量掉到 0% 可能是 9 月 1 日 Grok Bot 全球周用量重置（已在 X 宣布），不是账号故障——距下次重置的倒计时仍继续，所以剩余天数看似不变，但用量条从 0% 重新起算。",
+            "ja": "スタッフ（deanrie）：週次使用量が周期の途中で 0% に戻るのは、9/1 の Grok Bot グローバル週次リセット（X で告知）でありアカウント障害ではない——次回リセットまでのカウントは続き、残日数はそのままでバーだけ 0% から再スタートし得る。"
+          }
         }
       ]
     },
@@ -4413,6 +4573,46 @@
             "en": "Reveal.js slide deck for a UNC Chapel Hill Grok Bot Student Build Night using the official cream/blob theme retuned for campus.",
             "zh": "UNC Chapel Hill Grok Bot 学生构建夜的 Reveal.js 幻灯片，基于官方奶油/blob 主题并按校园重调。",
             "ja": "UNC Chapel Hill の Grok Bot Student Build Night 向け Reveal.js デッキ。公式クリーム／blob テーマをキャンパス用に再調色。"
+          }
+        },
+        {
+          "title": "Awesome Grok Bot Templates (lroolle)",
+          "url": "https://github.com/lroolle/awesome-grokbot-templates",
+          "source": "GB-481",
+          "blurb": {
+            "en": "Fresh curated awesome list of public x.ai/bot Grok Bot templates grouped by job (featured, meta, engineering, inbox, GTM, life ops) with share-link caveats.",
+            "zh": "新的公开 x.ai/bot Grok Bot 模板精选列表：按岗位分组（精选/元/工程/收件箱/GTM/生活运营），并标明分享链接注意事项。",
+            "ja": "公開 x.ai/bot の Grok Bot テンプレを職種別（featured/meta/engineering/inbox/GTM/life ops）にまとめた新しい awesome リスト。共有リンクの注意書き付き。"
+          }
+        },
+        {
+          "title": "Awesome Grok Bot Templates EN/ZH",
+          "url": "https://github.com/tiankonglan/awesome-grok-bot-template",
+          "source": "GB-482",
+          "blurb": {
+            "en": "Bilingual EN/ZH awesome list of circulating public Grok Bot templates across routing, engineering, research, content, and life assistants with live x.ai/bot links.",
+            "zh": "中英双语的公开 Grok Bot 模板精选：覆盖路由、工程、研究、内容与生活助手，并附可点击的 x.ai/bot 链接。",
+            "ja": "ルーティング・エンジニアリング・研究・コンテンツ・生活向けの公開 Grok Bot テンプレを EN/ZH 併記した awesome リスト。x.ai/bot リンク付き。"
+          }
+        },
+        {
+          "title": "yanauto verified Grok Bot share links",
+          "url": "https://github.com/yanauto/grok-bots",
+          "source": "GB-483",
+          "blurb": {
+            "en": "Curated catalog of manually verified public Grok Bot share links (x.ai/bot) grouped by use case, confirming each Add-to-Grok-Bot page still loads.",
+            "zh": "人工核验过的公开 Grok Bot 分享链接目录（x.ai/bot）：按用例分组，并确认「添加到 Grok Bot」页仍可打开。",
+            "ja": "人手で確認した公開 Grok Bot 共有リンク（x.ai/bot）カタログ。用途別に分類し、Add to Grok Bot ページが開くことまで検証しています。"
+          }
+        },
+        {
+          "title": "Great Grok Bots directory scrape",
+          "url": "https://github.com/jinank/great-grokbots",
+          "source": "GB-484",
+          "blurb": {
+            "en": "Snapshot catalog of ~1400 unique public Grok Bots scraped from open directories (Bot Directory, GrokIndex, grokbot.dev, and more) with rebuild scripts.",
+            "zh": "从多个公开目录（Bot Directory、GrokIndex、grokbot.dev 等）抓取去重后约 1400 个公开 Grok Bot 的快照目录，附重建脚本。",
+            "ja": "公開ディレクトリ群から収集・重複排除した約 1400 件の公開 Grok Bot スナップショットカタログ。再構築スクリプト付き。"
           }
         }
       ]
@@ -7858,6 +8058,130 @@
         "en": "Register on Luma →",
         "zh": "去 Luma 报名 →",
         "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "hzo-20260905",
+      "url": "https://luma.com/x72vqp3u",
+      "image": "./assets/events/hzo-20260905-cover.png",
+      "expires": "2026-09-05T18:00:00+08:00",
+      "title": {
+        "en": "Grok Bot Meetup Hangzhou",
+        "zh": "Grok Bot 杭州线下交流",
+        "ja": "Grok Bot Meetup Hangzhou"
+      },
+      "when": {
+        "en": "Sat 5 Sep 2026, 14:00–18:00 (GMT+8)",
+        "zh": "2026-09-05 周六 14:00–18:00",
+        "ja": "2026-09-05（土）14:00–18:00（GMT+8）"
+      },
+      "where": {
+        "en": "Hangzhou · exact address after you register",
+        "zh": "杭州 · 报名通过后可见地址",
+        "ja": "杭州 · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Hangzhou (same day as Chengdu). Host approval; ~14 going. Venue hidden until register.",
+        "zh": "杭州 Grok Bot 线下（与成都同日）。需主办审核，约 14 人报名。地址报名后可见。",
+        "ja": "杭州の対面 Grok Bot（成都と同日）。承認制・約 14 名。会場は登録後。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "sfpm-20260915",
+      "url": "https://luma.com/spacexai-qki6",
+      "image": "./assets/events/sfpm-20260915-cover.png",
+      "expires": "2026-09-15T16:00:00-07:00",
+      "title": {
+        "en": "Grok Bot for Product Managers (SF)",
+        "zh": "Grok Bot for Product Managers（旧金山）",
+        "ja": "Grok Bot for Product Managers（SF）"
+      },
+      "when": {
+        "en": "Mon 15 Sep 2026, 14:30–16:00 (PDT)",
+        "zh": "2026-09-15 周一 14:30–16:00（旧金山）",
+        "ja": "2026-09-15（月）14:30–16:00（PDT）"
+      },
+      "where": {
+        "en": "San Francisco, CA · The Howard SF, 661 Howard St",
+        "zh": "旧金山 · The Howard SF, 661 Howard St",
+        "ja": "San Francisco, CA · The Howard SF, 661 Howard St"
+      },
+      "body": {
+        "en": "Official PM-focused Grok Bot workshop at The Howard with Kevin Niparko. Free; ~143 seats (host Jenna Nanpei).",
+        "zh": "面向产品经理的官方 Grok Bot 工作坊（The Howard，Kevin Niparko）。免费，约 143 席（Jenna Nanpei）。",
+        "ja": "PM 向け公式 Grok Bot ワークショップ（The Howard / Kevin Niparko）。無料・残席約 143（Jenna Nanpei）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "sffo-20260915",
+      "url": "https://luma.com/spacexai-74df",
+      "image": "./assets/events/sffo-20260915-cover.png",
+      "expires": "2026-09-15T17:30:00-07:00",
+      "title": {
+        "en": "Grok Bot for Founders (SF)",
+        "zh": "Grok Bot for Founders（旧金山）",
+        "ja": "Grok Bot for Founders（SF）"
+      },
+      "when": {
+        "en": "Mon 15 Sep 2026, 16:30–17:30 (PDT)",
+        "zh": "2026-09-15 周一 16:30–17:30（旧金山）",
+        "ja": "2026-09-15（月）16:30–17:30（PDT）"
+      },
+      "where": {
+        "en": "San Francisco, CA · The Howard SF, 661 Howard St",
+        "zh": "旧金山 · The Howard SF, 661 Howard St",
+        "ja": "San Francisco, CA · The Howard SF, 661 Howard St"
+      },
+      "body": {
+        "en": "Official founder-focused Grok Bot session at The Howard with Shub Gaur. Free; ~144 seats (host Jenna Nanpei).",
+        "zh": "面向创始人的官方 Grok Bot 场（The Howard，Shub Gaur）。免费，约 144 席（Jenna Nanpei）。",
+        "ja": "ファウンダー向け公式セッション（The Howard / Shub Gaur）。無料・残席約 144（Jenna Nanpei）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "hzo-20260919",
+      "url": "https://luma.com/gb05xpbc",
+      "image": "./assets/events/hzo-20260919-cover.png",
+      "expires": "2026-09-19T17:30:00+08:00",
+      "title": {
+        "en": "Grok Bot Meetup Hangzhou",
+        "zh": "Grok Bot 杭州线下交流",
+        "ja": "Grok Bot Meetup Hangzhou"
+      },
+      "when": {
+        "en": "Sat 19 Sep 2026, 14:00–17:30 (GMT+8)",
+        "zh": "2026-09-19 周六 14:00–17:30",
+        "ja": "2026-09-19（土）14:00–17:30（GMT+8）"
+      },
+      "where": {
+        "en": "Hangzhou · exact address after you register",
+        "zh": "杭州 · 报名通过后可见地址",
+        "ja": "杭州 · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "SpaceXAI Hangzhou in-person meetup: opening + use-case shares + open mic + networking. Host approval; venue after register.",
+        "zh": "SpaceXAI 杭州线下：官方致辞 + 场景分享 + 开放麦 + Networking。需审核，地址报名后可见。",
+        "ja": "SpaceXAI 杭州の対面。公式挨拶・事例共有・オープンマイク・交流。承認制。会場は登録後。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
       }
     }
   ]

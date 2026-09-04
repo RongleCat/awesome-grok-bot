@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-433-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-453-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,17 +37,17 @@
 
 [全部活动介绍](./EVENTS.zh.md)
 
-- **中国**（3）：[澳门](./EVENTS.zh.md#mo-20260905) · [成都](./EVENTS.zh.md#cd-20260905) · [上海](./EVENTS.zh.md#sha-20261017)
-- **美国**（22）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山（女性场）](./EVENTS.zh.md#sf-20260903) · [旧金山（学生）](./EVENTS.zh.md#sfs-20260903) · [Cal Poly](./EVENTS.zh.md#slo-20260903) · [UCSB](./EVENTS.zh.md#sba-20260903) · [UC Davis](./EVENTS.zh.md#davis-20260903) · [普林斯顿](./EVENTS.zh.md#prin-20260903) · [哈佛](./EVENTS.zh.md#hvd-20260903) · [UCR 河滨](./EVENTS.zh.md#ucr-20260903) · [5Cs 克莱蒙特](./EVENTS.zh.md#cla-20260903) · [SJSU 圣何塞](./EVENTS.zh.md#sjsu-20260903) · [USC 洛杉矶](./EVENTS.zh.md#usc-20260903) · [旧金山](./EVENTS.zh.md#sfi-20260904) · [檀香山](./EVENTS.zh.md#hnl-20260905) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [东德州农工 Commerce](./EVENTS.zh.md#etamu-20260903)
+- **中国**（5）：[澳门](./EVENTS.zh.md#mo-20260905) · [成都](./EVENTS.zh.md#cd-20260905) · [上海](./EVENTS.zh.md#sha-20261017) · [杭州](./EVENTS.zh.md#hzo-20260905) · [杭州](./EVENTS.zh.md#hzo-20260919)
+- **美国**（13）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [5Cs 克莱蒙特](./EVENTS.zh.md#cla-20260903) · [旧金山](./EVENTS.zh.md#sfi-20260904) · [檀香山](./EVENTS.zh.md#hnl-20260905) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [旧金山（产品经理）](./EVENTS.zh.md#sfpm-20260915) · [旧金山（创始人）](./EVENTS.zh.md#sffo-20260915)
 - **阿根廷**（4）：[巴里洛切](./EVENTS.zh.md#brc-20260910) · [布宜诺斯艾利斯](./EVENTS.zh.md#bue-20260916) · [门多萨](./EVENTS.zh.md#mdz-20261003) · [萨尔塔](./EVENTS.zh.md#sla-20260916)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [萨德伯里](./EVENTS.zh.md#sud-20260917) · [多伦多](./EVENTS.zh.md#yyz-20260917)
 - **巴西**（3）：[累西腓](./EVENTS.zh.md#rec-20260923) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20260926)
 - **厄瓜多尔**（3）：[曼塔](./EVENTS.zh.md#mec-20260912) · [基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
 - **印度尼西亚**（3）：[坦格朗](./EVENTS.zh.md#tgr-20260911) · [巴厘岛乌鲁瓦图](./EVENTS.zh.md#bli-20260915) · [巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004)
 - **日本**（3）：[札幌](./EVENTS.zh.md#spk-20261002) · [东京](./EVENTS.zh.md#tyo-20260909) · [大阪](./EVENTS.zh.md#osa-20260917)
-- **墨西哥**（3）：[蒙特雷](./EVENTS.zh.md#mty-20260910) · [普埃布拉](./EVENTS.zh.md#pue-20260924) · [比亚埃尔莫萨](./EVENTS.zh.md#vhs-20260903)
 - **危地马拉**（2）：[克萨尔特南戈](./EVENTS.zh.md#xela-20260920) · [危地马拉城](./EVENTS.zh.md#gua-20261003)
 - **印度**（2）：[巴罗达](./EVENTS.zh.md#vad-20260905) · [艾哈迈达巴德](./EVENTS.zh.md#amd-20260912)
+- **墨西哥**（2）：[蒙特雷](./EVENTS.zh.md#mty-20260910) · [普埃布拉](./EVENTS.zh.md#pue-20260924)
 - **荷兰**（2）：[乌得勒支](./EVENTS.zh.md#utr-20261029) · [阿姆斯特丹](./EVENTS.zh.md#ams-20260922)
 - **秘鲁**（2）：[阿雷基帕](./EVENTS.zh.md#aqp-20260911) · [利马](./EVENTS.zh.md#lim-20260911)
 - **菲律宾**（2）：[马尼拉](./EVENTS.zh.md#mnl-20260904) · [宿务](./EVENTS.zh.md#ceb-20260919)
@@ -128,6 +128,13 @@
 - [Designing Grok Bot for a world of persistent agents](https://x.ai/news/designing-grok-bot) - 官方 2026-09-03 设计长文：Grok Bot 以持久 Bot 而非一次性会话为中心——侧栏名单、在线状态、各自的云电脑，以及可无提示自动开工；产品原语收敛为 Bots、Chats、Prompts/Skills/Routines、Tools、Artifacts。.
 - [Grok Bot security](https://docs.x.ai/grok-bot/security) - 官方安全指南（新文档页）：Enterprise 网络策略、Action Recording、审计/OpenTelemetry/SCIM、每用户 Firecracker 微虚拟机隔离，以及连接器策略与网络放行名单的分工。.
 - [Grok Bot security FAQ](https://docs.x.ai/grok-bot/security-faq) - 官方安全 FAQ（新文档页）：用户间隔离、Bot 能访问什么、仅禁用插件挡不住浏览器访问该站，以及 Network Controls（目的地放行）仅 Enterprise 可用。.
+- [Grok Bot Guides](https://x.ai/bot/guides) - 官方 Grok Bot Guides 入口：面向 AI 队友的实战手册合集（多 Bot 团队、移动应用工作室、设计、GTM、产品经理），并按工程/产品/设计/GTM 分类索引。.
+- [How I run multiple teams of Grok Bots](https://x.ai/bot/guides/how-i-run-multiple-teams-of-grok-bots) - 官方指南（2026-08-27）：像带人团队一样编排 Grok Bot——每个项目一个频道、一份名单和一块 Notion 看板，并由 Projects Manager Bot 负责组队与任务跟踪。.
+- [Grok Bot for mobile app development](https://x.ai/bot/guides/grok-bot-for-mobile-app-development) - 官方指南（2026-08-25）：用六个专职 Grok Bot 端到端运转移动游戏工作室——构建、上架、分析反馈闭环，以及在 Bot 自有云电脑上录制的技能。.
+- [Designing Grok Bot with Grok Bot](https://x.ai/bot/guides/designing-grok-bot-with-grok-bot) - 官方指南（2026-08-24）：设计师用常驻 Grok Bot（Figma 生产、动效原型、实验、工程问答）在真实资产上探索更多方案，同时把最终判断留在人这边。.
+- [Grok Bot for GTM](https://x.ai/bot/guides/grok-bot-for-gtm) - 官方指南（2026-08-16）：用 Grok Bot 做企业 GTM——Chief of Staff、获客/客户提示词、实时幻灯，以及跑在持久云电脑上的其余 GTM 席位。.
+- [Grok Bot for PMs](https://x.ai/bot/guides/grok-bot-for-pms) - 官方指南（2026-08-15）：产品经理玩法——注意力清单、借 Cloud Agents 真正出活，以及可向你汇报的具体 Bot 名单（Chief of Staff、EM、工程师、分析、PM、招聘）。.
+- [Grok Bot use cases](https://x.ai/bot/use-cases) - 官方 x.ai/bot 用例廊：按销售、营销、支持、招聘、运营、产品、工程浏览可直接交办的 Bot 工作（与已收录的 docs.x.ai/grok-bot/use-cases 文档页不同）。.
 
 ## 教程与上手指南
 
@@ -314,6 +321,11 @@
 - [Permission Slip Google Drive skill](https://github.com/supersuit-tech/permission-slip-grokbot-skill-google-drive) - Grok Bot 技能：经 Permission Slip CLI 浏览、搜索、打开、上传与整理 Google Drive，不绕过用户授权条。.
 - [Permission Slip Proton Mail skill](https://github.com/supersuit-tech/permission-slip-grokbot-skill-protonmail) - Grok Bot 技能：经 Permission Slip CLI 检查、搜索、阅读与发送 Proton Mail，邮件动作需用户批准。.
 - [Data Parrot HubSpot MCP plugin](https://github.com/data-parrot/cursor-grok-bot-mcp) - Cursor/Grok Bot Agent 插件：含 plugin.json 与 mcp.json，经 Data Parrot 托管 MCP 查询 HubSpot 成交健康度、预测、管道与赢单/丢单分析。.
+- [Grok Mem (claude-mem) Grok Bot plugin](https://github.com/thedotmack/claude-mem) - Grok Bot 持久会话记忆插件（.grok-plugin + claude-mem-grok-bot MCP/skills）：捕获与压缩会话工作，并回注相关上下文，且不替代 Grok 自带记忆。.
+- [get-fable Grok Bot lifecycle plugin](https://github.com/imMamdouhaboammar/get-fable) - 面向 xAI Grok 与 Grok Bot 的编码生命周期治理插件：含 .grok-plugin、hooks 与规划/TDD/验证/评审/恢复等联动 skills，强化你已在用的模型工作环。.
+- [PPC Path B emulated Grok MCP](https://github.com/ThePrivatePirateCompany/ppc-path-b-emulated-mcp) - 面向 Grok Custom Connector Path B 的参考模拟 MCP（create/assign/status/approve）：本地 Python /mcp 端点，需经公网 HTTPS 隧道接入。.
+- [Pitch Machine MCP for Grok Bot](https://github.com/rcabanes-ops/pitchmachine-mcp) - npm MCP（@pitchmachine/mcp-server）：让 Cursor/Grok Bot 创建接收方并生成个性化 pitch 微站，返回公开 URL，故意不代发邮件。.
+- [RivetOS rivet-memory Grok Bot plugin](https://github.com/philbert440/rivetOS) - RivetOS 提供 integrations/grok-bot/rivet-memory（含 plugin.json），供 Cursor Grok Bot 查询/写入记忆并摄入 source=grokbot 的会话。.
 
 ## 评测与对比
 
@@ -400,6 +412,8 @@
 - [Cursor Account Manager + Grok Bot Sand](https://github.com/kuk-888/cursor-account-manager) - Cursor 多账号 VSIX：切换登录、查看 Auto/Other/Bot 额度，并可为 Cursor 3.18.9 注入 Grok Bot Sand Stream 路由。.
 - [grokbot-headless Linux daemon controller](https://github.com/andreanjos/grokbot-headless) - 非官方无头控制器：在 Linux 上认证并托管官方 Grok Bot 本地电脑守护进程，无需 Electron、X11、Wayland 或 Xvfb。.
 - [grok-bot-cli terminal manager](https://github.com/tecxbro/grokbotonimessage) - npm CLI（grok-bot-cli）：在终端创建、编组、发消息与删除官方 Grok Bot 代理，仓库内含实况冒烟演示。.
+- [grokbox Grok Bot control-plane CLI](https://github.com/yoyooyooo/grokbox) - 非官方 Grok Bot 云电脑控制面 CLI（grokbox/gbox）：本地或经 Tailscale 管理 profile、守护进程、doctor、文件/执行/任务与桌面适配。.
+- [dsh-grokbot DeepSeek Harness crew plugin](https://github.com/nescafe2009/dsh-grokbot) - DeepSeek Harness 树外插件：复刻 Grok Bot 式常驻具名 crew、每 bot 工作区，以及兼容 todi-hub 的文件驱动 inbox 协议。.
 
 ## 社区与故障现场
 
@@ -495,6 +509,8 @@
 - [Why does Grok Bot chat use so many sand-* tokens?](https://forum.cursor.com/t/why-does-grok-bot-chat-use-so-many-sand-tokens/169581) - 官方（mohitjain）：普通对话走 Grok Bot 周额度；但例程/自动化与浏览器（CUA）动作会按云 agent 计入 Cursor 的 Other Models，即使 Grok Bot 周额度还有剩余也可能占满并挡住 Claude/GPT——请暂停耗额度的 grok-bot-automation / grok-bot-cua，或开启 on-demand。.
 - [Grok Bot Windows — Can't reach computer on Free plan / after SuperGrok link](https://forum.cursor.com/t/grok-bot-windows-cant-reach-computer/170462) - 官方（deanrie）：“Can't reach computer” 也可能是当前登录的 Cursor 账号仍是 Free、尚未绑定 Grok Bot 权益（不是 DNS）——在同一 Cursor 账号于 cursor.com 完成 SuperGrok 关联后，在桌面端完全退出再登录（或从托盘 Quit）以刷新权益。.
 - [Grokbot failing to connect to cloud agent — Privacy Mode (Legacy) false positive](https://forum.cursor.com/t/grokbot-failing-to-connect-to-cloud-agent/170486) - 官方（deanrie）：近期版本里从 Grok Bot 拉起 Cloud Agent 可能误触 “Privacy Mode (Legacy)” 检查（账号已是现行 Privacy Mode 也会中招）——从 Cursor 桌面端启动仍正常；退出/重置无效，属服务端问题正在修。.
+- [Grok Bot 0.39.0 first setup: Reconnecting forever until Privacy Mode is saved](https://forum.cursor.com/t/grok-bot-0-39-0-first-setup-reconnecting-to-your-computer-forever-mac/170509) - 官方（deanrie）：首次安装一直 “Reconnecting to your computer” 可能是账号从未保存明确的 Privacy Mode 选择（只确认数据提示不够）——在 cursor.com/dashboard → Settings → Privacy 选定 Privacy Mode 后完全退出（Cmd+Q）再开；Retry/Recover/Reset 无法补上缺失的隐私选项。.
+- [Grok Bot reset usage early — Sep 1 global weekly reset](https://forum.cursor.com/t/grok-bot-reset-usage-early/170283) - 官方（deanrie）：周期中途用量掉到 0% 可能是 9 月 1 日 Grok Bot 全球周用量重置（已在 X 宣布），不是账号故障——距下次重置的倒计时仍继续，所以剩余天数看似不变，但用量条从 0% 重新起算。.
 
 ## 相关列表
 
@@ -536,10 +552,14 @@
 - [Omabot Omarchy bar for Grok Bot](https://github.com/njpatel/omabot) - Omarchy 栏小部件：把每个 Grok Bot 画成独立头像并显示状态表情，一键打开应用。.
 - [Grok Bot Community site](https://github.com/sntslol/grokbot-community) - Next.js 社区站：覆盖线上与亚利桑那 Grok Bot 聚会、通讯与 Discord，付费入口在 bots.how。.
 - [UNC Grok Bot Student Build Night deck](https://github.com/fantomsuj/grokbot) - UNC Chapel Hill Grok Bot 学生构建夜的 Reveal.js 幻灯片，基于官方奶油/blob 主题并按校园重调。.
+- [Awesome Grok Bot Templates (lroolle)](https://github.com/lroolle/awesome-grokbot-templates) - 新的公开 x.ai/bot Grok Bot 模板精选列表：按岗位分组（精选/元/工程/收件箱/GTM/生活运营），并标明分享链接注意事项。.
+- [Awesome Grok Bot Templates EN/ZH](https://github.com/tiankonglan/awesome-grok-bot-template) - 中英双语的公开 Grok Bot 模板精选：覆盖路由、工程、研究、内容与生活助手，并附可点击的 x.ai/bot 链接。.
+- [yanauto verified Grok Bot share links](https://github.com/yanauto/grok-bots) - 人工核验过的公开 Grok Bot 分享链接目录（x.ai/bot）：按用例分组，并确认「添加到 Grok Bot」页仍可打开。.
+- [Great Grok Bots directory scrape](https://github.com/jinank/great-grokbots) - 从多个公开目录（Bot Directory、GrokIndex、grokbot.dev 等）抓取去重后约 1400 个公开 Grok Bot 的快照目录，附重建脚本。.
 
 ## 贡献
 
-目前 8 个分类、433 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、453 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

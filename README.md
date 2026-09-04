@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-433-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-453-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,17 +37,17 @@
 
 [Full meetup notes](./EVENTS.md)
 
-- **China**（3）：[Macao](./EVENTS.md#mo-20260905) · [Chengdu](./EVENTS.md#cd-20260905) · [Shanghai](./EVENTS.md#sha-20261017)
-- **United States**（22）：[Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco (women)](./EVENTS.md#sf-20260903) · [San Francisco (students)](./EVENTS.md#sfs-20260903) · [Cal Poly](./EVENTS.md#slo-20260903) · [UC Santa Barbara](./EVENTS.md#sba-20260903) · [UC Davis](./EVENTS.md#davis-20260903) · [Princeton](./EVENTS.md#prin-20260903) · [Harvard](./EVENTS.md#hvd-20260903) · [UC Riverside](./EVENTS.md#ucr-20260903) · [5Cs / Claremont](./EVENTS.md#cla-20260903) · [SJSU / San Jose](./EVENTS.md#sjsu-20260903) · [USC / Los Angeles](./EVENTS.md#usc-20260903) · [San Francisco](./EVENTS.md#sfi-20260904) · [Honolulu](./EVENTS.md#hnl-20260905) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [East Texas A&M / Commerce](./EVENTS.md#etamu-20260903)
+- **China**（5）：[Macao](./EVENTS.md#mo-20260905) · [Chengdu](./EVENTS.md#cd-20260905) · [Shanghai](./EVENTS.md#sha-20261017) · [Hangzhou](./EVENTS.md#hzo-20260905) · [Hangzhou](./EVENTS.md#hzo-20260919)
+- **United States**（13）：[Las Vegas](./EVENTS.md#lv-20260915) · [5Cs / Claremont](./EVENTS.md#cla-20260903) · [San Francisco](./EVENTS.md#sfi-20260904) · [Honolulu](./EVENTS.md#hnl-20260905) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915)
 - **Argentina**（4）：[Bariloche](./EVENTS.md#brc-20260910) · [Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
 - **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260917) · [Toronto](./EVENTS.md#yyz-20260917)
 - **Brazil**（3）：[Recife](./EVENTS.md#rec-20260923) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926)
 - **Ecuador**（3）：[Manta](./EVENTS.md#mec-20260912) · [Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
 - **Indonesia**（3）：[Tangerang](./EVENTS.md#tgr-20260911) · [Uluwatu / Bali](./EVENTS.md#bli-20260915) · [Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004)
 - **Japan**（3）：[Sapporo](./EVENTS.md#spk-20261002) · [Tokyo](./EVENTS.md#tyo-20260909) · [Osaka](./EVENTS.md#osa-20260917)
-- **Mexico**（3）：[Monterrey](./EVENTS.md#mty-20260910) · [Puebla](./EVENTS.md#pue-20260924) · [Villahermosa](./EVENTS.md#vhs-20260903)
 - **Guatemala**（2）：[Quetzaltenango](./EVENTS.md#xela-20260920) · [Guatemala City](./EVENTS.md#gua-20261003)
 - **India**（2）：[Vadodara](./EVENTS.md#vad-20260905) · [Ahmedabad](./EVENTS.md#amd-20260912)
+- **Mexico**（2）：[Monterrey](./EVENTS.md#mty-20260910) · [Puebla](./EVENTS.md#pue-20260924)
 - **Netherlands**（2）：[Utrecht](./EVENTS.md#utr-20261029) · [Amsterdam](./EVENTS.md#ams-20260922)
 - **Peru**（2）：[Arequipa](./EVENTS.md#aqp-20260911) · [Lima](./EVENTS.md#lim-20260911)
 - **Philippines**（2）：[Manila](./EVENTS.md#mnl-20260904) · [Cebu](./EVENTS.md#ceb-20260919)
@@ -128,6 +128,13 @@
 - [Designing Grok Bot for a world of persistent agents](https://x.ai/news/designing-grok-bot) - Official 2026-09-03 design essay: Grok Bot is built around persistent Bots (not disposable chat sessions)—roster, presence, each Bot’s own computer, and work that can start without a prompt—organized by Bots, Chats, Prompts/Skills/Routines, Tools, and Artifacts.
 - [Grok Bot security](https://docs.x.ai/grok-bot/security) - Official security guide (new docs page): Enterprise Network Controls, Action Recording, audit/OpenTelemetry/SCIM, isolation on a per-user Firecracker microVM, and how connector policy differs from network allowlists.
 - [Grok Bot security FAQ](https://docs.x.ai/grok-bot/security-faq) - Official security FAQ (new docs page): per-user isolation, what a Bot can access, why blocking a plugin does not block that site in the browser, and that Network Controls (destination allowlists) are Enterprise-only.
+- [Grok Bot Guides](https://x.ai/bot/guides) - Official Grok Bot Guides hub: practical playbooks for AI teammates (teams of bots, mobile app studio, design, GTM, PMs), with category indexes for engineering, product, design, and GTM.
+- [How I run multiple teams of Grok Bots](https://x.ai/bot/guides/how-i-run-multiple-teams-of-grok-bots) - Official guide (2026-08-27): coordinate Grok Bots like a human team—each project gets a channel, a roster, and a Notion board, with a Projects Manager bot for staffing and task tracking.
+- [Grok Bot for mobile app development](https://x.ai/bot/guides/grok-bot-for-mobile-app-development) - Official guide (2026-08-25): six specialized Grok Bots run a mobile game studio end-to-end—build, ship, analytics feedback loops, and skills recorded on the Bot’s own computer.
+- [Designing Grok Bot with Grok Bot](https://x.ai/bot/guides/designing-grok-bot-with-grok-bot) - Official guide (2026-08-24): a designer uses always-on Grok Bot agents (Figma production, motion prototypes, experiments, eng Q&A) to explore more ideas with real production assets while keeping human judgment in the loop.
+- [Grok Bot for GTM](https://x.ai/bot/guides/grok-bot-for-gtm) - Official guide (2026-08-16): Enterprise GTM with Grok Bot—Chief of Staff, prospecting/account prompts, live slides, and the rest of the GTM roster on persistent cloud computers.
+- [Grok Bot for PMs](https://x.ai/bot/guides/grok-bot-for-pms) - Official guide (2026-08-15): PM playbook—attention lists, shipping via Cloud Agents, and a concrete Bot roster (Chief of Staff, EM, eng ICs, analyst, PM, recruiter) that reports to you.
+- [Grok Bot use cases](https://x.ai/bot/use-cases) - Official use-case gallery on x.ai/bot: browse handoff-ready Bot jobs across sales, marketing, support, recruiting, ops, product, and engineering (distinct from the docs.x.ai/grok-bot/use-cases guide page).
 
 ## Tutorials & Guides
 
@@ -314,6 +321,11 @@
 - [Permission Slip Google Drive skill](https://github.com/supersuit-tech/permission-slip-grokbot-skill-google-drive) - Grok Bot agent skill that browses, searches, opens, uploads, and organizes Google Drive via Permission Slip CLI without bypassing the user's permission slips.
 - [Permission Slip Proton Mail skill](https://github.com/supersuit-tech/permission-slip-grokbot-skill-protonmail) - Grok Bot agent skill for checking, searching, reading, and sending Proton Mail through Permission Slip CLI so mail actions stay user-approved.
 - [Data Parrot HubSpot MCP plugin](https://github.com/data-parrot/cursor-grok-bot-mcp) - Cursor/Grok Bot Agent Plugin with plugin.json plus mcp.json that pulls HubSpot deal health, forecast, pipeline, and win/loss analysis from Data Parrot's hosted MCP.
+- [Grok Mem (claude-mem) Grok Bot plugin](https://github.com/thedotmack/claude-mem) - Persistent session memory for Grok Bot via .grok-plugin plus claude-mem-grok-bot MCP/skills: capture agent work, compress it, and reinject relevant context without replacing Grok's own memory.
+- [get-fable Grok Bot lifecycle plugin](https://github.com/imMamdouhaboammar/get-fable) - xAI Grok and Grok Bot coding-lifecycle governance plugin with .grok-plugin, hooks, and connected skills for planning, TDD, verification, review, and recovery around the model you already use.
+- [PPC Path B emulated Grok MCP](https://github.com/ThePrivatePirateCompany/ppc-path-b-emulated-mcp) - Reference emulated MCP server (create/assign/status/approve) for Grok Custom Connector Path B, with a local Python /mcp endpoint meant to be tunnelled over public HTTPS.
+- [Pitch Machine MCP for Grok Bot](https://github.com/rcabanes-ops/pitchmachine-mcp) - npm MCP server (@pitchmachine/mcp-server) that lets Cursor or Grok Bot create receivers and generate personalized pitch microsites, returning a public URL without sending email for you.
+- [RivetOS rivet-memory Grok Bot plugin](https://github.com/philbert440/rivetOS) - RivetOS ships integrations/grok-bot/rivet-memory with plugin.json so Cursor Grok Bot can query/write memory and ingest sessions tagged source=grokbot.
 
 ## Reviews & Comparisons
 
@@ -400,6 +412,8 @@
 - [Cursor Account Manager + Grok Bot Sand](https://github.com/kuk-888/cursor-account-manager) - Cursor multi-account VSIX that switches logins, shows Auto/Other/Bot quotas, and can inject Grok Bot Sand Stream routing on Cursor 3.18.9.
 - [grokbot-headless Linux daemon controller](https://github.com/andreanjos/grokbot-headless) - Unofficial headless controller that authenticates and supervises the official Grok Bot local-computer daemon on Linux without Electron, X11, Wayland, or Xvfb.
 - [grok-bot-cli terminal manager](https://github.com/tecxbro/grokbotonimessage) - npm CLI (grok-bot-cli) to create, group, message, and delete official Grok Bot agents from the terminal, with live smoke-test demos in-repo.
+- [grokbox Grok Bot control-plane CLI](https://github.com/yoyooyooo/grokbox) - Unofficial CLI/control plane (grokbox/gbox) for operating Grok Bot cloud computers locally or over Tailscale: profiles, daemon, doctor, fs/exec/jobs, and desktop adapters.
+- [dsh-grokbot DeepSeek Harness crew plugin](https://github.com/nescafe2009/dsh-grokbot) - Out-of-tree DeepSeek Harness plugin that recreates Grok Bot–style always-on named crews with per-bot workspaces and a file-driven inbox protocol compatible with todi-hub.
 
 ## Community & Failure Modes
 
@@ -495,6 +509,8 @@
 - [Why does Grok Bot chat use so many sand-* tokens?](https://forum.cursor.com/t/why-does-grok-bot-chat-use-so-many-sand-tokens/169581) - Staff (mohitjain): Conversations use the Grok Bot weekly pool, but routines/automations and browser/CUA actions run as cloud agents on your Cursor plan and can drain Other Models (blocking Claude/GPT) even when the Grok Bot bar still has room—pause heavy grok-bot-automation / grok-bot-cua routines or enable on-demand.
 - [Grok Bot Windows — Can't reach computer on Free plan / after SuperGrok link](https://forum.cursor.com/t/grok-bot-windows-cant-reach-computer/170462) - Staff (deanrie): “Can't reach computer” can mean the signed-in Cursor account is Free with no Grok Bot entitlement (not DNS)—link SuperGrok on the same Cursor account via cursor.com, then fully sign out/in (or Quit from the Windows tray) so the desktop app refreshes access.
 - [Grokbot failing to connect to cloud agent — Privacy Mode (Legacy) false positive](https://forum.cursor.com/t/grokbot-failing-to-connect-to-cloud-agent/170486) - Staff (deanrie): Launching a Cloud Agent from Grok Bot can falsely hit the “Privacy Mode (Legacy)” check after a recent release even when your account uses current Privacy Mode—Cursor Desktop launch still works; sign-out/reset won’t help; staff are tracking a server-side fix.
+- [Grok Bot 0.39.0 first setup: Reconnecting forever until Privacy Mode is saved](https://forum.cursor.com/t/grok-bot-0-39-0-first-setup-reconnecting-to-your-computer-forever-mac/170509) - Staff (deanrie): First-setup “Reconnecting to your computer” can mean the account never saved an explicit Privacy Mode choice (data notice alone is not enough)—set Privacy Mode in cursor.com/dashboard → Settings → Privacy, fully Quit (Cmd+Q), reopen; Retry/Recover/Reset will not fix a missing privacy choice.
+- [Grok Bot reset usage early — Sep 1 global weekly reset](https://forum.cursor.com/t/grok-bot-reset-usage-early/170283) - Staff (deanrie): Seeing weekly usage drop to 0% mid-cycle can be the Sep 1 global Grok Bot weekly-usage reset (announced on X), not an account bug—the next-reset countdown keeps running, so remaining days may look unchanged while the bar restarts at 0%.
 
 ## Related Lists
 
@@ -536,10 +552,14 @@
 - [Omabot Omarchy bar for Grok Bot](https://github.com/njpatel/omabot) - Omarchy bar widget that draws every Grok Bot as its own avatar with state expressions and one keypress to open the app.
 - [Grok Bot Community site](https://github.com/sntslol/grokbot-community) - Next.js community site for online and Arizona Grok Bot meetups, newsletter, and Discord, with a paid door at bots.how.
 - [UNC Grok Bot Student Build Night deck](https://github.com/fantomsuj/grokbot) - Reveal.js slide deck for a UNC Chapel Hill Grok Bot Student Build Night using the official cream/blob theme retuned for campus.
+- [Awesome Grok Bot Templates (lroolle)](https://github.com/lroolle/awesome-grokbot-templates) - Fresh curated awesome list of public x.ai/bot Grok Bot templates grouped by job (featured, meta, engineering, inbox, GTM, life ops) with share-link caveats.
+- [Awesome Grok Bot Templates EN/ZH](https://github.com/tiankonglan/awesome-grok-bot-template) - Bilingual EN/ZH awesome list of circulating public Grok Bot templates across routing, engineering, research, content, and life assistants with live x.ai/bot links.
+- [yanauto verified Grok Bot share links](https://github.com/yanauto/grok-bots) - Curated catalog of manually verified public Grok Bot share links (x.ai/bot) grouped by use case, confirming each Add-to-Grok-Bot page still loads.
+- [Great Grok Bots directory scrape](https://github.com/jinank/great-grokbots) - Snapshot catalog of ~1400 unique public Grok Bots scraped from open directories (Bot Directory, GrokIndex, grokbot.dev, and more) with rebuild scripts.
 
 ## Contributing
 
-433 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+453 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
