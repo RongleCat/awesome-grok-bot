@@ -131,6 +131,7 @@
 
 ## Tutorials & Guides
 
+- [Grok Bot handbook (grokbot.run)](https://grokbot.run/) - Unofficial English how-to for Cursor login, a copyable first job, shared-computer isolation, dated plan conflicts, and Recover before Reset.
 - [How to Get Started with Grok Bot](https://debbie.codes/blog/how-to-get-started-with-grok-bot) - Debbie's field guide: first Bot, CoS prompt, and how she reorganizes the roster.
 - [Grok Bot Masterclass](https://www.dailydoseofds.com/p/grok-bot-masterclass/) - Avi / Daily Dose: record once, turn it into a skill, hang it on a routine.
 - [How to Set Up Grok Bot and Build Your First AI Agents](https://www.mindstudio.ai/blog/grok-bot-setup-guide) - Install-to-first-agent walkthrough with the Heavy / Ultra / Teams gates called out.
