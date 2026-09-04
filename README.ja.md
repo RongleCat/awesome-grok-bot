@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-412-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-433-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,22 +37,23 @@
 
 [イベントの詳細](./EVENTS.ja.md)
 
-- **中国**（2）：[マカオ](./EVENTS.ja.md#mo-20260905) · [成都](./EVENTS.ja.md#cd-20260905)
-- **アメリカ**（48）：[ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ（女性）](./EVENTS.ja.md#sf-20260903) · [ニューヨーク（学生）](./EVENTS.ja.md#nyc-20260903) · [サンフランシスコ（学生）](./EVENTS.ja.md#sfs-20260903) · [ペンシルベニア大](./EVENTS.ja.md#phl-20260903) · [UIUC](./EVENTS.ja.md#uiuc-20260903) · [アイオワ州立](./EVENTS.ja.md#isu-20260903) · [ピッツバーグ大](./EVENTS.ja.md#pitt-20260903) · [NC State](./EVENTS.ja.md#ncsu-20260903) · [ロチェスター大](./EVENTS.ja.md#roc-20260903) · [Chaffey College](./EVENTS.ja.md#chf-20260903) · [RIT](./EVENTS.ja.md#rit-20260903) · [Cal Poly](./EVENTS.ja.md#slo-20260903) · [UCSB](./EVENTS.ja.md#sba-20260903) · [デラウェア大](./EVENTS.ja.md#udel-20260903) · [UC Davis](./EVENTS.ja.md#davis-20260903) · [ミシガン大](./EVENTS.ja.md#a2-20260903) · [フロリダ大](./EVENTS.ja.md#uf-20260903) · [テキサスA&M](./EVENTS.ja.md#tamu-20260903) · [TX Luminescence](./EVENTS.ja.md#txl-20260903) · [ジョンズホプキンス](./EVENTS.ja.md#jhu-20260903) · [プリンストン](./EVENTS.ja.md#prin-20260903) · [CMU](./EVENTS.ja.md#cmu-20260903) · [パデュー](./EVENTS.ja.md#laf-20260903) · [McNeese](./EVENTS.ja.md#mcn-20260903) · [ハーバード](./EVENTS.ja.md#hvd-20260903) · [UCR](./EVENTS.ja.md#ucr-20260903) · [5Cs / Claremont](./EVENTS.ja.md#cla-20260903) · [MSJC / Temecula](./EVENTS.ja.md#tem-20260903) · [Miami U / Oxford OH](./EVENTS.ja.md#oxf-20260903) · [Temple / フィラデルフィア](./EVENTS.ja.md#tmp-20260903) · [UNC / Chapel Hill](./EVENTS.ja.md#unc-20260903) · [SJSU / San Jose](./EVENTS.ja.md#sjsu-20260903) · [USC / Los Angeles](./EVENTS.ja.md#usc-20260903) · [Babson / Wellesley](./EVENTS.ja.md#bab-20260903) · [Rutgers / New Brunswick](./EVENTS.ja.md#ru-20260903) · [Greencastle / DePauw](./EVENTS.ja.md#dpu-20260903) · [Salisbury / Livingstone](./EVENTS.ja.md#lc-20260903) · [サンフランシスコ](./EVENTS.ja.md#sfi-20260904) · [ホノルル](./EVENTS.ja.md#hnl-20260905) · [サンフランシスコ](./EVENTS.ja.md#g101-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfe-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [UTEP / El Paso](./EVENTS.ja.md#utep-20260903)
+- **中国**（3）：[マカオ](./EVENTS.ja.md#mo-20260905) · [成都](./EVENTS.ja.md#cd-20260905) · [上海](./EVENTS.ja.md#sha-20261017)
+- **アメリカ**（22）：[ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ（女性）](./EVENTS.ja.md#sf-20260903) · [サンフランシスコ（学生）](./EVENTS.ja.md#sfs-20260903) · [Cal Poly](./EVENTS.ja.md#slo-20260903) · [UCSB](./EVENTS.ja.md#sba-20260903) · [UC Davis](./EVENTS.ja.md#davis-20260903) · [プリンストン](./EVENTS.ja.md#prin-20260903) · [ハーバード](./EVENTS.ja.md#hvd-20260903) · [UCR](./EVENTS.ja.md#ucr-20260903) · [5Cs / Claremont](./EVENTS.ja.md#cla-20260903) · [SJSU / San Jose](./EVENTS.ja.md#sjsu-20260903) · [USC / Los Angeles](./EVENTS.ja.md#usc-20260903) · [サンフランシスコ](./EVENTS.ja.md#sfi-20260904) · [ホノルル](./EVENTS.ja.md#hnl-20260905) · [サンフランシスコ](./EVENTS.ja.md#g101-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfe-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [East Texas A&M / Commerce](./EVENTS.ja.md#etamu-20260903)
 - **アルゼンチン**（4）：[バリローチェ](./EVENTS.ja.md#brc-20260910) · [ブエノスアイレス](./EVENTS.ja.md#bue-20260916) · [メンドサ](./EVENTS.ja.md#mdz-20261003) · [サルタ](./EVENTS.ja.md#sla-20260916)
 - **カナダ**（4）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [ビクトリア（BC）](./EVENTS.ja.md#vic-20260921) · [サドベリー](./EVENTS.ja.md#sud-20260917) · [トロント](./EVENTS.ja.md#yyz-20260917)
+- **ブラジル**（3）：[レシフェ](./EVENTS.ja.md#rec-20260923) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [フロリアノポリス](./EVENTS.ja.md#fln-20260926)
 - **エクアドル**（3）：[マンタ](./EVENTS.ja.md#mec-20260912) · [キト](./EVENTS.ja.md#uio-20260924) · [クンバヤ](./EVENTS.ja.md#cumb-20261003)
+- **インドネシア**（3）：[タンゲラン](./EVENTS.ja.md#tgr-20260911) · [ウルワツ / バリ](./EVENTS.ja.md#bli-20260915) · [ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004)
 - **日本**（3）：[札幌](./EVENTS.ja.md#spk-20261002) · [東京](./EVENTS.ja.md#tyo-20260909) · [大阪](./EVENTS.ja.md#osa-20260917)
 - **メキシコ**（3）：[モンテレイ](./EVENTS.ja.md#mty-20260910) · [プエブラ](./EVENTS.ja.md#pue-20260924) · [ビヤエルモサ](./EVENTS.ja.md#vhs-20260903)
-- **ブラジル**（2）：[レシフェ](./EVENTS.ja.md#rec-20260923) · [クリチバ](./EVENTS.ja.md#cwb-20261111)
 - **グアテマラ**（2）：[ケツァルテナンゴ](./EVENTS.ja.md#xela-20260920) · [グアテマラシティ](./EVENTS.ja.md#gua-20261003)
-- **インドネシア**（2）：[タンゲラン](./EVENTS.ja.md#tgr-20260911) · [ウルワツ / バリ](./EVENTS.ja.md#bli-20260915)
 - **インド**（2）：[ヴァドーダラー](./EVENTS.ja.md#vad-20260905) · [アーメダバード](./EVENTS.ja.md#amd-20260912)
 - **オランダ**（2）：[ユトレヒト](./EVENTS.ja.md#utr-20261029) · [アムステルダム](./EVENTS.ja.md#ams-20260922)
 - **ペルー**（2）：[アレキパ](./EVENTS.ja.md#aqp-20260911) · [リマ](./EVENTS.ja.md#lim-20260911)
 - **フィリピン**（2）：[マニラ](./EVENTS.ja.md#mnl-20260904) · [セブ](./EVENTS.ja.md#ceb-20260919)
 - **アルバニア**（1）：[ティラナ](./EVENTS.ja.md#tia-20260917)
 - **オーストラリア**（1）：[シドニー](./EVENTS.ja.md#syd-20261007)
+- **ベルギー**（1）：[ルーヴェン](./EVENTS.ja.md#leu-20260919)
 - **カメルーン**（1）：[ヤウンデ](./EVENTS.ja.md#yde-20260910)
 - **コロンビア**（1）：[カルタゴ](./EVENTS.ja.md#ctg-20260911)
 - **デンマーク**（1）：[コペンハーゲン](./EVENTS.ja.md#cph-20260909)
@@ -62,6 +63,7 @@
 - **ミャンマー**（1）：[ヤンゴン](./EVENTS.ja.md#ygn-20260926)
 - **マルタ**（1）：[マルタ Ta' Xbiex](./EVENTS.ja.md#mlt-20260917)
 - **マレーシア**（1）：[クアラルンプール](./EVENTS.ja.md#kul-20260919)
+- **ポルトガル**（1）：[ポルト](./EVENTS.ja.md#prt-20260909)
 - **シンガポール**（1）：[シンガポール](./EVENTS.ja.md#sg-20260904)
 - **エルサルバドル**（1）：[サンサルバドル](./EVENTS.ja.md#sal-20260919)
 - **トーゴ**（1）：[ロメ](./EVENTS.ja.md#lfw-20260912)
@@ -122,6 +124,10 @@
 - [Identity and access](https://docs.x.ai/grok-bot/identity-and-access) - 公式の管理者ガイド。Cursor SSO の割り当て（Okta/Entra）を広げてエンジニア以外も Grok Bot を使えるようにし、Linux の Bot パソコンがデバイス信頼付きアプリに入れる IdP 認証ルールを追加する（パスキー／Team Setup 可）。Grok Bot 専用 SSO アプリは作らない。
 - [Private networks](https://docs.x.ai/grok-bot/private-networks) - 公式 Enterprise ガイド。Team Setup で全チーム Bot パソコンに Tailscale／Cloudflare Tunnel など Linux VPN／メッシュを入れ、サービスを公開せずにプライベート API へ届ける。プライベート到達は Grok Bot の宛先許可リストの代替ではない。
 - [@bot: Grok Bot is now available on Android](https://x.com/bot/status/2095168633559462197) - 公式 @bot（2026-09-02）：Grok Bot が Android で利用可能に。デスクトップ／iOS と同じ Bot・スレッドで、ロック後もクラウド PC 上で作業継続。対象の Cursor／SuperGrok プランで Google Play から。
+- [Grok Bot for Enterprise](https://x.ai/news/grok-bot-for-enterprise) - 公式 2026-09-03。Grok Bot がエンタープライズ向けに提供開始（アクセス・ネットワーク・監査コントロール付き）。Grok / Cursor Enterprise 顧客は今後2週間無料で使え、席のない人も含め組織全体を招待できる。
+- [Designing Grok Bot for a world of persistent agents](https://x.ai/news/designing-grok-bot) - 公式 2026-09-03 のデザイン論考。Grok Bot は使い捨てチャットではなく持続する Bot が中心——名簿・プレゼンス・Bot 専用コンピュータ・プロンプト無しでも始まる仕事。原語は Bots / Chats / Prompts・Skills・Routines / Tools / Artifacts。
+- [Grok Bot security](https://docs.x.ai/grok-bot/security) - 公式セキュリティガイド（新規ドキュメント）。Enterprise の Network Controls、Action Recording、監査/OpenTelemetry/SCIM、ユーザー単位の Firecracker microVM 分離、コネクタ方針とネットワーク許可リストの違い。
+- [Grok Bot security FAQ](https://docs.x.ai/grok-bot/security-faq) - 公式セキュリティ FAQ（新規ドキュメント）。ユーザー間分離、Bot が触れる範囲、プラグイン遮断だけではブラウザ経由を止められないこと、Network Controls（宛先許可）は Enterprise 限定。
 
 ## チュートリアルとガイド
 
@@ -197,6 +203,10 @@
 - [Grok Bot fleet public packets](https://github.com/Logos52/grok-bot-packets) - 共有クラウド PC の /workspace に Grok Bot 艦隊が書いた公開素材を平日バックアップし、Mac の /fold スキルが取り込めるようにしたリポジトリです。
 - [Per-bot durable knowledge log](https://github.com/jblack4vols/grok-bot) - 実在 Grok Bot 名簿向けの永続ナレッジログで、Bot ごと・America/New_York 日付のファイルに決定・納品・常設の好みを残します。
 - [UiTM calendar Grok Bot + MCP](https://github.com/bilauitmcuti/bot) - Grok Bot 上の UiTM 学事カレンダー助手で、リモート MCP から授業週・休み・試験・祝日の最新日付を取得します。
+- [Startup services outbound GTM template](https://github.com/danielvegac/grok-bot-startup-services-outbound) - AI サービス企業がスタートアップを見つけ、Founder/CTO/CFO 向け文面を本人の声で下書きし、自律 L1 で送信前に止まる共有用 Grok Bot GTM テンプレ。
+- [Echo chief-of-staff decisions log](https://github.com/WeSs1982/echo-chief-of-staff) - 理由＋結果の意思決定ログ、フィードバックループ、キルスイッチ、無音 Bot 検知、Searchy リサーチャー付きの蘭英 Grok Bot チーフ・オブ・スタッフ・テンプレ。
+- [botify shareable Grok Bot templates](https://github.com/p10ns11y/botify) - p10ns11y のプラグインと高レバレッジスキルを融合した共有可能な Grok Bot テンプレ。生のスキル置き場ではなく完成エージェントパックです。
+- [SuperGrok Heavy policy_denied evidence hub](https://github.com/COOLak/cursor-grok-bot-policy-denied) - 有料機能経路で policy_denied が続く、未解決の SuperGrok Heavy → Cursor Grok Bot 連携障害向けプライバシー除去済み公開エビデンスハブ。
 
 ## スキル、プラグインと MCP
 
@@ -298,6 +308,12 @@
 - [AskGrokWallet](https://github.com/richard7463/askgrokwallet) - Grok Bot 向けの管理型ウォレットプラグインで、平易なポリシーを allow/ask/deny に変換し、「ask」は人の承認ボックスへ、すべての結果に署名済みレシートを残し、オンチェーンエンジンは ERC-8196 を実装して Base メインネットにデプロイされています（MIT）。
 - [xAI Bug Reporter Grok Bot plugin](https://github.com/FineComputer14451/xai-bug-reporter) - Grok Bot/Cursor プラグイン兼 Grok Chat スキルで、トリアージと証拠収集を進め、サポート窓口を捏造せず貼り付け可能な xAI バグ報告を作ります。
 - [MERIT agent skills (Grok Bot target)](https://github.com/AgentDraven/merit-agent-skills) - 無料の MERIT エージェントスキルと merit CLI で、Cursor・Claude Code・Codex・Hermes・OpenClaw に加え Grok Bot 向けインストール先も明示しています。
+- [BlindOracle Grok Bot kit](https://craigmbrown.com/blindoracle/grok-bot-kit/) - 1 行貼るだけで Grok Bot が BlindOracle エージェント市場のメンバーになります：無料の ERC-8004 パスポート、役割ごとに絞った MCP ツール一覧、HMAC 署名付き指示、誰でも検証できる $0.01 ×2 の作業証明。9 つの役割のうち 5 つは報告のみの市場運営役です。
+- [Permission Slip Gmail skill](https://github.com/supersuit-tech/permission-slip-grokbot-skill-gmail) - Permission Slip CLI 経由でのみ Gmail の確認・検索・既読・送信・アーカイブを行う Grok Bot スキル。メール操作はユーザー承認ポリシー内に収まります。
+- [Permission Slip Google Calendar skill](https://github.com/supersuit-tech/permission-slip-grokbot-skill-google-calendar) - Permission Slip CLI で Google Calendar を確認・管理する Grok Bot スキル。予定変更は既存の承認ゲートのままです。
+- [Permission Slip Google Drive skill](https://github.com/supersuit-tech/permission-slip-grokbot-skill-google-drive) - Permission Slip CLI で Google Drive を閲覧・検索・開く・アップロード・整理する Grok Bot スキル。許可スリップを迂回しません。
+- [Permission Slip Proton Mail skill](https://github.com/supersuit-tech/permission-slip-grokbot-skill-protonmail) - Permission Slip CLI 経由で Proton Mail の確認・検索・既読・送信を行う Grok Bot スキル。メール操作はユーザー承認下です。
+- [Data Parrot HubSpot MCP plugin](https://github.com/data-parrot/cursor-grok-bot-mcp) - plugin.json と mcp.json 付きの Cursor / Grok Bot Agent Plugin。Data Parrot ホスト MCP から HubSpot の案件健全性・予測・パイプライン・勝敗分析を引けます。
 
 ## レビューと比較
 
@@ -382,6 +398,8 @@
 - [Arena Grok Bot connector MVP](https://github.com/openlawteam/arena-test) - 短命ペアリングコードでユーザー主催 Grok Bot を繋ぎ、ネイティブ plugin/MCP を入れ、無料の bot 同士ルーム会話を中継する Next.js Arena MVP です。
 - [grokbot-BYOK inference adapter](https://github.com/jroth1111/grokbot-BYOK) - Grok Bot の推論を自分のプロバイダへルーティングする BYOK アダプタで、大規模 TypeScript テストとフェイルオーバーを備えます。
 - [Cursor Account Manager + Grok Bot Sand](https://github.com/kuk-888/cursor-account-manager) - Cursor 多アカウント VSIX でログイン切替、Auto/Other/Bot 枠表示、Cursor 3.18.9 への Grok Bot Sand Stream ルート注入ができます。
+- [grokbot-headless Linux daemon controller](https://github.com/andreanjos/grokbot-headless) - Electron / X11 / Wayland / Xvfb なしで公式 Grok Bot ローカル PC デーモンを認証・監視する非公式ヘッドレスコントローラ。
+- [grok-bot-cli terminal manager](https://github.com/tecxbro/grokbotonimessage) - 公式 Grok Bot エージェントを端末から作成・グループ化・送信・削除する npm CLI（grok-bot-cli）。リポジトリ内に実況スモークデモあり。
 
 ## コミュニティと障害事例
 
@@ -474,6 +492,9 @@
 - [File contents and grokbot — viewer Copy vs Download](https://forum.cursor.com/t/file-contents-and-grokbot/170421) - スタッフ（Colin）：アプリ内ファイルビューアは現状 Download のみ。.md/.txt はドラッグ選択して Cmd/Ctrl+C できるが .docx/.pdf はハイライト不可——Bot に全文をチャットへ貼らせ、メッセージの Copy で回避できる。
 - [Grok Bot Canva connector failing — Invalid redirect URI on iOS](https://forum.cursor.com/t/grok-bot-canva-connector-failing/170431) - スタッフ（deanrie）：Grok Bot iOS 1.4.0 の Canva「Invalid redirect URI」は既知の不具合（モバイルが app link を送り、Canva は web redirect のみ受付）。アカウント設定の問題ではない——同じアカウントでデスクトップ版から接続すれば iPhone に同期される。
 - [Local computer looks connected but CopyFromBox/Shell flaps after large transfer timeout](https://forum.cursor.com/t/grok-bot-local-computer-execution-looks-connected-in-settings-but-is-not-actually-usable-for-file-i-o/169877) - スタッフ（deanrie）：大きな CopyFromBox（やタイムアウトした Shell）で、Settings は connected のまま約 1 分マシンが agent 一覧から消えることがある——大きな転送は分割し、再試行前に約 1 分待つ。固まったら Cmd+Q → Terminal で pkill -f local-exec-daemon → 再起動。
+- [Why does Grok Bot chat use so many sand-* tokens?](https://forum.cursor.com/t/why-does-grok-bot-chat-use-so-many-sand-tokens/169581) - スタッフ（mohitjain）：会話は Grok Bot 週次枠だが、ルーチン/自動化とブラウザ（CUA）は Cursor プランの Other Models を消費し、Grok Bot 枠が残っていても Claude/GPT を止め得る——重い grok-bot-automation / grok-bot-cua を一時停止するか on-demand を有効化。
+- [Grok Bot Windows — Can't reach computer on Free plan / after SuperGrok link](https://forum.cursor.com/t/grok-bot-windows-cant-reach-computer/170462) - スタッフ（deanrie）：「Can't reach computer」は DNS ではなく、サインイン中の Cursor が Free で Grok Bot 権限未リンクのこともある——同じ Cursor アカウントで cursor.com から SuperGrok を紐づけたあと、デスクトップで完全サインアウト/イン（またはトレイから Quit）して権限を再取得する。
+- [Grokbot failing to connect to cloud agent — Privacy Mode (Legacy) false positive](https://forum.cursor.com/t/grokbot-failing-to-connect-to-cloud-agent/170486) - スタッフ（deanrie）：最近のリリース後、Grok Bot から Cloud Agent を起動すると現行 Privacy Mode でも「Privacy Mode (Legacy)」誤判定が出ることがある——Cursor デスクトップからの起動は成功。サインアウトやリセットでは直らず、サーバー側の修正を追跡中。
 
 ## 関連リスト
 
@@ -513,10 +534,12 @@
 - [Awesome Grok Bot Templates](https://github.com/divo12/awesome-grok-bot-templates) - 公開 Grok Bot テンプレのキュレーション。すべて Add to Grok Bot できる x.ai/bot 共有ページで、data/ とテスト付き（プロンプトの投げ込みではない）。
 - [Bot Jobs](https://github.com/lureilly1/botjobs) - 独立 Astro ディレクトリ。やりたい仕事（インテント）から Grok Bot を探し、未作成の仕事は open job として残します。
 - [Omabot Omarchy bar for Grok Bot](https://github.com/njpatel/omabot) - 各 Grok Bot を状態表情付きアバターで並べ、一キーでアプリを開く Omarchy バーウィジェット。
+- [Grok Bot Community site](https://github.com/sntslol/grokbot-community) - オンラインおよびアリゾナの Grok Bot ミートアップ・ニュースレター・Discord 向け Next.js コミュニティサイト。有料入口は bots.how。
+- [UNC Grok Bot Student Build Night deck](https://github.com/fantomsuj/grokbot) - UNC Chapel Hill の Grok Bot Student Build Night 向け Reveal.js デッキ。公式クリーム／blob テーマをキャンパス用に再調色。
 
 ## 貢献
 
-8 セクションに 412 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 433 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

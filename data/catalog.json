@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -433,6 +433,46 @@
             "en": "Official @bot (2026-09-02): Grok Bot is now available on Android — same Bots and threads as desktop/iOS, work continues on the cloud computer after you lock the phone; download from Google Play with an eligible Cursor/SuperGrok plan.",
             "zh": "官方 @bot（2026-09-02）：Grok Bot 现已上架 Android——与桌面/iOS 共用同一批 Bot 与对话，锁屏后云电脑上仍继续干活；用符合条件的 Cursor/SuperGrok 计划从 Google Play 安装。",
             "ja": "公式 @bot（2026-09-02）：Grok Bot が Android で利用可能に。デスクトップ／iOS と同じ Bot・スレッドで、ロック後もクラウド PC 上で作業継続。対象の Cursor／SuperGrok プランで Google Play から。"
+          }
+        },
+        {
+          "title": "Grok Bot for Enterprise",
+          "url": "https://x.ai/news/grok-bot-for-enterprise",
+          "source": "day-20260904-0804",
+          "blurb": {
+            "en": "Official 2026-09-03: Grok Bot is available for enterprises with access, network, and audit controls; Grok and Cursor Enterprise customers get free usage for the next two weeks and can invite the whole org, including people without an existing seat.",
+            "zh": "官方 2026-09-03：Grok Bot 对企业开放，新增访问、网络与审计管控；Grok 与 Cursor Enterprise 客户可获两周免费用量，并可邀请整个组织（含尚无席位的成员）。",
+            "ja": "公式 2026-09-03。Grok Bot がエンタープライズ向けに提供開始（アクセス・ネットワーク・監査コントロール付き）。Grok / Cursor Enterprise 顧客は今後2週間無料で使え、席のない人も含め組織全体を招待できる。"
+          }
+        },
+        {
+          "title": "Designing Grok Bot for a world of persistent agents",
+          "url": "https://x.ai/news/designing-grok-bot",
+          "source": "day-20260904-0804",
+          "blurb": {
+            "en": "Official 2026-09-03 design essay: Grok Bot is built around persistent Bots (not disposable chat sessions)—roster, presence, each Bot’s own computer, and work that can start without a prompt—organized by Bots, Chats, Prompts/Skills/Routines, Tools, and Artifacts.",
+            "zh": "官方 2026-09-03 设计长文：Grok Bot 以持久 Bot 而非一次性会话为中心——侧栏名单、在线状态、各自的云电脑，以及可无提示自动开工；产品原语收敛为 Bots、Chats、Prompts/Skills/Routines、Tools、Artifacts。",
+            "ja": "公式 2026-09-03 のデザイン論考。Grok Bot は使い捨てチャットではなく持続する Bot が中心——名簿・プレゼンス・Bot 専用コンピュータ・プロンプト無しでも始まる仕事。原語は Bots / Chats / Prompts・Skills・Routines / Tools / Artifacts。"
+          }
+        },
+        {
+          "title": "Grok Bot security",
+          "url": "https://docs.x.ai/grok-bot/security",
+          "source": "day-20260904-0804",
+          "blurb": {
+            "en": "Official security guide (new docs page): Enterprise Network Controls, Action Recording, audit/OpenTelemetry/SCIM, isolation on a per-user Firecracker microVM, and how connector policy differs from network allowlists.",
+            "zh": "官方安全指南（新文档页）：Enterprise 网络策略、Action Recording、审计/OpenTelemetry/SCIM、每用户 Firecracker 微虚拟机隔离，以及连接器策略与网络放行名单的分工。",
+            "ja": "公式セキュリティガイド（新規ドキュメント）。Enterprise の Network Controls、Action Recording、監査/OpenTelemetry/SCIM、ユーザー単位の Firecracker microVM 分離、コネクタ方針とネットワーク許可リストの違い。"
+          }
+        },
+        {
+          "title": "Grok Bot security FAQ",
+          "url": "https://docs.x.ai/grok-bot/security-faq",
+          "source": "day-20260904-0804",
+          "blurb": {
+            "en": "Official security FAQ (new docs page): per-user isolation, what a Bot can access, why blocking a plugin does not block that site in the browser, and that Network Controls (destination allowlists) are Enterprise-only.",
+            "zh": "官方安全 FAQ（新文档页）：用户间隔离、Bot 能访问什么、仅禁用插件挡不住浏览器访问该站，以及 Network Controls（目的地放行）仅 Enterprise 可用。",
+            "ja": "公式セキュリティ FAQ（新規ドキュメント）。ユーザー間分離、Bot が触れる範囲、プラグイン遮断だけではブラウザ経由を止められないこと、Network Controls（宛先許可）は Enterprise 限定。"
           }
         }
       ]
@@ -1143,6 +1183,46 @@
             "en": "UiTM academic calendar assistant running on Grok Bot with a remote MCP server for live lecture, cuti, exam, and holiday dates.",
             "zh": "跑在 Grok Bot 上的 UiTM 校历助手，经远程 MCP 拉取查询上课周、假期、考试与公共假日。",
             "ja": "Grok Bot 上の UiTM 学事カレンダー助手で、リモート MCP から授業週・休み・試験・祝日の最新日付を取得します。"
+          }
+        },
+        {
+          "title": "Startup services outbound GTM template",
+          "url": "https://github.com/danielvegac/grok-bot-startup-services-outbound",
+          "source": "GB-468",
+          "blurb": {
+            "en": "Shareable Grok Bot GTM template for AI services firms: finds startups, drafts Founder/CTO/CFO outreach in-owner voice, and stops before send at autonomy L1.",
+            "zh": "可分享的 Grok Bot GTM 模板：面向 AI 服务公司找初创、以负责人口吻起草 Founder/CTO/CFO 外联，并在自主级别 L1 发送前停下。",
+            "ja": "AI サービス企業がスタートアップを見つけ、Founder/CTO/CFO 向け文面を本人の声で下書きし、自律 L1 で送信前に止まる共有用 Grok Bot GTM テンプレ。"
+          }
+        },
+        {
+          "title": "Echo chief-of-staff decisions log",
+          "url": "https://github.com/WeSs1982/echo-chief-of-staff",
+          "source": "GB-469",
+          "blurb": {
+            "en": "Dutch/English Grok Bot chief-of-staff template with decisions log (reason+outcome), feedback loop, kill switch, silent-bot detection, and bundled Searchy researcher.",
+            "zh": "荷/英双语 Grok Bot 幕僚长模板：决策日志（理由+结果）、反馈环、急停、静默 Bot 检测，并附带 Searchy 研究助手。",
+            "ja": "理由＋結果の意思決定ログ、フィードバックループ、キルスイッチ、無音 Bot 検知、Searchy リサーチャー付きの蘭英 Grok Bot チーフ・オブ・スタッフ・テンプレ。"
+          }
+        },
+        {
+          "title": "botify shareable Grok Bot templates",
+          "url": "https://github.com/p10ns11y/botify",
+          "source": "GB-470",
+          "blurb": {
+            "en": "Shareable Grok Bot templates that fuse p10ns11y plugins with high-leverage skills into ready agent packs rather than a raw skills dump.",
+            "zh": "可分享的 Grok Bot 模板：把 p10ns11y 插件与高杠杆技能融成现成代理包，而非堆技能清单。",
+            "ja": "p10ns11y のプラグインと高レバレッジスキルを融合した共有可能な Grok Bot テンプレ。生のスキル置き場ではなく完成エージェントパックです。"
+          }
+        },
+        {
+          "title": "SuperGrok Heavy policy_denied evidence hub",
+          "url": "https://github.com/COOLak/cursor-grok-bot-policy-denied",
+          "source": "GB-471",
+          "blurb": {
+            "en": "Privacy-sanitized public evidence hub for an unresolved SuperGrok Heavy to Cursor Grok Bot linking failure that returns policy_denied on a paid feature path.",
+            "zh": "隐私脱敏的公开证据库：记录 SuperGrok Heavy 关联 Cursor Grok Bot 时在付费功能路径上反复 policy_denied 的未决故障。",
+            "ja": "有料機能経路で policy_denied が続く、未解決の SuperGrok Heavy → Cursor Grok Bot 連携障害向けプライバシー除去済み公開エビデンスハブ。"
           }
         }
       ]
@@ -2134,6 +2214,66 @@
             "zh": "免费 MERIT 智能体技能与 merit CLI，安装目标明确包含 Grok Bot，并覆盖 Cursor、Claude Code、Codex、Hermes、OpenClaw。",
             "ja": "無料の MERIT エージェントスキルと merit CLI で、Cursor・Claude Code・Codex・Hermes・OpenClaw に加え Grok Bot 向けインストール先も明示しています。"
           }
+        },
+        {
+          "title": "BlindOracle Grok Bot kit",
+          "url": "https://craigmbrown.com/blindoracle/grok-bot-kit/",
+          "source": "GB-460",
+          "blurb": {
+            "en": "One pasted line makes a Grok Bot a member of the BlindOracle agent marketplace: free ERC-8004 passport, role-scoped MCP tool list, HMAC-signed instructions, two $0.01 proof calls anyone can verify; nine roles, five of them report-only marketplace management.",
+            "zh": "粘贴一行即可让 Grok Bot 加入 BlindOracle 智能体市场：免费 ERC-8004 护照、按角色限定的 MCP 工具列表、HMAC 签名指令、两次 $0.01 的可公开验证工作证明；共九个角色，其中五个为只汇报的市场管理角色。",
+            "ja": "1 行貼るだけで Grok Bot が BlindOracle エージェント市場のメンバーになります：無料の ERC-8004 パスポート、役割ごとに絞った MCP ツール一覧、HMAC 署名付き指示、誰でも検証できる $0.01 ×2 の作業証明。9 つの役割のうち 5 つは報告のみの市場運営役です。"
+          }
+        },
+        {
+          "title": "Permission Slip Gmail skill",
+          "url": "https://github.com/supersuit-tech/permission-slip-grokbot-skill-gmail",
+          "source": "GB-461",
+          "blurb": {
+            "en": "Grok Bot agent skill that checks, searches, reads, sends, and archives Gmail only through the Permission Slip CLI so every mailbox action stays inside the user's approval policy.",
+            "zh": "Grok Bot 技能：经 Permission Slip CLI 检查、搜索、阅读、发送与归档 Gmail，邮箱操作都落在用户审批策略内。",
+            "ja": "Permission Slip CLI 経由でのみ Gmail の確認・検索・既読・送信・アーカイブを行う Grok Bot スキル。メール操作はユーザー承認ポリシー内に収まります。"
+          }
+        },
+        {
+          "title": "Permission Slip Google Calendar skill",
+          "url": "https://github.com/supersuit-tech/permission-slip-grokbot-skill-google-calendar",
+          "source": "GB-462",
+          "blurb": {
+            "en": "Grok Bot agent skill for checking and managing Google Calendar through Permission Slip CLI, keeping calendar mutations behind the user's existing approval gates.",
+            "zh": "Grok Bot 技能：经 Permission Slip CLI 查看与管理 Google Calendar，日程变更仍走用户既有审批门禁。",
+            "ja": "Permission Slip CLI で Google Calendar を確認・管理する Grok Bot スキル。予定変更は既存の承認ゲートのままです。"
+          }
+        },
+        {
+          "title": "Permission Slip Google Drive skill",
+          "url": "https://github.com/supersuit-tech/permission-slip-grokbot-skill-google-drive",
+          "source": "GB-463",
+          "blurb": {
+            "en": "Grok Bot agent skill that browses, searches, opens, uploads, and organizes Google Drive via Permission Slip CLI without bypassing the user's permission slips.",
+            "zh": "Grok Bot 技能：经 Permission Slip CLI 浏览、搜索、打开、上传与整理 Google Drive，不绕过用户授权条。",
+            "ja": "Permission Slip CLI で Google Drive を閲覧・検索・開く・アップロード・整理する Grok Bot スキル。許可スリップを迂回しません。"
+          }
+        },
+        {
+          "title": "Permission Slip Proton Mail skill",
+          "url": "https://github.com/supersuit-tech/permission-slip-grokbot-skill-protonmail",
+          "source": "GB-464",
+          "blurb": {
+            "en": "Grok Bot agent skill for checking, searching, reading, and sending Proton Mail through Permission Slip CLI so mail actions stay user-approved.",
+            "zh": "Grok Bot 技能：经 Permission Slip CLI 检查、搜索、阅读与发送 Proton Mail，邮件动作需用户批准。",
+            "ja": "Permission Slip CLI 経由で Proton Mail の確認・検索・既読・送信を行う Grok Bot スキル。メール操作はユーザー承認下です。"
+          }
+        },
+        {
+          "title": "Data Parrot HubSpot MCP plugin",
+          "url": "https://github.com/data-parrot/cursor-grok-bot-mcp",
+          "source": "GB-465",
+          "blurb": {
+            "en": "Cursor/Grok Bot Agent Plugin with plugin.json plus mcp.json that pulls HubSpot deal health, forecast, pipeline, and win/loss analysis from Data Parrot's hosted MCP.",
+            "zh": "Cursor/Grok Bot Agent 插件：含 plugin.json 与 mcp.json，经 Data Parrot 托管 MCP 查询 HubSpot 成交健康度、预测、管道与赢单/丢单分析。",
+            "ja": "plugin.json と mcp.json 付きの Cursor / Grok Bot Agent Plugin。Data Parrot ホスト MCP から HubSpot の案件健全性・予測・パイプライン・勝敗分析を引けます。"
+          }
         }
       ]
     },
@@ -2933,6 +3073,26 @@
             "en": "Cursor multi-account VSIX that switches logins, shows Auto/Other/Bot quotas, and can inject Grok Bot Sand Stream routing on Cursor 3.18.9.",
             "zh": "Cursor 多账号 VSIX：切换登录、查看 Auto/Other/Bot 额度，并可为 Cursor 3.18.9 注入 Grok Bot Sand Stream 路由。",
             "ja": "Cursor 多アカウント VSIX でログイン切替、Auto/Other/Bot 枠表示、Cursor 3.18.9 への Grok Bot Sand Stream ルート注入ができます。"
+          }
+        },
+        {
+          "title": "grokbot-headless Linux daemon controller",
+          "url": "https://github.com/andreanjos/grokbot-headless",
+          "source": "GB-466",
+          "blurb": {
+            "en": "Unofficial headless controller that authenticates and supervises the official Grok Bot local-computer daemon on Linux without Electron, X11, Wayland, or Xvfb.",
+            "zh": "非官方无头控制器：在 Linux 上认证并托管官方 Grok Bot 本地电脑守护进程，无需 Electron、X11、Wayland 或 Xvfb。",
+            "ja": "Electron / X11 / Wayland / Xvfb なしで公式 Grok Bot ローカル PC デーモンを認証・監視する非公式ヘッドレスコントローラ。"
+          }
+        },
+        {
+          "title": "grok-bot-cli terminal manager",
+          "url": "https://github.com/tecxbro/grokbotonimessage",
+          "source": "GB-467",
+          "blurb": {
+            "en": "npm CLI (grok-bot-cli) to create, group, message, and delete official Grok Bot agents from the terminal, with live smoke-test demos in-repo.",
+            "zh": "npm CLI（grok-bot-cli）：在终端创建、编组、发消息与删除官方 Grok Bot 代理，仓库内含实况冒烟演示。",
+            "ja": "公式 Grok Bot エージェントを端末から作成・グループ化・送信・削除する npm CLI（grok-bot-cli）。リポジトリ内に実況スモークデモあり。"
           }
         }
       ]
@@ -3834,6 +3994,36 @@
             "zh": "官方（deanrie）：大体积 CopyFromBox（或超时的 Shell）可能让本机从 agent 机器列表消失约 1 分钟，Settings 仍显示已连接——拆分大文件、等约 1 分钟再试；若仍卡住则 Cmd+Q，终端执行 pkill -f local-exec-daemon 后重开。",
             "ja": "スタッフ（deanrie）：大きな CopyFromBox（やタイムアウトした Shell）で、Settings は connected のまま約 1 分マシンが agent 一覧から消えることがある——大きな転送は分割し、再試行前に約 1 分待つ。固まったら Cmd+Q → Terminal で pkill -f local-exec-daemon → 再起動。"
           }
+        },
+        {
+          "title": "Why does Grok Bot chat use so many sand-* tokens?",
+          "url": "https://forum.cursor.com/t/why-does-grok-bot-chat-use-so-many-sand-tokens/169581",
+          "source": "day-20260904-0804",
+          "blurb": {
+            "en": "Staff (mohitjain): Conversations use the Grok Bot weekly pool, but routines/automations and browser/CUA actions run as cloud agents on your Cursor plan and can drain Other Models (blocking Claude/GPT) even when the Grok Bot bar still has room—pause heavy grok-bot-automation / grok-bot-cua routines or enable on-demand.",
+            "zh": "官方（mohitjain）：普通对话走 Grok Bot 周额度；但例程/自动化与浏览器（CUA）动作会按云 agent 计入 Cursor 的 Other Models，即使 Grok Bot 周额度还有剩余也可能占满并挡住 Claude/GPT——请暂停耗额度的 grok-bot-automation / grok-bot-cua，或开启 on-demand。",
+            "ja": "スタッフ（mohitjain）：会話は Grok Bot 週次枠だが、ルーチン/自動化とブラウザ（CUA）は Cursor プランの Other Models を消費し、Grok Bot 枠が残っていても Claude/GPT を止め得る——重い grok-bot-automation / grok-bot-cua を一時停止するか on-demand を有効化。"
+          }
+        },
+        {
+          "title": "Grok Bot Windows — Can't reach computer on Free plan / after SuperGrok link",
+          "url": "https://forum.cursor.com/t/grok-bot-windows-cant-reach-computer/170462",
+          "source": "day-20260904-0804",
+          "blurb": {
+            "en": "Staff (deanrie): “Can't reach computer” can mean the signed-in Cursor account is Free with no Grok Bot entitlement (not DNS)—link SuperGrok on the same Cursor account via cursor.com, then fully sign out/in (or Quit from the Windows tray) so the desktop app refreshes access.",
+            "zh": "官方（deanrie）：“Can't reach computer” 也可能是当前登录的 Cursor 账号仍是 Free、尚未绑定 Grok Bot 权益（不是 DNS）——在同一 Cursor 账号于 cursor.com 完成 SuperGrok 关联后，在桌面端完全退出再登录（或从托盘 Quit）以刷新权益。",
+            "ja": "スタッフ（deanrie）：「Can't reach computer」は DNS ではなく、サインイン中の Cursor が Free で Grok Bot 権限未リンクのこともある——同じ Cursor アカウントで cursor.com から SuperGrok を紐づけたあと、デスクトップで完全サインアウト/イン（またはトレイから Quit）して権限を再取得する。"
+          }
+        },
+        {
+          "title": "Grokbot failing to connect to cloud agent — Privacy Mode (Legacy) false positive",
+          "url": "https://forum.cursor.com/t/grokbot-failing-to-connect-to-cloud-agent/170486",
+          "source": "day-20260904-0804",
+          "blurb": {
+            "en": "Staff (deanrie): Launching a Cloud Agent from Grok Bot can falsely hit the “Privacy Mode (Legacy)” check after a recent release even when your account uses current Privacy Mode—Cursor Desktop launch still works; sign-out/reset won’t help; staff are tracking a server-side fix.",
+            "zh": "官方（deanrie）：近期版本里从 Grok Bot 拉起 Cloud Agent 可能误触 “Privacy Mode (Legacy)” 检查（账号已是现行 Privacy Mode 也会中招）——从 Cursor 桌面端启动仍正常；退出/重置无效，属服务端问题正在修。",
+            "ja": "スタッフ（deanrie）：最近のリリース後、Grok Bot から Cloud Agent を起動すると現行 Privacy Mode でも「Privacy Mode (Legacy)」誤判定が出ることがある——Cursor デスクトップからの起動は成功。サインアウトやリセットでは直らず、サーバー側の修正を追跡中。"
+          }
         }
       ]
     },
@@ -4203,6 +4393,26 @@
             "en": "Omarchy bar widget that draws every Grok Bot as its own avatar with state expressions and one keypress to open the app.",
             "zh": "Omarchy 栏小部件：把每个 Grok Bot 画成独立头像并显示状态表情，一键打开应用。",
             "ja": "各 Grok Bot を状態表情付きアバターで並べ、一キーでアプリを開く Omarchy バーウィジェット。"
+          }
+        },
+        {
+          "title": "Grok Bot Community site",
+          "url": "https://github.com/sntslol/grokbot-community",
+          "source": "GB-472",
+          "blurb": {
+            "en": "Next.js community site for online and Arizona Grok Bot meetups, newsletter, and Discord, with a paid door at bots.how.",
+            "zh": "Next.js 社区站：覆盖线上与亚利桑那 Grok Bot 聚会、通讯与 Discord，付费入口在 bots.how。",
+            "ja": "オンラインおよびアリゾナの Grok Bot ミートアップ・ニュースレター・Discord 向け Next.js コミュニティサイト。有料入口は bots.how。"
+          }
+        },
+        {
+          "title": "UNC Grok Bot Student Build Night deck",
+          "url": "https://github.com/fantomsuj/grokbot",
+          "source": "GB-473",
+          "blurb": {
+            "en": "Reveal.js slide deck for a UNC Chapel Hill Grok Bot Student Build Night using the official cream/blob theme retuned for campus.",
+            "zh": "UNC Chapel Hill Grok Bot 学生构建夜的 Reveal.js 幻灯片，基于官方奶油/blob 主题并按校园重调。",
+            "ja": "UNC Chapel Hill の Grok Bot Student Build Night 向け Reveal.js デッキ。公式クリーム／blob テーマをキャンパス用に再調色。"
           }
         }
       ]
@@ -6939,7 +7149,7 @@
     },
     {
       "id": "mlt-20260917",
-      "url": "https://luma.com/grok-malta",
+      "url": "https://luma.com/grok-bot-malta",
       "image": "./assets/events/mlt-20260917-cover.png",
       "expires": "2026-09-17T21:00:00+02:00",
       "title": {
@@ -7457,6 +7667,192 @@
         "en": "UTEP student build night for Grok Bots — internship automation, club ops, and more. Live demo then hands-on build/network/snack. Free offline session (host Nan Jiang).",
         "zh": "UTEP 学生 Grok Bot 动手夜：实习自动投递、社团运营等。先演示再动手与交流。免费线下（主持 Nan Jiang）。",
         "ja": "UTEP 学生向け Grok Bot ビルドナイト。インターン応募自動化やクラブ運営など。デモ後に制作・交流。無料オフライン（Nan Jiang）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "etamu-20260903",
+      "url": "https://luma.com/dmou48hf",
+      "image": "./assets/events/etamu-20260903-cover.png",
+      "expires": "2026-09-03T23:30:00-05:00",
+      "title": {
+        "en": "Grok Bot Student Build Night (East Texas A&M / Commerce)",
+        "zh": "Grok Bot 学生 Build Night（东德州农工 / Commerce）",
+        "ja": "Grok Bot Student Build Night（East Texas A&M / Commerce）"
+      },
+      "when": {
+        "en": "Wed 3 Sep 2026, 20:00–23:30 (CDT)",
+        "zh": "2026-09-03 周三 20:00–23:30（美国中部）",
+        "ja": "2026-09-03（水）20:00–23:30（CDT）"
+      },
+      "where": {
+        "en": "Commerce, TX · 2104 University Dr (East Texas A&M)",
+        "zh": "得州 Commerce · 2104 University Dr（东德州农工）",
+        "ja": "Commerce, TX · 2104 University Dr（East Texas A&M）"
+      },
+      "body": {
+        "en": "Student Grok Bot Build Night at East Texas A&M University (Commerce). Offline; public Luma listing.",
+        "zh": "东德州农工（Commerce）学生场 Grok Bot Build Night。线下，Luma 公开报名。",
+        "ja": "East Texas A&M（Commerce）の学生向け Grok Bot Build Night。対面。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "prt-20260909",
+      "url": "https://luma.com/wpvpza3f",
+      "image": "./assets/events/prt-20260909-cover.png",
+      "expires": "2026-09-09T20:00:00+01:00",
+      "title": {
+        "en": "Grok Bot Porto Meetup",
+        "zh": "Grok Bot 波尔图线下交流",
+        "ja": "Grok Bot Meetup Porto"
+      },
+      "when": {
+        "en": "Wed 9 Sep 2026, 17:30–20:00 (WEST)",
+        "zh": "2026-09-09 周三 17:30–20:00（波尔图）",
+        "ja": "2026-09-09（水）17:30–20:00（WEST）"
+      },
+      "where": {
+        "en": "Porto, Portugal · The Social Hub Porto, Praça de Dom João I 80",
+        "zh": "葡萄牙波尔图 · The Social Hub Porto, Praça de Dom João I 80",
+        "ja": "ポルト · The Social Hub Porto, Praça de Dom João I 80"
+      },
+      "body": {
+        "en": "Official in-person Grok Bot Meetup in Porto for builders and AI enthusiasts. Waitlist/approval on Luma (~19 interested).",
+        "zh": "波尔图官方 Grok Bot 线下：开发者与 AI 爱好者交流。Luma 候补/审核（约 19 人意向）。",
+        "ja": "ポルト公式 Grok Bot Meetup。ビルダー向け対面。Luma 承認制（関心約 19）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "leu-20260919",
+      "url": "https://luma.com/spacexai-leuven-meetup",
+      "image": "./assets/events/leu-20260919-cover.png",
+      "expires": "2026-09-19T17:30:00+02:00",
+      "title": {
+        "en": "Grok Bot Leuven Meetup",
+        "zh": "Grok Bot 鲁汶线下交流",
+        "ja": "Grok Bot Meetup Leuven"
+      },
+      "when": {
+        "en": "Sat 19 Sep 2026, 14:00–17:30 (CEST)",
+        "zh": "2026-09-19 周六 14:00–17:30（比利时）",
+        "ja": "2026-09-19（土）14:00–17:30（CEST）"
+      },
+      "where": {
+        "en": "Leuven, Belgium · Blijde Inkomststraat 22",
+        "zh": "比利时鲁汶 · Blijde Inkomststraat 22",
+        "ja": "ルーヴェン · Blijde Inkomststraat 22"
+      },
+      "body": {
+        "en": "Belgium’s first Grok Bot meetup — AI teammate demos and hang. Forum 170453; SpaceXAI for Belgium; waitlist/approval.",
+        "zh": "比利时首场 Grok Bot 线下：AI 队友演示与交流。论坛 170453；需候补/审核。",
+        "ja": "ベルギー初の Grok Bot Meetup。デモと交流。forum 170453・承認制。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "fln-20260926",
+      "url": "https://luma.com/c293hlgc",
+      "image": "./assets/events/fln-20260926-cover.png",
+      "expires": "2026-09-26T20:00:00-03:00",
+      "title": {
+        "en": "Grok Bot Meetup Florianópolis",
+        "zh": "Grok Bot 弗洛里亚诺波利斯线下交流",
+        "ja": "Grok Bot Meetup Florianópolis"
+      },
+      "when": {
+        "en": "Sat 26 Sep 2026, 18:00–20:00 (BRT)",
+        "zh": "2026-09-26 周六 18:00–20:00（巴西）",
+        "ja": "2026-09-26（土）18:00–20:00（BRT）"
+      },
+      "where": {
+        "en": "Florianópolis, Brazil · Founder Haus - Jurerê In, Av. dos Merlins 156, Jurerê Internacional",
+        "zh": "巴西弗洛里亚诺波利斯 · Founder Haus（Jurerê Internacional）",
+        "ja": "フロリアノポリス · Founder Haus - Jurerê In, Av. dos Merlins 156"
+      },
+      "body": {
+        "en": "First Grok Bot meetup in Florianópolis — demos of what locals are building. Forum 170449; ~25 interested; waitlist/approval.",
+        "zh": "弗洛里亚诺波利斯首场 Grok Bot：本地作品演示与交流。论坛 170449；约 25 人意向，需审核。",
+        "ja": "フロリアノポリス初の Grok Bot Meetup。デモと交流。forum 170449・関心約 25・承認制。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "bliw-20261004",
+      "url": "https://luma.com/lkmh86ad",
+      "image": "./assets/events/bliw-20261004-cover.png",
+      "expires": "2026-10-04T14:00:00+08:00",
+      "title": {
+        "en": "Grokbot Workshop Bali (Udayana)",
+        "zh": "Grok Bot 巴厘岛工作坊（乌达亚纳大学）",
+        "ja": "Grokbot Workshop Bali（Udayana）"
+      },
+      "when": {
+        "en": "Sun 4 Oct 2026, 11:00–14:00 (WITA)",
+        "zh": "2026-10-04 周日 11:00–14:00（巴厘岛）",
+        "ja": "2026-10-04（日）11:00–14:00（WITA）"
+      },
+      "where": {
+        "en": "Jimbaran / Badung, Bali · Udayana University, Jl. Raya Kampus Unud",
+        "zh": "巴厘岛金巴兰 · 乌达亚纳大学（Jl. Raya Kampus Unud）",
+        "ja": "バリ Jimbaran · Udayana University, Jl. Raya Kampus Unud"
+      },
+      "body": {
+        "en": "Campus Grok Bot workshop for students/devs/founders in Indonesia. Distinct from Sep 15 BukitHub meetup (bli-20260915). Forum 170448; waitlist/approval.",
+        "zh": "印尼学生/开发者/创始人校园 Grok Bot 工作坊。与 9/15 BukitHub 场（bli-20260915）不同。论坛 170448；需审核。",
+        "ja": "インドネシア向けキャンパス Workshop。9/15 BukitHub（bli-20260915）とは別。forum 170448・承認制。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "sha-20261017",
+      "url": "https://luma.com/spacexai-kh2x",
+      "image": "./assets/events/sha-20261017-cover.png",
+      "expires": "2026-10-17T17:00:00+08:00",
+      "title": {
+        "en": "Grok Bot Meetup Shanghai",
+        "zh": "Grok Bot 上海线下交流",
+        "ja": "Grok Bot Meetup Shanghai"
+      },
+      "when": {
+        "en": "Sun 17 Oct 2026, 14:00–17:00 (GMT+8)",
+        "zh": "2026-10-17 周日 14:00–17:00",
+        "ja": "2026-10-17（日）14:00–17:00（GMT+8）"
+      },
+      "where": {
+        "en": "Shanghai · exact address after you register",
+        "zh": "上海 · 报名通过后可见地址",
+        "ja": "上海 · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "Shanghai in-person Grok Bot meetup: icebreaker + talks/workshop. Pre-register, host approval. Forum 170454. Note: Luma API clock currently 09:00–10:00 HKT (1h) — use poster/forum 14:00–17:00 +08.",
+        "zh": "上海 Grok Bot 线下：破冰 + 分享/Workshop。预报名需审核。论坛 170454。注意：Luma API 时间目前错成 HKT 09–10（1 小时），以文案 14:00–17:00 为准。",
+        "ja": "上海の対面 Grok Bot。アイスブレイクと Workshop。承認制。forum 170454。Luma API 時刻は誤り気味 → 14:00–17:00 +08 を採用。"
       },
       "cta": {
         "en": "Register on Luma →",

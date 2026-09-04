@@ -203,6 +203,8 @@ COUNTRY_LABEL = {
     "gb": {"en": "United Kingdom", "zh": "英国", "ja": "イギリス"},
     "au": {"en": "Australia", "zh": "澳大利亚", "ja": "オーストラリア"},
     "mt": {"en": "Malta", "zh": "马耳他", "ja": "マルタ"},
+    "pt": {"en": "Portugal", "zh": "葡萄牙", "ja": "ポルトガル"},
+    "be": {"en": "Belgium", "zh": "比利时", "ja": "ベルギー"},
     "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
     "other": {"en": "Other", "zh": "其他", "ja": "その他"},
 }
@@ -315,6 +317,12 @@ EVENT_GEO = {
     "sfmo-20260917": ("us", "San Francisco", "旧金山", "サンフランシスコ"),
     "sfps-20260917": ("us", "San Francisco", "旧金山", "サンフランシスコ"),
     "sfm-20260917": ("us", "San Francisco", "旧金山", "サンフランシスコ"),
+    "etamu-20260903": ("us", "East Texas A&M / Commerce", "东德州农工 Commerce", "East Texas A&M / Commerce"),
+    "prt-20260909": ("pt", "Porto", "波尔图", "ポルト"),
+    "leu-20260919": ("be", "Leuven", "鲁汶", "ルーヴェン"),
+    "fln-20260926": ("br", "Florianópolis", "弗洛里亚诺波利斯", "フロリアノポリス"),
+    "bliw-20261004": ("id", "Jimbaran / Bali (Udayana)", "巴厘岛金巴兰（乌达亚纳）", "ジンバラン / バリ（Udayana）"),
+    "sha-20261017": ("cn", "Shanghai", "上海", "上海"),
 }
 
 
