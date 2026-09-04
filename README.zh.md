@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-453-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-460-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,17 +37,17 @@
 
 [全部活动介绍](./EVENTS.zh.md)
 
-- **中国**（5）：[澳门](./EVENTS.zh.md#mo-20260905) · [成都](./EVENTS.zh.md#cd-20260905) · [上海](./EVENTS.zh.md#sha-20261017) · [杭州](./EVENTS.zh.md#hzo-20260905) · [杭州](./EVENTS.zh.md#hzo-20260919)
-- **美国**（13）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [5Cs 克莱蒙特](./EVENTS.zh.md#cla-20260903) · [旧金山](./EVENTS.zh.md#sfi-20260904) · [檀香山](./EVENTS.zh.md#hnl-20260905) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [旧金山（产品经理）](./EVENTS.zh.md#sfpm-20260915) · [旧金山（创始人）](./EVENTS.zh.md#sffo-20260915)
+- **中国**（6）：[澳门](./EVENTS.zh.md#mo-20260905) · [成都](./EVENTS.zh.md#cd-20260905) · [上海](./EVENTS.zh.md#sha-20261017) · [杭州](./EVENTS.zh.md#hzo-20260905) · [杭州](./EVENTS.zh.md#hzo-20260919) · [北京](./EVENTS.zh.md#bj-20260919)
+- **美国**（13）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山](./EVENTS.zh.md#sfi-20260904) · [檀香山](./EVENTS.zh.md#hnl-20260905) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [旧金山（产品经理）](./EVENTS.zh.md#sfpm-20260915) · [旧金山（创始人）](./EVENTS.zh.md#sffo-20260915) · [旧金山（销售）](./EVENTS.zh.md#sfsales-20260916)
 - **阿根廷**（4）：[巴里洛切](./EVENTS.zh.md#brc-20260910) · [布宜诺斯艾利斯](./EVENTS.zh.md#bue-20260916) · [门多萨](./EVENTS.zh.md#mdz-20261003) · [萨尔塔](./EVENTS.zh.md#sla-20260916)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [萨德伯里](./EVENTS.zh.md#sud-20260917) · [多伦多](./EVENTS.zh.md#yyz-20260917)
+- **印度尼西亚**（4）：[坦格朗](./EVENTS.zh.md#tgr-20260911) · [巴厘岛乌鲁瓦图](./EVENTS.zh.md#bli-20260915) · [巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [万隆](./EVENTS.zh.md#bdg-20260919)
+- **墨西哥**（4）：[蒙特雷](./EVENTS.zh.md#mty-20260910) · [普埃布拉](./EVENTS.zh.md#pue-20260924) · [奇瓦瓦](./EVENTS.zh.md#cuu-20260924) · [墨西哥城](./EVENTS.zh.md#cdmx-20260926)
 - **巴西**（3）：[累西腓](./EVENTS.zh.md#rec-20260923) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20260926)
 - **厄瓜多尔**（3）：[曼塔](./EVENTS.zh.md#mec-20260912) · [基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
-- **印度尼西亚**（3）：[坦格朗](./EVENTS.zh.md#tgr-20260911) · [巴厘岛乌鲁瓦图](./EVENTS.zh.md#bli-20260915) · [巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004)
 - **日本**（3）：[札幌](./EVENTS.zh.md#spk-20261002) · [东京](./EVENTS.zh.md#tyo-20260909) · [大阪](./EVENTS.zh.md#osa-20260917)
 - **危地马拉**（2）：[克萨尔特南戈](./EVENTS.zh.md#xela-20260920) · [危地马拉城](./EVENTS.zh.md#gua-20261003)
 - **印度**（2）：[巴罗达](./EVENTS.zh.md#vad-20260905) · [艾哈迈达巴德](./EVENTS.zh.md#amd-20260912)
-- **墨西哥**（2）：[蒙特雷](./EVENTS.zh.md#mty-20260910) · [普埃布拉](./EVENTS.zh.md#pue-20260924)
 - **荷兰**（2）：[乌得勒支](./EVENTS.zh.md#utr-20261029) · [阿姆斯特丹](./EVENTS.zh.md#ams-20260922)
 - **秘鲁**（2）：[阿雷基帕](./EVENTS.zh.md#aqp-20260911) · [利马](./EVENTS.zh.md#lim-20260911)
 - **菲律宾**（2）：[马尼拉](./EVENTS.zh.md#mnl-20260904) · [宿务](./EVENTS.zh.md#ceb-20260919)
@@ -56,6 +56,7 @@
 - **比利时**（1）：[鲁汶](./EVENTS.zh.md#leu-20260919)
 - **喀麦隆**（1）：[雅温得](./EVENTS.zh.md#yde-20260910)
 - **哥伦比亚**（1）：[卡塔戈](./EVENTS.zh.md#ctg-20260911)
+- **德国**（1）：[弗赖堡](./EVENTS.zh.md#frb-20260917)
 - **丹麦**（1）：[哥本哈根](./EVENTS.zh.md#cph-20260909)
 - **英国**（1）：[伦敦](./EVENTS.zh.md#ldn-20260916)
 - **以色列**（1）：[特拉维夫](./EVENTS.zh.md#tlv-20260908)
@@ -167,6 +168,7 @@
 - [Grokbot Field Guide (8 use cases)](https://github.com/tal-giladi/grokbot-field-guide) - 对照《Getting started with Grok Bot》视频八个用例的动手教程，含起始提示词与仓库内 HTML 指南。.
 - [Grok Bot setup & 5 pitfalls guide](https://github.com/dadamingmax/Grok-Bot-Setup-and-Usage-Guide) - 中文长文：讲清 Grok Bot 是什么、SuperGrok/Cursor 开通、从零搭第一个 Bot，以及额度与审批等 5 个实测踩坑。.
 - [China Grok Bot install tutorial](https://github.com/jobinben/Grok-Bot-Tutorial) - 面向国内的 2026 Grok Bot 教程：讲清云端队友是什么、怎么用，以及如何升级 SuperGrok 获得使用资格。.
+- [Grok Bot handbook (grokbot.run)](https://grokbot.run/) - 非官方英文手册：Cursor 登录、可复制首单、共享电脑隔离、计划页冲突对照，以及 Recover 优先于 Reset。.
 
 ## 真实使用案例
 
@@ -214,6 +216,7 @@
 - [Echo chief-of-staff decisions log](https://github.com/WeSs1982/echo-chief-of-staff) - 荷/英双语 Grok Bot 幕僚长模板：决策日志（理由+结果）、反馈环、急停、静默 Bot 检测，并附带 Searchy 研究助手。.
 - [botify shareable Grok Bot templates](https://github.com/p10ns11y/botify) - 可分享的 Grok Bot 模板：把 p10ns11y 插件与高杠杆技能融成现成代理包，而非堆技能清单。.
 - [SuperGrok Heavy policy_denied evidence hub](https://github.com/COOLak/cursor-grok-bot-policy-denied) - 隐私脱敏的公开证据库：记录 SuperGrok Heavy 关联 Cursor Grok Bot 时在付费功能路径上反复 policy_denied 的未决故障。.
+- [UMich course planner Grok Bot team](https://github.com/Domross3/umich-course-planner) - SpaceXAI@UMich Build Night 上由三 Bot Grok Bot 小队做出的密歇根大学选课规划器，并附可复用的 BOT-TEMPLATE.md（协调者/工程师/收集者分工）。.
 
 ## 技能、插件与 MCP
 
@@ -326,6 +329,7 @@
 - [PPC Path B emulated Grok MCP](https://github.com/ThePrivatePirateCompany/ppc-path-b-emulated-mcp) - 面向 Grok Custom Connector Path B 的参考模拟 MCP（create/assign/status/approve）：本地 Python /mcp 端点，需经公网 HTTPS 隧道接入。.
 - [Pitch Machine MCP for Grok Bot](https://github.com/rcabanes-ops/pitchmachine-mcp) - npm MCP（@pitchmachine/mcp-server）：让 Cursor/Grok Bot 创建接收方并生成个性化 pitch 微站，返回公开 URL，故意不代发邮件。.
 - [RivetOS rivet-memory Grok Bot plugin](https://github.com/philbert440/rivetOS) - RivetOS 提供 integrations/grok-bot/rivet-memory（含 plugin.json），供 Cursor Grok Bot 查询/写入记忆并摄入 source=grokbot 的会话。.
+- [GoFaceless Grok Bot video plugin](https://github.com/goagentic/gofaceless-agent-plugin) - 面向 Grok Bot 的 GoFaceless 视频插件：含 plugin.json、托管 MCP 与 SKILL.md，可在云电脑队友里创建、报价、授权、监控并修订持久视频会话。.
 
 ## 评测与对比
 
@@ -414,6 +418,7 @@
 - [grok-bot-cli terminal manager](https://github.com/tecxbro/grokbotonimessage) - npm CLI（grok-bot-cli）：在终端创建、编组、发消息与删除官方 Grok Bot 代理，仓库内含实况冒烟演示。.
 - [grokbox Grok Bot control-plane CLI](https://github.com/yoyooyooo/grokbox) - 非官方 Grok Bot 云电脑控制面 CLI（grokbox/gbox）：本地或经 Tailscale 管理 profile、守护进程、doctor、文件/执行/任务与桌面适配。.
 - [dsh-grokbot DeepSeek Harness crew plugin](https://github.com/nescafe2009/dsh-grokbot) - DeepSeek Harness 树外插件：复刻 Grok Bot 式常驻具名 crew、每 bot 工作区，以及兼容 todi-hub 的文件驱动 inbox 协议。.
+- [HandBot open Grok Bot alternative](https://github.com/dasepmoch/HandBot) - 开源本地优先的 Grok Bot 替代：消息风格的 Bot 花名册，底层接 Claude/Codex/grok CLI，每 Bot 自带电脑与模型选择，并提供已签名的 Mac/Windows/Ubuntu 安装包。.
 
 ## 社区与故障现场
 
@@ -511,6 +516,7 @@
 - [Grokbot failing to connect to cloud agent — Privacy Mode (Legacy) false positive](https://forum.cursor.com/t/grokbot-failing-to-connect-to-cloud-agent/170486) - 官方（deanrie）：近期版本里从 Grok Bot 拉起 Cloud Agent 可能误触 “Privacy Mode (Legacy)” 检查（账号已是现行 Privacy Mode 也会中招）——从 Cursor 桌面端启动仍正常；退出/重置无效，属服务端问题正在修。.
 - [Grok Bot 0.39.0 first setup: Reconnecting forever until Privacy Mode is saved](https://forum.cursor.com/t/grok-bot-0-39-0-first-setup-reconnecting-to-your-computer-forever-mac/170509) - 官方（deanrie）：首次安装一直 “Reconnecting to your computer” 可能是账号从未保存明确的 Privacy Mode 选择（只确认数据提示不够）——在 cursor.com/dashboard → Settings → Privacy 选定 Privacy Mode 后完全退出（Cmd+Q）再开；Retry/Recover/Reset 无法补上缺失的隐私选项。.
 - [Grok Bot reset usage early — Sep 1 global weekly reset](https://forum.cursor.com/t/grok-bot-reset-usage-early/170283) - 官方（deanrie）：周期中途用量掉到 0% 可能是 9 月 1 日 Grok Bot 全球周用量重置（已在 X 宣布），不是账号故障——距下次重置的倒计时仍继续，所以剩余天数看似不变，但用量条从 0% 重新起算。.
+- [Status beat leaks between bots — one Bot memory across 1:1 and groups](https://forum.cursor.com/t/status-beat-leaks-between-bots/170523) - 官方（Colin）：跨会话“串台”是当前设计——每个 Bot 只有一份对话与记忆，覆盖 1:1 与其加入的所有群；群消息有房间标记，但记忆属于 Bot 本身，因此项目 X/Y 应分给不同 Bot（或把笔记落到项目文件夹，可靠性不如分 Bot）。.
 
 ## 相关列表
 
@@ -556,10 +562,12 @@
 - [Awesome Grok Bot Templates EN/ZH](https://github.com/tiankonglan/awesome-grok-bot-template) - 中英双语的公开 Grok Bot 模板精选：覆盖路由、工程、研究、内容与生活助手，并附可点击的 x.ai/bot 链接。.
 - [yanauto verified Grok Bot share links](https://github.com/yanauto/grok-bots) - 人工核验过的公开 Grok Bot 分享链接目录（x.ai/bot）：按用例分组，并确认「添加到 Grok Bot」页仍可打开。.
 - [Great Grok Bots directory scrape](https://github.com/jinank/great-grokbots) - 从多个公开目录（Bot Directory、GrokIndex、grokbot.dev 等）抓取去重后约 1400 个公开 Grok Bot 的快照目录，附重建脚本。.
+- [Grok Bot Social research hub](https://github.com/AgentMindCloud/Grok_Bot_Social) - 面向原生 Grok Bot 的独立社交/研究枢纽：配对已有 Bot、执行有边界的任务、审阅证据，并通过无依赖适配器把批准后的结果分享到圈子。.
+- [Omarchy bar for Grok Bot Rust TUI](https://github.com/pixbroker/omarchy-grokbot) - 非官方 Omarchy 顶栏插件，对接原生 Rust Grok Bot TUI：休眠/醒来表情、从 inbox.json 读收件箱面板，并以安全 argv 启动 grokbot-tui（不读 token）。.
 
 ## 贡献
 
-目前 8 个分类、453 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、460 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

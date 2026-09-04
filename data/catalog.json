@@ -844,6 +844,16 @@
             "zh": "面向国内的 2026 Grok Bot 教程：讲清云端队友是什么、怎么用，以及如何升级 SuperGrok 获得使用资格。",
             "ja": "2026 年の中国向け Grok Bot チュートリアルで、クラウド仲間の概要・使い方・SuperGrok アップグレードによる利用条件を説明します。"
           }
+        },
+        {
+          "title": "Grok Bot handbook (grokbot.run)",
+          "url": "https://grokbot.run/",
+          "source": "day-20260904-1804",
+          "blurb": {
+            "en": "Unofficial English how-to for Cursor login, a copyable first job, shared-computer isolation, dated plan conflicts, and Recover before Reset.",
+            "zh": "非官方英文手册：Cursor 登录、可复制首单、共享电脑隔离、计划页冲突对照，以及 Recover 优先于 Reset。",
+            "ja": "非公式の英語ハウツー。Cursor ログイン、コピー可能な最初の仕事、共有コンピュータの隔離、プランページの食い違い、Recover を Reset より先に、をまとめています。"
+          }
         }
       ]
     },
@@ -1293,6 +1303,16 @@
             "en": "Privacy-sanitized public evidence hub for an unresolved SuperGrok Heavy to Cursor Grok Bot linking failure that returns policy_denied on a paid feature path.",
             "zh": "隐私脱敏的公开证据库：记录 SuperGrok Heavy 关联 Cursor Grok Bot 时在付费功能路径上反复 policy_denied 的未决故障。",
             "ja": "有料機能経路で policy_denied が続く、未解決の SuperGrok Heavy → Cursor Grok Bot 連携障害向けプライバシー除去済み公開エビデンスハブ。"
+          }
+        },
+        {
+          "title": "UMich course planner Grok Bot team",
+          "url": "https://github.com/Domross3/umich-course-planner",
+          "source": "GB-490",
+          "blurb": {
+            "en": "University of Michigan course planner built by a three-Bot Grok Bot team at SpaceXAI@UMich Build Night, with a reusable BOT-TEMPLATE.md for coordinator and worker roles.",
+            "zh": "SpaceXAI@UMich Build Night 上由三 Bot Grok Bot 小队做出的密歇根大学选课规划器，并附可复用的 BOT-TEMPLATE.md（协调者/工程师/收集者分工）。",
+            "ja": "SpaceXAI@UMich Build Night で 3 体の Grok Bot チームが作ったミシガン大学の履修プランナー。Coordinator／Engineer／Collector の再利用可能な BOT-TEMPLATE.md 付き。"
           }
         }
       ]
@@ -2394,6 +2414,16 @@
             "zh": "RivetOS 提供 integrations/grok-bot/rivet-memory（含 plugin.json），供 Cursor Grok Bot 查询/写入记忆并摄入 source=grokbot 的会话。",
             "ja": "RivetOS の integrations/grok-bot/rivet-memory（plugin.json 付き）で、Cursor Grok Bot が記憶の読み書きと source=grokbot セッション取り込みができます。"
           }
+        },
+        {
+          "title": "GoFaceless Grok Bot video plugin",
+          "url": "https://github.com/goagentic/gofaceless-agent-plugin",
+          "source": "GB-485",
+          "blurb": {
+            "en": "GoFaceless agent plugin for Grok Bot with plugin.json, hosted MCP, and SKILL.md to create, quote, authorize, monitor, and revise durable video sessions from the cloud teammate.",
+            "zh": "面向 Grok Bot 的 GoFaceless 视频插件：含 plugin.json、托管 MCP 与 SKILL.md，可在云电脑队友里创建、报价、授权、监控并修订持久视频会话。",
+            "ja": "Grok Bot 向け GoFaceless 動画プラグイン。plugin.json・ホスト MCP・SKILL.md で、クラウド仲間から耐久セッションの作成・見積・承認・監視・改訂ができます。"
+          }
         }
       ]
     },
@@ -3233,6 +3263,16 @@
             "en": "Out-of-tree DeepSeek Harness plugin that recreates Grok Bot–style always-on named crews with per-bot workspaces and a file-driven inbox protocol compatible with todi-hub.",
             "zh": "DeepSeek Harness 树外插件：复刻 Grok Bot 式常驻具名 crew、每 bot 工作区，以及兼容 todi-hub 的文件驱动 inbox 协议。",
             "ja": "DeepSeek Harness のツリー外プラグイン。Grok Bot 風の常駐ネームド crew・bot 別ワークスペース・todi-hub 互換のファイル駆動 inbox を再現します。"
+          }
+        },
+        {
+          "title": "HandBot open Grok Bot alternative",
+          "url": "https://github.com/dasepmoch/HandBot",
+          "source": "GB-487",
+          "blurb": {
+            "en": "Open-source local-first Grok Bot alternative: a messaging-style roster of Claude/Codex/grok CLI agents, each with its own computer, model picker, and signed Mac/Windows/Ubuntu builds.",
+            "zh": "开源本地优先的 Grok Bot 替代：消息风格的 Bot 花名册，底层接 Claude/Codex/grok CLI，每 Bot 自带电脑与模型选择，并提供已签名的 Mac/Windows/Ubuntu 安装包。",
+            "ja": "オープンソースのローカル優先 Grok Bot 代替。Claude/Codex/grok CLI のエージェントをメッセージ風名簿で扱い、Bot ごとに PC とモデル選択、署名済み Mac/Windows/Ubuntu ビルドを提供します。"
           }
         }
       ]
@@ -4184,6 +4224,16 @@
             "zh": "官方（deanrie）：周期中途用量掉到 0% 可能是 9 月 1 日 Grok Bot 全球周用量重置（已在 X 宣布），不是账号故障——距下次重置的倒计时仍继续，所以剩余天数看似不变，但用量条从 0% 重新起算。",
             "ja": "スタッフ（deanrie）：週次使用量が周期の途中で 0% に戻るのは、9/1 の Grok Bot グローバル週次リセット（X で告知）でありアカウント障害ではない——次回リセットまでのカウントは続き、残日数はそのままでバーだけ 0% から再スタートし得る。"
           }
+        },
+        {
+          "title": "Status beat leaks between bots — one Bot memory across 1:1 and groups",
+          "url": "https://forum.cursor.com/t/status-beat-leaks-between-bots/170523",
+          "source": "day-20260904-1804",
+          "blurb": {
+            "en": "Staff (Colin): Status “leaks” across chats are expected—each Bot has one conversation and one memory spanning its 1:1 and every group it joins; group turns are room-tagged but memories belong to the Bot, so keep Project X and Y on separate Bots (or file notes under a project folder, which is less reliable than separate Bots).",
+            "zh": "官方（Colin）：跨会话“串台”是当前设计——每个 Bot 只有一份对话与记忆，覆盖 1:1 与其加入的所有群；群消息有房间标记，但记忆属于 Bot 本身，因此项目 X/Y 应分给不同 Bot（或把笔记落到项目文件夹，可靠性不如分 Bot）。",
+            "ja": "スタッフ（Colin）：チャット間の「漏れ」は想定動作——各 Bot は 1:1 と所属グループをまたぐ会話・記憶を一つ持ち、グループ発話は部屋タグ付きでも記憶は Bot 単位。Project X/Y は別 Bot に分けるのが確実（プロジェクトフォルダへメモは指示依存で弱い）。"
+          }
         }
       ]
     },
@@ -4613,6 +4663,26 @@
             "en": "Snapshot catalog of ~1400 unique public Grok Bots scraped from open directories (Bot Directory, GrokIndex, grokbot.dev, and more) with rebuild scripts.",
             "zh": "从多个公开目录（Bot Directory、GrokIndex、grokbot.dev 等）抓取去重后约 1400 个公开 Grok Bot 的快照目录，附重建脚本。",
             "ja": "公開ディレクトリ群から収集・重複排除した約 1400 件の公開 Grok Bot スナップショットカタログ。再構築スクリプト付き。"
+          }
+        },
+        {
+          "title": "Grok Bot Social research hub",
+          "url": "https://github.com/AgentMindCloud/Grok_Bot_Social",
+          "source": "GB-488",
+          "blurb": {
+            "en": "Independent social/research hub for native Grok Bots: pair your existing Bot, run scoped missions, review evidence, and share approved results with a circle via a dependency-free adapter.",
+            "zh": "面向原生 Grok Bot 的独立社交/研究枢纽：配对已有 Bot、执行有边界的任务、审阅证据，并通过无依赖适配器把批准后的结果分享到圈子。",
+            "ja": "ネイティブ Grok Bot 向けの独立ソーシャル／リサーチハブ。既存 Bot をペアリングし、範囲付きミッションと証拠レビューを行い、依存なしアダプタで承認結果をサークル共有します。"
+          }
+        },
+        {
+          "title": "Omarchy bar for Grok Bot Rust TUI",
+          "url": "https://github.com/pixbroker/omarchy-grokbot",
+          "source": "GB-489",
+          "blurb": {
+            "en": "Unofficial Omarchy bar widget for the native Rust Grok Bot TUI: sleeping/awake face, inbox panel from inbox.json, and argv-safe launch into grokbot-tui without reading tokens.",
+            "zh": "非官方 Omarchy 顶栏插件，对接原生 Rust Grok Bot TUI：休眠/醒来表情、从 inbox.json 读收件箱面板，并以安全 argv 启动 grokbot-tui（不读 token）。",
+            "ja": "ネイティブ Rust 製 Grok Bot TUI 向けの非公式 Omarchy バーウィジェット。inbox.json の受信箱、スリープ／起床フェイス、トークンを読まず argv で grokbot-tui を起動します。"
           }
         }
       ]
@@ -8177,6 +8247,192 @@
         "en": "SpaceXAI Hangzhou in-person meetup: opening + use-case shares + open mic + networking. Host approval; venue after register.",
         "zh": "SpaceXAI 杭州线下：官方致辞 + 场景分享 + 开放麦 + Networking。需审核，地址报名后可见。",
         "ja": "SpaceXAI 杭州の対面。公式挨拶・事例共有・オープンマイク・交流。承認制。会場は登録後。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "sfsales-20260916",
+      "url": "https://luma.com/spacexai-vpud",
+      "image": "./assets/events/sfsales-20260916-cover.png",
+      "expires": "2026-09-16T14:30:00-07:00",
+      "title": {
+        "en": "Grok Bot for Sales (SF)",
+        "zh": "Grok Bot for Sales（旧金山）",
+        "ja": "Grok Bot for Sales（SF）"
+      },
+      "when": {
+        "en": "Tue 16 Sep 2026, 12:30–14:30 (PDT)",
+        "zh": "2026-09-16 周二 12:30–14:30（旧金山）",
+        "ja": "2026-09-16（火）12:30–14:30（PDT）"
+      },
+      "where": {
+        "en": "San Francisco, CA · The Howard SF, 661 Howard St",
+        "zh": "旧金山 · The Howard SF, 661 Howard St",
+        "ja": "San Francisco, CA · The Howard SF, 661 Howard St"
+      },
+      "body": {
+        "en": "Official Sales-focused Grok Bot workshop at The Howard (between Sales Eng and SDR blocks). Free; ~144 seats; host approval (calendar Grok Bot / Jenna Nanpei).",
+        "zh": "面向销售的官方 Grok Bot 工作坊（The Howard，夹在 Sales Eng 与 SDR 场次之间）。免费，约 144 席，需审核。",
+        "ja": "セールス向け公式 Grok Bot ワークショップ（The Howard／Sales Eng と SDR の間）。無料・残席約 144・承認制。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "frb-20260917",
+      "url": "https://luma.com/grok-bot-freiburg",
+      "image": "./assets/events/frb-20260917-cover.png",
+      "expires": "2026-09-17T21:00:00+02:00",
+      "title": {
+        "en": "Grok Bot Meetup Freiburg",
+        "zh": "Grok Bot 弗赖堡线下交流",
+        "ja": "Grok Bot Meetup Freiburg"
+      },
+      "when": {
+        "en": "Thu 17 Sep 2026, 18:00–21:00 (CEST)",
+        "zh": "2026-09-17 周四 18:00–21:00（德国）",
+        "ja": "2026-09-17（木）18:00–21:00（CEST）"
+      },
+      "where": {
+        "en": "Freiburg im Breisgau, Germany · Stefan-Meier-Straße 8",
+        "zh": "德国弗赖堡 · Stefan-Meier-Straße 8",
+        "ja": "Freiburg im Breisgau · Stefan-Meier-Straße 8"
+      },
+      "body": {
+        "en": "First Freiburg Grok Bot meetup with SpaceXAI community — try the product and hang out. Hosts Aniruth + Foundersclub Freiburg; approval; ~57 seats.",
+        "zh": "弗赖堡首场 Grok Bot 线下：试用产品 + SpaceXAI 社群交流。主办 Aniruth / Foundersclub Freiburg，需审核，约 57 席。",
+        "ja": "フライブルク初の対面。製品体験と交流。主催 Aniruth / Foundersclub Freiburg。承認制・約 57 席。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "bj-20260919",
+      "url": "https://luma.com/spacexai-chwk",
+      "image": "./assets/events/bj-20260919-cover.png",
+      "expires": "2026-09-19T18:00:00+08:00",
+      "title": {
+        "en": "Grok Bot Meetup Beijing",
+        "zh": "Grok Bot 北京线下交流",
+        "ja": "Grok Bot Meetup Beijing"
+      },
+      "when": {
+        "en": "Sat 19 Sep 2026, 14:00–18:00 (GMT+8)",
+        "zh": "2026-09-19 周六 14:00–18:00",
+        "ja": "2026-09-19（土）14:00–18:00（GMT+8）"
+      },
+      "where": {
+        "en": "Beijing · exact address after you register",
+        "zh": "北京 · 报名通过后可见地址",
+        "ja": "北京 · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "SpaceXAI Beijing in-person meetup (host Yafang). Chinese-language intro + use-case shares; host approval; ~150 seats; venue after register.",
+        "zh": "SpaceXAI 北京线下（主办 Yafang）：产品介绍 + 用法分享。需审核，约 150 席，地址报名后可见。",
+        "ja": "SpaceXAI 北京の対面（主催 Yafang）。紹介と事例共有。承認制・約 150 席。会場は登録後。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "bdg-20260919",
+      "url": "https://luma.com/grokbot-bdg",
+      "image": "./assets/events/bdg-20260919-cover.png",
+      "expires": "2026-09-19T18:00:00+07:00",
+      "title": {
+        "en": "Grok Bot Meetup Bandung",
+        "zh": "Grok Bot 万隆线下交流",
+        "ja": "Grok Bot Meetup Bandung"
+      },
+      "when": {
+        "en": "Sat 19 Sep 2026, 14:00–18:00 (WIB)",
+        "zh": "2026-09-19 周六 14:00–18:00（印尼西部）",
+        "ja": "2026-09-19（土）14:00–18:00（WIB）"
+      },
+      "where": {
+        "en": "Bandung, Indonesia · exact address after you register",
+        "zh": "印尼万隆 · 报名通过后可见地址",
+        "ja": "バンドン · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "Hands-on Bandung night with Grok Bot (SpaceXAI). Host Faiz Intifada; approval; ~60 seats; venue obfuscated until register.",
+        "zh": "万隆 Grok Bot 动手夜（SpaceXAI）。主办 Faiz Intifada，需审核，约 60 席，地址报名后可见。",
+        "ja": "バンドンのハンズオン（SpaceXAI）。主催 Faiz Intifada。承認制・約 60 席。会場は登録後。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "cuu-20260924",
+      "url": "https://luma.com/spacexai-7lje",
+      "image": "./assets/events/cuu-20260924-cover.png",
+      "expires": "2026-09-24T19:00:00-06:00",
+      "title": {
+        "en": "Grok Bot Meetup Chihuahua",
+        "zh": "Grok Bot 奇瓦瓦线下交流",
+        "ja": "Grok Bot Meetup Chihuahua"
+      },
+      "when": {
+        "en": "Thu 24 Sep 2026, 16:00–19:00 (America/Chihuahua)",
+        "zh": "2026-09-24 周四 16:00–19:00（奇瓦瓦）",
+        "ja": "2026-09-24（木）16:00–19:00（Chihuahua）"
+      },
+      "where": {
+        "en": "Chihuahua, Mexico · LivingLab CUU, Av. George Washington 3701-13",
+        "zh": "墨西哥奇瓦瓦 · LivingLab CUU, Av. George Washington 3701-13",
+        "ja": "Chihuahua · LivingLab CUU, Av. George Washington 3701-13"
+      },
+      "body": {
+        "en": "First Chihuahua Grok Bot × SpaceXAI meetup at LivingLab CUU (credits to try ideas). Host Alfonso Reyes; approval; ~200 seats.",
+        "zh": "奇瓦瓦首场 Grok Bot × SpaceXAI（LivingLab CUU，可领试用额度）。主办 Alfonso Reyes，需审核，约 200 席。",
+        "ja": "チワワ初の Grok Bot × SpaceXAI（LivingLab CUU）。主催 Alfonso Reyes。承認制・約 200 席。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "cdmx-20260926",
+      "url": "https://luma.com/spacexai-89bf",
+      "image": "./assets/events/cdmx-20260926-cover.png",
+      "expires": "2026-09-26T13:00:00-06:00",
+      "title": {
+        "en": "Grok Bot Meetup Mexico City",
+        "zh": "Grok Bot 墨西哥城线下交流",
+        "ja": "Grok Bot Meetup Mexico City"
+      },
+      "when": {
+        "en": "Sat 26 Sep 2026, 09:00–13:00 (CDMX)",
+        "zh": "2026-09-26 周六 09:00–13:00（墨西哥城）",
+        "ja": "2026-09-26（土）09:00–13:00（CDMX）"
+      },
+      "where": {
+        "en": "Mexico City · Sandbox Hub, Luis G. Urbina 4-dpto. 103, Polanco",
+        "zh": "墨西哥城 · Sandbox Hub, Luis G. Urbina 4-dpto. 103, Polanco",
+        "ja": "Mexico City · Sandbox Hub, Luis G. Urbina 4-dpto. 103, Polanco"
+      },
+      "body": {
+        "en": "First CDMX Grok Bot meetup at Sandbox Hub Polanco — hang out and swap real uses. Hosts Javier Rivero / Ben Kim / Ricardo García; approval; ~60 seats.",
+        "zh": "墨西哥城首场 Grok Bot（Sandbox Hub Polanco）：交流真实用法。主办 Javier Rivero / Ben Kim / Ricardo García，需审核，约 60 席。",
+        "ja": "CDMX 初の対面（Sandbox Hub Polanco）。主催 Javier Rivero / Ben Kim / Ricardo García。承認制・約 60 席。"
       },
       "cta": {
         "en": "Apply on Luma (host approval)",

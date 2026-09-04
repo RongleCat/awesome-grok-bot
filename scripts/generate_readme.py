@@ -205,6 +205,7 @@ COUNTRY_LABEL = {
     "mt": {"en": "Malta", "zh": "马耳他", "ja": "マルタ"},
     "pt": {"en": "Portugal", "zh": "葡萄牙", "ja": "ポルトガル"},
     "be": {"en": "Belgium", "zh": "比利时", "ja": "ベルギー"},
+    "de": {"en": "Germany", "zh": "德国", "ja": "ドイツ"},
     "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
     "other": {"en": "Other", "zh": "其他", "ja": "その他"},
 }
@@ -327,6 +328,12 @@ EVENT_GEO = {
     "hzo-20260919": ("cn", "Hangzhou", "杭州", "杭州"),
     "sfpm-20260915": ("us", "San Francisco (PMs)", "旧金山（产品经理）", "サンフランシスコ（PM）"),
     "sffo-20260915": ("us", "San Francisco (Founders)", "旧金山（创始人）", "サンフランシスコ（Founders）"),
+    "sfsales-20260916": ("us", "San Francisco (Sales)", "旧金山（销售）", "サンフランシスコ（Sales）"),
+    "frb-20260917": ("de", "Freiburg", "弗赖堡", "フライブルク"),
+    "bj-20260919": ("cn", "Beijing", "北京", "北京"),
+    "bdg-20260919": ("id", "Bandung", "万隆", "バンドン"),
+    "cuu-20260924": ("mx", "Chihuahua", "奇瓦瓦", "チワワ"),
+    "cdmx-20260926": ("mx", "Mexico City", "墨西哥城", "メキシコシティ"),
 }
 
 
