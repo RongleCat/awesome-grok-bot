@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-482-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-505-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（7）：[澳门](./EVENTS.zh.md#mo-20260905) · [成都](./EVENTS.zh.md#cd-20260905) · [上海](./EVENTS.zh.md#sha-20261017) · [杭州](./EVENTS.zh.md#hzo-20260905) · [杭州](./EVENTS.zh.md#hzo-20260919) · [北京](./EVENTS.zh.md#bj-20260919) · [广州](./EVENTS.zh.md#can-20260913)
-- **美国**（12）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [檀香山](./EVENTS.zh.md#hnl-20260905) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [旧金山（产品经理）](./EVENTS.zh.md#sfpm-20260915) · [旧金山（创始人）](./EVENTS.zh.md#sffo-20260915) · [旧金山（销售）](./EVENTS.zh.md#sfsales-20260916)
+- **美国**（13）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [檀香山](./EVENTS.zh.md#hnl-20260905) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [旧金山（产品经理）](./EVENTS.zh.md#sfpm-20260915) · [旧金山（创始人）](./EVENTS.zh.md#sffo-20260915) · [旧金山（销售）](./EVENTS.zh.md#sfsales-20260916) · [匹兹堡](./EVENTS.zh.md#pgh-20261013)
 - **阿根廷**（4）：[巴里洛切](./EVENTS.zh.md#brc-20260910) · [布宜诺斯艾利斯](./EVENTS.zh.md#bue-20260916) · [门多萨](./EVENTS.zh.md#mdz-20261003) · [萨尔塔](./EVENTS.zh.md#sla-20260916)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [萨德伯里](./EVENTS.zh.md#sud-20260917) · [多伦多](./EVENTS.zh.md#yyz-20260917)
 - **印度尼西亚**（4）：[坦格朗](./EVENTS.zh.md#tgr-20260911) · [巴厘岛乌鲁瓦图](./EVENTS.zh.md#bli-20260915) · [巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [万隆](./EVENTS.zh.md#bdg-20260919)
@@ -223,6 +223,7 @@
 - [Grok meme-desk playbooks](https://github.com/shaharmaimon/grok-meme-desk-playbooks) - 公开的多 Bot Grok Bot 模因币研究小队 playbook、信号 schema 与 box 侧脚本：只做分析，不持密钥、不下单。.
 - [Real World Agents org chart](https://github.com/pyco404/-real-world-agents) - 可复用的 Grok Bot 组织图配置：把结果交给具名席位（Atlas、Scout、Quill…）而非待办列表，含章程与硬性禁区。.
 - [Daily Diff news site by Grok Bot](https://github.com/indrayam/samachar) - 静态「Daily Diff」报纸站：edition.json 由 Grok Bot 汇总，线上见 dailydiff.indrayam.com。.
+- [HyperGrok trading desk setup prompt](https://github.com/L1vsun/GrokBot-Trading-Desk__Setup-Prompt) - 可粘贴提示词：让 Grok Bot 在云电脑上搭七智能体纸面交易台，并开共享 Trading Floor 群聊。.
 
 ## 技能、插件与 MCP
 
@@ -343,6 +344,22 @@
 - [Grok Telegram Gateway plugin](https://github.com/roelsmelt/grok-telegram-gateway) - Cursor Marketplace 插件：经 BotFather 把 Grok Bot 接到 Telegram，含长轮询、webhook 唤醒、输入中与发送等 box 侧助手。.
 - [Grok Bot Codex skill](https://github.com/Jockeys97/grok-bot-codex-skill) - OpenAI Codex Computer Use 技能：操控本机 Grok Bot 桌面应用，选择 Bot、续聊、附文件并查看 Bot 电脑。.
 - [Remy HQ plugin](https://github.com/vibemetrixai/remy-hq-plugin) - Cursor/Grok Bot 插件：接 Remy HQ OAuth MCP，让 Bot 调度 Vibe Metrix 智能体舰队、HQ 记忆、邮件、GitHub 与 Cloudflare 工具。.
+- [Weather by WindBorne plugin](https://github.com/windborne/cursor-plugin) - 面向 Cursor/Grok Bot 的插件：通过远程 MCP 用 WindBorne 预报回答天气问题，并返回可交互天气卡片。.
+- [Caldria sales Cursor plugin](https://github.com/tankgosky/caldria-sales-cursor-plugin) - 面向 Cursor/Grok Bot 的 Caldria Supply 受限销售 CRM MCP，含拓客、外联、收件箱等技能，需私有 Bearer token。.
+- [Georgia grant packet Bot plugin](https://github.com/omgawdmadeit1/georgia-grant-packet-bot) - Grok Bot/.grok-plugin 队友：组装 SSI 安全的佐治亚州资助与自主创业材料包（OneGeorgia、GVRA、SBDC、DOBE、PASS），带审批门禁。.
+- [Garbage Collector deletion Bot](https://github.com/SyberLabs/grok-bot-aggressive-deletion) - SyberLabs 的 Grok Bot 模板与 aggressive-deletion 技能：在保留必要行为的前提下删掉多余代码与架构，并带评测夹具。.
+- [Reqall Grok Bot plugin](https://github.com/ReqallSystem/grok-bot-plugin) - Reqall 知识图谱 MCP 连接器与便携技能：让 Grok Bot 开工前拉共享上下文、收工前持久化结果。.
+- [Stealth Factory Grok Bot skills](https://github.com/stealth-factory/grok-bot-skills) - 专给 Grok Bot 的技能：Bot 如何在平台存活、互相沟通，以及自定义 UI 如何与它们对话；配套 stealth-factory/skills。.
+- [Grok Bot iMessage on Mac skill](https://github.com/steve228uk/grok-bot-imessage) - 在用户 Mac 本地执行的 Grok Bot 技能（imsg）：读 iMessage/短信、处理 OTP，发送前必须确认小部件；不在 Linux 云电脑上跑。.
+- [Discord for Grok Bot plugin](https://github.com/NinjaProtocol/grokbot-discord-plugin) - Cursor/Grok Bot 的 Discord 插件：带 MCP 启动器，Bot 只在选定频道回复，并含连接与安装技能。.
+- [GrokBot ↔ Obsidian MCP bridge](https://github.com/iamsupersocks/grokbot-obsidian-bridge) - 失败即关的 OAuth MCP 反向代理：经所有者审批后让 Grok Bot 访问自托管 Obsidian 仓库，默认只读无头模式。.
+- [ComparaPix PIX quotes plugin](https://github.com/ferminrp/comparapix-plugin) - Cursor/Grok Bot 插件：接 ComparaPix 远程 MCP（best_rate、calculate_pix、get_quotes），无需鉴权。.
+- [Day Zero Cursor/Grok Bot plugin](https://github.com/coryyork/day0-cursor-plugin) - 面向 Cursor 与 Grok Bot 的 Day Zero 商业 OS 连接器（远程 MCP）：团队、计分卡、指标与工时研究。.
+- [Playlistable music plugin](https://github.com/Brackyt/playlistable-cursor-plugin) - Cursor 与 Grok Bot 的 Playlistable MCP 插件：用一句话在 Spotify 或 Apple Music 上建歌单。.
+- [OrgX Grok Bot plugin](https://github.com/useorgx/orgx-grokbot-plugin) - 面向 Grok Bot/Cursor 的 OrgX 插件：MCP 接线、按倡议感知的技能、Work Graph 钩子与专家 agent 包。.
+- [botskills.io first-party skill catalog](https://github.com/botskills/catalog) - botskills.io 的官方 Grok Bot SKILL.md 集合：晨报、会前准备、发票抓取与网页转表。.
+- [Ideabrowser Cursor/Grok Bot plugin](https://github.com/ideabrowserhq/cursor-plugin) - 面向 Cursor 与 Grok Bot 的 Ideabrowser 插件：经 MCP 浏览研究过的创业点子、每日点子与市场趋势。.
+- [Ask Gina research plugin](https://github.com/askgina/plugins) - 面向 Cursor 与 Grok Bot 的 Ask Gina 只读加密/预测市场研究插件，含便携技能、MCP 与多宿主适配。.
 
 ## 评测与对比
 
@@ -435,6 +452,10 @@
 - [Grok Bot 0.18 offline Windows rebuild](https://github.com/GeniusTDY/grok-bot-offline) - 非官方、面向源码的 Grok Bot 0.18 重建：支持气隙 Windows 便携目录，以及无需 Cursor 登录的 Local 9Router 工作区。.
 - [Grok Bot meetup check-in wall](https://github.com/bchewy/grokbot-wall) - Three.js ASCII Grok Bot 会场墙：按姓名欢迎 Luma 签到，并用 Resend 给每位嘉宾发 Cursor 积分码。.
 - [Orbit local Grok Bot alternative](https://github.com/0xr3ngar/orbit) - 本地桌面工作区式的 Grok Bot 替代：带动画智能体伙伴，基于 Bloks，明确与 xAI 无关。.
+- [grokbot-shim local runtime](https://github.com/luckeyfaraday/grokbot-shim) - 让已安装的 Grok Bot 桌面 UI 对接本机电脑桌面与可配置的 Codex/OpenAI 兼容模型，并可用 noVNC 接管。.
+- [grok-bot-setup model adapters](https://github.com/BlockedPath/grok-bot-setup) - CLI 与文档：用适配器把 Grok Bot 接到自定义推理提供方（DeepSeek、Claude、Grok、OpenAI）。.
+- [OpenBot self-hosted multi-bot](https://github.com/Blackman99/openbot) - AGPL 自托管、模型无关的 Grok Bot 风格多 Bot 协作栈（SvelteKit + Fastify + Postgres）；晨间为空壳，现已有可部署实现。.
+- [Nesq Bot self-hosted teammates](https://github.com/Nesqual-Tech/nesqbot) - 源码可得的 Grok Bot 自托管替代：隔离 Linux 桌面、真浏览器、重大动作前人工门禁与交接账本。.
 
 ## 社区与故障现场
 
@@ -585,10 +606,12 @@
 - [Omarchy bar for Grok Bot Rust TUI](https://github.com/pixbroker/omarchy-grokbot) - 非官方 Omarchy 顶栏插件，对接原生 Rust Grok Bot TUI：休眠/醒来表情、从 inbox.json 读收件箱面板，并以安全 argv 启动 grokbot-tui（不读 token）。.
 - [OLYMPUS Grok Bot architecture](https://github.com/BoxLogoDev/olympus_grokbot) - 韩语分层多 Bot 运营架构（宙斯→赫斯提亚→神→人）：可粘贴的 Grok Bot 提示词、YAML 契约与模板。.
 - [Omarchy Grok Bots inbox roster](https://github.com/glorics/omarchy-grok-bots) - 非官方 Omarchy 栏花名册：用与 App 相同的脸显示每个 Grok Bot、最后一条消息与未读气泡，并一键聚焦 Linux 客户端。.
+- [xAI Bot Marketplace (JA mirror)](https://github.com/lastone3939/xai-marketplace-ja) - x.ai Grok Bot Marketplace 的非官方日文本地化：搜索并打开 69 个公开 Bot，添加链接仍指向官方。.
+- [Grok Bot Orb Expo recreation](https://github.com/ngocdevv/grok-bot-emoji) - 用 Expo/React Native Skia 复刻 x.ai/bot「像队友一样给 Bot 发消息」区块中的动态 Grok Bot Orb。.
 
 ## 贡献
 
-目前 8 个分类、482 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、505 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

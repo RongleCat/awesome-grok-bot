@@ -69,6 +69,9 @@
 <a id="sfsales-20260916"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-vpud"><img src="./assets/events/sfsales-20260916-cover.png" alt="Grok Bot for Sales（旧金山）" width="300" /></a></td><td valign="top"><strong>Grok Bot for Sales（旧金山）</strong><br />2026-09-16 周二 12:30–14:30（旧金山）<br />旧金山 · The Howard SF, 661 Howard St<br /><br />面向销售的官方 Grok Bot 工作坊（The Howard，夹在 Sales Eng 与 SDR 场次之间）。免费，约 144 席，需审核。<br /><br /><a href="https://luma.com/spacexai-vpud"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
+<a id="pgh-20261013"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/6lx5t8ru"><img src="./assets/events/pgh-20261013-cover.png" alt="Grok Bot 匹兹堡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 匹兹堡线下交流</strong><br />2026-10-13 周二 18:30–20:30（美东）<br />匹兹堡 · Oakland / Lawrenceville（报名后可见详细地址）<br /><br />匹兹堡首场城市级 Grok Bot 线下（非校园专场）：短演示后动手/换配置；学生与在职皆可。主办 Micah Smith；免费，开放报名（约 30 席）。<br /><br /><a href="https://luma.com/6lx5t8ru"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-ar"></a>
 ### 阿根廷
 

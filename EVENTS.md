@@ -69,6 +69,9 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="sfsales-20260916"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-vpud"><img src="./assets/events/sfsales-20260916-cover.png" alt="Grok Bot for Sales (SF)" width="300" /></a></td><td valign="top"><strong>Grok Bot for Sales (SF)</strong><br />Tue 16 Sep 2026, 12:30–14:30 (PDT)<br />San Francisco, CA · The Howard SF, 661 Howard St<br /><br />Official Sales-focused Grok Bot workshop at The Howard (between Sales Eng and SDR blocks). Free; ~144 seats; host approval (calendar Grok Bot / Jenna Nanpei).<br /><br /><a href="https://luma.com/spacexai-vpud"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
+<a id="pgh-20261013"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/6lx5t8ru"><img src="./assets/events/pgh-20261013-cover.png" alt="Grok Bot Meetup Pittsburgh" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Pittsburgh</strong><br />Tue 13 Oct 2026, 18:30–20:30 (EDT)<br />Pittsburgh · Oakland / Lawrenceville (exact address after you register)<br /><br />Pittsburgh's first city Grok Bot meetup (not campus-only). Short demo then build/swap setups; students + working folks welcome. Host Micah Smith; free; open registration (~30 seats).<br /><br /><a href="https://luma.com/6lx5t8ru"><strong>Register on Luma →</strong></a></td></tr></table>
+
 <a id="country-ar"></a>
 ### Argentina
 

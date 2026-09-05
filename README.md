@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-482-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-505-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（7）：[Macao](./EVENTS.md#mo-20260905) · [Chengdu](./EVENTS.md#cd-20260905) · [Shanghai](./EVENTS.md#sha-20261017) · [Hangzhou](./EVENTS.md#hzo-20260905) · [Hangzhou](./EVENTS.md#hzo-20260919) · [Beijing](./EVENTS.md#bj-20260919) · [Guangzhou](./EVENTS.md#can-20260913)
-- **United States**（12）：[Las Vegas](./EVENTS.md#lv-20260915) · [Honolulu](./EVENTS.md#hnl-20260905) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916)
+- **United States**（13）：[Las Vegas](./EVENTS.md#lv-20260915) · [Honolulu](./EVENTS.md#hnl-20260905) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013)
 - **Argentina**（4）：[Bariloche](./EVENTS.md#brc-20260910) · [Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
 - **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260917) · [Toronto](./EVENTS.md#yyz-20260917)
 - **Indonesia**（4）：[Tangerang](./EVENTS.md#tgr-20260911) · [Uluwatu / Bali](./EVENTS.md#bli-20260915) · [Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Bandung](./EVENTS.md#bdg-20260919)
@@ -223,6 +223,7 @@
 - [Grok meme-desk playbooks](https://github.com/shaharmaimon/grok-meme-desk-playbooks) - Public playbooks, signal schema, and box-side scripts for a multi-Bot Grok Bot memecoin research squad that only analyzes and never holds keys.
 - [Real World Agents org chart](https://github.com/pyco404/-real-world-agents) - Reusable Grok Bot org-chart setup that assigns outcomes to named seats (Atlas, Scout, Quill, …) instead of task lists, with charters and hard never-do fences.
 - [Daily Diff news site by Grok Bot](https://github.com/indrayam/samachar) - Static “Daily Diff” newspaper site whose edition.json feed is aggregated by a Grok Bot, with live hosting at dailydiff.indrayam.com.
+- [HyperGrok trading desk setup prompt](https://github.com/L1vsun/GrokBot-Trading-Desk__Setup-Prompt) - Paste-ready prompt that has a Grok Bot build a seven-agent paper-trading desk swarm on its cloud computer and open a shared Trading Floor group.
 
 ## Skills, Plugins & MCP
 
@@ -343,6 +344,22 @@
 - [Grok Telegram Gateway plugin](https://github.com/roelsmelt/grok-telegram-gateway) - Cursor Marketplace plugin that wires Grok Bot to Telegram via BotFather with long-poll, webhook wake, typing, and send helpers on the agent box.
 - [Grok Bot Codex skill](https://github.com/Jockeys97/grok-bot-codex-skill) - OpenAI Codex Computer Use skill that drives the real Grok Bot desktop app—select a Bot, continue conversations, attach files, and inspect the Bot computer.
 - [Remy HQ plugin](https://github.com/vibemetrixai/remy-hq-plugin) - Cursor/Grok Bot plugin that connects the Remy HQ OAuth MCP so a Bot can run a Vibe Metrix agent fleet, HQ memory, email, GitHub, and Cloudflare tools.
+- [Weather by WindBorne plugin](https://github.com/windborne/cursor-plugin) - Cursor/Grok Bot plugin that answers weather questions with WindBorne forecasts and interactive weather cards via remote MCP.
+- [Caldria sales Cursor plugin](https://github.com/tankgosky/caldria-sales-cursor-plugin) - Restricted Caldria Supply sales CRM MCP and prospecting/outreach/inbox skills for Cursor and Grok Bot, gated by a private Bearer token.
+- [Georgia grant packet Bot plugin](https://github.com/omgawdmadeit1/georgia-grant-packet-bot) - Grok Bot/.grok-plugin teammate that assembles SSI-safe Georgia grant and self-employment packets (OneGeorgia, GVRA, SBDC, DOBE, PASS) with approval gates.
+- [Garbage Collector deletion Bot](https://github.com/SyberLabs/grok-bot-aggressive-deletion) - SyberLabs Grok Bot template and aggressive-deletion skill that strips unnecessary code and architecture while preserving required behavior, with eval fixtures.
+- [Reqall Grok Bot plugin](https://github.com/ReqallSystem/grok-bot-plugin) - Reqall knowledge-graph MCP connector and portable skills so a Grok Bot keeps shared context before work and persists outcomes before done.
+- [Stealth Factory Grok Bot skills](https://github.com/stealth-factory/grok-bot-skills) - Grok Bot-only skills for how bots live on the platform, talk to each other, and how a custom UI talks to them—companion to stealth-factory/skills.
+- [Grok Bot iMessage on Mac skill](https://github.com/steve228uk/grok-bot-imessage) - Mac-local Grok Bot skill via imsg to read iMessage/SMS, handle OTPs, and send only after a confirm widget—not on the Linux cloud box.
+- [Discord for Grok Bot plugin](https://github.com/NinjaProtocol/grokbot-discord-plugin) - Cursor/Grok Bot Discord plugin with MCP launcher so a Bot only replies in chosen server channels, plus connect and setup skills.
+- [GrokBot ↔ Obsidian MCP bridge](https://github.com/iamsupersocks/grokbot-obsidian-bridge) - Fail-closed OAuth MCP reverse proxy that lets Grok Bot reach a self-hosted Obsidian vault with owner approval and a headless-readonly default.
+- [ComparaPix PIX quotes plugin](https://github.com/ferminrp/comparapix-plugin) - Cursor/Grok Bot plugin for ComparaPix remote MCP tools (best_rate, calculate_pix, get_quotes) with no auth required.
+- [Day Zero Cursor/Grok Bot plugin](https://github.com/coryyork/day0-cursor-plugin) - Day Zero business OS connector for Cursor and Grok Bot via remote MCP—teams, scorecards, metrics, and time studies.
+- [Playlistable music plugin](https://github.com/Brackyt/playlistable-cursor-plugin) - Cursor and Grok Bot plugin for the Playlistable MCP to create Spotify or Apple Music playlists from a prompt.
+- [OrgX Grok Bot plugin](https://github.com/useorgx/orgx-grokbot-plugin) - OrgX MCP wiring, initiative-aware skills, Work Graph hooks, and specialist agent packs packaged for Grok Bot and Cursor.
+- [botskills.io first-party skill catalog](https://github.com/botskills/catalog) - Canonical first-party Grok Bot SKILL.md set for botskills.io—morning briefing, meeting prep, invoice capture, and page-to-table scrape.
+- [Ideabrowser Cursor/Grok Bot plugin](https://github.com/ideabrowserhq/cursor-plugin) - Ideabrowser marketplace plugin for Cursor and Grok Bot to browse researched startup ideas, Idea of the Day, and market trends via MCP.
+- [Ask Gina research plugin](https://github.com/askgina/plugins) - Ask Gina read-only crypto/prediction-market research plugin for Cursor and Grok Bot, with portable skills, MCP, and host adapters.
 
 ## Reviews & Comparisons
 
@@ -435,6 +452,10 @@
 - [Grok Bot 0.18 offline Windows rebuild](https://github.com/GeniusTDY/grok-bot-offline) - Unofficial source-oriented reconstruction of Grok Bot 0.18 with an air-gapped Windows portable path and Local 9Router workspace that does not need a Cursor login.
 - [Grok Bot meetup check-in wall](https://github.com/bchewy/grokbot-wall) - Three.js ASCII Grok Bot venue wall that greets Luma check-ins by name and emails each guest a Cursor credit code via Resend.
 - [Orbit local Grok Bot alternative](https://github.com/0xr3ngar/orbit) - Local desktop workspace alternative to Grok Bot with animated agent companions, based on Bloks and explicitly not affiliated with xAI.
+- [grokbot-shim local runtime](https://github.com/luckeyfaraday/grokbot-shim) - Run the installed Grok Bot desktop UI against a local computer desktop and configurable Codex/OpenAI-compatible models, with noVNC takeover.
+- [grok-bot-setup model adapters](https://github.com/BlockedPath/grok-bot-setup) - CLI and docs to bridge Grok Bot to custom inference providers (DeepSeek, Claude, Grok, OpenAI) via adapters.
+- [OpenBot self-hosted multi-bot](https://github.com/Blackman99/openbot) - AGPL self-hosted, model-agnostic Grok Bot-style multi-bot collaboration stack (SvelteKit + Fastify + Postgres) that grew from an empty morning stub.
+- [Nesq Bot self-hosted teammates](https://github.com/Nesqual-Tech/nesqbot) - Source-available self-hosted alternative to Grok Bot: isolated Linux desktops, real browser, human gates before consequential actions, and handover ledgers.
 
 ## Community & Failure Modes
 
@@ -585,10 +606,12 @@
 - [Omarchy bar for Grok Bot Rust TUI](https://github.com/pixbroker/omarchy-grokbot) - Unofficial Omarchy bar widget for the native Rust Grok Bot TUI: sleeping/awake face, inbox panel from inbox.json, and argv-safe launch into grokbot-tui without reading tokens.
 - [OLYMPUS Grok Bot architecture](https://github.com/BoxLogoDev/olympus_grokbot) - Korean hierarchical multi-bot operating architecture (Zeus→Hestia→gods→humans) with copy-paste Grok Bot prompts, YAML contracts, and templates.
 - [Omarchy Grok Bots inbox roster](https://github.com/glorics/omarchy-grok-bots) - Unofficial Omarchy bar roster that shows each Grok Bot with the same face as in the app, last message, unread bubbles, and one-click focus of the Linux client.
+- [xAI Bot Marketplace (JA mirror)](https://github.com/lastone3939/xai-marketplace-ja) - Unofficial Japanese localization of the x.ai Grok Bot Marketplace for searching and opening the 69 public Bots with links back to official add URLs.
+- [Grok Bot Orb Expo recreation](https://github.com/ngocdevv/grok-bot-emoji) - Expo/React Native Skia recreation of the animated Grok Bot Orb from the x.ai/bot “Message Bots like teammates” section.
 
 ## Contributing
 
-482 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+505 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

@@ -1384,6 +1384,16 @@
             "zh": "静态「Daily Diff」报纸站：edition.json 由 Grok Bot 汇总，线上见 dailydiff.indrayam.com。",
             "ja": "静的な Daily Diff 新聞サイト。edition.json を Grok Bot が集約し、dailydiff.indrayam.com で公開。"
           }
+        },
+        {
+          "title": "HyperGrok trading desk setup prompt",
+          "url": "https://github.com/L1vsun/GrokBot-Trading-Desk__Setup-Prompt",
+          "source": "GB-528",
+          "blurb": {
+            "en": "Paste-ready prompt that has a Grok Bot build a seven-agent paper-trading desk swarm on its cloud computer and open a shared Trading Floor group.",
+            "zh": "可粘贴提示词：让 Grok Bot 在云电脑上搭七智能体纸面交易台，并开共享 Trading Floor 群聊。",
+            "ja": "貼るだけで Grok Bot がクラウド PC 上に 7 エージェントのペーパートレード机と Trading Floor グループを作るプロンプト。"
+          }
         }
       ]
     },
@@ -2564,6 +2574,166 @@
             "zh": "Cursor/Grok Bot 插件：接 Remy HQ OAuth MCP，让 Bot 调度 Vibe Metrix 智能体舰队、HQ 记忆、邮件、GitHub 与 Cloudflare 工具。",
             "ja": "Cursor / Grok Bot プラグイン。Remy HQ OAuth MCP で Vibe Metrix 艦隊・HQ メモリ・メール・GitHub・Cloudflare ツールを操作。"
           }
+        },
+        {
+          "title": "Weather by WindBorne plugin",
+          "url": "https://github.com/windborne/cursor-plugin",
+          "source": "GB-512",
+          "blurb": {
+            "en": "Cursor/Grok Bot plugin that answers weather questions with WindBorne forecasts and interactive weather cards via remote MCP.",
+            "zh": "面向 Cursor/Grok Bot 的插件：通过远程 MCP 用 WindBorne 预报回答天气问题，并返回可交互天气卡片。",
+            "ja": "Cursor / Grok Bot 向け。リモート MCP で WindBorne 予報を返し、インタラクティブな天気カードを表示します。"
+          }
+        },
+        {
+          "title": "Caldria sales Cursor plugin",
+          "url": "https://github.com/tankgosky/caldria-sales-cursor-plugin",
+          "source": "GB-513",
+          "blurb": {
+            "en": "Restricted Caldria Supply sales CRM MCP and prospecting/outreach/inbox skills for Cursor and Grok Bot, gated by a private Bearer token.",
+            "zh": "面向 Cursor/Grok Bot 的 Caldria Supply 受限销售 CRM MCP，含拓客、外联、收件箱等技能，需私有 Bearer token。",
+            "ja": "Cursor / Grok Bot 向け。Caldria Supply の制限付き営業 CRM MCP と見込み・外連・受信箱スキル（Bearer トークン必須）。"
+          }
+        },
+        {
+          "title": "Georgia grant packet Bot plugin",
+          "url": "https://github.com/omgawdmadeit1/georgia-grant-packet-bot",
+          "source": "GB-514",
+          "blurb": {
+            "en": "Grok Bot/.grok-plugin teammate that assembles SSI-safe Georgia grant and self-employment packets (OneGeorgia, GVRA, SBDC, DOBE, PASS) with approval gates.",
+            "zh": "Grok Bot/.grok-plugin 队友：组装 SSI 安全的佐治亚州资助与自主创业材料包（OneGeorgia、GVRA、SBDC、DOBE、PASS），带审批门禁。",
+            "ja": "Grok Bot / .grok-plugin 向け。SSI 安全なジョージア州助成・自営パケットを組み立て、承認ゲート付き。"
+          }
+        },
+        {
+          "title": "Garbage Collector deletion Bot",
+          "url": "https://github.com/SyberLabs/grok-bot-aggressive-deletion",
+          "source": "GB-515",
+          "blurb": {
+            "en": "SyberLabs Grok Bot template and aggressive-deletion skill that strips unnecessary code and architecture while preserving required behavior, with eval fixtures.",
+            "zh": "SyberLabs 的 Grok Bot 模板与 aggressive-deletion 技能：在保留必要行为的前提下删掉多余代码与架构，并带评测夹具。",
+            "ja": "SyberLabs の Grok Bot テンプレと aggressive-deletion スキル。必要挙動を保ちつつ不要コードを削り、評価フィクスチャ付き。"
+          }
+        },
+        {
+          "title": "Reqall Grok Bot plugin",
+          "url": "https://github.com/ReqallSystem/grok-bot-plugin",
+          "source": "GB-516",
+          "blurb": {
+            "en": "Reqall knowledge-graph MCP connector and portable skills so a Grok Bot keeps shared context before work and persists outcomes before done.",
+            "zh": "Reqall 知识图谱 MCP 连接器与便携技能：让 Grok Bot 开工前拉共享上下文、收工前持久化结果。",
+            "ja": "Reqall ナレッジグラフ MCP とポータブルスキルで、Grok Bot が作業前に文脈を取り、完了前に結果を永続化。"
+          }
+        },
+        {
+          "title": "Stealth Factory Grok Bot skills",
+          "url": "https://github.com/stealth-factory/grok-bot-skills",
+          "source": "GB-517",
+          "blurb": {
+            "en": "Grok Bot-only skills for how bots live on the platform, talk to each other, and how a custom UI talks to them—companion to stealth-factory/skills.",
+            "zh": "专给 Grok Bot 的技能：Bot 如何在平台存活、互相沟通，以及自定义 UI 如何与它们对话；配套 stealth-factory/skills。",
+            "ja": "Grok Bot 専用スキル。ボットの存在・相互会話・カスタム UI 連携。stealth-factory/skills のコンパニオン。"
+          }
+        },
+        {
+          "title": "Grok Bot iMessage on Mac skill",
+          "url": "https://github.com/steve228uk/grok-bot-imessage",
+          "source": "GB-518",
+          "blurb": {
+            "en": "Mac-local Grok Bot skill via imsg to read iMessage/SMS, handle OTPs, and send only after a confirm widget—not on the Linux cloud box.",
+            "zh": "在用户 Mac 本地执行的 Grok Bot 技能（imsg）：读 iMessage/短信、处理 OTP，发送前必须确认小部件；不在 Linux 云电脑上跑。",
+            "ja": "ユーザー Mac 上の Grok Bot スキル（imsg）。iMessage/SMS の読取・OTP・確認ウィジェット付き送信。Linux クラウド箱では不可。"
+          }
+        },
+        {
+          "title": "Discord for Grok Bot plugin",
+          "url": "https://github.com/NinjaProtocol/grokbot-discord-plugin",
+          "source": "GB-519",
+          "blurb": {
+            "en": "Cursor/Grok Bot Discord plugin with MCP launcher so a Bot only replies in chosen server channels, plus connect and setup skills.",
+            "zh": "Cursor/Grok Bot 的 Discord 插件：带 MCP 启动器，Bot 只在选定频道回复，并含连接与安装技能。",
+            "ja": "Cursor / Grok Bot 向け Discord プラグイン。指定チャンネルのみ返信する MCP と接続・セットアップスキル付き。"
+          }
+        },
+        {
+          "title": "GrokBot ↔ Obsidian MCP bridge",
+          "url": "https://github.com/iamsupersocks/grokbot-obsidian-bridge",
+          "source": "GB-520",
+          "blurb": {
+            "en": "Fail-closed OAuth MCP reverse proxy that lets Grok Bot reach a self-hosted Obsidian vault with owner approval and a headless-readonly default.",
+            "zh": "失败即关的 OAuth MCP 反向代理：经所有者审批后让 Grok Bot 访问自托管 Obsidian 仓库，默认只读无头模式。",
+            "ja": "フェイルクローズ OAuth MCP リバプロ。所有者承認後に自ホスト Obsidian vault へ。デフォルトは headless-readonly。"
+          }
+        },
+        {
+          "title": "ComparaPix PIX quotes plugin",
+          "url": "https://github.com/ferminrp/comparapix-plugin",
+          "source": "GB-521",
+          "blurb": {
+            "en": "Cursor/Grok Bot plugin for ComparaPix remote MCP tools (best_rate, calculate_pix, get_quotes) with no auth required.",
+            "zh": "Cursor/Grok Bot 插件：接 ComparaPix 远程 MCP（best_rate、calculate_pix、get_quotes），无需鉴权。",
+            "ja": "Cursor / Grok Bot 向け ComparaPix リモート MCP（best_rate / calculate_pix / get_quotes）。認証不要。"
+          }
+        },
+        {
+          "title": "Day Zero Cursor/Grok Bot plugin",
+          "url": "https://github.com/coryyork/day0-cursor-plugin",
+          "source": "GB-522",
+          "blurb": {
+            "en": "Day Zero business OS connector for Cursor and Grok Bot via remote MCP—teams, scorecards, metrics, and time studies.",
+            "zh": "面向 Cursor 与 Grok Bot 的 Day Zero 商业 OS 连接器（远程 MCP）：团队、计分卡、指标与工时研究。",
+            "ja": "Cursor / Grok Bot 向け Day Zero ビジネス OS 接続（リモート MCP）。チーム・スコアカード・指標・タイムスタディ。"
+          }
+        },
+        {
+          "title": "Playlistable music plugin",
+          "url": "https://github.com/Brackyt/playlistable-cursor-plugin",
+          "source": "GB-523",
+          "blurb": {
+            "en": "Cursor and Grok Bot plugin for the Playlistable MCP to create Spotify or Apple Music playlists from a prompt.",
+            "zh": "Cursor 与 Grok Bot 的 Playlistable MCP 插件：用一句话在 Spotify 或 Apple Music 上建歌单。",
+            "ja": "Cursor / Grok Bot 向け Playlistable MCP。プロンプトから Spotify / Apple Music プレイリストを作成。"
+          }
+        },
+        {
+          "title": "OrgX Grok Bot plugin",
+          "url": "https://github.com/useorgx/orgx-grokbot-plugin",
+          "source": "GB-524",
+          "blurb": {
+            "en": "OrgX MCP wiring, initiative-aware skills, Work Graph hooks, and specialist agent packs packaged for Grok Bot and Cursor.",
+            "zh": "面向 Grok Bot/Cursor 的 OrgX 插件：MCP 接线、按倡议感知的技能、Work Graph 钩子与专家 agent 包。",
+            "ja": "Grok Bot / Cursor 向け OrgX。MCP・イニシアチブ対応スキル・Work Graph・専門エージェントパック。"
+          }
+        },
+        {
+          "title": "botskills.io first-party skill catalog",
+          "url": "https://github.com/botskills/catalog",
+          "source": "GB-525",
+          "blurb": {
+            "en": "Canonical first-party Grok Bot SKILL.md set for botskills.io—morning briefing, meeting prep, invoice capture, and page-to-table scrape.",
+            "zh": "botskills.io 的官方 Grok Bot SKILL.md 集合：晨报、会前准备、发票抓取与网页转表。",
+            "ja": "botskills.io 公式の Grok Bot SKILL.md。朝のブリーフ・会議準備・請求取込・ページ→表スクレイプ。"
+          }
+        },
+        {
+          "title": "Ideabrowser Cursor/Grok Bot plugin",
+          "url": "https://github.com/ideabrowserhq/cursor-plugin",
+          "source": "GB-526",
+          "blurb": {
+            "en": "Ideabrowser marketplace plugin for Cursor and Grok Bot to browse researched startup ideas, Idea of the Day, and market trends via MCP.",
+            "zh": "面向 Cursor 与 Grok Bot 的 Ideabrowser 插件：经 MCP 浏览研究过的创业点子、每日点子与市场趋势。",
+            "ja": "Cursor / Grok Bot 向け Ideabrowser。MCP で調査済みアイデア・Idea of the Day・トレンドを閲覧。"
+          }
+        },
+        {
+          "title": "Ask Gina research plugin",
+          "url": "https://github.com/askgina/plugins",
+          "source": "GB-527",
+          "blurb": {
+            "en": "Ask Gina read-only crypto/prediction-market research plugin for Cursor and Grok Bot, with portable skills, MCP, and host adapters.",
+            "zh": "面向 Cursor 与 Grok Bot 的 Ask Gina 只读加密/预测市场研究插件，含便携技能、MCP 与多宿主适配。",
+            "ja": "Cursor / Grok Bot 向け Ask Gina 読み取り専用リサーチ。スキル・MCP・ホストアダプタ付き。"
+          }
         }
       ]
     },
@@ -3443,6 +3613,46 @@
             "en": "Local desktop workspace alternative to Grok Bot with animated agent companions, based on Bloks and explicitly not affiliated with xAI.",
             "zh": "本地桌面工作区式的 Grok Bot 替代：带动画智能体伙伴，基于 Bloks，明确与 xAI 无关。",
             "ja": "Grok Bot のローカル代替デスクトップ。アニメ付きエージェント仲間、Bloks ベース、xAI 非公式。"
+          }
+        },
+        {
+          "title": "grokbot-shim local runtime",
+          "url": "https://github.com/luckeyfaraday/grokbot-shim",
+          "source": "GB-529",
+          "blurb": {
+            "en": "Run the installed Grok Bot desktop UI against a local computer desktop and configurable Codex/OpenAI-compatible models, with noVNC takeover.",
+            "zh": "让已安装的 Grok Bot 桌面 UI 对接本机电脑桌面与可配置的 Codex/OpenAI 兼容模型，并可用 noVNC 接管。",
+            "ja": "導入済み Grok Bot UI をローカルデスクトップと Codex / OpenAI 互換モデルに接続。noVNC で操作可能。"
+          }
+        },
+        {
+          "title": "grok-bot-setup model adapters",
+          "url": "https://github.com/BlockedPath/grok-bot-setup",
+          "source": "GB-530",
+          "blurb": {
+            "en": "CLI and docs to bridge Grok Bot to custom inference providers (DeepSeek, Claude, Grok, OpenAI) via adapters.",
+            "zh": "CLI 与文档：用适配器把 Grok Bot 接到自定义推理提供方（DeepSeek、Claude、Grok、OpenAI）。",
+            "ja": "アダプタ CLI / ドキュメントで Grok Bot を DeepSeek・Claude・Grok・OpenAI など独自推論に接続。"
+          }
+        },
+        {
+          "title": "OpenBot self-hosted multi-bot",
+          "url": "https://github.com/Blackman99/openbot",
+          "source": "GB-531",
+          "blurb": {
+            "en": "AGPL self-hosted, model-agnostic Grok Bot-style multi-bot collaboration stack (SvelteKit + Fastify + Postgres) that grew from an empty morning stub.",
+            "zh": "AGPL 自托管、模型无关的 Grok Bot 风格多 Bot 协作栈（SvelteKit + Fastify + Postgres）；晨间为空壳，现已有可部署实现。",
+            "ja": "AGPL の自ホスト・モデル非依存な Grok Bot 風 multi-bot（SvelteKit + Fastify + Postgres）。朝は空、今は実装あり。"
+          }
+        },
+        {
+          "title": "Nesq Bot self-hosted teammates",
+          "url": "https://github.com/Nesqual-Tech/nesqbot",
+          "source": "GB-532",
+          "blurb": {
+            "en": "Source-available self-hosted alternative to Grok Bot: isolated Linux desktops, real browser, human gates before consequential actions, and handover ledgers.",
+            "zh": "源码可得的 Grok Bot 自托管替代：隔离 Linux 桌面、真浏览器、重大动作前人工门禁与交接账本。",
+            "ja": "Grok Bot のソース公開セルフホスト代替。隔離 Linux デスクトップ・実ブラウザ・重要操作前の人承認・引き継ぎ台帳。"
           }
         }
       ]
@@ -4903,6 +5113,26 @@
             "en": "Unofficial Omarchy bar roster that shows each Grok Bot with the same face as in the app, last message, unread bubbles, and one-click focus of the Linux client.",
             "zh": "非官方 Omarchy 栏花名册：用与 App 相同的脸显示每个 Grok Bot、最后一条消息与未读气泡，并一键聚焦 Linux 客户端。",
             "ja": "非公式 Omarchy バー名簿。アプリと同じ顔で各 Grok Bot・最終メッセージ・未読バブルを表示し、Linux クライアントをワンクリックでフォーカス。"
+          }
+        },
+        {
+          "title": "xAI Bot Marketplace (JA mirror)",
+          "url": "https://github.com/lastone3939/xai-marketplace-ja",
+          "source": "GB-533",
+          "blurb": {
+            "en": "Unofficial Japanese localization of the x.ai Grok Bot Marketplace for searching and opening the 69 public Bots with links back to official add URLs.",
+            "zh": "x.ai Grok Bot Marketplace 的非官方日文本地化：搜索并打开 69 个公开 Bot，添加链接仍指向官方。",
+            "ja": "x.ai Grok Bot Marketplace の非公式日本語版。公開 Bot 69 体を検索・詳細表示し、追加リンクは公式へ。"
+          }
+        },
+        {
+          "title": "Grok Bot Orb Expo recreation",
+          "url": "https://github.com/ngocdevv/grok-bot-emoji",
+          "source": "GB-534",
+          "blurb": {
+            "en": "Expo/React Native Skia recreation of the animated Grok Bot Orb from the x.ai/bot “Message Bots like teammates” section.",
+            "zh": "用 Expo/React Native Skia 复刻 x.ai/bot「像队友一样给 Bot 发消息」区块中的动态 Grok Bot Orb。",
+            "ja": "x.ai/bot の「チームメイトのように Bot にメッセージ」欄の Grok Bot Orb を Expo / RN Skia で再現。"
           }
         }
       ]
@@ -8689,6 +8919,37 @@
         "en": "Apply on Luma (host approval)",
         "zh": "去 Luma 报名（需审核）",
         "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "pgh-20261013",
+      "url": "https://luma.com/6lx5t8ru",
+      "image": "./assets/events/pgh-20261013-cover.png",
+      "expires": "2026-10-13T20:30:00-04:00",
+      "title": {
+        "en": "Grok Bot Meetup Pittsburgh",
+        "zh": "Grok Bot 匹兹堡线下交流",
+        "ja": "Grok Bot Meetup Pittsburgh"
+      },
+      "when": {
+        "en": "Tue 13 Oct 2026, 18:30–20:30 (EDT)",
+        "zh": "2026-10-13 周二 18:30–20:30（美东）",
+        "ja": "2026-10-13（火）18:30–20:30（EDT）"
+      },
+      "where": {
+        "en": "Pittsburgh · Oakland / Lawrenceville (exact address after you register)",
+        "zh": "匹兹堡 · Oakland / Lawrenceville（报名后可见详细地址）",
+        "ja": "ピッツバーグ · Oakland / Lawrenceville（登録後に住所を表示）"
+      },
+      "body": {
+        "en": "Pittsburgh's first city Grok Bot meetup (not campus-only). Short demo then build/swap setups; students + working folks welcome. Host Micah Smith; free; open registration (~30 seats).",
+        "zh": "匹兹堡首场城市级 Grok Bot 线下（非校园专场）：短演示后动手/换配置；学生与在职皆可。主办 Micah Smith；免费，开放报名（约 30 席）。",
+        "ja": "ピッツバーグ初のシティ向け対面ミートアップ（キャンパス限定ではない）。短いデモの後にビルド／セットアップ共有。学生・社会人歓迎。主催 Micah Smith。無料・先着約30席。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     }
   ]
