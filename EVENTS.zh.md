@@ -27,14 +27,14 @@
 <a id="bj-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-chwk"><img src="./assets/events/bj-20260919-cover.png" alt="Grok Bot 北京线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 北京线下交流</strong><br />2026-09-19 周六 14:00–18:00<br />北京 · 报名通过后可见地址<br /><br />SpaceXAI 北京线下（主办 Yafang）：产品介绍 + 用法分享。需审核，约 150 席，地址报名后可见。<br /><br /><a href="https://luma.com/spacexai-chwk"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
+<a id="can-20260913"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/l0jfxz91"><img src="./assets/events/can-20260913-cover.png" alt="Grok Bot 广州线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 广州线下交流</strong><br />2026-09-13 周日 14:00–17:30<br />广州 · 报名后可见详细地址<br /><br />广州 Grok Bot 线下：官方致辞、使用场景分享、开放麦、茶歇与 Networking。主办 Mai Yang / Kin Gao / Jason Zhu / Orange Wang；免费，需审核。<br /><br /><a href="https://luma.com/l0jfxz91"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
 <a id="country-us"></a>
 ### 美国
 
 <a id="lv-20260915"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot 拉斯维加斯线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 拉斯维加斯线下交流</strong><br />2026-09-15 周一 18:00-20:00（太平洋夏令时）<br />拉斯维加斯 · 报名审核后可见场地<br /><br />破冰 + 分享 / Workshop，Cursor 团队视频问答。需主办审核，场地待定。<br /><br /><a href="https://luma.com/cursor-kaua"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
-<a id="sfi-20260904"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-qdwh"><img src="./assets/events/sfi-20260904-cover.png" alt="Grok Bot Pop-up（Ikon Coffee）" width="300" /></a></td><td valign="top"><strong>Grok Bot Pop-up（Ikon Coffee）</strong><br />2026-09-04 周五 10:00–14:00（旧金山）<br />旧金山 · Ikon Coffee, 1302 22nd St<br /><br />Ikon Coffee 上午 cowork/动手：见 Matt Palmer、了解 Grok Bot，送 credits + 免费月。需审批（Sarah Goomar / Matt Palmer）。<br /><br /><a href="https://luma.com/spacexai-qdwh"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="hnl-20260905"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/hawaii-z15e"><img src="./assets/events/hnl-20260905-cover.png" alt="Grok Bot 动手（Hawaii Tech Week）" width="300" /></a></td><td valign="top"><strong>Grok Bot 动手（Hawaii Tech Week）</strong><br />2026-09-05 周五 09:00–12:30（檀香山）<br />夏威夷檀香山 · Entrepreneurs Sandbox, 643 Ilalo St<br /><br />Hawaii Tech Week 上午用 Grok Bot 一起做：cowork、出活、互帮。免费，已满/候补（Hawaii Tech Week / Ray Fernando）。<br /><br /><a href="https://luma.com/hawaii-z15e"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
@@ -129,18 +129,6 @@
 <a id="cdmx-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-89bf"><img src="./assets/events/cdmx-20260926-cover.png" alt="Grok Bot 墨西哥城线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 墨西哥城线下交流</strong><br />2026-09-26 周六 09:00–13:00（墨西哥城）<br />墨西哥城 · Sandbox Hub, Luis G. Urbina 4-dpto. 103, Polanco<br /><br />墨西哥城首场 Grok Bot（Sandbox Hub Polanco）：交流真实用法。主办 Javier Rivero / Ben Kim / Ricardo García，需审核，约 60 席。<br /><br /><a href="https://luma.com/spacexai-89bf"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
-<a id="country-br"></a>
-### 巴西
-
-<a id="rec-20260923"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-obsw"><img src="./assets/events/rec-20260923-cover.png" alt="Cursor + Grok Bot 累西腓工作坊" width="300" /></a></td><td valign="top"><strong>Cursor + Grok Bot 累西腓工作坊</strong><br />2026-09-23 周三 14:00–17:30（累西腓）<br />累西腓 Hub Plural Espinheiro<br /><br />累西腓动手课：用 Cursor 和 Grok Bot 一起交付，把 Grok Bot 当编辑器旁边的队友。<br /><br /><a href="https://luma.com/cursor-obsw"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="cwb-20261111"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dx23"><img src="./assets/events/cwb-20261111-cover.png" alt="Grok Bot 库里蒂巴创业线下" width="300" /></a></td><td valign="top"><strong>Grok Bot 库里蒂巴创业线下</strong><br />2026-11-11 周三 18:30–21:00（库里蒂巴）<br />库里蒂巴 Rua Marcos Moro 72<br /><br />库里蒂巴创业场：用 Grok Bot 做事、创始人经验，以及智能体时代怎么把想法做出来（嘉宾待定）。需主办审核。<br /><br /><a href="https://luma.com/cursor-dx23"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="fln-20260926"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/c293hlgc"><img src="./assets/events/fln-20260926-cover.png" alt="Grok Bot 弗洛里亚诺波利斯线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 弗洛里亚诺波利斯线下交流</strong><br />2026-09-26 周六 18:00–20:00（巴西）<br />巴西弗洛里亚诺波利斯 · Founder Haus（Jurerê Internacional）<br /><br />弗洛里亚诺波利斯首场 Grok Bot：本地作品演示与交流。论坛 170449；约 25 人意向，需审核。<br /><br /><a href="https://luma.com/c293hlgc"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
 <a id="country-ec"></a>
 ### 厄瓜多尔
 
@@ -165,6 +153,15 @@
 <a id="osa-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotosaka"><img src="./assets/events/osa-20260917-cover.png" alt="Grok Bot 大阪线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 大阪线下交流</strong><br />2026-09-17 周四 19:00–21:30（大阪）<br />大阪北区梅田 North Gate Building<br /><br />大阪线下 Grok Bot。需主办审核。<br /><br /><a href="https://luma.com/grokbotosaka"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
+<a id="country-br"></a>
+### 巴西
+
+<a id="cwb-20261111"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dx23"><img src="./assets/events/cwb-20261111-cover.png" alt="Grok Bot 库里蒂巴创业线下" width="300" /></a></td><td valign="top"><strong>Grok Bot 库里蒂巴创业线下</strong><br />2026-11-11 周三 18:30–21:00（库里蒂巴）<br />库里蒂巴 Rua Marcos Moro 72<br /><br />库里蒂巴创业场：用 Grok Bot 做事、创始人经验，以及智能体时代怎么把想法做出来（嘉宾待定）。需主办审核。<br /><br /><a href="https://luma.com/cursor-dx23"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="fln-20260926"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/c293hlgc"><img src="./assets/events/fln-20260926-cover.png" alt="Grok Bot 弗洛里亚诺波利斯线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 弗洛里亚诺波利斯线下交流</strong><br />2026-09-26 周六 18:00–20:00（巴西）<br />巴西弗洛里亚诺波利斯 · Founder Haus（Jurerê Internacional）<br /><br />弗洛里亚诺波利斯首场 Grok Bot：本地作品演示与交流。论坛 170449；约 25 人意向，需审核。<br /><br /><a href="https://luma.com/c293hlgc"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
 <a id="country-gt"></a>
 ### 危地马拉
 
@@ -173,15 +170,6 @@
 
 <a id="gua-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-is2h"><img src="./assets/events/gua-20261003-cover.png" alt="Grok Bot 危地马拉城线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 危地马拉城线下交流</strong><br />2026-10-03 周六 10:00–14:00（危地马拉城）<br />危地马拉城 Zona 10 弗朗西斯科·马罗金大学 · 报名后可见门牌<br /><br />Open2 在危地马拉城办的 Grok Bot 见面会：用更好的指令、上下文与端到端流程，而不只是零散任务，并有试用额度（约 36 人意向，需主办审核）。<br /><br /><a href="https://luma.com/cursor-is2h"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="country-in"></a>
-### 印度
-
-<a id="vad-20260905"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-vad-1"><img src="./assets/events/vad-20260905-cover.png" alt="Grok Bot 巴罗达线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 巴罗达线下交流</strong><br />2026-09-05 周六 10:00–13:00（巴罗达）<br />巴罗达 · 报名通过后可见地址<br /><br />巴罗达线下 Grok Bot。需主办审核。<br /><br /><a href="https://luma.com/grokbot-vad-1"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="amd-20260912"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/hc0xjkw3"><img src="./assets/events/amd-20260912-cover.png" alt="Grok Bot 艾哈迈达巴德线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 艾哈迈达巴德线下交流</strong><br />2026-09-12 周六 17:00–19:00（艾哈迈达巴德）<br />印度艾哈迈达巴德 · 场地待定<br /><br />艾哈迈达巴德动手会：真正用 Grok Bot 当 AI 队友、接真实工具。免费，约 29 席，需审批（主持 Aakash）。<br /><br /><a href="https://luma.com/hc0xjkw3"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="country-nl"></a>
 ### 荷兰
@@ -200,15 +188,6 @@
 
 <a id="lim-20260911"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/ybo7udvo"><img src="./assets/events/lim-20260911-cover.png" alt="Grok Bot 利马 Build Night" width="300" /></a></td><td valign="top"><strong>Grok Bot 利马 Build Night</strong><br />2026-09-11 周五 19:00–23:00（秘鲁）<br />利马秘鲁天主教大学（San Miguel）<br /><br />利马 Grok Bot 动手夜。免费，需审核，可候补，还剩 36 个名额。<br /><br /><a href="https://luma.com/ybo7udvo"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="country-ph"></a>
-### 菲律宾
-
-<a id="mnl-20260904"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-manila-01"><img src="./assets/events/mnl-20260904-cover.png" alt="Grok Bot 马尼拉线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 马尼拉线下交流</strong><br />2026-09-04 周五 17:00–21:00（马尼拉）<br />马尼拉 Pasig / Ortigas · 报名后可见地址<br /><br />Cursor 马尼拉线下 Grok Bot 夜。免费开放报名，还剩 282 个名额。<br /><br /><a href="https://luma.com/grok-bot-manila-01"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
-<a id="ceb-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot 宿务线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 宿务线下交流</strong><br />2026-09-19 周六 09:00–11:30（宿务）<br />宿务 · 报名通过后可见地址<br /><br />宿务线下 Grok Bot。需主办审核。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
 <a id="country-al"></a>
 ### 阿尔巴尼亚
@@ -264,6 +243,12 @@
 <a id="tlv-20260908"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-qdl0"><img src="./assets/events/tlv-20260908-cover.png" alt="Grok Bot 特拉维夫线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 特拉维夫线下交流</strong><br />2026-09-08 周一 18:00–20:00（以色列夏令时）<br />特拉维夫 · Sarona（报名后可见精确地址）<br /><br />特拉维夫全球首场 Grok Bot 线下：把真活交给云电脑队友。<br /><br /><a href="https://luma.com/cursor-qdl0"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
+<a id="country-in"></a>
+### 印度
+
+<a id="vad-20260905"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-vad-1"><img src="./assets/events/vad-20260905-cover.png" alt="Grok Bot 巴罗达线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 巴罗达线下交流</strong><br />2026-09-05 周六 10:00–13:00（巴罗达）<br />巴罗达 · 报名通过后可见地址<br /><br />巴罗达线下 Grok Bot。需主办审核。<br /><br /><a href="https://luma.com/grokbot-vad-1"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
 <a id="country-ke"></a>
 ### 肯尼亚
 
@@ -288,17 +273,17 @@
 <a id="kul-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot"><img src="./assets/events/kul-20260919-cover.png" alt="Grok Bot 吉隆坡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 吉隆坡线下交流</strong><br />2026-09-19 周六 18:00–20:00（吉隆坡）<br />吉隆坡 · 报名通过后可见地址<br /><br />吉隆坡线下 Grok Bot。免费，需审核，可候补，还剩 99 个名额。<br /><br /><a href="https://luma.com/grok-bot"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
+<a id="country-ph"></a>
+### 菲律宾
+
+<a id="ceb-20260919"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot 宿务线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 宿务线下交流</strong><br />2026-09-19 周六 09:00–11:30（宿务）<br />宿务 · 报名通过后可见地址<br /><br />宿务线下 Grok Bot。需主办审核。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
 <a id="country-pt"></a>
 ### 葡萄牙
 
 <a id="prt-20260909"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/wpvpza3f"><img src="./assets/events/prt-20260909-cover.png" alt="Grok Bot 波尔图线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 波尔图线下交流</strong><br />2026-09-09 周三 17:30–20:00（波尔图）<br />葡萄牙波尔图 · The Social Hub Porto, Praça de Dom João I 80<br /><br />波尔图官方 Grok Bot 线下：开发者与 AI 爱好者交流。Luma 候补/审核（约 19 人意向）。<br /><br /><a href="https://luma.com/wpvpza3f"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
-<a id="country-sg"></a>
-### 新加坡
-
-<a id="sg-20260904"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotsg"><img src="./assets/events/sg-20260904-cover.png" alt="Grok Bot 新加坡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 新加坡线下交流</strong><br />2026-09-04 周五 18:00–21:00（新加坡）<br />新加坡河 SGInnovate · 报名通过后可见门牌<br /><br />新加坡首场 Grok Bot 线下：看云电脑队友能干什么、换用法、现场领额度上手（笔记本或手机即可）。有 SpaceX 体系惊喜嘉宾。需主办审核，与 SGInnovate 合办。<br /><br /><a href="https://luma.com/grokbotsg"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
 <a id="country-sv"></a>
 ### 萨尔瓦多

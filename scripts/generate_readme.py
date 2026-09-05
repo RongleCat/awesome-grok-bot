@@ -331,6 +331,7 @@ EVENT_GEO = {
     "sfsales-20260916": ("us", "San Francisco (Sales)", "旧金山（销售）", "サンフランシスコ（Sales）"),
     "frb-20260917": ("de", "Freiburg", "弗赖堡", "フライブルク"),
     "bj-20260919": ("cn", "Beijing", "北京", "北京"),
+    "can-20260913": ("cn", "Guangzhou", "广州", "広州"),
     "bdg-20260919": ("id", "Bandung", "万隆", "バンドン"),
     "cuu-20260924": ("mx", "Chihuahua", "奇瓦瓦", "チワワ"),
     "cdmx-20260926": ("mx", "Mexico City", "墨西哥城", "メキシコシティ"),

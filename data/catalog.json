@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -544,6 +544,16 @@
             "zh": "官方 x.ai/bot 用例廊：按销售、营销、支持、招聘、运营、产品、工程浏览可直接交办的 Bot 工作（与已收录的 docs.x.ai/grok-bot/use-cases 文档页不同）。",
             "ja": "公式 x.ai/bot ユースケース一覧。営業・マーケ・サポート・採用・Ops・プロダクト・エンジニアリング向けの引き渡し可能な Bot 仕事（収録済み docs.x.ai/grok-bot/use-cases とは別ページ）。"
           }
+        },
+        {
+          "title": "Setting Grok Bot loose on procurement (Haggle Bot)",
+          "url": "https://x.ai/news/grok-bot-procurement",
+          "source": "day-20260905-0804-official",
+          "blurb": {
+            "en": "Official (2026-09-04): xAI’s Haggle Bot case—give a procurement Bot spend/contracts/usage access plus permission lines, and it surfaced $100k+ in evidence-backed SaaS-seat and renewal savings with a human still making final vendor decisions.",
+            "zh": "官方（2026-09-04）：xAI 采购 Haggle Bot 案例——给采购 Bot 支出/合同/用量权限与许可边界，即可挖出 10 万美元级有证据的 SaaS 闲置席位与续约节省，最终拍板仍由人确认。",
+            "ja": "公式（2026-09-04）。xAI の調達 Haggle Bot 事例——支出・契約・利用データと権限ラインを渡すと、証拠付きで 10 万ドル超の SaaS 席・更新節約を出し、最終判断は人が行う。"
+          }
         }
       ]
     },
@@ -853,6 +863,36 @@
             "en": "Unofficial English how-to for Cursor login, a copyable first job, shared-computer isolation, dated plan conflicts, and Recover before Reset.",
             "zh": "非官方英文手册：Cursor 登录、可复制首单、共享电脑隔离、计划页冲突对照，以及 Recover 优先于 Reset。",
             "ja": "非公式の英語ハウツー。Cursor ログイン、コピー可能な最初の仕事、共有コンピュータの隔離、プランページの食い違い、Recover を Reset より先に、をまとめています。"
+          }
+        },
+        {
+          "title": "Grok Bot fleet ops lessons",
+          "url": "https://github.com/jasonpalmer1/grok-fleet-lessons",
+          "source": "GB-498",
+          "blurb": {
+            "en": "Sanitized ops lessons for running a Grok Bot fleet beside Claude—hub/lanes, token thrift, dual-runtime source of truth, and room-noise rules.",
+            "zh": "把 Grok Bot 舰队和 Claude 舰队一起跑的运维经验：hub/lanes、省 token、双运行时真源，以及群聊降噪规则。",
+            "ja": "Claude 艦隊と並走する Grok Bot 艦隊の運用メモ。hub/lanes・トークン節約・二重ランタイム SoT・ルーム雑音ルール。"
+          }
+        },
+        {
+          "title": "Grok Bot Spec-to-Ship kit",
+          "url": "https://github.com/Iron-Mark/grok-bot-spec-to-ship",
+          "source": "GB-499",
+          "blurb": {
+            "en": "Open kit and live-run proof that a Grok Bot group can take a vague objective through research and PRD to a shipped PR without a human router.",
+            "zh": "开源工具包与 live-run 证明：Grok Bot 群组可把模糊目标经研究与 PRD 一路做到已合并 PR，无需人类当路由。",
+            "ja": "オープンキットと live-run 証明。Grok Bot グループが曖昧な目標を調査・PRD 経由でマージ済み PR まで運び、人間ルータ不要。"
+          }
+        },
+        {
+          "title": "Grok Bot Bluebook (管家手册)",
+          "url": "https://github.com/Backtthefuture/grokbot-bluebook",
+          "source": "GB-500",
+          "blurb": {
+            "en": "Chinese “chief-of-staff” handbook and case site for running Grok Bot as a full work butler, mirrored from Feishu into a VitePress publish repo.",
+            "zh": "把 Grok Bot 当「大管家」的中文上手指南与案例站：飞书正文镜像到 VitePress 发布仓，含开篇与十二案例。",
+            "ja": "Grok Bot を大管家として使う中国語ハンドブック／事例サイト。飛書本文を VitePress 公開リポジトリへミラー。"
           }
         }
       ]
@@ -1313,6 +1353,36 @@
             "en": "University of Michigan course planner built by a three-Bot Grok Bot team at SpaceXAI@UMich Build Night, with a reusable BOT-TEMPLATE.md for coordinator and worker roles.",
             "zh": "SpaceXAI@UMich Build Night 上由三 Bot Grok Bot 小队做出的密歇根大学选课规划器，并附可复用的 BOT-TEMPLATE.md（协调者/工程师/收集者分工）。",
             "ja": "SpaceXAI@UMich Build Night で 3 体の Grok Bot チームが作ったミシガン大学の履修プランナー。Coordinator／Engineer／Collector の再利用可能な BOT-TEMPLATE.md 付き。"
+          }
+        },
+        {
+          "title": "Grok meme-desk playbooks",
+          "url": "https://github.com/shaharmaimon/grok-meme-desk-playbooks",
+          "source": "GB-501",
+          "blurb": {
+            "en": "Public playbooks, signal schema, and box-side scripts for a multi-Bot Grok Bot memecoin research squad that only analyzes and never holds keys.",
+            "zh": "公开的多 Bot Grok Bot 模因币研究小队 playbook、信号 schema 与 box 侧脚本：只做分析，不持密钥、不下单。",
+            "ja": "複数 Bot の Grok Bot ミームコイン調査班向け公開 playbook・信号 schema・箱側スクリプト。分析のみで鍵は持たず取引しない。"
+          }
+        },
+        {
+          "title": "Real World Agents org chart",
+          "url": "https://github.com/pyco404/-real-world-agents",
+          "source": "GB-502",
+          "blurb": {
+            "en": "Reusable Grok Bot org-chart setup that assigns outcomes to named seats (Atlas, Scout, Quill, …) instead of task lists, with charters and hard never-do fences.",
+            "zh": "可复用的 Grok Bot 组织图配置：把结果交给具名席位（Atlas、Scout、Quill…）而非待办列表，含章程与硬性禁区。",
+            "ja": "再利用可能な Grok Bot 組織図。タスク一覧ではなく Atlas / Scout / Quill などの席に成果を割り当て、憲章と禁止線付き。"
+          }
+        },
+        {
+          "title": "Daily Diff news site by Grok Bot",
+          "url": "https://github.com/indrayam/samachar",
+          "source": "GB-503",
+          "blurb": {
+            "en": "Static “Daily Diff” newspaper site whose edition.json feed is aggregated by a Grok Bot, with live hosting at dailydiff.indrayam.com.",
+            "zh": "静态「Daily Diff」报纸站：edition.json 由 Grok Bot 汇总，线上见 dailydiff.indrayam.com。",
+            "ja": "静的な Daily Diff 新聞サイト。edition.json を Grok Bot が集約し、dailydiff.indrayam.com で公開。"
           }
         }
       ]
@@ -2424,6 +2494,76 @@
             "zh": "面向 Grok Bot 的 GoFaceless 视频插件：含 plugin.json、托管 MCP 与 SKILL.md，可在云电脑队友里创建、报价、授权、监控并修订持久视频会话。",
             "ja": "Grok Bot 向け GoFaceless 動画プラグイン。plugin.json・ホスト MCP・SKILL.md で、クラウド仲間から耐久セッションの作成・見積・承認・監視・改訂ができます。"
           }
+        },
+        {
+          "title": "TaskBullet Agent plugin",
+          "url": "https://github.com/GriffMurder/taskbullet-agent-plugin",
+          "source": "GB-491",
+          "blurb": {
+            "en": "Cursor/Grok Bot plugin with hosted TaskBullet Agent MCP and an escalate-to-VA skill so a cloud Bot can delegate phone, 2FA, captcha, and other human-only work.",
+            "zh": "面向 Cursor/Grok Bot 的插件：接 TaskBullet 托管 Agent MCP，并带 escalate-to-VA 技能，让云电脑 Bot 把电话、2FA、验证码等人工活派给虚拟助理。",
+            "ja": "Cursor / Grok Bot 向け。ホスト TaskBullet Agent MCP と escalate-to-VA スキルで、電話・2FA・CAPTCHA など人間向け作業をクラウド Bot から委任できます。"
+          }
+        },
+        {
+          "title": "Property Bot Grok plugin",
+          "url": "https://github.com/fourcolors/property-bot-grok-plugin",
+          "source": "GB-492",
+          "blurb": {
+            "en": "Development Grok Bot/Cursor plugin with OAuth MCP to mcp.property.bot and a /property-bot skill for personal housing and roommate searches.",
+            "zh": "面向 Grok Bot/Cursor 的开发预览插件：OAuth MCP 接 mcp.property.bot，并带 /property-bot 技能，做个人找房与合租搜索。",
+            "ja": "Grok Bot / Cursor 向け開発プレビュー。mcp.property.bot への OAuth MCP と /property-bot スキルで住居・ルームメイト検索。"
+          }
+        },
+        {
+          "title": "Juliano assistant plugin",
+          "url": "https://github.com/jzimath-lab/juliano-assistant-plugin",
+          "source": "GB-493",
+          "blurb": {
+            "en": "Cursor/Grok Bot plugin for restricted OB1, Obsidian, and VPS MCP access, plus a Hermes→Grok Bot multi-bot migration playbook.",
+            "zh": "Cursor/Grok Bot 插件：受限的 OB1、Obsidian 与 VPS MCP 访问，并附 Hermes→Grok Bot 多 Bot 迁移方案。",
+            "ja": "Cursor / Grok Bot プラグイン。制限付き OB1・Obsidian・VPS MCP と、Hermes→Grok Bot のマルチ Bot 移行プレイブック付き。"
+          }
+        },
+        {
+          "title": "Obsidian vault skills for Grok Bot",
+          "url": "https://github.com/SohamKukreti/obsidian-vault-plugin",
+          "source": "GB-494",
+          "blurb": {
+            "en": "Skills-only Grok Bot plugin that writes research and daily notes into a git-backed Obsidian vault from the cloud computer—no local server required.",
+            "zh": "纯技能包 Grok Bot 插件：在云电脑上把研究与日记写入 git 同步的 Obsidian 仓库，无需本机服务器。",
+            "ja": "スキルのみの Grok Bot プラグイン。クラウド PC から git 同期 Obsidian vault に研究メモやデイリーノートを書き、ローカルサーバ不要。"
+          }
+        },
+        {
+          "title": "Grok Telegram Gateway plugin",
+          "url": "https://github.com/roelsmelt/grok-telegram-gateway",
+          "source": "GB-495",
+          "blurb": {
+            "en": "Cursor Marketplace plugin that wires Grok Bot to Telegram via BotFather with long-poll, webhook wake, typing, and send helpers on the agent box.",
+            "zh": "Cursor Marketplace 插件：经 BotFather 把 Grok Bot 接到 Telegram，含长轮询、webhook 唤醒、输入中与发送等 box 侧助手。",
+            "ja": "Cursor Marketplace プラグイン。BotFather 経由で Grok Bot を Telegram に接続し、long-poll・webhook・入力中・送信ヘルパーを箱側に用意。"
+          }
+        },
+        {
+          "title": "Grok Bot Codex skill",
+          "url": "https://github.com/Jockeys97/grok-bot-codex-skill",
+          "source": "GB-496",
+          "blurb": {
+            "en": "OpenAI Codex Computer Use skill that drives the real Grok Bot desktop app—select a Bot, continue conversations, attach files, and inspect the Bot computer.",
+            "zh": "OpenAI Codex Computer Use 技能：操控本机 Grok Bot 桌面应用，选择 Bot、续聊、附文件并查看 Bot 电脑。",
+            "ja": "OpenAI Codex Computer Use スキル。実機の Grok Bot デスクトップを操作し、Bot 選択・会話継続・ファイル添付・Bot PC 確認ができます。"
+          }
+        },
+        {
+          "title": "Remy HQ plugin",
+          "url": "https://github.com/vibemetrixai/remy-hq-plugin",
+          "source": "GB-497",
+          "blurb": {
+            "en": "Cursor/Grok Bot plugin that connects the Remy HQ OAuth MCP so a Bot can run a Vibe Metrix agent fleet, HQ memory, email, GitHub, and Cloudflare tools.",
+            "zh": "Cursor/Grok Bot 插件：接 Remy HQ OAuth MCP，让 Bot 调度 Vibe Metrix 智能体舰队、HQ 记忆、邮件、GitHub 与 Cloudflare 工具。",
+            "ja": "Cursor / Grok Bot プラグイン。Remy HQ OAuth MCP で Vibe Metrix 艦隊・HQ メモリ・メール・GitHub・Cloudflare ツールを操作。"
+          }
         }
       ]
     },
@@ -3273,6 +3413,36 @@
             "en": "Open-source local-first Grok Bot alternative: a messaging-style roster of Claude/Codex/grok CLI agents, each with its own computer, model picker, and signed Mac/Windows/Ubuntu builds.",
             "zh": "开源本地优先的 Grok Bot 替代：消息风格的 Bot 花名册，底层接 Claude/Codex/grok CLI，每 Bot 自带电脑与模型选择，并提供已签名的 Mac/Windows/Ubuntu 安装包。",
             "ja": "オープンソースのローカル優先 Grok Bot 代替。Claude/Codex/grok CLI のエージェントをメッセージ風名簿で扱い、Bot ごとに PC とモデル選択、署名済み Mac/Windows/Ubuntu ビルドを提供します。"
+          }
+        },
+        {
+          "title": "Grok Bot 0.18 offline Windows rebuild",
+          "url": "https://github.com/GeniusTDY/grok-bot-offline",
+          "source": "GB-505",
+          "blurb": {
+            "en": "Unofficial source-oriented reconstruction of Grok Bot 0.18 with an air-gapped Windows portable path and Local 9Router workspace that does not need a Cursor login.",
+            "zh": "非官方、面向源码的 Grok Bot 0.18 重建：支持气隙 Windows 便携目录，以及无需 Cursor 登录的 Local 9Router 工作区。",
+            "ja": "非公式のソース志向 Grok Bot 0.18 再構築。エアギャップ Windows ポータブルと、Cursor ログイン不要の Local 9Router ワークスペース。"
+          }
+        },
+        {
+          "title": "Grok Bot meetup check-in wall",
+          "url": "https://github.com/bchewy/grokbot-wall",
+          "source": "GB-506",
+          "blurb": {
+            "en": "Three.js ASCII Grok Bot venue wall that greets Luma check-ins by name and emails each guest a Cursor credit code via Resend.",
+            "zh": "Three.js ASCII Grok Bot 会场墙：按姓名欢迎 Luma 签到，并用 Resend 给每位嘉宾发 Cursor 积分码。",
+            "ja": "Three.js ASCII の Grok Bot 会場ウォール。Luma チェックインを名前で迎え、Resend で Cursor クレジットコードをメール。"
+          }
+        },
+        {
+          "title": "Orbit local Grok Bot alternative",
+          "url": "https://github.com/0xr3ngar/orbit",
+          "source": "GB-507",
+          "blurb": {
+            "en": "Local desktop workspace alternative to Grok Bot with animated agent companions, based on Bloks and explicitly not affiliated with xAI.",
+            "zh": "本地桌面工作区式的 Grok Bot 替代：带动画智能体伙伴，基于 Bloks，明确与 xAI 无关。",
+            "ja": "Grok Bot のローカル代替デスクトップ。アニメ付きエージェント仲間、Bloks ベース、xAI 非公式。"
           }
         }
       ]
@@ -4234,6 +4404,36 @@
             "zh": "官方（Colin）：跨会话“串台”是当前设计——每个 Bot 只有一份对话与记忆，覆盖 1:1 与其加入的所有群；群消息有房间标记，但记忆属于 Bot 本身，因此项目 X/Y 应分给不同 Bot（或把笔记落到项目文件夹，可靠性不如分 Bot）。",
             "ja": "スタッフ（Colin）：チャット間の「漏れ」は想定動作——各 Bot は 1:1 と所属グループをまたぐ会話・記憶を一つ持ち、グループ発話は部屋タグ付きでも記憶は Bot 単位。Project X/Y は別 Bot に分けるのが確実（プロジェクトフォルダへメモは指示依存で弱い）。"
           }
+        },
+        {
+          "title": "Shopify browser blocked — use Admin API / custom MCP, not agent Chrome",
+          "url": "https://forum.cursor.com/t/shopify-store-connector/170605",
+          "source": "day-20260905-0804",
+          "blurb": {
+            "en": "Staff (Colin): Shopify’s anti-bot check blocks the agent computer’s browser—skip login pages and use a store custom app Admin API token via Settings → Plugins custom MCP (community Shopify Admin MCP) until a first-party Shopify connector ships.",
+            "zh": "官方（Colin）：Shopify 反爬会拦代理云电脑浏览器——先别硬登后台，在店后台建自定义应用拿 Admin API token，经 Settings→Plugins 自定义 MCP（社区 Shopify Admin MCP）直连，等待官方 Shopify 连接器。",
+            "ja": "スタッフ（Colin）：Shopify のボット対策がエージェント PC のブラウザを遮断——ログインページを避け、ストアのカスタムアプリ Admin API トークンを Settings→Plugins のカスタム MCP（コミュニティ Shopify Admin MCP）で直結し、公式コネクタ待ち。"
+          }
+        },
+        {
+          "title": "Unreachable after heavy media — 16 GB RAM exhaustion",
+          "url": "https://forum.cursor.com/t/grok-bot-unreachable-all-day/169856",
+          "source": "day-20260905-0804",
+          "blurb": {
+            "en": "Staff (Colin): “Unreachable” during heavier media work often means the cloud machine hit its ~16 GB RAM ceiling within minutes—Recover keeps Bots/files/logins intact; until the machine rides it out, keep jobs under that memory budget.",
+            "zh": "官方（Colin）：重媒体任务时“不可达”常是云电脑约 16GB 内存几分钟内打满——Recover 后 Bot/文件/登录仍在；在机器能自行扛住前，把任务压在该内存上限内。",
+            "ja": "スタッフ（Colin）：重いメディア作業での「到達不可」は、クラウド機が約 16GB RAM 上限に数分で達したパターンが多い——Recover で Bot/ファイル/ログインは残る。自律耐性が出るまではそのメモリ予算内に抑える。"
+          }
+        },
+        {
+          "title": "Can’t reach after Active Sessions revoke — sign out/in, not Retry",
+          "url": "https://forum.cursor.com/t/cant-access-grok-bot-anymore-probably-after-updating-to-0-39-0/170568",
+          "source": "day-20260905-0804",
+          "blurb": {
+            "en": "Staff (Colin): Apps showing Can’t-reach after an Active Sessions revoke on cursor.com still hold the old session—Retry/Update/Reset and VPN won’t help; sign out and back in on each device (0.39.0 is unrelated), and bots load once the new session sticks.",
+            "zh": "官方（Colin）：在 cursor.com Active Sessions 撤销会话后，客户端仍握着旧登录却显示连不上——Retry/Update/Reset 与换网络无效；各设备先退出再登录（与 0.39.0 无关），新会话稳住后 Bot 会回来。",
+            "ja": "スタッフ（Colin）：cursor.com の Active Sessions で失効後も古いセッションを握ったまま Can’t-reach になる——Retry/Update/Reset や VPN は無効。各デバイスでサインアウト→再ログイン（0.39.0 無関係）し、新セッションが付けば Bot が戻る。"
+          }
         }
       ]
     },
@@ -4683,6 +4883,26 @@
             "en": "Unofficial Omarchy bar widget for the native Rust Grok Bot TUI: sleeping/awake face, inbox panel from inbox.json, and argv-safe launch into grokbot-tui without reading tokens.",
             "zh": "非官方 Omarchy 顶栏插件，对接原生 Rust Grok Bot TUI：休眠/醒来表情、从 inbox.json 读收件箱面板，并以安全 argv 启动 grokbot-tui（不读 token）。",
             "ja": "ネイティブ Rust 製 Grok Bot TUI 向けの非公式 Omarchy バーウィジェット。inbox.json の受信箱、スリープ／起床フェイス、トークンを読まず argv で grokbot-tui を起動します。"
+          }
+        },
+        {
+          "title": "OLYMPUS Grok Bot architecture",
+          "url": "https://github.com/BoxLogoDev/olympus_grokbot",
+          "source": "GB-508",
+          "blurb": {
+            "en": "Korean hierarchical multi-bot operating architecture (Zeus→Hestia→gods→humans) with copy-paste Grok Bot prompts, YAML contracts, and templates.",
+            "zh": "韩语分层多 Bot 运营架构（宙斯→赫斯提亚→神→人）：可粘贴的 Grok Bot 提示词、YAML 契约与模板。",
+            "ja": "韓国語の階層マルチ Bot 運用設計（ゼウス→ヘスティア→神→人間）。貼り付け用 Grok Bot プロンプト・YAML 契約・テンプレ。"
+          }
+        },
+        {
+          "title": "Omarchy Grok Bots inbox roster",
+          "url": "https://github.com/glorics/omarchy-grok-bots",
+          "source": "GB-511",
+          "blurb": {
+            "en": "Unofficial Omarchy bar roster that shows each Grok Bot with the same face as in the app, last message, unread bubbles, and one-click focus of the Linux client.",
+            "zh": "非官方 Omarchy 栏花名册：用与 App 相同的脸显示每个 Grok Bot、最后一条消息与未读气泡，并一键聚焦 Linux 客户端。",
+            "ja": "非公式 Omarchy バー名簿。アプリと同じ顔で各 Grok Bot・最終メッセージ・未読バブルを表示し、Linux クライアントをワンクリックでフォーカス。"
           }
         }
       ]
@@ -6026,7 +6246,7 @@
       "id": "rec-20260923",
       "url": "https://luma.com/cursor-obsw",
       "image": "./assets/events/rec-20260923-cover.png",
-      "expires": "2026-09-23T17:30:00-03:00",
+      "expires": "2026-09-05T00:00:00+08:00",
       "title": {
         "en": "Cursor + Grok Bot Workshop Recife",
         "zh": "Cursor + Grok Bot 累西腓工作坊",
@@ -7638,7 +7858,7 @@
       "id": "amd-20260912",
       "url": "https://luma.com/hc0xjkw3",
       "image": "./assets/events/amd-20260912-cover.png",
-      "expires": "2026-09-12T19:00:00+05:30",
+      "expires": "2026-09-05T00:00:00+08:00",
       "title": {
         "en": "Grok Bot Meetup Ahmedabad",
         "zh": "Grok Bot 艾哈迈达巴德线下交流",
@@ -8433,6 +8653,37 @@
         "en": "First CDMX Grok Bot meetup at Sandbox Hub Polanco — hang out and swap real uses. Hosts Javier Rivero / Ben Kim / Ricardo García; approval; ~60 seats.",
         "zh": "墨西哥城首场 Grok Bot（Sandbox Hub Polanco）：交流真实用法。主办 Javier Rivero / Ben Kim / Ricardo García，需审核，约 60 席。",
         "ja": "CDMX 初の対面（Sandbox Hub Polanco）。主催 Javier Rivero / Ben Kim / Ricardo García。承認制・約 60 席。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "can-20260913",
+      "url": "https://luma.com/l0jfxz91",
+      "image": "./assets/events/can-20260913-cover.png",
+      "expires": "2026-09-13T17:30:00+08:00",
+      "title": {
+        "en": "Grok Bot Meetup Guangzhou",
+        "zh": "Grok Bot 广州线下交流",
+        "ja": "Grok Bot Meetup Guangzhou"
+      },
+      "when": {
+        "en": "Sun 13 Sep 2026, 14:00–17:30 (GMT+8)",
+        "zh": "2026-09-13 周日 14:00–17:30",
+        "ja": "2026-09-13（日）14:00–17:30（GMT+8）"
+      },
+      "where": {
+        "en": "Guangzhou · exact address after you register",
+        "zh": "广州 · 报名后可见详细地址",
+        "ja": "広州 · 登録後に住所が表示されます"
+      },
+      "body": {
+        "en": "Guangzhou Grok Bot offline meetup — product intro, use-case shares, open mic, tea break + networking. Hosts Mai Yang / Kin Gao / Jason Zhu / Orange Wang; free; host approval.",
+        "zh": "广州 Grok Bot 线下：官方致辞、使用场景分享、开放麦、茶歇与 Networking。主办 Mai Yang / Kin Gao / Jason Zhu / Orange Wang；免费，需审核。",
+        "ja": "広州の対面ミートアップ。製品紹介・ユースケース共有・オープンマイク・交流。主催 Mai Yang / Kin Gao / Jason Zhu / Orange Wang。無料・承認制。"
       },
       "cta": {
         "en": "Apply on Luma (host approval)",
