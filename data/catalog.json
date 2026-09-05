@@ -1394,6 +1394,36 @@
             "zh": "可粘贴提示词：让 Grok Bot 在云电脑上搭七智能体纸面交易台，并开共享 Trading Floor 群聊。",
             "ja": "貼るだけで Grok Bot がクラウド PC 上に 7 エージェントのペーパートレード机と Trading Floor グループを作るプロンプト。"
           }
+        },
+        {
+          "title": "TermPilot student-life Grok Bot tower",
+          "url": "https://github.com/FrankAsanteVanLaarhoven/TermPilot",
+          "source": "GB-538",
+          "blurb": {
+            "en": "Student-life control tower with Scout/Verifier/Planner/Guardian Grok Bot specialists, .grok skills, OR-Tools planning, and approval-gated demo calendar writes.",
+            "zh": "学生生活控制塔：Scout/Verifier/Planner/Guardian 等 Grok Bot 专家、.grok 技能、OR-Tools 排程，以及审批门禁的演示日历写入。",
+            "ja": "Scout / Verifier / Planner / Guardian の Grok Bot 専門家、.grok スキル、OR-Tools 計画、承認付きデモカレンダー書き込みの学生生活コントロールタワー。"
+          }
+        },
+        {
+          "title": "Termwise syllabus Grok Bot + web app",
+          "url": "https://github.com/chhaviiiii/termwise",
+          "source": "GB-539",
+          "blurb": {
+            "en": "Shareable Grok Bot template plus Next.js app that extracts syllabi, flags collisions, drafts weekly briefs and extension emails, with .grok skills and install docs.",
+            "zh": "可分享的 Grok Bot 模板与 Next.js 应用：提取教学大纲、标冲突、写周报与延期邮件草稿，含 .grok 技能与安装说明。",
+            "ja": "共有可能な Grok Bot テンプレートと Next.js アプリ。シラバス抽出・衝突検知・週次ブリーフと延期メール下書き。.grok スキルと導入手順付き。"
+          }
+        },
+        {
+          "title": "Sanitized multi-Bot fleet export",
+          "url": "https://github.com/ofs100private/GrokBot",
+          "source": "GB-540",
+          "blurb": {
+            "en": "Sanitized Grok Bot backup of eight agents (Chief of Staff, traders, X watch, eToro QA) with profiles, automations, and shared workflow SKILL.md files.",
+            "zh": "脱敏的 Grok Bot 备份：八个智能体（幕僚长、交易、X 盯盘、eToro QA）含配置、自动化与共享 workflow SKILL.md。",
+            "ja": "8 エージェント（Chief of Staff・トレーダー・X 監視・eToro QA）のプロファイル、自動化、共有 workflow SKILL.md を含むサニタイズ済み Grok Bot バックアップ。"
+          }
         }
       ]
     },
@@ -2734,6 +2764,36 @@
             "zh": "面向 Cursor 与 Grok Bot 的 Ask Gina 只读加密/预测市场研究插件，含便携技能、MCP 与多宿主适配。",
             "ja": "Cursor / Grok Bot 向け Ask Gina 読み取り専用リサーチ。スキル・MCP・ホストアダプタ付き。"
           }
+        },
+        {
+          "title": "Tesla Fleet Oracle Bot plugin",
+          "url": "https://github.com/omgawdmadeit1/tesla-fleet-oracle-bot",
+          "source": "GB-535",
+          "blurb": {
+            "en": "Grok Bot/.grok-plugin teammate that writes read-only Tesla Trek / XYO quest briefs from pasted facts—no vehicle commands, tokens, or keys.",
+            "zh": "Grok Bot/.grok-plugin 队友：根据粘贴事实撰写只读 Tesla Trek / XYO 任务简报，不含车辆指令、令牌或密钥。",
+            "ja": "Grok Bot / .grok-plugin 向け。貼り付け事実から Tesla Trek / XYO クエストの読み取り専用ブリーフを作成。車両コマンド・トークン・鍵なし。"
+          }
+        },
+        {
+          "title": "x402 Marketplace Operator Bot plugin",
+          "url": "https://github.com/omgawdmadeit1/x402-marketplace-operator-bot",
+          "source": "GB-536",
+          "blurb": {
+            "en": "Grok Bot/.grok-plugin that packages a skill or Bot for x402 / LVL / DogeForge listing drafts and checklists; human publishes and signs.",
+            "zh": "Grok Bot/.grok-plugin：把技能或 Bot 打成 x402 / LVL / DogeForge 上架草稿与清单，由人类发布并签名。",
+            "ja": "Grok Bot / .grok-plugin。スキルや Bot を x402 / LVL / DogeForge 出品用の下書きとチェックリストにまとめ、公開・署名は人間が行う。"
+          }
+        },
+        {
+          "title": "Music Video Release Bot plugin",
+          "url": "https://github.com/omgawdmadeit1/music-video-release-bot",
+          "source": "GB-537",
+          "blurb": {
+            "en": "Grok Bot/.grok-plugin that turns an MP3, lyrics, and visual lane into shot lists, prompt boards, and a release checklist without posting or spending.",
+            "zh": "Grok Bot/.grok-plugin：把 MP3、歌词与视觉方向整理成分镜、提示板与发布清单，不自动发帖或付费。",
+            "ja": "Grok Bot / .grok-plugin。MP3・歌詞・ビジュアル方針からショットリスト・プロンプト板・公開チェックリストを作り、投稿や課金はしない。"
+          }
         }
       ]
     },
@@ -3653,6 +3713,26 @@
             "en": "Source-available self-hosted alternative to Grok Bot: isolated Linux desktops, real browser, human gates before consequential actions, and handover ledgers.",
             "zh": "源码可得的 Grok Bot 自托管替代：隔离 Linux 桌面、真浏览器、重大动作前人工门禁与交接账本。",
             "ja": "Grok Bot のソース公開セルフホスト代替。隔離 Linux デスクトップ・実ブラウザ・重要操作前の人承認・引き継ぎ台帳。"
+          }
+        },
+        {
+          "title": "loops Grok Bot /goal CLI",
+          "url": "https://github.com/glensonis/grok_bot",
+          "source": "GB-541",
+          "blurb": {
+            "en": "Python CLI and SKILL.md used by the loops Grok Bot to emit fenced /goal prompts for cloud coding agents with done-when and fence checks.",
+            "zh": "loops Grok Bot 使用的 Python CLI 与 SKILL.md：为云端编程智能体生成带完成条件与围栏检查的 /goal 提示。",
+            "ja": "loops Grok Bot が使う Python CLI と SKILL.md。完了条件とフェンス付き /goal プロンプトをクラウドコーディングエージェント向けに出力。"
+          }
+        },
+        {
+          "title": "Rixy-Bot Android Grok Bot-inspired agents",
+          "url": "https://github.com/RishabhPatel123/Rixy-Bot",
+          "source": "GB-542",
+          "blurb": {
+            "en": "Native Android multi-agent coworker framework inspired by Grok Bot, with remote execution, swarms, teachable skills, and push approval queues.",
+            "zh": "受 Grok Bot 启发的原生 Android 多智能体同事框架，含远程执行、集群、可教技能与推送审批队列。",
+            "ja": "Grok Bot に着想したネイティブ Android マルチエージェント同僚フレームワーク。リモート実行・スウォーム・スキル学習・プッシュ承認キュー付き。"
           }
         }
       ]
@@ -4644,6 +4724,26 @@
             "zh": "官方（Colin）：在 cursor.com Active Sessions 撤销会话后，客户端仍握着旧登录却显示连不上——Retry/Update/Reset 与换网络无效；各设备先退出再登录（与 0.39.0 无关），新会话稳住后 Bot 会回来。",
             "ja": "スタッフ（Colin）：cursor.com の Active Sessions で失効後も古いセッションを握ったまま Can’t-reach になる——Retry/Update/Reset や VPN は無効。各デバイスでサインアウト→再ログイン（0.39.0 無関係）し、新セッションが付けば Bot が戻る。"
           }
+        },
+        {
+          "title": "Linux RPM Access Denied — use direct package / yumrepo links",
+          "url": "https://forum.cursor.com/t/unable-to-download-grok-bot-rpm-package/170637",
+          "source": "day-20260905-1804",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-05): Download page RPM buttons still point at an old filename (Access Denied)—packages are fine; use the direct x64/arm64 0.39.0 RPM URLs or install via downloads.cursor.com yumrepo/grok-bot + anysphere.asc until the page is fixed.",
+            "zh": "官方（deanrie，2026-09-05）：下载页 RPM 按钮仍指向旧文件名导致 Access Denied——包本身可用；在页面修好前请用 x64/arm64 的 0.39.0 RPM 直链，或按 downloads.cursor.com 的 yumrepo/grok-bot + anysphere.asc 用 dnf 安装。",
+            "ja": "スタッフ（deanrie、2026-09-05）：配布ページの RPM ボタンが旧ファイル名のままで Access Denied。本体は問題なし。直リンクの x64/arm64 0.39.0 RPM、または downloads.cursor.com の yumrepo/grok-bot + anysphere.asc で dnf 導入を。"
+          }
+        },
+        {
+          "title": "Connected but “temporarily unreachable” — local-exec slower than 10s wait",
+          "url": "https://forum.cursor.com/t/grok-bot-0-43-windows-local-pc-shows-connected-but-commands-fail-with-temporarily-unreachable/170683",
+          "source": "day-20260905-1804",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-05): On 0.43 Windows, ListMachines can show connected while Shell fails with temporarily unreachable when the PC answers ~11s but the agent stops waiting at 10s—commands did run; renaming the PC / toggling Local execution won’t help; share local-exec-daemon.log and check AV, OneDrive/AppData redirect, VPN/proxy.",
+            "zh": "官方（deanrie，2026-09-05）：0.43 Windows 上 ListMachines 可显示已连接，但本机约 11 秒才回而 Agent 只等 10 秒时，Shell 会报 temporarily unreachable（命令其实已跑到）——改电脑名/开关 Local execution 无效；请附 local-exec-daemon.log，并排查杀软、OneDrive/AppData 重定向、VPN/代理。",
+            "ja": "スタッフ（deanrie、2026-09-05）：0.43 Windows で ListMachines は connected なのに、PC 応答が約 11 秒・Agent 待ちが 10 秒だと Shell が temporarily unreachable（実は到達済み）。PC 名変更や Local execution 切替は無関係。local-exec-daemon.log を共有し、AV・OneDrive/AppData リダイレクト・VPN/プロキシを確認。"
+          }
         }
       ]
     },
@@ -5133,6 +5233,26 @@
             "en": "Expo/React Native Skia recreation of the animated Grok Bot Orb from the x.ai/bot “Message Bots like teammates” section.",
             "zh": "用 Expo/React Native Skia 复刻 x.ai/bot「像队友一样给 Bot 发消息」区块中的动态 Grok Bot Orb。",
             "ja": "x.ai/bot の「チームメイトのように Bot にメッセージ」欄の Grok Bot Orb を Expo / RN Skia で再現。"
+          }
+        },
+        {
+          "title": "OmgawdMadeit public Grok Bot fleet index",
+          "url": "https://github.com/omgawdmadeit1/grokbot-fleet",
+          "source": "GB-543",
+          "blurb": {
+            "en": "Public index of LVL / OmgawdMadeit Grok Bots with repo links and x.ai/bot share URLs for grant, music-video, marketplace, and Tesla oracle teammates.",
+            "zh": "LVL / OmgawdMadeit 公开 Grok Bot 索引：资助、音乐视频、市场上架与 Tesla 神谕等队友的仓库与 x.ai/bot 分享链接。",
+            "ja": "LVL / OmgawdMadeit の公開 Grok Bot 一覧。助成・MV・マーケット出品・Tesla オラクル各チームメイトのリポジトリと x.ai/bot 共有 URL。"
+          }
+        },
+        {
+          "title": "GrokBot HQ directory site",
+          "url": "https://github.com/V-harshith/grokbothq",
+          "source": "GB-544",
+          "blurb": {
+            "en": "Independent hand-reviewed directory (grokbothq.xyz) of 230+ Grok bots with combos, guides, comparisons, and a GitHub issue→PR submission pipeline.",
+            "zh": "独立人工审阅目录站（grokbothq.xyz）：230+ Grok bot、组合、指南、对比，以及 GitHub issue→PR 提交流水线。",
+            "ja": "人手レビューの独立ディレクトリ（grokbothq.xyz）。Grok bot 230+、コンボ、ガイド、比較、GitHub issue→PR 投稿パイプライン。"
           }
         }
       ]
@@ -8945,6 +9065,37 @@
         "en": "Pittsburgh's first city Grok Bot meetup (not campus-only). Short demo then build/swap setups; students + working folks welcome. Host Micah Smith; free; open registration (~30 seats).",
         "zh": "匹兹堡首场城市级 Grok Bot 线下（非校园专场）：短演示后动手/换配置；学生与在职皆可。主办 Micah Smith；免费，开放报名（约 30 席）。",
         "ja": "ピッツバーグ初のシティ向け対面ミートアップ（キャンパス限定ではない）。短いデモの後にビルド／セットアップ共有。学生・社会人歓迎。主催 Micah Smith。無料・先着約30席。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "dac-20260925",
+      "url": "https://luma.com/5dxqyfyo",
+      "image": "./assets/events/dac-20260925-cover.png",
+      "expires": "2026-09-25T19:00:00+06:00",
+      "title": {
+        "en": "Grok Bot Meetup Dhaka",
+        "zh": "Grok Bot 达卡线下交流",
+        "ja": "Grok Bot Meetup Dhaka"
+      },
+      "when": {
+        "en": "Fri 25 Sep 2026, 16:00–19:00 (Asia/Dhaka, GMT+6)",
+        "zh": "2026-09-25 周五 16:00–19:00（达卡时间 GMT+6）",
+        "ja": "2026-09-25（金）16:00–19:00（Asia/Dhaka、GMT+6）"
+      },
+      "where": {
+        "en": "Dhaka · Gulshan (Moar, Level 5 Navana HR Tower-1)",
+        "zh": "达卡 · Gulshan（Moar, Level 5 Navana HR Tower-1）",
+        "ja": "ダッカ · Gulshan（Moar, Level 5 Navana HR Tower-1）"
+      },
+      "body": {
+        "en": "Hands-on Grok Bot meetup in Dhaka: build a practical work bot (briefing bot), live setup walkthrough, Origin / Grok 4.6 notes, demos, Q&A, F&B and swag. Host Amit Das; free; ~60 seats; beginners welcome.",
+        "zh": "达卡 Grok Bot 动手局：搭实用 work bot（简报 bot）、现场 setup、Origin / Grok 4.6、演示与 Q&A，含餐食与周边。主办 Amit Das；免费，约 60 席；新手欢迎。",
+        "ja": "ダッカのハンズオン Grok Bot ミートアップ。実務向けボット構築（ブリーフィング）、ライブ setup、Origin / Grok 4.6、デモと Q&A、飲食・スワッグあり。主催 Amit Das。無料・約60席。初心者歓迎。"
       },
       "cta": {
         "en": "Register on Luma",

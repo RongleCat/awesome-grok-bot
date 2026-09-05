@@ -9,17 +9,8 @@
 <a id="country-cn"></a>
 ### 中国
 
-<a id="mo-20260905"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><img src="./assets/events/mo-20260905-cover.png" alt="Grok Bot Macau Student Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Macau Student Workshop</strong><br />2026-09-05（土）14:30-17:30（GMT+8）<br />マカオ大学ゲストハウス N1-1005<br /><br />無料の学生ワークショップ。Grok Bot 実習と創業者トーク。広東語（英語サポートあり）。40 席は満席、ウェイティング可。<br /><br /><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><strong>Luma でウェイティング登録 →</strong></a></td></tr></table>
-
-<a id="cd-20260905"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/pdj34ofn"><img src="./assets/events/cd-20260905-cover.png" alt="Grok Bot Meetup Chengdu" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Chengdu</strong><br />2026-09-05（土）14:30–17:30（GMT+8）<br />成都 · 登録後に住所を表示<br /><br />中国 2 回目の Grok Bot オフライン。アイスブレイクと共有 / Workshop。主催者承認、残席 22。<br /><br /><a href="https://luma.com/pdj34ofn"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
 <a id="sha-20261017"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-kh2x"><img src="./assets/events/sha-20261017-cover.png" alt="Grok Bot Meetup Shanghai" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Shanghai</strong><br />2026-10-17（日）14:00–17:00（GMT+8）<br />上海 · 登録後に住所を表示<br /><br />上海の対面 Grok Bot。アイスブレイクと Workshop。承認制。forum 170454。Luma API 時刻は誤り気味 → 14:00–17:00 +08 を採用。<br /><br /><a href="https://luma.com/spacexai-kh2x"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
-<a id="hzo-20260905"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/x72vqp3u"><img src="./assets/events/hzo-20260905-cover.png" alt="Grok Bot Meetup Hangzhou" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Hangzhou</strong><br />2026-09-05（土）14:00–18:00（GMT+8）<br />杭州 · 登録後に住所を表示<br /><br />杭州の対面 Grok Bot（成都と同日）。承認制・約 14 名。会場は登録後。<br /><br /><a href="https://luma.com/x72vqp3u"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
 <a id="hzo-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/gb05xpbc"><img src="./assets/events/hzo-20260919-cover.png" alt="Grok Bot Meetup Hangzhou" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Hangzhou</strong><br />2026-09-19（土）14:00–17:30（GMT+8）<br />杭州 · 登録後に住所を表示<br /><br />SpaceXAI 杭州の対面。公式挨拶・事例共有・オープンマイク・交流。承認制。会場は登録後。<br /><br /><a href="https://luma.com/gb05xpbc"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
@@ -204,6 +195,12 @@
 <a id="syd-20261007"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-d70v"><img src="./assets/events/syd-20261007-cover.png" alt="Grok Bot Meetup Sydney" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Sydney</strong><br />2026-10-07（水）17:30–21:00（AEDT）<br />シドニー · 登録後に住所を表示<br /><br />8 月開催の次、公式 Cursor Sydney の Grok Bot ナイト。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-d70v"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
+<a id="country-bd"></a>
+### バングラデシュ
+
+<a id="dac-20260925"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/5dxqyfyo"><img src="./assets/events/dac-20260925-cover.png" alt="Grok Bot Meetup Dhaka" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Dhaka</strong><br />2026-09-25（金）16:00–19:00（Asia/Dhaka、GMT+6）<br />ダッカ · Gulshan（Moar, Level 5 Navana HR Tower-1）<br /><br />ダッカのハンズオン Grok Bot ミートアップ。実務向けボット構築（ブリーフィング）、ライブ setup、Origin / Grok 4.6、デモと Q&A、飲食・スワッグあり。主催 Amit Das。無料・約60席。初心者歓迎。<br /><br /><a href="https://luma.com/5dxqyfyo"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
 <a id="country-be"></a>
 ### ベルギー
 
@@ -245,12 +242,6 @@
 
 <a id="tlv-20260908"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-qdl0"><img src="./assets/events/tlv-20260908-cover.png" alt="Grok Bot Meetup Tel Aviv" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Tel Aviv</strong><br />2026-09-08（月）18:00–20:00（IDT）<br />テルアビブ · Sarona（登録後に住所）<br /><br />テルアビブ初の Grok Bot ミートアップ。実作業を任せる AI チームメイト。<br /><br /><a href="https://luma.com/cursor-qdl0"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="country-in"></a>
-### インド
-
-<a id="vad-20260905"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-vad-1"><img src="./assets/events/vad-20260905-cover.png" alt="Grok Bot Meetup Vadodara" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Vadodara</strong><br />2026-09-05（土）10:00–13:00（IST）<br />ヴァドーダラー · 登録後に住所を表示<br /><br />ヴァドーダラーの対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/grokbot-vad-1"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
 <a id="country-ke"></a>
 ### ケニア

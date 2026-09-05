@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-505-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-517-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,7 +37,7 @@
 
 [全部活动介绍](./EVENTS.zh.md)
 
-- **中国**（7）：[澳门](./EVENTS.zh.md#mo-20260905) · [成都](./EVENTS.zh.md#cd-20260905) · [上海](./EVENTS.zh.md#sha-20261017) · [杭州](./EVENTS.zh.md#hzo-20260905) · [杭州](./EVENTS.zh.md#hzo-20260919) · [北京](./EVENTS.zh.md#bj-20260919) · [广州](./EVENTS.zh.md#can-20260913)
+- **中国**（4）：[上海](./EVENTS.zh.md#sha-20261017) · [杭州](./EVENTS.zh.md#hzo-20260919) · [北京](./EVENTS.zh.md#bj-20260919) · [广州](./EVENTS.zh.md#can-20260913)
 - **美国**（13）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [檀香山](./EVENTS.zh.md#hnl-20260905) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [旧金山（产品经理）](./EVENTS.zh.md#sfpm-20260915) · [旧金山（创始人）](./EVENTS.zh.md#sffo-20260915) · [旧金山（销售）](./EVENTS.zh.md#sfsales-20260916) · [匹兹堡](./EVENTS.zh.md#pgh-20261013)
 - **阿根廷**（4）：[巴里洛切](./EVENTS.zh.md#brc-20260910) · [布宜诺斯艾利斯](./EVENTS.zh.md#bue-20260916) · [门多萨](./EVENTS.zh.md#mdz-20261003) · [萨尔塔](./EVENTS.zh.md#sla-20260916)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [萨德伯里](./EVENTS.zh.md#sud-20260917) · [多伦多](./EVENTS.zh.md#yyz-20260917)
@@ -51,6 +51,7 @@
 - **秘鲁**（2）：[阿雷基帕](./EVENTS.zh.md#aqp-20260911) · [利马](./EVENTS.zh.md#lim-20260911)
 - **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20260917)
 - **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
+- **孟加拉国**（1）：[达卡](./EVENTS.zh.md#dac-20260925)
 - **比利时**（1）：[鲁汶](./EVENTS.zh.md#leu-20260919)
 - **喀麦隆**（1）：[雅温得](./EVENTS.zh.md#yde-20260910)
 - **哥伦比亚**（1）：[卡塔戈](./EVENTS.zh.md#ctg-20260911)
@@ -58,7 +59,6 @@
 - **丹麦**（1）：[哥本哈根](./EVENTS.zh.md#cph-20260909)
 - **英国**（1）：[伦敦](./EVENTS.zh.md#ldn-20260916)
 - **以色列**（1）：[特拉维夫](./EVENTS.zh.md#tlv-20260908)
-- **印度**（1）：[巴罗达](./EVENTS.zh.md#vad-20260905)
 - **肯尼亚**（1）：[内罗毕](./EVENTS.zh.md#nbo-20260917)
 - **缅甸**（1）：[仰光](./EVENTS.zh.md#ygn-20260926)
 - **马耳他**（1）：[马耳他 Ta' Xbiex](./EVENTS.zh.md#mlt-20260917)
@@ -224,6 +224,9 @@
 - [Real World Agents org chart](https://github.com/pyco404/-real-world-agents) - 可复用的 Grok Bot 组织图配置：把结果交给具名席位（Atlas、Scout、Quill…）而非待办列表，含章程与硬性禁区。.
 - [Daily Diff news site by Grok Bot](https://github.com/indrayam/samachar) - 静态「Daily Diff」报纸站：edition.json 由 Grok Bot 汇总，线上见 dailydiff.indrayam.com。.
 - [HyperGrok trading desk setup prompt](https://github.com/L1vsun/GrokBot-Trading-Desk__Setup-Prompt) - 可粘贴提示词：让 Grok Bot 在云电脑上搭七智能体纸面交易台，并开共享 Trading Floor 群聊。.
+- [TermPilot student-life Grok Bot tower](https://github.com/FrankAsanteVanLaarhoven/TermPilot) - 学生生活控制塔：Scout/Verifier/Planner/Guardian 等 Grok Bot 专家、.grok 技能、OR-Tools 排程，以及审批门禁的演示日历写入。.
+- [Termwise syllabus Grok Bot + web app](https://github.com/chhaviiiii/termwise) - 可分享的 Grok Bot 模板与 Next.js 应用：提取教学大纲、标冲突、写周报与延期邮件草稿，含 .grok 技能与安装说明。.
+- [Sanitized multi-Bot fleet export](https://github.com/ofs100private/GrokBot) - 脱敏的 Grok Bot 备份：八个智能体（幕僚长、交易、X 盯盘、eToro QA）含配置、自动化与共享 workflow SKILL.md。.
 
 ## 技能、插件与 MCP
 
@@ -360,6 +363,9 @@
 - [botskills.io first-party skill catalog](https://github.com/botskills/catalog) - botskills.io 的官方 Grok Bot SKILL.md 集合：晨报、会前准备、发票抓取与网页转表。.
 - [Ideabrowser Cursor/Grok Bot plugin](https://github.com/ideabrowserhq/cursor-plugin) - 面向 Cursor 与 Grok Bot 的 Ideabrowser 插件：经 MCP 浏览研究过的创业点子、每日点子与市场趋势。.
 - [Ask Gina research plugin](https://github.com/askgina/plugins) - 面向 Cursor 与 Grok Bot 的 Ask Gina 只读加密/预测市场研究插件，含便携技能、MCP 与多宿主适配。.
+- [Tesla Fleet Oracle Bot plugin](https://github.com/omgawdmadeit1/tesla-fleet-oracle-bot) - Grok Bot/.grok-plugin 队友：根据粘贴事实撰写只读 Tesla Trek / XYO 任务简报，不含车辆指令、令牌或密钥。.
+- [x402 Marketplace Operator Bot plugin](https://github.com/omgawdmadeit1/x402-marketplace-operator-bot) - Grok Bot/.grok-plugin：把技能或 Bot 打成 x402 / LVL / DogeForge 上架草稿与清单，由人类发布并签名。.
+- [Music Video Release Bot plugin](https://github.com/omgawdmadeit1/music-video-release-bot) - Grok Bot/.grok-plugin：把 MP3、歌词与视觉方向整理成分镜、提示板与发布清单，不自动发帖或付费。.
 
 ## 评测与对比
 
@@ -456,6 +462,8 @@
 - [grok-bot-setup model adapters](https://github.com/BlockedPath/grok-bot-setup) - CLI 与文档：用适配器把 Grok Bot 接到自定义推理提供方（DeepSeek、Claude、Grok、OpenAI）。.
 - [OpenBot self-hosted multi-bot](https://github.com/Blackman99/openbot) - AGPL 自托管、模型无关的 Grok Bot 风格多 Bot 协作栈（SvelteKit + Fastify + Postgres）；晨间为空壳，现已有可部署实现。.
 - [Nesq Bot self-hosted teammates](https://github.com/Nesqual-Tech/nesqbot) - 源码可得的 Grok Bot 自托管替代：隔离 Linux 桌面、真浏览器、重大动作前人工门禁与交接账本。.
+- [loops Grok Bot /goal CLI](https://github.com/glensonis/grok_bot) - loops Grok Bot 使用的 Python CLI 与 SKILL.md：为云端编程智能体生成带完成条件与围栏检查的 /goal 提示。.
+- [Rixy-Bot Android Grok Bot-inspired agents](https://github.com/RishabhPatel123/Rixy-Bot) - 受 Grok Bot 启发的原生 Android 多智能体同事框架，含远程执行、集群、可教技能与推送审批队列。.
 
 ## 社区与故障现场
 
@@ -557,6 +565,8 @@
 - [Shopify browser blocked — use Admin API / custom MCP, not agent Chrome](https://forum.cursor.com/t/shopify-store-connector/170605) - 官方（Colin）：Shopify 反爬会拦代理云电脑浏览器——先别硬登后台，在店后台建自定义应用拿 Admin API token，经 Settings→Plugins 自定义 MCP（社区 Shopify Admin MCP）直连，等待官方 Shopify 连接器。.
 - [Unreachable after heavy media — 16 GB RAM exhaustion](https://forum.cursor.com/t/grok-bot-unreachable-all-day/169856) - 官方（Colin）：重媒体任务时“不可达”常是云电脑约 16GB 内存几分钟内打满——Recover 后 Bot/文件/登录仍在；在机器能自行扛住前，把任务压在该内存上限内。.
 - [Can’t reach after Active Sessions revoke — sign out/in, not Retry](https://forum.cursor.com/t/cant-access-grok-bot-anymore-probably-after-updating-to-0-39-0/170568) - 官方（Colin）：在 cursor.com Active Sessions 撤销会话后，客户端仍握着旧登录却显示连不上——Retry/Update/Reset 与换网络无效；各设备先退出再登录（与 0.39.0 无关），新会话稳住后 Bot 会回来。.
+- [Linux RPM Access Denied — use direct package / yumrepo links](https://forum.cursor.com/t/unable-to-download-grok-bot-rpm-package/170637) - 官方（deanrie，2026-09-05）：下载页 RPM 按钮仍指向旧文件名导致 Access Denied——包本身可用；在页面修好前请用 x64/arm64 的 0.39.0 RPM 直链，或按 downloads.cursor.com 的 yumrepo/grok-bot + anysphere.asc 用 dnf 安装。.
+- [Connected but “temporarily unreachable” — local-exec slower than 10s wait](https://forum.cursor.com/t/grok-bot-0-43-windows-local-pc-shows-connected-but-commands-fail-with-temporarily-unreachable/170683) - 官方（deanrie，2026-09-05）：0.43 Windows 上 ListMachines 可显示已连接，但本机约 11 秒才回而 Agent 只等 10 秒时，Shell 会报 temporarily unreachable（命令其实已跑到）——改电脑名/开关 Local execution 无效；请附 local-exec-daemon.log，并排查杀软、OneDrive/AppData 重定向、VPN/代理。.
 
 ## 相关列表
 
@@ -608,10 +618,12 @@
 - [Omarchy Grok Bots inbox roster](https://github.com/glorics/omarchy-grok-bots) - 非官方 Omarchy 栏花名册：用与 App 相同的脸显示每个 Grok Bot、最后一条消息与未读气泡，并一键聚焦 Linux 客户端。.
 - [xAI Bot Marketplace (JA mirror)](https://github.com/lastone3939/xai-marketplace-ja) - x.ai Grok Bot Marketplace 的非官方日文本地化：搜索并打开 69 个公开 Bot，添加链接仍指向官方。.
 - [Grok Bot Orb Expo recreation](https://github.com/ngocdevv/grok-bot-emoji) - 用 Expo/React Native Skia 复刻 x.ai/bot「像队友一样给 Bot 发消息」区块中的动态 Grok Bot Orb。.
+- [OmgawdMadeit public Grok Bot fleet index](https://github.com/omgawdmadeit1/grokbot-fleet) - LVL / OmgawdMadeit 公开 Grok Bot 索引：资助、音乐视频、市场上架与 Tesla 神谕等队友的仓库与 x.ai/bot 分享链接。.
+- [GrokBot HQ directory site](https://github.com/V-harshith/grokbothq) - 独立人工审阅目录站（grokbothq.xyz）：230+ Grok bot、组合、指南、对比，以及 GitHub issue→PR 提交流水线。.
 
 ## 贡献
 
-目前 8 个分类、505 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、517 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

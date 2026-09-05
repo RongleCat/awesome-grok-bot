@@ -9,17 +9,8 @@
 <a id="country-cn"></a>
 ### 中国
 
-<a id="mo-20260905"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><img src="./assets/events/mo-20260905-cover.png" alt="Grok Bot 澳门学生工作坊" width="300" /></a></td><td valign="top"><strong>Grok Bot 澳门学生工作坊</strong><br />2026-09-05 周六 14:30-17:30<br />澳门大学迎宾馆 N1-1005<br /><br />免费学生场：上手 Grok Bot + 创始人分享。粤语为主、可英辅。40 人已满，可候补。<br /><br /><a href="https://luma.com/cursor-macau-creativity-workshop-2026-sep"><strong>去 Luma 候补 →</strong></a></td></tr></table>
-
-<a id="cd-20260905"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/pdj34ofn"><img src="./assets/events/cd-20260905-cover.png" alt="Grok Bot 成都线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 成都线下交流</strong><br />2026-09-05 周六 14:30–17:30<br />成都 · 报名通过后可见地址<br /><br />中国第二场 Grok Bot 线下。破冰 + 分享 / Workshop。需主办审核，还剩 22 个名额。<br /><br /><a href="https://luma.com/pdj34ofn"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
 <a id="sha-20261017"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-kh2x"><img src="./assets/events/sha-20261017-cover.png" alt="Grok Bot 上海线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 上海线下交流</strong><br />2026-10-17 周日 14:00–17:00<br />上海 · 报名通过后可见地址<br /><br />上海 Grok Bot 线下：破冰 + 分享/Workshop。预报名需审核。论坛 170454。注意：Luma API 时间目前错成 HKT 09–10（1 小时），以文案 14:00–17:00 为准。<br /><br /><a href="https://luma.com/spacexai-kh2x"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
-<a id="hzo-20260905"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/x72vqp3u"><img src="./assets/events/hzo-20260905-cover.png" alt="Grok Bot 杭州线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 杭州线下交流</strong><br />2026-09-05 周六 14:00–18:00<br />杭州 · 报名通过后可见地址<br /><br />杭州 Grok Bot 线下（与成都同日）。需主办审核，约 14 人报名。地址报名后可见。<br /><br /><a href="https://luma.com/x72vqp3u"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
 <a id="hzo-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/gb05xpbc"><img src="./assets/events/hzo-20260919-cover.png" alt="Grok Bot 杭州线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 杭州线下交流</strong><br />2026-09-19 周六 14:00–17:30<br />杭州 · 报名通过后可见地址<br /><br />SpaceXAI 杭州线下：官方致辞 + 场景分享 + 开放麦 + Networking。需审核，地址报名后可见。<br /><br /><a href="https://luma.com/gb05xpbc"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
@@ -204,6 +195,12 @@
 <a id="syd-20261007"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-d70v"><img src="./assets/events/syd-20261007-cover.png" alt="Grok Bot 悉尼线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 悉尼线下交流</strong><br />2026-10-07 周三 17:30–21:00（悉尼）<br />悉尼 · 报名通过后可见地址<br /><br />8 月场之后的下一场官方 Cursor 悉尼 Grok Bot 夜。需主办审核。<br /><br /><a href="https://luma.com/cursor-d70v"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
+<a id="country-bd"></a>
+### 孟加拉国
+
+<a id="dac-20260925"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/5dxqyfyo"><img src="./assets/events/dac-20260925-cover.png" alt="Grok Bot 达卡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 达卡线下交流</strong><br />2026-09-25 周五 16:00–19:00（达卡时间 GMT+6）<br />达卡 · Gulshan（Moar, Level 5 Navana HR Tower-1）<br /><br />达卡 Grok Bot 动手局：搭实用 work bot（简报 bot）、现场 setup、Origin / Grok 4.6、演示与 Q&A，含餐食与周边。主办 Amit Das；免费，约 60 席；新手欢迎。<br /><br /><a href="https://luma.com/5dxqyfyo"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-be"></a>
 ### 比利时
 
@@ -245,12 +242,6 @@
 
 <a id="tlv-20260908"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-qdl0"><img src="./assets/events/tlv-20260908-cover.png" alt="Grok Bot 特拉维夫线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 特拉维夫线下交流</strong><br />2026-09-08 周一 18:00–20:00（以色列夏令时）<br />特拉维夫 · Sarona（报名后可见精确地址）<br /><br />特拉维夫全球首场 Grok Bot 线下：把真活交给云电脑队友。<br /><br /><a href="https://luma.com/cursor-qdl0"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
-<a id="country-in"></a>
-### 印度
-
-<a id="vad-20260905"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-vad-1"><img src="./assets/events/vad-20260905-cover.png" alt="Grok Bot 巴罗达线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 巴罗达线下交流</strong><br />2026-09-05 周六 10:00–13:00（巴罗达）<br />巴罗达 · 报名通过后可见地址<br /><br />巴罗达线下 Grok Bot。需主办审核。<br /><br /><a href="https://luma.com/grokbot-vad-1"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
 <a id="country-ke"></a>
 ### 肯尼亚
