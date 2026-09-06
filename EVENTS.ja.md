@@ -27,9 +27,6 @@
 <a id="lv-20260915"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot Meetup Las Vegas" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Las Vegas</strong><br />2026-09-15（月）18:00-20:00（PDT）<br />ラスベガス · 登録承認後に会場を表示<br /><br />交流、トーク / Workshop、Cursor チームのビデオ Q&A。主催者承認制、会場は未定。<br /><br /><a href="https://luma.com/cursor-kaua"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="hnl-20260905"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/hawaii-z15e"><img src="./assets/events/hnl-20260905-cover.png" alt="Build with Grok Bot @ Hawaii Tech Week" width="300" /></a></td><td valign="top"><strong>Build with Grok Bot @ Hawaii Tech Week</strong><br />2026-09-05（金）09:00–12:30（HST）<br />Honolulu, HI · Entrepreneurs Sandbox, 643 Ilalo St<br /><br />Hawaii Tech Week の午前。Grok Bot エージェントで cowork / ship。無料・満席/ウェイトリスト（Hawaii Tech Week / Ray Fernando）。<br /><br /><a href="https://luma.com/hawaii-z15e"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
 <a id="g101-20260915"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-i8qf"><img src="./assets/events/g101-20260915-cover.png" alt="Grok Bot 101（SF）" width="300" /></a></td><td valign="top"><strong>Grok Bot 101（SF）</strong><br />2026-09-15（月）09:00–10:00（PDT）<br />San Francisco, CA · The Howard SF, 661 Howard St<br /><br />The Howard での公式 Grok Bot 入門。独自コンピュータを持つ AI チームメイト。無料・残席約 146。<br /><br /><a href="https://luma.com/spacexai-i8qf"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
@@ -147,6 +144,15 @@
 <a id="osa-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotosaka"><img src="./assets/events/osa-20260917-cover.png" alt="Grok Bot Meetup 大阪" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 大阪</strong><br />2026-09-17（木）19:00–21:30（JST）<br />大阪市北区梅田 North Gate Building<br /><br />大阪の対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/grokbotosaka"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
+<a id="country-bd"></a>
+### バングラデシュ
+
+<a id="dac-20260925"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/5dxqyfyo"><img src="./assets/events/dac-20260925-cover.png" alt="Grok Bot Meetup Dhaka" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Dhaka</strong><br />2026-09-25（金）16:00–19:00（Asia/Dhaka、GMT+6）<br />ダッカ · Gulshan（Moar, Level 5 Navana HR Tower-1）<br /><br />ダッカのハンズオン Grok Bot ミートアップ。実務向けボット構築（ブリーフィング）、ライブ setup、Origin / Grok 4.6、デモと Q&A、飲食・スワッグあり。主催 Amit Das。無料・約60席。初心者歓迎。<br /><br /><a href="https://luma.com/5dxqyfyo"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<a id="dac-20261020"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-b80k"><img src="./assets/events/dac-20261020-cover.png" alt="Grok Bot Dhaka Cowork" width="300" /></a></td><td valign="top"><strong>Grok Bot Dhaka Cowork</strong><br />2026-10-20（火）13:00–16:30（Asia/Dhaka、GMT+6）<br />ダッカ（登録後に住所公開）<br /><br />ダッカのハンズオン Grok Bot コワーク。サイドプロジェクトやアイデアを持ち寄り、単独／ペアで構築・共有・学習。主催 Mahinoor Rahman（SpaceXAI for Dhaka）。無料・主催承認制・約90席。ノートPC持参。初心者歓迎。<br /><br /><a href="https://luma.com/spacexai-b80k"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
 <a id="country-br"></a>
 ### ブラジル
 
@@ -194,12 +200,6 @@
 
 <a id="syd-20261007"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-d70v"><img src="./assets/events/syd-20261007-cover.png" alt="Grok Bot Meetup Sydney" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Sydney</strong><br />2026-10-07（水）17:30–21:00（AEDT）<br />シドニー · 登録後に住所を表示<br /><br />8 月開催の次、公式 Cursor Sydney の Grok Bot ナイト。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-d70v"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="country-bd"></a>
-### バングラデシュ
-
-<a id="dac-20260925"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/5dxqyfyo"><img src="./assets/events/dac-20260925-cover.png" alt="Grok Bot Meetup Dhaka" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Dhaka</strong><br />2026-09-25（金）16:00–19:00（Asia/Dhaka、GMT+6）<br />ダッカ · Gulshan（Moar, Level 5 Navana HR Tower-1）<br /><br />ダッカのハンズオン Grok Bot ミートアップ。実務向けボット構築（ブリーフィング）、ライブ setup、Origin / Grok 4.6、デモと Q&A、飲食・スワッグあり。主催 Amit Das。無料・約60席。初心者歓迎。<br /><br /><a href="https://luma.com/5dxqyfyo"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-be"></a>
 ### ベルギー

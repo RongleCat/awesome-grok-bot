@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-517-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-555-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,20 +38,20 @@
 [イベントの詳細](./EVENTS.ja.md)
 
 - **中国**（4）：[上海](./EVENTS.ja.md#sha-20261017) · [杭州](./EVENTS.ja.md#hzo-20260919) · [北京](./EVENTS.ja.md#bj-20260919) · [広州](./EVENTS.ja.md#can-20260913)
-- **アメリカ**（13）：[ラスベガス](./EVENTS.ja.md#lv-20260915) · [ホノルル](./EVENTS.ja.md#hnl-20260905) · [サンフランシスコ](./EVENTS.ja.md#g101-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfe-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [サンフランシスコ（PM）](./EVENTS.ja.md#sfpm-20260915) · [サンフランシスコ（Founders）](./EVENTS.ja.md#sffo-20260915) · [サンフランシスコ（Sales）](./EVENTS.ja.md#sfsales-20260916) · [ピッツバーグ](./EVENTS.ja.md#pgh-20261013)
+- **アメリカ**（12）：[ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ](./EVENTS.ja.md#g101-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfe-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [サンフランシスコ（PM）](./EVENTS.ja.md#sfpm-20260915) · [サンフランシスコ（Founders）](./EVENTS.ja.md#sffo-20260915) · [サンフランシスコ（Sales）](./EVENTS.ja.md#sfsales-20260916) · [ピッツバーグ](./EVENTS.ja.md#pgh-20261013)
 - **アルゼンチン**（4）：[バリローチェ](./EVENTS.ja.md#brc-20260910) · [ブエノスアイレス](./EVENTS.ja.md#bue-20260916) · [メンドサ](./EVENTS.ja.md#mdz-20261003) · [サルタ](./EVENTS.ja.md#sla-20260916)
 - **カナダ**（4）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [ビクトリア（BC）](./EVENTS.ja.md#vic-20260921) · [サドベリー](./EVENTS.ja.md#sud-20260917) · [トロント](./EVENTS.ja.md#yyz-20260917)
 - **インドネシア**（4）：[タンゲラン](./EVENTS.ja.md#tgr-20260911) · [ウルワツ / バリ](./EVENTS.ja.md#bli-20260915) · [ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [バンドン](./EVENTS.ja.md#bdg-20260919)
 - **メキシコ**（4）：[モンテレイ](./EVENTS.ja.md#mty-20260910) · [プエブラ](./EVENTS.ja.md#pue-20260924) · [チワワ](./EVENTS.ja.md#cuu-20260924) · [メキシコシティ](./EVENTS.ja.md#cdmx-20260926)
 - **エクアドル**（3）：[マンタ](./EVENTS.ja.md#mec-20260912) · [キト](./EVENTS.ja.md#uio-20260924) · [クンバヤ](./EVENTS.ja.md#cumb-20261003)
 - **日本**（3）：[札幌](./EVENTS.ja.md#spk-20261002) · [東京](./EVENTS.ja.md#tyo-20260909) · [大阪](./EVENTS.ja.md#osa-20260917)
+- **バングラデシュ**（2）：[ダッカ](./EVENTS.ja.md#dac-20260925) · [ダッカ](./EVENTS.ja.md#dac-20261020)
 - **ブラジル**（2）：[クリチバ](./EVENTS.ja.md#cwb-20261111) · [フロリアノポリス](./EVENTS.ja.md#fln-20260926)
 - **グアテマラ**（2）：[ケツァルテナンゴ](./EVENTS.ja.md#xela-20260920) · [グアテマラシティ](./EVENTS.ja.md#gua-20261003)
 - **オランダ**（2）：[ユトレヒト](./EVENTS.ja.md#utr-20261029) · [アムステルダム](./EVENTS.ja.md#ams-20260922)
 - **ペルー**（2）：[アレキパ](./EVENTS.ja.md#aqp-20260911) · [リマ](./EVENTS.ja.md#lim-20260911)
 - **アルバニア**（1）：[ティラナ](./EVENTS.ja.md#tia-20260917)
 - **オーストラリア**（1）：[シドニー](./EVENTS.ja.md#syd-20261007)
-- **バングラデシュ**（1）：[ダッカ](./EVENTS.ja.md#dac-20260925)
 - **ベルギー**（1）：[ルーヴェン](./EVENTS.ja.md#leu-20260919)
 - **カメルーン**（1）：[ヤウンデ](./EVENTS.ja.md#yde-20260910)
 - **コロンビア**（1）：[カルタゴ](./EVENTS.ja.md#ctg-20260911)
@@ -136,6 +136,7 @@
 - [Grok Bot for PMs](https://x.ai/bot/guides/grok-bot-for-pms) - 公式ガイド（2026-08-15）。PM 向け——注意力リスト、Cloud Agents での出荷、自分にレポートする具体ロスター（Chief of Staff / EM / Eng / 分析 / PM / 採用）。
 - [Grok Bot use cases](https://x.ai/bot/use-cases) - 公式 x.ai/bot ユースケース一覧。営業・マーケ・サポート・採用・Ops・プロダクト・エンジニアリング向けの引き渡し可能な Bot 仕事（収録済み docs.x.ai/grok-bot/use-cases とは別ページ）。
 - [Setting Grok Bot loose on procurement (Haggle Bot)](https://x.ai/news/grok-bot-procurement) - 公式（2026-09-04）。xAI の調達 Haggle Bot 事例——支出・契約・利用データと権限ラインを渡すと、証拠付きで 10 万ドル超の SaaS 席・更新節約を出し、最終判断は人が行う。
+- [@bot: usage limits reset for all Grok Bot users](https://x.com/bot/status/2096303514230423629) - 公式 @bot（2026-09-05）：全 Grok Bot ユーザーの利用枠をリセットしたと告知。
 
 ## チュートリアルとガイド
 
@@ -227,6 +228,9 @@
 - [TermPilot student-life Grok Bot tower](https://github.com/FrankAsanteVanLaarhoven/TermPilot) - Scout / Verifier / Planner / Guardian の Grok Bot 専門家、.grok スキル、OR-Tools 計画、承認付きデモカレンダー書き込みの学生生活コントロールタワー。
 - [Termwise syllabus Grok Bot + web app](https://github.com/chhaviiiii/termwise) - 共有可能な Grok Bot テンプレートと Next.js アプリ。シラバス抽出・衝突検知・週次ブリーフと延期メール下書き。.grok スキルと導入手順付き。
 - [Sanitized multi-Bot fleet export](https://github.com/ofs100private/GrokBot) - 8 エージェント（Chief of Staff・トレーダー・X 監視・eToro QA）のプロファイル、自動化、共有 workflow SKILL.md を含むサニタイズ済み Grok Bot バックアップ。
+- [Relay job-search workspace + GrokCell](https://github.com/SyberLabs/relay) - 就職レビューアプリ。Grok Bot の VM と下書きをやり取りし、GrokCell 専門 Bot テンプレも同梱。
+- [Canvas student assistant Grok Bot](https://github.com/ndunl075/grok-bot---cursor-hackathon) - ハッカソン Grok Bot。Canvas 締切・成績影響・到達可能点を先回り通知。skills / routines 付き。
+- [GrokBot Board public DeFi directors](https://github.com/thegrokboard/the-grokbot-board) - 公開ケース。Grok Bot による自律 AI 取締役会が Solana DeFi 会社を公開運営。
 
 ## スキル、プラグインと MCP
 
@@ -366,6 +370,21 @@
 - [Tesla Fleet Oracle Bot plugin](https://github.com/omgawdmadeit1/tesla-fleet-oracle-bot) - Grok Bot / .grok-plugin 向け。貼り付け事実から Tesla Trek / XYO クエストの読み取り専用ブリーフを作成。車両コマンド・トークン・鍵なし。
 - [x402 Marketplace Operator Bot plugin](https://github.com/omgawdmadeit1/x402-marketplace-operator-bot) - Grok Bot / .grok-plugin。スキルや Bot を x402 / LVL / DogeForge 出品用の下書きとチェックリストにまとめ、公開・署名は人間が行う。
 - [Music Video Release Bot plugin](https://github.com/omgawdmadeit1/music-video-release-bot) - Grok Bot / .grok-plugin。MP3・歌詞・ビジュアル方針からショットリスト・プロンプト板・公開チェックリストを作り、投稿や課金はしない。
+- [Heavy-lift cloud agents skill](https://github.com/napiermd/heavy-lift-cloud-agents) - Grok Bot スキル。週次チャットは管理専用で、重い製品作業は Cursor CloudAgent と Grok Build に任せる。
+- [Kiin LinkedIn Ads MCP plugin](https://github.com/Adriman2/kiin-cursor-plugin) - Cursor / Grok Bot 向け Agent Plugins。スキルとリモート LinkedIn Ads MCP でキャンペーンの読み書き。
+- [Cloche publish plugin for Grok Bot](https://github.com/cloche-it/cursor-plugin) - Cursor と Grok Bot が作った自己完結アプリを Cloche に公開し、リンクで共有するプラグイン。
+- [BlindOracle x402 agent marketplace plugin](https://github.com/craigmbrown/blindoracle-plugin) - Grok Bot と Cursor 向け。x402 上の USDC 従量課金エージェント SKU 用リモート MCP プラグイン。
+- [SDP hosted MCP agent plugin](https://github.com/sharasolns/sdp-plugins) - Codex / Claude Code / Cursor / Grok Bot 向け公式 SDP プラグイン。ホスト済みサイト・商品 MCP に接続。
+- [Grok Bot local-first worker skill](https://github.com/MarkusIsaksson1982/grok-bot-local-first) - ローカル優先スキル。Grok Bot のターンは判断のみ、確定作業は安価な Python --action ワーカーへ。
+- [Grok Skills 2.0 ask-first pack](https://github.com/rachel-nocode/grok-skills-2.0) - 構築・応募・QA・出荷向けのコピー可能な Grok Bot スキル 22 本。送信・投稿・課金・削除の前に必ず確認。
+- [Chakhdz Cursor/Grok Bot SKILL.md pack](https://github.com/Chakhdz/agent-skills) - SKILL.md のみの Cursor / Grok Bot スキル集。PDF・デザイン・カタログ・計画後確認などのワークフロー。
+- [Proof Inbox email-verify MCP](https://github.com/timdoes/proof-inbox-mcp) - Grok Bot / Cursor / Claude など向けの公開 MCP。前払いメール検証クレジット。
+- [Home Assistant plugin for Grok Bot](https://github.com/gokivego/grokbot-home-assistant) - Cursor マーケットのプラグインで Grok Bot でも読込可。共有コンピュータから REST で Home Assistant を操作。
+- [Devin MCP bridge for Grok Bot](https://github.com/naz3eh/devin-grok-plugin) - 自前 MCP。Grok Bot が Devin にコーディングを渡し、セッションや PR を受け取る。Devin API キーはサーバ側のみ。
+- [Locus pay-per-use MCP plugin](https://github.com/locus-technologies/locus-pro-plugin) - 公式 Locus プラグイン（.grok-plugin 付き）。Grok などへ前払い研究・API クレジット MCP を接続。
+- [Ando workspace MCP agent plugin](https://github.com/Ando-Corporation/ando-grok-plugin) - Agent Plugins パッケージ。Cursor / Grok 互換クライアントを Ando ホスト MCP（会話・文書・通話・タスク）へ。
+- [BrainSite X-profile preview skills](https://github.com/allanta8/BrainsiteAI) - Claude / Codex / Grok Bot スキル。BrainSite リモート MCP で X プロフィールからライブ予览リンクを生成。
+- [Atebites multi-host plugin marketplace](https://github.com/atebites-hub/atebites-plugins) - マルチホスト市場。.grok-plugin 付きで ODW / ponytail / Advisor を Cursor・Grok などに提供。
 
 ## レビューと比較
 
@@ -464,6 +483,13 @@
 - [Nesq Bot self-hosted teammates](https://github.com/Nesqual-Tech/nesqbot) - Grok Bot のソース公開セルフホスト代替。隔離 Linux デスクトップ・実ブラウザ・重要操作前の人承認・引き継ぎ台帳。
 - [loops Grok Bot /goal CLI](https://github.com/glensonis/grok_bot) - loops Grok Bot が使う Python CLI と SKILL.md。完了条件とフェンス付き /goal プロンプトをクラウドコーディングエージェント向けに出力。
 - [Rixy-Bot Android Grok Bot-inspired agents](https://github.com/RishabhPatel123/Rixy-Bot) - Grok Bot に着想したネイティブ Android マルチエージェント同僚フレームワーク。リモート実行・スウォーム・スキル学習・プッシュ承認キュー付き。
+- [ungrok BYOM host mod for Grok Bot](https://github.com/abhaysudhir/ungrok) - 非公式の可逆ホスト改造。Grok Bot コンピュータの推論を OpenAI 互換エンドポイントへ。doctor / setup / ロールバック付き。
+- [Grok Bot 0.18 reconstructed Electron app](https://github.com/ElizantOS/ant-bots) - 非公式のソース志向 TypeScript 再構成。公開の Grok Bot 0.18 macOS Electron アプリとホスト調整層。
+- [xBot local AI coworkers (OpenBot x GrokBot)](https://github.com/MasterYoav/xBot) - OpenBot と GrokBot の融合。Mac 上で各自コンピュータ付きエージェントを作り、任意モデルを持ち込める。
+- [OpenBot self-hosted board alternative](https://github.com/adamsch0100/openbot) - 自ホストのオープンソース Grok Bot 代替。ボード UI・ファイル記憶、上流 Hermes / OpenCode エンジン。
+- [OpenSquad BYOK multi-bot platform](https://github.com/isparth/OpenSquad) - オープンソース BYOK エージェント基盤。各 Bot にモデル・コンピュータ・記憶・メール・電話。
+- [pi-box Grok Bot-shaped personal agent](https://github.com/ahmadaccino/pi-box) - オープンソース個人エージェント。Grok Bot 風の名簿/スレッド/ツールカード構成、Pi + Cloudflare DO。
+- [Starship self-hosted GrokBot (OpenHands)](https://github.com/BillulloNex/Starship) - Grok Bot 着想の自ホスト常駐コーディングエージェント。OpenHands ベース、Coolify とブラウザ VM 付き。
 
 ## コミュニティと障害事例
 
@@ -567,6 +593,9 @@
 - [Can’t reach after Active Sessions revoke — sign out/in, not Retry](https://forum.cursor.com/t/cant-access-grok-bot-anymore-probably-after-updating-to-0-39-0/170568) - スタッフ（Colin）：cursor.com の Active Sessions で失効後も古いセッションを握ったまま Can’t-reach になる——Retry/Update/Reset や VPN は無効。各デバイスでサインアウト→再ログイン（0.39.0 無関係）し、新セッションが付けば Bot が戻る。
 - [Linux RPM Access Denied — use direct package / yumrepo links](https://forum.cursor.com/t/unable-to-download-grok-bot-rpm-package/170637) - スタッフ（deanrie、2026-09-05）：配布ページの RPM ボタンが旧ファイル名のままで Access Denied。本体は問題なし。直リンクの x64/arm64 0.39.0 RPM、または downloads.cursor.com の yumrepo/grok-bot + anysphere.asc で dnf 導入を。
 - [Connected but “temporarily unreachable” — local-exec slower than 10s wait](https://forum.cursor.com/t/grok-bot-0-43-windows-local-pc-shows-connected-but-commands-fail-with-temporarily-unreachable/170683) - スタッフ（deanrie、2026-09-05）：0.43 Windows で ListMachines は connected なのに、PC 応答が約 11 秒・Agent 待ちが 10 秒だと Shell が temporarily unreachable（実は到達済み）。PC 名変更や Local execution 切替は無関係。local-exec-daemon.log を共有し、AV・OneDrive/AppData リダイレクト・VPN/プロキシを確認。
+- [Windows instant crash — Codex sandbox ACL missing S-1-15-2-2](https://forum.cursor.com/t/grok-bot-0-28-0-and-0-43-0-windows-instant-launch-crash-int3-in-v8-jit-grok-bot-786cdd6/170691) - スタッフ（deanrie、2026-09-05）：Windows 起動約1秒で無言終了（int3 / 0x80000003）は、AppData\Local 配下に CodexSandboxUsers 等のパッケージ SID だけが残り ALL RESTRICTED APPLICATION PACKAGES（S-1-15-2-2）が無い ACL が典型——`--disable-gpu`/`--jitless` は無効。`--disable-gpu-sandbox` で確認後、`icacls` で Grok Bot フォルダ（必要なら `%LOCALAPPDATA%\Programs`）に S-1-15-2-1/2 の RX を付与するか、孤児 Codex SID を外して `/reset`。
+- [SuperGrok vs Heavy for Grok Bot — usage grant size only](https://forum.cursor.com/t/grok-bot-supergrok-vs-heavy-any-performance-difference-beyond-usage/170664) - スタッフ（deanrie、2026-09-05）：Grok Bot における SuperGrok と SuperGrok Heavy の文書上の差はリンク利用枠の大きさだけ——枠内で遅延・キュー・ツール速度の優遇は公表なし。どの SuperGrok でもリンクは利用付与であり Cursor プランは変わらない（8月末以前の「Heavy で Ultra 無料」は旧情報。Plans / Link SuperGrok ヘルプ参照）。
+- [“Bricked” after Reset — graphrag embedding RAM OOM](https://forum.cursor.com/t/grokbot-bricked-wont-reset/170689) - スタッフ（deanrie、2026-09-05）：重い索引後に Agent Computer が壊れたように見えるのは、ディスク不足ではなく graphrag 埋め込みが VM の RAM 上限に当たるケースが多い——Reset は最大約1時間、途中で再クリックするとタイマーが振り出し。復帰後は自動インデックスを止め、`free -h` で確認し、埋め込み/グラフ構築を小バッチにして上限未満を保つ（作業ファイル外の apt/pip は Reset 後に再導入）。
 
 ## 関連リスト
 
@@ -620,10 +649,19 @@
 - [Grok Bot Orb Expo recreation](https://github.com/ngocdevv/grok-bot-emoji) - x.ai/bot の「チームメイトのように Bot にメッセージ」欄の Grok Bot Orb を Expo / RN Skia で再現。
 - [OmgawdMadeit public Grok Bot fleet index](https://github.com/omgawdmadeit1/grokbot-fleet) - LVL / OmgawdMadeit の公開 Grok Bot 一覧。助成・MV・マーケット出品・Tesla オラクル各チームメイトのリポジトリと x.ai/bot 共有 URL。
 - [GrokBot HQ directory site](https://github.com/V-harshith/grokbothq) - 人手レビューの独立ディレクトリ（grokbothq.xyz）。Grok bot 230+、コンボ、ガイド、比較、GitHub issue→PR 投稿パイプライン。
+- [Grok Orbit desktop command center](https://github.com/Pitchfork-and-Torch/grok-orbit) - ローカル優先のデスクトップ司令塔。Grok CLI / Grok Bot / grok.com と関連キーを Tauri UI で管理。
+- [grokbot-usage CLI for plan meters](https://github.com/bcharleson/grokbot-usage-cli) - 読み取り専用 Python CLI と艦隊スキル。消費前に Cursor Ultra と週次 Grok Bot 枠を確認。
+- [GrokBar Mac menu-bar usage](https://github.com/pixbroker/grokbar) - Swift 製 macOS メニューバーアプリ。Grok / Grok Bot / Cursor の使用量を一画面表示。
+- [Roster network for working Grok Bots](https://github.com/BrennenHodge/roster) - 職業ネットワーク MVP。メンバーは Grok Bot / エージェント、人間は雇用主。参加スキルとプロトコル仕様付き。
+- [Auspex multi-agent Mac watcher](https://github.com/AstroQore/auspex) - Swift Mac アプリ。Grok Bot / Grok Build を含む AI コーディングエージェントのライブ監視・転写・権限待ち。
+- [Boxcrew Grok Bot use-case directory](https://github.com/saadkamal/boxcrew) - 39 ページの Grok Bot スキル・職種・セットアップ案内。読者が自分の Cursor にコピーする。
+- [Awesome Grok Bot curated list](https://github.com/doanbactam/awesome-grok-bots) - 非公式キュレーション。Grok Bot のテンプレ・スキル・プラグイン・ツール。一次ソース必須。
+- [Grok Bot Voice Android hold-to-talk](https://github.com/jmtroller/grok-bot-voice) - Kotlin 製長押し通話 Android アプリ。端末はマイク/スピーカー、脳は MCP 経由の Grok Bot。
+- [Buzz relay ears webhook for Grok Bot](https://github.com/0xnfrith/grokbot-buzz-ears) - 小型フォワーダ。Bot 鍵で Buzz / Nostr NIP-29 に入り、メンションでエージェント HTTP webhook を起こす。
 
 ## 貢献
 
-8 セクションに 517 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 555 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

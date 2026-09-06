@@ -27,9 +27,6 @@
 <a id="lv-20260915"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot 拉斯维加斯线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 拉斯维加斯线下交流</strong><br />2026-09-15 周一 18:00-20:00（太平洋夏令时）<br />拉斯维加斯 · 报名审核后可见场地<br /><br />破冰 + 分享 / Workshop，Cursor 团队视频问答。需主办审核，场地待定。<br /><br /><a href="https://luma.com/cursor-kaua"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="hnl-20260905"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/hawaii-z15e"><img src="./assets/events/hnl-20260905-cover.png" alt="Grok Bot 动手（Hawaii Tech Week）" width="300" /></a></td><td valign="top"><strong>Grok Bot 动手（Hawaii Tech Week）</strong><br />2026-09-05 周五 09:00–12:30（檀香山）<br />夏威夷檀香山 · Entrepreneurs Sandbox, 643 Ilalo St<br /><br />Hawaii Tech Week 上午用 Grok Bot 一起做：cowork、出活、互帮。免费，已满/候补（Hawaii Tech Week / Ray Fernando）。<br /><br /><a href="https://luma.com/hawaii-z15e"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
 <a id="g101-20260915"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-i8qf"><img src="./assets/events/g101-20260915-cover.png" alt="Grok Bot 101（旧金山）" width="300" /></a></td><td valign="top"><strong>Grok Bot 101（旧金山）</strong><br />2026-09-15 周一 09:00–10:00（旧金山）<br />旧金山 · The Howard SF, 661 Howard St<br /><br />官方 Grok Bot 入门（The Howard）：有独立电脑的 AI 队友，打通现有工具。免费，约 146 席。<br /><br /><a href="https://luma.com/spacexai-i8qf"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
@@ -147,6 +144,15 @@
 <a id="osa-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotosaka"><img src="./assets/events/osa-20260917-cover.png" alt="Grok Bot 大阪线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 大阪线下交流</strong><br />2026-09-17 周四 19:00–21:30（大阪）<br />大阪北区梅田 North Gate Building<br /><br />大阪线下 Grok Bot。需主办审核。<br /><br /><a href="https://luma.com/grokbotosaka"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
+<a id="country-bd"></a>
+### 孟加拉国
+
+<a id="dac-20260925"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/5dxqyfyo"><img src="./assets/events/dac-20260925-cover.png" alt="Grok Bot 达卡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 达卡线下交流</strong><br />2026-09-25 周五 16:00–19:00（达卡时间 GMT+6）<br />达卡 · Gulshan（Moar, Level 5 Navana HR Tower-1）<br /><br />达卡 Grok Bot 动手局：搭实用 work bot（简报 bot）、现场 setup、Origin / Grok 4.6、演示与 Q&A，含餐食与周边。主办 Amit Das；免费，约 60 席；新手欢迎。<br /><br /><a href="https://luma.com/5dxqyfyo"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="dac-20261020"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-b80k"><img src="./assets/events/dac-20261020-cover.png" alt="Grok Bot 达卡 Cowork" width="300" /></a></td><td valign="top"><strong>Grok Bot 达卡 Cowork</strong><br />2026-10-20 周二 13:00–16:30（达卡时间 GMT+6）<br />达卡（报名后可见具体地址）<br /><br />达卡 Grok Bot 动手 cowork：带 side project 或想法，单独或组队用 Grok Bot 边做边学、分享与交流。主办 Mahinoor Rahman（SpaceXAI for Dhaka）；免费，需主办审批，约 90 席；请带笔记本；新手欢迎。<br /><br /><a href="https://luma.com/spacexai-b80k"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-br"></a>
 ### 巴西
 
@@ -194,12 +200,6 @@
 
 <a id="syd-20261007"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-d70v"><img src="./assets/events/syd-20261007-cover.png" alt="Grok Bot 悉尼线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 悉尼线下交流</strong><br />2026-10-07 周三 17:30–21:00（悉尼）<br />悉尼 · 报名通过后可见地址<br /><br />8 月场之后的下一场官方 Cursor 悉尼 Grok Bot 夜。需主办审核。<br /><br /><a href="https://luma.com/cursor-d70v"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="country-bd"></a>
-### 孟加拉国
-
-<a id="dac-20260925"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/5dxqyfyo"><img src="./assets/events/dac-20260925-cover.png" alt="Grok Bot 达卡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 达卡线下交流</strong><br />2026-09-25 周五 16:00–19:00（达卡时间 GMT+6）<br />达卡 · Gulshan（Moar, Level 5 Navana HR Tower-1）<br /><br />达卡 Grok Bot 动手局：搭实用 work bot（简报 bot）、现场 setup、Origin / Grok 4.6、演示与 Q&A，含餐食与周边。主办 Amit Das；免费，约 60 席；新手欢迎。<br /><br /><a href="https://luma.com/5dxqyfyo"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 <a id="country-be"></a>
 ### 比利时
