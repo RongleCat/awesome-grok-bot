@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-555-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-556-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -234,6 +234,7 @@
 
 ## スキル、プラグインと MCP
 
+- [Bot Shelf](https://github.com/getbotshelf/botshelf) - すでに走った Grok Bot ジョブパックの店（markdown を貼るだけ。Claude Code と ChatGPT のパックもあり）。無料パックは無料のまま。有料 Desk 向け USDT TRC20 checkout は公開済み。
 - [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - ローカルの macOS helper 経由で、Bot が iMessage を読み、仕分け、送ります。
 - [Grok Bot Discord gateway](https://github.com/davefmurray/grok-bot-discord) - Slack App のふりをせず、Bot を Discord に住ませるブリッジ。
 - [Werewolf gamemaster skill](https://github.com/Heyvhuang/werewolf-gamemaster) - 本物のスキルパック：hello-world の SKILL.md ではなく、Bot が人狼の進行役をします。
@@ -661,7 +662,7 @@
 
 ## 貢献
 
-8 セクションに 555 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 556 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

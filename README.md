@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-555-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-556-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -234,6 +234,7 @@
 
 ## Skills, Plugins & MCP
 
+- [Bot Shelf](https://github.com/getbotshelf/botshelf) - Shop of Grok Bot job packs that already ran (copy-paste markdown; Claude Code and ChatGPT packs too). Free packs stay free; USDT TRC20 checkout is live for paid desks.
 - [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - Read, triage, and send iMessage from the Bot via a local macOS helper.
 - [Grok Bot Discord gateway](https://github.com/davefmurray/grok-bot-discord) - Bridge so a Bot can live in Discord without pretending to be a Slack App.
 - [Werewolf gamemaster skill](https://github.com/Heyvhuang/werewolf-gamemaster) - A real skill pack: the Bot runs a Werewolf table, not a hello-world SKILL.md.
@@ -661,7 +662,7 @@
 
 ## Contributing
 
-555 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+556 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

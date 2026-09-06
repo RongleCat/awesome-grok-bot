@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-555-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-556-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -234,6 +234,7 @@
 
 ## 技能、插件与 MCP
 
+- [Bot Shelf](https://github.com/getbotshelf/botshelf) - 已经跑过的 Grok Bot 工作包商店（markdown 可粘贴；也有 Claude Code 和 ChatGPT 包）。免费包保持免费；付费 Desk 的 USDT TRC20 checkout 已上线.
 - [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - 通过本机 macOS helper 让 Bot 读、分拣、发 iMessage。.
 - [Grok Bot Discord gateway](https://github.com/davefmurray/grok-bot-discord) - Discord 网关：让 Bot 住在 Discord，而不是假装 Slack App。.
 - [Werewolf gamemaster skill](https://github.com/Heyvhuang/werewolf-gamemaster) - 真技能包：Bot 当狼人杀主持人，不是 hello-world SKILL.md。.
@@ -661,7 +662,7 @@
 
 ## 贡献
 
-目前 8 个分类、555 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、556 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

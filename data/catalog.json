@@ -1476,6 +1476,16 @@
       },
       "items": [
         {
+          "title": "Bot Shelf",
+          "url": "https://github.com/getbotshelf/botshelf",
+          "source": "pr-getbotshelf-20260906-readd",
+          "blurb": {
+            "en": "Shop of Grok Bot job packs that already ran (copy-paste markdown; Claude Code and ChatGPT packs too). Free packs stay free; USDT TRC20 checkout is live for paid desks.",
+            "zh": "已经跑过的 Grok Bot 工作包商店（markdown 可粘贴；也有 Claude Code 和 ChatGPT 包）。免费包保持免费；付费 Desk 的 USDT TRC20 checkout 已上线",
+            "ja": "すでに走った Grok Bot ジョブパックの店（markdown を貼るだけ。Claude Code と ChatGPT のパックもあり）。無料パックは無料のまま。有料 Desk 向け USDT TRC20 checkout は公開済み"
+          }
+        },
+        {
           "title": "grokbot-imessage-skill",
           "url": "https://github.com/jeffhuber/grokbot-imessage-skill",
           "source": "GB-183",
