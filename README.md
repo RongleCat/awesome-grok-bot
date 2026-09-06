@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-570-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-581-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（4）：[Shanghai](./EVENTS.md#sha-20261017) · [Hangzhou](./EVENTS.md#hzo-20260919) · [Beijing](./EVENTS.md#bj-20260919) · [Guangzhou](./EVENTS.md#can-20260913)
-- **United States**（13）：[Austin](./EVENTS.md#aus-20260910) · [Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013)
+- **United States**（14）：[Austin](./EVENTS.md#aus-20260910) · [Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013) · [Dallas](./EVENTS.md#dal-20260919)
 - **Argentina**（4）：[Bariloche](./EVENTS.md#brc-20260910) · [Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
 - **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260917) · [Toronto](./EVENTS.md#yyz-20260917)
 - **Indonesia**（4）：[Tangerang](./EVENTS.md#tgr-20260911) · [Uluwatu / Bali](./EVENTS.md#bli-20260915) · [Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Bandung](./EVENTS.md#bdg-20260919)
@@ -47,22 +47,23 @@
 - **Japan**（3）：[Sapporo](./EVENTS.md#spk-20261002) · [Tokyo](./EVENTS.md#tyo-20260909) · [Osaka](./EVENTS.md#osa-20260917)
 - **Bangladesh**（2）：[Dhaka](./EVENTS.md#dac-20260925) · [Dhaka](./EVENTS.md#dac-20261020)
 - **Brazil**（2）：[Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926)
+- **Germany**（2）：[Freiburg](./EVENTS.md#frb-20260917) · [Cologne](./EVENTS.md#cgn-20261009)
+- **United Kingdom**（2）：[London](./EVENTS.md#ldn-20260916) · [London](./EVENTS.md#ldn-20260913)
 - **Guatemala**（2）：[Quetzaltenango](./EVENTS.md#xela-20260920) · [Guatemala City](./EVENTS.md#gua-20261003)
-- **Netherlands**（2）：[Utrecht](./EVENTS.md#utr-20261029) · [Amsterdam](./EVENTS.md#ams-20260922)
 - **Peru**（2）：[Arequipa](./EVENTS.md#aqp-20260911) · [Lima](./EVENTS.md#lim-20260911)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20260917)
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
 - **Belgium**（1）：[Leuven](./EVENTS.md#leu-20260919)
 - **Cameroon**（1）：[Yaoundé](./EVENTS.md#yde-20260910)
 - **Colombia**（1）：[Cartago](./EVENTS.md#ctg-20260911)
-- **Germany**（1）：[Freiburg](./EVENTS.md#frb-20260917)
 - **Denmark**（1）：[Copenhagen](./EVENTS.md#cph-20260909)
-- **United Kingdom**（1）：[London](./EVENTS.md#ldn-20260916)
 - **Israel**（1）：[Tel Aviv](./EVENTS.md#tlv-20260908)
 - **Kenya**（1）：[Nairobi](./EVENTS.md#nbo-20260917)
+- **Cambodia**（1）：[Phnom Penh](./EVENTS.md#pnh-20261003)
 - **Myanmar**（1）：[Yangon](./EVENTS.md#ygn-20260926)
 - **Malta**（1）：[Ta' Xbiex / Malta](./EVENTS.md#mlt-20260917)
 - **Malaysia**（1）：[Kuala Lumpur](./EVENTS.md#kul-20260919)
+- **Netherlands**（1）：[Amsterdam](./EVENTS.md#ams-20260922)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
 - **Portugal**（1）：[Porto](./EVENTS.md#prt-20260909)
 - **El Salvador**（1）：[San Salvador](./EVENTS.md#sal-20260919)
@@ -235,6 +236,8 @@
 - [Relay job-search workspace + GrokCell](https://github.com/SyberLabs/relay) - Job-search review app that exchanges drafts with Grok Bot on its VM and ships GrokCell specialist Bot templates.
 - [Canvas student assistant Grok Bot](https://github.com/ndunl075/grok-bot---cursor-hackathon) - Hackathon Grok Bot that proactively texts Canvas due dates, grade impact, and reachable-grade math with skills and routines.
 - [GrokBot Board public DeFi directors](https://github.com/thegrokboard/the-grokbot-board) - Public build-in-public case of an autonomous AI board of directors of Grok Bots running a Solana DeFi company.
+- [Buying Signal Bot (Grok Bot + FullEnrich)](https://github.com/ToolMonsters/buying-signal-bot) - Setup playbook so a Grok Bot watches X for people leaving tools, then FullEnrich qualifies them into a short morning list.
+- [Hedge-fund desk Grok Bot agent export](https://github.com/prosmoon-hash/hedge-fund-agents) - Sanitized backup of a multi-desk Grok Bot trading roster (profiles, automations, skills, ops docs) for version history—not a live runtime.
 
 ## Skills, Plugins & MCP
 
@@ -392,6 +395,9 @@
 - [Ando workspace MCP agent plugin](https://github.com/Ando-Corporation/ando-grok-plugin) - Agent Plugins package pointing Cursor/Grok-compatible clients at Ando hosted MCP for conversations, docs, calls, and tasks.
 - [BrainSite X-profile preview skills](https://github.com/allanta8/BrainsiteAI) - Claude, Codex, and Grok Bot skills that call BrainSite remote MCP to turn an X profile into a live AI-agent preview link.
 - [Atebites multi-host plugin marketplace](https://github.com/atebites-hub/atebites-plugins) - Multi-host plugin marketplace with .grok-plugin wrappers vendoring ODW, ponytail, and Advisor for Cursor, Grok, and other agents.
+- [CN mail IMAP MCP for Grok Bot](https://github.com/evilmordy/grok-bot-cn-mail) - Experimental local MCP plus mail-imap skill so Grok Bot can search and read QQ/163/126/Tencent Exmail over IMAP (not an official xAI connector).
+- [grokbot-orca Mac desktop MCP plugin](https://github.com/aa2246740/grokbot-orca) - Agent Plugins pack so Grok Bot desktop on the same Mac dispatches/watches local Orca.app workers via stdio MCP (replaces orca-bridge for that topology).
+- [Minis + Grokbot desktop design skill](https://github.com/1052666/minis-app-design) - Reusable SKILL.md design pack: Minis-inspired mobile UI plus Grokbot-inspired desktop workspaces with tokens, CSS, and platform references.
 
 ## Reviews & Comparisons
 
@@ -604,6 +610,8 @@
 - [Windows instant crash — Codex sandbox ACL missing S-1-15-2-2](https://forum.cursor.com/t/grok-bot-0-28-0-and-0-43-0-windows-instant-launch-crash-int3-in-v8-jit-grok-bot-786cdd6/170691) - Staff (deanrie, 2026-09-05): Quiet Windows launch crash (int3 / 0x80000003) is often AppData\Local install ACLs left by CodexSandboxUsers without ALL RESTRICTED APPLICATION PACKAGES (S-1-15-2-2)—`--disable-gpu`/`--jitless` won’t help; diagnose with `--disable-gpu-sandbox`, then `icacls` grant S-1-15-2-1/2 (RX) on the Grok Bot folder (and optionally `%LOCALAPPDATA%\Programs`) or remove the orphaned Codex SIDs and `/reset`.
 - [SuperGrok vs Heavy for Grok Bot — usage grant size only](https://forum.cursor.com/t/grok-bot-supergrok-vs-heavy-any-performance-difference-beyond-usage/170664) - Staff (deanrie, 2026-09-05): Documented SuperGrok vs SuperGrok Heavy difference for Grok Bot is linked usage-grant size only—no published latency/queue/tool-speed advantage while in allowance; linking any SuperGrok tier is a usage grant and does not change your Cursor plan (late-August “free Ultra with Heavy” materials are outdated—see Plans and Link SuperGrok help).
 - [“Bricked” after Reset — graphrag embedding RAM OOM](https://forum.cursor.com/t/grokbot-bricked-wont-reset/170689) - Staff (deanrie, 2026-09-05): A “bricked” Agent Computer after heavy indexing can be graphrag embedding hitting the VM RAM ceiling (not disk)—Reset may take up to ~1 hour and re-clicking restarts the timer; after it returns, stop auto-indexing, check `free -h`, and run embedding/graph builds in smaller batches so memory stays under the limit (apt/pip outside working files need reinstall after Reset).
+- [Windows: secret-card chat — replies missing in main pane (sidebar/mobile OK)](https://forum.cursor.com/t/grok-bot-windows-one-chat-can-send-but-replies-never-render-in-main-pane-sidebar-preview-ok-mobile-ok/170745) - Staff (deanrie, 2026-09-06): On 0.43 Windows, a chat where the bot asked for a key/password (secret card) can stop showing new replies in the main pane while sidebar preview and mobile stay current—messages still reach the bot; computer is fine so don’t Reset/Recover/reinstall/clear data; server-side fix rolls out automatically (≤24h), no app update needed; use mobile for that thread meantime.
+- [Mac 0.43: secret-card chats — “Couldn’t load conversation” (iPhone/sidebar OK)](https://forum.cursor.com/t/cannot-load-chat-history-for-some-grok-bots/170750) - Staff (deanrie, 2026-09-06): On 0.43.0 Mac desktop, a conversation where the bot asked for a secret/credential can stop opening (“Couldn’t load conversation”—misleading; not network); iPhone and sidebar preview still work and Mac sends still reach the bots—don’t Reset Agent Computer, reinstall, or update the app; background server fix applies per computer (few hours, ≤24h).
 
 ## Related Lists
 
@@ -673,10 +681,14 @@
 - [Awesome Grok Bot curated list](https://github.com/doanbactam/awesome-grok-bots) - Unofficial curated list of Grok Bot templates, skills, plugins, and tools with primary-source requirements.
 - [Grok Bot Voice Android hold-to-talk](https://github.com/jmtroller/grok-bot-voice) - Native Kotlin hold-to-talk Android app that uses the phone as mic/speaker while a Grok Bot stays the brain over MCP.
 - [Buzz relay ears webhook for Grok Bot](https://github.com/0xnfrith/grokbot-buzz-ears) - Small forwarder that signs into Buzz/Nostr NIP-29 groups with the bot key and wakes an agent HTTP webhook on mentions.
+- [Grok Bot Templates](https://grokbottemplates.dev/) - Independent directory of Grok Bot templates that shows each job, what the pack includes, the access it asks for, and who shared it.
+- [Grok Bot five-platform Chinese entry map](https://github.com/KinGao294/grok-bot-platforms-zh) - Unofficial static Chinese one-pager mapping official iPhone/iPad/Android/macOS/Windows download entries, OS gates, and plan conflicts for Grok Bot.
+- [Grok Bot marketplace Chinese template shelf](https://github.com/KinGao294/grok-bot-templates-zh) - Unofficial static Chinese shelf of the public x.ai Bot Marketplace (69 templates) with refresh.py and install links that always jump to official pages.
+- [Diana day/night Grok Bot theme blueprint](https://github.com/lanmengSakura/diana-grok-bot-theme) - Pre-release visual blueprint (CSS + assets) for a Diana day/night skin on Grok Bot desktop; no public one-click local injector yet.
 
 ## Contributing
 
-570 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+581 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

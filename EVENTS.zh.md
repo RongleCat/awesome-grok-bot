@@ -63,6 +63,9 @@
 <a id="pgh-20261013"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/6lx5t8ru"><img src="./assets/events/pgh-20261013-cover.png" alt="Grok Bot 匹兹堡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 匹兹堡线下交流</strong><br />2026-10-13 周二 18:30–20:30（美东）<br />匹兹堡 · Oakland / Lawrenceville（报名后可见详细地址）<br /><br />匹兹堡首场城市级 Grok Bot 线下（非校园专场）：短演示后动手/换配置；学生与在职皆可。主办 Micah Smith；免费，开放报名（约 30 席）。<br /><br /><a href="https://luma.com/6lx5t8ru"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
+<a id="dal-20260919"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-ym79"><img src="./assets/events/dal-20260919-cover.png" alt="Cursor + Grok Bot 达拉斯线下交流" width="300" /></a></td><td valign="top"><strong>Cursor + Grok Bot 达拉斯线下交流</strong><br />2026-09-19 周六 10:30–14:30（美中 CDT）<br />达拉斯 · Kiln Preston Hollow（9850 N Central Expy #230）<br /><br />达拉斯首场 Grok Bot 线下：短分享/演示后动手；建议带本（先下 x.ai/bot）。有限 Cursor + SpaceXAI API credits（语音/聊天/图/视频）先到先得。场地 Kiln Preston Hollow（北达拉斯 The Hill，免费停车）。主办 Pradipta Shrestha、Sebastian Mendo、Tyler Vea；免费，需主办审批，约 60 席（扫描时约 33 人报名）。<br /><br /><a href="https://luma.com/cursor-ym79"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
 <a id="country-ar"></a>
 ### 阿根廷
 
@@ -165,6 +168,24 @@
 <a id="fln-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/c293hlgc"><img src="./assets/events/fln-20260926-cover.png" alt="Grok Bot 弗洛里亚诺波利斯线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 弗洛里亚诺波利斯线下交流</strong><br />2026-09-26 周六 18:00–20:00（巴西）<br />巴西弗洛里亚诺波利斯 · Founder Haus（Jurerê Internacional）<br /><br />弗洛里亚诺波利斯首场 Grok Bot：本地作品演示与交流。论坛 170449；约 25 人意向，需审核。<br /><br /><a href="https://luma.com/c293hlgc"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
+<a id="country-de"></a>
+### 德国
+
+<a id="frb-20260917"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-freiburg"><img src="./assets/events/frb-20260917-cover.png" alt="Grok Bot 弗赖堡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 弗赖堡线下交流</strong><br />2026-09-17 周四 18:00–21:00（德国）<br />德国弗赖堡 · Stefan-Meier-Straße 8<br /><br />弗赖堡首场 Grok Bot 线下：试用产品 + SpaceXAI 社群交流。主办 Aniruth / Foundersclub Freiburg，需审核，约 57 席。<br /><br /><a href="https://luma.com/grok-bot-freiburg"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="cgn-20261009"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-cologne-meetup1"><img src="./assets/events/cgn-20261009-cover.png" alt="Grok Bot 科隆线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 科隆线下交流</strong><br />2026-10-09 周五 18:00–21:00（科隆 CEST）<br />科隆（报名后可见具体地址）<br /><br />科隆 Grok Bot 线下：社交、分享/工作坊、带着真实任务动手（Windows/Mac 笔记本或 iPhone；先下 x.ai/bot）。议程 18:00 签到→18:30 演示与动手→20:00 闲聊；欢迎更多 Grok Bot 分享者。主办 Emmanuel Ketcha、Eyad Kelleh、Babajide Mayowa Moibi、Teoman Köse；免费，需主办审批，约 50 席。<br /><br /><a href="https://luma.com/spacexai-cologne-meetup1"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="country-gb"></a>
+### 英国
+
+<a id="ldn-20260916"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-london"><img src="./assets/events/ldn-20260916-cover.png" alt="Grok Bot 伦敦线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 伦敦线下交流</strong><br />2026-09-16 周三 18:00–21:00（伦敦）<br />伦敦 · Granola 主办场地（报名后可见门牌）<br /><br />伦敦首场 Grok Bot：晚间 cowork、本地重度用户演示（SpaceXAI 现场工程师 Kiara Polychroniadi），带电脑领额度。免费报名。<br /><br /><a href="https://luma.com/grok-bot-london"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
+<a id="ldn-20260913"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-hnzl"><img src="./assets/events/ldn-20260913-cover.png" alt="Grok Bot 伦敦 Cowork" width="300" /></a></td><td valign="top"><strong>Grok Bot 伦敦 Cowork</strong><br />2026-09-13 周日 11:00–17:30（伦敦 BST）<br />伦敦（报名后可见具体地址；CoLoop 场地）<br /><br />伦敦白天 Grok Bot cowork（CoLoop）：工位/沙发/电话间/专注房，WiFi 与白板，咖啡与 Grok Bot cookies/饮料。和 builder 一起用 Grok Bot / Origin / Cursor 干活，轻度分享，非社交局。主办 Francisco Terpolilli、Oscar Falemara；免费，需主办审批，约 45 席。与 ldn-20260916 晚间 Meetup 不同场。<br /><br /><a href="https://luma.com/spacexai-hnzl"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
 <a id="country-gt"></a>
 ### 危地马拉
 
@@ -173,15 +194,6 @@
 
 <a id="gua-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-is2h"><img src="./assets/events/gua-20261003-cover.png" alt="Grok Bot 危地马拉城线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 危地马拉城线下交流</strong><br />2026-10-03 周六 10:00–14:00（危地马拉城）<br />危地马拉城 Zona 10 弗朗西斯科·马罗金大学 · 报名后可见门牌<br /><br />Open2 在危地马拉城办的 Grok Bot 见面会：用更好的指令、上下文与端到端流程，而不只是零散任务，并有试用额度（约 36 人意向，需主办审核）。<br /><br /><a href="https://luma.com/cursor-is2h"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="country-nl"></a>
-### 荷兰
-
-<a id="utr-20261029"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cfk3aokj"><img src="./assets/events/utr-20261029-cover.png" alt="Grok Bot 乌得勒支线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 乌得勒支线下交流</strong><br />2026-10-29 周四 19:00–21:30（乌得勒支）<br />乌得勒支 · 报名通过后可见地址<br /><br />乌得勒支第二场 Grok Bot 社区线下。需主办审核。<br /><br /><a href="https://luma.com/cfk3aokj"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="ams-20260922"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-amsterdam"><img src="./assets/events/ams-20260922-cover.png" alt="Grok Bot 阿姆斯特丹线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 阿姆斯特丹线下交流</strong><br />2026-09-22 周二 18:00–21:00（阿姆斯特丹）<br />阿姆斯特丹 · 场地待定（Luma / 报名后可见）<br /><br />阿姆斯特丹首场 Grok Bot：晚间 cowork、本地重度用户演示，带电脑领额度。免费报名。<br /><br /><a href="https://luma.com/grok-bot-amsterdam"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="country-pe"></a>
 ### 秘鲁
@@ -222,23 +234,11 @@
 <a id="ctg-20260911"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-meetup-cartago"><img src="./assets/events/ctg-20260911-cover.png" alt="Grok Bot 卡塔戈线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 卡塔戈线下交流</strong><br />2026-09-11 周五 14:00–18:00（哥伦比亚）<br />哥伦比亚卡塔戈 · 商会 Cámara de Comercio, Cra. 4 # 12-101<br /><br />卡塔戈线下：Cursor/SpaceXAI 与 Grok Bot 真实用法，5 位本地分享。商会场地。<br /><br /><a href="https://luma.com/grokbot-meetup-cartago"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
-<a id="country-de"></a>
-### 德国
-
-<a id="frb-20260917"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-freiburg"><img src="./assets/events/frb-20260917-cover.png" alt="Grok Bot 弗赖堡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 弗赖堡线下交流</strong><br />2026-09-17 周四 18:00–21:00（德国）<br />德国弗赖堡 · Stefan-Meier-Straße 8<br /><br />弗赖堡首场 Grok Bot 线下：试用产品 + SpaceXAI 社群交流。主办 Aniruth / Foundersclub Freiburg，需审核，约 57 席。<br /><br /><a href="https://luma.com/grok-bot-freiburg"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
 <a id="country-dk"></a>
 ### 丹麦
 
 <a id="cph-20260909"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-t9m9"><img src="./assets/events/cph-20260909-cover.png" alt="Grok Bot 哥本哈根线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 哥本哈根线下交流</strong><br />2026-09-09 周三 17:00–20:00（哥本哈根）<br />哥本哈根 · Trustpilot A/S, Pilestræde 58<br /><br />哥本哈根首场 Grok Bot 线下。需主办审核。<br /><br /><a href="https://luma.com/cursor-t9m9"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="country-gb"></a>
-### 英国
-
-<a id="ldn-20260916"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-london"><img src="./assets/events/ldn-20260916-cover.png" alt="Grok Bot 伦敦线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 伦敦线下交流</strong><br />2026-09-16 周三 18:00–21:00（伦敦）<br />伦敦 · Granola 主办场地（报名后可见门牌）<br /><br />伦敦首场 Grok Bot：晚间 cowork、本地重度用户演示（SpaceXAI 现场工程师 Kiara Polychroniadi），带电脑领额度。免费报名。<br /><br /><a href="https://luma.com/grok-bot-london"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="country-il"></a>
 ### 以色列
@@ -251,6 +251,12 @@
 
 <a id="nbo-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-0yk6"><img src="./assets/events/nbo-20260917-cover.png" alt="Grok Bot 内罗毕线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 内罗毕线下交流</strong><br />2026-09-17 周四 15:30–18:00（内罗毕）<br />内罗毕 · 场地待定，报名后通知<br /><br />内罗毕动手玩 Grok Bot。免费，需审核，还剩 60 个名额。<br /><br /><a href="https://luma.com/cursor-0yk6"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="country-kh"></a>
+### 柬埔寨
+
+<a id="pnh-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-jt05"><img src="./assets/events/pnh-20261003-cover.png" alt="Grok Bot 金边线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 金边线下交流</strong><br />2026-10-03 周六 14:00–16:00（金边 / Bangkok 时区 GMT+7）<br />金边 · Smart Startup Space（Connexion Building, Koh Pich）<br /><br />柬埔寨首场 Grok Bot 线下：演示与交流、现场 credits 试玩（笔记本或手机均可），另有线上嘉宾。与 Smart Startup Space 合办。主办 Taka Kiyone、Luis Romero；免费，需主办审批，约 80 席；新手欢迎。<br /><br /><a href="https://luma.com/spacexai-jt05"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
 <a id="country-mm"></a>
 ### 缅甸
@@ -269,6 +275,12 @@
 
 <a id="kul-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot"><img src="./assets/events/kul-20260919-cover.png" alt="Grok Bot 吉隆坡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 吉隆坡线下交流</strong><br />2026-09-19 周六 18:00–20:00（吉隆坡）<br />吉隆坡 · 报名通过后可见地址<br /><br />吉隆坡线下 Grok Bot。免费，需审核，可候补，还剩 99 个名额。<br /><br /><a href="https://luma.com/grok-bot"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="country-nl"></a>
+### 荷兰
+
+<a id="ams-20260922"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-amsterdam"><img src="./assets/events/ams-20260922-cover.png" alt="Grok Bot 阿姆斯特丹线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 阿姆斯特丹线下交流</strong><br />2026-09-22 周二 18:00–21:00（阿姆斯特丹）<br />阿姆斯特丹 · 场地待定（Luma / 报名后可见）<br /><br />阿姆斯特丹首场 Grok Bot：晚间 cowork、本地重度用户演示，带电脑领额度。免费报名。<br /><br /><a href="https://luma.com/grok-bot-amsterdam"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="country-ph"></a>
 ### 菲律宾

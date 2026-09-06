@@ -63,6 +63,9 @@
 <a id="pgh-20261013"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/6lx5t8ru"><img src="./assets/events/pgh-20261013-cover.png" alt="Grok Bot Meetup Pittsburgh" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Pittsburgh</strong><br />2026-10-13（火）18:30–20:30（EDT）<br />ピッツバーグ · Oakland / Lawrenceville（登録後に住所を表示）<br /><br />ピッツバーグ初のシティ向け対面ミートアップ（キャンパス限定ではない）。短いデモの後にビルド／セットアップ共有。学生・社会人歓迎。主催 Micah Smith。無料・先着約30席。<br /><br /><a href="https://luma.com/6lx5t8ru"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
+<a id="dal-20260919"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-ym79"><img src="./assets/events/dal-20260919-cover.png" alt="Cursor + Grok Bot Dallas Meetup" width="300" /></a></td><td valign="top"><strong>Cursor + Grok Bot Dallas Meetup</strong><br />2026-09-19（土）10:30–14:30（CDT）<br />ダラス · Kiln Preston Hollow（9850 N Central Expy #230）<br /><br />ダラス初の Grok Bot ミートアップ。短いトーク／デモの後にビルド。ノートPC推奨（x.ai/bot）。Cursor と SpaceXAI API クレジット（音声／チャット／画像／動画）先着。会場 Kiln Preston Hollow（North Dallas、無料駐車）。主催 Pradipta Shrestha、Sebastian Mendo、Tyler Vea。無料・承認制・約60席（スキャン時約33名）。<br /><br /><a href="https://luma.com/cursor-ym79"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
 <a id="country-ar"></a>
 ### アルゼンチン
 
@@ -165,6 +168,24 @@
 <a id="fln-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/c293hlgc"><img src="./assets/events/fln-20260926-cover.png" alt="Grok Bot Meetup Florianópolis" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Florianópolis</strong><br />2026-09-26（土）18:00–20:00（BRT）<br />フロリアノポリス · Founder Haus - Jurerê In, Av. dos Merlins 156<br /><br />フロリアノポリス初の Grok Bot Meetup。デモと交流。forum 170449・関心約 25・承認制。<br /><br /><a href="https://luma.com/c293hlgc"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
+<a id="country-de"></a>
+### ドイツ
+
+<a id="frb-20260917"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-freiburg"><img src="./assets/events/frb-20260917-cover.png" alt="Grok Bot Meetup Freiburg" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Freiburg</strong><br />2026-09-17（木）18:00–21:00（CEST）<br />Freiburg im Breisgau · Stefan-Meier-Straße 8<br /><br />フライブルク初の対面。製品体験と交流。主催 Aniruth / Foundersclub Freiburg。承認制・約 57 席。<br /><br /><a href="https://luma.com/grok-bot-freiburg"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="cgn-20261009"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-cologne-meetup1"><img src="./assets/events/cgn-20261009-cover.png" alt="Grok Bot Meetup Cologne" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cologne</strong><br />2026-10-09（金）18:00–21:00（CEST）<br />ケルン（登録後に住所公開）<br /><br />ケルンの Grok Bot ミートアップ。交流・トーク／ワークショップ・実タスクでハンズオン（Windows／Mac ノートまたは iPhone、x.ai/bot を事前DL）。18:00 受付→18:30 デモ＆ハンズオン→20:00 雑談。追加スピーカー歓迎。主催 Emmanuel Ketcha、Eyad Kelleh、Babajide Mayowa Moibi、Teoman Köse。無料・承認制・約50席。<br /><br /><a href="https://luma.com/spacexai-cologne-meetup1"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="country-gb"></a>
+### イギリス
+
+<a id="ldn-20260916"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-london"><img src="./assets/events/ldn-20260916-cover.png" alt="Grok Bot Meetup London" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup London</strong><br />2026-09-16（水）18:00–21:00（BST）<br />ロンドン · Granola 主催（登録後に住所）<br /><br />ロンドン初の Grok Bot。夕方コーワークと地元パワーユーザーデモ（SpaceXAI フィールドエンジニア）、ノート PC とクレジット。無料登録。<br /><br /><a href="https://luma.com/grok-bot-london"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="ldn-20260913"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-hnzl"><img src="./assets/events/ldn-20260913-cover.png" alt="Grok Bot London Cowork" width="300" /></a></td><td valign="top"><strong>Grok Bot London Cowork</strong><br />2026-09-13（日）11:00–17:30（BST）<br />ロンドン（登録後に住所公開・CoLoop ホスト）<br /><br />ロンドン日中の Grok Bot コワーク（CoLoop）。デスク／ソファ／フォンブース／フォーカスルーム、WiFi・ホワイトボード、コーヒーとクッキー等。Grok Bot / Origin / Cursor で作業しつつ軽く共有。ネットワーキング中心ではない。主催 Francisco Terpolilli & Oscar Falemara。無料・承認制・約45席。ldn-20260916 夜のミートアップとは別開催。<br /><br /><a href="https://luma.com/spacexai-hnzl"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
 <a id="country-gt"></a>
 ### グアテマラ
 
@@ -173,15 +194,6 @@
 
 <a id="gua-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-is2h"><img src="./assets/events/gua-20261003-cover.png" alt="Grok Bot Meetup グアテマラシティ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup グアテマラシティ</strong><br />2026-10-03（土）10:00–14:00（CST）<br />グアテマラシティ Zona 10 フランシスコ・マロキン大学 · 登録後に住所を表示<br /><br />Open2 主催のグアテマラシティ Grok Bot ミートアップ。単発タスクを超える指示・文脈・一気通貫フローと試用クレジット（約 36 going、主催者承認）。<br /><br /><a href="https://luma.com/cursor-is2h"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="country-nl"></a>
-### オランダ
-
-<a id="utr-20261029"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cfk3aokj"><img src="./assets/events/utr-20261029-cover.png" alt="Grok Bot Meetup Utrecht" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Utrecht</strong><br />2026-10-29（木）19:00–21:30（CET）<br />ユトレヒト · 登録後に住所を表示<br /><br />ユトレヒト 2 回目の Grok Bot コミュニティ集会。主催者承認が必要。<br /><br /><a href="https://luma.com/cfk3aokj"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="ams-20260922"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-amsterdam"><img src="./assets/events/ams-20260922-cover.png" alt="Grok Bot Meetup Amsterdam" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Amsterdam</strong><br />2026-09-22（火）18:00–21:00（CEST）<br />アムステルダム · 会場 TBD（Luma / 登録後に住所）<br /><br />アムステルダム初の Grok Bot。夕方コーワークと地元パワーユーザーデモ、ノート PC 持参でクレジット。無料登録。<br /><br /><a href="https://luma.com/grok-bot-amsterdam"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
 <a id="country-pe"></a>
 ### ペルー
@@ -222,23 +234,11 @@
 <a id="ctg-20260911"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-meetup-cartago"><img src="./assets/events/ctg-20260911-cover.png" alt="Grok Bot Meetup Cartago" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cartago</strong><br />2026-09-11（金）14:00–18:00（COT）<br />コロンビア Cartago · Cámara de Comercio, Cra. 4 # 12-101<br /><br />Cartago のオフライン。Cursor / SpaceXAI と Grok Bot の実例、スピーカー 5 名。商工会議所。<br /><br /><a href="https://luma.com/grokbot-meetup-cartago"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
-<a id="country-de"></a>
-### ドイツ
-
-<a id="frb-20260917"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-freiburg"><img src="./assets/events/frb-20260917-cover.png" alt="Grok Bot Meetup Freiburg" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Freiburg</strong><br />2026-09-17（木）18:00–21:00（CEST）<br />Freiburg im Breisgau · Stefan-Meier-Straße 8<br /><br />フライブルク初の対面。製品体験と交流。主催 Aniruth / Foundersclub Freiburg。承認制・約 57 席。<br /><br /><a href="https://luma.com/grok-bot-freiburg"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
 <a id="country-dk"></a>
 ### デンマーク
 
 <a id="cph-20260909"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-t9m9"><img src="./assets/events/cph-20260909-cover.png" alt="Grok Bot Meetup Copenhagen" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Copenhagen</strong><br />2026-09-09（水）17:00–20:00（CEST）<br />コペンハーゲン · Trustpilot A/S, Pilestræde 58<br /><br />コペンハーゲン初の Grok Bot ミートアップ。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-t9m9"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="country-gb"></a>
-### イギリス
-
-<a id="ldn-20260916"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-london"><img src="./assets/events/ldn-20260916-cover.png" alt="Grok Bot Meetup London" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup London</strong><br />2026-09-16（水）18:00–21:00（BST）<br />ロンドン · Granola 主催（登録後に住所）<br /><br />ロンドン初の Grok Bot。夕方コーワークと地元パワーユーザーデモ（SpaceXAI フィールドエンジニア）、ノート PC とクレジット。無料登録。<br /><br /><a href="https://luma.com/grok-bot-london"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
 <a id="country-il"></a>
 ### イスラエル
@@ -251,6 +251,12 @@
 
 <a id="nbo-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-0yk6"><img src="./assets/events/nbo-20260917-cover.png" alt="Grok Bot Meetup Nairobi" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Nairobi</strong><br />2026-09-17（木）15:30–18:00（EAT）<br />ナイロビ · 会場は登録後に案内<br /><br />ナイロビのハンズオン Grok Bot。無料、主催者承認、残席 60。<br /><br /><a href="https://luma.com/cursor-0yk6"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="country-kh"></a>
+### カンボジア
+
+<a id="pnh-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-jt05"><img src="./assets/events/pnh-20261003-cover.png" alt="Grok Bot Meetup Phnom Penh" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Phnom Penh</strong><br />2026-10-03（土）14:00–16:00（Asia/Bangkok、GMT+7）<br />プノンペン · Smart Startup Space（Connexion Building, Koh Pich）<br /><br />カンボジア初の Grok Bot ミートアップ。デモ・アイデア交換、現地クレジット試用（ノート／スマホ可）、オンラインゲストあり。Smart Startup Space 共催。主催 Taka Kiyone & Luis Romero。無料・承認制・約80席。初心者歓迎。<br /><br /><a href="https://luma.com/spacexai-jt05"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
 <a id="country-mm"></a>
 ### ミャンマー
@@ -269,6 +275,12 @@
 
 <a id="kul-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot"><img src="./assets/events/kul-20260919-cover.png" alt="Grok Bot Meetup Kuala Lumpur" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Kuala Lumpur</strong><br />2026-09-19（土）18:00–20:00（MYT）<br />クアラルンプール · 登録後に住所を表示<br /><br />クアラルンプールの対面 Grok Bot。無料、主催者承認、ウェイティング可、残席 99。<br /><br /><a href="https://luma.com/grok-bot"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="country-nl"></a>
+### オランダ
+
+<a id="ams-20260922"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-amsterdam"><img src="./assets/events/ams-20260922-cover.png" alt="Grok Bot Meetup Amsterdam" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Amsterdam</strong><br />2026-09-22（火）18:00–21:00（CEST）<br />アムステルダム · 会場 TBD（Luma / 登録後に住所）<br /><br />アムステルダム初の Grok Bot。夕方コーワークと地元パワーユーザーデモ、ノート PC 持参でクレジット。無料登録。<br /><br /><a href="https://luma.com/grok-bot-amsterdam"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
 <a id="country-ph"></a>
 ### フィリピン

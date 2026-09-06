@@ -207,6 +207,7 @@ COUNTRY_LABEL = {
     "be": {"en": "Belgium", "zh": "比利时", "ja": "ベルギー"},
     "bd": {"en": "Bangladesh", "zh": "孟加拉国", "ja": "バングラデシュ"},
     "de": {"en": "Germany", "zh": "德国", "ja": "ドイツ"},
+    "kh": {"en": "Cambodia", "zh": "柬埔寨", "ja": "カンボジア"},
     "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
     "other": {"en": "Other", "zh": "其他", "ja": "その他"},
 }
@@ -340,6 +341,10 @@ EVENT_GEO = {
     "bdg-20260919": ("id", "Bandung", "万隆", "バンドン"),
     "cuu-20260924": ("mx", "Chihuahua", "奇瓦瓦", "チワワ"),
     "cdmx-20260926": ("mx", "Mexico City", "墨西哥城", "メキシコシティ"),
+    "ldn-20260913": ("gb", "London", "伦敦", "ロンドン"),
+    "dal-20260919": ("us", "Dallas", "达拉斯", "ダラス"),
+    "pnh-20261003": ("kh", "Phnom Penh", "金边", "プノンペン"),
+    "cgn-20261009": ("de", "Cologne", "科隆", "ケルン"),
 }
 
 

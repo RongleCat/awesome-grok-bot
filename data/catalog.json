@@ -1504,6 +1504,26 @@
             "zh": "公开案例：由 Grok Bot 组成的自治 AI 董事会，公开运营一家 Solana DeFi 公司。",
             "ja": "公開ケース。Grok Bot による自律 AI 取締役会が Solana DeFi 会社を公開運営。"
           }
+        },
+        {
+          "title": "Buying Signal Bot (Grok Bot + FullEnrich)",
+          "url": "https://github.com/ToolMonsters/buying-signal-bot",
+          "source": "GB-598",
+          "blurb": {
+            "en": "Setup playbook so a Grok Bot watches X for people leaving tools, then FullEnrich qualifies them into a short morning list.",
+            "zh": "上手 playbook：用 Grok Bot 盯 X 上弃用工具的人，再经 FullEnrich  enrichment 成每日晨间短名单。",
+            "ja": "セットアップ playbook。Grok Bot が X でツール離脱を監視し、FullEnrich で朝の短いリストに資格付け。"
+          }
+        },
+        {
+          "title": "Hedge-fund desk Grok Bot agent export",
+          "url": "https://github.com/prosmoon-hash/hedge-fund-agents",
+          "source": "GB-599",
+          "blurb": {
+            "en": "Sanitized backup of a multi-desk Grok Bot trading roster (profiles, automations, skills, ops docs) for version history—not a live runtime.",
+            "zh": "多席位 Grok Bot 交易台脱敏备份（配置、自动化、skills、运维文档）供版本历史——不是可执行运行时。",
+            "ja": "複数デスクの Grok Bot 取引ロスターのサニタイズ済みバックアップ（profile / automation / skills / ops）。実行ランタイムではない。"
+          }
         }
       ]
     },
@@ -3053,6 +3073,36 @@
             "en": "Multi-host plugin marketplace with .grok-plugin wrappers vendoring ODW, ponytail, and Advisor for Cursor, Grok, and other agents.",
             "zh": "多宿主插件市场：含 .grok-plugin，封装 ODW、ponytail、Advisor 供 Cursor/Grok 等使用。",
             "ja": "マルチホスト市場。.grok-plugin 付きで ODW / ponytail / Advisor を Cursor・Grok などに提供。"
+          }
+        },
+        {
+          "title": "CN mail IMAP MCP for Grok Bot",
+          "url": "https://github.com/evilmordy/grok-bot-cn-mail",
+          "source": "GB-595",
+          "blurb": {
+            "en": "Experimental local MCP plus mail-imap skill so Grok Bot can search and read QQ/163/126/Tencent Exmail over IMAP (not an official xAI connector).",
+            "zh": "实验性本机 MCP + mail-imap 技能：让 Grok Bot 经 IMAP 搜索/阅读 QQ、163、126、腾讯企业邮（非 xAI 官方连接器）。",
+            "ja": "実験的なローカル MCP と mail-imap スキル。Grok Bot が IMAP で QQ/163/126/騰訊企業メールを検索・読取（非公式）。"
+          }
+        },
+        {
+          "title": "grokbot-orca Mac desktop MCP plugin",
+          "url": "https://github.com/aa2246740/grokbot-orca",
+          "source": "GB-596",
+          "blurb": {
+            "en": "Agent Plugins pack so Grok Bot desktop on the same Mac dispatches/watches local Orca.app workers via stdio MCP (replaces orca-bridge for that topology).",
+            "zh": "Agent Plugins 包：同机 Mac 上的 Grok Bot 桌面端经 stdio MCP 调度/盯梢本机 Orca.app 工人（替代该拓扑下的 orca-bridge）。",
+            "ja": "Agent Plugins パック。同 Mac の Grok Bot デスクトップが stdio MCP でローカル Orca.app を起動・監視（orca-bridge 代替）。"
+          }
+        },
+        {
+          "title": "Minis + Grokbot desktop design skill",
+          "url": "https://github.com/1052666/minis-app-design",
+          "source": "GB-597",
+          "blurb": {
+            "en": "Reusable SKILL.md design pack: Minis-inspired mobile UI plus Grokbot-inspired desktop workspaces with tokens, CSS, and platform references.",
+            "zh": "可复用 SKILL.md 设计包：移动端参考 Minis，桌面工作区参考 Grokbot，含 tokens、CSS 与多平台参考。",
+            "ja": "再利用可能な SKILL.md 設計パック。モバイルは Minis、デスクトップは Grokbot 風。tokens / CSS / プラットフォーム参考付き。"
           }
         }
       ]
@@ -5114,6 +5164,26 @@
             "zh": "官方（deanrie，2026-09-05）：重度索引后 Agent Computer 像砖头，常见是 graphrag 向量化打满云电脑内存（不是磁盘）——Reset 可能要近 1 小时，中途再点会重计时；恢复后先停自动索引，用 `free -h` 看内存，并把 embedding/建图拆成小批次以免再顶满（工作区外 apt/pip 安装 Reset 后需重装）。",
             "ja": "スタッフ（deanrie、2026-09-05）：重い索引後に Agent Computer が壊れたように見えるのは、ディスク不足ではなく graphrag 埋め込みが VM の RAM 上限に当たるケースが多い——Reset は最大約1時間、途中で再クリックするとタイマーが振り出し。復帰後は自動インデックスを止め、`free -h` で確認し、埋め込み/グラフ構築を小バッチにして上限未満を保つ（作業ファイル外の apt/pip は Reset 後に再導入）。"
           }
+        },
+        {
+          "title": "Windows: secret-card chat — replies missing in main pane (sidebar/mobile OK)",
+          "url": "https://forum.cursor.com/t/grok-bot-windows-one-chat-can-send-but-replies-never-render-in-main-pane-sidebar-preview-ok-mobile-ok/170745",
+          "source": "GB-603",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-06): On 0.43 Windows, a chat where the bot asked for a key/password (secret card) can stop showing new replies in the main pane while sidebar preview and mobile stay current—messages still reach the bot; computer is fine so don’t Reset/Recover/reinstall/clear data; server-side fix rolls out automatically (≤24h), no app update needed; use mobile for that thread meantime.",
+            "zh": "官方（deanrie，2026-09-06）：0.43 Windows 上若 Bot 刚要过密钥/密码（secret card），该会话主面板可能不再显示新回复，但侧栏预览与手机仍正常——消息其实已送达；电脑无恙，勿 Reset/Recover/重装/清数据；服务端修复会自动下发（最多约 24 小时），无需更新客户端；其间用手机看该线程。",
+            "ja": "スタッフ（deanrie、2026-09-06）：0.43 Windows で Bot が鍵/パスワード（シークレットカード）を求めた会話は、メイン欄に新返信が出ずサイドバープレビューとモバイルは最新のままになり得る——メッセージは到達済み。Computer は健全なので Reset/Recover/再インストール/データ消去は不要。サーバー側修正が自動適用（最大約24時間）、アプリ更新不要。当面はそのスレをモバイルで。"
+          }
+        },
+        {
+          "title": "Mac 0.43: secret-card chats — “Couldn’t load conversation” (iPhone/sidebar OK)",
+          "url": "https://forum.cursor.com/t/cannot-load-chat-history-for-some-grok-bots/170750",
+          "source": "GB-604",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-06): On 0.43.0 Mac desktop, a conversation where the bot asked for a secret/credential can stop opening (“Couldn’t load conversation”—misleading; not network); iPhone and sidebar preview still work and Mac sends still reach the bots—don’t Reset Agent Computer, reinstall, or update the app; background server fix applies per computer (few hours, ≤24h).",
+            "zh": "官方（deanrie，2026-09-06）：0.43.0 Mac 桌面上，Bot 要过密钥/凭证的会话可能打不开（“Couldn’t load conversation” 具误导性，非网络问题）；iPhone 与侧栏预览仍可用，且 Mac 发出的消息仍会送达——勿 Reset Agent Computer、重装或更新客户端；服务端修复会按云电脑后台自动生效（数小时内，最多约 24 小时）。",
+            "ja": "スタッフ（deanrie、2026-09-06）：0.43.0 Mac デスクトップで、Bot がシークレット/資格情報を求めた会話が開けなくなることがある（Couldn’t load conversation は誤導でネットワーク障害ではない）。iPhone とサイドバープレビューは使え、Mac からの送信も到達する——Reset Agent Computer・再インストール・アプリ更新は不要。サーバー側修正が Computer ごとに自動適用（数時間〜最大約24時間）。"
+          }
         }
       ]
     },
@@ -5783,6 +5853,46 @@
             "en": "Small forwarder that signs into Buzz/Nostr NIP-29 groups with the bot key and wakes an agent HTTP webhook on mentions.",
             "zh": "小型转发器：用 Bot 密钥登录 Buzz/Nostr NIP-29 群，提及时唤醒智能体 HTTP webhook。",
             "ja": "小型フォワーダ。Bot 鍵で Buzz / Nostr NIP-29 に入り、メンションでエージェント HTTP webhook を起こす。"
+          }
+        },
+        {
+          "title": "Grok Bot Templates",
+          "url": "https://grokbottemplates.dev/",
+          "source": "GB-594",
+          "blurb": {
+            "en": "Independent directory of Grok Bot templates that shows each job, what the pack includes, the access it asks for, and who shared it.",
+            "zh": "独立的 Grok Bot 模板目录：展示每个岗位、模板包含内容、所需权限以及分享者。",
+            "ja": "独立系 Grok Bot テンプレート一覧。仕事内容、同梱物、要求されるアクセス、共有者を明示。"
+          }
+        },
+        {
+          "title": "Grok Bot five-platform Chinese entry map",
+          "url": "https://github.com/KinGao294/grok-bot-platforms-zh",
+          "source": "GB-600",
+          "blurb": {
+            "en": "Unofficial static Chinese one-pager mapping official iPhone/iPad/Android/macOS/Windows download entries, OS gates, and plan conflicts for Grok Bot.",
+            "zh": "非官方中文单页站：对照 Grok Bot 在 iPhone/iPad/Android/macOS/Windows 的官方下载入口、系统要求与付费口径冲突。",
+            "ja": "非公式の中国語1ページ。Grok Bot の iPhone/iPad/Android/macOS/Windows 公式入口・OS 要件・プラン記述の食い違いを対照。"
+          }
+        },
+        {
+          "title": "Grok Bot marketplace Chinese template shelf",
+          "url": "https://github.com/KinGao294/grok-bot-templates-zh",
+          "source": "GB-601",
+          "blurb": {
+            "en": "Unofficial static Chinese shelf of the public x.ai Bot Marketplace (69 templates) with refresh.py and install links that always jump to official pages.",
+            "zh": "非官方中文货架：收录官方 Bot Marketplace 公开模板（快照 69 个），含 refresh.py；安装一律跳转 x.ai 官方页。",
+            "ja": "非公式の中国語棚。公式 Bot Marketplace の公開テンプレ（スナップショット 69）を refresh.py 付きで掲載。インストールは常に公式へ。"
+          }
+        },
+        {
+          "title": "Diana day/night Grok Bot theme blueprint",
+          "url": "https://github.com/lanmengSakura/diana-grok-bot-theme",
+          "source": "GB-602",
+          "blurb": {
+            "en": "Pre-release visual blueprint (CSS + assets) for a Diana day/night skin on Grok Bot desktop; no public one-click local injector yet.",
+            "zh": "预发布视觉蓝图（CSS + 素材）：给 Grok Bot 桌面端做嘉然日间/暗夜皮肤；尚未公开一键本机挂载器。",
+            "ja": "プレリリースの視覚設計図（CSS + 素材）。Grok Bot デスクトップ向け Diana 昼夜スキン。一発ローカル注入器は未公開。"
           }
         }
       ]
@@ -7002,7 +7112,7 @@
       "id": "utr-20261029",
       "url": "https://luma.com/cfk3aokj",
       "image": "./assets/events/utr-20261029-cover.png",
-      "expires": "2026-10-29T21:30:00+01:00",
+      "expires": "2026-09-06T00:00:00+08:00",
       "title": {
         "en": "Grok Bot Meetup Utrecht",
         "zh": "Grok Bot 乌得勒支线下交流",
@@ -9693,6 +9803,130 @@
         "en": "Register on Luma",
         "zh": "去 Luma 报名",
         "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "ldn-20260913",
+      "url": "https://luma.com/spacexai-hnzl",
+      "image": "./assets/events/ldn-20260913-cover.png",
+      "expires": "2026-09-13T17:30:00+01:00",
+      "title": {
+        "en": "Grok Bot London Cowork",
+        "zh": "Grok Bot 伦敦 Cowork",
+        "ja": "Grok Bot London Cowork"
+      },
+      "when": {
+        "en": "Sun 13 Sep 2026, 11:00–17:30 (BST)",
+        "zh": "2026-09-13 周日 11:00–17:30（伦敦 BST）",
+        "ja": "2026-09-13（日）11:00–17:30（BST）"
+      },
+      "where": {
+        "en": "London (address revealed after registration; CoLoop hosting)",
+        "zh": "伦敦（报名后可见具体地址；CoLoop 场地）",
+        "ja": "ロンドン（登録後に住所公開・CoLoop ホスト）"
+      },
+      "body": {
+        "en": "Daytime Grok Bot cowork in London at CoLoop: desks/couches/phone booths/focus room, WiFi & whiteboards, coffee + Grok Bot cookies & drinks. Build with Grok Bot / Origin / Cursor alongside other builders; light share-outs, not a networking mixer. Hosts Francisco Terpolilli & Oscar Falemara; free; host approval; ~45 seats. Distinct from ldn-20260916 evening meetup.",
+        "zh": "伦敦白天 Grok Bot cowork（CoLoop）：工位/沙发/电话间/专注房，WiFi 与白板，咖啡与 Grok Bot cookies/饮料。和 builder 一起用 Grok Bot / Origin / Cursor 干活，轻度分享，非社交局。主办 Francisco Terpolilli、Oscar Falemara；免费，需主办审批，约 45 席。与 ldn-20260916 晚间 Meetup 不同场。",
+        "ja": "ロンドン日中の Grok Bot コワーク（CoLoop）。デスク／ソファ／フォンブース／フォーカスルーム、WiFi・ホワイトボード、コーヒーとクッキー等。Grok Bot / Origin / Cursor で作業しつつ軽く共有。ネットワーキング中心ではない。主催 Francisco Terpolilli & Oscar Falemara。無料・承認制・約45席。ldn-20260916 夜のミートアップとは別開催。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "dal-20260919",
+      "url": "https://luma.com/cursor-ym79",
+      "image": "./assets/events/dal-20260919-cover.png",
+      "expires": "2026-09-19T14:30:00-05:00",
+      "title": {
+        "en": "Cursor + Grok Bot Dallas Meetup",
+        "zh": "Cursor + Grok Bot 达拉斯线下交流",
+        "ja": "Cursor + Grok Bot Dallas Meetup"
+      },
+      "when": {
+        "en": "Sat 19 Sep 2026, 10:30–14:30 (CDT)",
+        "zh": "2026-09-19 周六 10:30–14:30（美中 CDT）",
+        "ja": "2026-09-19（土）10:30–14:30（CDT）"
+      },
+      "where": {
+        "en": "Dallas, TX · Kiln Preston Hollow (9850 N Central Expy #230)",
+        "zh": "达拉斯 · Kiln Preston Hollow（9850 N Central Expy #230）",
+        "ja": "ダラス · Kiln Preston Hollow（9850 N Central Expy #230）"
+      },
+      "body": {
+        "en": "Dallas's first Grok Bot meetup: short talks/demos then open build; laptop recommended (x.ai/bot). Limited Cursor + SpaceXAI API credits (voice/chat/image/video), FCFS. Venue Kiln Preston Hollow (The Hill, North Dallas; free parking). Hosts Pradipta Shrestha, Sebastian Mendo, Tyler Vea; free; host approval; ~60 seats (~33 going at scan).",
+        "zh": "达拉斯首场 Grok Bot 线下：短分享/演示后动手；建议带本（先下 x.ai/bot）。有限 Cursor + SpaceXAI API credits（语音/聊天/图/视频）先到先得。场地 Kiln Preston Hollow（北达拉斯 The Hill，免费停车）。主办 Pradipta Shrestha、Sebastian Mendo、Tyler Vea；免费，需主办审批，约 60 席（扫描时约 33 人报名）。",
+        "ja": "ダラス初の Grok Bot ミートアップ。短いトーク／デモの後にビルド。ノートPC推奨（x.ai/bot）。Cursor と SpaceXAI API クレジット（音声／チャット／画像／動画）先着。会場 Kiln Preston Hollow（North Dallas、無料駐車）。主催 Pradipta Shrestha、Sebastian Mendo、Tyler Vea。無料・承認制・約60席（スキャン時約33名）。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "pnh-20261003",
+      "url": "https://luma.com/spacexai-jt05",
+      "image": "./assets/events/pnh-20261003-cover.png",
+      "expires": "2026-10-03T16:00:00+07:00",
+      "title": {
+        "en": "Grok Bot Meetup Phnom Penh",
+        "zh": "Grok Bot 金边线下交流",
+        "ja": "Grok Bot Meetup Phnom Penh"
+      },
+      "when": {
+        "en": "Sat 3 Oct 2026, 14:00–16:00 (Asia/Bangkok, GMT+7)",
+        "zh": "2026-10-03 周六 14:00–16:00（金边 / Bangkok 时区 GMT+7）",
+        "ja": "2026-10-03（土）14:00–16:00（Asia/Bangkok、GMT+7）"
+      },
+      "where": {
+        "en": "Phnom Penh · Smart Startup Space (Connexion Building, Koh Pich)",
+        "zh": "金边 · Smart Startup Space（Connexion Building, Koh Pich）",
+        "ja": "プノンペン · Smart Startup Space（Connexion Building, Koh Pich）"
+      },
+      "body": {
+        "en": "Cambodia's first Grok Bot meetup: demos, idea swap, on-site try-with-credits (laptop or phone OK), plus an online guest speaker. Co-organized with Smart Startup Space. Hosts Taka Kiyone & Luis Romero; free; host approval; ~80 seats; beginners welcome.",
+        "zh": "柬埔寨首场 Grok Bot 线下：演示与交流、现场 credits 试玩（笔记本或手机均可），另有线上嘉宾。与 Smart Startup Space 合办。主办 Taka Kiyone、Luis Romero；免费，需主办审批，约 80 席；新手欢迎。",
+        "ja": "カンボジア初の Grok Bot ミートアップ。デモ・アイデア交換、現地クレジット試用（ノート／スマホ可）、オンラインゲストあり。Smart Startup Space 共催。主催 Taka Kiyone & Luis Romero。無料・承認制・約80席。初心者歓迎。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "cgn-20261009",
+      "url": "https://luma.com/spacexai-cologne-meetup1",
+      "image": "./assets/events/cgn-20261009-cover.png",
+      "expires": "2026-10-09T21:00:00+02:00",
+      "title": {
+        "en": "Grok Bot Meetup Cologne",
+        "zh": "Grok Bot 科隆线下交流",
+        "ja": "Grok Bot Meetup Cologne"
+      },
+      "when": {
+        "en": "Fri 9 Oct 2026, 18:00–21:00 (CEST)",
+        "zh": "2026-10-09 周五 18:00–21:00（科隆 CEST）",
+        "ja": "2026-10-09（金）18:00–21:00（CEST）"
+      },
+      "where": {
+        "en": "Cologne (address revealed after registration)",
+        "zh": "科隆（报名后可见具体地址）",
+        "ja": "ケルン（登録後に住所公開）"
+      },
+      "body": {
+        "en": "Cologne Grok Bot meetup: networking, talks/workshop, hands-on with a real task (Windows/Mac laptop or iPhone; download x.ai/bot). Agenda 18:00 check-in → 18:30 demo & hands-on → 20:00 chat; open to more Grok Bot speakers. Hosts Emmanuel Ketcha, Eyad Kelleh, Babajide Mayowa Moibi, Teoman Köse; free; host approval; ~50 seats.",
+        "zh": "科隆 Grok Bot 线下：社交、分享/工作坊、带着真实任务动手（Windows/Mac 笔记本或 iPhone；先下 x.ai/bot）。议程 18:00 签到→18:30 演示与动手→20:00 闲聊；欢迎更多 Grok Bot 分享者。主办 Emmanuel Ketcha、Eyad Kelleh、Babajide Mayowa Moibi、Teoman Köse；免费，需主办审批，约 50 席。",
+        "ja": "ケルンの Grok Bot ミートアップ。交流・トーク／ワークショップ・実タスクでハンズオン（Windows／Mac ノートまたは iPhone、x.ai/bot を事前DL）。18:00 受付→18:30 デモ＆ハンズオン→20:00 雑談。追加スピーカー歓迎。主催 Emmanuel Ketcha、Eyad Kelleh、Babajide Mayowa Moibi、Teoman Köse。無料・承認制・約50席。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
       }
     }
   ]
