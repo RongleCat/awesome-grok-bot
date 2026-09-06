@@ -916,6 +916,46 @@
       },
       "items": [
         {
+          "title": "Sprite Portal Grok Bot nursery UI",
+          "url": "https://github.com/hkclaw/sprite-portal",
+          "source": "GB-584",
+          "blurb": {
+            "en": "Localhost Vite dashboard that presents six branded Grok Bot sprites with desks, hopper items, and persona fields.",
+            "zh": "本机 Vite 仪表盘：六个品牌化 Grok Bot 精灵房间、桌面事项与人设字段。",
+            "ja": "ローカル Vite ダッシュボード。6 体の Grok Bot スプライト部屋・机・ペルソナ欄。"
+          }
+        },
+        {
+          "title": "getdasha.com lobby Worker (Grok Bot ship)",
+          "url": "https://github.com/Uuriko/dasha-lobby",
+          "source": "GB-583",
+          "blurb": {
+            "en": "Large Cloudflare Worker mirror of the live getdasha.com lobby/compute stack as shipped from a Grok Bot tree.",
+            "zh": "大型 Cloudflare Worker：从 Grok Bot 工作树发版后镜像的 getdasha.com lobby/compute 线上栈。",
+            "ja": "Grok Bot ツリーから出荷した getdasha.com lobby/compute の Cloudflare Worker ミラー。"
+          }
+        },
+        {
+          "title": "Grok Bot 3D mascot controller",
+          "url": "https://github.com/lenxism/grok-bot-mascot-3d",
+          "source": "GB-582",
+          "blurb": {
+            "en": "Three.js web controller that turns the official Grok Bot mark into a blink/nod/wave 3D mascot, built via Grok Bot + Cursor.",
+            "zh": "Three.js 网页控制器：把官方 Grok Bot 标志做成可眨眼/点头/挥手的 3D 吉祥物，由 Grok Bot + Cursor 构建。",
+            "ja": "公式 Grok Bot マークを瞬き・うなずき・手振りできる 3D マスコットにする Three.js。Grok Bot + Cursor で制作。"
+          }
+        },
+        {
+          "title": "Grok Bot AI manhua pipeline",
+          "url": "https://github.com/wicm84266964/grokbot-ai-manju",
+          "source": "GB-581",
+          "blurb": {
+            "en": "Copy-paste Grok Bot prompts plus local ComfyUI/FFmpeg conductor so one Bot window runs storyboard-to-final AI manhua episodes.",
+            "zh": "可粘贴 Grok Bot 提示词 + 本机 ComfyUI/FFmpeg 调度：一个 Bot 窗口完成 AI 漫剧分镜到成片。",
+            "ja": "コピー用 Grok Bot プロンプトと本機 ComfyUI/FFmpeg 導線。1 窓で分鏡から完成動画まで。"
+          }
+        },
+        {
           "title": "n2parko: CoS + EM + five eng ICs + Databricks + PM",
           "url": "https://x.com/n2parko/status/2087251704744235298",
           "source": "GB-277",
@@ -1475,6 +1515,36 @@
         "ja": "スキル、プラグインと MCP"
       },
       "items": [
+        {
+          "title": "Bot Shelf",
+          "url": "https://github.com/getbotshelf/botshelf",
+          "source": "GB-593",
+          "blurb": {
+            "en": "Shop of Grok Bot job packs that already ran (copy-paste markdown; Claude Code and ChatGPT packs too). Free packs stay free; USDT TRC20 checkout is live for paid desks.",
+            "zh": "已经跑过的 Grok Bot 工作包商店（markdown 可粘贴；也有 Claude Code 和 ChatGPT 包）。免费包保持免费；付费 Desk 的 USDT TRC20 checkout 已上线。",
+            "ja": "すでに走った Grok Bot ジョブパックの店（markdown を貼るだけ。Claude Code と ChatGPT のパックもあり）。無料パックは無料のまま。有料 Desk 向け USDT TRC20 checkout は公開済み。"
+          }
+        },
+        {
+          "title": "Kontext memory plugin for Grok Bot",
+          "url": "https://github.com/TheKontextCo/kontext-grok-plugin",
+          "source": "GB-580",
+          "blurb": {
+            "en": "Cursor marketplace plugin Grok Bot can install for portable Projects/Tasks/memory over hosted Kontext MCP.",
+            "zh": "Cursor 市场插件，可在 Grok Bot 安装：经托管 Kontext MCP 提供可移植项目/任务/记忆。",
+            "ja": "Grok Bot が入れられる Cursor マーケットプラグイン。ホスト済み Kontext MCP でプロジェクト・タスク・記憶。"
+          }
+        },
+        {
+          "title": "BotOps Grok Bot fleet lifecycle skill",
+          "url": "https://github.com/granda/botops",
+          "source": "GB-579",
+          "blurb": {
+            "en": "Agent Skills pack for running a Grok Bot fleet with CoS → L2 → L3 layers, Notion tickets, and quiet swarm rules.",
+            "zh": "面向 Grok Bot 舰队的 Agent Skills：CoS→L2→L3 分层、Notion 工单与低噪音 swarm 规则。",
+            "ja": "Grok Bot フリート向け Agent Skills。CoS→L2→L3、Notion チケット、静かなスウォーム規則。"
+          }
+        },
         {
           "title": "grokbot-imessage-skill",
           "url": "https://github.com/jeffhuber/grokbot-imessage-skill",
@@ -3125,6 +3195,16 @@
         "ja": "オープンソースの代替"
       },
       "items": [
+        {
+          "title": "Mail Agents openbot (GrokBot-shaped)",
+          "url": "https://github.com/matjazonline/openbot",
+          "source": "GB-585",
+          "blurb": {
+            "en": "Rust BYOK multi-agent platform with per-agent email, shared org memory, and tools—positioned as a GrokBot/Buzz-shaped alternative.",
+            "zh": "Rust BYOK 多智能体平台：每 Agent 自有邮箱、共享组织记忆与工具，定位为 GrokBot/Buzz 形态替代。",
+            "ja": "Rust の BYOK マルチエージェント。エージェント毎メール、共有組織メモリとツール。GrokBot / Buzz 形の代替。"
+          }
+        },
         {
           "title": "rakazo",
           "url": "https://github.com/elie222/rakazo",
@@ -5046,6 +5126,76 @@
       },
       "items": [
         {
+          "title": "NetGoat PM board for Grok Bot agents",
+          "url": "https://github.com/duckeydev/pm",
+          "source": "GB-592",
+          "blurb": {
+            "en": "Next.js kanban that uses GitHub issues as the only queue so Grok Bot agents and humans share one status board.",
+            "zh": "Next.js 看板：只用 GitHub Issues 当队列，让 Grok Bot 智能体与人类共享同一状态板。",
+            "ja": "Next.js カンバン。キューは GitHub Issues のみ。Grok Bot と人間が同じステータス板を共有。"
+          }
+        },
+        {
+          "title": "grokbot.se Swedish setup site",
+          "url": "https://github.com/joakimengerstam/grokbot",
+          "source": "GB-591",
+          "blurb": {
+            "en": "Astro static site for grokbot.se explaining how to set up Grok Bots as Cursor/xAI desktop assistants.",
+            "zh": "面向 grokbot.se 的 Astro 静态站：讲解如何把 Grok Bot 设为 Cursor/xAI 桌面助手。",
+            "ja": "grokbot.se 向け Astro 静的サイト。Cursor / xAI デスクトップ助手としての Grok Bot 導入を説明。"
+          }
+        },
+        {
+          "title": "GrokBots.se Swedish template studio",
+          "url": "https://github.com/wizfrogmark/grokbots-se",
+          "source": "GB-590",
+          "blurb": {
+            "en": "Independent Next.js studio of ready Grok Bot templates for Swedish companies with human-gate and never-do rules.",
+            "zh": "独立 Next.js 工作室：面向瑞典公司的现成 Grok Bot 模板，含人工门禁与 never-do 规则。",
+            "ja": "独立 Next.js スタジオ。スウェーデン企業向け Grok Bot 雛形。人のゲートと never-do 付き。"
+          }
+        },
+        {
+          "title": "Awesome OpenBot / Grok Bot alternatives",
+          "url": "https://github.com/abdshomad/awesome-openbot-as-grok-bot-alternatives",
+          "source": "GB-589",
+          "blurb": {
+            "en": "Shallow-submodule basket of open-source OpenBot and Grok Bot alternative harnesses for always-on teammates with computers.",
+            "zh": "浅子模块合集：开源 OpenBot 与 Grok Bot 替代 harness，面向自带电脑的常驻队友。",
+            "ja": "浅いサブモジュール集。常駐コンピュータ付き仲間向けの OpenBot / Grok Bot 代替ハーネス。"
+          }
+        },
+        {
+          "title": "Awesome Grok Bot (bot-maintained)",
+          "url": "https://github.com/daboluojiujiujiu/awesome-grok-bot",
+          "source": "GB-588",
+          "blurb": {
+            "en": "Chinese curated list of Grok Bot plays, plugins, tutorials, and cases, claimed daily-maintained by a repo-admin Bot.",
+            "zh": "中文精选：Grok Bot 玩法、插件、教程与案例，声称由仓库管理员 Bot 每日维护。",
+            "ja": "中国語キュレーション。Grok Bot の遊び方・プラグイン・教程・事例。倉庫管理 Bot が日次更新と主張。"
+          }
+        },
+        {
+          "title": "Grok Bot agents Chinese handbook",
+          "url": "https://github.com/DuckRaiser/grok-bot-agent-handbook",
+          "source": "GB-587",
+          "blurb": {
+            "en": "Chinese rewrite of the public 10-step Grok Bot agents tutorial with paste-ready charters, approval lines, and routine recipes.",
+            "zh": "把公开的 Grok Bot Agents 十步教程改写成中文 playbook，含可粘贴章程、审批线与 routine 配方。",
+            "ja": "公開の Grok Bot Agents 10 ステップを中国語 playbook 化。章程・承認線・routine レシピ付き。"
+          }
+        },
+        {
+          "title": "gbot-slack channel adapter CLI",
+          "url": "https://github.com/bcharleson/gbot-slack",
+          "source": "GB-586",
+          "blurb": {
+            "en": "Stdlib-first Slack send/receive/gateway CLI so Grok Bot host agents speak as their own Slack app without embedding tokens.",
+            "zh": "偏标准库的 Slack 收发/gateway CLI：让 Grok Bot 宿主智能体用自己的 Slack 应用发言，仓库不含令牌。",
+            "ja": "標準ライブラリ中心の Slack 送受信/gateway CLI。Grok Bot ホストが自前 Slack アプリとして話し、トークンはリポに置かない。"
+          }
+        },
+        {
           "title": "ZeroPointRepo/awesome-grok-bot",
           "url": "https://github.com/ZeroPointRepo/awesome-grok-bot",
           "source": "GB-190",
@@ -5639,6 +5789,37 @@
     }
   ],
   "events": [
+    {
+      "id": "aus-20260910",
+      "url": "https://luma.com/grokbotgtm-austin",
+      "image": "./assets/events/aus-20260910-cover.png",
+      "expires": "2026-09-10T20:30:00-05:00",
+      "title": {
+        "en": "Grok Bot for GTM build night (Austin)",
+        "zh": "Grok Bot for GTM Build Night（奥斯汀）",
+        "ja": "Grok Bot for GTM build night（Austin）"
+      },
+      "when": {
+        "en": "Thu 10 Sep 2026, 17:30–20:30 (CDT)",
+        "zh": "2026-09-10 周四 17:30–20:30（美中 CDT）",
+        "ja": "2026-09-10（木）17:30–20:30（CDT）"
+      },
+      "where": {
+        "en": "Austin, TX · East Austin (address revealed after registration)",
+        "zh": "奥斯汀 · East Austin（报名后可见具体地址）",
+        "ja": "オースティン · East Austin（登録後に住所公開）"
+      },
+      "body": {
+        "en": "Austin GTM builders: ship pipelines, research agents, and outreach workflows with Grok Bot. Live demos from SpaceXAI’s GTM team, hands-on build time, free Grok Bot credits; Sales/RevOps/GTM welcome. Agenda 17:30 welcome → demos → Q&A → build → attendee demos (wrap 20:30). Host Sunita Rao; free; host approval; SpaceXAI Community calendar.",
+        "zh": "奥斯汀 GTM 向：用 Grok Bot 做管道、调研 agent、外联工作流。SpaceXAI GTM 团队现场演示 + 动手时间 + 免费 Grok Bot credits；Sales/RevOps/GTM 欢迎。17:30 开场→演示→Q&A→动手→分享（约 20:30 结束）。主办 Sunita Rao；免费，需主办审批；挂 SpaceXAI Community 日历。",
+        "ja": "オースティンの GTM 向けビルドナイト。パイプライン・リサーチエージェント・アウトリーチを Grok Bot で構築。SpaceXAI GTM チームのデモ、ハンズオン、無料クレジット。Sales/RevOps/GTM 歓迎。17:30 開場→デモ→Q&A→ビルド→共有（〜20:30）。主催 Sunita Rao。無料・承認制。SpaceXAI Community カレンダー。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
     {
       "id": "sz-20260830",
       "url": "https://luma.com/5vkzzvqk",

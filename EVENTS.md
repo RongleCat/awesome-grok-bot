@@ -24,6 +24,9 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="country-us"></a>
 ### United States
 
+<a id="aus-20260910"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotgtm-austin"><img src="./assets/events/aus-20260910-cover.png" alt="Grok Bot for GTM build night (Austin)" width="300" /></a></td><td valign="top"><strong>Grok Bot for GTM build night (Austin)</strong><br />Thu 10 Sep 2026, 17:30–20:30 (CDT)<br />Austin, TX · East Austin (address revealed after registration)<br /><br />Austin GTM builders: ship pipelines, research agents, and outreach workflows with Grok Bot. Live demos from SpaceXAI’s GTM team, hands-on build time, free Grok Bot credits; Sales/RevOps/GTM welcome. Agenda 17:30 welcome → demos → Q&A → build → attendee demos (wrap 20:30). Host Sunita Rao; free; host approval; SpaceXAI Community calendar.<br /><br /><a href="https://luma.com/grokbotgtm-austin"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
 <a id="lv-20260915"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot Meetup Las Vegas" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Las Vegas</strong><br />Mon 15 Sep 2026, 18:00-20:00 (PDT)<br />Las Vegas, NV, venue TBD after you register<br /><br />Networking, talks/workshop, and a Cursor-team Q&A on video. Host approval required, venue still TBD.<br /><br /><a href="https://luma.com/cursor-kaua"><strong>Register on Luma →</strong></a></td></tr></table>
 

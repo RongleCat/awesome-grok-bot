@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-555-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-570-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（4）：[上海](./EVENTS.zh.md#sha-20261017) · [杭州](./EVENTS.zh.md#hzo-20260919) · [北京](./EVENTS.zh.md#bj-20260919) · [广州](./EVENTS.zh.md#can-20260913)
-- **美国**（12）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [旧金山（产品经理）](./EVENTS.zh.md#sfpm-20260915) · [旧金山（创始人）](./EVENTS.zh.md#sffo-20260915) · [旧金山（销售）](./EVENTS.zh.md#sfsales-20260916) · [匹兹堡](./EVENTS.zh.md#pgh-20261013)
+- **美国**（13）：[奥斯汀](./EVENTS.zh.md#aus-20260910) · [拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [旧金山（产品经理）](./EVENTS.zh.md#sfpm-20260915) · [旧金山（创始人）](./EVENTS.zh.md#sffo-20260915) · [旧金山（销售）](./EVENTS.zh.md#sfsales-20260916) · [匹兹堡](./EVENTS.zh.md#pgh-20261013)
 - **阿根廷**（4）：[巴里洛切](./EVENTS.zh.md#brc-20260910) · [布宜诺斯艾利斯](./EVENTS.zh.md#bue-20260916) · [门多萨](./EVENTS.zh.md#mdz-20261003) · [萨尔塔](./EVENTS.zh.md#sla-20260916)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [萨德伯里](./EVENTS.zh.md#sud-20260917) · [多伦多](./EVENTS.zh.md#yyz-20260917)
 - **印度尼西亚**（4）：[坦格朗](./EVENTS.zh.md#tgr-20260911) · [巴厘岛乌鲁瓦图](./EVENTS.zh.md#bli-20260915) · [巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [万隆](./EVENTS.zh.md#bdg-20260919)
@@ -176,6 +176,10 @@
 
 ## 真实使用案例
 
+- [Sprite Portal Grok Bot nursery UI](https://github.com/hkclaw/sprite-portal) - 本机 Vite 仪表盘：六个品牌化 Grok Bot 精灵房间、桌面事项与人设字段。.
+- [getdasha.com lobby Worker (Grok Bot ship)](https://github.com/Uuriko/dasha-lobby) - 大型 Cloudflare Worker：从 Grok Bot 工作树发版后镜像的 getdasha.com lobby/compute 线上栈。.
+- [Grok Bot 3D mascot controller](https://github.com/lenxism/grok-bot-mascot-3d) - Three.js 网页控制器：把官方 Grok Bot 标志做成可眨眼/点头/挥手的 3D 吉祥物，由 Grok Bot + Cursor 构建。.
+- [Grok Bot AI manhua pipeline](https://github.com/wicm84266964/grokbot-ai-manju) - 可粘贴 Grok Bot 提示词 + 本机 ComfyUI/FFmpeg 调度：一个 Bot 窗口完成 AI 漫剧分镜到成片。.
 - [n2parko: CoS + EM + five eng ICs + Databricks + PM](https://x.com/n2parko/status/2087251704744235298) - SpaceXAI 产品编制，带 Bot 互相当值守、交接 PR 的截图。.
 - [Lee Robinson: four technical bets](https://x.com/leerob/status/2089169319099777364) - 没有 UI、瘦客户端厚服务端、常驻电脑、浏览器是一等工具。.
 - [Debbie: book my flights](https://debbie.codes/blog/i-tested-if-grok-bot-could-book-my-flights) - 诚实的差一点：Bot 能点航司网站，最后一下仍要人。.
@@ -234,6 +238,9 @@
 
 ## 技能、插件与 MCP
 
+- [Bot Shelf](https://github.com/getbotshelf/botshelf) - 已经跑过的 Grok Bot 工作包商店（markdown 可粘贴；也有 Claude Code 和 ChatGPT 包）。免费包保持免费；付费 Desk 的 USDT TRC20 checkout 已上线。.
+- [Kontext memory plugin for Grok Bot](https://github.com/TheKontextCo/kontext-grok-plugin) - Cursor 市场插件，可在 Grok Bot 安装：经托管 Kontext MCP 提供可移植项目/任务/记忆。.
+- [BotOps Grok Bot fleet lifecycle skill](https://github.com/granda/botops) - 面向 Grok Bot 舰队的 Agent Skills：CoS→L2→L3 分层、Notion 工单与低噪音 swarm 规则。.
 - [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - 通过本机 macOS helper 让 Bot 读、分拣、发 iMessage。.
 - [Grok Bot Discord gateway](https://github.com/davefmurray/grok-bot-discord) - Discord 网关：让 Bot 住在 Discord，而不是假装 Slack App。.
 - [Werewolf gamemaster skill](https://github.com/Heyvhuang/werewolf-gamemaster) - 真技能包：Bot 当狼人杀主持人，不是 hello-world SKILL.md。.
@@ -403,6 +410,7 @@
 
 ## 开源替代
 
+- [Mail Agents openbot (GrokBot-shaped)](https://github.com/matjazonline/openbot) - Rust BYOK 多智能体平台：每 Agent 自有邮箱、共享组织记忆与工具，定位为 GrokBot/Buzz 形态替代。.
 - [rakazo](https://github.com/elie222/rakazo) - 开源 Grok Bot 替代：自己托管 always-on 队友。.
 - [guaca](https://github.com/madebywelch/guaca) - 另一套自托管的持久电脑 Agent。.
 - [OpenGrokBot](https://github.com/wolfqing/OpenGrokBot) - OpenClaw + 自带模型，拼成 Bot 替代。.
@@ -599,6 +607,13 @@
 
 ## 相关列表
 
+- [NetGoat PM board for Grok Bot agents](https://github.com/duckeydev/pm) - Next.js 看板：只用 GitHub Issues 当队列，让 Grok Bot 智能体与人类共享同一状态板。.
+- [grokbot.se Swedish setup site](https://github.com/joakimengerstam/grokbot) - 面向 grokbot.se 的 Astro 静态站：讲解如何把 Grok Bot 设为 Cursor/xAI 桌面助手。.
+- [GrokBots.se Swedish template studio](https://github.com/wizfrogmark/grokbots-se) - 独立 Next.js 工作室：面向瑞典公司的现成 Grok Bot 模板，含人工门禁与 never-do 规则。.
+- [Awesome OpenBot / Grok Bot alternatives](https://github.com/abdshomad/awesome-openbot-as-grok-bot-alternatives) - 浅子模块合集：开源 OpenBot 与 Grok Bot 替代 harness，面向自带电脑的常驻队友。.
+- [Awesome Grok Bot (bot-maintained)](https://github.com/daboluojiujiujiu/awesome-grok-bot) - 中文精选：Grok Bot 玩法、插件、教程与案例，声称由仓库管理员 Bot 每日维护。.
+- [Grok Bot agents Chinese handbook](https://github.com/DuckRaiser/grok-bot-agent-handbook) - 把公开的 Grok Bot Agents 十步教程改写成中文 playbook，含可粘贴章程、审批线与 routine 配方。.
+- [gbot-slack channel adapter CLI](https://github.com/bcharleson/gbot-slack) - 偏标准库的 Slack 收发/gateway CLI：让 Grok Bot 宿主智能体用自己的 Slack 应用发言，仓库不含令牌。.
 - [ZeroPointRepo/awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) - 上线首日 19 条目录，市场格式和自托管运行时写得很清楚。.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - MCP Server 大全。Grok Bot 走 Cursor 的插件/MCP 政策。.
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill 格式的姐妹生态；不少 SKILL.md 概念上可迁移。.
@@ -661,7 +676,7 @@
 
 ## 贡献
 
-目前 8 个分类、555 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、570 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

@@ -24,6 +24,9 @@
 <a id="country-us"></a>
 ### 美国
 
+<a id="aus-20260910"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotgtm-austin"><img src="./assets/events/aus-20260910-cover.png" alt="Grok Bot for GTM Build Night（奥斯汀）" width="300" /></a></td><td valign="top"><strong>Grok Bot for GTM Build Night（奥斯汀）</strong><br />2026-09-10 周四 17:30–20:30（美中 CDT）<br />奥斯汀 · East Austin（报名后可见具体地址）<br /><br />奥斯汀 GTM 向：用 Grok Bot 做管道、调研 agent、外联工作流。SpaceXAI GTM 团队现场演示 + 动手时间 + 免费 Grok Bot credits；Sales/RevOps/GTM 欢迎。17:30 开场→演示→Q&A→动手→分享（约 20:30 结束）。主办 Sunita Rao；免费，需主办审批；挂 SpaceXAI Community 日历。<br /><br /><a href="https://luma.com/grokbotgtm-austin"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
 <a id="lv-20260915"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot 拉斯维加斯线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 拉斯维加斯线下交流</strong><br />2026-09-15 周一 18:00-20:00（太平洋夏令时）<br />拉斯维加斯 · 报名审核后可见场地<br /><br />破冰 + 分享 / Workshop，Cursor 团队视频问答。需主办审核，场地待定。<br /><br /><a href="https://luma.com/cursor-kaua"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 

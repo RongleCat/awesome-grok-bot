@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-555-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-570-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（4）：[Shanghai](./EVENTS.md#sha-20261017) · [Hangzhou](./EVENTS.md#hzo-20260919) · [Beijing](./EVENTS.md#bj-20260919) · [Guangzhou](./EVENTS.md#can-20260913)
-- **United States**（12）：[Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013)
+- **United States**（13）：[Austin](./EVENTS.md#aus-20260910) · [Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013)
 - **Argentina**（4）：[Bariloche](./EVENTS.md#brc-20260910) · [Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
 - **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260917) · [Toronto](./EVENTS.md#yyz-20260917)
 - **Indonesia**（4）：[Tangerang](./EVENTS.md#tgr-20260911) · [Uluwatu / Bali](./EVENTS.md#bli-20260915) · [Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Bandung](./EVENTS.md#bdg-20260919)
@@ -176,6 +176,10 @@
 
 ## Field Cases
 
+- [Sprite Portal Grok Bot nursery UI](https://github.com/hkclaw/sprite-portal) - Localhost Vite dashboard that presents six branded Grok Bot sprites with desks, hopper items, and persona fields.
+- [getdasha.com lobby Worker (Grok Bot ship)](https://github.com/Uuriko/dasha-lobby) - Large Cloudflare Worker mirror of the live getdasha.com lobby/compute stack as shipped from a Grok Bot tree.
+- [Grok Bot 3D mascot controller](https://github.com/lenxism/grok-bot-mascot-3d) - Three.js web controller that turns the official Grok Bot mark into a blink/nod/wave 3D mascot, built via Grok Bot + Cursor.
+- [Grok Bot AI manhua pipeline](https://github.com/wicm84266964/grokbot-ai-manju) - Copy-paste Grok Bot prompts plus local ComfyUI/FFmpeg conductor so one Bot window runs storyboard-to-final AI manhua episodes.
 - [n2parko: CoS + EM + five eng ICs + Databricks + PM](https://x.com/n2parko/status/2087251704744235298) - SpaceXAI product roster with real agent-to-agent PR handoff screenshots.
 - [Lee Robinson: four technical bets](https://x.com/leerob/status/2089169319099777364) - No UI, thin client / thick server, always-on computer, browser as a first-class tool.
 - [Debbie: book my flights](https://debbie.codes/blog/i-tested-if-grok-bot-could-book-my-flights) - Honest near-miss: the Bot can drive the airline site, the last click still needs you.
@@ -234,6 +238,9 @@
 
 ## Skills, Plugins & MCP
 
+- [Bot Shelf](https://github.com/getbotshelf/botshelf) - Shop of Grok Bot job packs that already ran (copy-paste markdown; Claude Code and ChatGPT packs too). Free packs stay free; USDT TRC20 checkout is live for paid desks.
+- [Kontext memory plugin for Grok Bot](https://github.com/TheKontextCo/kontext-grok-plugin) - Cursor marketplace plugin Grok Bot can install for portable Projects/Tasks/memory over hosted Kontext MCP.
+- [BotOps Grok Bot fleet lifecycle skill](https://github.com/granda/botops) - Agent Skills pack for running a Grok Bot fleet with CoS → L2 → L3 layers, Notion tickets, and quiet swarm rules.
 - [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - Read, triage, and send iMessage from the Bot via a local macOS helper.
 - [Grok Bot Discord gateway](https://github.com/davefmurray/grok-bot-discord) - Bridge so a Bot can live in Discord without pretending to be a Slack App.
 - [Werewolf gamemaster skill](https://github.com/Heyvhuang/werewolf-gamemaster) - A real skill pack: the Bot runs a Werewolf table, not a hello-world SKILL.md.
@@ -403,6 +410,7 @@
 
 ## Open-Source Alternatives
 
+- [Mail Agents openbot (GrokBot-shaped)](https://github.com/matjazonline/openbot) - Rust BYOK multi-agent platform with per-agent email, shared org memory, and tools—positioned as a GrokBot/Buzz-shaped alternative.
 - [rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative — self-host the always-on teammate idea.
 - [guaca](https://github.com/madebywelch/guaca) - Another self-hosted take on persistent computer-use agents.
 - [OpenGrokBot](https://github.com/wolfqing/OpenGrokBot) - OpenClaw plus bring-your-own-model, assembled as a Bot stand-in.
@@ -599,6 +607,13 @@
 
 ## Related Lists
 
+- [NetGoat PM board for Grok Bot agents](https://github.com/duckeydev/pm) - Next.js kanban that uses GitHub issues as the only queue so Grok Bot agents and humans share one status board.
+- [grokbot.se Swedish setup site](https://github.com/joakimengerstam/grokbot) - Astro static site for grokbot.se explaining how to set up Grok Bots as Cursor/xAI desktop assistants.
+- [GrokBots.se Swedish template studio](https://github.com/wizfrogmark/grokbots-se) - Independent Next.js studio of ready Grok Bot templates for Swedish companies with human-gate and never-do rules.
+- [Awesome OpenBot / Grok Bot alternatives](https://github.com/abdshomad/awesome-openbot-as-grok-bot-alternatives) - Shallow-submodule basket of open-source OpenBot and Grok Bot alternative harnesses for always-on teammates with computers.
+- [Awesome Grok Bot (bot-maintained)](https://github.com/daboluojiujiujiu/awesome-grok-bot) - Chinese curated list of Grok Bot plays, plugins, tutorials, and cases, claimed daily-maintained by a repo-admin Bot.
+- [Grok Bot agents Chinese handbook](https://github.com/DuckRaiser/grok-bot-agent-handbook) - Chinese rewrite of the public 10-step Grok Bot agents tutorial with paste-ready charters, approval lines, and routine recipes.
+- [gbot-slack channel adapter CLI](https://github.com/bcharleson/gbot-slack) - Stdlib-first Slack send/receive/gateway CLI so Grok Bot host agents speak as their own Slack app without embedding tokens.
 - [ZeroPointRepo/awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) - Day-one 19-entry directory, strong on marketplace format and self-hosted runtimes.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - MCP server catalog. Grok Bot follows Cursor plugin/MCP policy.
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill-format sibling ecosystem; many SKILL.md packs are conceptually portable.
@@ -661,7 +676,7 @@
 
 ## Contributing
 
-555 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+570 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

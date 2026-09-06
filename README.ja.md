@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-555-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-570-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [イベントの詳細](./EVENTS.ja.md)
 
 - **中国**（4）：[上海](./EVENTS.ja.md#sha-20261017) · [杭州](./EVENTS.ja.md#hzo-20260919) · [北京](./EVENTS.ja.md#bj-20260919) · [広州](./EVENTS.ja.md#can-20260913)
-- **アメリカ**（12）：[ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ](./EVENTS.ja.md#g101-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfe-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [サンフランシスコ（PM）](./EVENTS.ja.md#sfpm-20260915) · [サンフランシスコ（Founders）](./EVENTS.ja.md#sffo-20260915) · [サンフランシスコ（Sales）](./EVENTS.ja.md#sfsales-20260916) · [ピッツバーグ](./EVENTS.ja.md#pgh-20261013)
+- **アメリカ**（13）：[オースティン](./EVENTS.ja.md#aus-20260910) · [ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ](./EVENTS.ja.md#g101-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfe-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [サンフランシスコ（PM）](./EVENTS.ja.md#sfpm-20260915) · [サンフランシスコ（Founders）](./EVENTS.ja.md#sffo-20260915) · [サンフランシスコ（Sales）](./EVENTS.ja.md#sfsales-20260916) · [ピッツバーグ](./EVENTS.ja.md#pgh-20261013)
 - **アルゼンチン**（4）：[バリローチェ](./EVENTS.ja.md#brc-20260910) · [ブエノスアイレス](./EVENTS.ja.md#bue-20260916) · [メンドサ](./EVENTS.ja.md#mdz-20261003) · [サルタ](./EVENTS.ja.md#sla-20260916)
 - **カナダ**（4）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [ビクトリア（BC）](./EVENTS.ja.md#vic-20260921) · [サドベリー](./EVENTS.ja.md#sud-20260917) · [トロント](./EVENTS.ja.md#yyz-20260917)
 - **インドネシア**（4）：[タンゲラン](./EVENTS.ja.md#tgr-20260911) · [ウルワツ / バリ](./EVENTS.ja.md#bli-20260915) · [ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [バンドン](./EVENTS.ja.md#bdg-20260919)
@@ -176,6 +176,10 @@
 
 ## 実地事例
 
+- [Sprite Portal Grok Bot nursery UI](https://github.com/hkclaw/sprite-portal) - ローカル Vite ダッシュボード。6 体の Grok Bot スプライト部屋・机・ペルソナ欄。
+- [getdasha.com lobby Worker (Grok Bot ship)](https://github.com/Uuriko/dasha-lobby) - Grok Bot ツリーから出荷した getdasha.com lobby/compute の Cloudflare Worker ミラー。
+- [Grok Bot 3D mascot controller](https://github.com/lenxism/grok-bot-mascot-3d) - 公式 Grok Bot マークを瞬き・うなずき・手振りできる 3D マスコットにする Three.js。Grok Bot + Cursor で制作。
+- [Grok Bot AI manhua pipeline](https://github.com/wicm84266964/grokbot-ai-manju) - コピー用 Grok Bot プロンプトと本機 ComfyUI/FFmpeg 導線。1 窓で分鏡から完成動画まで。
 - [n2parko: CoS + EM + five eng ICs + Databricks + PM](https://x.com/n2parko/status/2087251704744235298) - SpaceXAI の製品編成。エージェント同士の PR 引き継ぎの実スクリーンショット付き。
 - [Lee Robinson: four technical bets](https://x.com/leerob/status/2089169319099777364) - UI なし、薄いクライアントと厚いサーバー、常時稼働パソコン、ブラウザは第一級の道具。
 - [Debbie: book my flights](https://debbie.codes/blog/i-tested-if-grok-bot-could-book-my-flights) - 正直な惜しい結果：Bot は航空会社サイトを操作できるが、最後のクリックはまだ人が要る。
@@ -234,6 +238,9 @@
 
 ## スキル、プラグインと MCP
 
+- [Bot Shelf](https://github.com/getbotshelf/botshelf) - すでに走った Grok Bot ジョブパックの店（markdown を貼るだけ。Claude Code と ChatGPT のパックもあり）。無料パックは無料のまま。有料 Desk 向け USDT TRC20 checkout は公開済み。
+- [Kontext memory plugin for Grok Bot](https://github.com/TheKontextCo/kontext-grok-plugin) - Grok Bot が入れられる Cursor マーケットプラグイン。ホスト済み Kontext MCP でプロジェクト・タスク・記憶。
+- [BotOps Grok Bot fleet lifecycle skill](https://github.com/granda/botops) - Grok Bot フリート向け Agent Skills。CoS→L2→L3、Notion チケット、静かなスウォーム規則。
 - [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - ローカルの macOS helper 経由で、Bot が iMessage を読み、仕分け、送ります。
 - [Grok Bot Discord gateway](https://github.com/davefmurray/grok-bot-discord) - Slack App のふりをせず、Bot を Discord に住ませるブリッジ。
 - [Werewolf gamemaster skill](https://github.com/Heyvhuang/werewolf-gamemaster) - 本物のスキルパック：hello-world の SKILL.md ではなく、Bot が人狼の進行役をします。
@@ -403,6 +410,7 @@
 
 ## オープンソースの代替
 
+- [Mail Agents openbot (GrokBot-shaped)](https://github.com/matjazonline/openbot) - Rust の BYOK マルチエージェント。エージェント毎メール、共有組織メモリとツール。GrokBot / Buzz 形の代替。
 - [rakazo](https://github.com/elie222/rakazo) - オープンソースの Grok Bot 代替。always-on の仲間を自分でホストします。
 - [guaca](https://github.com/madebywelch/guaca) - 持続するパソコン操作エージェントの、もう一つの自前ホスト実装。
 - [OpenGrokBot](https://github.com/wolfqing/OpenGrokBot) - OpenClaw に自前モデルを足し、Bot の代わりとして組んだもの。
@@ -599,6 +607,13 @@
 
 ## 関連リスト
 
+- [NetGoat PM board for Grok Bot agents](https://github.com/duckeydev/pm) - Next.js カンバン。キューは GitHub Issues のみ。Grok Bot と人間が同じステータス板を共有。
+- [grokbot.se Swedish setup site](https://github.com/joakimengerstam/grokbot) - grokbot.se 向け Astro 静的サイト。Cursor / xAI デスクトップ助手としての Grok Bot 導入を説明。
+- [GrokBots.se Swedish template studio](https://github.com/wizfrogmark/grokbots-se) - 独立 Next.js スタジオ。スウェーデン企業向け Grok Bot 雛形。人のゲートと never-do 付き。
+- [Awesome OpenBot / Grok Bot alternatives](https://github.com/abdshomad/awesome-openbot-as-grok-bot-alternatives) - 浅いサブモジュール集。常駐コンピュータ付き仲間向けの OpenBot / Grok Bot 代替ハーネス。
+- [Awesome Grok Bot (bot-maintained)](https://github.com/daboluojiujiujiu/awesome-grok-bot) - 中国語キュレーション。Grok Bot の遊び方・プラグイン・教程・事例。倉庫管理 Bot が日次更新と主張。
+- [Grok Bot agents Chinese handbook](https://github.com/DuckRaiser/grok-bot-agent-handbook) - 公開の Grok Bot Agents 10 ステップを中国語 playbook 化。章程・承認線・routine レシピ付き。
+- [gbot-slack channel adapter CLI](https://github.com/bcharleson/gbot-slack) - 標準ライブラリ中心の Slack 送受信/gateway CLI。Grok Bot ホストが自前 Slack アプリとして話し、トークンはリポに置かない。
 - [ZeroPointRepo/awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) - 公開初日の 19 件ディレクトリ。マーケット形式と自前ホストランタイムが厚い。
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - MCP サーバー一覧。Grok Bot は Cursor のプラグイン/MCP ポリシーに従います。
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Skill 形式の姉妹エコシステム。多くの SKILL.md は概念として移植できる。
@@ -661,7 +676,7 @@
 
 ## 貢献
 
-8 セクションに 555 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 570 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

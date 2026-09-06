@@ -24,6 +24,9 @@
 <a id="country-us"></a>
 ### アメリカ
 
+<a id="aus-20260910"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotgtm-austin"><img src="./assets/events/aus-20260910-cover.png" alt="Grok Bot for GTM build night（Austin）" width="300" /></a></td><td valign="top"><strong>Grok Bot for GTM build night（Austin）</strong><br />2026-09-10（木）17:30–20:30（CDT）<br />オースティン · East Austin（登録後に住所公開）<br /><br />オースティンの GTM 向けビルドナイト。パイプライン・リサーチエージェント・アウトリーチを Grok Bot で構築。SpaceXAI GTM チームのデモ、ハンズオン、無料クレジット。Sales/RevOps/GTM 歓迎。17:30 開場→デモ→Q&A→ビルド→共有（〜20:30）。主催 Sunita Rao。無料・承認制。SpaceXAI Community カレンダー。<br /><br /><a href="https://luma.com/grokbotgtm-austin"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
 <a id="lv-20260915"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot Meetup Las Vegas" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Las Vegas</strong><br />2026-09-15（月）18:00-20:00（PDT）<br />ラスベガス · 登録承認後に会場を表示<br /><br />交流、トーク / Workshop、Cursor チームのビデオ Q&A。主催者承認制、会場は未定。<br /><br /><a href="https://luma.com/cursor-kaua"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
