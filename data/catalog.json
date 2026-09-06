@@ -5784,6 +5784,16 @@
             "zh": "小型转发器：用 Bot 密钥登录 Buzz/Nostr NIP-29 群，提及时唤醒智能体 HTTP webhook。",
             "ja": "小型フォワーダ。Bot 鍵で Buzz / Nostr NIP-29 に入り、メンションでエージェント HTTP webhook を起こす。"
           }
+        },
+        {
+          "title": "Grok Bot Templates",
+          "url": "https://grokbottemplates.dev/",
+          "source": "GB-594",
+          "blurb": {
+            "en": "Independent directory of Grok Bot templates that shows each job, what the pack includes, the access it asks for, and who shared it.",
+            "zh": "独立的 Grok Bot 模板目录：展示每个岗位、模板包含内容、所需权限以及分享者。",
+            "ja": "独立系 Grok Bot テンプレート一覧。仕事内容、同梱物、要求されるアクセス、共有者を明示。"
+          }
         }
       ]
     }

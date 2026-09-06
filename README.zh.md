@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-570-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-571-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -673,10 +673,11 @@
 - [Awesome Grok Bot curated list](https://github.com/doanbactam/awesome-grok-bots) - 非官方精选：Grok Bot 模板、技能、插件与工具，要求有一手来源。.
 - [Grok Bot Voice Android hold-to-talk](https://github.com/jmtroller/grok-bot-voice) - 原生 Kotlin Android 按住说话应用：手机当麦克风/扬声器，Grok Bot 经 MCP 做大脑。.
 - [Buzz relay ears webhook for Grok Bot](https://github.com/0xnfrith/grokbot-buzz-ears) - 小型转发器：用 Bot 密钥登录 Buzz/Nostr NIP-29 群，提及时唤醒智能体 HTTP webhook。.
+- [Grok Bot Templates](https://grokbottemplates.dev/) - 独立的 Grok Bot 模板目录：展示每个岗位、模板包含内容、所需权限以及分享者。.
 
 ## 贡献
 
-目前 8 个分类、570 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、571 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

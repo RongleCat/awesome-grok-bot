@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-570-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-571-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -673,10 +673,11 @@
 - [Awesome Grok Bot curated list](https://github.com/doanbactam/awesome-grok-bots) - Unofficial curated list of Grok Bot templates, skills, plugins, and tools with primary-source requirements.
 - [Grok Bot Voice Android hold-to-talk](https://github.com/jmtroller/grok-bot-voice) - Native Kotlin hold-to-talk Android app that uses the phone as mic/speaker while a Grok Bot stays the brain over MCP.
 - [Buzz relay ears webhook for Grok Bot](https://github.com/0xnfrith/grokbot-buzz-ears) - Small forwarder that signs into Buzz/Nostr NIP-29 groups with the bot key and wakes an agent HTTP webhook on mentions.
+- [Grok Bot Templates](https://grokbottemplates.dev/) - Independent directory of Grok Bot templates that shows each job, what the pack includes, the access it asks for, and who shared it.
 
 ## Contributing
 
-570 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+571 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

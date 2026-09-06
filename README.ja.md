@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-570-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-571-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -673,10 +673,11 @@
 - [Awesome Grok Bot curated list](https://github.com/doanbactam/awesome-grok-bots) - 非公式キュレーション。Grok Bot のテンプレ・スキル・プラグイン・ツール。一次ソース必須。
 - [Grok Bot Voice Android hold-to-talk](https://github.com/jmtroller/grok-bot-voice) - Kotlin 製長押し通話 Android アプリ。端末はマイク/スピーカー、脳は MCP 経由の Grok Bot。
 - [Buzz relay ears webhook for Grok Bot](https://github.com/0xnfrith/grokbot-buzz-ears) - 小型フォワーダ。Bot 鍵で Buzz / Nostr NIP-29 に入り、メンションでエージェント HTTP webhook を起こす。
+- [Grok Bot Templates](https://grokbottemplates.dev/) - 独立系 Grok Bot テンプレート一覧。仕事内容、同梱物、要求されるアクセス、共有者を明示。
 
 ## 貢献
 
-8 セクションに 570 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 571 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
