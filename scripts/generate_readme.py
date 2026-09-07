@@ -208,6 +208,7 @@ COUNTRY_LABEL = {
     "bd": {"en": "Bangladesh", "zh": "孟加拉国", "ja": "バングラデシュ"},
     "de": {"en": "Germany", "zh": "德国", "ja": "ドイツ"},
     "kh": {"en": "Cambodia", "zh": "柬埔寨", "ja": "カンボジア"},
+    "kw": {"en": "Kuwait", "zh": "科威特", "ja": "クウェート"},
     "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
     "other": {"en": "Other", "zh": "其他", "ja": "その他"},
 }
@@ -345,6 +346,7 @@ EVENT_GEO = {
     "dal-20260919": ("us", "Dallas", "达拉斯", "ダラス"),
     "pnh-20261003": ("kh", "Phnom Penh", "金边", "プノンペン"),
     "cgn-20261009": ("de", "Cologne", "科隆", "ケルン"),
+    "kwi-20260922": ("kw", "Kuwait / Mubarak Al-Abdullah", "科威特", "クウェート"),
 }
 
 

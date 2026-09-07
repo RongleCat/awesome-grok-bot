@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-581-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-601-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -45,7 +45,6 @@
 - **メキシコ**（4）：[モンテレイ](./EVENTS.ja.md#mty-20260910) · [プエブラ](./EVENTS.ja.md#pue-20260924) · [チワワ](./EVENTS.ja.md#cuu-20260924) · [メキシコシティ](./EVENTS.ja.md#cdmx-20260926)
 - **エクアドル**（3）：[マンタ](./EVENTS.ja.md#mec-20260912) · [キト](./EVENTS.ja.md#uio-20260924) · [クンバヤ](./EVENTS.ja.md#cumb-20261003)
 - **日本**（3）：[札幌](./EVENTS.ja.md#spk-20261002) · [東京](./EVENTS.ja.md#tyo-20260909) · [大阪](./EVENTS.ja.md#osa-20260917)
-- **バングラデシュ**（2）：[ダッカ](./EVENTS.ja.md#dac-20260925) · [ダッカ](./EVENTS.ja.md#dac-20261020)
 - **ブラジル**（2）：[クリチバ](./EVENTS.ja.md#cwb-20261111) · [フロリアノポリス](./EVENTS.ja.md#fln-20260926)
 - **ドイツ**（2）：[フライブルク](./EVENTS.ja.md#frb-20260917) · [ケルン](./EVENTS.ja.md#cgn-20261009)
 - **イギリス**（2）：[ロンドン](./EVENTS.ja.md#ldn-20260916) · [ロンドン](./EVENTS.ja.md#ldn-20260913)
@@ -53,6 +52,7 @@
 - **ペルー**（2）：[アレキパ](./EVENTS.ja.md#aqp-20260911) · [リマ](./EVENTS.ja.md#lim-20260911)
 - **アルバニア**（1）：[ティラナ](./EVENTS.ja.md#tia-20260917)
 - **オーストラリア**（1）：[シドニー](./EVENTS.ja.md#syd-20261007)
+- **バングラデシュ**（1）：[ダッカ](./EVENTS.ja.md#dac-20261020)
 - **ベルギー**（1）：[ルーヴェン](./EVENTS.ja.md#leu-20260919)
 - **カメルーン**（1）：[ヤウンデ](./EVENTS.ja.md#yde-20260910)
 - **コロンビア**（1）：[カルタゴ](./EVENTS.ja.md#ctg-20260911)
@@ -60,6 +60,7 @@
 - **イスラエル**（1）：[テルアビブ](./EVENTS.ja.md#tlv-20260908)
 - **ケニア**（1）：[ナイロビ](./EVENTS.ja.md#nbo-20260917)
 - **カンボジア**（1）：[プノンペン](./EVENTS.ja.md#pnh-20261003)
+- **クウェート**（1）：[クウェート](./EVENTS.ja.md#kwi-20260922)
 - **ミャンマー**（1）：[ヤンゴン](./EVENTS.ja.md#ygn-20260926)
 - **マルタ**（1）：[マルタ Ta' Xbiex](./EVENTS.ja.md#mlt-20260917)
 - **マレーシア**（1）：[クアラルンプール](./EVENTS.ja.md#kul-20260919)
@@ -174,6 +175,7 @@
 - [Grok Bot fleet ops lessons](https://github.com/jasonpalmer1/grok-fleet-lessons) - Claude 艦隊と並走する Grok Bot 艦隊の運用メモ。hub/lanes・トークン節約・二重ランタイム SoT・ルーム雑音ルール。
 - [Grok Bot Spec-to-Ship kit](https://github.com/Iron-Mark/grok-bot-spec-to-ship) - オープンキットと live-run 証明。Grok Bot グループが曖昧な目標を調査・PRD 経由でマージ済み PR まで運び、人間ルータ不要。
 - [Grok Bot Bluebook (管家手册)](https://github.com/Backtthefuture/grokbot-bluebook) - Grok Bot を大管家として使う中国語ハンドブック／事例サイト。飛書本文を VitePress 公開リポジトリへミラー。
+- [UniFi + Cursor/Grok Bot MCP setup](https://github.com/joemartinxiii/unifi-cursor-grok-bot) - セットアップガイド。sirkirby/unifi-mcp Cloud Relay 経由で UniFi Network/Protect を Grok Bot に繋ぎ、LAN の UniFi をインターネット公開しない。
 
 ## 実地事例
 
@@ -238,6 +240,11 @@
 - [GrokBot Board public DeFi directors](https://github.com/thegrokboard/the-grokbot-board) - 公開ケース。Grok Bot による自律 AI 取締役会が Solana DeFi 会社を公開運営。
 - [Buying Signal Bot (Grok Bot + FullEnrich)](https://github.com/ToolMonsters/buying-signal-bot) - セットアップ playbook。Grok Bot が X でツール離脱を監視し、FullEnrich で朝の短いリストに資格付け。
 - [Hedge-fund desk Grok Bot agent export](https://github.com/prosmoon-hash/hedge-fund-agents) - 複数デスクの Grok Bot 取引ロスターのサニタイズ済みバックアップ（profile / automation / skills / ops）。実行ランタイムではない。
+- [vidya course-page calendar Grok Bot](https://github.com/vinilpolepalli/vidya) - 学生チャレンジ用エンジン。Grok Bot が毎晩コースページを読み、締切を差分し、テスト済みゲートで Google Calendar を更新。
+- [GrokBot-Scheduler (seat watcher)](https://github.com/TheHelperVariable/GrokBot-Scheduler) - 常駐クラウドエージェントの春学期履修準備。公開レジストラを監視して席を通知し、大学資格情報は保持しない。
+- [Recourse academic case engine (Student Build)](https://github.com/moizk12/RECOURSE-Grokbot) - Grok Bot 学生チャレンジ提出物。大学手続をソース検証付きで学生ケース軌跡に対し再生する決定的エンジン。
+- [GROK BOT ARCHITECTURE (public council)](https://github.com/monokernn/Grok_Bot_Architecture) - 公開観測可能なマルチエージェント Grok Bot 組織（Helm + 5専門家）。割当・引き継ぎ・領収のライブ観察 UI 付き。
+- [Star Goat Grok Bot Storm (Polymarket desk)](https://github.com/stevengray8-glitch/star-goat-grok-bot-storm) - Grok Bot デスクトップ向け 6 Bot の Polymarket BTC Up/Down マーケットメイク席プロファイルと運用手順（まずドライラン）。
 
 ## スキル、プラグインと MCP
 
@@ -398,6 +405,9 @@
 - [CN mail IMAP MCP for Grok Bot](https://github.com/evilmordy/grok-bot-cn-mail) - 実験的なローカル MCP と mail-imap スキル。Grok Bot が IMAP で QQ/163/126/騰訊企業メールを検索・読取（非公式）。
 - [grokbot-orca Mac desktop MCP plugin](https://github.com/aa2246740/grokbot-orca) - Agent Plugins パック。同 Mac の Grok Bot デスクトップが stdio MCP でローカル Orca.app を起動・監視（orca-bridge 代替）。
 - [Minis + Grokbot desktop design skill](https://github.com/1052666/minis-app-design) - 再利用可能な SKILL.md 設計パック。モバイルは Minis、デスクトップは Grokbot 風。tokens / CSS / プラットフォーム参考付き。
+- [Skill Market (Grok plugins marketplace)](https://github.com/myqz-wld/skill-market) - リポジトリ型マーケット。ネイティブ `.grok-plugin` ブートストラップと共通 Skills/CLI で Grok（と Claude/Codex）プラグインを発見・導入。
+- [Bot Org OS (Chief + specialists template)](https://github.com/firmasite/bot-org-os) - 貼り付けインストール可能な Grok Bot 組織テンプレ。Chief と Analyst/PM/Architect/Developer、共有 skills と HANDOFF ゲート。
+- [TRL Launchpad Grok Bot personas](https://github.com/alytrl/trl-grok-bots) - TRL Launchpad 向け Grok Bot ペルソナ Markdown（Chief of Staff / Scout / Deal Desk / Brief Studio など）。CreateAgent フィールドと 1:1。
 
 ## レビューと比較
 
@@ -504,6 +514,10 @@
 - [OpenSquad BYOK multi-bot platform](https://github.com/isparth/OpenSquad) - オープンソース BYOK エージェント基盤。各 Bot にモデル・コンピュータ・記憶・メール・電話。
 - [pi-box Grok Bot-shaped personal agent](https://github.com/ahmadaccino/pi-box) - オープンソース個人エージェント。Grok Bot 風の名簿/スレッド/ツールカード構成、Pi + Cloudflare DO。
 - [Starship self-hosted GrokBot (OpenHands)](https://github.com/BillulloNex/Starship) - Grok Bot 着想の自ホスト常駐コーディングエージェント。OpenHands ベース、Coolify とブラウザ VM 付き。
+- [gawkbot (open-source Grok Bot)](https://github.com/najmuzzaman-mohammad/gawkbot) - オープンソースの Grok Bot 代替。自機常駐 Bot、マイクロアプリ、1200+ 連携、外部操作は人承認ゲート。
+- [grok-box (Layer 3 sandboxed computer)](https://github.com/hexuria/box) - Grok Bot 風 Layer 3 サンドボックスエージェント PC の Rust/Docker 実装（exec・host・X デスクトップ・Chromium・CUA）。
+- [Grok Bot 0.18 source reconstruction](https://github.com/GeniusTDY/grok-bot-0.18) - 非公式の Grok Bot 0.18.0 Windows x64 ポータブルソース再構築。オフラインローカルゲートウェイ作業メモ付き（grok-bot-offline とは別リポ）。
+- [Grok-bot-factory (0.43-labeled reconstruction)](https://github.com/smartyua/Grok-Bot-reconstruction-) - 非公式 Grok Bot 再構築（0.43.0 対照）。読みやすい TS 境界に加え、マルチプロバイダルーティングとローカル Docker サンドボックス実験。
 
 ## コミュニティと障害事例
 
@@ -612,6 +626,11 @@
 - [“Bricked” after Reset — graphrag embedding RAM OOM](https://forum.cursor.com/t/grokbot-bricked-wont-reset/170689) - スタッフ（deanrie、2026-09-05）：重い索引後に Agent Computer が壊れたように見えるのは、ディスク不足ではなく graphrag 埋め込みが VM の RAM 上限に当たるケースが多い——Reset は最大約1時間、途中で再クリックするとタイマーが振り出し。復帰後は自動インデックスを止め、`free -h` で確認し、埋め込み/グラフ構築を小バッチにして上限未満を保つ（作業ファイル外の apt/pip は Reset 後に再導入）。
 - [Windows: secret-card chat — replies missing in main pane (sidebar/mobile OK)](https://forum.cursor.com/t/grok-bot-windows-one-chat-can-send-but-replies-never-render-in-main-pane-sidebar-preview-ok-mobile-ok/170745) - スタッフ（deanrie、2026-09-06）：0.43 Windows で Bot が鍵/パスワード（シークレットカード）を求めた会話は、メイン欄に新返信が出ずサイドバープレビューとモバイルは最新のままになり得る——メッセージは到達済み。Computer は健全なので Reset/Recover/再インストール/データ消去は不要。サーバー側修正が自動適用（最大約24時間）、アプリ更新不要。当面はそのスレをモバイルで。
 - [Mac 0.43: secret-card chats — “Couldn’t load conversation” (iPhone/sidebar OK)](https://forum.cursor.com/t/cannot-load-chat-history-for-some-grok-bots/170750) - スタッフ（deanrie、2026-09-06）：0.43.0 Mac デスクトップで、Bot がシークレット/資格情報を求めた会話が開けなくなることがある（Couldn’t load conversation は誤導でネットワーク障害ではない）。iPhone とサイドバープレビューは使え、Mac からの送信も到達する——Reset Agent Computer・再インストール・アプリ更新は不要。サーバー側修正が Computer ごとに自動適用（数時間〜最大約24時間）。
+- [Mac 0.43: lost computer after password change — sign out/in, don’t Reset](https://forum.cursor.com/t/grok-bot-lost-connection-with-its-computer-and-cant-update-recover-reset/170775) - Staff（deanrie、2026-09-06）：0.43.0 Mac で Cursor のパスワード変更/リセット（または他端末サインアウト）後、デスクトップが旧セッションのままで「Couldn’t Reach」になり Update/Recover/Reset も失敗—クラウド側の Computer/Bot は無事；デスクトップでサインアウト→再サインイン（Sign out が無ければメニューバーから Quit）、Reset しない。
+- [Mac 0.43: main chat pane misses replies (sidebar + iOS OK) — don’t Reset](https://forum.cursor.com/t/grok-bot-mac-replies-missing-in-main-chat-pane-visible-in-left-preview-ios/170721) - Staff（deanrie、2026-09-06）：Mac アプリ 0.43.0 でメインチャットのライブ更新が止まり、未達に見えて返信も出ない一方、iPhone と左プレビューは最新のまま—Bot は受信している；Reset/Restore/再インストールや Bot 再作成は不要；修正まで iOS（または未影響の Bot）を使う。
+- [Bots “not responding” / Reset failed — save Privacy Mode on dashboard](https://forum.cursor.com/t/grok-bots-not-responding/170804) - Staff（deanrie、2026-09-06）：アカウント全体で到達不可・「Couldn’t refresh」・黒バブル・Reset 失敗は、Privacy Mode の明示選択が未保存（データ通知だけでは不足）のことがある—Computer/Bot/ファイルは無事；cursor.com/dashboard → Settings → Privacy で Privacy Mode（Legacy 以外）を保存し、アプリを完全終了→再起動、約1分待つ；Reset/Retry/Recover の連打はしない。
+- [Local Shell Auto-review: “executable content could not be bound” — pipe workaround](https://forum.cursor.com/t/grok-bot-auto-review-blocks-local-commands-executable-content-could-not-be-bound-to-this-review/170809) - Staff（deanrie、2026-09-06）：ローカル実行の Auto-review は、コンパイル済みバイナリ（例 /usr/bin/python3）や python3 -c / bash -c のような先頭フラグを読めないと承認カード前に拒否する—「Allow once」は無効；パイプ（echo "print('exec-ok')" | python3）かホームの .py をインタプリタ名だけで実行；絶対パス・-c・heredoc・引数内の ~/ は避ける。
+- [computerUse GTK Open Files no-ops — dock overlap; bypass with DOM.setFileInputFiles](https://forum.cursor.com/t/grok-bot-computeruse-gtk-file-chooser-open-no-ops-for-local-video-upload/170816) - Staff（deanrie、2026-09-06）：Bot コンピュータ上の GTK「Open Files」の Open/Cancel が下部 Dock に重なり、クリックが Dock に吸われて無反応になる（ファイル自体は問題なし）—DevTools の DOM.setFileInputFiles で /home/box/... を直接セット（ダイアログ回避）、またはダイアログをドラッグ/最大化して Open を Dock 上に出す；既知の幾何問題で追跡中。
 
 ## 関連リスト
 
@@ -685,10 +704,12 @@
 - [Grok Bot five-platform Chinese entry map](https://github.com/KinGao294/grok-bot-platforms-zh) - 非公式の中国語1ページ。Grok Bot の iPhone/iPad/Android/macOS/Windows 公式入口・OS 要件・プラン記述の食い違いを対照。
 - [Grok Bot marketplace Chinese template shelf](https://github.com/KinGao294/grok-bot-templates-zh) - 非公式の中国語棚。公式 Bot Marketplace の公開テンプレ（スナップショット 69）を refresh.py 付きで掲載。インストールは常に公式へ。
 - [Diana day/night Grok Bot theme blueprint](https://github.com/lanmengSakura/diana-grok-bot-theme) - プレリリースの視覚設計図（CSS + 素材）。Grok Bot デスクトップ向け Diana 昼夜スキン。一発ローカル注入器は未公開。
+- [Grok Bot for Raycast](https://github.com/Jahquan/grok-bot-raycast) - 非公式 macOS Raycast 拡張。既存 Grok Bot に Cursor ログインし、Bot 別スレッド・Markdown/LaTeX・承認・ルーチンを表示。
+- [Grok Bot Wall of X](https://github.com/krika2810/grokbot-wall) - Grok Bot に関する最近の X 投稿ライブウォール（bchewy の meetup チェックイン壁とは別）。取得スクリプトと Vercel デプロイ付き。
 
 ## 貢献
 
-8 セクションに 581 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 601 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -150,15 +150,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="osa-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotosaka"><img src="./assets/events/osa-20260917-cover.png" alt="Grok Bot Meetup Osaka" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Osaka</strong><br />Thu 17 Sep 2026, 19:00–21:30 (JST)<br />North Gate Building, 3-chōme-1-3 Umeda, Kita Ward, Osaka<br /><br />In-person Grok Bot meetup in Osaka. Host approval required.<br /><br /><a href="https://luma.com/grokbotosaka"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
-<a id="country-bd"></a>
-### Bangladesh
-
-<a id="dac-20260925"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/5dxqyfyo"><img src="./assets/events/dac-20260925-cover.png" alt="Grok Bot Meetup Dhaka" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Dhaka</strong><br />Fri 25 Sep 2026, 16:00–19:00 (Asia/Dhaka, GMT+6)<br />Dhaka · Gulshan (Moar, Level 5 Navana HR Tower-1)<br /><br />Hands-on Grok Bot meetup in Dhaka: build a practical work bot (briefing bot), live setup walkthrough, Origin / Grok 4.6 notes, demos, Q&A, F&B and swag. Host Amit Das; free; ~60 seats; beginners welcome.<br /><br /><a href="https://luma.com/5dxqyfyo"><strong>Register on Luma →</strong></a></td></tr></table>
-
-<a id="dac-20261020"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-b80k"><img src="./assets/events/dac-20261020-cover.png" alt="Grok Bot Dhaka Cowork" width="300" /></a></td><td valign="top"><strong>Grok Bot Dhaka Cowork</strong><br />Tue 20 Oct 2026, 13:00–16:30 (Asia/Dhaka, GMT+6)<br />Dhaka (address revealed after registration)<br /><br />Hands-on Grok Bot coworking in Dhaka: bring a side project or idea, build with Grok Bot solo or in pairs, share discoveries, and learn from other builders. Host Mahinoor Rahman (SpaceXAI for Dhaka); free; host approval; ~90 seats; laptop required; beginners welcome.<br /><br /><a href="https://luma.com/spacexai-b80k"><strong>Register on Luma →</strong></a></td></tr></table>
-
 <a id="country-br"></a>
 ### Brazil
 
@@ -216,6 +207,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="syd-20261007"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-d70v"><img src="./assets/events/syd-20261007-cover.png" alt="Grok Bot Meetup Sydney" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Sydney</strong><br />Wed 7 Oct 2026, 17:30–21:00 (AEDT)<br />Sydney · exact address after you register<br /><br />Next official Cursor Sydney Grok Bot night after the August meetup. Host approval required.<br /><br /><a href="https://luma.com/cursor-d70v"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
+<a id="country-bd"></a>
+### Bangladesh
+
+<a id="dac-20261020"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-b80k"><img src="./assets/events/dac-20261020-cover.png" alt="Grok Bot Dhaka Cowork" width="300" /></a></td><td valign="top"><strong>Grok Bot Dhaka Cowork</strong><br />Tue 20 Oct 2026, 13:00–16:30 (Asia/Dhaka, GMT+6)<br />Dhaka (address revealed after registration)<br /><br />Hands-on Grok Bot coworking in Dhaka: bring a side project or idea, build with Grok Bot solo or in pairs, share discoveries, and learn from other builders. Host Mahinoor Rahman (SpaceXAI for Dhaka); free; host approval; ~90 seats; laptop required; beginners welcome.<br /><br /><a href="https://luma.com/spacexai-b80k"><strong>Register on Luma →</strong></a></td></tr></table>
+
 <a id="country-be"></a>
 ### Belgium
 
@@ -257,6 +254,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="pnh-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-jt05"><img src="./assets/events/pnh-20261003-cover.png" alt="Grok Bot Meetup Phnom Penh" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Phnom Penh</strong><br />Sat 3 Oct 2026, 14:00–16:00 (Asia/Bangkok, GMT+7)<br />Phnom Penh · Smart Startup Space (Connexion Building, Koh Pich)<br /><br />Cambodia's first Grok Bot meetup: demos, idea swap, on-site try-with-credits (laptop or phone OK), plus an online guest speaker. Co-organized with Smart Startup Space. Hosts Taka Kiyone & Luis Romero; free; host approval; ~80 seats; beginners welcome.<br /><br /><a href="https://luma.com/spacexai-jt05"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<a id="country-kw"></a>
+### Kuwait
+
+<a id="kwi-20260922"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/197n9c91"><img src="./assets/events/kwi-20260922-cover.png" alt="Grok Bot Kuwait Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Kuwait Meetup</strong><br />Mon 22 Sep 2026, 12:30–14:30 (Asia/Riyadh, GMT+3)<br />Mubarak Al-Abdullah, Kuwait (Hawalli) · address after register<br /><br />First Grok Bot × SpaceXAI meetup in Kuwait: discover Grok Bot, try it hands-on, meet local builders. 1-month Grok Bot credit for participants; snacks/drinks; bring iPhone/Android/Windows/Mac (no Cursor install needed). Host Asama Akhtar; free; host approval; ~24 seats left. Follow-up Build with Grok Bot workshop planned.<br /><br /><a href="https://luma.com/197n9c91"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
 <a id="country-mm"></a>
 ### Myanmar

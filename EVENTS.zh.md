@@ -150,15 +150,6 @@
 <a id="osa-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotosaka"><img src="./assets/events/osa-20260917-cover.png" alt="Grok Bot 大阪线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 大阪线下交流</strong><br />2026-09-17 周四 19:00–21:30（大阪）<br />大阪北区梅田 North Gate Building<br /><br />大阪线下 Grok Bot。需主办审核。<br /><br /><a href="https://luma.com/grokbotosaka"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
-<a id="country-bd"></a>
-### 孟加拉国
-
-<a id="dac-20260925"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/5dxqyfyo"><img src="./assets/events/dac-20260925-cover.png" alt="Grok Bot 达卡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 达卡线下交流</strong><br />2026-09-25 周五 16:00–19:00（达卡时间 GMT+6）<br />达卡 · Gulshan（Moar, Level 5 Navana HR Tower-1）<br /><br />达卡 Grok Bot 动手局：搭实用 work bot（简报 bot）、现场 setup、Origin / Grok 4.6、演示与 Q&A，含餐食与周边。主办 Amit Das；免费，约 60 席；新手欢迎。<br /><br /><a href="https://luma.com/5dxqyfyo"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
-<a id="dac-20261020"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-b80k"><img src="./assets/events/dac-20261020-cover.png" alt="Grok Bot 达卡 Cowork" width="300" /></a></td><td valign="top"><strong>Grok Bot 达卡 Cowork</strong><br />2026-10-20 周二 13:00–16:30（达卡时间 GMT+6）<br />达卡（报名后可见具体地址）<br /><br />达卡 Grok Bot 动手 cowork：带 side project 或想法，单独或组队用 Grok Bot 边做边学、分享与交流。主办 Mahinoor Rahman（SpaceXAI for Dhaka）；免费，需主办审批，约 90 席；请带笔记本；新手欢迎。<br /><br /><a href="https://luma.com/spacexai-b80k"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
 <a id="country-br"></a>
 ### 巴西
 
@@ -216,6 +207,12 @@
 <a id="syd-20261007"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-d70v"><img src="./assets/events/syd-20261007-cover.png" alt="Grok Bot 悉尼线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 悉尼线下交流</strong><br />2026-10-07 周三 17:30–21:00（悉尼）<br />悉尼 · 报名通过后可见地址<br /><br />8 月场之后的下一场官方 Cursor 悉尼 Grok Bot 夜。需主办审核。<br /><br /><a href="https://luma.com/cursor-d70v"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
+<a id="country-bd"></a>
+### 孟加拉国
+
+<a id="dac-20261020"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-b80k"><img src="./assets/events/dac-20261020-cover.png" alt="Grok Bot 达卡 Cowork" width="300" /></a></td><td valign="top"><strong>Grok Bot 达卡 Cowork</strong><br />2026-10-20 周二 13:00–16:30（达卡时间 GMT+6）<br />达卡（报名后可见具体地址）<br /><br />达卡 Grok Bot 动手 cowork：带 side project 或想法，单独或组队用 Grok Bot 边做边学、分享与交流。主办 Mahinoor Rahman（SpaceXAI for Dhaka）；免费，需主办审批，约 90 席；请带笔记本；新手欢迎。<br /><br /><a href="https://luma.com/spacexai-b80k"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-be"></a>
 ### 比利时
 
@@ -257,6 +254,12 @@
 
 <a id="pnh-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-jt05"><img src="./assets/events/pnh-20261003-cover.png" alt="Grok Bot 金边线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 金边线下交流</strong><br />2026-10-03 周六 14:00–16:00（金边 / Bangkok 时区 GMT+7）<br />金边 · Smart Startup Space（Connexion Building, Koh Pich）<br /><br />柬埔寨首场 Grok Bot 线下：演示与交流、现场 credits 试玩（笔记本或手机均可），另有线上嘉宾。与 Smart Startup Space 合办。主办 Taka Kiyone、Luis Romero；免费，需主办审批，约 80 席；新手欢迎。<br /><br /><a href="https://luma.com/spacexai-jt05"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="country-kw"></a>
+### 科威特
+
+<a id="kwi-20260922"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/197n9c91"><img src="./assets/events/kwi-20260922-cover.png" alt="Grok Bot 科威特线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 科威特线下交流</strong><br />2026-09-22 周一 12:30–14:30（科威特/利雅得时间 GMT+3）<br />科威特 Mubarak Al-Abdullah（Hawalli）· 报名后可见地址<br /><br />科威特首场 Grok Bot × SpaceXAI：了解并动手试 Grok Bot，认识本地 builder。参与者可领 1 个月 Grok Bot 额度；有零食饮料；带 iPhone/Android/Windows/Mac 即可（无需装 Cursor）。主办 Asama Akhtar；免费，需审核，约剩 24 席。后续还有 Build with Grok Bot 工作坊。<br /><br /><a href="https://luma.com/197n9c91"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
 <a id="country-mm"></a>
 ### 缅甸

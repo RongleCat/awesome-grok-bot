@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-09-06",
+  "updated": "2026-09-07",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -904,6 +904,16 @@
             "zh": "把 Grok Bot 当「大管家」的中文上手指南与案例站：飞书正文镜像到 VitePress 发布仓，含开篇与十二案例。",
             "ja": "Grok Bot を大管家として使う中国語ハンドブック／事例サイト。飛書本文を VitePress 公開リポジトリへミラー。"
           }
+        },
+        {
+          "title": "UniFi + Cursor/Grok Bot MCP setup",
+          "url": "https://github.com/joemartinxiii/unifi-cursor-grok-bot",
+          "source": "GB-619",
+          "blurb": {
+            "en": "Setup guide to put UniFi Network/Protect in front of Grok Bot via sirkirby/unifi-mcp Cloud Relay without exposing LAN UniFi to the internet.",
+            "zh": "上手指南：经 sirkirby/unifi-mcp Cloud Relay 把 UniFi Network/Protect 接到 Grok Bot，而不把局域网 UniFi 暴露到公网。",
+            "ja": "セットアップガイド。sirkirby/unifi-mcp Cloud Relay 経由で UniFi Network/Protect を Grok Bot に繋ぎ、LAN の UniFi をインターネット公開しない。"
+          }
         }
       ]
     },
@@ -1523,6 +1533,56 @@
             "en": "Sanitized backup of a multi-desk Grok Bot trading roster (profiles, automations, skills, ops docs) for version history—not a live runtime.",
             "zh": "多席位 Grok Bot 交易台脱敏备份（配置、自动化、skills、运维文档）供版本历史——不是可执行运行时。",
             "ja": "複数デスクの Grok Bot 取引ロスターのサニタイズ済みバックアップ（profile / automation / skills / ops）。実行ランタイムではない。"
+          }
+        },
+        {
+          "title": "vidya course-page calendar Grok Bot",
+          "url": "https://github.com/vinilpolepalli/vidya",
+          "source": "GB-608",
+          "blurb": {
+            "en": "Student Build Challenge engine: a Grok Bot reads course pages nightly, diffs deadlines, and keeps Google Calendar honest with tested safety gates.",
+            "zh": "学生挑战赛引擎：Grok Bot 每晚读课程页、差分截止日期，并用带测试的安全门禁维护 Google Calendar。",
+            "ja": "学生チャレンジ用エンジン。Grok Bot が毎晩コースページを読み、締切を差分し、テスト済みゲートで Google Calendar を更新。"
+          }
+        },
+        {
+          "title": "GrokBot-Scheduler (seat watcher)",
+          "url": "https://github.com/TheHelperVariable/GrokBot-Scheduler",
+          "source": "GB-609",
+          "blurb": {
+            "en": "Unattended cloud-agent spring-registration prep: watches public registrar pages for seats and alerts without ever holding university credentials.",
+            "zh": "无人值守云端 Agent 春季选课准备：盯公开教务页座位并提醒，永不持有学校账号凭据。",
+            "ja": "常駐クラウドエージェントの春学期履修準備。公開レジストラを監視して席を通知し、大学資格情報は保持しない。"
+          }
+        },
+        {
+          "title": "Recourse academic case engine (Student Build)",
+          "url": "https://github.com/moizk12/RECOURSE-Grokbot",
+          "source": "GB-610",
+          "blurb": {
+            "en": "Grok Bot Student Build Challenge submission: deterministic, source-verified engine that replays university procedures against a student case trace.",
+            "zh": "Grok Bot 学生挑战赛提交：确定性、源文核验引擎，按学校程序重放学生案例轨迹。",
+            "ja": "Grok Bot 学生チャレンジ提出物。大学手続をソース検証付きで学生ケース軌跡に対し再生する決定的エンジン。"
+          }
+        },
+        {
+          "title": "GROK BOT ARCHITECTURE (public council)",
+          "url": "https://github.com/monokernn/Grok_Bot_Architecture",
+          "source": "GB-611",
+          "blurb": {
+            "en": "Public observable multi-agent Grok Bot org (Helm + five specialists) with a live observer UI for assignments, handoffs, and receipts.",
+            "zh": "可公开观察的多 Agent Grok Bot 组织（Helm + 五位专家），带任务/交接/回执的实时旁观 UI。",
+            "ja": "公開観測可能なマルチエージェント Grok Bot 組織（Helm + 5専門家）。割当・引き継ぎ・領収のライブ観察 UI 付き。"
+          }
+        },
+        {
+          "title": "Star Goat Grok Bot Storm (Polymarket desk)",
+          "url": "https://github.com/stevengray8-glitch/star-goat-grok-bot-storm",
+          "source": "GB-612",
+          "blurb": {
+            "en": "Six-bot Polymarket BTC Up/Down market-making desk profiles and runbook built for the Grok Bot desktop app (dry-run first).",
+            "zh": "面向 Grok Bot 桌面端的六 Bot Polymarket BTC Up/Down 做市席位配置与操作手册（先纸面演练）。",
+            "ja": "Grok Bot デスクトップ向け 6 Bot の Polymarket BTC Up/Down マーケットメイク席プロファイルと運用手順（まずドライラン）。"
           }
         }
       ]
@@ -3104,6 +3164,36 @@
             "zh": "可复用 SKILL.md 设计包：移动端参考 Minis，桌面工作区参考 Grokbot，含 tokens、CSS 与多平台参考。",
             "ja": "再利用可能な SKILL.md 設計パック。モバイルは Minis、デスクトップは Grokbot 風。tokens / CSS / プラットフォーム参考付き。"
           }
+        },
+        {
+          "title": "Skill Market (Grok plugins marketplace)",
+          "url": "https://github.com/myqz-wld/skill-market",
+          "source": "GB-605",
+          "blurb": {
+            "en": "Repository-backed marketplace with a native `.grok-plugin` bootstrap plus shared Skills/CLI for discovering and installing Grok (and Claude/Codex) plugins.",
+            "zh": "仓库型插件市场：带原生 `.grok-plugin` 引导包与共用 Skills/CLI，用于发现/安装 Grok（及 Claude/Codex）插件。",
+            "ja": "リポジトリ型マーケット。ネイティブ `.grok-plugin` ブートストラップと共通 Skills/CLI で Grok（と Claude/Codex）プラグインを発見・導入。"
+          }
+        },
+        {
+          "title": "Bot Org OS (Chief + specialists template)",
+          "url": "https://github.com/firmasite/bot-org-os",
+          "source": "GB-606",
+          "blurb": {
+            "en": "Paste-to-install Grok Bot org template: Chief plus Analyst/PM/Architect/Developer specialists with shared skills and HANDOFF gates.",
+            "zh": "可粘贴安装的 Grok Bot 组织模板：Chief + Analyst/PM/Architect/Developer，含共享 skills 与 HANDOFF 门禁。",
+            "ja": "貼り付けインストール可能な Grok Bot 組織テンプレ。Chief と Analyst/PM/Architect/Developer、共有 skills と HANDOFF ゲート。"
+          }
+        },
+        {
+          "title": "TRL Launchpad Grok Bot personas",
+          "url": "https://github.com/alytrl/trl-grok-bots",
+          "source": "GB-607",
+          "blurb": {
+            "en": "Markdown persona roster for TRL Launchpad Grok Bots (Chief of Staff, Scout, Deal Desk, Brief Studio, etc.) mapped 1:1 to CreateAgent fields.",
+            "zh": "TRL Launchpad 的 Grok Bot 人设 Markdown 名册（Chief of Staff、Scout、Deal Desk、Brief Studio 等），与 CreateAgent 字段 1:1。",
+            "ja": "TRL Launchpad 向け Grok Bot ペルソナ Markdown（Chief of Staff / Scout / Deal Desk / Brief Studio など）。CreateAgent フィールドと 1:1。"
+          }
         }
       ]
     },
@@ -4123,6 +4213,46 @@
             "en": "Self-hosted always-on coding agent stack inspired by Grok Bot, built on OpenHands with Coolify deploy and browser VM pieces.",
             "zh": "受 Grok Bot 启发的自托管常驻编程智能体栈，基于 OpenHands，含 Coolify 部署与浏览器 VM。",
             "ja": "Grok Bot 着想の自ホスト常駐コーディングエージェント。OpenHands ベース、Coolify とブラウザ VM 付き。"
+          }
+        },
+        {
+          "title": "gawkbot (open-source Grok Bot)",
+          "url": "https://github.com/najmuzzaman-mohammad/gawkbot",
+          "source": "GB-613",
+          "blurb": {
+            "en": "Open-source Grok Bot alternative: always-on bots on your machine with microapps, 1200+ integrations, and human approval gates on external actions.",
+            "zh": "开源 Grok Bot 替代品：本机常驻 Bot、微应用、1200+ 集成，对外动作需人审批准。",
+            "ja": "オープンソースの Grok Bot 代替。自機常駐 Bot、マイクロアプリ、1200+ 連携、外部操作は人承認ゲート。"
+          }
+        },
+        {
+          "title": "grok-box (Layer 3 sandboxed computer)",
+          "url": "https://github.com/hexuria/box",
+          "source": "GB-614",
+          "blurb": {
+            "en": "Rust/Docker implementation of a Grok Bot–style Layer 3 sandboxed agent computer (exec daemon, host gateway, X desktop, Chromium, CUA).",
+            "zh": "Rust/Docker 实现的 Grok Bot 风格 Layer 3 沙箱 Agent 电脑（exec 守护进程、host 网关、X 桌面、Chromium、CUA）。",
+            "ja": "Grok Bot 風 Layer 3 サンドボックスエージェント PC の Rust/Docker 実装（exec・host・X デスクトップ・Chromium・CUA）。"
+          }
+        },
+        {
+          "title": "Grok Bot 0.18 source reconstruction",
+          "url": "https://github.com/GeniusTDY/grok-bot-0.18",
+          "source": "GB-615",
+          "blurb": {
+            "en": "Unofficial Windows x64 portable source reconstruction of Grok Bot 0.18.0 with offline local-gateway workspace notes (distinct from GeniusTDY/grok-bot-offline).",
+            "zh": "非官方 Grok Bot 0.18.0 Windows x64 便携源码重建，含免登录本地网关工作区说明（有别于 GeniusTDY/grok-bot-offline）。",
+            "ja": "非公式の Grok Bot 0.18.0 Windows x64 ポータブルソース再構築。オフラインローカルゲートウェイ作業メモ付き（grok-bot-offline とは別リポ）。"
+          }
+        },
+        {
+          "title": "Grok-bot-factory (0.43-labeled reconstruction)",
+          "url": "https://github.com/smartyua/Grok-Bot-reconstruction-",
+          "source": "GB-616",
+          "blurb": {
+            "en": "Unofficial Grok Bot reconstruction labeled against 0.43.0 with readable TS boundaries plus experiments for multi-provider routing and local Docker sandbox.",
+            "zh": "非官方 Grok Bot 重建（对照 0.43.0），含可读 TS 边界，以及多供应商路由与本地 Docker 沙箱实验。",
+            "ja": "非公式 Grok Bot 再構築（0.43.0 対照）。読みやすい TS 境界に加え、マルチプロバイダルーティングとローカル Docker サンドボックス実験。"
           }
         }
       ]
@@ -5184,6 +5314,56 @@
             "zh": "官方（deanrie，2026-09-06）：0.43.0 Mac 桌面上，Bot 要过密钥/凭证的会话可能打不开（“Couldn’t load conversation” 具误导性，非网络问题）；iPhone 与侧栏预览仍可用，且 Mac 发出的消息仍会送达——勿 Reset Agent Computer、重装或更新客户端；服务端修复会按云电脑后台自动生效（数小时内，最多约 24 小时）。",
             "ja": "スタッフ（deanrie、2026-09-06）：0.43.0 Mac デスクトップで、Bot がシークレット/資格情報を求めた会話が開けなくなることがある（Couldn’t load conversation は誤導でネットワーク障害ではない）。iPhone とサイドバープレビューは使え、Mac からの送信も到達する——Reset Agent Computer・再インストール・アプリ更新は不要。サーバー側修正が Computer ごとに自動適用（数時間〜最大約24時間）。"
           }
+        },
+        {
+          "title": "Mac 0.43: lost computer after password change — sign out/in, don’t Reset",
+          "url": "https://forum.cursor.com/t/grok-bot-lost-connection-with-its-computer-and-cant-update-recover-reset/170775",
+          "source": "GB-620",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-06): On 0.43.0 Mac, a Cursor password change/reset (or sign-out elsewhere) can invalidate the desktop session so the app keeps the old token and shows “Couldn’t Reach Grok Bot’s Computer,” with Update/Recover/Reset also failing—computer and Bots are fine; sign out and back in on desktop (Quit from menu bar if Sign out is missing), don’t Reset.",
+            "zh": "Staff（deanrie，2026-09-06）：0.43.0 Mac 在 Cursor 改密/重置（或他处登出）后桌面仍持旧会话，会显示连不上电脑且 Update/Recover/Reset 也失败——云端电脑与 Bot 仍在；在桌面登出再登入（没有 Sign out 就从菜单栏 Quit 再开），不要 Reset。",
+            "ja": "Staff（deanrie、2026-09-06）：0.43.0 Mac で Cursor のパスワード変更/リセット（または他端末サインアウト）後、デスクトップが旧セッションのままで「Couldn’t Reach」になり Update/Recover/Reset も失敗—クラウド側の Computer/Bot は無事；デスクトップでサインアウト→再サインイン（Sign out が無ければメニューバーから Quit）、Reset しない。"
+          }
+        },
+        {
+          "title": "Mac 0.43: main chat pane misses replies (sidebar + iOS OK) — don’t Reset",
+          "url": "https://forum.cursor.com/t/grok-bot-mac-replies-missing-in-main-chat-pane-visible-in-left-preview-ios/170721",
+          "source": "GB-621",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-06): On Mac app 0.43.0 the main chat pane can stop live-updating so sends look undelivered and replies never appear there, while iPhone and the left sidebar preview stay current—bots still receive messages; don’t Reset/Restore/reinstall or recreate the Bot; use iOS (or unaffected bots) until the tracked UI bug is fixed.",
+            "zh": "Staff（deanrie，2026-09-06）：Mac 0.43.0 主聊天区可能停更，发送像未送达、回复不出现，但 iPhone 与左侧预览仍正常——Bot 其实已收到；不要 Reset/Restore/重装或重建 Bot；在官方修 UI 前用 iOS（或未受影响的 Bot）。",
+            "ja": "Staff（deanrie、2026-09-06）：Mac アプリ 0.43.0 でメインチャットのライブ更新が止まり、未達に見えて返信も出ない一方、iPhone と左プレビューは最新のまま—Bot は受信している；Reset/Restore/再インストールや Bot 再作成は不要；修正まで iOS（または未影響の Bot）を使う。"
+          }
+        },
+        {
+          "title": "Bots “not responding” / Reset failed — save Privacy Mode on dashboard",
+          "url": "https://forum.cursor.com/t/grok-bots-not-responding/170804",
+          "source": "GB-622",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-06): Account-wide unreachable bots with “Couldn’t refresh,” black bubbles, and “Reset failed” can mean no explicit Privacy Mode choice was saved (data notice alone is not enough)—computer/bots/files are safe; set Privacy Mode (not Legacy) at cursor.com/dashboard → Settings → Privacy, fully quit/reopen apps, wait ~1 minute; don’t keep hitting Reset/Retry/Recover.",
+            "zh": "Staff（deanrie，2026-09-06）：全账户 Bot 连不上、「Couldn’t refresh」、黑气泡、Reset 失败，可能是未显式保存 Privacy Mode（仅确认数据提示不够）——电脑/Bot/文件仍在；到 cursor.com/dashboard → Settings → Privacy 选 Privacy Mode（非 Legacy）并确认，完全退出再开应用，等约 1 分钟；别反复 Reset/Retry/Recover。",
+            "ja": "Staff（deanrie、2026-09-06）：アカウント全体で到達不可・「Couldn’t refresh」・黒バブル・Reset 失敗は、Privacy Mode の明示選択が未保存（データ通知だけでは不足）のことがある—Computer/Bot/ファイルは無事；cursor.com/dashboard → Settings → Privacy で Privacy Mode（Legacy 以外）を保存し、アプリを完全終了→再起動、約1分待つ；Reset/Retry/Recover の連打はしない。"
+          }
+        },
+        {
+          "title": "Local Shell Auto-review: “executable content could not be bound” — pipe workaround",
+          "url": "https://forum.cursor.com/t/grok-bot-auto-review-blocks-local-commands-executable-content-could-not-be-bound-to-this-review/170809",
+          "source": "GB-623",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-06): Local-exec Auto-review can reject before any approval card when Grok Bot can’t read a compiled binary (e.g. /usr/bin/python3) or flag-first args like python3 -c / bash -c—“Allow once” won’t help; pipe code in (echo \"print('exec-ok')\" | python3) or run a home-folder .py with just the interpreter name; avoid absolute program paths, -c, heredoc-on-stdin, and ~/ inside interpreter args until fixed.",
+            "zh": "Staff（deanrie，2026-09-06）：本机执行的 Auto-review 在无法读取编译型二进制（如 /usr/bin/python3）或以 -c 开头的参数时，会在审批卡出现前直接拒绝——「Allow once」无效；用管道送代码（echo \"print('exec-ok')\" | python3）或对家目录脚本只用解释器名运行；修好前避免绝对程序路径、-c、heredoc，以及传给解释器的路径里的 ~/。",
+            "ja": "Staff（deanrie、2026-09-06）：ローカル実行の Auto-review は、コンパイル済みバイナリ（例 /usr/bin/python3）や python3 -c / bash -c のような先頭フラグを読めないと承認カード前に拒否する—「Allow once」は無効；パイプ（echo \"print('exec-ok')\" | python3）かホームの .py をインタプリタ名だけで実行；絶対パス・-c・heredoc・引数内の ~/ は避ける。"
+          }
+        },
+        {
+          "title": "computerUse GTK Open Files no-ops — dock overlap; bypass with DOM.setFileInputFiles",
+          "url": "https://forum.cursor.com/t/grok-bot-computeruse-gtk-file-chooser-open-no-ops-for-local-video-upload/170816",
+          "source": "GB-624",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-06): On the Bot computer, GTK “Open Files” Open/Cancel often sit on the bottom dock so clicks hit the dock and the dialog no-ops (file itself is fine)—ask the Bot to set the page file input via DevTools DOM.setFileInputFiles to a /home/box/... path (no dialog), or drag/maximize the dialog so Open clears the dock; known dialog-geometry issue, tracked.",
+            "zh": "Staff（deanrie，2026-09-06）：Bot 电脑上 GTK「打开文件」的 Open/Cancel 常叠在底部 Dock 上，点击打到 Dock 导致对话框无响应（文件本身没问题）——让 Bot 用 DevTools DOM.setFileInputFiles 直接指向 /home/box/... 路径（绕开对话框），或把对话框拖高/最大化使 Open 离开 Dock；已知几何问题，已在跟踪。",
+            "ja": "Staff（deanrie、2026-09-06）：Bot コンピュータ上の GTK「Open Files」の Open/Cancel が下部 Dock に重なり、クリックが Dock に吸われて無反応になる（ファイル自体は問題なし）—DevTools の DOM.setFileInputFiles で /home/box/... を直接セット（ダイアログ回避）、またはダイアログをドラッグ/最大化して Open を Dock 上に出す；既知の幾何問題で追跡中。"
+          }
         }
       ]
     },
@@ -5893,6 +6073,26 @@
             "en": "Pre-release visual blueprint (CSS + assets) for a Diana day/night skin on Grok Bot desktop; no public one-click local injector yet.",
             "zh": "预发布视觉蓝图（CSS + 素材）：给 Grok Bot 桌面端做嘉然日间/暗夜皮肤；尚未公开一键本机挂载器。",
             "ja": "プレリリースの視覚設計図（CSS + 素材）。Grok Bot デスクトップ向け Diana 昼夜スキン。一発ローカル注入器は未公開。"
+          }
+        },
+        {
+          "title": "Grok Bot for Raycast",
+          "url": "https://github.com/Jahquan/grok-bot-raycast",
+          "source": "GB-617",
+          "blurb": {
+            "en": "Unofficial macOS Raycast extension for existing Grok Bot teammates: Cursor sign-in, per-bot threads, Markdown/LaTeX, approvals, and routines.",
+            "zh": "非官方 macOS Raycast 扩展：用 Cursor 登录现有 Grok Bot，按 Bot 看线程，支持 Markdown/LaTeX、审批与例行任务。",
+            "ja": "非公式 macOS Raycast 拡張。既存 Grok Bot に Cursor ログインし、Bot 別スレッド・Markdown/LaTeX・承認・ルーチンを表示。"
+          }
+        },
+        {
+          "title": "Grok Bot Wall of X",
+          "url": "https://github.com/krika2810/grokbot-wall",
+          "source": "GB-618",
+          "blurb": {
+            "en": "Live wall of recent X posts about Grok Bot (distinct from bchewy meetup check-in wall), with fetch scripts and Vercel deploy.",
+            "zh": "Grok Bot 相关 X 帖子实时墙（有别于 bchewy 的 meetup 签到墙），含抓取脚本与 Vercel 部署。",
+            "ja": "Grok Bot に関する最近の X 投稿ライブウォール（bchewy の meetup チェックイン壁とは別）。取得スクリプトと Vercel デプロイ付き。"
           }
         }
       ]
@@ -9747,7 +9947,7 @@
       "id": "dac-20260925",
       "url": "https://luma.com/5dxqyfyo",
       "image": "./assets/events/dac-20260925-cover.png",
-      "expires": "2026-09-25T19:00:00+06:00",
+      "expires": "2026-09-07T00:00:00+08:00",
       "title": {
         "en": "Grok Bot Meetup Dhaka",
         "zh": "Grok Bot 达卡线下交流",
@@ -9922,6 +10122,37 @@
         "en": "Cologne Grok Bot meetup: networking, talks/workshop, hands-on with a real task (Windows/Mac laptop or iPhone; download x.ai/bot). Agenda 18:00 check-in → 18:30 demo & hands-on → 20:00 chat; open to more Grok Bot speakers. Hosts Emmanuel Ketcha, Eyad Kelleh, Babajide Mayowa Moibi, Teoman Köse; free; host approval; ~50 seats.",
         "zh": "科隆 Grok Bot 线下：社交、分享/工作坊、带着真实任务动手（Windows/Mac 笔记本或 iPhone；先下 x.ai/bot）。议程 18:00 签到→18:30 演示与动手→20:00 闲聊；欢迎更多 Grok Bot 分享者。主办 Emmanuel Ketcha、Eyad Kelleh、Babajide Mayowa Moibi、Teoman Köse；免费，需主办审批，约 50 席。",
         "ja": "ケルンの Grok Bot ミートアップ。交流・トーク／ワークショップ・実タスクでハンズオン（Windows／Mac ノートまたは iPhone、x.ai/bot を事前DL）。18:00 受付→18:30 デモ＆ハンズオン→20:00 雑談。追加スピーカー歓迎。主催 Emmanuel Ketcha、Eyad Kelleh、Babajide Mayowa Moibi、Teoman Köse。無料・承認制・約50席。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "kwi-20260922",
+      "url": "https://luma.com/197n9c91",
+      "image": "./assets/events/kwi-20260922-cover.png",
+      "expires": "2026-09-22T14:30:00+03:00",
+      "title": {
+        "en": "Grok Bot Kuwait Meetup",
+        "zh": "Grok Bot 科威特线下交流",
+        "ja": "Grok Bot Meetup Kuwait"
+      },
+      "when": {
+        "en": "Mon 22 Sep 2026, 12:30–14:30 (Asia/Riyadh, GMT+3)",
+        "zh": "2026-09-22 周一 12:30–14:30（科威特/利雅得时间 GMT+3）",
+        "ja": "2026-09-22（月）12:30–14:30（Asia/Riyadh、GMT+3）"
+      },
+      "where": {
+        "en": "Mubarak Al-Abdullah, Kuwait (Hawalli) · address after register",
+        "zh": "科威特 Mubarak Al-Abdullah（Hawalli）· 报名后可见地址",
+        "ja": "クウェート Mubarak Al-Abdullah（Hawalli）· 登録後に住所を表示"
+      },
+      "body": {
+        "en": "First Grok Bot × SpaceXAI meetup in Kuwait: discover Grok Bot, try it hands-on, meet local builders. 1-month Grok Bot credit for participants; snacks/drinks; bring iPhone/Android/Windows/Mac (no Cursor install needed). Host Asama Akhtar; free; host approval; ~24 seats left. Follow-up Build with Grok Bot workshop planned.",
+        "zh": "科威特首场 Grok Bot × SpaceXAI：了解并动手试 Grok Bot，认识本地 builder。参与者可领 1 个月 Grok Bot 额度；有零食饮料；带 iPhone/Android/Windows/Mac 即可（无需装 Cursor）。主办 Asama Akhtar；免费，需审核，约剩 24 席。后续还有 Build with Grok Bot 工作坊。",
+        "ja": "クウェート初の Grok Bot × SpaceXAI ミートアップ。紹介とハンズオン、地元ビルダー交流。参加者に Grok Bot 1ヶ月クレジット、軽食あり。iPhone/Android/Windows/Mac 持参（Cursor 不要）。主催 Asama Akhtar。無料・承認制・残席約24。次回は Build with Grok Bot ワークショップ予定。"
       },
       "cta": {
         "en": "Apply on Luma (host approval)",

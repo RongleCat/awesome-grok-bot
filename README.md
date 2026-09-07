@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-581-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-601-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -45,7 +45,6 @@
 - **Mexico**（4）：[Monterrey](./EVENTS.md#mty-20260910) · [Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926)
 - **Ecuador**（3）：[Manta](./EVENTS.md#mec-20260912) · [Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
 - **Japan**（3）：[Sapporo](./EVENTS.md#spk-20261002) · [Tokyo](./EVENTS.md#tyo-20260909) · [Osaka](./EVENTS.md#osa-20260917)
-- **Bangladesh**（2）：[Dhaka](./EVENTS.md#dac-20260925) · [Dhaka](./EVENTS.md#dac-20261020)
 - **Brazil**（2）：[Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926)
 - **Germany**（2）：[Freiburg](./EVENTS.md#frb-20260917) · [Cologne](./EVENTS.md#cgn-20261009)
 - **United Kingdom**（2）：[London](./EVENTS.md#ldn-20260916) · [London](./EVENTS.md#ldn-20260913)
@@ -53,6 +52,7 @@
 - **Peru**（2）：[Arequipa](./EVENTS.md#aqp-20260911) · [Lima](./EVENTS.md#lim-20260911)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20260917)
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
+- **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20261020)
 - **Belgium**（1）：[Leuven](./EVENTS.md#leu-20260919)
 - **Cameroon**（1）：[Yaoundé](./EVENTS.md#yde-20260910)
 - **Colombia**（1）：[Cartago](./EVENTS.md#ctg-20260911)
@@ -60,6 +60,7 @@
 - **Israel**（1）：[Tel Aviv](./EVENTS.md#tlv-20260908)
 - **Kenya**（1）：[Nairobi](./EVENTS.md#nbo-20260917)
 - **Cambodia**（1）：[Phnom Penh](./EVENTS.md#pnh-20261003)
+- **Kuwait**（1）：[Kuwait / Mubarak Al-Abdullah](./EVENTS.md#kwi-20260922)
 - **Myanmar**（1）：[Yangon](./EVENTS.md#ygn-20260926)
 - **Malta**（1）：[Ta' Xbiex / Malta](./EVENTS.md#mlt-20260917)
 - **Malaysia**（1）：[Kuala Lumpur](./EVENTS.md#kul-20260919)
@@ -174,6 +175,7 @@
 - [Grok Bot fleet ops lessons](https://github.com/jasonpalmer1/grok-fleet-lessons) - Sanitized ops lessons for running a Grok Bot fleet beside Claude—hub/lanes, token thrift, dual-runtime source of truth, and room-noise rules.
 - [Grok Bot Spec-to-Ship kit](https://github.com/Iron-Mark/grok-bot-spec-to-ship) - Open kit and live-run proof that a Grok Bot group can take a vague objective through research and PRD to a shipped PR without a human router.
 - [Grok Bot Bluebook (管家手册)](https://github.com/Backtthefuture/grokbot-bluebook) - Chinese “chief-of-staff” handbook and case site for running Grok Bot as a full work butler, mirrored from Feishu into a VitePress publish repo.
+- [UniFi + Cursor/Grok Bot MCP setup](https://github.com/joemartinxiii/unifi-cursor-grok-bot) - Setup guide to put UniFi Network/Protect in front of Grok Bot via sirkirby/unifi-mcp Cloud Relay without exposing LAN UniFi to the internet.
 
 ## Field Cases
 
@@ -238,6 +240,11 @@
 - [GrokBot Board public DeFi directors](https://github.com/thegrokboard/the-grokbot-board) - Public build-in-public case of an autonomous AI board of directors of Grok Bots running a Solana DeFi company.
 - [Buying Signal Bot (Grok Bot + FullEnrich)](https://github.com/ToolMonsters/buying-signal-bot) - Setup playbook so a Grok Bot watches X for people leaving tools, then FullEnrich qualifies them into a short morning list.
 - [Hedge-fund desk Grok Bot agent export](https://github.com/prosmoon-hash/hedge-fund-agents) - Sanitized backup of a multi-desk Grok Bot trading roster (profiles, automations, skills, ops docs) for version history—not a live runtime.
+- [vidya course-page calendar Grok Bot](https://github.com/vinilpolepalli/vidya) - Student Build Challenge engine: a Grok Bot reads course pages nightly, diffs deadlines, and keeps Google Calendar honest with tested safety gates.
+- [GrokBot-Scheduler (seat watcher)](https://github.com/TheHelperVariable/GrokBot-Scheduler) - Unattended cloud-agent spring-registration prep: watches public registrar pages for seats and alerts without ever holding university credentials.
+- [Recourse academic case engine (Student Build)](https://github.com/moizk12/RECOURSE-Grokbot) - Grok Bot Student Build Challenge submission: deterministic, source-verified engine that replays university procedures against a student case trace.
+- [GROK BOT ARCHITECTURE (public council)](https://github.com/monokernn/Grok_Bot_Architecture) - Public observable multi-agent Grok Bot org (Helm + five specialists) with a live observer UI for assignments, handoffs, and receipts.
+- [Star Goat Grok Bot Storm (Polymarket desk)](https://github.com/stevengray8-glitch/star-goat-grok-bot-storm) - Six-bot Polymarket BTC Up/Down market-making desk profiles and runbook built for the Grok Bot desktop app (dry-run first).
 
 ## Skills, Plugins & MCP
 
@@ -398,6 +405,9 @@
 - [CN mail IMAP MCP for Grok Bot](https://github.com/evilmordy/grok-bot-cn-mail) - Experimental local MCP plus mail-imap skill so Grok Bot can search and read QQ/163/126/Tencent Exmail over IMAP (not an official xAI connector).
 - [grokbot-orca Mac desktop MCP plugin](https://github.com/aa2246740/grokbot-orca) - Agent Plugins pack so Grok Bot desktop on the same Mac dispatches/watches local Orca.app workers via stdio MCP (replaces orca-bridge for that topology).
 - [Minis + Grokbot desktop design skill](https://github.com/1052666/minis-app-design) - Reusable SKILL.md design pack: Minis-inspired mobile UI plus Grokbot-inspired desktop workspaces with tokens, CSS, and platform references.
+- [Skill Market (Grok plugins marketplace)](https://github.com/myqz-wld/skill-market) - Repository-backed marketplace with a native `.grok-plugin` bootstrap plus shared Skills/CLI for discovering and installing Grok (and Claude/Codex) plugins.
+- [Bot Org OS (Chief + specialists template)](https://github.com/firmasite/bot-org-os) - Paste-to-install Grok Bot org template: Chief plus Analyst/PM/Architect/Developer specialists with shared skills and HANDOFF gates.
+- [TRL Launchpad Grok Bot personas](https://github.com/alytrl/trl-grok-bots) - Markdown persona roster for TRL Launchpad Grok Bots (Chief of Staff, Scout, Deal Desk, Brief Studio, etc.) mapped 1:1 to CreateAgent fields.
 
 ## Reviews & Comparisons
 
@@ -504,6 +514,10 @@
 - [OpenSquad BYOK multi-bot platform](https://github.com/isparth/OpenSquad) - Open-source bring-your-own-key agent platform where each bot gets its own model, computer, memory, email, and phone.
 - [pi-box Grok Bot-shaped personal agent](https://github.com/ahmadaccino/pi-box) - Open-source personal agent with Grok Bot-shaped roster/thread/tool-card IA on Pi harness plus Cloudflare Durable Objects.
 - [Starship self-hosted GrokBot (OpenHands)](https://github.com/BillulloNex/Starship) - Self-hosted always-on coding agent stack inspired by Grok Bot, built on OpenHands with Coolify deploy and browser VM pieces.
+- [gawkbot (open-source Grok Bot)](https://github.com/najmuzzaman-mohammad/gawkbot) - Open-source Grok Bot alternative: always-on bots on your machine with microapps, 1200+ integrations, and human approval gates on external actions.
+- [grok-box (Layer 3 sandboxed computer)](https://github.com/hexuria/box) - Rust/Docker implementation of a Grok Bot–style Layer 3 sandboxed agent computer (exec daemon, host gateway, X desktop, Chromium, CUA).
+- [Grok Bot 0.18 source reconstruction](https://github.com/GeniusTDY/grok-bot-0.18) - Unofficial Windows x64 portable source reconstruction of Grok Bot 0.18.0 with offline local-gateway workspace notes (distinct from GeniusTDY/grok-bot-offline).
+- [Grok-bot-factory (0.43-labeled reconstruction)](https://github.com/smartyua/Grok-Bot-reconstruction-) - Unofficial Grok Bot reconstruction labeled against 0.43.0 with readable TS boundaries plus experiments for multi-provider routing and local Docker sandbox.
 
 ## Community & Failure Modes
 
@@ -612,6 +626,11 @@
 - [“Bricked” after Reset — graphrag embedding RAM OOM](https://forum.cursor.com/t/grokbot-bricked-wont-reset/170689) - Staff (deanrie, 2026-09-05): A “bricked” Agent Computer after heavy indexing can be graphrag embedding hitting the VM RAM ceiling (not disk)—Reset may take up to ~1 hour and re-clicking restarts the timer; after it returns, stop auto-indexing, check `free -h`, and run embedding/graph builds in smaller batches so memory stays under the limit (apt/pip outside working files need reinstall after Reset).
 - [Windows: secret-card chat — replies missing in main pane (sidebar/mobile OK)](https://forum.cursor.com/t/grok-bot-windows-one-chat-can-send-but-replies-never-render-in-main-pane-sidebar-preview-ok-mobile-ok/170745) - Staff (deanrie, 2026-09-06): On 0.43 Windows, a chat where the bot asked for a key/password (secret card) can stop showing new replies in the main pane while sidebar preview and mobile stay current—messages still reach the bot; computer is fine so don’t Reset/Recover/reinstall/clear data; server-side fix rolls out automatically (≤24h), no app update needed; use mobile for that thread meantime.
 - [Mac 0.43: secret-card chats — “Couldn’t load conversation” (iPhone/sidebar OK)](https://forum.cursor.com/t/cannot-load-chat-history-for-some-grok-bots/170750) - Staff (deanrie, 2026-09-06): On 0.43.0 Mac desktop, a conversation where the bot asked for a secret/credential can stop opening (“Couldn’t load conversation”—misleading; not network); iPhone and sidebar preview still work and Mac sends still reach the bots—don’t Reset Agent Computer, reinstall, or update the app; background server fix applies per computer (few hours, ≤24h).
+- [Mac 0.43: lost computer after password change — sign out/in, don’t Reset](https://forum.cursor.com/t/grok-bot-lost-connection-with-its-computer-and-cant-update-recover-reset/170775) - Staff (deanrie, 2026-09-06): On 0.43.0 Mac, a Cursor password change/reset (or sign-out elsewhere) can invalidate the desktop session so the app keeps the old token and shows “Couldn’t Reach Grok Bot’s Computer,” with Update/Recover/Reset also failing—computer and Bots are fine; sign out and back in on desktop (Quit from menu bar if Sign out is missing), don’t Reset.
+- [Mac 0.43: main chat pane misses replies (sidebar + iOS OK) — don’t Reset](https://forum.cursor.com/t/grok-bot-mac-replies-missing-in-main-chat-pane-visible-in-left-preview-ios/170721) - Staff (deanrie, 2026-09-06): On Mac app 0.43.0 the main chat pane can stop live-updating so sends look undelivered and replies never appear there, while iPhone and the left sidebar preview stay current—bots still receive messages; don’t Reset/Restore/reinstall or recreate the Bot; use iOS (or unaffected bots) until the tracked UI bug is fixed.
+- [Bots “not responding” / Reset failed — save Privacy Mode on dashboard](https://forum.cursor.com/t/grok-bots-not-responding/170804) - Staff (deanrie, 2026-09-06): Account-wide unreachable bots with “Couldn’t refresh,” black bubbles, and “Reset failed” can mean no explicit Privacy Mode choice was saved (data notice alone is not enough)—computer/bots/files are safe; set Privacy Mode (not Legacy) at cursor.com/dashboard → Settings → Privacy, fully quit/reopen apps, wait ~1 minute; don’t keep hitting Reset/Retry/Recover.
+- [Local Shell Auto-review: “executable content could not be bound” — pipe workaround](https://forum.cursor.com/t/grok-bot-auto-review-blocks-local-commands-executable-content-could-not-be-bound-to-this-review/170809) - Staff (deanrie, 2026-09-06): Local-exec Auto-review can reject before any approval card when Grok Bot can’t read a compiled binary (e.g. /usr/bin/python3) or flag-first args like python3 -c / bash -c—“Allow once” won’t help; pipe code in (echo "print('exec-ok')" | python3) or run a home-folder .py with just the interpreter name; avoid absolute program paths, -c, heredoc-on-stdin, and ~/ inside interpreter args until fixed.
+- [computerUse GTK Open Files no-ops — dock overlap; bypass with DOM.setFileInputFiles](https://forum.cursor.com/t/grok-bot-computeruse-gtk-file-chooser-open-no-ops-for-local-video-upload/170816) - Staff (deanrie, 2026-09-06): On the Bot computer, GTK “Open Files” Open/Cancel often sit on the bottom dock so clicks hit the dock and the dialog no-ops (file itself is fine)—ask the Bot to set the page file input via DevTools DOM.setFileInputFiles to a /home/box/... path (no dialog), or drag/maximize the dialog so Open clears the dock; known dialog-geometry issue, tracked.
 
 ## Related Lists
 
@@ -685,10 +704,12 @@
 - [Grok Bot five-platform Chinese entry map](https://github.com/KinGao294/grok-bot-platforms-zh) - Unofficial static Chinese one-pager mapping official iPhone/iPad/Android/macOS/Windows download entries, OS gates, and plan conflicts for Grok Bot.
 - [Grok Bot marketplace Chinese template shelf](https://github.com/KinGao294/grok-bot-templates-zh) - Unofficial static Chinese shelf of the public x.ai Bot Marketplace (69 templates) with refresh.py and install links that always jump to official pages.
 - [Diana day/night Grok Bot theme blueprint](https://github.com/lanmengSakura/diana-grok-bot-theme) - Pre-release visual blueprint (CSS + assets) for a Diana day/night skin on Grok Bot desktop; no public one-click local injector yet.
+- [Grok Bot for Raycast](https://github.com/Jahquan/grok-bot-raycast) - Unofficial macOS Raycast extension for existing Grok Bot teammates: Cursor sign-in, per-bot threads, Markdown/LaTeX, approvals, and routines.
+- [Grok Bot Wall of X](https://github.com/krika2810/grokbot-wall) - Live wall of recent X posts about Grok Bot (distinct from bchewy meetup check-in wall), with fetch scripts and Vercel deploy.
 
 ## Contributing
 
-581 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+601 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
