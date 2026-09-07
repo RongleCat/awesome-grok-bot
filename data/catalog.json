@@ -914,6 +914,16 @@
             "zh": "上手指南：经 sirkirby/unifi-mcp Cloud Relay 把 UniFi Network/Protect 接到 Grok Bot，而不把局域网 UniFi 暴露到公网。",
             "ja": "セットアップガイド。sirkirby/unifi-mcp Cloud Relay 経由で UniFi Network/Protect を Grok Bot に繋ぎ、LAN の UniFi をインターネット公開しない。"
           }
+        },
+        {
+          "title": "Grok Bot complete guide (zh, 2026)",
+          "url": "https://github.com/xianyu110/grokbot",
+          "source": "GB-628",
+          "blurb": {
+            "en": "Chinese illustrated handbook that separates Grok Bot (cloud computer teammate) from grok.com chat and Grok Build, with install-to-routines path.",
+            "zh": "中文图文手册：把 Grok Bot（云电脑同事）与 grok.com 聊天、Grok Build 划清界限，覆盖从安装到例程。",
+            "ja": "中国語の図解ハンドブック。Grok Bot（クラウドPC同僚）を grok.com チャットや Grok Build と区別し、導入からルーチンまで案内。"
+          }
         }
       ]
     },
@@ -1583,6 +1593,16 @@
             "en": "Six-bot Polymarket BTC Up/Down market-making desk profiles and runbook built for the Grok Bot desktop app (dry-run first).",
             "zh": "面向 Grok Bot 桌面端的六 Bot Polymarket BTC Up/Down 做市席位配置与操作手册（先纸面演练）。",
             "ja": "Grok Bot デスクトップ向け 6 Bot の Polymarket BTC Up/Down マーケットメイク席プロファイルと運用手順（まずドライラン）。"
+          }
+        },
+        {
+          "title": "Casa/Kattegat Perps desk (Polymarket)",
+          "url": "https://github.com/ckel0325/casa-perps-desk",
+          "source": "GB-626",
+          "blurb": {
+            "en": "Vikings-themed Grok Bot crew plus a live paper HUD for Polymarket BTC/ETH perps; humans still trigger the row.",
+            "zh": "维京主题的 Grok Bot 机组加 Polymarket BTC/ETH 永续纸面 HUD；下单行仍由人类触发。",
+            "ja": "ヴァイキング風 Grok Bot クルーと Polymarket BTC/ETH パープ用ペーパー HUD。発注行は人間がトリガー。"
           }
         }
       ]
@@ -3194,6 +3214,16 @@
             "zh": "TRL Launchpad 的 Grok Bot 人设 Markdown 名册（Chief of Staff、Scout、Deal Desk、Brief Studio 等），与 CreateAgent 字段 1:1。",
             "ja": "TRL Launchpad 向け Grok Bot ペルソナ Markdown（Chief of Staff / Scout / Deal Desk / Brief Studio など）。CreateAgent フィールドと 1:1。"
           }
+        },
+        {
+          "title": "Linq ↔ Grok Bot text channel (forwarder)",
+          "url": "https://github.com/jeffhuber/linq-grokbot-text-channel",
+          "source": "GB-625",
+          "blurb": {
+            "en": "Vercel forwarder plus desk templates that bridge Linq Shared/Free inbound SMS to a Cursor/Grok Bot webhook with Bearer auth and a poll backup.",
+            "zh": "用 Vercel 转发器与案头模板，把 Linq Shared/Free 入站短信桥接到带 Bearer 的 Cursor/Grok Bot webhook，并附轮询备份。",
+            "ja": "Vercel 転送器とデスク用テンプレで、Linq Shared/Free の着信 SMS を Bearer 付き Cursor/Grok Bot webhook へ橋渡しし、ポーリングバックアップも用意。"
+          }
         }
       ]
     },
@@ -4253,6 +4283,26 @@
             "en": "Unofficial Grok Bot reconstruction labeled against 0.43.0 with readable TS boundaries plus experiments for multi-provider routing and local Docker sandbox.",
             "zh": "非官方 Grok Bot 重建（对照 0.43.0），含可读 TS 边界，以及多供应商路由与本地 Docker 沙箱实验。",
             "ja": "非公式 Grok Bot 再構築（0.43.0 対照）。読みやすい TS 境界に加え、マルチプロバイダルーティングとローカル Docker サンドボックス実験。"
+          }
+        },
+        {
+          "title": "BotFleet (OpenMausBot fork + iOS)",
+          "url": "https://github.com/jaywedgeworth22/BotFleet",
+          "source": "GB-630",
+          "blurb": {
+            "en": "Friendly OpenMausBot fork: pick platforms per bot, bring your own subscriptions, plus iMessage relay and TestFlight iOS companion (add-ons in testing).",
+            "zh": "OpenMausBot 友好分支：按 Bot 选平台、自带订阅，并加 iMessage 中继与 TestFlight iOS 伴侣（附加功能仍在测试）。",
+            "ja": "OpenMausBot の友好フォーク。Bot ごとにプラットフォームを選び、自前サブスクを使い、iMessage 中継と TestFlight iOS コンパニオンを追加（アドオンは試験中）。"
+          }
+        },
+        {
+          "title": "Open Grok Bot (FastAPI + Next.js)",
+          "url": "https://github.com/Anil-matcha/open-grok-bot",
+          "source": "GB-631",
+          "blurb": {
+            "en": "Local-first open Grok Bot–style workspace: personas, SSE chat, governed workspace tools with approvals, Docker/remote runtimes (MUAPI; unaffiliated).",
+            "zh": "本地优先的开源 Grok Bot 风格工作区：人设、SSE 对话、需审批的工作区工具与 Docker/远程运行时（MUAPI；非官方）。",
+            "ja": "ローカル優先のオープンな Grok Bot 風ワークスペース。ペルソナ、SSE チャット、承認付きワークスペースツール、Docker/リモート実行（MUAPI・非公式）。"
           }
         }
       ]
@@ -5364,6 +5414,36 @@
             "zh": "Staff（deanrie，2026-09-06）：Bot 电脑上 GTK「打开文件」的 Open/Cancel 常叠在底部 Dock 上，点击打到 Dock 导致对话框无响应（文件本身没问题）——让 Bot 用 DevTools DOM.setFileInputFiles 直接指向 /home/box/... 路径（绕开对话框），或把对话框拖高/最大化使 Open 离开 Dock；已知几何问题，已在跟踪。",
             "ja": "Staff（deanrie、2026-09-06）：Bot コンピュータ上の GTK「Open Files」の Open/Cancel が下部 Dock に重なり、クリックが Dock に吸われて無反応になる（ファイル自体は問題なし）—DevTools の DOM.setFileInputFiles で /home/box/... を直接セット（ダイアログ回避）、またはダイアログをドラッグ/最大化して Open を Dock 上に出す；既知の幾何問題で追跡中。"
           }
+        },
+        {
+          "title": "Can’t send (computer screen still visible) — server disconnect; prefer wait over Reset",
+          "url": "https://forum.cursor.com/t/grokbot-can-not-send-msgs-agents-virtual-machine-is-still-visible/170843",
+          "source": "GB-632",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-07): When every send fails with “Couldn’t send / Failed to send” on all devices but the Agent Computer screen stays visible, it can be a temporary server-side loss of connection for some Grok Bot computers—not Mac/Android/app 0.44.0; connection usually returns without data loss, so message staff before Reset; Reset rebuilds from the last snapshot and may drop the newest unsynced changes.",
+            "zh": "Staff（deanrie，2026-09-07）：各端都「Couldn’t send / Failed to send」但 Agent Computer 画面仍可见时，可能是部分 Grok Bot 电脑暂时与服务器断连——不是 Mac/Android/0.44.0 客户端问题；多数会自行恢复且不丢数据，Reset 前先在论坛找 Staff；Reset 会从上次快照重建，断连前未同步的最新改动可能丢失。",
+            "ja": "Staff（deanrie、2026-09-07）：全端末で「Couldn’t send / Failed to send」なのに Agent Computer 画面が見える場合、一部 Grok Bot コンピュータの一時的なサーバー側切断であることがある—Mac/Android/0.44.0 が原因ではない；多くはデータ損失なしで復帰するので Reset 前に Staff へ；Reset は最終スナップショットから再構築し、未同期の最新変更は戻らないことがある。"
+          }
+        },
+        {
+          "title": "Gmail MCP: Spam search empty by default — use in:anywhere (+ label:SPAM)",
+          "url": "https://forum.cursor.com/t/grok-bot-gmail-search-threads-returns-empty-for-spam-while-list-labels-shows-threads/170832",
+          "source": "GB-633",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-07): Grok Bot’s Gmail connector search excludes Spam and Trash by default, so search_threads can return empty while list_labels still shows Spam counts—includeTrash only adds Trash, and in:spam / label:SPAM / is:spam do not override; ask the Bot for search_threads with in:anywhere label:SPAM (or in:anywhere is:unread); connector can move/label to Trash/Spam but Google’s server exposes no permanent-delete tool.",
+            "zh": "Staff（deanrie，2026-09-07）：Grok Bot Gmail 连接器搜索默认排除 Spam/Trash，故 list_labels 有 Spam 计数时 search_threads 仍可能为空——includeTrash 只加 Trash，in:spam / label:SPAM / is:spam 无法覆盖；让 Bot 用 search_threads 查询 in:anywhere label:SPAM（或 in:anywhere is:unread）；可移动/改标签到 Trash/Spam，但 Google 端无永久删除工具。",
+            "ja": "Staff（deanrie、2026-09-07）：Grok Bot の Gmail コネクタ検索は既定で Spam/Trash を除外するため、list_labels に Spam 件数があっても search_threads が空になり得る—includeTrash は Trash のみ追加し、in:spam / label:SPAM / is:spam では上書き不可；Bot に search_threads で in:anywhere label:SPAM（または in:anywhere is:unread）を依頼；Trash/Spam への移動・ラベル変更は可だが恒久削除ツールは無い。"
+          }
+        },
+        {
+          "title": "0.44.0 Shell Auto-review pre-check: absolute interpreter path — use relative + cwd",
+          "url": "https://forum.cursor.com/t/grok-bot-0-44-0-on-macos-shell-executable-binding-rejection-persists-approval-card-never-appears/170819",
+          "source": "GB-634",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-07): On 0.44.0 the “executable content could not be bound” rejection is a pre-check before review, so no approval card (and no approval-request retry) appears—trips on absolute interpreter paths (/…/venv/bin/python), python3 -/ -c / -m, and heredocs into the interpreter; desktop updates won’t help (check isn’t in the app); until fixed, set working_directory and run a relative interpreter+script (e.g. venv/bin/python script.py) with no flags between them, or plain python3 script.py for short scripts.",
+            "zh": "Staff（deanrie，2026-09-07）：0.44.0 上「executable content could not be bound」来自审批前的预检，故不会出现审批卡（带审批重试也无效）——会卡住解释器绝对路径（/…/venv/bin/python）、python3 -/ -c / -m，以及 heredoc 喂给解释器；更新桌面端无用（检查不在客户端）；修好前用 working_directory + 相对解释器与脚本（如 venv/bin/python script.py，中间无 flags），短脚本也可用 plain python3 script.py。",
+            "ja": "Staff（deanrie、2026-09-07）：0.44.0 の「executable content could not be bound」はレビュー前の事前チェックで、承認カードも承認付き再試行も出ない—絶対インタプリタ（/…/venv/bin/python）、python3 -/ -c / -m、heredoc 投入で発火；デスクトップ更新では直らない（チェックはアプリ外）；修正まで working_directory を置き相対のインタプリタ+スクリプト（例 venv/bin/python script.py、間にフラグなし）、短いスクリプトは plain python3 script.py でも可。"
+          }
         }
       ]
     },
@@ -6093,6 +6173,26 @@
             "en": "Live wall of recent X posts about Grok Bot (distinct from bchewy meetup check-in wall), with fetch scripts and Vercel deploy.",
             "zh": "Grok Bot 相关 X 帖子实时墙（有别于 bchewy 的 meetup 签到墙），含抓取脚本与 Vercel 部署。",
             "ja": "Grok Bot に関する最近の X 投稿ライブウォール（bchewy の meetup チェックイン壁とは別）。取得スクリプトと Vercel デプロイ付き。"
+          }
+        },
+        {
+          "title": "ide-pair-agent (VS Code → Grok Bot bridge)",
+          "url": "https://github.com/Ashishkosana/ide-pair-agent",
+          "source": "GB-627",
+          "blurb": {
+            "en": "VS Code extension plus local FastAPI bridge that relays editor context to a desktop Grok Bot via mailbox or webhook (M1 scaffold).",
+            "zh": "VS Code 扩展加本地 FastAPI 桥，经 mailbox/webhook 把编辑器上下文转发给桌面 Grok Bot（M1 脚手架）。",
+            "ja": "VS Code 拡張とローカル FastAPI ブリッジで、mailbox/webhook 経由で編集コンテキストをデスクトップ Grok Bot へ中継（M1 足場）。"
+          }
+        },
+        {
+          "title": "mygrokbots (per-bot durable memory logs)",
+          "url": "https://github.com/bubmiller/mygrokbots",
+          "source": "GB-629",
+          "blurb": {
+            "en": "Git-backed daily markdown logs (one folder per Grok Bot) for decisions, shipped work, and standing preferences—no secrets.",
+            "zh": "用 Git 按 Bot 分目录写每日 Markdown，记录决策、交付与偏好，不写密钥。",
+            "ja": "Bot ごとにフォルダを分けた Git 日次 Markdown で、決定・出荷・好みを残し、秘密は書かない。"
           }
         }
       ]

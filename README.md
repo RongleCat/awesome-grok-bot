@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-601-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-611-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -176,6 +176,7 @@
 - [Grok Bot Spec-to-Ship kit](https://github.com/Iron-Mark/grok-bot-spec-to-ship) - Open kit and live-run proof that a Grok Bot group can take a vague objective through research and PRD to a shipped PR without a human router.
 - [Grok Bot Bluebook (管家手册)](https://github.com/Backtthefuture/grokbot-bluebook) - Chinese “chief-of-staff” handbook and case site for running Grok Bot as a full work butler, mirrored from Feishu into a VitePress publish repo.
 - [UniFi + Cursor/Grok Bot MCP setup](https://github.com/joemartinxiii/unifi-cursor-grok-bot) - Setup guide to put UniFi Network/Protect in front of Grok Bot via sirkirby/unifi-mcp Cloud Relay without exposing LAN UniFi to the internet.
+- [Grok Bot complete guide (zh, 2026)](https://github.com/xianyu110/grokbot) - Chinese illustrated handbook that separates Grok Bot (cloud computer teammate) from grok.com chat and Grok Build, with install-to-routines path.
 
 ## Field Cases
 
@@ -245,6 +246,7 @@
 - [Recourse academic case engine (Student Build)](https://github.com/moizk12/RECOURSE-Grokbot) - Grok Bot Student Build Challenge submission: deterministic, source-verified engine that replays university procedures against a student case trace.
 - [GROK BOT ARCHITECTURE (public council)](https://github.com/monokernn/Grok_Bot_Architecture) - Public observable multi-agent Grok Bot org (Helm + five specialists) with a live observer UI for assignments, handoffs, and receipts.
 - [Star Goat Grok Bot Storm (Polymarket desk)](https://github.com/stevengray8-glitch/star-goat-grok-bot-storm) - Six-bot Polymarket BTC Up/Down market-making desk profiles and runbook built for the Grok Bot desktop app (dry-run first).
+- [Casa/Kattegat Perps desk (Polymarket)](https://github.com/ckel0325/casa-perps-desk) - Vikings-themed Grok Bot crew plus a live paper HUD for Polymarket BTC/ETH perps; humans still trigger the row.
 
 ## Skills, Plugins & MCP
 
@@ -408,6 +410,7 @@
 - [Skill Market (Grok plugins marketplace)](https://github.com/myqz-wld/skill-market) - Repository-backed marketplace with a native `.grok-plugin` bootstrap plus shared Skills/CLI for discovering and installing Grok (and Claude/Codex) plugins.
 - [Bot Org OS (Chief + specialists template)](https://github.com/firmasite/bot-org-os) - Paste-to-install Grok Bot org template: Chief plus Analyst/PM/Architect/Developer specialists with shared skills and HANDOFF gates.
 - [TRL Launchpad Grok Bot personas](https://github.com/alytrl/trl-grok-bots) - Markdown persona roster for TRL Launchpad Grok Bots (Chief of Staff, Scout, Deal Desk, Brief Studio, etc.) mapped 1:1 to CreateAgent fields.
+- [Linq ↔ Grok Bot text channel (forwarder)](https://github.com/jeffhuber/linq-grokbot-text-channel) - Vercel forwarder plus desk templates that bridge Linq Shared/Free inbound SMS to a Cursor/Grok Bot webhook with Bearer auth and a poll backup.
 
 ## Reviews & Comparisons
 
@@ -518,6 +521,8 @@
 - [grok-box (Layer 3 sandboxed computer)](https://github.com/hexuria/box) - Rust/Docker implementation of a Grok Bot–style Layer 3 sandboxed agent computer (exec daemon, host gateway, X desktop, Chromium, CUA).
 - [Grok Bot 0.18 source reconstruction](https://github.com/GeniusTDY/grok-bot-0.18) - Unofficial Windows x64 portable source reconstruction of Grok Bot 0.18.0 with offline local-gateway workspace notes (distinct from GeniusTDY/grok-bot-offline).
 - [Grok-bot-factory (0.43-labeled reconstruction)](https://github.com/smartyua/Grok-Bot-reconstruction-) - Unofficial Grok Bot reconstruction labeled against 0.43.0 with readable TS boundaries plus experiments for multi-provider routing and local Docker sandbox.
+- [BotFleet (OpenMausBot fork + iOS)](https://github.com/jaywedgeworth22/BotFleet) - Friendly OpenMausBot fork: pick platforms per bot, bring your own subscriptions, plus iMessage relay and TestFlight iOS companion (add-ons in testing).
+- [Open Grok Bot (FastAPI + Next.js)](https://github.com/Anil-matcha/open-grok-bot) - Local-first open Grok Bot–style workspace: personas, SSE chat, governed workspace tools with approvals, Docker/remote runtimes (MUAPI; unaffiliated).
 
 ## Community & Failure Modes
 
@@ -631,6 +636,9 @@
 - [Bots “not responding” / Reset failed — save Privacy Mode on dashboard](https://forum.cursor.com/t/grok-bots-not-responding/170804) - Staff (deanrie, 2026-09-06): Account-wide unreachable bots with “Couldn’t refresh,” black bubbles, and “Reset failed” can mean no explicit Privacy Mode choice was saved (data notice alone is not enough)—computer/bots/files are safe; set Privacy Mode (not Legacy) at cursor.com/dashboard → Settings → Privacy, fully quit/reopen apps, wait ~1 minute; don’t keep hitting Reset/Retry/Recover.
 - [Local Shell Auto-review: “executable content could not be bound” — pipe workaround](https://forum.cursor.com/t/grok-bot-auto-review-blocks-local-commands-executable-content-could-not-be-bound-to-this-review/170809) - Staff (deanrie, 2026-09-06): Local-exec Auto-review can reject before any approval card when Grok Bot can’t read a compiled binary (e.g. /usr/bin/python3) or flag-first args like python3 -c / bash -c—“Allow once” won’t help; pipe code in (echo "print('exec-ok')" | python3) or run a home-folder .py with just the interpreter name; avoid absolute program paths, -c, heredoc-on-stdin, and ~/ inside interpreter args until fixed.
 - [computerUse GTK Open Files no-ops — dock overlap; bypass with DOM.setFileInputFiles](https://forum.cursor.com/t/grok-bot-computeruse-gtk-file-chooser-open-no-ops-for-local-video-upload/170816) - Staff (deanrie, 2026-09-06): On the Bot computer, GTK “Open Files” Open/Cancel often sit on the bottom dock so clicks hit the dock and the dialog no-ops (file itself is fine)—ask the Bot to set the page file input via DevTools DOM.setFileInputFiles to a /home/box/... path (no dialog), or drag/maximize the dialog so Open clears the dock; known dialog-geometry issue, tracked.
+- [Can’t send (computer screen still visible) — server disconnect; prefer wait over Reset](https://forum.cursor.com/t/grokbot-can-not-send-msgs-agents-virtual-machine-is-still-visible/170843) - Staff (deanrie, 2026-09-07): When every send fails with “Couldn’t send / Failed to send” on all devices but the Agent Computer screen stays visible, it can be a temporary server-side loss of connection for some Grok Bot computers—not Mac/Android/app 0.44.0; connection usually returns without data loss, so message staff before Reset; Reset rebuilds from the last snapshot and may drop the newest unsynced changes.
+- [Gmail MCP: Spam search empty by default — use in:anywhere (+ label:SPAM)](https://forum.cursor.com/t/grok-bot-gmail-search-threads-returns-empty-for-spam-while-list-labels-shows-threads/170832) - Staff (deanrie, 2026-09-07): Grok Bot’s Gmail connector search excludes Spam and Trash by default, so search_threads can return empty while list_labels still shows Spam counts—includeTrash only adds Trash, and in:spam / label:SPAM / is:spam do not override; ask the Bot for search_threads with in:anywhere label:SPAM (or in:anywhere is:unread); connector can move/label to Trash/Spam but Google’s server exposes no permanent-delete tool.
+- [0.44.0 Shell Auto-review pre-check: absolute interpreter path — use relative + cwd](https://forum.cursor.com/t/grok-bot-0-44-0-on-macos-shell-executable-binding-rejection-persists-approval-card-never-appears/170819) - Staff (deanrie, 2026-09-07): On 0.44.0 the “executable content could not be bound” rejection is a pre-check before review, so no approval card (and no approval-request retry) appears—trips on absolute interpreter paths (/…/venv/bin/python), python3 -/ -c / -m, and heredocs into the interpreter; desktop updates won’t help (check isn’t in the app); until fixed, set working_directory and run a relative interpreter+script (e.g. venv/bin/python script.py) with no flags between them, or plain python3 script.py for short scripts.
 
 ## Related Lists
 
@@ -706,10 +714,12 @@
 - [Diana day/night Grok Bot theme blueprint](https://github.com/lanmengSakura/diana-grok-bot-theme) - Pre-release visual blueprint (CSS + assets) for a Diana day/night skin on Grok Bot desktop; no public one-click local injector yet.
 - [Grok Bot for Raycast](https://github.com/Jahquan/grok-bot-raycast) - Unofficial macOS Raycast extension for existing Grok Bot teammates: Cursor sign-in, per-bot threads, Markdown/LaTeX, approvals, and routines.
 - [Grok Bot Wall of X](https://github.com/krika2810/grokbot-wall) - Live wall of recent X posts about Grok Bot (distinct from bchewy meetup check-in wall), with fetch scripts and Vercel deploy.
+- [ide-pair-agent (VS Code → Grok Bot bridge)](https://github.com/Ashishkosana/ide-pair-agent) - VS Code extension plus local FastAPI bridge that relays editor context to a desktop Grok Bot via mailbox or webhook (M1 scaffold).
+- [mygrokbots (per-bot durable memory logs)](https://github.com/bubmiller/mygrokbots) - Git-backed daily markdown logs (one folder per Grok Bot) for decisions, shipped work, and standing preferences—no secrets.
 
 ## Contributing
 
-601 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+611 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

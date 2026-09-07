@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-601-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-611-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -176,6 +176,7 @@
 - [Grok Bot Spec-to-Ship kit](https://github.com/Iron-Mark/grok-bot-spec-to-ship) - オープンキットと live-run 証明。Grok Bot グループが曖昧な目標を調査・PRD 経由でマージ済み PR まで運び、人間ルータ不要。
 - [Grok Bot Bluebook (管家手册)](https://github.com/Backtthefuture/grokbot-bluebook) - Grok Bot を大管家として使う中国語ハンドブック／事例サイト。飛書本文を VitePress 公開リポジトリへミラー。
 - [UniFi + Cursor/Grok Bot MCP setup](https://github.com/joemartinxiii/unifi-cursor-grok-bot) - セットアップガイド。sirkirby/unifi-mcp Cloud Relay 経由で UniFi Network/Protect を Grok Bot に繋ぎ、LAN の UniFi をインターネット公開しない。
+- [Grok Bot complete guide (zh, 2026)](https://github.com/xianyu110/grokbot) - 中国語の図解ハンドブック。Grok Bot（クラウドPC同僚）を grok.com チャットや Grok Build と区別し、導入からルーチンまで案内。
 
 ## 実地事例
 
@@ -245,6 +246,7 @@
 - [Recourse academic case engine (Student Build)](https://github.com/moizk12/RECOURSE-Grokbot) - Grok Bot 学生チャレンジ提出物。大学手続をソース検証付きで学生ケース軌跡に対し再生する決定的エンジン。
 - [GROK BOT ARCHITECTURE (public council)](https://github.com/monokernn/Grok_Bot_Architecture) - 公開観測可能なマルチエージェント Grok Bot 組織（Helm + 5専門家）。割当・引き継ぎ・領収のライブ観察 UI 付き。
 - [Star Goat Grok Bot Storm (Polymarket desk)](https://github.com/stevengray8-glitch/star-goat-grok-bot-storm) - Grok Bot デスクトップ向け 6 Bot の Polymarket BTC Up/Down マーケットメイク席プロファイルと運用手順（まずドライラン）。
+- [Casa/Kattegat Perps desk (Polymarket)](https://github.com/ckel0325/casa-perps-desk) - ヴァイキング風 Grok Bot クルーと Polymarket BTC/ETH パープ用ペーパー HUD。発注行は人間がトリガー。
 
 ## スキル、プラグインと MCP
 
@@ -408,6 +410,7 @@
 - [Skill Market (Grok plugins marketplace)](https://github.com/myqz-wld/skill-market) - リポジトリ型マーケット。ネイティブ `.grok-plugin` ブートストラップと共通 Skills/CLI で Grok（と Claude/Codex）プラグインを発見・導入。
 - [Bot Org OS (Chief + specialists template)](https://github.com/firmasite/bot-org-os) - 貼り付けインストール可能な Grok Bot 組織テンプレ。Chief と Analyst/PM/Architect/Developer、共有 skills と HANDOFF ゲート。
 - [TRL Launchpad Grok Bot personas](https://github.com/alytrl/trl-grok-bots) - TRL Launchpad 向け Grok Bot ペルソナ Markdown（Chief of Staff / Scout / Deal Desk / Brief Studio など）。CreateAgent フィールドと 1:1。
+- [Linq ↔ Grok Bot text channel (forwarder)](https://github.com/jeffhuber/linq-grokbot-text-channel) - Vercel 転送器とデスク用テンプレで、Linq Shared/Free の着信 SMS を Bearer 付き Cursor/Grok Bot webhook へ橋渡しし、ポーリングバックアップも用意。
 
 ## レビューと比較
 
@@ -518,6 +521,8 @@
 - [grok-box (Layer 3 sandboxed computer)](https://github.com/hexuria/box) - Grok Bot 風 Layer 3 サンドボックスエージェント PC の Rust/Docker 実装（exec・host・X デスクトップ・Chromium・CUA）。
 - [Grok Bot 0.18 source reconstruction](https://github.com/GeniusTDY/grok-bot-0.18) - 非公式の Grok Bot 0.18.0 Windows x64 ポータブルソース再構築。オフラインローカルゲートウェイ作業メモ付き（grok-bot-offline とは別リポ）。
 - [Grok-bot-factory (0.43-labeled reconstruction)](https://github.com/smartyua/Grok-Bot-reconstruction-) - 非公式 Grok Bot 再構築（0.43.0 対照）。読みやすい TS 境界に加え、マルチプロバイダルーティングとローカル Docker サンドボックス実験。
+- [BotFleet (OpenMausBot fork + iOS)](https://github.com/jaywedgeworth22/BotFleet) - OpenMausBot の友好フォーク。Bot ごとにプラットフォームを選び、自前サブスクを使い、iMessage 中継と TestFlight iOS コンパニオンを追加（アドオンは試験中）。
+- [Open Grok Bot (FastAPI + Next.js)](https://github.com/Anil-matcha/open-grok-bot) - ローカル優先のオープンな Grok Bot 風ワークスペース。ペルソナ、SSE チャット、承認付きワークスペースツール、Docker/リモート実行（MUAPI・非公式）。
 
 ## コミュニティと障害事例
 
@@ -631,6 +636,9 @@
 - [Bots “not responding” / Reset failed — save Privacy Mode on dashboard](https://forum.cursor.com/t/grok-bots-not-responding/170804) - Staff（deanrie、2026-09-06）：アカウント全体で到達不可・「Couldn’t refresh」・黒バブル・Reset 失敗は、Privacy Mode の明示選択が未保存（データ通知だけでは不足）のことがある—Computer/Bot/ファイルは無事；cursor.com/dashboard → Settings → Privacy で Privacy Mode（Legacy 以外）を保存し、アプリを完全終了→再起動、約1分待つ；Reset/Retry/Recover の連打はしない。
 - [Local Shell Auto-review: “executable content could not be bound” — pipe workaround](https://forum.cursor.com/t/grok-bot-auto-review-blocks-local-commands-executable-content-could-not-be-bound-to-this-review/170809) - Staff（deanrie、2026-09-06）：ローカル実行の Auto-review は、コンパイル済みバイナリ（例 /usr/bin/python3）や python3 -c / bash -c のような先頭フラグを読めないと承認カード前に拒否する—「Allow once」は無効；パイプ（echo "print('exec-ok')" | python3）かホームの .py をインタプリタ名だけで実行；絶対パス・-c・heredoc・引数内の ~/ は避ける。
 - [computerUse GTK Open Files no-ops — dock overlap; bypass with DOM.setFileInputFiles](https://forum.cursor.com/t/grok-bot-computeruse-gtk-file-chooser-open-no-ops-for-local-video-upload/170816) - Staff（deanrie、2026-09-06）：Bot コンピュータ上の GTK「Open Files」の Open/Cancel が下部 Dock に重なり、クリックが Dock に吸われて無反応になる（ファイル自体は問題なし）—DevTools の DOM.setFileInputFiles で /home/box/... を直接セット（ダイアログ回避）、またはダイアログをドラッグ/最大化して Open を Dock 上に出す；既知の幾何問題で追跡中。
+- [Can’t send (computer screen still visible) — server disconnect; prefer wait over Reset](https://forum.cursor.com/t/grokbot-can-not-send-msgs-agents-virtual-machine-is-still-visible/170843) - Staff（deanrie、2026-09-07）：全端末で「Couldn’t send / Failed to send」なのに Agent Computer 画面が見える場合、一部 Grok Bot コンピュータの一時的なサーバー側切断であることがある—Mac/Android/0.44.0 が原因ではない；多くはデータ損失なしで復帰するので Reset 前に Staff へ；Reset は最終スナップショットから再構築し、未同期の最新変更は戻らないことがある。
+- [Gmail MCP: Spam search empty by default — use in:anywhere (+ label:SPAM)](https://forum.cursor.com/t/grok-bot-gmail-search-threads-returns-empty-for-spam-while-list-labels-shows-threads/170832) - Staff（deanrie、2026-09-07）：Grok Bot の Gmail コネクタ検索は既定で Spam/Trash を除外するため、list_labels に Spam 件数があっても search_threads が空になり得る—includeTrash は Trash のみ追加し、in:spam / label:SPAM / is:spam では上書き不可；Bot に search_threads で in:anywhere label:SPAM（または in:anywhere is:unread）を依頼；Trash/Spam への移動・ラベル変更は可だが恒久削除ツールは無い。
+- [0.44.0 Shell Auto-review pre-check: absolute interpreter path — use relative + cwd](https://forum.cursor.com/t/grok-bot-0-44-0-on-macos-shell-executable-binding-rejection-persists-approval-card-never-appears/170819) - Staff（deanrie、2026-09-07）：0.44.0 の「executable content could not be bound」はレビュー前の事前チェックで、承認カードも承認付き再試行も出ない—絶対インタプリタ（/…/venv/bin/python）、python3 -/ -c / -m、heredoc 投入で発火；デスクトップ更新では直らない（チェックはアプリ外）；修正まで working_directory を置き相対のインタプリタ+スクリプト（例 venv/bin/python script.py、間にフラグなし）、短いスクリプトは plain python3 script.py でも可。
 
 ## 関連リスト
 
@@ -706,10 +714,12 @@
 - [Diana day/night Grok Bot theme blueprint](https://github.com/lanmengSakura/diana-grok-bot-theme) - プレリリースの視覚設計図（CSS + 素材）。Grok Bot デスクトップ向け Diana 昼夜スキン。一発ローカル注入器は未公開。
 - [Grok Bot for Raycast](https://github.com/Jahquan/grok-bot-raycast) - 非公式 macOS Raycast 拡張。既存 Grok Bot に Cursor ログインし、Bot 別スレッド・Markdown/LaTeX・承認・ルーチンを表示。
 - [Grok Bot Wall of X](https://github.com/krika2810/grokbot-wall) - Grok Bot に関する最近の X 投稿ライブウォール（bchewy の meetup チェックイン壁とは別）。取得スクリプトと Vercel デプロイ付き。
+- [ide-pair-agent (VS Code → Grok Bot bridge)](https://github.com/Ashishkosana/ide-pair-agent) - VS Code 拡張とローカル FastAPI ブリッジで、mailbox/webhook 経由で編集コンテキストをデスクトップ Grok Bot へ中継（M1 足場）。
+- [mygrokbots (per-bot durable memory logs)](https://github.com/bubmiller/mygrokbots) - Bot ごとにフォルダを分けた Git 日次 Markdown で、決定・出荷・好みを残し、秘密は書かない。
 
 ## 貢献
 
-8 セクションに 601 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 611 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
