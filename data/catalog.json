@@ -924,6 +924,16 @@
             "zh": "中文图文手册：把 Grok Bot（云电脑同事）与 grok.com 聊天、Grok Build 划清界限，覆盖从安装到例程。",
             "ja": "中国語の図解ハンドブック。Grok Bot（クラウドPC同僚）を grok.com チャットや Grok Build と区別し、導入からルーチンまで案内。"
           }
+        },
+        {
+          "title": "SpaceXAI / Cursor / Grok Bot workshop (ES)",
+          "url": "https://github.com/shiarauzo/grok-bot-cursor-workshop",
+          "source": "GB-641",
+          "blurb": {
+            "en": "Spanish Next.js slide deck for a 2026-09-12 SpaceXAI workshop: corporate timeline, Grok vs Grok Bot, and a hands-on digital-teammate design exercise.",
+            "zh": "西班牙语 Next.js 幻灯：2026-09-12 SpaceXAI 工作坊，讲公司时间线、Grok 与 Grok Bot 区别，并以设计数字队友收尾练习。",
+            "ja": "スペイン語 Next.js スライド。2026-09-12 SpaceXAI ワークショップ向け。沿革、Grok と Grok Bot の違い、デジタル仲間設計の演習。"
+          }
         }
       ]
     },
@@ -1603,6 +1613,26 @@
             "en": "Vikings-themed Grok Bot crew plus a live paper HUD for Polymarket BTC/ETH perps; humans still trigger the row.",
             "zh": "维京主题的 Grok Bot 机组加 Polymarket BTC/ETH 永续纸面 HUD；下单行仍由人类触发。",
             "ja": "ヴァイキング風 Grok Bot クルーと Polymarket BTC/ETH パープ用ペーパー HUD。発注行は人間がトリガー。"
+          }
+        },
+        {
+          "title": "WayMarker student tutor (Grok Bot + RAG)",
+          "url": "https://github.com/DanielZ0217/WayMarker",
+          "source": "GB-639",
+          "blurb": {
+            "en": "Cursor Student Build case: Grok Bot owns explanation/grading while a FastAPI/LangGraph TAagent backend (Milvus/Neo4j/Redis/Postgres + MCP) remembers the learner over time.",
+            "zh": "Cursor 学生构建案例：Grok Bot 负责讲解与开放题评分，FastAPI/LangGraph TAagent 后端（Milvus/Neo4j/Redis/Postgres + MCP）长期记住学习者。",
+            "ja": "Cursor 学生ビルド事例。Grok Bot が説明・採点を担当し、FastAPI/LangGraph TAagent（Milvus/Neo4j/Redis/Postgres + MCP）が学習者を継続記憶。"
+          }
+        },
+        {
+          "title": "CuteZineMaker (Hawaii Tech Week × Grok Bot)",
+          "url": "https://github.com/TheGiraffe/CuteCursorProjects",
+          "source": "GB-640",
+          "blurb": {
+            "en": "Flutter CuteZineMaker built with Cursor and a Grok Bot (“Very Cute Bot”) at Hawaii Tech Week—export booklet or classic 8-page zine layouts with screenshots.",
+            "zh": "在 Hawaii Tech Week 用 Cursor + Grok Bot（Very Cute Bot）做出的 Flutter CuteZineMaker：可导出册页或经典 8 页 zine 排版，含截图。",
+            "ja": "Hawaii Tech Week で Cursor と Grok Bot（Very Cute Bot）が作った Flutter CuteZineMaker。冊子/8 ページ zine 出力とスクショ付き。"
           }
         }
       ]
@@ -3224,6 +3254,36 @@
             "zh": "用 Vercel 转发器与案头模板，把 Linq Shared/Free 入站短信桥接到带 Bearer 的 Cursor/Grok Bot webhook，并附轮询备份。",
             "ja": "Vercel 転送器とデスク用テンプレで、Linq Shared/Free の着信 SMS を Bearer 付き Cursor/Grok Bot webhook へ橋渡しし、ポーリングバックアップも用意。"
           }
+        },
+        {
+          "title": "Property Scanner (ZillAPI + Grok Bot)",
+          "url": "https://github.com/ZeroPointRepo/property-scanner",
+          "source": "GB-635",
+          "blurb": {
+            "en": "Reusable property-scanner skill plus ZillAPI MCP: OAuth onboard, preference memory, ranked photo shortlists, and a public Grok Bot template for US home deal scans.",
+            "zh": "可复用 property-scanner 技能 + ZillAPI MCP：OAuth 接入、记住偏好、照片短名单排序，并附公开 Grok Bot 模板做美国房源扫描。",
+            "ja": "再利用可能な property-scanner スキルと ZillAPI MCP。OAuth 導入・好み記憶・写真ショートリスト、公開 Grok Bot テンプレ付き。"
+          }
+        },
+        {
+          "title": "gws-native-slides (Grok Bot Google Slides)",
+          "url": "https://github.com/Joezanini/grok_bot_skills",
+          "source": "GB-636",
+          "blurb": {
+            "en": "Grok Bot skill pack: create and update native Google Slides via Lursa MCP and the gws CLI (default to Slides, not .pptx), with access checks and error replies.",
+            "zh": "Grok Bot 技能包：经 Lursa MCP + gws CLI 创建/更新原生 Google 幻灯片（默认 Slides 而非 pptx），含准入检查与失败回复。",
+            "ja": "Grok Bot スキルパック。Lursa MCP と gws CLI でネイティブ Google スライドを作成・更新（既定は Slides、pptx ではない）。"
+          }
+        },
+        {
+          "title": "Shipyard Cursor/Grok Bot plugin stack",
+          "url": "https://github.com/glasner/shipyard",
+          "source": "GB-637",
+          "blurb": {
+            "en": "Public Cursor/Grok Bot plugin monorepo: Tailscale onboarding/webhooks, Linear Agent, optional Herdr, and a composed shipyard triage skill for domain agents.",
+            "zh": "公开的 Cursor/Grok Bot 插件单体仓：Tailscale 入网/Webhook、Linear Agent、可选 Herdr，以及组合 triage 的 shipyard 技能供领域智能体使用。",
+            "ja": "公開 Cursor/Grok Bot プラグイン monorepo。Tailscale 導入/Webhook、Linear Agent、任意 Herdr、ドメインエージェント向け shipyard triage スキル。"
+          }
         }
       ]
     },
@@ -4303,6 +4363,16 @@
             "en": "Local-first open Grok Bot–style workspace: personas, SSE chat, governed workspace tools with approvals, Docker/remote runtimes (MUAPI; unaffiliated).",
             "zh": "本地优先的开源 Grok Bot 风格工作区：人设、SSE 对话、需审批的工作区工具与 Docker/远程运行时（MUAPI；非官方）。",
             "ja": "ローカル優先のオープンな Grok Bot 風ワークスペース。ペルソナ、SSE チャット、承認付きワークスペースツール、Docker/リモート実行（MUAPI・非公式）。"
+          }
+        },
+        {
+          "title": "Praxis multi-agent protocol (Grok Bot channel)",
+          "url": "https://github.com/MetaphyKing/praxis",
+          "source": "GB-642",
+          "blurb": {
+            "en": "Disciplined multi-agent protocol + Python/CLI checks and installable Director/Storm skills; documents Grok Build local channel and optional Grok Bot cloud workers (successor to retired GBSP).",
+            "zh": "克制的多智能体协议 + Python/CLI 校验与可安装 Director/Storm 技能；文档覆盖 Grok Build 本地通道与可选 Grok Bot 云端工人（接替已退役 GBSP）。",
+            "ja": "規律あるマルチエージェント協議 + Python/CLI 検証と Director/Storm スキル。Grok Build ローカルと任意の Grok Bot クラウドワーカーを文書化（退役 GBSP の後継）。"
           }
         }
       ]
@@ -5444,6 +5514,36 @@
             "zh": "Staff（deanrie，2026-09-07）：0.44.0 上「executable content could not be bound」来自审批前的预检，故不会出现审批卡（带审批重试也无效）——会卡住解释器绝对路径（/…/venv/bin/python）、python3 -/ -c / -m，以及 heredoc 喂给解释器；更新桌面端无用（检查不在客户端）；修好前用 working_directory + 相对解释器与脚本（如 venv/bin/python script.py，中间无 flags），短脚本也可用 plain python3 script.py。",
             "ja": "Staff（deanrie、2026-09-07）：0.44.0 の「executable content could not be bound」はレビュー前の事前チェックで、承認カードも承認付き再試行も出ない—絶対インタプリタ（/…/venv/bin/python）、python3 -/ -c / -m、heredoc 投入で発火；デスクトップ更新では直らない（チェックはアプリ外）；修正まで working_directory を置き相対のインタプリタ+スクリプト（例 venv/bin/python script.py、間にフラグなし）、短いスクリプトは plain python3 script.py でも可。"
           }
+        },
+        {
+          "title": "CallDynamicTool Missing namespace/toolName — put keys top-level (or Duplicate)",
+          "url": "https://forum.cursor.com/t/grok-bot-calldynamictool-fails-missing-namespace-toolname-sendtoagent-task-broken/170869",
+          "source": "GB-643",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-07): When CallDynamicTool fails with “Missing required fields: namespace, toolName” while Shell/files still work, the bot nested namespace/toolName inside arguments—and bad shapes in chat history keep repeating. Reset Computer won’t help (history isn’t on the computer). Tell the bot: namespace and toolName must be top-level keys alongside arguments, never inside arguments, then have it SendToAgent a one-line hello; if that still fails, Duplicate the bot for a clean chat. Confirmed: Step 1 fixed SendToAgent/Task.",
+            "zh": "Staff（deanrie，2026-09-07）：CallDynamicTool 报 “Missing required fields: namespace, toolName” 但 Shell/文件仍可用时，往往是 Bot 把 namespace/toolName 塞进了 arguments，且错误调用形状会在会话历史里被反复复用。Reset Computer 无效（历史不在电脑上）。在聊天里明确要求：namespace 与 toolName 必须与 arguments 同级顶层，绝不能放进 arguments，并让它立刻用该形状 SendToAgent 发一句 hello；仍失败再 Duplicate 该 Bot 开干净会话。确认：Step 1 即可修复 SendToAgent/Task。",
+            "ja": "Staff（deanrie、2026-09-07）：CallDynamicTool が “Missing required fields: namespace, toolName” で落ち、Shell/ファイルは動く場合、Bot が namespace/toolName を arguments 内に入れており、誤った形が会話履歴で繰り返される。Reset Computer は無効（履歴は Computer 上にない）。チャットで「namespace と toolName は arguments と並ぶトップレベル必須、arguments 内に入れない」と指示し、その形で SendToAgent の一行 hello を試す；だめなら Duplicate でクリーンチャット。確認：Step 1 で SendToAgent/Task 復旧。"
+          }
+        },
+        {
+          "title": "Export/backup Bot memory — ask bots to zip durable state (no one-click yet)",
+          "url": "https://forum.cursor.com/t/best-way-to-export-memory/170714",
+          "source": "GB-644",
+          "blurb": {
+            "en": "Staff (mohitjain, 2026-09-07): No one-click export yet—memory lives as plain text on the Bot computer. Per bot, ask it to make backup/<name>, copy full memory (profile + every memory-log month) to memory.md, list routines and connectors, zip and attach; ask Chief of Staff for shared-memory.md + skills-library zip; for other folders, zip/split (attachments cap 25 MB). Connector logins can’t be exported (list only). Optional: also write a SKILL.md per memory topic into the zip.",
+            "zh": "Staff（mohitjain，2026-09-07）：尚无一键导出——记忆以纯文本存在 Bot 电脑上。对每个 Bot：让它建 backup/<名字>，把完整 memory（profile + 各月 memory-log）写入 memory.md，列出 routines/connectors，打包附件发回；让首席助手导出 shared-memory.md + skills 库 zip；其他文件夹可打包/分卷（附件上限 25 MB）。连接器登录态无法导出（仅名单）。可选：按记忆主题再写 SKILL.md 一并打进 zip。",
+            "ja": "Staff（mohitjain、2026-09-07）：一括エクスポートは未提供—メモリは Bot コンピュータ上のプレーンテキスト。各 Bot に backup/<name> を作り、完全な memory（profile + 各月 memory-log）を memory.md に、routines/connectors を列挙して zip 添付；Chief of Staff に shared-memory.md と skills ライブラリ zip を依頼；他フォルダは zip/分割（添付上限 25MB）。コネクタログインはエクスポート不可（一覧のみ）。任意でトピックごとの SKILL.md も zip に含める。"
+          }
+        },
+        {
+          "title": "iOS Inkbox “Unsupported redirect_uri” — auth on desktop (account-default shared)",
+          "url": "https://forum.cursor.com/t/grok-bot-inkbox-connect-card-fails-with-unsupported-redirect-uri/170725",
+          "source": "GB-645",
+          "blurb": {
+            "en": "Staff (mohitjain, 2026-09-07): For account-default shared connectors like Inkbox, the identity you authorize on desktop carries to phone—you usually don’t need the iOS Connect card. If iOS still shows “Unsupported redirect_uri” but tools work after desktop auth, skip Connect on mobile and just ask the bot to use the tool (or reopen the app). Mobile connect-flow redirect_uri bugs remain tracked separately.",
+            "zh": "Staff（mohitjain，2026-09-07）：对账号默认（account default）共享连接器（如 Inkbox），桌面完成的身份授权会带到手机——通常不必点 iOS Connect。若 iOS 仍显示 “Unsupported redirect_uri” 但桌面授权后工具可用，跳过手机 Connect，直接让 Bot 调该工具（或重开 App）。手机端 Connect 的 redirect_uri 问题仍在单独跟踪。",
+            "ja": "Staff（mohitjain、2026-09-07）：Inkbox のようなアカウント既定（account default）の共有コネクタは、デスクトップで認可した identity がスマホに引き継がれる—iOS の Connect カードは通常不要。iOS が Unsupported redirect_uri でもデスクトップ認可後にツールが動くなら、モバイル Connect をスキップし Bot にツール使用を依頼（またはアプリ再起動）。モバイル Connect の redirect_uri 不具合は別途追跡中。"
+          }
         }
       ]
     },
@@ -6193,6 +6293,16 @@
             "en": "Git-backed daily markdown logs (one folder per Grok Bot) for decisions, shipped work, and standing preferences—no secrets.",
             "zh": "用 Git 按 Bot 分目录写每日 Markdown，记录决策、交付与偏好，不写密钥。",
             "ja": "Bot ごとにフォルダを分けた Git 日次 Markdown で、決定・出荷・好みを残し、秘密は書かない。"
+          }
+        },
+        {
+          "title": "oficina (Grok Bot factory → shadcn registry)",
+          "url": "https://github.com/franklinjavier/oficina",
+          "source": "GB-638",
+          "blurb": {
+            "en": "Local exporter that turns a Grok Bot agent folder into a shadcn registry:block friends can install with the official CLI—no central catalog or pastecn upload.",
+            "zh": "本机导出器：把 Grok Bot 智能体目录写成 shadcn registry:block，好友用官方 CLI 安装——无中心货架、无 pastecn 上传。",
+            "ja": "ローカル輸出ツール。Grok Bot エージェントフォルダを shadcn registry:block にし、公式 CLI で友人が導入（中央カタログなし）。"
           }
         }
       ]
@@ -10253,6 +10363,68 @@
         "en": "First Grok Bot × SpaceXAI meetup in Kuwait: discover Grok Bot, try it hands-on, meet local builders. 1-month Grok Bot credit for participants; snacks/drinks; bring iPhone/Android/Windows/Mac (no Cursor install needed). Host Asama Akhtar; free; host approval; ~24 seats left. Follow-up Build with Grok Bot workshop planned.",
         "zh": "科威特首场 Grok Bot × SpaceXAI：了解并动手试 Grok Bot，认识本地 builder。参与者可领 1 个月 Grok Bot 额度；有零食饮料；带 iPhone/Android/Windows/Mac 即可（无需装 Cursor）。主办 Asama Akhtar；免费，需审核，约剩 24 席。后续还有 Build with Grok Bot 工作坊。",
         "ja": "クウェート初の Grok Bot × SpaceXAI ミートアップ。紹介とハンズオン、地元ビルダー交流。参加者に Grok Bot 1ヶ月クレジット、軽食あり。iPhone/Android/Windows/Mac 持参（Cursor 不要）。主催 Asama Akhtar。無料・承認制・残席約24。次回は Build with Grok Bot ワークショップ予定。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "cas-20260919",
+      "url": "https://luma.com/spacexai-okg3",
+      "image": "./assets/events/cas-20260919-cover.png",
+      "expires": "2026-09-19T16:00:00+01:00",
+      "title": {
+        "en": "Grok Bot Morocco Cowork",
+        "zh": "Grok Bot 摩洛哥 Cowork",
+        "ja": "Grok Bot Morocco Cowork"
+      },
+      "when": {
+        "en": "Sat 19 Sep 2026, 10:00–16:00 (Africa/Casablanca, GMT+1)",
+        "zh": "2026-09-19 周六 10:00–16:00（卡萨布兰卡 GMT+1）",
+        "ja": "2026-09-19（土）10:00–16:00（Africa/Casablanca、GMT+1）"
+      },
+      "where": {
+        "en": "Casablanca, Morocco (address revealed after registration; with ALTS Morocco)",
+        "zh": "摩洛哥卡萨布兰卡（报名后可见具体地址；与 ALTS Morocco 合办）",
+        "ja": "カサブランカ、モロッコ（登録後に住所公開・ALTS Morocco 共催）"
+      },
+      "body": {
+        "en": "Saturday Grok Bot cowork / buildathon in Casablanca with ALTS Morocco: short workshop by Oumayma Essarhi then deep work and demos. Grok Bot product framing (AI teammates that sign into your tools); credits to try during the event. Hosts OUMAYMA ESSARHI & El Bachir Outidrarine; free; host approval; ~100 seats; SpaceXAI for Morocco calendar.",
+        "zh": "卡萨布兰卡周六 Grok Bot cowork / buildathon（与 ALTS Morocco 合办）：Oumayma Essarhi 短 workshop 后深度动手与 demo。明确 Grok Bot 产品（能登录你工具的 AI 队友）；活动现场可领试用额度。主办 OUMAYMA ESSARHI、El Bachir Outidrarine；免费，需审核，约 100 席；SpaceXAI for Morocco 日历。",
+        "ja": "カサブランカの土曜 Grok Bot コワーク／ビルダソン（ALTS Morocco 共催）。Oumayma Essarhi の短いワークショップの後、深掘り作業とデモ。Grok Bot 製品説明（ツールにログインできる AI チームメイト）。イベント中クレジットあり。主催 OUMAYMA ESSARHI & El Bachir Outidrarine。無料・承認制・約100席。SpaceXAI for Morocco カレンダー。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "wuh-20261017",
+      "url": "https://luma.com/kss59f4e",
+      "image": "./assets/events/wuh-20261017-cover.png",
+      "expires": "2026-10-17T17:30:00+08:00",
+      "title": {
+        "en": "Grok Bot Meetup Wuhan",
+        "zh": "Grok Bot 武汉线下交流",
+        "ja": "Grok Bot Meetup Wuhan"
+      },
+      "when": {
+        "en": "Sat 17 Oct 2026, 14:00–17:30 (Asia/Shanghai, GMT+8)",
+        "zh": "2026-10-17 周六 14:00–17:30（北京时间）",
+        "ja": "2026-10-17（土）14:00–17:30（Asia/Shanghai）"
+      },
+      "where": {
+        "en": "Wuhan, Hubei (venue TBD — updated on Luma after confirm)",
+        "zh": "武汉（场地待确认，确认后更新 Luma 页）",
+        "ja": "武漢（会場未定・確定後に Luma で更新）"
+      },
+      "body": {
+        "en": "Wuhan Grok Bot meetup: icebreaker + share/workshop. SpaceXAI product framing (AI teammates that sign into your tools and bring finished work back). Pre-registration with host approval; WeChat group after approve; speakers/volunteers welcome. Hosts Hanbing Zhang, chenchong, yuepu; free; ~150 seats. Distinct from same-day sha-20261017 Shanghai.",
+        "zh": "武汉 Grok Bot 线下：交流破冰 + 分享/Workshop。SpaceXAI 产品叙事（能登录你的工具、把做完的活带回来的 AI 队友）。预报名需审核，通过后拉微信群；欢迎分享/志愿者。主办 Hanbing Zhang、chenchong、yuepu；免费，约 150 席。与同日 sha-20261017 上海场不同。",
+        "ja": "武漢の Grok Bot ミートアップ。アイスブレイク＋シェア／ワークショップ。SpaceXAI 製品説明（ツールにログインし成果を持ち帰る AI チームメイト）。事前登録・承認制、承認後に WeChat グループ。登壇／ボランティア歓迎。主催 Hanbing Zhang、chenchong、yuepu。無料・約150席。同日の sha-20261017 上海とは別開催。"
       },
       "cta": {
         "en": "Apply on Luma (host approval)",

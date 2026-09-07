@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-611-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-622-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,7 +37,7 @@
 
 [全部活动介绍](./EVENTS.zh.md)
 
-- **中国**（4）：[上海](./EVENTS.zh.md#sha-20261017) · [杭州](./EVENTS.zh.md#hzo-20260919) · [北京](./EVENTS.zh.md#bj-20260919) · [广州](./EVENTS.zh.md#can-20260913)
+- **中国**（5）：[上海](./EVENTS.zh.md#sha-20261017) · [杭州](./EVENTS.zh.md#hzo-20260919) · [北京](./EVENTS.zh.md#bj-20260919) · [广州](./EVENTS.zh.md#can-20260913) · [武汉](./EVENTS.zh.md#wuh-20261017)
 - **美国**（14）：[奥斯汀](./EVENTS.zh.md#aus-20260910) · [拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [旧金山（产品经理）](./EVENTS.zh.md#sfpm-20260915) · [旧金山（创始人）](./EVENTS.zh.md#sffo-20260915) · [旧金山（销售）](./EVENTS.zh.md#sfsales-20260916) · [匹兹堡](./EVENTS.zh.md#pgh-20261013) · [达拉斯](./EVENTS.zh.md#dal-20260919)
 - **阿根廷**（4）：[巴里洛切](./EVENTS.zh.md#brc-20260910) · [布宜诺斯艾利斯](./EVENTS.zh.md#bue-20260916) · [门多萨](./EVENTS.zh.md#mdz-20261003) · [萨尔塔](./EVENTS.zh.md#sla-20260916)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [萨德伯里](./EVENTS.zh.md#sud-20260917) · [多伦多](./EVENTS.zh.md#yyz-20260917)
@@ -61,6 +61,7 @@
 - **肯尼亚**（1）：[内罗毕](./EVENTS.zh.md#nbo-20260917)
 - **柬埔寨**（1）：[金边](./EVENTS.zh.md#pnh-20261003)
 - **科威特**（1）：[科威特](./EVENTS.zh.md#kwi-20260922)
+- **摩洛哥**（1）：[卡萨布兰卡](./EVENTS.zh.md#cas-20260919)
 - **缅甸**（1）：[仰光](./EVENTS.zh.md#ygn-20260926)
 - **马耳他**（1）：[马耳他 Ta' Xbiex](./EVENTS.zh.md#mlt-20260917)
 - **马来西亚**（1）：[吉隆坡](./EVENTS.zh.md#kul-20260919)
@@ -177,6 +178,7 @@
 - [Grok Bot Bluebook (管家手册)](https://github.com/Backtthefuture/grokbot-bluebook) - 把 Grok Bot 当「大管家」的中文上手指南与案例站：飞书正文镜像到 VitePress 发布仓，含开篇与十二案例。.
 - [UniFi + Cursor/Grok Bot MCP setup](https://github.com/joemartinxiii/unifi-cursor-grok-bot) - 上手指南：经 sirkirby/unifi-mcp Cloud Relay 把 UniFi Network/Protect 接到 Grok Bot，而不把局域网 UniFi 暴露到公网。.
 - [Grok Bot complete guide (zh, 2026)](https://github.com/xianyu110/grokbot) - 中文图文手册：把 Grok Bot（云电脑同事）与 grok.com 聊天、Grok Build 划清界限，覆盖从安装到例程。.
+- [SpaceXAI / Cursor / Grok Bot workshop (ES)](https://github.com/shiarauzo/grok-bot-cursor-workshop) - 西班牙语 Next.js 幻灯：2026-09-12 SpaceXAI 工作坊，讲公司时间线、Grok 与 Grok Bot 区别，并以设计数字队友收尾练习。.
 
 ## 真实使用案例
 
@@ -247,6 +249,8 @@
 - [GROK BOT ARCHITECTURE (public council)](https://github.com/monokernn/Grok_Bot_Architecture) - 可公开观察的多 Agent Grok Bot 组织（Helm + 五位专家），带任务/交接/回执的实时旁观 UI。.
 - [Star Goat Grok Bot Storm (Polymarket desk)](https://github.com/stevengray8-glitch/star-goat-grok-bot-storm) - 面向 Grok Bot 桌面端的六 Bot Polymarket BTC Up/Down 做市席位配置与操作手册（先纸面演练）。.
 - [Casa/Kattegat Perps desk (Polymarket)](https://github.com/ckel0325/casa-perps-desk) - 维京主题的 Grok Bot 机组加 Polymarket BTC/ETH 永续纸面 HUD；下单行仍由人类触发。.
+- [WayMarker student tutor (Grok Bot + RAG)](https://github.com/DanielZ0217/WayMarker) - Cursor 学生构建案例：Grok Bot 负责讲解与开放题评分，FastAPI/LangGraph TAagent 后端（Milvus/Neo4j/Redis/Postgres + MCP）长期记住学习者。.
+- [CuteZineMaker (Hawaii Tech Week × Grok Bot)](https://github.com/TheGiraffe/CuteCursorProjects) - 在 Hawaii Tech Week 用 Cursor + Grok Bot（Very Cute Bot）做出的 Flutter CuteZineMaker：可导出册页或经典 8 页 zine 排版，含截图。.
 
 ## 技能、插件与 MCP
 
@@ -411,6 +415,9 @@
 - [Bot Org OS (Chief + specialists template)](https://github.com/firmasite/bot-org-os) - 可粘贴安装的 Grok Bot 组织模板：Chief + Analyst/PM/Architect/Developer，含共享 skills 与 HANDOFF 门禁。.
 - [TRL Launchpad Grok Bot personas](https://github.com/alytrl/trl-grok-bots) - TRL Launchpad 的 Grok Bot 人设 Markdown 名册（Chief of Staff、Scout、Deal Desk、Brief Studio 等），与 CreateAgent 字段 1:1。.
 - [Linq ↔ Grok Bot text channel (forwarder)](https://github.com/jeffhuber/linq-grokbot-text-channel) - 用 Vercel 转发器与案头模板，把 Linq Shared/Free 入站短信桥接到带 Bearer 的 Cursor/Grok Bot webhook，并附轮询备份。.
+- [Property Scanner (ZillAPI + Grok Bot)](https://github.com/ZeroPointRepo/property-scanner) - 可复用 property-scanner 技能 + ZillAPI MCP：OAuth 接入、记住偏好、照片短名单排序，并附公开 Grok Bot 模板做美国房源扫描。.
+- [gws-native-slides (Grok Bot Google Slides)](https://github.com/Joezanini/grok_bot_skills) - Grok Bot 技能包：经 Lursa MCP + gws CLI 创建/更新原生 Google 幻灯片（默认 Slides 而非 pptx），含准入检查与失败回复。.
+- [Shipyard Cursor/Grok Bot plugin stack](https://github.com/glasner/shipyard) - 公开的 Cursor/Grok Bot 插件单体仓：Tailscale 入网/Webhook、Linear Agent、可选 Herdr，以及组合 triage 的 shipyard 技能供领域智能体使用。.
 
 ## 评测与对比
 
@@ -523,6 +530,7 @@
 - [Grok-bot-factory (0.43-labeled reconstruction)](https://github.com/smartyua/Grok-Bot-reconstruction-) - 非官方 Grok Bot 重建（对照 0.43.0），含可读 TS 边界，以及多供应商路由与本地 Docker 沙箱实验。.
 - [BotFleet (OpenMausBot fork + iOS)](https://github.com/jaywedgeworth22/BotFleet) - OpenMausBot 友好分支：按 Bot 选平台、自带订阅，并加 iMessage 中继与 TestFlight iOS 伴侣（附加功能仍在测试）。.
 - [Open Grok Bot (FastAPI + Next.js)](https://github.com/Anil-matcha/open-grok-bot) - 本地优先的开源 Grok Bot 风格工作区：人设、SSE 对话、需审批的工作区工具与 Docker/远程运行时（MUAPI；非官方）。.
+- [Praxis multi-agent protocol (Grok Bot channel)](https://github.com/MetaphyKing/praxis) - 克制的多智能体协议 + Python/CLI 校验与可安装 Director/Storm 技能；文档覆盖 Grok Build 本地通道与可选 Grok Bot 云端工人（接替已退役 GBSP）。.
 
 ## 社区与故障现场
 
@@ -639,6 +647,9 @@
 - [Can’t send (computer screen still visible) — server disconnect; prefer wait over Reset](https://forum.cursor.com/t/grokbot-can-not-send-msgs-agents-virtual-machine-is-still-visible/170843) - Staff（deanrie，2026-09-07）：各端都「Couldn’t send / Failed to send」但 Agent Computer 画面仍可见时，可能是部分 Grok Bot 电脑暂时与服务器断连——不是 Mac/Android/0.44.0 客户端问题；多数会自行恢复且不丢数据，Reset 前先在论坛找 Staff；Reset 会从上次快照重建，断连前未同步的最新改动可能丢失。.
 - [Gmail MCP: Spam search empty by default — use in:anywhere (+ label:SPAM)](https://forum.cursor.com/t/grok-bot-gmail-search-threads-returns-empty-for-spam-while-list-labels-shows-threads/170832) - Staff（deanrie，2026-09-07）：Grok Bot Gmail 连接器搜索默认排除 Spam/Trash，故 list_labels 有 Spam 计数时 search_threads 仍可能为空——includeTrash 只加 Trash，in:spam / label:SPAM / is:spam 无法覆盖；让 Bot 用 search_threads 查询 in:anywhere label:SPAM（或 in:anywhere is:unread）；可移动/改标签到 Trash/Spam，但 Google 端无永久删除工具。.
 - [0.44.0 Shell Auto-review pre-check: absolute interpreter path — use relative + cwd](https://forum.cursor.com/t/grok-bot-0-44-0-on-macos-shell-executable-binding-rejection-persists-approval-card-never-appears/170819) - Staff（deanrie，2026-09-07）：0.44.0 上「executable content could not be bound」来自审批前的预检，故不会出现审批卡（带审批重试也无效）——会卡住解释器绝对路径（/…/venv/bin/python）、python3 -/ -c / -m，以及 heredoc 喂给解释器；更新桌面端无用（检查不在客户端）；修好前用 working_directory + 相对解释器与脚本（如 venv/bin/python script.py，中间无 flags），短脚本也可用 plain python3 script.py。.
+- [CallDynamicTool Missing namespace/toolName — put keys top-level (or Duplicate)](https://forum.cursor.com/t/grok-bot-calldynamictool-fails-missing-namespace-toolname-sendtoagent-task-broken/170869) - Staff（deanrie，2026-09-07）：CallDynamicTool 报 “Missing required fields: namespace, toolName” 但 Shell/文件仍可用时，往往是 Bot 把 namespace/toolName 塞进了 arguments，且错误调用形状会在会话历史里被反复复用。Reset Computer 无效（历史不在电脑上）。在聊天里明确要求：namespace 与 toolName 必须与 arguments 同级顶层，绝不能放进 arguments，并让它立刻用该形状 SendToAgent 发一句 hello；仍失败再 Duplicate 该 Bot 开干净会话。确认：Step 1 即可修复 SendToAgent/Task。.
+- [Export/backup Bot memory — ask bots to zip durable state (no one-click yet)](https://forum.cursor.com/t/best-way-to-export-memory/170714) - Staff（mohitjain，2026-09-07）：尚无一键导出——记忆以纯文本存在 Bot 电脑上。对每个 Bot：让它建 backup/<名字>，把完整 memory（profile + 各月 memory-log）写入 memory.md，列出 routines/connectors，打包附件发回；让首席助手导出 shared-memory.md + skills 库 zip；其他文件夹可打包/分卷（附件上限 25 MB）。连接器登录态无法导出（仅名单）。可选：按记忆主题再写 SKILL.md 一并打进 zip。.
+- [iOS Inkbox “Unsupported redirect_uri” — auth on desktop (account-default shared)](https://forum.cursor.com/t/grok-bot-inkbox-connect-card-fails-with-unsupported-redirect-uri/170725) - Staff（mohitjain，2026-09-07）：对账号默认（account default）共享连接器（如 Inkbox），桌面完成的身份授权会带到手机——通常不必点 iOS Connect。若 iOS 仍显示 “Unsupported redirect_uri” 但桌面授权后工具可用，跳过手机 Connect，直接让 Bot 调该工具（或重开 App）。手机端 Connect 的 redirect_uri 问题仍在单独跟踪。.
 
 ## 相关列表
 
@@ -716,10 +727,11 @@
 - [Grok Bot Wall of X](https://github.com/krika2810/grokbot-wall) - Grok Bot 相关 X 帖子实时墙（有别于 bchewy 的 meetup 签到墙），含抓取脚本与 Vercel 部署。.
 - [ide-pair-agent (VS Code → Grok Bot bridge)](https://github.com/Ashishkosana/ide-pair-agent) - VS Code 扩展加本地 FastAPI 桥，经 mailbox/webhook 把编辑器上下文转发给桌面 Grok Bot（M1 脚手架）。.
 - [mygrokbots (per-bot durable memory logs)](https://github.com/bubmiller/mygrokbots) - 用 Git 按 Bot 分目录写每日 Markdown，记录决策、交付与偏好，不写密钥。.
+- [oficina (Grok Bot factory → shadcn registry)](https://github.com/franklinjavier/oficina) - 本机导出器：把 Grok Bot 智能体目录写成 shadcn registry:block，好友用官方 CLI 安装——无中心货架、无 pastecn 上传。.
 
 ## 贡献
 
-目前 8 个分类、611 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、622 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

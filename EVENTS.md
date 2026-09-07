@@ -21,6 +21,9 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="can-20260913"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/l0jfxz91"><img src="./assets/events/can-20260913-cover.png" alt="Grok Bot Meetup Guangzhou" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Guangzhou</strong><br />Sun 13 Sep 2026, 14:00–17:30 (GMT+8)<br />Guangzhou · exact address after you register<br /><br />Guangzhou Grok Bot offline meetup — product intro, use-case shares, open mic, tea break + networking. Hosts Mai Yang / Kin Gao / Jason Zhu / Orange Wang; free; host approval.<br /><br /><a href="https://luma.com/l0jfxz91"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
+<a id="wuh-20261017"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/kss59f4e"><img src="./assets/events/wuh-20261017-cover.png" alt="Grok Bot Meetup Wuhan" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Wuhan</strong><br />Sat 17 Oct 2026, 14:00–17:30 (Asia/Shanghai, GMT+8)<br />Wuhan, Hubei (venue TBD — updated on Luma after confirm)<br /><br />Wuhan Grok Bot meetup: icebreaker + share/workshop. SpaceXAI product framing (AI teammates that sign into your tools and bring finished work back). Pre-registration with host approval; WeChat group after approve; speakers/volunteers welcome. Hosts Hanbing Zhang, chenchong, yuepu; free; ~150 seats. Distinct from same-day sha-20261017 Shanghai.<br /><br /><a href="https://luma.com/kss59f4e"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
 <a id="country-us"></a>
 ### United States
 
@@ -260,6 +263,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="kwi-20260922"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/197n9c91"><img src="./assets/events/kwi-20260922-cover.png" alt="Grok Bot Kuwait Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Kuwait Meetup</strong><br />Mon 22 Sep 2026, 12:30–14:30 (Asia/Riyadh, GMT+3)<br />Mubarak Al-Abdullah, Kuwait (Hawalli) · address after register<br /><br />First Grok Bot × SpaceXAI meetup in Kuwait: discover Grok Bot, try it hands-on, meet local builders. 1-month Grok Bot credit for participants; snacks/drinks; bring iPhone/Android/Windows/Mac (no Cursor install needed). Host Asama Akhtar; free; host approval; ~24 seats left. Follow-up Build with Grok Bot workshop planned.<br /><br /><a href="https://luma.com/197n9c91"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<a id="country-ma"></a>
+### Morocco
+
+<a id="cas-20260919"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-okg3"><img src="./assets/events/cas-20260919-cover.png" alt="Grok Bot Morocco Cowork" width="300" /></a></td><td valign="top"><strong>Grok Bot Morocco Cowork</strong><br />Sat 19 Sep 2026, 10:00–16:00 (Africa/Casablanca, GMT+1)<br />Casablanca, Morocco (address revealed after registration; with ALTS Morocco)<br /><br />Saturday Grok Bot cowork / buildathon in Casablanca with ALTS Morocco: short workshop by Oumayma Essarhi then deep work and demos. Grok Bot product framing (AI teammates that sign into your tools); credits to try during the event. Hosts OUMAYMA ESSARHI & El Bachir Outidrarine; free; host approval; ~100 seats; SpaceXAI for Morocco calendar.<br /><br /><a href="https://luma.com/spacexai-okg3"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
 <a id="country-mm"></a>
 ### Myanmar

@@ -21,6 +21,9 @@
 <a id="can-20260913"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/l0jfxz91"><img src="./assets/events/can-20260913-cover.png" alt="Grok Bot 广州线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 广州线下交流</strong><br />2026-09-13 周日 14:00–17:30<br />广州 · 报名后可见详细地址<br /><br />广州 Grok Bot 线下：官方致辞、使用场景分享、开放麦、茶歇与 Networking。主办 Mai Yang / Kin Gao / Jason Zhu / Orange Wang；免费，需审核。<br /><br /><a href="https://luma.com/l0jfxz91"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
+<a id="wuh-20261017"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/kss59f4e"><img src="./assets/events/wuh-20261017-cover.png" alt="Grok Bot 武汉线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 武汉线下交流</strong><br />2026-10-17 周六 14:00–17:30（北京时间）<br />武汉（场地待确认，确认后更新 Luma 页）<br /><br />武汉 Grok Bot 线下：交流破冰 + 分享/Workshop。SpaceXAI 产品叙事（能登录你的工具、把做完的活带回来的 AI 队友）。预报名需审核，通过后拉微信群；欢迎分享/志愿者。主办 Hanbing Zhang、chenchong、yuepu；免费，约 150 席。与同日 sha-20261017 上海场不同。<br /><br /><a href="https://luma.com/kss59f4e"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
 <a id="country-us"></a>
 ### 美国
 
@@ -260,6 +263,12 @@
 
 <a id="kwi-20260922"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/197n9c91"><img src="./assets/events/kwi-20260922-cover.png" alt="Grok Bot 科威特线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 科威特线下交流</strong><br />2026-09-22 周一 12:30–14:30（科威特/利雅得时间 GMT+3）<br />科威特 Mubarak Al-Abdullah（Hawalli）· 报名后可见地址<br /><br />科威特首场 Grok Bot × SpaceXAI：了解并动手试 Grok Bot，认识本地 builder。参与者可领 1 个月 Grok Bot 额度；有零食饮料；带 iPhone/Android/Windows/Mac 即可（无需装 Cursor）。主办 Asama Akhtar；免费，需审核，约剩 24 席。后续还有 Build with Grok Bot 工作坊。<br /><br /><a href="https://luma.com/197n9c91"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="country-ma"></a>
+### 摩洛哥
+
+<a id="cas-20260919"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-okg3"><img src="./assets/events/cas-20260919-cover.png" alt="Grok Bot 摩洛哥 Cowork" width="300" /></a></td><td valign="top"><strong>Grok Bot 摩洛哥 Cowork</strong><br />2026-09-19 周六 10:00–16:00（卡萨布兰卡 GMT+1）<br />摩洛哥卡萨布兰卡（报名后可见具体地址；与 ALTS Morocco 合办）<br /><br />卡萨布兰卡周六 Grok Bot cowork / buildathon（与 ALTS Morocco 合办）：Oumayma Essarhi 短 workshop 后深度动手与 demo。明确 Grok Bot 产品（能登录你工具的 AI 队友）；活动现场可领试用额度。主办 OUMAYMA ESSARHI、El Bachir Outidrarine；免费，需审核，约 100 席；SpaceXAI for Morocco 日历。<br /><br /><a href="https://luma.com/spacexai-okg3"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
 <a id="country-mm"></a>
 ### 缅甸

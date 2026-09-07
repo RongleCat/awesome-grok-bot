@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-611-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-622-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,7 +37,7 @@
 
 [イベントの詳細](./EVENTS.ja.md)
 
-- **中国**（4）：[上海](./EVENTS.ja.md#sha-20261017) · [杭州](./EVENTS.ja.md#hzo-20260919) · [北京](./EVENTS.ja.md#bj-20260919) · [広州](./EVENTS.ja.md#can-20260913)
+- **中国**（5）：[上海](./EVENTS.ja.md#sha-20261017) · [杭州](./EVENTS.ja.md#hzo-20260919) · [北京](./EVENTS.ja.md#bj-20260919) · [広州](./EVENTS.ja.md#can-20260913) · [武漢](./EVENTS.ja.md#wuh-20261017)
 - **アメリカ**（14）：[オースティン](./EVENTS.ja.md#aus-20260910) · [ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ](./EVENTS.ja.md#g101-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfe-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [サンフランシスコ（PM）](./EVENTS.ja.md#sfpm-20260915) · [サンフランシスコ（Founders）](./EVENTS.ja.md#sffo-20260915) · [サンフランシスコ（Sales）](./EVENTS.ja.md#sfsales-20260916) · [ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [ダラス](./EVENTS.ja.md#dal-20260919)
 - **アルゼンチン**（4）：[バリローチェ](./EVENTS.ja.md#brc-20260910) · [ブエノスアイレス](./EVENTS.ja.md#bue-20260916) · [メンドサ](./EVENTS.ja.md#mdz-20261003) · [サルタ](./EVENTS.ja.md#sla-20260916)
 - **カナダ**（4）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [ビクトリア（BC）](./EVENTS.ja.md#vic-20260921) · [サドベリー](./EVENTS.ja.md#sud-20260917) · [トロント](./EVENTS.ja.md#yyz-20260917)
@@ -61,6 +61,7 @@
 - **ケニア**（1）：[ナイロビ](./EVENTS.ja.md#nbo-20260917)
 - **カンボジア**（1）：[プノンペン](./EVENTS.ja.md#pnh-20261003)
 - **クウェート**（1）：[クウェート](./EVENTS.ja.md#kwi-20260922)
+- **モロッコ**（1）：[カサブランカ](./EVENTS.ja.md#cas-20260919)
 - **ミャンマー**（1）：[ヤンゴン](./EVENTS.ja.md#ygn-20260926)
 - **マルタ**（1）：[マルタ Ta' Xbiex](./EVENTS.ja.md#mlt-20260917)
 - **マレーシア**（1）：[クアラルンプール](./EVENTS.ja.md#kul-20260919)
@@ -177,6 +178,7 @@
 - [Grok Bot Bluebook (管家手册)](https://github.com/Backtthefuture/grokbot-bluebook) - Grok Bot を大管家として使う中国語ハンドブック／事例サイト。飛書本文を VitePress 公開リポジトリへミラー。
 - [UniFi + Cursor/Grok Bot MCP setup](https://github.com/joemartinxiii/unifi-cursor-grok-bot) - セットアップガイド。sirkirby/unifi-mcp Cloud Relay 経由で UniFi Network/Protect を Grok Bot に繋ぎ、LAN の UniFi をインターネット公開しない。
 - [Grok Bot complete guide (zh, 2026)](https://github.com/xianyu110/grokbot) - 中国語の図解ハンドブック。Grok Bot（クラウドPC同僚）を grok.com チャットや Grok Build と区別し、導入からルーチンまで案内。
+- [SpaceXAI / Cursor / Grok Bot workshop (ES)](https://github.com/shiarauzo/grok-bot-cursor-workshop) - スペイン語 Next.js スライド。2026-09-12 SpaceXAI ワークショップ向け。沿革、Grok と Grok Bot の違い、デジタル仲間設計の演習。
 
 ## 実地事例
 
@@ -247,6 +249,8 @@
 - [GROK BOT ARCHITECTURE (public council)](https://github.com/monokernn/Grok_Bot_Architecture) - 公開観測可能なマルチエージェント Grok Bot 組織（Helm + 5専門家）。割当・引き継ぎ・領収のライブ観察 UI 付き。
 - [Star Goat Grok Bot Storm (Polymarket desk)](https://github.com/stevengray8-glitch/star-goat-grok-bot-storm) - Grok Bot デスクトップ向け 6 Bot の Polymarket BTC Up/Down マーケットメイク席プロファイルと運用手順（まずドライラン）。
 - [Casa/Kattegat Perps desk (Polymarket)](https://github.com/ckel0325/casa-perps-desk) - ヴァイキング風 Grok Bot クルーと Polymarket BTC/ETH パープ用ペーパー HUD。発注行は人間がトリガー。
+- [WayMarker student tutor (Grok Bot + RAG)](https://github.com/DanielZ0217/WayMarker) - Cursor 学生ビルド事例。Grok Bot が説明・採点を担当し、FastAPI/LangGraph TAagent（Milvus/Neo4j/Redis/Postgres + MCP）が学習者を継続記憶。
+- [CuteZineMaker (Hawaii Tech Week × Grok Bot)](https://github.com/TheGiraffe/CuteCursorProjects) - Hawaii Tech Week で Cursor と Grok Bot（Very Cute Bot）が作った Flutter CuteZineMaker。冊子/8 ページ zine 出力とスクショ付き。
 
 ## スキル、プラグインと MCP
 
@@ -411,6 +415,9 @@
 - [Bot Org OS (Chief + specialists template)](https://github.com/firmasite/bot-org-os) - 貼り付けインストール可能な Grok Bot 組織テンプレ。Chief と Analyst/PM/Architect/Developer、共有 skills と HANDOFF ゲート。
 - [TRL Launchpad Grok Bot personas](https://github.com/alytrl/trl-grok-bots) - TRL Launchpad 向け Grok Bot ペルソナ Markdown（Chief of Staff / Scout / Deal Desk / Brief Studio など）。CreateAgent フィールドと 1:1。
 - [Linq ↔ Grok Bot text channel (forwarder)](https://github.com/jeffhuber/linq-grokbot-text-channel) - Vercel 転送器とデスク用テンプレで、Linq Shared/Free の着信 SMS を Bearer 付き Cursor/Grok Bot webhook へ橋渡しし、ポーリングバックアップも用意。
+- [Property Scanner (ZillAPI + Grok Bot)](https://github.com/ZeroPointRepo/property-scanner) - 再利用可能な property-scanner スキルと ZillAPI MCP。OAuth 導入・好み記憶・写真ショートリスト、公開 Grok Bot テンプレ付き。
+- [gws-native-slides (Grok Bot Google Slides)](https://github.com/Joezanini/grok_bot_skills) - Grok Bot スキルパック。Lursa MCP と gws CLI でネイティブ Google スライドを作成・更新（既定は Slides、pptx ではない）。
+- [Shipyard Cursor/Grok Bot plugin stack](https://github.com/glasner/shipyard) - 公開 Cursor/Grok Bot プラグイン monorepo。Tailscale 導入/Webhook、Linear Agent、任意 Herdr、ドメインエージェント向け shipyard triage スキル。
 
 ## レビューと比較
 
@@ -523,6 +530,7 @@
 - [Grok-bot-factory (0.43-labeled reconstruction)](https://github.com/smartyua/Grok-Bot-reconstruction-) - 非公式 Grok Bot 再構築（0.43.0 対照）。読みやすい TS 境界に加え、マルチプロバイダルーティングとローカル Docker サンドボックス実験。
 - [BotFleet (OpenMausBot fork + iOS)](https://github.com/jaywedgeworth22/BotFleet) - OpenMausBot の友好フォーク。Bot ごとにプラットフォームを選び、自前サブスクを使い、iMessage 中継と TestFlight iOS コンパニオンを追加（アドオンは試験中）。
 - [Open Grok Bot (FastAPI + Next.js)](https://github.com/Anil-matcha/open-grok-bot) - ローカル優先のオープンな Grok Bot 風ワークスペース。ペルソナ、SSE チャット、承認付きワークスペースツール、Docker/リモート実行（MUAPI・非公式）。
+- [Praxis multi-agent protocol (Grok Bot channel)](https://github.com/MetaphyKing/praxis) - 規律あるマルチエージェント協議 + Python/CLI 検証と Director/Storm スキル。Grok Build ローカルと任意の Grok Bot クラウドワーカーを文書化（退役 GBSP の後継）。
 
 ## コミュニティと障害事例
 
@@ -639,6 +647,9 @@
 - [Can’t send (computer screen still visible) — server disconnect; prefer wait over Reset](https://forum.cursor.com/t/grokbot-can-not-send-msgs-agents-virtual-machine-is-still-visible/170843) - Staff（deanrie、2026-09-07）：全端末で「Couldn’t send / Failed to send」なのに Agent Computer 画面が見える場合、一部 Grok Bot コンピュータの一時的なサーバー側切断であることがある—Mac/Android/0.44.0 が原因ではない；多くはデータ損失なしで復帰するので Reset 前に Staff へ；Reset は最終スナップショットから再構築し、未同期の最新変更は戻らないことがある。
 - [Gmail MCP: Spam search empty by default — use in:anywhere (+ label:SPAM)](https://forum.cursor.com/t/grok-bot-gmail-search-threads-returns-empty-for-spam-while-list-labels-shows-threads/170832) - Staff（deanrie、2026-09-07）：Grok Bot の Gmail コネクタ検索は既定で Spam/Trash を除外するため、list_labels に Spam 件数があっても search_threads が空になり得る—includeTrash は Trash のみ追加し、in:spam / label:SPAM / is:spam では上書き不可；Bot に search_threads で in:anywhere label:SPAM（または in:anywhere is:unread）を依頼；Trash/Spam への移動・ラベル変更は可だが恒久削除ツールは無い。
 - [0.44.0 Shell Auto-review pre-check: absolute interpreter path — use relative + cwd](https://forum.cursor.com/t/grok-bot-0-44-0-on-macos-shell-executable-binding-rejection-persists-approval-card-never-appears/170819) - Staff（deanrie、2026-09-07）：0.44.0 の「executable content could not be bound」はレビュー前の事前チェックで、承認カードも承認付き再試行も出ない—絶対インタプリタ（/…/venv/bin/python）、python3 -/ -c / -m、heredoc 投入で発火；デスクトップ更新では直らない（チェックはアプリ外）；修正まで working_directory を置き相対のインタプリタ+スクリプト（例 venv/bin/python script.py、間にフラグなし）、短いスクリプトは plain python3 script.py でも可。
+- [CallDynamicTool Missing namespace/toolName — put keys top-level (or Duplicate)](https://forum.cursor.com/t/grok-bot-calldynamictool-fails-missing-namespace-toolname-sendtoagent-task-broken/170869) - Staff（deanrie、2026-09-07）：CallDynamicTool が “Missing required fields: namespace, toolName” で落ち、Shell/ファイルは動く場合、Bot が namespace/toolName を arguments 内に入れており、誤った形が会話履歴で繰り返される。Reset Computer は無効（履歴は Computer 上にない）。チャットで「namespace と toolName は arguments と並ぶトップレベル必須、arguments 内に入れない」と指示し、その形で SendToAgent の一行 hello を試す；だめなら Duplicate でクリーンチャット。確認：Step 1 で SendToAgent/Task 復旧。
+- [Export/backup Bot memory — ask bots to zip durable state (no one-click yet)](https://forum.cursor.com/t/best-way-to-export-memory/170714) - Staff（mohitjain、2026-09-07）：一括エクスポートは未提供—メモリは Bot コンピュータ上のプレーンテキスト。各 Bot に backup/<name> を作り、完全な memory（profile + 各月 memory-log）を memory.md に、routines/connectors を列挙して zip 添付；Chief of Staff に shared-memory.md と skills ライブラリ zip を依頼；他フォルダは zip/分割（添付上限 25MB）。コネクタログインはエクスポート不可（一覧のみ）。任意でトピックごとの SKILL.md も zip に含める。
+- [iOS Inkbox “Unsupported redirect_uri” — auth on desktop (account-default shared)](https://forum.cursor.com/t/grok-bot-inkbox-connect-card-fails-with-unsupported-redirect-uri/170725) - Staff（mohitjain、2026-09-07）：Inkbox のようなアカウント既定（account default）の共有コネクタは、デスクトップで認可した identity がスマホに引き継がれる—iOS の Connect カードは通常不要。iOS が Unsupported redirect_uri でもデスクトップ認可後にツールが動くなら、モバイル Connect をスキップし Bot にツール使用を依頼（またはアプリ再起動）。モバイル Connect の redirect_uri 不具合は別途追跡中。
 
 ## 関連リスト
 
@@ -716,10 +727,11 @@
 - [Grok Bot Wall of X](https://github.com/krika2810/grokbot-wall) - Grok Bot に関する最近の X 投稿ライブウォール（bchewy の meetup チェックイン壁とは別）。取得スクリプトと Vercel デプロイ付き。
 - [ide-pair-agent (VS Code → Grok Bot bridge)](https://github.com/Ashishkosana/ide-pair-agent) - VS Code 拡張とローカル FastAPI ブリッジで、mailbox/webhook 経由で編集コンテキストをデスクトップ Grok Bot へ中継（M1 足場）。
 - [mygrokbots (per-bot durable memory logs)](https://github.com/bubmiller/mygrokbots) - Bot ごとにフォルダを分けた Git 日次 Markdown で、決定・出荷・好みを残し、秘密は書かない。
+- [oficina (Grok Bot factory → shadcn registry)](https://github.com/franklinjavier/oficina) - ローカル輸出ツール。Grok Bot エージェントフォルダを shadcn registry:block にし、公式 CLI で友人が導入（中央カタログなし）。
 
 ## 貢献
 
-8 セクションに 611 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 622 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
