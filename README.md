@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-622-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-637-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -39,8 +39,8 @@
 
 - **China**（5）：[Shanghai](./EVENTS.md#sha-20261017) · [Hangzhou](./EVENTS.md#hzo-20260919) · [Beijing](./EVENTS.md#bj-20260919) · [Guangzhou](./EVENTS.md#can-20260913) · [Wuhan](./EVENTS.md#wuh-20261017)
 - **United States**（14）：[Austin](./EVENTS.md#aus-20260910) · [Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013) · [Dallas](./EVENTS.md#dal-20260919)
+- **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260917) · [Toronto](./EVENTS.md#yyz-20260917) · [Montreal](./EVENTS.md#yul-20260919)
 - **Argentina**（4）：[Bariloche](./EVENTS.md#brc-20260910) · [Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
-- **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260917) · [Toronto](./EVENTS.md#yyz-20260917)
 - **Indonesia**（4）：[Tangerang](./EVENTS.md#tgr-20260911) · [Uluwatu / Bali](./EVENTS.md#bli-20260915) · [Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Bandung](./EVENTS.md#bdg-20260919)
 - **Mexico**（4）：[Monterrey](./EVENTS.md#mty-20260910) · [Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926)
 - **Ecuador**（3）：[Manta](./EVENTS.md#mec-20260912) · [Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
@@ -50,6 +50,7 @@
 - **United Kingdom**（2）：[London](./EVENTS.md#ldn-20260916) · [London](./EVENTS.md#ldn-20260913)
 - **Guatemala**（2）：[Quetzaltenango](./EVENTS.md#xela-20260920) · [Guatemala City](./EVENTS.md#gua-20261003)
 - **Peru**（2）：[Arequipa](./EVENTS.md#aqp-20260911) · [Lima](./EVENTS.md#lim-20260911)
+- **El Salvador**（2）：[San Salvador](./EVENTS.md#sal-20260919) · [San Salvador](./EVENTS.md#salw-20260914)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20260917)
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
 - **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20261020)
@@ -57,6 +58,7 @@
 - **Cameroon**（1）：[Yaoundé](./EVENTS.md#yde-20260910)
 - **Colombia**（1）：[Cartago](./EVENTS.md#ctg-20260911)
 - **Denmark**（1）：[Copenhagen](./EVENTS.md#cph-20260909)
+- **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
 - **Israel**（1）：[Tel Aviv](./EVENTS.md#tlv-20260908)
 - **Kenya**（1）：[Nairobi](./EVENTS.md#nbo-20260917)
 - **Cambodia**（1）：[Phnom Penh](./EVENTS.md#pnh-20261003)
@@ -68,7 +70,6 @@
 - **Netherlands**（1）：[Amsterdam](./EVENTS.md#ams-20260922)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
 - **Portugal**（1）：[Porto](./EVENTS.md#prt-20260909)
-- **El Salvador**（1）：[San Salvador](./EVENTS.md#sal-20260919)
 - **Togo**（1）：[Lomé](./EVENTS.md#lfw-20260912)
 
 ## Contents
@@ -251,6 +252,7 @@
 - [Casa/Kattegat Perps desk (Polymarket)](https://github.com/ckel0325/casa-perps-desk) - Vikings-themed Grok Bot crew plus a live paper HUD for Polymarket BTC/ETH perps; humans still trigger the row.
 - [WayMarker student tutor (Grok Bot + RAG)](https://github.com/DanielZ0217/WayMarker) - Cursor Student Build case: Grok Bot owns explanation/grading while a FastAPI/LangGraph TAagent backend (Milvus/Neo4j/Redis/Postgres + MCP) remembers the learner over time.
 - [CuteZineMaker (Hawaii Tech Week × Grok Bot)](https://github.com/TheGiraffe/CuteCursorProjects) - Flutter CuteZineMaker built with Cursor and a Grok Bot (“Very Cute Bot”) at Hawaii Tech Week—export booklet or classic 8-page zine layouts with screenshots.
+- [Household Grok Bot swarm writeup](https://github.com/ylgibby/grokbot-household-swarm) - Shareable case writeup of a specialized household Grok Bot swarm, with a live GitHub Pages story page.
 
 ## Skills, Plugins & MCP
 
@@ -418,6 +420,10 @@
 - [Property Scanner (ZillAPI + Grok Bot)](https://github.com/ZeroPointRepo/property-scanner) - Reusable property-scanner skill plus ZillAPI MCP: OAuth onboard, preference memory, ranked photo shortlists, and a public Grok Bot template for US home deal scans.
 - [gws-native-slides (Grok Bot Google Slides)](https://github.com/Joezanini/grok_bot_skills) - Grok Bot skill pack: create and update native Google Slides via Lursa MCP and the gws CLI (default to Slides, not .pptx), with access checks and error replies.
 - [Shipyard Cursor/Grok Bot plugin stack](https://github.com/glasner/shipyard) - Public Cursor/Grok Bot plugin monorepo: Tailscale onboarding/webhooks, Linear Agent, optional Herdr, and a composed shipyard triage skill for domain agents.
+- [Share Bot With Family skill](https://github.com/wildmaker/share-bot-with-family) - Grok Bot skill that shares a chosen Bot with family via a locked Cloudflare chat UI and an auto-generated 4-digit passcode (uses your subscription token).
+- [Guzli MCP plugin (Cursor / Grok Bot)](https://github.com/kodeine/guzli-mcp-plugin) - Remote Guzli MCP connector for Cursor / Grok Bot (streamable HTTP + OAuth) to operate no-code chat/voice agents and a unified inbox.
+- [GrokDesk Solana memecoin desk](https://github.com/mrbluebirdgit/grokdesk) - Eight-role Solana memecoin desk pack for Grok Bot: profiles, installable skills, always-on rules, and read-only CLIs with no signer or private keys.
+- [GrokBot GTM agent system](https://github.com/lschwartz-hue/grokbot-gtm-agent-system) - Source-bound GTM starter for Grok Bot: GROKBOT.md ops rules, Level-1 bot roster, and a Task→Skill→Routine promotion path with human approval gates.
 
 ## Reviews & Comparisons
 
@@ -531,6 +537,10 @@
 - [BotFleet (OpenMausBot fork + iOS)](https://github.com/jaywedgeworth22/BotFleet) - Friendly OpenMausBot fork: pick platforms per bot, bring your own subscriptions, plus iMessage relay and TestFlight iOS companion (add-ons in testing).
 - [Open Grok Bot (FastAPI + Next.js)](https://github.com/Anil-matcha/open-grok-bot) - Local-first open Grok Bot–style workspace: personas, SSE chat, governed workspace tools with approvals, Docker/remote runtimes (MUAPI; unaffiliated).
 - [Praxis multi-agent protocol (Grok Bot channel)](https://github.com/MetaphyKing/praxis) - Disciplined multi-agent protocol + Python/CLI checks and installable Director/Storm skills; documents Grok Build local channel and optional Grok Bot cloud workers (successor to retired GBSP).
+- [Grok Bot RPM repo (unofficial)](https://github.com/addidotlol/grok-rpm) - Unofficial dnf repository that repackages official Grok Bot .deb builds into Fedora/RHEL RPMs (x86_64 and aarch64) with auto-updated releases.
+- [McX424 Omarchy bar chip for Grok Bot](https://github.com/McX424/omarchy-grok-bot) - Omarchy/Hyprland bar chip that opens or focuses the real Grok Bot desktop window (float/tile) without embedding Electron or wrapping a CLI.
+- [Gnomebot local Grok Bot mimic](https://github.com/davidthegnomad/gnomebot) - Local open-source Grok Bot mimic: named bot profile dirs sharing one persistent Docker Linux computer, with Tauri GUI, ReAct chat, and SKILL.md curator.
+- [LG ThinQ specialty cycles for Grok Bot](https://github.com/bryan-lmm/lg-thinq-grok-bot) - Unofficial ThinQ2 Python client so a Grok Bot can list and dry-run/start LG laundry specialty (SmartCourse) cycles without ThinQ Connect PAT.
 
 ## Community & Failure Modes
 
@@ -650,6 +660,9 @@
 - [CallDynamicTool Missing namespace/toolName — put keys top-level (or Duplicate)](https://forum.cursor.com/t/grok-bot-calldynamictool-fails-missing-namespace-toolname-sendtoagent-task-broken/170869) - Staff (deanrie, 2026-09-07): When CallDynamicTool fails with “Missing required fields: namespace, toolName” while Shell/files still work, the bot nested namespace/toolName inside arguments—and bad shapes in chat history keep repeating. Reset Computer won’t help (history isn’t on the computer). Tell the bot: namespace and toolName must be top-level keys alongside arguments, never inside arguments, then have it SendToAgent a one-line hello; if that still fails, Duplicate the bot for a clean chat. Confirmed: Step 1 fixed SendToAgent/Task.
 - [Export/backup Bot memory — ask bots to zip durable state (no one-click yet)](https://forum.cursor.com/t/best-way-to-export-memory/170714) - Staff (mohitjain, 2026-09-07): No one-click export yet—memory lives as plain text on the Bot computer. Per bot, ask it to make backup/<name>, copy full memory (profile + every memory-log month) to memory.md, list routines and connectors, zip and attach; ask Chief of Staff for shared-memory.md + skills-library zip; for other folders, zip/split (attachments cap 25 MB). Connector logins can’t be exported (list only). Optional: also write a SKILL.md per memory topic into the zip.
 - [iOS Inkbox “Unsupported redirect_uri” — auth on desktop (account-default shared)](https://forum.cursor.com/t/grok-bot-inkbox-connect-card-fails-with-unsupported-redirect-uri/170725) - Staff (mohitjain, 2026-09-07): For account-default shared connectors like Inkbox, the identity you authorize on desktop carries to phone—you usually don’t need the iOS Connect card. If iOS still shows “Unsupported redirect_uri” but tools work after desktop auth, skip Connect on mobile and just ask the bot to use the tool (or reopen the app). Mobile connect-flow redirect_uri bugs remain tracked separately.
+- [Teams: grok-bot-* under Cursor Models is display-only — separate weekly pool](https://forum.cursor.com/t/cursor-team-grok-bot-is-using-my-first-party-cursor-models-allowance/170742) - Staff (mohitjain, 2026-09-07): On Cursor Teams, Grok Bot does not use your Cursor Models allowance—it has its own weekly pool (shown in the Grok Bot app); dashboard grok-bot-* rows under Cursor Models are display-only (grouped by model, not product) and won’t rate-limit you, but cloud agents launched from Grok Bot still count toward your Cursor plan.
+- [Ahrefs plugin “Failed to load connector” — provider rate-limit (don’t reinstall)](https://forum.cursor.com/t/grok-bot-ahrefs-plugin-fails-with-failed-to-load-connector/170891) - Staff (Colin, 2026-09-07): Ahrefs marketplace connector showing “Failed to load connector” / tools=0 is Ahrefs rate-limiting Grok Bot’s connection attempts—not a bad install; reinstalling or re-adding the account won’t fix it; retry later may occasionally work until Cursor changes the connector to back off and retry.
+- [Mac 0.43 one-agent Failed to send (iOS OK) — update desktop to 0.44.0](https://forum.cursor.com/t/grok-bot-macos-one-agent-larry-failed-to-send-missing-replies-iphone-ok-other-agents-ok-on-mac/170710) - Staff (mohitjain, 2026-09-07): If one Bot’s Mac chat shows “Failed to send” / missing replies while iPhone has the full thread and other Mac bots work, the bot is fine—desktop 0.43.0 can’t load that conversation; Reset/reinstall won’t help; update Grok Bot desktop to 0.44.0 (Settings → Updates; fully quit Cmd+Q if it claims you’re current) and use iOS until then.
 
 ## Related Lists
 
@@ -728,10 +741,13 @@
 - [ide-pair-agent (VS Code → Grok Bot bridge)](https://github.com/Ashishkosana/ide-pair-agent) - VS Code extension plus local FastAPI bridge that relays editor context to a desktop Grok Bot via mailbox or webhook (M1 scaffold).
 - [mygrokbots (per-bot durable memory logs)](https://github.com/bubmiller/mygrokbots) - Git-backed daily markdown logs (one folder per Grok Bot) for decisions, shipped work, and standing preferences—no secrets.
 - [oficina (Grok Bot factory → shadcn registry)](https://github.com/franklinjavier/oficina) - Local exporter that turns a Grok Bot agent folder into a shadcn registry:block friends can install with the official CLI—no central catalog or pastecn upload.
+- [Grok Bot permissions & usage pack](https://github.com/3Fold-Labs/grok-bot-permissions-usage) - 3Fold Labs pack: a 100-question account-level ALLOW/ASK/DENY permissions sheet for Grok Bot plus optional Stream Deck usage-meter notes.
+- [Grok Bot for Raycast (Sand gateway)](https://github.com/MaisonnatM/grok-bot) - Unofficial Raycast extension that sends tasks to Grok Bot teammates via the undocumented Sand HTTP gateway on the Bot computer (not the grok.com chat API).
+- [Grok Bot architecture staff reference](https://github.com/tiagovilasboas/grok-bot-architecture) - Staff pattern reference for desktop multi-agent assistants hosted on Grok Bot: crew, shared computer, routines, connectors, and HITL.
 
 ## Contributing
 
-622 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+637 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

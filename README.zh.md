@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-622-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-637-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -39,8 +39,8 @@
 
 - **中国**（5）：[上海](./EVENTS.zh.md#sha-20261017) · [杭州](./EVENTS.zh.md#hzo-20260919) · [北京](./EVENTS.zh.md#bj-20260919) · [广州](./EVENTS.zh.md#can-20260913) · [武汉](./EVENTS.zh.md#wuh-20261017)
 - **美国**（14）：[奥斯汀](./EVENTS.zh.md#aus-20260910) · [拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [旧金山（产品经理）](./EVENTS.zh.md#sfpm-20260915) · [旧金山（创始人）](./EVENTS.zh.md#sffo-20260915) · [旧金山（销售）](./EVENTS.zh.md#sfsales-20260916) · [匹兹堡](./EVENTS.zh.md#pgh-20261013) · [达拉斯](./EVENTS.zh.md#dal-20260919)
+- **加拿大**（5）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [萨德伯里](./EVENTS.zh.md#sud-20260917) · [多伦多](./EVENTS.zh.md#yyz-20260917) · [蒙特利尔](./EVENTS.zh.md#yul-20260919)
 - **阿根廷**（4）：[巴里洛切](./EVENTS.zh.md#brc-20260910) · [布宜诺斯艾利斯](./EVENTS.zh.md#bue-20260916) · [门多萨](./EVENTS.zh.md#mdz-20261003) · [萨尔塔](./EVENTS.zh.md#sla-20260916)
-- **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [萨德伯里](./EVENTS.zh.md#sud-20260917) · [多伦多](./EVENTS.zh.md#yyz-20260917)
 - **印度尼西亚**（4）：[坦格朗](./EVENTS.zh.md#tgr-20260911) · [巴厘岛乌鲁瓦图](./EVENTS.zh.md#bli-20260915) · [巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [万隆](./EVENTS.zh.md#bdg-20260919)
 - **墨西哥**（4）：[蒙特雷](./EVENTS.zh.md#mty-20260910) · [普埃布拉](./EVENTS.zh.md#pue-20260924) · [奇瓦瓦](./EVENTS.zh.md#cuu-20260924) · [墨西哥城](./EVENTS.zh.md#cdmx-20260926)
 - **厄瓜多尔**（3）：[曼塔](./EVENTS.zh.md#mec-20260912) · [基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
@@ -50,6 +50,7 @@
 - **英国**（2）：[伦敦](./EVENTS.zh.md#ldn-20260916) · [伦敦](./EVENTS.zh.md#ldn-20260913)
 - **危地马拉**（2）：[克萨尔特南戈](./EVENTS.zh.md#xela-20260920) · [危地马拉城](./EVENTS.zh.md#gua-20261003)
 - **秘鲁**（2）：[阿雷基帕](./EVENTS.zh.md#aqp-20260911) · [利马](./EVENTS.zh.md#lim-20260911)
+- **萨尔瓦多**（2）：[圣萨尔瓦多](./EVENTS.zh.md#sal-20260919) · [圣萨尔瓦多](./EVENTS.zh.md#salw-20260914)
 - **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20260917)
 - **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
 - **孟加拉国**（1）：[达卡](./EVENTS.zh.md#dac-20261020)
@@ -57,6 +58,7 @@
 - **喀麦隆**（1）：[雅温得](./EVENTS.zh.md#yde-20260910)
 - **哥伦比亚**（1）：[卡塔戈](./EVENTS.zh.md#ctg-20260911)
 - **丹麦**（1）：[哥本哈根](./EVENTS.zh.md#cph-20260909)
+- **爱尔兰**（1）：[都柏林](./EVENTS.zh.md#dub-20261004)
 - **以色列**（1）：[特拉维夫](./EVENTS.zh.md#tlv-20260908)
 - **肯尼亚**（1）：[内罗毕](./EVENTS.zh.md#nbo-20260917)
 - **柬埔寨**（1）：[金边](./EVENTS.zh.md#pnh-20261003)
@@ -68,7 +70,6 @@
 - **荷兰**（1）：[阿姆斯特丹](./EVENTS.zh.md#ams-20260922)
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
 - **葡萄牙**（1）：[波尔图](./EVENTS.zh.md#prt-20260909)
-- **萨尔瓦多**（1）：[圣萨尔瓦多](./EVENTS.zh.md#sal-20260919)
 - **多哥**（1）：[洛美](./EVENTS.zh.md#lfw-20260912)
 
 ## 目录
@@ -251,6 +252,7 @@
 - [Casa/Kattegat Perps desk (Polymarket)](https://github.com/ckel0325/casa-perps-desk) - 维京主题的 Grok Bot 机组加 Polymarket BTC/ETH 永续纸面 HUD；下单行仍由人类触发。.
 - [WayMarker student tutor (Grok Bot + RAG)](https://github.com/DanielZ0217/WayMarker) - Cursor 学生构建案例：Grok Bot 负责讲解与开放题评分，FastAPI/LangGraph TAagent 后端（Milvus/Neo4j/Redis/Postgres + MCP）长期记住学习者。.
 - [CuteZineMaker (Hawaii Tech Week × Grok Bot)](https://github.com/TheGiraffe/CuteCursorProjects) - 在 Hawaii Tech Week 用 Cursor + Grok Bot（Very Cute Bot）做出的 Flutter CuteZineMaker：可导出册页或经典 8 页 zine 排版，含截图。.
+- [Household Grok Bot swarm writeup](https://github.com/ylgibby/grokbot-household-swarm) - 家庭场景下多角色 Grok Bot 集群的可分享案例写稿，并附 GitHub Pages 故事页。.
 
 ## 技能、插件与 MCP
 
@@ -418,6 +420,10 @@
 - [Property Scanner (ZillAPI + Grok Bot)](https://github.com/ZeroPointRepo/property-scanner) - 可复用 property-scanner 技能 + ZillAPI MCP：OAuth 接入、记住偏好、照片短名单排序，并附公开 Grok Bot 模板做美国房源扫描。.
 - [gws-native-slides (Grok Bot Google Slides)](https://github.com/Joezanini/grok_bot_skills) - Grok Bot 技能包：经 Lursa MCP + gws CLI 创建/更新原生 Google 幻灯片（默认 Slides 而非 pptx），含准入检查与失败回复。.
 - [Shipyard Cursor/Grok Bot plugin stack](https://github.com/glasner/shipyard) - 公开的 Cursor/Grok Bot 插件单体仓：Tailscale 入网/Webhook、Linear Agent、可选 Herdr，以及组合 triage 的 shipyard 技能供领域智能体使用。.
+- [Share Bot With Family skill](https://github.com/wildmaker/share-bot-with-family) - Grok Bot 技能：用锁定的 Cloudflare 聊天页 + 系统生成的 4 位口令，把指定 Bot 分享给家人（走你的订阅 Token）。.
+- [Guzli MCP plugin (Cursor / Grok Bot)](https://github.com/kodeine/guzli-mcp-plugin) - 面向 Cursor / Grok Bot 的 Guzli 远程 MCP 连接器（streamable HTTP + OAuth），可操作无代码聊天/语音智能体与统一收件箱。.
+- [GrokDesk Solana memecoin desk](https://github.com/mrbluebirdgit/grokdesk) - 面向 Grok Bot 的八席 Solana meme 币桌面包：人设、可安装技能、常驻规则与只读 CLI，不含签名器或私钥。.
+- [GrokBot GTM agent system](https://github.com/lschwartz-hue/grokbot-gtm-agent-system) - 面向 Grok Bot 的 GTM 起步仓：GROKBOT.md 运营规则、一级 Bot 花名册，以及带人工审批闸门的 Task→Skill→Routine 晋级路径。.
 
 ## 评测与对比
 
@@ -531,6 +537,10 @@
 - [BotFleet (OpenMausBot fork + iOS)](https://github.com/jaywedgeworth22/BotFleet) - OpenMausBot 友好分支：按 Bot 选平台、自带订阅，并加 iMessage 中继与 TestFlight iOS 伴侣（附加功能仍在测试）。.
 - [Open Grok Bot (FastAPI + Next.js)](https://github.com/Anil-matcha/open-grok-bot) - 本地优先的开源 Grok Bot 风格工作区：人设、SSE 对话、需审批的工作区工具与 Docker/远程运行时（MUAPI；非官方）。.
 - [Praxis multi-agent protocol (Grok Bot channel)](https://github.com/MetaphyKing/praxis) - 克制的多智能体协议 + Python/CLI 校验与可安装 Director/Storm 技能；文档覆盖 Grok Build 本地通道与可选 Grok Bot 云端工人（接替已退役 GBSP）。.
+- [Grok Bot RPM repo (unofficial)](https://github.com/addidotlol/grok-rpm) - 非官方 dnf 仓库：把官方 Grok Bot .deb 重打包为 Fedora/RHEL RPM（x86_64 与 aarch64），并自动跟进上游版本。.
+- [McX424 Omarchy bar chip for Grok Bot](https://github.com/McX424/omarchy-grok-bot) - Omarchy/Hyprland 状态栏芯片：打开或聚焦真正的 Grok Bot 桌面窗口（浮动/平铺），不内嵌 Electron、不包装 CLI。.
+- [Gnomebot local Grok Bot mimic](https://github.com/davidthegnomad/gnomebot) - 本地开源的 Grok Bot 仿品：具名 Bot 配置目录共享一台持久 Docker Linux 电脑，含 Tauri GUI、ReAct 对话与 SKILL.md 策展。.
+- [LG ThinQ specialty cycles for Grok Bot](https://github.com/bryan-lmm/lg-thinq-grok-bot) - 非官方 ThinQ2 Python 客户端：让 Grok Bot 列出并以 dry-run/执行方式启动 LG 洗衣 Specialty（SmartCourse）周期，无需 ThinQ Connect PAT。.
 
 ## 社区与故障现场
 
@@ -650,6 +660,9 @@
 - [CallDynamicTool Missing namespace/toolName — put keys top-level (or Duplicate)](https://forum.cursor.com/t/grok-bot-calldynamictool-fails-missing-namespace-toolname-sendtoagent-task-broken/170869) - Staff（deanrie，2026-09-07）：CallDynamicTool 报 “Missing required fields: namespace, toolName” 但 Shell/文件仍可用时，往往是 Bot 把 namespace/toolName 塞进了 arguments，且错误调用形状会在会话历史里被反复复用。Reset Computer 无效（历史不在电脑上）。在聊天里明确要求：namespace 与 toolName 必须与 arguments 同级顶层，绝不能放进 arguments，并让它立刻用该形状 SendToAgent 发一句 hello；仍失败再 Duplicate 该 Bot 开干净会话。确认：Step 1 即可修复 SendToAgent/Task。.
 - [Export/backup Bot memory — ask bots to zip durable state (no one-click yet)](https://forum.cursor.com/t/best-way-to-export-memory/170714) - Staff（mohitjain，2026-09-07）：尚无一键导出——记忆以纯文本存在 Bot 电脑上。对每个 Bot：让它建 backup/<名字>，把完整 memory（profile + 各月 memory-log）写入 memory.md，列出 routines/connectors，打包附件发回；让首席助手导出 shared-memory.md + skills 库 zip；其他文件夹可打包/分卷（附件上限 25 MB）。连接器登录态无法导出（仅名单）。可选：按记忆主题再写 SKILL.md 一并打进 zip。.
 - [iOS Inkbox “Unsupported redirect_uri” — auth on desktop (account-default shared)](https://forum.cursor.com/t/grok-bot-inkbox-connect-card-fails-with-unsupported-redirect-uri/170725) - Staff（mohitjain，2026-09-07）：对账号默认（account default）共享连接器（如 Inkbox），桌面完成的身份授权会带到手机——通常不必点 iOS Connect。若 iOS 仍显示 “Unsupported redirect_uri” 但桌面授权后工具可用，跳过手机 Connect，直接让 Bot 调该工具（或重开 App）。手机端 Connect 的 redirect_uri 问题仍在单独跟踪。.
+- [Teams: grok-bot-* under Cursor Models is display-only — separate weekly pool](https://forum.cursor.com/t/cursor-team-grok-bot-is-using-my-first-party-cursor-models-allowance/170742) - Staff（mohitjain，2026-09-07）：Cursor Teams 上 Grok Bot 不占用 Cursor Models 额度，而是独立周池（在 Grok Bot 应用内可见）；仪表盘把 grok-bot-* 列在 Cursor Models 下只是按模型分组的展示问题，不会因此限流；但从 Grok Bot 拉起的 Cloud Agents 仍计入 Cursor 套餐。.
+- [Ahrefs plugin “Failed to load connector” — provider rate-limit (don’t reinstall)](https://forum.cursor.com/t/grok-bot-ahrefs-plugin-fails-with-failed-to-load-connector/170891) - Staff（Colin，2026-09-07）：Ahrefs 插件显示 “Failed to load connector”/tools=0 是 Ahrefs 在限流 Grok Bot 的连接尝试，不是安装损坏；重装或重新添加账号无效；修好退避重试前偶尔晚些再试可能偶发成功。.
+- [Mac 0.43 one-agent Failed to send (iOS OK) — update desktop to 0.44.0](https://forum.cursor.com/t/grok-bot-macos-one-agent-larry-failed-to-send-missing-replies-iphone-ok-other-agents-ok-on-mac/170710) - Staff（mohitjain，2026-09-07）：若某个 Bot 在 Mac 上 Failed to send/看不到回复，但 iPhone 线程完整且其他 Mac Bot 正常，说明 Bot 本身没问题——是桌面 0.43.0 加载不了该会话；Reset/重装无效；把桌面升到 0.44.0（Settings → Updates；若显示已最新则 Cmd+Q 完全退出再开），升级前先用 iOS。.
 
 ## 相关列表
 
@@ -728,10 +741,13 @@
 - [ide-pair-agent (VS Code → Grok Bot bridge)](https://github.com/Ashishkosana/ide-pair-agent) - VS Code 扩展加本地 FastAPI 桥，经 mailbox/webhook 把编辑器上下文转发给桌面 Grok Bot（M1 脚手架）。.
 - [mygrokbots (per-bot durable memory logs)](https://github.com/bubmiller/mygrokbots) - 用 Git 按 Bot 分目录写每日 Markdown，记录决策、交付与偏好，不写密钥。.
 - [oficina (Grok Bot factory → shadcn registry)](https://github.com/franklinjavier/oficina) - 本机导出器：把 Grok Bot 智能体目录写成 shadcn registry:block，好友用官方 CLI 安装——无中心货架、无 pastecn 上传。.
+- [Grok Bot permissions & usage pack](https://github.com/3Fold-Labs/grok-bot-permissions-usage) - 3Fold Labs 资料包：Grok Bot 账号级 100 题 ALLOW/ASK/DENY 权限表，以及可选的 Stream Deck 用量仪表说明。.
+- [Grok Bot for Raycast (Sand gateway)](https://github.com/MaisonnatM/grok-bot) - 非官方 Raycast 扩展：经 Bot 电脑上未公开的 Sand HTTP 网关给 Grok Bot 队友派活（不是 grok.com 聊天 API）。.
+- [Grok Bot architecture staff reference](https://github.com/tiagovilasboas/grok-bot-architecture) - 以 Grok Bot 为宿主的桌面多智能体助手架构参考：班组、共享电脑、例程、连接器与人在回路（HITL）。.
 
 ## 贡献
 
-目前 8 个分类、622 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、637 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

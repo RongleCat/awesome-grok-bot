@@ -201,6 +201,7 @@ COUNTRY_LABEL = {
     "dk": {"en": "Denmark", "zh": "丹麦", "ja": "デンマーク"},
     "al": {"en": "Albania", "zh": "阿尔巴尼亚", "ja": "アルバニア"},
     "gb": {"en": "United Kingdom", "zh": "英国", "ja": "イギリス"},
+    "ie": {"en": "Ireland", "zh": "爱尔兰", "ja": "アイルランド"},
     "au": {"en": "Australia", "zh": "澳大利亚", "ja": "オーストラリア"},
     "mt": {"en": "Malta", "zh": "马耳他", "ja": "マルタ"},
     "pt": {"en": "Portugal", "zh": "葡萄牙", "ja": "ポルトガル"},
@@ -350,6 +351,9 @@ EVENT_GEO = {
     "kwi-20260922": ("kw", "Kuwait / Mubarak Al-Abdullah", "科威特", "クウェート"),
     "cas-20260919": ("ma", "Casablanca", "卡萨布兰卡", "カサブランカ"),
     "wuh-20261017": ("cn", "Wuhan", "武汉", "武漢"),
+    "salw-20260914": ("sv", "San Salvador", "圣萨尔瓦多", "サンサルバドル"),
+    "yul-20260919": ("ca", "Montreal", "蒙特利尔", "モントリオール"),
+    "dub-20261004": ("ie", "Dublin", "都柏林", "ダブリン"),
 }
 
 

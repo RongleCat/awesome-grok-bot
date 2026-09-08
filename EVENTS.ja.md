@@ -69,21 +69,6 @@
 <a id="dal-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-ym79"><img src="./assets/events/dal-20260919-cover.png" alt="Cursor + Grok Bot Dallas Meetup" width="300" /></a></td><td valign="top"><strong>Cursor + Grok Bot Dallas Meetup</strong><br />2026-09-19（土）10:30–14:30（CDT）<br />ダラス · Kiln Preston Hollow（9850 N Central Expy #230）<br /><br />ダラス初の Grok Bot ミートアップ。短いトーク／デモの後にビルド。ノートPC推奨（x.ai/bot）。Cursor と SpaceXAI API クレジット（音声／チャット／画像／動画）先着。会場 Kiln Preston Hollow（North Dallas、無料駐車）。主催 Pradipta Shrestha、Sebastian Mendo、Tyler Vea。無料・承認制・約60席（スキャン時約33名）。<br /><br /><a href="https://luma.com/cursor-ym79"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
-<a id="country-ar"></a>
-### アルゼンチン
-
-<a id="brc-20260910"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-38kv"><img src="./assets/events/brc-20260910-cover.png" alt="Grok Bot Meetup Bariloche" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Bariloche</strong><br />2026-09-10（木）19:00–21:30（ART）<br />バリローチェ Av. Ezequiel Bustillo 3241<br /><br />バリローチェの対面 Grok Bot。無料、残席 8。<br /><br /><a href="https://luma.com/cursor-38kv"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="bue-20260916"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/8l9u6sns"><img src="./assets/events/bue-20260916-cover.png" alt="Grok Bot Meetup Buenos Aires" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Buenos Aires</strong><br />2026-09-16（水）18:00–20:00（ART）<br />ブエノスアイレス · 登録後に住所を表示<br /><br />ブエノスアイレスの対面 Grok Bot。無料、主催者承認、ウェイティング可、残席 100。<br /><br /><a href="https://luma.com/8l9u6sns"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="mdz-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-mtu0"><img src="./assets/events/mdz-20260929-cover.png" alt="Grok Bot Meetup Mendoza" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Mendoza</strong><br />2026-10-03（土）17:00–20:00（ART）<br />メンドーサ TIC テクノパーク、Rafael Cubillos 2100-2198<br /><br />メンドーサの対面 Grok Bot。先着。<br /><br /><a href="https://luma.com/cursor-mtu0"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="sla-20260916"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-sh4i"><img src="./assets/events/sla-20260916-cover.png" alt="Grok Bot Meetup Salta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Salta</strong><br />2026-09-16（水）18:00–20:00（ART）<br />サルタ · SorboLabs, Dean Funes 244（登録後に住所）<br /><br />サルタ初の Grok Bot。入門ワークショップ、実用例、Q&A、持参 PC でコーワーク。ツールにログインして仕事を仕上げて戻る。主催者承認。充電器持参。<br /><br /><a href="https://luma.com/cursor-sh4i"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
 <a id="country-ca"></a>
 ### カナダ
 
@@ -98,6 +83,24 @@
 
 <a id="yyz-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-toronto"><img src="./assets/events/yyz-20260917-cover.png" alt="Grok Bot Meetup Toronto" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Toronto</strong><br />2026-09-17（木）17:30–20:30（EDT）<br />トロント · 会場 TBD（登録後に住所）。ノート PC 持参。18:15 閉門。<br /><br />トロント初の対面 Grok Bot（Cursor Community）。アジェンダは未定。主催者承認。ノート PC 持参。<br /><br /><a href="https://luma.com/grok-bot-toronto"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="yul-20260919"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/hkujao4q"><img src="./assets/events/yul-20260919-cover.png" alt="Official Grok Bot Meetup Montreal" width="300" /></a></td><td valign="top"><strong>Official Grok Bot Meetup Montreal</strong><br />2026-09-19（土）12:00–17:00（America/Toronto、EDT）<br />モントリオール · Reflex（63 Rue de Brésoles、SpaceXAI Community 連携）<br /><br />モントリオール公式 Grok Bot Meetup（Reflex）。短いチュートリアル、コミュニティデモ、交流とメンター。クレジットとスワッグあり。主催 Lucas & Samira G.。無料・承認制。午後対面。EventScheduled。<br /><br /><a href="https://luma.com/hkujao4q"><strong>申し込む →</strong></a></td></tr></table>
+
+<a id="country-ar"></a>
+### アルゼンチン
+
+<a id="brc-20260910"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-38kv"><img src="./assets/events/brc-20260910-cover.png" alt="Grok Bot Meetup Bariloche" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Bariloche</strong><br />2026-09-10（木）19:00–21:30（ART）<br />バリローチェ Av. Ezequiel Bustillo 3241<br /><br />バリローチェの対面 Grok Bot。無料、残席 8。<br /><br /><a href="https://luma.com/cursor-38kv"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<a id="bue-20260916"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/8l9u6sns"><img src="./assets/events/bue-20260916-cover.png" alt="Grok Bot Meetup Buenos Aires" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Buenos Aires</strong><br />2026-09-16（水）18:00–20:00（ART）<br />ブエノスアイレス · 登録後に住所を表示<br /><br />ブエノスアイレスの対面 Grok Bot。無料、主催者承認、ウェイティング可、残席 100。<br /><br /><a href="https://luma.com/8l9u6sns"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="mdz-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-mtu0"><img src="./assets/events/mdz-20260929-cover.png" alt="Grok Bot Meetup Mendoza" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Mendoza</strong><br />2026-10-03（土）17:00–20:00（ART）<br />メンドーサ TIC テクノパーク、Rafael Cubillos 2100-2198<br /><br />メンドーサの対面 Grok Bot。先着。<br /><br /><a href="https://luma.com/cursor-mtu0"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<a id="sla-20260916"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-sh4i"><img src="./assets/events/sla-20260916-cover.png" alt="Grok Bot Meetup Salta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Salta</strong><br />2026-09-16（水）18:00–20:00（ART）<br />サルタ · SorboLabs, Dean Funes 244（登録後に住所）<br /><br />サルタ初の Grok Bot。入門ワークショップ、実用例、Q&A、持参 PC でコーワーク。ツールにログインして仕事を仕上げて戻る。主催者承認。充電器持参。<br /><br /><a href="https://luma.com/cursor-sh4i"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
 <a id="country-id"></a>
 ### インドネシア
@@ -198,6 +201,15 @@
 <a id="lim-20260911"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/ybo7udvo"><img src="./assets/events/lim-20260911-cover.png" alt="Grok Bot Lima Build Night" width="300" /></a></td><td valign="top"><strong>Grok Bot Lima Build Night</strong><br />2026-09-11（金）19:00–23:00（PET）<br />リマ ペルー・カトリック大学（San Miguel）<br /><br />リマの Grok Bot ビルドナイト。無料、主催者承認、ウェイティング可、残席 36。<br /><br /><a href="https://luma.com/ybo7udvo"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
+<a id="country-sv"></a>
+### エルサルバドル
+
+<a id="sal-20260919"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/bot"><img src="./assets/events/sal-20260919-cover.png" alt="Grok Bot Meetup サンサルバドル" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup サンサルバドル</strong><br />2026-09-19（土）15:00–19:00（El Salvador）<br />サンサルバドル · 住所 TBD（登録後に表示）<br /><br />Ai Labs 主催のサンサルバドル Grok Bot ミートアップ。単発タスクを超える指示・文脈・一気通貫フローを探る（約 50 going）。<br /><br /><a href="https://luma.com/bot"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<a id="salw-20260914"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/khw2316m"><img src="./assets/events/salw-20260914-cover.png" alt="Grok Bot Workshop San Salvador" width="300" /></a></td><td valign="top"><strong>Grok Bot Workshop San Salvador</strong><br />2026-09-14（日）09:00–11:30（America/El_Salvador、GMT-6）<br />エルサルバドル・ソヤパンゴ · Universidad Don Bosco（Soyapango キャンパス）<br /><br />サンサルバドルの Sprint 2 Demo Day。Flutter+AI の短いトーク後、Grok Bot で 1 時間スプリント、Mini Demo Day でピッチ。9/19 の同市 meetup（sal-20260919）とは別。主催 Beatriz Del Pinal、Walter Morales、Anthony Romero。無料・承認制。スキャン時残り約 19 席（約 11 名）。Flutter 済みノート PC 持参。forum 170538。<br /><br /><a href="https://luma.com/khw2316m"><strong>申し込む →</strong></a></td></tr></table>
+
 <a id="country-al"></a>
 ### アルバニア
 
@@ -239,6 +251,12 @@
 
 <a id="cph-20260909"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-t9m9"><img src="./assets/events/cph-20260909-cover.png" alt="Grok Bot Meetup Copenhagen" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Copenhagen</strong><br />2026-09-09（水）17:00–20:00（CEST）<br />コペンハーゲン · Trustpilot A/S, Pilestræde 58<br /><br />コペンハーゲン初の Grok Bot ミートアップ。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-t9m9"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="country-ie"></a>
+### アイルランド
+
+<a id="dub-20261004"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-dublin"><img src="./assets/events/dub-20261004-cover.png" alt="Grok Bot Dublin Builder Day" width="300" /></a></td><td valign="top"><strong>Grok Bot Dublin Builder Day</strong><br />2026-10-04（日）11:00–17:30（Europe/Dublin、IST）<br />アイルランド・ダブリン · Baseline（61 Thomas St、Dublin AI Week × Bronto）<br /><br />ダブリン終日 Grok Bot ビルドデイ（SpaceXAI for Dublin、Dublin AI Week の一環、Bronto 提携）。ライブデモ、ボット／ワークフロー構築、昼食、ライトニングデモ。事前に x.ai/bot を導入。主催 Sanat Thukral & Manoj。無料・承認制・約 96 席・ウェイトリストあり。<br /><br /><a href="https://luma.com/grokbot-dublin"><strong>申し込む →</strong></a></td></tr></table>
 
 <a id="country-il"></a>
 ### イスラエル
@@ -305,12 +323,6 @@
 
 <a id="prt-20260909"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/wpvpza3f"><img src="./assets/events/prt-20260909-cover.png" alt="Grok Bot Meetup Porto" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Porto</strong><br />2026-09-09（水）17:30–20:00（WEST）<br />ポルト · The Social Hub Porto, Praça de Dom João I 80<br /><br />ポルト公式 Grok Bot Meetup。ビルダー向け対面。Luma 承認制（関心約 19）。<br /><br /><a href="https://luma.com/wpvpza3f"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
-<a id="country-sv"></a>
-### エルサルバドル
-
-<a id="sal-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/bot"><img src="./assets/events/sal-20260919-cover.png" alt="Grok Bot Meetup サンサルバドル" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup サンサルバドル</strong><br />2026-09-19（土）15:00–19:00（El Salvador）<br />サンサルバドル · 住所 TBD（登録後に表示）<br /><br />Ai Labs 主催のサンサルバドル Grok Bot ミートアップ。単発タスクを超える指示・文脈・一気通貫フローを探る（約 50 going）。<br /><br /><a href="https://luma.com/bot"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-tg"></a>
 ### トーゴ

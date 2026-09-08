@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-09-07",
+  "updated": "2026-09-08",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -1633,6 +1633,16 @@
             "en": "Flutter CuteZineMaker built with Cursor and a Grok Bot (“Very Cute Bot”) at Hawaii Tech Week—export booklet or classic 8-page zine layouts with screenshots.",
             "zh": "在 Hawaii Tech Week 用 Cursor + Grok Bot（Very Cute Bot）做出的 Flutter CuteZineMaker：可导出册页或经典 8 页 zine 排版，含截图。",
             "ja": "Hawaii Tech Week で Cursor と Grok Bot（Very Cute Bot）が作った Flutter CuteZineMaker。冊子/8 ページ zine 出力とスクショ付き。"
+          }
+        },
+        {
+          "title": "Household Grok Bot swarm writeup",
+          "url": "https://github.com/ylgibby/grokbot-household-swarm",
+          "source": "GB-650",
+          "blurb": {
+            "en": "Shareable case writeup of a specialized household Grok Bot swarm, with a live GitHub Pages story page.",
+            "zh": "家庭场景下多角色 Grok Bot 集群的可分享案例写稿，并附 GitHub Pages 故事页。",
+            "ja": "家庭向け専門 Grok Bot スウォームの共有可能な事例ノート。GitHub Pages のストーリーページ付き。"
           }
         }
       ]
@@ -3284,6 +3294,46 @@
             "zh": "公开的 Cursor/Grok Bot 插件单体仓：Tailscale 入网/Webhook、Linear Agent、可选 Herdr，以及组合 triage 的 shipyard 技能供领域智能体使用。",
             "ja": "公開 Cursor/Grok Bot プラグイン monorepo。Tailscale 導入/Webhook、Linear Agent、任意 Herdr、ドメインエージェント向け shipyard triage スキル。"
           }
+        },
+        {
+          "title": "Share Bot With Family skill",
+          "url": "https://github.com/wildmaker/share-bot-with-family",
+          "source": "GB-646",
+          "blurb": {
+            "en": "Grok Bot skill that shares a chosen Bot with family via a locked Cloudflare chat UI and an auto-generated 4-digit passcode (uses your subscription token).",
+            "zh": "Grok Bot 技能：用锁定的 Cloudflare 聊天页 + 系统生成的 4 位口令，把指定 Bot 分享给家人（走你的订阅 Token）。",
+            "ja": "指定 Bot を家族と共有する Grok Bot スキル。固定 Cloudflare チャット UI と自動生成 4 桁パスコードで、あなたの購読トークンを使います。"
+          }
+        },
+        {
+          "title": "Guzli MCP plugin (Cursor / Grok Bot)",
+          "url": "https://github.com/kodeine/guzli-mcp-plugin",
+          "source": "GB-647",
+          "blurb": {
+            "en": "Remote Guzli MCP connector for Cursor / Grok Bot (streamable HTTP + OAuth) to operate no-code chat/voice agents and a unified inbox.",
+            "zh": "面向 Cursor / Grok Bot 的 Guzli 远程 MCP 连接器（streamable HTTP + OAuth），可操作无代码聊天/语音智能体与统一收件箱。",
+            "ja": "Cursor / Grok Bot 向け Guzli リモート MCP（streamable HTTP + OAuth）。ノーコードのチャット/音声エージェントと統合受信箱を操作します。"
+          }
+        },
+        {
+          "title": "GrokDesk Solana memecoin desk",
+          "url": "https://github.com/mrbluebirdgit/grokdesk",
+          "source": "GB-648",
+          "blurb": {
+            "en": "Eight-role Solana memecoin desk pack for Grok Bot: profiles, installable skills, always-on rules, and read-only CLIs with no signer or private keys.",
+            "zh": "面向 Grok Bot 的八席 Solana meme 币桌面包：人设、可安装技能、常驻规则与只读 CLI，不含签名器或私钥。",
+            "ja": "Grok Bot 向け 8 役 Solana ミームコイン卓パック。プロフィール、導入スキル、常時ルール、読み取り専用 CLI。署名器や秘密鍵なし。"
+          }
+        },
+        {
+          "title": "GrokBot GTM agent system",
+          "url": "https://github.com/lschwartz-hue/grokbot-gtm-agent-system",
+          "source": "GB-649",
+          "blurb": {
+            "en": "Source-bound GTM starter for Grok Bot: GROKBOT.md ops rules, Level-1 bot roster, and a Task→Skill→Routine promotion path with human approval gates.",
+            "zh": "面向 Grok Bot 的 GTM 起步仓：GROKBOT.md 运营规则、一级 Bot 花名册，以及带人工审批闸门的 Task→Skill→Routine 晋级路径。",
+            "ja": "Grok Bot 向け GTM スターター。GROKBOT.md 運用規則、Level-1 Bot 名簿、人承認ゲート付き Task→Skill→Routine 昇格パス。"
+          }
         }
       ]
     },
@@ -4373,6 +4423,46 @@
             "en": "Disciplined multi-agent protocol + Python/CLI checks and installable Director/Storm skills; documents Grok Build local channel and optional Grok Bot cloud workers (successor to retired GBSP).",
             "zh": "克制的多智能体协议 + Python/CLI 校验与可安装 Director/Storm 技能；文档覆盖 Grok Build 本地通道与可选 Grok Bot 云端工人（接替已退役 GBSP）。",
             "ja": "規律あるマルチエージェント協議 + Python/CLI 検証と Director/Storm スキル。Grok Build ローカルと任意の Grok Bot クラウドワーカーを文書化（退役 GBSP の後継）。"
+          }
+        },
+        {
+          "title": "Grok Bot RPM repo (unofficial)",
+          "url": "https://github.com/addidotlol/grok-rpm",
+          "source": "GB-651",
+          "blurb": {
+            "en": "Unofficial dnf repository that repackages official Grok Bot .deb builds into Fedora/RHEL RPMs (x86_64 and aarch64) with auto-updated releases.",
+            "zh": "非官方 dnf 仓库：把官方 Grok Bot .deb 重打包为 Fedora/RHEL RPM（x86_64 与 aarch64），并自动跟进上游版本。",
+            "ja": "非公式 dnf リポジトリ。公式 Grok Bot .deb を Fedora/RHEL RPM（x86_64 / aarch64）へ再パッケージし、上流版を自動追従。"
+          }
+        },
+        {
+          "title": "McX424 Omarchy bar chip for Grok Bot",
+          "url": "https://github.com/McX424/omarchy-grok-bot",
+          "source": "GB-652",
+          "blurb": {
+            "en": "Omarchy/Hyprland bar chip that opens or focuses the real Grok Bot desktop window (float/tile) without embedding Electron or wrapping a CLI.",
+            "zh": "Omarchy/Hyprland 状态栏芯片：打开或聚焦真正的 Grok Bot 桌面窗口（浮动/平铺），不内嵌 Electron、不包装 CLI。",
+            "ja": "Omarchy/Hyprland のバーチップ。本物の Grok Bot デスクトップ窓を開く/フォーカス（float/tile）。Electron 埋め込みや CLI ラッパなし。"
+          }
+        },
+        {
+          "title": "Gnomebot local Grok Bot mimic",
+          "url": "https://github.com/davidthegnomad/gnomebot",
+          "source": "GB-653",
+          "blurb": {
+            "en": "Local open-source Grok Bot mimic: named bot profile dirs sharing one persistent Docker Linux computer, with Tauri GUI, ReAct chat, and SKILL.md curator.",
+            "zh": "本地开源的 Grok Bot 仿品：具名 Bot 配置目录共享一台持久 Docker Linux 电脑，含 Tauri GUI、ReAct 对话与 SKILL.md 策展。",
+            "ja": "ローカル OSS の Grok Bot 模倣。名前付き Bot プロファイルが 1 台の永続 Docker Linux を共有し、Tauri GUI・ReAct チャット・SKILL.md キュレータ付き。"
+          }
+        },
+        {
+          "title": "LG ThinQ specialty cycles for Grok Bot",
+          "url": "https://github.com/bryan-lmm/lg-thinq-grok-bot",
+          "source": "GB-654",
+          "blurb": {
+            "en": "Unofficial ThinQ2 Python client so a Grok Bot can list and dry-run/start LG laundry specialty (SmartCourse) cycles without ThinQ Connect PAT.",
+            "zh": "非官方 ThinQ2 Python 客户端：让 Grok Bot 列出并以 dry-run/执行方式启动 LG 洗衣 Specialty（SmartCourse）周期，无需 ThinQ Connect PAT。",
+            "ja": "非公式 ThinQ2 Python クライアント。Grok Bot が LG 洗濯 Specialty（SmartCourse）周期を一覧し dry-run/実行でき、ThinQ Connect PAT 不要。"
           }
         }
       ]
@@ -5544,6 +5634,36 @@
             "zh": "Staff（mohitjain，2026-09-07）：对账号默认（account default）共享连接器（如 Inkbox），桌面完成的身份授权会带到手机——通常不必点 iOS Connect。若 iOS 仍显示 “Unsupported redirect_uri” 但桌面授权后工具可用，跳过手机 Connect，直接让 Bot 调该工具（或重开 App）。手机端 Connect 的 redirect_uri 问题仍在单独跟踪。",
             "ja": "Staff（mohitjain、2026-09-07）：Inkbox のようなアカウント既定（account default）の共有コネクタは、デスクトップで認可した identity がスマホに引き継がれる—iOS の Connect カードは通常不要。iOS が Unsupported redirect_uri でもデスクトップ認可後にツールが動くなら、モバイル Connect をスキップし Bot にツール使用を依頼（またはアプリ再起動）。モバイル Connect の redirect_uri 不具合は別途追跡中。"
           }
+        },
+        {
+          "title": "Teams: grok-bot-* under Cursor Models is display-only — separate weekly pool",
+          "url": "https://forum.cursor.com/t/cursor-team-grok-bot-is-using-my-first-party-cursor-models-allowance/170742",
+          "source": "GB-658",
+          "blurb": {
+            "en": "Staff (mohitjain, 2026-09-07): On Cursor Teams, Grok Bot does not use your Cursor Models allowance—it has its own weekly pool (shown in the Grok Bot app); dashboard grok-bot-* rows under Cursor Models are display-only (grouped by model, not product) and won’t rate-limit you, but cloud agents launched from Grok Bot still count toward your Cursor plan.",
+            "zh": "Staff（mohitjain，2026-09-07）：Cursor Teams 上 Grok Bot 不占用 Cursor Models 额度，而是独立周池（在 Grok Bot 应用内可见）；仪表盘把 grok-bot-* 列在 Cursor Models 下只是按模型分组的展示问题，不会因此限流；但从 Grok Bot 拉起的 Cloud Agents 仍计入 Cursor 套餐。",
+            "ja": "Staff（mohitjain、2026-09-07）：Cursor Teams でも Grok Bot は Cursor Models 枠を使わず独自の週次プール（Grok Bot アプリ内表示）；ダッシュボードの grok-bot-* が Cursor Models 配下なのはモデル単位の表示グループで、それ自体はレート制限しない；ただし Grok Bot から起動した Cloud Agents は Cursor プランに計上される。"
+          }
+        },
+        {
+          "title": "Ahrefs plugin “Failed to load connector” — provider rate-limit (don’t reinstall)",
+          "url": "https://forum.cursor.com/t/grok-bot-ahrefs-plugin-fails-with-failed-to-load-connector/170891",
+          "source": "GB-659",
+          "blurb": {
+            "en": "Staff (Colin, 2026-09-07): Ahrefs marketplace connector showing “Failed to load connector” / tools=0 is Ahrefs rate-limiting Grok Bot’s connection attempts—not a bad install; reinstalling or re-adding the account won’t fix it; retry later may occasionally work until Cursor changes the connector to back off and retry.",
+            "zh": "Staff（Colin，2026-09-07）：Ahrefs 插件显示 “Failed to load connector”/tools=0 是 Ahrefs 在限流 Grok Bot 的连接尝试，不是安装损坏；重装或重新添加账号无效；修好退避重试前偶尔晚些再试可能偶发成功。",
+            "ja": "Staff（Colin、2026-09-07）：Ahrefs コネクタの “Failed to load connector”/tools=0 は Ahrefs 側が Grok Bot の接続をレート制限しているためで、再インストールや再追加では直らない；バックオフ再試行が入るまで後で再試行すると稀に成功することがある。"
+          }
+        },
+        {
+          "title": "Mac 0.43 one-agent Failed to send (iOS OK) — update desktop to 0.44.0",
+          "url": "https://forum.cursor.com/t/grok-bot-macos-one-agent-larry-failed-to-send-missing-replies-iphone-ok-other-agents-ok-on-mac/170710",
+          "source": "GB-660",
+          "blurb": {
+            "en": "Staff (mohitjain, 2026-09-07): If one Bot’s Mac chat shows “Failed to send” / missing replies while iPhone has the full thread and other Mac bots work, the bot is fine—desktop 0.43.0 can’t load that conversation; Reset/reinstall won’t help; update Grok Bot desktop to 0.44.0 (Settings → Updates; fully quit Cmd+Q if it claims you’re current) and use iOS until then.",
+            "zh": "Staff（mohitjain，2026-09-07）：若某个 Bot 在 Mac 上 Failed to send/看不到回复，但 iPhone 线程完整且其他 Mac Bot 正常，说明 Bot 本身没问题——是桌面 0.43.0 加载不了该会话；Reset/重装无效；把桌面升到 0.44.0（Settings → Updates；若显示已最新则 Cmd+Q 完全退出再开），升级前先用 iOS。",
+            "ja": "Staff（mohitjain、2026-09-07）：特定 Bot だけ Mac で Failed to send/返信欠落、iPhone は全文あり他 Bot は Mac でも動く場合、Bot 自体は健全で 0.43.0 デスクトップがその会話を読めない；Reset/再インストールは無効；デスクトップを 0.44.0 に更新（Settings → Updates；最新表示なら Cmd+Q で完全終了）し、それまで iOS を使う。"
+          }
         }
       ]
     },
@@ -6303,6 +6423,36 @@
             "en": "Local exporter that turns a Grok Bot agent folder into a shadcn registry:block friends can install with the official CLI—no central catalog or pastecn upload.",
             "zh": "本机导出器：把 Grok Bot 智能体目录写成 shadcn registry:block，好友用官方 CLI 安装——无中心货架、无 pastecn 上传。",
             "ja": "ローカル輸出ツール。Grok Bot エージェントフォルダを shadcn registry:block にし、公式 CLI で友人が導入（中央カタログなし）。"
+          }
+        },
+        {
+          "title": "Grok Bot permissions & usage pack",
+          "url": "https://github.com/3Fold-Labs/grok-bot-permissions-usage",
+          "source": "GB-655",
+          "blurb": {
+            "en": "3Fold Labs pack: a 100-question account-level ALLOW/ASK/DENY permissions sheet for Grok Bot plus optional Stream Deck usage-meter notes.",
+            "zh": "3Fold Labs 资料包：Grok Bot 账号级 100 题 ALLOW/ASK/DENY 权限表，以及可选的 Stream Deck 用量仪表说明。",
+            "ja": "3Fold Labs パック。Grok Bot アカウント向け 100 問 ALLOW/ASK/DENY 権限シートと、任意の Stream Deck 使用量メーターメモ。"
+          }
+        },
+        {
+          "title": "Grok Bot for Raycast (Sand gateway)",
+          "url": "https://github.com/MaisonnatM/grok-bot",
+          "source": "GB-656",
+          "blurb": {
+            "en": "Unofficial Raycast extension that sends tasks to Grok Bot teammates via the undocumented Sand HTTP gateway on the Bot computer (not the grok.com chat API).",
+            "zh": "非官方 Raycast 扩展：经 Bot 电脑上未公开的 Sand HTTP 网关给 Grok Bot 队友派活（不是 grok.com 聊天 API）。",
+            "ja": "非公式 Raycast 拡張。Bot コンピュータ上の非公開 Sand HTTP ゲートウェイ経由で Grok Bot 队友にタスク送信（grok.com チャット API ではない）。"
+          }
+        },
+        {
+          "title": "Grok Bot architecture staff reference",
+          "url": "https://github.com/tiagovilasboas/grok-bot-architecture",
+          "source": "GB-657",
+          "blurb": {
+            "en": "Staff pattern reference for desktop multi-agent assistants hosted on Grok Bot: crew, shared computer, routines, connectors, and HITL.",
+            "zh": "以 Grok Bot 为宿主的桌面多智能体助手架构参考：班组、共享电脑、例程、连接器与人在回路（HITL）。",
+            "ja": "Grok Bot をホストとするデスクトップ多智能体アシスタントのスタッフ向けパターン。班、共有 PC、ルーチン、コネクタ、HITL。"
           }
         }
       ]
@@ -10430,6 +10580,99 @@
         "en": "Apply on Luma (host approval)",
         "zh": "去 Luma 报名（需审核）",
         "ja": "Luma で申し込む（主催者承認）"
+      }
+    },
+    {
+      "id": "salw-20260914",
+      "url": "https://luma.com/khw2316m",
+      "image": "./assets/events/salw-20260914-cover.png",
+      "expires": "2026-09-14T11:30:00-06:00",
+      "title": {
+        "en": "Grok Bot Workshop San Salvador",
+        "zh": "Grok Bot 圣萨尔瓦多工作坊",
+        "ja": "Grok Bot Workshop San Salvador"
+      },
+      "when": {
+        "en": "Sun 14 Sep 2026, 09:00–11:30 (America/El_Salvador, GMT-6)",
+        "zh": "2026-09-14 周日 09:00–11:30（萨尔瓦多时间 GMT-6）",
+        "ja": "2026-09-14（日）09:00–11:30（America/El_Salvador、GMT-6）"
+      },
+      "where": {
+        "en": "Soyapango, El Salvador · Universidad Don Bosco (Campus Soyapango)",
+        "zh": "萨尔瓦多 Soyapango · Universidad Don Bosco（Soyapango 校区）",
+        "ja": "エルサルバドル・ソヤパンゴ · Universidad Don Bosco（Soyapango キャンパス）"
+      },
+      "body": {
+        "en": "Sprint 2 Demo Day workshop in San Salvador: short talk on AI in Flutter, 1h team sprint building with Grok Bot, then Mini Demo Day pitches. Distinct from Sep 19 San Salvador meetup (sal-20260919). Hosts Beatriz Del Pinal, Walter Morales, Anthony Romero; free; host approval; ~19 spots left (~11 going at scan). Bring laptop with Flutter ready. Forum 170538.",
+        "zh": "圣萨尔瓦多 Sprint 2 Demo Day：短讲 Flutter+AI，1 小时组队用 Grok Bot 冲刺，再 Mini Demo Day 路演。与 9/19 同城 meetup（sal-20260919）不同场。主办 Beatriz Del Pinal、Walter Morales、Anthony Romero；免费需审核；扫描时约剩 19 席（约 11 人报名）。请带装好 Flutter 的笔记本。论坛 170538。",
+        "ja": "サンサルバドルの Sprint 2 Demo Day。Flutter+AI の短いトーク後、Grok Bot で 1 時間スプリント、Mini Demo Day でピッチ。9/19 の同市 meetup（sal-20260919）とは別。主催 Beatriz Del Pinal、Walter Morales、Anthony Romero。無料・承認制。スキャン時残り約 19 席（約 11 名）。Flutter 済みノート PC 持参。forum 170538。"
+      },
+      "cta": {
+        "en": "Register",
+        "zh": "报名",
+        "ja": "申し込む"
+      }
+    },
+    {
+      "id": "yul-20260919",
+      "url": "https://luma.com/hkujao4q",
+      "image": "./assets/events/yul-20260919-cover.png",
+      "expires": "2026-09-19T17:00:00-04:00",
+      "title": {
+        "en": "Official Grok Bot Montreal Meetup",
+        "zh": "Grok Bot 蒙特利尔线下交流",
+        "ja": "Official Grok Bot Meetup Montreal"
+      },
+      "when": {
+        "en": "Sat 19 Sep 2026, 12:00–17:00 (America/Toronto, EDT)",
+        "zh": "2026-09-19 周六 12:00–17:00（蒙特利尔 EDT）",
+        "ja": "2026-09-19（土）12:00–17:00（America/Toronto、EDT）"
+      },
+      "where": {
+        "en": "Montréal, QC · Reflex (63 Rue de Brésoles), with SpaceXAI Community",
+        "zh": "蒙特利尔 · Reflex（63 Rue de Brésoles；与 SpaceXAI Community 合作）",
+        "ja": "モントリオール · Reflex（63 Rue de Brésoles、SpaceXAI Community 連携）"
+      },
+      "body": {
+        "en": "Official Grok Bot Montreal Meetup at Reflex: quick Grok Bot tutorial, live community demos, open-floor social, mentors on site; credits and swag. Hosts Lucas & Samira G.; free; host approval; afternoon in-person. EventScheduled.",
+        "zh": "蒙特利尔官方 Grok Bot 线下（Reflex）：快速教程、社区现场 demo、自由交流与导师答疑；有试用额度与周边。主办 Lucas、Samira G.；免费需审核；下午线下。EventScheduled。",
+        "ja": "モントリオール公式 Grok Bot Meetup（Reflex）。短いチュートリアル、コミュニティデモ、交流とメンター。クレジットとスワッグあり。主催 Lucas & Samira G.。無料・承認制。午後対面。EventScheduled。"
+      },
+      "cta": {
+        "en": "Register",
+        "zh": "报名",
+        "ja": "申し込む"
+      }
+    },
+    {
+      "id": "dub-20261004",
+      "url": "https://luma.com/grokbot-dublin",
+      "image": "./assets/events/dub-20261004-cover.png",
+      "expires": "2026-10-04T17:30:00+01:00",
+      "title": {
+        "en": "Grok Bot Dublin Builder Day",
+        "zh": "Grok Bot 都柏林 Builder Day",
+        "ja": "Grok Bot Dublin Builder Day"
+      },
+      "when": {
+        "en": "Sun 4 Oct 2026, 11:00–17:30 (Europe/Dublin, IST)",
+        "zh": "2026-10-04 周日 11:00–17:30（都柏林 IST）",
+        "ja": "2026-10-04（日）11:00–17:30（Europe/Dublin、IST）"
+      },
+      "where": {
+        "en": "Dublin 8, Ireland · Baseline (61 Thomas St), Dublin AI Week × Bronto",
+        "zh": "爱尔兰都柏林 · Baseline（61 Thomas St；Dublin AI Week × Bronto）",
+        "ja": "アイルランド・ダブリン · Baseline（61 Thomas St、Dublin AI Week × Bronto）"
+      },
+      "body": {
+        "en": "Full-day Grok Bot community build day (SpaceXAI for Dublin, part of Dublin AI Week, partner Bronto): live demo, build bots/workflows/agents, lunch, lightning demos, show&tell. Download ahead: x.ai/bot. Hosts Sanat Thukral & Manoj; free; host approval; ~96 spots; waitlist enabled.",
+        "zh": "都柏林全天 Grok Bot 共建（SpaceXAI for Dublin，属 Dublin AI Week，合作方 Bronto）：现场 demo、搭 bot/工作流/agent、午餐、闪电分享。请预先下载 x.ai/bot。主办 Sanat Thukral、Manoj；免费需审核；约 96 席，有候补。",
+        "ja": "ダブリン終日 Grok Bot ビルドデイ（SpaceXAI for Dublin、Dublin AI Week の一環、Bronto 提携）。ライブデモ、ボット／ワークフロー構築、昼食、ライトニングデモ。事前に x.ai/bot を導入。主催 Sanat Thukral & Manoj。無料・承認制・約 96 席・ウェイトリストあり。"
+      },
+      "cta": {
+        "en": "Register",
+        "zh": "报名",
+        "ja": "申し込む"
       }
     }
   ]
