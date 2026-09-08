@@ -564,6 +564,26 @@
             "zh": "官方 @bot（2026-09-05）：SpaceXAI/Cursor 发帖称已为全体 Grok Bot 用户重置用量上限。",
             "ja": "公式 @bot（2026-09-05）：全 Grok Bot ユーザーの利用枠をリセットしたと告知。"
           }
+        },
+        {
+          "title": "Bot Marketplace — public Grok Bot templates",
+          "url": "https://x.ai/bot/marketplace",
+          "source": "GB-669",
+          "blurb": {
+            "en": "Official x.ai Bot Marketplace hub for Grok Bot: browse 69 public, handpicked Bot templates across 9 categories (From Grok Bot Team, Engineering, Sales, Marketing, Design, Personal, Recruiting & People, Operations, Product) from 43 creators and add them to your roster.",
+            "zh": "官方 x.ai Bot Marketplace：浏览 69 个公开精选 Grok Bot 模板，覆盖 9 大类（From Grok Bot Team、工程、销售、营销、设计、个人、招聘与人事、运营、产品），来自 43 位创作者，可一键加入你的 Bot 阵容。",
+            "ja": "公式 x.ai Bot Marketplace。Grok Bot 向けの公開テンプレ 69 体を 9 カテゴリ（From Grok Bot Team、Engineering、Sales、Marketing、Design、Personal、Recruiting & People、Operations、Product）・43 クリエイターから探し、ロスターに追加できる。"
+          }
+        },
+        {
+          "title": "Configure TLS-inspecting proxies (Zscaler / SWG)",
+          "url": "https://cursor.com/docs/grok-bot/proxies",
+          "source": "GB-670",
+          "blurb": {
+            "en": "Official Cursor docs for Grok Bot behind TLS-inspecting gateways (e.g. Zscaler): allow both *.cursorvm.com and nested *.*.cursorvm.com, exempt those domains from SSL inspection and response buffering, apply rules to every off-network profile, and verify with Amazon RSA issuer + nslookup test.us9.cursorvm.com—docs.x.ai has no proxies page.",
+            "zh": "官方 Cursor 文档：企业 TLS 解密网关（如 Zscaler）下配置 Grok Bot——同时放行 *.cursorvm.com 与嵌套 *.*.cursorvm.com，对这些域关闭 SSL 解密与响应缓冲，并应用到所有离网配置；用 Amazon RSA 证书颁发者与 nslookup test.us9.cursorvm.com 自检；docs.x.ai 无对应 proxies 页。",
+            "ja": "公式 Cursor ドキュメント。TLS 検査ゲートウェイ（例: Zscaler）配下の Grok Bot 向けに *.cursorvm.com と入れ子の *.*.cursorvm.com の両方を許可し、SSL 検査と応答バッファを除外、オフネット含み全プロファイルへ適用；Amazon RSA の issuer と nslookup test.us9.cursorvm.com で確認。docs.x.ai に proxies ページはない。"
+          }
         }
       ]
     },
@@ -933,6 +953,16 @@
             "en": "Spanish Next.js slide deck for a 2026-09-12 SpaceXAI workshop: corporate timeline, Grok vs Grok Bot, and a hands-on digital-teammate design exercise.",
             "zh": "西班牙语 Next.js 幻灯：2026-09-12 SpaceXAI 工作坊，讲公司时间线、Grok 与 Grok Bot 区别，并以设计数字队友收尾练习。",
             "ja": "スペイン語 Next.js スライド。2026-09-12 SpaceXAI ワークショップ向け。沿革、Grok と Grok Bot の違い、デジタル仲間設計の演習。"
+          }
+        },
+        {
+          "title": "grokbot.run English handbook",
+          "url": "https://github.com/kibovrwa/grokbot-run",
+          "source": "GB-666",
+          "blurb": {
+            "en": "Unofficial English Grok Bot handbook (grokbot.run): Cursor login, shared computer, operator roster, pricing pointers, and Recover-before-Reset.",
+            "zh": "非官方英文 Grok Bot 手册（grokbot.run）：Cursor 登录、共享电脑、运营花名册、定价指针与 Recover-before-Reset。",
+            "ja": "非公式英語 Grok Bot ハンドブック（grokbot.run）。Cursor ログイン、共有コンピュータ、運用名簿、料金ポインタ、Recover-before-Reset。"
           }
         }
       ]
@@ -1643,6 +1673,46 @@
             "en": "Shareable case writeup of a specialized household Grok Bot swarm, with a live GitHub Pages story page.",
             "zh": "家庭场景下多角色 Grok Bot 集群的可分享案例写稿，并附 GitHub Pages 故事页。",
             "ja": "家庭向け専門 Grok Bot スウォームの共有可能な事例ノート。GitHub Pages のストーリーページ付き。"
+          }
+        },
+        {
+          "title": "Manila Hackathon Builder (5-Bot ship kit)",
+          "url": "https://github.com/Iron-Mark/Hackathon-Builder-Grok_Bot",
+          "source": "GB-662",
+          "blurb": {
+            "en": "Manila Grok Bot hackathon kit: a five-bot group (orchestrator→reviewer) ships research→PRD→public repo with visible handoffs and live-run proof.",
+            "zh": "马尼拉 Grok Bot 黑客松套件：五席 Bot（编排→评审）把研究→PRD→公开仓库跑通，交接可见并附实跑证明。",
+            "ja": "マニラ Grok Bot ハッカソンキット。5 Bot（オーケストレータ→レビュア）が調査→PRD→公開リポまで可視ハンドオフで届け、実走証明付き。"
+          }
+        },
+        {
+          "title": "Cape Fear Grok Bot lead-gen desk",
+          "url": "https://github.com/altiracompany/grokbot-cape-fear",
+          "source": "GB-663",
+          "blurb": {
+            "en": "Cape Fear / Alamo lead-gen Grok Bot desk (ranking sites → screened call handoff) with .grok app-env and Grok PWA install assets; no top-level README.",
+            "zh": "Cape Fear/Alamo 获客 Grok Bot 桌面：占位排名站、筛通话并交接；含 .grok 与 Grok PWA 安装资源，暂无顶层 README。",
+            "ja": "Cape Fear / Alamo リード獲得 Grok Bot デスク。ランキングサイト→通話スクリーニング引き渡し。.grok と Grok PWA 資産あり、トップ README なし。"
+          }
+        },
+        {
+          "title": "Folio3 grounded marketing desk pack",
+          "url": "https://github.com/mhasnainr/folio3-grounded-desk",
+          "source": "GB-664",
+          "blurb": {
+            "en": "Source-grounded Folio3 B2B marketing desk pack: named Grok Bot profiles, grounded-brief/draft/red-team skills, sample outputs, and a static demo page.",
+            "zh": "面向 Folio3 的源文落地 B2B 营销桌面包：具名 Grok Bot 人设、grounded-brief/draft/red-team 技能、样例产出与静态演示页。",
+            "ja": "Folio3 向け根拠付き B2B マーケ卓パック。名前付き Grok Bot プロフィール、grounded-brief/draft/red-team スキル、サンプル出力と静的デモ。"
+          }
+        },
+        {
+          "title": "Real World Agents org chart (Ridarketh)",
+          "url": "https://github.com/Ridarketh/-real-world-agents",
+          "source": "GB-665",
+          "blurb": {
+            "en": "Live Grok Bot org-chart pack (Atlas/Scout/Quill/…) with seat charters and templates; active home after pyco404/-real-world-agents 404.",
+            "zh": "仍在线的 Grok Bot 组织架构包（Atlas/Scout/Quill/…），含席位章程与模板；pyco404/-real-world-agents 已 404 后的现行仓库。",
+            "ja": "現行の Grok Bot 組織図パック（Atlas/Scout/Quill/…）。席次チャーターとテンプレ付き。pyco404/-real-world-agents が 404 になった後の稼働リポ。"
           }
         }
       ]
@@ -3334,6 +3404,16 @@
             "zh": "面向 Grok Bot 的 GTM 起步仓：GROKBOT.md 运营规则、一级 Bot 花名册，以及带人工审批闸门的 Task→Skill→Routine 晋级路径。",
             "ja": "Grok Bot 向け GTM スターター。GROKBOT.md 運用規則、Level-1 Bot 名簿、人承認ゲート付き Task→Skill→Routine 昇格パス。"
           }
+        },
+        {
+          "title": "Kolbo.AI Cursor/Grok Bot plugin",
+          "url": "https://github.com/Zoharvan12/kolbo-plugin",
+          "source": "GB-661",
+          "blurb": {
+            "en": "Kolbo.AI Cursor marketplace plugin that Grok Bot also loads: image/video/audio/3D skills, /kolbo command, and hosted Kolbo MCP.",
+            "zh": "Kolbo.AI 的 Cursor 市场插件，README 写明 Grok Bot 共用同一目录：图像/视频/音频/3D 技能、/kolbo 命令与托管 Kolbo MCP。",
+            "ja": "Kolbo.AI の Cursor マーケットプラグイン。README 上 Grok Bot も同一カタログを読む。画像/動画/音声/3D スキル、/kolbo、ホスト型 Kolbo MCP。"
+          }
         }
       ]
     },
@@ -4463,6 +4543,26 @@
             "en": "Unofficial ThinQ2 Python client so a Grok Bot can list and dry-run/start LG laundry specialty (SmartCourse) cycles without ThinQ Connect PAT.",
             "zh": "非官方 ThinQ2 Python 客户端：让 Grok Bot 列出并以 dry-run/执行方式启动 LG 洗衣 Specialty（SmartCourse）周期，无需 ThinQ Connect PAT。",
             "ja": "非公式 ThinQ2 Python クライアント。Grok Bot が LG 洗濯 Specialty（SmartCourse）周期を一覧し dry-run/実行でき、ThinQ Connect PAT 不要。"
+          }
+        },
+        {
+          "title": "Dani Desktop (Grok Bot-like)",
+          "url": "https://github.com/somdipto/dani-desktop",
+          "source": "GB-667",
+          "blurb": {
+            "en": "Open-source Dani Desktop: Grok Bot-like chat roster of local Claude/Codex agents, each with its own cloud computer and approval gates.",
+            "zh": "开源 Dani Desktop：Grok Bot 风格的本地 Claude/Codex 队友花名册，每席自带云电脑与审批闸门。",
+            "ja": "OSS の Dani Desktop。Grok Bot 風のローカル Claude/Codex 仲間名簿で、各 Bot が専用クラウド PC と承認ゲートを持つ。"
+          }
+        },
+        {
+          "title": "Hermes Mobile (open Grok Bot-like)",
+          "url": "https://github.com/CodeUpdaterBot/Hermes-Mobile-App",
+          "source": "GB-668",
+          "blurb": {
+            "en": "Open-source Hermes Mobile (Tauri): pocket control surface for Hermes bots on your PC—sessions, tools, approvals—positioned as a Grok Bot-like alternative.",
+            "zh": "开源 Hermes Mobile（Tauri）：把本机 Hermes Bot 的会话/工具/审批装进口袋，自我定位为类 Grok Bot 的开源替代。",
+            "ja": "OSS の Hermes Mobile（Tauri）。自 PC 上 Hermes Bot のセッション/ツール/承認をモバイル操作。Grok Bot 風の代替として位置づけ。"
           }
         }
       ]
@@ -5663,6 +5763,26 @@
             "en": "Staff (mohitjain, 2026-09-07): If one Bot’s Mac chat shows “Failed to send” / missing replies while iPhone has the full thread and other Mac bots work, the bot is fine—desktop 0.43.0 can’t load that conversation; Reset/reinstall won’t help; update Grok Bot desktop to 0.44.0 (Settings → Updates; fully quit Cmd+Q if it claims you’re current) and use iOS until then.",
             "zh": "Staff（mohitjain，2026-09-07）：若某个 Bot 在 Mac 上 Failed to send/看不到回复，但 iPhone 线程完整且其他 Mac Bot 正常，说明 Bot 本身没问题——是桌面 0.43.0 加载不了该会话；Reset/重装无效；把桌面升到 0.44.0（Settings → Updates；若显示已最新则 Cmd+Q 完全退出再开），升级前先用 iOS。",
             "ja": "Staff（mohitjain、2026-09-07）：特定 Bot だけ Mac で Failed to send/返信欠落、iPhone は全文あり他 Bot は Mac でも動く場合、Bot 自体は健全で 0.43.0 デスクトップがその会話を読めない；Reset/再インストールは無効；デスクトップを 0.44.0 に更新（Settings → Updates；最新表示なら Cmd+Q で完全終了）し、それまで iOS を使う。"
+          }
+        },
+        {
+          "title": "Shell Auto-review: npm/pnpm/yarn substring blocks before approval card",
+          "url": "https://forum.cursor.com/t/grok-bot-shell-auto-review-executable-content-could-not-be-bound-never-shows-approval-card/170727",
+          "source": "GB-671",
+          "blurb": {
+            "en": "Staff (Colin, 2026-09-07): “executable content could not be bound” can fire in a pre-check before any approval card when the command text contains npm/pnpm/yarn anywhere—including a full path like /workspace/.../bin/npm; until fixed, run PATH=/path/to/node/bin:$PATH npm ci (or npm install / npm run) as a single command with working_directory set—avoid absolute .../npm, npm -v alone, and && chains with npm.",
+            "zh": "Staff（Colin，2026-09-07）：命令文本里任意位置出现 npm/pnpm/yarn（含 /workspace/.../bin/npm 这类完整路径）会在审批卡之前被预检拒绝 “executable content could not be bound”；修好前用 PATH=/path/to/node/bin:$PATH npm ci（或 install/run），设 working_directory，单条命令——避免绝对路径 npm、单独 npm -v，以及带 npm 的 && 链式命令。",
+            "ja": "Staff（Colin、2026-09-07）：コマンド文字列のどこかに npm/pnpm/yarn が含まれると（/workspace/.../bin/npm のようなフルパス含む）承認カード前の事前チェックで “executable content could not be bound” になる；修正まで PATH=/path/to/node/bin:$PATH npm ci（または install/run）を working_directory 付きの単一コマンドで——絶対パスの npm、単独の npm -v、npm を含む && 連結は避ける。"
+          }
+        },
+        {
+          "title": "Synced skills reach Agents Window only — not Grok Bot-started cloud agents",
+          "url": "https://forum.cursor.com/t/sync-skills-for-cloud-agents-stuck/170899",
+          "source": "GB-672",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-07): “Sync Skills for Cloud Agents” can hang on the final verification step after downloads finish (reason=missing), and even when sync succeeds only cloud agents started from the Cursor desktop Agents Window pick up ~/.cursor/skills—agents started from Grok Bot (or cursor.com/agents) do not yet; workaround: launch the cloud agent from Agents Window until the gap is fixed.",
+            "zh": "Staff（deanrie，2026-09-07）：“Sync Skills for Cloud Agents” 可能在下载完成后卡在最终校验（reason=missing）；即便同步成功，目前也只有从 Cursor 桌面 Agents Window 启动的 Cloud Agents 会带上 ~/.cursor/skills——从 Grok Bot（或 cursor.com/agents）启动的还拿不到；权宜之计：先从 Agents Window 拉起 Cloud Agent。",
+            "ja": "Staff（deanrie、2026-09-07）：“Sync Skills for Cloud Agents” はダウンロード後の最終検証で止まることがある（reason=missing）。同期できても、今は Cursor デスクトップの Agents Window から起動した Cloud Agents だけが ~/.cursor/skills を拾い、Grok Bot（や cursor.com/agents）起点では未対応；回避策は Agents Window から起動する。"
           }
         }
       ]
@@ -10673,6 +10793,37 @@
         "en": "Register",
         "zh": "报名",
         "ja": "申し込む"
+      }
+    },
+    {
+      "id": "jkt-20261003",
+      "url": "https://luma.com/spacexai-zb6b",
+      "image": "./assets/events/jkt-20261003-cover.png",
+      "expires": "2026-10-03T13:00:00+07:00",
+      "title": {
+        "en": "Grok Bot Meetup Jakarta",
+        "zh": "Grok Bot 雅加达线下交流",
+        "ja": "Grok Bot Meetup Jakarta"
+      },
+      "when": {
+        "en": "Sat 3 Oct 2026, 10:00–13:00 (Asia/Jakarta, WIB)",
+        "zh": "2026-10-03 周六 10:00–13:00（雅加达 WIB）",
+        "ja": "2026-10-03（土）10:00–13:00（Asia/Jakarta、WIB）"
+      },
+      "where": {
+        "en": "Jakarta, Indonesia · venue listed as Jakarta (SpaceXAI for Jakarta calendar)",
+        "zh": "印尼雅加达 · 页面地址为 Jakarta（SpaceXAI for Jakarta 日历）",
+        "ja": "ジャカルタ · 会場表記 Jakarta（SpaceXAI for Jakarta カレンダー）"
+      },
+      "body": {
+        "en": "Official-style Grok Bot Meetup Jakarta (SpaceXAI for Jakarta): community case studies, how to use Personal Agents, how Ambassadors use Grok Bot, Q&A, networking. Host Naufaldi; free; host approval; ~100 spots; guest_count 0 at scan. Offline; HTML EventScheduled; API_OK (evt-1VwgjzY1wKKanAs). Distinct from nearby Bandung (bdg-20260919) / Tangerang (tgr-20260911).",
+        "zh": "雅加达 Grok Bot 线下（SpaceXAI for Jakarta）：社区案例、Personal Agents 用法、Ambassador 玩法、Q&A 与社交。主办 Naufaldi；免费需审核；约 100 席；扫描时报名 0。线下；EventScheduled；API_OK。与万隆 bdg-20260919、坦格朗 tgr-20260911 不同场。",
+        "ja": "ジャカルタの Grok Bot Meetup（SpaceXAI for Jakarta）。事例・Personal Agents・アンバサダー活用・Q&A・交流。主催 Naufaldi。無料・承認制・約 100 席。スキャン時 0 名。対面・EventScheduled・API_OK。バンドン／タンゲランとは別。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "去 Luma 报名（需审核）",
+        "ja": "Luma で申し込む（主催者承認）"
       }
     }
   ]

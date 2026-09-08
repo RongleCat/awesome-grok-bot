@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-637-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-649-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -40,8 +40,8 @@
 - **China**（5）：[Shanghai](./EVENTS.md#sha-20261017) · [Hangzhou](./EVENTS.md#hzo-20260919) · [Beijing](./EVENTS.md#bj-20260919) · [Guangzhou](./EVENTS.md#can-20260913) · [Wuhan](./EVENTS.md#wuh-20261017)
 - **United States**（14）：[Austin](./EVENTS.md#aus-20260910) · [Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013) · [Dallas](./EVENTS.md#dal-20260919)
 - **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260917) · [Toronto](./EVENTS.md#yyz-20260917) · [Montreal](./EVENTS.md#yul-20260919)
+- **Indonesia**（5）：[Tangerang](./EVENTS.md#tgr-20260911) · [Uluwatu / Bali](./EVENTS.md#bli-20260915) · [Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Bandung](./EVENTS.md#bdg-20260919) · [Jakarta](./EVENTS.md#jkt-20261003)
 - **Argentina**（4）：[Bariloche](./EVENTS.md#brc-20260910) · [Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
-- **Indonesia**（4）：[Tangerang](./EVENTS.md#tgr-20260911) · [Uluwatu / Bali](./EVENTS.md#bli-20260915) · [Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Bandung](./EVENTS.md#bdg-20260919)
 - **Mexico**（4）：[Monterrey](./EVENTS.md#mty-20260910) · [Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926)
 - **Ecuador**（3）：[Manta](./EVENTS.md#mec-20260912) · [Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
 - **Japan**（3）：[Sapporo](./EVENTS.md#spk-20261002) · [Tokyo](./EVENTS.md#tyo-20260909) · [Osaka](./EVENTS.md#osa-20260917)
@@ -141,6 +141,8 @@
 - [Grok Bot use cases](https://x.ai/bot/use-cases) - Official use-case gallery on x.ai/bot: browse handoff-ready Bot jobs across sales, marketing, support, recruiting, ops, product, and engineering (distinct from the docs.x.ai/grok-bot/use-cases guide page).
 - [Setting Grok Bot loose on procurement (Haggle Bot)](https://x.ai/news/grok-bot-procurement) - Official (2026-09-04): xAI’s Haggle Bot case—give a procurement Bot spend/contracts/usage access plus permission lines, and it surfaced $100k+ in evidence-backed SaaS-seat and renewal savings with a human still making final vendor decisions.
 - [@bot: usage limits reset for all Grok Bot users](https://x.com/bot/status/2096303514230423629) - Official @bot (2026-09-05): SpaceXAI/Cursor reset usage limits for all Grok Bot users in a short product status post.
+- [Bot Marketplace — public Grok Bot templates](https://x.ai/bot/marketplace) - Official x.ai Bot Marketplace hub for Grok Bot: browse 69 public, handpicked Bot templates across 9 categories (From Grok Bot Team, Engineering, Sales, Marketing, Design, Personal, Recruiting & People, Operations, Product) from 43 creators and add them to your roster.
+- [Configure TLS-inspecting proxies (Zscaler / SWG)](https://cursor.com/docs/grok-bot/proxies) - Official Cursor docs for Grok Bot behind TLS-inspecting gateways (e.g. Zscaler): allow both *.cursorvm.com and nested *.*.cursorvm.com, exempt those domains from SSL inspection and response buffering, apply rules to every off-network profile, and verify with Amazon RSA issuer + nslookup test.us9.cursorvm.com—docs.x.ai has no proxies page.
 
 ## Tutorials & Guides
 
@@ -180,6 +182,7 @@
 - [UniFi + Cursor/Grok Bot MCP setup](https://github.com/joemartinxiii/unifi-cursor-grok-bot) - Setup guide to put UniFi Network/Protect in front of Grok Bot via sirkirby/unifi-mcp Cloud Relay without exposing LAN UniFi to the internet.
 - [Grok Bot complete guide (zh, 2026)](https://github.com/xianyu110/grokbot) - Chinese illustrated handbook that separates Grok Bot (cloud computer teammate) from grok.com chat and Grok Build, with install-to-routines path.
 - [SpaceXAI / Cursor / Grok Bot workshop (ES)](https://github.com/shiarauzo/grok-bot-cursor-workshop) - Spanish Next.js slide deck for a 2026-09-12 SpaceXAI workshop: corporate timeline, Grok vs Grok Bot, and a hands-on digital-teammate design exercise.
+- [grokbot.run English handbook](https://github.com/kibovrwa/grokbot-run) - Unofficial English Grok Bot handbook (grokbot.run): Cursor login, shared computer, operator roster, pricing pointers, and Recover-before-Reset.
 
 ## Field Cases
 
@@ -253,6 +256,10 @@
 - [WayMarker student tutor (Grok Bot + RAG)](https://github.com/DanielZ0217/WayMarker) - Cursor Student Build case: Grok Bot owns explanation/grading while a FastAPI/LangGraph TAagent backend (Milvus/Neo4j/Redis/Postgres + MCP) remembers the learner over time.
 - [CuteZineMaker (Hawaii Tech Week × Grok Bot)](https://github.com/TheGiraffe/CuteCursorProjects) - Flutter CuteZineMaker built with Cursor and a Grok Bot (“Very Cute Bot”) at Hawaii Tech Week—export booklet or classic 8-page zine layouts with screenshots.
 - [Household Grok Bot swarm writeup](https://github.com/ylgibby/grokbot-household-swarm) - Shareable case writeup of a specialized household Grok Bot swarm, with a live GitHub Pages story page.
+- [Manila Hackathon Builder (5-Bot ship kit)](https://github.com/Iron-Mark/Hackathon-Builder-Grok_Bot) - Manila Grok Bot hackathon kit: a five-bot group (orchestrator→reviewer) ships research→PRD→public repo with visible handoffs and live-run proof.
+- [Cape Fear Grok Bot lead-gen desk](https://github.com/altiracompany/grokbot-cape-fear) - Cape Fear / Alamo lead-gen Grok Bot desk (ranking sites → screened call handoff) with .grok app-env and Grok PWA install assets; no top-level README.
+- [Folio3 grounded marketing desk pack](https://github.com/mhasnainr/folio3-grounded-desk) - Source-grounded Folio3 B2B marketing desk pack: named Grok Bot profiles, grounded-brief/draft/red-team skills, sample outputs, and a static demo page.
+- [Real World Agents org chart (Ridarketh)](https://github.com/Ridarketh/-real-world-agents) - Live Grok Bot org-chart pack (Atlas/Scout/Quill/…) with seat charters and templates; active home after pyco404/-real-world-agents 404.
 
 ## Skills, Plugins & MCP
 
@@ -424,6 +431,7 @@
 - [Guzli MCP plugin (Cursor / Grok Bot)](https://github.com/kodeine/guzli-mcp-plugin) - Remote Guzli MCP connector for Cursor / Grok Bot (streamable HTTP + OAuth) to operate no-code chat/voice agents and a unified inbox.
 - [GrokDesk Solana memecoin desk](https://github.com/mrbluebirdgit/grokdesk) - Eight-role Solana memecoin desk pack for Grok Bot: profiles, installable skills, always-on rules, and read-only CLIs with no signer or private keys.
 - [GrokBot GTM agent system](https://github.com/lschwartz-hue/grokbot-gtm-agent-system) - Source-bound GTM starter for Grok Bot: GROKBOT.md ops rules, Level-1 bot roster, and a Task→Skill→Routine promotion path with human approval gates.
+- [Kolbo.AI Cursor/Grok Bot plugin](https://github.com/Zoharvan12/kolbo-plugin) - Kolbo.AI Cursor marketplace plugin that Grok Bot also loads: image/video/audio/3D skills, /kolbo command, and hosted Kolbo MCP.
 
 ## Reviews & Comparisons
 
@@ -541,6 +549,8 @@
 - [McX424 Omarchy bar chip for Grok Bot](https://github.com/McX424/omarchy-grok-bot) - Omarchy/Hyprland bar chip that opens or focuses the real Grok Bot desktop window (float/tile) without embedding Electron or wrapping a CLI.
 - [Gnomebot local Grok Bot mimic](https://github.com/davidthegnomad/gnomebot) - Local open-source Grok Bot mimic: named bot profile dirs sharing one persistent Docker Linux computer, with Tauri GUI, ReAct chat, and SKILL.md curator.
 - [LG ThinQ specialty cycles for Grok Bot](https://github.com/bryan-lmm/lg-thinq-grok-bot) - Unofficial ThinQ2 Python client so a Grok Bot can list and dry-run/start LG laundry specialty (SmartCourse) cycles without ThinQ Connect PAT.
+- [Dani Desktop (Grok Bot-like)](https://github.com/somdipto/dani-desktop) - Open-source Dani Desktop: Grok Bot-like chat roster of local Claude/Codex agents, each with its own cloud computer and approval gates.
+- [Hermes Mobile (open Grok Bot-like)](https://github.com/CodeUpdaterBot/Hermes-Mobile-App) - Open-source Hermes Mobile (Tauri): pocket control surface for Hermes bots on your PC—sessions, tools, approvals—positioned as a Grok Bot-like alternative.
 
 ## Community & Failure Modes
 
@@ -663,6 +673,8 @@
 - [Teams: grok-bot-* under Cursor Models is display-only — separate weekly pool](https://forum.cursor.com/t/cursor-team-grok-bot-is-using-my-first-party-cursor-models-allowance/170742) - Staff (mohitjain, 2026-09-07): On Cursor Teams, Grok Bot does not use your Cursor Models allowance—it has its own weekly pool (shown in the Grok Bot app); dashboard grok-bot-* rows under Cursor Models are display-only (grouped by model, not product) and won’t rate-limit you, but cloud agents launched from Grok Bot still count toward your Cursor plan.
 - [Ahrefs plugin “Failed to load connector” — provider rate-limit (don’t reinstall)](https://forum.cursor.com/t/grok-bot-ahrefs-plugin-fails-with-failed-to-load-connector/170891) - Staff (Colin, 2026-09-07): Ahrefs marketplace connector showing “Failed to load connector” / tools=0 is Ahrefs rate-limiting Grok Bot’s connection attempts—not a bad install; reinstalling or re-adding the account won’t fix it; retry later may occasionally work until Cursor changes the connector to back off and retry.
 - [Mac 0.43 one-agent Failed to send (iOS OK) — update desktop to 0.44.0](https://forum.cursor.com/t/grok-bot-macos-one-agent-larry-failed-to-send-missing-replies-iphone-ok-other-agents-ok-on-mac/170710) - Staff (mohitjain, 2026-09-07): If one Bot’s Mac chat shows “Failed to send” / missing replies while iPhone has the full thread and other Mac bots work, the bot is fine—desktop 0.43.0 can’t load that conversation; Reset/reinstall won’t help; update Grok Bot desktop to 0.44.0 (Settings → Updates; fully quit Cmd+Q if it claims you’re current) and use iOS until then.
+- [Shell Auto-review: npm/pnpm/yarn substring blocks before approval card](https://forum.cursor.com/t/grok-bot-shell-auto-review-executable-content-could-not-be-bound-never-shows-approval-card/170727) - Staff (Colin, 2026-09-07): “executable content could not be bound” can fire in a pre-check before any approval card when the command text contains npm/pnpm/yarn anywhere—including a full path like /workspace/.../bin/npm; until fixed, run PATH=/path/to/node/bin:$PATH npm ci (or npm install / npm run) as a single command with working_directory set—avoid absolute .../npm, npm -v alone, and && chains with npm.
+- [Synced skills reach Agents Window only — not Grok Bot-started cloud agents](https://forum.cursor.com/t/sync-skills-for-cloud-agents-stuck/170899) - Staff (deanrie, 2026-09-07): “Sync Skills for Cloud Agents” can hang on the final verification step after downloads finish (reason=missing), and even when sync succeeds only cloud agents started from the Cursor desktop Agents Window pick up ~/.cursor/skills—agents started from Grok Bot (or cursor.com/agents) do not yet; workaround: launch the cloud agent from Agents Window until the gap is fixed.
 
 ## Related Lists
 
@@ -747,7 +759,7 @@
 
 ## Contributing
 
-637 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+649 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

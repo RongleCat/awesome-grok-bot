@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-637-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-649-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -40,8 +40,8 @@
 - **中国**（5）：[上海](./EVENTS.ja.md#sha-20261017) · [杭州](./EVENTS.ja.md#hzo-20260919) · [北京](./EVENTS.ja.md#bj-20260919) · [広州](./EVENTS.ja.md#can-20260913) · [武漢](./EVENTS.ja.md#wuh-20261017)
 - **アメリカ**（14）：[オースティン](./EVENTS.ja.md#aus-20260910) · [ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ](./EVENTS.ja.md#g101-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfe-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [サンフランシスコ（PM）](./EVENTS.ja.md#sfpm-20260915) · [サンフランシスコ（Founders）](./EVENTS.ja.md#sffo-20260915) · [サンフランシスコ（Sales）](./EVENTS.ja.md#sfsales-20260916) · [ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [ダラス](./EVENTS.ja.md#dal-20260919)
 - **カナダ**（5）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [ビクトリア（BC）](./EVENTS.ja.md#vic-20260921) · [サドベリー](./EVENTS.ja.md#sud-20260917) · [トロント](./EVENTS.ja.md#yyz-20260917) · [モントリオール](./EVENTS.ja.md#yul-20260919)
+- **インドネシア**（5）：[タンゲラン](./EVENTS.ja.md#tgr-20260911) · [ウルワツ / バリ](./EVENTS.ja.md#bli-20260915) · [ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [バンドン](./EVENTS.ja.md#bdg-20260919) · [ジャカルタ](./EVENTS.ja.md#jkt-20261003)
 - **アルゼンチン**（4）：[バリローチェ](./EVENTS.ja.md#brc-20260910) · [ブエノスアイレス](./EVENTS.ja.md#bue-20260916) · [メンドサ](./EVENTS.ja.md#mdz-20261003) · [サルタ](./EVENTS.ja.md#sla-20260916)
-- **インドネシア**（4）：[タンゲラン](./EVENTS.ja.md#tgr-20260911) · [ウルワツ / バリ](./EVENTS.ja.md#bli-20260915) · [ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [バンドン](./EVENTS.ja.md#bdg-20260919)
 - **メキシコ**（4）：[モンテレイ](./EVENTS.ja.md#mty-20260910) · [プエブラ](./EVENTS.ja.md#pue-20260924) · [チワワ](./EVENTS.ja.md#cuu-20260924) · [メキシコシティ](./EVENTS.ja.md#cdmx-20260926)
 - **エクアドル**（3）：[マンタ](./EVENTS.ja.md#mec-20260912) · [キト](./EVENTS.ja.md#uio-20260924) · [クンバヤ](./EVENTS.ja.md#cumb-20261003)
 - **日本**（3）：[札幌](./EVENTS.ja.md#spk-20261002) · [東京](./EVENTS.ja.md#tyo-20260909) · [大阪](./EVENTS.ja.md#osa-20260917)
@@ -141,6 +141,8 @@
 - [Grok Bot use cases](https://x.ai/bot/use-cases) - 公式 x.ai/bot ユースケース一覧。営業・マーケ・サポート・採用・Ops・プロダクト・エンジニアリング向けの引き渡し可能な Bot 仕事（収録済み docs.x.ai/grok-bot/use-cases とは別ページ）。
 - [Setting Grok Bot loose on procurement (Haggle Bot)](https://x.ai/news/grok-bot-procurement) - 公式（2026-09-04）。xAI の調達 Haggle Bot 事例——支出・契約・利用データと権限ラインを渡すと、証拠付きで 10 万ドル超の SaaS 席・更新節約を出し、最終判断は人が行う。
 - [@bot: usage limits reset for all Grok Bot users](https://x.com/bot/status/2096303514230423629) - 公式 @bot（2026-09-05）：全 Grok Bot ユーザーの利用枠をリセットしたと告知。
+- [Bot Marketplace — public Grok Bot templates](https://x.ai/bot/marketplace) - 公式 x.ai Bot Marketplace。Grok Bot 向けの公開テンプレ 69 体を 9 カテゴリ（From Grok Bot Team、Engineering、Sales、Marketing、Design、Personal、Recruiting & People、Operations、Product）・43 クリエイターから探し、ロスターに追加できる。
+- [Configure TLS-inspecting proxies (Zscaler / SWG)](https://cursor.com/docs/grok-bot/proxies) - 公式 Cursor ドキュメント。TLS 検査ゲートウェイ（例: Zscaler）配下の Grok Bot 向けに *.cursorvm.com と入れ子の *.*.cursorvm.com の両方を許可し、SSL 検査と応答バッファを除外、オフネット含み全プロファイルへ適用；Amazon RSA の issuer と nslookup test.us9.cursorvm.com で確認。docs.x.ai に proxies ページはない。
 
 ## チュートリアルとガイド
 
@@ -180,6 +182,7 @@
 - [UniFi + Cursor/Grok Bot MCP setup](https://github.com/joemartinxiii/unifi-cursor-grok-bot) - セットアップガイド。sirkirby/unifi-mcp Cloud Relay 経由で UniFi Network/Protect を Grok Bot に繋ぎ、LAN の UniFi をインターネット公開しない。
 - [Grok Bot complete guide (zh, 2026)](https://github.com/xianyu110/grokbot) - 中国語の図解ハンドブック。Grok Bot（クラウドPC同僚）を grok.com チャットや Grok Build と区別し、導入からルーチンまで案内。
 - [SpaceXAI / Cursor / Grok Bot workshop (ES)](https://github.com/shiarauzo/grok-bot-cursor-workshop) - スペイン語 Next.js スライド。2026-09-12 SpaceXAI ワークショップ向け。沿革、Grok と Grok Bot の違い、デジタル仲間設計の演習。
+- [grokbot.run English handbook](https://github.com/kibovrwa/grokbot-run) - 非公式英語 Grok Bot ハンドブック（grokbot.run）。Cursor ログイン、共有コンピュータ、運用名簿、料金ポインタ、Recover-before-Reset。
 
 ## 実地事例
 
@@ -253,6 +256,10 @@
 - [WayMarker student tutor (Grok Bot + RAG)](https://github.com/DanielZ0217/WayMarker) - Cursor 学生ビルド事例。Grok Bot が説明・採点を担当し、FastAPI/LangGraph TAagent（Milvus/Neo4j/Redis/Postgres + MCP）が学習者を継続記憶。
 - [CuteZineMaker (Hawaii Tech Week × Grok Bot)](https://github.com/TheGiraffe/CuteCursorProjects) - Hawaii Tech Week で Cursor と Grok Bot（Very Cute Bot）が作った Flutter CuteZineMaker。冊子/8 ページ zine 出力とスクショ付き。
 - [Household Grok Bot swarm writeup](https://github.com/ylgibby/grokbot-household-swarm) - 家庭向け専門 Grok Bot スウォームの共有可能な事例ノート。GitHub Pages のストーリーページ付き。
+- [Manila Hackathon Builder (5-Bot ship kit)](https://github.com/Iron-Mark/Hackathon-Builder-Grok_Bot) - マニラ Grok Bot ハッカソンキット。5 Bot（オーケストレータ→レビュア）が調査→PRD→公開リポまで可視ハンドオフで届け、実走証明付き。
+- [Cape Fear Grok Bot lead-gen desk](https://github.com/altiracompany/grokbot-cape-fear) - Cape Fear / Alamo リード獲得 Grok Bot デスク。ランキングサイト→通話スクリーニング引き渡し。.grok と Grok PWA 資産あり、トップ README なし。
+- [Folio3 grounded marketing desk pack](https://github.com/mhasnainr/folio3-grounded-desk) - Folio3 向け根拠付き B2B マーケ卓パック。名前付き Grok Bot プロフィール、grounded-brief/draft/red-team スキル、サンプル出力と静的デモ。
+- [Real World Agents org chart (Ridarketh)](https://github.com/Ridarketh/-real-world-agents) - 現行の Grok Bot 組織図パック（Atlas/Scout/Quill/…）。席次チャーターとテンプレ付き。pyco404/-real-world-agents が 404 になった後の稼働リポ。
 
 ## スキル、プラグインと MCP
 
@@ -424,6 +431,7 @@
 - [Guzli MCP plugin (Cursor / Grok Bot)](https://github.com/kodeine/guzli-mcp-plugin) - Cursor / Grok Bot 向け Guzli リモート MCP（streamable HTTP + OAuth）。ノーコードのチャット/音声エージェントと統合受信箱を操作します。
 - [GrokDesk Solana memecoin desk](https://github.com/mrbluebirdgit/grokdesk) - Grok Bot 向け 8 役 Solana ミームコイン卓パック。プロフィール、導入スキル、常時ルール、読み取り専用 CLI。署名器や秘密鍵なし。
 - [GrokBot GTM agent system](https://github.com/lschwartz-hue/grokbot-gtm-agent-system) - Grok Bot 向け GTM スターター。GROKBOT.md 運用規則、Level-1 Bot 名簿、人承認ゲート付き Task→Skill→Routine 昇格パス。
+- [Kolbo.AI Cursor/Grok Bot plugin](https://github.com/Zoharvan12/kolbo-plugin) - Kolbo.AI の Cursor マーケットプラグイン。README 上 Grok Bot も同一カタログを読む。画像/動画/音声/3D スキル、/kolbo、ホスト型 Kolbo MCP。
 
 ## レビューと比較
 
@@ -541,6 +549,8 @@
 - [McX424 Omarchy bar chip for Grok Bot](https://github.com/McX424/omarchy-grok-bot) - Omarchy/Hyprland のバーチップ。本物の Grok Bot デスクトップ窓を開く/フォーカス（float/tile）。Electron 埋め込みや CLI ラッパなし。
 - [Gnomebot local Grok Bot mimic](https://github.com/davidthegnomad/gnomebot) - ローカル OSS の Grok Bot 模倣。名前付き Bot プロファイルが 1 台の永続 Docker Linux を共有し、Tauri GUI・ReAct チャット・SKILL.md キュレータ付き。
 - [LG ThinQ specialty cycles for Grok Bot](https://github.com/bryan-lmm/lg-thinq-grok-bot) - 非公式 ThinQ2 Python クライアント。Grok Bot が LG 洗濯 Specialty（SmartCourse）周期を一覧し dry-run/実行でき、ThinQ Connect PAT 不要。
+- [Dani Desktop (Grok Bot-like)](https://github.com/somdipto/dani-desktop) - OSS の Dani Desktop。Grok Bot 風のローカル Claude/Codex 仲間名簿で、各 Bot が専用クラウド PC と承認ゲートを持つ。
+- [Hermes Mobile (open Grok Bot-like)](https://github.com/CodeUpdaterBot/Hermes-Mobile-App) - OSS の Hermes Mobile（Tauri）。自 PC 上 Hermes Bot のセッション/ツール/承認をモバイル操作。Grok Bot 風の代替として位置づけ。
 
 ## コミュニティと障害事例
 
@@ -663,6 +673,8 @@
 - [Teams: grok-bot-* under Cursor Models is display-only — separate weekly pool](https://forum.cursor.com/t/cursor-team-grok-bot-is-using-my-first-party-cursor-models-allowance/170742) - Staff（mohitjain、2026-09-07）：Cursor Teams でも Grok Bot は Cursor Models 枠を使わず独自の週次プール（Grok Bot アプリ内表示）；ダッシュボードの grok-bot-* が Cursor Models 配下なのはモデル単位の表示グループで、それ自体はレート制限しない；ただし Grok Bot から起動した Cloud Agents は Cursor プランに計上される。
 - [Ahrefs plugin “Failed to load connector” — provider rate-limit (don’t reinstall)](https://forum.cursor.com/t/grok-bot-ahrefs-plugin-fails-with-failed-to-load-connector/170891) - Staff（Colin、2026-09-07）：Ahrefs コネクタの “Failed to load connector”/tools=0 は Ahrefs 側が Grok Bot の接続をレート制限しているためで、再インストールや再追加では直らない；バックオフ再試行が入るまで後で再試行すると稀に成功することがある。
 - [Mac 0.43 one-agent Failed to send (iOS OK) — update desktop to 0.44.0](https://forum.cursor.com/t/grok-bot-macos-one-agent-larry-failed-to-send-missing-replies-iphone-ok-other-agents-ok-on-mac/170710) - Staff（mohitjain、2026-09-07）：特定 Bot だけ Mac で Failed to send/返信欠落、iPhone は全文あり他 Bot は Mac でも動く場合、Bot 自体は健全で 0.43.0 デスクトップがその会話を読めない；Reset/再インストールは無効；デスクトップを 0.44.0 に更新（Settings → Updates；最新表示なら Cmd+Q で完全終了）し、それまで iOS を使う。
+- [Shell Auto-review: npm/pnpm/yarn substring blocks before approval card](https://forum.cursor.com/t/grok-bot-shell-auto-review-executable-content-could-not-be-bound-never-shows-approval-card/170727) - Staff（Colin、2026-09-07）：コマンド文字列のどこかに npm/pnpm/yarn が含まれると（/workspace/.../bin/npm のようなフルパス含む）承認カード前の事前チェックで “executable content could not be bound” になる；修正まで PATH=/path/to/node/bin:$PATH npm ci（または install/run）を working_directory 付きの単一コマンドで——絶対パスの npm、単独の npm -v、npm を含む && 連結は避ける。
+- [Synced skills reach Agents Window only — not Grok Bot-started cloud agents](https://forum.cursor.com/t/sync-skills-for-cloud-agents-stuck/170899) - Staff（deanrie、2026-09-07）：“Sync Skills for Cloud Agents” はダウンロード後の最終検証で止まることがある（reason=missing）。同期できても、今は Cursor デスクトップの Agents Window から起動した Cloud Agents だけが ~/.cursor/skills を拾い、Grok Bot（や cursor.com/agents）起点では未対応；回避策は Agents Window から起動する。
 
 ## 関連リスト
 
@@ -747,7 +759,7 @@
 
 ## 貢献
 
-8 セクションに 637 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 649 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-637-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-649-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -40,8 +40,8 @@
 - **中国**（5）：[上海](./EVENTS.zh.md#sha-20261017) · [杭州](./EVENTS.zh.md#hzo-20260919) · [北京](./EVENTS.zh.md#bj-20260919) · [广州](./EVENTS.zh.md#can-20260913) · [武汉](./EVENTS.zh.md#wuh-20261017)
 - **美国**（14）：[奥斯汀](./EVENTS.zh.md#aus-20260910) · [拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [旧金山（产品经理）](./EVENTS.zh.md#sfpm-20260915) · [旧金山（创始人）](./EVENTS.zh.md#sffo-20260915) · [旧金山（销售）](./EVENTS.zh.md#sfsales-20260916) · [匹兹堡](./EVENTS.zh.md#pgh-20261013) · [达拉斯](./EVENTS.zh.md#dal-20260919)
 - **加拿大**（5）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [萨德伯里](./EVENTS.zh.md#sud-20260917) · [多伦多](./EVENTS.zh.md#yyz-20260917) · [蒙特利尔](./EVENTS.zh.md#yul-20260919)
+- **印度尼西亚**（5）：[坦格朗](./EVENTS.zh.md#tgr-20260911) · [巴厘岛乌鲁瓦图](./EVENTS.zh.md#bli-20260915) · [巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [万隆](./EVENTS.zh.md#bdg-20260919) · [雅加达](./EVENTS.zh.md#jkt-20261003)
 - **阿根廷**（4）：[巴里洛切](./EVENTS.zh.md#brc-20260910) · [布宜诺斯艾利斯](./EVENTS.zh.md#bue-20260916) · [门多萨](./EVENTS.zh.md#mdz-20261003) · [萨尔塔](./EVENTS.zh.md#sla-20260916)
-- **印度尼西亚**（4）：[坦格朗](./EVENTS.zh.md#tgr-20260911) · [巴厘岛乌鲁瓦图](./EVENTS.zh.md#bli-20260915) · [巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [万隆](./EVENTS.zh.md#bdg-20260919)
 - **墨西哥**（4）：[蒙特雷](./EVENTS.zh.md#mty-20260910) · [普埃布拉](./EVENTS.zh.md#pue-20260924) · [奇瓦瓦](./EVENTS.zh.md#cuu-20260924) · [墨西哥城](./EVENTS.zh.md#cdmx-20260926)
 - **厄瓜多尔**（3）：[曼塔](./EVENTS.zh.md#mec-20260912) · [基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
 - **日本**（3）：[札幌](./EVENTS.zh.md#spk-20261002) · [东京](./EVENTS.zh.md#tyo-20260909) · [大阪](./EVENTS.zh.md#osa-20260917)
@@ -141,6 +141,8 @@
 - [Grok Bot use cases](https://x.ai/bot/use-cases) - 官方 x.ai/bot 用例廊：按销售、营销、支持、招聘、运营、产品、工程浏览可直接交办的 Bot 工作（与已收录的 docs.x.ai/grok-bot/use-cases 文档页不同）。.
 - [Setting Grok Bot loose on procurement (Haggle Bot)](https://x.ai/news/grok-bot-procurement) - 官方（2026-09-04）：xAI 采购 Haggle Bot 案例——给采购 Bot 支出/合同/用量权限与许可边界，即可挖出 10 万美元级有证据的 SaaS 闲置席位与续约节省，最终拍板仍由人确认。.
 - [@bot: usage limits reset for all Grok Bot users](https://x.com/bot/status/2096303514230423629) - 官方 @bot（2026-09-05）：SpaceXAI/Cursor 发帖称已为全体 Grok Bot 用户重置用量上限。.
+- [Bot Marketplace — public Grok Bot templates](https://x.ai/bot/marketplace) - 官方 x.ai Bot Marketplace：浏览 69 个公开精选 Grok Bot 模板，覆盖 9 大类（From Grok Bot Team、工程、销售、营销、设计、个人、招聘与人事、运营、产品），来自 43 位创作者，可一键加入你的 Bot 阵容。.
+- [Configure TLS-inspecting proxies (Zscaler / SWG)](https://cursor.com/docs/grok-bot/proxies) - 官方 Cursor 文档：企业 TLS 解密网关（如 Zscaler）下配置 Grok Bot——同时放行 *.cursorvm.com 与嵌套 *.*.cursorvm.com，对这些域关闭 SSL 解密与响应缓冲，并应用到所有离网配置；用 Amazon RSA 证书颁发者与 nslookup test.us9.cursorvm.com 自检；docs.x.ai 无对应 proxies 页。.
 
 ## 教程与上手指南
 
@@ -180,6 +182,7 @@
 - [UniFi + Cursor/Grok Bot MCP setup](https://github.com/joemartinxiii/unifi-cursor-grok-bot) - 上手指南：经 sirkirby/unifi-mcp Cloud Relay 把 UniFi Network/Protect 接到 Grok Bot，而不把局域网 UniFi 暴露到公网。.
 - [Grok Bot complete guide (zh, 2026)](https://github.com/xianyu110/grokbot) - 中文图文手册：把 Grok Bot（云电脑同事）与 grok.com 聊天、Grok Build 划清界限，覆盖从安装到例程。.
 - [SpaceXAI / Cursor / Grok Bot workshop (ES)](https://github.com/shiarauzo/grok-bot-cursor-workshop) - 西班牙语 Next.js 幻灯：2026-09-12 SpaceXAI 工作坊，讲公司时间线、Grok 与 Grok Bot 区别，并以设计数字队友收尾练习。.
+- [grokbot.run English handbook](https://github.com/kibovrwa/grokbot-run) - 非官方英文 Grok Bot 手册（grokbot.run）：Cursor 登录、共享电脑、运营花名册、定价指针与 Recover-before-Reset。.
 
 ## 真实使用案例
 
@@ -253,6 +256,10 @@
 - [WayMarker student tutor (Grok Bot + RAG)](https://github.com/DanielZ0217/WayMarker) - Cursor 学生构建案例：Grok Bot 负责讲解与开放题评分，FastAPI/LangGraph TAagent 后端（Milvus/Neo4j/Redis/Postgres + MCP）长期记住学习者。.
 - [CuteZineMaker (Hawaii Tech Week × Grok Bot)](https://github.com/TheGiraffe/CuteCursorProjects) - 在 Hawaii Tech Week 用 Cursor + Grok Bot（Very Cute Bot）做出的 Flutter CuteZineMaker：可导出册页或经典 8 页 zine 排版，含截图。.
 - [Household Grok Bot swarm writeup](https://github.com/ylgibby/grokbot-household-swarm) - 家庭场景下多角色 Grok Bot 集群的可分享案例写稿，并附 GitHub Pages 故事页。.
+- [Manila Hackathon Builder (5-Bot ship kit)](https://github.com/Iron-Mark/Hackathon-Builder-Grok_Bot) - 马尼拉 Grok Bot 黑客松套件：五席 Bot（编排→评审）把研究→PRD→公开仓库跑通，交接可见并附实跑证明。.
+- [Cape Fear Grok Bot lead-gen desk](https://github.com/altiracompany/grokbot-cape-fear) - Cape Fear/Alamo 获客 Grok Bot 桌面：占位排名站、筛通话并交接；含 .grok 与 Grok PWA 安装资源，暂无顶层 README。.
+- [Folio3 grounded marketing desk pack](https://github.com/mhasnainr/folio3-grounded-desk) - 面向 Folio3 的源文落地 B2B 营销桌面包：具名 Grok Bot 人设、grounded-brief/draft/red-team 技能、样例产出与静态演示页。.
+- [Real World Agents org chart (Ridarketh)](https://github.com/Ridarketh/-real-world-agents) - 仍在线的 Grok Bot 组织架构包（Atlas/Scout/Quill/…），含席位章程与模板；pyco404/-real-world-agents 已 404 后的现行仓库。.
 
 ## 技能、插件与 MCP
 
@@ -424,6 +431,7 @@
 - [Guzli MCP plugin (Cursor / Grok Bot)](https://github.com/kodeine/guzli-mcp-plugin) - 面向 Cursor / Grok Bot 的 Guzli 远程 MCP 连接器（streamable HTTP + OAuth），可操作无代码聊天/语音智能体与统一收件箱。.
 - [GrokDesk Solana memecoin desk](https://github.com/mrbluebirdgit/grokdesk) - 面向 Grok Bot 的八席 Solana meme 币桌面包：人设、可安装技能、常驻规则与只读 CLI，不含签名器或私钥。.
 - [GrokBot GTM agent system](https://github.com/lschwartz-hue/grokbot-gtm-agent-system) - 面向 Grok Bot 的 GTM 起步仓：GROKBOT.md 运营规则、一级 Bot 花名册，以及带人工审批闸门的 Task→Skill→Routine 晋级路径。.
+- [Kolbo.AI Cursor/Grok Bot plugin](https://github.com/Zoharvan12/kolbo-plugin) - Kolbo.AI 的 Cursor 市场插件，README 写明 Grok Bot 共用同一目录：图像/视频/音频/3D 技能、/kolbo 命令与托管 Kolbo MCP。.
 
 ## 评测与对比
 
@@ -541,6 +549,8 @@
 - [McX424 Omarchy bar chip for Grok Bot](https://github.com/McX424/omarchy-grok-bot) - Omarchy/Hyprland 状态栏芯片：打开或聚焦真正的 Grok Bot 桌面窗口（浮动/平铺），不内嵌 Electron、不包装 CLI。.
 - [Gnomebot local Grok Bot mimic](https://github.com/davidthegnomad/gnomebot) - 本地开源的 Grok Bot 仿品：具名 Bot 配置目录共享一台持久 Docker Linux 电脑，含 Tauri GUI、ReAct 对话与 SKILL.md 策展。.
 - [LG ThinQ specialty cycles for Grok Bot](https://github.com/bryan-lmm/lg-thinq-grok-bot) - 非官方 ThinQ2 Python 客户端：让 Grok Bot 列出并以 dry-run/执行方式启动 LG 洗衣 Specialty（SmartCourse）周期，无需 ThinQ Connect PAT。.
+- [Dani Desktop (Grok Bot-like)](https://github.com/somdipto/dani-desktop) - 开源 Dani Desktop：Grok Bot 风格的本地 Claude/Codex 队友花名册，每席自带云电脑与审批闸门。.
+- [Hermes Mobile (open Grok Bot-like)](https://github.com/CodeUpdaterBot/Hermes-Mobile-App) - 开源 Hermes Mobile（Tauri）：把本机 Hermes Bot 的会话/工具/审批装进口袋，自我定位为类 Grok Bot 的开源替代。.
 
 ## 社区与故障现场
 
@@ -663,6 +673,8 @@
 - [Teams: grok-bot-* under Cursor Models is display-only — separate weekly pool](https://forum.cursor.com/t/cursor-team-grok-bot-is-using-my-first-party-cursor-models-allowance/170742) - Staff（mohitjain，2026-09-07）：Cursor Teams 上 Grok Bot 不占用 Cursor Models 额度，而是独立周池（在 Grok Bot 应用内可见）；仪表盘把 grok-bot-* 列在 Cursor Models 下只是按模型分组的展示问题，不会因此限流；但从 Grok Bot 拉起的 Cloud Agents 仍计入 Cursor 套餐。.
 - [Ahrefs plugin “Failed to load connector” — provider rate-limit (don’t reinstall)](https://forum.cursor.com/t/grok-bot-ahrefs-plugin-fails-with-failed-to-load-connector/170891) - Staff（Colin，2026-09-07）：Ahrefs 插件显示 “Failed to load connector”/tools=0 是 Ahrefs 在限流 Grok Bot 的连接尝试，不是安装损坏；重装或重新添加账号无效；修好退避重试前偶尔晚些再试可能偶发成功。.
 - [Mac 0.43 one-agent Failed to send (iOS OK) — update desktop to 0.44.0](https://forum.cursor.com/t/grok-bot-macos-one-agent-larry-failed-to-send-missing-replies-iphone-ok-other-agents-ok-on-mac/170710) - Staff（mohitjain，2026-09-07）：若某个 Bot 在 Mac 上 Failed to send/看不到回复，但 iPhone 线程完整且其他 Mac Bot 正常，说明 Bot 本身没问题——是桌面 0.43.0 加载不了该会话；Reset/重装无效；把桌面升到 0.44.0（Settings → Updates；若显示已最新则 Cmd+Q 完全退出再开），升级前先用 iOS。.
+- [Shell Auto-review: npm/pnpm/yarn substring blocks before approval card](https://forum.cursor.com/t/grok-bot-shell-auto-review-executable-content-could-not-be-bound-never-shows-approval-card/170727) - Staff（Colin，2026-09-07）：命令文本里任意位置出现 npm/pnpm/yarn（含 /workspace/.../bin/npm 这类完整路径）会在审批卡之前被预检拒绝 “executable content could not be bound”；修好前用 PATH=/path/to/node/bin:$PATH npm ci（或 install/run），设 working_directory，单条命令——避免绝对路径 npm、单独 npm -v，以及带 npm 的 && 链式命令。.
+- [Synced skills reach Agents Window only — not Grok Bot-started cloud agents](https://forum.cursor.com/t/sync-skills-for-cloud-agents-stuck/170899) - Staff（deanrie，2026-09-07）：“Sync Skills for Cloud Agents” 可能在下载完成后卡在最终校验（reason=missing）；即便同步成功，目前也只有从 Cursor 桌面 Agents Window 启动的 Cloud Agents 会带上 ~/.cursor/skills——从 Grok Bot（或 cursor.com/agents）启动的还拿不到；权宜之计：先从 Agents Window 拉起 Cloud Agent。.
 
 ## 相关列表
 
@@ -747,7 +759,7 @@
 
 ## 贡献
 
-目前 8 个分类、637 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、649 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
