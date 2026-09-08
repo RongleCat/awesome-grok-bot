@@ -964,6 +964,26 @@
             "zh": "非官方英文 Grok Bot 手册（grokbot.run）：Cursor 登录、共享电脑、运营花名册、定价指针与 Recover-before-Reset。",
             "ja": "非公式英語 Grok Bot ハンドブック（grokbot.run）。Cursor ログイン、共有コンピュータ、運用名簿、料金ポインタ、Recover-before-Reset。"
           }
+        },
+        {
+          "title": "GrokBot Learning storyboard",
+          "url": "https://github.com/rajvictor1/grokbot-learning",
+          "source": "GB-678",
+          "blurb": {
+            "en": "Interactive Next.js storyboard from a live GrokBot masterclass: 4-C design, cloud computer, scout bots, group chat, and 42 session screenshots.",
+            "zh": "基于现场 GrokBot 大师课的交互式 Next.js 故事板：4-C 设计、云电脑、侦察 Bot、群聊与 42 张课堂截图。",
+            "ja": "ライブ GrokBot マスタークラスから作った対話型 Next.js ストーリーボード。4-C 設計、クラウド PC、スカウト Bot、グループチャット、42枚の画面キャプチャ。"
+          }
+        },
+        {
+          "title": "無為 Grok Bot personal playbook",
+          "url": "https://github.com/bianwuwei/grok-bot-playbook",
+          "source": "GB-679",
+          "blurb": {
+            "en": "Bilingual personal Grok Bot playbook (zero → public portfolio) with seven chapters, checklists, and copyable Bot-brief/first-task templates.",
+            "zh": "双语个人 Grok Bot 实战手册（从零到公开作品集）：七章检查清单，外加可复制的 Bot 简介与首单任务模板。",
+            "ja": "ゼロから公開ポートフォリオまでの二言語 Grok Bot 個人プレイブック。7章のチェックリストと Bot 概要・初回タスクのコピー用テンプレ付き。"
+          }
         }
       ]
     },
@@ -1713,6 +1733,16 @@
             "en": "Live Grok Bot org-chart pack (Atlas/Scout/Quill/…) with seat charters and templates; active home after pyco404/-real-world-agents 404.",
             "zh": "仍在线的 Grok Bot 组织架构包（Atlas/Scout/Quill/…），含席位章程与模板；pyco404/-real-world-agents 已 404 后的现行仓库。",
             "ja": "現行の Grok Bot 組織図パック（Atlas/Scout/Quill/…）。席次チャーターとテンプレ付き。pyco404/-real-world-agents が 404 になった後の稼働リポ。"
+          }
+        },
+        {
+          "title": "Signal outbound Grok Bot desk",
+          "url": "https://github.com/nifinet/signal-outbound-grok-bot",
+          "source": "GB-677",
+          "blurb": {
+            "en": "Grok Bot outbound desk recipe: PROFILE, Max MCP, hunt/rank skills, and a weekday digest routine—Bot drafts top-two outreach; human sends.",
+            "zh": "Grok Bot 外联获客桌面配方：PROFILE、Max MCP、hunt/rank 技能与工作日摘要例程——Bot 起草前两名话术，人再发送。",
+            "ja": "Grok Bot アウトバウンド机のレシピ。PROFILE・Max MCP・hunt/rank スキルと平日ダイジェスト。Bot が上位2件の文案を起草し、送信は人が行う。"
           }
         }
       ]
@@ -3414,6 +3444,46 @@
             "zh": "Kolbo.AI 的 Cursor 市场插件，README 写明 Grok Bot 共用同一目录：图像/视频/音频/3D 技能、/kolbo 命令与托管 Kolbo MCP。",
             "ja": "Kolbo.AI の Cursor マーケットプラグイン。README 上 Grok Bot も同一カタログを読む。画像/動画/音声/3D スキル、/kolbo、ホスト型 Kolbo MCP。"
           }
+        },
+        {
+          "title": "Twilio ↔ Grok Voice bridge skill",
+          "url": "https://github.com/jeffhuber/twilio-grok-voice-bridge",
+          "source": "GB-673",
+          "blurb": {
+            "en": "Grok Bot skill plus Node bridge: Twilio Media Streams ↔ xAI Grok Voice for outbound calls with steer, transcript, voice switch, and operator hangup gate.",
+            "zh": "Grok Bot 技能与 Node 桥接：Twilio Media Streams 对接 xAI Grok Voice，支持外呼、中途引导、转写、换声与人工挂断闸门。",
+            "ja": "Grok Bot スキル＋Node ブリッジ。Twilio Media Streams と xAI Grok Voice を接続し、外線発信・途中誘導・文字起こし・音声切替・オペレーター切断ゲート付き。"
+          }
+        },
+        {
+          "title": "SentiSense Cursor/Grok Bot market plugin",
+          "url": "https://github.com/SentiSenseApp/cursor-plugin",
+          "source": "GB-674",
+          "blurb": {
+            "en": "SentiSense Cursor marketplace plugin marketed for Grok Bot: OAuth MCP stock research plus six skills (terminal, sentiment, dashboard, congressional tracker).",
+            "zh": "面向 Grok Bot 的 SentiSense Cursor 市场插件：OAuth MCP 美股研究，外加终端/情绪/简报/议员交易等六项技能。",
+            "ja": "Grok Bot 向けと明記の SentiSense Cursor マーケットプラグイン。OAuth MCP の株式リサーチと terminal/sentiment/dashboard/議員トラッカーなど6スキル。"
+          }
+        },
+        {
+          "title": "Cloche publish plugin (Cursor + Grok Bot)",
+          "url": "https://github.com/cloche-it/plugin",
+          "source": "GB-675",
+          "blurb": {
+            "en": "Cloche marketplace plugin for Cursor and Grok Bot: MCP publish/share of agent-built single-page apps with a bundled publish skill.",
+            "zh": "Cloche 的 Cursor/Grok Bot 市场插件：用 MCP 把智能体做好的单页应用一键发布分享，并附发布技能。",
+            "ja": "Cursor と Grok Bot 向け Cloche マーケットプラグイン。エージェント製の単一ページアプリを MCP で公開・共有し、公開スキル同梱。"
+          }
+        },
+        {
+          "title": "Blender low-poly skill (Grok Bot)",
+          "url": "https://github.com/DLeungDL/blender-lowpoly-skill",
+          "source": "GB-676",
+          "blurb": {
+            "en": "Portable Blender low-poly skill for OpenClaw/Grok Bot: MCP or bpy paths, four-view checks, and hard-edge Shade Flat recipes.",
+            "zh": "面向 OpenClaw/Grok Bot 的 Blender 低模技能：走 MCP 或 bpy，含四视图检查与硬边 Shade Flat 配方。",
+            "ja": "OpenClaw/Grok Bot 向け Blender ローポリスキル。MCP か bpy、四面ビュー検査、ハードエッジ Shade Flat レシピ。"
+          }
         }
       ]
     },
@@ -4563,6 +4633,46 @@
             "en": "Open-source Hermes Mobile (Tauri): pocket control surface for Hermes bots on your PC—sessions, tools, approvals—positioned as a Grok Bot-like alternative.",
             "zh": "开源 Hermes Mobile（Tauri）：把本机 Hermes Bot 的会话/工具/审批装进口袋，自我定位为类 Grok Bot 的开源替代。",
             "ja": "OSS の Hermes Mobile（Tauri）。自 PC 上 Hermes Bot のセッション/ツール/承認をモバイル操作。Grok Bot 風の代替として位置づけ。"
+          }
+        },
+        {
+          "title": "ARRA Oracle GrokBot Bridge",
+          "url": "https://github.com/nat-build-with-oracle/omx-grokbot",
+          "source": "GB-680",
+          "blurb": {
+            "en": "Open ARRA Oracle bridge for Grok Bot: Streamable HTTP MCP, owner OAuth, message ledger/LanceDB memory, and a React workspace (MIT).",
+            "zh": "开源 ARRA Oracle 与 Grok Bot 桥：Streamable HTTP MCP、所有者 OAuth、消息账本/LanceDB 记忆与 React 工作区（MIT）。",
+            "ja": "Grok Bot 向けオープンな ARRA Oracle ブリッジ。Streamable HTTP MCP、オーナー OAuth、メッセージ台帳/LanceDB 記憶、React ワークスペース（MIT）。"
+          }
+        },
+        {
+          "title": "Omarchy Grok Bot usage bar",
+          "url": "https://github.com/pixbroker/grokbar-omarchy",
+          "source": "GB-681",
+          "blurb": {
+            "en": "Omarchy QML bar plugin metering SuperGrok, optional Grok Bot weekly pool, Cursor, and Claude Code usage from the local signed-in session.",
+            "zh": "Omarchy QML 状态栏插件：读取本机登录会话，显示 SuperGrok、可选 Grok Bot 周额度、Cursor 与 Claude Code 用量。",
+            "ja": "Omarchy の QML バープラグイン。ローカルログインから SuperGrok・任意の Grok Bot 週次枠・Cursor・Claude Code の使用量を表示。"
+          }
+        },
+        {
+          "title": "멀티봇 (GrokBot-style local)",
+          "url": "https://github.com/sbngj1/multibot",
+          "source": "GB-682",
+          "blurb": {
+            "en": "Open 멀티봇 home-node: GrokBot-style chat UI routing Grok Build/Claude Code/Codex engines, with Android SSH companion and group bots.",
+            "zh": "开源「멀티봇」本机节点：GrokBot 风格聊天 UI，路由 Grok Build/Claude Code/Codex，并带 Android SSH 伴侣与多 Bot 群组。",
+            "ja": "OSS のマルチボットホームノード。GrokBot 風チャット UI で Grok Build/Claude Code/Codex を振り分け、Android SSH コンパニオンとグループ Bot 対応。"
+          }
+        },
+        {
+          "title": "ensembly operator kernel",
+          "url": "https://github.com/thecuriousts/ensembly",
+          "source": "GB-683",
+          "blurb": {
+            "en": "Thin operator kernel under Grok Bot/Build first: local HITL gates, SQLite ledger, episodic memory, and pulse sync—not a second chat OS.",
+            "zh": "优先托在 Grok Bot/Build 之下的精简操作内核：本地 HITL 闸门、SQLite 台账、情节记忆与 pulse 同步——不是第二套聊天 OS。",
+            "ja": "まず Grok Bot/Build の下に載せる薄いオペレーターカーネル。ローカル HITL ゲート、SQLite 台帳、エピソード記憶、pulse 同期。第二のチャット OS ではない。"
           }
         }
       ]
@@ -5784,6 +5894,56 @@
             "zh": "Staff（deanrie，2026-09-07）：“Sync Skills for Cloud Agents” 可能在下载完成后卡在最终校验（reason=missing）；即便同步成功，目前也只有从 Cursor 桌面 Agents Window 启动的 Cloud Agents 会带上 ~/.cursor/skills——从 Grok Bot（或 cursor.com/agents）启动的还拿不到；权宜之计：先从 Agents Window 拉起 Cloud Agent。",
             "ja": "Staff（deanrie、2026-09-07）：“Sync Skills for Cloud Agents” はダウンロード後の最終検証で止まることがある（reason=missing）。同期できても、今は Cursor デスクトップの Agents Window から起動した Cloud Agents だけが ~/.cursor/skills を拾い、Grok Bot（や cursor.com/agents）起点では未対応；回避策は Agents Window から起動する。"
           }
+        },
+        {
+          "title": "Public template publish “team must be selected” — leave leftover workspaces",
+          "url": "https://forum.cursor.com/t/grok-bot-public-template-publish-fails-with-a-team-must-be-selected-to-share-a-team-template-on-personal-ultra/170926",
+          "source": "GB-686",
+          "blurb": {
+            "en": "Staff (mohitjain, 2026-09-08): On personal Ultra, Public template export can fail with “A team must be selected to share a team template” when the account is still attached to leftover team workspaces (old invites/trials)—leave extra teams at cursor.com/dashboard, then ask the Bot to share as Public again for the review card and x.ai/bot link.",
+            "zh": "Staff（mohitjain，2026-09-08）：个人 Ultra 发布 Public 模板若仍挂着多余团队工作区（旧邀请/试用），会报 “A team must be selected to share a team template”——到 cursor.com/dashboard 退出多余团队后，再让 Bot 以 Public 分享，即可出现审核卡与 x.ai/bot 链接。",
+            "ja": "Staff（mohitjain、2026-09-08）：個人 Ultra で Public テンプレ公開が “A team must be selected to share a team template” になるのは、旧招待/トライアルの余剰チーム作業領域が残っているため。cursor.com/dashboard で余分なチームを離れ、再度 Public 共有すればレビューカードと x.ai/bot リンクが出る。"
+          }
+        },
+        {
+          "title": "stdio MCP wrappers in bot secrets break after bot delete — use shared path",
+          "url": "https://forum.cursor.com/t/grok-bot-stdio-mcp-keeps-spawn-path-into-deleted-agent-secrets/170901",
+          "source": "GB-687",
+          "blurb": {
+            "en": "Staff (mohitjain, 2026-09-08): Account-wide stdio MCP servers that spawn a wrapper under agents/<agentId>/secrets die when that bot is deleted—keep wrappers/creds in a bot-independent path (e.g. /home/box/mcp-wrappers/), re-point the server command (or register npx/uvx + env keys directly), then Restart MCP.",
+            "zh": "Staff（mohitjain，2026-09-08）：账号级 stdio MCP 若把 wrapper 放在 agents/<agentId>/secrets，删除该 Bot 后路径失效——请把 wrapper/凭据放到与 Bot 无关的路径（如 /home/box/mcp-wrappers/），改指向或直接用 npx/uvx + env 注册密钥，再 Restart MCP。",
+            "ja": "Staff（mohitjain、2026-09-08）：アカウント共通の stdio MCP が agents/<agentId>/secrets 配下のラッパーを指していると、その Bot 削除でパスが消える。ラッパー/資格情報は Bot 非依存パス（例: /home/box/mcp-wrappers/）へ移し、コマンドを付け直すか npx/uvx + env で登録してから Restart MCP。"
+          }
+        },
+        {
+          "title": "MCP “needsAuth” badge for non-OAuth connectors is cosmetic",
+          "url": "https://forum.cursor.com/t/grok-bot-mcp-status-stays-needsauth-after-authenticatemcpserver-says-already-connected/170900",
+          "source": "GB-688",
+          "blurb": {
+            "en": "Staff (mohitjain, 2026-09-08): The Plugins badge only treats OAuth as authenticated, so public/API-token connectors (e.g. Cloudflare docs, Fastmail) can show needsAuth even when tools already run—Authenticate just reconfirms and a restart re-reads the same state; leave them as-is unless the badge blocks other bots.",
+            "zh": "Staff（mohitjain，2026-09-08）：Plugins 徽章只把 OAuth 算作已认证，因此公开/API token 类连接器（如 Cloudflare docs、Fastmail）即使工具已可用仍可能显示 needsAuth——Authenticate 只是再确认，重启会读回同一状态；除非徽章妨碍其他 Bot，否则可忽略。",
+            "ja": "Staff（mohitjain、2026-09-08）：Plugins のバッジは OAuth のみを認証済みと数えるため、公開/API トークン系（Cloudflare docs、Fastmail など）はツールが動いていても needsAuth のままになり得る。Authenticate は再確認、再起動も同じ状態を読むだけ；他 Bot の妨げにならなければ無視してよい。"
+          }
+        },
+        {
+          "title": "GitHub plugin “Needs auth” / no sign-in link — PAT Setup Values already work",
+          "url": "https://forum.cursor.com/t/grok-bot-github-plugin-authenticate-github-didnt-provide-a-sign-in-link/170898",
+          "source": "GB-689",
+          "blurb": {
+            "en": "Staff (mohitjain, 2026-09-08): The GitHub plugin signs in via the personal access token under Setup Values (Edit Values), not a browser OAuth link—so Needs auth plus “Github didn't provide a sign-in link” is a labeling bug when tools already load; confirm with “Using the GitHub connector, which GitHub user am I signed in as?” and ignore the badge.",
+            "zh": "Staff（mohitjain，2026-09-08）：GitHub 插件用 Setup Values（Edit Values）里的 PAT 认证，不是浏览器 OAuth——因此工具已加载时仍显示 Needs auth / “Github didn't provide a sign-in link” 只是文案问题；可用 “Using the GitHub connector, which GitHub user am I signed in as?” 自检并忽略徽章。",
+            "ja": "Staff（mohitjain、2026-09-08）：GitHub プラグインは Setup Values（Edit Values）の PAT で認証し、ブラウザ OAuth ではない。ツールが既に載っているのに Needs auth / “Github didn't provide a sign-in link” と出るのは表示バグ；“Using the GitHub connector, which GitHub user am I signed in as?” で確認しバッジは無視してよい。"
+          }
+        },
+        {
+          "title": "Trial ended shows as “Can’t reach your computer” — renew/link plan",
+          "url": "https://forum.cursor.com/t/grok-bot-0-44-0-macos-can-t-reach-your-computer-retry-and-recover-fail-even-after-re-login/171004",
+          "source": "GB-690",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-08): After the 1-week free Grok Bot trial ends, the app can keep showing “Can’t reach your computer” / *.cursorvm.com / Zscaler copy even though Retry/Recover/re-login won’t help—pick a plan that includes Grok Bot (or link SuperGrok at cursor.com with the same email), fully quit from the menu bar, reopen, and sign in again; bots/files stay saved.",
+            "zh": "Staff（deanrie，2026-09-08）：一周免费试用结束后，应用仍可能显示 “Can’t reach your computer” / *.cursorvm.com / Zscaler 文案，Retry/Recover/重登无效——请选择含 Grok Bot 的套餐（或用同一邮箱在 cursor.com 关联 SuperGrok），从菜单栏完全退出后重开并登录；Bot/文件仍保留。",
+            "ja": "Staff（deanrie、2026-09-08）：1 週間無料トライアル終了後も “Can’t reach your computer” / *.cursorvm.com / Zscaler 表示のままになり、Retry/Recover/再ログインでは直らない。Grok Bot 付きプランを選ぶか同一メールで SuperGrok を cursor.com にリンクし、メニューバーから完全終了→再起動→再サインイン。Bot/ファイルは保持される。"
+          }
         }
       ]
     },
@@ -6573,6 +6733,26 @@
             "en": "Staff pattern reference for desktop multi-agent assistants hosted on Grok Bot: crew, shared computer, routines, connectors, and HITL.",
             "zh": "以 Grok Bot 为宿主的桌面多智能体助手架构参考：班组、共享电脑、例程、连接器与人在回路（HITL）。",
             "ja": "Grok Bot をホストとするデスクトップ多智能体アシスタントのスタッフ向けパターン。班、共有 PC、ルーチン、コネクタ、HITL。"
+          }
+        },
+        {
+          "title": "Grok Bot Chinese intro site",
+          "url": "https://github.com/Aaronwn/grokbot-site",
+          "source": "GB-684",
+          "blurb": {
+            "en": "Static Chinese Grok Bot explainer landing (no build step): cloud-box vs laptop, what it can do, and how it differs from chat-only Grok.",
+            "zh": "无构建步骤的中文 Grok Bot 介绍落地页：云端机 vs 本机、能做什么，以及和纯聊天 Grok 的差别。",
+            "ja": "ビルド不要の中国語 Grok Bot 紹介ランディング。クラウド箱とノートPCの違い、できること、チャット専用 Grok との差を説明。"
+          }
+        },
+        {
+          "title": "Bot Shelf (rent Grok Bot teams)",
+          "url": "https://github.com/BotShelfVampire/botshelf",
+          "source": "GB-685",
+          "blurb": {
+            "en": "Bot Shelf marketplace docs plus dozens of paste-ready Grok Bot team packs (proof-of-run, human Yes gates, USDT checkout notes).",
+            "zh": "Bot Shelf 市场说明与数十份可粘贴的 Grok Bot 团队包（实跑证明、人工 Yes 闸门、USDT 结账说明）。",
+            "ja": "Bot Shelf マーケットの文書と、貼り付け即用の Grok Bot チームパック多数（実走証明、人の Yes ゲート、USDT 決済メモ）。"
           }
         }
       ]

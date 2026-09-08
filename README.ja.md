@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-649-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-667-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -183,6 +183,8 @@
 - [Grok Bot complete guide (zh, 2026)](https://github.com/xianyu110/grokbot) - 中国語の図解ハンドブック。Grok Bot（クラウドPC同僚）を grok.com チャットや Grok Build と区別し、導入からルーチンまで案内。
 - [SpaceXAI / Cursor / Grok Bot workshop (ES)](https://github.com/shiarauzo/grok-bot-cursor-workshop) - スペイン語 Next.js スライド。2026-09-12 SpaceXAI ワークショップ向け。沿革、Grok と Grok Bot の違い、デジタル仲間設計の演習。
 - [grokbot.run English handbook](https://github.com/kibovrwa/grokbot-run) - 非公式英語 Grok Bot ハンドブック（grokbot.run）。Cursor ログイン、共有コンピュータ、運用名簿、料金ポインタ、Recover-before-Reset。
+- [GrokBot Learning storyboard](https://github.com/rajvictor1/grokbot-learning) - ライブ GrokBot マスタークラスから作った対話型 Next.js ストーリーボード。4-C 設計、クラウド PC、スカウト Bot、グループチャット、42枚の画面キャプチャ。
+- [無為 Grok Bot personal playbook](https://github.com/bianwuwei/grok-bot-playbook) - ゼロから公開ポートフォリオまでの二言語 Grok Bot 個人プレイブック。7章のチェックリストと Bot 概要・初回タスクのコピー用テンプレ付き。
 
 ## 実地事例
 
@@ -260,6 +262,7 @@
 - [Cape Fear Grok Bot lead-gen desk](https://github.com/altiracompany/grokbot-cape-fear) - Cape Fear / Alamo リード獲得 Grok Bot デスク。ランキングサイト→通話スクリーニング引き渡し。.grok と Grok PWA 資産あり、トップ README なし。
 - [Folio3 grounded marketing desk pack](https://github.com/mhasnainr/folio3-grounded-desk) - Folio3 向け根拠付き B2B マーケ卓パック。名前付き Grok Bot プロフィール、grounded-brief/draft/red-team スキル、サンプル出力と静的デモ。
 - [Real World Agents org chart (Ridarketh)](https://github.com/Ridarketh/-real-world-agents) - 現行の Grok Bot 組織図パック（Atlas/Scout/Quill/…）。席次チャーターとテンプレ付き。pyco404/-real-world-agents が 404 になった後の稼働リポ。
+- [Signal outbound Grok Bot desk](https://github.com/nifinet/signal-outbound-grok-bot) - Grok Bot アウトバウンド机のレシピ。PROFILE・Max MCP・hunt/rank スキルと平日ダイジェスト。Bot が上位2件の文案を起草し、送信は人が行う。
 
 ## スキル、プラグインと MCP
 
@@ -432,6 +435,10 @@
 - [GrokDesk Solana memecoin desk](https://github.com/mrbluebirdgit/grokdesk) - Grok Bot 向け 8 役 Solana ミームコイン卓パック。プロフィール、導入スキル、常時ルール、読み取り専用 CLI。署名器や秘密鍵なし。
 - [GrokBot GTM agent system](https://github.com/lschwartz-hue/grokbot-gtm-agent-system) - Grok Bot 向け GTM スターター。GROKBOT.md 運用規則、Level-1 Bot 名簿、人承認ゲート付き Task→Skill→Routine 昇格パス。
 - [Kolbo.AI Cursor/Grok Bot plugin](https://github.com/Zoharvan12/kolbo-plugin) - Kolbo.AI の Cursor マーケットプラグイン。README 上 Grok Bot も同一カタログを読む。画像/動画/音声/3D スキル、/kolbo、ホスト型 Kolbo MCP。
+- [Twilio ↔ Grok Voice bridge skill](https://github.com/jeffhuber/twilio-grok-voice-bridge) - Grok Bot スキル＋Node ブリッジ。Twilio Media Streams と xAI Grok Voice を接続し、外線発信・途中誘導・文字起こし・音声切替・オペレーター切断ゲート付き。
+- [SentiSense Cursor/Grok Bot market plugin](https://github.com/SentiSenseApp/cursor-plugin) - Grok Bot 向けと明記の SentiSense Cursor マーケットプラグイン。OAuth MCP の株式リサーチと terminal/sentiment/dashboard/議員トラッカーなど6スキル。
+- [Cloche publish plugin (Cursor + Grok Bot)](https://github.com/cloche-it/plugin) - Cursor と Grok Bot 向け Cloche マーケットプラグイン。エージェント製の単一ページアプリを MCP で公開・共有し、公開スキル同梱。
+- [Blender low-poly skill (Grok Bot)](https://github.com/DLeungDL/blender-lowpoly-skill) - OpenClaw/Grok Bot 向け Blender ローポリスキル。MCP か bpy、四面ビュー検査、ハードエッジ Shade Flat レシピ。
 
 ## レビューと比較
 
@@ -551,6 +558,10 @@
 - [LG ThinQ specialty cycles for Grok Bot](https://github.com/bryan-lmm/lg-thinq-grok-bot) - 非公式 ThinQ2 Python クライアント。Grok Bot が LG 洗濯 Specialty（SmartCourse）周期を一覧し dry-run/実行でき、ThinQ Connect PAT 不要。
 - [Dani Desktop (Grok Bot-like)](https://github.com/somdipto/dani-desktop) - OSS の Dani Desktop。Grok Bot 風のローカル Claude/Codex 仲間名簿で、各 Bot が専用クラウド PC と承認ゲートを持つ。
 - [Hermes Mobile (open Grok Bot-like)](https://github.com/CodeUpdaterBot/Hermes-Mobile-App) - OSS の Hermes Mobile（Tauri）。自 PC 上 Hermes Bot のセッション/ツール/承認をモバイル操作。Grok Bot 風の代替として位置づけ。
+- [ARRA Oracle GrokBot Bridge](https://github.com/nat-build-with-oracle/omx-grokbot) - Grok Bot 向けオープンな ARRA Oracle ブリッジ。Streamable HTTP MCP、オーナー OAuth、メッセージ台帳/LanceDB 記憶、React ワークスペース（MIT）。
+- [Omarchy Grok Bot usage bar](https://github.com/pixbroker/grokbar-omarchy) - Omarchy の QML バープラグイン。ローカルログインから SuperGrok・任意の Grok Bot 週次枠・Cursor・Claude Code の使用量を表示。
+- [멀티봇 (GrokBot-style local)](https://github.com/sbngj1/multibot) - OSS のマルチボットホームノード。GrokBot 風チャット UI で Grok Build/Claude Code/Codex を振り分け、Android SSH コンパニオンとグループ Bot 対応。
+- [ensembly operator kernel](https://github.com/thecuriousts/ensembly) - まず Grok Bot/Build の下に載せる薄いオペレーターカーネル。ローカル HITL ゲート、SQLite 台帳、エピソード記憶、pulse 同期。第二のチャット OS ではない。
 
 ## コミュニティと障害事例
 
@@ -675,6 +686,11 @@
 - [Mac 0.43 one-agent Failed to send (iOS OK) — update desktop to 0.44.0](https://forum.cursor.com/t/grok-bot-macos-one-agent-larry-failed-to-send-missing-replies-iphone-ok-other-agents-ok-on-mac/170710) - Staff（mohitjain、2026-09-07）：特定 Bot だけ Mac で Failed to send/返信欠落、iPhone は全文あり他 Bot は Mac でも動く場合、Bot 自体は健全で 0.43.0 デスクトップがその会話を読めない；Reset/再インストールは無効；デスクトップを 0.44.0 に更新（Settings → Updates；最新表示なら Cmd+Q で完全終了）し、それまで iOS を使う。
 - [Shell Auto-review: npm/pnpm/yarn substring blocks before approval card](https://forum.cursor.com/t/grok-bot-shell-auto-review-executable-content-could-not-be-bound-never-shows-approval-card/170727) - Staff（Colin、2026-09-07）：コマンド文字列のどこかに npm/pnpm/yarn が含まれると（/workspace/.../bin/npm のようなフルパス含む）承認カード前の事前チェックで “executable content could not be bound” になる；修正まで PATH=/path/to/node/bin:$PATH npm ci（または install/run）を working_directory 付きの単一コマンドで——絶対パスの npm、単独の npm -v、npm を含む && 連結は避ける。
 - [Synced skills reach Agents Window only — not Grok Bot-started cloud agents](https://forum.cursor.com/t/sync-skills-for-cloud-agents-stuck/170899) - Staff（deanrie、2026-09-07）：“Sync Skills for Cloud Agents” はダウンロード後の最終検証で止まることがある（reason=missing）。同期できても、今は Cursor デスクトップの Agents Window から起動した Cloud Agents だけが ~/.cursor/skills を拾い、Grok Bot（や cursor.com/agents）起点では未対応；回避策は Agents Window から起動する。
+- [Public template publish “team must be selected” — leave leftover workspaces](https://forum.cursor.com/t/grok-bot-public-template-publish-fails-with-a-team-must-be-selected-to-share-a-team-template-on-personal-ultra/170926) - Staff（mohitjain、2026-09-08）：個人 Ultra で Public テンプレ公開が “A team must be selected to share a team template” になるのは、旧招待/トライアルの余剰チーム作業領域が残っているため。cursor.com/dashboard で余分なチームを離れ、再度 Public 共有すればレビューカードと x.ai/bot リンクが出る。
+- [stdio MCP wrappers in bot secrets break after bot delete — use shared path](https://forum.cursor.com/t/grok-bot-stdio-mcp-keeps-spawn-path-into-deleted-agent-secrets/170901) - Staff（mohitjain、2026-09-08）：アカウント共通の stdio MCP が agents/<agentId>/secrets 配下のラッパーを指していると、その Bot 削除でパスが消える。ラッパー/資格情報は Bot 非依存パス（例: /home/box/mcp-wrappers/）へ移し、コマンドを付け直すか npx/uvx + env で登録してから Restart MCP。
+- [MCP “needsAuth” badge for non-OAuth connectors is cosmetic](https://forum.cursor.com/t/grok-bot-mcp-status-stays-needsauth-after-authenticatemcpserver-says-already-connected/170900) - Staff（mohitjain、2026-09-08）：Plugins のバッジは OAuth のみを認証済みと数えるため、公開/API トークン系（Cloudflare docs、Fastmail など）はツールが動いていても needsAuth のままになり得る。Authenticate は再確認、再起動も同じ状態を読むだけ；他 Bot の妨げにならなければ無視してよい。
+- [GitHub plugin “Needs auth” / no sign-in link — PAT Setup Values already work](https://forum.cursor.com/t/grok-bot-github-plugin-authenticate-github-didnt-provide-a-sign-in-link/170898) - Staff（mohitjain、2026-09-08）：GitHub プラグインは Setup Values（Edit Values）の PAT で認証し、ブラウザ OAuth ではない。ツールが既に載っているのに Needs auth / “Github didn't provide a sign-in link” と出るのは表示バグ；“Using the GitHub connector, which GitHub user am I signed in as?” で確認しバッジは無視してよい。
+- [Trial ended shows as “Can’t reach your computer” — renew/link plan](https://forum.cursor.com/t/grok-bot-0-44-0-macos-can-t-reach-your-computer-retry-and-recover-fail-even-after-re-login/171004) - Staff（deanrie、2026-09-08）：1 週間無料トライアル終了後も “Can’t reach your computer” / *.cursorvm.com / Zscaler 表示のままになり、Retry/Recover/再ログインでは直らない。Grok Bot 付きプランを選ぶか同一メールで SuperGrok を cursor.com にリンクし、メニューバーから完全終了→再起動→再サインイン。Bot/ファイルは保持される。
 
 ## 関連リスト
 
@@ -756,10 +772,12 @@
 - [Grok Bot permissions & usage pack](https://github.com/3Fold-Labs/grok-bot-permissions-usage) - 3Fold Labs パック。Grok Bot アカウント向け 100 問 ALLOW/ASK/DENY 権限シートと、任意の Stream Deck 使用量メーターメモ。
 - [Grok Bot for Raycast (Sand gateway)](https://github.com/MaisonnatM/grok-bot) - 非公式 Raycast 拡張。Bot コンピュータ上の非公開 Sand HTTP ゲートウェイ経由で Grok Bot 队友にタスク送信（grok.com チャット API ではない）。
 - [Grok Bot architecture staff reference](https://github.com/tiagovilasboas/grok-bot-architecture) - Grok Bot をホストとするデスクトップ多智能体アシスタントのスタッフ向けパターン。班、共有 PC、ルーチン、コネクタ、HITL。
+- [Grok Bot Chinese intro site](https://github.com/Aaronwn/grokbot-site) - ビルド不要の中国語 Grok Bot 紹介ランディング。クラウド箱とノートPCの違い、できること、チャット専用 Grok との差を説明。
+- [Bot Shelf (rent Grok Bot teams)](https://github.com/BotShelfVampire/botshelf) - Bot Shelf マーケットの文書と、貼り付け即用の Grok Bot チームパック多数（実走証明、人の Yes ゲート、USDT 決済メモ）。
 
 ## 貢献
 
-8 セクションに 649 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 667 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

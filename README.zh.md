@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-649-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-667-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -183,6 +183,8 @@
 - [Grok Bot complete guide (zh, 2026)](https://github.com/xianyu110/grokbot) - 中文图文手册：把 Grok Bot（云电脑同事）与 grok.com 聊天、Grok Build 划清界限，覆盖从安装到例程。.
 - [SpaceXAI / Cursor / Grok Bot workshop (ES)](https://github.com/shiarauzo/grok-bot-cursor-workshop) - 西班牙语 Next.js 幻灯：2026-09-12 SpaceXAI 工作坊，讲公司时间线、Grok 与 Grok Bot 区别，并以设计数字队友收尾练习。.
 - [grokbot.run English handbook](https://github.com/kibovrwa/grokbot-run) - 非官方英文 Grok Bot 手册（grokbot.run）：Cursor 登录、共享电脑、运营花名册、定价指针与 Recover-before-Reset。.
+- [GrokBot Learning storyboard](https://github.com/rajvictor1/grokbot-learning) - 基于现场 GrokBot 大师课的交互式 Next.js 故事板：4-C 设计、云电脑、侦察 Bot、群聊与 42 张课堂截图。.
+- [無為 Grok Bot personal playbook](https://github.com/bianwuwei/grok-bot-playbook) - 双语个人 Grok Bot 实战手册（从零到公开作品集）：七章检查清单，外加可复制的 Bot 简介与首单任务模板。.
 
 ## 真实使用案例
 
@@ -260,6 +262,7 @@
 - [Cape Fear Grok Bot lead-gen desk](https://github.com/altiracompany/grokbot-cape-fear) - Cape Fear/Alamo 获客 Grok Bot 桌面：占位排名站、筛通话并交接；含 .grok 与 Grok PWA 安装资源，暂无顶层 README。.
 - [Folio3 grounded marketing desk pack](https://github.com/mhasnainr/folio3-grounded-desk) - 面向 Folio3 的源文落地 B2B 营销桌面包：具名 Grok Bot 人设、grounded-brief/draft/red-team 技能、样例产出与静态演示页。.
 - [Real World Agents org chart (Ridarketh)](https://github.com/Ridarketh/-real-world-agents) - 仍在线的 Grok Bot 组织架构包（Atlas/Scout/Quill/…），含席位章程与模板；pyco404/-real-world-agents 已 404 后的现行仓库。.
+- [Signal outbound Grok Bot desk](https://github.com/nifinet/signal-outbound-grok-bot) - Grok Bot 外联获客桌面配方：PROFILE、Max MCP、hunt/rank 技能与工作日摘要例程——Bot 起草前两名话术，人再发送。.
 
 ## 技能、插件与 MCP
 
@@ -432,6 +435,10 @@
 - [GrokDesk Solana memecoin desk](https://github.com/mrbluebirdgit/grokdesk) - 面向 Grok Bot 的八席 Solana meme 币桌面包：人设、可安装技能、常驻规则与只读 CLI，不含签名器或私钥。.
 - [GrokBot GTM agent system](https://github.com/lschwartz-hue/grokbot-gtm-agent-system) - 面向 Grok Bot 的 GTM 起步仓：GROKBOT.md 运营规则、一级 Bot 花名册，以及带人工审批闸门的 Task→Skill→Routine 晋级路径。.
 - [Kolbo.AI Cursor/Grok Bot plugin](https://github.com/Zoharvan12/kolbo-plugin) - Kolbo.AI 的 Cursor 市场插件，README 写明 Grok Bot 共用同一目录：图像/视频/音频/3D 技能、/kolbo 命令与托管 Kolbo MCP。.
+- [Twilio ↔ Grok Voice bridge skill](https://github.com/jeffhuber/twilio-grok-voice-bridge) - Grok Bot 技能与 Node 桥接：Twilio Media Streams 对接 xAI Grok Voice，支持外呼、中途引导、转写、换声与人工挂断闸门。.
+- [SentiSense Cursor/Grok Bot market plugin](https://github.com/SentiSenseApp/cursor-plugin) - 面向 Grok Bot 的 SentiSense Cursor 市场插件：OAuth MCP 美股研究，外加终端/情绪/简报/议员交易等六项技能。.
+- [Cloche publish plugin (Cursor + Grok Bot)](https://github.com/cloche-it/plugin) - Cloche 的 Cursor/Grok Bot 市场插件：用 MCP 把智能体做好的单页应用一键发布分享，并附发布技能。.
+- [Blender low-poly skill (Grok Bot)](https://github.com/DLeungDL/blender-lowpoly-skill) - 面向 OpenClaw/Grok Bot 的 Blender 低模技能：走 MCP 或 bpy，含四视图检查与硬边 Shade Flat 配方。.
 
 ## 评测与对比
 
@@ -551,6 +558,10 @@
 - [LG ThinQ specialty cycles for Grok Bot](https://github.com/bryan-lmm/lg-thinq-grok-bot) - 非官方 ThinQ2 Python 客户端：让 Grok Bot 列出并以 dry-run/执行方式启动 LG 洗衣 Specialty（SmartCourse）周期，无需 ThinQ Connect PAT。.
 - [Dani Desktop (Grok Bot-like)](https://github.com/somdipto/dani-desktop) - 开源 Dani Desktop：Grok Bot 风格的本地 Claude/Codex 队友花名册，每席自带云电脑与审批闸门。.
 - [Hermes Mobile (open Grok Bot-like)](https://github.com/CodeUpdaterBot/Hermes-Mobile-App) - 开源 Hermes Mobile（Tauri）：把本机 Hermes Bot 的会话/工具/审批装进口袋，自我定位为类 Grok Bot 的开源替代。.
+- [ARRA Oracle GrokBot Bridge](https://github.com/nat-build-with-oracle/omx-grokbot) - 开源 ARRA Oracle 与 Grok Bot 桥：Streamable HTTP MCP、所有者 OAuth、消息账本/LanceDB 记忆与 React 工作区（MIT）。.
+- [Omarchy Grok Bot usage bar](https://github.com/pixbroker/grokbar-omarchy) - Omarchy QML 状态栏插件：读取本机登录会话，显示 SuperGrok、可选 Grok Bot 周额度、Cursor 与 Claude Code 用量。.
+- [멀티봇 (GrokBot-style local)](https://github.com/sbngj1/multibot) - 开源「멀티봇」本机节点：GrokBot 风格聊天 UI，路由 Grok Build/Claude Code/Codex，并带 Android SSH 伴侣与多 Bot 群组。.
+- [ensembly operator kernel](https://github.com/thecuriousts/ensembly) - 优先托在 Grok Bot/Build 之下的精简操作内核：本地 HITL 闸门、SQLite 台账、情节记忆与 pulse 同步——不是第二套聊天 OS。.
 
 ## 社区与故障现场
 
@@ -675,6 +686,11 @@
 - [Mac 0.43 one-agent Failed to send (iOS OK) — update desktop to 0.44.0](https://forum.cursor.com/t/grok-bot-macos-one-agent-larry-failed-to-send-missing-replies-iphone-ok-other-agents-ok-on-mac/170710) - Staff（mohitjain，2026-09-07）：若某个 Bot 在 Mac 上 Failed to send/看不到回复，但 iPhone 线程完整且其他 Mac Bot 正常，说明 Bot 本身没问题——是桌面 0.43.0 加载不了该会话；Reset/重装无效；把桌面升到 0.44.0（Settings → Updates；若显示已最新则 Cmd+Q 完全退出再开），升级前先用 iOS。.
 - [Shell Auto-review: npm/pnpm/yarn substring blocks before approval card](https://forum.cursor.com/t/grok-bot-shell-auto-review-executable-content-could-not-be-bound-never-shows-approval-card/170727) - Staff（Colin，2026-09-07）：命令文本里任意位置出现 npm/pnpm/yarn（含 /workspace/.../bin/npm 这类完整路径）会在审批卡之前被预检拒绝 “executable content could not be bound”；修好前用 PATH=/path/to/node/bin:$PATH npm ci（或 install/run），设 working_directory，单条命令——避免绝对路径 npm、单独 npm -v，以及带 npm 的 && 链式命令。.
 - [Synced skills reach Agents Window only — not Grok Bot-started cloud agents](https://forum.cursor.com/t/sync-skills-for-cloud-agents-stuck/170899) - Staff（deanrie，2026-09-07）：“Sync Skills for Cloud Agents” 可能在下载完成后卡在最终校验（reason=missing）；即便同步成功，目前也只有从 Cursor 桌面 Agents Window 启动的 Cloud Agents 会带上 ~/.cursor/skills——从 Grok Bot（或 cursor.com/agents）启动的还拿不到；权宜之计：先从 Agents Window 拉起 Cloud Agent。.
+- [Public template publish “team must be selected” — leave leftover workspaces](https://forum.cursor.com/t/grok-bot-public-template-publish-fails-with-a-team-must-be-selected-to-share-a-team-template-on-personal-ultra/170926) - Staff（mohitjain，2026-09-08）：个人 Ultra 发布 Public 模板若仍挂着多余团队工作区（旧邀请/试用），会报 “A team must be selected to share a team template”——到 cursor.com/dashboard 退出多余团队后，再让 Bot 以 Public 分享，即可出现审核卡与 x.ai/bot 链接。.
+- [stdio MCP wrappers in bot secrets break after bot delete — use shared path](https://forum.cursor.com/t/grok-bot-stdio-mcp-keeps-spawn-path-into-deleted-agent-secrets/170901) - Staff（mohitjain，2026-09-08）：账号级 stdio MCP 若把 wrapper 放在 agents/<agentId>/secrets，删除该 Bot 后路径失效——请把 wrapper/凭据放到与 Bot 无关的路径（如 /home/box/mcp-wrappers/），改指向或直接用 npx/uvx + env 注册密钥，再 Restart MCP。.
+- [MCP “needsAuth” badge for non-OAuth connectors is cosmetic](https://forum.cursor.com/t/grok-bot-mcp-status-stays-needsauth-after-authenticatemcpserver-says-already-connected/170900) - Staff（mohitjain，2026-09-08）：Plugins 徽章只把 OAuth 算作已认证，因此公开/API token 类连接器（如 Cloudflare docs、Fastmail）即使工具已可用仍可能显示 needsAuth——Authenticate 只是再确认，重启会读回同一状态；除非徽章妨碍其他 Bot，否则可忽略。.
+- [GitHub plugin “Needs auth” / no sign-in link — PAT Setup Values already work](https://forum.cursor.com/t/grok-bot-github-plugin-authenticate-github-didnt-provide-a-sign-in-link/170898) - Staff（mohitjain，2026-09-08）：GitHub 插件用 Setup Values（Edit Values）里的 PAT 认证，不是浏览器 OAuth——因此工具已加载时仍显示 Needs auth / “Github didn't provide a sign-in link” 只是文案问题；可用 “Using the GitHub connector, which GitHub user am I signed in as?” 自检并忽略徽章。.
+- [Trial ended shows as “Can’t reach your computer” — renew/link plan](https://forum.cursor.com/t/grok-bot-0-44-0-macos-can-t-reach-your-computer-retry-and-recover-fail-even-after-re-login/171004) - Staff（deanrie，2026-09-08）：一周免费试用结束后，应用仍可能显示 “Can’t reach your computer” / *.cursorvm.com / Zscaler 文案，Retry/Recover/重登无效——请选择含 Grok Bot 的套餐（或用同一邮箱在 cursor.com 关联 SuperGrok），从菜单栏完全退出后重开并登录；Bot/文件仍保留。.
 
 ## 相关列表
 
@@ -756,10 +772,12 @@
 - [Grok Bot permissions & usage pack](https://github.com/3Fold-Labs/grok-bot-permissions-usage) - 3Fold Labs 资料包：Grok Bot 账号级 100 题 ALLOW/ASK/DENY 权限表，以及可选的 Stream Deck 用量仪表说明。.
 - [Grok Bot for Raycast (Sand gateway)](https://github.com/MaisonnatM/grok-bot) - 非官方 Raycast 扩展：经 Bot 电脑上未公开的 Sand HTTP 网关给 Grok Bot 队友派活（不是 grok.com 聊天 API）。.
 - [Grok Bot architecture staff reference](https://github.com/tiagovilasboas/grok-bot-architecture) - 以 Grok Bot 为宿主的桌面多智能体助手架构参考：班组、共享电脑、例程、连接器与人在回路（HITL）。.
+- [Grok Bot Chinese intro site](https://github.com/Aaronwn/grokbot-site) - 无构建步骤的中文 Grok Bot 介绍落地页：云端机 vs 本机、能做什么，以及和纯聊天 Grok 的差别。.
+- [Bot Shelf (rent Grok Bot teams)](https://github.com/BotShelfVampire/botshelf) - Bot Shelf 市场说明与数十份可粘贴的 Grok Bot 团队包（实跑证明、人工 Yes 闸门、USDT 结账说明）。.
 
 ## 贡献
 
-目前 8 个分类、649 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、667 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

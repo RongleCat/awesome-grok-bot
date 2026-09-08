@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-649-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-667-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -183,6 +183,8 @@
 - [Grok Bot complete guide (zh, 2026)](https://github.com/xianyu110/grokbot) - Chinese illustrated handbook that separates Grok Bot (cloud computer teammate) from grok.com chat and Grok Build, with install-to-routines path.
 - [SpaceXAI / Cursor / Grok Bot workshop (ES)](https://github.com/shiarauzo/grok-bot-cursor-workshop) - Spanish Next.js slide deck for a 2026-09-12 SpaceXAI workshop: corporate timeline, Grok vs Grok Bot, and a hands-on digital-teammate design exercise.
 - [grokbot.run English handbook](https://github.com/kibovrwa/grokbot-run) - Unofficial English Grok Bot handbook (grokbot.run): Cursor login, shared computer, operator roster, pricing pointers, and Recover-before-Reset.
+- [GrokBot Learning storyboard](https://github.com/rajvictor1/grokbot-learning) - Interactive Next.js storyboard from a live GrokBot masterclass: 4-C design, cloud computer, scout bots, group chat, and 42 session screenshots.
+- [無為 Grok Bot personal playbook](https://github.com/bianwuwei/grok-bot-playbook) - Bilingual personal Grok Bot playbook (zero → public portfolio) with seven chapters, checklists, and copyable Bot-brief/first-task templates.
 
 ## Field Cases
 
@@ -260,6 +262,7 @@
 - [Cape Fear Grok Bot lead-gen desk](https://github.com/altiracompany/grokbot-cape-fear) - Cape Fear / Alamo lead-gen Grok Bot desk (ranking sites → screened call handoff) with .grok app-env and Grok PWA install assets; no top-level README.
 - [Folio3 grounded marketing desk pack](https://github.com/mhasnainr/folio3-grounded-desk) - Source-grounded Folio3 B2B marketing desk pack: named Grok Bot profiles, grounded-brief/draft/red-team skills, sample outputs, and a static demo page.
 - [Real World Agents org chart (Ridarketh)](https://github.com/Ridarketh/-real-world-agents) - Live Grok Bot org-chart pack (Atlas/Scout/Quill/…) with seat charters and templates; active home after pyco404/-real-world-agents 404.
+- [Signal outbound Grok Bot desk](https://github.com/nifinet/signal-outbound-grok-bot) - Grok Bot outbound desk recipe: PROFILE, Max MCP, hunt/rank skills, and a weekday digest routine—Bot drafts top-two outreach; human sends.
 
 ## Skills, Plugins & MCP
 
@@ -432,6 +435,10 @@
 - [GrokDesk Solana memecoin desk](https://github.com/mrbluebirdgit/grokdesk) - Eight-role Solana memecoin desk pack for Grok Bot: profiles, installable skills, always-on rules, and read-only CLIs with no signer or private keys.
 - [GrokBot GTM agent system](https://github.com/lschwartz-hue/grokbot-gtm-agent-system) - Source-bound GTM starter for Grok Bot: GROKBOT.md ops rules, Level-1 bot roster, and a Task→Skill→Routine promotion path with human approval gates.
 - [Kolbo.AI Cursor/Grok Bot plugin](https://github.com/Zoharvan12/kolbo-plugin) - Kolbo.AI Cursor marketplace plugin that Grok Bot also loads: image/video/audio/3D skills, /kolbo command, and hosted Kolbo MCP.
+- [Twilio ↔ Grok Voice bridge skill](https://github.com/jeffhuber/twilio-grok-voice-bridge) - Grok Bot skill plus Node bridge: Twilio Media Streams ↔ xAI Grok Voice for outbound calls with steer, transcript, voice switch, and operator hangup gate.
+- [SentiSense Cursor/Grok Bot market plugin](https://github.com/SentiSenseApp/cursor-plugin) - SentiSense Cursor marketplace plugin marketed for Grok Bot: OAuth MCP stock research plus six skills (terminal, sentiment, dashboard, congressional tracker).
+- [Cloche publish plugin (Cursor + Grok Bot)](https://github.com/cloche-it/plugin) - Cloche marketplace plugin for Cursor and Grok Bot: MCP publish/share of agent-built single-page apps with a bundled publish skill.
+- [Blender low-poly skill (Grok Bot)](https://github.com/DLeungDL/blender-lowpoly-skill) - Portable Blender low-poly skill for OpenClaw/Grok Bot: MCP or bpy paths, four-view checks, and hard-edge Shade Flat recipes.
 
 ## Reviews & Comparisons
 
@@ -551,6 +558,10 @@
 - [LG ThinQ specialty cycles for Grok Bot](https://github.com/bryan-lmm/lg-thinq-grok-bot) - Unofficial ThinQ2 Python client so a Grok Bot can list and dry-run/start LG laundry specialty (SmartCourse) cycles without ThinQ Connect PAT.
 - [Dani Desktop (Grok Bot-like)](https://github.com/somdipto/dani-desktop) - Open-source Dani Desktop: Grok Bot-like chat roster of local Claude/Codex agents, each with its own cloud computer and approval gates.
 - [Hermes Mobile (open Grok Bot-like)](https://github.com/CodeUpdaterBot/Hermes-Mobile-App) - Open-source Hermes Mobile (Tauri): pocket control surface for Hermes bots on your PC—sessions, tools, approvals—positioned as a Grok Bot-like alternative.
+- [ARRA Oracle GrokBot Bridge](https://github.com/nat-build-with-oracle/omx-grokbot) - Open ARRA Oracle bridge for Grok Bot: Streamable HTTP MCP, owner OAuth, message ledger/LanceDB memory, and a React workspace (MIT).
+- [Omarchy Grok Bot usage bar](https://github.com/pixbroker/grokbar-omarchy) - Omarchy QML bar plugin metering SuperGrok, optional Grok Bot weekly pool, Cursor, and Claude Code usage from the local signed-in session.
+- [멀티봇 (GrokBot-style local)](https://github.com/sbngj1/multibot) - Open 멀티봇 home-node: GrokBot-style chat UI routing Grok Build/Claude Code/Codex engines, with Android SSH companion and group bots.
+- [ensembly operator kernel](https://github.com/thecuriousts/ensembly) - Thin operator kernel under Grok Bot/Build first: local HITL gates, SQLite ledger, episodic memory, and pulse sync—not a second chat OS.
 
 ## Community & Failure Modes
 
@@ -675,6 +686,11 @@
 - [Mac 0.43 one-agent Failed to send (iOS OK) — update desktop to 0.44.0](https://forum.cursor.com/t/grok-bot-macos-one-agent-larry-failed-to-send-missing-replies-iphone-ok-other-agents-ok-on-mac/170710) - Staff (mohitjain, 2026-09-07): If one Bot’s Mac chat shows “Failed to send” / missing replies while iPhone has the full thread and other Mac bots work, the bot is fine—desktop 0.43.0 can’t load that conversation; Reset/reinstall won’t help; update Grok Bot desktop to 0.44.0 (Settings → Updates; fully quit Cmd+Q if it claims you’re current) and use iOS until then.
 - [Shell Auto-review: npm/pnpm/yarn substring blocks before approval card](https://forum.cursor.com/t/grok-bot-shell-auto-review-executable-content-could-not-be-bound-never-shows-approval-card/170727) - Staff (Colin, 2026-09-07): “executable content could not be bound” can fire in a pre-check before any approval card when the command text contains npm/pnpm/yarn anywhere—including a full path like /workspace/.../bin/npm; until fixed, run PATH=/path/to/node/bin:$PATH npm ci (or npm install / npm run) as a single command with working_directory set—avoid absolute .../npm, npm -v alone, and && chains with npm.
 - [Synced skills reach Agents Window only — not Grok Bot-started cloud agents](https://forum.cursor.com/t/sync-skills-for-cloud-agents-stuck/170899) - Staff (deanrie, 2026-09-07): “Sync Skills for Cloud Agents” can hang on the final verification step after downloads finish (reason=missing), and even when sync succeeds only cloud agents started from the Cursor desktop Agents Window pick up ~/.cursor/skills—agents started from Grok Bot (or cursor.com/agents) do not yet; workaround: launch the cloud agent from Agents Window until the gap is fixed.
+- [Public template publish “team must be selected” — leave leftover workspaces](https://forum.cursor.com/t/grok-bot-public-template-publish-fails-with-a-team-must-be-selected-to-share-a-team-template-on-personal-ultra/170926) - Staff (mohitjain, 2026-09-08): On personal Ultra, Public template export can fail with “A team must be selected to share a team template” when the account is still attached to leftover team workspaces (old invites/trials)—leave extra teams at cursor.com/dashboard, then ask the Bot to share as Public again for the review card and x.ai/bot link.
+- [stdio MCP wrappers in bot secrets break after bot delete — use shared path](https://forum.cursor.com/t/grok-bot-stdio-mcp-keeps-spawn-path-into-deleted-agent-secrets/170901) - Staff (mohitjain, 2026-09-08): Account-wide stdio MCP servers that spawn a wrapper under agents/<agentId>/secrets die when that bot is deleted—keep wrappers/creds in a bot-independent path (e.g. /home/box/mcp-wrappers/), re-point the server command (or register npx/uvx + env keys directly), then Restart MCP.
+- [MCP “needsAuth” badge for non-OAuth connectors is cosmetic](https://forum.cursor.com/t/grok-bot-mcp-status-stays-needsauth-after-authenticatemcpserver-says-already-connected/170900) - Staff (mohitjain, 2026-09-08): The Plugins badge only treats OAuth as authenticated, so public/API-token connectors (e.g. Cloudflare docs, Fastmail) can show needsAuth even when tools already run—Authenticate just reconfirms and a restart re-reads the same state; leave them as-is unless the badge blocks other bots.
+- [GitHub plugin “Needs auth” / no sign-in link — PAT Setup Values already work](https://forum.cursor.com/t/grok-bot-github-plugin-authenticate-github-didnt-provide-a-sign-in-link/170898) - Staff (mohitjain, 2026-09-08): The GitHub plugin signs in via the personal access token under Setup Values (Edit Values), not a browser OAuth link—so Needs auth plus “Github didn't provide a sign-in link” is a labeling bug when tools already load; confirm with “Using the GitHub connector, which GitHub user am I signed in as?” and ignore the badge.
+- [Trial ended shows as “Can’t reach your computer” — renew/link plan](https://forum.cursor.com/t/grok-bot-0-44-0-macos-can-t-reach-your-computer-retry-and-recover-fail-even-after-re-login/171004) - Staff (deanrie, 2026-09-08): After the 1-week free Grok Bot trial ends, the app can keep showing “Can’t reach your computer” / *.cursorvm.com / Zscaler copy even though Retry/Recover/re-login won’t help—pick a plan that includes Grok Bot (or link SuperGrok at cursor.com with the same email), fully quit from the menu bar, reopen, and sign in again; bots/files stay saved.
 
 ## Related Lists
 
@@ -756,10 +772,12 @@
 - [Grok Bot permissions & usage pack](https://github.com/3Fold-Labs/grok-bot-permissions-usage) - 3Fold Labs pack: a 100-question account-level ALLOW/ASK/DENY permissions sheet for Grok Bot plus optional Stream Deck usage-meter notes.
 - [Grok Bot for Raycast (Sand gateway)](https://github.com/MaisonnatM/grok-bot) - Unofficial Raycast extension that sends tasks to Grok Bot teammates via the undocumented Sand HTTP gateway on the Bot computer (not the grok.com chat API).
 - [Grok Bot architecture staff reference](https://github.com/tiagovilasboas/grok-bot-architecture) - Staff pattern reference for desktop multi-agent assistants hosted on Grok Bot: crew, shared computer, routines, connectors, and HITL.
+- [Grok Bot Chinese intro site](https://github.com/Aaronwn/grokbot-site) - Static Chinese Grok Bot explainer landing (no build step): cloud-box vs laptop, what it can do, and how it differs from chat-only Grok.
+- [Bot Shelf (rent Grok Bot teams)](https://github.com/BotShelfVampire/botshelf) - Bot Shelf marketplace docs plus dozens of paste-ready Grok Bot team packs (proof-of-run, human Yes gates, USDT checkout notes).
 
 ## Contributing
 
-649 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+667 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
