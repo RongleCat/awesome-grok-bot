@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-689-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-703-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -267,6 +267,10 @@
 - [Signal outbound Grok Bot desk](https://github.com/nifinet/signal-outbound-grok-bot) - Grok Bot アウトバウンド机のレシピ。PROFILE・Max MCP・hunt/rank スキルと平日ダイジェスト。Bot が上位2件の文案を起草し、送信は人が行う。
 - [Grok Bot one-job starter personas](https://github.com/SigiBaes/grok-bot-starter-pack) - 貼り付け用の一仕事 Grok Bot ペルソナ（スピードリード、受信箱、見つけ金、コンテンツ偵察）。下書き専用デフォルトと初回チェックリスト付き。
 - [Cybertruck nine-agent Grok Bot desk](https://github.com/ScottyBeam/grokbot-cybertruck) - 貼り付け即用の Grok Bot エージェント9体。サイバートラックのテレメトリを1文の行動指針に（積載/ルート/航続/充電/車内/整備/ガード/電源＋参謀）。
+- [Warsaw SMB sales lead inbox desk](https://github.com/spicefiendd/sales-lead-inbox) - Warsaw/46580 の Sales Grok Bot 向けローカル SMB リード取込と日跨ぎ受信箱スクリプト。
+- [50 Grok Bot self-revenue fleet playbooks](https://github.com/AgentMindCloud/Grokbot-Autonomous-Revenue) - 50 体の Grok Bot 収益艦隊向けの順位付きプレイブック、YAML 役割契約、Phase-0 展開メモ。
+- [Ledger FreshBooks MVP by Grok Bot](https://github.com/rohitgarewal-code/ledger) - Grok Bot が作ったとされる FreshBooks 風マルチビジネス台帳 MVP（Hono/SQLite/PDF）。
+- [Grok Bot MarketVector / FTSE flow desk](https://github.com/daaaarcy/grokbot) - Grok Bot 作業場。MarketVector と FTSE/Russell リバランス需要推定ツールとテスト付き。
 
 ## スキル、プラグインと MCP
 
@@ -455,6 +459,11 @@
 - [Compound Engineering plugin (Grok Bot path)](https://github.com/EveryInc/compound-engineering-plugin) - Compound Engineering エージェントプラグイン。README に Grok Bot 手順あり：Cursor アカウントへ一度入れれば Bot が同じプラグイン庫を読む。
 - [Grok Bot Control handoff plugin](https://github.com/ImL1s/grok-bot-control) - Codex/Claude Code/Grok Build から Grok Bot へのレビュー可能な引き継ぎプラグイン。対象特定・下書き・送信チェック・読み戻し・オフライン検証。
 - [Orthogonal MCP plugin (Grok Bot)](https://github.com/orthogonal-sh/orthogonal-plugins) - Orthogonal 公式エージェントプラグイン（Codex/Claude/Cursor/Grok Bot）。OAuth MCP で 50+ プロバイダ・800+ ツールを発見・価格確認・実行。
+- [Mind Your Now Grok Bot plugin](https://github.com/mindyournow/grok-bot-plugin) - Mind Your Now 向け Grok Bot プラグイン候補。OAuth MCP と優先度・タスク・日次デブリーフ技能付き。
+- [Coreware QA Grok Bot skills](https://github.com/elo-coreware/grok-bot-skills) - Coreware QA 向け Grok Bot エージェント人格と再利用可能な SKILL.md 一式の版管理リポジトリ。
+- [Semgrep Security Scanner Grok Bot template](https://github.com/semgrep/semgrep-grok-bot) - Semgrep 公式の Grok Bot マーケット／チーム向けテンプレート。重大度付き SAST と秘匿情報のマスク。
+- [Midkernel Scan Grok Bot plugin](https://github.com/midkernel/plugin) - Cursor/Grok Bot 向け Midkernel Scan の MCP プラグイン。リポ接続・プレイブック・security-review 技能付き。
+- [SkillStack grokbot-soul skills pack](https://github.com/graphedge/SkillStack) - 公開 SkillStack カーネル快照（grokbot-soul）。ボード運用・執筆・オペレータゲート技能を含む。
 
 ## レビューと比較
 
@@ -582,6 +591,10 @@
 - [GBDL GrokBot Definition Language](https://github.com/jcpsimmons/gbdl) - コミュニティ GBDL v0.1。マルチエージェント Grok Bot 構成を1つの YAML-in-Markdown に保存。SPEC・JSON Schema・復元例付き。
 - [botvillage Grok Bot transcript town](https://github.com/charlenenicer/botvillage) - 小さな Go のライブ街。agent-data の JSONL を追い、Grok Bot を猫の村人として可視化。クリック送信の webhook 付き。
 - [Infomarchy Omarchy agent desk](https://github.com/nixfred/infomarchy) - Omarchy 壁紙の情報デスク。Grok Bot を含む稼働エージェントをカード表示（Electron ロスター注意あり）、ヒートマップ・レート制限・直近プロンプト。
+- [Unofficial Grok Bot Flatpak](https://github.com/viniciosrab/grok-bot-flatpak) - 非公式 Flatpak。インストール時に Cursor CDN から公式 Linux Grok Bot AppImage を取得。
+- [BotDesk Windows companion for Grok Bot](https://github.com/Adamdesgns/botdesk) - 無料の Windows コンパニオン。電話の期限付き許可の下で承認済み Grok bot に単一アプリ窓の操作を許す。
+- [Grok Vault Obsidian export CLI](https://github.com/MihirSahu/grok-bot-export) - macOS の Bun CLI。ブラウザ認証後、保持中の Grok Bot 会話を Obsidian Markdown にアーカイブ。
+- [Clawd Bots (Grok Bot 0.18 reconstruction)](https://github.com/Solizardking/clawd-bots) - 非公式の OpenMausBot 派生 Grok Bot 0.18 再構築。Clawd ブランドと Solana ツール面付き。
 
 ## コミュニティと障害事例
 
@@ -712,6 +725,7 @@
 - [GitHub plugin “Needs auth” / no sign-in link — PAT Setup Values already work](https://forum.cursor.com/t/grok-bot-github-plugin-authenticate-github-didnt-provide-a-sign-in-link/170898) - Staff（mohitjain、2026-09-08）：GitHub プラグインは Setup Values（Edit Values）の PAT で認証し、ブラウザ OAuth ではない。ツールが既に載っているのに Needs auth / “Github didn't provide a sign-in link” と出るのは表示バグ；“Using the GitHub connector, which GitHub user am I signed in as?” で確認しバッジは無視してよい。
 - [Trial ended shows as “Can’t reach your computer” — renew/link plan](https://forum.cursor.com/t/grok-bot-0-44-0-macos-can-t-reach-your-computer-retry-and-recover-fail-even-after-re-login/171004) - Staff（deanrie、2026-09-08）：1 週間無料トライアル終了後も “Can’t reach your computer” / *.cursorvm.com / Zscaler 表示のままになり、Retry/Recover/再ログインでは直らない。Grok Bot 付きプランを選ぶか同一メールで SuperGrok を cursor.com にリンクし、メニューバーから完全終了→再起動→再サインイン。Bot/ファイルは保持される。
 - [Desktop reconnect overwrites in-chat secure secrets](https://forum.cursor.com/t/grok-bot-box-secrets-wiped-overnight-shopify-client-id-secret/171029) - Staff（Colin、2026-09-08）：Grok Bot デスクトップがクラウド PC に再接続するとき（スリープや夜間切断後など）、アプリ側のシークレット一覧を再同期し、現状ではチャットのセキュア入力で保存したシークレットを上書きする。再接続後は再入力が必要（修正まで）。Update/Reset が原因ではない。
+- [Robinhood MCP OAuth: https callback + 15-minute window (connect on desktop)](https://forum.cursor.com/t/grok-bot-robinhood-agentic-trading-mcp-oauth-fails-after-allow-grokbot-callback-oauth-error/171111) - Staff（deanrie、2026-09-09）：Grok Bot からの Robinhood Agentic Trading MCP ログインは grokbot:// ではなく、9/7 以降は https://www.cursor.com/agents/... コールバックを使い、認可コードは約 15 分で失効する。Allow を速やかに完了し（端末承認が求められたら先に済ます）；スマホで失敗し続けるなら同一アカウントで Grok Bot デスクトップまたは Cursor から一度接続すれば、取引ツールがモバイルにも同期する。
 
 ## 関連リスト
 
@@ -799,7 +813,7 @@
 
 ## 貢献
 
-8 セクションに 689 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 703 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-689-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-703-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -267,6 +267,10 @@
 - [Signal outbound Grok Bot desk](https://github.com/nifinet/signal-outbound-grok-bot) - Grok Bot 外联获客桌面配方：PROFILE、Max MCP、hunt/rank 技能与工作日摘要例程——Bot 起草前两名话术，人再发送。.
 - [Grok Bot one-job starter personas](https://github.com/SigiBaes/grok-bot-starter-pack) - 可粘贴的一职一事 Grok Bot 人设（线索速回、收件箱分流、找漏钱、内容侦察），默认只起草并附首次唤醒清单。.
 - [Cybertruck nine-agent Grok Bot desk](https://github.com/ScottyBeam/grokbot-cybertruck) - 九个可粘贴的 Grok Bot 智能体：把赛博卡车遥测收成一句可执行结论（载重/路线/续航/充电/座舱/维保/守卫/充电宝 + 幕僚长）。.
+- [Warsaw SMB sales lead inbox desk](https://github.com/spicefiendd/sales-lead-inbox) - 为华沙/46580 Sales Grok Bot 打造的本地 SMB 线索抓取与跨日收件箱脚本。.
+- [50 Grok Bot self-revenue fleet playbooks](https://github.com/AgentMindCloud/Grokbot-Autonomous-Revenue) - 面向 50 机 Grok Bot 营收舰队的活更新排名手册、YAML 角色合同与 Phase-0 推进笔记。.
+- [Ledger FreshBooks MVP by Grok Bot](https://github.com/rohitgarewal-code/ledger) - FreshBooks 风格的多业务账本 MVP（Hono/SQLite/PDF），描述为由 Grok Bot 创建。.
+- [Grok Bot MarketVector / FTSE flow desk](https://github.com/daaaarcy/grokbot) - Grok Bot 工作区：MarketVector 与 FTSE/Russell 指数再平衡流量估算工具及测试。.
 
 ## 技能、插件与 MCP
 
@@ -455,6 +459,11 @@
 - [Compound Engineering plugin (Grok Bot path)](https://github.com/EveryInc/compound-engineering-plugin) - Compound Engineering 智能体插件，文档含明确 Grok Bot 路径：在 Cursor 账户装一次，Bot 即可加载同一插件库。.
 - [Grok Bot Control handoff plugin](https://github.com/ImL1s/grok-bot-control) - 可审阅的 Grok Bot 交接插件（Codex/Claude Code/Grok Build 宿主）：定位会话、草稿、发送检查、回读与离线核验。.
 - [Orthogonal MCP plugin (Grok Bot)](https://github.com/orthogonal-sh/orthogonal-plugins) - Orthogonal 官方智能体插件，支持 Codex/Claude/Cursor/Grok Bot：OAuth MCP 发现、计价并调用 50+ 供应商的 800+ 工具。.
+- [Mind Your Now Grok Bot plugin](https://github.com/mindyournow/grok-bot-plugin) - Mind Your Now 的 Grok Bot 插件候选：OAuth MCP 与优先级/任务/每日复盘技能。.
+- [Coreware QA Grok Bot skills](https://github.com/elo-coreware/grok-bot-skills) - Coreware QA 用 Grok Bot 人设与可复用 SKILL.md 技能包的版本库（CI 测试健康）。.
+- [Semgrep Security Scanner Grok Bot template](https://github.com/semgrep/semgrep-grok-bot) - Semgrep 官方 Grok Bot 市场/团队模板：按严重级别做 SAST 扫描并脱敏报告。.
+- [Midkernel Scan Grok Bot plugin](https://github.com/midkernel/plugin) - 面向 Cursor/Grok Bot 的 Midkernel Scan MCP 插件，含连库、剧本与 security-review 技能。.
+- [SkillStack grokbot-soul skills pack](https://github.com/graphedge/SkillStack) - 公开 SkillStack 内核快照（grokbot-soul），含董事会流程、写作与操作员门禁技能。.
 
 ## 评测与对比
 
@@ -582,6 +591,10 @@
 - [GBDL GrokBot Definition Language](https://github.com/jcpsimmons/gbdl) - 社区 GBDL v0.1：用一份 YAML-in-Markdown 保存多智能体 Grok Bot 配置，含 SPEC、JSON Schema 与重建示例。.
 - [botvillage Grok Bot transcript town](https://github.com/charlenenicer/botvillage) - 小型 Go 实时小镇：尾随 agent-data JSONL 转写，把 Grok Bot 画成猫咪村民，并支持点击发消息的 webhook 流程。.
 - [Infomarchy Omarchy agent desk](https://github.com/nixfred/infomarchy) - Omarchy 壁纸信息桌：为运行中智能体（含 Grok Bot，并注明 Electron 名册怪癖）做卡片、热力、限流与近期提示。.
+- [Unofficial Grok Bot Flatpak](https://github.com/viniciosrab/grok-bot-flatpak) - 非官方 Flatpak：安装时从 Cursor CDN 拉取官方 Linux Grok Bot AppImage。.
+- [BotDesk Windows companion for Grok Bot](https://github.com/Adamdesgns/botdesk) - 免费 Windows 伴侣：在手机端限时授权下，让获批 Grok bot 操控选定应用窗口。.
+- [Grok Vault Obsidian export CLI](https://github.com/MihirSahu/grok-bot-export) - macOS Bun CLI：浏览器登录后把保留的 Grok Bot 对话全文导出为 Obsidian Markdown。.
+- [Clawd Bots (Grok Bot 0.18 reconstruction)](https://github.com/Solizardking/clawd-bots) - 非官方、基于 OpenMausBot 的 Grok Bot 0.18 重建，带 Clawd 品牌与 Solana 工具面。.
 
 ## 社区与故障现场
 
@@ -712,6 +725,7 @@
 - [GitHub plugin “Needs auth” / no sign-in link — PAT Setup Values already work](https://forum.cursor.com/t/grok-bot-github-plugin-authenticate-github-didnt-provide-a-sign-in-link/170898) - Staff（mohitjain，2026-09-08）：GitHub 插件用 Setup Values（Edit Values）里的 PAT 认证，不是浏览器 OAuth——因此工具已加载时仍显示 Needs auth / “Github didn't provide a sign-in link” 只是文案问题；可用 “Using the GitHub connector, which GitHub user am I signed in as?” 自检并忽略徽章。.
 - [Trial ended shows as “Can’t reach your computer” — renew/link plan](https://forum.cursor.com/t/grok-bot-0-44-0-macos-can-t-reach-your-computer-retry-and-recover-fail-even-after-re-login/171004) - Staff（deanrie，2026-09-08）：一周免费试用结束后，应用仍可能显示 “Can’t reach your computer” / *.cursorvm.com / Zscaler 文案，Retry/Recover/重登无效——请选择含 Grok Bot 的套餐（或用同一邮箱在 cursor.com 关联 SuperGrok），从菜单栏完全退出后重开并登录；Bot/文件仍保留。.
 - [Desktop reconnect overwrites in-chat secure secrets](https://forum.cursor.com/t/grok-bot-box-secrets-wiped-overnight-shopify-client-id-secret/171029) - Staff（Colin，2026-09-08）：Grok Bot 桌面端在重连云电脑时（如休眠或夜间断线后）会把应用侧密钥列表重新同步上去，目前会覆盖聊天里安全输入卡保存的密钥——重连后需重新录入，直到同步 bug 修复；并非 Update/Reset 导致。.
+- [Robinhood MCP OAuth: https callback + 15-minute window (connect on desktop)](https://forum.cursor.com/t/grok-bot-robinhood-agentic-trading-mcp-oauth-fails-after-allow-grokbot-callback-oauth-error/171111) - Staff（deanrie，2026-09-09）：Grok Bot 里 Robinhood Agentic Trading MCP 登录已不再用 grokbot://——自 9 月 7 日起改为 https://www.cursor.com/agents/... 回调——且授权码约 15 分钟过期，需尽快完成 Allow（若要求先在 Robinhood App 里批准设备）；手机端仍失败时，用同一账号在 Grok Bot 桌面端或 Cursor 上连一次，交易工具会同步到手机。.
 
 ## 相关列表
 
@@ -799,7 +813,7 @@
 
 ## 贡献
 
-目前 8 个分类、689 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、703 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

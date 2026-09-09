@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-689-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-703-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -267,6 +267,10 @@
 - [Signal outbound Grok Bot desk](https://github.com/nifinet/signal-outbound-grok-bot) - Grok Bot outbound desk recipe: PROFILE, Max MCP, hunt/rank skills, and a weekday digest routine—Bot drafts top-two outreach; human sends.
 - [Grok Bot one-job starter personas](https://github.com/SigiBaes/grok-bot-starter-pack) - Copy-paste one-job Grok Bot personas (speed-to-lead, inbox triage, found-money, content scout) with draft-only defaults and first-wake checklists.
 - [Cybertruck nine-agent Grok Bot desk](https://github.com/ScottyBeam/grokbot-cybertruck) - Nine paste-ready Grok Bot agents that turn Cybertruck telemetry into one actionable sentence (load/route/range/charge/cabin/service/guard/powerbank + chief of staff).
+- [Warsaw SMB sales lead inbox desk](https://github.com/spicefiendd/sales-lead-inbox) - Local SMB lead ingest and cross-day inbox scripts built for a Sales Grok Bot in Warsaw/46580.
+- [50 Grok Bot self-revenue fleet playbooks](https://github.com/AgentMindCloud/Grokbot-Autonomous-Revenue) - Living ranked playbooks, YAML role contracts, and Phase-0 rollout notes for a 50-bot Grok Bot revenue fleet.
+- [Ledger FreshBooks MVP by Grok Bot](https://github.com/rohitgarewal-code/ledger) - FreshBooks-style multi-business ledger MVP (Hono/SQLite/PDF) described as created by Grok Bot.
+- [Grok Bot MarketVector / FTSE flow desk](https://github.com/daaaarcy/grokbot) - Grok Bot workspace with MarketVector and FTSE/Russell index rebalance flow estimators and tests.
 
 ## Skills, Plugins & MCP
 
@@ -455,6 +459,11 @@
 - [Compound Engineering plugin (Grok Bot path)](https://github.com/EveryInc/compound-engineering-plugin) - Compound Engineering agent plugin with an explicit Grok Bot path: install once on the Cursor account so Bot agents load the same plugin library.
 - [Grok Bot Control handoff plugin](https://github.com/ImL1s/grok-bot-control) - Portable plugin for reviewable Grok Bot handoffs from Codex/Claude Code/Grok Build: target, draft, send checks, readback, and offline verification.
 - [Orthogonal MCP plugin (Grok Bot)](https://github.com/orthogonal-sh/orthogonal-plugins) - Official Orthogonal agent plugin for Codex/Claude/Cursor/Grok Bot: OAuth MCP to discover, price, and call 800+ tools across 50+ providers.
+- [Mind Your Now Grok Bot plugin](https://github.com/mindyournow/grok-bot-plugin) - Mind Your Now Grok Bot plugin candidate with OAuth MCP plus a priorities/tasks/daily-debrief skill.
+- [Coreware QA Grok Bot skills](https://github.com/elo-coreware/grok-bot-skills) - Versioned Coreware QA Grok Bot agent personas and reusable SKILL.md pack for CI test health.
+- [Semgrep Security Scanner Grok Bot template](https://github.com/semgrep/semgrep-grok-bot) - Official Semgrep Grok Bot marketplace/team template for severity-ranked SAST scans with redaction.
+- [Midkernel Scan Grok Bot plugin](https://github.com/midkernel/plugin) - Midkernel Scan MCP plugin for Cursor/Grok Bot with connect-repo, playbooks, and security-review skills.
+- [SkillStack grokbot-soul skills pack](https://github.com/graphedge/SkillStack) - Public SkillStack kernel snapshot (grokbot-soul) with board, writing, and operator-gate skills.
 
 ## Reviews & Comparisons
 
@@ -582,6 +591,10 @@
 - [GBDL GrokBot Definition Language](https://github.com/jcpsimmons/gbdl) - Community GBDL v0.1: save a multi-agent Grok Bot setup as one YAML-in-Markdown file with SPEC, JSON Schema, and reinstate examples.
 - [botvillage Grok Bot transcript town](https://github.com/charlenenicer/botvillage) - Tiny Go live town that visualizes Grok Bots as cat villagers by tailing agent-data JSONL transcripts, with click-to-message webhook flow.
 - [Infomarchy Omarchy agent desk](https://github.com/nixfred/infomarchy) - Omarchy wallpaper information desk that cards running agents including Grok Bot (Electron roster quirk noted), with heatmaps, rate limits, and recent prompts.
+- [Unofficial Grok Bot Flatpak](https://github.com/viniciosrab/grok-bot-flatpak) - Unofficial Flatpak that downloads the official Linux Grok Bot AppImage at install time from Cursor CDN.
+- [BotDesk Windows companion for Grok Bot](https://github.com/Adamdesgns/botdesk) - Free Windows companion that lets approved Grok bots control one app window under timed phone owner access.
+- [Grok Vault Obsidian export CLI](https://github.com/MihirSahu/grok-bot-export) - macOS Bun CLI that browser-auths and archives retained Grok Bot conversation text into Obsidian Markdown.
+- [Clawd Bots (Grok Bot 0.18 reconstruction)](https://github.com/Solizardking/clawd-bots) - Unofficial OpenMausBot-derived reconstruction of Grok Bot 0.18 with Clawd branding and Solana tool surface.
 
 ## Community & Failure Modes
 
@@ -712,6 +725,7 @@
 - [GitHub plugin “Needs auth” / no sign-in link — PAT Setup Values already work](https://forum.cursor.com/t/grok-bot-github-plugin-authenticate-github-didnt-provide-a-sign-in-link/170898) - Staff (mohitjain, 2026-09-08): The GitHub plugin signs in via the personal access token under Setup Values (Edit Values), not a browser OAuth link—so Needs auth plus “Github didn't provide a sign-in link” is a labeling bug when tools already load; confirm with “Using the GitHub connector, which GitHub user am I signed in as?” and ignore the badge.
 - [Trial ended shows as “Can’t reach your computer” — renew/link plan](https://forum.cursor.com/t/grok-bot-0-44-0-macos-can-t-reach-your-computer-retry-and-recover-fail-even-after-re-login/171004) - Staff (deanrie, 2026-09-08): After the 1-week free Grok Bot trial ends, the app can keep showing “Can’t reach your computer” / *.cursorvm.com / Zscaler copy even though Retry/Recover/re-login won’t help—pick a plan that includes Grok Bot (or link SuperGrok at cursor.com with the same email), fully quit from the menu bar, reopen, and sign in again; bots/files stay saved.
 - [Desktop reconnect overwrites in-chat secure secrets](https://forum.cursor.com/t/grok-bot-box-secrets-wiped-overnight-shopify-client-id-secret/171029) - Staff (Colin, 2026-09-08): When the Grok Bot desktop app reconnects to your cloud computer (e.g. after sleep or an overnight drop), it re-syncs the app’s secrets list and currently overwrites secrets saved via the in-chat secure input—re-enter those credentials after reconnect until the sync bug is fixed; Update/Reset are not the cause.
+- [Robinhood MCP OAuth: https callback + 15-minute window (connect on desktop)](https://forum.cursor.com/t/grok-bot-robinhood-agentic-trading-mcp-oauth-fails-after-allow-grokbot-callback-oauth-error/171111) - Staff (deanrie, 2026-09-09): Robinhood Agentic Trading MCP sign-in from Grok Bot no longer uses grokbot://—since 7 Sep it uses an https://www.cursor.com/agents/... callback—and the auth code expires in about 15 minutes, so finish Allow quickly (approve the Robinhood device first if asked); if phone OAuth keeps failing, connect once from Grok Bot desktop or Cursor on the same account so the trading tools sync to mobile.
 
 ## Related Lists
 
@@ -799,7 +813,7 @@
 
 ## Contributing
 
-689 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+703 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

@@ -1784,6 +1784,46 @@
             "zh": "九个可粘贴的 Grok Bot 智能体：把赛博卡车遥测收成一句可执行结论（载重/路线/续航/充电/座舱/维保/守卫/充电宝 + 幕僚长）。",
             "ja": "貼り付け即用の Grok Bot エージェント9体。サイバートラックのテレメトリを1文の行動指針に（積載/ルート/航続/充電/車内/整備/ガード/電源＋参謀）。"
           }
+        },
+        {
+          "title": "Warsaw SMB sales lead inbox desk",
+          "url": "https://github.com/spicefiendd/sales-lead-inbox",
+          "source": "GB-718",
+          "blurb": {
+            "en": "Local SMB lead ingest and cross-day inbox scripts built for a Sales Grok Bot in Warsaw/46580.",
+            "zh": "为华沙/46580 Sales Grok Bot 打造的本地 SMB 线索抓取与跨日收件箱脚本。",
+            "ja": "Warsaw/46580 の Sales Grok Bot 向けローカル SMB リード取込と日跨ぎ受信箱スクリプト。"
+          }
+        },
+        {
+          "title": "50 Grok Bot self-revenue fleet playbooks",
+          "url": "https://github.com/AgentMindCloud/Grokbot-Autonomous-Revenue",
+          "source": "GB-719",
+          "blurb": {
+            "en": "Living ranked playbooks, YAML role contracts, and Phase-0 rollout notes for a 50-bot Grok Bot revenue fleet.",
+            "zh": "面向 50 机 Grok Bot 营收舰队的活更新排名手册、YAML 角色合同与 Phase-0 推进笔记。",
+            "ja": "50 体の Grok Bot 収益艦隊向けの順位付きプレイブック、YAML 役割契約、Phase-0 展開メモ。"
+          }
+        },
+        {
+          "title": "Ledger FreshBooks MVP by Grok Bot",
+          "url": "https://github.com/rohitgarewal-code/ledger",
+          "source": "GB-720",
+          "blurb": {
+            "en": "FreshBooks-style multi-business ledger MVP (Hono/SQLite/PDF) described as created by Grok Bot.",
+            "zh": "FreshBooks 风格的多业务账本 MVP（Hono/SQLite/PDF），描述为由 Grok Bot 创建。",
+            "ja": "Grok Bot が作ったとされる FreshBooks 風マルチビジネス台帳 MVP（Hono/SQLite/PDF）。"
+          }
+        },
+        {
+          "title": "Grok Bot MarketVector / FTSE flow desk",
+          "url": "https://github.com/daaaarcy/grokbot",
+          "source": "GB-721",
+          "blurb": {
+            "en": "Grok Bot workspace with MarketVector and FTSE/Russell index rebalance flow estimators and tests.",
+            "zh": "Grok Bot 工作区：MarketVector 与 FTSE/Russell 指数再平衡流量估算工具及测试。",
+            "ja": "Grok Bot 作業場。MarketVector と FTSE/Russell リバランス需要推定ツールとテスト付き。"
+          }
         }
       ]
     },
@@ -3644,6 +3684,56 @@
             "zh": "Orthogonal 官方智能体插件，支持 Codex/Claude/Cursor/Grok Bot：OAuth MCP 发现、计价并调用 50+ 供应商的 800+ 工具。",
             "ja": "Orthogonal 公式エージェントプラグイン（Codex/Claude/Cursor/Grok Bot）。OAuth MCP で 50+ プロバイダ・800+ ツールを発見・価格確認・実行。"
           }
+        },
+        {
+          "title": "Mind Your Now Grok Bot plugin",
+          "url": "https://github.com/mindyournow/grok-bot-plugin",
+          "source": "GB-713",
+          "blurb": {
+            "en": "Mind Your Now Grok Bot plugin candidate with OAuth MCP plus a priorities/tasks/daily-debrief skill.",
+            "zh": "Mind Your Now 的 Grok Bot 插件候选：OAuth MCP 与优先级/任务/每日复盘技能。",
+            "ja": "Mind Your Now 向け Grok Bot プラグイン候補。OAuth MCP と優先度・タスク・日次デブリーフ技能付き。"
+          }
+        },
+        {
+          "title": "Coreware QA Grok Bot skills",
+          "url": "https://github.com/elo-coreware/grok-bot-skills",
+          "source": "GB-714",
+          "blurb": {
+            "en": "Versioned Coreware QA Grok Bot agent personas and reusable SKILL.md pack for CI test health.",
+            "zh": "Coreware QA 用 Grok Bot 人设与可复用 SKILL.md 技能包的版本库（CI 测试健康）。",
+            "ja": "Coreware QA 向け Grok Bot エージェント人格と再利用可能な SKILL.md 一式の版管理リポジトリ。"
+          }
+        },
+        {
+          "title": "Semgrep Security Scanner Grok Bot template",
+          "url": "https://github.com/semgrep/semgrep-grok-bot",
+          "source": "GB-715",
+          "blurb": {
+            "en": "Official Semgrep Grok Bot marketplace/team template for severity-ranked SAST scans with redaction.",
+            "zh": "Semgrep 官方 Grok Bot 市场/团队模板：按严重级别做 SAST 扫描并脱敏报告。",
+            "ja": "Semgrep 公式の Grok Bot マーケット／チーム向けテンプレート。重大度付き SAST と秘匿情報のマスク。"
+          }
+        },
+        {
+          "title": "Midkernel Scan Grok Bot plugin",
+          "url": "https://github.com/midkernel/plugin",
+          "source": "GB-716",
+          "blurb": {
+            "en": "Midkernel Scan MCP plugin for Cursor/Grok Bot with connect-repo, playbooks, and security-review skills.",
+            "zh": "面向 Cursor/Grok Bot 的 Midkernel Scan MCP 插件，含连库、剧本与 security-review 技能。",
+            "ja": "Cursor/Grok Bot 向け Midkernel Scan の MCP プラグイン。リポ接続・プレイブック・security-review 技能付き。"
+          }
+        },
+        {
+          "title": "SkillStack grokbot-soul skills pack",
+          "url": "https://github.com/graphedge/SkillStack",
+          "source": "GB-717",
+          "blurb": {
+            "en": "Public SkillStack kernel snapshot (grokbot-soul) with board, writing, and operator-gate skills.",
+            "zh": "公开 SkillStack 内核快照（grokbot-soul），含董事会流程、写作与操作员门禁技能。",
+            "ja": "公開 SkillStack カーネル快照（grokbot-soul）。ボード運用・執筆・オペレータゲート技能を含む。"
+          }
         }
       ]
     },
@@ -4873,6 +4963,46 @@
             "en": "Omarchy wallpaper information desk that cards running agents including Grok Bot (Electron roster quirk noted), with heatmaps, rate limits, and recent prompts.",
             "zh": "Omarchy 壁纸信息桌：为运行中智能体（含 Grok Bot，并注明 Electron 名册怪癖）做卡片、热力、限流与近期提示。",
             "ja": "Omarchy 壁紙の情報デスク。Grok Bot を含む稼働エージェントをカード表示（Electron ロスター注意あり）、ヒートマップ・レート制限・直近プロンプト。"
+          }
+        },
+        {
+          "title": "Unofficial Grok Bot Flatpak",
+          "url": "https://github.com/viniciosrab/grok-bot-flatpak",
+          "source": "GB-722",
+          "blurb": {
+            "en": "Unofficial Flatpak that downloads the official Linux Grok Bot AppImage at install time from Cursor CDN.",
+            "zh": "非官方 Flatpak：安装时从 Cursor CDN 拉取官方 Linux Grok Bot AppImage。",
+            "ja": "非公式 Flatpak。インストール時に Cursor CDN から公式 Linux Grok Bot AppImage を取得。"
+          }
+        },
+        {
+          "title": "BotDesk Windows companion for Grok Bot",
+          "url": "https://github.com/Adamdesgns/botdesk",
+          "source": "GB-723",
+          "blurb": {
+            "en": "Free Windows companion that lets approved Grok bots control one app window under timed phone owner access.",
+            "zh": "免费 Windows 伴侣：在手机端限时授权下，让获批 Grok bot 操控选定应用窗口。",
+            "ja": "無料の Windows コンパニオン。電話の期限付き許可の下で承認済み Grok bot に単一アプリ窓の操作を許す。"
+          }
+        },
+        {
+          "title": "Grok Vault Obsidian export CLI",
+          "url": "https://github.com/MihirSahu/grok-bot-export",
+          "source": "GB-724",
+          "blurb": {
+            "en": "macOS Bun CLI that browser-auths and archives retained Grok Bot conversation text into Obsidian Markdown.",
+            "zh": "macOS Bun CLI：浏览器登录后把保留的 Grok Bot 对话全文导出为 Obsidian Markdown。",
+            "ja": "macOS の Bun CLI。ブラウザ認証後、保持中の Grok Bot 会話を Obsidian Markdown にアーカイブ。"
+          }
+        },
+        {
+          "title": "Clawd Bots (Grok Bot 0.18 reconstruction)",
+          "url": "https://github.com/Solizardking/clawd-bots",
+          "source": "GB-725",
+          "blurb": {
+            "en": "Unofficial OpenMausBot-derived reconstruction of Grok Bot 0.18 with Clawd branding and Solana tool surface.",
+            "zh": "非官方、基于 OpenMausBot 的 Grok Bot 0.18 重建，带 Clawd 品牌与 Solana 工具面。",
+            "ja": "非公式の OpenMausBot 派生 Grok Bot 0.18 再構築。Clawd ブランドと Solana ツール面付き。"
           }
         }
       ]
@@ -6153,6 +6283,16 @@
             "en": "Staff (Colin, 2026-09-08): When the Grok Bot desktop app reconnects to your cloud computer (e.g. after sleep or an overnight drop), it re-syncs the app’s secrets list and currently overwrites secrets saved via the in-chat secure input—re-enter those credentials after reconnect until the sync bug is fixed; Update/Reset are not the cause.",
             "zh": "Staff（Colin，2026-09-08）：Grok Bot 桌面端在重连云电脑时（如休眠或夜间断线后）会把应用侧密钥列表重新同步上去，目前会覆盖聊天里安全输入卡保存的密钥——重连后需重新录入，直到同步 bug 修复；并非 Update/Reset 导致。",
             "ja": "Staff（Colin、2026-09-08）：Grok Bot デスクトップがクラウド PC に再接続するとき（スリープや夜間切断後など）、アプリ側のシークレット一覧を再同期し、現状ではチャットのセキュア入力で保存したシークレットを上書きする。再接続後は再入力が必要（修正まで）。Update/Reset が原因ではない。"
+          }
+        },
+        {
+          "title": "Robinhood MCP OAuth: https callback + 15-minute window (connect on desktop)",
+          "url": "https://forum.cursor.com/t/grok-bot-robinhood-agentic-trading-mcp-oauth-fails-after-allow-grokbot-callback-oauth-error/171111",
+          "source": "GB-726",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-09): Robinhood Agentic Trading MCP sign-in from Grok Bot no longer uses grokbot://—since 7 Sep it uses an https://www.cursor.com/agents/... callback—and the auth code expires in about 15 minutes, so finish Allow quickly (approve the Robinhood device first if asked); if phone OAuth keeps failing, connect once from Grok Bot desktop or Cursor on the same account so the trading tools sync to mobile.",
+            "zh": "Staff（deanrie，2026-09-09）：Grok Bot 里 Robinhood Agentic Trading MCP 登录已不再用 grokbot://——自 9 月 7 日起改为 https://www.cursor.com/agents/... 回调——且授权码约 15 分钟过期，需尽快完成 Allow（若要求先在 Robinhood App 里批准设备）；手机端仍失败时，用同一账号在 Grok Bot 桌面端或 Cursor 上连一次，交易工具会同步到手机。",
+            "ja": "Staff（deanrie、2026-09-09）：Grok Bot からの Robinhood Agentic Trading MCP ログインは grokbot:// ではなく、9/7 以降は https://www.cursor.com/agents/... コールバックを使い、認可コードは約 15 分で失効する。Allow を速やかに完了し（端末承認が求められたら先に済ます）；スマホで失敗し続けるなら同一アカウントで Grok Bot デスクトップまたは Cursor から一度接続すれば、取引ツールがモバイルにも同期する。"
           }
         }
       ]
