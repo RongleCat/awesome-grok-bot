@@ -1836,13 +1836,13 @@
       },
       "items": [
         {
-          "title": "Bot Shelf",
-          "url": "https://github.com/getbotshelf/botshelf",
+          "title": "BotShelf Vampire",
+          "url": "https://github.com/BotShelfVampire/botshelf",
           "source": "GB-593",
           "blurb": {
-            "en": "Shop of Grok Bot job packs that already ran (copy-paste markdown; Claude Code and ChatGPT packs too). Free packs stay free; USDT TRC20 checkout is live for paid desks.",
-            "zh": "已经跑过的 Grok Bot 工作包商店（markdown 可粘贴；也有 Claude Code 和 ChatGPT 包）。免费包保持免费；付费 Desk 的 USDT TRC20 checkout 已上线。",
-            "ja": "すでに走った Grok Bot ジョブパックの店（markdown を貼るだけ。Claude Code と ChatGPT のパックもあり）。無料パックは無料のまま。有料 Desk 向け USDT TRC20 checkout は公開済み。"
+            "en": "Free, copyable Grok Bot workflow packs for source research, meeting actions and code review, with trial guides and run-evidence requirements; includes Claude Code and ChatGPT variants.",
+            "zh": "免费的可复制 Grok Bot 工作流包，涵盖来源研究、会议行动项与代码审查，附试用指南和运行证据要求；另有 Claude Code 与 ChatGPT 版本.",
+            "ja": "出典付き調査、会議のアクション整理、コードレビュー向けの無料Grok Botワークフローパックで、試用ガイドと実行証拠の要件を備え、Claude Code・ChatGPT版も収録。"
           }
         },
         {
@@ -7093,16 +7093,6 @@
             "en": "Static Chinese Grok Bot explainer landing (no build step): cloud-box vs laptop, what it can do, and how it differs from chat-only Grok.",
             "zh": "无构建步骤的中文 Grok Bot 介绍落地页：云端机 vs 本机、能做什么，以及和纯聊天 Grok 的差别。",
             "ja": "ビルド不要の中国語 Grok Bot 紹介ランディング。クラウド箱とノートPCの違い、できること、チャット専用 Grok との差を説明。"
-          }
-        },
-        {
-          "title": "Bot Shelf (rent Grok Bot teams)",
-          "url": "https://github.com/BotShelfVampire/botshelf",
-          "source": "GB-685",
-          "blurb": {
-            "en": "Bot Shelf marketplace docs plus dozens of paste-ready Grok Bot team packs (proof-of-run, human Yes gates, USDT checkout notes).",
-            "zh": "Bot Shelf 市场说明与数十份可粘贴的 Grok Bot 团队包（实跑证明、人工 Yes 闸门、USDT 结账说明）。",
-            "ja": "Bot Shelf マーケットの文書と、貼り付け即用の Grok Bot チームパック多数（実走証明、人の Yes ゲート、USDT 決済メモ）。"
           }
         },
         {
