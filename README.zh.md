@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-703-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-715-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -144,6 +144,7 @@
 - [Bot Marketplace — public Grok Bot templates](https://x.ai/bot/marketplace) - 官方 x.ai Bot Marketplace：浏览 69 个公开精选 Grok Bot 模板，覆盖 9 大类（From Grok Bot Team、工程、销售、营销、设计、个人、招聘与人事、运营、产品），来自 43 位创作者，可一键加入你的 Bot 阵容。.
 - [Configure TLS-inspecting proxies (Zscaler / SWG)](https://cursor.com/docs/grok-bot/proxies) - 官方 Cursor 文档：企业 TLS 解密网关（如 Zscaler）下配置 Grok Bot——同时放行 *.cursorvm.com 与嵌套 *.*.cursorvm.com，对这些域关闭 SSL 解密与响应缓冲，并应用到所有离网配置；用 Amazon RSA 证书颁发者与 nslookup test.us9.cursorvm.com 自检；docs.x.ai 无对应 proxies 页。.
 - [Download Grok Bot desktop (macOS / Windows / Linux)](https://cursor.com/download/bot) - Cursor 官方 Grok Bot 桌面端下载页：覆盖 macOS（Apple Silicon / Intel）、Windows（x64 / ARM64）以及 Linux（x64 / ARM64 的 .deb、RPM、AppImage）。.
+- [@bot: in-chat form/login fill with any password manager](https://x.com/bot/status/2097383980748382239) - 官方 @bot（2026-09-08）：可在对话内为 Bot 填写表单与登录，并支持任意密码管理器（帖内演示视频）——不必再把密码粘进普通聊天。.
 
 ## 教程与上手指南
 
@@ -187,6 +188,7 @@
 - [GrokBot Learning storyboard](https://github.com/rajvictor1/grokbot-learning) - 基于现场 GrokBot 大师课的交互式 Next.js 故事板：4-C 设计、云电脑、侦察 Bot、群聊与 42 张课堂截图。.
 - [無為 Grok Bot personal playbook](https://github.com/bianwuwei/grok-bot-playbook) - 双语个人 Grok Bot 实战手册（从零到公开作品集）：七章检查清单，外加可复制的 Bot 简介与首单任务模板。.
 - [Grok Bot + GitHub mobile tutorial](https://github.com/GalacticOrgOfDev/grok-bot-github-tutorial) - 面向外出专家的 Grok Bot Expo/RN 教程应用：GitHub 与 Google 模块含视频、练习、测验，另有 Slack 占位。.
+- [Grok Bot getting started (Chinese guide)](https://github.com/bianwuwei/grok-bot-getting-started) - 中文通识指南：从第一个 Grok Bot 到能交作业的小队，含概念图、实机截图与示例模板。.
 
 ## 真实使用案例
 
@@ -271,10 +273,12 @@
 - [50 Grok Bot self-revenue fleet playbooks](https://github.com/AgentMindCloud/Grokbot-Autonomous-Revenue) - 面向 50 机 Grok Bot 营收舰队的活更新排名手册、YAML 角色合同与 Phase-0 推进笔记。.
 - [Ledger FreshBooks MVP by Grok Bot](https://github.com/rohitgarewal-code/ledger) - FreshBooks 风格的多业务账本 MVP（Hono/SQLite/PDF），描述为由 Grok Bot 创建。.
 - [Grok Bot MarketVector / FTSE flow desk](https://github.com/daaaarcy/grokbot) - Grok Bot 工作区：MarketVector 与 FTSE/Russell 指数再平衡流量估算工具及测试。.
+- [EAC multi-bot Overwatch workspace](https://github.com/camav2/eac-grok-bot) - 午后新建的 Expert Author Community 多 Bot 共享工作区：Overwatch 控制面脚本、收件批处理与运营计划。.
+- [Equity data model POC built with Grok Bot](https://github.com/qaz027/equity-data-model-poc) - 用 yfinance 拉行情到 Python、并搭 FMI 形态模型骨架的小 POC，说明在与 Grok Bot 协作中完成。.
 
 ## 技能、插件与 MCP
 
-- [Bot Shelf](https://github.com/getbotshelf/botshelf) - 已经跑过的 Grok Bot 工作包商店（markdown 可粘贴；也有 Claude Code 和 ChatGPT 包）。免费包保持免费；付费 Desk 的 USDT TRC20 checkout 已上线。.
+- [BotShelf Vampire](https://github.com/BotShelfVampire/botshelf) - 免费的可复制 Grok Bot 工作流包，涵盖来源研究、会议行动项与代码审查，附试用指南和运行证据要求；另有 Claude Code 与 ChatGPT 版本。.
 - [Kontext memory plugin for Grok Bot](https://github.com/TheKontextCo/kontext-grok-plugin) - Cursor 市场插件，可在 Grok Bot 安装：经托管 Kontext MCP 提供可移植项目/任务/记忆。.
 - [BotOps Grok Bot fleet lifecycle skill](https://github.com/granda/botops) - 面向 Grok Bot 舰队的 Agent Skills：CoS→L2→L3 分层、Notion 工单与低噪音 swarm 规则。.
 - [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - 通过本机 macOS helper 让 Bot 读、分拣、发 iMessage。.
@@ -464,6 +468,11 @@
 - [Semgrep Security Scanner Grok Bot template](https://github.com/semgrep/semgrep-grok-bot) - Semgrep 官方 Grok Bot 市场/团队模板：按严重级别做 SAST 扫描并脱敏报告。.
 - [Midkernel Scan Grok Bot plugin](https://github.com/midkernel/plugin) - 面向 Cursor/Grok Bot 的 Midkernel Scan MCP 插件，含连库、剧本与 security-review 技能。.
 - [SkillStack grokbot-soul skills pack](https://github.com/graphedge/SkillStack) - 公开 SkillStack 内核快照（grokbot-soul），含董事会流程、写作与操作员门禁技能。.
+- [skill-index Grok Bot skill library plugin](https://github.com/pjpoulose/skill-index) - 面向 Grok Bot 的 Cursor 技能库插件：用自然语言点活技能，一次只匹配一个，缩短常驻 Bot 指令。.
+- [RavenClaude Grok Bot creation & delegation plugins](https://github.com/mcorbett51090/RavenClaude) - RavenClaude 市场插件：设计省 token 的 Grok Bot 人设，并通过专家 Bot 委派、总管简报与花费卫生协调。.
+- [HyperGrok autonomous Hyperliquid desk for Grok Bot](https://github.com/swcstudiospace/hypergrok-autonomous-desk) - 七角色 Hyperliquid 自主交易台，面向 Grok Bot：SETUP 引导、技能包、Require Approval 闸门与 Desk 例程。.
+- [last30days research skill (Grok Bot X path)](https://github.com/mvanhorn/last30days-skill) - 跨宿主 /last30days 调研技能，并写明 Grok Bot 优先走 Bot 的 X 连接器、再回退官方 X API。.
+- [Aident Loadout skill for Cursor/Grok Bot](https://github.com/Aident-AI/aident-skill) - Aident Loadout 的 Cursor 市场技能/MCP，并写明可用于 Grok Bot，把智能体接到 1000+ 真实应用与工具。.
 
 ## 评测与对比
 
@@ -595,6 +604,8 @@
 - [BotDesk Windows companion for Grok Bot](https://github.com/Adamdesgns/botdesk) - 免费 Windows 伴侣：在手机端限时授权下，让获批 Grok bot 操控选定应用窗口。.
 - [Grok Vault Obsidian export CLI](https://github.com/MihirSahu/grok-bot-export) - macOS Bun CLI：浏览器登录后把保留的 Grok Bot 对话全文导出为 Obsidian Markdown。.
 - [Clawd Bots (Grok Bot 0.18 reconstruction)](https://github.com/Solizardking/clawd-bots) - 非官方、基于 OpenMausBot 的 Grok Bot 0.18 重建，带 Clawd 品牌与 Solana 工具面。.
+- [agentcookie Chrome sync for Grok Bot VMs](https://github.com/mvanhorn/agentcookie) - Go 工具与安装技能：把 Mac Chrome Cookie 持续同步到 Linux 接收端，并以 Grok Bot VM 的 CDP 注入（经 Tailscale）为推荐路径。.
+- [dupe isolated desktop profiles (grok-bot preset)](https://github.com/HKTITAN/dupe) - 彩色隔离桌面应用配置的 CLI/UI，内置 grok-bot 预设并为 local-exec 守护进程钉住 SAND_DATA_ROOT。.
 
 ## 社区与故障现场
 
@@ -726,6 +737,8 @@
 - [Trial ended shows as “Can’t reach your computer” — renew/link plan](https://forum.cursor.com/t/grok-bot-0-44-0-macos-can-t-reach-your-computer-retry-and-recover-fail-even-after-re-login/171004) - Staff（deanrie，2026-09-08）：一周免费试用结束后，应用仍可能显示 “Can’t reach your computer” / *.cursorvm.com / Zscaler 文案，Retry/Recover/重登无效——请选择含 Grok Bot 的套餐（或用同一邮箱在 cursor.com 关联 SuperGrok），从菜单栏完全退出后重开并登录；Bot/文件仍保留。.
 - [Desktop reconnect overwrites in-chat secure secrets](https://forum.cursor.com/t/grok-bot-box-secrets-wiped-overnight-shopify-client-id-secret/171029) - Staff（Colin，2026-09-08）：Grok Bot 桌面端在重连云电脑时（如休眠或夜间断线后）会把应用侧密钥列表重新同步上去，目前会覆盖聊天里安全输入卡保存的密钥——重连后需重新录入，直到同步 bug 修复；并非 Update/Reset 导致。.
 - [Robinhood MCP OAuth: https callback + 15-minute window (connect on desktop)](https://forum.cursor.com/t/grok-bot-robinhood-agentic-trading-mcp-oauth-fails-after-allow-grokbot-callback-oauth-error/171111) - Staff（deanrie，2026-09-09）：Grok Bot 里 Robinhood Agentic Trading MCP 登录已不再用 grokbot://——自 9 月 7 日起改为 https://www.cursor.com/agents/... 回调——且授权码约 15 分钟过期，需尽快完成 Allow（若要求先在 Robinhood App 里批准设备）；手机端仍失败时，用同一账号在 Grok Bot 桌面端或 Cursor 上连一次，交易工具会同步到手机。.
+- [Home Wi-Fi: curl OK but streaming fails — Private Relay / cellular IP](https://forum.cursor.com/t/please-try-again-on-most-messages-computer-stuck-on-starting-desktop-cant-reach-bots-screen/170987) - Staff（deanrie，2026-09-09）：云电脑健康、热点可用但家里 Wi-Fi 不行——即便 api2/cursorvm 的短 curl 正常——应用需要长连接流，可能被网络掐断；请完全退出后依次试：关掉 iCloud 专用代理、DNS 改回路由器自动（去掉 1.1.1.1/8.8.8.8），并检查会轮换多 IP 的蜂窝路由（curl 没事但会长连断开）。.
+- [Cursor password reset → ~30 min Authentication error (auto-reconnect)](https://forum.cursor.com/t/authentication-errors/170963) - Staff（mohitjain，2026-09-08）：重置 Cursor 密码会登出所有会话（含 Bot 云电脑后台会话），聊天可能约 30 分钟报 “Authentication error”，随后会自行重连（无需重装/Reset/Update）。手机用新密码登录即可；有别于 Mac “unavailable” 过期会话 UI（170389）与 0.43 登出重登提示（170775）。.
 
 ## 相关列表
 
@@ -808,12 +821,11 @@
 - [Grok Bot for Raycast (Sand gateway)](https://github.com/MaisonnatM/grok-bot) - 非官方 Raycast 扩展：经 Bot 电脑上未公开的 Sand HTTP 网关给 Grok Bot 队友派活（不是 grok.com 聊天 API）。.
 - [Grok Bot architecture staff reference](https://github.com/tiagovilasboas/grok-bot-architecture) - 以 Grok Bot 为宿主的桌面多智能体助手架构参考：班组、共享电脑、例程、连接器与人在回路（HITL）。.
 - [Grok Bot Chinese intro site](https://github.com/Aaronwn/grokbot-site) - 无构建步骤的中文 Grok Bot 介绍落地页：云端机 vs 本机、能做什么，以及和纯聊天 Grok 的差别。.
-- [Bot Shelf (rent Grok Bot teams)](https://github.com/BotShelfVampire/botshelf) - Bot Shelf 市场说明与数十份可粘贴的 Grok Bot 团队包（实跑证明、人工 Yes 闸门、USDT 结账说明）。.
 - [Grok Bot giveaway use-case catalog](https://github.com/mschmidt4377-max/grokbot-use-cases) - 可搜索的静态目录：汇总 X 上达人赠阅帖里的 Grok Bot 用法，并提供手机友好的 Pages/githack 浏览页。.
 
 ## 贡献
 
-目前 8 个分类、703 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、715 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

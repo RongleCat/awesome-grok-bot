@@ -594,6 +594,16 @@
             "zh": "Cursor 官方 Grok Bot 桌面端下载页：覆盖 macOS（Apple Silicon / Intel）、Windows（x64 / ARM64）以及 Linux（x64 / ARM64 的 .deb、RPM、AppImage）。",
             "ja": "Cursor 公式の Grok Bot デスクトップ配布ハブ。macOS（Apple Silicon / Intel）、Windows（x64 / ARM64）、Linux（x64 / ARM64 の .deb・RPM・AppImage）を提供。"
           }
+        },
+        {
+          "title": "@bot: in-chat form/login fill with any password manager",
+          "url": "https://x.com/bot/status/2097383980748382239",
+          "source": "GB-737",
+          "blurb": {
+            "en": "Official @bot (2026-09-08): you can fill out forms and logins for your Bot without leaving chat, with support for any password manager (demo video in the post)—so you need not paste passwords into ordinary chat.",
+            "zh": "官方 @bot（2026-09-08）：可在对话内为 Bot 填写表单与登录，并支持任意密码管理器（帖内演示视频）——不必再把密码粘进普通聊天。",
+            "ja": "公式 @bot（2026-09-08）：チャットを離れずに Bot のフォーム／ログイン入力ができ、任意のパスワードマネージャに対応（投稿内デモ動画）。平文チャットにパスワードを貼る必要がない。"
+          }
         }
       ]
     },
@@ -1003,6 +1013,16 @@
             "en": "Expo React Native tutorial app for Grok Bot specialists on the go: GitHub and Google modules with videos, practices, quizzes, and a Slack stub.",
             "zh": "面向外出专家的 Grok Bot Expo/RN 教程应用：GitHub 与 Google 模块含视频、练习、测验，另有 Slack 占位。",
             "ja": "外出中の専門 Bot 向け Expo/RN チュートリアル。GitHub/Google モジュールに動画・演習・クイズ、Slack はスタブ。"
+          }
+        },
+        {
+          "title": "Grok Bot getting started (Chinese guide)",
+          "url": "https://github.com/bianwuwei/grok-bot-getting-started",
+          "source": "GB-732",
+          "blurb": {
+            "en": "Chinese getting-started playbook from first Grok Bot to a deliverable squad, with concept figures, UI screenshots, and demo templates.",
+            "zh": "中文通识指南：从第一个 Grok Bot 到能交作业的小队，含概念图、实机截图与示例模板。",
+            "ja": "最初の Grok Bot から成果を出せる小隊までの中国語入門。概念図・実機スクショ・デモひな形付き。"
           }
         }
       ]
@@ -1824,6 +1844,26 @@
             "zh": "Grok Bot 工作区：MarketVector 与 FTSE/Russell 指数再平衡流量估算工具及测试。",
             "ja": "Grok Bot 作業場。MarketVector と FTSE/Russell リバランス需要推定ツールとテスト付き。"
           }
+        },
+        {
+          "title": "EAC multi-bot Overwatch workspace",
+          "url": "https://github.com/camav2/eac-grok-bot",
+          "source": "GB-733",
+          "blurb": {
+            "en": "Post-midday shared multi-bot workspace for Expert Author Community ops with Overwatch control-plane scripts, inbox batches, and engagement plans.",
+            "zh": "午后新建的 Expert Author Community 多 Bot 共享工作区：Overwatch 控制面脚本、收件批处理与运营计划。",
+            "ja": "午後新規の Expert Author Community 向けマルチ Bot 共有ワークスペース。Overwatch 制御面・受信バッチ・施策プラン付き。"
+          }
+        },
+        {
+          "title": "Equity data model POC built with Grok Bot",
+          "url": "https://github.com/qaz027/equity-data-model-poc",
+          "source": "GB-734",
+          "blurb": {
+            "en": "Small yfinance-to-Python equity data and FMI-shaped model skeleton POC described as built while working with Grok Bot.",
+            "zh": "用 yfinance 拉行情到 Python、并搭 FMI 形态模型骨架的小 POC，说明在与 Grok Bot 协作中完成。",
+            "ja": "yfinance で株価を Python に取り込み FMI 風モデル骨格を作る小さな POC。Grok Bot と作りながら進めたと明記。"
+          }
         }
       ]
     },
@@ -1836,13 +1876,13 @@
       },
       "items": [
         {
-          "title": "Bot Shelf",
-          "url": "https://github.com/getbotshelf/botshelf",
+          "title": "BotShelf Vampire",
+          "url": "https://github.com/BotShelfVampire/botshelf",
           "source": "GB-593",
           "blurb": {
-            "en": "Shop of Grok Bot job packs that already ran (copy-paste markdown; Claude Code and ChatGPT packs too). Free packs stay free; USDT TRC20 checkout is live for paid desks.",
-            "zh": "已经跑过的 Grok Bot 工作包商店（markdown 可粘贴；也有 Claude Code 和 ChatGPT 包）。免费包保持免费；付费 Desk 的 USDT TRC20 checkout 已上线。",
-            "ja": "すでに走った Grok Bot ジョブパックの店（markdown を貼るだけ。Claude Code と ChatGPT のパックもあり）。無料パックは無料のまま。有料 Desk 向け USDT TRC20 checkout は公開済み。"
+            "en": "Free, copyable Grok Bot workflow packs for source research, meeting actions and code review, with trial guides and run-evidence requirements; includes Claude Code and ChatGPT variants.",
+            "zh": "免费的可复制 Grok Bot 工作流包，涵盖来源研究、会议行动项与代码审查，附试用指南和运行证据要求；另有 Claude Code 与 ChatGPT 版本。",
+            "ja": "出典付き調査、会議のアクション整理、コードレビュー向けの無料Grok Botワークフローパックで、試用ガイドと実行証拠の要件を備え、Claude Code・ChatGPT版も収録。"
           }
         },
         {
@@ -3734,6 +3774,56 @@
             "zh": "公开 SkillStack 内核快照（grokbot-soul），含董事会流程、写作与操作员门禁技能。",
             "ja": "公開 SkillStack カーネル快照（grokbot-soul）。ボード運用・執筆・オペレータゲート技能を含む。"
           }
+        },
+        {
+          "title": "skill-index Grok Bot skill library plugin",
+          "url": "https://github.com/pjpoulose/skill-index",
+          "source": "GB-727",
+          "blurb": {
+            "en": "Cursor plugin skill library for Grok Bot: ask in plain English, match one skill at a time, and keep standing bot instructions short.",
+            "zh": "面向 Grok Bot 的 Cursor 技能库插件：用自然语言点活技能，一次只匹配一个，缩短常驻 Bot 指令。",
+            "ja": "Grok Bot 向け Cursor スキル庫プラグイン。平易な英語で依頼し、一度に1スキルだけ選び、常駐指示を短く保つ。"
+          }
+        },
+        {
+          "title": "RavenClaude Grok Bot creation & delegation plugins",
+          "url": "https://github.com/mcorbett51090/RavenClaude",
+          "source": "GB-728",
+          "blurb": {
+            "en": "RavenClaude marketplace plugins to design token-efficient Grok Bot personas and delegate via expert bots with CoS briefs and spend hygiene.",
+            "zh": "RavenClaude 市场插件：设计省 token 的 Grok Bot 人设，并通过专家 Bot 委派、总管简报与花费卫生协调。",
+            "ja": "RavenClaude マーケットのプラグイン。トークン効率の良い Grok Bot 人格を設計し、専門 Bot 委譲・CoS ブリーフ・支出衛生で運用する。"
+          }
+        },
+        {
+          "title": "HyperGrok autonomous Hyperliquid desk for Grok Bot",
+          "url": "https://github.com/swcstudiospace/hypergrok-autonomous-desk",
+          "source": "GB-729",
+          "blurb": {
+            "en": "Seven-role Hyperliquid autonomous trading desk packaged for Grok Bot with SETUP bootstrap, skills, Require Approval gates, and desk routines.",
+            "zh": "七角色 Hyperliquid 自主交易台，面向 Grok Bot：SETUP 引导、技能包、Require Approval 闸门与 Desk 例程。",
+            "ja": "7役 Hyperliquid 自律取引デスク。Grok Bot 向け SETUP・スキル・Require Approval ゲート・デスク定例付き。"
+          }
+        },
+        {
+          "title": "last30days research skill (Grok Bot X path)",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "source": "GB-730",
+          "blurb": {
+            "en": "Cross-harness /last30days research skill with an explicit Grok Bot path that prefers the bot X connector before X API fallback.",
+            "zh": "跨宿主 /last30days 调研技能，并写明 Grok Bot 优先走 Bot 的 X 连接器、再回退官方 X API。",
+            "ja": "横断ホストの /last30days 調査スキル。Grok Bot では Bot の X コネクタを優先し、公式 X API にフォールバックする手順を明記。"
+          }
+        },
+        {
+          "title": "Aident Loadout skill for Cursor/Grok Bot",
+          "url": "https://github.com/Aident-AI/aident-skill",
+          "source": "GB-731",
+          "blurb": {
+            "en": "Aident Loadout Cursor Marketplace skill/MCP that also targets Grok Bot to connect agents to 1,000+ real-world apps and tools.",
+            "zh": "Aident Loadout 的 Cursor 市场技能/MCP，并写明可用于 Grok Bot，把智能体接到 1000+ 真实应用与工具。",
+            "ja": "Aident Loadout の Cursor Marketplace スキル/MCP。Grok Bot でも使え、エージェントを 1000+ の実アプリ/ツールに接続する。"
+          }
         }
       ]
     },
@@ -5003,6 +5093,26 @@
             "en": "Unofficial OpenMausBot-derived reconstruction of Grok Bot 0.18 with Clawd branding and Solana tool surface.",
             "zh": "非官方、基于 OpenMausBot 的 Grok Bot 0.18 重建，带 Clawd 品牌与 Solana 工具面。",
             "ja": "非公式の OpenMausBot 派生 Grok Bot 0.18 再構築。Clawd ブランドと Solana ツール面付き。"
+          }
+        },
+        {
+          "title": "agentcookie Chrome sync for Grok Bot VMs",
+          "url": "https://github.com/mvanhorn/agentcookie",
+          "source": "GB-735",
+          "blurb": {
+            "en": "Go tool plus install skill that continuously syncs Mac Chrome cookies to a Linux sink, featuring Grok Bot VM CDP inject over Tailscale.",
+            "zh": "Go 工具与安装技能：把 Mac Chrome Cookie 持续同步到 Linux 接收端，并以 Grok Bot VM 的 CDP 注入（经 Tailscale）为推荐路径。",
+            "ja": "Go ツール＋インストール技能。Mac の Chrome Cookie を Linux シンクへ継続同期し、Grok Bot VM の CDP 注入（Tailscale）を推奨手順にする。"
+          }
+        },
+        {
+          "title": "dupe isolated desktop profiles (grok-bot preset)",
+          "url": "https://github.com/HKTITAN/dupe",
+          "source": "GB-736",
+          "blurb": {
+            "en": "CLI/UI to run colour-coded isolated app profiles, with a first-class grok-bot preset that pins SAND_DATA_ROOT for the local-exec daemon.",
+            "zh": "彩色隔离桌面应用配置的 CLI/UI，内置 grok-bot 预设并为 local-exec 守护进程钉住 SAND_DATA_ROOT。",
+            "ja": "色分けされた隔離アプリプロファイル用 CLI/UI。grok-bot プリセットで local-exec デーモン向け SAND_DATA_ROOT を固定。"
           }
         }
       ]
@@ -6294,6 +6404,26 @@
             "zh": "Staff（deanrie，2026-09-09）：Grok Bot 里 Robinhood Agentic Trading MCP 登录已不再用 grokbot://——自 9 月 7 日起改为 https://www.cursor.com/agents/... 回调——且授权码约 15 分钟过期，需尽快完成 Allow（若要求先在 Robinhood App 里批准设备）；手机端仍失败时，用同一账号在 Grok Bot 桌面端或 Cursor 上连一次，交易工具会同步到手机。",
             "ja": "Staff（deanrie、2026-09-09）：Grok Bot からの Robinhood Agentic Trading MCP ログインは grokbot:// ではなく、9/7 以降は https://www.cursor.com/agents/... コールバックを使い、認可コードは約 15 分で失効する。Allow を速やかに完了し（端末承認が求められたら先に済ます）；スマホで失敗し続けるなら同一アカウントで Grok Bot デスクトップまたは Cursor から一度接続すれば、取引ツールがモバイルにも同期する。"
           }
+        },
+        {
+          "title": "Home Wi-Fi: curl OK but streaming fails — Private Relay / cellular IP",
+          "url": "https://forum.cursor.com/t/please-try-again-on-most-messages-computer-stuck-on-starting-desktop-cant-reach-bots-screen/170987",
+          "source": "GB-738",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-09): When the cloud computer is healthy and hotspot works but home Wi-Fi fails—even if short curl to api2/cursorvm looks fine—the app needs long-lived streaming that your network may drop; fully Quit, then try iCloud Private Relay off, DNS back to router-automatic (remove 1.1.1.1/8.8.8.8), and check cellular routers that rotate multiple IPs (fine for curl, cuts long-lived app links).",
+            "zh": "Staff（deanrie，2026-09-09）：云电脑健康、热点可用但家里 Wi-Fi 不行——即便 api2/cursorvm 的短 curl 正常——应用需要长连接流，可能被网络掐断；请完全退出后依次试：关掉 iCloud 专用代理、DNS 改回路由器自动（去掉 1.1.1.1/8.8.8.8），并检查会轮换多 IP 的蜂窝路由（curl 没事但会长连断开）。",
+            "ja": "Staff（deanrie、2026-09-09）：クラウド側は健全でホットスポットは通るのに自宅 Wi-Fi だけ失敗し、api2/cursorvm への短い curl は通る場合、アプリは長寿命ストリーミングが必要で自宅網が切っていることがある。完全終了後、iCloud プライベートリレー OFF → DNS をルータ自動に戻す（1.1.1.1/8.8.8.8 削除）→ 複数 IP を回すセルラールータを疑う（curl は通っても長接続は切れる）。"
+          }
+        },
+        {
+          "title": "Cursor password reset → ~30 min Authentication error (auto-reconnect)",
+          "url": "https://forum.cursor.com/t/authentication-errors/170963",
+          "source": "GB-739",
+          "blurb": {
+            "en": "Staff (mohitjain, 2026-09-08): Resetting your Cursor password signs out every session—including the Bot cloud computer’s background session—so chat can return “Authentication error” for about 30 minutes; it reconnects on its own (no reinstall / Reset / Update). Sign the phone in with the new password; distinct from Mac “unavailable” expired-session UI (170389) and 0.43 sign-out tips (170775).",
+            "zh": "Staff（mohitjain，2026-09-08）：重置 Cursor 密码会登出所有会话（含 Bot 云电脑后台会话），聊天可能约 30 分钟报 “Authentication error”，随后会自行重连（无需重装/Reset/Update）。手机用新密码登录即可；有别于 Mac “unavailable” 过期会话 UI（170389）与 0.43 登出重登提示（170775）。",
+            "ja": "Staff（mohitjain、2026-09-08）：Cursor パスワード再設定ですべてのセッション（Bot クラウド機のバックグラウンド含む）が切れ、約 30 分 “Authentication error” が出ることがある。再接続は自動（再インストール/Reset/Update 不要）。スマホは新パスワードでサインイン。Mac の “unavailable” 期限切れ UI（170389）や 0.43 のサインアウト手順（170775）とは別。"
+          }
         }
       ]
     },
@@ -7093,16 +7223,6 @@
             "en": "Static Chinese Grok Bot explainer landing (no build step): cloud-box vs laptop, what it can do, and how it differs from chat-only Grok.",
             "zh": "无构建步骤的中文 Grok Bot 介绍落地页：云端机 vs 本机、能做什么，以及和纯聊天 Grok 的差别。",
             "ja": "ビルド不要の中国語 Grok Bot 紹介ランディング。クラウド箱とノートPCの違い、できること、チャット専用 Grok との差を説明。"
-          }
-        },
-        {
-          "title": "Bot Shelf (rent Grok Bot teams)",
-          "url": "https://github.com/BotShelfVampire/botshelf",
-          "source": "GB-685",
-          "blurb": {
-            "en": "Bot Shelf marketplace docs plus dozens of paste-ready Grok Bot team packs (proof-of-run, human Yes gates, USDT checkout notes).",
-            "zh": "Bot Shelf 市场说明与数十份可粘贴的 Grok Bot 团队包（实跑证明、人工 Yes 闸门、USDT 结账说明）。",
-            "ja": "Bot Shelf マーケットの文書と、貼り付け即用の Grok Bot チームパック多数（実走証明、人の Yes ゲート、USDT 決済メモ）。"
           }
         },
         {

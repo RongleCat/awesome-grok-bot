@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-703-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-715-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -144,6 +144,7 @@
 - [Bot Marketplace — public Grok Bot templates](https://x.ai/bot/marketplace) - Official x.ai Bot Marketplace hub for Grok Bot: browse 69 public, handpicked Bot templates across 9 categories (From Grok Bot Team, Engineering, Sales, Marketing, Design, Personal, Recruiting & People, Operations, Product) from 43 creators and add them to your roster.
 - [Configure TLS-inspecting proxies (Zscaler / SWG)](https://cursor.com/docs/grok-bot/proxies) - Official Cursor docs for Grok Bot behind TLS-inspecting gateways (e.g. Zscaler): allow both *.cursorvm.com and nested *.*.cursorvm.com, exempt those domains from SSL inspection and response buffering, apply rules to every off-network profile, and verify with Amazon RSA issuer + nslookup test.us9.cursorvm.com—docs.x.ai has no proxies page.
 - [Download Grok Bot desktop (macOS / Windows / Linux)](https://cursor.com/download/bot) - Official Cursor download hub for the Grok Bot desktop app: macOS (Apple Silicon and Intel), Windows (x64 and ARM64), and Linux (.deb, RPM, and AppImage for x64 and ARM64).
+- [@bot: in-chat form/login fill with any password manager](https://x.com/bot/status/2097383980748382239) - Official @bot (2026-09-08): you can fill out forms and logins for your Bot without leaving chat, with support for any password manager (demo video in the post)—so you need not paste passwords into ordinary chat.
 
 ## Tutorials & Guides
 
@@ -187,6 +188,7 @@
 - [GrokBot Learning storyboard](https://github.com/rajvictor1/grokbot-learning) - Interactive Next.js storyboard from a live GrokBot masterclass: 4-C design, cloud computer, scout bots, group chat, and 42 session screenshots.
 - [無為 Grok Bot personal playbook](https://github.com/bianwuwei/grok-bot-playbook) - Bilingual personal Grok Bot playbook (zero → public portfolio) with seven chapters, checklists, and copyable Bot-brief/first-task templates.
 - [Grok Bot + GitHub mobile tutorial](https://github.com/GalacticOrgOfDev/grok-bot-github-tutorial) - Expo React Native tutorial app for Grok Bot specialists on the go: GitHub and Google modules with videos, practices, quizzes, and a Slack stub.
+- [Grok Bot getting started (Chinese guide)](https://github.com/bianwuwei/grok-bot-getting-started) - Chinese getting-started playbook from first Grok Bot to a deliverable squad, with concept figures, UI screenshots, and demo templates.
 
 ## Field Cases
 
@@ -271,10 +273,12 @@
 - [50 Grok Bot self-revenue fleet playbooks](https://github.com/AgentMindCloud/Grokbot-Autonomous-Revenue) - Living ranked playbooks, YAML role contracts, and Phase-0 rollout notes for a 50-bot Grok Bot revenue fleet.
 - [Ledger FreshBooks MVP by Grok Bot](https://github.com/rohitgarewal-code/ledger) - FreshBooks-style multi-business ledger MVP (Hono/SQLite/PDF) described as created by Grok Bot.
 - [Grok Bot MarketVector / FTSE flow desk](https://github.com/daaaarcy/grokbot) - Grok Bot workspace with MarketVector and FTSE/Russell index rebalance flow estimators and tests.
+- [EAC multi-bot Overwatch workspace](https://github.com/camav2/eac-grok-bot) - Post-midday shared multi-bot workspace for Expert Author Community ops with Overwatch control-plane scripts, inbox batches, and engagement plans.
+- [Equity data model POC built with Grok Bot](https://github.com/qaz027/equity-data-model-poc) - Small yfinance-to-Python equity data and FMI-shaped model skeleton POC described as built while working with Grok Bot.
 
 ## Skills, Plugins & MCP
 
-- [Bot Shelf](https://github.com/getbotshelf/botshelf) - Shop of Grok Bot job packs that already ran (copy-paste markdown; Claude Code and ChatGPT packs too). Free packs stay free; USDT TRC20 checkout is live for paid desks.
+- [BotShelf Vampire](https://github.com/BotShelfVampire/botshelf) - Free, copyable Grok Bot workflow packs for source research, meeting actions and code review, with trial guides and run-evidence requirements; includes Claude Code and ChatGPT variants.
 - [Kontext memory plugin for Grok Bot](https://github.com/TheKontextCo/kontext-grok-plugin) - Cursor marketplace plugin Grok Bot can install for portable Projects/Tasks/memory over hosted Kontext MCP.
 - [BotOps Grok Bot fleet lifecycle skill](https://github.com/granda/botops) - Agent Skills pack for running a Grok Bot fleet with CoS → L2 → L3 layers, Notion tickets, and quiet swarm rules.
 - [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - Read, triage, and send iMessage from the Bot via a local macOS helper.
@@ -464,6 +468,11 @@
 - [Semgrep Security Scanner Grok Bot template](https://github.com/semgrep/semgrep-grok-bot) - Official Semgrep Grok Bot marketplace/team template for severity-ranked SAST scans with redaction.
 - [Midkernel Scan Grok Bot plugin](https://github.com/midkernel/plugin) - Midkernel Scan MCP plugin for Cursor/Grok Bot with connect-repo, playbooks, and security-review skills.
 - [SkillStack grokbot-soul skills pack](https://github.com/graphedge/SkillStack) - Public SkillStack kernel snapshot (grokbot-soul) with board, writing, and operator-gate skills.
+- [skill-index Grok Bot skill library plugin](https://github.com/pjpoulose/skill-index) - Cursor plugin skill library for Grok Bot: ask in plain English, match one skill at a time, and keep standing bot instructions short.
+- [RavenClaude Grok Bot creation & delegation plugins](https://github.com/mcorbett51090/RavenClaude) - RavenClaude marketplace plugins to design token-efficient Grok Bot personas and delegate via expert bots with CoS briefs and spend hygiene.
+- [HyperGrok autonomous Hyperliquid desk for Grok Bot](https://github.com/swcstudiospace/hypergrok-autonomous-desk) - Seven-role Hyperliquid autonomous trading desk packaged for Grok Bot with SETUP bootstrap, skills, Require Approval gates, and desk routines.
+- [last30days research skill (Grok Bot X path)](https://github.com/mvanhorn/last30days-skill) - Cross-harness /last30days research skill with an explicit Grok Bot path that prefers the bot X connector before X API fallback.
+- [Aident Loadout skill for Cursor/Grok Bot](https://github.com/Aident-AI/aident-skill) - Aident Loadout Cursor Marketplace skill/MCP that also targets Grok Bot to connect agents to 1,000+ real-world apps and tools.
 
 ## Reviews & Comparisons
 
@@ -595,6 +604,8 @@
 - [BotDesk Windows companion for Grok Bot](https://github.com/Adamdesgns/botdesk) - Free Windows companion that lets approved Grok bots control one app window under timed phone owner access.
 - [Grok Vault Obsidian export CLI](https://github.com/MihirSahu/grok-bot-export) - macOS Bun CLI that browser-auths and archives retained Grok Bot conversation text into Obsidian Markdown.
 - [Clawd Bots (Grok Bot 0.18 reconstruction)](https://github.com/Solizardking/clawd-bots) - Unofficial OpenMausBot-derived reconstruction of Grok Bot 0.18 with Clawd branding and Solana tool surface.
+- [agentcookie Chrome sync for Grok Bot VMs](https://github.com/mvanhorn/agentcookie) - Go tool plus install skill that continuously syncs Mac Chrome cookies to a Linux sink, featuring Grok Bot VM CDP inject over Tailscale.
+- [dupe isolated desktop profiles (grok-bot preset)](https://github.com/HKTITAN/dupe) - CLI/UI to run colour-coded isolated app profiles, with a first-class grok-bot preset that pins SAND_DATA_ROOT for the local-exec daemon.
 
 ## Community & Failure Modes
 
@@ -726,6 +737,8 @@
 - [Trial ended shows as “Can’t reach your computer” — renew/link plan](https://forum.cursor.com/t/grok-bot-0-44-0-macos-can-t-reach-your-computer-retry-and-recover-fail-even-after-re-login/171004) - Staff (deanrie, 2026-09-08): After the 1-week free Grok Bot trial ends, the app can keep showing “Can’t reach your computer” / *.cursorvm.com / Zscaler copy even though Retry/Recover/re-login won’t help—pick a plan that includes Grok Bot (or link SuperGrok at cursor.com with the same email), fully quit from the menu bar, reopen, and sign in again; bots/files stay saved.
 - [Desktop reconnect overwrites in-chat secure secrets](https://forum.cursor.com/t/grok-bot-box-secrets-wiped-overnight-shopify-client-id-secret/171029) - Staff (Colin, 2026-09-08): When the Grok Bot desktop app reconnects to your cloud computer (e.g. after sleep or an overnight drop), it re-syncs the app’s secrets list and currently overwrites secrets saved via the in-chat secure input—re-enter those credentials after reconnect until the sync bug is fixed; Update/Reset are not the cause.
 - [Robinhood MCP OAuth: https callback + 15-minute window (connect on desktop)](https://forum.cursor.com/t/grok-bot-robinhood-agentic-trading-mcp-oauth-fails-after-allow-grokbot-callback-oauth-error/171111) - Staff (deanrie, 2026-09-09): Robinhood Agentic Trading MCP sign-in from Grok Bot no longer uses grokbot://—since 7 Sep it uses an https://www.cursor.com/agents/... callback—and the auth code expires in about 15 minutes, so finish Allow quickly (approve the Robinhood device first if asked); if phone OAuth keeps failing, connect once from Grok Bot desktop or Cursor on the same account so the trading tools sync to mobile.
+- [Home Wi-Fi: curl OK but streaming fails — Private Relay / cellular IP](https://forum.cursor.com/t/please-try-again-on-most-messages-computer-stuck-on-starting-desktop-cant-reach-bots-screen/170987) - Staff (deanrie, 2026-09-09): When the cloud computer is healthy and hotspot works but home Wi-Fi fails—even if short curl to api2/cursorvm looks fine—the app needs long-lived streaming that your network may drop; fully Quit, then try iCloud Private Relay off, DNS back to router-automatic (remove 1.1.1.1/8.8.8.8), and check cellular routers that rotate multiple IPs (fine for curl, cuts long-lived app links).
+- [Cursor password reset → ~30 min Authentication error (auto-reconnect)](https://forum.cursor.com/t/authentication-errors/170963) - Staff (mohitjain, 2026-09-08): Resetting your Cursor password signs out every session—including the Bot cloud computer’s background session—so chat can return “Authentication error” for about 30 minutes; it reconnects on its own (no reinstall / Reset / Update). Sign the phone in with the new password; distinct from Mac “unavailable” expired-session UI (170389) and 0.43 sign-out tips (170775).
 
 ## Related Lists
 
@@ -808,12 +821,11 @@
 - [Grok Bot for Raycast (Sand gateway)](https://github.com/MaisonnatM/grok-bot) - Unofficial Raycast extension that sends tasks to Grok Bot teammates via the undocumented Sand HTTP gateway on the Bot computer (not the grok.com chat API).
 - [Grok Bot architecture staff reference](https://github.com/tiagovilasboas/grok-bot-architecture) - Staff pattern reference for desktop multi-agent assistants hosted on Grok Bot: crew, shared computer, routines, connectors, and HITL.
 - [Grok Bot Chinese intro site](https://github.com/Aaronwn/grokbot-site) - Static Chinese Grok Bot explainer landing (no build step): cloud-box vs laptop, what it can do, and how it differs from chat-only Grok.
-- [Bot Shelf (rent Grok Bot teams)](https://github.com/BotShelfVampire/botshelf) - Bot Shelf marketplace docs plus dozens of paste-ready Grok Bot team packs (proof-of-run, human Yes gates, USDT checkout notes).
 - [Grok Bot giveaway use-case catalog](https://github.com/mschmidt4377-max/grokbot-use-cases) - Searchable static catalog of Grok Bot jobs scraped from influencer giveaway threads on X, with a phone-friendly Pages/githack viewer.
 
 ## Contributing
 
-703 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+715 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
