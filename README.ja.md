@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-703-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-702-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -274,7 +274,7 @@
 
 ## スキル、プラグインと MCP
 
-- [Bot Shelf](https://github.com/getbotshelf/botshelf) - すでに走った Grok Bot ジョブパックの店（markdown を貼るだけ。Claude Code と ChatGPT のパックもあり）。無料パックは無料のまま。有料 Desk 向け USDT TRC20 checkout は公開済み。
+- [BotShelf Vampire](https://github.com/BotShelfVampire/botshelf) - 出典付き調査、会議のアクション整理、コードレビュー向けの無料Grok Botワークフローパックで、試用ガイドと実行証拠の要件を備え、Claude Code・ChatGPT版も収録。
 - [Kontext memory plugin for Grok Bot](https://github.com/TheKontextCo/kontext-grok-plugin) - Grok Bot が入れられる Cursor マーケットプラグイン。ホスト済み Kontext MCP でプロジェクト・タスク・記憶。
 - [BotOps Grok Bot fleet lifecycle skill](https://github.com/granda/botops) - Grok Bot フリート向け Agent Skills。CoS→L2→L3、Notion チケット、静かなスウォーム規則。
 - [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - ローカルの macOS helper 経由で、Bot が iMessage を読み、仕分け、送ります。
@@ -808,12 +808,11 @@
 - [Grok Bot for Raycast (Sand gateway)](https://github.com/MaisonnatM/grok-bot) - 非公式 Raycast 拡張。Bot コンピュータ上の非公開 Sand HTTP ゲートウェイ経由で Grok Bot 队友にタスク送信（grok.com チャット API ではない）。
 - [Grok Bot architecture staff reference](https://github.com/tiagovilasboas/grok-bot-architecture) - Grok Bot をホストとするデスクトップ多智能体アシスタントのスタッフ向けパターン。班、共有 PC、ルーチン、コネクタ、HITL。
 - [Grok Bot Chinese intro site](https://github.com/Aaronwn/grokbot-site) - ビルド不要の中国語 Grok Bot 紹介ランディング。クラウド箱とノートPCの違い、できること、チャット専用 Grok との差を説明。
-- [Bot Shelf (rent Grok Bot teams)](https://github.com/BotShelfVampire/botshelf) - Bot Shelf マーケットの文書と、貼り付け即用の Grok Bot チームパック多数（実走証明、人の Yes ゲート、USDT 決済メモ）。
 - [Grok Bot giveaway use-case catalog](https://github.com/mschmidt4377-max/grokbot-use-cases) - X のインフルエンサー配布スレから集めた Grok Bot 用例の検索可能な静的カタログ。スマホ向け Pages/githack ビューア付き。
 
 ## 貢献
 
-8 セクションに 703 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 702 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

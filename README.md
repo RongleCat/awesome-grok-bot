@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-703-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-702-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -274,7 +274,7 @@
 
 ## Skills, Plugins & MCP
 
-- [Bot Shelf](https://github.com/getbotshelf/botshelf) - Shop of Grok Bot job packs that already ran (copy-paste markdown; Claude Code and ChatGPT packs too). Free packs stay free; USDT TRC20 checkout is live for paid desks.
+- [BotShelf Vampire](https://github.com/BotShelfVampire/botshelf) - Free, copyable Grok Bot workflow packs for source research, meeting actions and code review, with trial guides and run-evidence requirements; includes Claude Code and ChatGPT variants.
 - [Kontext memory plugin for Grok Bot](https://github.com/TheKontextCo/kontext-grok-plugin) - Cursor marketplace plugin Grok Bot can install for portable Projects/Tasks/memory over hosted Kontext MCP.
 - [BotOps Grok Bot fleet lifecycle skill](https://github.com/granda/botops) - Agent Skills pack for running a Grok Bot fleet with CoS → L2 → L3 layers, Notion tickets, and quiet swarm rules.
 - [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - Read, triage, and send iMessage from the Bot via a local macOS helper.
@@ -808,12 +808,11 @@
 - [Grok Bot for Raycast (Sand gateway)](https://github.com/MaisonnatM/grok-bot) - Unofficial Raycast extension that sends tasks to Grok Bot teammates via the undocumented Sand HTTP gateway on the Bot computer (not the grok.com chat API).
 - [Grok Bot architecture staff reference](https://github.com/tiagovilasboas/grok-bot-architecture) - Staff pattern reference for desktop multi-agent assistants hosted on Grok Bot: crew, shared computer, routines, connectors, and HITL.
 - [Grok Bot Chinese intro site](https://github.com/Aaronwn/grokbot-site) - Static Chinese Grok Bot explainer landing (no build step): cloud-box vs laptop, what it can do, and how it differs from chat-only Grok.
-- [Bot Shelf (rent Grok Bot teams)](https://github.com/BotShelfVampire/botshelf) - Bot Shelf marketplace docs plus dozens of paste-ready Grok Bot team packs (proof-of-run, human Yes gates, USDT checkout notes).
 - [Grok Bot giveaway use-case catalog](https://github.com/mschmidt4377-max/grokbot-use-cases) - Searchable static catalog of Grok Bot jobs scraped from influencer giveaway threads on X, with a phone-friendly Pages/githack viewer.
 
 ## Contributing
 
-703 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+702 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

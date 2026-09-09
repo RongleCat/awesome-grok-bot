@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-703-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-702-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -274,7 +274,7 @@
 
 ## 技能、插件与 MCP
 
-- [Bot Shelf](https://github.com/getbotshelf/botshelf) - 已经跑过的 Grok Bot 工作包商店（markdown 可粘贴；也有 Claude Code 和 ChatGPT 包）。免费包保持免费；付费 Desk 的 USDT TRC20 checkout 已上线。.
+- [BotShelf Vampire](https://github.com/BotShelfVampire/botshelf) - 免费的可复制 Grok Bot 工作流包，涵盖来源研究、会议行动项与代码审查，附试用指南和运行证据要求；另有 Claude Code 与 ChatGPT 版本.
 - [Kontext memory plugin for Grok Bot](https://github.com/TheKontextCo/kontext-grok-plugin) - Cursor 市场插件，可在 Grok Bot 安装：经托管 Kontext MCP 提供可移植项目/任务/记忆。.
 - [BotOps Grok Bot fleet lifecycle skill](https://github.com/granda/botops) - 面向 Grok Bot 舰队的 Agent Skills：CoS→L2→L3 分层、Notion 工单与低噪音 swarm 规则。.
 - [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - 通过本机 macOS helper 让 Bot 读、分拣、发 iMessage。.
@@ -808,12 +808,11 @@
 - [Grok Bot for Raycast (Sand gateway)](https://github.com/MaisonnatM/grok-bot) - 非官方 Raycast 扩展：经 Bot 电脑上未公开的 Sand HTTP 网关给 Grok Bot 队友派活（不是 grok.com 聊天 API）。.
 - [Grok Bot architecture staff reference](https://github.com/tiagovilasboas/grok-bot-architecture) - 以 Grok Bot 为宿主的桌面多智能体助手架构参考：班组、共享电脑、例程、连接器与人在回路（HITL）。.
 - [Grok Bot Chinese intro site](https://github.com/Aaronwn/grokbot-site) - 无构建步骤的中文 Grok Bot 介绍落地页：云端机 vs 本机、能做什么，以及和纯聊天 Grok 的差别。.
-- [Bot Shelf (rent Grok Bot teams)](https://github.com/BotShelfVampire/botshelf) - Bot Shelf 市场说明与数十份可粘贴的 Grok Bot 团队包（实跑证明、人工 Yes 闸门、USDT 结账说明）。.
 - [Grok Bot giveaway use-case catalog](https://github.com/mschmidt4377-max/grokbot-use-cases) - 可搜索的静态目录：汇总 X 上达人赠阅帖里的 Grok Bot 用法，并提供手机友好的 Pages/githack 浏览页。.
 
 ## 贡献
 
-目前 8 个分类、703 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、702 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
