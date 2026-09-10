@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-715-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-738-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -44,11 +44,11 @@
 - **Argentina**（4）：[Bariloche](./EVENTS.md#brc-20260910) · [Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
 - **Mexico**（4）：[Monterrey](./EVENTS.md#mty-20260910) · [Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926)
 - **Ecuador**（3）：[Manta](./EVENTS.md#mec-20260912) · [Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
-- **Japan**（3）：[Sapporo](./EVENTS.md#spk-20261002) · [Tokyo](./EVENTS.md#tyo-20260909) · [Osaka](./EVENTS.md#osa-20260917)
 - **Brazil**（2）：[Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926)
 - **Germany**（2）：[Freiburg](./EVENTS.md#frb-20260917) · [Cologne](./EVENTS.md#cgn-20261009)
 - **United Kingdom**（2）：[London](./EVENTS.md#ldn-20260916) · [London](./EVENTS.md#ldn-20260913)
 - **Guatemala**（2）：[Quetzaltenango](./EVENTS.md#xela-20260920) · [Guatemala City](./EVENTS.md#gua-20261003)
+- **Japan**（2）：[Sapporo](./EVENTS.md#spk-20261002) · [Osaka](./EVENTS.md#osa-20260917)
 - **Peru**（2）：[Arequipa](./EVENTS.md#aqp-20260911) · [Lima](./EVENTS.md#lim-20260911)
 - **El Salvador**（2）：[San Salvador](./EVENTS.md#sal-20260919) · [San Salvador](./EVENTS.md#salw-20260914)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20260917)
@@ -57,7 +57,6 @@
 - **Belgium**（1）：[Leuven](./EVENTS.md#leu-20260919)
 - **Cameroon**（1）：[Yaoundé](./EVENTS.md#yde-20260910)
 - **Colombia**（1）：[Cartago](./EVENTS.md#ctg-20260911)
-- **Denmark**（1）：[Copenhagen](./EVENTS.md#cph-20260909)
 - **Spain**（1）：[Madrid](./EVENTS.md#mad-20260929)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
 - **Kenya**（1）：[Nairobi](./EVENTS.md#nbo-20260917)
@@ -69,7 +68,6 @@
 - **Malaysia**（1）：[Kuala Lumpur](./EVENTS.md#kul-20260919)
 - **Netherlands**（1）：[Amsterdam](./EVENTS.md#ams-20260922)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
-- **Portugal**（1）：[Porto](./EVENTS.md#prt-20260909)
 - **Togo**（1）：[Lomé](./EVENTS.md#lfw-20260912)
 
 ## Contents
@@ -189,6 +187,9 @@
 - [無為 Grok Bot personal playbook](https://github.com/bianwuwei/grok-bot-playbook) - Bilingual personal Grok Bot playbook (zero → public portfolio) with seven chapters, checklists, and copyable Bot-brief/first-task templates.
 - [Grok Bot + GitHub mobile tutorial](https://github.com/GalacticOrgOfDev/grok-bot-github-tutorial) - Expo React Native tutorial app for Grok Bot specialists on the go: GitHub and Google modules with videos, practices, quizzes, and a Slack stub.
 - [Grok Bot getting started (Chinese guide)](https://github.com/bianwuwei/grok-bot-getting-started) - Chinese getting-started playbook from first Grok Bot to a deliverable squad, with concept figures, UI screenshots, and demo templates.
+- [Hermes Agent inside Grok Bot cloud computer](https://github.com/carlosthiene/grok-bot-hermes) - Guide to install Hermes Agent on the shared Grok Bot Linux cloud machine for two always-on agents plus a Telegram door.
+- [Grokbot email-tool design research chat](https://github.com/mit-bach/grokbot-ai-tool-design-research) - Cloneable ~50KB design conversation for Grok Bot agents building Airtable-backed email operations for clients.
+- [Grok Bot Agent Blueprint (Early AI-dopters)](https://github.com/earlyaidopters/gumroad-resources) - Free companion pack (PDF + Markdown + checklist) explaining Grok Bot-style multi-agent primitives with a YouTube walkthrough.
 
 ## Field Cases
 
@@ -275,6 +276,9 @@
 - [Grok Bot MarketVector / FTSE flow desk](https://github.com/daaaarcy/grokbot) - Grok Bot workspace with MarketVector and FTSE/Russell index rebalance flow estimators and tests.
 - [EAC multi-bot Overwatch workspace](https://github.com/camav2/eac-grok-bot) - Post-midday shared multi-bot workspace for Expert Author Community ops with Overwatch control-plane scripts, inbox batches, and engagement plans.
 - [Equity data model POC built with Grok Bot](https://github.com/qaz027/equity-data-model-poc) - Small yfinance-to-Python equity data and FMI-shaped model skeleton POC described as built while working with Grok Bot.
+- [Sealed LEGO Hunter Grok Bot](https://github.com/noam99moyal/Sealed_LEGO_Hunter_Bot) - Public Grok Bot template that scans sealed LEGO deals for your country on a schedule and never auto-buys.
+- [agent-daily Grok Bot message archive](https://github.com/skyiimaple/agent-daily) - Repo convention for Grok Bots to commit daily digests (hotspot morning, job radar) into content/ by bot-id.
+- [dark-factory cursor-handoff for Grok Bot](https://github.com/Dahhrk/dark-factory) - Teaching-kitchen automation that POSTs tickets into a Grok Bot Chief-of-Staff webhook routine from a local page.
 
 ## Skills, Plugins & MCP
 
@@ -473,6 +477,10 @@
 - [HyperGrok autonomous Hyperliquid desk for Grok Bot](https://github.com/swcstudiospace/hypergrok-autonomous-desk) - Seven-role Hyperliquid autonomous trading desk packaged for Grok Bot with SETUP bootstrap, skills, Require Approval gates, and desk routines.
 - [last30days research skill (Grok Bot X path)](https://github.com/mvanhorn/last30days-skill) - Cross-harness /last30days research skill with an explicit Grok Bot path that prefers the bot X connector before X API fallback.
 - [Aident Loadout skill for Cursor/Grok Bot](https://github.com/Aident-AI/aident-skill) - Aident Loadout Cursor Marketplace skill/MCP that also targets Grok Bot to connect agents to 1,000+ real-world apps and tools.
+- [TaskBullet Cursor / Grok Bot plugin](https://github.com/GriffMurder/taskbullet-cursor-plugin) - Cursor marketplace wrapper that lets Grok Bot or Cursor delegate unfinished work to a real TaskBullet VA via Agent MCP.
+- [Live-call ear sidecar for Grok Bot](https://github.com/guyberger/live-call-ear-sidecar) - Mac listen-only sidecar plus SKILL.md so a Grok Bot teammate can nudge you privately during live calls via local-exec.
+- [Treeship trust receipts for Grok Bot](https://github.com/zerkerlabs/treeship) - Agent-to-agent verification on a Grok Bot cloud VM via bootstrap.sh plus pasteable SKILL/routine prose.
+- [BlindOracle grok-bot-kit](https://github.com/craigmbrown/blindoracle-sdk) - One-paste BOOTSTRAP kit so Grok Bots join a BlindOracle fleet with roles, proofs, and heartbeat routines.
 
 ## Reviews & Comparisons
 
@@ -606,6 +614,14 @@
 - [Clawd Bots (Grok Bot 0.18 reconstruction)](https://github.com/Solizardking/clawd-bots) - Unofficial OpenMausBot-derived reconstruction of Grok Bot 0.18 with Clawd branding and Solana tool surface.
 - [agentcookie Chrome sync for Grok Bot VMs](https://github.com/mvanhorn/agentcookie) - Go tool plus install skill that continuously syncs Mac Chrome cookies to a Linux sink, featuring Grok Bot VM CDP inject over Tailscale.
 - [dupe isolated desktop profiles (grok-bot preset)](https://github.com/HKTITAN/dupe) - CLI/UI to run colour-coded isolated app profiles, with a first-class grok-bot preset that pins SAND_DATA_ROOT for the local-exec daemon.
+- [Grok Bot Usage macOS menu bar](https://github.com/umichsteve/grokbot-usage) - Free open-source macOS 14+ menu bar app that shows Grok Bot weekly included (Sand) usage percent.
+- [Grok Bot AppImage updater](https://github.com/egorpol/grok-bot-appimage-updater) - Unofficial bash updater that installs and rolls back the official Grok Bot Linux AppImage with desktop integration.
+- [x-reply-guard (Grok Bot + Chrome)](https://github.com/zhaowy313/x-reply-guard) - Chrome local shield plus capped CLI so Grok Bot can flag junk X replies without mass-reporting your account.
+- [RunAge unofficial Grok Bot Flatpak](https://github.com/RunAge/grok-bot-flatpak) - Unofficial Flatpak packaging of the official Grok Bot Linux AppImage, pinned with Makefile hashes and tray helper.
+- [Puppetmaster durable agent control plane](https://github.com/professorpalmer/Puppetmaster) - Provider-neutral durable worker runtime with an explicit Grok Bot remote MCP path for reviewable multi-step jobs.
+- [harness-mem Grok Bot MCP integration](https://github.com/Chachamaru127/harness-mem) - Shared memory daemon with a dedicated Grok Bot MCP export (stdio/HTTP) for search, timeline, and checkpoints.
+- [jarvOS Grok Bot HTTP runtime](https://github.com/levineam/jarvOS) - Operator-supervised Streamable HTTP connector so Grok Bot can hydrate jarvOS vault context without cloning the vault onto the Bot box.
+- [Home Manager Grok Bot .deb package](https://github.com/3rd/config) - Auditable Nix Home Manager packaging that pins the official Grok Bot Linux .deb from downloads.cursor.com by hash.
 
 ## Community & Failure Modes
 
@@ -739,6 +755,7 @@
 - [Robinhood MCP OAuth: https callback + 15-minute window (connect on desktop)](https://forum.cursor.com/t/grok-bot-robinhood-agentic-trading-mcp-oauth-fails-after-allow-grokbot-callback-oauth-error/171111) - Staff (deanrie, 2026-09-09): Robinhood Agentic Trading MCP sign-in from Grok Bot no longer uses grokbot://—since 7 Sep it uses an https://www.cursor.com/agents/... callback—and the auth code expires in about 15 minutes, so finish Allow quickly (approve the Robinhood device first if asked); if phone OAuth keeps failing, connect once from Grok Bot desktop or Cursor on the same account so the trading tools sync to mobile.
 - [Home Wi-Fi: curl OK but streaming fails — Private Relay / cellular IP](https://forum.cursor.com/t/please-try-again-on-most-messages-computer-stuck-on-starting-desktop-cant-reach-bots-screen/170987) - Staff (deanrie, 2026-09-09): When the cloud computer is healthy and hotspot works but home Wi-Fi fails—even if short curl to api2/cursorvm looks fine—the app needs long-lived streaming that your network may drop; fully Quit, then try iCloud Private Relay off, DNS back to router-automatic (remove 1.1.1.1/8.8.8.8), and check cellular routers that rotate multiple IPs (fine for curl, cuts long-lived app links).
 - [Cursor password reset → ~30 min Authentication error (auto-reconnect)](https://forum.cursor.com/t/authentication-errors/170963) - Staff (mohitjain, 2026-09-08): Resetting your Cursor password signs out every session—including the Bot cloud computer’s background session—so chat can return “Authentication error” for about 30 minutes; it reconnects on its own (no reinstall / Reset / Update). Sign the phone in with the new password; distinct from Mac “unavailable” expired-session UI (170389) and 0.43 sign-out tips (170775).
+- [Routines need Cursor Pro+ — SuperGrok + Cursor Start won’t schedule](https://forum.cursor.com/t/bot-routines-refuse-to-fire/171173) - Staff (Colin, 2026-09-09): Routines (scheduled runs) are the one Grok Bot feature that checks the Cursor plan—if Grok Bot access comes from a linked SuperGrok account while Cursor is on Start, the server refuses to schedule routines no matter how often you reset the bot or computer; move Cursor to Pro or higher and routines start syncing with no other changes (other Bot features keep working).
 
 ## Related Lists
 
@@ -822,10 +839,14 @@
 - [Grok Bot architecture staff reference](https://github.com/tiagovilasboas/grok-bot-architecture) - Staff pattern reference for desktop multi-agent assistants hosted on Grok Bot: crew, shared computer, routines, connectors, and HITL.
 - [Grok Bot Chinese intro site](https://github.com/Aaronwn/grokbot-site) - Static Chinese Grok Bot explainer landing (no build step): cloud-box vs laptop, what it can do, and how it differs from chat-only Grok.
 - [Grok Bot giveaway use-case catalog](https://github.com/mschmidt4377-max/grokbot-use-cases) - Searchable static catalog of Grok Bot jobs scraped from influencer giveaway threads on X, with a phone-friendly Pages/githack viewer.
+- [GrokBotGod directory site](https://github.com/aiboxacct-jpg/grokbotgod) - Next.js + Supabase directory for featuring and community-submitting Grok Bots with admin approval.
+- [grokbot-web Canvas avatar](https://github.com/Coiggahou2002/grokbot-web) - TypeScript/Canvas 2D port of the nasawz/GrokBot Flutter avatar with expressions, shapes, and zero runtime deps.
+- [GrokBot pet for DeepSeek Harness web](https://github.com/Edge-HH/GrokBot_in_DeepseekHerness) - DeepSeek Harness web plugin that embeds the GrokBot pet with drag physics, outfits, and usage bubbles.
+- [Myraa Grok Bot avatar React demo](https://github.com/Vishwajeetsrk/Myraa) - Vite React/TypeScript demo that drives a grok-bot.avatar.json definition through @bible-strong/avatar-react.
 
 ## Contributing
 
-715 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+738 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
