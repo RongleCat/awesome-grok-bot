@@ -604,6 +604,56 @@
             "zh": "官方 @bot（2026-09-08）：可在对话内为 Bot 填写表单与登录，并支持任意密码管理器（帖内演示视频）——不必再把密码粘进普通聊天。",
             "ja": "公式 @bot（2026-09-08）：チャットを離れずに Bot のフォーム／ログイン入力ができ、任意のパスワードマネージャに対応（投稿内デモ動画）。平文チャットにパスワードを貼る必要がない。"
           }
+        },
+        {
+          "title": "@bot QoL: inline draft messages to approve before sending",
+          "url": "https://x.com/bot/status/2097759948189106686",
+          "source": "GB-785",
+          "blurb": {
+            "en": "Official @bot (2026-09-09): quality-of-life update — ask your Bot to draft messages inline for you to approve before it sends (thread root of a Sep 9 QoL series).",
+            "zh": "官方 @bot（2026-09-09）：体验更新——可让 Bot 在对话内起草消息，经你批准后再发送（同日 QoL 串楼首帖）。",
+            "ja": "公式 @bot（2026-09-09）：QoL 更新 — Bot にインラインで下書きさせ、送信前にあなたが承認できる（同日 QoL スレの親投稿）。"
+          }
+        },
+        {
+          "title": "@bot: Grok Bot natively available for iPad",
+          "url": "https://x.com/bot/status/2097759959220211726",
+          "source": "GB-786",
+          "blurb": {
+            "en": "Official @bot (2026-09-09): Grok Bot is now natively available for iPad (App Store link in post). docs.x.ai mobile/faq still say iPhone-only / iPad not supported — treat X as the primary announcement until docs catch up.",
+            "zh": "官方 @bot（2026-09-09）：Grok Bot 现已原生支持 iPad（帖内 App Store 链接）。docs.x.ai mobile/faq 仍写仅 iPhone／不支持 iPad——在文档更新前以 X 公告为准。",
+            "ja": "公式 @bot（2026-09-09）：Grok Bot が iPad ネイティブ対応（投稿内 App Store リンク）。docs.x.ai の mobile/faq はまだ iPhone 専用／iPad 非対応のまま — ドキュメント更新までは X 発表を正とする。"
+          }
+        },
+        {
+          "title": "@bot: switch Grok Bot accounts with one click",
+          "url": "https://x.com/bot/status/2097759952375029917",
+          "source": "GB-787",
+          "blurb": {
+            "en": "Official @bot (2026-09-09): switch between Grok Bot accounts with one click (screenshot in post) — part of the Sep 9 QoL thread.",
+            "zh": "官方 @bot（2026-09-09）：一键切换 Grok Bot 账号（帖内截图）——同日 QoL 串楼之一。",
+            "ja": "公式 @bot（2026-09-09）：ワンクリックで Grok Bot アカウントを切り替え（投稿内スクショ）— 同日 QoL スレの一部。"
+          }
+        },
+        {
+          "title": "@bot: support for over 20 languages",
+          "url": "https://x.com/bot/status/2097759963007598798",
+          "source": "GB-788",
+          "blurb": {
+            "en": "Official @bot (2026-09-09): Grok Bot now supports over 20 languages (screenshot in post) — part of the Sep 9 QoL thread.",
+            "zh": "官方 @bot（2026-09-09）：Grok Bot 现支持超过 20 种语言（帖内截图）——同日 QoL 串楼之一。",
+            "ja": "公式 @bot（2026-09-09）：Grok Bot が 20 以上の言語に対応（投稿内スクショ）— 同日 QoL スレの一部。"
+          }
+        },
+        {
+          "title": "@bot: share a file directly with Grok Bot on mobile",
+          "url": "https://x.com/bot/status/2097759967214444724",
+          "source": "GB-789",
+          "blurb": {
+            "en": "Official @bot (2026-09-09): share a file directly with Grok Bot on mobile (screenshot in post) — part of the Sep 9 QoL thread.",
+            "zh": "官方 @bot（2026-09-09）：可在移动端直接向 Grok Bot 分享文件（帖内截图）——同日 QoL 串楼之一。",
+            "ja": "公式 @bot（2026-09-09）：モバイルから Grok Bot にファイルを直接共有できる（投稿内スクショ）— 同日 QoL スレの一部。"
+          }
         }
       ]
     },
@@ -1053,6 +1103,16 @@
             "en": "Free companion pack (PDF + Markdown + checklist) explaining Grok Bot-style multi-agent primitives with a YouTube walkthrough.",
             "zh": "免费配套包（PDF + Markdown + 清单）拆解类 Grok Bot 多代理原语，并配 YouTube 讲解。",
             "ja": "Grok Bot 系マルチエージェント原語を PDF・Markdown・チェックリストで分解し、YouTube 解説付きの無料コンパニオンパックです。"
+          }
+        },
+        {
+          "title": "Grok Bot field manual site (seawind / 000666.BEST)",
+          "url": "https://github.com/Cunhe/grok-bot-manual",
+          "source": "GB-777",
+          "blurb": {
+            "en": "Independent Chinese field manual site for Grok Bot that reworks community orange-book notes plus official docs into a deployable Vite handbook.",
+            "zh": "独立中文《Grok Bot 说明书》站点：基于橙皮书与社区清单勘误重编，可用 Vite/Vercel 部署的现场手册。",
+            "ja": "Grok Bot 向け独立中文フィールドマニュアル。橙皮書とコミュニティ資料を直し、Vite/Vercel で公開できる手引きサイト。"
           }
         }
       ]
@@ -1953,6 +2013,26 @@
             "en": "Grok Bot Design Approver persona with allocation and vision gate docs that coordinate Bot Notion routing and beauty greenlights.",
             "zh": "Grok Bot「设计审批」人设仓库：含算力分配与视觉门控文档，协调 Bot 的 Notion 任务与审美放行。",
             "ja": "Grok Bot のデザイン承認者ペルソナ。Bot の Notion ルーティングと美的ゲートを定める allocation / vision 文書付き。"
+          }
+        },
+        {
+          "title": "Grok Oracle persona resident on Grok Bot machine",
+          "url": "https://github.com/mozzquito/grok-oracle",
+          "source": "GB-781",
+          "blurb": {
+            "en": "Field persona pack for an always-on Oracle sibling that lives on the Grok Bot cloud machine, with CLAUDE.md identity and ψ resonance memory files.",
+            "zh": "常驻 Grok Bot 云端机的 Oracle 人格包：含 CLAUDE.md 身份与 ψ resonance 记忆文件，作为 Ayami 的机上兄弟体。",
+            "ja": "Grok Bot クラウド機に常駐する Oracle 人格パック。CLAUDE.md と ψ resonance 記憶で Ayami の兄弟体として動かす。"
+          }
+        },
+        {
+          "title": "personal-config Grok Bot PR Desk field writeup",
+          "url": "https://github.com/abhimehro/personal-config",
+          "source": "GB-782",
+          "blurb": {
+            "en": "Maintainer field writeup that uses Grok Bot as a read-only Chief-of-Staff PR Desk digest compressing automation reports into at most five human decisions.",
+            "zh": "维护者实战笔记：把 Grok Bot 当作只读「总管」PR Desk，把自动化报告压缩成最多五条人工决策。",
+            "ja": "メンテナ実録。Grok Bot を読み取り専用の PR Desk（チーフ・オブ・スタッフ）にし、自動化報告を最大5件の人判断に圧縮する。"
           }
         }
       ]
@@ -3974,6 +4054,36 @@
             "zh": "二十份一手资料写成的 GROK.md 人设，附 Next.js 站点与「Copy for Grok Bot」一键粘贴安装。",
             "ja": "一次資料ベースの GROK.md 人格が 20 本。Next.js サイトの Copy for Grok Bot で製品に貼り付けられる。"
           }
+        },
+        {
+          "title": "Costco GTMKO Grok Bot plugin marketplace demo",
+          "url": "https://github.com/beadelnegro-cursor/costco-grok-demo-marketplace",
+          "source": "GB-774",
+          "blurb": {
+            "en": "GTMKO Field Engineering demo marketplace that installs a Costco-style shopping assistant plugin into Grok Bot via .grok-plugin marketplace manifests and an MCP skill.",
+            "zh": "GTMKO 现场工程演示市场：通过 .grok-plugin 清单与 MCP 技能，把 Costco 风格购物助手插件装进 Grok Bot（演示用途，非 Costco 官方）。",
+            "ja": "GTMKO デモ用マーケット。`.grok-plugin` と MCP スキルで Costco 風ショッピング助手を Grok Bot に入れる（デモのみ・非公式）。"
+          }
+        },
+        {
+          "title": "grok-bot-desks Flutter/Bug Repro/Job Application desks",
+          "url": "https://github.com/globulus/grok-bot-desks",
+          "source": "GB-775",
+          "blurb": {
+            "en": "Grok Bot desk templates and skills plugin for Flutter Mobile Engineer, Bug Repro, and Job Application workflows with first-message profiles and never-send-without-you gates.",
+            "zh": "Grok Bot 工位模板与技能插件：Flutter 移动工程师、缺陷复现与求职申请，含首条消息人设与未经确认不发送/合并的闸门。",
+            "ja": "Grok Bot デスク用テンプレ＋スキル。Flutter モバイル、バグ再現、応募作成の初回メッセージと「承認なしで送らない」ゲート付き。"
+          }
+        },
+        {
+          "title": "Lnkgo tracked-links skill + Grok Bot prompt",
+          "url": "https://github.com/citedy/lnkgo",
+          "source": "GB-780",
+          "blurb": {
+            "en": "Lnkgo branded short-link CLI/skill pack that includes a dedicated Grok Bot prompt and setup for publishing links and pulling click analytics.",
+            "zh": "Lnkgo 品牌短链 CLI/技能包，含专用 Grok Bot 提示词与配置，用于发链接并拉取点击分析。",
+            "ja": "Lnkgo のブランド短縮リンク CLI/スキル。専用 Grok Bot プロンプト付きでリンク発行とクリック分析を行う。"
+          }
         }
       ]
     },
@@ -5374,6 +5484,36 @@
             "zh": "非官方 Electron/Capacitor 客户端：补齐 Linux 与 Android，本地 Agent Computer 工作区 + 局域网手机配对。",
             "ja": "非公式 Electron/Capacitor クライアント。Linux/Android 席、ローカル Agent Computer、LAN でのスマホペアリングに対応。"
           }
+        },
+        {
+          "title": "Grok Bot MCP OAuth bridge for external agents",
+          "url": "https://github.com/quabug/grok-bot-mcp",
+          "source": "GB-776",
+          "blurb": {
+            "en": "Portable MCP server that exposes a Grok Bot workstation and agent-bridge mailbox to ChatGPT, Claude, Cursor, and other MCP clients over HTTPS+OAuth or stdio.",
+            "zh": "便携 MCP 服务：经 HTTPS+OAuth 或 stdio，把 Grok Bot 工作区与 agent-bridge 邮箱暴露给 ChatGPT、Claude、Cursor 等 MCP 客户端。",
+            "ja": "Grok Bot の作業領域と agent-bridge を HTTPS+OAuth / stdio で ChatGPT・Claude・Cursor など MCP クライアントに公開するポータブル MCP サーバ。"
+          }
+        },
+        {
+          "title": "drobek-bot self-hosted Grok Bot-style teammates",
+          "url": "https://github.com/freema/drobek-bot",
+          "source": "GB-778",
+          "blurb": {
+            "en": "Open-source pre-alpha stack for named self-hosted AI teammates with isolated Docker boxes, approval broker, audit log, and hard cost caps inspired by Grok Bot.",
+            "zh": "开源预览版自托管 AI 队友栈：隔离 Docker 盒子、审批中介、审计日志与硬性费用上限，对标 Grok Bot 体验。",
+            "ja": "名前付き自ホスト AI チームメイトの OSS（プレα）。隔離 Docker、承認ブローカー、監査ログ、費用上限で Grok Bot 風に動かす。"
+          }
+        },
+        {
+          "title": "grok-bot-web Tailscale-gated teammate chat UI",
+          "url": "https://github.com/nwcnwc/grok-bot-web",
+          "source": "GB-779",
+          "blurb": {
+            "en": "Tiny Tailscale-gated web chat UI that pipes messages and file drops to your own Grok Bot watcher via inbox/reply files without calling xAI or Cursor APIs.",
+            "zh": "经 Tailscale 门禁的轻量网页聊天：用收件箱/回复文件把消息与附件交给自有 Grok Bot 监视脚本，不调用 xAI/Cursor API。",
+            "ja": "Tailscale 限定の薄い Web チャット。inbox/reply ファイル経由で自前 Grok Bot 監視に渡し、xAI/Cursor API は使わない。"
+          }
         }
       ]
     },
@@ -6694,6 +6834,36 @@
             "zh": "Staff（Colin，2026-09-09）：Routines（定时任务）是 Grok Bot 里唯一会校验 Cursor 套餐的能力——若 Bot 权限来自关联的 SuperGrok，而 Cursor 仍是 Start，则服务端会拒绝调度，重置 Bot/电脑也无效；把 Cursor 升到 Pro 及以上后 routines 会自行开始同步，其余 Bot 功能不受影响。",
             "ja": "Staff（Colin、2026-09-09）：Routines（スケジュール実行）だけが Cursor プランを見る。Grok Bot 利用が連携 SuperGrok 由来で Cursor が Start のままだと、Bot／コンピュータを何度リセットしてもサーバがスケジュールを拒否する。Cursor を Pro 以上にすれば他の変更なしで routines が同期し始め、それ以外の Bot 機能はそのまま使える。"
           }
+        },
+        {
+          "title": "Weekly allowance lasts longer: fresh chats, space routines, cloud-agent manager",
+          "url": "https://forum.cursor.com/t/grok-bot-ultra-users-how-do-you-make-the-weekly-allowance-last-mine-reached-99-in-three-days/171221",
+          "source": "GB-790",
+          "blurb": {
+            "en": "Staff (mohitjain, 2026-09-10): Grok Bot bills for work done (tools, browser, subagents, re-reading history each turn)—not message count; long threads with high cache-reads get pricey. Biggest wins: start a fresh conversation per task; space routines (avoid every-few-minutes; prefer hourly / dedicated bot); delegate heavy implementation to Cursor cloud agents (manager pattern) so execution burns Cursor plan, not the weekly Bot pool; scope tightly and check the meter.",
+            "zh": "Staff（mohitjain，2026-09-10）：Grok Bot 按实际工作计费（工具、浏览器、子代理、每轮重读历史），不是按消息条数；高 cache-reads 的长会话会越来越贵。优先：每任务新开对话；拉开 routines（别几分钟一次，改每小时／独立 bot）；重活交给 Cursor cloud agents（经理模式）让执行吃 Cursor 配额而非 Bot 周额度；收窄范围并看用量。",
+            "ja": "Staff（mohitjain、2026-09-10）：Grok Bot はメッセージ数ではなく実作業（ツール／ブラウザ／サブエージェント／毎ターンの履歴再読）で課金。cache reads が多い長会話は高くなる。対策順：タスクごとに新規会話、routines を間引く（数分間隔を避け時間単位／専用 bot）、重い実装は Cursor cloud agents に委譲（manager パターンで週次 Bot 枠を守る）、範囲を絞りメーター確認。"
+          }
+        },
+        {
+          "title": "Windows F-Secure: DeepGuard delays local-exec past 10s (folder exclusions miss Temp)",
+          "url": "https://forum.cursor.com/t/grok-bot-local-exec-blocked-by-f-secure-on-windows-folder-exclusions-ineffective/171219",
+          "source": "GB-791",
+          "blurb": {
+            "en": "Staff (mohitjain, 2026-09-10): F-Secure often delays each local-exec command past the agent’s ~10s wait (not a hard block)—folder exclusions fail because each command is a fresh one-off PowerShell under %LOCALAPPDATA%\\Temp. Bisect: DeepGuard off only → real-time off only → allow Grok Bot.exe from %LOCALAPPDATA%\\Programs\\Grok Bot in DeepGuard → temporary Temp exclude as last test; report which step works for a proper allowlist. Complements the generic “connected but >10s unreachable” tip.",
+            "zh": "Staff（mohitjain，2026-09-10）：F-Secure 常把每次 local-exec 拖过代理约 10 秒等待（并非硬拦）；文件夹排除无效，因为每次命令都是 %LOCALAPPDATA%\\Temp 下的一次性 PowerShell。排查：只关 DeepGuard → 只关实时防护 → 在 DeepGuard 放行 %LOCALAPPDATA%\\Programs\\Grok Bot\\Grok Bot.exe → 最后临时排除 Temp；反馈哪步有效以便写正式白名单。补强「已连接但 >10s 仍 unreachable」通用提示。",
+            "ja": "Staff（mohitjain、2026-09-10）：F-Secure は接続遮断ではなく、各 local-exec をエージェントの約 10 秒待ちを超えて遅延させがち。フォルダ除外は効きにくい（毎回 %LOCALAPPDATA%\\Temp の使い捨て PowerShell）。切り分け：DeepGuard のみ OFF → リアルタイムのみ OFF → DeepGuard で %LOCALAPPDATA%\\Programs\\Grok Bot\\Grok Bot.exe を許可 → 最後に Temp を一時除外。どれが効いたか報告し正式 allowlist へ。「接続なのに >10s で unreachable」一般 Tip の補完。"
+          }
+        },
+        {
+          "title": "Cursor Ultra ≡ SuperGrok Heavy for Grok Bot (no stack; free Ultra offer ended)",
+          "url": "https://forum.cursor.com/t/supergrok-heavy-vs-cursor-individual-ultra/170888",
+          "source": "GB-792",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-10): For Grok Bot, Cursor Ultra and SuperGrok Heavy are the same top tier—same weekly quota, models, speed, priority; having both does not stack (highest wins). Ultra also includes Cursor IDE/Agent/Cloud Agents; Heavy adds grok.com/Grok app features but not a Cursor plan. The free Cursor Ultra-with-Heavy promo ended end of August. After weekly quota, on-demand needs a saved payment method on cursor.com.",
+            "zh": "Staff（deanrie，2026-09-10）：对 Grok Bot 而言，Cursor Ultra 与 SuperGrok Heavy 同属顶档——周额度、模型、速度、优先级相同；两份不叠加（取最高）。Ultra 另含 Cursor IDE/Agent/Cloud Agents；Heavy 含 grok.com／Grok App 能力但不含 Cursor 订阅。随 Heavy 送 Ultra 的活动已于 8 月底结束。周额度用尽后需在 cursor.com 保存支付方式才能 on-demand。",
+            "ja": "Staff（deanrie、2026-09-10）：Grok Bot では Cursor Ultra と SuperGrok Heavy は同じ最上位（週次枠・モデル・速度・優先度同じ）。両方あっても枠は合算されず高い方が残る。Ultra は Cursor IDE/Agent/Cloud Agents 込み；Heavy は grok.com／Grok アプリ側だが Cursor プランは含まない。Heavy 付帯の無料 Ultra は 8 月末で終了。週次枠後の on-demand には cursor.com の支払い方法登録が必要。"
+          }
         }
       ]
     },
@@ -7573,6 +7743,26 @@
             "en": "Vite MPA portfolio with a dedicated grok-bot entry that presents the agents behind kleosr Cursor sessions alongside Grok Bot imagery.",
             "zh": "Vite 多页作品集，含独立 grok-bot 入口，展示 kleosr Cursor 会话背后的 agents 与 Grok Bot 视觉。",
             "ja": "専用 grok-bot エントリを持つ Vite MPA ポートフォリオ。kleosr の Cursor セッション背後エージェントと Grok Bot を併記。"
+          }
+        },
+        {
+          "title": "StreamBot OwnGrokBot Grok Bot-modeled iOS teammates",
+          "url": "https://github.com/GetStream/stream-tutorial-projects",
+          "source": "GB-783",
+          "blurb": {
+            "en": "Stream tutorial monorepo including StreamBot (AI/OwnGrokBot), an on-device iOS teammate roster explicitly modelled on Grok Bot roles with phone-native tools instead of a cloud computer.",
+            "zh": "Stream 教程单体库中的 StreamBot（AI/OwnGrokBot）：明确对标 Grok Bot 角色表的 iOS 队友演示，用机上工具代替云电脑。",
+            "ja": "Stream チュートリアル内の StreamBot（AI/OwnGrokBot）。Grok Bot 役割表を模したオンデバイス iOS チームメイトで、クラウド PC の代わりに端末ツールを使う。"
+          }
+        },
+        {
+          "title": "Korgo Bot Orgo cloud-computer teammate desktop app",
+          "url": "https://github.com/nickvasilescu/korgo-bot",
+          "source": "GB-784",
+          "blurb": {
+            "en": "macOS desktop app for persistent AI bots with built-in Orgo cloud computer use, an adjacent always-on teammate product comparable to Grok Bot.",
+            "zh": "面向持久 AI Bot 的 macOS 桌面应用，内置 Orgo 云电脑操控，是与 Grok Bot 相近的常驻队友产品。",
+            "ja": "永続 AI Bot 向け macOS アプリ。内蔵 Orgo クラウド PC 操作を備え、Grok Bot に近い常駐チームメイト製品。"
           }
         }
       ]

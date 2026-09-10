@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-749-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-768-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -143,6 +143,11 @@
 - [Configure TLS-inspecting proxies (Zscaler / SWG)](https://cursor.com/docs/grok-bot/proxies) - Official Cursor docs for Grok Bot behind TLS-inspecting gateways (e.g. Zscaler): allow both *.cursorvm.com and nested *.*.cursorvm.com, exempt those domains from SSL inspection and response buffering, apply rules to every off-network profile, and verify with Amazon RSA issuer + nslookup test.us9.cursorvm.com—docs.x.ai has no proxies page.
 - [Download Grok Bot desktop (macOS / Windows / Linux)](https://cursor.com/download/bot) - Official Cursor download hub for the Grok Bot desktop app: macOS (Apple Silicon and Intel), Windows (x64 and ARM64), and Linux (.deb, RPM, and AppImage for x64 and ARM64).
 - [@bot: in-chat form/login fill with any password manager](https://x.com/bot/status/2097383980748382239) - Official @bot (2026-09-08): you can fill out forms and logins for your Bot without leaving chat, with support for any password manager (demo video in the post)—so you need not paste passwords into ordinary chat.
+- [@bot QoL: inline draft messages to approve before sending](https://x.com/bot/status/2097759948189106686) - Official @bot (2026-09-09): quality-of-life update — ask your Bot to draft messages inline for you to approve before it sends (thread root of a Sep 9 QoL series).
+- [@bot: Grok Bot natively available for iPad](https://x.com/bot/status/2097759959220211726) - Official @bot (2026-09-09): Grok Bot is now natively available for iPad (App Store link in post). docs.x.ai mobile/faq still say iPhone-only / iPad not supported — treat X as the primary announcement until docs catch up.
+- [@bot: switch Grok Bot accounts with one click](https://x.com/bot/status/2097759952375029917) - Official @bot (2026-09-09): switch between Grok Bot accounts with one click (screenshot in post) — part of the Sep 9 QoL thread.
+- [@bot: support for over 20 languages](https://x.com/bot/status/2097759963007598798) - Official @bot (2026-09-09): Grok Bot now supports over 20 languages (screenshot in post) — part of the Sep 9 QoL thread.
+- [@bot: share a file directly with Grok Bot on mobile](https://x.com/bot/status/2097759967214444724) - Official @bot (2026-09-09): share a file directly with Grok Bot on mobile (screenshot in post) — part of the Sep 9 QoL thread.
 
 ## Tutorials & Guides
 
@@ -190,6 +195,7 @@
 - [Hermes Agent inside Grok Bot cloud computer](https://github.com/carlosthiene/grok-bot-hermes) - Guide to install Hermes Agent on the shared Grok Bot Linux cloud machine for two always-on agents plus a Telegram door.
 - [Grokbot email-tool design research chat](https://github.com/mit-bach/grokbot-ai-tool-design-research) - Cloneable ~50KB design conversation for Grok Bot agents building Airtable-backed email operations for clients.
 - [Grok Bot Agent Blueprint (Early AI-dopters)](https://github.com/earlyaidopters/gumroad-resources) - Free companion pack (PDF + Markdown + checklist) explaining Grok Bot-style multi-agent primitives with a YouTube walkthrough.
+- [Grok Bot field manual site (seawind / 000666.BEST)](https://github.com/Cunhe/grok-bot-manual) - Independent Chinese field manual site for Grok Bot that reworks community orange-book notes plus official docs into a deployable Vite handbook.
 
 ## Field Cases
 
@@ -282,6 +288,8 @@
 - [Cybersecurity ACBN Grok Bot PoC](https://github.com/saiyellanki/grokbot) - Synthetic bank cybersecurity bot-mesh PoC with grok-operable playbooks for 1LoD/2LoD/3LoD HITL workflows on Grok Bot.
 - [ITSM dep-graph Grok Bot board tooling](https://github.com/skbergam/itsm-dep-graph) - Next.js + React Flow ITSM Notion dependency graph built as Grok Bot board tooling, with a dump script meant to run on the Bot computer.
 - [Aura 2 Grok Bot design approver](https://github.com/chromewizard/Aura-2) - Grok Bot Design Approver persona with allocation and vision gate docs that coordinate Bot Notion routing and beauty greenlights.
+- [Grok Oracle persona resident on Grok Bot machine](https://github.com/mozzquito/grok-oracle) - Field persona pack for an always-on Oracle sibling that lives on the Grok Bot cloud machine, with CLAUDE.md identity and ψ resonance memory files.
+- [personal-config Grok Bot PR Desk field writeup](https://github.com/abhimehro/personal-config) - Maintainer field writeup that uses Grok Bot as a read-only Chief-of-Staff PR Desk digest compressing automation reports into at most five human decisions.
 
 ## Skills, Plugins & MCP
 
@@ -486,6 +494,9 @@
 - [BlindOracle grok-bot-kit](https://github.com/craigmbrown/blindoracle-sdk) - One-paste BOOTSTRAP kit so Grok Bots join a BlindOracle fleet with roles, proofs, and heartbeat routines.
 - [grokbot-roam Roam HQ channel plugin](https://github.com/WonderInventions/grokbot-roam) - Grok Bot channel plugin that wakes on Roam HQ chat via a routine URL and replies with the Roam API—no public webhook or ngrok.
 - [grokmd GROK.md teammate minds](https://github.com/Aiworkflow360/grokmd) - Twenty primary-source GROK.md minds with a Next.js site and Copy-for-Grok-Bot button so you can paste a named voice into the product.
+- [Costco GTMKO Grok Bot plugin marketplace demo](https://github.com/beadelnegro-cursor/costco-grok-demo-marketplace) - GTMKO Field Engineering demo marketplace that installs a Costco-style shopping assistant plugin into Grok Bot via .grok-plugin marketplace manifests and an MCP skill.
+- [grok-bot-desks Flutter/Bug Repro/Job Application desks](https://github.com/globulus/grok-bot-desks) - Grok Bot desk templates and skills plugin for Flutter Mobile Engineer, Bug Repro, and Job Application workflows with first-message profiles and never-send-without-you gates.
+- [Lnkgo tracked-links skill + Grok Bot prompt](https://github.com/citedy/lnkgo) - Lnkgo branded short-link CLI/skill pack that includes a dedicated Grok Bot prompt and setup for publishing links and pulling click analytics.
 
 ## Reviews & Comparisons
 
@@ -630,6 +641,9 @@
 - [Hydo open Grok Bot for Mac](https://github.com/fortun8te/hydo) - MIT Electron roster of named Hermes teammates with a shared computer—an open, self-hosted alternative shaped like Grok Bot.
 - [Agbot Android local Linux computer](https://github.com/Rumor30/agbot) - Android-native chat UI over a on-phone Linux guest computer (DroidVM) with cloud models—Grok Bot-style form factor on device.
 - [Unofficial Linux & Android Grok Bot client](https://github.com/1nc0gn30/grok-bot-for-linux-and-android) - Unofficial Electron/Capacitor client covering Linux and Android seats with a local Agent Computer workspace and LAN phone pairing.
+- [Grok Bot MCP OAuth bridge for external agents](https://github.com/quabug/grok-bot-mcp) - Portable MCP server that exposes a Grok Bot workstation and agent-bridge mailbox to ChatGPT, Claude, Cursor, and other MCP clients over HTTPS+OAuth or stdio.
+- [drobek-bot self-hosted Grok Bot-style teammates](https://github.com/freema/drobek-bot) - Open-source pre-alpha stack for named self-hosted AI teammates with isolated Docker boxes, approval broker, audit log, and hard cost caps inspired by Grok Bot.
+- [grok-bot-web Tailscale-gated teammate chat UI](https://github.com/nwcnwc/grok-bot-web) - Tiny Tailscale-gated web chat UI that pipes messages and file drops to your own Grok Bot watcher via inbox/reply files without calling xAI or Cursor APIs.
 
 ## Community & Failure Modes
 
@@ -764,6 +778,9 @@
 - [Home Wi-Fi: curl OK but streaming fails — Private Relay / cellular IP](https://forum.cursor.com/t/please-try-again-on-most-messages-computer-stuck-on-starting-desktop-cant-reach-bots-screen/170987) - Staff (deanrie, 2026-09-09): When the cloud computer is healthy and hotspot works but home Wi-Fi fails—even if short curl to api2/cursorvm looks fine—the app needs long-lived streaming that your network may drop; fully Quit, then try iCloud Private Relay off, DNS back to router-automatic (remove 1.1.1.1/8.8.8.8), and check cellular routers that rotate multiple IPs (fine for curl, cuts long-lived app links).
 - [Cursor password reset → ~30 min Authentication error (auto-reconnect)](https://forum.cursor.com/t/authentication-errors/170963) - Staff (mohitjain, 2026-09-08): Resetting your Cursor password signs out every session—including the Bot cloud computer’s background session—so chat can return “Authentication error” for about 30 minutes; it reconnects on its own (no reinstall / Reset / Update). Sign the phone in with the new password; distinct from Mac “unavailable” expired-session UI (170389) and 0.43 sign-out tips (170775).
 - [Routines need Cursor Pro+ — SuperGrok + Cursor Start won’t schedule](https://forum.cursor.com/t/bot-routines-refuse-to-fire/171173) - Staff (Colin, 2026-09-09): Routines (scheduled runs) are the one Grok Bot feature that checks the Cursor plan—if Grok Bot access comes from a linked SuperGrok account while Cursor is on Start, the server refuses to schedule routines no matter how often you reset the bot or computer; move Cursor to Pro or higher and routines start syncing with no other changes (other Bot features keep working).
+- [Weekly allowance lasts longer: fresh chats, space routines, cloud-agent manager](https://forum.cursor.com/t/grok-bot-ultra-users-how-do-you-make-the-weekly-allowance-last-mine-reached-99-in-three-days/171221) - Staff (mohitjain, 2026-09-10): Grok Bot bills for work done (tools, browser, subagents, re-reading history each turn)—not message count; long threads with high cache-reads get pricey. Biggest wins: start a fresh conversation per task; space routines (avoid every-few-minutes; prefer hourly / dedicated bot); delegate heavy implementation to Cursor cloud agents (manager pattern) so execution burns Cursor plan, not the weekly Bot pool; scope tightly and check the meter.
+- [Windows F-Secure: DeepGuard delays local-exec past 10s (folder exclusions miss Temp)](https://forum.cursor.com/t/grok-bot-local-exec-blocked-by-f-secure-on-windows-folder-exclusions-ineffective/171219) - Staff (mohitjain, 2026-09-10): F-Secure often delays each local-exec command past the agent’s ~10s wait (not a hard block)—folder exclusions fail because each command is a fresh one-off PowerShell under %LOCALAPPDATA%\Temp. Bisect: DeepGuard off only → real-time off only → allow Grok Bot.exe from %LOCALAPPDATA%\Programs\Grok Bot in DeepGuard → temporary Temp exclude as last test; report which step works for a proper allowlist. Complements the generic “connected but >10s unreachable” tip.
+- [Cursor Ultra ≡ SuperGrok Heavy for Grok Bot (no stack; free Ultra offer ended)](https://forum.cursor.com/t/supergrok-heavy-vs-cursor-individual-ultra/170888) - Staff (deanrie, 2026-09-10): For Grok Bot, Cursor Ultra and SuperGrok Heavy are the same top tier—same weekly quota, models, speed, priority; having both does not stack (highest wins). Ultra also includes Cursor IDE/Agent/Cloud Agents; Heavy adds grok.com/Grok app features but not a Cursor plan. The free Cursor Ultra-with-Heavy promo ended end of August. After weekly quota, on-demand needs a saved payment method on cursor.com.
 
 ## Related Lists
 
@@ -854,10 +871,12 @@
 - [system_prompts_leaks (incl. Grok Bot)](https://github.com/asgeirtj/system_prompts_leaks) - Large leaked/extracted system-prompt archive that includes a dedicated xAI/grok-bot.md documenting the cloud-computer teammate product.
 - [Autobase Grok Bot-inspired desktop harness](https://github.com/mahojo99/autobase) - Windows desktop harness where frontier models create bots and share context—explicitly inspired by Grok Bot, using Codex/Claude subscriptions.
 - [kleosr portfolio + Grok Bot page](https://github.com/kleosr/kleosr-portfolio) - Vite MPA portfolio with a dedicated grok-bot entry that presents the agents behind kleosr Cursor sessions alongside Grok Bot imagery.
+- [StreamBot OwnGrokBot Grok Bot-modeled iOS teammates](https://github.com/GetStream/stream-tutorial-projects) - Stream tutorial monorepo including StreamBot (AI/OwnGrokBot), an on-device iOS teammate roster explicitly modelled on Grok Bot roles with phone-native tools instead of a cloud computer.
+- [Korgo Bot Orgo cloud-computer teammate desktop app](https://github.com/nickvasilescu/korgo-bot) - macOS desktop app for persistent AI bots with built-in Orgo cloud computer use, an adjacent always-on teammate product comparable to Grok Bot.
 
 ## Contributing
 
-749 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+768 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
