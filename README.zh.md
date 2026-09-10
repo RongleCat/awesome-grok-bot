@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-738-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-749-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -279,6 +279,9 @@
 - [Sealed LEGO Hunter Grok Bot](https://github.com/noam99moyal/Sealed_LEGO_Hunter_Bot) - 公开 Grok Bot 模板：按国家定期扫描原盒乐高优惠，且从不自动下单。.
 - [agent-daily Grok Bot message archive](https://github.com/skyiimaple/agent-daily) - 约定 Grok Bot 按 bot-id 把日报（热点早报、招聘雷达）直接提交到 content/ 的归档仓。.
 - [dark-factory cursor-handoff for Grok Bot](https://github.com/Dahhrk/dark-factory) - 教学厨房自动化：本地页面向 Grok Bot「参谋长」webhook 例程投递工单。.
+- [Cybersecurity ACBN Grok Bot PoC](https://github.com/saiyellanki/grokbot) - 面向 Grok Bot 的合成银行网络安全 bot 网格 PoC，含可执行的一/二/三道防线与 HITL 剧本。.
+- [ITSM dep-graph Grok Bot board tooling](https://github.com/skbergam/itsm-dep-graph) - Next.js + React Flow 的 ITSM Notion 依赖图，作为 Grok Bot 看板工具；含在 Bot 电脑上跑的 dump 脚本。.
+- [Aura 2 Grok Bot design approver](https://github.com/chromewizard/Aura-2) - Grok Bot「设计审批」人设仓库：含算力分配与视觉门控文档，协调 Bot 的 Notion 任务与审美放行。.
 
 ## 技能、插件与 MCP
 
@@ -481,6 +484,8 @@
 - [Live-call ear sidecar for Grok Bot](https://github.com/guyberger/live-call-ear-sidecar) - Mac 只听 sidecar + SKILL.md：Grok Bot 队友经 local-exec 在通话中私下推送提示。.
 - [Treeship trust receipts for Grok Bot](https://github.com/zerkerlabs/treeship) - 在 Grok Bot 云端 VM 上做代理间核验：bootstrap.sh 加可粘贴 SKILL/routine 文案。.
 - [BlindOracle grok-bot-kit](https://github.com/craigmbrown/blindoracle-sdk) - 一键粘贴 BOOTSTRAP 套件：让 Grok Bot 加入 BlindOracle 舰队，含角色、证明与心跳例程。.
+- [grokbot-roam Roam HQ channel plugin](https://github.com/WonderInventions/grokbot-roam) - Grok Bot 频道插件：通过 routine URL 接收 Roam HQ 聊天唤醒，并用 Roam API 回复，无需公网 webhook / ngrok。.
+- [grokmd GROK.md teammate minds](https://github.com/Aiworkflow360/grokmd) - 二十份一手资料写成的 GROK.md 人设，附 Next.js 站点与「Copy for Grok Bot」一键粘贴安装。.
 
 ## 评测与对比
 
@@ -622,6 +627,9 @@
 - [harness-mem Grok Bot MCP integration](https://github.com/Chachamaru127/harness-mem) - 共享记忆守护进程，带 Grok Bot 专用 MCP 导出（stdio/HTTP）用于检索、时间线与检查点。.
 - [jarvOS Grok Bot HTTP runtime](https://github.com/levineam/jarvOS) - 运维监督的 Streamable HTTP 连接器：Grok Bot 可拉取 jarvOS vault 上下文，而无需把 vault 克隆到 Bot 机。.
 - [Home Manager Grok Bot .deb package](https://github.com/3rd/config) - 可审计的 Nix Home Manager 打包：按哈希钉死 downloads.cursor.com 上的官方 Grok Bot Linux .deb。.
+- [Hydo open Grok Bot for Mac](https://github.com/fortun8te/hydo) - MIT 许可的 Electron 名册队友（Hermes）+ 共享电脑：形态对齐 Grok Bot 的开源自托管替代。.
+- [Agbot Android local Linux computer](https://github.com/Rumor30/agbot) - 云端模型 + 手机本地 Linux Guest（DroidVM）的 Android 原生对话端，形态对标 Grok Bot 的随身电脑。.
+- [Unofficial Linux & Android Grok Bot client](https://github.com/1nc0gn30/grok-bot-for-linux-and-android) - 非官方 Electron/Capacitor 客户端：补齐 Linux 与 Android，本地 Agent Computer 工作区 + 局域网手机配对。.
 
 ## 社区与故障现场
 
@@ -843,10 +851,13 @@
 - [grokbot-web Canvas avatar](https://github.com/Coiggahou2002/grokbot-web) - nasawz/GrokBot Flutter 形象的 TypeScript/Canvas 2D 移植：表情/形状齐全，零运行时依赖。.
 - [GrokBot pet for DeepSeek Harness web](https://github.com/Edge-HH/GrokBot_in_DeepseekHerness) - DeepSeek Harness Web 插件：嵌入可拖拽的 GrokBot 桌宠，含换装与用量气泡。.
 - [Myraa Grok Bot avatar React demo](https://github.com/Vishwajeetsrk/Myraa) - Vite React/TypeScript 演示：用 @bible-strong/avatar-react 驱动 grok-bot.avatar.json 形象定义。.
+- [system_prompts_leaks (incl. Grok Bot)](https://github.com/asgeirtj/system_prompts_leaks) - 大型系统提示词汇编，含独立的 xAI/grok-bot.md，记录云电脑队友产品行为约定。.
+- [Autobase Grok Bot-inspired desktop harness](https://github.com/mahojo99/autobase) - Windows 桌面编排器：前沿模型可创建 bot、委派任务并共享上下文；明确受 Grok Bot 启发，对接 Codex/Claude 订阅。.
+- [kleosr portfolio + Grok Bot page](https://github.com/kleosr/kleosr-portfolio) - Vite 多页作品集，含独立 grok-bot 入口，展示 kleosr Cursor 会话背后的 agents 与 Grok Bot 视觉。.
 
 ## 贡献
 
-目前 8 个分类、738 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、749 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

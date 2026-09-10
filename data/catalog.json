@@ -1924,6 +1924,36 @@
             "zh": "教学厨房自动化：本地页面向 Grok Bot「参谋长」webhook 例程投递工单。",
             "ja": "ローカルページから Grok Bot の Chief-of-Staff webhook ルーチンへチケットを POST する教育用キッチン自動化です。"
           }
+        },
+        {
+          "title": "Cybersecurity ACBN Grok Bot PoC",
+          "url": "https://github.com/saiyellanki/grokbot",
+          "source": "GB-764",
+          "blurb": {
+            "en": "Synthetic bank cybersecurity bot-mesh PoC with grok-operable playbooks for 1LoD/2LoD/3LoD HITL workflows on Grok Bot.",
+            "zh": "面向 Grok Bot 的合成银行网络安全 bot 网格 PoC，含可执行的一/二/三道防线与 HITL 剧本。",
+            "ja": "Grok Bot 向けの合成銀行セキュリティ bot メッシュ PoC。1LoD/2LoD/3LoD と HITL の grok 実行プレイブック付き。"
+          }
+        },
+        {
+          "title": "ITSM dep-graph Grok Bot board tooling",
+          "url": "https://github.com/skbergam/itsm-dep-graph",
+          "source": "GB-765",
+          "blurb": {
+            "en": "Next.js + React Flow ITSM Notion dependency graph built as Grok Bot board tooling, with a dump script meant to run on the Bot computer.",
+            "zh": "Next.js + React Flow 的 ITSM Notion 依赖图，作为 Grok Bot 看板工具；含在 Bot 电脑上跑的 dump 脚本。",
+            "ja": "Grok Bot ボード向けの Next.js + React Flow ITSM Notion 依存グラフ。Bot マシン上で動かす dump スクリプト付き。"
+          }
+        },
+        {
+          "title": "Aura 2 Grok Bot design approver",
+          "url": "https://github.com/chromewizard/Aura-2",
+          "source": "GB-766",
+          "blurb": {
+            "en": "Grok Bot Design Approver persona with allocation and vision gate docs that coordinate Bot Notion routing and beauty greenlights.",
+            "zh": "Grok Bot「设计审批」人设仓库：含算力分配与视觉门控文档，协调 Bot 的 Notion 任务与审美放行。",
+            "ja": "Grok Bot のデザイン承認者ペルソナ。Bot の Notion ルーティングと美的ゲートを定める allocation / vision 文書付き。"
+          }
         }
       ]
     },
@@ -3924,6 +3954,26 @@
             "zh": "一键粘贴 BOOTSTRAP 套件：让 Grok Bot 加入 BlindOracle 舰队，含角色、证明与心跳例程。",
             "ja": "役割・証明・ハートビート例程付きの一貼り BOOTSTRAP キットで、Grok Bot を BlindOracle 艦隊メンバーにします。"
           }
+        },
+        {
+          "title": "grokbot-roam Roam HQ channel plugin",
+          "url": "https://github.com/WonderInventions/grokbot-roam",
+          "source": "GB-763",
+          "blurb": {
+            "en": "Grok Bot channel plugin that wakes on Roam HQ chat via a routine URL and replies with the Roam API—no public webhook or ngrok.",
+            "zh": "Grok Bot 频道插件：通过 routine URL 接收 Roam HQ 聊天唤醒，并用 Roam API 回复，无需公网 webhook / ngrok。",
+            "ja": "Roam HQ の chat.message を Grok Bot の routine URL で受け、Roam API で返信するチャンネルプラグイン（公開 webhook / ngrok 不要）。"
+          }
+        },
+        {
+          "title": "grokmd GROK.md teammate minds",
+          "url": "https://github.com/Aiworkflow360/grokmd",
+          "source": "GB-767",
+          "blurb": {
+            "en": "Twenty primary-source GROK.md minds with a Next.js site and Copy-for-Grok-Bot button so you can paste a named voice into the product.",
+            "zh": "二十份一手资料写成的 GROK.md 人设，附 Next.js 站点与「Copy for Grok Bot」一键粘贴安装。",
+            "ja": "一次資料ベースの GROK.md 人格が 20 本。Next.js サイトの Copy for Grok Bot で製品に貼り付けられる。"
+          }
         }
       ]
     },
@@ -5293,6 +5343,36 @@
             "en": "Auditable Nix Home Manager packaging that pins the official Grok Bot Linux .deb from downloads.cursor.com by hash.",
             "zh": "可审计的 Nix Home Manager 打包：按哈希钉死 downloads.cursor.com 上的官方 Grok Bot Linux .deb。",
             "ja": "downloads.cursor.com の公式 Grok Bot Linux .deb をハッシュ固定する、監査可能な Nix Home Manager パッケージです。"
+          }
+        },
+        {
+          "title": "Hydo open Grok Bot for Mac",
+          "url": "https://github.com/fortun8te/hydo",
+          "source": "GB-768",
+          "blurb": {
+            "en": "MIT Electron roster of named Hermes teammates with a shared computer—an open, self-hosted alternative shaped like Grok Bot.",
+            "zh": "MIT 许可的 Electron 名册队友（Hermes）+ 共享电脑：形态对齐 Grok Bot 的开源自托管替代。",
+            "ja": "Hermes 上の名前付きチームメイトと共有コンピュータを持つ MIT Electron 実装。Grok Bot 形のオープン自ホスト代替。"
+          }
+        },
+        {
+          "title": "Agbot Android local Linux computer",
+          "url": "https://github.com/Rumor30/agbot",
+          "source": "GB-769",
+          "blurb": {
+            "en": "Android-native chat UI over a on-phone Linux guest computer (DroidVM) with cloud models—Grok Bot-style form factor on device.",
+            "zh": "云端模型 + 手机本地 Linux Guest（DroidVM）的 Android 原生对话端，形态对标 Grok Bot 的随身电脑。",
+            "ja": "クラウドモデルと端末内 Linux Guest（DroidVM）を組み合わせた Android ネイティブ UI。Grok Bot 型フォームファクタの端末実装。"
+          }
+        },
+        {
+          "title": "Unofficial Linux & Android Grok Bot client",
+          "url": "https://github.com/1nc0gn30/grok-bot-for-linux-and-android",
+          "source": "GB-770",
+          "blurb": {
+            "en": "Unofficial Electron/Capacitor client covering Linux and Android seats with a local Agent Computer workspace and LAN phone pairing.",
+            "zh": "非官方 Electron/Capacitor 客户端：补齐 Linux 与 Android，本地 Agent Computer 工作区 + 局域网手机配对。",
+            "ja": "非公式 Electron/Capacitor クライアント。Linux/Android 席、ローカル Agent Computer、LAN でのスマホペアリングに対応。"
           }
         }
       ]
@@ -7463,6 +7543,36 @@
             "en": "Vite React/TypeScript demo that drives a grok-bot.avatar.json definition through @bible-strong/avatar-react.",
             "zh": "Vite React/TypeScript 演示：用 @bible-strong/avatar-react 驱动 grok-bot.avatar.json 形象定义。",
             "ja": "grok-bot.avatar.json 定義を @bible-strong/avatar-react で動かす Vite React/TypeScript デモです。"
+          }
+        },
+        {
+          "title": "system_prompts_leaks (incl. Grok Bot)",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "source": "GB-771",
+          "blurb": {
+            "en": "Large leaked/extracted system-prompt archive that includes a dedicated xAI/grok-bot.md documenting the cloud-computer teammate product.",
+            "zh": "大型系统提示词汇编，含独立的 xAI/grok-bot.md，记录云电脑队友产品行为约定。",
+            "ja": "抽出システムプロンプト集。xAI/grok-bot.md にクラウドコンピュータ队友プロダクトの挙動が収録。"
+          }
+        },
+        {
+          "title": "Autobase Grok Bot-inspired desktop harness",
+          "url": "https://github.com/mahojo99/autobase",
+          "source": "GB-772",
+          "blurb": {
+            "en": "Windows desktop harness where frontier models create bots and share context—explicitly inspired by Grok Bot, using Codex/Claude subscriptions.",
+            "zh": "Windows 桌面编排器：前沿模型可创建 bot、委派任务并共享上下文；明确受 Grok Bot 启发，对接 Codex/Claude 订阅。",
+            "ja": "フロンティアモデルが bot 作成・委譲・文脈共有できる Windows デスクトップ基盤。Grok Bot 着想で Codex/Claude 契約を利用。"
+          }
+        },
+        {
+          "title": "kleosr portfolio + Grok Bot page",
+          "url": "https://github.com/kleosr/kleosr-portfolio",
+          "source": "GB-773",
+          "blurb": {
+            "en": "Vite MPA portfolio with a dedicated grok-bot entry that presents the agents behind kleosr Cursor sessions alongside Grok Bot imagery.",
+            "zh": "Vite 多页作品集，含独立 grok-bot 入口，展示 kleosr Cursor 会话背后的 agents 与 Grok Bot 视觉。",
+            "ja": "専用 grok-bot エントリを持つ Vite MPA ポートフォリオ。kleosr の Cursor セッション背後エージェントと Grok Bot を併記。"
           }
         }
       ]

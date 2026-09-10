@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-738-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-749-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -279,6 +279,9 @@
 - [Sealed LEGO Hunter Grok Bot](https://github.com/noam99moyal/Sealed_LEGO_Hunter_Bot) - Public Grok Bot template that scans sealed LEGO deals for your country on a schedule and never auto-buys.
 - [agent-daily Grok Bot message archive](https://github.com/skyiimaple/agent-daily) - Repo convention for Grok Bots to commit daily digests (hotspot morning, job radar) into content/ by bot-id.
 - [dark-factory cursor-handoff for Grok Bot](https://github.com/Dahhrk/dark-factory) - Teaching-kitchen automation that POSTs tickets into a Grok Bot Chief-of-Staff webhook routine from a local page.
+- [Cybersecurity ACBN Grok Bot PoC](https://github.com/saiyellanki/grokbot) - Synthetic bank cybersecurity bot-mesh PoC with grok-operable playbooks for 1LoD/2LoD/3LoD HITL workflows on Grok Bot.
+- [ITSM dep-graph Grok Bot board tooling](https://github.com/skbergam/itsm-dep-graph) - Next.js + React Flow ITSM Notion dependency graph built as Grok Bot board tooling, with a dump script meant to run on the Bot computer.
+- [Aura 2 Grok Bot design approver](https://github.com/chromewizard/Aura-2) - Grok Bot Design Approver persona with allocation and vision gate docs that coordinate Bot Notion routing and beauty greenlights.
 
 ## Skills, Plugins & MCP
 
@@ -481,6 +484,8 @@
 - [Live-call ear sidecar for Grok Bot](https://github.com/guyberger/live-call-ear-sidecar) - Mac listen-only sidecar plus SKILL.md so a Grok Bot teammate can nudge you privately during live calls via local-exec.
 - [Treeship trust receipts for Grok Bot](https://github.com/zerkerlabs/treeship) - Agent-to-agent verification on a Grok Bot cloud VM via bootstrap.sh plus pasteable SKILL/routine prose.
 - [BlindOracle grok-bot-kit](https://github.com/craigmbrown/blindoracle-sdk) - One-paste BOOTSTRAP kit so Grok Bots join a BlindOracle fleet with roles, proofs, and heartbeat routines.
+- [grokbot-roam Roam HQ channel plugin](https://github.com/WonderInventions/grokbot-roam) - Grok Bot channel plugin that wakes on Roam HQ chat via a routine URL and replies with the Roam API—no public webhook or ngrok.
+- [grokmd GROK.md teammate minds](https://github.com/Aiworkflow360/grokmd) - Twenty primary-source GROK.md minds with a Next.js site and Copy-for-Grok-Bot button so you can paste a named voice into the product.
 
 ## Reviews & Comparisons
 
@@ -622,6 +627,9 @@
 - [harness-mem Grok Bot MCP integration](https://github.com/Chachamaru127/harness-mem) - Shared memory daemon with a dedicated Grok Bot MCP export (stdio/HTTP) for search, timeline, and checkpoints.
 - [jarvOS Grok Bot HTTP runtime](https://github.com/levineam/jarvOS) - Operator-supervised Streamable HTTP connector so Grok Bot can hydrate jarvOS vault context without cloning the vault onto the Bot box.
 - [Home Manager Grok Bot .deb package](https://github.com/3rd/config) - Auditable Nix Home Manager packaging that pins the official Grok Bot Linux .deb from downloads.cursor.com by hash.
+- [Hydo open Grok Bot for Mac](https://github.com/fortun8te/hydo) - MIT Electron roster of named Hermes teammates with a shared computer—an open, self-hosted alternative shaped like Grok Bot.
+- [Agbot Android local Linux computer](https://github.com/Rumor30/agbot) - Android-native chat UI over a on-phone Linux guest computer (DroidVM) with cloud models—Grok Bot-style form factor on device.
+- [Unofficial Linux & Android Grok Bot client](https://github.com/1nc0gn30/grok-bot-for-linux-and-android) - Unofficial Electron/Capacitor client covering Linux and Android seats with a local Agent Computer workspace and LAN phone pairing.
 
 ## Community & Failure Modes
 
@@ -843,10 +851,13 @@
 - [grokbot-web Canvas avatar](https://github.com/Coiggahou2002/grokbot-web) - TypeScript/Canvas 2D port of the nasawz/GrokBot Flutter avatar with expressions, shapes, and zero runtime deps.
 - [GrokBot pet for DeepSeek Harness web](https://github.com/Edge-HH/GrokBot_in_DeepseekHerness) - DeepSeek Harness web plugin that embeds the GrokBot pet with drag physics, outfits, and usage bubbles.
 - [Myraa Grok Bot avatar React demo](https://github.com/Vishwajeetsrk/Myraa) - Vite React/TypeScript demo that drives a grok-bot.avatar.json definition through @bible-strong/avatar-react.
+- [system_prompts_leaks (incl. Grok Bot)](https://github.com/asgeirtj/system_prompts_leaks) - Large leaked/extracted system-prompt archive that includes a dedicated xAI/grok-bot.md documenting the cloud-computer teammate product.
+- [Autobase Grok Bot-inspired desktop harness](https://github.com/mahojo99/autobase) - Windows desktop harness where frontier models create bots and share context—explicitly inspired by Grok Bot, using Codex/Claude subscriptions.
+- [kleosr portfolio + Grok Bot page](https://github.com/kleosr/kleosr-portfolio) - Vite MPA portfolio with a dedicated grok-bot entry that presents the agents behind kleosr Cursor sessions alongside Grok Bot imagery.
 
 ## Contributing
 
-738 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+749 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

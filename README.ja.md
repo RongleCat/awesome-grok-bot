@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-738-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-749-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -279,6 +279,9 @@
 - [Sealed LEGO Hunter Grok Bot](https://github.com/noam99moyal/Sealed_LEGO_Hunter_Bot) - 国別に工場密封レゴの掘り出し物を定期スキャンする公開 Grok Bot テンプレで、自動購入はしません。
 - [agent-daily Grok Bot message archive](https://github.com/skyiimaple/agent-daily) - Grok Bot が bot-id ごとに日次ダイジェスト（ホットスポット朝報・求人レーダー）を content/ に直コミットする規約リポジトリです。
 - [dark-factory cursor-handoff for Grok Bot](https://github.com/Dahhrk/dark-factory) - ローカルページから Grok Bot の Chief-of-Staff webhook ルーチンへチケットを POST する教育用キッチン自動化です。
+- [Cybersecurity ACBN Grok Bot PoC](https://github.com/saiyellanki/grokbot) - Grok Bot 向けの合成銀行セキュリティ bot メッシュ PoC。1LoD/2LoD/3LoD と HITL の grok 実行プレイブック付き。
+- [ITSM dep-graph Grok Bot board tooling](https://github.com/skbergam/itsm-dep-graph) - Grok Bot ボード向けの Next.js + React Flow ITSM Notion 依存グラフ。Bot マシン上で動かす dump スクリプト付き。
+- [Aura 2 Grok Bot design approver](https://github.com/chromewizard/Aura-2) - Grok Bot のデザイン承認者ペルソナ。Bot の Notion ルーティングと美的ゲートを定める allocation / vision 文書付き。
 
 ## スキル、プラグインと MCP
 
@@ -481,6 +484,8 @@
 - [Live-call ear sidecar for Grok Bot](https://github.com/guyberger/live-call-ear-sidecar) - Mac の聴取専用サイドカーと SKILL.md で、Grok Bot が local-exec 経由で通話中に私下のナッジを送れるようにします。
 - [Treeship trust receipts for Grok Bot](https://github.com/zerkerlabs/treeship) - Grok Bot クラウド VM 上でエージェント間検証を行う bootstrap.sh と、貼り付け可能な SKILL／routine 文書です。
 - [BlindOracle grok-bot-kit](https://github.com/craigmbrown/blindoracle-sdk) - 役割・証明・ハートビート例程付きの一貼り BOOTSTRAP キットで、Grok Bot を BlindOracle 艦隊メンバーにします。
+- [grokbot-roam Roam HQ channel plugin](https://github.com/WonderInventions/grokbot-roam) - Roam HQ の chat.message を Grok Bot の routine URL で受け、Roam API で返信するチャンネルプラグイン（公開 webhook / ngrok 不要）。
+- [grokmd GROK.md teammate minds](https://github.com/Aiworkflow360/grokmd) - 一次資料ベースの GROK.md 人格が 20 本。Next.js サイトの Copy for Grok Bot で製品に貼り付けられる。
 
 ## レビューと比較
 
@@ -622,6 +627,9 @@
 - [harness-mem Grok Bot MCP integration](https://github.com/Chachamaru127/harness-mem) - 共有メモリデーモンに Grok Bot 専用 MCP エクスポート（stdio/HTTP）を備え、検索・タイムライン・チェックポイントを扱います。
 - [jarvOS Grok Bot HTTP runtime](https://github.com/levineam/jarvOS) - 運用監督下の Streamable HTTP コネクタで、vault を Bot 箱へクローンせず Grok Bot が jarvOS 文脈を hydrate できます。
 - [Home Manager Grok Bot .deb package](https://github.com/3rd/config) - downloads.cursor.com の公式 Grok Bot Linux .deb をハッシュ固定する、監査可能な Nix Home Manager パッケージです。
+- [Hydo open Grok Bot for Mac](https://github.com/fortun8te/hydo) - Hermes 上の名前付きチームメイトと共有コンピュータを持つ MIT Electron 実装。Grok Bot 形のオープン自ホスト代替。
+- [Agbot Android local Linux computer](https://github.com/Rumor30/agbot) - クラウドモデルと端末内 Linux Guest（DroidVM）を組み合わせた Android ネイティブ UI。Grok Bot 型フォームファクタの端末実装。
+- [Unofficial Linux & Android Grok Bot client](https://github.com/1nc0gn30/grok-bot-for-linux-and-android) - 非公式 Electron/Capacitor クライアント。Linux/Android 席、ローカル Agent Computer、LAN でのスマホペアリングに対応。
 
 ## コミュニティと障害事例
 
@@ -843,10 +851,13 @@
 - [grokbot-web Canvas avatar](https://github.com/Coiggahou2002/grokbot-web) - nasawz/GrokBot の Flutter アバターを TypeScript/Canvas 2D に移植し、表情・形状をゼロ依存で描画します。
 - [GrokBot pet for DeepSeek Harness web](https://github.com/Edge-HH/GrokBot_in_DeepseekHerness) - DeepSeek Harness Web 向けプラグインで、ドラッグ物理・着せ替え・使用量バブル付き GrokBot ペットを埋め込みます。
 - [Myraa Grok Bot avatar React demo](https://github.com/Vishwajeetsrk/Myraa) - grok-bot.avatar.json 定義を @bible-strong/avatar-react で動かす Vite React/TypeScript デモです。
+- [system_prompts_leaks (incl. Grok Bot)](https://github.com/asgeirtj/system_prompts_leaks) - 抽出システムプロンプト集。xAI/grok-bot.md にクラウドコンピュータ队友プロダクトの挙動が収録。
+- [Autobase Grok Bot-inspired desktop harness](https://github.com/mahojo99/autobase) - フロンティアモデルが bot 作成・委譲・文脈共有できる Windows デスクトップ基盤。Grok Bot 着想で Codex/Claude 契約を利用。
+- [kleosr portfolio + Grok Bot page](https://github.com/kleosr/kleosr-portfolio) - 専用 grok-bot エントリを持つ Vite MPA ポートフォリオ。kleosr の Cursor セッション背後エージェントと Grok Bot を併記。
 
 ## 貢献
 
-8 セクションに 738 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 749 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
