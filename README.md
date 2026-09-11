@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-799-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-815-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,12 +38,12 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（5）：[Shanghai](./EVENTS.md#sha-20261018) · [Hangzhou](./EVENTS.md#hzo-20260919) · [Beijing](./EVENTS.md#bj-20260919) · [Guangzhou](./EVENTS.md#can-20260913) · [Wuhan](./EVENTS.md#wuh-20261017)
-- **United States**（15）：[Austin](./EVENTS.md#aus-20260910) · [Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013) · [Dallas](./EVENTS.md#dal-20260919) · [Miami](./EVENTS.md#mia-20260923)
+- **United States**（14）：[Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013) · [Dallas](./EVENTS.md#dal-20260919) · [Miami](./EVENTS.md#mia-20260923)
 - **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260915) · [Toronto](./EVENTS.md#yyz-20260917) · [Montreal](./EVENTS.md#yul-20260919)
 - **Indonesia**（5）：[Tangerang](./EVENTS.md#tgr-20260911) · [Uluwatu / Bali](./EVENTS.md#bli-20260915) · [Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Bandung](./EVENTS.md#bdg-20260919) · [Jakarta](./EVENTS.md#jkt-20261003)
-- **Mexico**（4）：[Monterrey](./EVENTS.md#mty-20260910) · [Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926)
 - **Argentina**（3）：[Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
 - **Ecuador**（3）：[Manta](./EVENTS.md#mec-20260912) · [Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
+- **Mexico**（3）：[Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926)
 - **Brazil**（2）：[Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926)
 - **Germany**（2）：[Freiburg](./EVENTS.md#frb-20260917) · [Cologne](./EVENTS.md#cgn-20261009)
 - **United Kingdom**（2）：[London](./EVENTS.md#ldn-20260916) · [London](./EVENTS.md#ldn-20260913)
@@ -300,6 +300,8 @@
 - [personal-config Grok Bot PR Desk field writeup](https://github.com/abhimehro/personal-config) - Maintainer field writeup that uses Grok Bot as a read-only Chief-of-Staff PR Desk digest compressing automation reports into at most five human decisions.
 - [Grok Bot Austin GTM badge booth (Phomemo M110)](https://github.com/mehh/grokbot-austin) - Austin GTM build-night case: guests or their Grok Bots claim badges that auto-print on a Phomemo M110 with procedural Grok Bot avatars.
 - [SABLE HQ command surface for a roster of Grok bots](https://github.com/lensleyluan001-create/sable-hq) - Sable.co HQ web app that navigates and commands a multi-desk roster of Grok bots (CEO/marketing/sales/tech) without running agent runtimes in the page.
+- [Weather channel factory on Grok Bot Debian](https://github.com/techfundoffice/cloud-weather-bot-grok) - Cloud Computer AI.com weather-channel factory notes and SOFTWARE-SPEC for running FOX/YouTube capture automation on a Grok Bot Debian computer.
+- [ASML factory showcase with Grok Bot+lasercode](https://github.com/gtmsko46-debug/asml-factory-showcase) - Champion pack documenting an ASML agent software factory with Grok Bot + lasercode orchestration, dual-gate evals, and product decks.
 
 ## Skills, Plugins & MCP
 
@@ -514,6 +516,16 @@
 - [PasteApply honest resume/cover tailor MCP for Grok Bot](https://github.com/wardwalker207-code/pasteapply-plugin) - PasteApply agent plugin with hosted MCP and an honesty skill so Grok Bot or Cursor can tailor resumes without inventing employers, dates, or skills.
 - [Robotomail MCP mailbox plugin for Grok Bot and Cursor](https://github.com/robotomail/cursor-plugin) - Official Robotomail hosted-MCP plugin with a dedicated Grok Bot OAuth client so a Bot can search, read, send, and reply from its mailbox.
 - [Official Cursor plugins incl. make-bot-ui Grok Bot webhook skill](https://github.com/cursor/plugins) - Official Cursor plugin repository that ships the make-bot-ui skill for building click-to-wake Grok Bot webhook UIs with Tailscale-safe sender-key handling.
+- [Ops Graph CoS+specialists playbook for Grok Bot](https://github.com/timsonner/grok-bot-ops-graph) - Public Ops Graph playbook: chief-of-staff plus specialists team profiles, handoffs, and an ops-graph-team skill for Grok Bot.
+- [grok-bot-team product roster skill](https://github.com/rkanjani/skills) - Practical skills pack including grok-bot-team: stand up Lead/Builder/Growth roster, Team channel, and GitHub on Grok Bot.
+- [Spillwave second-brain-core Grok Bot host](https://github.com/SpillwaveSolutions/second-brain-core) - Shared OKF foundation for Spillwave ContentPacks with hosts/grok-bot binding and docs/GROK_BOT.md for Grok Bot agents.
+- [Spillwave news-digest ContentPack for Grok Bot](https://github.com/SpillwaveSolutions/news-digest) - News digest ContentPack plugin with Grok Bot host skill for scheduled digests, sources, and trends on a shared second brain.
+- [Spillwave sales-pipeline ContentPack for Grok Bot](https://github.com/SpillwaveSolutions/sales-pipeline) - Sales pipeline ContentPack (leads, stages, objections) with explicit Grok Bot host skill and GROK_BOT.md binding.
+- [Spillwave executive-coordination CoS pack](https://github.com/SpillwaveSolutions/executive-coordination) - Chief-of-staff ContentPack for priorities, decisions, blockers, and digests with Grok Bot host binding.
+- [Spillwave content-media ContentPack for Grok Bot](https://github.com/SpillwaveSolutions/content-media) - Content and audience ContentPack (articles, drafts, series) with Grok Bot host skill and GROK_BOT.md.
+- [Spillwave account-management ContentPack](https://github.com/SpillwaveSolutions/account-management) - Account and relationship ContentPack (clients, contacts) with Grok Bot host skill and isolation session rules.
+- [Spillwave system-architecture-capture pack](https://github.com/SpillwaveSolutions/system-architecture-capture) - System-architecture second-brain ContentPack with C4 docs and Grok Bot host binding for reverse-engineering models.
+- [Spillwave research-knowledge-capture (RKC)](https://github.com/SpillwaveSolutions/research-knowledge-capture) - Research Knowledge Capture ContentPack to ingest deep-research dumps into OKF with Grok Bot host skill.
 
 ## Reviews & Comparisons
 
@@ -666,6 +678,9 @@
 - [grokbot-harness-bridge MCP daemon for Agensis-shaped seats](https://github.com/TramEFX/grokbot-harness-bridge) - Reusable pull-daemon and playbook that connects a Grok Bot webhook Routine to Agensis-shaped (and Hermes-adjacent) multi-agent harness seats over MCP.
 - [grok-bridge-store shared scratch between grok.com and Grok Bot](https://github.com/jtarcza/grok-bridge-store) - Public append-only scratch repo so grok.com chat and Grok Bot can leave conversation history and mailbox notes for each other.
 - [Unofficial Grok Bot 0.18.0 macOS reconstruction and extension](https://github.com/zeigarnick/grok-bot-0.18-reconstructed) - Unofficial source-oriented reconstruction of the shipped Grok Bot 0.18.0 macOS app with readable TypeScript, architecture docs, and router/settings extensions.
+- [Baileys WhatsApp ↔ Grok Bot bridge reference](https://github.com/adam91holt/grokbot-whatsapp-baileys-reference) - Public sanitized TypeScript reference for a Baileys WhatsApp ↔ Grok Bot agent bridge with pair/daemon, jid-map, and tests.
+- [GrokBotRemote portable runner offload](https://github.com/stevenbowler/GrokBotRemoteCopy) - Portable Docker runner + plugin skill to offload heavy/repeating Grok Bot work to a host you control without creating a second bot.
+- [grok-bot-cli cross-platform auth fork](https://github.com/bmgrosinsky/grok-bot-cli) - Fork of ScriptedAlchemy/grok-bot-cli adding Windows/Linux/macOS Cursor editor-session auth fallback and doctor checks for Grok Bot CLI.
 
 ## Community & Failure Modes
 
@@ -903,10 +918,11 @@
 - [Korgo Bot Orgo cloud-computer teammate desktop app](https://github.com/nickvasilescu/korgo-bot) - macOS desktop app for persistent AI bots with built-in Orgo cloud computer use, an adjacent always-on teammate product comparable to Grok Bot.
 - [Howdy local Claude bot party inspired by Grok Bot](https://github.com/brandonapol/howdy) - Related: LAN-only ODROID bot party of persistent Claude agents with an explicit feature-by-feature research comparison against Grok Bot.
 - [GrokBot lab integration of OpenMausBot (not x.ai Bot)](https://github.com/DansiDanutz/GrokBot) - Related: Mac Studio lab integration of the OpenMausBot open-source runtime branded GrokBot, retaining upstream UI (adjacent alternative, not x.ai Grok Bot).
+- [DRF Grok Bot AI revenue-operations thesis](https://github.com/tbhrc/drf-main) - David's Revenue Factory monorepo including a researched Grok Bot AI revenue-operations business thesis and opportunity scoring.
 
 ## Contributing
 
-799 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+815 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

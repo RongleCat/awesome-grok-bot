@@ -27,9 +27,6 @@
 <a id="country-us"></a>
 ### 美国
 
-<a id="aus-20260910"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotgtm-austin"><img src="./assets/events/aus-20260910-cover.png" alt="Grok Bot for GTM Build Night（奥斯汀）" width="300" /></a></td><td valign="top"><strong>Grok Bot for GTM Build Night（奥斯汀）</strong><br />2026-09-10 周四 17:30–20:30（美中 CDT）<br />奥斯汀 · East Austin（报名后可见具体地址）<br /><br />奥斯汀 GTM 向：用 Grok Bot 做管道、调研 agent、外联工作流。SpaceXAI GTM 团队现场演示 + 动手时间 + 免费 Grok Bot credits；Sales/RevOps/GTM 欢迎。17:30 开场→演示→Q&A→动手→分享（约 20:30 结束）。主办 Sunita Rao；免费，需主办审批；挂 SpaceXAI Community 日历。<br /><br /><a href="https://luma.com/grokbotgtm-austin"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
 <a id="lv-20260915"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot 拉斯维加斯线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 拉斯维加斯线下交流</strong><br />2026-09-15 周一 18:00-20:00（太平洋夏令时）<br />拉斯维加斯 · 报名审核后可见场地<br /><br />破冰 + 分享 / Workshop，Cursor 团队视频问答。需主办审核，场地待定。<br /><br /><a href="https://luma.com/cursor-kaua"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
@@ -108,21 +105,6 @@
 <a id="jkt-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zb6b"><img src="./assets/events/jkt-20261003-cover.png" alt="Grok Bot 雅加达线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 雅加达线下交流</strong><br />2026-10-03 周六 10:00–13:00（雅加达 WIB）<br />印尼雅加达 · 页面地址为 Jakarta（SpaceXAI for Jakarta 日历）<br /><br />雅加达 Grok Bot 线下（SpaceXAI for Jakarta）：社区案例、Personal Agents 用法、Ambassador 玩法、Q&A 与社交。主办 Naufaldi；免费需审核；约 100 席；扫描时报名 0。线下；EventScheduled；API_OK。与万隆 bdg-20260919、坦格朗 tgr-20260911 不同场。<br /><br /><a href="https://luma.com/spacexai-zb6b"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
-<a id="country-mx"></a>
-### 墨西哥
-
-<a id="mty-20260910"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-wgsj"><img src="./assets/events/mty-20260910-cover.png" alt="Grok Meetup 蒙特雷" width="300" /></a></td><td valign="top"><strong>Grok Meetup 蒙特雷</strong><br />2026-09-10 周三 18:00–21:00（蒙特雷时间）<br />蒙特雷理工 HUB，Av. Eugenio Garza Sada 2501 Sur<br /><br />Cursor 社区场：在蒙特雷理工创新中心看 Grok / Grok Bot 落地用法。<br /><br /><a href="https://luma.com/cursor-wgsj"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
-<a id="pue-20260924"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/puebla-d4iw"><img src="./assets/events/pue-20260924-cover.png" alt="Grok Bot 普埃布拉线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 普埃布拉线下交流</strong><br />2026-09-24 周四 18:00–22:00（普埃布拉）<br />普埃布拉 · 报名通过后可见地址<br /><br />普埃布拉首场 Grok Bot 线下。需主办审核。<br /><br /><a href="https://luma.com/puebla-d4iw"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="cuu-20260924"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-7lje"><img src="./assets/events/cuu-20260924-cover.png" alt="Grok Bot 奇瓦瓦线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 奇瓦瓦线下交流</strong><br />2026-09-24 周四 16:00–19:00（奇瓦瓦）<br />墨西哥奇瓦瓦 · LivingLab CUU, Av. George Washington 3701-13<br /><br />奇瓦瓦首场 Grok Bot × SpaceXAI（LivingLab CUU，可领试用额度）。主办 Alfonso Reyes，需审核，约 200 席。<br /><br /><a href="https://luma.com/spacexai-7lje"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="cdmx-20260926"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-89bf"><img src="./assets/events/cdmx-20260926-cover.png" alt="Grok Bot 墨西哥城线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 墨西哥城线下交流</strong><br />2026-09-26 周六 09:00–13:00（墨西哥城）<br />墨西哥城 · Sandbox Hub, Luis G. Urbina 4-dpto. 103, Polanco<br /><br />墨西哥城首场 Grok Bot（Sandbox Hub Polanco）：交流真实用法。主办 Javier Rivero / Ben Kim / Ricardo García，需审核，约 60 席。<br /><br /><a href="https://luma.com/spacexai-89bf"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
 <a id="country-ar"></a>
 ### 阿根廷
 
@@ -146,6 +128,18 @@
 
 <a id="cumb-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cccumbaya"><img src="./assets/events/cumb-20261003-cover.png" alt="Grok Bot 昆巴亚线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 昆巴亚线下交流</strong><br />2026-10-03 周六 09:30–12:00（厄瓜多尔）<br />基多郊区 Cumbayá<br /><br />基多郊区 Cumbayá 线下 Grok Bot。免费，可候补，还剩 37 个名额。<br /><br /><a href="https://luma.com/cccumbaya"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="country-mx"></a>
+### 墨西哥
+
+<a id="pue-20260924"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/puebla-d4iw"><img src="./assets/events/pue-20260924-cover.png" alt="Grok Bot 普埃布拉线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 普埃布拉线下交流</strong><br />2026-09-24 周四 18:00–22:00（普埃布拉）<br />普埃布拉 · 报名通过后可见地址<br /><br />普埃布拉首场 Grok Bot 线下。需主办审核。<br /><br /><a href="https://luma.com/puebla-d4iw"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="cuu-20260924"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-7lje"><img src="./assets/events/cuu-20260924-cover.png" alt="Grok Bot 奇瓦瓦线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 奇瓦瓦线下交流</strong><br />2026-09-24 周四 16:00–19:00（奇瓦瓦）<br />墨西哥奇瓦瓦 · LivingLab CUU, Av. George Washington 3701-13<br /><br />奇瓦瓦首场 Grok Bot × SpaceXAI（LivingLab CUU，可领试用额度）。主办 Alfonso Reyes，需审核，约 200 席。<br /><br /><a href="https://luma.com/spacexai-7lje"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="cdmx-20260926"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-89bf"><img src="./assets/events/cdmx-20260926-cover.png" alt="Grok Bot 墨西哥城线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 墨西哥城线下交流</strong><br />2026-09-26 周六 09:00–13:00（墨西哥城）<br />墨西哥城 · Sandbox Hub, Luis G. Urbina 4-dpto. 103, Polanco<br /><br />墨西哥城首场 Grok Bot（Sandbox Hub Polanco）：交流真实用法。主办 Javier Rivero / Ben Kim / Ricardo García，需审核，约 60 席。<br /><br /><a href="https://luma.com/spacexai-89bf"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
 <a id="country-br"></a>
 ### 巴西

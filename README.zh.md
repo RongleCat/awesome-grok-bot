@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-799-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-815-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,12 +38,12 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（5）：[上海](./EVENTS.zh.md#sha-20261018) · [杭州](./EVENTS.zh.md#hzo-20260919) · [北京](./EVENTS.zh.md#bj-20260919) · [广州](./EVENTS.zh.md#can-20260913) · [武汉](./EVENTS.zh.md#wuh-20261017)
-- **美国**（15）：[奥斯汀](./EVENTS.zh.md#aus-20260910) · [拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [旧金山（产品经理）](./EVENTS.zh.md#sfpm-20260915) · [旧金山（创始人）](./EVENTS.zh.md#sffo-20260915) · [旧金山（销售）](./EVENTS.zh.md#sfsales-20260916) · [匹兹堡](./EVENTS.zh.md#pgh-20261013) · [达拉斯](./EVENTS.zh.md#dal-20260919) · [迈阿密](./EVENTS.zh.md#mia-20260923)
+- **美国**（14）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [旧金山（产品经理）](./EVENTS.zh.md#sfpm-20260915) · [旧金山（创始人）](./EVENTS.zh.md#sffo-20260915) · [旧金山（销售）](./EVENTS.zh.md#sfsales-20260916) · [匹兹堡](./EVENTS.zh.md#pgh-20261013) · [达拉斯](./EVENTS.zh.md#dal-20260919) · [迈阿密](./EVENTS.zh.md#mia-20260923)
 - **加拿大**（5）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [萨德伯里](./EVENTS.zh.md#sud-20260915) · [多伦多](./EVENTS.zh.md#yyz-20260917) · [蒙特利尔](./EVENTS.zh.md#yul-20260919)
 - **印度尼西亚**（5）：[坦格朗](./EVENTS.zh.md#tgr-20260911) · [巴厘岛乌鲁瓦图](./EVENTS.zh.md#bli-20260915) · [巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [万隆](./EVENTS.zh.md#bdg-20260919) · [雅加达](./EVENTS.zh.md#jkt-20261003)
-- **墨西哥**（4）：[蒙特雷](./EVENTS.zh.md#mty-20260910) · [普埃布拉](./EVENTS.zh.md#pue-20260924) · [奇瓦瓦](./EVENTS.zh.md#cuu-20260924) · [墨西哥城](./EVENTS.zh.md#cdmx-20260926)
 - **阿根廷**（3）：[布宜诺斯艾利斯](./EVENTS.zh.md#bue-20260916) · [门多萨](./EVENTS.zh.md#mdz-20261003) · [萨尔塔](./EVENTS.zh.md#sla-20260916)
 - **厄瓜多尔**（3）：[曼塔](./EVENTS.zh.md#mec-20260912) · [基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
+- **墨西哥**（3）：[普埃布拉](./EVENTS.zh.md#pue-20260924) · [奇瓦瓦](./EVENTS.zh.md#cuu-20260924) · [墨西哥城](./EVENTS.zh.md#cdmx-20260926)
 - **巴西**（2）：[库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20260926)
 - **德国**（2）：[弗赖堡](./EVENTS.zh.md#frb-20260917) · [科隆](./EVENTS.zh.md#cgn-20261009)
 - **英国**（2）：[伦敦](./EVENTS.zh.md#ldn-20260916) · [伦敦](./EVENTS.zh.md#ldn-20260913)
@@ -300,6 +300,8 @@
 - [personal-config Grok Bot PR Desk field writeup](https://github.com/abhimehro/personal-config) - 维护者实战笔记：把 Grok Bot 当作只读「总管」PR Desk，把自动化报告压缩成最多五条人工决策。.
 - [Grok Bot Austin GTM badge booth (Phomemo M110)](https://github.com/mehh/grokbot-austin) - Austin GTM 构建夜案例：访客或其 Grok Bot 领徽章，Phomemo M110 自动打印程序生成的 Grok Bot 头像。.
 - [SABLE HQ command surface for a roster of Grok bots](https://github.com/lensleyluan001-create/sable-hq) - Sable.co HQ Web 应用：指挥多工位 Grok bot 花名册（CEO/市场/销售/技术），页面内不跑 agent 运行时。.
+- [Weather channel factory on Grok Bot Debian](https://github.com/techfundoffice/cloud-weather-bot-grok) - Cloud Computer AI.com 天气频道工厂：在 Grok Bot Debian 电脑上跑 FOX/YouTube 采集自动化的笔记与 SOFTWARE-SPEC。.
+- [ASML factory showcase with Grok Bot+lasercode](https://github.com/gtmsko46-debug/asml-factory-showcase) - ASML 智能体软件工厂冠军包：记录 Grok Bot + lasercode 编排、双闸评估与产品 deck。.
 
 ## 技能、插件与 MCP
 
@@ -514,6 +516,16 @@
 - [PasteApply honest resume/cover tailor MCP for Grok Bot](https://github.com/wardwalker207-code/pasteapply-plugin) - PasteApply 插件：托管 MCP + 诚实技能，让 Grok Bot/Cursor 改简历时不编造雇主、日期或技能。.
 - [Robotomail MCP mailbox plugin for Grok Bot and Cursor](https://github.com/robotomail/cursor-plugin) - Robotomail 官方托管 MCP 插件：专用 Grok Bot OAuth 客户端，让 Bot 搜索/读/发/回复邮箱。.
 - [Official Cursor plugins incl. make-bot-ui Grok Bot webhook skill](https://github.com/cursor/plugins) - Cursor 官方插件仓：含 make-bot-ui 技能，教你做点击唤醒 Grok Bot webhook 的 UI，并安全保管 sender key。.
+- [Ops Graph CoS+specialists playbook for Grok Bot](https://github.com/timsonner/grok-bot-ops-graph) - 公开 Ops Graph 手册：首席幕僚+专家团队画像、交接与面向 Grok Bot 的 ops-graph-team skill。.
+- [grok-bot-team product roster skill](https://github.com/rkanjani/skills) - 实用 skills 包，含 grok-bot-team：在 Grok Bot 上组建 Lead/Builder/Growth 编制、Team 频道与 GitHub。.
+- [Spillwave second-brain-core Grok Bot host](https://github.com/SpillwaveSolutions/second-brain-core) - Spillwave ContentPack 共用 OKF 基础，含 hosts/grok-bot 绑定与面向 Grok Bot 智能体的 docs/GROK_BOT.md。.
+- [Spillwave news-digest ContentPack for Grok Bot](https://github.com/SpillwaveSolutions/news-digest) - 新闻摘要 ContentPack：含 Grok Bot host skill，在共享第二大脑上做定时摘要、来源与趋势。.
+- [Spillwave sales-pipeline ContentPack for Grok Bot](https://github.com/SpillwaveSolutions/sales-pipeline) - 销售管道 ContentPack（线索、阶段、异议），含明确的 Grok Bot host skill 与 GROK_BOT.md 绑定。.
+- [Spillwave executive-coordination CoS pack](https://github.com/SpillwaveSolutions/executive-coordination) - 首席幕僚 ContentPack：优先级、决策、阻塞与摘要，含 Grok Bot host 绑定。.
+- [Spillwave content-media ContentPack for Grok Bot](https://github.com/SpillwaveSolutions/content-media) - 内容与受众 ContentPack（文章、草稿、系列），含 Grok Bot host skill 与 GROK_BOT.md。.
+- [Spillwave account-management ContentPack](https://github.com/SpillwaveSolutions/account-management) - 客户与关系 ContentPack（客户、联系人），含 Grok Bot host skill 与隔离会话规则。.
+- [Spillwave system-architecture-capture pack](https://github.com/SpillwaveSolutions/system-architecture-capture) - 系统架构第二大脑 ContentPack：含 C4 文档与 Grok Bot host 绑定，用于逆向架构模型。.
+- [Spillwave research-knowledge-capture (RKC)](https://github.com/SpillwaveSolutions/research-knowledge-capture) - 研究知识捕获（RKC）ContentPack：将深度研究材料摄入 OKF，含 Grok Bot host skill。.
 
 ## 评测与对比
 
@@ -666,6 +678,9 @@
 - [grokbot-harness-bridge MCP daemon for Agensis-shaped seats](https://github.com/TramEFX/grokbot-harness-bridge) - 可复用拉取守护进程与剧本：经 MCP 把 Grok Bot webhook Routine 接到 Agensis 形（及 Hermes 邻近）多智能体座位。.
 - [grok-bridge-store shared scratch between grok.com and Grok Bot](https://github.com/jtarcza/grok-bridge-store) - 公开只追加草稿仓：让 grok.com 聊天与 Grok Bot 互相留下对话历史与邮箱便签。.
 - [Unofficial Grok Bot 0.18.0 macOS reconstruction and extension](https://github.com/zeigarnick/grok-bot-0.18-reconstructed) - 非官方、面向源码的 Grok Bot 0.18.0 macOS 应用重建：可读 TypeScript、架构文档与路由/设置扩展。.
+- [Baileys WhatsApp ↔ Grok Bot bridge reference](https://github.com/adam91holt/grokbot-whatsapp-baileys-reference) - 公开脱敏的 TypeScript 参考：Baileys WhatsApp ↔ Grok Bot 桥接，含 pair/daemon、jid-map 与测试。.
+- [GrokBotRemote portable runner offload](https://github.com/stevenbowler/GrokBotRemoteCopy) - 便携 Docker runner + plugin skill：把繁重/重复的 Grok Bot 工作卸载到自有主机，无需再建第二个 Bot。.
+- [grok-bot-cli cross-platform auth fork](https://github.com/bmgrosinsky/grok-bot-cli) - ScriptedAlchemy/grok-bot-cli 分支：为 Grok Bot CLI 增加 Windows/Linux/macOS Cursor 编辑器会话鉴权回退与 doctor 检查。.
 
 ## 社区与故障现场
 
@@ -903,10 +918,11 @@
 - [Korgo Bot Orgo cloud-computer teammate desktop app](https://github.com/nickvasilescu/korgo-bot) - 面向持久 AI Bot 的 macOS 桌面应用，内置 Orgo 云电脑操控，是与 Grok Bot 相近的常驻队友产品。.
 - [Howdy local Claude bot party inspired by Grok Bot](https://github.com/brandonapol/howdy) - 相关：局域网 ODROID 上的持久 Claude bot 派对，并带与 Grok Bot 的逐项对比研究（非本产品）。.
 - [GrokBot lab integration of OpenMausBot (not x.ai Bot)](https://github.com/DansiDanutz/GrokBot) - 相关：以 GrokBot 为名的 OpenMausBot 开源运行时 Mac Studio 集成（相邻替代，非 x.ai Grok Bot）。.
+- [DRF Grok Bot AI revenue-operations thesis](https://github.com/tbhrc/drf-main) - David's Revenue Factory 单体仓：含经研究的 Grok Bot AI 营收运营商业命题与机会评分。.
 
 ## 贡献
 
-目前 8 个分类、799 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、815 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

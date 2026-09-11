@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-799-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-815-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,12 +38,12 @@
 [イベントの詳細](./EVENTS.ja.md)
 
 - **中国**（5）：[上海](./EVENTS.ja.md#sha-20261018) · [杭州](./EVENTS.ja.md#hzo-20260919) · [北京](./EVENTS.ja.md#bj-20260919) · [広州](./EVENTS.ja.md#can-20260913) · [武漢](./EVENTS.ja.md#wuh-20261017)
-- **アメリカ**（15）：[オースティン](./EVENTS.ja.md#aus-20260910) · [ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ](./EVENTS.ja.md#g101-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfe-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [サンフランシスコ（PM）](./EVENTS.ja.md#sfpm-20260915) · [サンフランシスコ（Founders）](./EVENTS.ja.md#sffo-20260915) · [サンフランシスコ（Sales）](./EVENTS.ja.md#sfsales-20260916) · [ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [ダラス](./EVENTS.ja.md#dal-20260919) · [マイアミ](./EVENTS.ja.md#mia-20260923)
+- **アメリカ**（14）：[ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ](./EVENTS.ja.md#g101-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfe-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [サンフランシスコ（PM）](./EVENTS.ja.md#sfpm-20260915) · [サンフランシスコ（Founders）](./EVENTS.ja.md#sffo-20260915) · [サンフランシスコ（Sales）](./EVENTS.ja.md#sfsales-20260916) · [ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [ダラス](./EVENTS.ja.md#dal-20260919) · [マイアミ](./EVENTS.ja.md#mia-20260923)
 - **カナダ**（5）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [ビクトリア（BC）](./EVENTS.ja.md#vic-20260921) · [サドベリー](./EVENTS.ja.md#sud-20260915) · [トロント](./EVENTS.ja.md#yyz-20260917) · [モントリオール](./EVENTS.ja.md#yul-20260919)
 - **インドネシア**（5）：[タンゲラン](./EVENTS.ja.md#tgr-20260911) · [ウルワツ / バリ](./EVENTS.ja.md#bli-20260915) · [ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [バンドン](./EVENTS.ja.md#bdg-20260919) · [ジャカルタ](./EVENTS.ja.md#jkt-20261003)
-- **メキシコ**（4）：[モンテレイ](./EVENTS.ja.md#mty-20260910) · [プエブラ](./EVENTS.ja.md#pue-20260924) · [チワワ](./EVENTS.ja.md#cuu-20260924) · [メキシコシティ](./EVENTS.ja.md#cdmx-20260926)
 - **アルゼンチン**（3）：[ブエノスアイレス](./EVENTS.ja.md#bue-20260916) · [メンドサ](./EVENTS.ja.md#mdz-20261003) · [サルタ](./EVENTS.ja.md#sla-20260916)
 - **エクアドル**（3）：[マンタ](./EVENTS.ja.md#mec-20260912) · [キト](./EVENTS.ja.md#uio-20260924) · [クンバヤ](./EVENTS.ja.md#cumb-20261003)
+- **メキシコ**（3）：[プエブラ](./EVENTS.ja.md#pue-20260924) · [チワワ](./EVENTS.ja.md#cuu-20260924) · [メキシコシティ](./EVENTS.ja.md#cdmx-20260926)
 - **ブラジル**（2）：[クリチバ](./EVENTS.ja.md#cwb-20261111) · [フロリアノポリス](./EVENTS.ja.md#fln-20260926)
 - **ドイツ**（2）：[フライブルク](./EVENTS.ja.md#frb-20260917) · [ケルン](./EVENTS.ja.md#cgn-20261009)
 - **イギリス**（2）：[ロンドン](./EVENTS.ja.md#ldn-20260916) · [ロンドン](./EVENTS.ja.md#ldn-20260913)
@@ -300,6 +300,8 @@
 - [personal-config Grok Bot PR Desk field writeup](https://github.com/abhimehro/personal-config) - メンテナ実録。Grok Bot を読み取り専用の PR Desk（チーフ・オブ・スタッフ）にし、自動化報告を最大5件の人判断に圧縮する。
 - [Grok Bot Austin GTM badge booth (Phomemo M110)](https://github.com/mehh/grokbot-austin) - Austin GTM 事例。ゲスト／Grok Bot がバッジ申請→Phomemo M110 が手続きアバター付きで自動印刷。
 - [SABLE HQ command surface for a roster of Grok bots](https://github.com/lensleyluan001-create/sable-hq) - Sable.co の HQ。ページ内ランタイムなしで CEO／マーケ／営業／技術の Grok bot 編成を指揮する。
+- [Weather channel factory on Grok Bot Debian](https://github.com/techfundoffice/cloud-weather-bot-grok) - Grok Bot Debian 上で FOX/YouTube 収録自動化を回す Cloud Computer AI.com 天気チャンネル工場のメモと SOFTWARE-SPEC。
+- [ASML factory showcase with Grok Bot+lasercode](https://github.com/gtmsko46-debug/asml-factory-showcase) - Grok Bot＋lasercode 編成・二重ゲート評価・製品デッキを記録した ASML エージェント工場ショーケース。
 
 ## スキル、プラグインと MCP
 
@@ -514,6 +516,16 @@
 - [PasteApply honest resume/cover tailor MCP for Grok Bot](https://github.com/wardwalker207-code/pasteapply-plugin) - PasteApply の MCP＋誠実スキル。Grok Bot／Cursor が経歴を捏造せずにレジュメを整える。
 - [Robotomail MCP mailbox plugin for Grok Bot and Cursor](https://github.com/robotomail/cursor-plugin) - Robotomail 公式ホスト MCP。Grok Bot 専用 OAuth でメール検索・読取・送信・返信。
 - [Official Cursor plugins incl. make-bot-ui Grok Bot webhook skill](https://github.com/cursor/plugins) - Cursor 公式プラグイン。make-bot-ui スキルで Grok Bot webhook UI を作り、sender key を安全に扱う。
+- [Ops Graph CoS+specialists playbook for Grok Bot](https://github.com/timsonner/grok-bot-ops-graph) - Grok Bot 向け Ops Graph 公開プレイブック（CoS＋専門家プロファイル、ハンドオフ、ops-graph-team スキル）。
+- [grok-bot-team product roster skill](https://github.com/rkanjani/skills) - grok-bot-team を含む実践スキル：Grok Bot で Lead/Builder/Growth 編成・Team チャンネル・GitHub を立ち上げ。
+- [Spillwave second-brain-core Grok Bot host](https://github.com/SpillwaveSolutions/second-brain-core) - Spillwave ContentPack 共通 OKF 基盤。hosts/grok-bot バインドと docs/GROK_BOT.md 付き。
+- [Spillwave news-digest ContentPack for Grok Bot](https://github.com/SpillwaveSolutions/news-digest) - 共有セカンドブレイン向けニュースダイジェスト ContentPack（Grok Bot ホストスキル付き）。
+- [Spillwave sales-pipeline ContentPack for Grok Bot](https://github.com/SpillwaveSolutions/sales-pipeline) - セールスパイプライン ContentPack（リード・ステージ・反論）。Grok Bot ホストスキルと GROK_BOT.md 付き。
+- [Spillwave executive-coordination CoS pack](https://github.com/SpillwaveSolutions/executive-coordination) - 優先事項・意思決定・ブロッカー・ダイジェスト向け CoS ContentPack（Grok Bot ホストバインド）。
+- [Spillwave content-media ContentPack for Grok Bot](https://github.com/SpillwaveSolutions/content-media) - コンテンツ／オーディエンス ContentPack（記事・下書き・シリーズ）。Grok Bot ホストスキル付き。
+- [Spillwave account-management ContentPack](https://github.com/SpillwaveSolutions/account-management) - アカウント／リレーション ContentPack（顧客・連絡先）。Grok Bot ホストスキルと分離セッション規則付き。
+- [Spillwave system-architecture-capture pack](https://github.com/SpillwaveSolutions/system-architecture-capture) - システムアーキテクチャ二次脳 ContentPack（C4 文書＋Grok Bot ホストバインド）。
+- [Spillwave research-knowledge-capture (RKC)](https://github.com/SpillwaveSolutions/research-knowledge-capture) - 深掘り調査ダンプを OKF に取り込む RKC ContentPack（Grok Bot ホストスキル付き）。
 
 ## レビューと比較
 
@@ -666,6 +678,9 @@
 - [grokbot-harness-bridge MCP daemon for Agensis-shaped seats](https://github.com/TramEFX/grokbot-harness-bridge) - Grok Bot webhook Routine を MCP 経由で Agensis 形（Hermes 近傍）シートに繋ぐ pull デーモン＋プレイブック。
 - [grok-bridge-store shared scratch between grok.com and Grok Bot](https://github.com/jtarcza/grok-bridge-store) - grok.com と Grok Bot が会話履歴／メール箱メモを渡し合う公開 append-only スクラッチ。
 - [Unofficial Grok Bot 0.18.0 macOS reconstruction and extension](https://github.com/zeigarnick/grok-bot-0.18-reconstructed) - 出荷版 Grok Bot 0.18.0 macOS の非公式ソース志向再構築。可読 TS・アーキ文書・ルータ拡張付き。
+- [Baileys WhatsApp ↔ Grok Bot bridge reference](https://github.com/adam91holt/grokbot-whatsapp-baileys-reference) - Baileys WhatsApp ↔ Grok Bot ブリッジの公開サニタイズ TypeScript 参考実装（pair/daemon・jid-map・テスト付き）。
+- [GrokBotRemote portable runner offload](https://github.com/stevenbowler/GrokBotRemoteCopy) - 重い／繰り返し Grok Bot 作業を自前ホストへオフロードする Docker runner＋plugin skill（第二 Bot 不要）。
+- [grok-bot-cli cross-platform auth fork](https://github.com/bmgrosinsky/grok-bot-cli) - ScriptedAlchemy/grok-bot-cli のフォーク。Windows/Linux/macOS の Cursor エディタセッション認証フォールバックと doctor を追加。
 
 ## コミュニティと障害事例
 
@@ -903,10 +918,11 @@
 - [Korgo Bot Orgo cloud-computer teammate desktop app](https://github.com/nickvasilescu/korgo-bot) - 永続 AI Bot 向け macOS アプリ。内蔵 Orgo クラウド PC 操作を備え、Grok Bot に近い常駐チームメイト製品。
 - [Howdy local Claude bot party inspired by Grok Bot](https://github.com/brandonapol/howdy) - 関連：LAN 限定 ODROID の Claude bot パーティ。Grok Bot との機能比較リサーチ付き（別製品）。
 - [GrokBot lab integration of OpenMausBot (not x.ai Bot)](https://github.com/DansiDanutz/GrokBot) - 関連：OpenMausBot を GrokBot 名で Mac Studio 統合したラボ構成（隣接代替・非 x.ai 製品）。
+- [DRF Grok Bot AI revenue-operations thesis](https://github.com/tbhrc/drf-main) - David's Revenue Factory。Grok Bot AI レベニューオペレーション事業テーゼと機会スコアを含む。
 
 ## 貢献
 
-8 セクションに 799 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 815 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

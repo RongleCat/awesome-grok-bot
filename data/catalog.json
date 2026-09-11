@@ -2144,6 +2144,26 @@
             "zh": "Sable.co HQ Web 应用：指挥多工位 Grok bot 花名册（CEO/市场/销售/技术），页面内不跑 agent 运行时。",
             "ja": "Sable.co の HQ。ページ内ランタイムなしで CEO／マーケ／営業／技術の Grok bot 編成を指揮する。"
           }
+        },
+        {
+          "title": "Weather channel factory on Grok Bot Debian",
+          "url": "https://github.com/techfundoffice/cloud-weather-bot-grok",
+          "source": "GB-828",
+          "blurb": {
+            "en": "Cloud Computer AI.com weather-channel factory notes and SOFTWARE-SPEC for running FOX/YouTube capture automation on a Grok Bot Debian computer.",
+            "zh": "Cloud Computer AI.com 天气频道工厂：在 Grok Bot Debian 电脑上跑 FOX/YouTube 采集自动化的笔记与 SOFTWARE-SPEC。",
+            "ja": "Grok Bot Debian 上で FOX/YouTube 収録自動化を回す Cloud Computer AI.com 天気チャンネル工場のメモと SOFTWARE-SPEC。"
+          }
+        },
+        {
+          "title": "ASML factory showcase with Grok Bot+lasercode",
+          "url": "https://github.com/gtmsko46-debug/asml-factory-showcase",
+          "source": "GB-829",
+          "blurb": {
+            "en": "Champion pack documenting an ASML agent software factory with Grok Bot + lasercode orchestration, dual-gate evals, and product decks.",
+            "zh": "ASML 智能体软件工厂冠军包：记录 Grok Bot + lasercode 编排、双闸评估与产品 deck。",
+            "ja": "Grok Bot＋lasercode 編成・二重ゲート評価・製品デッキを記録した ASML エージェント工場ショーケース。"
+          }
         }
       ]
     },
@@ -4264,6 +4284,106 @@
             "zh": "Cursor 官方插件仓：含 make-bot-ui 技能，教你做点击唤醒 Grok Bot webhook 的 UI，并安全保管 sender key。",
             "ja": "Cursor 公式プラグイン。make-bot-ui スキルで Grok Bot webhook UI を作り、sender key を安全に扱う。"
           }
+        },
+        {
+          "title": "Ops Graph CoS+specialists playbook for Grok Bot",
+          "url": "https://github.com/timsonner/grok-bot-ops-graph",
+          "source": "GB-825",
+          "blurb": {
+            "en": "Public Ops Graph playbook: chief-of-staff plus specialists team profiles, handoffs, and an ops-graph-team skill for Grok Bot.",
+            "zh": "公开 Ops Graph 手册：首席幕僚+专家团队画像、交接与面向 Grok Bot 的 ops-graph-team skill。",
+            "ja": "Grok Bot 向け Ops Graph 公開プレイブック（CoS＋専門家プロファイル、ハンドオフ、ops-graph-team スキル）。"
+          }
+        },
+        {
+          "title": "grok-bot-team product roster skill",
+          "url": "https://github.com/rkanjani/skills",
+          "source": "GB-830",
+          "blurb": {
+            "en": "Practical skills pack including grok-bot-team: stand up Lead/Builder/Growth roster, Team channel, and GitHub on Grok Bot.",
+            "zh": "实用 skills 包，含 grok-bot-team：在 Grok Bot 上组建 Lead/Builder/Growth 编制、Team 频道与 GitHub。",
+            "ja": "grok-bot-team を含む実践スキル：Grok Bot で Lead/Builder/Growth 編成・Team チャンネル・GitHub を立ち上げ。"
+          }
+        },
+        {
+          "title": "Spillwave second-brain-core Grok Bot host",
+          "url": "https://github.com/SpillwaveSolutions/second-brain-core",
+          "source": "GB-831",
+          "blurb": {
+            "en": "Shared OKF foundation for Spillwave ContentPacks with hosts/grok-bot binding and docs/GROK_BOT.md for Grok Bot agents.",
+            "zh": "Spillwave ContentPack 共用 OKF 基础，含 hosts/grok-bot 绑定与面向 Grok Bot 智能体的 docs/GROK_BOT.md。",
+            "ja": "Spillwave ContentPack 共通 OKF 基盤。hosts/grok-bot バインドと docs/GROK_BOT.md 付き。"
+          }
+        },
+        {
+          "title": "Spillwave news-digest ContentPack for Grok Bot",
+          "url": "https://github.com/SpillwaveSolutions/news-digest",
+          "source": "GB-832",
+          "blurb": {
+            "en": "News digest ContentPack plugin with Grok Bot host skill for scheduled digests, sources, and trends on a shared second brain.",
+            "zh": "新闻摘要 ContentPack：含 Grok Bot host skill，在共享第二大脑上做定时摘要、来源与趋势。",
+            "ja": "共有セカンドブレイン向けニュースダイジェスト ContentPack（Grok Bot ホストスキル付き）。"
+          }
+        },
+        {
+          "title": "Spillwave sales-pipeline ContentPack for Grok Bot",
+          "url": "https://github.com/SpillwaveSolutions/sales-pipeline",
+          "source": "GB-833",
+          "blurb": {
+            "en": "Sales pipeline ContentPack (leads, stages, objections) with explicit Grok Bot host skill and GROK_BOT.md binding.",
+            "zh": "销售管道 ContentPack（线索、阶段、异议），含明确的 Grok Bot host skill 与 GROK_BOT.md 绑定。",
+            "ja": "セールスパイプライン ContentPack（リード・ステージ・反論）。Grok Bot ホストスキルと GROK_BOT.md 付き。"
+          }
+        },
+        {
+          "title": "Spillwave executive-coordination CoS pack",
+          "url": "https://github.com/SpillwaveSolutions/executive-coordination",
+          "source": "GB-834",
+          "blurb": {
+            "en": "Chief-of-staff ContentPack for priorities, decisions, blockers, and digests with Grok Bot host binding.",
+            "zh": "首席幕僚 ContentPack：优先级、决策、阻塞与摘要，含 Grok Bot host 绑定。",
+            "ja": "優先事項・意思決定・ブロッカー・ダイジェスト向け CoS ContentPack（Grok Bot ホストバインド）。"
+          }
+        },
+        {
+          "title": "Spillwave content-media ContentPack for Grok Bot",
+          "url": "https://github.com/SpillwaveSolutions/content-media",
+          "source": "GB-835",
+          "blurb": {
+            "en": "Content and audience ContentPack (articles, drafts, series) with Grok Bot host skill and GROK_BOT.md.",
+            "zh": "内容与受众 ContentPack（文章、草稿、系列），含 Grok Bot host skill 与 GROK_BOT.md。",
+            "ja": "コンテンツ／オーディエンス ContentPack（記事・下書き・シリーズ）。Grok Bot ホストスキル付き。"
+          }
+        },
+        {
+          "title": "Spillwave account-management ContentPack",
+          "url": "https://github.com/SpillwaveSolutions/account-management",
+          "source": "GB-836",
+          "blurb": {
+            "en": "Account and relationship ContentPack (clients, contacts) with Grok Bot host skill and isolation session rules.",
+            "zh": "客户与关系 ContentPack（客户、联系人），含 Grok Bot host skill 与隔离会话规则。",
+            "ja": "アカウント／リレーション ContentPack（顧客・連絡先）。Grok Bot ホストスキルと分離セッション規則付き。"
+          }
+        },
+        {
+          "title": "Spillwave system-architecture-capture pack",
+          "url": "https://github.com/SpillwaveSolutions/system-architecture-capture",
+          "source": "GB-837",
+          "blurb": {
+            "en": "System-architecture second-brain ContentPack with C4 docs and Grok Bot host binding for reverse-engineering models.",
+            "zh": "系统架构第二大脑 ContentPack：含 C4 文档与 Grok Bot host 绑定，用于逆向架构模型。",
+            "ja": "システムアーキテクチャ二次脳 ContentPack（C4 文書＋Grok Bot ホストバインド）。"
+          }
+        },
+        {
+          "title": "Spillwave research-knowledge-capture (RKC)",
+          "url": "https://github.com/SpillwaveSolutions/research-knowledge-capture",
+          "source": "GB-838",
+          "blurb": {
+            "en": "Research Knowledge Capture ContentPack to ingest deep-research dumps into OKF with Grok Bot host skill.",
+            "zh": "研究知识捕获（RKC）ContentPack：将深度研究材料摄入 OKF，含 Grok Bot host skill。",
+            "ja": "深掘り調査ダンプを OKF に取り込む RKC ContentPack（Grok Bot ホストスキル付き）。"
+          }
         }
       ]
     },
@@ -5743,6 +5863,36 @@
             "en": "Unofficial source-oriented reconstruction of the shipped Grok Bot 0.18.0 macOS app with readable TypeScript, architecture docs, and router/settings extensions.",
             "zh": "非官方、面向源码的 Grok Bot 0.18.0 macOS 应用重建：可读 TypeScript、架构文档与路由/设置扩展。",
             "ja": "出荷版 Grok Bot 0.18.0 macOS の非公式ソース志向再構築。可読 TS・アーキ文書・ルータ拡張付き。"
+          }
+        },
+        {
+          "title": "Baileys WhatsApp ↔ Grok Bot bridge reference",
+          "url": "https://github.com/adam91holt/grokbot-whatsapp-baileys-reference",
+          "source": "GB-824",
+          "blurb": {
+            "en": "Public sanitized TypeScript reference for a Baileys WhatsApp ↔ Grok Bot agent bridge with pair/daemon, jid-map, and tests.",
+            "zh": "公开脱敏的 TypeScript 参考：Baileys WhatsApp ↔ Grok Bot 桥接，含 pair/daemon、jid-map 与测试。",
+            "ja": "Baileys WhatsApp ↔ Grok Bot ブリッジの公開サニタイズ TypeScript 参考実装（pair/daemon・jid-map・テスト付き）。"
+          }
+        },
+        {
+          "title": "GrokBotRemote portable runner offload",
+          "url": "https://github.com/stevenbowler/GrokBotRemoteCopy",
+          "source": "GB-826",
+          "blurb": {
+            "en": "Portable Docker runner + plugin skill to offload heavy/repeating Grok Bot work to a host you control without creating a second bot.",
+            "zh": "便携 Docker runner + plugin skill：把繁重/重复的 Grok Bot 工作卸载到自有主机，无需再建第二个 Bot。",
+            "ja": "重い／繰り返し Grok Bot 作業を自前ホストへオフロードする Docker runner＋plugin skill（第二 Bot 不要）。"
+          }
+        },
+        {
+          "title": "grok-bot-cli cross-platform auth fork",
+          "url": "https://github.com/bmgrosinsky/grok-bot-cli",
+          "source": "GB-827",
+          "blurb": {
+            "en": "Fork of ScriptedAlchemy/grok-bot-cli adding Windows/Linux/macOS Cursor editor-session auth fallback and doctor checks for Grok Bot CLI.",
+            "zh": "ScriptedAlchemy/grok-bot-cli 分支：为 Grok Bot CLI 增加 Windows/Linux/macOS Cursor 编辑器会话鉴权回退与 doctor 检查。",
+            "ja": "ScriptedAlchemy/grok-bot-cli のフォーク。Windows/Linux/macOS の Cursor エディタセッション認証フォールバックと doctor を追加。"
           }
         }
       ]
@@ -8073,6 +8223,16 @@
             "en": "Related: Mac Studio lab integration of the OpenMausBot open-source runtime branded GrokBot, retaining upstream UI (adjacent alternative, not x.ai Grok Bot).",
             "zh": "相关：以 GrokBot 为名的 OpenMausBot 开源运行时 Mac Studio 集成（相邻替代，非 x.ai Grok Bot）。",
             "ja": "関連：OpenMausBot を GrokBot 名で Mac Studio 統合したラボ構成（隣接代替・非 x.ai 製品）。"
+          }
+        },
+        {
+          "title": "DRF Grok Bot AI revenue-operations thesis",
+          "url": "https://github.com/tbhrc/drf-main",
+          "source": "GB-839",
+          "blurb": {
+            "en": "David's Revenue Factory monorepo including a researched Grok Bot AI revenue-operations business thesis and opportunity scoring.",
+            "zh": "David's Revenue Factory 单体仓：含经研究的 Grok Bot AI 营收运营商业命题与机会评分。",
+            "ja": "David's Revenue Factory。Grok Bot AI レベニューオペレーション事業テーゼと機会スコアを含む。"
           }
         }
       ]
