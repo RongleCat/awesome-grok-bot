@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-768-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-799-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,11 +38,11 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（5）：[Shanghai](./EVENTS.md#sha-20261018) · [Hangzhou](./EVENTS.md#hzo-20260919) · [Beijing](./EVENTS.md#bj-20260919) · [Guangzhou](./EVENTS.md#can-20260913) · [Wuhan](./EVENTS.md#wuh-20261017)
-- **United States**（14）：[Austin](./EVENTS.md#aus-20260910) · [Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013) · [Dallas](./EVENTS.md#dal-20260919)
+- **United States**（15）：[Austin](./EVENTS.md#aus-20260910) · [Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013) · [Dallas](./EVENTS.md#dal-20260919) · [Miami](./EVENTS.md#mia-20260923)
 - **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260915) · [Toronto](./EVENTS.md#yyz-20260917) · [Montreal](./EVENTS.md#yul-20260919)
 - **Indonesia**（5）：[Tangerang](./EVENTS.md#tgr-20260911) · [Uluwatu / Bali](./EVENTS.md#bli-20260915) · [Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Bandung](./EVENTS.md#bdg-20260919) · [Jakarta](./EVENTS.md#jkt-20261003)
-- **Argentina**（4）：[Bariloche](./EVENTS.md#brc-20260910) · [Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
 - **Mexico**（4）：[Monterrey](./EVENTS.md#mty-20260910) · [Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926)
+- **Argentina**（3）：[Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
 - **Ecuador**（3）：[Manta](./EVENTS.md#mec-20260912) · [Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
 - **Brazil**（2）：[Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926)
 - **Germany**（2）：[Freiburg](./EVENTS.md#frb-20260917) · [Cologne](./EVENTS.md#cgn-20261009)
@@ -55,7 +55,6 @@
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
 - **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20260920)
 - **Belgium**（1）：[Leuven](./EVENTS.md#leu-20260919)
-- **Cameroon**（1）：[Yaoundé](./EVENTS.md#yde-20260910)
 - **Colombia**（1）：[Cartago](./EVENTS.md#ctg-20260911)
 - **Spain**（1）：[Madrid](./EVENTS.md#mad-20260929)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
@@ -148,6 +147,15 @@
 - [@bot: switch Grok Bot accounts with one click](https://x.com/bot/status/2097759952375029917) - Official @bot (2026-09-09): switch between Grok Bot accounts with one click (screenshot in post) — part of the Sep 9 QoL thread.
 - [@bot: support for over 20 languages](https://x.com/bot/status/2097759963007598798) - Official @bot (2026-09-09): Grok Bot now supports over 20 languages (screenshot in post) — part of the Sep 9 QoL thread.
 - [@bot: share a file directly with Grok Bot on mobile](https://x.com/bot/status/2097759967214444724) - Official @bot (2026-09-09): share a file directly with Grok Bot on mobile (screenshot in post) — part of the Sep 9 QoL thread.
+- [@bot: Grok Bot sales/GTM connectors (Salesforce, HubSpot, Gong, Clay, Granola)](https://x.com/bot/status/2098183353665261979) - Official @bot (2026-09-10): Grok Bot is more powerful for sales teams — connect Bots to Salesforce, HubSpot, Gong, Clay, Granola, and other GTM tools for accounts, follow-ups, and research (thread also shares installable sales templates).
+- [Bot Marketplace · Sales category (x.ai)](https://x.ai/bot/marketplace/sales) - Official x.ai Bot Marketplace Sales category: browse installable sales Bots (Outbound Prospecting, GTM Loop Closer, Sales Call Coach, and more) with connectors and routines ready to add.
+- [Grok Bot (Cursor Docs hub)](https://cursor.com/docs/grok-bot) - Official Cursor Docs hub for Grok Bot: what Bots are, shared cloud computer model, platforms, pricing entry points, and links into get-started, use cases, Teams/Enterprise, and security.
+- [Grok Bot for Teams and Enterprise](https://cursor.com/docs/grok-bot/teams) - Official Cursor Docs for Teams/Enterprise admins: enablement, Firecracker isolation, Team Rules, Enforce Auto-review, Network Controls, Team Setup, Action Recording, and recommended rollout baseline.
+- [Grok Bot security](https://cursor.com/docs/grok-bot/security) - Official Cursor Docs security guide: Network Controls modes, static egress, Auto Review, identity/sign-ins, audit vs Action Recording, data residency (US), local execution, and ISO scope.
+- [Grok Bot security FAQ](https://cursor.com/docs/grok-bot/security-faq) - Official Cursor Docs security FAQ for reviewers: isolation, plugin vs network policy, dedicated egress (no), on-prem (no), Auto Review coverage, certifications, and computer termination behavior.
+- [Configure identity and access](https://cursor.com/docs/grok-bot/identity) - Official Cursor Docs for Grok Bot identity: SSO/SCIM carry-over, Okta/Entra steps for the computer browser, and how Bots act only as the signed-in member.
+- [Connect to private networks](https://cursor.com/docs/grok-bot/private-networks) - Official Cursor Docs on reaching private services from Grok Bot computers via Enterprise Team Setup networking clients (no Cursor-operated VPN/private link).
+- [Routines (Cursor Help)](https://cursor.com/help/grok-bot/routines) - Official Cursor Help for Grok Bot routines: schedules/time zones, Slack keyword listeners, webhook URL+Bearer key, Run history limits, usage tips when weekly allowance drops fast, and server-managed routines.
 
 ## Tutorials & Guides
 
@@ -290,6 +298,8 @@
 - [Aura 2 Grok Bot design approver](https://github.com/chromewizard/Aura-2) - Grok Bot Design Approver persona with allocation and vision gate docs that coordinate Bot Notion routing and beauty greenlights.
 - [Grok Oracle persona resident on Grok Bot machine](https://github.com/mozzquito/grok-oracle) - Field persona pack for an always-on Oracle sibling that lives on the Grok Bot cloud machine, with CLAUDE.md identity and ψ resonance memory files.
 - [personal-config Grok Bot PR Desk field writeup](https://github.com/abhimehro/personal-config) - Maintainer field writeup that uses Grok Bot as a read-only Chief-of-Staff PR Desk digest compressing automation reports into at most five human decisions.
+- [Grok Bot Austin GTM badge booth (Phomemo M110)](https://github.com/mehh/grokbot-austin) - Austin GTM build-night case: guests or their Grok Bots claim badges that auto-print on a Phomemo M110 with procedural Grok Bot avatars.
+- [SABLE HQ command surface for a roster of Grok bots](https://github.com/lensleyluan001-create/sable-hq) - Sable.co HQ web app that navigates and commands a multi-desk roster of Grok bots (CEO/marketing/sales/tech) without running agent runtimes in the page.
 
 ## Skills, Plugins & MCP
 
@@ -497,6 +507,13 @@
 - [Costco GTMKO Grok Bot plugin marketplace demo](https://github.com/beadelnegro-cursor/costco-grok-demo-marketplace) - GTMKO Field Engineering demo marketplace that installs a Costco-style shopping assistant plugin into Grok Bot via .grok-plugin marketplace manifests and an MCP skill.
 - [grok-bot-desks Flutter/Bug Repro/Job Application desks](https://github.com/globulus/grok-bot-desks) - Grok Bot desk templates and skills plugin for Flutter Mobile Engineer, Bug Repro, and Job Application workflows with first-message profiles and never-send-without-you gates.
 - [Lnkgo tracked-links skill + Grok Bot prompt](https://github.com/citedy/lnkgo) - Lnkgo branded short-link CLI/skill pack that includes a dedicated Grok Bot prompt and setup for publishing links and pulling click analytics.
+- [StrikeGrok 7-agent Strike Finance trading desk for Grok Bot](https://github.com/Mendurim/strikegrok-trading-desk) - StrikeGrok marketplace pack with .grok-plugin manifests, seven desk agents, and skills that turn a Grok Bot into a Strike Finance research/risk/execution trading desk.
+- [myagent plugin: durable inbox + webhook Routine for Grok Bot](https://github.com/PostdockAI/grok-bot-plugin) - myagent plugin that binds one persistent Grok Bot to a durable agent inbox via hosted MCP and a content-free webhook Routine wake path.
+- [eli5-gen-gb Grok Bot ELI5 skill with GenerateImage comics](https://github.com/liush2yuxjtu/eli5-gen-gb) - Grok Bot ELI5 skill that explains topics with AI GenerateImage comic panels interleaved with short chat text (not HTML attachments).
+- [eli5-svg-gb Grok Bot ELI5 skill with code-drawn SVG comics](https://github.com/liush2yuxjtu/eli5-svg-gb) - Sibling Grok Bot ELI5 skill that explains with code-drawn SVG comic panels interleaved in chat instead of AI image generation.
+- [PasteApply honest resume/cover tailor MCP for Grok Bot](https://github.com/wardwalker207-code/pasteapply-plugin) - PasteApply agent plugin with hosted MCP and an honesty skill so Grok Bot or Cursor can tailor resumes without inventing employers, dates, or skills.
+- [Robotomail MCP mailbox plugin for Grok Bot and Cursor](https://github.com/robotomail/cursor-plugin) - Official Robotomail hosted-MCP plugin with a dedicated Grok Bot OAuth client so a Bot can search, read, send, and reply from its mailbox.
+- [Official Cursor plugins incl. make-bot-ui Grok Bot webhook skill](https://github.com/cursor/plugins) - Official Cursor plugin repository that ships the make-bot-ui skill for building click-to-wake Grok Bot webhook UIs with Tailscale-safe sender-key handling.
 
 ## Reviews & Comparisons
 
@@ -512,6 +529,7 @@
 - [Before You Hire a $200 Grok Bot](https://zchmael.substack.com/p/before-you-hire-a-200-grok-bot-ai) - Skeptical checklist: what the seat does not buy you.
 - [CellCog: Grok Bot pricing after the $20 Pro expansion](https://cellcog.ai/blog/grok-bot-pricing/) - Living pricing note updated 2026-08-27: eight routes from Cursor Pro $20 / SuperGrok $30, unpublished weekly allowance, shared on-demand, and no published enterprise price.
 - [What is Grok Bot? The Real Cost & Hidden Risks](https://4geeks.com/en/blog/ai-tools/what-is-grok-bot) - 4Geeks 2026-08-27 review of Grok Bot cost and credential risk: one shared computer is not a security boundary, Auto-review is best-effort, and the public docs never mention prompt injection.
+- [trusty-tools Grok Bot competitive/comparable research pack](https://github.com/bobmatnyc/trusty-tools) - Review pack inside trusty-tools: ~19KB public Grok Bot comparable research with doc extracts and marketing/docs screenshots captured 2026-09-05.
 
 ## Open-Source Alternatives
 
@@ -644,6 +662,10 @@
 - [Grok Bot MCP OAuth bridge for external agents](https://github.com/quabug/grok-bot-mcp) - Portable MCP server that exposes a Grok Bot workstation and agent-bridge mailbox to ChatGPT, Claude, Cursor, and other MCP clients over HTTPS+OAuth or stdio.
 - [drobek-bot self-hosted Grok Bot-style teammates](https://github.com/freema/drobek-bot) - Open-source pre-alpha stack for named self-hosted AI teammates with isolated Docker boxes, approval broker, audit log, and hard cost caps inspired by Grok Bot.
 - [grok-bot-web Tailscale-gated teammate chat UI](https://github.com/nwcnwc/grok-bot-web) - Tiny Tailscale-gated web chat UI that pipes messages and file drops to your own Grok Bot watcher via inbox/reply files without calling xAI or Cursor APIs.
+- [Grok Bot Connector Hub virtual USB plugboard for multi-agent rooms](https://github.com/TramEFX/grokbot-connector-hub) - Python hub that plugs Grok Bots into multi-agent rooms (Agensis first) over MCP without exposing the room door to the public internet.
+- [grokbot-harness-bridge MCP daemon for Agensis-shaped seats](https://github.com/TramEFX/grokbot-harness-bridge) - Reusable pull-daemon and playbook that connects a Grok Bot webhook Routine to Agensis-shaped (and Hermes-adjacent) multi-agent harness seats over MCP.
+- [grok-bridge-store shared scratch between grok.com and Grok Bot](https://github.com/jtarcza/grok-bridge-store) - Public append-only scratch repo so grok.com chat and Grok Bot can leave conversation history and mailbox notes for each other.
+- [Unofficial Grok Bot 0.18.0 macOS reconstruction and extension](https://github.com/zeigarnick/grok-bot-0.18-reconstructed) - Unofficial source-oriented reconstruction of the shipped Grok Bot 0.18.0 macOS app with readable TypeScript, architecture docs, and router/settings extensions.
 
 ## Community & Failure Modes
 
@@ -781,6 +803,12 @@
 - [Weekly allowance lasts longer: fresh chats, space routines, cloud-agent manager](https://forum.cursor.com/t/grok-bot-ultra-users-how-do-you-make-the-weekly-allowance-last-mine-reached-99-in-three-days/171221) - Staff (mohitjain, 2026-09-10): Grok Bot bills for work done (tools, browser, subagents, re-reading history each turn)—not message count; long threads with high cache-reads get pricey. Biggest wins: start a fresh conversation per task; space routines (avoid every-few-minutes; prefer hourly / dedicated bot); delegate heavy implementation to Cursor cloud agents (manager pattern) so execution burns Cursor plan, not the weekly Bot pool; scope tightly and check the meter.
 - [Windows F-Secure: DeepGuard delays local-exec past 10s (folder exclusions miss Temp)](https://forum.cursor.com/t/grok-bot-local-exec-blocked-by-f-secure-on-windows-folder-exclusions-ineffective/171219) - Staff (mohitjain, 2026-09-10): F-Secure often delays each local-exec command past the agent’s ~10s wait (not a hard block)—folder exclusions fail because each command is a fresh one-off PowerShell under %LOCALAPPDATA%\Temp. Bisect: DeepGuard off only → real-time off only → allow Grok Bot.exe from %LOCALAPPDATA%\Programs\Grok Bot in DeepGuard → temporary Temp exclude as last test; report which step works for a proper allowlist. Complements the generic “connected but >10s unreachable” tip.
 - [Cursor Ultra ≡ SuperGrok Heavy for Grok Bot (no stack; free Ultra offer ended)](https://forum.cursor.com/t/supergrok-heavy-vs-cursor-individual-ultra/170888) - Staff (deanrie, 2026-09-10): For Grok Bot, Cursor Ultra and SuperGrok Heavy are the same top tier—same weekly quota, models, speed, priority; having both does not stack (highest wins). Ultra also includes Cursor IDE/Agent/Cloud Agents; Heavy adds grok.com/Grok app features but not a Cursor plan. The free Cursor Ultra-with-Heavy promo ended end of August. After weekly quota, on-demand needs a saved payment method on cursor.com.
+- [Linux RPM links for GrokBot not working](https://forum.cursor.com/t/linux-rpm-links-for-grokbot-not-working/171281) - Staff (kevinn, 2026-09-10): download-page RPM links point at an old filename — use direct 0.47.0 x64/arm64 RPMs or the yumrepo + anysphere.asc dnf install path until the page is fixed.
+- [Why is Grok Bot usage included in my Cursor Models usage?](https://forum.cursor.com/t/why-is-grok-bot-usage-included-in-my-cursor-models-usage/171226) - Staff (deanrie, 2026-09-10): grok-bot-default/automation do not consume monthly Cursor Models quota — they use Grok Bot’s weekly pool; rows under Cursor Models are a display bug, while Cloud Agents Grok Bot spawns still bill the Cursor plan.
+- [SuperGrok on-demand appears to require Cursor Pro](https://forum.cursor.com/t/i-m-on-supergrok-and-want-to-buy-additional-grok-bot-requests-but-on-demand-billing-appears-to-require-a-cursor-pro-subscription/171010) - Staff (deanrie, 2026-09-08): don’t buy Cursor Pro for more Grok Bot — Pro and SuperGrok pools don’t stack; keep SuperGrok linked and use on-demand on that same account (add a card) when the weekly grant runs out.
+- [Which Grok Bot usage counts against the weekly pool?](https://forum.cursor.com/t/can-cursor-clarify-exactly-which-grok-bot-usage-counts-against-the-weekly-pool-vs-cursor-models-other-models/170951) - Staff (deanrie, 2026-09-07): chats, routines, browser/computer use, shell, sub-agents, MCP, and bot-machine repo work draw the weekly Grok Bot pool (grok-bot-* rows); helper model names without the prefix can still be Grok Bot metering until that pool is exhausted.
+- [macOS setup fails with unreachable — Bot name too long](https://forum.cursor.com/t/grok-bot-macos-initial-setup-fails-agent-computer-unreachable/171270) - Staff (kevinn, 2026-09-10): “Can’t reach your computer” on first-Bot setup can be a >255-character Name field rejection misreported as connectivity — quit/reopen and create with a short name, then put long instructions in the first chat.
+- [Can't reach computer — dual computer copies](https://forum.cursor.com/t/cant-reach-computer-grok-bot/171186) - Staff (mohitjain, 2026-09-09): unreachable can mean the app points at a half-started computer copy while bots live on another — stop Reset/Update/Recover and wait for backend reconnect so the good copy stays intact.
 
 ## Related Lists
 
@@ -873,10 +901,12 @@
 - [kleosr portfolio + Grok Bot page](https://github.com/kleosr/kleosr-portfolio) - Vite MPA portfolio with a dedicated grok-bot entry that presents the agents behind kleosr Cursor sessions alongside Grok Bot imagery.
 - [StreamBot OwnGrokBot Grok Bot-modeled iOS teammates](https://github.com/GetStream/stream-tutorial-projects) - Stream tutorial monorepo including StreamBot (AI/OwnGrokBot), an on-device iOS teammate roster explicitly modelled on Grok Bot roles with phone-native tools instead of a cloud computer.
 - [Korgo Bot Orgo cloud-computer teammate desktop app](https://github.com/nickvasilescu/korgo-bot) - macOS desktop app for persistent AI bots with built-in Orgo cloud computer use, an adjacent always-on teammate product comparable to Grok Bot.
+- [Howdy local Claude bot party inspired by Grok Bot](https://github.com/brandonapol/howdy) - Related: LAN-only ODROID bot party of persistent Claude agents with an explicit feature-by-feature research comparison against Grok Bot.
+- [GrokBot lab integration of OpenMausBot (not x.ai Bot)](https://github.com/DansiDanutz/GrokBot) - Related: Mac Studio lab integration of the OpenMausBot open-source runtime branded GrokBot, retaining upstream UI (adjacent alternative, not x.ai Grok Bot).
 
 ## Contributing
 
-768 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+799 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
