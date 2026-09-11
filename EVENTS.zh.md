@@ -69,6 +69,9 @@
 <a id="mia-20260923"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-kxjz"><img src="./assets/events/mia-20260923-cover.png" alt="Grok Bot 迈阿密 Kickoff" width="300" /></a></td><td valign="top"><strong>Grok Bot 迈阿密 Kickoff</strong><br />2026-09-23 周三 18:30–21:30（美东 EDT）<br />迈阿密 · The DOCK，400 NW 26th St（Wynwood）<br /><br />迈阿密 SpaceXAI（承接原 Cursor Community Miami）首场 Grok Bot Kickoff：现场 demo、真实 builder，初探把 AI agent 用起来。议程待公布；欢迎带本。场地 The DOCK（Wynwood）。主办 Ben Milshtein、The LAB Miami；免费，人工审核；扫描时报名 0。<br /><br /><a href="https://luma.com/spacexai-kxjz"><strong>报名 →</strong></a></td></tr></table>
 
+<a id="atl-20260924"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/ihgtq394"><img src="./assets/events/atl-20260924-cover.png" alt="Grok Bot 亚特兰大线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 亚特兰大线下交流</strong><br />2026-09-24 周四 18:00–20:00（美东 EDT）<br />亚特兰大都会区 Alpharetta · Tech North Atlanta，925 North Point Pkwy Ste 130<br /><br />亚特兰大 SpaceXAI 入门局：下班后 demo 优先——Grok Bot 是什么、产品走查、现场 AI 辅助架构演示、问答/开放麦、餐点咖啡、免费停车。主办 Raj Poloju、Sreyas Gentela；免费，免审核；笔记本可选；扫描时报名 0。论坛 171336。<br /><br /><a href="https://luma.com/ihgtq394"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
 <a id="country-ca"></a>
 ### 加拿大
 
@@ -104,6 +107,21 @@
 
 <a id="jkt-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zb6b"><img src="./assets/events/jkt-20261003-cover.png" alt="Grok Bot 雅加达线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 雅加达线下交流</strong><br />2026-10-03 周六 10:00–13:00（雅加达 WIB）<br />印尼雅加达 · 页面地址为 Jakarta（SpaceXAI for Jakarta 日历）<br /><br />雅加达 Grok Bot 线下（SpaceXAI for Jakarta）：社区案例、Personal Agents 用法、Ambassador 玩法、Q&A 与社交。主办 Naufaldi；免费需审核；约 100 席；扫描时报名 0。线下；EventScheduled；API_OK。与万隆 bdg-20260919、坦格朗 tgr-20260911 不同场。<br /><br /><a href="https://luma.com/spacexai-zb6b"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="country-in"></a>
+### 印度
+
+<a id="bho-20260926"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/132jx6pw"><img src="./assets/events/bho-20260926-cover.png" alt="Grok Bot 博帕尔线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 博帕尔线下交流</strong><br />2026-09-26 周六 18:00–20:00（印度时间 IST）<br />印度博帕尔 · 场地待定<br /><br />博帕尔首场 Grok Bot 动手会：SpaceXAI 工作同伴，能登录你的工具并完成真实任务。社交、入门工作坊、动手、问答、Credits。主持 Mohneesh Gupta；免费，需审核，约 100 席；请带满电笔记本与热点；扫描时报名 0。<br /><br /><a href="https://luma.com/132jx6pw"><strong>去 Luma 报名（需审核）→ →</strong></a></td></tr></table>
+
+<a id="vds-20260927"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/q6650bso"><img src="./assets/events/vds-20260927-cover.png" alt="Grok Bot 维迪沙线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 维迪沙线下交流</strong><br />2026-09-27 周日 18:00–20:00（印度时间 IST）<br />印度维迪沙 · 场地待定<br /><br />维迪沙首场 Grok Bot 动手会：SpaceXAI 工作同伴，能登录你的工具并完成真实任务。社交、入门工作坊、动手、问答、Credits。主持 Mohneesh Gupta；免费，需审核，约 100 席；请带满电笔记本与热点；扫描时报名 0。<br /><br /><a href="https://luma.com/q6650bso"><strong>去 Luma 报名（需审核）→ →</strong></a></td></tr></table>
+
+<a id="del-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/1cgd0t25"><img src="./assets/events/del-20261003-cover.png" alt="Grok Bot 德里线下聚会" width="300" /></a></td><td valign="top"><strong>Grok Bot 德里线下聚会</strong><br />2026-10-03 周六 13:00–16:00（印度时间 IST）<br />印度德里 · 报名通过后可见地址<br /><br />德里 Grok Bot 动手聚会：SpaceXAI 工作同伴，能登录你的工具并完成真实任务。社交、入门工作坊、动手、问答、Credits。主办 Knowvy Technologies；免费，需审核，约 100 席；地址仅报名可见；请带满电笔记本与热点；扫描时报名 0。<br /><br /><a href="https://luma.com/1cgd0t25"><strong>去 Luma 报名（需审核）→ →</strong></a></td></tr></table>
+
+<a id="jbp-20261004"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/0t6obx5c"><img src="./assets/events/jbp-20261004-cover.png" alt="Grok Bot 贾巴尔普尔线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 贾巴尔普尔线下交流</strong><br />2026-10-04 周日 16:00–18:00（印度时间 IST）<br />印度贾巴尔普尔 · 场地待定<br /><br />贾巴尔普尔 Grok Bot 动手会：SpaceXAI 工作同伴，能登录你的工具并完成真实任务。社交、入门工作坊、动手、问答、Credits。主办 Knowvy Technologies；免费，需审核，约 100 席；请带满电笔记本与热点；扫描时报名 0。<br /><br /><a href="https://luma.com/0t6obx5c"><strong>去 Luma 报名（需审核）→ →</strong></a></td></tr></table>
 
 <a id="country-ar"></a>
 ### 阿根廷

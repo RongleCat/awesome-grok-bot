@@ -69,6 +69,9 @@
 <a id="mia-20260923"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-kxjz"><img src="./assets/events/mia-20260923-cover.png" alt="Grok Bot Miami Kickoff" width="300" /></a></td><td valign="top"><strong>Grok Bot Miami Kickoff</strong><br />2026-09-23（水）18:30–21:30（America/New_York、EDT）<br />マイアミ · The DOCK、400 NW 26th St（Wynwood）<br /><br />SpaceXAI for Miami（旧 Cursor Community Miami）初の Grok Bot Kickoff。ライブデモ・ビルダー交流、AIエージェント実践の第一歩。アジェンダは後日。ノートPC歓迎。会場 The DOCK（Wynwood）。主催 Ben Milshtein & The LAB Miami。無料・手動承認。スキャン時 0 名。<br /><br /><a href="https://luma.com/spacexai-kxjz"><strong>申し込む →</strong></a></td></tr></table>
 
+<a id="atl-20260924"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/ihgtq394"><img src="./assets/events/atl-20260924-cover.png" alt="Grok Bot Meetup Atlanta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Atlanta</strong><br />2026-09-24（木）18:00–20:00（America/New_York、EDT）<br />アトランタ都市圏 Alpharetta · Tech North Atlanta、925 North Point Pkwy Ste 130<br /><br />SpaceXAI for Atlanta のイントロMeetup。退勤後デモ中心：Grok Bot概要・ウォークスルー・ライブデモ・Q&A／オープンマイク・飲食・無料駐車。主催 Raj Poloju & Sreyas Gentela。無料・承認不要。ノートPC任意。スキャン時 0 名。Forum 171336。<br /><br /><a href="https://luma.com/ihgtq394"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
 <a id="country-ca"></a>
 ### カナダ
 
@@ -104,6 +107,21 @@
 
 <a id="jkt-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zb6b"><img src="./assets/events/jkt-20261003-cover.png" alt="Grok Bot Meetup Jakarta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Jakarta</strong><br />2026-10-03（土）10:00–13:00（Asia/Jakarta、WIB）<br />ジャカルタ · 会場表記 Jakarta（SpaceXAI for Jakarta カレンダー）<br /><br />ジャカルタの Grok Bot Meetup（SpaceXAI for Jakarta）。事例・Personal Agents・アンバサダー活用・Q&A・交流。主催 Naufaldi。無料・承認制・約 100 席。スキャン時 0 名。対面・EventScheduled・API_OK。バンドン／タンゲランとは別。<br /><br /><a href="https://luma.com/spacexai-zb6b"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="country-in"></a>
+### インド
+
+<a id="bho-20260926"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/132jx6pw"><img src="./assets/events/bho-20260926-cover.png" alt="Grok Bot Meetup - Bhopal" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup - Bhopal</strong><br />2026-09-26（土）18:00–20:00（IST）<br />Bhopal, India · 会場 TBA<br /><br />ボーパール初の Grok Bot ハンズオン。SpaceXAI のワークコンパニオンがツールにログインして実タスクを完了。交流・入門WS・ハンズオン・Q&A・クレジット。主催 Mohneesh Gupta。無料・承認制・約100席。充電済みノートPCとホットスポット持参。スキャン時 0 名。<br /><br /><a href="https://luma.com/132jx6pw"><strong>Luma で申し込む（主催者承認）→ →</strong></a></td></tr></table>
+
+<a id="vds-20260927"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/q6650bso"><img src="./assets/events/vds-20260927-cover.png" alt="Grok Bot Meetup - Vidisha" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup - Vidisha</strong><br />2026-09-27（日）18:00–20:00（IST）<br />Vidisha, India · 会場 TBA<br /><br />ヴィディシャー初の Grok Bot ハンズオン。SpaceXAI のワークコンパニオンがツールにログインして実タスクを完了。交流・入門WS・ハンズオン・Q&A・クレジット。主催 Mohneesh Gupta。無料・承認制・約100席。充電済みノートPCとホットスポット持参。スキャン時 0 名。<br /><br /><a href="https://luma.com/q6650bso"><strong>Luma で申し込む（主催者承認）→ →</strong></a></td></tr></table>
+
+<a id="del-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/1cgd0t25"><img src="./assets/events/del-20261003-cover.png" alt="Grok Bot Get Together - Delhi" width="300" /></a></td><td valign="top"><strong>Grok Bot Get Together - Delhi</strong><br />2026-10-03（土）13:00–16:00（IST）<br />デリー · 登録後に住所を表示<br /><br />デリーの Grok Bot ハンズオン交流会。SpaceXAI のワークコンパニオンがツールにログインして実タスクを完了。交流・入門WS・ハンズオン・Q&A・クレジット。主催 Knowvy Technologies。無料・承認制・約100席。住所は登録後公開。充電済みノートPCとホットスポット持参。スキャン時 0 名。<br /><br /><a href="https://luma.com/1cgd0t25"><strong>Luma で申し込む（主催者承認）→ →</strong></a></td></tr></table>
+
+<a id="jbp-20261004"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/0t6obx5c"><img src="./assets/events/jbp-20261004-cover.png" alt="Grok Bot Meetup - Jabalpur" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup - Jabalpur</strong><br />2026-10-04（日）16:00–18:00（IST）<br />Jabalpur, India · 会場 TBA<br /><br />ジャバルプルの Grok Bot ハンズオン。SpaceXAI のワークコンパニオンがツールにログインして実タスクを完了。交流・入門WS・ハンズオン・Q&A・クレジット。主催 Knowvy Technologies。無料・承認制・約100席。充電済みノートPCとホットスポット持参。スキャン時 0 名。<br /><br /><a href="https://luma.com/0t6obx5c"><strong>Luma で申し込む（主催者承認）→ →</strong></a></td></tr></table>
 
 <a id="country-ar"></a>
 ### アルゼンチン

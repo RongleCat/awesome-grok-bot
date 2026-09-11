@@ -2164,6 +2164,16 @@
             "zh": "ASML 智能体软件工厂冠军包：记录 Grok Bot + lasercode 编排、双闸评估与产品 deck。",
             "ja": "Grok Bot＋lasercode 編成・二重ゲート評価・製品デッキを記録した ASML エージェント工場ショーケース。"
           }
+        },
+        {
+          "title": "ARS + PaperSpine sync kit for Grok Bot box",
+          "url": "https://github.com/Aenchanteda/ARS-Paperspine-transfered-by-Grok-Bot",
+          "source": "GB-844",
+          "blurb": {
+            "en": "Academic Research Suite + PaperSpine mirror with sync-to-grok.sh and grok-adapters so a Grok Bot computer can run the same playbooks as Codex.",
+            "zh": "ARS + PaperSpine 镜像：含 sync-to-grok.sh 与 grok-adapters，让 Grok Bot 电脑与 Codex 跑同一套学术剧本。",
+            "ja": "ARS＋PaperSpine ミラー。sync-to-grok.sh と grok-adapters で Grok Bot コンピュータが Codex と同じプレイブックを実行。"
+          }
         }
       ]
     },
@@ -4384,6 +4394,16 @@
             "zh": "研究知识捕获（RKC）ContentPack：将深度研究材料摄入 OKF，含 Grok Bot host skill。",
             "ja": "深掘り調査ダンプを OKF に取り込む RKC ContentPack（Grok Bot ホストスキル付き）。"
           }
+        },
+        {
+          "title": "So-me Studio social posting plugin for Grok Bot",
+          "url": "https://github.com/7t1-studio/so-me-studio-grok-plugin",
+          "source": "GB-840",
+          "blurb": {
+            "en": "Cursor-format Grok Bot plugin: draft, upload media, publish, and schedule social posts via So-me Studio MCP/OAuth.",
+            "zh": "面向 Grok Bot 的 Cursor 格式插件：通过 So-me Studio MCP/OAuth 起草、上传媒体、发布与排期社媒帖。",
+            "ja": "Grok Bot 向け Cursor 形式プラグイン。So-me Studio MCP/OAuth で下書き・メディア投稿・公開・スケジュール。"
+          }
         }
       ]
     },
@@ -5894,6 +5914,36 @@
             "zh": "ScriptedAlchemy/grok-bot-cli 分支：为 Grok Bot CLI 增加 Windows/Linux/macOS Cursor 编辑器会话鉴权回退与 doctor 检查。",
             "ja": "ScriptedAlchemy/grok-bot-cli のフォーク。Windows/Linux/macOS の Cursor エディタセッション認証フォールバックと doctor を追加。"
           }
+        },
+        {
+          "title": "gb — operator CLI for a Grok Bot deployment",
+          "url": "https://github.com/JYeswak/grok_bot_playground",
+          "source": "GB-841",
+          "blurb": {
+            "en": "Zero-dep Python operator CLI (gb) that audits plugins/MCP, surfaces gaps, and triages health of a live Grok Bot deployment.",
+            "zh": "零依赖 Python 运维 CLI（gb）：审计插件/MCP、暴露缺口并诊断在线 Grok Bot 部署健康。",
+            "ja": "依存ゼロの Python 運用 CLI（gb）。ライブ Grok Bot 配備のプラグイン/MCP 監査・ギャップ検出・ヘルス診断。"
+          }
+        },
+        {
+          "title": "Unofficial Arch package for Grok Bot desktop",
+          "url": "https://github.com/gallez-tech/grok-bot-bin",
+          "source": "GB-842",
+          "blurb": {
+            "en": "Unofficial Arch Linux package that repackages Cursor’s official Grok Bot .deb, with daily update CI and /usr/bin/grok-bot wrapper.",
+            "zh": "非官方 Arch 包：重打包 Cursor 官方 Grok Bot .deb，含每日更新 CI 与 /usr/bin/grok-bot 包装脚本。",
+            "ja": "非公式 Arch パッケージ。Cursor 公式 Grok Bot .deb を再梱包し、日次更新 CI と /usr/bin/grok-bot ラッパー付き。"
+          }
+        },
+        {
+          "title": "HAOS add-on reverse proxy to GrokBot gateway",
+          "url": "https://github.com/thebuilderofmoebius9/haos-grokbot-gateway-proxy",
+          "source": "GB-843",
+          "blurb": {
+            "en": "Home Assistant OS add-on: nginx reverse proxy to a mesh-hosted GrokBot gateway with configurable upstream and optional auth injection.",
+            "zh": "Home Assistant OS 插件：经 nginx 反代 mesh 上的 GrokBot gateway，可配置上游并可选注入鉴权。",
+            "ja": "Home Assistant OS アドオン。メッシュ上の GrokBot gateway へ nginx リバースプロキシ（上流設定・任意認証注入）。"
+          }
         }
       ]
     },
@@ -7304,6 +7354,36 @@
             "zh": "员工（mohitjain，2026-09-09）：无法连接可能是应用指向未启动完的电脑副本而 Bot 在另一副本——请停止 Reset/Update/Recover，等待后端重连，以免动到完好副本。",
             "ja": "スタッフ（mohitjain、2026-09-09）：到達不可は、未完了のコンピュータ複製を指し Bot は別複製にある状態のことがある——Reset/Update/Recover を止め、バックエンド再接続を待ち良い複製を守る。"
           }
+        },
+        {
+          "title": "Windows Kaspersky HTTPS scan → ConnectError.Internal / Can’t reach computer",
+          "url": "https://forum.cursor.com/t/grok-bot-0-44-0-windows-can-t-reach-computer-entitlement-read-connecterror-internal-please-re-provision-agent-computer/171308",
+          "source": "GB-849",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-11): Grok Bot trusts public CAs only—Kaspersky Encrypted connections scanning swaps the api2.cursor.sh issuer to Kaspersky Anti-Virus Personal Root Certificate and the app never reaches the Agent Computer (ConnectError.Internal). Turn scanning off or exception Grok Bot; do not Reset/Recover; confirm the cert issuer is Amazon RSA again, then quit/reopen and update past 0.44.0.",
+            "zh": "Staff（deanrie，2026-09-11）：Grok Bot 只信任公有 CA——卡巴斯基「加密连接扫描」会把 api2.cursor.sh 证书换成 Kaspersky 根证书，导致 ConnectError.Internal / 连不上电脑。关闭扫描或给 Grok Bot 加例外；不要 Reset/Recover；确认证书发行者恢复为 Amazon RSA 后完全退出再开，并升级到新于 0.44.0。",
+            "ja": "Staff（deanrie、2026-09-11）：Grok Bot は公開 CA のみ信頼。Kaspersky の暗号化接続スキャンが api2.cursor.sh の発行者を Kaspersky ルートに差し替え、ConnectError.Internal / コンピュータ未到達になる。スキャンをオフか Grok Bot を例外に。Reset/Recover 不要。発行者が Amazon RSA に戻ったら完全終了→再起動し、0.44.0 より新しい版へ更新。"
+          }
+        },
+        {
+          "title": "Server-stored webhook routines: desktop missing POST URL / crsr_ key",
+          "url": "https://forum.cursor.com/t/desktop-grok-bot-webhook-routine-shows-no-post-url-crsr-key-windows-0-47-0/171324",
+          "source": "GB-850",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-11): New Bots keep routines on the server, and the desktop app currently does not fetch webhook POST URL, crsr_ secret, or Authorization—recreate and deep links stay empty; bot cannot emit them. Known issue; temporary wake options are Slack channel message triggers or a schedule (not webhook credentials).",
+            "zh": "Staff（deanrie，2026-09-11）：新 Bot 的例程存在服务端，桌面端目前不会拉取 webhook 的 POST URL、crsr_ 密钥或 Authorization——重建和深链都是空的，Bot 也给不出。已知问题；临时唤醒可用 Slack 频道消息触发或定时例程（拿不到 webhook 凭证）。",
+            "ja": "Staff（deanrie、2026-09-11）：新しい Bot はルーチンをサーバ保存し、デスクトップは webhook の POST URL / crsr_ / Authorization を取得しない。再作成もディープリンクも空、Bot も出せない。既知不具合。暫定は Slack チャンネルメッセージ起動かスケジュール（webhook 資格情報は不可）。"
+          }
+        },
+        {
+          "title": "Windows in-app update Authenticode fail → install Setup.exe manually",
+          "url": "https://forum.cursor.com/t/grok-bot-windows-in-app-update-downloads-then-fails-authenticode-probe-installer-signature-invalid/171265",
+          "source": "GB-851",
+          "blurb": {
+            "en": "Staff (Colin, 2026-09-11): Windows in-app updater can download then fail Authenticode verification (installer removed; app stays old)—often AV holding the file or a slow check, not a bad signing cert. Workaround: run the signed Setup.exe from Cursor · Download Grok Bot (silent /S OK); Agent Computer needs no Reset. Optional: Measure-Command Get-AuthenticodeSignature on the downloaded installer to help triage.",
+            "zh": "Staff（Colin，2026-09-11）：Windows 应用内更新可能下载后 Authenticode 校验失败（安装包被删、版本不升）——多为杀软占用或校验过慢，不是签名本身坏了。变通：从 Cursor · Download Grok Bot 手动跑已签名 Setup.exe（可用 /S）；云电脑无需 Reset。可选：对下载的安装包跑 Get-AuthenticodeSignature 协助排查。",
+            "ja": "Staff（Colin、2026-09-11）：Windows のアプリ内更新がダウンロード後 Authenticode 検証に失敗し（インストーラ削除・版が上がらない）ことがある。署名不良より AV のファイル保持や検証遅延が多い。回避策：Cursor · Download Grok Bot の署名済み Setup.exe を手動実行（/S 可）。Agent Computer の Reset は不要。任意で Get-AuthenticodeSignature 計測。"
+          }
         }
       ]
     },
@@ -8233,6 +8313,46 @@
             "en": "David's Revenue Factory monorepo including a researched Grok Bot AI revenue-operations business thesis and opportunity scoring.",
             "zh": "David's Revenue Factory 单体仓：含经研究的 Grok Bot AI 营收运营商业命题与机会评分。",
             "ja": "David's Revenue Factory。Grok Bot AI レベニューオペレーション事業テーゼと機会スコアを含む。"
+          }
+        },
+        {
+          "title": "Grok Bot Network (AgentWire) for named agents",
+          "url": "https://github.com/kyle8824/grokbotnetwork",
+          "source": "GB-845",
+          "blurb": {
+            "en": "AgentWire V1 network where named bots join with API keys, exchange SIGNALs, and discover peers — Grok Bot News as an example publisher.",
+            "zh": "AgentWire V1：命名 Bot 用 API key 入网、交换 SIGNAL、发现同伴；Grok Bot News 为示例发布方。",
+            "ja": "AgentWire V1。名前付き Bot が API キーで参加し SIGNAL 交換・発見。Grok Bot News は例のパブリッシャー。"
+          }
+        },
+        {
+          "title": "Roster — community directory of public Grok Bots",
+          "url": "https://github.com/pensdev/grok-bot-roster",
+          "source": "GB-846",
+          "blurb": {
+            "en": "Independent community marketplace/directory UI for browsing public Grok Bots (static site + admin demo; not affiliated with xAI).",
+            "zh": "独立的公共 Grok Bot 社区目录/市集前端（静态站+演示后台；与 xAI 无关）。",
+            "ja": "公開 Grok Bot の独立コミュニティ・ディレクトリ UI（静的サイト＋デモ管理。xAI 非公式）。"
+          }
+        },
+        {
+          "title": "Errand — open-source take on Grok Bot teammates",
+          "url": "https://github.com/runta-dev/errand",
+          "source": "GB-847",
+          "blurb": {
+            "en": "macOS Electron desktop for persistent AI teammates with their own Runta cloud computers — positioned as an open-source take on Grok Bot.",
+            "zh": "macOS Electron 桌面端：持久 AI 队友各有 Runta 云电脑，定位为 Grok Bot 的开源对照实现。",
+            "ja": "macOS Electron。Runta クラウドコンピュータ付き永続 AI チームメイト。Grok Bot のオープンソース対照。"
+          }
+        },
+        {
+          "title": "Grok Bot character animation study",
+          "url": "https://github.com/iiiiiiiian/grok-bot-animation-study",
+          "source": "GB-848",
+          "blurb": {
+            "en": "Independent educational study reconstructing Grok Bot–inspired character animation (eyes, idle, springs) for research; not affiliated with xAI.",
+            "zh": "独立教育研究：复现受 Grok Bot 启发的角色动画（眼睛、idle、弹簧），与 xAI 无关。",
+            "ja": "Grok Bot 着想のキャラクター・アニメ研究（目・idle・スプリング）。教育目的、xAI 非公式。"
           }
         }
       ]
@@ -12546,6 +12666,161 @@
         "en": "Register",
         "zh": "报名",
         "ja": "申し込む"
+      }
+    },
+    {
+      "id": "atl-20260924",
+      "url": "https://luma.com/ihgtq394",
+      "image": "./assets/events/atl-20260924-cover.png",
+      "expires": "2026-09-24T20:00:00-04:00",
+      "title": {
+        "en": "Grok Bot Meetup Atlanta",
+        "zh": "Grok Bot 亚特兰大线下交流",
+        "ja": "Grok Bot Meetup Atlanta"
+      },
+      "when": {
+        "en": "Thu 24 Sep 2026, 18:00–20:00 (America/New_York, EDT)",
+        "zh": "2026-09-24 周四 18:00–20:00（美东 EDT）",
+        "ja": "2026-09-24（木）18:00–20:00（America/New_York、EDT）"
+      },
+      "where": {
+        "en": "Alpharetta, GA (Atlanta metro) · Tech North Atlanta, 925 North Point Pkwy Ste 130",
+        "zh": "亚特兰大都会区 Alpharetta · Tech North Atlanta，925 North Point Pkwy Ste 130",
+        "ja": "アトランタ都市圏 Alpharetta · Tech North Atlanta、925 North Point Pkwy Ste 130"
+      },
+      "body": {
+        "en": "SpaceXAI for Atlanta intro meetup: demo-first after work — what Grok Bot is, product walkthrough, live AI-assisted architecture demo, Q&A/open mic, food & coffee, free parking. Hosts Raj Poloju & Sreyas Gentela; free; open registration (no approval); laptop optional; guest_count 0 at scan. Forum 171336.",
+        "zh": "亚特兰大 SpaceXAI 入门局：下班后 demo 优先——Grok Bot 是什么、产品走查、现场 AI 辅助架构演示、问答/开放麦、餐点咖啡、免费停车。主办 Raj Poloju、Sreyas Gentela；免费，免审核；笔记本可选；扫描时报名 0。论坛 171336。",
+        "ja": "SpaceXAI for Atlanta のイントロMeetup。退勤後デモ中心：Grok Bot概要・ウォークスルー・ライブデモ・Q&A／オープンマイク・飲食・無料駐車。主催 Raj Poloju & Sreyas Gentela。無料・承認不要。ノートPC任意。スキャン時 0 名。Forum 171336。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "bho-20260926",
+      "url": "https://luma.com/132jx6pw",
+      "image": "./assets/events/bho-20260926-cover.png",
+      "expires": "2026-09-26T20:00:00+05:30",
+      "title": {
+        "en": "Grok Bot Meetup - Bhopal",
+        "zh": "Grok Bot 博帕尔线下交流",
+        "ja": "Grok Bot Meetup - Bhopal"
+      },
+      "when": {
+        "en": "Sat 26 Sep 2026, 18:00–20:00 (IST)",
+        "zh": "2026-09-26 周六 18:00–20:00（印度时间 IST）",
+        "ja": "2026-09-26（土）18:00–20:00（IST）"
+      },
+      "where": {
+        "en": "Bhopal, India · venue TBA",
+        "zh": "印度博帕尔 · 场地待定",
+        "ja": "Bhopal, India · 会場 TBA"
+      },
+      "body": {
+        "en": "First Grok Bot hands-on in Bhopal: SpaceXAI work-companion bots that log into your tools and finish real tasks. Networking, intro workshop, hands-on, Q&A, Grok Bot credits. Host Mohneesh Gupta; free; host approval; ~100 seats; bring charged laptop + hotspot; guest_count 0 at scan.",
+        "zh": "博帕尔首场 Grok Bot 动手会：SpaceXAI 工作同伴，能登录你的工具并完成真实任务。社交、入门工作坊、动手、问答、Credits。主持 Mohneesh Gupta；免费，需审核，约 100 席；请带满电笔记本与热点；扫描时报名 0。",
+        "ja": "ボーパール初の Grok Bot ハンズオン。SpaceXAI のワークコンパニオンがツールにログインして実タスクを完了。交流・入門WS・ハンズオン・Q&A・クレジット。主催 Mohneesh Gupta。無料・承認制・約100席。充電済みノートPCとホットスポット持参。スキャン時 0 名。"
+      },
+      "cta": {
+        "en": "Register on Luma (host approval) →",
+        "zh": "去 Luma 报名（需审核）→",
+        "ja": "Luma で申し込む（主催者承認）→"
+      }
+    },
+    {
+      "id": "vds-20260927",
+      "url": "https://luma.com/q6650bso",
+      "image": "./assets/events/vds-20260927-cover.png",
+      "expires": "2026-09-27T20:00:00+05:30",
+      "title": {
+        "en": "Grok Bot Meetup - Vidisha",
+        "zh": "Grok Bot 维迪沙线下交流",
+        "ja": "Grok Bot Meetup - Vidisha"
+      },
+      "when": {
+        "en": "Sun 27 Sep 2026, 18:00–20:00 (IST)",
+        "zh": "2026-09-27 周日 18:00–20:00（印度时间 IST）",
+        "ja": "2026-09-27（日）18:00–20:00（IST）"
+      },
+      "where": {
+        "en": "Vidisha, India · venue TBA",
+        "zh": "印度维迪沙 · 场地待定",
+        "ja": "Vidisha, India · 会場 TBA"
+      },
+      "body": {
+        "en": "First Grok Bot hands-on in Vidisha: SpaceXAI work-companion bots that log into your tools and finish real tasks. Networking, intro workshop, hands-on, Q&A, Grok Bot credits. Host Mohneesh Gupta; free; host approval; ~100 seats; bring charged laptop + hotspot; guest_count 0 at scan.",
+        "zh": "维迪沙首场 Grok Bot 动手会：SpaceXAI 工作同伴，能登录你的工具并完成真实任务。社交、入门工作坊、动手、问答、Credits。主持 Mohneesh Gupta；免费，需审核，约 100 席；请带满电笔记本与热点；扫描时报名 0。",
+        "ja": "ヴィディシャー初の Grok Bot ハンズオン。SpaceXAI のワークコンパニオンがツールにログインして実タスクを完了。交流・入門WS・ハンズオン・Q&A・クレジット。主催 Mohneesh Gupta。無料・承認制・約100席。充電済みノートPCとホットスポット持参。スキャン時 0 名。"
+      },
+      "cta": {
+        "en": "Register on Luma (host approval) →",
+        "zh": "去 Luma 报名（需审核）→",
+        "ja": "Luma で申し込む（主催者承認）→"
+      }
+    },
+    {
+      "id": "del-20261003",
+      "url": "https://luma.com/1cgd0t25",
+      "image": "./assets/events/del-20261003-cover.png",
+      "expires": "2026-10-03T16:00:00+05:30",
+      "title": {
+        "en": "Grok Bot Get Together - Delhi",
+        "zh": "Grok Bot 德里线下聚会",
+        "ja": "Grok Bot Get Together - Delhi"
+      },
+      "when": {
+        "en": "Sat 3 Oct 2026, 13:00–16:00 (IST)",
+        "zh": "2026-10-03 周六 13:00–16:00（印度时间 IST）",
+        "ja": "2026-10-03（土）13:00–16:00（IST）"
+      },
+      "where": {
+        "en": "Delhi, India · exact address after you register",
+        "zh": "印度德里 · 报名通过后可见地址",
+        "ja": "デリー · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "Hands-on Grok Bot get-together in Delhi: SpaceXAI work-companion bots that log into your tools and finish real tasks. Networking, intro workshop, hands-on, Q&A, Grok Bot credits. Host Knowvy Technologies; free; host approval; ~100 seats; address guests-only; bring charged laptop + hotspot; guest_count 0 at scan.",
+        "zh": "德里 Grok Bot 动手聚会：SpaceXAI 工作同伴，能登录你的工具并完成真实任务。社交、入门工作坊、动手、问答、Credits。主办 Knowvy Technologies；免费，需审核，约 100 席；地址仅报名可见；请带满电笔记本与热点；扫描时报名 0。",
+        "ja": "デリーの Grok Bot ハンズオン交流会。SpaceXAI のワークコンパニオンがツールにログインして実タスクを完了。交流・入門WS・ハンズオン・Q&A・クレジット。主催 Knowvy Technologies。無料・承認制・約100席。住所は登録後公開。充電済みノートPCとホットスポット持参。スキャン時 0 名。"
+      },
+      "cta": {
+        "en": "Register on Luma (host approval) →",
+        "zh": "去 Luma 报名（需审核）→",
+        "ja": "Luma で申し込む（主催者承認）→"
+      }
+    },
+    {
+      "id": "jbp-20261004",
+      "url": "https://luma.com/0t6obx5c",
+      "image": "./assets/events/jbp-20261004-cover.png",
+      "expires": "2026-10-04T18:00:00+05:30",
+      "title": {
+        "en": "Grok Bot Meetup - Jabalpur",
+        "zh": "Grok Bot 贾巴尔普尔线下交流",
+        "ja": "Grok Bot Meetup - Jabalpur"
+      },
+      "when": {
+        "en": "Sun 4 Oct 2026, 16:00–18:00 (IST)",
+        "zh": "2026-10-04 周日 16:00–18:00（印度时间 IST）",
+        "ja": "2026-10-04（日）16:00–18:00（IST）"
+      },
+      "where": {
+        "en": "Jabalpur, India · venue TBA",
+        "zh": "印度贾巴尔普尔 · 场地待定",
+        "ja": "Jabalpur, India · 会場 TBA"
+      },
+      "body": {
+        "en": "Hands-on Grok Bot meetup in Jabalpur: SpaceXAI work-companion bots that log into your tools and finish real tasks. Networking, intro workshop, hands-on, Q&A, Grok Bot credits. Host Knowvy Technologies; free; host approval; ~100 seats; bring charged laptop + hotspot; guest_count 0 at scan.",
+        "zh": "贾巴尔普尔 Grok Bot 动手会：SpaceXAI 工作同伴，能登录你的工具并完成真实任务。社交、入门工作坊、动手、问答、Credits。主办 Knowvy Technologies；免费，需审核，约 100 席；请带满电笔记本与热点；扫描时报名 0。",
+        "ja": "ジャバルプルの Grok Bot ハンズオン。SpaceXAI のワークコンパニオンがツールにログインして実タスクを完了。交流・入門WS・ハンズオン・Q&A・クレジット。主催 Knowvy Technologies。無料・承認制・約100席。充電済みノートPCとホットスポット持参。スキャン時 0 名。"
+      },
+      "cta": {
+        "en": "Register on Luma (host approval) →",
+        "zh": "去 Luma 报名（需审核）→",
+        "ja": "Luma で申し込む（主催者承認）→"
       }
     }
   ]
