@@ -93,9 +93,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="country-id"></a>
 ### Indonesia
 
-<a id="tgr-20260911"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-tgr"><img src="./assets/events/tgr-20260911-cover.png" alt="Grok Bot Workshop | Tangerang" width="300" /></a></td><td valign="top"><strong>Grok Bot Workshop | Tangerang</strong><br />Fri 11 Sep 2026, 18:00–20:30 (WIB)<br />Tangerang · Garuda Spark Innovation Hub - BSD City<br /><br />Hands-on Grok Bot workshop in Tangerang: demo + build + hang. Bring laptop/iPhone; download x.ai/bot ahead. Approval required.<br /><br /><a href="https://luma.com/grok-bot-tgr"><strong>Register on Luma → →</strong></a></td></tr></table>
-
 <a id="bli-20260915"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/bn7nfv0s"><img src="./assets/events/bli-20260915-cover.png" alt="Grok Bot Meetup Bali" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Bali</strong><br />Mon 15 Sep 2026, 16:00–21:00 (WITA)<br />Uluwatu / Badung, Bali · BukitHub Coworking, Jl. Pura Batu Pageh No.177AA, Ungasan<br /><br />First Grok Bot meetup in Uluwatu — try Grok Bot, demos, hang with Cursor/SpaceXAI community. Free; 30 seats; approval required (forum 170338; hosts Sachin S, Jacqueline Yusak, Bali Squad).<br /><br /><a href="https://luma.com/bn7nfv0s"><strong>Register on Luma → →</strong></a></td></tr></table>
 
@@ -245,12 +242,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="leu-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-leuven-meetup"><img src="./assets/events/leu-20260919-cover.png" alt="Grok Bot Leuven Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Leuven Meetup</strong><br />Sat 19 Sep 2026, 14:00–17:30 (CEST)<br />Leuven, Belgium · Blijde Inkomststraat 22<br /><br />Belgium’s first Grok Bot meetup — AI teammate demos and hang. Forum 170453; SpaceXAI for Belgium; waitlist/approval.<br /><br /><a href="https://luma.com/spacexai-leuven-meetup"><strong>Register on Luma → →</strong></a></td></tr></table>
-
-<a id="country-co"></a>
-### Colombia
-
-<a id="ctg-20260911"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-meetup-cartago"><img src="./assets/events/ctg-20260911-cover.png" alt="Grok Bot Meetup Cartago" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cartago</strong><br />Fri 11 Sep 2026, 14:00–18:00 (COT)<br />Cartago, Colombia · Cámara de Comercio, Cra. 4 # 12-101<br /><br />Cartago meetup on Cursor + SpaceXAI and real Grok Bot uses; 5 local speakers. Offline at the Chamber of Commerce.<br /><br /><a href="https://luma.com/grokbot-meetup-cartago"><strong>Register on Luma → →</strong></a></td></tr></table>
 
 <a id="country-es"></a>
 ### Spain

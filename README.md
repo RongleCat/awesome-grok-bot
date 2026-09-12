@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-827-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-859-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -40,7 +40,7 @@
 - **China**（5）：[Shanghai](./EVENTS.md#sha-20261018) · [Hangzhou](./EVENTS.md#hzo-20260919) · [Beijing](./EVENTS.md#bj-20260919) · [Guangzhou](./EVENTS.md#can-20260913) · [Wuhan](./EVENTS.md#wuh-20261017)
 - **United States**（15）：[Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013) · [Dallas](./EVENTS.md#dal-20260919) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924)
 - **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260915) · [Toronto](./EVENTS.md#yyz-20260917) · [Montreal](./EVENTS.md#yul-20260919)
-- **Indonesia**（5）：[Tangerang](./EVENTS.md#tgr-20260911) · [Uluwatu / Bali](./EVENTS.md#bli-20260915) · [Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Bandung](./EVENTS.md#bdg-20260919) · [Jakarta](./EVENTS.md#jkt-20261003)
+- **Indonesia**（4）：[Uluwatu / Bali](./EVENTS.md#bli-20260915) · [Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Bandung](./EVENTS.md#bdg-20260919) · [Jakarta](./EVENTS.md#jkt-20261003)
 - **India**（4）：[Bhopal](./EVENTS.md#bho-20260926) · [Vidisha](./EVENTS.md#vds-20260927) · [Delhi](./EVENTS.md#del-20261003) · [Jabalpur](./EVENTS.md#jbp-20261004)
 - **Argentina**（3）：[Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
 - **Ecuador**（3）：[Manta](./EVENTS.md#mec-20260912) · [Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
@@ -56,7 +56,6 @@
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
 - **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20260920)
 - **Belgium**（1）：[Leuven](./EVENTS.md#leu-20260919)
-- **Colombia**（1）：[Cartago](./EVENTS.md#ctg-20260911)
 - **Spain**（1）：[Madrid](./EVENTS.md#mad-20260929)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
 - **Kenya**（1）：[Nairobi](./EVENTS.md#nbo-20260917)
@@ -157,6 +156,15 @@
 - [Configure identity and access](https://cursor.com/docs/grok-bot/identity) - Official Cursor Docs for Grok Bot identity: SSO/SCIM carry-over, Okta/Entra steps for the computer browser, and how Bots act only as the signed-in member.
 - [Connect to private networks](https://cursor.com/docs/grok-bot/private-networks) - Official Cursor Docs on reaching private services from Grok Bot computers via Enterprise Team Setup networking clients (no Cursor-operated VPN/private link).
 - [Routines (Cursor Help)](https://cursor.com/help/grok-bot/routines) - Official Cursor Help for Grok Bot routines: schedules/time zones, Slack keyword listeners, webhook URL+Bearer key, Run history limits, usage tips when weekly allowance drops fast, and server-managed routines.
+- [@bot: Microsoft Teams for Grok Bot](https://x.com/bot/status/2098481256417866145) - Official @bot (2026-09-11): Grok Bot can now search and act across Microsoft Teams—first-party plugin to search, read, and send chats/channel messages (Add to Grok Bot via x.ai/bot/plugin/63354504).
+- [Teams for Grok Bot (plugin)](https://x.ai/bot/plugin/63354504) - Official Cursor Marketplace plugin “Teams for Grok Bot”: search, read, and send Microsoft Teams chats and channel messages; published by Grok Bot with Add-to-Grok install.
+- [Grok Bot 101](https://x.ai/bot/guides/grok-bot-101) - Official guide (2026-09-11): stand up a Grok Bot in ~15 minutes, chain specialists, use routines/triggers and multi-bot handoffs, plus Auto-review allow/block lists on a persistent cloud computer.
+- [Grok Bot for Engineering](https://x.ai/bot/guides/grok-bot-for-engineering) - Official guide (2026-09-10): engineer Bot fleets that manage Cursor Cloud Agents, close multimodal screenshot feedback loops, and scale past manual agent switching (mini-org patterns).
+- [Grok Bot for Support](https://x.ai/bot/guides/grok-bot-for-support) - Official guide (2026-09-09): SpaceXAI support queue with Grok Bot—connectors plus five jobs (release tracking, bug repro, triage, knowledge sync, escalation) and routines that keep running after you close the laptop.
+- [Templates for Grok Bot](https://x.ai/bot/guides/templates-for-grok-bot) - Official guide (2026-09-08): Templates share a Bot as a recipe (skills, memories, plugins)—not a clone—so sensitive code stays out; covers publish, install, and what is packaged.
+- [Manage Grok Bot computers](https://cursor.com/docs/grok-bot/computers) - Official Cursor Docs (Enterprise org admins only): bulk Recreate or Terminate member Grok Bot computers from the dashboard—durable disk kept; Team admin rights are not enough because one computer spans every team the member belongs to.
+- [Onboarding](https://cursor.com/help/grok-bot/onboarding) - Official Cursor Help onboarding: create your first Bot with a short name/title/description, start with a no-external-change task, and review before approving actions.
+- [Bot Marketplace · From Grok Bot Team](https://x.ai/bot/marketplace/from-grok-bot-team) - Official x.ai Bot Marketplace “From Grok Bot Team” filter: installable public Bots published by the Grok Bot team across engineering, sales, marketing, design, recruiting, and product.
 
 ## Tutorials & Guides
 
@@ -304,6 +312,9 @@
 - [Weather channel factory on Grok Bot Debian](https://github.com/techfundoffice/cloud-weather-bot-grok) - Cloud Computer AI.com weather-channel factory notes and SOFTWARE-SPEC for running FOX/YouTube capture automation on a Grok Bot Debian computer.
 - [ASML factory showcase with Grok Bot+lasercode](https://github.com/gtmsko46-debug/asml-factory-showcase) - Champion pack documenting an ASML agent software factory with Grok Bot + lasercode orchestration, dual-gate evals, and product decks.
 - [ARS + PaperSpine sync kit for Grok Bot box](https://github.com/Aenchanteda/ARS-Paperspine-transfered-by-Grok-Bot) - Academic Research Suite + PaperSpine mirror with sync-to-grok.sh and grok-adapters so a Grok Bot computer can run the same playbooks as Codex.
+- [FOMO copy-trading Grok Bot with paper/live modes](https://github.com/noam99moyal/fomo-live-bot) - Documented Grok Bot template that hourly mirrors FOMO.family traders in paper or live mode with locked size/exits and mode stamps.
+- [Job-search coverage log maintained by a Grok Bot](https://github.com/duvida13/GROK-BOT) - Day-dated finds/ job-search coverage machine maintained by a Job Search Grok Bot assistant with Live/watch honesty rules.
+- [Dated case-log console demo for Grok Bot computer-use](https://github.com/liam-morrissy-cursor/jh-case-console-demo) - Small dated case-log console sandbox aimed at Grok Bot computer-use demos (explicitly not a Jack Henry product).
 
 ## Skills, Plugins & MCP
 
@@ -529,6 +540,15 @@
 - [Spillwave system-architecture-capture pack](https://github.com/SpillwaveSolutions/system-architecture-capture) - System-architecture second-brain ContentPack with C4 docs and Grok Bot host binding for reverse-engineering models.
 - [Spillwave research-knowledge-capture (RKC)](https://github.com/SpillwaveSolutions/research-knowledge-capture) - Research Knowledge Capture ContentPack to ingest deep-research dumps into OKF with Grok Bot host skill.
 - [So-me Studio social posting plugin for Grok Bot](https://github.com/7t1-studio/so-me-studio-grok-plugin) - Cursor-format Grok Bot plugin: draft, upload media, publish, and schedule social posts via So-me Studio MCP/OAuth.
+- [CosVoice hosted MCP: give Grok Bot a real phone number](https://github.com/andyfathollahi/cosvoice-mcp) - CosVoice Grok Bot plugin with hosted Streamable-HTTP MCP, OAuth-by-URL, SKILL.md, and .grok-plugin so a Bot gets its own phone line for calls, texts, and booking.
+- [SoMerch company-merch planner plugin for Grok](https://github.com/SoMerch/somerch-grok-plugin) - Official SoMerch Grok plugin with .grok-plugin, remote MCP, and a company-merch planner SKILL for kits, gifting, and event merch.
+- [CoreOfDiscovery calibration plugin for Grok Bot](https://github.com/SmokedMeats/coreofdiscovery-grok-plugin) - Grok Bot/Build plugin that logs prediction claims to CoreOfDiscovery MCP, scores them, and reports calibration without storing data in-repo.
+- [Official Runway MCP plugin for Cursor and Grok Bot](https://github.com/runwayml/runway-mcp-plugin) - Official Runway plugin with .grok-plugin and skills so Grok Bot can generate images, video, and audio via Runway's hosted MCP.
+- [Official TellTell connector for Grok Bot](https://github.com/TellTellApp/telltell-connector) - Official TellTell Agent Plugins package so Grok Bot can manage People, teams, groups, fields, and tags via remote MCP.
+- [Google Maps toolkit for a Grok Bot computer](https://github.com/zechsmerquis/google-maps) - Clone-on-box Google Maps kit for Grok Bot: stdlib Places Text Search script plus optional Maps Grounding Lite remote MCP.
+- [Ruta landscaping office MCP for Cursor and Grok Bot](https://github.com/P163-Ruta/ruta-mcp-plugin) - Ruta plugin so Cursor or Grok Bot can look up customers, schedule, dispatch, and messages after a normal Ruta office login.
+- [Connections business MCP for Cursor and Grok Bot](https://github.com/Lunarwerx/connections-cursor-plugin) - Connections hosted MCP plugin for Cursor and Grok Bot: events, ticketing, contacts, Deal Flow, notes, and payments via OAuth.
+- [Anima identity MCP pack for Cursor and Grok Bot](https://github.com/anima-labs-ai/anima-plugin) - Anima multi-catalog plugin pack giving Grok Bot agent email, US phone/SMS, voice, vault, and MCP via console API keys.
 
 ## Reviews & Comparisons
 
@@ -687,6 +707,11 @@
 - [gb — operator CLI for a Grok Bot deployment](https://github.com/JYeswak/grok_bot_playground) - Zero-dep Python operator CLI (gb) that audits plugins/MCP, surfaces gaps, and triages health of a live Grok Bot deployment.
 - [Unofficial Arch package for Grok Bot desktop](https://github.com/gallez-tech/grok-bot-bin) - Unofficial Arch Linux package that repackages Cursor’s official Grok Bot .deb, with daily update CI and /usr/bin/grok-bot wrapper.
 - [HAOS add-on reverse proxy to GrokBot gateway](https://github.com/thebuilderofmoebius9/haos-grokbot-gateway-proxy) - Home Assistant OS add-on: nginx reverse proxy to a mesh-hosted GrokBot gateway with configurable upstream and optional auth injection.
+- [Cloudflare Worker companion for a Grok Bot Email inbox](https://github.com/Northbound-Run/email-inbox-worker) - Cloudflare Worker that cheap-triages Gmail Pub/Sub so an Email Grok Bot only wakes for To-Respond threads and drafts replies.
+- [Slack @Treq relay into a Treq Grok Bot webhook](https://github.com/Spokane-Computer/treq-slack-relay) - Cloudflare Worker that verifies Slack Events and forwards @Treq mentions/DMs to a Treq Grok Bot webhook.
+- [Self-hosted Grok Bot companion with custom models](https://github.com/TroveXsc/grok-bot-free) - Substantial companion to run Grok Bot UI with your own models, Docker/Linux desktop, and persisted bots, skills, and workspaces.
+- [Local Ollama MCP side-channel for Grok Bot](https://github.com/primal79/local-llm-mcp) - Draft MCP server so Grok Bot can ask a LAN/Tailscale Ollama model for drafts and output-only DLP without replacing its cloud brain.
+- [Localhost kanban across Claude, Codex, Cursor, and Grok Bot](https://github.com/gmkbenjamin/agent-task-tracker) - Local FastAPI + React kanban (optional pywebview shell) for tracking work across Claude Code, Codex, Cursor, Grok, and Grok Bot.
 
 ## Community & Failure Modes
 
@@ -833,6 +858,10 @@
 - [Windows Kaspersky HTTPS scan → ConnectError.Internal / Can’t reach computer](https://forum.cursor.com/t/grok-bot-0-44-0-windows-can-t-reach-computer-entitlement-read-connecterror-internal-please-re-provision-agent-computer/171308) - Staff (deanrie, 2026-09-11): Grok Bot trusts public CAs only—Kaspersky Encrypted connections scanning swaps the api2.cursor.sh issuer to Kaspersky Anti-Virus Personal Root Certificate and the app never reaches the Agent Computer (ConnectError.Internal). Turn scanning off or exception Grok Bot; do not Reset/Recover; confirm the cert issuer is Amazon RSA again, then quit/reopen and update past 0.44.0.
 - [Server-stored webhook routines: desktop missing POST URL / crsr_ key](https://forum.cursor.com/t/desktop-grok-bot-webhook-routine-shows-no-post-url-crsr-key-windows-0-47-0/171324) - Staff (deanrie, 2026-09-11): New Bots keep routines on the server, and the desktop app currently does not fetch webhook POST URL, crsr_ secret, or Authorization—recreate and deep links stay empty; bot cannot emit them. Known issue; temporary wake options are Slack channel message triggers or a schedule (not webhook credentials).
 - [Windows in-app update Authenticode fail → install Setup.exe manually](https://forum.cursor.com/t/grok-bot-windows-in-app-update-downloads-then-fails-authenticode-probe-installer-signature-invalid/171265) - Staff (Colin, 2026-09-11): Windows in-app updater can download then fail Authenticode verification (installer removed; app stays old)—often AV holding the file or a slow check, not a bad signing cert. Workaround: run the signed Setup.exe from Cursor · Download Grok Bot (silent /S OK); Agent Computer needs no Reset. Optional: Measure-Command Get-AuthenticodeSignature on the downloaded installer to help triage.
+- [Desktop reconnect re-sync wipes secure-card secrets](https://forum.cursor.com/t/grok-bot-box-secrets-wiped-on-desktop-reconnect-mipp-api-keys-production-blocker/171280) - Staff (deanrie): After sleep/drop/quit-reopen, desktop re-sync of the secrets list overwrites values saved via the secure in-chat card—Update/Reset/reinstall won’t help. Workaround: store keys in the Bot’s agent folder on the computer (less secure) until fixed.
+- [Hung custom MCP remotes: delete via cursor.com/agents](https://forum.cursor.com/t/grok-bot-hung-custom-mcp-remotes-are-invisible-in-plugins-yours-and-uninstall-also-times-out-discovery-catch-22/168350) - Staff (mohitjain): One hung custom HTTP MCP remote can stall discovery so Plugins→Yours never lists it and Uninstall times out. Self-serve fix: open cursor.com/agents → + → MCP Servers → Delete user config on that remote (works even while discovery hangs).
+- [Unreachable from Bot OOM / parallel fan-out](https://forum.cursor.com/t/grok-bot-computer-unreachable-again-recurring-backend-failure-after-multiple-repairs/170722) - Staff (mohitjain): Recurring unreachable can be Agent Computer OOM when a Bot spins too many parallel processes—not your network. Prevention: worker concurrency 1 on production paths, no mass-resume after rematerialize, batch large fan-outs; avoid Reset while support restores.
+- [Authentication error banner → Update Grok Bot’s Computer](https://forum.cursor.com/t/grok-bot-macos-0-44-0-persistent-authentication-error-after-sign-out-sign-in/171164) - Staff (Colin): Persistent “Authentication error / try logging out” can be an outdated Agent Computer build after a backend change—accounts are fine; skip sign-out/reinstall. Fix: Settings → Updates → Update Grok Bot’s Computer, then reopen and send a message.
 
 ## Related Lists
 
@@ -932,10 +961,12 @@
 - [Roster — community directory of public Grok Bots](https://github.com/pensdev/grok-bot-roster) - Independent community marketplace/directory UI for browsing public Grok Bots (static site + admin demo; not affiliated with xAI).
 - [Errand — open-source take on Grok Bot teammates](https://github.com/runta-dev/errand) - macOS Electron desktop for persistent AI teammates with their own Runta cloud computers — positioned as an open-source take on Grok Bot.
 - [Grok Bot character animation study](https://github.com/iiiiiiiian/grok-bot-animation-study) - Independent educational study reconstructing Grok Bot–inspired character animation (eyes, idle, springs) for research; not affiliated with xAI.
+- [Cel-mecha TV anime avatar pack for Grok Bot desks](https://github.com/mikeredmer/grok-bot-cel-mecha-avatars) - Public pack of 23 square cel-mecha busts (PNG+GIF) for Grok Bot profile pictures and desk seats.
+- [Bloub SVG avatar recreation for Mendoza Grok Bot meetup](https://github.com/MatiasBoldrini/bloub) - SVG recreation of the x.ai bot avatar with morphing states, built for the Mendoza Grok Bot meetup page.
 
 ## Contributing
 
-827 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+859 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

@@ -93,9 +93,6 @@
 <a id="country-id"></a>
 ### 印度尼西亚
 
-<a id="tgr-20260911"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-tgr"><img src="./assets/events/tgr-20260911-cover.png" alt="Grok Bot 工作坊｜坦格朗" width="300" /></a></td><td valign="top"><strong>Grok Bot 工作坊｜坦格朗</strong><br />2026-09-11 周五 18:00–20:30（雅加达时间）<br />坦格朗 · Garuda Spark Innovation Hub（BSD City）<br /><br />坦格朗 Grok Bot 动手工作坊：演示+动手+闲聊。带电脑/iPhone，预装 x.ai/bot。需审核。<br /><br /><a href="https://luma.com/grok-bot-tgr"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
 <a id="bli-20260915"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/bn7nfv0s"><img src="./assets/events/bli-20260915-cover.png" alt="Grok Bot 巴厘岛线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 巴厘岛线下交流</strong><br />2026-09-15 周一 16:00–21:00（巴厘岛）<br />巴厘岛乌鲁瓦图 · BukitHub Coworking, Jl. Pura Batu Pageh No.177AA, Ungasan<br /><br />乌鲁瓦图首场 Grok Bot 线下：试用、演示、和 Cursor/SpaceXAI 社区交流。免费 30 席，需审批（论坛 170338）。<br /><br /><a href="https://luma.com/bn7nfv0s"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
@@ -245,12 +242,6 @@
 
 <a id="leu-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-leuven-meetup"><img src="./assets/events/leu-20260919-cover.png" alt="Grok Bot 鲁汶线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 鲁汶线下交流</strong><br />2026-09-19 周六 14:00–17:30（比利时）<br />比利时鲁汶 · Blijde Inkomststraat 22<br /><br />比利时首场 Grok Bot 线下：AI 队友演示与交流。论坛 170453；需候补/审核。<br /><br /><a href="https://luma.com/spacexai-leuven-meetup"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
-<a id="country-co"></a>
-### 哥伦比亚
-
-<a id="ctg-20260911"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-meetup-cartago"><img src="./assets/events/ctg-20260911-cover.png" alt="Grok Bot 卡塔戈线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 卡塔戈线下交流</strong><br />2026-09-11 周五 14:00–18:00（哥伦比亚）<br />哥伦比亚卡塔戈 · 商会 Cámara de Comercio, Cra. 4 # 12-101<br /><br />卡塔戈线下：Cursor/SpaceXAI 与 Grok Bot 真实用法，5 位本地分享。商会场地。<br /><br /><a href="https://luma.com/grokbot-meetup-cartago"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="country-es"></a>
 ### 西班牙

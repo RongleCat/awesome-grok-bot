@@ -93,9 +93,6 @@
 <a id="country-id"></a>
 ### インドネシア
 
-<a id="tgr-20260911"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-tgr"><img src="./assets/events/tgr-20260911-cover.png" alt="Grok Bot Workshop｜Tangerang" width="300" /></a></td><td valign="top"><strong>Grok Bot Workshop｜Tangerang</strong><br />2026-09-11（金）18:00–20:30（WIB）<br />タンゲラン · Garuda Spark Innovation Hub（BSD City）<br /><br />タンゲランの Grok Bot ワークショップ。デモとハンズオン。ノート PC / iPhone、x.ai/bot 事前 DL。承認制。<br /><br /><a href="https://luma.com/grok-bot-tgr"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
 <a id="bli-20260915"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/bn7nfv0s"><img src="./assets/events/bli-20260915-cover.png" alt="Grok Bot Meetup Bali" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Bali</strong><br />2026-09-15（月）16:00–21:00（WITA）<br />バリ Uluwatu · BukitHub Coworking, Jl. Pura Batu Pageh No.177AA, Ungasan<br /><br />Uluwatu 初の Grok Bot Meetup。体験・デモ・交流。無料 30 席・承認制（forum 170338）。<br /><br /><a href="https://luma.com/bn7nfv0s"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
@@ -245,12 +242,6 @@
 
 <a id="leu-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-leuven-meetup"><img src="./assets/events/leu-20260919-cover.png" alt="Grok Bot Meetup Leuven" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Leuven</strong><br />2026-09-19（土）14:00–17:30（CEST）<br />ルーヴェン · Blijde Inkomststraat 22<br /><br />ベルギー初の Grok Bot Meetup。デモと交流。forum 170453・承認制。<br /><br /><a href="https://luma.com/spacexai-leuven-meetup"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
-<a id="country-co"></a>
-### コロンビア
-
-<a id="ctg-20260911"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-meetup-cartago"><img src="./assets/events/ctg-20260911-cover.png" alt="Grok Bot Meetup Cartago" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cartago</strong><br />2026-09-11（金）14:00–18:00（COT）<br />コロンビア Cartago · Cámara de Comercio, Cra. 4 # 12-101<br /><br />Cartago のオフライン。Cursor / SpaceXAI と Grok Bot の実例、スピーカー 5 名。商工会議所。<br /><br /><a href="https://luma.com/grokbot-meetup-cartago"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
 <a id="country-es"></a>
 ### スペイン

@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -743,6 +743,96 @@
             "en": "Official Cursor Help for Grok Bot routines: schedules/time zones, Slack keyword listeners, webhook URL+Bearer key, Run history limits, usage tips when weekly allowance drops fast, and server-managed routines.",
             "zh": "官方 Cursor Help：Grok Bot 例程——时区与日程、Slack 关键词监听、webhook URL+Bearer key、运行历史上限、周额度消耗过快时的用法，以及服务端托管例程说明。",
             "ja": "公式 Cursor Help：Grok Bot ルーチン——タイムゾーン/スケジュール、Slack キーワードリスナー、webhook URL+Bearer key、実行履歴、週次枠の急減時の調整、サーバ管理ルーチン。"
+          }
+        },
+        {
+          "title": "@bot: Microsoft Teams for Grok Bot",
+          "url": "https://x.com/bot/status/2098481256417866145",
+          "source": "GB-871",
+          "blurb": {
+            "en": "Official @bot (2026-09-11): Grok Bot can now search and act across Microsoft Teams—first-party plugin to search, read, and send chats/channel messages (Add to Grok Bot via x.ai/bot/plugin/63354504).",
+            "zh": "官方 @bot（2026-09-11）：Grok Bot 现可在 Microsoft Teams 中搜索与操作——官方插件可搜索、阅读并发送聊天/频道消息（经 x.ai/bot/plugin/63354504 一键添加）。",
+            "ja": "公式 @bot（2026-09-11）：Grok Bot が Microsoft Teams を検索・操作可能に。公式プラグインでチャット/チャネルの検索・閲覧・送信（x.ai/bot/plugin/63354504 から追加）。"
+          }
+        },
+        {
+          "title": "Teams for Grok Bot (plugin)",
+          "url": "https://x.ai/bot/plugin/63354504",
+          "source": "GB-872",
+          "blurb": {
+            "en": "Official Cursor Marketplace plugin “Teams for Grok Bot”: search, read, and send Microsoft Teams chats and channel messages; published by Grok Bot with Add-to-Grok install.",
+            "zh": "官方 Cursor Marketplace 插件「Teams for Grok Bot」：搜索、阅读并发送 Microsoft Teams 聊天与频道消息；由 Grok Bot 发布，支持一键添加到 Grok Bot。",
+            "ja": "公式 Cursor Marketplace プラグイン「Teams for Grok Bot」：Teams のチャット/チャネルを検索・閲覧・送信。Grok Bot 公開の Add-to-Grok インストール。"
+          }
+        },
+        {
+          "title": "Grok Bot 101",
+          "url": "https://x.ai/bot/guides/grok-bot-101",
+          "source": "GB-873",
+          "blurb": {
+            "en": "Official guide (2026-09-11): stand up a Grok Bot in ~15 minutes, chain specialists, use routines/triggers and multi-bot handoffs, plus Auto-review allow/block lists on a persistent cloud computer.",
+            "zh": "官方指南（2026-09-11）：约 15 分钟搭好 Grok Bot，串联专家 Bot、例程/触发器与多 Bot 交接，并在常驻云电脑上用 Auto-review 允许/拒绝列表。",
+            "ja": "公式ガイド（2026-09-11）：約15分で Grok Bot を立て、専門 Bot 連携、ルーチン/トリガー、マルチ Bot 引き継ぎ、常駐クラウド PC 上の Auto-review 許可/拒否リスト。"
+          }
+        },
+        {
+          "title": "Grok Bot for Engineering",
+          "url": "https://x.ai/bot/guides/grok-bot-for-engineering",
+          "source": "GB-874",
+          "blurb": {
+            "en": "Official guide (2026-09-10): engineer Bot fleets that manage Cursor Cloud Agents, close multimodal screenshot feedback loops, and scale past manual agent switching (mini-org patterns).",
+            "zh": "官方指南（2026-09-10）：用工程师 Bot 舰队管理 Cursor Cloud Agents、用多模态截图闭环验收，并超越手工切换 Agent 的规模（迷你组织模式）。",
+            "ja": "公式ガイド（2026-09-10）：エンジニア Bot 艦隊で Cursor Cloud Agents を管理し、マルチモーダルなスクショ検証ループを回し、手動エージェント切替を超えて拡張（ミニ組織）。"
+          }
+        },
+        {
+          "title": "Grok Bot for Support",
+          "url": "https://x.ai/bot/guides/grok-bot-for-support",
+          "source": "GB-875",
+          "blurb": {
+            "en": "Official guide (2026-09-09): SpaceXAI support queue with Grok Bot—connectors plus five jobs (release tracking, bug repro, triage, knowledge sync, escalation) and routines that keep running after you close the laptop.",
+            "zh": "官方指南（2026-09-09）：SpaceXAI 用 Grok Bot 跑支持队列——连接器加五项工作（发版跟踪、复现、分诊、知识库同步、升级），例程在合上电脑后继续跑。",
+            "ja": "公式ガイド（2026-09-09）：SpaceXAI サポートキューを Grok Bot で運用。コネクタ＋5ジョブ（リリース追跡、再現、トリアージ、KB同期、エスカレーション）とノートPCを閉じても続くルーチン。"
+          }
+        },
+        {
+          "title": "Templates for Grok Bot",
+          "url": "https://x.ai/bot/guides/templates-for-grok-bot",
+          "source": "GB-876",
+          "blurb": {
+            "en": "Official guide (2026-09-08): Templates share a Bot as a recipe (skills, memories, plugins)—not a clone—so sensitive code stays out; covers publish, install, and what is packaged.",
+            "zh": "官方指南（2026-09-08）：模板把 Bot 当配方分享（技能、记忆、插件）而非克隆，敏感代码不会带出；讲清发布、安装与打包内容。",
+            "ja": "公式ガイド（2026-09-08）：テンプレートは Bot をレシピ（スキル・メモリ・プラグイン）として共有しクローンではない。機密コードは含まれず、公開・インストール・同梱内容を解説。"
+          }
+        },
+        {
+          "title": "Manage Grok Bot computers",
+          "url": "https://cursor.com/docs/grok-bot/computers",
+          "source": "GB-877",
+          "blurb": {
+            "en": "Official Cursor Docs (Enterprise org admins only): bulk Recreate or Terminate member Grok Bot computers from the dashboard—durable disk kept; Team admin rights are not enough because one computer spans every team the member belongs to.",
+            "zh": "官方 Cursor Docs（仅 Enterprise 组织管理员）：在仪表盘批量 Recreate/Terminate 成员的 Grok Bot 电脑——持久盘保留；Team 管理员不够，因为一台电脑跨该成员所属全部团队。",
+            "ja": "公式 Cursor Docs（Enterprise 組織管理者のみ）：ダッシュボードでメンバーの Grok Bot コンピュータを一括 Recreate/Terminate。永続ディスクは保持。1台が所属全チームにまたがるため Team 管理者権限では不足。"
+          }
+        },
+        {
+          "title": "Onboarding",
+          "url": "https://cursor.com/help/grok-bot/onboarding",
+          "source": "GB-878",
+          "blurb": {
+            "en": "Official Cursor Help onboarding: create your first Bot with a short name/title/description, start with a no-external-change task, and review before approving actions.",
+            "zh": "官方 Cursor Help 入门：用简短名称/头衔/描述创建第一个 Bot，先做不改外部系统的任务，审批动作前先审结果。",
+            "ja": "公式 Cursor Help オンボーディング：短い名前/肩書き/説明で最初の Bot を作り、外部変更なしのタスクから始め、承認前に結果を確認。"
+          }
+        },
+        {
+          "title": "Bot Marketplace · From Grok Bot Team",
+          "url": "https://x.ai/bot/marketplace/from-grok-bot-team",
+          "source": "GB-879",
+          "blurb": {
+            "en": "Official x.ai Bot Marketplace “From Grok Bot Team” filter: installable public Bots published by the Grok Bot team across engineering, sales, marketing, design, recruiting, and product.",
+            "zh": "官方 x.ai Bot Marketplace「From Grok Bot Team」筛选：Grok Bot 团队发布的可安装公开 Bot，覆盖工程、销售、营销、设计、招聘与产品。",
+            "ja": "公式 x.ai Bot Marketplace「From Grok Bot Team」フィルタ：Grok Bot チーム公開のインストール可能な公開 Bot（エンジニアリング、セールス、マーケ、デザイン、採用、プロダクト）。"
           }
         }
       ]
@@ -2173,6 +2263,36 @@
             "en": "Academic Research Suite + PaperSpine mirror with sync-to-grok.sh and grok-adapters so a Grok Bot computer can run the same playbooks as Codex.",
             "zh": "ARS + PaperSpine 镜像：含 sync-to-grok.sh 与 grok-adapters，让 Grok Bot 电脑与 Codex 跑同一套学术剧本。",
             "ja": "ARS＋PaperSpine ミラー。sync-to-grok.sh と grok-adapters で Grok Bot コンピュータが Codex と同じプレイブックを実行。"
+          }
+        },
+        {
+          "title": "FOMO copy-trading Grok Bot with paper/live modes",
+          "url": "https://github.com/noam99moyal/fomo-live-bot",
+          "source": "GB-866",
+          "blurb": {
+            "en": "Documented Grok Bot template that hourly mirrors FOMO.family traders in paper or live mode with locked size/exits and mode stamps.",
+            "zh": "有文档的 Grok Bot 模板：按小时在纸面/实盘模式镜像 FOMO.family 交易者，仓位/出场锁定并盖 mode 戳。",
+            "ja": "Grok Bot テンプレ。FOMO.family を毎時ミラー（paper／live）。サイズ／決済固定と mode スタンプ付き。"
+          }
+        },
+        {
+          "title": "Job-search coverage log maintained by a Grok Bot",
+          "url": "https://github.com/duvida13/GROK-BOT",
+          "source": "GB-867",
+          "blurb": {
+            "en": "Day-dated finds/ job-search coverage machine maintained by a Job Search Grok Bot assistant with Live/watch honesty rules.",
+            "zh": "按日 finds/ 归档的求职覆盖日志，由 Job Search Grok Bot 助手维护，并带 Live/观察的诚实规则。",
+            "ja": "日付付き finds/ の求職カバレッジログ。Job Search Grok Bot が維持し、Live／watch の誠実ルール付き。"
+          }
+        },
+        {
+          "title": "Dated case-log console demo for Grok Bot computer-use",
+          "url": "https://github.com/liam-morrissy-cursor/jh-case-console-demo",
+          "source": "GB-868",
+          "blurb": {
+            "en": "Small dated case-log console sandbox aimed at Grok Bot computer-use demos (explicitly not a Jack Henry product).",
+            "zh": "面向 Grok Bot 电脑操作演示的小型按日案件日志控制台沙箱（明确非 Jack Henry 产品）。",
+            "ja": "Grok Bot のコンピュータ操作デモ用の日付付きケースログ・コンソール（Jack Henry 製品ではないと明記）。"
           }
         }
       ]
@@ -4404,6 +4524,96 @@
             "zh": "面向 Grok Bot 的 Cursor 格式插件：通过 So-me Studio MCP/OAuth 起草、上传媒体、发布与排期社媒帖。",
             "ja": "Grok Bot 向け Cursor 形式プラグイン。So-me Studio MCP/OAuth で下書き・メディア投稿・公開・スケジュール。"
           }
+        },
+        {
+          "title": "CosVoice hosted MCP: give Grok Bot a real phone number",
+          "url": "https://github.com/andyfathollahi/cosvoice-mcp",
+          "source": "GB-852",
+          "blurb": {
+            "en": "CosVoice Grok Bot plugin with hosted Streamable-HTTP MCP, OAuth-by-URL, SKILL.md, and .grok-plugin so a Bot gets its own phone line for calls, texts, and booking.",
+            "zh": "CosVoice Grok Bot 插件：托管 Streamable HTTP MCP、按 URL OAuth、SKILL.md 与 .grok-plugin，让 Bot 拥有自己的电话线路可通话、短信与订位。",
+            "ja": "CosVoice のホスト MCP＋OAuth／SKILL.md／.grok-plugin で、Grok Bot に通話・SMS・予約用の電話番号を持たせる。"
+          }
+        },
+        {
+          "title": "SoMerch company-merch planner plugin for Grok",
+          "url": "https://github.com/SoMerch/somerch-grok-plugin",
+          "source": "GB-853",
+          "blurb": {
+            "en": "Official SoMerch Grok plugin with .grok-plugin, remote MCP, and a company-merch planner SKILL for kits, gifting, and event merch.",
+            "zh": "SoMerch 官方 Grok 插件：含 .grok-plugin、远程 MCP 与公司周边策划 SKILL，覆盖入职礼盒、送礼与活动周边。",
+            "ja": "SoMerch 公式 Grok プラグイン。.grok-plugin・リモート MCP・入社キット／ギフト／イベント向け SKILL 付き。"
+          }
+        },
+        {
+          "title": "CoreOfDiscovery calibration plugin for Grok Bot",
+          "url": "https://github.com/SmokedMeats/coreofdiscovery-grok-plugin",
+          "source": "GB-854",
+          "blurb": {
+            "en": "Grok Bot/Build plugin that logs prediction claims to CoreOfDiscovery MCP, scores them, and reports calibration without storing data in-repo.",
+            "zh": "面向 Grok Bot/Build 的 CoreOfDiscovery 插件：经 MCP 记录预测主张、打分并报告校准，仓库内不存数据。",
+            "ja": "Grok Bot/Build 向け CoreOfDiscovery プラグイン。MCP で予測を記録・採点し校正を報告（リポジトリにデータなし）。"
+          }
+        },
+        {
+          "title": "Official Runway MCP plugin for Cursor and Grok Bot",
+          "url": "https://github.com/runwayml/runway-mcp-plugin",
+          "source": "GB-855",
+          "blurb": {
+            "en": "Official Runway plugin with .grok-plugin and skills so Grok Bot can generate images, video, and audio via Runway's hosted MCP.",
+            "zh": "Runway 官方插件：含 .grok-plugin 与 skills，让 Grok Bot 通过托管 MCP 生成图片、视频与音频。",
+            "ja": "Runway 公式プラグイン。.grok-plugin と skills で、Grok Bot がホスト MCP 経由で画像・動画・音声を生成。"
+          }
+        },
+        {
+          "title": "Official TellTell connector for Grok Bot",
+          "url": "https://github.com/TellTellApp/telltell-connector",
+          "source": "GB-856",
+          "blurb": {
+            "en": "Official TellTell Agent Plugins package so Grok Bot can manage People, teams, groups, fields, and tags via remote MCP.",
+            "zh": "TellTell 官方 Agent Plugins 包：让 Grok Bot 通过远程 MCP 管理 People、团队、分组、字段与标签。",
+            "ja": "TellTell 公式 Agent Plugins。リモート MCP で People／チーム／グループ／フィールドを Grok Bot から管理。"
+          }
+        },
+        {
+          "title": "Google Maps toolkit for a Grok Bot computer",
+          "url": "https://github.com/zechsmerquis/google-maps",
+          "source": "GB-857",
+          "blurb": {
+            "en": "Clone-on-box Google Maps kit for Grok Bot: stdlib Places Text Search script plus optional Maps Grounding Lite remote MCP.",
+            "zh": "给 Grok Bot 电脑用的 Google Maps 工具包：标准库 Places 文本搜索脚本，外加可选 Maps Grounding Lite 远程 MCP。",
+            "ja": "Grok Bot のコンピュータ向け Google Maps キット。stdlib の Places 検索スクリプト＋任意の Grounding Lite MCP。"
+          }
+        },
+        {
+          "title": "Ruta landscaping office MCP for Cursor and Grok Bot",
+          "url": "https://github.com/P163-Ruta/ruta-mcp-plugin",
+          "source": "GB-858",
+          "blurb": {
+            "en": "Ruta plugin so Cursor or Grok Bot can look up customers, schedule, dispatch, and messages after a normal Ruta office login.",
+            "zh": "Ruta 插件：用日常办公账号登录后，让 Cursor 或 Grok Bot 查询客户、排程、派工与消息。",
+            "ja": "Ruta プラグイン。通常のオフィスログイン後、Cursor／Grok Bot から顧客・予定・手配・メッセージを操作。"
+          }
+        },
+        {
+          "title": "Connections business MCP for Cursor and Grok Bot",
+          "url": "https://github.com/Lunarwerx/connections-cursor-plugin",
+          "source": "GB-859",
+          "blurb": {
+            "en": "Connections hosted MCP plugin for Cursor and Grok Bot: events, ticketing, contacts, Deal Flow, notes, and payments via OAuth.",
+            "zh": "Connections 托管 MCP 插件（Cursor / Grok Bot）：经 OAuth 做活动票务、联系人、Deal Flow、笔记与收款。",
+            "ja": "Connections のホスト MCP（Cursor／Grok Bot）。OAuth でイベント／チケット／連絡先／Deal Flow／メモ／決済。"
+          }
+        },
+        {
+          "title": "Anima identity MCP pack for Cursor and Grok Bot",
+          "url": "https://github.com/anima-labs-ai/anima-plugin",
+          "source": "GB-860",
+          "blurb": {
+            "en": "Anima multi-catalog plugin pack giving Grok Bot agent email, US phone/SMS, voice, vault, and MCP via console API keys.",
+            "zh": "Anima 多目录插件包：让 Grok Bot 通过控制台 API Key 使用代理邮箱、美国手机号/SMS、语音、保险库与 MCP。",
+            "ja": "Anima マルチカタログ。API キーで Grok Bot にエージェント用メール／米電話 SMS／音声／vault／MCP を付与。"
+          }
         }
       ]
     },
@@ -5944,6 +6154,56 @@
             "zh": "Home Assistant OS 插件：经 nginx 反代 mesh 上的 GrokBot gateway，可配置上游并可选注入鉴权。",
             "ja": "Home Assistant OS アドオン。メッシュ上の GrokBot gateway へ nginx リバースプロキシ（上流設定・任意認証注入）。"
           }
+        },
+        {
+          "title": "Cloudflare Worker companion for a Grok Bot Email inbox",
+          "url": "https://github.com/Northbound-Run/email-inbox-worker",
+          "source": "GB-861",
+          "blurb": {
+            "en": "Cloudflare Worker that cheap-triages Gmail Pub/Sub so an Email Grok Bot only wakes for To-Respond threads and drafts replies.",
+            "zh": "Cloudflare Worker：廉价分流 Gmail Pub/Sub，让 Email 版 Grok Bot 只在需回复线程唤醒并起草回复。",
+            "ja": "Gmail Pub/Sub を安価に振り分け、Email 用 Grok Bot が要返信スレッドだけ起きて下書きする Worker。"
+          }
+        },
+        {
+          "title": "Slack @Treq relay into a Treq Grok Bot webhook",
+          "url": "https://github.com/Spokane-Computer/treq-slack-relay",
+          "source": "GB-862",
+          "blurb": {
+            "en": "Cloudflare Worker that verifies Slack Events and forwards @Treq mentions/DMs to a Treq Grok Bot webhook.",
+            "zh": "Cloudflare Worker：校验 Slack Events，并把 @Treq 提及/私信转发到 Treq Grok Bot webhook。",
+            "ja": "Slack Events を検証し、@Treq のメンション／DM を Treq Grok Bot webhook へ転送する Worker。"
+          }
+        },
+        {
+          "title": "Self-hosted Grok Bot companion with custom models",
+          "url": "https://github.com/TroveXsc/grok-bot-free",
+          "source": "GB-863",
+          "blurb": {
+            "en": "Substantial companion to run Grok Bot UI with your own models, Docker/Linux desktop, and persisted bots, skills, and workspaces.",
+            "zh": "较完整的伴随项目：用自有模型跑 Grok Bot 界面，支持 Docker/Linux 桌面，并持久化 Bot、skills 与工作区。",
+            "ja": "独自モデルで Grok Bot UI を動かす伴走プロジェクト。Docker／Linux デスクトップと Bot／skills／作業領域の永続化。"
+          }
+        },
+        {
+          "title": "Local Ollama MCP side-channel for Grok Bot",
+          "url": "https://github.com/primal79/local-llm-mcp",
+          "source": "GB-864",
+          "blurb": {
+            "en": "Draft MCP server so Grok Bot can ask a LAN/Tailscale Ollama model for drafts and output-only DLP without replacing its cloud brain.",
+            "zh": "草稿 MCP：让 Grok Bot 经局域网/Tailscale 询问本地 Ollama 做草稿与仅输出 DLP，而不替换云端主脑。",
+            "ja": "下書き用 MCP。LAN／Tailscale の Ollama に聞き、出力のみ DLP。クラウドの主モデルは置き換えない。"
+          }
+        },
+        {
+          "title": "Localhost kanban across Claude, Codex, Cursor, and Grok Bot",
+          "url": "https://github.com/gmkbenjamin/agent-task-tracker",
+          "source": "GB-865",
+          "blurb": {
+            "en": "Local FastAPI + React kanban (optional pywebview shell) for tracking work across Claude Code, Codex, Cursor, Grok, and Grok Bot.",
+            "zh": "本地 FastAPI + React 看板（可选 pywebview）：跟踪 Claude Code、Codex、Cursor、Grok 与 Grok Bot 的任务。",
+            "ja": "ローカル FastAPI＋React 看板（任意で pywebview）。Claude Code／Codex／Cursor／Grok／Grok Bot の作業を追跡。"
+          }
         }
       ]
     },
@@ -7384,6 +7644,46 @@
             "zh": "Staff（Colin，2026-09-11）：Windows 应用内更新可能下载后 Authenticode 校验失败（安装包被删、版本不升）——多为杀软占用或校验过慢，不是签名本身坏了。变通：从 Cursor · Download Grok Bot 手动跑已签名 Setup.exe（可用 /S）；云电脑无需 Reset。可选：对下载的安装包跑 Get-AuthenticodeSignature 协助排查。",
             "ja": "Staff（Colin、2026-09-11）：Windows のアプリ内更新がダウンロード後 Authenticode 検証に失敗し（インストーラ削除・版が上がらない）ことがある。署名不良より AV のファイル保持や検証遅延が多い。回避策：Cursor · Download Grok Bot の署名済み Setup.exe を手動実行（/S 可）。Agent Computer の Reset は不要。任意で Get-AuthenticodeSignature 計測。"
           }
+        },
+        {
+          "title": "Desktop reconnect re-sync wipes secure-card secrets",
+          "url": "https://forum.cursor.com/t/grok-bot-box-secrets-wiped-on-desktop-reconnect-mipp-api-keys-production-blocker/171280",
+          "source": "GB-880",
+          "blurb": {
+            "en": "Staff (deanrie): After sleep/drop/quit-reopen, desktop re-sync of the secrets list overwrites values saved via the secure in-chat card—Update/Reset/reinstall won’t help. Workaround: store keys in the Bot’s agent folder on the computer (less secure) until fixed.",
+            "zh": "Staff（deanrie）：休眠/断线/退出重开后，桌面端会把 secrets 列表重新同步并覆盖安全卡片写入的值——Update/Reset/重装无效。权宜：先把密钥存到电脑上该 Bot 的 agent 目录（安全性较低）直至修复。",
+            "ja": "Staff（deanrie）：スリープ/切断/終了再起動後、デスクトップが secrets 一覧を再同期し、セキュアカードで保存した値を上書きする。Update/Reset/再インストールは無効。回避策：修正までコンピュータ上の Bot agent フォルダにキーを置く（安全性は低い）。"
+          }
+        },
+        {
+          "title": "Hung custom MCP remotes: delete via cursor.com/agents",
+          "url": "https://forum.cursor.com/t/grok-bot-hung-custom-mcp-remotes-are-invisible-in-plugins-yours-and-uninstall-also-times-out-discovery-catch-22/168350",
+          "source": "GB-881",
+          "blurb": {
+            "en": "Staff (mohitjain): One hung custom HTTP MCP remote can stall discovery so Plugins→Yours never lists it and Uninstall times out. Self-serve fix: open cursor.com/agents → + → MCP Servers → Delete user config on that remote (works even while discovery hangs).",
+            "zh": "Staff（mohitjain）：一个卡住的自定义 HTTP MCP 远程可拖垮发现，Plugins→Yours 不显示且卸载超时。自助：打开 cursor.com/agents → + → MCP Servers → 对该远程 Delete user config（发现卡住时仍可用）。",
+            "ja": "Staff（mohitjain）：ハングしたカスタム HTTP MCP リモート1つで discovery が止まり、Plugins→Yours に出ず Uninstall もタイムアウト。自助：cursor.com/agents → + → MCP Servers → その remote の Delete user config（discovery 停止中でも可）。"
+          }
+        },
+        {
+          "title": "Unreachable from Bot OOM / parallel fan-out",
+          "url": "https://forum.cursor.com/t/grok-bot-computer-unreachable-again-recurring-backend-failure-after-multiple-repairs/170722",
+          "source": "GB-882",
+          "blurb": {
+            "en": "Staff (mohitjain): Recurring unreachable can be Agent Computer OOM when a Bot spins too many parallel processes—not your network. Prevention: worker concurrency 1 on production paths, no mass-resume after rematerialize, batch large fan-outs; avoid Reset while support restores.",
+            "zh": "Staff（mohitjain）：反复 unreachable 可能是 Bot 拉起过多并行进程导致 Agent Computer OOM——不是网络问题。预防：生产路径 worker 并发设 1、rematerialize 后勿批量恢复空闲窗、大扇出分批；支持恢复期间勿 Reset。",
+            "ja": "Staff（mohitjain）：繰り返し unreachable は Bot が並列プロセス過多で Agent Computer が OOM した可能性（ネットワークではない）。予防：本番は worker concurrency 1、rematerialize 後の一括再開禁止、大きな fan-out は分割。サポート復旧中は Reset しない。"
+          }
+        },
+        {
+          "title": "Authentication error banner → Update Grok Bot’s Computer",
+          "url": "https://forum.cursor.com/t/grok-bot-macos-0-44-0-persistent-authentication-error-after-sign-out-sign-in/171164",
+          "source": "GB-883",
+          "blurb": {
+            "en": "Staff (Colin): Persistent “Authentication error / try logging out” can be an outdated Agent Computer build after a backend change—accounts are fine; skip sign-out/reinstall. Fix: Settings → Updates → Update Grok Bot’s Computer, then reopen and send a message.",
+            "zh": "Staff（Colin）：一直出现「Authentication error / try logging out」可能是后端变更后 Agent Computer 镜像过旧——账号没问题，别反复登出/重装。处理：Settings → Updates → Update Grok Bot’s Computer，再打开发一条消息。",
+            "ja": "Staff（Colin）：「Authentication error / try logging out」が続くのはバックエンド変更後に Agent Computer が古い場合がある。アカウントは問題なく、サインアウト/再インストールは不要。Settings → Updates → Update Grok Bot’s Computer して再起動し送信。"
+          }
         }
       ]
     },
@@ -8353,6 +8653,26 @@
             "en": "Independent educational study reconstructing Grok Bot–inspired character animation (eyes, idle, springs) for research; not affiliated with xAI.",
             "zh": "独立教育研究：复现受 Grok Bot 启发的角色动画（眼睛、idle、弹簧），与 xAI 无关。",
             "ja": "Grok Bot 着想のキャラクター・アニメ研究（目・idle・スプリング）。教育目的、xAI 非公式。"
+          }
+        },
+        {
+          "title": "Cel-mecha TV anime avatar pack for Grok Bot desks",
+          "url": "https://github.com/mikeredmer/grok-bot-cel-mecha-avatars",
+          "source": "GB-869",
+          "blurb": {
+            "en": "Public pack of 23 square cel-mecha busts (PNG+GIF) for Grok Bot profile pictures and desk seats.",
+            "zh": "公开的 23 张方图赛璐璐机甲半身像（PNG+GIF），用作 Grok Bot 头像与工位形象。",
+            "ja": "Grok Bot のプロフィール／デスク用、セル画風メカ胸像 23 点（PNG＋GIF）の公開パック。"
+          }
+        },
+        {
+          "title": "Bloub SVG avatar recreation for Mendoza Grok Bot meetup",
+          "url": "https://github.com/MatiasBoldrini/bloub",
+          "source": "GB-870",
+          "blurb": {
+            "en": "SVG recreation of the x.ai bot avatar with morphing states, built for the Mendoza Grok Bot meetup page.",
+            "zh": "x.ai Bot 头像的 SVG 复刻（可变形状态），用于 Mendoza Grok Bot 线下活动页。",
+            "ja": "x.ai ボットアバターの SVG 再現（モーフ状態付き）。Mendoza の Grok Bot ミートアップ向け。"
           }
         }
       ]
