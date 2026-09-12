@@ -874,6 +874,36 @@
             "zh": "官方 x.ai Bot Marketplace 营销分类：可浏览并安装营销向 Bot（SEO/AEO Desk、Image Gen Bot、Clip Bot、Human Copywriter、AI Search Visibility 等），含连接器与例程。",
             "ja": "公式 x.ai Bot Marketplace の Marketing カテゴリ：SEO/AEO Desk、Image Gen Bot、Clip Bot、Human Copywriter、AI Search Visibility など、コネクタとルーチン付きのマーケ Bot を追加できる。"
           }
+        },
+        {
+          "title": "Bot Marketplace · Personal category (x.ai)",
+          "url": "https://x.ai/bot/marketplace/personal",
+          "source": "GB-924",
+          "blurb": {
+            "en": "Official x.ai Bot Marketplace Personal category: installable public Bots for everyday life (credit-card max, home robots, plant care, morning newspaper, outbound calls, and more).",
+            "zh": "官方 x.ai Bot Marketplace Personal 分类：面向日常生活的可安装公开 Bot（信用卡积分、家用机器人、植物养护、晨报、外呼等）。",
+            "ja": "公式 x.ai Bot Marketplace の Personal カテゴリ：日常向けの公開インストール Bot（クレカ最適化、家庭用ロボット、植物ケア、朝刊、外線発信など）。"
+          }
+        },
+        {
+          "title": "Bot Marketplace · Operations category (x.ai)",
+          "url": "https://x.ai/bot/marketplace/operations",
+          "source": "GB-925",
+          "blurb": {
+            "en": "Official x.ai Bot Marketplace Operations category: installable public Bots for office ops, event requests, executive assistance, and org design/governance (Alfred).",
+            "zh": "官方 x.ai Bot Marketplace Operations 分类：面向办公运营、活动邀约评审、行政助理与组织治理（Alfred）的可安装公开 Bot。",
+            "ja": "公式 x.ai Bot Marketplace の Operations カテゴリ：オフィス運用・イベント依頼審査・EA・組織設計/ガバナンス（Alfred）向けの公開インストール Bot。"
+          }
+        },
+        {
+          "title": "Bot Marketplace · Recruiting & People category (x.ai)",
+          "url": "https://x.ai/bot/marketplace/recruiting-people",
+          "source": "GB-926",
+          "blurb": {
+            "en": "Official x.ai Bot Marketplace Recruiting & People category (slug recruiting-people): installable public Bots for interview-loop coordination and talent discovery.",
+            "zh": "官方 x.ai Bot Marketplace Recruiting & People 分类（slug：recruiting-people）：面向面试排程协调与人才发现的可安装公开 Bot。",
+            "ja": "公式 x.ai Bot Marketplace の Recruiting & People カテゴリ（slug: recruiting-people）：面接ループ調整とタレント発掘向けの公開インストール Bot。"
+          }
         }
       ]
     },
@@ -4844,6 +4874,36 @@
             "zh": "数据工程知识捕获第二大脑：血缘、medallion 与语义层，含 Grok Bot host skill。",
             "ja": "系譜・メダリオン・セマンティック層向け Data Engineering Knowledge Capture。Grok Bot host スキル付き。"
           }
+        },
+        {
+          "title": "Open Dynamic Workflows plugin for Cursor and Grok Bot",
+          "url": "https://github.com/atebites-hub/open-dynamic-workflows-plugin",
+          "source": "GB-914",
+          "blurb": {
+            "en": "ODW plugin with .grok-plugin packaging and ODW_HOST=grok-bot so Grok Bot fans JS workflows across Cursor CLI workers on its cloud computer.",
+            "zh": "带 .grok-plugin 与 ODW_HOST=grok-bot 的 ODW 插件，让 Grok Bot 在云电脑上用 Cursor CLI worker 并行跑 JS 工作流。",
+            "ja": ".grok-plugin と ODW_HOST=grok-bot 対応の ODW。Grok Bot のクラウド PC 上で Cursor CLI worker に JS ワークフローを扇状実行。"
+          }
+        },
+        {
+          "title": "illo illustration skill with Add-to-Grok-Bot template",
+          "url": "https://github.com/tmchow/illo-skill",
+          "source": "GB-915",
+          "blurb": {
+            "en": "illo Agent Skill (★374) ships .grok-plugin plus an official x.ai Bot template—tap Add to Grok Bot for editorial mascot illustrations.",
+            "zh": "illo Agent Skill（★374）含 .grok-plugin 与官方 x.ai Bot 模板，一键 Add to Grok Bot 即可做编辑向吉祥物插画。",
+            "ja": "illo Agent Skill（★374）。.grok-plugin と公式 x.ai Bot テンプレ付きで、Add to Grok Bot から編集風マスコット挿絵。"
+          }
+        },
+        {
+          "title": "X1 capital-call skills with Grok Bot profile",
+          "url": "https://github.com/x1wealth/x1-agent-skills",
+          "source": "GB-916",
+          "blurb": {
+            "en": "Open-source X1 family-office skills plus GROK_BOT_PROFILE.md so a Grok Bot can run capital-call review over Custom MCP without moving money.",
+            "zh": "开源 X1 家族办公室 skill，附 GROK_BOT_PROFILE.md：Grok Bot 经 Custom MCP 做资本催缴审阅，且不会擅自动款。",
+            "ja": "オープンな X1 家族事務所スキルと GROK_BOT_PROFILE.md。Custom MCP 経由で資本コール審査を Grok Bot が担い、送金はしない。"
+          }
         }
       ]
     },
@@ -6443,6 +6503,16 @@
             "en": "Open-source Grok-Bot-style personal remote browser agent: phone chat drives signed-in Chrome on your Mac with human takeover for 2FA.",
             "zh": "开源 Grok Bot 风格个人远程浏览器智能体：手机聊天驱动本机已登录 Chrome，2FA 时可人工接管。",
             "ja": "Grok Bot 風の個人リモートブラウザエージェント。スマホチャットで Mac 上のログイン済み Chrome を操作し、2FA は人が接管。"
+          }
+        },
+        {
+          "title": "Openlaw always-on policy for Cursor Grok Bot",
+          "url": "https://github.com/mattstyles333/openlaw",
+          "source": "GB-917",
+          "blurb": {
+            "en": "Git-markdown always-on law for agents, with a Cursor Grok Bot attach path and grok-bot-export → Hermes migration helpers.",
+            "zh": "面向智能体的 Git Markdown 常驻法则，含 Cursor Grok Bot 挂载路径与 grok-bot-export→Hermes 迁移辅助。",
+            "ja": "エージェント向け Git Markdown 常駐ロー。Cursor Grok Bot 取り付け手順と grok-bot-export→Hermes 移行ヘルパー付き。"
           }
         }
       ]
@@ -8973,6 +9043,66 @@
             "en": "Zero-dependency SVG emotion engine (32 states) for AI assistants and desktop pets, tagged for Grok Bot avatar desks.",
             "zh": "零依赖 SVG 表情引擎（32 状态），可用于 AI 助手/桌宠，带 grok-bot 话题标签，适合 Grok Bot 桌面形象。",
             "ja": "依存ゼロの SVG 表情エンジン（32 状態）。AI 助手／デスクトップペット向けで、grok-bot トピック付き。"
+          }
+        },
+        {
+          "title": "Interactive org map for a Grok Bot team",
+          "url": "https://github.com/dhivagar29/bot-org-map",
+          "source": "GB-918",
+          "blurb": {
+            "en": "Next.js public roster map for Dhivagar’s Grok Bot team—Doug as Chief of Staff over six desks, no private agent IDs.",
+            "zh": "Dhivagar 的 Grok Bot 团队公开花名册地图（Next.js）：Doug 任 CoS，六张办公桌，不含私密 agent ID。",
+            "ja": "Dhivagar の Grok Bot チーム公開名簿マップ（Next.js）。Doug を CoS に六デスク、非公開 agent ID なし。"
+          }
+        },
+        {
+          "title": "Grok-Moment localhost frames for GrokBot Macao",
+          "url": "https://github.com/kazue22-mind/Grok-Moment",
+          "source": "GB-919",
+          "blurb": {
+            "en": "Localhost photo-frame editor for GrokBot Macao members—film frames and GrokBot stickers, photos never leave the machine.",
+            "zh": "面向 GrokBot Macao 成员的本机相框编辑器：胶片框与 GrokBot 贴纸，照片不离开本机。",
+            "ja": "GrokBot Macao 向けローカル写真フレーム編集。フィルム枠と GrokBot ステッカー、写真は端末外に出ない。"
+          }
+        },
+        {
+          "title": "BotWorkspace — macOS workspace for named AI teammates",
+          "url": "https://github.com/Rojios/GrokBot",
+          "source": "GB-920",
+          "blurb": {
+            "en": "Independent open-source native macOS BotWorkspace for named AI teammates (SwiftUI); explicitly not official Grok Bot, informed by the product.",
+            "zh": "独立开源的原生 macOS BotWorkspace（SwiftUI）面向具名 AI 队友；明确非官方 Grok Bot，但受该产品启发。",
+            "ja": "名前付き AI チームメイト向けの独立 OSS ネイティブ macOS BotWorkspace（SwiftUI）。公式 Grok Bot ではなく着想のみ。"
+          }
+        },
+        {
+          "title": "SmolVM — persistent computers to build your own Grokbot",
+          "url": "https://github.com/CelestoAI/SmolVM",
+          "source": "GB-921",
+          "blurb": {
+            "en": "Secure persistent agent computers (★901) marketed to build your own Grokbot—browser/code sandboxes for long-running teammates.",
+            "zh": "安全持久的智能体电脑（★901），定位「自建 Grokbot」：给长跑队友用的浏览器/代码沙箱。",
+            "ja": "安全な永続エージェント PC（★901）。自前 Grokbot 向けで、長時間チームメイト用ブラウザ／コードサンドボックス。"
+          }
+        },
+        {
+          "title": "crushbot — Charm Crush bot roster like Grok Bot",
+          "url": "https://github.com/hocoder-agents/crush-bot",
+          "source": "GB-922",
+          "blurb": {
+            "en": "Terminal bot mesh on Charm Crush with soul.md specialists that DM and hand off—positioned as like Grok Bot or Hermes, but crushy.",
+            "zh": "基于 Charm Crush 的终端 Bot 花名册：soul.md 专员互发与交接，自我定位为像 Grok Bot / Hermes 但更 crushy。",
+            "ja": "Charm Crush 上の端末 Bot ロスター。soul.md 専門家が DM／引き継ぎし、Grok Bot や Hermes 風だが crushy と自称。"
+          }
+        },
+        {
+          "title": "Hermes Bot Mode starters mapped from Grok Bot roles",
+          "url": "https://github.com/0xNyk/hermes-bot-starter",
+          "source": "GB-923",
+          "blurb": {
+            "en": "Hermes Agent Bot Mode starter templates with docs mapping Grok Bot roles/primitives onto Hermes profiles (not a Grok Bot export).",
+            "zh": "Hermes Agent Bot Mode 入门模板，文档把 Grok Bot 角色/原语映射到 Hermes profile（不是 Grok Bot 导出包）。",
+            "ja": "Hermes Agent Bot Mode スターター。Grok Bot の役割／原語を Hermes プロファイルへ写す文書付き（エクスポート本体ではない）。"
           }
         }
       ]
@@ -13441,6 +13571,37 @@
         "en": "Register on Luma (host approval) →",
         "zh": "去 Luma 报名（需审核）→",
         "ja": "Luma で申し込む（主催者承認）→"
+      }
+    },
+    {
+      "id": "lun-20261002",
+      "url": "https://luma.com/spacexai-ol65",
+      "image": "./assets/events/lun-20261002-cover.png",
+      "expires": "2026-10-02T14:00:00+02:00",
+      "title": {
+        "en": "Grok Bot Meetup Lusaka",
+        "zh": "Grok Bot 卢萨卡线下交流",
+        "ja": "Grok Bot Meetup Lusaka"
+      },
+      "when": {
+        "en": "Fri 2 Oct 2026, 09:00–14:00 (Africa/Maputo / CAT, UTC+2)",
+        "zh": "2026-10-02 周五 09:00–14:00（非洲/马普托 CAT，UTC+2）",
+        "ja": "2026-10-02（金）09:00–14:00（Africa/Maputo、CAT、UTC+2）"
+      },
+      "where": {
+        "en": "Lusaka, Zambia · venue TBA (details after register)",
+        "zh": "赞比亚卢萨卡 · 场地待定（报名后可见）",
+        "ja": "ザンビア・ルサカ · 会場未定（登録後に案内）"
+      },
+      "body": {
+        "en": "SpaceXAI Zambia / SpaceXAI for Lusaka hands-on meetup (host Lloyd situmbeko). Product copy: Grok Bot as an AI co-worker that logs into your tools and finishes real work. Live demo (real tools/tasks, not slides), Grok Bot credits for on-site trials, open build time, networking with food & drinks. Free; approval required; ~70 seats; guest_count 0 at scan. Event geo blank on Luma (calendar city Lusaka, ZM). NEW vs midday discover.",
+        "zh": "SpaceXAI Zambia / SpaceXAI for Lusaka 动手局（主办 Lloyd situmbeko）。产品文案：Grok Bot 是可登录你工具、把活干完的 AI 同事。现场真工具演示（非幻灯）、现场试用积分、开放 build、餐饮 networking。免费，需审核；约 70 席；扫描时报名 0。Luma 活动页无具体地址（日历城市卢萨卡 ZM）。相对 midday discover 新增。",
+        "ja": "SpaceXAI Zambia / SpaceXAI for Lusaka のハンズオンMeetup（主催 Lloyd situmbeko）。Grok Bot はツールにログインして実作業を完了する AI 同僚、という製品コピー。ライブデモ・クレジット・オープンビルド・飲食ネットワーキング。無料・承認制・約70席。スキャン時 0 名。会場は登録後。midday discover 比で新規。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
       }
     }
   ]

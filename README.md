@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-889-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-902-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -67,6 +67,7 @@
 - **Netherlands**（1）：[Amsterdam](./EVENTS.md#ams-20260922)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
 - **Togo**（1）：[Lomé](./EVENTS.md#lfw-20260912)
+- **Zambia**（1）：[Lusaka](./EVENTS.md#lun-20261002)
 
 ## Contents
 
@@ -168,6 +169,9 @@
 - [Bot Marketplace · Design category (x.ai)](https://x.ai/bot/marketplace/design) - Official x.ai Bot Marketplace Design category: browse installable design Bots (Imogen, Figma Bro, Critiquito, Sable Game Art, and more) with connectors and routines ready to add.
 - [Bot Marketplace · Engineering category (x.ai)](https://x.ai/bot/marketplace/engineering) - Official x.ai Bot Marketplace Engineering category: browse installable engineering Bots (Projects Manager, Researchy, Engineer Bot, Tinkabot, Nightly Audit Engineer, and more) with connectors and routines ready to add.
 - [Bot Marketplace · Marketing category (x.ai)](https://x.ai/bot/marketplace/marketing) - Official x.ai Bot Marketplace Marketing category: browse installable marketing Bots (SEO/AEO Desk, Image Gen Bot, Clip Bot, Human Copywriter, AI Search Visibility, and more) with connectors and routines ready to add.
+- [Bot Marketplace · Personal category (x.ai)](https://x.ai/bot/marketplace/personal) - Official x.ai Bot Marketplace Personal category: installable public Bots for everyday life (credit-card max, home robots, plant care, morning newspaper, outbound calls, and more).
+- [Bot Marketplace · Operations category (x.ai)](https://x.ai/bot/marketplace/operations) - Official x.ai Bot Marketplace Operations category: installable public Bots for office ops, event requests, executive assistance, and org design/governance (Alfred).
+- [Bot Marketplace · Recruiting & People category (x.ai)](https://x.ai/bot/marketplace/recruiting-people) - Official x.ai Bot Marketplace Recruiting & People category (slug recruiting-people): installable public Bots for interview-loop coordination and talent discovery.
 
 ## Tutorials & Guides
 
@@ -571,6 +575,9 @@
 - [Spillwave research-graph projector for Grok Bot](https://github.com/SpillwaveSolutions/research-graph) - Layer-1 projector from RKC OKF into an agent brain with Grok Bot host skill; isolation session, no noun writes.
 - [Spillwave project-knowledge-capture for Grok Bot](https://github.com/SpillwaveSolutions/project-knowledge-capture) - Project Knowledge Capture ContentPack to turn meetings and decisions into OKF graphs with Grok Bot host skill.
 - [Spillwave DEKC data-platform pack for Grok Bot](https://github.com/SpillwaveSolutions/data-engineering-knowledge-capture) - Data Engineering Knowledge Capture second brain for lineage, medallion, and semantic layers with Grok Bot host skill.
+- [Open Dynamic Workflows plugin for Cursor and Grok Bot](https://github.com/atebites-hub/open-dynamic-workflows-plugin) - ODW plugin with .grok-plugin packaging and ODW_HOST=grok-bot so Grok Bot fans JS workflows across Cursor CLI workers on its cloud computer.
+- [illo illustration skill with Add-to-Grok-Bot template](https://github.com/tmchow/illo-skill) - illo Agent Skill (★374) ships .grok-plugin plus an official x.ai Bot template—tap Add to Grok Bot for editorial mascot illustrations.
+- [X1 capital-call skills with Grok Bot profile](https://github.com/x1wealth/x1-agent-skills) - Open-source X1 family-office skills plus GROK_BOT_PROFILE.md so a Grok Bot can run capital-call review over Custom MCP without moving money.
 
 ## Reviews & Comparisons
 
@@ -735,6 +742,7 @@
 - [Local Ollama MCP side-channel for Grok Bot](https://github.com/primal79/local-llm-mcp) - Draft MCP server so Grok Bot can ask a LAN/Tailscale Ollama model for drafts and output-only DLP without replacing its cloud brain.
 - [Localhost kanban across Claude, Codex, Cursor, and Grok Bot](https://github.com/gmkbenjamin/agent-task-tracker) - Local FastAPI + React kanban (optional pywebview shell) for tracking work across Claude Code, Codex, Cursor, Grok, and Grok Bot.
 - [Browser Bot — Grok-Bot-style remote browser agent](https://github.com/snoopyrain/browser-bot-oss) - Open-source Grok-Bot-style personal remote browser agent: phone chat drives signed-in Chrome on your Mac with human takeover for 2FA.
+- [Openlaw always-on policy for Cursor Grok Bot](https://github.com/mattstyles333/openlaw) - Git-markdown always-on law for agents, with a Cursor Grok Bot attach path and grok-bot-export → Hermes migration helpers.
 
 ## Community & Failure Modes
 
@@ -992,10 +1000,16 @@
 - [Rome agent OS — open alternative to Grok Bot](https://github.com/rome-os/rome) - Compounding open-source agent OS positioned as an alternative to Grok Bot and Meta Muse for recursive agents.
 - [Sora — BYO-key cloud-computer teammates](https://github.com/Charlsz/sora) - Open-source AI teammates with a cloud computer (E2B), bring-your-own model keys, and Watch/Open desktop chrome inspired by Grok Bot.
 - [Emotion Ball avatar engine (grok-bot topic)](https://github.com/sam70361/aora-bot) - Zero-dependency SVG emotion engine (32 states) for AI assistants and desktop pets, tagged for Grok Bot avatar desks.
+- [Interactive org map for a Grok Bot team](https://github.com/dhivagar29/bot-org-map) - Next.js public roster map for Dhivagar’s Grok Bot team—Doug as Chief of Staff over six desks, no private agent IDs.
+- [Grok-Moment localhost frames for GrokBot Macao](https://github.com/kazue22-mind/Grok-Moment) - Localhost photo-frame editor for GrokBot Macao members—film frames and GrokBot stickers, photos never leave the machine.
+- [BotWorkspace — macOS workspace for named AI teammates](https://github.com/Rojios/GrokBot) - Independent open-source native macOS BotWorkspace for named AI teammates (SwiftUI); explicitly not official Grok Bot, informed by the product.
+- [SmolVM — persistent computers to build your own Grokbot](https://github.com/CelestoAI/SmolVM) - Secure persistent agent computers (★901) marketed to build your own Grokbot—browser/code sandboxes for long-running teammates.
+- [crushbot — Charm Crush bot roster like Grok Bot](https://github.com/hocoder-agents/crush-bot) - Terminal bot mesh on Charm Crush with soul.md specialists that DM and hand off—positioned as like Grok Bot or Hermes, but crushy.
+- [Hermes Bot Mode starters mapped from Grok Bot roles](https://github.com/0xNyk/hermes-bot-starter) - Hermes Agent Bot Mode starter templates with docs mapping Grok Bot roles/primitives onto Hermes profiles (not a Grok Bot export).
 
 ## Contributing
 
-889 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+902 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

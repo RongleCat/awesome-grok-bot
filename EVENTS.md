@@ -305,3 +305,9 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="lfw-20260912"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-ec8v"><img src="./assets/events/lfw-20260912-cover.png" alt="Grok Bot Meetup Lomé" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Lomé</strong><br />Sat 12 Sep 2026, 09:00–13:00 (GMT)<br />Institut Français du Togo, Lomé<br /><br />In-person Grok Bot meetup in Lomé. Free, waitlist open, 198 seats left.<br /><br /><a href="https://luma.com/cursor-ec8v"><strong>Register on Luma →</strong></a></td></tr></table>
+
+<a id="country-zm"></a>
+### Zambia
+
+<a id="lun-20261002"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-ol65"><img src="./assets/events/lun-20261002-cover.png" alt="Grok Bot Meetup Lusaka" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Lusaka</strong><br />Fri 2 Oct 2026, 09:00–14:00 (Africa/Maputo / CAT, UTC+2)<br />Lusaka, Zambia · venue TBA (details after register)<br /><br />SpaceXAI Zambia / SpaceXAI for Lusaka hands-on meetup (host Lloyd situmbeko). Product copy: Grok Bot as an AI co-worker that logs into your tools and finishes real work. Live demo (real tools/tasks, not slides), Grok Bot credits for on-site trials, open build time, networking with food & drinks. Free; approval required; ~70 seats; guest_count 0 at scan. Event geo blank on Luma (calendar city Lusaka, ZM). NEW vs midday discover.<br /><br /><a href="https://luma.com/spacexai-ol65"><strong>Register on Luma → →</strong></a></td></tr></table>

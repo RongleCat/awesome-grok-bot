@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-889-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-902-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -67,6 +67,7 @@
 - **オランダ**（1）：[アムステルダム](./EVENTS.ja.md#ams-20260922)
 - **フィリピン**（1）：[セブ](./EVENTS.ja.md#ceb-20260919)
 - **トーゴ**（1）：[ロメ](./EVENTS.ja.md#lfw-20260912)
+- **ザンビア**（1）：[ルサカ](./EVENTS.ja.md#lun-20261002)
 
 ## 目次
 
@@ -168,6 +169,9 @@
 - [Bot Marketplace · Design category (x.ai)](https://x.ai/bot/marketplace/design) - 公式 x.ai Bot Marketplace の Design カテゴリ：Imogen、Figma Bro、Critiquito、Sable Game Art など、コネクタとルーチン付きのデザイン Bot を追加できる。
 - [Bot Marketplace · Engineering category (x.ai)](https://x.ai/bot/marketplace/engineering) - 公式 x.ai Bot Marketplace の Engineering カテゴリ：Projects Manager、Researchy、Engineer Bot、Tinkabot、Nightly Audit Engineer など、コネクタとルーチン付きのエンジニアリング Bot を追加できる。
 - [Bot Marketplace · Marketing category (x.ai)](https://x.ai/bot/marketplace/marketing) - 公式 x.ai Bot Marketplace の Marketing カテゴリ：SEO/AEO Desk、Image Gen Bot、Clip Bot、Human Copywriter、AI Search Visibility など、コネクタとルーチン付きのマーケ Bot を追加できる。
+- [Bot Marketplace · Personal category (x.ai)](https://x.ai/bot/marketplace/personal) - 公式 x.ai Bot Marketplace の Personal カテゴリ：日常向けの公開インストール Bot（クレカ最適化、家庭用ロボット、植物ケア、朝刊、外線発信など）。
+- [Bot Marketplace · Operations category (x.ai)](https://x.ai/bot/marketplace/operations) - 公式 x.ai Bot Marketplace の Operations カテゴリ：オフィス運用・イベント依頼審査・EA・組織設計/ガバナンス（Alfred）向けの公開インストール Bot。
+- [Bot Marketplace · Recruiting & People category (x.ai)](https://x.ai/bot/marketplace/recruiting-people) - 公式 x.ai Bot Marketplace の Recruiting & People カテゴリ（slug: recruiting-people）：面接ループ調整とタレント発掘向けの公開インストール Bot。
 
 ## チュートリアルとガイド
 
@@ -571,6 +575,9 @@
 - [Spillwave research-graph projector for Grok Bot](https://github.com/SpillwaveSolutions/research-graph) - RKC OKF からエージェント脳への Layer-1 プロジェクタ。Grok Bot host スキル、隔離セッション、名詞書き込みなし。
 - [Spillwave project-knowledge-capture for Grok Bot](https://github.com/SpillwaveSolutions/project-knowledge-capture) - 会議・意思決定を OKF グラフ化する Project Knowledge Capture。Grok Bot host スキル付き。
 - [Spillwave DEKC data-platform pack for Grok Bot](https://github.com/SpillwaveSolutions/data-engineering-knowledge-capture) - 系譜・メダリオン・セマンティック層向け Data Engineering Knowledge Capture。Grok Bot host スキル付き。
+- [Open Dynamic Workflows plugin for Cursor and Grok Bot](https://github.com/atebites-hub/open-dynamic-workflows-plugin) - .grok-plugin と ODW_HOST=grok-bot 対応の ODW。Grok Bot のクラウド PC 上で Cursor CLI worker に JS ワークフローを扇状実行。
+- [illo illustration skill with Add-to-Grok-Bot template](https://github.com/tmchow/illo-skill) - illo Agent Skill（★374）。.grok-plugin と公式 x.ai Bot テンプレ付きで、Add to Grok Bot から編集風マスコット挿絵。
+- [X1 capital-call skills with Grok Bot profile](https://github.com/x1wealth/x1-agent-skills) - オープンな X1 家族事務所スキルと GROK_BOT_PROFILE.md。Custom MCP 経由で資本コール審査を Grok Bot が担い、送金はしない。
 
 ## レビューと比較
 
@@ -735,6 +742,7 @@
 - [Local Ollama MCP side-channel for Grok Bot](https://github.com/primal79/local-llm-mcp) - 下書き用 MCP。LAN／Tailscale の Ollama に聞き、出力のみ DLP。クラウドの主モデルは置き換えない。
 - [Localhost kanban across Claude, Codex, Cursor, and Grok Bot](https://github.com/gmkbenjamin/agent-task-tracker) - ローカル FastAPI＋React 看板（任意で pywebview）。Claude Code／Codex／Cursor／Grok／Grok Bot の作業を追跡。
 - [Browser Bot — Grok-Bot-style remote browser agent](https://github.com/snoopyrain/browser-bot-oss) - Grok Bot 風の個人リモートブラウザエージェント。スマホチャットで Mac 上のログイン済み Chrome を操作し、2FA は人が接管。
+- [Openlaw always-on policy for Cursor Grok Bot](https://github.com/mattstyles333/openlaw) - エージェント向け Git Markdown 常駐ロー。Cursor Grok Bot 取り付け手順と grok-bot-export→Hermes 移行ヘルパー付き。
 
 ## コミュニティと障害事例
 
@@ -992,10 +1000,16 @@
 - [Rome agent OS — open alternative to Grok Bot](https://github.com/rome-os/rome) - 再帰エージェント向けのオープンソース agent OS。Grok Bot や Meta Muse の代替として位置づけ。
 - [Sora — BYO-key cloud-computer teammates](https://github.com/Charlsz/sora) - クラウドコンピュータ（E2B）付きの OSS AI チームメイト。BYO キーと Watch/Open UI で Grok Bot 系体験を再現。
 - [Emotion Ball avatar engine (grok-bot topic)](https://github.com/sam70361/aora-bot) - 依存ゼロの SVG 表情エンジン（32 状態）。AI 助手／デスクトップペット向けで、grok-bot トピック付き。
+- [Interactive org map for a Grok Bot team](https://github.com/dhivagar29/bot-org-map) - Dhivagar の Grok Bot チーム公開名簿マップ（Next.js）。Doug を CoS に六デスク、非公開 agent ID なし。
+- [Grok-Moment localhost frames for GrokBot Macao](https://github.com/kazue22-mind/Grok-Moment) - GrokBot Macao 向けローカル写真フレーム編集。フィルム枠と GrokBot ステッカー、写真は端末外に出ない。
+- [BotWorkspace — macOS workspace for named AI teammates](https://github.com/Rojios/GrokBot) - 名前付き AI チームメイト向けの独立 OSS ネイティブ macOS BotWorkspace（SwiftUI）。公式 Grok Bot ではなく着想のみ。
+- [SmolVM — persistent computers to build your own Grokbot](https://github.com/CelestoAI/SmolVM) - 安全な永続エージェント PC（★901）。自前 Grokbot 向けで、長時間チームメイト用ブラウザ／コードサンドボックス。
+- [crushbot — Charm Crush bot roster like Grok Bot](https://github.com/hocoder-agents/crush-bot) - Charm Crush 上の端末 Bot ロスター。soul.md 専門家が DM／引き継ぎし、Grok Bot や Hermes 風だが crushy と自称。
+- [Hermes Bot Mode starters mapped from Grok Bot roles](https://github.com/0xNyk/hermes-bot-starter) - Hermes Agent Bot Mode スターター。Grok Bot の役割／原語を Hermes プロファイルへ写す文書付き（エクスポート本体ではない）。
 
 ## 貢献
 
-8 セクションに 889 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 902 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

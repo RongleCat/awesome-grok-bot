@@ -305,3 +305,9 @@
 
 <a id="lfw-20260912"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-ec8v"><img src="./assets/events/lfw-20260912-cover.png" alt="Grok Bot Meetup Lomé" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Lomé</strong><br />2026-09-12（土）09:00–13:00（GMT）<br />ロメ トーゴ・フランス学院<br /><br />ロメの対面 Grok Bot。無料、ウェイティング可、残席 198。<br /><br /><a href="https://luma.com/cursor-ec8v"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<a id="country-zm"></a>
+### ザンビア
+
+<a id="lun-20261002"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-ol65"><img src="./assets/events/lun-20261002-cover.png" alt="Grok Bot Meetup Lusaka" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Lusaka</strong><br />2026-10-02（金）09:00–14:00（Africa/Maputo、CAT、UTC+2）<br />ザンビア・ルサカ · 会場未定（登録後に案内）<br /><br />SpaceXAI Zambia / SpaceXAI for Lusaka のハンズオンMeetup（主催 Lloyd situmbeko）。Grok Bot はツールにログインして実作業を完了する AI 同僚、という製品コピー。ライブデモ・クレジット・オープンビルド・飲食ネットワーキング。無料・承認制・約70席。スキャン時 0 名。会場は登録後。midday discover 比で新規。<br /><br /><a href="https://luma.com/spacexai-ol65"><strong>Luma で申し込む → →</strong></a></td></tr></table>

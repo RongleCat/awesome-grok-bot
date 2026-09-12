@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-889-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-902-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -67,6 +67,7 @@
 - **荷兰**（1）：[阿姆斯特丹](./EVENTS.zh.md#ams-20260922)
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
 - **多哥**（1）：[洛美](./EVENTS.zh.md#lfw-20260912)
+- **赞比亚**（1）：[卢萨卡](./EVENTS.zh.md#lun-20261002)
 
 ## 目录
 
@@ -168,6 +169,9 @@
 - [Bot Marketplace · Design category (x.ai)](https://x.ai/bot/marketplace/design) - 官方 x.ai Bot Marketplace 设计分类：可浏览并安装设计向 Bot（Imogen、Figma Bro、Critiquito、Sable Game Art 等），含连接器与例程。.
 - [Bot Marketplace · Engineering category (x.ai)](https://x.ai/bot/marketplace/engineering) - 官方 x.ai Bot Marketplace 工程分类：可浏览并安装工程向 Bot（Projects Manager、Researchy、Engineer Bot、Tinkabot、Nightly Audit Engineer 等），含连接器与例程。.
 - [Bot Marketplace · Marketing category (x.ai)](https://x.ai/bot/marketplace/marketing) - 官方 x.ai Bot Marketplace 营销分类：可浏览并安装营销向 Bot（SEO/AEO Desk、Image Gen Bot、Clip Bot、Human Copywriter、AI Search Visibility 等），含连接器与例程。.
+- [Bot Marketplace · Personal category (x.ai)](https://x.ai/bot/marketplace/personal) - 官方 x.ai Bot Marketplace Personal 分类：面向日常生活的可安装公开 Bot（信用卡积分、家用机器人、植物养护、晨报、外呼等）。.
+- [Bot Marketplace · Operations category (x.ai)](https://x.ai/bot/marketplace/operations) - 官方 x.ai Bot Marketplace Operations 分类：面向办公运营、活动邀约评审、行政助理与组织治理（Alfred）的可安装公开 Bot。.
+- [Bot Marketplace · Recruiting & People category (x.ai)](https://x.ai/bot/marketplace/recruiting-people) - 官方 x.ai Bot Marketplace Recruiting & People 分类（slug：recruiting-people）：面向面试排程协调与人才发现的可安装公开 Bot。.
 
 ## 教程与上手指南
 
@@ -571,6 +575,9 @@
 - [Spillwave research-graph projector for Grok Bot](https://github.com/SpillwaveSolutions/research-graph) - 把 RKC OKF 投影到 agent brain 的 Layer-1，含 Grok Bot host skill；隔离会话且不写名词节点。.
 - [Spillwave project-knowledge-capture for Grok Bot](https://github.com/SpillwaveSolutions/project-knowledge-capture) - 项目知识捕获 ContentPack：把会议与决策沉淀进 OKF 图，含 Grok Bot host skill。.
 - [Spillwave DEKC data-platform pack for Grok Bot](https://github.com/SpillwaveSolutions/data-engineering-knowledge-capture) - 数据工程知识捕获第二大脑：血缘、medallion 与语义层，含 Grok Bot host skill。.
+- [Open Dynamic Workflows plugin for Cursor and Grok Bot](https://github.com/atebites-hub/open-dynamic-workflows-plugin) - 带 .grok-plugin 与 ODW_HOST=grok-bot 的 ODW 插件，让 Grok Bot 在云电脑上用 Cursor CLI worker 并行跑 JS 工作流。.
+- [illo illustration skill with Add-to-Grok-Bot template](https://github.com/tmchow/illo-skill) - illo Agent Skill（★374）含 .grok-plugin 与官方 x.ai Bot 模板，一键 Add to Grok Bot 即可做编辑向吉祥物插画。.
+- [X1 capital-call skills with Grok Bot profile](https://github.com/x1wealth/x1-agent-skills) - 开源 X1 家族办公室 skill，附 GROK_BOT_PROFILE.md：Grok Bot 经 Custom MCP 做资本催缴审阅，且不会擅自动款。.
 
 ## 评测与对比
 
@@ -735,6 +742,7 @@
 - [Local Ollama MCP side-channel for Grok Bot](https://github.com/primal79/local-llm-mcp) - 草稿 MCP：让 Grok Bot 经局域网/Tailscale 询问本地 Ollama 做草稿与仅输出 DLP，而不替换云端主脑。.
 - [Localhost kanban across Claude, Codex, Cursor, and Grok Bot](https://github.com/gmkbenjamin/agent-task-tracker) - 本地 FastAPI + React 看板（可选 pywebview）：跟踪 Claude Code、Codex、Cursor、Grok 与 Grok Bot 的任务。.
 - [Browser Bot — Grok-Bot-style remote browser agent](https://github.com/snoopyrain/browser-bot-oss) - 开源 Grok Bot 风格个人远程浏览器智能体：手机聊天驱动本机已登录 Chrome，2FA 时可人工接管。.
+- [Openlaw always-on policy for Cursor Grok Bot](https://github.com/mattstyles333/openlaw) - 面向智能体的 Git Markdown 常驻法则，含 Cursor Grok Bot 挂载路径与 grok-bot-export→Hermes 迁移辅助。.
 
 ## 社区与故障现场
 
@@ -992,10 +1000,16 @@
 - [Rome agent OS — open alternative to Grok Bot](https://github.com/rome-os/rome) - 开源复合型 agent OS，定位为 Grok Bot 与 Meta Muse 的替代，面向递归智能体。.
 - [Sora — BYO-key cloud-computer teammates](https://github.com/Charlsz/sora) - 开源 AI 队友 + 云电脑（E2B）：自带模型密钥，Watch/Open 桌面形态，对标 Grok Bot 体验。.
 - [Emotion Ball avatar engine (grok-bot topic)](https://github.com/sam70361/aora-bot) - 零依赖 SVG 表情引擎（32 状态），可用于 AI 助手/桌宠，带 grok-bot 话题标签，适合 Grok Bot 桌面形象。.
+- [Interactive org map for a Grok Bot team](https://github.com/dhivagar29/bot-org-map) - Dhivagar 的 Grok Bot 团队公开花名册地图（Next.js）：Doug 任 CoS，六张办公桌，不含私密 agent ID。.
+- [Grok-Moment localhost frames for GrokBot Macao](https://github.com/kazue22-mind/Grok-Moment) - 面向 GrokBot Macao 成员的本机相框编辑器：胶片框与 GrokBot 贴纸，照片不离开本机。.
+- [BotWorkspace — macOS workspace for named AI teammates](https://github.com/Rojios/GrokBot) - 独立开源的原生 macOS BotWorkspace（SwiftUI）面向具名 AI 队友；明确非官方 Grok Bot，但受该产品启发。.
+- [SmolVM — persistent computers to build your own Grokbot](https://github.com/CelestoAI/SmolVM) - 安全持久的智能体电脑（★901），定位「自建 Grokbot」：给长跑队友用的浏览器/代码沙箱。.
+- [crushbot — Charm Crush bot roster like Grok Bot](https://github.com/hocoder-agents/crush-bot) - 基于 Charm Crush 的终端 Bot 花名册：soul.md 专员互发与交接，自我定位为像 Grok Bot / Hermes 但更 crushy。.
+- [Hermes Bot Mode starters mapped from Grok Bot roles](https://github.com/0xNyk/hermes-bot-starter) - Hermes Agent Bot Mode 入门模板，文档把 Grok Bot 角色/原语映射到 Hermes profile（不是 Grok Bot 导出包）。.
 
 ## 贡献
 
-目前 8 个分类、889 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、902 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

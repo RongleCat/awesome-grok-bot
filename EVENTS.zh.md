@@ -305,3 +305,9 @@
 
 <a id="lfw-20260912"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-ec8v"><img src="./assets/events/lfw-20260912-cover.png" alt="Grok Bot 洛美线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 洛美线下交流</strong><br />2026-09-12 周六 09:00–13:00（洛美）<br />洛美多哥法语学院<br /><br />洛美线下 Grok Bot。免费，可候补，还剩 198 个名额。<br /><br /><a href="https://luma.com/cursor-ec8v"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="country-zm"></a>
+### 赞比亚
+
+<a id="lun-20261002"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-ol65"><img src="./assets/events/lun-20261002-cover.png" alt="Grok Bot 卢萨卡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 卢萨卡线下交流</strong><br />2026-10-02 周五 09:00–14:00（非洲/马普托 CAT，UTC+2）<br />赞比亚卢萨卡 · 场地待定（报名后可见）<br /><br />SpaceXAI Zambia / SpaceXAI for Lusaka 动手局（主办 Lloyd situmbeko）。产品文案：Grok Bot 是可登录你工具、把活干完的 AI 同事。现场真工具演示（非幻灯）、现场试用积分、开放 build、餐饮 networking。免费，需审核；约 70 席；扫描时报名 0。Luma 活动页无具体地址（日历城市卢萨卡 ZM）。相对 midday discover 新增。<br /><br /><a href="https://luma.com/spacexai-ol65"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
