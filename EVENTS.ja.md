@@ -201,15 +201,6 @@
 <a id="osa-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotosaka"><img src="./assets/events/osa-20260917-cover.png" alt="Grok Bot Meetup 大阪" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 大阪</strong><br />2026-09-17（木）19:00–21:30（JST）<br />大阪市北区梅田 North Gate Building<br /><br />大阪の対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/grokbotosaka"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
-<a id="country-pe"></a>
-### ペルー
-
-<a id="aqp-20260911"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/vcow8a4c"><img src="./assets/events/aqp-20260911-cover.png" alt="Grok Bot Arequipa Build Night" width="300" /></a></td><td valign="top"><strong>Grok Bot Arequipa Build Night</strong><br />2026-09-11（金）18:00–21:30（PET）<br />アレキパ サンタマリア・カトリック大学（Yanahuara / Umacollo）<br /><br />アレキパの Grok Bot ビルドナイト。無料、主催者承認、ウェイティング可、残席 42。<br /><br /><a href="https://luma.com/vcow8a4c"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="lim-20260911"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/ybo7udvo"><img src="./assets/events/lim-20260911-cover.png" alt="Grok Bot Lima Build Night" width="300" /></a></td><td valign="top"><strong>Grok Bot Lima Build Night</strong><br />2026-09-11（金）18:30–21:30（PET）<br />リマ ペルー・カトリック大学（San Miguel）<br /><br />リマの Grok Bot ビルドナイト。無料、主催者承認、ウェイティング可、残席 36。<br /><br /><a href="https://luma.com/ybo7udvo"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
 <a id="country-sv"></a>
 ### エルサルバドル
 

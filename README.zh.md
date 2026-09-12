@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-859-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-889-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -50,7 +50,6 @@
 - **英国**（2）：[伦敦](./EVENTS.zh.md#ldn-20260916) · [伦敦](./EVENTS.zh.md#ldn-20260913)
 - **危地马拉**（2）：[克萨尔特南戈](./EVENTS.zh.md#xela-20260920) · [危地马拉城](./EVENTS.zh.md#gua-20261003)
 - **日本**（2）：[札幌](./EVENTS.zh.md#spk-20261002) · [大阪](./EVENTS.zh.md#osa-20260917)
-- **秘鲁**（2）：[阿雷基帕](./EVENTS.zh.md#aqp-20260911) · [利马](./EVENTS.zh.md#lim-20260911)
 - **萨尔瓦多**（2）：[圣萨尔瓦多](./EVENTS.zh.md#sal-20260919) · [圣萨尔瓦多](./EVENTS.zh.md#salw-20260914)
 - **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20260917)
 - **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
@@ -165,6 +164,10 @@
 - [Manage Grok Bot computers](https://cursor.com/docs/grok-bot/computers) - 官方 Cursor Docs（仅 Enterprise 组织管理员）：在仪表盘批量 Recreate/Terminate 成员的 Grok Bot 电脑——持久盘保留；Team 管理员不够，因为一台电脑跨该成员所属全部团队。.
 - [Onboarding](https://cursor.com/help/grok-bot/onboarding) - 官方 Cursor Help 入门：用简短名称/头衔/描述创建第一个 Bot，先做不改外部系统的任务，审批动作前先审结果。.
 - [Bot Marketplace · From Grok Bot Team](https://x.ai/bot/marketplace/from-grok-bot-team) - 官方 x.ai Bot Marketplace「From Grok Bot Team」筛选：Grok Bot 团队发布的可安装公开 Bot，覆盖工程、销售、营销、设计、招聘与产品。.
+- [Bot Marketplace · Product category (x.ai)](https://x.ai/bot/marketplace/product) - 官方 x.ai Bot Marketplace 产品分类：可浏览并安装产品向 Bot（Last30Days、Competitor Watching、Product Idea Stress Test、Projects Manager 等），含连接器与例程。.
+- [Bot Marketplace · Design category (x.ai)](https://x.ai/bot/marketplace/design) - 官方 x.ai Bot Marketplace 设计分类：可浏览并安装设计向 Bot（Imogen、Figma Bro、Critiquito、Sable Game Art 等），含连接器与例程。.
+- [Bot Marketplace · Engineering category (x.ai)](https://x.ai/bot/marketplace/engineering) - 官方 x.ai Bot Marketplace 工程分类：可浏览并安装工程向 Bot（Projects Manager、Researchy、Engineer Bot、Tinkabot、Nightly Audit Engineer 等），含连接器与例程。.
+- [Bot Marketplace · Marketing category (x.ai)](https://x.ai/bot/marketplace/marketing) - 官方 x.ai Bot Marketplace 营销分类：可浏览并安装营销向 Bot（SEO/AEO Desk、Image Gen Bot、Clip Bot、Human Copywriter、AI Search Visibility 等），含连接器与例程。.
 
 ## 教程与上手指南
 
@@ -315,6 +318,10 @@
 - [FOMO copy-trading Grok Bot with paper/live modes](https://github.com/noam99moyal/fomo-live-bot) - 有文档的 Grok Bot 模板：按小时在纸面/实盘模式镜像 FOMO.family 交易者，仓位/出场锁定并盖 mode 戳。.
 - [Job-search coverage log maintained by a Grok Bot](https://github.com/duvida13/GROK-BOT) - 按日 finds/ 归档的求职覆盖日志，由 Job Search Grok Bot 助手维护，并带 Live/观察的诚实规则。.
 - [Dated case-log console demo for Grok Bot computer-use](https://github.com/liam-morrissy-cursor/jh-case-console-demo) - 面向 Grok Bot 电脑操作演示的小型按日案件日志控制台沙箱（明确非 Jack Henry 产品）。.
+- [AI Influencer Agency pack for Grok Bot](https://github.com/inkboundnightdesk/ai-influencer-agency) - 即插即用 Grok Bot 经纪公司包：含 GROKBOT.md、八个工位、人工门禁与脚本，生成从不登录的 AI 网红人设。.
+- [Overnight six-bot Grok Bot visual crew](https://github.com/Archive228/overnight) - 人工门禁的六 Bot Grok Bot 剧组：把夜间 brief 变成有出处的短视频视觉，角色边界与账单回执严格。.
+- [Grok Bot Executive Branch cabinet demo](https://github.com/theSethian/grok-executive-branch) - 案例：用 Grok Bot 搭出九智能体「行政分支」内阁，任务经终端汇总进椭圆形办公室。.
+- [Kaspa archival node via one Grok Bot prompt](https://github.com/STP-KAS/Xai.Kaspa.node) - 把 GROK_BOT_PROMPT.md 贴进 Grok Bot，在 bot 自带 Linux 电脑上跑 Kaspa 主网归档节点并做保活检查。.
 
 ## 技能、插件与 MCP
 
@@ -549,6 +556,21 @@
 - [Ruta landscaping office MCP for Cursor and Grok Bot](https://github.com/P163-Ruta/ruta-mcp-plugin) - Ruta 插件：用日常办公账号登录后，让 Cursor 或 Grok Bot 查询客户、排程、派工与消息。.
 - [Connections business MCP for Cursor and Grok Bot](https://github.com/Lunarwerx/connections-cursor-plugin) - Connections 托管 MCP 插件（Cursor / Grok Bot）：经 OAuth 做活动票务、联系人、Deal Flow、笔记与收款。.
 - [Anima identity MCP pack for Cursor and Grok Bot](https://github.com/anima-labs-ai/anima-plugin) - Anima 多目录插件包：让 Grok Bot 通过控制台 API Key 使用代理邮箱、美国手机号/SMS、语音、保险库与 MCP。.
+- [Chiaro SOC 2 plugin for Cursor and Grok Bot](https://github.com/Chiaro-HQ/cursor-plugin) - Chiaro 托管 MCP 与 chiaro-soc2 skill，让 Grok Bot 在你批准下做 SOC 2 范围梳理、取证并推进审计。.
+- [Faber automation plugin for Cursor and Grok Bot](https://github.com/GetFaberCo/faber-cursor-plugin) - Faber MCP 插件：把刚亲手做完的事变成可定时跑的自动化，含预览运行与审批挂起。.
+- [YourAI Context plugin for Cursor and Grok Bot](https://github.com/Melade-Inc/yourai-context-plugin) - YourAI Context 托管 MCP 与路由 skill：在 Grok Bot 里读取组织知识库与近期电脑活动上下文。.
+- [Imagine MCP cost-aware xAI media tools](https://github.com/Archive228/imagine-mcp) - 带花费上限的 xAI 图像/视频/语音远程 MCP，产出持久 Blob URL，专为 Overnight Grok Bot 剧组的 Render 边界设计。.
+- [mcp-fetch-worker Cloudflare Access MCP for Grok Bot](https://github.com/jkpe/mcp-fetch-worker) - Cloudflare Worker MCP（Managed OAuth）：让 Grok Bot 用可撤销作用域令牌调用自建 API，而不是长期密钥。.
+- [git-for-dummies skill for Grok Bot](https://github.com/frozt7/git-for-dummies) - 可白标的耐心 Git 教练 skill，装进 Grok Bot（~/.grok/skills），每条命令先讲清为什么。.
+- [pstack make-bot-ui skill for Grok Bot webhooks](https://github.com/mdsmithaustin/pstack) - pstack 工作流含 make-bot-ui：做可点击界面经 webhook 唤醒 Grok Bot，且不把 sender key 暴露到浏览器。.
+- [Spillwave executive-job-search ContentPack for Grok Bot](https://github.com/SpillwaveSolutions/executive-job-search) - 高管求职 ContentPack：含 hosts/grok-bot skill，在共享第二大脑上管线索、岗位、薪酬、面试与 offer。.
+- [Spillwave gtm-positioning ContentPack for Grok Bot](https://github.com/SpillwaveSolutions/gtm-positioning) - GTM ContentPack（产品包装、ICP、话术、作战卡），含明确的 Grok Bot host skill 绑定。.
+- [Spillwave consulting-leads ContentPack for Grok Bot](https://github.com/SpillwaveSolutions/consulting-leads) - 咨询线索 ContentPack：资格筛选、发现与范围界定，含 Grok Bot host skill。.
+- [Spillwave okf-plugin graph eng for Grok Bot](https://github.com/SpillwaveSolutions/okf-plugin) - OKF 图工程插件：含 hosts/grok-bot 绑定，在第二大脑树上做影响分析与渐进披露 pack。.
+- [Spillwave okf-agent-graph AGER for Grok Bot](https://github.com/SpillwaveSolutions/okf-agent-graph) - OKF Agent Graph Engineering Runtime（AGER）插件，含 Grok Bot host skill，依赖 okf-plugin。.
+- [Spillwave research-graph projector for Grok Bot](https://github.com/SpillwaveSolutions/research-graph) - 把 RKC OKF 投影到 agent brain 的 Layer-1，含 Grok Bot host skill；隔离会话且不写名词节点。.
+- [Spillwave project-knowledge-capture for Grok Bot](https://github.com/SpillwaveSolutions/project-knowledge-capture) - 项目知识捕获 ContentPack：把会议与决策沉淀进 OKF 图，含 Grok Bot host skill。.
+- [Spillwave DEKC data-platform pack for Grok Bot](https://github.com/SpillwaveSolutions/data-engineering-knowledge-capture) - 数据工程知识捕获第二大脑：血缘、medallion 与语义层，含 Grok Bot host skill。.
 
 ## 评测与对比
 
@@ -712,6 +734,7 @@
 - [Self-hosted Grok Bot companion with custom models](https://github.com/TroveXsc/grok-bot-free) - 较完整的伴随项目：用自有模型跑 Grok Bot 界面，支持 Docker/Linux 桌面，并持久化 Bot、skills 与工作区。.
 - [Local Ollama MCP side-channel for Grok Bot](https://github.com/primal79/local-llm-mcp) - 草稿 MCP：让 Grok Bot 经局域网/Tailscale 询问本地 Ollama 做草稿与仅输出 DLP，而不替换云端主脑。.
 - [Localhost kanban across Claude, Codex, Cursor, and Grok Bot](https://github.com/gmkbenjamin/agent-task-tracker) - 本地 FastAPI + React 看板（可选 pywebview）：跟踪 Claude Code、Codex、Cursor、Grok 与 Grok Bot 的任务。.
+- [Browser Bot — Grok-Bot-style remote browser agent](https://github.com/snoopyrain/browser-bot-oss) - 开源 Grok Bot 风格个人远程浏览器智能体：手机聊天驱动本机已登录 Chrome，2FA 时可人工接管。.
 
 ## 社区与故障现场
 
@@ -862,6 +885,8 @@
 - [Hung custom MCP remotes: delete via cursor.com/agents](https://forum.cursor.com/t/grok-bot-hung-custom-mcp-remotes-are-invisible-in-plugins-yours-and-uninstall-also-times-out-discovery-catch-22/168350) - Staff（mohitjain）：一个卡住的自定义 HTTP MCP 远程可拖垮发现，Plugins→Yours 不显示且卸载超时。自助：打开 cursor.com/agents → + → MCP Servers → 对该远程 Delete user config（发现卡住时仍可用）。.
 - [Unreachable from Bot OOM / parallel fan-out](https://forum.cursor.com/t/grok-bot-computer-unreachable-again-recurring-backend-failure-after-multiple-repairs/170722) - Staff（mohitjain）：反复 unreachable 可能是 Bot 拉起过多并行进程导致 Agent Computer OOM——不是网络问题。预防：生产路径 worker 并发设 1、rematerialize 后勿批量恢复空闲窗、大扇出分批；支持恢复期间勿 Reset。.
 - [Authentication error banner → Update Grok Bot’s Computer](https://forum.cursor.com/t/grok-bot-macos-0-44-0-persistent-authentication-error-after-sign-out-sign-in/171164) - Staff（Colin）：一直出现「Authentication error / try logging out」可能是后端变更后 Agent Computer 镜像过旧——账号没问题，别反复登出/重装。处理：Settings → Updates → Update Grok Bot’s Computer，再打开发一条消息。.
+- [Higgsfield MCP drops until you reconnect before use](https://forum.cursor.com/t/grok-bot-higgsfield-mcp-disconnects-every-30-60-seconds-and-has-to-be-reconnected/168272) - Staff（mohitjain）：Higgsfield 登录无法自动续期，首次会话过期后连接器会掉线——Grok Bot 侧没有设置能一直挂住。权宜：用前再连一次，别指望全天保持已连接。.
+- [X connector 402 → top up credits or use Bot browser](https://forum.cursor.com/t/grok-bot-x-connector-lacks-recent-search-direct-api-requires-separate-credits/168227) - Staff（mohitjain）：X 插件搜索返回 402 时，给 bearer 背后的 X 开发者应用充值积分——或跳过 API，让 Bot 用云电脑浏览器打开 x.com 看你关注的账号。.
 
 ## 相关列表
 
@@ -963,10 +988,14 @@
 - [Grok Bot character animation study](https://github.com/iiiiiiiian/grok-bot-animation-study) - 独立教育研究：复现受 Grok Bot 启发的角色动画（眼睛、idle、弹簧），与 xAI 无关。.
 - [Cel-mecha TV anime avatar pack for Grok Bot desks](https://github.com/mikeredmer/grok-bot-cel-mecha-avatars) - 公开的 23 张方图赛璐璐机甲半身像（PNG+GIF），用作 Grok Bot 头像与工位形象。.
 - [Bloub SVG avatar recreation for Mendoza Grok Bot meetup](https://github.com/MatiasBoldrini/bloub) - x.ai Bot 头像的 SVG 复刻（可变形状态），用于 Mendoza Grok Bot 线下活动页。.
+- [VibeBuddy companion that observes Grok Bot](https://github.com/semantic-craft/iOS-vibebuddy) - 本地优先的 Mac/iPhone/Apple Watch 伴侣：跟踪 Claude Code、Codex、Grok Build，观察 Grok Bot，并查看 Cursor 用量。.
+- [Rome agent OS — open alternative to Grok Bot](https://github.com/rome-os/rome) - 开源复合型 agent OS，定位为 Grok Bot 与 Meta Muse 的替代，面向递归智能体。.
+- [Sora — BYO-key cloud-computer teammates](https://github.com/Charlsz/sora) - 开源 AI 队友 + 云电脑（E2B）：自带模型密钥，Watch/Open 桌面形态，对标 Grok Bot 体验。.
+- [Emotion Ball avatar engine (grok-bot topic)](https://github.com/sam70361/aora-bot) - 零依赖 SVG 表情引擎（32 状态），可用于 AI 助手/桌宠，带 grok-bot 话题标签，适合 Grok Bot 桌面形象。.
 
 ## 贡献
 
-目前 8 个分类、859 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、889 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

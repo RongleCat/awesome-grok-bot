@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-859-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-889-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -50,7 +50,6 @@
 - **United Kingdom**（2）：[London](./EVENTS.md#ldn-20260916) · [London](./EVENTS.md#ldn-20260913)
 - **Guatemala**（2）：[Quetzaltenango](./EVENTS.md#xela-20260920) · [Guatemala City](./EVENTS.md#gua-20261003)
 - **Japan**（2）：[Sapporo](./EVENTS.md#spk-20261002) · [Osaka](./EVENTS.md#osa-20260917)
-- **Peru**（2）：[Arequipa](./EVENTS.md#aqp-20260911) · [Lima](./EVENTS.md#lim-20260911)
 - **El Salvador**（2）：[San Salvador](./EVENTS.md#sal-20260919) · [San Salvador](./EVENTS.md#salw-20260914)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20260917)
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
@@ -165,6 +164,10 @@
 - [Manage Grok Bot computers](https://cursor.com/docs/grok-bot/computers) - Official Cursor Docs (Enterprise org admins only): bulk Recreate or Terminate member Grok Bot computers from the dashboard—durable disk kept; Team admin rights are not enough because one computer spans every team the member belongs to.
 - [Onboarding](https://cursor.com/help/grok-bot/onboarding) - Official Cursor Help onboarding: create your first Bot with a short name/title/description, start with a no-external-change task, and review before approving actions.
 - [Bot Marketplace · From Grok Bot Team](https://x.ai/bot/marketplace/from-grok-bot-team) - Official x.ai Bot Marketplace “From Grok Bot Team” filter: installable public Bots published by the Grok Bot team across engineering, sales, marketing, design, recruiting, and product.
+- [Bot Marketplace · Product category (x.ai)](https://x.ai/bot/marketplace/product) - Official x.ai Bot Marketplace Product category: browse installable product Bots (Last30Days, Competitor Watching, Product Idea Stress Test, Projects Manager, and more) with connectors and routines ready to add.
+- [Bot Marketplace · Design category (x.ai)](https://x.ai/bot/marketplace/design) - Official x.ai Bot Marketplace Design category: browse installable design Bots (Imogen, Figma Bro, Critiquito, Sable Game Art, and more) with connectors and routines ready to add.
+- [Bot Marketplace · Engineering category (x.ai)](https://x.ai/bot/marketplace/engineering) - Official x.ai Bot Marketplace Engineering category: browse installable engineering Bots (Projects Manager, Researchy, Engineer Bot, Tinkabot, Nightly Audit Engineer, and more) with connectors and routines ready to add.
+- [Bot Marketplace · Marketing category (x.ai)](https://x.ai/bot/marketplace/marketing) - Official x.ai Bot Marketplace Marketing category: browse installable marketing Bots (SEO/AEO Desk, Image Gen Bot, Clip Bot, Human Copywriter, AI Search Visibility, and more) with connectors and routines ready to add.
 
 ## Tutorials & Guides
 
@@ -315,6 +318,10 @@
 - [FOMO copy-trading Grok Bot with paper/live modes](https://github.com/noam99moyal/fomo-live-bot) - Documented Grok Bot template that hourly mirrors FOMO.family traders in paper or live mode with locked size/exits and mode stamps.
 - [Job-search coverage log maintained by a Grok Bot](https://github.com/duvida13/GROK-BOT) - Day-dated finds/ job-search coverage machine maintained by a Job Search Grok Bot assistant with Live/watch honesty rules.
 - [Dated case-log console demo for Grok Bot computer-use](https://github.com/liam-morrissy-cursor/jh-case-console-demo) - Small dated case-log console sandbox aimed at Grok Bot computer-use demos (explicitly not a Jack Henry product).
+- [AI Influencer Agency pack for Grok Bot](https://github.com/inkboundnightdesk/ai-influencer-agency) - Plug-and-play Grok Bot agency with GROKBOT.md, eight desks, human gates, and scripts to spawn AI influencers that never log in.
+- [Overnight six-bot Grok Bot visual crew](https://github.com/Archive228/overnight) - Human-gated six-bot Grok Bot crew that turns a night brief into sourced short-form visuals with strict role boundaries and receipts.
+- [Grok Bot Executive Branch cabinet demo](https://github.com/theSethian/grok-executive-branch) - Case study where Grok Bot built a nine-agent Executive Branch cabinet with terminal routing into the Oval Office.
+- [Kaspa archival node via one Grok Bot prompt](https://github.com/STP-KAS/Xai.Kaspa.node) - Paste GROK_BOT_PROMPT.md into Grok Bot to run a Kaspa mainnet archival node on the bot Linux computer with keep-alive checks.
 
 ## Skills, Plugins & MCP
 
@@ -549,6 +556,21 @@
 - [Ruta landscaping office MCP for Cursor and Grok Bot](https://github.com/P163-Ruta/ruta-mcp-plugin) - Ruta plugin so Cursor or Grok Bot can look up customers, schedule, dispatch, and messages after a normal Ruta office login.
 - [Connections business MCP for Cursor and Grok Bot](https://github.com/Lunarwerx/connections-cursor-plugin) - Connections hosted MCP plugin for Cursor and Grok Bot: events, ticketing, contacts, Deal Flow, notes, and payments via OAuth.
 - [Anima identity MCP pack for Cursor and Grok Bot](https://github.com/anima-labs-ai/anima-plugin) - Anima multi-catalog plugin pack giving Grok Bot agent email, US phone/SMS, voice, vault, and MCP via console API keys.
+- [Chiaro SOC 2 plugin for Cursor and Grok Bot](https://github.com/Chiaro-HQ/cursor-plugin) - Chiaro hosted MCP plus chiaro-soc2 skill so Grok Bot can scope SOC 2, collect evidence with your approval, and move toward audit.
+- [Faber automation plugin for Cursor and Grok Bot](https://github.com/GetFaberCo/faber-cursor-plugin) - Faber MCP plugin that turns work you just did by hand into scheduled automations with preview runs and approval holds.
+- [YourAI Context plugin for Cursor and Grok Bot](https://github.com/Melade-Inc/yourai-context-plugin) - YourAI Context hosted MCP and routing skill for private org knowledge plus recent computer activity inside Grok Bot.
+- [Imagine MCP cost-aware xAI media tools](https://github.com/Archive228/imagine-mcp) - Cost-capped remote MCP for xAI image, video, and speech with durable Blob URLs, designed as the Render boundary for Overnight Grok Bot crews.
+- [mcp-fetch-worker Cloudflare Access MCP for Grok Bot](https://github.com/jkpe/mcp-fetch-worker) - Cloudflare Worker MCP with Managed OAuth so Grok Bot can call self-hosted APIs via scoped tokens instead of long-lived keys.
+- [git-for-dummies skill for Grok Bot](https://github.com/frozt7/git-for-dummies) - Patient white-label Git coach skill you drop into Grok Bot (~/.grok/skills) that explains why before every command.
+- [pstack make-bot-ui skill for Grok Bot webhooks](https://github.com/mdsmithaustin/pstack) - pstack agent workflows including make-bot-ui: build a clickable UI that wakes a Grok Bot over a webhook without exposing the sender key.
+- [Spillwave executive-job-search ContentPack for Grok Bot](https://github.com/SpillwaveSolutions/executive-job-search) - Executive job-search ContentPack with hosts/grok-bot skill for leads, roles, compensation, interviews, and offers on a shared second brain.
+- [Spillwave gtm-positioning ContentPack for Grok Bot](https://github.com/SpillwaveSolutions/gtm-positioning) - Go-to-market ContentPack (offers, ICP, messaging, battle cards) with explicit Grok Bot host skill binding.
+- [Spillwave consulting-leads ContentPack for Grok Bot](https://github.com/SpillwaveSolutions/consulting-leads) - Inbound consulting-lead ContentPack for qualification, discovery, and scopes with Grok Bot host skill.
+- [Spillwave okf-plugin graph eng for Grok Bot](https://github.com/SpillwaveSolutions/okf-plugin) - OKF graph-engineering plugin with hosts/grok-bot binding for impact analysis and progressive-disclosure packs on a second-brain tree.
+- [Spillwave okf-agent-graph AGER for Grok Bot](https://github.com/SpillwaveSolutions/okf-agent-graph) - OKF Agent Graph Engineering Runtime (AGER) plugin with Grok Bot host skill; depends on okf-plugin.
+- [Spillwave research-graph projector for Grok Bot](https://github.com/SpillwaveSolutions/research-graph) - Layer-1 projector from RKC OKF into an agent brain with Grok Bot host skill; isolation session, no noun writes.
+- [Spillwave project-knowledge-capture for Grok Bot](https://github.com/SpillwaveSolutions/project-knowledge-capture) - Project Knowledge Capture ContentPack to turn meetings and decisions into OKF graphs with Grok Bot host skill.
+- [Spillwave DEKC data-platform pack for Grok Bot](https://github.com/SpillwaveSolutions/data-engineering-knowledge-capture) - Data Engineering Knowledge Capture second brain for lineage, medallion, and semantic layers with Grok Bot host skill.
 
 ## Reviews & Comparisons
 
@@ -712,6 +734,7 @@
 - [Self-hosted Grok Bot companion with custom models](https://github.com/TroveXsc/grok-bot-free) - Substantial companion to run Grok Bot UI with your own models, Docker/Linux desktop, and persisted bots, skills, and workspaces.
 - [Local Ollama MCP side-channel for Grok Bot](https://github.com/primal79/local-llm-mcp) - Draft MCP server so Grok Bot can ask a LAN/Tailscale Ollama model for drafts and output-only DLP without replacing its cloud brain.
 - [Localhost kanban across Claude, Codex, Cursor, and Grok Bot](https://github.com/gmkbenjamin/agent-task-tracker) - Local FastAPI + React kanban (optional pywebview shell) for tracking work across Claude Code, Codex, Cursor, Grok, and Grok Bot.
+- [Browser Bot — Grok-Bot-style remote browser agent](https://github.com/snoopyrain/browser-bot-oss) - Open-source Grok-Bot-style personal remote browser agent: phone chat drives signed-in Chrome on your Mac with human takeover for 2FA.
 
 ## Community & Failure Modes
 
@@ -862,6 +885,8 @@
 - [Hung custom MCP remotes: delete via cursor.com/agents](https://forum.cursor.com/t/grok-bot-hung-custom-mcp-remotes-are-invisible-in-plugins-yours-and-uninstall-also-times-out-discovery-catch-22/168350) - Staff (mohitjain): One hung custom HTTP MCP remote can stall discovery so Plugins→Yours never lists it and Uninstall times out. Self-serve fix: open cursor.com/agents → + → MCP Servers → Delete user config on that remote (works even while discovery hangs).
 - [Unreachable from Bot OOM / parallel fan-out](https://forum.cursor.com/t/grok-bot-computer-unreachable-again-recurring-backend-failure-after-multiple-repairs/170722) - Staff (mohitjain): Recurring unreachable can be Agent Computer OOM when a Bot spins too many parallel processes—not your network. Prevention: worker concurrency 1 on production paths, no mass-resume after rematerialize, batch large fan-outs; avoid Reset while support restores.
 - [Authentication error banner → Update Grok Bot’s Computer](https://forum.cursor.com/t/grok-bot-macos-0-44-0-persistent-authentication-error-after-sign-out-sign-in/171164) - Staff (Colin): Persistent “Authentication error / try logging out” can be an outdated Agent Computer build after a backend change—accounts are fine; skip sign-out/reinstall. Fix: Settings → Updates → Update Grok Bot’s Computer, then reopen and send a message.
+- [Higgsfield MCP drops until you reconnect before use](https://forum.cursor.com/t/grok-bot-higgsfield-mcp-disconnects-every-30-60-seconds-and-has-to-be-reconnected/168272) - Staff (mohitjain): Higgsfield’s sign-in can’t renew itself, so the connector drops after the first session expires—no Grok Bot setting holds it open. Workaround: reconnect Higgsfield right before you need it instead of leaving it connected all day.
+- [X connector 402 → top up credits or use Bot browser](https://forum.cursor.com/t/grok-bot-x-connector-lacks-recent-search-direct-api-requires-separate-credits/168227) - Staff (mohitjain): When X plugin search returns 402, top up credits on the X developer app behind the bearer—or skip the API and ask the Bot to use its cloud-computer browser on x.com for accounts you follow.
 
 ## Related Lists
 
@@ -963,10 +988,14 @@
 - [Grok Bot character animation study](https://github.com/iiiiiiiian/grok-bot-animation-study) - Independent educational study reconstructing Grok Bot–inspired character animation (eyes, idle, springs) for research; not affiliated with xAI.
 - [Cel-mecha TV anime avatar pack for Grok Bot desks](https://github.com/mikeredmer/grok-bot-cel-mecha-avatars) - Public pack of 23 square cel-mecha busts (PNG+GIF) for Grok Bot profile pictures and desk seats.
 - [Bloub SVG avatar recreation for Mendoza Grok Bot meetup](https://github.com/MatiasBoldrini/bloub) - SVG recreation of the x.ai bot avatar with morphing states, built for the Mendoza Grok Bot meetup page.
+- [VibeBuddy companion that observes Grok Bot](https://github.com/semantic-craft/iOS-vibebuddy) - Local-first Mac/iPhone/Apple Watch companion to track Claude Code, Codex, Grok Build, observe Grok Bot, and check Cursor usage.
+- [Rome agent OS — open alternative to Grok Bot](https://github.com/rome-os/rome) - Compounding open-source agent OS positioned as an alternative to Grok Bot and Meta Muse for recursive agents.
+- [Sora — BYO-key cloud-computer teammates](https://github.com/Charlsz/sora) - Open-source AI teammates with a cloud computer (E2B), bring-your-own model keys, and Watch/Open desktop chrome inspired by Grok Bot.
+- [Emotion Ball avatar engine (grok-bot topic)](https://github.com/sam70361/aora-bot) - Zero-dependency SVG emotion engine (32 states) for AI assistants and desktop pets, tagged for Grok Bot avatar desks.
 
 ## Contributing
 
-859 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+889 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

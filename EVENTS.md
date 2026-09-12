@@ -201,15 +201,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="osa-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotosaka"><img src="./assets/events/osa-20260917-cover.png" alt="Grok Bot Meetup Osaka" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Osaka</strong><br />Thu 17 Sep 2026, 19:00–21:30 (JST)<br />North Gate Building, 3-chōme-1-3 Umeda, Kita Ward, Osaka<br /><br />In-person Grok Bot meetup in Osaka. Host approval required.<br /><br /><a href="https://luma.com/grokbotosaka"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
-<a id="country-pe"></a>
-### Peru
-
-<a id="aqp-20260911"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/vcow8a4c"><img src="./assets/events/aqp-20260911-cover.png" alt="Grok Bot Arequipa Build Night" width="300" /></a></td><td valign="top"><strong>Grok Bot Arequipa Build Night</strong><br />Fri 11 Sep 2026, 18:00–21:30 (PET)<br />Catholic University of Santa María, Yanahuara / Umacollo, Arequipa<br /><br />Grok Bot build night in Arequipa. Free, host approval, waitlist open, 42 seats left.<br /><br /><a href="https://luma.com/vcow8a4c"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
-
-<a id="lim-20260911"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/ybo7udvo"><img src="./assets/events/lim-20260911-cover.png" alt="Grok Bot Lima Build Night" width="300" /></a></td><td valign="top"><strong>Grok Bot Lima Build Night</strong><br />Fri 11 Sep 2026, 18:30–21:30 (PET)<br />Pontifical Catholic University of Peru, San Miguel, Lima<br /><br />Grok Bot build night in Lima. Free, host approval, waitlist open, 36 seats left.<br /><br /><a href="https://luma.com/ybo7udvo"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
-
 <a id="country-sv"></a>
 ### El Salvador
 

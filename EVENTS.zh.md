@@ -201,15 +201,6 @@
 <a id="osa-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotosaka"><img src="./assets/events/osa-20260917-cover.png" alt="Grok Bot 大阪线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 大阪线下交流</strong><br />2026-09-17 周四 19:00–21:30（大阪）<br />大阪北区梅田 North Gate Building<br /><br />大阪线下 Grok Bot。需主办审核。<br /><br /><a href="https://luma.com/grokbotosaka"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
-<a id="country-pe"></a>
-### 秘鲁
-
-<a id="aqp-20260911"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/vcow8a4c"><img src="./assets/events/aqp-20260911-cover.png" alt="Grok Bot 阿雷基帕 Build Night" width="300" /></a></td><td valign="top"><strong>Grok Bot 阿雷基帕 Build Night</strong><br />2026-09-11 周五 18:00–21:30（秘鲁）<br />阿雷基帕圣玛丽亚天主教大学（Yanahuara / Umacollo）<br /><br />阿雷基帕 Grok Bot 动手夜。免费，需审核，可候补，还剩 42 个名额。<br /><br /><a href="https://luma.com/vcow8a4c"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="lim-20260911"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/ybo7udvo"><img src="./assets/events/lim-20260911-cover.png" alt="Grok Bot 利马 Build Night" width="300" /></a></td><td valign="top"><strong>Grok Bot 利马 Build Night</strong><br />2026-09-11 周五 18:30–21:30（秘鲁）<br />利马秘鲁天主教大学（San Miguel）<br /><br />利马 Grok Bot 动手夜。免费，需审核，可候补，还剩 36 个名额。<br /><br /><a href="https://luma.com/ybo7udvo"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
 <a id="country-sv"></a>
 ### 萨尔瓦多
 
