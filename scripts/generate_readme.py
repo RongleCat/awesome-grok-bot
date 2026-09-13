@@ -213,6 +213,7 @@ COUNTRY_LABEL = {
     "kw": {"en": "Kuwait", "zh": "科威特", "ja": "クウェート"},
     "ma": {"en": "Morocco", "zh": "摩洛哥", "ja": "モロッコ"},
     "es": {"en": "Spain", "zh": "西班牙", "ja": "スペイン"},
+    "ug": {"en": "Uganda", "zh": "乌干达", "ja": "ウガンダ"},
     "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
     "other": {"en": "Other", "zh": "其他", "ja": "その他"},
 }
@@ -283,6 +284,7 @@ EVENT_GEO = {
     "nbo-20260917": ("ke", "Nairobi", "内罗毕", "ナイロビ"),
     "lun-20261002": ("zm", "Lusaka", "卢萨卡", "ルサカ"),
     "phl-20260929": ("us", "Philadelphia", "费城", "フィラデルフィア"),
+    "kla-20261003": ("ug", "Kampala", "坎帕拉", "カンパラ"),
     "tgr-20260911": ("id", "Tangerang", "坦格朗", "タンゲラン"),
     "kul-20260919": ("my", "Kuala Lumpur", "吉隆坡", "クアラルンプール"),
     "yyc-20260930": ("ca", "Calgary", "卡尔加里", "カルガリー"),

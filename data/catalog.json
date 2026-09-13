@@ -2434,6 +2434,36 @@
             "zh": "对着 Grok Bot Galaxy（2026-09-15–17）的非官方并行 72 小时工位：含可粘贴 bots/、交接协议与珀斯夜班时钟。",
             "ja": "Grok Bot Galaxy（2026-09-15–17）に対する非公式 72 時間並列デスク。bots/ 貼り付け、ハンドオフ手順、パース夜勤クロック付き。"
           }
+        },
+        {
+          "title": "Poly Formula — Belgrade Grok Bot Hackathon racer",
+          "url": "https://github.com/peckz/poly-formula",
+          "source": "GB-948",
+          "blurb": {
+            "en": "Webcam-steered low-poly racing demo built at the Grok Bot Hackathon in Belgrade with MediaPipe and Three.js.",
+            "zh": "贝尔格莱德 Grok Bot 黑客松作品：摄像头体感低面赛车（MediaPipe + Three.js）。",
+            "ja": "ベオグラードの Grok Bot ハッカソン作品。MediaPipe + Three.js のウェブカム操縦ローポリレーサーです。"
+          }
+        },
+        {
+          "title": "Circleback — Pets vs Bots Grok Bot Serbia hackathon game",
+          "url": "https://github.com/aleksicmarija/circleback",
+          "source": "GB-949",
+          "blurb": {
+            "en": "Real-time multiplayer turf-war game (pets vs AI bots) built in one day at the Grok Bot Serbia Hackathon.",
+            "zh": "Grok Bot 塞尔维亚黑客松一日作品：宠物对战 AI 机器人的实时圈地多人游戏。",
+            "ja": "Grok Bot セルビアハッカソンで1日制作のリアルタイム陣取り（ペット vs AIボット）です。"
+          }
+        },
+        {
+          "title": "Scam Drill — Grok Bot hackathon voice practice app",
+          "url": "https://github.com/w4jo/grok-bot-hackathon",
+          "source": "GB-950",
+          "blurb": {
+            "en": "Voice practice app that coaches older adults through phone-scam drills, shipped as a Grok Bot hackathon project.",
+            "zh": "面向老年人的电话诈骗情景语音演练应用，作为 Grok Bot 黑客松项目交付。",
+            "ja": "高齢者向け電話詐欺の音声ロールプレイ練習アプリ。Grok Bot ハッカソン成果物として公開されています。"
+          }
         }
       ]
     },
@@ -4994,6 +5024,56 @@
             "zh": "只读的 Union College Nexus（Moodle）MCP，附 docs/BOT_COMPUTER.md 与隧道暴露步骤，供 Grok Bot 汇报课程、成绩与截止日。",
             "ja": "Union College Nexus（Moodle）読み取り専用 MCP。docs/BOT_COMPUTER.md とトンネル公開手順で Grok Bot が履修・成績・締切を要約。"
           }
+        },
+        {
+          "title": "OptionKrafter agent plugin for Grok Bot and Cursor",
+          "url": "https://github.com/optionkrafter/agent-plugin",
+          "source": "GB-943",
+          "blurb": {
+            "en": "Open wrapper that points Cursor, Grok Bot, and other agents at OptionKrafter's hosted MCP for options backtests on real historical chains.",
+            "zh": "将 Cursor、Grok Bot 等代理接到 OptionKrafter 托管 MCP，用真实历史期权链回测策略。",
+            "ja": "Cursor や Grok Bot などを OptionKrafter のホスト型 MCP に接続し、実履歴オプションチェーンでバックテストします。"
+          }
+        },
+        {
+          "title": "Adspirer plugin for Cursor and Grok Bot ads MCP",
+          "url": "https://github.com/Adspirer/adspirer-cursor-plugin",
+          "source": "GB-944",
+          "blurb": {
+            "en": "Hosted MCP plugin that lets Cursor and Grok Bot manage Google, Meta, TikTok, LinkedIn, Amazon, and ChatGPT Ads campaigns.",
+            "zh": "托管 MCP 插件，让 Cursor 与 Grok Bot 管理 Google/Meta/TikTok/LinkedIn/Amazon/ChatGPT 广告活动。",
+            "ja": "ホスト型 MCP プラグインで、Cursor と Grok Bot から Google / Meta / TikTok / LinkedIn / Amazon / ChatGPT Ads を運用します。"
+          }
+        },
+        {
+          "title": "Public Grok Bot plugin marketplace (goal-driven reset)",
+          "url": "https://github.com/thecosmicpine/grok-bot-plugins",
+          "source": "GB-946",
+          "blurb": {
+            "en": "Public Grok Bot plugin pack with bot.json + SKILL.md personas, including a Dan Koe–style 1-day goal reset skill.",
+            "zh": "面向 Grok Bot 应用的公开插件集（bot.json + SKILL.md），含一日目标重置等 persona/skill。",
+            "ja": "Grok Bot アプリ向けの公開プラグイン集（bot.json + SKILL.md）。1日ゴールリセットなどの persona/skill を同梱します。"
+          }
+        },
+        {
+          "title": "grok-actor — personality presets plugin for Grok Build",
+          "url": "https://github.com/Amnibro/grok-actor",
+          "source": "GB-953",
+          "blurb": {
+            "en": "Grok Build plugin that switches actor/personality presets via hooks, rules, and personas without sticky project rules.",
+            "zh": "Grok Build 插件：用 hooks/rules/personas 切换演员人设与语气，无需粘性项目规则。",
+            "ja": "hooks / rules / personas で俳優・口調プリセットを切り替える Grok Build プラグインです。"
+          }
+        },
+        {
+          "title": "ForeverLM plugins marketplace (incl. Grok Build)",
+          "url": "https://github.com/AurifyTech/foreverlm-plugins",
+          "source": "GB-954",
+          "blurb": {
+            "en": "Official ForeverLM remote-MCP plugin packs for Claude Code, Cowork, Grok Build, and ChatGPT/Codex study workflows.",
+            "zh": "ForeverLM 官方远程 MCP 插件包，支持 Claude Code、Cowork、Grok Build 与 ChatGPT/Codex 学习工作流。",
+            "ja": "ForeverLM 公式のリモート MCP プラグイン群。Claude Code / Cowork / Grok Build / ChatGPT・Codex 向けです。"
+          }
         }
       ]
     },
@@ -6643,6 +6723,66 @@
             "en": "Shared host-grid web app where cowork attendees join through Grok Bot; tokens only, SSE lobby stream, Cloudflare deploy, no Clerk/Supabase required.",
             "zh": "共享主机网格：参会者通过 Grok Bot 加入 cowork；仅 token、SSE 大厅流、可 Cloudflare 部署，无需 Clerk/Supabase。",
             "ja": "Grok Bot 経由で参加する cowork 用ホストグリッド。token のみ、SSE、Cloudflare デプロイ可。Clerk/Supabase 不要。"
+          }
+        },
+        {
+          "title": "Codex × Grok Bot MCP task bridge",
+          "url": "https://github.com/aipmer/codex-grok-task-bridge",
+          "source": "GB-945",
+          "blurb": {
+            "en": "Open-source Cloudflare MCP bridge so Codex queues tasks and a Grok Bot cloud-computer Routine claims, executes, and returns evidence.",
+            "zh": "开源 Cloudflare MCP 任务桥：Codex 入队，Grok Bot 云电脑例程领取执行并回传证据。",
+            "ja": "Cloudflare 上の MCP タスク橋で、Codex が投入し Grok Bot のクラウドコンピュータ Routine が取得・実行・証跡返却します。"
+          }
+        },
+        {
+          "title": "Artemisc MCP gateway bridging Grok Bot to Artemis phones",
+          "url": "https://github.com/DeveloperStud/artemisc-grok",
+          "source": "GB-947",
+          "blurb": {
+            "en": "Remote HTTPS MCP gateway so Grok Bot (and grok.com / Grok Build) can drive Google Artemis phone control without localhost stdio.",
+            "zh": "远程 HTTPS MCP 网关，让 Grok Bot（及 grok.com / Grok Build）驱动 Google Artemis 控机，无需本机 stdio。",
+            "ja": "Grok Bot（および grok.com / Grok Build）が localhost stdio なしで Google Artemis 端末操作へ届くリモート HTTPS MCP ゲートウェイです。"
+          }
+        },
+        {
+          "title": "Grok Bot 0.18 reconstructed + inference router extensions",
+          "url": "https://github.com/AlexisDevos/grok-bot-0.18-reconstructed",
+          "source": "GB-951",
+          "blurb": {
+            "en": "Unofficial Grok Bot 0.18 reconstruction extended with multi-provider inference routing, local usage tracking, and VPS computer mode.",
+            "zh": "非官方 Grok Bot 0.18 源码重建，并扩展多提供商推理路由、本地用量统计与 VPS 电脑模式。",
+            "ja": "非公式の Grok Bot 0.18 再構築に、多プロバイダ推論ルータ・利用量追跡・VPS コンピュータモードを追加した拡張版です。"
+          }
+        },
+        {
+          "title": "Grok Remote — phone/browser controller for Grok Build",
+          "url": "https://github.com/Amnibro/grok-remote",
+          "source": "GB-952",
+          "blurb": {
+            "en": "LAN phone/browser remote for Grok Build sessions with live chat, skills, history, themes, and optional companion hologram.",
+            "zh": "在局域网用手机/浏览器遥控 Grok Build 会话：实时对话、技能、历史、主题与可选全息伴侣。",
+            "ja": "同一 LAN 上のスマホ/ブラウザから Grok Build セッションを操作。ライブチャット、Skills、履歴、テーマ、任意のホログラム伴侶付きです。"
+          }
+        },
+        {
+          "title": "goal-flight long-running orchestrator for Grok Bot",
+          "url": "https://github.com/simonrowland/goal-flight",
+          "source": "GB-955",
+          "blurb": {
+            "en": "Long-running goal orchestrator that can install on Grok Bot as a host, dispatching Codex/Cursor/Grok workers with durable plans and reviews.",
+            "zh": "可安装到 Grok Bot 主机的长程目标编排器，向 Codex/Cursor/Grok 工人分派任务并保留计划与评审。",
+            "ja": "Grok Bot にホスト導入できる長時間ゴール編排。Codex / Cursor / Grok ワーカーへ計画・レビュー付きで派遣します。"
+          }
+        },
+        {
+          "title": "Grok Build (grok) — SpaceXAI coding agent harness",
+          "url": "https://github.com/xai-org/grok-build",
+          "source": "GB-956",
+          "blurb": {
+            "en": "Official SpaceXAI open-source terminal coding agent (TUI/ACP) that powers Grok Build plugins and local teammate workflows beside Grok Bot.",
+            "zh": "SpaceXAI 官方开源终端编码代理（TUI/ACP），支撑 Grok Build 插件与本地队友工作流，与 Grok Bot 互补。",
+            "ja": "SpaceXAI 公式のオープンソース端末コーディングエージェント（TUI/ACP）。Grok Build プラグインとローカル相棒フローの基盤で、Grok Bot と並ぶ公式ハーネスです。"
           }
         }
       ]
@@ -9263,6 +9403,46 @@
             "en": "Claude marketplace index for Spillwave OKF ContentPacks that also documents grok-bot/* install paths and ONBOARDING.md for cloud Grok Bots.",
             "zh": "Spillwave OKF ContentPack 的 Claude marketplace 索引，并写明 grok-bot/* 安装路径与云端 Grok Bot 的 ONBOARDING.md。",
             "ja": "Spillwave OKF ContentPack の Claude マーケット索引。grok-bot/* 導入とクラウド Grok Bot 向け ONBOARDING.md も記載。"
+          }
+        },
+        {
+          "title": "tommy-ca Grok Build plugin marketplace catalog",
+          "url": "https://github.com/tommy-ca/grok-build-plugins",
+          "source": "GB-957",
+          "blurb": {
+            "en": "Grok-native marketplace catalog pinning pstack and sibling Grok Build plugins with install/enable guidance.",
+            "zh": "面向 Grok Build 的市场目录：固定 pstack 及同系插件，并给出 install/enable 指引。",
+            "ja": "pstack などをピン留めした Grok Build 向けマーケットプレイスカタログと導入手順です。"
+          }
+        },
+        {
+          "title": "ToolboxMD marketplace for Codex, Claude, and Grok Build",
+          "url": "https://github.com/toolboxmd/marketplace",
+          "source": "GB-958",
+          "blurb": {
+            "en": "Shared plugin marketplace that Codex, Claude Code, Grok Build, and Cursor can add for ToolboxMD skills.",
+            "zh": "Codex、Claude Code、Grok Build 与 Cursor 可共用的 ToolboxMD 插件市场目录。",
+            "ja": "Codex / Claude Code / Grok Build / Cursor が追加できる ToolboxMD プラグインの共有マーケットです。"
+          }
+        },
+        {
+          "title": "hackathonist — Serbia list featuring Grok Bot Hackathon",
+          "url": "https://github.com/zsevic/hackathonist",
+          "source": "GB-959",
+          "blurb": {
+            "en": "Curated Serbia hackathon list currently featuring the Grok Bot Serbia Hackathon in Belgrade.",
+            "zh": "塞尔维亚黑客松精选列表，当前置顶贝尔格莱德 Grok Bot Serbia Hackathon。",
+            "ja": "セルビアのハッカソン一覧。ベオグラードの Grok Bot Serbia Hackathon を掲載しています。"
+          }
+        },
+        {
+          "title": "grok-plugin-claude — use Grok Build from Claude Code",
+          "url": "https://github.com/bigu1/grok-plugin-claude",
+          "source": "GB-960",
+          "blurb": {
+            "en": "Claude Code plugin that delegates reviews and hard bugs to local Grok Build while you keep chatting in Claude.",
+            "zh": "在 Claude Code 对话中把评审与硬 bug 委派给本机 Grok Build 的插件。",
+            "ja": "Claude Code 上で会話しつつ、レビューや難バグをローカル Grok Build に委譲するプラグインです。"
           }
         }
       ]
@@ -13793,6 +13973,37 @@
         "en": "Register on Luma",
         "zh": "去 Luma 报名",
         "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "kla-20261003",
+      "url": "https://luma.com/spacexai-upc4",
+      "image": "./assets/events/kla-20261003-cover.png",
+      "expires": "2026-10-03T17:00:00+03:00",
+      "title": {
+        "en": "Grok Bot Meetup Kampala",
+        "zh": "Grok Bot 坎帕拉线下交流",
+        "ja": "Grok Bot Meetup Kampala"
+      },
+      "when": {
+        "en": "Sat 3 Oct 2026, 14:00–17:00 (Africa/Nairobi / EAT, UTC+3)",
+        "zh": "2026-10-03 周六 14:00–17:00（非洲/内罗毕 EAT，UTC+3；坎帕拉同区）",
+        "ja": "2026-10-03（土）14:00–17:00（Africa/Nairobi、EAT、UTC+3／カンパラ同オフセット）"
+      },
+      "where": {
+        "en": "Kampala, Uganda · venue TBA (details after register)",
+        "zh": "乌干达坎帕拉 · 场地待定（报名后可见）",
+        "ja": "ウガンダ・カンパラ · 会場未定（登録後に案内）"
+      },
+      "body": {
+        "en": "SpaceXAI for Kampala, Uganda, Africa afternoon meetup (host Ronnie 3.0). Product copy: Grok Bot — SpaceXAI’s AI assistant with cloud agents that do real work, not just chat; getting started, practical workflows (planning/ops/day-to-day), Q&A; runs on Android/Mac/iOS/Linux; beginners welcome. Free; no approval; spots_remaining 100; guest_count 0 at scan. Luma geo blank (calendar city Kampala, UG). NEW vs morning discover (not in morning unknown-grokish / community cal).",
+        "zh": "SpaceXAI for Kampala, Uganda, Africa 下午局（主办 Ronnie 3.0）。产品文案：Grok Bot 是 SpaceXAI 带云端 agent、能真干活的 AI 助手（非纯聊天）；入门、实用工作流（规划/运维/日常）、问答；支持 Android/Mac/iOS/Linux；欢迎新手。免费、无需审核；余位 100；扫描时报名 0。Luma 无具体地址（日历城市坎帕拉 UG）。相对 morning discover 新增（早间 unknown-grokish / 社区日历均未见）。",
+        "ja": "SpaceXAI for Kampala, Uganda, Africa の午後Meetup（主催 Ronnie 3.0）。Grok Bot は実作業ができるクラウドエージェント付き AI アシスタント（チャットだけではない）、という製品コピー。始め方・実務ワークフロー・Q&A。Android/Mac/iOS/Linux 対応・初心者歓迎。無料・承認不要・残席100・スキャン時0名。会場は登録後。morning discover / community cal に無く新規。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
       }
     }
   ]

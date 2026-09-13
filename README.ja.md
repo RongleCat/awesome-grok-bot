@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-918-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-936-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -66,6 +66,7 @@
 - **マレーシア**（1）：[クアラルンプール](./EVENTS.ja.md#kul-20260919)
 - **オランダ**（1）：[アムステルダム](./EVENTS.ja.md#ams-20260922)
 - **フィリピン**（1）：[セブ](./EVENTS.ja.md#ceb-20260919)
+- **ウガンダ**（1）：[カンパラ](./EVENTS.ja.md#kla-20261003)
 - **ザンビア**（1）：[ルサカ](./EVENTS.ja.md#lun-20261002)
 
 ## 目次
@@ -328,6 +329,9 @@
 - [Kaspa archival node via one Grok Bot prompt](https://github.com/STP-KAS/Xai.Kaspa.node) - GROK_BOT_PROMPT.md を Grok Bot に貼ると、Bot の Linux コンピュータ上で Kaspa メインネット・アーカイバルノードを起動し生存確認します。
 - [PokeBot Field Guide for Grok Bot rosters](https://github.com/Pitchfork-and-Torch/pokebot) - Vite/React の Field Guide。x.ai/bot 共有 URL を貼って Keep/Watch/Skip、六体まで固定（Never Add）。テンプレは pack/。
 - [COUNTERSHIFT — parallel Grok Bot Galaxy 72h desk](https://github.com/ThePeoplesVoice/countershift) - Grok Bot Galaxy（2026-09-15–17）に対する非公式 72 時間並列デスク。bots/ 貼り付け、ハンドオフ手順、パース夜勤クロック付き。
+- [Poly Formula — Belgrade Grok Bot Hackathon racer](https://github.com/peckz/poly-formula) - ベオグラードの Grok Bot ハッカソン作品。MediaPipe + Three.js のウェブカム操縦ローポリレーサーです。
+- [Circleback — Pets vs Bots Grok Bot Serbia hackathon game](https://github.com/aleksicmarija/circleback) - Grok Bot セルビアハッカソンで1日制作のリアルタイム陣取り（ペット vs AIボット）です。
+- [Scam Drill — Grok Bot hackathon voice practice app](https://github.com/w4jo/grok-bot-hackathon) - 高齢者向け電話詐欺の音声ロールプレイ練習アプリ。Grok Bot ハッカソン成果物として公開されています。
 
 ## スキル、プラグインと MCP
 
@@ -586,6 +590,11 @@
 - [WhatSetter plugin for Grok Bot and Cursor](https://github.com/whatsetter/whatsetter-plugin) - WhatSetter 公式 MCP（.grok-plugin 付き）。Grok Bot が朝報・WhatsApp リード仕分け・CRM 取込・予約キャンペーン操作を自然言語で行う。
 - [Kadre — NanoGPT frame skill for Grok Bot](https://github.com/ulinycoin/kadre) - Hermes Agent / Grok Bot 向け分鏡生成スキル（CyberRealistic XL/Pony ルータ）。skills/kadre/SKILL.md 付き。
 - [Nexus MCP — Moodle tools for Grok Bot computers](https://github.com/linboxin/nexus-mcp) - Union College Nexus（Moodle）読み取り専用 MCP。docs/BOT_COMPUTER.md とトンネル公開手順で Grok Bot が履修・成績・締切を要約。
+- [OptionKrafter agent plugin for Grok Bot and Cursor](https://github.com/optionkrafter/agent-plugin) - Cursor や Grok Bot などを OptionKrafter のホスト型 MCP に接続し、実履歴オプションチェーンでバックテストします。
+- [Adspirer plugin for Cursor and Grok Bot ads MCP](https://github.com/Adspirer/adspirer-cursor-plugin) - ホスト型 MCP プラグインで、Cursor と Grok Bot から Google / Meta / TikTok / LinkedIn / Amazon / ChatGPT Ads を運用します。
+- [Public Grok Bot plugin marketplace (goal-driven reset)](https://github.com/thecosmicpine/grok-bot-plugins) - Grok Bot アプリ向けの公開プラグイン集（bot.json + SKILL.md）。1日ゴールリセットなどの persona/skill を同梱します。
+- [grok-actor — personality presets plugin for Grok Build](https://github.com/Amnibro/grok-actor) - hooks / rules / personas で俳優・口調プリセットを切り替える Grok Build プラグインです。
+- [ForeverLM plugins marketplace (incl. Grok Build)](https://github.com/AurifyTech/foreverlm-plugins) - ForeverLM 公式のリモート MCP プラグイン群。Claude Code / Cowork / Grok Build / ChatGPT・Codex 向けです。
 
 ## レビューと比較
 
@@ -755,6 +764,12 @@
 - [Grok Bot MCP bridge (public template)](https://github.com/mozzquito/omx-grokbot-public) - Grok Bot MCP ブリッジの公開 MIT テンプレ。リモート gateway は Bot のクラウド PC 上で実行し、発見／transcript に資格情報を返さない。
 - [grok-bridge — SSH inbox for Mac mini Grok Bot agents](https://github.com/rdegraci/grok-bridge) - 専用 Mac mini 上の Grok Bot と SSH で話す Python CLI。start/stop、webhook 起床、bot 別返信キュー付き。
 - [Grok Bot Lobby — cowork host grid for Bot attendees](https://github.com/frankterpo/grok-bot-lobby) - Grok Bot 経由で参加する cowork 用ホストグリッド。token のみ、SSE、Cloudflare デプロイ可。Clerk/Supabase 不要。
+- [Codex × Grok Bot MCP task bridge](https://github.com/aipmer/codex-grok-task-bridge) - Cloudflare 上の MCP タスク橋で、Codex が投入し Grok Bot のクラウドコンピュータ Routine が取得・実行・証跡返却します。
+- [Artemisc MCP gateway bridging Grok Bot to Artemis phones](https://github.com/DeveloperStud/artemisc-grok) - Grok Bot（および grok.com / Grok Build）が localhost stdio なしで Google Artemis 端末操作へ届くリモート HTTPS MCP ゲートウェイです。
+- [Grok Bot 0.18 reconstructed + inference router extensions](https://github.com/AlexisDevos/grok-bot-0.18-reconstructed) - 非公式の Grok Bot 0.18 再構築に、多プロバイダ推論ルータ・利用量追跡・VPS コンピュータモードを追加した拡張版です。
+- [Grok Remote — phone/browser controller for Grok Build](https://github.com/Amnibro/grok-remote) - 同一 LAN 上のスマホ/ブラウザから Grok Build セッションを操作。ライブチャット、Skills、履歴、テーマ、任意のホログラム伴侶付きです。
+- [goal-flight long-running orchestrator for Grok Bot](https://github.com/simonrowland/goal-flight) - Grok Bot にホスト導入できる長時間ゴール編排。Codex / Cursor / Grok ワーカーへ計画・レビュー付きで派遣します。
+- [Grok Build (grok) — SpaceXAI coding agent harness](https://github.com/xai-org/grok-build) - SpaceXAI 公式のオープンソース端末コーディングエージェント（TUI/ACP）。Grok Build プラグインとローカル相棒フローの基盤で、Grok Bot と並ぶ公式ハーネスです。
 
 ## コミュニティと障害事例
 
@@ -1021,10 +1036,14 @@
 - [Hermes Bot Mode starters mapped from Grok Bot roles](https://github.com/0xNyk/hermes-bot-starter) - Hermes Agent Bot Mode スターター。Grok Bot の役割／原語を Hermes プロファイルへ写す文書付き（エクスポート本体ではない）。
 - [Grok Bot for Linux (unofficial, archived)](https://github.com/atavacron/grok-bot-linux) - アーカイブ済みの非公式 Linux 向け Grok Bot パッケージ（Wine なし AppImage/deb）。README は公式 Cursor CDN を案内。
 - [Spillwave second-brain marketplace with Grok Bot onboarding](https://github.com/SpillwaveSolutions/second-brain-marketplace) - Spillwave OKF ContentPack の Claude マーケット索引。grok-bot/* 導入とクラウド Grok Bot 向け ONBOARDING.md も記載。
+- [tommy-ca Grok Build plugin marketplace catalog](https://github.com/tommy-ca/grok-build-plugins) - pstack などをピン留めした Grok Build 向けマーケットプレイスカタログと導入手順です。
+- [ToolboxMD marketplace for Codex, Claude, and Grok Build](https://github.com/toolboxmd/marketplace) - Codex / Claude Code / Grok Build / Cursor が追加できる ToolboxMD プラグインの共有マーケットです。
+- [hackathonist — Serbia list featuring Grok Bot Hackathon](https://github.com/zsevic/hackathonist) - セルビアのハッカソン一覧。ベオグラードの Grok Bot Serbia Hackathon を掲載しています。
+- [grok-plugin-claude — use Grok Build from Claude Code](https://github.com/bigu1/grok-plugin-claude) - Claude Code 上で会話しつつ、レビューや難バグをローカル Grok Build に委譲するプラグインです。
 
 ## 貢献
 
-8 セクションに 918 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 936 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

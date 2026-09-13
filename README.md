@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-918-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-936-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -66,6 +66,7 @@
 - **Malaysia**（1）：[Kuala Lumpur](./EVENTS.md#kul-20260919)
 - **Netherlands**（1）：[Amsterdam](./EVENTS.md#ams-20260922)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
+- **Uganda**（1）：[Kampala](./EVENTS.md#kla-20261003)
 - **Zambia**（1）：[Lusaka](./EVENTS.md#lun-20261002)
 
 ## Contents
@@ -328,6 +329,9 @@
 - [Kaspa archival node via one Grok Bot prompt](https://github.com/STP-KAS/Xai.Kaspa.node) - Paste GROK_BOT_PROMPT.md into Grok Bot to run a Kaspa mainnet archival node on the bot Linux computer with keep-alive checks.
 - [PokeBot Field Guide for Grok Bot rosters](https://github.com/Pitchfork-and-Torch/pokebot) - Vite/React Field Guide to census, paste, Keep/Watch/Skip, and pin six Grok Bots from x.ai/bot share URLs — Never Add, pack templates under pack/.
 - [COUNTERSHIFT — parallel Grok Bot Galaxy 72h desk](https://github.com/ThePeoplesVoice/countershift) - Public desk for an unofficial parallel 72-hour build against Grok Bot Galaxy (15–17 Sep 2026), with pasteable bots/, handoff protocol, and Perth night clock.
+- [Poly Formula — Belgrade Grok Bot Hackathon racer](https://github.com/peckz/poly-formula) - Webcam-steered low-poly racing demo built at the Grok Bot Hackathon in Belgrade with MediaPipe and Three.js.
+- [Circleback — Pets vs Bots Grok Bot Serbia hackathon game](https://github.com/aleksicmarija/circleback) - Real-time multiplayer turf-war game (pets vs AI bots) built in one day at the Grok Bot Serbia Hackathon.
+- [Scam Drill — Grok Bot hackathon voice practice app](https://github.com/w4jo/grok-bot-hackathon) - Voice practice app that coaches older adults through phone-scam drills, shipped as a Grok Bot hackathon project.
 
 ## Skills, Plugins & MCP
 
@@ -586,6 +590,11 @@
 - [WhatSetter plugin for Grok Bot and Cursor](https://github.com/whatsetter/whatsetter-plugin) - Official WhatSetter MCP plugin (.grok-plugin) so Grok Bot can brief, triage WhatsApp leads, import CRM rows, and control booking campaigns in plain language.
 - [Kadre — NanoGPT frame skill for Grok Bot](https://github.com/ulinycoin/kadre) - Image-frame generation skill (CyberRealistic XL/Pony router) with skills/kadre/SKILL.md for Hermes Agent and Grok Bot agents.
 - [Nexus MCP — Moodle tools for Grok Bot computers](https://github.com/linboxin/nexus-mcp) - Read-only Union College Nexus (Moodle) MCP with docs/BOT_COMPUTER.md and expose tunnel recipe so Grok Bot can brief courses, grades, and deadlines.
+- [OptionKrafter agent plugin for Grok Bot and Cursor](https://github.com/optionkrafter/agent-plugin) - Open wrapper that points Cursor, Grok Bot, and other agents at OptionKrafter's hosted MCP for options backtests on real historical chains.
+- [Adspirer plugin for Cursor and Grok Bot ads MCP](https://github.com/Adspirer/adspirer-cursor-plugin) - Hosted MCP plugin that lets Cursor and Grok Bot manage Google, Meta, TikTok, LinkedIn, Amazon, and ChatGPT Ads campaigns.
+- [Public Grok Bot plugin marketplace (goal-driven reset)](https://github.com/thecosmicpine/grok-bot-plugins) - Public Grok Bot plugin pack with bot.json + SKILL.md personas, including a Dan Koe–style 1-day goal reset skill.
+- [grok-actor — personality presets plugin for Grok Build](https://github.com/Amnibro/grok-actor) - Grok Build plugin that switches actor/personality presets via hooks, rules, and personas without sticky project rules.
+- [ForeverLM plugins marketplace (incl. Grok Build)](https://github.com/AurifyTech/foreverlm-plugins) - Official ForeverLM remote-MCP plugin packs for Claude Code, Cowork, Grok Build, and ChatGPT/Codex study workflows.
 
 ## Reviews & Comparisons
 
@@ -755,6 +764,12 @@
 - [Grok Bot MCP bridge (public template)](https://github.com/mozzquito/omx-grokbot-public) - Public MIT template of a Grok Bot MCP bridge: remote gateway runs on the Bot computer while discovery/transcripts never return the gateway credential.
 - [grok-bridge — SSH inbox for Mac mini Grok Bot agents](https://github.com/rdegraci/grok-bridge) - Python CLI bridge to chat with Grok Bot agents on a dedicated Mac mini over SSH, with start/stop server, webhook wake, and per-bot reply queues.
 - [Grok Bot Lobby — cowork host grid for Bot attendees](https://github.com/frankterpo/grok-bot-lobby) - Shared host-grid web app where cowork attendees join through Grok Bot; tokens only, SSE lobby stream, Cloudflare deploy, no Clerk/Supabase required.
+- [Codex × Grok Bot MCP task bridge](https://github.com/aipmer/codex-grok-task-bridge) - Open-source Cloudflare MCP bridge so Codex queues tasks and a Grok Bot cloud-computer Routine claims, executes, and returns evidence.
+- [Artemisc MCP gateway bridging Grok Bot to Artemis phones](https://github.com/DeveloperStud/artemisc-grok) - Remote HTTPS MCP gateway so Grok Bot (and grok.com / Grok Build) can drive Google Artemis phone control without localhost stdio.
+- [Grok Bot 0.18 reconstructed + inference router extensions](https://github.com/AlexisDevos/grok-bot-0.18-reconstructed) - Unofficial Grok Bot 0.18 reconstruction extended with multi-provider inference routing, local usage tracking, and VPS computer mode.
+- [Grok Remote — phone/browser controller for Grok Build](https://github.com/Amnibro/grok-remote) - LAN phone/browser remote for Grok Build sessions with live chat, skills, history, themes, and optional companion hologram.
+- [goal-flight long-running orchestrator for Grok Bot](https://github.com/simonrowland/goal-flight) - Long-running goal orchestrator that can install on Grok Bot as a host, dispatching Codex/Cursor/Grok workers with durable plans and reviews.
+- [Grok Build (grok) — SpaceXAI coding agent harness](https://github.com/xai-org/grok-build) - Official SpaceXAI open-source terminal coding agent (TUI/ACP) that powers Grok Build plugins and local teammate workflows beside Grok Bot.
 
 ## Community & Failure Modes
 
@@ -1021,10 +1036,14 @@
 - [Hermes Bot Mode starters mapped from Grok Bot roles](https://github.com/0xNyk/hermes-bot-starter) - Hermes Agent Bot Mode starter templates with docs mapping Grok Bot roles/primitives onto Hermes profiles (not a Grok Bot export).
 - [Grok Bot for Linux (unofficial, archived)](https://github.com/atavacron/grok-bot-linux) - Archived community wine-less AppImage/deb packaging for Grok Bot on Linux; README now points to official Cursor CDN packages.
 - [Spillwave second-brain marketplace with Grok Bot onboarding](https://github.com/SpillwaveSolutions/second-brain-marketplace) - Claude marketplace index for Spillwave OKF ContentPacks that also documents grok-bot/* install paths and ONBOARDING.md for cloud Grok Bots.
+- [tommy-ca Grok Build plugin marketplace catalog](https://github.com/tommy-ca/grok-build-plugins) - Grok-native marketplace catalog pinning pstack and sibling Grok Build plugins with install/enable guidance.
+- [ToolboxMD marketplace for Codex, Claude, and Grok Build](https://github.com/toolboxmd/marketplace) - Shared plugin marketplace that Codex, Claude Code, Grok Build, and Cursor can add for ToolboxMD skills.
+- [hackathonist — Serbia list featuring Grok Bot Hackathon](https://github.com/zsevic/hackathonist) - Curated Serbia hackathon list currently featuring the Grok Bot Serbia Hackathon in Belgrade.
+- [grok-plugin-claude — use Grok Build from Claude Code](https://github.com/bigu1/grok-plugin-claude) - Claude Code plugin that delegates reviews and hard bugs to local Grok Build while you keep chatting in Claude.
 
 ## Contributing
 
-918 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+936 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-918-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-936-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -66,6 +66,7 @@
 - **马来西亚**（1）：[吉隆坡](./EVENTS.zh.md#kul-20260919)
 - **荷兰**（1）：[阿姆斯特丹](./EVENTS.zh.md#ams-20260922)
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
+- **乌干达**（1）：[坎帕拉](./EVENTS.zh.md#kla-20261003)
 - **赞比亚**（1）：[卢萨卡](./EVENTS.zh.md#lun-20261002)
 
 ## 目录
@@ -328,6 +329,9 @@
 - [Kaspa archival node via one Grok Bot prompt](https://github.com/STP-KAS/Xai.Kaspa.node) - 把 GROK_BOT_PROMPT.md 贴进 Grok Bot，在 bot 自带 Linux 电脑上跑 Kaspa 主网归档节点并做保活检查。.
 - [PokeBot Field Guide for Grok Bot rosters](https://github.com/Pitchfork-and-Torch/pokebot) - 用 Vite/React 做的 Grok Bot 名册指南：清点、粘贴 x.ai/bot 分享链接、Keep/Watch/Skip，固定六只（Never Add），模板在 pack/。.
 - [COUNTERSHIFT — parallel Grok Bot Galaxy 72h desk](https://github.com/ThePeoplesVoice/countershift) - 对着 Grok Bot Galaxy（2026-09-15–17）的非官方并行 72 小时工位：含可粘贴 bots/、交接协议与珀斯夜班时钟。.
+- [Poly Formula — Belgrade Grok Bot Hackathon racer](https://github.com/peckz/poly-formula) - 贝尔格莱德 Grok Bot 黑客松作品：摄像头体感低面赛车（MediaPipe + Three.js）。.
+- [Circleback — Pets vs Bots Grok Bot Serbia hackathon game](https://github.com/aleksicmarija/circleback) - Grok Bot 塞尔维亚黑客松一日作品：宠物对战 AI 机器人的实时圈地多人游戏。.
+- [Scam Drill — Grok Bot hackathon voice practice app](https://github.com/w4jo/grok-bot-hackathon) - 面向老年人的电话诈骗情景语音演练应用，作为 Grok Bot 黑客松项目交付。.
 
 ## 技能、插件与 MCP
 
@@ -586,6 +590,11 @@
 - [WhatSetter plugin for Grok Bot and Cursor](https://github.com/whatsetter/whatsetter-plugin) - WhatSetter 官方 MCP 插件（含 .grok-plugin）：让 Grok Bot 用自然语言做早报、WhatsApp 线索分拣、CRM 导入与预约活动控制。.
 - [Kadre — NanoGPT frame skill for Grok Bot](https://github.com/ulinycoin/kadre) - 面向 Hermes Agent 与 Grok Bot 的分镜生成 skill（CyberRealistic XL/Pony 路由），含 skills/kadre/SKILL.md。.
 - [Nexus MCP — Moodle tools for Grok Bot computers](https://github.com/linboxin/nexus-mcp) - 只读的 Union College Nexus（Moodle）MCP，附 docs/BOT_COMPUTER.md 与隧道暴露步骤，供 Grok Bot 汇报课程、成绩与截止日。.
+- [OptionKrafter agent plugin for Grok Bot and Cursor](https://github.com/optionkrafter/agent-plugin) - 将 Cursor、Grok Bot 等代理接到 OptionKrafter 托管 MCP，用真实历史期权链回测策略。.
+- [Adspirer plugin for Cursor and Grok Bot ads MCP](https://github.com/Adspirer/adspirer-cursor-plugin) - 托管 MCP 插件，让 Cursor 与 Grok Bot 管理 Google/Meta/TikTok/LinkedIn/Amazon/ChatGPT 广告活动。.
+- [Public Grok Bot plugin marketplace (goal-driven reset)](https://github.com/thecosmicpine/grok-bot-plugins) - 面向 Grok Bot 应用的公开插件集（bot.json + SKILL.md），含一日目标重置等 persona/skill。.
+- [grok-actor — personality presets plugin for Grok Build](https://github.com/Amnibro/grok-actor) - Grok Build 插件：用 hooks/rules/personas 切换演员人设与语气，无需粘性项目规则。.
+- [ForeverLM plugins marketplace (incl. Grok Build)](https://github.com/AurifyTech/foreverlm-plugins) - ForeverLM 官方远程 MCP 插件包，支持 Claude Code、Cowork、Grok Build 与 ChatGPT/Codex 学习工作流。.
 
 ## 评测与对比
 
@@ -755,6 +764,12 @@
 - [Grok Bot MCP bridge (public template)](https://github.com/mozzquito/omx-grokbot-public) - 公开 MIT 的 Grok Bot MCP 桥接模板：远程网关在 Bot 云电脑执行，发现与 transcript 不回传网关凭证。.
 - [grok-bridge — SSH inbox for Mac mini Grok Bot agents](https://github.com/rdegraci/grok-bridge) - Python CLI：经 SSH 连接专用 Mac mini 上的 Grok Bot agents，含启停服务、webhook 唤醒与按 bot 回复队列。.
 - [Grok Bot Lobby — cowork host grid for Bot attendees](https://github.com/frankterpo/grok-bot-lobby) - 共享主机网格：参会者通过 Grok Bot 加入 cowork；仅 token、SSE 大厅流、可 Cloudflare 部署，无需 Clerk/Supabase。.
+- [Codex × Grok Bot MCP task bridge](https://github.com/aipmer/codex-grok-task-bridge) - 开源 Cloudflare MCP 任务桥：Codex 入队，Grok Bot 云电脑例程领取执行并回传证据。.
+- [Artemisc MCP gateway bridging Grok Bot to Artemis phones](https://github.com/DeveloperStud/artemisc-grok) - 远程 HTTPS MCP 网关，让 Grok Bot（及 grok.com / Grok Build）驱动 Google Artemis 控机，无需本机 stdio。.
+- [Grok Bot 0.18 reconstructed + inference router extensions](https://github.com/AlexisDevos/grok-bot-0.18-reconstructed) - 非官方 Grok Bot 0.18 源码重建，并扩展多提供商推理路由、本地用量统计与 VPS 电脑模式。.
+- [Grok Remote — phone/browser controller for Grok Build](https://github.com/Amnibro/grok-remote) - 在局域网用手机/浏览器遥控 Grok Build 会话：实时对话、技能、历史、主题与可选全息伴侣。.
+- [goal-flight long-running orchestrator for Grok Bot](https://github.com/simonrowland/goal-flight) - 可安装到 Grok Bot 主机的长程目标编排器，向 Codex/Cursor/Grok 工人分派任务并保留计划与评审。.
+- [Grok Build (grok) — SpaceXAI coding agent harness](https://github.com/xai-org/grok-build) - SpaceXAI 官方开源终端编码代理（TUI/ACP），支撑 Grok Build 插件与本地队友工作流，与 Grok Bot 互补。.
 
 ## 社区与故障现场
 
@@ -1021,10 +1036,14 @@
 - [Hermes Bot Mode starters mapped from Grok Bot roles](https://github.com/0xNyk/hermes-bot-starter) - Hermes Agent Bot Mode 入门模板，文档把 Grok Bot 角色/原语映射到 Hermes profile（不是 Grok Bot 导出包）。.
 - [Grok Bot for Linux (unofficial, archived)](https://github.com/atavacron/grok-bot-linux) - 已归档的社区无 Wine AppImage/deb 打包，曾把 Grok Bot 带到 Linux；README 现指引官方 Cursor CDN 包。.
 - [Spillwave second-brain marketplace with Grok Bot onboarding](https://github.com/SpillwaveSolutions/second-brain-marketplace) - Spillwave OKF ContentPack 的 Claude marketplace 索引，并写明 grok-bot/* 安装路径与云端 Grok Bot 的 ONBOARDING.md。.
+- [tommy-ca Grok Build plugin marketplace catalog](https://github.com/tommy-ca/grok-build-plugins) - 面向 Grok Build 的市场目录：固定 pstack 及同系插件，并给出 install/enable 指引。.
+- [ToolboxMD marketplace for Codex, Claude, and Grok Build](https://github.com/toolboxmd/marketplace) - Codex、Claude Code、Grok Build 与 Cursor 可共用的 ToolboxMD 插件市场目录。.
+- [hackathonist — Serbia list featuring Grok Bot Hackathon](https://github.com/zsevic/hackathonist) - 塞尔维亚黑客松精选列表，当前置顶贝尔格莱德 Grok Bot Serbia Hackathon。.
+- [grok-plugin-claude — use Grok Build from Claude Code](https://github.com/bigu1/grok-plugin-claude) - 在 Claude Code 对话中把评审与硬 bug 委派给本机 Grok Build 的插件。.
 
 ## 贡献
 
-目前 8 个分类、918 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、936 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
