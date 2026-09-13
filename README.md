@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-902-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-918-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,15 +38,15 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（5）：[Shanghai](./EVENTS.md#sha-20261018) · [Hangzhou](./EVENTS.md#hzo-20260919) · [Beijing](./EVENTS.md#bj-20260919) · [Guangzhou](./EVENTS.md#can-20260913) · [Wuhan](./EVENTS.md#wuh-20261017)
-- **United States**（15）：[Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013) · [Dallas](./EVENTS.md#dal-20260919) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924)
+- **United States**（16）：[Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013) · [Dallas](./EVENTS.md#dal-20260919) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929)
 - **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260915) · [Toronto](./EVENTS.md#yyz-20260917) · [Montreal](./EVENTS.md#yul-20260919)
 - **Indonesia**（4）：[Uluwatu / Bali](./EVENTS.md#bli-20260915) · [Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Bandung](./EVENTS.md#bdg-20260919) · [Jakarta](./EVENTS.md#jkt-20261003)
 - **India**（4）：[Bhopal](./EVENTS.md#bho-20260926) · [Vidisha](./EVENTS.md#vds-20260927) · [Delhi](./EVENTS.md#del-20261003) · [Jabalpur](./EVENTS.md#jbp-20261004)
 - **Argentina**（3）：[Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
-- **Ecuador**（3）：[Manta](./EVENTS.md#mec-20260912) · [Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
 - **Mexico**（3）：[Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926)
 - **Brazil**（2）：[Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926)
 - **Germany**（2）：[Freiburg](./EVENTS.md#frb-20260917) · [Cologne](./EVENTS.md#cgn-20261009)
+- **Ecuador**（2）：[Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
 - **United Kingdom**（2）：[London](./EVENTS.md#ldn-20260916) · [London](./EVENTS.md#ldn-20260913)
 - **Guatemala**（2）：[Quetzaltenango](./EVENTS.md#xela-20260920) · [Guatemala City](./EVENTS.md#gua-20261003)
 - **Japan**（2）：[Sapporo](./EVENTS.md#spk-20261002) · [Osaka](./EVENTS.md#osa-20260917)
@@ -66,7 +66,6 @@
 - **Malaysia**（1）：[Kuala Lumpur](./EVENTS.md#kul-20260919)
 - **Netherlands**（1）：[Amsterdam](./EVENTS.md#ams-20260922)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
-- **Togo**（1）：[Lomé](./EVENTS.md#lfw-20260912)
 - **Zambia**（1）：[Lusaka](./EVENTS.md#lun-20261002)
 
 ## Contents
@@ -172,6 +171,7 @@
 - [Bot Marketplace · Personal category (x.ai)](https://x.ai/bot/marketplace/personal) - Official x.ai Bot Marketplace Personal category: installable public Bots for everyday life (credit-card max, home robots, plant care, morning newspaper, outbound calls, and more).
 - [Bot Marketplace · Operations category (x.ai)](https://x.ai/bot/marketplace/operations) - Official x.ai Bot Marketplace Operations category: installable public Bots for office ops, event requests, executive assistance, and org design/governance (Alfred).
 - [Bot Marketplace · Recruiting & People category (x.ai)](https://x.ai/bot/marketplace/recruiting-people) - Official x.ai Bot Marketplace Recruiting & People category (slug recruiting-people): installable public Bots for interview-loop coordination and talent discovery.
+- [@bot: ~10% more included usage from harness efficiency (up to 35%)](https://x.com/bot/status/2097759955214590272) - Official @bot (2026-09-09): users now get an average of ~10% more included Grok Bot usage from a more efficient harness (up to 35% for heavy users) — missed sibling of the Sep 9 QoL thread already in catalog.
 
 ## Tutorials & Guides
 
@@ -326,6 +326,8 @@
 - [Overnight six-bot Grok Bot visual crew](https://github.com/Archive228/overnight) - Human-gated six-bot Grok Bot crew that turns a night brief into sourced short-form visuals with strict role boundaries and receipts.
 - [Grok Bot Executive Branch cabinet demo](https://github.com/theSethian/grok-executive-branch) - Case study where Grok Bot built a nine-agent Executive Branch cabinet with terminal routing into the Oval Office.
 - [Kaspa archival node via one Grok Bot prompt](https://github.com/STP-KAS/Xai.Kaspa.node) - Paste GROK_BOT_PROMPT.md into Grok Bot to run a Kaspa mainnet archival node on the bot Linux computer with keep-alive checks.
+- [PokeBot Field Guide for Grok Bot rosters](https://github.com/Pitchfork-and-Torch/pokebot) - Vite/React Field Guide to census, paste, Keep/Watch/Skip, and pin six Grok Bots from x.ai/bot share URLs — Never Add, pack templates under pack/.
+- [COUNTERSHIFT — parallel Grok Bot Galaxy 72h desk](https://github.com/ThePeoplesVoice/countershift) - Public desk for an unofficial parallel 72-hour build against Grok Bot Galaxy (15–17 Sep 2026), with pasteable bots/, handoff protocol, and Perth night clock.
 
 ## Skills, Plugins & MCP
 
@@ -578,6 +580,12 @@
 - [Open Dynamic Workflows plugin for Cursor and Grok Bot](https://github.com/atebites-hub/open-dynamic-workflows-plugin) - ODW plugin with .grok-plugin packaging and ODW_HOST=grok-bot so Grok Bot fans JS workflows across Cursor CLI workers on its cloud computer.
 - [illo illustration skill with Add-to-Grok-Bot template](https://github.com/tmchow/illo-skill) - illo Agent Skill (★374) ships .grok-plugin plus an official x.ai Bot template—tap Add to Grok Bot for editorial mascot illustrations.
 - [X1 capital-call skills with Grok Bot profile](https://github.com/x1wealth/x1-agent-skills) - Open-source X1 family-office skills plus GROK_BOT_PROFILE.md so a Grok Bot can run capital-call review over Custom MCP without moving money.
+- [Root Agent — Grok Bot coordinator skill framework](https://github.com/MrBekoX/root-agent-skill-framework) - Prompt/skill pack for Root Agent, a Grok Bot coordinator that sizes the team, creates specialist Bots, and returns verified results via an Add-to-Grok-Bot share link.
+- [Parallel AI MCP plugin for Cursor and Grok Bot](https://github.com/Parallel-AI-Labs/parallel-ai-mcp) - Official Parallel AI hosted-MCP plugin package for Cursor and Grok Bot marketplaces, with OAuth PKCE and no credentials in-repo.
+- [WikiSkill pack for Grok Bot primitives](https://github.com/zepef/wikiskill-grok-bot) - Native WikiSkill adaptation that uses only Grok Bot skills, routines, and workspace folders to evolve skills from success/failure traces.
+- [WhatSetter plugin for Grok Bot and Cursor](https://github.com/whatsetter/whatsetter-plugin) - Official WhatSetter MCP plugin (.grok-plugin) so Grok Bot can brief, triage WhatsApp leads, import CRM rows, and control booking campaigns in plain language.
+- [Kadre — NanoGPT frame skill for Grok Bot](https://github.com/ulinycoin/kadre) - Image-frame generation skill (CyberRealistic XL/Pony router) with skills/kadre/SKILL.md for Hermes Agent and Grok Bot agents.
+- [Nexus MCP — Moodle tools for Grok Bot computers](https://github.com/linboxin/nexus-mcp) - Read-only Union College Nexus (Moodle) MCP with docs/BOT_COMPUTER.md and expose tunnel recipe so Grok Bot can brief courses, grades, and deadlines.
 
 ## Reviews & Comparisons
 
@@ -743,6 +751,10 @@
 - [Localhost kanban across Claude, Codex, Cursor, and Grok Bot](https://github.com/gmkbenjamin/agent-task-tracker) - Local FastAPI + React kanban (optional pywebview shell) for tracking work across Claude Code, Codex, Cursor, Grok, and Grok Bot.
 - [Browser Bot — Grok-Bot-style remote browser agent](https://github.com/snoopyrain/browser-bot-oss) - Open-source Grok-Bot-style personal remote browser agent: phone chat drives signed-in Chrome on your Mac with human takeover for 2FA.
 - [Openlaw always-on policy for Cursor Grok Bot](https://github.com/mattstyles333/openlaw) - Git-markdown always-on law for agents, with a Cursor Grok Bot attach path and grok-bot-export → Hermes migration helpers.
+- [Grok-Bot-Auth — Cursor + Grok Bot sand coexistence](https://github.com/HarryPD168/grok-bot-auth) - MIT Rust desktop app that keeps Cursor’s official subscription while routing gb-* models through Grok Bot sand via a fail-open user hook (no MITM proxy).
+- [Grok Bot MCP bridge (public template)](https://github.com/mozzquito/omx-grokbot-public) - Public MIT template of a Grok Bot MCP bridge: remote gateway runs on the Bot computer while discovery/transcripts never return the gateway credential.
+- [grok-bridge — SSH inbox for Mac mini Grok Bot agents](https://github.com/rdegraci/grok-bridge) - Python CLI bridge to chat with Grok Bot agents on a dedicated Mac mini over SSH, with start/stop server, webhook wake, and per-bot reply queues.
+- [Grok Bot Lobby — cowork host grid for Bot attendees](https://github.com/frankterpo/grok-bot-lobby) - Shared host-grid web app where cowork attendees join through Grok Bot; tokens only, SSE lobby stream, Cloudflare deploy, no Clerk/Supabase required.
 
 ## Community & Failure Modes
 
@@ -895,6 +907,7 @@
 - [Authentication error banner → Update Grok Bot’s Computer](https://forum.cursor.com/t/grok-bot-macos-0-44-0-persistent-authentication-error-after-sign-out-sign-in/171164) - Staff (Colin): Persistent “Authentication error / try logging out” can be an outdated Agent Computer build after a backend change—accounts are fine; skip sign-out/reinstall. Fix: Settings → Updates → Update Grok Bot’s Computer, then reopen and send a message.
 - [Higgsfield MCP drops until you reconnect before use](https://forum.cursor.com/t/grok-bot-higgsfield-mcp-disconnects-every-30-60-seconds-and-has-to-be-reconnected/168272) - Staff (mohitjain): Higgsfield’s sign-in can’t renew itself, so the connector drops after the first session expires—no Grok Bot setting holds it open. Workaround: reconnect Higgsfield right before you need it instead of leaving it connected all day.
 - [X connector 402 → top up credits or use Bot browser](https://forum.cursor.com/t/grok-bot-x-connector-lacks-recent-search-direct-api-requires-separate-credits/168227) - Staff (mohitjain): When X plugin search returns 402, top up credits on the X developer app behind the bearer—or skip the API and ask the Bot to use its cloud-computer browser on x.com for accounts you follow.
+- [No Chrome extension yet — iOS share sheet / paste URL workarounds](https://forum.cursor.com/t/grok-bot-chrome-extension/170305) - Staff (deanrie): There is no separate Chrome extension for Grok Bot yet. On iOS, share a page/link/selection into Bot via the share sheet; from anywhere, paste a URL into chat so the Bot opens it on its cloud computer to summarize or act.
 
 ## Related Lists
 
@@ -1006,10 +1019,12 @@
 - [SmolVM — persistent computers to build your own Grokbot](https://github.com/CelestoAI/SmolVM) - Secure persistent agent computers (★901) marketed to build your own Grokbot—browser/code sandboxes for long-running teammates.
 - [crushbot — Charm Crush bot roster like Grok Bot](https://github.com/hocoder-agents/crush-bot) - Terminal bot mesh on Charm Crush with soul.md specialists that DM and hand off—positioned as like Grok Bot or Hermes, but crushy.
 - [Hermes Bot Mode starters mapped from Grok Bot roles](https://github.com/0xNyk/hermes-bot-starter) - Hermes Agent Bot Mode starter templates with docs mapping Grok Bot roles/primitives onto Hermes profiles (not a Grok Bot export).
+- [Grok Bot for Linux (unofficial, archived)](https://github.com/atavacron/grok-bot-linux) - Archived community wine-less AppImage/deb packaging for Grok Bot on Linux; README now points to official Cursor CDN packages.
+- [Spillwave second-brain marketplace with Grok Bot onboarding](https://github.com/SpillwaveSolutions/second-brain-marketplace) - Claude marketplace index for Spillwave OKF ContentPacks that also documents grok-bot/* install paths and ONBOARDING.md for cloud Grok Bots.
 
 ## Contributing
 
-902 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+918 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

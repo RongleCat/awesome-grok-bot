@@ -72,6 +72,9 @@
 <a id="atl-20260924"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/ihgtq394"><img src="./assets/events/atl-20260924-cover.png" alt="Grok Bot Meetup Atlanta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Atlanta</strong><br />2026-09-24（木）18:00–20:00（America/New_York、EDT）<br />アトランタ都市圏 Alpharetta · Tech North Atlanta、925 North Point Pkwy Ste 130<br /><br />SpaceXAI for Atlanta のイントロMeetup。退勤後デモ中心：Grok Bot概要・ウォークスルー・ライブデモ・Q&A／オープンマイク・飲食・無料駐車。主催 Raj Poloju & Sreyas Gentela。無料・承認不要。ノートPC任意。スキャン時 0 名。Forum 171336。<br /><br /><a href="https://luma.com/ihgtq394"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
+<a id="phl-20260929"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-hdle"><img src="./assets/events/phl-20260929-cover.png" alt="Grok Bot Meetup Philadelphia" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Philadelphia</strong><br />2026-09-29（火）18:00–20:30（America/New_York、EDT、UTC−4）<br />フィラデルフィア · Indy Hall Clubhouse、709 N 2nd St 3rd Floor<br /><br />SpaceXAI for Philadelphia 初の Grok Bot Meetup（主催 Luis Cielak / Malcolm Jones）。マルチエージェント共有・Think–Pair–Share・飲食・Free Grok credits。無料・承認不要・スキャン時 49 名。会場 Indy Hall。隔夜リネーム：9/12 夕は “Cursor Meetup Philadelphia — September”（未提案の Cursor 枠）→ 現在は Grok Bot Meetup。期限切れの campus 枠 phl-20260903 / tmp-20260903 とは別。<br /><br /><a href="https://luma.com/cursor-hdle"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
 <a id="country-ca"></a>
 ### カナダ
 
@@ -132,18 +135,6 @@
 <a id="sla-20260916"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-sh4i"><img src="./assets/events/sla-20260916-cover.png" alt="Grok Bot Meetup Salta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Salta</strong><br />2026-09-16（水）18:00–20:00（ART）<br />サルタ · SorboLabs, Dean Funes 244（登録後に住所）<br /><br />サルタ初の Grok Bot。入門ワークショップ、実用例、Q&A、持参 PC でコーワーク。ツールにログインして仕事を仕上げて戻る。主催者承認。充電器持参。<br /><br /><a href="https://luma.com/cursor-sh4i"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
-<a id="country-ec"></a>
-### エクアドル
-
-<a id="mec-20260912"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-manta"><img src="./assets/events/mec-20260912-cover.png" alt="Grok Bot Manta Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Manta Workshop</strong><br />2026-09-12（土）08:30–12:30（ECT）<br />エクアドル マンタ · 登録後に住所を表示<br /><br />Grok Bot で新しいエージェント開発スタックを扱うワークショップ。無料、ウェイティング可、残席 41。<br /><br /><a href="https://luma.com/grokbot-manta"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="uio-20260924"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotquitomeetup"><img src="./assets/events/uio-20260924-cover.png" alt="Grok Bot Meetup Quito" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Quito</strong><br />2026-09-24（木）19:30–21:30（ECT）<br />キト · 登録後に住所を表示<br /><br />キトの対面 Grok Bot。無料、主催者承認、残席 47。<br /><br /><a href="https://luma.com/grokbotquitomeetup"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="cumb-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cccumbaya"><img src="./assets/events/cumb-20261003-cover.png" alt="Grok Bot Meetup Cumbayá" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cumbayá</strong><br />2026-10-03（土）09:30–12:00（ECT）<br />キト近郊 Cumbayá<br /><br />キト近郊 Cumbayá の対面 Grok Bot。無料、ウェイティング可、残席 37。<br /><br /><a href="https://luma.com/cccumbaya"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
 <a id="country-mx"></a>
 ### メキシコ
 
@@ -173,6 +164,15 @@
 
 <a id="cgn-20261009"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-cologne-meetup1"><img src="./assets/events/cgn-20261009-cover.png" alt="Grok Bot Meetup Cologne" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cologne</strong><br />2026-10-09（金）18:00–21:00（CEST）<br />ケルン（登録後に住所公開）<br /><br />ケルンの Grok Bot ミートアップ。交流・トーク／ワークショップ・実タスクでハンズオン（Windows／Mac ノートまたは iPhone、x.ai/bot を事前DL）。18:00 受付→18:30 デモ＆ハンズオン→20:00 雑談。追加スピーカー歓迎。主催 Emmanuel Ketcha、Eyad Kelleh、Babajide Mayowa Moibi、Teoman Köse。無料・承認制・約50席。<br /><br /><a href="https://luma.com/spacexai-cologne-meetup1"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="country-ec"></a>
+### エクアドル
+
+<a id="uio-20260924"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotquitomeetup"><img src="./assets/events/uio-20260924-cover.png" alt="Grok Bot Meetup Quito" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Quito</strong><br />2026-09-24（木）19:30–21:30（ECT）<br />キト · 登録後に住所を表示<br /><br />キトの対面 Grok Bot。無料、主催者承認、残席 47。<br /><br /><a href="https://luma.com/grokbotquitomeetup"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="cumb-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cccumbaya"><img src="./assets/events/cumb-20261003-cover.png" alt="Grok Bot Meetup Cumbayá" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cumbayá</strong><br />2026-10-03（土）09:30–12:00（ECT）<br />キト近郊 Cumbayá<br /><br />キト近郊 Cumbayá の対面 Grok Bot。無料、ウェイティング可、残席 37。<br /><br /><a href="https://luma.com/cccumbaya"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-gb"></a>
 ### イギリス
@@ -299,12 +299,6 @@
 
 <a id="ceb-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot Meetup Cebu" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cebu</strong><br />2026-09-19（土）09:00–11:30（PHT）<br />セブ · 登録後に住所を表示<br /><br />セブの対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="country-tg"></a>
-### トーゴ
-
-<a id="lfw-20260912"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-ec8v"><img src="./assets/events/lfw-20260912-cover.png" alt="Grok Bot Meetup Lomé" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Lomé</strong><br />2026-09-12（土）09:00–13:00（GMT）<br />ロメ トーゴ・フランス学院<br /><br />ロメの対面 Grok Bot。無料、ウェイティング可、残席 198。<br /><br /><a href="https://luma.com/cursor-ec8v"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-zm"></a>
 ### ザンビア

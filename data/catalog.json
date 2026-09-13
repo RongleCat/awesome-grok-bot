@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -903,6 +903,16 @@
             "en": "Official x.ai Bot Marketplace Recruiting & People category (slug recruiting-people): installable public Bots for interview-loop coordination and talent discovery.",
             "zh": "官方 x.ai Bot Marketplace Recruiting & People 分类（slug：recruiting-people）：面向面试排程协调与人才发现的可安装公开 Bot。",
             "ja": "公式 x.ai Bot Marketplace の Recruiting & People カテゴリ（slug: recruiting-people）：面接ループ調整とタレント発掘向けの公開インストール Bot。"
+          }
+        },
+        {
+          "title": "@bot: ~10% more included usage from harness efficiency (up to 35%)",
+          "url": "https://x.com/bot/status/2097759955214590272",
+          "source": "GB-941",
+          "blurb": {
+            "en": "Official @bot (2026-09-09): users now get an average of ~10% more included Grok Bot usage from a more efficient harness (up to 35% for heavy users) — missed sibling of the Sep 9 QoL thread already in catalog.",
+            "zh": "官方 @bot（2026-09-09）：通过更高效的 harness，用户平均可多约 10% 的 Grok Bot 含用量（重度用户最高约 35%）——同日 QoL 线程中此前未入库的一条。",
+            "ja": "公式 @bot（2026-09-09）：ハーネス効率化により Grok Bot の含む利用量が平均約 10%増（ヘビーユーザーは最大約 35%）——同日 QoL スレッドで未収録だった投稿。"
           }
         }
       ]
@@ -2403,6 +2413,26 @@
             "en": "Paste GROK_BOT_PROMPT.md into Grok Bot to run a Kaspa mainnet archival node on the bot Linux computer with keep-alive checks.",
             "zh": "把 GROK_BOT_PROMPT.md 贴进 Grok Bot，在 bot 自带 Linux 电脑上跑 Kaspa 主网归档节点并做保活检查。",
             "ja": "GROK_BOT_PROMPT.md を Grok Bot に貼ると、Bot の Linux コンピュータ上で Kaspa メインネット・アーカイバルノードを起動し生存確認します。"
+          }
+        },
+        {
+          "title": "PokeBot Field Guide for Grok Bot rosters",
+          "url": "https://github.com/Pitchfork-and-Torch/pokebot",
+          "source": "GB-930",
+          "blurb": {
+            "en": "Vite/React Field Guide to census, paste, Keep/Watch/Skip, and pin six Grok Bots from x.ai/bot share URLs — Never Add, pack templates under pack/.",
+            "zh": "用 Vite/React 做的 Grok Bot 名册指南：清点、粘贴 x.ai/bot 分享链接、Keep/Watch/Skip，固定六只（Never Add），模板在 pack/。",
+            "ja": "Vite/React の Field Guide。x.ai/bot 共有 URL を貼って Keep/Watch/Skip、六体まで固定（Never Add）。テンプレは pack/。"
+          }
+        },
+        {
+          "title": "COUNTERSHIFT — parallel Grok Bot Galaxy 72h desk",
+          "url": "https://github.com/ThePeoplesVoice/countershift",
+          "source": "GB-935",
+          "blurb": {
+            "en": "Public desk for an unofficial parallel 72-hour build against Grok Bot Galaxy (15–17 Sep 2026), with pasteable bots/, handoff protocol, and Perth night clock.",
+            "zh": "对着 Grok Bot Galaxy（2026-09-15–17）的非官方并行 72 小时工位：含可粘贴 bots/、交接协议与珀斯夜班时钟。",
+            "ja": "Grok Bot Galaxy（2026-09-15–17）に対する非公式 72 時間並列デスク。bots/ 貼り付け、ハンドオフ手順、パース夜勤クロック付き。"
           }
         }
       ]
@@ -4904,6 +4934,66 @@
             "zh": "开源 X1 家族办公室 skill，附 GROK_BOT_PROFILE.md：Grok Bot 经 Custom MCP 做资本催缴审阅，且不会擅自动款。",
             "ja": "オープンな X1 家族事務所スキルと GROK_BOT_PROFILE.md。Custom MCP 経由で資本コール審査を Grok Bot が担い、送金はしない。"
           }
+        },
+        {
+          "title": "Root Agent — Grok Bot coordinator skill framework",
+          "url": "https://github.com/MrBekoX/root-agent-skill-framework",
+          "source": "GB-927",
+          "blurb": {
+            "en": "Prompt/skill pack for Root Agent, a Grok Bot coordinator that sizes the team, creates specialist Bots, and returns verified results via an Add-to-Grok-Bot share link.",
+            "zh": "Root Agent 提示词与 skill 包：在 Grok Bot 上按需组队、创建专家 Bot，并通过 Add to Grok Bot 分享链接交付可核验结果。",
+            "ja": "Root Agent のプロンプト／スキル集。Grok Bot 上で必要最小のチームを組み、専門家 Bot を立てて検証付き結果を返す（Add to Grok Bot リンク付き）。"
+          }
+        },
+        {
+          "title": "Parallel AI MCP plugin for Cursor and Grok Bot",
+          "url": "https://github.com/Parallel-AI-Labs/parallel-ai-mcp",
+          "source": "GB-928",
+          "blurb": {
+            "en": "Official Parallel AI hosted-MCP plugin package for Cursor and Grok Bot marketplaces, with OAuth PKCE and no credentials in-repo.",
+            "zh": "Parallel AI 官方托管 MCP 插件包，面向 Cursor 与 Grok Bot 市场；OAuth PKCE，仓库不含凭证。",
+            "ja": "Cursor / Grok Bot 向け Parallel AI 公式ホスト MCP プラグイン。OAuth PKCE、資格情報はリポジトリに含めない。"
+          }
+        },
+        {
+          "title": "WikiSkill pack for Grok Bot primitives",
+          "url": "https://github.com/zepef/wikiskill-grok-bot",
+          "source": "GB-932",
+          "blurb": {
+            "en": "Native WikiSkill adaptation that uses only Grok Bot skills, routines, and workspace folders to evolve skills from success/failure traces.",
+            "zh": "把 WikiSkill 落在纯 Grok Bot 原语上：只用 skill、routine 与 /workspace 目录，从成败轨迹进化技能。",
+            "ja": "WikiSkill を Grok Bot の skill／routine／workspace だけで実装。成功・失敗の痕跡からスキルを進化させる。"
+          }
+        },
+        {
+          "title": "WhatSetter plugin for Grok Bot and Cursor",
+          "url": "https://github.com/whatsetter/whatsetter-plugin",
+          "source": "GB-933",
+          "blurb": {
+            "en": "Official WhatSetter MCP plugin (.grok-plugin) so Grok Bot can brief, triage WhatsApp leads, import CRM rows, and control booking campaigns in plain language.",
+            "zh": "WhatSetter 官方 MCP 插件（含 .grok-plugin）：让 Grok Bot 用自然语言做早报、WhatsApp 线索分拣、CRM 导入与预约活动控制。",
+            "ja": "WhatSetter 公式 MCP（.grok-plugin 付き）。Grok Bot が朝報・WhatsApp リード仕分け・CRM 取込・予約キャンペーン操作を自然言語で行う。"
+          }
+        },
+        {
+          "title": "Kadre — NanoGPT frame skill for Grok Bot",
+          "url": "https://github.com/ulinycoin/kadre",
+          "source": "GB-937",
+          "blurb": {
+            "en": "Image-frame generation skill (CyberRealistic XL/Pony router) with skills/kadre/SKILL.md for Hermes Agent and Grok Bot agents.",
+            "zh": "面向 Hermes Agent 与 Grok Bot 的分镜生成 skill（CyberRealistic XL/Pony 路由），含 skills/kadre/SKILL.md。",
+            "ja": "Hermes Agent / Grok Bot 向け分鏡生成スキル（CyberRealistic XL/Pony ルータ）。skills/kadre/SKILL.md 付き。"
+          }
+        },
+        {
+          "title": "Nexus MCP — Moodle tools for Grok Bot computers",
+          "url": "https://github.com/linboxin/nexus-mcp",
+          "source": "GB-940",
+          "blurb": {
+            "en": "Read-only Union College Nexus (Moodle) MCP with docs/BOT_COMPUTER.md and expose tunnel recipe so Grok Bot can brief courses, grades, and deadlines.",
+            "zh": "只读的 Union College Nexus（Moodle）MCP，附 docs/BOT_COMPUTER.md 与隧道暴露步骤，供 Grok Bot 汇报课程、成绩与截止日。",
+            "ja": "Union College Nexus（Moodle）読み取り専用 MCP。docs/BOT_COMPUTER.md とトンネル公開手順で Grok Bot が履修・成績・締切を要約。"
+          }
         }
       ]
     },
@@ -6514,6 +6604,46 @@
             "zh": "面向智能体的 Git Markdown 常驻法则，含 Cursor Grok Bot 挂载路径与 grok-bot-export→Hermes 迁移辅助。",
             "ja": "エージェント向け Git Markdown 常駐ロー。Cursor Grok Bot 取り付け手順と grok-bot-export→Hermes 移行ヘルパー付き。"
           }
+        },
+        {
+          "title": "Grok-Bot-Auth — Cursor + Grok Bot sand coexistence",
+          "url": "https://github.com/HarryPD168/grok-bot-auth",
+          "source": "GB-929",
+          "blurb": {
+            "en": "MIT Rust desktop app that keeps Cursor’s official subscription while routing gb-* models through Grok Bot sand via a fail-open user hook (no MITM proxy).",
+            "zh": "MIT 的 Rust 桌面程序：保留 Cursor 官方订阅，同时用 fail-open 用户级 hook 把 gb-* 模型接到 Grok Bot sand（非 MITM）。",
+            "ja": "Cursor 公式サブスクを残しつつ、fail-open のユーザ hook で gb-* を Grok Bot sand に繋ぐ MIT の Rust デスクトップ（MITM なし）。"
+          }
+        },
+        {
+          "title": "Grok Bot MCP bridge (public template)",
+          "url": "https://github.com/mozzquito/omx-grokbot-public",
+          "source": "GB-931",
+          "blurb": {
+            "en": "Public MIT template of a Grok Bot MCP bridge: remote gateway runs on the Bot computer while discovery/transcripts never return the gateway credential.",
+            "zh": "公开 MIT 的 Grok Bot MCP 桥接模板：远程网关在 Bot 云电脑执行，发现与 transcript 不回传网关凭证。",
+            "ja": "Grok Bot MCP ブリッジの公開 MIT テンプレ。リモート gateway は Bot のクラウド PC 上で実行し、発見／transcript に資格情報を返さない。"
+          }
+        },
+        {
+          "title": "grok-bridge — SSH inbox for Mac mini Grok Bot agents",
+          "url": "https://github.com/rdegraci/grok-bridge",
+          "source": "GB-934",
+          "blurb": {
+            "en": "Python CLI bridge to chat with Grok Bot agents on a dedicated Mac mini over SSH, with start/stop server, webhook wake, and per-bot reply queues.",
+            "zh": "Python CLI：经 SSH 连接专用 Mac mini 上的 Grok Bot agents，含启停服务、webhook 唤醒与按 bot 回复队列。",
+            "ja": "専用 Mac mini 上の Grok Bot と SSH で話す Python CLI。start/stop、webhook 起床、bot 別返信キュー付き。"
+          }
+        },
+        {
+          "title": "Grok Bot Lobby — cowork host grid for Bot attendees",
+          "url": "https://github.com/frankterpo/grok-bot-lobby",
+          "source": "GB-936",
+          "blurb": {
+            "en": "Shared host-grid web app where cowork attendees join through Grok Bot; tokens only, SSE lobby stream, Cloudflare deploy, no Clerk/Supabase required.",
+            "zh": "共享主机网格：参会者通过 Grok Bot 加入 cowork；仅 token、SSE 大厅流、可 Cloudflare 部署，无需 Clerk/Supabase。",
+            "ja": "Grok Bot 経由で参加する cowork 用ホストグリッド。token のみ、SSE、Cloudflare デプロイ可。Clerk/Supabase 不要。"
+          }
         }
       ]
     },
@@ -8014,6 +8144,16 @@
             "zh": "Staff（mohitjain）：X 插件搜索返回 402 时，给 bearer 背后的 X 开发者应用充值积分——或跳过 API，让 Bot 用云电脑浏览器打开 x.com 看你关注的账号。",
             "ja": "Staff（mohitjain）：X プラグイン検索が 402 のときは、bearer 背後の X 開発者アプリにクレジットを補充するか、API を使わず Bot のクラウド PC ブラウザで x.com を見る。"
           }
+        },
+        {
+          "title": "No Chrome extension yet — iOS share sheet / paste URL workarounds",
+          "url": "https://forum.cursor.com/t/grok-bot-chrome-extension/170305",
+          "source": "GB-942",
+          "blurb": {
+            "en": "Staff (deanrie): There is no separate Chrome extension for Grok Bot yet. On iOS, share a page/link/selection into Bot via the share sheet; from anywhere, paste a URL into chat so the Bot opens it on its cloud computer to summarize or act.",
+            "zh": "官方员工（deanrie）：目前没有独立的 Grok Bot Chrome 扩展。iOS 可用分享菜单把页面/链接/选中文本发给 Bot；任意平台把 URL 粘贴进对话，Bot 会在云电脑打开该页并摘要或处理。",
+            "ja": "スタッフ（deanrie）：Grok Bot 専用 Chrome 拡張はまだない。iOS は共有シートでページ/リンク/選択テキストを Bot へ送れる。どこからでもチャットに URL を貼れば、Bot がクラウド PC で開いて要約・作業できる。"
+          }
         }
       ]
     },
@@ -9103,6 +9243,26 @@
             "en": "Hermes Agent Bot Mode starter templates with docs mapping Grok Bot roles/primitives onto Hermes profiles (not a Grok Bot export).",
             "zh": "Hermes Agent Bot Mode 入门模板，文档把 Grok Bot 角色/原语映射到 Hermes profile（不是 Grok Bot 导出包）。",
             "ja": "Hermes Agent Bot Mode スターター。Grok Bot の役割／原語を Hermes プロファイルへ写す文書付き（エクスポート本体ではない）。"
+          }
+        },
+        {
+          "title": "Grok Bot for Linux (unofficial, archived)",
+          "url": "https://github.com/atavacron/grok-bot-linux",
+          "source": "GB-938",
+          "blurb": {
+            "en": "Archived community wine-less AppImage/deb packaging for Grok Bot on Linux; README now points to official Cursor CDN packages.",
+            "zh": "已归档的社区无 Wine AppImage/deb 打包，曾把 Grok Bot 带到 Linux；README 现指引官方 Cursor CDN 包。",
+            "ja": "アーカイブ済みの非公式 Linux 向け Grok Bot パッケージ（Wine なし AppImage/deb）。README は公式 Cursor CDN を案内。"
+          }
+        },
+        {
+          "title": "Spillwave second-brain marketplace with Grok Bot onboarding",
+          "url": "https://github.com/SpillwaveSolutions/second-brain-marketplace",
+          "source": "GB-939",
+          "blurb": {
+            "en": "Claude marketplace index for Spillwave OKF ContentPacks that also documents grok-bot/* install paths and ONBOARDING.md for cloud Grok Bots.",
+            "zh": "Spillwave OKF ContentPack 的 Claude marketplace 索引，并写明 grok-bot/* 安装路径与云端 Grok Bot 的 ONBOARDING.md。",
+            "ja": "Spillwave OKF ContentPack の Claude マーケット索引。grok-bot/* 導入とクラウド Grok Bot 向け ONBOARDING.md も記載。"
           }
         }
       ]
@@ -13602,6 +13762,37 @@
         "en": "Register on Luma →",
         "zh": "去 Luma 报名 →",
         "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "phl-20260929",
+      "url": "https://luma.com/cursor-hdle",
+      "image": "./assets/events/phl-20260929-cover.png",
+      "expires": "2026-09-29T20:30:00-04:00",
+      "title": {
+        "en": "Grok Bot Meetup Philadelphia",
+        "zh": "Grok Bot 费城线下交流",
+        "ja": "Grok Bot Meetup Philadelphia"
+      },
+      "when": {
+        "en": "Tue 29 Sep 2026, 18:00–20:30 (America/New_York / EDT, UTC−4)",
+        "zh": "2026-09-29 周二 18:00–20:30（美东纽约 EDT，UTC−4）",
+        "ja": "2026-09-29（火）18:00–20:30（America/New_York、EDT、UTC−4）"
+      },
+      "where": {
+        "en": "Philadelphia, PA · Indy Hall Clubhouse, 709 N 2nd St 3rd Floor",
+        "zh": "美国费城 · Indy Hall Clubhouse，709 N 2nd St 3rd Floor",
+        "ja": "フィラデルフィア · Indy Hall Clubhouse、709 N 2nd St 3rd Floor"
+      },
+      "body": {
+        "en": "SpaceXAI for Philadelphia first Grok Bot Meetup (hosts Luis Cielak, Malcolm Jones). Multi-agent workflow sharing: Think–Pair–Share on real agent setups, builders’ agentic flows, free food/drinks, Free Grok credits. Free; no approval; guest_count 49 at scan. Venue Indy Hall. Overnight rename: evening Sep12 still listed as “Cursor Meetup Philadelphia — September” (Cursor noise, not proposed); now title+body are Grok Bot Meetup. Distinct from expired campus nights phl-20260903 / tmp-20260903.",
+        "zh": "SpaceXAI for Philadelphia 首场 Grok Bot Meetup（主办 Luis Cielak、Malcolm Jones）。多智能体工作流分享：Think–Pair–Share、agentic 流程、餐饮、Free Grok credits。免费、无需审核；扫描时报名 49。场地 Indy Hall。隔夜更名：9/12 晚间仍为 “Cursor Meetup Philadelphia — September”（Cursor 局，未收录）；现标题与正文已是 Grok Bot Meetup。不同于已过期校园场 phl-20260903 / tmp-20260903。",
+        "ja": "SpaceXAI for Philadelphia 初の Grok Bot Meetup（主催 Luis Cielak / Malcolm Jones）。マルチエージェント共有・Think–Pair–Share・飲食・Free Grok credits。無料・承認不要・スキャン時 49 名。会場 Indy Hall。隔夜リネーム：9/12 夕は “Cursor Meetup Philadelphia — September”（未提案の Cursor 枠）→ 現在は Grok Bot Meetup。期限切れの campus 枠 phl-20260903 / tmp-20260903 とは別。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     }
   ]

@@ -72,6 +72,9 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="atl-20260924"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/ihgtq394"><img src="./assets/events/atl-20260924-cover.png" alt="Grok Bot Meetup Atlanta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Atlanta</strong><br />Thu 24 Sep 2026, 18:00–20:00 (America/New_York, EDT)<br />Alpharetta, GA (Atlanta metro) · Tech North Atlanta, 925 North Point Pkwy Ste 130<br /><br />SpaceXAI for Atlanta intro meetup: demo-first after work — what Grok Bot is, product walkthrough, live AI-assisted architecture demo, Q&A/open mic, food & coffee, free parking. Hosts Raj Poloju & Sreyas Gentela; free; open registration (no approval); laptop optional; guest_count 0 at scan. Forum 171336.<br /><br /><a href="https://luma.com/ihgtq394"><strong>Register on Luma → →</strong></a></td></tr></table>
 
+<a id="phl-20260929"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-hdle"><img src="./assets/events/phl-20260929-cover.png" alt="Grok Bot Meetup Philadelphia" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Philadelphia</strong><br />Tue 29 Sep 2026, 18:00–20:30 (America/New_York / EDT, UTC−4)<br />Philadelphia, PA · Indy Hall Clubhouse, 709 N 2nd St 3rd Floor<br /><br />SpaceXAI for Philadelphia first Grok Bot Meetup (hosts Luis Cielak, Malcolm Jones). Multi-agent workflow sharing: Think–Pair–Share on real agent setups, builders’ agentic flows, free food/drinks, Free Grok credits. Free; no approval; guest_count 49 at scan. Venue Indy Hall. Overnight rename: evening Sep12 still listed as “Cursor Meetup Philadelphia — September” (Cursor noise, not proposed); now title+body are Grok Bot Meetup. Distinct from expired campus nights phl-20260903 / tmp-20260903.<br /><br /><a href="https://luma.com/cursor-hdle"><strong>Register on Luma →</strong></a></td></tr></table>
+
 <a id="country-ca"></a>
 ### Canada
 
@@ -132,18 +135,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="sla-20260916"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-sh4i"><img src="./assets/events/sla-20260916-cover.png" alt="Grok Bot Meetup Salta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Salta</strong><br />Wed 16 Sep 2026, 18:00–20:00 (ART)<br />Salta · SorboLabs, Dean Funes 244 (exact pin after register)<br /><br />First Grok Bot meetup in Salta: intro workshop, real use-cases, Q&A, and cowork on your laptop. Bots sign into your tools and return finished work. Host approval. Bring charger.<br /><br /><a href="https://luma.com/cursor-sh4i"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
-<a id="country-ec"></a>
-### Ecuador
-
-<a id="mec-20260912"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-manta"><img src="./assets/events/mec-20260912-cover.png" alt="Grok Bot Manta Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Manta Workshop</strong><br />Sat 12 Sep 2026, 08:30–12:30 (ECT)<br />Manta, Ecuador · exact address after you register<br /><br />Workshop on the new agentic development stack with Grok Bot. Free, waitlist open, 41 seats left.<br /><br /><a href="https://luma.com/grokbot-manta"><strong>Register on Luma →</strong></a></td></tr></table>
-
-<a id="uio-20260924"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotquitomeetup"><img src="./assets/events/uio-20260924-cover.png" alt="Grok Bot Meetup Quito" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Quito</strong><br />Thu 24 Sep 2026, 19:30–21:30 (ECT)<br />Quito, Ecuador · exact address after you register<br /><br />In-person Grok Bot meetup in Quito. Free, host approval, 47 seats left.<br /><br /><a href="https://luma.com/grokbotquitomeetup"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
-
-<a id="cumb-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cccumbaya"><img src="./assets/events/cumb-20261003-cover.png" alt="Grok Bot Meetup Cumbayá" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cumbayá</strong><br />Sat 3 Oct 2026, 09:30–12:00 (ECT)<br />Cumbayá, Quito, Ecuador<br /><br />In-person Grok Bot meetup in Cumbayá. Free, waitlist open, 37 seats left.<br /><br /><a href="https://luma.com/cccumbaya"><strong>Register on Luma →</strong></a></td></tr></table>
-
 <a id="country-mx"></a>
 ### Mexico
 
@@ -173,6 +164,15 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="cgn-20261009"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-cologne-meetup1"><img src="./assets/events/cgn-20261009-cover.png" alt="Grok Bot Meetup Cologne" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cologne</strong><br />Fri 9 Oct 2026, 18:00–21:00 (CEST)<br />Cologne (address revealed after registration)<br /><br />Cologne Grok Bot meetup: networking, talks/workshop, hands-on with a real task (Windows/Mac laptop or iPhone; download x.ai/bot). Agenda 18:00 check-in → 18:30 demo & hands-on → 20:00 chat; open to more Grok Bot speakers. Hosts Emmanuel Ketcha, Eyad Kelleh, Babajide Mayowa Moibi, Teoman Köse; free; host approval; ~50 seats.<br /><br /><a href="https://luma.com/spacexai-cologne-meetup1"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<a id="country-ec"></a>
+### Ecuador
+
+<a id="uio-20260924"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotquitomeetup"><img src="./assets/events/uio-20260924-cover.png" alt="Grok Bot Meetup Quito" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Quito</strong><br />Thu 24 Sep 2026, 19:30–21:30 (ECT)<br />Quito, Ecuador · exact address after you register<br /><br />In-person Grok Bot meetup in Quito. Free, host approval, 47 seats left.<br /><br /><a href="https://luma.com/grokbotquitomeetup"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<a id="cumb-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cccumbaya"><img src="./assets/events/cumb-20261003-cover.png" alt="Grok Bot Meetup Cumbayá" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cumbayá</strong><br />Sat 3 Oct 2026, 09:30–12:00 (ECT)<br />Cumbayá, Quito, Ecuador<br /><br />In-person Grok Bot meetup in Cumbayá. Free, waitlist open, 37 seats left.<br /><br /><a href="https://luma.com/cccumbaya"><strong>Register on Luma →</strong></a></td></tr></table>
 
 <a id="country-gb"></a>
 ### United Kingdom
@@ -299,12 +299,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="ceb-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot Meetup Cebu" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cebu</strong><br />Sat 19 Sep 2026, 09:00–11:30 (PHT)<br />Cebu City · exact address after you register<br /><br />In-person Grok Bot meetup in Cebu. Host approval required.<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
-
-<a id="country-tg"></a>
-### Togo
-
-<a id="lfw-20260912"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-ec8v"><img src="./assets/events/lfw-20260912-cover.png" alt="Grok Bot Meetup Lomé" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Lomé</strong><br />Sat 12 Sep 2026, 09:00–13:00 (GMT)<br />Institut Français du Togo, Lomé<br /><br />In-person Grok Bot meetup in Lomé. Free, waitlist open, 198 seats left.<br /><br /><a href="https://luma.com/cursor-ec8v"><strong>Register on Luma →</strong></a></td></tr></table>
 
 <a id="country-zm"></a>
 ### Zambia
