@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-936-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-961-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,7 +37,7 @@
 
 [イベントの詳細](./EVENTS.ja.md)
 
-- **中国**（5）：[上海](./EVENTS.ja.md#sha-20261018) · [杭州](./EVENTS.ja.md#hzo-20260919) · [北京](./EVENTS.ja.md#bj-20260919) · [広州](./EVENTS.ja.md#can-20260913) · [武漢](./EVENTS.ja.md#wuh-20261017)
+- **中国**（4）：[上海](./EVENTS.ja.md#sha-20261018) · [杭州](./EVENTS.ja.md#hzo-20260919) · [北京](./EVENTS.ja.md#bj-20260919) · [武漢](./EVENTS.ja.md#wuh-20261017)
 - **アメリカ**（16）：[ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ](./EVENTS.ja.md#g101-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfe-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [サンフランシスコ（PM）](./EVENTS.ja.md#sfpm-20260915) · [サンフランシスコ（Founders）](./EVENTS.ja.md#sffo-20260915) · [サンフランシスコ（Sales）](./EVENTS.ja.md#sfsales-20260916) · [ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [ダラス](./EVENTS.ja.md#dal-20260919) · [マイアミ](./EVENTS.ja.md#mia-20260923) · [アトランタ](./EVENTS.ja.md#atl-20260924) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929)
 - **カナダ**（5）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [ビクトリア（BC）](./EVENTS.ja.md#vic-20260921) · [サドベリー](./EVENTS.ja.md#sud-20260915) · [トロント](./EVENTS.ja.md#yyz-20260917) · [モントリオール](./EVENTS.ja.md#yul-20260919)
 - **インドネシア**（4）：[ウルワツ / バリ](./EVENTS.ja.md#bli-20260915) · [ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [バンドン](./EVENTS.ja.md#bdg-20260919) · [ジャカルタ](./EVENTS.ja.md#jkt-20261003)
@@ -332,6 +332,7 @@
 - [Poly Formula — Belgrade Grok Bot Hackathon racer](https://github.com/peckz/poly-formula) - ベオグラードの Grok Bot ハッカソン作品。MediaPipe + Three.js のウェブカム操縦ローポリレーサーです。
 - [Circleback — Pets vs Bots Grok Bot Serbia hackathon game](https://github.com/aleksicmarija/circleback) - Grok Bot セルビアハッカソンで1日制作のリアルタイム陣取り（ペット vs AIボット）です。
 - [Scam Drill — Grok Bot hackathon voice practice app](https://github.com/w4jo/grok-bot-hackathon) - 高齢者向け電話詐欺の音声ロールプレイ練習アプリ。Grok Bot ハッカソン成果物として公開されています。
+- [Late One Minute — Grok Bot × Grok Build game case](https://github.com/parize670/late-one-minute) - 60秒出门ミニゲーム事例。Grok BotがPM、Grok Buildが実装、Codexが技術リード。AGENTS.mdと貼り付け用プロンプト付き。
 
 ## スキル、プラグインと MCP
 
@@ -595,6 +596,12 @@
 - [Public Grok Bot plugin marketplace (goal-driven reset)](https://github.com/thecosmicpine/grok-bot-plugins) - Grok Bot アプリ向けの公開プラグイン集（bot.json + SKILL.md）。1日ゴールリセットなどの persona/skill を同梱します。
 - [grok-actor — personality presets plugin for Grok Build](https://github.com/Amnibro/grok-actor) - hooks / rules / personas で俳優・口調プリセットを切り替える Grok Build プラグインです。
 - [ForeverLM plugins marketplace (incl. Grok Build)](https://github.com/AurifyTech/foreverlm-plugins) - ForeverLM 公式のリモート MCP プラグイン群。Claude Code / Cowork / Grok Build / ChatGPT・Codex 向けです。
+- [Agent Workbench — four ready-made Grok Bot roles](https://github.com/Wassimyounes01/agent-workbench) - コピー可能なGrok Bot役割テンプレ4つ、セットアップガイド、証拠付きハンドオフ用ローカルランタイムのスターターキット。
+- [Maintainer Skills Lab with dedicated Grok Bot pack](https://github.com/00200200/maintainer-skills-lab) - Codex/Claude/Cursor向けメンテ技能14個に加え、marketplace.json付きgrok-bot/パックとBot手動セットアップ手順を同梱。
+- [AMS connector plugin for Grok Bot messaging](https://github.com/Agent-Messaging-Service/ams-grok-bot) - Grok Botマーケット向けAMSホストMCP＋連携スキル。共有チャンネル・キャッチアップ・引き継ぎをローカルサーバなしで。
+- [oh-my-grok-build — plan/execute/verify Grok Build plugin](https://github.com/duarbdhks/oh-my-grok-build) - Grok Buildプラグイン（.grok-plugin）。合意プラン、有界並列実行、証拠ベース検証。/ogb-*コマンド。
+- [grok-honcho — Honcho memory plugin for Grok Build](https://github.com/heliumbrain/grok-honcho) - Grok BuildネイティブのHoncho永続メモリプラグイン。MCP/hooks同梱、grok plugin install対応。
+- [Godmode — tamper-evident evidence ledger (.grok-plugin)](https://github.com/AIimagined/Godmode) - エージェントの「完了」主張向け改ざん検知台帳。.grok-plugin同梱、Grok Buildでhooks実機検証済み。
 
 ## レビューと比較
 
@@ -770,6 +777,13 @@
 - [Grok Remote — phone/browser controller for Grok Build](https://github.com/Amnibro/grok-remote) - 同一 LAN 上のスマホ/ブラウザから Grok Build セッションを操作。ライブチャット、Skills、履歴、テーマ、任意のホログラム伴侶付きです。
 - [goal-flight long-running orchestrator for Grok Bot](https://github.com/simonrowland/goal-flight) - Grok Bot にホスト導入できる長時間ゴール編排。Codex / Cursor / Grok ワーカーへ計画・レビュー付きで派遣します。
 - [Grok Build (grok) — SpaceXAI coding agent harness](https://github.com/xai-org/grok-build) - SpaceXAI 公式のオープンソース端末コーディングエージェント（TUI/ACP）。Grok Build プラグインとローカル相棒フローの基盤で、Grok Bot と並ぶ公式ハーネスです。
+- [grok-build-statusline — context/cost status line](https://github.com/dench5566-ctrl/grok-build-statusline) - Grok Build用単ファイルPythonステータス行。モデル・残コンテキスト・セッション費用・tokenを2行表示。
+- [HelloGrok — local proxy for Grok Build custom models](https://github.com/hellowind777/hellogrok) - Grok Buildのカスタムモデルチャネルを一般的なAPI形式で出すクロスプラットフォームローカルプロキシ。自己修復設定付き。
+- [Grok Build CLI utilities (sessions, skills, backup)](https://github.com/cobusgreyling/grok-build-cli-utilities) - Grok Build向けCLIツール7本（セッション、スキル、バックアップ、使用量など）。ドキュメントと例付き。
+- [CLIProxyAPI — wrap Grok Build as OpenAI-compatible API](https://github.com/router-for-me/CLIProxyAPI) - Antigravity/Codex/Claude Code/Grok BuildをOpenAI/Gemini/Claude互換APIで出すプロキシ。
+- [dsh-grok-provider — DeepSeek Harness Grok Build provider](https://github.com/yoshino-xiao7/dsh-grok-provider) - DeepSeek Harness向けコミュニティGrok Buildプロバイダ。公式CLIブラウザOAuth、ストリーミング、残量パネル。
+- [taskflow — multi-agent DAG runtime with Grok host](https://github.com/heggria/taskflow) - Pi/Codex/Claude/OpenCode/Grok向けホストアダプタ付き宣言的マルチエージェントDAGランタイム。再開・再現・Trusted Effects。
+- [grok-build-tweaks — community fork of xAI harness](https://github.com/tkanarsky/grok-build-tweaks) - xAI grok-buildハーネスのコミュニティフォーク。上流アーキを保ちつつ実用的な調整を追加。
 
 ## コミュニティと障害事例
 
@@ -923,6 +937,9 @@
 - [Higgsfield MCP drops until you reconnect before use](https://forum.cursor.com/t/grok-bot-higgsfield-mcp-disconnects-every-30-60-seconds-and-has-to-be-reconnected/168272) - Staff（mohitjain）：Higgsfield のサインインは自動更新できず、最初のセッション切れで切断される。Grok Bot 側に常時接続を保つ設定はない。回避策：使う直前に再接続する。
 - [X connector 402 → top up credits or use Bot browser](https://forum.cursor.com/t/grok-bot-x-connector-lacks-recent-search-direct-api-requires-separate-credits/168227) - Staff（mohitjain）：X プラグイン検索が 402 のときは、bearer 背後の X 開発者アプリにクレジットを補充するか、API を使わず Bot のクラウド PC ブラウザで x.com を見る。
 - [No Chrome extension yet — iOS share sheet / paste URL workarounds](https://forum.cursor.com/t/grok-bot-chrome-extension/170305) - スタッフ（deanrie）：Grok Bot 専用 Chrome 拡張はまだない。iOS は共有シートでページ/リンク/選択テキストを Bot へ送れる。どこからでもチャットに URL を貼れば、Bot がクラウド PC で開いて要約・作業できる。
+- [Ubuntu eCryptfs: sand-client ENAMETOOLONG blocks first setup](https://forum.cursor.com/t/grok-bot-0-47-0-on-ubuntu-24-04-first-time-setup-fails-with-enametoolong-writing-sand-client-huge-token/171438) - Staff（Colin、2026-09-13）：Grok Bot は ~/.config/Grok Bot/sand-client-persistence/ に約 140–200 文字のファイル名を書く。Linux は 255 だが eCryptfs（古い「ホーム暗号化」）は 143 上限 → Ubuntu 初回セットアップで ENAMETOOLONG。getconf NAME_MAX と mount | grep ecryptfs で確認；名前短縮を作業中。
+- [Secure-card secrets miss running agent shells — spawn a fresh agent](https://forum.cursor.com/t/token-not-available-in-grok-bot-environment/171441) - Staff（Colin、2026-09-13）：セキュアカードで保存した token は Agent Computer のメイン環境に入るが、既に別ウィンドウで動いている agent は後から追加された env を拾わない別セッション——カードは Saved でも executor からは見えない。回避：保存後に新規 agent を作る（またはディスク上のファイルを使う；全 agent が読める）。既存 agent への再保存は無効。
+- [Signature-Agent = Grok Bot computer Chrome, not Cloud Agents](https://forum.cursor.com/t/a-persistent-cursor-browser-generated-high-frequency-requests-against-my-cloudflare-worker/171434) - Staff（Colin、2026-09-13）：Signature-Agent / cursorusercontent.com のトラフィックは Grok Bot Agent Computer 内ブラウザの識別子で、Cloud Agents や IDE ブラウザではない。タスク後もヘルスチェック用タブが残りポーリングし続ける。対処：コンピュータ画面を開いて該当 Chrome タブを閉じる（または Chrome 終了）、Automations のルーチンを停止/削除、最終手段で Reset Grok Bot’s Computer。
 
 ## 関連リスト
 
@@ -1040,10 +1057,18 @@
 - [ToolboxMD marketplace for Codex, Claude, and Grok Build](https://github.com/toolboxmd/marketplace) - Codex / Claude Code / Grok Build / Cursor が追加できる ToolboxMD プラグインの共有マーケットです。
 - [hackathonist — Serbia list featuring Grok Bot Hackathon](https://github.com/zsevic/hackathonist) - セルビアのハッカソン一覧。ベオグラードの Grok Bot Serbia Hackathon を掲載しています。
 - [grok-plugin-claude — use Grok Build from Claude Code](https://github.com/bigu1/grok-plugin-claude) - Claude Code 上で会話しつつ、レビューや難バグをローカル Grok Build に委譲するプラグインです。
+- [OpenGrokBot — open-source Grok Bot alternative](https://github.com/Z4YT0N/OpenGrokBot) - MITのGrok Bot代替。ローカル群チャットAI社員、ツール/MCP/ルーチン/承認、Claude/Codex/Geminiログイン持ち込み可。
+- [Grok App — desktop workbench for local Grok Build](https://github.com/RongleCat/grok-app) - ローカルGrok Build CLI向けOSSデスクトップ作業台。マルチプロジェクト、ストリーミング、プラグイン/MCP、遠隔IMブリッジ。
+- [Claude Code plugin that delegates to Grok Build](https://github.com/xzawed/claude-grok-build-plugin) - Claude Codeプラグイン/MCP。Claudeがオーケストレーションし、実装をxAI Grok Buildへ委譲。
+- [awesome-ai-plugins — catalog with Grok Build section](https://github.com/hashgraph-online/awesome-ai-plugins) - AIアシスタント用プラグイン精選。Grok Plugins節があり、.grok-plugin形式とマーケットリンクを掲載。
+- [CC Switch — all-in-one manager including Grok Build](https://github.com/farion1231/cc-switch) - Claude/Codex/OpenCodeとGrok Buildのプロバイダ・MCP・Skillsを一つのUIで管理するクロスプラットフォームデスクトップ。
+- [Hapi — mobile/remote control for Grok Build sessions](https://github.com/tiann/hapi) - モバイル/WebからCodex、Claude Code、Pi、OpenCode、Kimi、Grok Buildセッションを操作する遠隔コントロールアプリ。
+- [grok-build-desktop — Hermes UI for Grok Build CLI](https://github.com/mjcity/grok-build-desktop) - 契約どおりのローカルゲートウェイ経由でGrok Build CLIを動かすHermesデスクトップUI。セッションとスキル対応。
+- [Unofficial macOS desktop app for Grok Build CLI](https://github.com/kimchikingdom/grok-desktop-for-mac) - 非公式macOSデスクトップ。Grok Build CLIをACP/stdioで駆動し、ネイティブセッションUIを提供。
 
 ## 貢献
 
-8 セクションに 936 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 961 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

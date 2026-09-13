@@ -18,9 +18,6 @@
 <a id="bj-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-chwk"><img src="./assets/events/bj-20260919-cover.png" alt="Grok Bot Meetup Beijing" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Beijing</strong><br />2026-09-19（土）14:00–18:00（GMT+8）<br />北京 · 登録後に住所を表示<br /><br />SpaceXAI 北京の対面（主催 Yafang）。紹介と事例共有。承認制・約 150 席。会場は登録後。<br /><br /><a href="https://luma.com/spacexai-chwk"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
-<a id="can-20260913"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/l0jfxz91"><img src="./assets/events/can-20260913-cover.png" alt="Grok Bot Meetup Guangzhou" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Guangzhou</strong><br />2026-09-13（日）14:00–17:30（GMT+8）<br />広州 · 登録後に住所が表示されます<br /><br />広州の対面ミートアップ。製品紹介・ユースケース共有・オープンマイク・交流。主催 Mai Yang / Kin Gao / Jason Zhu / Orange Wang。無料・承認制。<br /><br /><a href="https://luma.com/l0jfxz91"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
 <a id="wuh-20261017"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/kss59f4e"><img src="./assets/events/wuh-20261017-cover.png" alt="Grok Bot Meetup Wuhan" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Wuhan</strong><br />2026-10-17（土）14:00–17:30（Asia/Shanghai）<br />武漢（会場未定・確定後に Luma で更新）<br /><br />武漢の Grok Bot ミートアップ。アイスブレイク＋シェア／ワークショップ。SpaceXAI 製品説明（ツールにログインし成果を持ち帰る AI チームメイト）。事前登録・承認制、承認後に WeChat グループ。登壇／ボランティア歓迎。主催 Hanbing Zhang、chenchong、yuepu。無料・約150席。同日の sha-20261017 上海とは別開催。<br /><br /><a href="https://luma.com/kss59f4e"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 

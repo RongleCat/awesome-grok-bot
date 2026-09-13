@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-936-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-961-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,7 +37,7 @@
 
 [全部活动介绍](./EVENTS.zh.md)
 
-- **中国**（5）：[上海](./EVENTS.zh.md#sha-20261018) · [杭州](./EVENTS.zh.md#hzo-20260919) · [北京](./EVENTS.zh.md#bj-20260919) · [广州](./EVENTS.zh.md#can-20260913) · [武汉](./EVENTS.zh.md#wuh-20261017)
+- **中国**（4）：[上海](./EVENTS.zh.md#sha-20261018) · [杭州](./EVENTS.zh.md#hzo-20260919) · [北京](./EVENTS.zh.md#bj-20260919) · [武汉](./EVENTS.zh.md#wuh-20261017)
 - **美国**（16）：[拉斯维加斯](./EVENTS.zh.md#lv-20260915) · [旧金山](./EVENTS.zh.md#g101-20260915) · [旧金山](./EVENTS.zh.md#sfe-20260915) · [旧金山](./EVENTS.zh.md#sfse-20260916) · [旧金山](./EVENTS.zh.md#sfsdr-20260916) · [旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [旧金山（产品经理）](./EVENTS.zh.md#sfpm-20260915) · [旧金山（创始人）](./EVENTS.zh.md#sffo-20260915) · [旧金山（销售）](./EVENTS.zh.md#sfsales-20260916) · [匹兹堡](./EVENTS.zh.md#pgh-20261013) · [达拉斯](./EVENTS.zh.md#dal-20260919) · [迈阿密](./EVENTS.zh.md#mia-20260923) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929)
 - **加拿大**（5）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [萨德伯里](./EVENTS.zh.md#sud-20260915) · [多伦多](./EVENTS.zh.md#yyz-20260917) · [蒙特利尔](./EVENTS.zh.md#yul-20260919)
 - **印度尼西亚**（4）：[巴厘岛乌鲁瓦图](./EVENTS.zh.md#bli-20260915) · [巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [万隆](./EVENTS.zh.md#bdg-20260919) · [雅加达](./EVENTS.zh.md#jkt-20261003)
@@ -332,6 +332,7 @@
 - [Poly Formula — Belgrade Grok Bot Hackathon racer](https://github.com/peckz/poly-formula) - 贝尔格莱德 Grok Bot 黑客松作品：摄像头体感低面赛车（MediaPipe + Three.js）。.
 - [Circleback — Pets vs Bots Grok Bot Serbia hackathon game](https://github.com/aleksicmarija/circleback) - Grok Bot 塞尔维亚黑客松一日作品：宠物对战 AI 机器人的实时圈地多人游戏。.
 - [Scam Drill — Grok Bot hackathon voice practice app](https://github.com/w4jo/grok-bot-hackathon) - 面向老年人的电话诈骗情景语音演练应用，作为 Grok Bot 黑客松项目交付。.
+- [Late One Minute — Grok Bot × Grok Build game case](https://github.com/parize670/late-one-minute) - 60 秒出门小游戏案例：Grok Bot 当产品经理、Grok Build 写代码、Codex 做技术主管，含 AGENTS.md 与可粘贴提示词。.
 
 ## 技能、插件与 MCP
 
@@ -595,6 +596,12 @@
 - [Public Grok Bot plugin marketplace (goal-driven reset)](https://github.com/thecosmicpine/grok-bot-plugins) - 面向 Grok Bot 应用的公开插件集（bot.json + SKILL.md），含一日目标重置等 persona/skill。.
 - [grok-actor — personality presets plugin for Grok Build](https://github.com/Amnibro/grok-actor) - Grok Build 插件：用 hooks/rules/personas 切换演员人设与语气，无需粘性项目规则。.
 - [ForeverLM plugins marketplace (incl. Grok Build)](https://github.com/AurifyTech/foreverlm-plugins) - ForeverLM 官方远程 MCP 插件包，支持 Claude Code、Cowork、Grok Build 与 ChatGPT/Codex 学习工作流。.
+- [Agent Workbench — four ready-made Grok Bot roles](https://github.com/Wassimyounes01/agent-workbench) - 开源起步套件：四个可复制 Grok Bot 角色模板、安装指南，以及证据绑定的多 Bot 交接本地运行时。.
+- [Maintainer Skills Lab with dedicated Grok Bot pack](https://github.com/00200200/maintainer-skills-lab) - 面向 Codex/Claude/Cursor 的 14 个维护技能与代理，另附 grok-bot/ 包（marketplace.json）与 Grok Bot 手动安装说明。.
+- [AMS connector plugin for Grok Bot messaging](https://github.com/Agent-Messaging-Service/ams-grok-bot) - 面向 Grok Bot 市场的 AMS 托管 MCP + 协作技能包：共享频道、追读与交接，无需本地服务。.
+- [oh-my-grok-build — plan/execute/verify Grok Build plugin](https://github.com/duarbdhks/oh-my-grok-build) - Grok Build 插件（.grok-plugin）：共识规划、有界并行执行与基于证据的校验，提供 /ogb-* 命令。.
+- [grok-honcho — Honcho memory plugin for Grok Build](https://github.com/heliumbrain/grok-honcho) - 面向 Grok Build 的 Honcho 持久记忆插件，预构建 MCP/hooks，支持 grok plugin install。.
+- [Godmode — tamper-evident evidence ledger (.grok-plugin)](https://github.com/AIimagined/Godmode) - 针对 Agent「已完成」声明的本地防篡改证据账本；含 .grok-plugin，并在 Grok Build 上实机验证 hooks。.
 
 ## 评测与对比
 
@@ -770,6 +777,13 @@
 - [Grok Remote — phone/browser controller for Grok Build](https://github.com/Amnibro/grok-remote) - 在局域网用手机/浏览器遥控 Grok Build 会话：实时对话、技能、历史、主题与可选全息伴侣。.
 - [goal-flight long-running orchestrator for Grok Bot](https://github.com/simonrowland/goal-flight) - 可安装到 Grok Bot 主机的长程目标编排器，向 Codex/Cursor/Grok 工人分派任务并保留计划与评审。.
 - [Grok Build (grok) — SpaceXAI coding agent harness](https://github.com/xai-org/grok-build) - SpaceXAI 官方开源终端编码代理（TUI/ACP），支撑 Grok Build 插件与本地队友工作流，与 Grok Bot 互补。.
+- [grok-build-statusline — context/cost status line](https://github.com/dench5566-ctrl/grok-build-statusline) - Grok Build 单文件 Python 状态栏：两行显示模型、剩余上下文、会话费用与 token 统计。.
+- [HelloGrok — local proxy for Grok Build custom models](https://github.com/hellowind777/hellogrok) - 跨平台本地代理：把 Grok Build 自定义模型通道转成常见 API 格式，并带自愈配置。.
+- [Grok Build CLI utilities (sessions, skills, backup)](https://github.com/cobusgreyling/grok-build-cli-utilities) - 面向 Grok Build 的七个 CLI 工具：会话、技能、备份、用量等，含文档与示例。.
+- [CLIProxyAPI — wrap Grok Build as OpenAI-compatible API](https://github.com/router-for-me/CLIProxyAPI) - 把 Antigravity、Codex、Claude Code、Grok Build 包装成 OpenAI/Gemini/Claude 兼容 API 的代理。.
+- [dsh-grok-provider — DeepSeek Harness Grok Build provider](https://github.com/yoshino-xiao7/dsh-grok-provider) - DeepSeek Harness 社区 Grok Build Provider：官方 CLI 浏览器 OAuth、流式工具调用与额度面板。.
+- [taskflow — multi-agent DAG runtime with Grok host](https://github.com/heggria/taskflow) - 声明式多智能体 DAG 运行时，适配 Pi/Codex/Claude/OpenCode/Grok，支持恢复、重放与可信副作用。.
+- [grok-build-tweaks — community fork of xAI harness](https://github.com/tkanarsky/grok-build-tweaks) - xAI grok-build 编程代理 harness 的社区分支，保留上游架构并加入实用调整。.
 
 ## 社区与故障现场
 
@@ -923,6 +937,9 @@
 - [Higgsfield MCP drops until you reconnect before use](https://forum.cursor.com/t/grok-bot-higgsfield-mcp-disconnects-every-30-60-seconds-and-has-to-be-reconnected/168272) - Staff（mohitjain）：Higgsfield 登录无法自动续期，首次会话过期后连接器会掉线——Grok Bot 侧没有设置能一直挂住。权宜：用前再连一次，别指望全天保持已连接。.
 - [X connector 402 → top up credits or use Bot browser](https://forum.cursor.com/t/grok-bot-x-connector-lacks-recent-search-direct-api-requires-separate-credits/168227) - Staff（mohitjain）：X 插件搜索返回 402 时，给 bearer 背后的 X 开发者应用充值积分——或跳过 API，让 Bot 用云电脑浏览器打开 x.com 看你关注的账号。.
 - [No Chrome extension yet — iOS share sheet / paste URL workarounds](https://forum.cursor.com/t/grok-bot-chrome-extension/170305) - 官方员工（deanrie）：目前没有独立的 Grok Bot Chrome 扩展。iOS 可用分享菜单把页面/链接/选中文本发给 Bot；任意平台把 URL 粘贴进对话，Bot 会在云电脑打开该页并摘要或处理。.
+- [Ubuntu eCryptfs: sand-client ENAMETOOLONG blocks first setup](https://forum.cursor.com/t/grok-bot-0-47-0-on-ubuntu-24-04-first-time-setup-fails-with-enametoolong-writing-sand-client-huge-token/171438) - 官方 Colin（2026-09-13）：Grok Bot 在 ~/.config/Grok Bot/sand-client-persistence/ 写入约 140–200 字符文件名；Linux 上限 255，但 eCryptfs（旧版「加密主目录」）限制 143 → Ubuntu 首次安装 ENAMETOOLONG。可用 getconf NAME_MAX 与 mount | grep ecryptfs 确认；官方在缩短文件名。.
+- [Secure-card secrets miss running agent shells — spawn a fresh agent](https://forum.cursor.com/t/token-not-available-in-grok-bot-environment/171441) - 官方 Colin（2026-09-13）：安全卡片保存的 token 会进 Agent Computer 主环境，但已在独立窗口运行的 agent 用的是另一次 shell 会话，拿不到之后写入的环境变量——卡片显示 Saved，执行器却读不到。变通：保存后新建一个 agent（或把密钥写到磁盘文件，所有 agent 都能读）；对已有 agent 反复重存无效。.
+- [Signature-Agent = Grok Bot computer Chrome, not Cloud Agents](https://forum.cursor.com/t/a-persistent-cursor-browser-generated-high-frequency-requests-against-my-cloudflare-worker/171434) - 官方 Colin（2026-09-13）：Signature-Agent / cursorusercontent.com 流量来自 Grok Bot Agent Computer 内的浏览器，不是 Cloud Agents 或 IDE 浏览器。任务结束后健康检查标签页仍开着会持续轮询；处理：打开电脑视图关掉对应 Chrome 标签（或退出 Chrome）、暂停/删除 Automations 例行任务，必要时再 Reset Grok Bot’s Computer。.
 
 ## 相关列表
 
@@ -1040,10 +1057,18 @@
 - [ToolboxMD marketplace for Codex, Claude, and Grok Build](https://github.com/toolboxmd/marketplace) - Codex、Claude Code、Grok Build 与 Cursor 可共用的 ToolboxMD 插件市场目录。.
 - [hackathonist — Serbia list featuring Grok Bot Hackathon](https://github.com/zsevic/hackathonist) - 塞尔维亚黑客松精选列表，当前置顶贝尔格莱德 Grok Bot Serbia Hackathon。.
 - [grok-plugin-claude — use Grok Build from Claude Code](https://github.com/bigu1/grok-plugin-claude) - 在 Claude Code 对话中把评审与硬 bug 委派给本机 Grok Build 的插件。.
+- [OpenGrokBot — open-source Grok Bot alternative](https://github.com/Z4YT0N/OpenGrokBot) - MIT 开源 Grok Bot 替代：本地群聊 AI 员工，含工具/MCP/例程/审批，可自带 Claude/Codex/Gemini 登录。.
+- [Grok App — desktop workbench for local Grok Build](https://github.com/RongleCat/grok-app) - 面向本地 Grok Build CLI 的开源桌面工作台：多项目、流式会话、插件/MCP 中心与全渠道远程 IM 桥接。.
+- [Claude Code plugin that delegates to Grok Build](https://github.com/xzawed/claude-grok-build-plugin) - Claude Code 插件/MCP：由 Claude 编排，把编码任务委派给 xAI Grok Build。.
+- [awesome-ai-plugins — catalog with Grok Build section](https://github.com/hashgraph-online/awesome-ai-plugins) - AI 助手插件精选列表，含独立 Grok Plugins 章节，覆盖 .grok-plugin 格式与市场链接。.
+- [CC Switch — all-in-one manager including Grok Build](https://github.com/farion1231/cc-switch) - 跨平台一体化桌面管理器：统一管理 Claude/Codex/OpenCode 与 Grok Build 的供应商、MCP 与 Skills。.
+- [Hapi — mobile/remote control for Grok Build sessions](https://github.com/tiann/hapi) - 手机/Web 远程控制应用：随时运行并操控 Codex、Claude Code、Pi、OpenCode、Kimi 与 Grok Build 会话。.
+- [grok-build-desktop — Hermes UI for Grok Build CLI](https://github.com/mjcity/grok-build-desktop) - Hermes 桌面 UI：经契约一致的本地网关驱动 Grok Build CLI，管理会话与技能。.
+- [Unofficial macOS desktop app for Grok Build CLI](https://github.com/kimchikingdom/grok-desktop-for-mac) - 非官方 macOS 桌面应用：以 ACP/stdio 驱动 Grok Build CLI，提供原生会话界面。.
 
 ## 贡献
 
-目前 8 个分类、936 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、961 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

@@ -18,9 +18,6 @@
 <a id="bj-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-chwk"><img src="./assets/events/bj-20260919-cover.png" alt="Grok Bot 北京线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 北京线下交流</strong><br />2026-09-19 周六 14:00–18:00<br />北京 · 报名通过后可见地址<br /><br />SpaceXAI 北京线下（主办 Yafang）：产品介绍 + 用法分享。需审核，约 150 席，地址报名后可见。<br /><br /><a href="https://luma.com/spacexai-chwk"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
-<a id="can-20260913"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/l0jfxz91"><img src="./assets/events/can-20260913-cover.png" alt="Grok Bot 广州线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 广州线下交流</strong><br />2026-09-13 周日 14:00–17:30<br />广州 · 报名后可见详细地址<br /><br />广州 Grok Bot 线下：官方致辞、使用场景分享、开放麦、茶歇与 Networking。主办 Mai Yang / Kin Gao / Jason Zhu / Orange Wang；免费，需审核。<br /><br /><a href="https://luma.com/l0jfxz91"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
 <a id="wuh-20261017"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/kss59f4e"><img src="./assets/events/wuh-20261017-cover.png" alt="Grok Bot 武汉线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 武汉线下交流</strong><br />2026-10-17 周六 14:00–17:30（北京时间）<br />武汉（场地待确认，确认后更新 Luma 页）<br /><br />武汉 Grok Bot 线下：交流破冰 + 分享/Workshop。SpaceXAI 产品叙事（能登录你的工具、把做完的活带回来的 AI 队友）。预报名需审核，通过后拉微信群；欢迎分享/志愿者。主办 Hanbing Zhang、chenchong、yuepu；免费，约 150 席。与同日 sha-20261017 上海场不同。<br /><br /><a href="https://luma.com/kss59f4e"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 

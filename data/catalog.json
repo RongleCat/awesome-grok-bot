@@ -2464,6 +2464,16 @@
             "zh": "面向老年人的电话诈骗情景语音演练应用，作为 Grok Bot 黑客松项目交付。",
             "ja": "高齢者向け電話詐欺の音声ロールプレイ練習アプリ。Grok Bot ハッカソン成果物として公開されています。"
           }
+        },
+        {
+          "title": "Late One Minute — Grok Bot × Grok Build game case",
+          "url": "https://github.com/parize670/late-one-minute",
+          "source": "GB-961",
+          "blurb": {
+            "en": "60-second outing mini-game case study: Grok Bot as PM, Grok Build as coder, Codex as tech lead, with AGENTS.md and paste-ready prompts.",
+            "zh": "60 秒出门小游戏案例：Grok Bot 当产品经理、Grok Build 写代码、Codex 做技术主管，含 AGENTS.md 与可粘贴提示词。",
+            "ja": "60秒出门ミニゲーム事例。Grok BotがPM、Grok Buildが実装、Codexが技術リード。AGENTS.mdと貼り付け用プロンプト付き。"
+          }
         }
       ]
     },
@@ -5074,6 +5084,66 @@
             "zh": "ForeverLM 官方远程 MCP 插件包，支持 Claude Code、Cowork、Grok Build 与 ChatGPT/Codex 学习工作流。",
             "ja": "ForeverLM 公式のリモート MCP プラグイン群。Claude Code / Cowork / Grok Build / ChatGPT・Codex 向けです。"
           }
+        },
+        {
+          "title": "Agent Workbench — four ready-made Grok Bot roles",
+          "url": "https://github.com/Wassimyounes01/agent-workbench",
+          "source": "GB-962",
+          "blurb": {
+            "en": "Open starter kit with four copyable Grok Bot role templates, setup guide, and a local runtime for evidence-bound multi-bot handoffs.",
+            "zh": "开源起步套件：四个可复制 Grok Bot 角色模板、安装指南，以及证据绑定的多 Bot 交接本地运行时。",
+            "ja": "コピー可能なGrok Bot役割テンプレ4つ、セットアップガイド、証拠付きハンドオフ用ローカルランタイムのスターターキット。"
+          }
+        },
+        {
+          "title": "Maintainer Skills Lab with dedicated Grok Bot pack",
+          "url": "https://github.com/00200200/maintainer-skills-lab",
+          "source": "GB-963",
+          "blurb": {
+            "en": "14 maintainer skills and agents for Codex/Claude/Cursor plus a dedicated grok-bot/ pack with marketplace.json and manual Bot setup recipes.",
+            "zh": "面向 Codex/Claude/Cursor 的 14 个维护技能与代理，另附 grok-bot/ 包（marketplace.json）与 Grok Bot 手动安装说明。",
+            "ja": "Codex/Claude/Cursor向けメンテ技能14個に加え、marketplace.json付きgrok-bot/パックとBot手動セットアップ手順を同梱。"
+          }
+        },
+        {
+          "title": "AMS connector plugin for Grok Bot messaging",
+          "url": "https://github.com/Agent-Messaging-Service/ams-grok-bot",
+          "source": "GB-964",
+          "blurb": {
+            "en": "Hosted AMS MCP + coordination skill packaged for Grok Bot marketplace connect—shared channels, catch-up, and handoffs without a local server.",
+            "zh": "面向 Grok Bot 市场的 AMS 托管 MCP + 协作技能包：共享频道、追读与交接，无需本地服务。",
+            "ja": "Grok Botマーケット向けAMSホストMCP＋連携スキル。共有チャンネル・キャッチアップ・引き継ぎをローカルサーバなしで。"
+          }
+        },
+        {
+          "title": "oh-my-grok-build — plan/execute/verify Grok Build plugin",
+          "url": "https://github.com/duarbdhks/oh-my-grok-build",
+          "source": "GB-970",
+          "blurb": {
+            "en": "Grok Build plugin (.grok-plugin) for consensus planning, bounded parallel execution, and evidence-based verification via /ogb-* commands.",
+            "zh": "Grok Build 插件（.grok-plugin）：共识规划、有界并行执行与基于证据的校验，提供 /ogb-* 命令。",
+            "ja": "Grok Buildプラグイン（.grok-plugin）。合意プラン、有界並列実行、証拠ベース検証。/ogb-*コマンド。"
+          }
+        },
+        {
+          "title": "grok-honcho — Honcho memory plugin for Grok Build",
+          "url": "https://github.com/heliumbrain/grok-honcho",
+          "source": "GB-971",
+          "blurb": {
+            "en": "Grok Build–native Honcho persistent memory plugin with prebuilt MCP/hooks bundles and grok plugin install path.",
+            "zh": "面向 Grok Build 的 Honcho 持久记忆插件，预构建 MCP/hooks，支持 grok plugin install。",
+            "ja": "Grok BuildネイティブのHoncho永続メモリプラグイン。MCP/hooks同梱、grok plugin install対応。"
+          }
+        },
+        {
+          "title": "Godmode — tamper-evident evidence ledger (.grok-plugin)",
+          "url": "https://github.com/AIimagined/Godmode",
+          "source": "GB-972",
+          "blurb": {
+            "en": "Tamper-evident local evidence ledger for agent “done” claims; ships .grok-plugin with live-proven Grok Build hooks.",
+            "zh": "针对 Agent「已完成」声明的本地防篡改证据账本；含 .grok-plugin，并在 Grok Build 上实机验证 hooks。",
+            "ja": "エージェントの「完了」主張向け改ざん検知台帳。.grok-plugin同梱、Grok Buildでhooks実機検証済み。"
+          }
         }
       ]
     },
@@ -6784,6 +6854,76 @@
             "zh": "SpaceXAI 官方开源终端编码代理（TUI/ACP），支撑 Grok Build 插件与本地队友工作流，与 Grok Bot 互补。",
             "ja": "SpaceXAI 公式のオープンソース端末コーディングエージェント（TUI/ACP）。Grok Build プラグインとローカル相棒フローの基盤で、Grok Bot と並ぶ公式ハーネスです。"
           }
+        },
+        {
+          "title": "grok-build-statusline — context/cost status line",
+          "url": "https://github.com/dench5566-ctrl/grok-build-statusline",
+          "source": "GB-965",
+          "blurb": {
+            "en": "Single-file Python statusline for Grok Build showing model, remaining context, session cost, and token stats in two lines.",
+            "zh": "Grok Build 单文件 Python 状态栏：两行显示模型、剩余上下文、会话费用与 token 统计。",
+            "ja": "Grok Build用単ファイルPythonステータス行。モデル・残コンテキスト・セッション費用・tokenを2行表示。"
+          }
+        },
+        {
+          "title": "HelloGrok — local proxy for Grok Build custom models",
+          "url": "https://github.com/hellowind777/hellogrok",
+          "source": "GB-968",
+          "blurb": {
+            "en": "Cross-platform local proxy that exposes Grok Build custom model channels in common API formats with self-healing config.",
+            "zh": "跨平台本地代理：把 Grok Build 自定义模型通道转成常见 API 格式，并带自愈配置。",
+            "ja": "Grok Buildのカスタムモデルチャネルを一般的なAPI形式で出すクロスプラットフォームローカルプロキシ。自己修復設定付き。"
+          }
+        },
+        {
+          "title": "Grok Build CLI utilities (sessions, skills, backup)",
+          "url": "https://github.com/cobusgreyling/grok-build-cli-utilities",
+          "source": "GB-969",
+          "blurb": {
+            "en": "Seven CLI power tools for Grok Build—sessions, skills, backup, usage, and related ops—with docs and examples.",
+            "zh": "面向 Grok Build 的七个 CLI 工具：会话、技能、备份、用量等，含文档与示例。",
+            "ja": "Grok Build向けCLIツール7本（セッション、スキル、バックアップ、使用量など）。ドキュメントと例付き。"
+          }
+        },
+        {
+          "title": "CLIProxyAPI — wrap Grok Build as OpenAI-compatible API",
+          "url": "https://github.com/router-for-me/CLIProxyAPI",
+          "source": "GB-976",
+          "blurb": {
+            "en": "Proxy that wraps Antigravity, Codex, Claude Code, and Grok Build behind OpenAI/Gemini/Claude-compatible API endpoints.",
+            "zh": "把 Antigravity、Codex、Claude Code、Grok Build 包装成 OpenAI/Gemini/Claude 兼容 API 的代理。",
+            "ja": "Antigravity/Codex/Claude Code/Grok BuildをOpenAI/Gemini/Claude互換APIで出すプロキシ。"
+          }
+        },
+        {
+          "title": "dsh-grok-provider — DeepSeek Harness Grok Build provider",
+          "url": "https://github.com/yoshino-xiao7/dsh-grok-provider",
+          "source": "GB-978",
+          "blurb": {
+            "en": "Community DeepSeek Harness provider for Grok Build with official CLI browser OAuth, streaming tools, and quota panel.",
+            "zh": "DeepSeek Harness 社区 Grok Build Provider：官方 CLI 浏览器 OAuth、流式工具调用与额度面板。",
+            "ja": "DeepSeek Harness向けコミュニティGrok Buildプロバイダ。公式CLIブラウザOAuth、ストリーミング、残量パネル。"
+          }
+        },
+        {
+          "title": "taskflow — multi-agent DAG runtime with Grok host",
+          "url": "https://github.com/heggria/taskflow",
+          "source": "GB-979",
+          "blurb": {
+            "en": "Declarative multi-agent DAG runtime with host adapters for Pi/Codex/Claude/OpenCode/Grok—resume, replay, and trusted effects.",
+            "zh": "声明式多智能体 DAG 运行时，适配 Pi/Codex/Claude/OpenCode/Grok，支持恢复、重放与可信副作用。",
+            "ja": "Pi/Codex/Claude/OpenCode/Grok向けホストアダプタ付き宣言的マルチエージェントDAGランタイム。再開・再現・Trusted Effects。"
+          }
+        },
+        {
+          "title": "grok-build-tweaks — community fork of xAI harness",
+          "url": "https://github.com/tkanarsky/grok-build-tweaks",
+          "source": "GB-982",
+          "blurb": {
+            "en": "Community fork of xAI’s grok-build harness with practical tweaks while keeping the upstream coding-agent architecture.",
+            "zh": "xAI grok-build 编程代理 harness 的社区分支，保留上游架构并加入实用调整。",
+            "ja": "xAI grok-buildハーネスのコミュニティフォーク。上流アーキを保ちつつ実用的な調整を追加。"
+          }
         }
       ]
     },
@@ -8294,6 +8434,36 @@
             "zh": "官方员工（deanrie）：目前没有独立的 Grok Bot Chrome 扩展。iOS 可用分享菜单把页面/链接/选中文本发给 Bot；任意平台把 URL 粘贴进对话，Bot 会在云电脑打开该页并摘要或处理。",
             "ja": "スタッフ（deanrie）：Grok Bot 専用 Chrome 拡張はまだない。iOS は共有シートでページ/リンク/選択テキストを Bot へ送れる。どこからでもチャットに URL を貼れば、Bot がクラウド PC で開いて要約・作業できる。"
           }
+        },
+        {
+          "title": "Ubuntu eCryptfs: sand-client ENAMETOOLONG blocks first setup",
+          "url": "https://forum.cursor.com/t/grok-bot-0-47-0-on-ubuntu-24-04-first-time-setup-fails-with-enametoolong-writing-sand-client-huge-token/171438",
+          "source": "GB-983",
+          "blurb": {
+            "en": "Staff (Colin, 2026-09-13): Grok Bot stores ~140–200-char files under ~/.config/Grok Bot/sand-client-persistence/; Linux allows 255 but eCryptfs (“Encrypt my home folder”) caps names at 143 → ENAMETOOLONG on Ubuntu first setup. Check with getconf NAME_MAX ~/.config and mount | grep -i ecryptfs; team is shortening names.",
+            "zh": "官方 Colin（2026-09-13）：Grok Bot 在 ~/.config/Grok Bot/sand-client-persistence/ 写入约 140–200 字符文件名；Linux 上限 255，但 eCryptfs（旧版「加密主目录」）限制 143 → Ubuntu 首次安装 ENAMETOOLONG。可用 getconf NAME_MAX 与 mount | grep ecryptfs 确认；官方在缩短文件名。",
+            "ja": "Staff（Colin、2026-09-13）：Grok Bot は ~/.config/Grok Bot/sand-client-persistence/ に約 140–200 文字のファイル名を書く。Linux は 255 だが eCryptfs（古い「ホーム暗号化」）は 143 上限 → Ubuntu 初回セットアップで ENAMETOOLONG。getconf NAME_MAX と mount | grep ecryptfs で確認；名前短縮を作業中。"
+          }
+        },
+        {
+          "title": "Secure-card secrets miss running agent shells — spawn a fresh agent",
+          "url": "https://forum.cursor.com/t/token-not-available-in-grok-bot-environment/171441",
+          "source": "GB-984",
+          "blurb": {
+            "en": "Staff (Colin, 2026-09-13): tokens saved via the secure card land in the Agent Computer’s main environment, but agents already open in their own window started a separate shell session that does not pick up later env changes—card shows Saved while the executor cannot see it. Workaround: after saving, create a brand-new agent (or rely on files on disk, which every agent can read); re-saving into an existing agent does not help.",
+            "zh": "官方 Colin（2026-09-13）：安全卡片保存的 token 会进 Agent Computer 主环境，但已在独立窗口运行的 agent 用的是另一次 shell 会话，拿不到之后写入的环境变量——卡片显示 Saved，执行器却读不到。变通：保存后新建一个 agent（或把密钥写到磁盘文件，所有 agent 都能读）；对已有 agent 反复重存无效。",
+            "ja": "Staff（Colin、2026-09-13）：セキュアカードで保存した token は Agent Computer のメイン環境に入るが、既に別ウィンドウで動いている agent は後から追加された env を拾わない別セッション——カードは Saved でも executor からは見えない。回避：保存後に新規 agent を作る（またはディスク上のファイルを使う；全 agent が読める）。既存 agent への再保存は無効。"
+          }
+        },
+        {
+          "title": "Signature-Agent = Grok Bot computer Chrome, not Cloud Agents",
+          "url": "https://forum.cursor.com/t/a-persistent-cursor-browser-generated-high-frequency-requests-against-my-cloudflare-worker/171434",
+          "source": "GB-985",
+          "blurb": {
+            "en": "Staff (Colin, 2026-09-13): Signature-Agent / cursorusercontent.com traffic is the browser inside your Grok Bot Agent Computer—not Cloud Agents or the IDE browser. Health-check tabs stay open after the task and keep polling; stop by Open computer → close those Chrome tabs (or quit Chrome), pause/delete the Automations routine, or Reset Grok Bot’s Computer as last resort.",
+            "zh": "官方 Colin（2026-09-13）：Signature-Agent / cursorusercontent.com 流量来自 Grok Bot Agent Computer 内的浏览器，不是 Cloud Agents 或 IDE 浏览器。任务结束后健康检查标签页仍开着会持续轮询；处理：打开电脑视图关掉对应 Chrome 标签（或退出 Chrome）、暂停/删除 Automations 例行任务，必要时再 Reset Grok Bot’s Computer。",
+            "ja": "Staff（Colin、2026-09-13）：Signature-Agent / cursorusercontent.com のトラフィックは Grok Bot Agent Computer 内ブラウザの識別子で、Cloud Agents や IDE ブラウザではない。タスク後もヘルスチェック用タブが残りポーリングし続ける。対処：コンピュータ画面を開いて該当 Chrome タブを閉じる（または Chrome 終了）、Automations のルーチンを停止/削除、最終手段で Reset Grok Bot’s Computer。"
+          }
         }
       ]
     },
@@ -9443,6 +9613,86 @@
             "en": "Claude Code plugin that delegates reviews and hard bugs to local Grok Build while you keep chatting in Claude.",
             "zh": "在 Claude Code 对话中把评审与硬 bug 委派给本机 Grok Build 的插件。",
             "ja": "Claude Code 上で会話しつつ、レビューや難バグをローカル Grok Build に委譲するプラグインです。"
+          }
+        },
+        {
+          "title": "OpenGrokBot — open-source Grok Bot alternative",
+          "url": "https://github.com/Z4YT0N/OpenGrokBot",
+          "source": "GB-966",
+          "blurb": {
+            "en": "MIT open-source Grok Bot alternative: local group-chat AI employees with tools, MCP, routines, approvals, and BYO Claude/Codex/Gemini logins.",
+            "zh": "MIT 开源 Grok Bot 替代：本地群聊 AI 员工，含工具/MCP/例程/审批，可自带 Claude/Codex/Gemini 登录。",
+            "ja": "MITのGrok Bot代替。ローカル群チャットAI社員、ツール/MCP/ルーチン/承認、Claude/Codex/Geminiログイン持ち込み可。"
+          }
+        },
+        {
+          "title": "Grok App — desktop workbench for local Grok Build",
+          "url": "https://github.com/RongleCat/grok-app",
+          "source": "GB-967",
+          "blurb": {
+            "en": "Open-source desktop workbench for the local Grok Build CLI—projects, streaming sessions, plugins/MCP hub, and omnichannel remote IM bridges.",
+            "zh": "面向本地 Grok Build CLI 的开源桌面工作台：多项目、流式会话、插件/MCP 中心与全渠道远程 IM 桥接。",
+            "ja": "ローカルGrok Build CLI向けOSSデスクトップ作業台。マルチプロジェクト、ストリーミング、プラグイン/MCP、遠隔IMブリッジ。"
+          }
+        },
+        {
+          "title": "Claude Code plugin that delegates to Grok Build",
+          "url": "https://github.com/xzawed/claude-grok-build-plugin",
+          "source": "GB-973",
+          "blurb": {
+            "en": "Claude Code plugin/MCP wrapper that delegates coding tasks to xAI Grok Build while Claude stays the orchestrator.",
+            "zh": "Claude Code 插件/MCP：由 Claude 编排，把编码任务委派给 xAI Grok Build。",
+            "ja": "Claude Codeプラグイン/MCP。Claudeがオーケストレーションし、実装をxAI Grok Buildへ委譲。"
+          }
+        },
+        {
+          "title": "awesome-ai-plugins — catalog with Grok Build section",
+          "url": "https://github.com/hashgraph-online/awesome-ai-plugins",
+          "source": "GB-974",
+          "blurb": {
+            "en": "Community awesome list of AI assistant plugins with a dedicated Grok Plugins section covering .grok-plugin format and marketplace links.",
+            "zh": "AI 助手插件精选列表，含独立 Grok Plugins 章节，覆盖 .grok-plugin 格式与市场链接。",
+            "ja": "AIアシスタント用プラグイン精選。Grok Plugins節があり、.grok-plugin形式とマーケットリンクを掲載。"
+          }
+        },
+        {
+          "title": "CC Switch — all-in-one manager including Grok Build",
+          "url": "https://github.com/farion1231/cc-switch",
+          "source": "GB-975",
+          "blurb": {
+            "en": "Cross-platform all-in-one desktop manager for Claude/Codex/OpenCode and Grok Build—providers, MCP, and skills in one UI.",
+            "zh": "跨平台一体化桌面管理器：统一管理 Claude/Codex/OpenCode 与 Grok Build 的供应商、MCP 与 Skills。",
+            "ja": "Claude/Codex/OpenCodeとGrok Buildのプロバイダ・MCP・Skillsを一つのUIで管理するクロスプラットフォームデスクトップ。"
+          }
+        },
+        {
+          "title": "Hapi — mobile/remote control for Grok Build sessions",
+          "url": "https://github.com/tiann/hapi",
+          "source": "GB-977",
+          "blurb": {
+            "en": "Mobile/web remote control app to run and steer Codex, Claude Code, Pi, OpenCode, Kimi, and Grok Build sessions anywhere.",
+            "zh": "手机/Web 远程控制应用：随时运行并操控 Codex、Claude Code、Pi、OpenCode、Kimi 与 Grok Build 会话。",
+            "ja": "モバイル/WebからCodex、Claude Code、Pi、OpenCode、Kimi、Grok Buildセッションを操作する遠隔コントロールアプリ。"
+          }
+        },
+        {
+          "title": "grok-build-desktop — Hermes UI for Grok Build CLI",
+          "url": "https://github.com/mjcity/grok-build-desktop",
+          "source": "GB-980",
+          "blurb": {
+            "en": "Hermes Desktop UI driving the Grok Build CLI through a contract-exact local gateway for sessions and skills.",
+            "zh": "Hermes 桌面 UI：经契约一致的本地网关驱动 Grok Build CLI，管理会话与技能。",
+            "ja": "契約どおりのローカルゲートウェイ経由でGrok Build CLIを動かすHermesデスクトップUI。セッションとスキル対応。"
+          }
+        },
+        {
+          "title": "Unofficial macOS desktop app for Grok Build CLI",
+          "url": "https://github.com/kimchikingdom/grok-desktop-for-mac",
+          "source": "GB-981",
+          "blurb": {
+            "en": "Unofficial macOS desktop app that drives the Grok Build CLI as an ACP agent over stdio with a native session UI.",
+            "zh": "非官方 macOS 桌面应用：以 ACP/stdio 驱动 Grok Build CLI，提供原生会话界面。",
+            "ja": "非公式macOSデスクトップ。Grok Build CLIをACP/stdioで駆動し、ネイティブセッションUIを提供。"
           }
         }
       ]
@@ -13359,7 +13609,7 @@
       "id": "ldn-20260913",
       "url": "https://luma.com/spacexai-hnzl",
       "image": "./assets/events/ldn-20260913-cover.png",
-      "expires": "2026-09-13T17:30:00+01:00",
+      "expires": "2026-09-13T16:30:00+01:00",
       "title": {
         "en": "Grok Bot London Cowork",
         "zh": "Grok Bot 伦敦 Cowork",
