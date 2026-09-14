@@ -2514,6 +2514,66 @@
             "zh": "每周一款浏览器小游戏目录，附 autonomous-game-development 技能包与 Day1–7 出货规则，面向 Bot 驱动的一周一作。",
             "ja": "週1本のブラウザミニゲームカタログ。自律ゲーム開発 SKILL.md と Day1–7 出荷ルール付きの Bot 運用。"
           }
+        },
+        {
+          "title": "Agent Pipeline — Grok Bot role task-to-delivery kit",
+          "url": "https://github.com/Wassimyounes01/agent-pipeline",
+          "source": "GB-1026",
+          "blurb": {
+            "en": "Local task-to-delivery kit with bounded routing, Grok Bot research/systems/design/critic roles, review evidence, and verified publishing.",
+            "zh": "本地任务到交付套件：有界路由、Grok Bot 研究/系统/设计/批评角色、审阅证据与可验证发布流程。",
+            "ja": "有界ルーティング、Grok Bot の研究／システム／設計／批評ロール、レビュー証跡と検証付き公開のローカル配送キット。"
+          }
+        },
+        {
+          "title": "XRPL neon ledger HUD built for Grok Build",
+          "url": "https://github.com/xrpshine/xrpl-neon-ledger",
+          "source": "GB-1027",
+          "blurb": {
+            "en": "Single-file WebGL neon dashboard that visualizes live XRPL ledger closes, packaged as a Grok Build project drop.",
+            "zh": "单文件 WebGL 霓虹仪表盘，实时展示 XRPL ledger 关闭，作为 Grok Build 项目交付物。",
+            "ja": "XRPL の ledger close を可視化する単一ファイル WebGL ネオン HUD。Grok Build 向けプロジェクト。"
+          }
+        },
+        {
+          "title": "Fantasy Shipping — RoRo career sim (Grok Build)",
+          "url": "https://github.com/1337sandvika/fantasy-shipping",
+          "source": "GB-1028",
+          "blurb": {
+            "en": "Worldwide RoRo shipping career sim built with Grok Build, with a Capacitor/App Store wrap planned next.",
+            "zh": "用 Grok Build 做的全球滚装船生涯模拟，后续计划 Capacitor/App Store 封装。",
+            "ja": "Grok Build で作った世界規模 RoRo 船キャリアシム。次は Capacitor／App Store ラップ予定。"
+          }
+        },
+        {
+          "title": "CartScope — golf-cart diagnostics app (Grok Build)",
+          "url": "https://github.com/NGC4160/CartScope",
+          "source": "GB-1029",
+          "blurb": {
+            "en": "Tablet-first golf-cart diagnostic checklist app (battery → codes → factory tests → report) built with Grok Build.",
+            "zh": "用 Grok Build 做的平板优先高尔夫球车诊断清单应用：电池→故障码→出厂测试→书面报告。",
+            "ja": "Grok Build 製のタブレット向けゴルフカート診断チェックリスト（バッテリ→コード→工場試験→報告）。"
+          }
+        },
+        {
+          "title": "RDR2 interactive map (Grok Build / Next.js)",
+          "url": "https://github.com/patreiCH72/rdr2-interactive-map",
+          "source": "GB-1030",
+          "blurb": {
+            "en": "Local, ad-free, login-free interactive Red Dead Redemption 2 fan map built with Grok Build and Next.js.",
+            "zh": "用 Grok Build 与 Next.js 做的本地、无广告、免登录《荒野大镖客2》粉丝互动地图。",
+            "ja": "Grok Build と Next.js のローカル／広告なし／ログイン不要な RDR2 ファン向けインタラクティブ地図。"
+          }
+        },
+        {
+          "title": "TaskPad — physical pad with experimental Grok Bot adapter",
+          "url": "https://github.com/DNTOF/TaskPad",
+          "source": "GB-1031",
+          "blurb": {
+            "en": "STC89C52 physical task pad with LCD1602 and optional ESP8266 OLED bridge; PC hub includes experimental Grok Bot and Cursor adapters.",
+            "zh": "STC89C52 实体任务板（LCD1602，可选 ESP8266 OLED 桥）；PC 枢纽含实验性 Grok Bot 与 Cursor 适配器。",
+            "ja": "STC89C52 物理タスクパッド（LCD1602／任意 ESP8266 OLED）。PC ハブに実験的な Grok Bot／Cursor アダプタ。"
+          }
         }
       ]
     },
@@ -5294,6 +5354,66 @@
             "zh": "面向 Codex/Claude/Grok Build/OpenCode 的 35 个 Agent Skills：审图后用 Three.js/Blender 建模并交付可交互动效。",
             "ja": "Codex/Claude/Grok Build/OpenCode 向け Agent Skills 35本。参照画像承認→Three.js/Blender→インタラクティブ動作。"
           }
+        },
+        {
+          "title": "Jeinn agent-skills — host-independent SKILL.md for Grok Build",
+          "url": "https://github.com/Jeinn-co/agent-skills",
+          "source": "GB-1020",
+          "blurb": {
+            "en": "Host-independent Agent Skills (SKILL.md) for Claude Code, Codex CLI, and Grok Build, installable via npx skills add.",
+            "zh": "面向 Claude Code、Codex CLI 与 Grok Build 的主机无关 Agent Skills（SKILL.md），可用 npx skills add 安装。",
+            "ja": "Claude Code・Codex CLI・Grok Build 向けのホスト非依存 Agent Skills（SKILL.md）。npx skills add で導入。"
+          }
+        },
+        {
+          "title": "Council of AI — Grok Build measurement plugin",
+          "url": "https://github.com/CSOAI-ORG/council-of-ai-grok",
+          "source": "GB-1021",
+          "blurb": {
+            "en": "Grok Build plugin that wires Council of AI measurement tools: skills, slash commands, a read-only auditor subagent, and MCP.",
+            "zh": "把 Council of AI 测评仪器接到 Grok Build 的插件：skills、斜杠命令、只读审计子代理与 MCP。",
+            "ja": "Council of AI の計測ツールを Grok Build に接続するプラグイン（skills・スラッシュ・読み取り専用監査・MCP）。"
+          }
+        },
+        {
+          "title": "WineAuction MCP plugin for Grok Build",
+          "url": "https://github.com/antyser/wineauction-grok-plugin",
+          "source": "GB-1022",
+          "blurb": {
+            "en": "Grok Build MCP plugin for live and closed wine auction lots, sale history, and OAuth PKCE WineAuction price queries.",
+            "zh": "面向 Grok Build 的 WineAuction MCP 插件：检索拍场/拍品与成交史，并用 OAuth PKCE 查询酒价。",
+            "ja": "Grok Build 向け WineAuction MCP。ライブ／終了ロットと落札履歴、OAuth PKCE の価格照会。"
+          }
+        },
+        {
+          "title": "Dyl PolyKalsh — short-dated prediction-market skill",
+          "url": "https://github.com/dylan2045ad/dyl-polykalsh-skill",
+          "source": "GB-1023",
+          "blurb": {
+            "en": "Grok skill that researches Polymarket/Kalshi markets resolving within 48 hours and outputs an even-split, $1.50-capped trade plan (no auto-trading).",
+            "zh": "面向 Grok 的技能：研究 48 小时内结算的 Polymarket/Kalshi 盘口，输出均分且单笔上限 $1.50 的交易计划（不下单）。",
+            "ja": "Grok 向けスキル。48時間以内に決着する Polymarket/Kalshi を調査し、$1.50上限の均等分割トレード案を出力（自動売買なし）。"
+          }
+        },
+        {
+          "title": "Agentic Doc Templates — playbooks for Grok Build",
+          "url": "https://github.com/BrianCLowe/Agentic-Doc-Templates",
+          "source": "GB-1024",
+          "blurb": {
+            "en": "Modular Understanding/spec/TODO docs plus agent playbooks so Cursor, Grok Build, Claude Code, and OpenClaw keep product intent through ship.",
+            "zh": "模块化 Understanding/spec/TODO 文档与代理剧本，帮助 Cursor、Grok Build、Claude Code、OpenClaw 在交付中保持产品意图。",
+            "ja": "Understanding/spec/TODO のモジュラー文書とプレイブックで、Cursor・Grok Build・Claude Code・OpenClaw の意図ドリフトを抑える。"
+          }
+        },
+        {
+          "title": "dsh-grok-plan-mode — Grok Build Plan Mode for DSH",
+          "url": "https://github.com/aa2246740/dsh-grok-plan-mode",
+          "source": "GB-1025",
+          "blurb": {
+            "en": "Ports full Grok Build Plan Mode into DeepSeek Harness: state machine, plan.md edit gate, enter/exit tools, and review surface.",
+            "zh": "把完整 Grok Build Plan Mode 移植到 DeepSeek Harness：状态机、plan.md 编辑门控、进入/退出工具与审阅界面。",
+            "ja": "Grok Build の Plan Mode を DeepSeek Harness に移植。状態機械・plan.md 編集ゲート・入退ツールとレビュー面。"
+          }
         }
       ]
     },
@@ -7223,6 +7343,146 @@
             "en": "Large MIT “Adaptive Grok Build Pro” runtime with sealed delivery slices, usage accounting, and offline recovery templates for Grok Build hosts.",
             "zh": "大型 MIT「Adaptive Grok Build Pro」运行时：密封交付切片、用量记账与面向 Grok Build 主机的离线恢复模板。",
             "ja": "大規模 MIT の Adaptive Grok Build Pro ランタイム。密封デリバリ、利用量会計、Grok Build 向けオフライン復旧。"
+          }
+        },
+        {
+          "title": "PairRoom — dual-agent room for Claude/Codex/Grok Build",
+          "url": "https://github.com/sean2077/pairroom",
+          "source": "GB-1032",
+          "blurb": {
+            "en": "Local dual-agent room that pairs official Claude Code, Codex, and Grok Build sessions for cross-review without replacing native harnesses.",
+            "zh": "本地双代理协作室：把官方 Claude Code、Codex 与 Grok Build 会话配对交叉审阅，不替换原生 harness。",
+            "ja": "公式 Claude Code・Codex・Grok Build をペアリングして相互レビューするローカル二エージェント部屋。ネイティブ harness は置換しない。"
+          }
+        },
+        {
+          "title": "PwrAgent — ADE driving Grok Build from chat apps",
+          "url": "https://github.com/pwrdrvr/PwrAgent",
+          "source": "GB-1033",
+          "blurb": {
+            "en": "Open-source ADE for Codex, Kimi, Qwen, and Grok Build that you drive from Discord, Slack, Mattermost, Telegram, LINE, or Feishu.",
+            "zh": "面向 Codex、Kimi、Qwen 与 Grok Build 的开源 ADE，可从 Discord/Slack/Mattermost/Telegram/LINE/飞书远程驾驭。",
+            "ja": "Codex・Kimi・Qwen・Grok Build 向け OSS ADE。Discord／Slack／Mattermost／Telegram／LINE／Feishu から操作。"
+          }
+        },
+        {
+          "title": "Agent Network — multi-agent mesh with Grok Build runtime",
+          "url": "https://github.com/sleep2agi/agent-network",
+          "source": "GB-1034",
+          "blurb": {
+            "en": "Local-first multi-agent network with Claude Code, Codex, and Grok Build runtimes, MCP/SSE, and a built-in web dashboard (Apache-2.0).",
+            "zh": "本地优先的多 Agent 组网：支持 Claude Code、Codex、Grok Build 运行时、MCP/SSE 与内置 Web 仪表盘（Apache-2.0）。",
+            "ja": "Claude Code・Codex・Grok Build ランタイム対応のローカル優先マルチエージェント網。MCP/SSE と Web ダッシュボード付き（Apache-2.0）。"
+          }
+        },
+        {
+          "title": "grok-fleet-orchestrator — Rust MCP for remote Grok Build",
+          "url": "https://github.com/yarang/grok-fleet-orchestrator",
+          "source": "GB-1035",
+          "blurb": {
+            "en": "Rust MCP orchestrator that manages fleets of Grok Build agents across Linux hosts and exposes a shared remote worker pool.",
+            "zh": "用 Rust 写的 MCP 编排器：在多台 Linux 主机上统一管理 Grok Build 代理舰队并暴露远程 worker 池。",
+            "ja": "複数 Linux 上の Grok Build エージェント艦隊を束ねる Rust MCP オーケストレータ。共有リモートワーカープールを公開。"
+          }
+        },
+        {
+          "title": "OTC Bus — dual-token job queue for Grok Build CLI",
+          "url": "https://github.com/offtheclocktk-boop/otc-bus",
+          "source": "GB-1036",
+          "blurb": {
+            "en": "Local Off-The-Clock job bus that queues heavy implement/investigate work onto a second Grok Build CLI token pool while chat stays responsive.",
+            "zh": "本地 Off-The-Clock 任务总线：把重活排到第二套 Grok Build CLI token 池，主对话保持轻量响应。",
+            "ja": "重い実装／調査ジョブを第2の Grok Build CLI トークンプールに積むローカルジョブバス。チャットは軽量のまま。"
+          }
+        },
+        {
+          "title": "Moe's Tavern — IDE task board including Grok Build",
+          "url": "https://github.com/yaront1111/Moe-s-Tavern",
+          "source": "GB-1037",
+          "blurb": {
+            "en": "AI agent task board for Claude Code, Codex, Gemini CLI, and Grok Build with plan/approve/build/review flows and .moe/ state in-repo.",
+            "zh": "面向 Claude Code、Codex、Gemini CLI 与 Grok Build 的 IDE 任务板：计划/批准/构建/审阅，状态存于仓库 .moe/。",
+            "ja": "Claude Code・Codex・Gemini CLI・Grok Build 向け IDE タスクボード。計画／承認／実装／レビューと .moe/ 状態。"
+          }
+        },
+        {
+          "title": "xray — multi-agent orchestration for Grok Build",
+          "url": "https://github.com/0xRayAI/xray",
+          "source": "GB-1038",
+          "blurb": {
+            "en": "Multi-agent orchestration and Codex governance layer that also targets OpenCode, Hermes, Grok Build, and OpenClaw.",
+            "zh": "多 Agent 编排与 Codex 治理层，同时面向 OpenCode、Hermes、Grok Build 与 OpenClaw。",
+            "ja": "OpenCode・Hermes・Grok Build・OpenClaw も対象にするマルチエージェント編成と Codex ガバナンス層。"
+          }
+        },
+        {
+          "title": "GrokBuildRemote-Agents — desktop remote for Grok Build",
+          "url": "https://github.com/LinespottingOrg/GrokBuildRemote-Agents",
+          "source": "GB-1039",
+          "blurb": {
+            "en": "Windows/macOS/Linux desktop agents that discover local Grok Build sessions, inject input, capture output, and relay gbr/1 envelopes to a phone remote.",
+            "zh": "Win/macOS/Linux 桌面代理：发现本机 Grok Build 会话、注入输入、捕获输出，并用 gbr/1 信封中继到手机遥控。",
+            "ja": "Win/macOS/Linux のデスクトップエージェント。ローカル Grok Build セッションを発見し入出力を中継、gbr/1 でフォンリモコンへ。"
+          }
+        },
+        {
+          "title": "grok-forge — unified Grok Build installer + project forge",
+          "url": "https://github.com/palarchsys/grok-forge",
+          "source": "GB-1040",
+          "blurb": {
+            "en": "French-language unified installer for Grok Build plus a TUI project forge for Python/npm/Linux repos with clean push workflows.",
+            "zh": "法语统一安装器：安装 Grok Build，并用 TUI 锻造 Python/npm/Linux 项目后干净推送。",
+            "ja": "Grok Build の統合インストーラ＋Python/npm/Linux 向け TUI プロジェクト鍛造（仏語 UI、クリーン push）。"
+          }
+        },
+        {
+          "title": "oh-my-grok — multi-agent orchestration for Grok Build",
+          "url": "https://github.com/aa22396584/oh-my-grok",
+          "source": "GB-1041",
+          "blurb": {
+            "en": "Multi-agent orchestration plugin for Grok Build (oh-my-grok / OMG); public GitHub home after the former ImL1s repo was restricted.",
+            "zh": "面向 Grok Build 的多 Agent 编排插件（oh-my-grok / OMG）；原 ImL1s 仓库受限后的公开 GitHub 主页。",
+            "ja": "Grok Build 向けマルチエージェント編成プラグイン（oh-my-grok）。旧 ImL1s 制限後の公開 GitHub ホーム。"
+          }
+        },
+        {
+          "title": "grok-build-termux — run Grok Build on Android Termux",
+          "url": "https://github.com/aa22396584/grok-build-termux",
+          "source": "GB-1042",
+          "blurb": {
+            "en": "Packaging and docs to run Grok Build inside Android Termux, mirrored after the former ImL1s GitHub home was restricted.",
+            "zh": "在 Android Termux 中运行 Grok Build 的打包与文档；原 ImL1s GitHub 主页受限后的镜像主仓。",
+            "ja": "Android Termux で Grok Build を動かすパッケージ／文書。旧 ImL1s 制限後のミラー本家。"
+          }
+        },
+        {
+          "title": "Grok2API — multi-account gateway for Grok Build/Web/Console",
+          "url": "https://github.com/chenyme/grok2api",
+          "source": "GB-1043",
+          "blurb": {
+            "en": "High-star multi-account API gateway covering Grok Build, Grok Web, and Grok Console with Docker amd64/arm64 images.",
+            "zh": "高星多账号 API 网关，覆盖 Grok Build、Grok Web 与 Grok Console，并提供 Docker amd64/arm64 镜像。",
+            "ja": "Grok Build／Grok Web／Grok Console 対応の高スター多アカウント API ゲートウェイ。Docker amd64/arm64。"
+          }
+        },
+        {
+          "title": "EchoBird — one-click install/switch including Grok Build",
+          "url": "https://github.com/edison7009/EchoBird",
+          "source": "GB-1044",
+          "blurb": {
+            "en": "One-click installer and model switcher covering Claude Code, Codex CLI, Grok Build, DeepSeek Harness, and many other coding agents.",
+            "zh": "一键安装与模型切换器，覆盖 Claude Code、Codex CLI、Grok Build、DeepSeek Harness 等众多编程代理。",
+            "ja": "Claude Code・Codex CLI・Grok Build・DeepSeek Harness など多数のコーディングエージェントを一発インストール／切替。"
+          }
+        },
+        {
+          "title": "SWARM — self-hosted mini Grok Bot alternative",
+          "url": "https://github.com/KhanUzeb/SWARM",
+          "source": "GB-1045",
+          "blurb": {
+            "en": "Self-hosted AI teammate workspace: named LLM bots join channels, take jobs, run tools, hand off work, and leave an audit trail like a mini Grok Bot.",
+            "zh": "自托管 AI 队友工作区：命名 LLM Bot 进频道接活、跑工具、交接并留审计轨迹，类似迷你 Grok Bot。",
+            "ja": "自前ホストの AI チーム空間。名前付き LLM Bot がチャンネルで仕事・ツール・引き継ぎ・監査ログを残すミニ Grok Bot 代替。"
           }
         }
       ]
@@ -10033,6 +10293,126 @@
             "en": "Unofficial Windows tool that lists recent Grok session project folders and opens selected ones in Windows Terminal tabs.",
             "zh": "非官方 Windows 工具：从本机 Grok 会话记录列出最近项目目录，并在 Windows Terminal 多标签打开。",
             "ja": "非公式 Windows ツール。Grok セッション履歴から最近のプロジェクトを選び Windows Terminal で開く。"
+          }
+        },
+        {
+          "title": "CC Safety Net — pre-exec guard including Grok Build",
+          "url": "https://github.com/kenryu42/cc-safety-net",
+          "source": "GB-1046",
+          "blurb": {
+            "en": "Pre-execution safety guard that blocks destructive git/filesystem and secret-file access across many agents, with explicit Grok Build install docs.",
+            "zh": "执行前安全护栏：拦截破坏性 git/文件系统与敏感文件访问，支持众多代理并提供明确的 Grok Build 安装文档。",
+            "ja": "破壊的 git／FS と機密ファイルアクセスを実行前に止めるガード。多数エージェント対応で Grok Build 導入手順あり。"
+          }
+        },
+        {
+          "title": "cc-mplace — plugin marketplace indexing Grok Build",
+          "url": "https://github.com/Djarvur/cc-mplace",
+          "source": "GB-1047",
+          "blurb": {
+            "en": "Curated static plugin marketplace with native indexes for Claude Code, Codex, Cursor, Grok Build, and GitHub Copilot CLI.",
+            "zh": "精选静态插件市场，为 Claude Code、Codex、Cursor、Grok Build 与 GitHub Copilot CLI 各提供原生索引。",
+            "ja": "Claude Code・Codex・Cursor・Grok Build・GitHub Copilot CLI 向けネイティブ索引のキュレーション型プラグイン市場。"
+          }
+        },
+        {
+          "title": "grok-models — TUI for custom Grok Build models",
+          "url": "https://github.com/goldengateagent/grok-models",
+          "source": "GB-1048",
+          "blurb": {
+            "en": "TUI that configures Grok Build and Codex harnesses to use custom models from alternate providers and API gateways.",
+            "zh": "用 TUI 把 Grok Build 与 Codex harness 配成走备用提供商/网关的自定义模型。",
+            "ja": "Grok Build と Codex ハーネスを代替プロバイダ／ゲートウェイのカスタムモデルに切り替える TUI。"
+          }
+        },
+        {
+          "title": "dsh-chat-import — import Grok Build chats into DSH",
+          "url": "https://github.com/Nwflower/dsh-chat-import",
+          "source": "GB-1049",
+          "blurb": {
+            "en": "Imports 14+ agent chat histories—including Grok Build—into DeepSeek Harness as resumable sessions with reverse export and bundle backup.",
+            "zh": "把含 Grok Build 在内的 14+ 代理聊天历史导入 DeepSeek Harness 为可续聊会话，并支持反向导出与打包备份。",
+            "ja": "Grok Build を含む 14+ エージェント履歴を DeepSeek Harness の再開可能セッションへ取り込み。逆エクスポートとバックアップ付き。"
+          }
+        },
+        {
+          "title": "dsh-coding-subscription-oauth — SuperGrok/Grok Build OAuth",
+          "url": "https://github.com/lninghaha/dsh-coding-subscription-oauth",
+          "source": "GB-1050",
+          "blurb": {
+            "en": "DeepSeek Harness OAuth for coding subscriptions: SuperGrok / Grok Build, ChatGPT Plus Codex, Kimi Code, and Claude Code without pasting API keys.",
+            "zh": "DeepSeek Harness 编程订阅 OAuth：SuperGrok/Grok Build、ChatGPT Plus Codex、Kimi Code、Claude Code，无需粘贴 API Key。",
+            "ja": "DeepSeek Harness 向けコーディング購読 OAuth。SuperGrok／Grok Build 等を API キー貼り付けなしで接続。"
+          }
+        },
+        {
+          "title": "cursor-bridge + Grok Build Supervisor MCP plugins",
+          "url": "https://github.com/Vanyangyang/cursor-bridge",
+          "source": "GB-1051",
+          "blurb": {
+            "en": "Windows MCP plugins: Cursor Bridge for CCE from Codex/Claude/Grok Build/Pi, plus an independent Grok Build Supervisor for plan-and-execute handoffs.",
+            "zh": "Windows MCP 插件：Cursor Bridge 让 Codex/Claude/Grok Build/Pi 用 CCE，另有独立 Grok Build Supervisor 做计划—执行交接。",
+            "ja": "Windows 向け MCP。Cursor Bridge で CCE、独立の Grok Build Supervisor で計画／実行ハンドオフ（Codex／Claude／Grok／Pi）。"
+          }
+        },
+        {
+          "title": "DeepSeek Code — DSH via Grok Build TUI bridge",
+          "url": "https://github.com/HQ1995/deepseek-code",
+          "source": "GB-1052",
+          "blurb": {
+            "en": "Rust TUI coding agent (dscode) that runs DeepSeek Harness through a Grok-leader bridge and grok-style protocol contract.",
+            "zh": "Rust TUI 编程代理（dscode）：经 Grok-leader 桥与 grok 风格协议契约驱动 DeepSeek Harness。",
+            "ja": "Grok-leader ブリッジと grok 風プロトコルで DeepSeek Harness を動かす Rust TUI コーディングエージェント（dscode）。"
+          }
+        },
+        {
+          "title": "omnilane — cross-harness routing including Grok Build",
+          "url": "https://github.com/Seraphim0916/omnilane",
+          "source": "GB-1053",
+          "blurb": {
+            "en": "One routing table for cross-vendor model dispatch from Claude Code, Codex, Grok Build, and Antigravity, installable as a Grok Build plugin.",
+            "zh": "一张路由表完成跨厂商模型分发，驱动端含 Claude Code、Codex、Grok Build、Antigravity，可作 Grok Build 插件安装。",
+            "ja": "Claude Code・Codex・Grok Build・Antigravity からの横断ベンダー振り分けを一枚のルーティング表で。Grok Build プラグイン可。"
+          }
+        },
+        {
+          "title": "Jenkins AI Agent plugin — Grok Build build step",
+          "url": "https://github.com/jenkinsci/ai-agent-plugin",
+          "source": "GB-1054",
+          "blurb": {
+            "en": "Official Jenkins plugin providing a reusable AI Agent build step for Claude Code, Codex CLI, Cursor Agent, OpenCode, Gemini CLI, and Grok Build.",
+            "zh": "Jenkins 官方插件：可复用的 AI Agent 构建步骤，支持 Claude Code、Codex CLI、Cursor Agent、OpenCode、Gemini CLI 与 Grok Build。",
+            "ja": "Jenkins 公式プラグイン。Claude Code・Codex・Cursor Agent・OpenCode・Gemini CLI・Grok Build 向け再利用可能な AI Agent ビルドステップ。"
+          }
+        },
+        {
+          "title": "agent-releases — Chinese tracker including Grok Build",
+          "url": "https://github.com/majiayu000/agent-releases",
+          "source": "GB-1055",
+          "blurb": {
+            "en": "Unofficial Chinese release notes tracker for @agentreleases covering Claude Code, Codex, and Grok Build (DRY_RUN Issues first).",
+            "zh": "非官方中文版本更新整理，面向 @agentreleases，覆盖 Claude Code、Codex 与 Grok Build（先 DRY_RUN Issues）。",
+            "ja": "@agentreleases 向け非公式中国語リリース整理。Claude Code・Codex・Grok Build をカバー（まず DRY_RUN Issues）。"
+          }
+        },
+        {
+          "title": "spicefiendd agent-tools catalog for Grok Bot fleet",
+          "url": "https://github.com/spicefiendd/agent-tools",
+          "source": "GB-1056",
+          "blurb": {
+            "en": "Public catalog of kept Grok Bot agent CLIs on spicefiendd (handoff, X desk, lead-inbox, jobwatch, mycase-pull) with no secrets.",
+            "zh": "spicefiendd 上保留的 Grok Bot 代理工具目录（handoff、X desk、lead-inbox、jobwatch、mycase-pull），不含密钥。",
+            "ja": "spicefiendd の Grok Bot エージェント用 CLI カタログ（handoff／X desk／lead-inbox 等）。秘密情報なし。"
+          }
+        },
+        {
+          "title": "grok-wecom-bot — WeCom bridge to Grok CLI",
+          "url": "https://github.com/painrice/grok-wecom-bot",
+          "source": "GB-1057",
+          "blurb": {
+            "en": "Enterprise WeChat bot bridge that receives messages over WebSocket and streams replies from the local Grok CLI (grok).",
+            "zh": "企业微信 Bot 桥接：WebSocket 收消息，调用本机 Grok CLI（grok）流式回复。",
+            "ja": "企業微信 Bot ブリッジ。WebSocket で受信し、ローカル Grok CLI（grok）のストリーム応答を返す。"
           }
         }
       ]

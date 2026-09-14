@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-995-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1033-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -336,6 +336,12 @@
 - [Late One Minute — Grok Bot × Grok Build game case](https://github.com/parize670/late-one-minute) - 60秒出门ミニゲーム事例。Grok BotがPM、Grok Buildが実装、Codexが技術リード。AGENTS.mdと貼り付け用プロンプト付き。
 - [Baloto Analyst — Grok Bot lottery desk (Colombia)](https://github.com/jescandonp/baloto-grok-bot) - コロンビア Baloto 向け Grok Bot プロフィールと Python エンジン。履歴CSV・頻度/遅延分析と責任ある買い目生成。
 - [grokbot-game-a-week — weekly browser games + Bot skills](https://github.com/ababa831/grokbot-game-a-week) - 週1本のブラウザミニゲームカタログ。自律ゲーム開発 SKILL.md と Day1–7 出荷ルール付きの Bot 運用。
+- [Agent Pipeline — Grok Bot role task-to-delivery kit](https://github.com/Wassimyounes01/agent-pipeline) - 有界ルーティング、Grok Bot の研究／システム／設計／批評ロール、レビュー証跡と検証付き公開のローカル配送キット。
+- [XRPL neon ledger HUD built for Grok Build](https://github.com/xrpshine/xrpl-neon-ledger) - XRPL の ledger close を可視化する単一ファイル WebGL ネオン HUD。Grok Build 向けプロジェクト。
+- [Fantasy Shipping — RoRo career sim (Grok Build)](https://github.com/1337sandvika/fantasy-shipping) - Grok Build で作った世界規模 RoRo 船キャリアシム。次は Capacitor／App Store ラップ予定。
+- [CartScope — golf-cart diagnostics app (Grok Build)](https://github.com/NGC4160/CartScope) - Grok Build 製のタブレット向けゴルフカート診断チェックリスト（バッテリ→コード→工場試験→報告）。
+- [RDR2 interactive map (Grok Build / Next.js)](https://github.com/patreiCH72/rdr2-interactive-map) - Grok Build と Next.js のローカル／広告なし／ログイン不要な RDR2 ファン向けインタラクティブ地図。
+- [TaskPad — physical pad with experimental Grok Bot adapter](https://github.com/DNTOF/TaskPad) - STC89C52 物理タスクパッド（LCD1602／任意 ESP8266 OLED）。PC ハブに実験的な Grok Bot／Cursor アダプタ。
 
 ## スキル、プラグインと MCP
 
@@ -616,6 +622,12 @@
 - [codexRouter — Codex skill that delegates to Grok Build](https://github.com/yyd-hndx/codexrouter) - Codex スキル。OpenCode / Grok Build / DeepSeek Harness に実装を委譲し、差分レビューと有限リワーク。
 - [Glasser plugins — pay-per-call APIs for Grok Build](https://github.com/glasser-ai/plugins) - Glasser 公式 Agent Plugins。Cursor / Claude Code / Grok Build 向け、1キーで卸 API・従量課金。
 - [Three.js Lab Skills — image-to-interactive 3D for Grok Build](https://github.com/LumosLab-Innovation/threejs-lab-skills) - Codex/Claude/Grok Build/OpenCode 向け Agent Skills 35本。参照画像承認→Three.js/Blender→インタラクティブ動作。
+- [Jeinn agent-skills — host-independent SKILL.md for Grok Build](https://github.com/Jeinn-co/agent-skills) - Claude Code・Codex CLI・Grok Build 向けのホスト非依存 Agent Skills（SKILL.md）。npx skills add で導入。
+- [Council of AI — Grok Build measurement plugin](https://github.com/CSOAI-ORG/council-of-ai-grok) - Council of AI の計測ツールを Grok Build に接続するプラグイン（skills・スラッシュ・読み取り専用監査・MCP）。
+- [WineAuction MCP plugin for Grok Build](https://github.com/antyser/wineauction-grok-plugin) - Grok Build 向け WineAuction MCP。ライブ／終了ロットと落札履歴、OAuth PKCE の価格照会。
+- [Dyl PolyKalsh — short-dated prediction-market skill](https://github.com/dylan2045ad/dyl-polykalsh-skill) - Grok 向けスキル。48時間以内に決着する Polymarket/Kalshi を調査し、$1.50上限の均等分割トレード案を出力（自動売買なし）。
+- [Agentic Doc Templates — playbooks for Grok Build](https://github.com/BrianCLowe/Agentic-Doc-Templates) - Understanding/spec/TODO のモジュラー文書とプレイブックで、Cursor・Grok Build・Claude Code・OpenClaw の意図ドリフトを抑える。
+- [dsh-grok-plan-mode — Grok Build Plan Mode for DSH](https://github.com/aa2246740/dsh-grok-plan-mode) - Grok Build の Plan Mode を DeepSeek Harness に移植。状態機械・plan.md 編集ゲート・入退ツールとレビュー面。
 
 ## レビューと比較
 
@@ -813,6 +825,20 @@
 - [xirp-grok — add Grok Build agent to Spotify Xirp](https://github.com/alta-atc/xirp-grok) - 非公式パッチ。Spotify Xirp のエージェント選択に squab 経由で Grok Build を登録。
 - [Grok Build Desktop — Tauri ACP workbench](https://github.com/Stauch99/grok-build-desktop) - Grok Build 名の Tauri ACP ワークベンチ。チャット/セッション/権限/Git と Grok 等 stdio、任意 memory MCP。
 - [Adaptive Grok Build Pro — enterprise workflow runtime](https://github.com/Dimkox/adaptive-grok-build-pro) - 大規模 MIT の Adaptive Grok Build Pro ランタイム。密封デリバリ、利用量会計、Grok Build 向けオフライン復旧。
+- [PairRoom — dual-agent room for Claude/Codex/Grok Build](https://github.com/sean2077/pairroom) - 公式 Claude Code・Codex・Grok Build をペアリングして相互レビューするローカル二エージェント部屋。ネイティブ harness は置換しない。
+- [PwrAgent — ADE driving Grok Build from chat apps](https://github.com/pwrdrvr/PwrAgent) - Codex・Kimi・Qwen・Grok Build 向け OSS ADE。Discord／Slack／Mattermost／Telegram／LINE／Feishu から操作。
+- [Agent Network — multi-agent mesh with Grok Build runtime](https://github.com/sleep2agi/agent-network) - Claude Code・Codex・Grok Build ランタイム対応のローカル優先マルチエージェント網。MCP/SSE と Web ダッシュボード付き（Apache-2.0）。
+- [grok-fleet-orchestrator — Rust MCP for remote Grok Build](https://github.com/yarang/grok-fleet-orchestrator) - 複数 Linux 上の Grok Build エージェント艦隊を束ねる Rust MCP オーケストレータ。共有リモートワーカープールを公開。
+- [OTC Bus — dual-token job queue for Grok Build CLI](https://github.com/offtheclocktk-boop/otc-bus) - 重い実装／調査ジョブを第2の Grok Build CLI トークンプールに積むローカルジョブバス。チャットは軽量のまま。
+- [Moe's Tavern — IDE task board including Grok Build](https://github.com/yaront1111/Moe-s-Tavern) - Claude Code・Codex・Gemini CLI・Grok Build 向け IDE タスクボード。計画／承認／実装／レビューと .moe/ 状態。
+- [xray — multi-agent orchestration for Grok Build](https://github.com/0xRayAI/xray) - OpenCode・Hermes・Grok Build・OpenClaw も対象にするマルチエージェント編成と Codex ガバナンス層。
+- [GrokBuildRemote-Agents — desktop remote for Grok Build](https://github.com/LinespottingOrg/GrokBuildRemote-Agents) - Win/macOS/Linux のデスクトップエージェント。ローカル Grok Build セッションを発見し入出力を中継、gbr/1 でフォンリモコンへ。
+- [grok-forge — unified Grok Build installer + project forge](https://github.com/palarchsys/grok-forge) - Grok Build の統合インストーラ＋Python/npm/Linux 向け TUI プロジェクト鍛造（仏語 UI、クリーン push）。
+- [oh-my-grok — multi-agent orchestration for Grok Build](https://github.com/aa22396584/oh-my-grok) - Grok Build 向けマルチエージェント編成プラグイン（oh-my-grok）。旧 ImL1s 制限後の公開 GitHub ホーム。
+- [grok-build-termux — run Grok Build on Android Termux](https://github.com/aa22396584/grok-build-termux) - Android Termux で Grok Build を動かすパッケージ／文書。旧 ImL1s 制限後のミラー本家。
+- [Grok2API — multi-account gateway for Grok Build/Web/Console](https://github.com/chenyme/grok2api) - Grok Build／Grok Web／Grok Console 対応の高スター多アカウント API ゲートウェイ。Docker amd64/arm64。
+- [EchoBird — one-click install/switch including Grok Build](https://github.com/edison7009/EchoBird) - Claude Code・Codex CLI・Grok Build・DeepSeek Harness など多数のコーディングエージェントを一発インストール／切替。
+- [SWARM — self-hosted mini Grok Bot alternative](https://github.com/KhanUzeb/SWARM) - 自前ホストの AI チーム空間。名前付き LLM Bot がチャンネルで仕事・ツール・引き継ぎ・監査ログを残すミニ Grok Bot 代替。
 
 ## コミュニティと障害事例
 
@@ -1098,10 +1124,22 @@
 - [Agent Bridge — self-hosted runtime including Grok Build](https://github.com/Farstax/agent-bridge) - 自己ホスト実行環境。常時稼働ホストで Codex/Claude/Grok Build/Cursor を維持し Telegram/Discord から継続。
 - [Mjolnir — meta-harness managing Grok Build ACP sessions](https://github.com/BrokkAi/mjolnir) - Rust 制御面（★39）。購読・ハーネス・マシン間で ACP セッションを移す（Grok Build 含む）。
 - [Grok recent-project launcher (Windows)](https://github.com/VidereCultus/grok-recent-launcher) - 非公式 Windows ツール。Grok セッション履歴から最近のプロジェクトを選び Windows Terminal で開く。
+- [CC Safety Net — pre-exec guard including Grok Build](https://github.com/kenryu42/cc-safety-net) - 破壊的 git／FS と機密ファイルアクセスを実行前に止めるガード。多数エージェント対応で Grok Build 導入手順あり。
+- [cc-mplace — plugin marketplace indexing Grok Build](https://github.com/Djarvur/cc-mplace) - Claude Code・Codex・Cursor・Grok Build・GitHub Copilot CLI 向けネイティブ索引のキュレーション型プラグイン市場。
+- [grok-models — TUI for custom Grok Build models](https://github.com/goldengateagent/grok-models) - Grok Build と Codex ハーネスを代替プロバイダ／ゲートウェイのカスタムモデルに切り替える TUI。
+- [dsh-chat-import — import Grok Build chats into DSH](https://github.com/Nwflower/dsh-chat-import) - Grok Build を含む 14+ エージェント履歴を DeepSeek Harness の再開可能セッションへ取り込み。逆エクスポートとバックアップ付き。
+- [dsh-coding-subscription-oauth — SuperGrok/Grok Build OAuth](https://github.com/lninghaha/dsh-coding-subscription-oauth) - DeepSeek Harness 向けコーディング購読 OAuth。SuperGrok／Grok Build 等を API キー貼り付けなしで接続。
+- [cursor-bridge + Grok Build Supervisor MCP plugins](https://github.com/Vanyangyang/cursor-bridge) - Windows 向け MCP。Cursor Bridge で CCE、独立の Grok Build Supervisor で計画／実行ハンドオフ（Codex／Claude／Grok／Pi）。
+- [DeepSeek Code — DSH via Grok Build TUI bridge](https://github.com/HQ1995/deepseek-code) - Grok-leader ブリッジと grok 風プロトコルで DeepSeek Harness を動かす Rust TUI コーディングエージェント（dscode）。
+- [omnilane — cross-harness routing including Grok Build](https://github.com/Seraphim0916/omnilane) - Claude Code・Codex・Grok Build・Antigravity からの横断ベンダー振り分けを一枚のルーティング表で。Grok Build プラグイン可。
+- [Jenkins AI Agent plugin — Grok Build build step](https://github.com/jenkinsci/ai-agent-plugin) - Jenkins 公式プラグイン。Claude Code・Codex・Cursor Agent・OpenCode・Gemini CLI・Grok Build 向け再利用可能な AI Agent ビルドステップ。
+- [agent-releases — Chinese tracker including Grok Build](https://github.com/majiayu000/agent-releases) - @agentreleases 向け非公式中国語リリース整理。Claude Code・Codex・Grok Build をカバー（まず DRY_RUN Issues）。
+- [spicefiendd agent-tools catalog for Grok Bot fleet](https://github.com/spicefiendd/agent-tools) - spicefiendd の Grok Bot エージェント用 CLI カタログ（handoff／X desk／lead-inbox 等）。秘密情報なし。
+- [grok-wecom-bot — WeCom bridge to Grok CLI](https://github.com/painrice/grok-wecom-bot) - 企業微信 Bot ブリッジ。WebSocket で受信し、ローカル Grok CLI（grok）のストリーム応答を返す。
 
 ## 貢献
 
-8 セクションに 995 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1033 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

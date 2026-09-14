@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-995-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1033-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -336,6 +336,12 @@
 - [Late One Minute — Grok Bot × Grok Build game case](https://github.com/parize670/late-one-minute) - 60-second outing mini-game case study: Grok Bot as PM, Grok Build as coder, Codex as tech lead, with AGENTS.md and paste-ready prompts.
 - [Baloto Analyst — Grok Bot lottery desk (Colombia)](https://github.com/jescandonp/baloto-grok-bot) - Grok Bot profile plus Python engines for Baloto/Revancha/MiLoto/ColorLoto: historical CSVs, frequency/atraso analytics, and responsible-play play generators.
 - [grokbot-game-a-week — weekly browser games + Bot skills](https://github.com/ababa831/grokbot-game-a-week) - Weekly browser mini-game catalog with autonomous-game-development SKILL.md packs and Day1–7 shipping rules for Bot-driven game a week.
+- [Agent Pipeline — Grok Bot role task-to-delivery kit](https://github.com/Wassimyounes01/agent-pipeline) - Local task-to-delivery kit with bounded routing, Grok Bot research/systems/design/critic roles, review evidence, and verified publishing.
+- [XRPL neon ledger HUD built for Grok Build](https://github.com/xrpshine/xrpl-neon-ledger) - Single-file WebGL neon dashboard that visualizes live XRPL ledger closes, packaged as a Grok Build project drop.
+- [Fantasy Shipping — RoRo career sim (Grok Build)](https://github.com/1337sandvika/fantasy-shipping) - Worldwide RoRo shipping career sim built with Grok Build, with a Capacitor/App Store wrap planned next.
+- [CartScope — golf-cart diagnostics app (Grok Build)](https://github.com/NGC4160/CartScope) - Tablet-first golf-cart diagnostic checklist app (battery → codes → factory tests → report) built with Grok Build.
+- [RDR2 interactive map (Grok Build / Next.js)](https://github.com/patreiCH72/rdr2-interactive-map) - Local, ad-free, login-free interactive Red Dead Redemption 2 fan map built with Grok Build and Next.js.
+- [TaskPad — physical pad with experimental Grok Bot adapter](https://github.com/DNTOF/TaskPad) - STC89C52 physical task pad with LCD1602 and optional ESP8266 OLED bridge; PC hub includes experimental Grok Bot and Cursor adapters.
 
 ## Skills, Plugins & MCP
 
@@ -616,6 +622,12 @@
 - [codexRouter — Codex skill that delegates to Grok Build](https://github.com/yyd-hndx/codexrouter) - Codex skill that routes coding tasks to OpenCode, Grok Build, or DeepSeek Harness, then reviews diffs with bounded rework loops.
 - [Glasser plugins — pay-per-call APIs for Grok Build](https://github.com/glasser-ai/plugins) - Official Glasser agent-plugin pack (config + markdown) for Cursor, Claude Code, and Grok Build: one key, wholesale APIs, pay per call.
 - [Three.js Lab Skills — image-to-interactive 3D for Grok Build](https://github.com/LumosLab-Innovation/threejs-lab-skills) - 35 Agent Skills for Codex/Claude/Grok Build/OpenCode: approve a reference image, author Three.js/Blender geometry, then ship interactive motion.
+- [Jeinn agent-skills — host-independent SKILL.md for Grok Build](https://github.com/Jeinn-co/agent-skills) - Host-independent Agent Skills (SKILL.md) for Claude Code, Codex CLI, and Grok Build, installable via npx skills add.
+- [Council of AI — Grok Build measurement plugin](https://github.com/CSOAI-ORG/council-of-ai-grok) - Grok Build plugin that wires Council of AI measurement tools: skills, slash commands, a read-only auditor subagent, and MCP.
+- [WineAuction MCP plugin for Grok Build](https://github.com/antyser/wineauction-grok-plugin) - Grok Build MCP plugin for live and closed wine auction lots, sale history, and OAuth PKCE WineAuction price queries.
+- [Dyl PolyKalsh — short-dated prediction-market skill](https://github.com/dylan2045ad/dyl-polykalsh-skill) - Grok skill that researches Polymarket/Kalshi markets resolving within 48 hours and outputs an even-split, $1.50-capped trade plan (no auto-trading).
+- [Agentic Doc Templates — playbooks for Grok Build](https://github.com/BrianCLowe/Agentic-Doc-Templates) - Modular Understanding/spec/TODO docs plus agent playbooks so Cursor, Grok Build, Claude Code, and OpenClaw keep product intent through ship.
+- [dsh-grok-plan-mode — Grok Build Plan Mode for DSH](https://github.com/aa2246740/dsh-grok-plan-mode) - Ports full Grok Build Plan Mode into DeepSeek Harness: state machine, plan.md edit gate, enter/exit tools, and review surface.
 
 ## Reviews & Comparisons
 
@@ -813,6 +825,20 @@
 - [xirp-grok — add Grok Build agent to Spotify Xirp](https://github.com/alta-atc/xirp-grok) - Patcher that registers xAI Grok Build inside Spotify’s Xirp desktop agent picker via squab harness injection (unofficial).
 - [Grok Build Desktop — Tauri ACP workbench](https://github.com/Stauch99/grok-build-desktop) - Native Tauri ACP workbench named for Grok Build: chat/sessions/permissions/Git with stdio agents (Grok, Claude, Codex, Kimi) and optional memory MCP.
 - [Adaptive Grok Build Pro — enterprise workflow runtime](https://github.com/Dimkox/adaptive-grok-build-pro) - Large MIT “Adaptive Grok Build Pro” runtime with sealed delivery slices, usage accounting, and offline recovery templates for Grok Build hosts.
+- [PairRoom — dual-agent room for Claude/Codex/Grok Build](https://github.com/sean2077/pairroom) - Local dual-agent room that pairs official Claude Code, Codex, and Grok Build sessions for cross-review without replacing native harnesses.
+- [PwrAgent — ADE driving Grok Build from chat apps](https://github.com/pwrdrvr/PwrAgent) - Open-source ADE for Codex, Kimi, Qwen, and Grok Build that you drive from Discord, Slack, Mattermost, Telegram, LINE, or Feishu.
+- [Agent Network — multi-agent mesh with Grok Build runtime](https://github.com/sleep2agi/agent-network) - Local-first multi-agent network with Claude Code, Codex, and Grok Build runtimes, MCP/SSE, and a built-in web dashboard (Apache-2.0).
+- [grok-fleet-orchestrator — Rust MCP for remote Grok Build](https://github.com/yarang/grok-fleet-orchestrator) - Rust MCP orchestrator that manages fleets of Grok Build agents across Linux hosts and exposes a shared remote worker pool.
+- [OTC Bus — dual-token job queue for Grok Build CLI](https://github.com/offtheclocktk-boop/otc-bus) - Local Off-The-Clock job bus that queues heavy implement/investigate work onto a second Grok Build CLI token pool while chat stays responsive.
+- [Moe's Tavern — IDE task board including Grok Build](https://github.com/yaront1111/Moe-s-Tavern) - AI agent task board for Claude Code, Codex, Gemini CLI, and Grok Build with plan/approve/build/review flows and .moe/ state in-repo.
+- [xray — multi-agent orchestration for Grok Build](https://github.com/0xRayAI/xray) - Multi-agent orchestration and Codex governance layer that also targets OpenCode, Hermes, Grok Build, and OpenClaw.
+- [GrokBuildRemote-Agents — desktop remote for Grok Build](https://github.com/LinespottingOrg/GrokBuildRemote-Agents) - Windows/macOS/Linux desktop agents that discover local Grok Build sessions, inject input, capture output, and relay gbr/1 envelopes to a phone remote.
+- [grok-forge — unified Grok Build installer + project forge](https://github.com/palarchsys/grok-forge) - French-language unified installer for Grok Build plus a TUI project forge for Python/npm/Linux repos with clean push workflows.
+- [oh-my-grok — multi-agent orchestration for Grok Build](https://github.com/aa22396584/oh-my-grok) - Multi-agent orchestration plugin for Grok Build (oh-my-grok / OMG); public GitHub home after the former ImL1s repo was restricted.
+- [grok-build-termux — run Grok Build on Android Termux](https://github.com/aa22396584/grok-build-termux) - Packaging and docs to run Grok Build inside Android Termux, mirrored after the former ImL1s GitHub home was restricted.
+- [Grok2API — multi-account gateway for Grok Build/Web/Console](https://github.com/chenyme/grok2api) - High-star multi-account API gateway covering Grok Build, Grok Web, and Grok Console with Docker amd64/arm64 images.
+- [EchoBird — one-click install/switch including Grok Build](https://github.com/edison7009/EchoBird) - One-click installer and model switcher covering Claude Code, Codex CLI, Grok Build, DeepSeek Harness, and many other coding agents.
+- [SWARM — self-hosted mini Grok Bot alternative](https://github.com/KhanUzeb/SWARM) - Self-hosted AI teammate workspace: named LLM bots join channels, take jobs, run tools, hand off work, and leave an audit trail like a mini Grok Bot.
 
 ## Community & Failure Modes
 
@@ -1098,10 +1124,22 @@
 - [Agent Bridge — self-hosted runtime including Grok Build](https://github.com/Farstax/agent-bridge) - Self-hosted runtime that keeps Codex, Claude Code, Grok Build, and Cursor workstreams alive on an always-on host reachable from Telegram/Discord.
 - [Mjolnir — meta-harness managing Grok Build ACP sessions](https://github.com/BrokkAi/mjolnir) - Rust control plane (★39) to move ACP coding-agent sessions across subscriptions, harnesses, and machines—including Grok Build.
 - [Grok recent-project launcher (Windows)](https://github.com/VidereCultus/grok-recent-launcher) - Unofficial Windows tool that lists recent Grok session project folders and opens selected ones in Windows Terminal tabs.
+- [CC Safety Net — pre-exec guard including Grok Build](https://github.com/kenryu42/cc-safety-net) - Pre-execution safety guard that blocks destructive git/filesystem and secret-file access across many agents, with explicit Grok Build install docs.
+- [cc-mplace — plugin marketplace indexing Grok Build](https://github.com/Djarvur/cc-mplace) - Curated static plugin marketplace with native indexes for Claude Code, Codex, Cursor, Grok Build, and GitHub Copilot CLI.
+- [grok-models — TUI for custom Grok Build models](https://github.com/goldengateagent/grok-models) - TUI that configures Grok Build and Codex harnesses to use custom models from alternate providers and API gateways.
+- [dsh-chat-import — import Grok Build chats into DSH](https://github.com/Nwflower/dsh-chat-import) - Imports 14+ agent chat histories—including Grok Build—into DeepSeek Harness as resumable sessions with reverse export and bundle backup.
+- [dsh-coding-subscription-oauth — SuperGrok/Grok Build OAuth](https://github.com/lninghaha/dsh-coding-subscription-oauth) - DeepSeek Harness OAuth for coding subscriptions: SuperGrok / Grok Build, ChatGPT Plus Codex, Kimi Code, and Claude Code without pasting API keys.
+- [cursor-bridge + Grok Build Supervisor MCP plugins](https://github.com/Vanyangyang/cursor-bridge) - Windows MCP plugins: Cursor Bridge for CCE from Codex/Claude/Grok Build/Pi, plus an independent Grok Build Supervisor for plan-and-execute handoffs.
+- [DeepSeek Code — DSH via Grok Build TUI bridge](https://github.com/HQ1995/deepseek-code) - Rust TUI coding agent (dscode) that runs DeepSeek Harness through a Grok-leader bridge and grok-style protocol contract.
+- [omnilane — cross-harness routing including Grok Build](https://github.com/Seraphim0916/omnilane) - One routing table for cross-vendor model dispatch from Claude Code, Codex, Grok Build, and Antigravity, installable as a Grok Build plugin.
+- [Jenkins AI Agent plugin — Grok Build build step](https://github.com/jenkinsci/ai-agent-plugin) - Official Jenkins plugin providing a reusable AI Agent build step for Claude Code, Codex CLI, Cursor Agent, OpenCode, Gemini CLI, and Grok Build.
+- [agent-releases — Chinese tracker including Grok Build](https://github.com/majiayu000/agent-releases) - Unofficial Chinese release notes tracker for @agentreleases covering Claude Code, Codex, and Grok Build (DRY_RUN Issues first).
+- [spicefiendd agent-tools catalog for Grok Bot fleet](https://github.com/spicefiendd/agent-tools) - Public catalog of kept Grok Bot agent CLIs on spicefiendd (handoff, X desk, lead-inbox, jobwatch, mycase-pull) with no secrets.
+- [grok-wecom-bot — WeCom bridge to Grok CLI](https://github.com/painrice/grok-wecom-bot) - Enterprise WeChat bot bridge that receives messages over WebSocket and streams replies from the local Grok CLI (grok).
 
 ## Contributing
 
-995 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1033 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
