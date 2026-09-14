@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-961-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-995-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,17 +37,15 @@
 
 [イベントの詳細](./EVENTS.ja.md)
 
-- **中国**（4）：[上海](./EVENTS.ja.md#sha-20261018) · [杭州](./EVENTS.ja.md#hzo-20260919) · [北京](./EVENTS.ja.md#bj-20260919) · [武漢](./EVENTS.ja.md#wuh-20261017)
-- **アメリカ**（16）：[ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ](./EVENTS.ja.md#g101-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfe-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [サンフランシスコ（PM）](./EVENTS.ja.md#sfpm-20260915) · [サンフランシスコ（Founders）](./EVENTS.ja.md#sffo-20260915) · [サンフランシスコ（Sales）](./EVENTS.ja.md#sfsales-20260916) · [ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [ダラス](./EVENTS.ja.md#dal-20260919) · [マイアミ](./EVENTS.ja.md#mia-20260923) · [アトランタ](./EVENTS.ja.md#atl-20260924) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929)
+- **中国**（5）：[上海](./EVENTS.ja.md#sha-20261018) · [杭州](./EVENTS.ja.md#hzo-20260919) · [北京](./EVENTS.ja.md#bj-20260919) · [武漢](./EVENTS.ja.md#wuh-20261017) · [珠海](./EVENTS.ja.md#zuh-20260920)
+- **アメリカ**（21）：[ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ](./EVENTS.ja.md#g101-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfe-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [サンフランシスコ（PM）](./EVENTS.ja.md#sfpm-20260915) · [サンフランシスコ（Founders）](./EVENTS.ja.md#sffo-20260915) · [サンフランシスコ（Sales）](./EVENTS.ja.md#sfsales-20260916) · [ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [ダラス](./EVENTS.ja.md#dal-20260919) · [マイアミ](./EVENTS.ja.md#mia-20260923) · [アトランタ](./EVENTS.ja.md#atl-20260924) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [ニューヨーク](./EVENTS.ja.md#nym-20260917) · [ロサンゼルス](./EVENTS.ja.md#lad-20260922) · [シアトル](./EVENTS.ja.md#sea-20260924) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930)
 - **カナダ**（5）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [ビクトリア（BC）](./EVENTS.ja.md#vic-20260921) · [サドベリー](./EVENTS.ja.md#sud-20260915) · [トロント](./EVENTS.ja.md#yyz-20260917) · [モントリオール](./EVENTS.ja.md#yul-20260919)
 - **インドネシア**（4）：[ウルワツ / バリ](./EVENTS.ja.md#bli-20260915) · [ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [バンドン](./EVENTS.ja.md#bdg-20260919) · [ジャカルタ](./EVENTS.ja.md#jkt-20261003)
-- **インド**（4）：[ボーパール](./EVENTS.ja.md#bho-20260926) · [ヴィディシャー](./EVENTS.ja.md#vds-20260927) · [デリー](./EVENTS.ja.md#del-20261003) · [ジャバルプル](./EVENTS.ja.md#jbp-20261004)
 - **アルゼンチン**（3）：[ブエノスアイレス](./EVENTS.ja.md#bue-20260916) · [メンドサ](./EVENTS.ja.md#mdz-20261003) · [サルタ](./EVENTS.ja.md#sla-20260916)
 - **メキシコ**（3）：[プエブラ](./EVENTS.ja.md#pue-20260924) · [チワワ](./EVENTS.ja.md#cuu-20260924) · [メキシコシティ](./EVENTS.ja.md#cdmx-20260926)
 - **ブラジル**（2）：[クリチバ](./EVENTS.ja.md#cwb-20261111) · [フロリアノポリス](./EVENTS.ja.md#fln-20260926)
 - **ドイツ**（2）：[フライブルク](./EVENTS.ja.md#frb-20260917) · [ケルン](./EVENTS.ja.md#cgn-20261009)
 - **エクアドル**（2）：[キト](./EVENTS.ja.md#uio-20260924) · [クンバヤ](./EVENTS.ja.md#cumb-20261003)
-- **イギリス**（2）：[ロンドン](./EVENTS.ja.md#ldn-20260916) · [ロンドン](./EVENTS.ja.md#ldn-20260913)
 - **グアテマラ**（2）：[ケツァルテナンゴ](./EVENTS.ja.md#xela-20260920) · [グアテマラシティ](./EVENTS.ja.md#gua-20261003)
 - **日本**（2）：[札幌](./EVENTS.ja.md#spk-20261002) · [大阪](./EVENTS.ja.md#osa-20260917)
 - **エルサルバドル**（2）：[サンサルバドル](./EVENTS.ja.md#sal-20260919) · [サンサルバドル](./EVENTS.ja.md#salw-20260914)
@@ -56,6 +54,7 @@
 - **バングラデシュ**（1）：[ダッカ](./EVENTS.ja.md#dac-20260920)
 - **ベルギー**（1）：[ルーヴェン](./EVENTS.ja.md#leu-20260919)
 - **スペイン**（1）：[マドリード](./EVENTS.ja.md#mad-20260929)
+- **イギリス**（1）：[ロンドン](./EVENTS.ja.md#ldn-20260916)
 - **アイルランド**（1）：[ダブリン](./EVENTS.ja.md#dub-20261004)
 - **ケニア**（1）：[ナイロビ](./EVENTS.ja.md#nbo-20260917)
 - **カンボジア**（1）：[プノンペン](./EVENTS.ja.md#pnh-20261003)
@@ -221,6 +220,8 @@
 - [Grokbot email-tool design research chat](https://github.com/mit-bach/grokbot-ai-tool-design-research) - クライアント向け Airtable 連携メール運用を設計する Grok Bot エージェント用の、複製可能な約 50KB の設計会話です。
 - [Grok Bot Agent Blueprint (Early AI-dopters)](https://github.com/earlyaidopters/gumroad-resources) - Grok Bot 系マルチエージェント原語を PDF・Markdown・チェックリストで分解し、YouTube 解説付きの無料コンパニオンパックです。
 - [Grok Bot field manual site (seawind / 000666.BEST)](https://github.com/Cunhe/grok-bot-manual) - Grok Bot 向け独立中文フィールドマニュアル。橙皮書とコミュニティ資料を直し、Vite/Vercel で公開できる手引きサイト。
+- [Grok Bot AI customer support team — companion files](https://github.com/agenteer/grok-bot-ai-customer-support-team) - 2体 Bot サポートチーム向け。Sage/Atlas の貼り付け用人設・スキル、Slack 設定、テストチケット。
+- [Department Grok Bot Playbook — 23-role IT roster](https://github.com/ericbrianpearson/department-grok-bot-playbook) - ドキュメント専用 MIT プレイブック。Grok Bot を統治された IT 部門として運用（23役割・憲章・economy mode）。
 
 ## 実地事例
 
@@ -333,6 +334,8 @@
 - [Circleback — Pets vs Bots Grok Bot Serbia hackathon game](https://github.com/aleksicmarija/circleback) - Grok Bot セルビアハッカソンで1日制作のリアルタイム陣取り（ペット vs AIボット）です。
 - [Scam Drill — Grok Bot hackathon voice practice app](https://github.com/w4jo/grok-bot-hackathon) - 高齢者向け電話詐欺の音声ロールプレイ練習アプリ。Grok Bot ハッカソン成果物として公開されています。
 - [Late One Minute — Grok Bot × Grok Build game case](https://github.com/parize670/late-one-minute) - 60秒出门ミニゲーム事例。Grok BotがPM、Grok Buildが実装、Codexが技術リード。AGENTS.mdと貼り付け用プロンプト付き。
+- [Baloto Analyst — Grok Bot lottery desk (Colombia)](https://github.com/jescandonp/baloto-grok-bot) - コロンビア Baloto 向け Grok Bot プロフィールと Python エンジン。履歴CSV・頻度/遅延分析と責任ある買い目生成。
+- [grokbot-game-a-week — weekly browser games + Bot skills](https://github.com/ababa831/grokbot-game-a-week) - 週1本のブラウザミニゲームカタログ。自律ゲーム開発 SKILL.md と Day1–7 出荷ルール付きの Bot 運用。
 
 ## スキル、プラグインと MCP
 
@@ -602,6 +605,17 @@
 - [oh-my-grok-build — plan/execute/verify Grok Build plugin](https://github.com/duarbdhks/oh-my-grok-build) - Grok Buildプラグイン（.grok-plugin）。合意プラン、有界並列実行、証拠ベース検証。/ogb-*コマンド。
 - [grok-honcho — Honcho memory plugin for Grok Build](https://github.com/heliumbrain/grok-honcho) - Grok BuildネイティブのHoncho永続メモリプラグイン。MCP/hooks同梱、grok plugin install対応。
 - [Godmode — tamper-evident evidence ledger (.grok-plugin)](https://github.com/AIimagined/Godmode) - エージェントの「完了」主張向け改ざん検知台帳。.grok-plugin同梱、Grok Buildでhooks実機検証済み。
+- [coolxeo/grok-bot-skills — portable Bot SKILL.md pack](https://github.com/coolxeo/grok-bot-skills) - 公開の移植可能な Grok Bot スキル（SKILL.md 22本）。執筆・デザイン・SEO・工学・Bot セットアップ向け。
+- [grok-bot-fleet-config — scrubbed fleet pack plugin](https://github.com/tommy-ca/grok-bot-fleet-config) - Grok Bot / Grok Build プラグイン。秘密情報なしで multi-agent fleet-config.v1 を export/検証/import。
+- [Arcangel — patents/trademarks MCP for Grok Bot](https://github.com/Ga1axia/arcangel-cursor-plugin) - Cursor/Grok Bot 向け Arcangel ホスト MCP。bot トークンで特許/商標一覧と IP 下書き。
+- [CallForge connector — AI phone calls for Grok Bot](https://github.com/Viswanthsaig3/callforge-connector) - Agent Plugins 形式。リモート MCP とスキルで Grok Bot/Cursor が CallForge 経由の AI 電話・キャンペーン・音声エージェントを操作。
+- [Agent Doorbell — Gmail wake plugin for Grok Bot](https://github.com/nthplusio/agentdoorbell-plugins) - Grok Bot/Cursor プラグイン。ホスト OAuth MCP で Gmail 条件一致時に Agent Doorbell が Agent を起こす（マーケット審査待ち）。
+- [Merchi MCP — merchandise platform plugin for Grok](https://github.com/merchisdk/merchi_mcp) - Grok/Cursor マーケット向け Merchi リモート MCP（OAuth）。豪州カスタムグッズ作業スペースを操作。
+- [grok-build-warp — Warp terminal notifications for Grok Build](https://github.com/nwp/grok-build-warp) - Grok Build 向け Warp プラグイン。完了/入力待ち/エラーのネイティブ通知とセッション状態イベント。
+- [kborovik/grok-skills — SDD plugin for Grok Build](https://github.com/kborovik/grok-skills) - Grok Build 向け .grok-plugin。電信符号化 SDD スキル（/sdd:shape/spec/build）で計画トークンを約40%削減。
+- [codexRouter — Codex skill that delegates to Grok Build](https://github.com/yyd-hndx/codexrouter) - Codex スキル。OpenCode / Grok Build / DeepSeek Harness に実装を委譲し、差分レビューと有限リワーク。
+- [Glasser plugins — pay-per-call APIs for Grok Build](https://github.com/glasser-ai/plugins) - Glasser 公式 Agent Plugins。Cursor / Claude Code / Grok Build 向け、1キーで卸 API・従量課金。
+- [Three.js Lab Skills — image-to-interactive 3D for Grok Build](https://github.com/LumosLab-Innovation/threejs-lab-skills) - Codex/Claude/Grok Build/OpenCode 向け Agent Skills 35本。参照画像承認→Three.js/Blender→インタラクティブ動作。
 
 ## レビューと比較
 
@@ -784,6 +798,21 @@
 - [dsh-grok-provider — DeepSeek Harness Grok Build provider](https://github.com/yoshino-xiao7/dsh-grok-provider) - DeepSeek Harness向けコミュニティGrok Buildプロバイダ。公式CLIブラウザOAuth、ストリーミング、残量パネル。
 - [taskflow — multi-agent DAG runtime with Grok host](https://github.com/heggria/taskflow) - Pi/Codex/Claude/OpenCode/Grok向けホストアダプタ付き宣言的マルチエージェントDAGランタイム。再開・再現・Trusted Effects。
 - [grok-build-tweaks — community fork of xAI harness](https://github.com/tkanarsky/grok-build-tweaks) - xAI grok-buildハーネスのコミュニティフォーク。上流アーキを保ちつつ実用的な調整を追加。
+- [grokport — import x.ai/bot links into other agents](https://github.com/Readtt/grokport) - npx ツール。Grok Bot マーケットリンク（スキル/ルーチン/メモリ）を Agent Skills として Claude/Codex/Cursor 等へ導入。
+- [Grok Bridge — Bot ↔ Codex/Claude/Cursor handoffs](https://github.com/niharnm/grok-bridge) - 実験的 CLI＋プラグイン/スキル。Grok Bot と Codex/Claude/Cursor/Antigravity 間の有界ハンドオフ。
+- [Locum — tunnel MCP so Grok Bot uses local Claude/Codex](https://github.com/HarjjotSinghh/locum) - トンネル経由のカスタム MCP。クラウド Grok Bot がローカルログイン済み Claude Code / Codex に実装を委譲。
+- [CoS Link — cross-account Grok Bot Chief of Staff protocol](https://github.com/logan-robbins/cos-link) - 別アカウントの Grok Bot CoS 同士をオーナー承認付きでペアリングするプロトコルと参照プラグイン（マーケット PR 審査中）。
+- [iAgents — text Grok Bot from iMessage](https://github.com/MasterMilkyshake/iAgents) - Mac リレー。iMessage 連絡先を Grok Bot に対応付け、ログイン済みデスクトップ経由で返信/ルーチンを返す。
+- [Dagz-Scaffold — Grok Build finish-line harness](https://github.com/DagzTagz/Dagz-Scaffold) - 非公式 Grok Build ハーネス。plan/critic/evidence/score と ACCEPT/REJECT が揃うまで完了させない。
+- [Cubeship template — Grok Build ACP WebSocket server](https://github.com/cubeshipd/cubeship-grok-build-template) - Cubeship テンプレ。Grok Build をトークン保護 ACP WebSocket（grok agent serve）として立て、永続ボリュームにセッション。
+- [gvoice — Grok Build /voice dictation anywhere](https://github.com/ganidhu/gvoice) - Grok Build の STT と ~/.grok 認証を使い、TUI 外でも /voice できる Linux ディクテーション。
+- [Grok's Beard — Scala VS Code/Cursor client for Grok Build](https://github.com/early-effect/groks-beard) - Scala 製 VS Code/Cursor サイドバー。`grok agent --leader stdio` 駆動＋ブラウザプレビューと ~/.grok 共有 TUI MCP。
+- [Grok Build (Community) — VS Code + Desktop GUI](https://github.com/phuryn/grok-build-vscode) - 人気のコミュニティ製 Grok Build GUI。VS Code/Cursor 拡張と Electron デスクトップでセッション・diff・Grok 4.6。
+- [grok_switch — Grok Build provider/model tray switcher](https://github.com/1parado/grok-build-switch) - ローカルトレイ（★209）。Grok CLI の Profile・base_url/モデル/サブエージェント・アカウントプールと任意の生図プロキシ。
+- [Omarchy face widget for Grok Bot (hmarquez)](https://github.com/hmarquez-solutions/omarchy-grok-bot) - Omarchy バーの Grok Bot 顔。睡眠/アイドル/作業/未読/待機を表示し Needs You パネルを開く（非公式 QML）。
+- [xirp-grok — add Grok Build agent to Spotify Xirp](https://github.com/alta-atc/xirp-grok) - 非公式パッチ。Spotify Xirp のエージェント選択に squab 経由で Grok Build を登録。
+- [Grok Build Desktop — Tauri ACP workbench](https://github.com/Stauch99/grok-build-desktop) - Grok Build 名の Tauri ACP ワークベンチ。チャット/セッション/権限/Git と Grok 等 stdio、任意 memory MCP。
+- [Adaptive Grok Build Pro — enterprise workflow runtime](https://github.com/Dimkox/adaptive-grok-build-pro) - 大規模 MIT の Adaptive Grok Build Pro ランタイム。密封デリバリ、利用量会計、Grok Build 向けオフライン復旧。
 
 ## コミュニティと障害事例
 
@@ -1065,10 +1094,14 @@
 - [Hapi — mobile/remote control for Grok Build sessions](https://github.com/tiann/hapi) - モバイル/WebからCodex、Claude Code、Pi、OpenCode、Kimi、Grok Buildセッションを操作する遠隔コントロールアプリ。
 - [grok-build-desktop — Hermes UI for Grok Build CLI](https://github.com/mjcity/grok-build-desktop) - 契約どおりのローカルゲートウェイ経由でGrok Build CLIを動かすHermesデスクトップUI。セッションとスキル対応。
 - [Unofficial macOS desktop app for Grok Build CLI](https://github.com/kimchikingdom/grok-desktop-for-mac) - 非公式macOSデスクトップ。Grok Build CLIをACP/stdioで駆動し、ネイティブセッションUIを提供。
+- [Ryvoko — open-source Grok Bot–style teammate platform](https://github.com/Ryvexam/ryvoko) - オープンソースの持続 AI チームメイト（Web/Electron/Expo）。Grok Bot 代替として BYO モデル/コンピュータ。
+- [Agent Bridge — self-hosted runtime including Grok Build](https://github.com/Farstax/agent-bridge) - 自己ホスト実行環境。常時稼働ホストで Codex/Claude/Grok Build/Cursor を維持し Telegram/Discord から継続。
+- [Mjolnir — meta-harness managing Grok Build ACP sessions](https://github.com/BrokkAi/mjolnir) - Rust 制御面（★39）。購読・ハーネス・マシン間で ACP セッションを移す（Grok Build 含む）。
+- [Grok recent-project launcher (Windows)](https://github.com/VidereCultus/grok-recent-launcher) - 非公式 Windows ツール。Grok セッション履歴から最近のプロジェクトを選び Windows Terminal で開く。
 
 ## 貢献
 
-8 セクションに 961 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 995 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
