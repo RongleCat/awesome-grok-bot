@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1033-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1049-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -342,6 +342,7 @@
 - [CartScope — golf-cart diagnostics app (Grok Build)](https://github.com/NGC4160/CartScope) - 用 Grok Build 做的平板优先高尔夫球车诊断清单应用：电池→故障码→出厂测试→书面报告。.
 - [RDR2 interactive map (Grok Build / Next.js)](https://github.com/patreiCH72/rdr2-interactive-map) - 用 Grok Build 与 Next.js 做的本地、无广告、免登录《荒野大镖客2》粉丝互动地图。.
 - [TaskPad — physical pad with experimental Grok Bot adapter](https://github.com/DNTOF/TaskPad) - STC89C52 实体任务板（LCD1602，可选 ESP8266 OLED 桥）；PC 枢纽含实验性 Grok Bot 与 Cursor 适配器。.
+- [BotEducation — LMS with Grok professors over MCP](https://github.com/MrF1ow/boteducation) - 自托管 Next.js + Supabase LMS：通过远程 MCP 工具面让 Grok / xAI 机器人担任教授（每部署一所学校）。.
 
 ## 技能、插件与 MCP
 
@@ -628,6 +629,13 @@
 - [Dyl PolyKalsh — short-dated prediction-market skill](https://github.com/dylan2045ad/dyl-polykalsh-skill) - 面向 Grok 的技能：研究 48 小时内结算的 Polymarket/Kalshi 盘口，输出均分且单笔上限 $1.50 的交易计划（不下单）。.
 - [Agentic Doc Templates — playbooks for Grok Build](https://github.com/BrianCLowe/Agentic-Doc-Templates) - 模块化 Understanding/spec/TODO 文档与代理剧本，帮助 Cursor、Grok Build、Claude Code、OpenClaw 在交付中保持产品意图。.
 - [dsh-grok-plan-mode — Grok Build Plan Mode for DSH](https://github.com/aa2246740/dsh-grok-plan-mode) - 把完整 Grok Build Plan Mode 移植到 DeepSeek Harness：状态机、plan.md 编辑门控、进入/退出工具与审阅界面。.
+- [AppDeploy plugin for Grok Build](https://github.com/AppDeploy-AI/grok-build-plugin) - 面向 Grok Build 的 marketplace MCP 插件：用对话把需求变成带认证、数据库与存储的可托管全栈 Web 应用并一键发布。.
+- [AGER → Grok Build plugin translator](https://github.com/SpillwaveSolutions/grok-build-ager) - AGER 主机翻译器：从一份已校验 bundle 生成零配置 Grok Build 树（.grok-plugin 与 Claude 兼容 skills）。.
+- [WHOOP morning trainer MCP for Grok Bot](https://github.com/sabensm/whoop-data) - 面向 Grok Bot 的 MCP 与 .grok 技能：本地 OAuth 拉取 WHOOP 恢复/负荷，生成晨间训练简报。.
+- [Executive Coach — portable Grok Bot skill pack](https://github.com/yanqingcheng/grokbot-executive-coach) - 托管 Executive Coach Grok Bot（及 Cursor）可用的便携 SKILL.md 教练包：先提问的立场，覆盖会话、领导力与真问题技能。.
+- [Unstick me — executive-dysfunction skill pack](https://github.com/yanqingcheng/grokbot-unstick-me) - 面向 ADHD 式启动困难的模块化 SKILL.md 走查，可搭配托管 Unstick me Grok Bot 市集机器人使用。.
+- [3D Lab skills — interactive 3D for Grok Build](https://github.com/LumosLab-Innovation/3D-lab-skills) - 一键安装的 Agent Skills：用 Three.js / Blender MCP 为 Grok Build、Codex、Claude Code 等编写并驱动经审核的交互 3D。.
+- [skills-grok — Cloudflare + custom Grok Bot skills](https://github.com/diegofornalha/skills-grok) - 面向 Grok Bot / Cursor 的技能库：打包 Cloudflare 插件技能，并附自定义 Cloudflare MCP 与 CLI 对比技能。.
 
 ## 评测与对比
 
@@ -839,6 +847,13 @@
 - [Grok2API — multi-account gateway for Grok Build/Web/Console](https://github.com/chenyme/grok2api) - 高星多账号 API 网关，覆盖 Grok Build、Grok Web 与 Grok Console，并提供 Docker amd64/arm64 镜像。.
 - [EchoBird — one-click install/switch including Grok Build](https://github.com/edison7009/EchoBird) - 一键安装与模型切换器，覆盖 Claude Code、Codex CLI、Grok Build、DeepSeek Harness 等众多编程代理。.
 - [SWARM — self-hosted mini Grok Bot alternative](https://github.com/KhanUzeb/SWARM) - 自托管 AI 队友工作区：命名 LLM Bot 进频道接活、跑工具、交接并留审计轨迹，类似迷你 Grok Bot。.
+- [Sessions Viewer — Grok Build & multi-CLI transcripts](https://github.com/jerrywu001/cc-sessions-viewer) - 面向 Grok Build、Claude Code、Codex 等七类 CLI 的 Tauri 桌面会话浏览器：可搜索 transcript、技能/MCP 管理、续聊与导出。.
+- [WikiTicket SDD — git-native worklog with Grok plugins](https://github.com/SpillwaveSolutions/wiki_ticket_sdd) - 本地优先的可见 WIP 工作日志与规格驱动开发工具包，自带 Claude Code、Codex、Grok Build 与 Grok Bot 插件布局。.
+- [GrokSpace — macOS multi-session Grok Build command center](https://github.com/liarzpl/grokspace) - 本地优先的 macOS Tauri 指挥中心：多窗格运行 Grok Build 终端/ACP 代理，用看板派活并共享项目记忆技能。.
+- [Grok Desktop Composer — Tauri GUI for Grok Build CLI](https://github.com/lamdan0901/grok-desktop-composer) - 基于 Tauri 2 + React 的 Grok Build CLI 桌面 GUI（经 ACP），带项目/线程侧栏并与 ~/.grok 会话落盘同步。.
+- [Grok-Harness — Electron shell for Grok Build over ACP](https://github.com/Ogurijay/Grok-Harness) - 本机 Mac/Windows Electron 桌面壳：经本机回环 ACP 驱动官方 grok agent，不重写 Grok Build。.
+- [Grok Usage HUD — Windows quota meter for Bot & Build](https://github.com/lqiaoqing/grok-usage-hud) - Windows 桌面用量小窗：读取本机 Grok Bot sand 机密与 ~/.grok 登录态，显示 Bot/Build 周额度与会话 tokens。.
+- [usage-monitor — Windows overlay for Claude/Codex/Grok Build](https://github.com/shivam-17/usage-monitor) - Windows 叠加层/浮层/任务栏芯片：用本机已有登录态计量 Claude Code、Codex 与 Grok Build 周额度。.
 
 ## 社区与故障现场
 
@@ -1136,10 +1151,11 @@
 - [agent-releases — Chinese tracker including Grok Build](https://github.com/majiayu000/agent-releases) - 非官方中文版本更新整理，面向 @agentreleases，覆盖 Claude Code、Codex 与 Grok Build（先 DRY_RUN Issues）。.
 - [spicefiendd agent-tools catalog for Grok Bot fleet](https://github.com/spicefiendd/agent-tools) - spicefiendd 上保留的 Grok Bot 代理工具目录（handoff、X desk、lead-inbox、jobwatch、mycase-pull），不含密钥。.
 - [grok-wecom-bot — WeCom bridge to Grok CLI](https://github.com/painrice/grok-wecom-bot) - 企业微信 Bot 桥接：WebSocket 收消息，调用本机 Grok CLI（grok）流式回复。.
+- [box-grok-reference — Grok Bot box UI & debug runbooks](https://github.com/diegofornalha/box-grok-reference) - 公开镜像的 Cursor/Grok Bot box 运行手册：应用 UI 说明与托管 box VM 调试笔记。.
 
 ## 贡献
 
-目前 8 个分类、1033 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1049 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1033-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1049-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -342,6 +342,7 @@
 - [CartScope — golf-cart diagnostics app (Grok Build)](https://github.com/NGC4160/CartScope) - Grok Build 製のタブレット向けゴルフカート診断チェックリスト（バッテリ→コード→工場試験→報告）。
 - [RDR2 interactive map (Grok Build / Next.js)](https://github.com/patreiCH72/rdr2-interactive-map) - Grok Build と Next.js のローカル／広告なし／ログイン不要な RDR2 ファン向けインタラクティブ地図。
 - [TaskPad — physical pad with experimental Grok Bot adapter](https://github.com/DNTOF/TaskPad) - STC89C52 物理タスクパッド（LCD1602／任意 ESP8266 OLED）。PC ハブに実験的な Grok Bot／Cursor アダプタ。
+- [BotEducation — LMS with Grok professors over MCP](https://github.com/MrF1ow/boteducation) - 自ホスト Next.js + Supabase の LMS。リモート MCP で Grok / xAI ボットを教授として接続（デプロイごとに 1 校）。
 
 ## スキル、プラグインと MCP
 
@@ -628,6 +629,13 @@
 - [Dyl PolyKalsh — short-dated prediction-market skill](https://github.com/dylan2045ad/dyl-polykalsh-skill) - Grok 向けスキル。48時間以内に決着する Polymarket/Kalshi を調査し、$1.50上限の均等分割トレード案を出力（自動売買なし）。
 - [Agentic Doc Templates — playbooks for Grok Build](https://github.com/BrianCLowe/Agentic-Doc-Templates) - Understanding/spec/TODO のモジュラー文書とプレイブックで、Cursor・Grok Build・Claude Code・OpenClaw の意図ドリフトを抑える。
 - [dsh-grok-plan-mode — Grok Build Plan Mode for DSH](https://github.com/aa2246740/dsh-grok-plan-mode) - Grok Build の Plan Mode を DeepSeek Harness に移植。状態機械・plan.md 編集ゲート・入退ツールとレビュー面。
+- [AppDeploy plugin for Grok Build](https://github.com/AppDeploy-AI/grok-build-plugin) - Grok Build 向け marketplace MCP。チャットから認証・DB・ストレージ付きのフルスタック Web アプリをホストしてワンクリック公開。
+- [AGER → Grok Build plugin translator](https://github.com/SpillwaveSolutions/grok-build-ager) - 検証済み AGER バンドルからゼロ設定の Grok Build ツリー（.grok-plugin と Claude 互換 skills）を出力するホスト変換器。
+- [WHOOP morning trainer MCP for Grok Bot](https://github.com/sabensm/whoop-data) - Grok Bot 向け MCP と .grok スキル。ローカル OAuth で WHOOP の回復／負荷を朝のトレーニング簡報にまとめる。
+- [Executive Coach — portable Grok Bot skill pack](https://github.com/yanqingcheng/grokbot-executive-coach) - ホスト版 Executive Coach Grok Bot（と Cursor）向けの携帯 SKILL.md コーチング束。質問先行でセッション・リーダーシップ・本質スキルを揃える。
+- [Unstick me — executive-dysfunction skill pack](https://github.com/yanqingcheng/grokbot-unstick-me) - ADHD 型の着手困難向けモジュール SKILL.md。ホスト版 Unstick me Grok Bot 市場合わせで使える。
+- [3D Lab skills — interactive 3D for Grok Build](https://github.com/LumosLab-Innovation/3D-lab-skills) - Grok Build・Codex・Claude Code 向けワンコマンド Agent Skills。Three.js / Blender MCP で画像承認済みのインタラクティブ 3D を作成・アニメ。
+- [skills-grok — Cloudflare + custom Grok Bot skills](https://github.com/diegofornalha/skills-grok) - Grok Bot / Cursor 向けスキル庫。Cloudflare プラグイン技能に加え、MCP 対 CLI 比較のカスタム技能を同梱。
 
 ## レビューと比較
 
@@ -839,6 +847,13 @@
 - [Grok2API — multi-account gateway for Grok Build/Web/Console](https://github.com/chenyme/grok2api) - Grok Build／Grok Web／Grok Console 対応の高スター多アカウント API ゲートウェイ。Docker amd64/arm64。
 - [EchoBird — one-click install/switch including Grok Build](https://github.com/edison7009/EchoBird) - Claude Code・Codex CLI・Grok Build・DeepSeek Harness など多数のコーディングエージェントを一発インストール／切替。
 - [SWARM — self-hosted mini Grok Bot alternative](https://github.com/KhanUzeb/SWARM) - 自前ホストの AI チーム空間。名前付き LLM Bot がチャンネルで仕事・ツール・引き継ぎ・監査ログを残すミニ Grok Bot 代替。
+- [Sessions Viewer — Grok Build & multi-CLI transcripts](https://github.com/jerrywu001/cc-sessions-viewer) - Grok Build・Claude Code・Codex など 7 CLI の Tauri デスクトップ閲覧。検索可能な transcript、スキル/MCP 管理、再開とエクスポート。
+- [WikiTicket SDD — git-native worklog with Grok plugins](https://github.com/SpillwaveSolutions/wiki_ticket_sdd) - ローカル優先の見える WIP ワークログと SDD ツールキット。Claude Code・Codex・Grok Build・Grok Bot のプラグイン構成を同梱。
+- [GrokSpace — macOS multi-session Grok Build command center](https://github.com/liarzpl/grokspace) - ローカル優先の macOS Tauri 司令塔。複数の Grok Build 端末/ACP エージェントをグリッドし、カンバンで仕事を渡しプロジェクト記憶スキルを共有。
+- [Grok Desktop Composer — Tauri GUI for Grok Build CLI](https://github.com/lamdan0901/grok-desktop-composer) - ACP 経由の Grok Build CLI 向け Tauri 2 + React デスクトップ GUI。プロジェクト/スレッド側欄と ~/.grok セッション同期。
+- [Grok-Harness — Electron shell for Grok Build over ACP](https://github.com/Ogurijay/Grok-Harness) - 公式 grok agent をループバック ACP で動かす Mac/Windows 向け Electron シェル。Grok Build 本体は書き換えない。
+- [Grok Usage HUD — Windows quota meter for Bot & Build](https://github.com/lqiaoqing/grok-usage-hud) - Windows デスクトップ HUD。ローカルの Grok Bot sand 機密と ~/.grok 認証から Bot/Build 週次枠とセッション tokens を表示。
+- [usage-monitor — Windows overlay for Claude/Codex/Grok Build](https://github.com/shivam-17/usage-monitor) - Windows のオーバーレイ／フライアウト／タスクバーチップ。既存ローカルログインで Claude Code・Codex・Grok Build の週次枠を計測。
 
 ## コミュニティと障害事例
 
@@ -1136,10 +1151,11 @@
 - [agent-releases — Chinese tracker including Grok Build](https://github.com/majiayu000/agent-releases) - @agentreleases 向け非公式中国語リリース整理。Claude Code・Codex・Grok Build をカバー（まず DRY_RUN Issues）。
 - [spicefiendd agent-tools catalog for Grok Bot fleet](https://github.com/spicefiendd/agent-tools) - spicefiendd の Grok Bot エージェント用 CLI カタログ（handoff／X desk／lead-inbox 等）。秘密情報なし。
 - [grok-wecom-bot — WeCom bridge to Grok CLI](https://github.com/painrice/grok-wecom-bot) - 企業微信 Bot ブリッジ。WebSocket で受信し、ローカル Grok CLI（grok）のストリーム応答を返す。
+- [box-grok-reference — Grok Bot box UI & debug runbooks](https://github.com/diegofornalha/box-grok-reference) - Cursor/Grok Bot box のランブック公開ミラー。アプリ UI メモとホスト box VM のデバッグ手順。
 
 ## 貢献
 
-8 セクションに 1033 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1049 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

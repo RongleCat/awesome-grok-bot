@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1033-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1049-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -342,6 +342,7 @@
 - [CartScope — golf-cart diagnostics app (Grok Build)](https://github.com/NGC4160/CartScope) - Tablet-first golf-cart diagnostic checklist app (battery → codes → factory tests → report) built with Grok Build.
 - [RDR2 interactive map (Grok Build / Next.js)](https://github.com/patreiCH72/rdr2-interactive-map) - Local, ad-free, login-free interactive Red Dead Redemption 2 fan map built with Grok Build and Next.js.
 - [TaskPad — physical pad with experimental Grok Bot adapter](https://github.com/DNTOF/TaskPad) - STC89C52 physical task pad with LCD1602 and optional ESP8266 OLED bridge; PC hub includes experimental Grok Bot and Cursor adapters.
+- [BotEducation — LMS with Grok professors over MCP](https://github.com/MrF1ow/boteducation) - Self-hosted Next.js + Supabase LMS where Grok / xAI bots act as professors through a remote MCP tool surface (one school per deploy).
 
 ## Skills, Plugins & MCP
 
@@ -628,6 +629,13 @@
 - [Dyl PolyKalsh — short-dated prediction-market skill](https://github.com/dylan2045ad/dyl-polykalsh-skill) - Grok skill that researches Polymarket/Kalshi markets resolving within 48 hours and outputs an even-split, $1.50-capped trade plan (no auto-trading).
 - [Agentic Doc Templates — playbooks for Grok Build](https://github.com/BrianCLowe/Agentic-Doc-Templates) - Modular Understanding/spec/TODO docs plus agent playbooks so Cursor, Grok Build, Claude Code, and OpenClaw keep product intent through ship.
 - [dsh-grok-plan-mode — Grok Build Plan Mode for DSH](https://github.com/aa2246740/dsh-grok-plan-mode) - Ports full Grok Build Plan Mode into DeepSeek Harness: state machine, plan.md edit gate, enter/exit tools, and review surface.
+- [AppDeploy plugin for Grok Build](https://github.com/AppDeploy-AI/grok-build-plugin) - Grok Build marketplace MCP plugin that turns a chat prompt into a hosted full-stack web app with auth, DB, storage, and one-click publish.
+- [AGER → Grok Build plugin translator](https://github.com/SpillwaveSolutions/grok-build-ager) - AGER host translator that emits a zero-config Grok Build tree (.grok-plugin plus Claude-compatible skills) from one validated bundle.
+- [WHOOP morning trainer MCP for Grok Bot](https://github.com/sabensm/whoop-data) - Grok Bot MCP server plus .grok skill that pulls WHOOP recovery/strain into a morning training briefing (OAuth tokens stay local).
+- [Executive Coach — portable Grok Bot skill pack](https://github.com/yanqingcheng/grokbot-executive-coach) - Portable SKILL.md coaching pack for the hosted Executive Coach Grok Bot (and Cursor): ask-first stance across session, leadership, and real-point skills.
+- [Unstick me — executive-dysfunction skill pack](https://github.com/yanqingcheng/grokbot-unstick-me) - Modular SKILL.md walkthrough for ADHD-style task paralysis, paired with the hosted Unstick me Grok Bot marketplace listing.
+- [3D Lab skills — interactive 3D for Grok Build](https://github.com/LumosLab-Innovation/3D-lab-skills) - One-command Agent Skills that author and animate image-approved interactive 3D (Three.js / Blender MCP) for Grok Build, Codex, Claude Code, and peers.
+- [skills-grok — Cloudflare + custom Grok Bot skills](https://github.com/diegofornalha/skills-grok) - Grok Bot / Cursor skills library bundling Cloudflare plugin skills plus a custom Cloudflare MCP-vs-CLI comparison skill.
 
 ## Reviews & Comparisons
 
@@ -839,6 +847,13 @@
 - [Grok2API — multi-account gateway for Grok Build/Web/Console](https://github.com/chenyme/grok2api) - High-star multi-account API gateway covering Grok Build, Grok Web, and Grok Console with Docker amd64/arm64 images.
 - [EchoBird — one-click install/switch including Grok Build](https://github.com/edison7009/EchoBird) - One-click installer and model switcher covering Claude Code, Codex CLI, Grok Build, DeepSeek Harness, and many other coding agents.
 - [SWARM — self-hosted mini Grok Bot alternative](https://github.com/KhanUzeb/SWARM) - Self-hosted AI teammate workspace: named LLM bots join channels, take jobs, run tools, hand off work, and leave an audit trail like a mini Grok Bot.
+- [Sessions Viewer — Grok Build & multi-CLI transcripts](https://github.com/jerrywu001/cc-sessions-viewer) - Native Tauri desktop browser for Grok Build, Claude Code, Codex, and five peer CLIs: searchable transcripts, skill/MCP tool management, resume, and export.
+- [WikiTicket SDD — git-native worklog with Grok plugins](https://github.com/SpillwaveSolutions/wiki_ticket_sdd) - Local-first visible-WIP worklog and Spec-Driven Development toolkit with first-class Claude Code, Codex, Grok Build, and Grok Bot plugin layouts.
+- [GrokSpace — macOS multi-session Grok Build command center](https://github.com/liarzpl/grokspace) - Local-first macOS Tauri app that grids multiple Grok Build terminals/ACP agents, hands Kanban tasks to them, and shares project memory skills.
+- [Grok Desktop Composer — Tauri GUI for Grok Build CLI](https://github.com/lamdan0901/grok-desktop-composer) - Tauri 2 + React desktop GUI for the Grok Build CLI over ACP, with project/thread sidebars and on-disk ~/.grok session sync.
+- [Grok-Harness — Electron shell for Grok Build over ACP](https://github.com/Ogurijay/Grok-Harness) - Local Mac/Windows Electron desktop shell that drives the official grok agent over loopback ACP without rewriting Grok Build.
+- [Grok Usage HUD — Windows quota meter for Bot & Build](https://github.com/lqiaoqing/grok-usage-hud) - Windows desktop HUD that reads local Grok Bot sand secrets and ~/.grok auth to show weekly Bot/Build quotas plus live session tokens.
+- [usage-monitor — Windows overlay for Claude/Codex/Grok Build](https://github.com/shivam-17/usage-monitor) - Windows overlay, flyout, and taskbar chips that meter Claude Code, Codex, and Grok Build weekly allowances from existing local logins.
 
 ## Community & Failure Modes
 
@@ -1136,10 +1151,11 @@
 - [agent-releases — Chinese tracker including Grok Build](https://github.com/majiayu000/agent-releases) - Unofficial Chinese release notes tracker for @agentreleases covering Claude Code, Codex, and Grok Build (DRY_RUN Issues first).
 - [spicefiendd agent-tools catalog for Grok Bot fleet](https://github.com/spicefiendd/agent-tools) - Public catalog of kept Grok Bot agent CLIs on spicefiendd (handoff, X desk, lead-inbox, jobwatch, mycase-pull) with no secrets.
 - [grok-wecom-bot — WeCom bridge to Grok CLI](https://github.com/painrice/grok-wecom-bot) - Enterprise WeChat bot bridge that receives messages over WebSocket and streams replies from the local Grok CLI (grok).
+- [box-grok-reference — Grok Bot box UI & debug runbooks](https://github.com/diegofornalha/box-grok-reference) - Open mirror of Cursor/Grok Bot box runbooks covering app UI notes and debugging the hosted box VM.
 
 ## Contributing
 
-1033 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1049 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
