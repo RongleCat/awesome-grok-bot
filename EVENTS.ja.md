@@ -138,6 +138,18 @@
 <a id="sla-20260916"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-sh4i"><img src="./assets/events/sla-20260916-cover.png" alt="Grok Bot Meetup Salta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Salta</strong><br />2026-09-16（水）18:00–20:00（ART）<br />サルタ · SorboLabs, Dean Funes 244（登録後に住所）<br /><br />サルタ初の Grok Bot。入門ワークショップ、実用例、Q&A、持参 PC でコーワーク。ツールにログインして仕事を仕上げて戻る。主催者承認。充電器持参。<br /><br /><a href="https://luma.com/cursor-sh4i"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
+<a id="country-br"></a>
+### ブラジル
+
+<a id="vdc-20261014"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-iutk"><img src="./assets/events/vdc-20261014-cover.png" alt="Grok Bot Meetup ヴィトーリア・ダ・コンキスタ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ヴィトーリア・ダ・コンキスタ</strong><br />2026-10-14（水）19:00–22:00（America/Bahia、UTC−3）<br />ブラジル・バイーア州ヴィトーリア・ダ・コンキスタ Hub Conquista（Av. Juracy Magalhães 3405, Boa Vista）（オフライン）<br /><br />バイーア州ヴィトーリア・ダ・コンキスタのオフライン Grok Bot ミートアップ（SpaceXAI for Salvador カレンダー掲載；主催 Benjamin Bauer、Sarah Ferreira Reis）。ネットワーキング・トーク/ワークショップ・Q&A。会場 Hub Conquista（住所あり）。無料・承認不要；スキャン時 guest_count 1。コミュニティ暦の新 slug cursor-iutk + フォーラム 171709。<br /><br /><a href="https://luma.com/cursor-iutk"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="cwb-20261111"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dx23"><img src="./assets/events/cwb-20261111-cover.png" alt="Grok Bot Curitiba Startups Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Curitiba Startups Meetup</strong><br />2026-11-11（水）18:30–21:00（BRT）<br />クリチバ Rua Marcos Moro 72<br /><br />クリチバのスタートアップ向け。Grok Bot での作り方、創業者の知見、エージェント時代の出荷（登壇者は未定）。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-dx23"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="fln-20260926"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/c293hlgc"><img src="./assets/events/fln-20260926-cover.png" alt="Grok Bot Meetup Florianópolis" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Florianópolis</strong><br />2026-09-26（土）18:00–20:00（BRT）<br />フロリアノポリス · Founder Haus - Jurerê In, Av. dos Merlins 156<br /><br />フロリアノポリス初の Grok Bot Meetup。デモと交流。forum 170449・関心約 25・承認制。<br /><br /><a href="https://luma.com/c293hlgc"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
 <a id="country-mx"></a>
 ### メキシコ
 
@@ -149,15 +161,6 @@
 
 <a id="cdmx-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-89bf"><img src="./assets/events/cdmx-20260926-cover.png" alt="Grok Bot Meetup Mexico City" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Mexico City</strong><br />2026-09-26（土）09:00–13:00（CDMX）<br />Mexico City · Sandbox Hub, Luis G. Urbina 4-dpto. 103, Polanco<br /><br />CDMX 初の対面（Sandbox Hub Polanco）。主催 Javier Rivero / Ben Kim / Ricardo García。承認制・約 60 席。<br /><br /><a href="https://luma.com/spacexai-89bf"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="country-br"></a>
-### ブラジル
-
-<a id="cwb-20261111"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dx23"><img src="./assets/events/cwb-20261111-cover.png" alt="Grok Bot Curitiba Startups Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Curitiba Startups Meetup</strong><br />2026-11-11（水）18:30–21:00（BRT）<br />クリチバ Rua Marcos Moro 72<br /><br />クリチバのスタートアップ向け。Grok Bot での作り方、創業者の知見、エージェント時代の出荷（登壇者は未定）。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-dx23"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="fln-20260926"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/c293hlgc"><img src="./assets/events/fln-20260926-cover.png" alt="Grok Bot Meetup Florianópolis" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Florianópolis</strong><br />2026-09-26（土）18:00–20:00（BRT）<br />フロリアノポリス · Founder Haus - Jurerê In, Av. dos Merlins 156<br /><br />フロリアノポリス初の Grok Bot Meetup。デモと交流。forum 170449・関心約 25・承認制。<br /><br /><a href="https://luma.com/c293hlgc"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
 <a id="country-de"></a>
 ### ドイツ
@@ -176,6 +179,15 @@
 
 <a id="cumb-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cccumbaya"><img src="./assets/events/cumb-20261003-cover.png" alt="Grok Bot Meetup Cumbayá" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cumbayá</strong><br />2026-10-03（土）09:30–12:00（ECT）<br />キト近郊 Cumbayá<br /><br />キト近郊 Cumbayá の対面 Grok Bot。無料、ウェイティング可、残席 37。<br /><br /><a href="https://luma.com/cccumbaya"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<a id="country-es"></a>
+### スペイン
+
+<a id="bcn-20260929"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/802d0upt"><img src="./assets/events/bcn-20260929-cover.png" alt="Grok Bot Meetup バルセロナ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup バルセロナ</strong><br />2026-09-29（火）18:00–20:00（Europe/Madrid、CEST、UTC+2）<br />バルセロナ Carrer de Llull（詳細住所は後日）· Poblenou 地下鉄 L4 近く · オフライン（満席時は配信）<br /><br />バルセロナ初の Grok Bot Meetup（SpaceXAI for Barcelona；主催 Marc Nebot I Moyano、Walter Troiani）。スペイン語の実践ワークショップ：18:00 受付・クレジット、18:15 紹介、18:30 短デモ、19:00 ビルド、19:45 Q&A。ノートPC/スマホ持参、クレジット現場配布、事前インストール不要。会場は Carrer de Llull（Poblenou L4 近く、詳細後日）。承認制；スキャン時 guest_count 7。満席時のみ配信。コミュニティ暦の新 slug 802d0upt + フォーラム 171706。<br /><br /><a href="https://luma.com/802d0upt"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="mad-20260929"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotmadrid1"><img src="./assets/events/mad-20260929-cover.png" alt="Grok Bot Meetup Madrid" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Madrid</strong><br />2026-09-29（火）17:30–21:30（Europe/Madrid、CEST）<br />スペイン・マドリード · Pl. del Callao, 1（Samplia Hub / mad.builders）<br /><br />マドリード初の Grok Bot Meetup。実践ワークショップ：ライブ試用・短いデモの後、持参（または主催案）の自動化課題で bot を構築。会場でクレジット配布。ノートPC/スマホ可。スペイン語（英語歓迎）。17:30 受付→18:00 紹介→18:20 デモ→19:00 WS→20:30 交流/~21:30。主催 Felipe Basurto & Alvaro Fragoso（Mad Builders）。無料・承認制。約 60 席。スキャン時 0 名。forum 171020。<br /><br /><a href="https://luma.com/grokbotmadrid1"><strong>申し込む →</strong></a></td></tr></table>
 
 <a id="country-gt"></a>
 ### グアテマラ
@@ -218,12 +230,6 @@
 
 <a id="leu-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-leuven-meetup"><img src="./assets/events/leu-20260919-cover.png" alt="Grok Bot Meetup Leuven" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Leuven</strong><br />2026-09-19（土）14:00–17:30（CEST）<br />ルーヴェン · Blijde Inkomststraat 22<br /><br />ベルギー初の Grok Bot Meetup。デモと交流。forum 170453・承認制。<br /><br /><a href="https://luma.com/spacexai-leuven-meetup"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
-<a id="country-es"></a>
-### スペイン
-
-<a id="mad-20260929"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotmadrid1"><img src="./assets/events/mad-20260929-cover.png" alt="Grok Bot Meetup Madrid" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Madrid</strong><br />2026-09-29（火）17:30–21:30（Europe/Madrid、CEST）<br />スペイン・マドリード · Pl. del Callao, 1（Samplia Hub / mad.builders）<br /><br />マドリード初の Grok Bot Meetup。実践ワークショップ：ライブ試用・短いデモの後、持参（または主催案）の自動化課題で bot を構築。会場でクレジット配布。ノートPC/スマホ可。スペイン語（英語歓迎）。17:30 受付→18:00 紹介→18:20 デモ→19:00 WS→20:30 交流/~21:30。主催 Felipe Basurto & Alvaro Fragoso（Mad Builders）。無料・承認制。約 60 席。スキャン時 0 名。forum 171020。<br /><br /><a href="https://luma.com/grokbotmadrid1"><strong>申し込む →</strong></a></td></tr></table>
 
 <a id="country-gb"></a>
 ### イギリス
