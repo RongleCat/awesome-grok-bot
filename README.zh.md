@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1081-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1098-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -350,6 +350,8 @@
 - [Grok Bot Meetup wall — Mendoza](https://github.com/MatiasBoldrini/grok-bot-meetup) - 门多萨 Grok Bot 线下活动的公开照片/留言墙，静态站形式，可由队友从 Bot 侧更新。.
 - [AMV company proposal on Grok Bot Live](https://github.com/littletechbird/amv-grokbot-company-proposal) - 面向公众的 AMV 音乐影像公司方案与 Hatch 模板，用于在 Grok Bot Live 上搭动漫风工作室。.
 - [Kaspa node density test on one Grok Bot box](https://github.com/STP-KAS/Xai.mainnet.public.nodes) - 诚实的单沙箱密度记录：测量一台 Grok Bot Linux 盒子能跑多少个真实 Kaspa 主网公共节点。.
+- [grok-weekly — Grok Bot tech-trend Issues](https://github.com/kurotanshi/grok-weekly) - 由 Grok Bot「科技趋势专家」调研、经 SNS 闸门审稿后自动贴到 GitHub Issue 的每周技术趋势存档。.
+- [finbot — IBM screener webhooking Grok Bot](https://github.com/jtaroreh/finbot) - 收盘后 IBM 逢低建仓扫描器：把共振快照推到 Grok Bot webhook，并仅以 GitHub Issue 告警。.
 
 ## 技能、插件与 MCP
 
@@ -655,6 +657,12 @@
 - [OpenDia — browser MCP plugin for Grok Build](https://github.com/aeonfun/opendia) - 本地优先的浏览器 MCP（18 个工具），附带正式 Grok Build .grok-plugin，让代理私密驱动 Chrome/Arc/Firefox。.
 - [VeigaPunk Grok Build marketplace (xbgst + livepatch)](https://github.com/VeigaPunk/grok-marketplace) - 公开 Grok Build 市集：附带 xbgst-stack 编排技能/命令，以及捆绑的 grok-build-livepatch 硬禁补丁。.
 - [WeMetOnce — Lost Connection MCP for Grok Build](https://github.com/devworksarav/wemetonce-grok-plugin) - 只读 Grok Build 插件：通过公开 WeMetOnce MCP 按记忆与地点检索已审核的 Lost Connection 帖子。.
+- [Curse Monitor — Cursor usage CLI + Grok Bot plugin](https://github.com/Maijied/Curse-Monitor-by-Lorapok) - CLI + Grok Bot / Cursor 代理插件：从本机会话读出 Cursor 配额、赠送额度、Auto/API 占比与账期倒计时。.
+- [Tradehand — UK trades booking .grok-plugin](https://github.com/Humanleap/tradehand-grok-plugin) - 官方 Tradehand .grok-plugin：在 Grok Build 里通过 Streamable HTTP MCP 浏览英国工匠列表并续办即时报价。.
+- [Fusion Router — multi-harness model-routing plugin](https://github.com/BoredSexyJordan/fusion-router) - 模型路由编排插件：为 Grok Build / Grok Bot 提供一等 .grok-plugin，并同支持 Claude Code、Codex、Cursor、Hermes。.
+- [AgentMail → Cursor Grok Bot email forwarder](https://github.com/jeffhuber/agentmail-grokbot-forwarder) - 带 Svix 验签的 webhook 转发器：把 AgentMail 收件箱接到 Cursor Grok Bot 的 Bearer 邮件通道。.
+- [Braintrust tracing plugin for Grok Build](https://github.com/braintrustdata/braintrust-grok-plugin) - Braintrust 生成的 Grok Build 插件：用 bt trace enable grok 把会话、工具与 LLM 指标打成追踪 span。.
+- [Infiknit — image/video/canvas plugin for Grok Build](https://github.com/Synthenova/infiknit-mcp) - 官方 Infiknit 插件：含 Grok Build 安装说明，可向项目生成图片、视频与画布工作流。.
 
 ## 评测与对比
 
@@ -883,6 +891,10 @@
 - [ResetRadar — Grok Bot usage-reset calendar](https://github.com/Yang-bright/resetradar) - 非官方双语重置日历：追踪 Codex、Claude Code 与 Grok Bot 的公开用量重置，支持北京时间 / ET。.
 - [Grow — Grok Build fork (Rust TUI / ACP)](https://github.com/LordCasser/grow) - Grok Build 的社区 Rust 分支：提供 TUI、无界面与 ACP 模式，BYOK 自备模型（非 xAI 官方产品）。.
 - [Amore Build — Grok Build fork with companions](https://github.com/vincitamore/amore-build) - 以「房子」为工作区的 grok-build 终端分支：带 Iris/Lucerna 伴侣，钉住上游版本标签并将二进制重命名为 amore。.
+- [Grok Build Mobile — LAN ACP phone client](https://github.com/jeffsabatage/grok-build-mobile) - 仅局域网的 Android/网页客户端：用 ACP（grok agent --leader stdio）驱动本机 Grok Build 会话，不出 Wi-Fi。.
+- [liaan/grok-desktop — Electron GUI for Grok Build](https://github.com/liaan/grok-desktop) - 面向 Grok Build 的桌面 GUI（ACP）：复用与 CLI 相同的 ~/.grok 技能、MCP 与登录态。.
+- [LinkCode — multi-agent workspace with Grok Build](https://github.com/arcboxlabs/linkcode) - 开源 Codex App / WorkBuddy 平替：在同一规范化工作区托管 Claude Code、Codex、OpenCode、Pi 与 Grok Build。.
+- [Grok Cloud Studio — Build Director fleet plane](https://github.com/atebites-hub/grok-cloud-studio) - 无密钥控制面：用 A2A 中枢、ACP 守护与 MCP 插件编排 Grok Build CLI Director 席位与 Cursor Cloud Extra High 工人。.
 
 ## 社区与故障现场
 
@@ -1039,6 +1051,8 @@
 - [Ubuntu eCryptfs: sand-client ENAMETOOLONG blocks first setup](https://forum.cursor.com/t/grok-bot-0-47-0-on-ubuntu-24-04-first-time-setup-fails-with-enametoolong-writing-sand-client-huge-token/171438) - 官方 Colin（2026-09-13）：Grok Bot 在 ~/.config/Grok Bot/sand-client-persistence/ 写入约 140–200 字符文件名；Linux 上限 255，但 eCryptfs（旧版「加密主目录」）限制 143 → Ubuntu 首次安装 ENAMETOOLONG。可用 getconf NAME_MAX 与 mount | grep ecryptfs 确认；官方在缩短文件名。.
 - [Secure-card secrets miss running agent shells — spawn a fresh agent](https://forum.cursor.com/t/token-not-available-in-grok-bot-environment/171441) - 官方 Colin（2026-09-13）：安全卡片保存的 token 会进 Agent Computer 主环境，但已在独立窗口运行的 agent 用的是另一次 shell 会话，拿不到之后写入的环境变量——卡片显示 Saved，执行器却读不到。变通：保存后新建一个 agent（或把密钥写到磁盘文件，所有 agent 都能读）；对已有 agent 反复重存无效。.
 - [Signature-Agent = Grok Bot computer Chrome, not Cloud Agents](https://forum.cursor.com/t/a-persistent-cursor-browser-generated-high-frequency-requests-against-my-cloudflare-worker/171434) - 官方 Colin（2026-09-13）：Signature-Agent / cursorusercontent.com 流量来自 Grok Bot Agent Computer 内的浏览器，不是 Cloud Agents 或 IDE 浏览器。任务结束后健康检查标签页仍开着会持续轮询；处理：打开电脑视图关掉对应 Chrome 标签（或退出 Chrome）、暂停/删除 Automations 例行任务，必要时再 Reset Grok Bot’s Computer。.
+- [Trim a fat Grok Bot chat: Duplicate + handoff file](https://forum.cursor.com/t/trim-the-fat-in-a-chat/171653) - 官方 kevinn（2026-09-14）：Grok Bot 聊天暂无就地压缩；接近上限会自动摘要，但忙碌线程仍会再次填满。变通：让 Bot 写一份交接文件（职责、决策、进行中工作、引用）→ Bot 操作 → Duplicate（保留人设/技能/例行/头像，清空对话与记忆）→ 让副本读交接文件 → Hide 旧 Bot。专家 Bot 宜写共享文件并只发短指针，避免把长交接塞进主对话。.
+- [Private Slack channels need /invite @Cursor for routine triggers](https://forum.cursor.com/t/grok-bot-slack-routine-trigger-never-fires-while-test-run-and-slack-return-both-work/171676) - 官方 kevinn（2026-09-15）：Slack 触发的 Grok Bot 例行任务在私有频道收不到消息，除非把 Cursor Slack 应用拉进该频道。Test Run 完全不经 Slack；插件回帖用的是另一套应用，与例行监听不同——所以两者都正常时触发仍可沉默。处理：在私有频道执行 /invite @Cursor，等约 1 分钟，发一条探针消息，再查例行 Run history。.
 
 ## 相关列表
 
@@ -1184,10 +1198,13 @@
 - [Hermes Desktop skin inspired by Grok Bot](https://github.com/guidsen/hermes-grok-bot-skin) - 独立 Hermes Desktop 皮肤：把聊天、输入框与 Bots 视图改成接近 Grok Bot 的视觉，不改 Hermes 行为。.
 - [HutchDB — schemaless DB for Grokbot MCP clients](https://github.com/ExpeditedProjects/hutchdb) - 无 schema 工作区数据库：供 Claude Code、Codex、Cursor、Hermes、Claw、Grokbot 等 MCP 客户端共同读写。.
 - [OpenBot — self-hosted Grok Bot–style teammate platform](https://github.com/regnull/openbot) - 自托管多 Bot 平台：持久 actor、工具、记忆、审批与 Bot 间工作流，风格接近 Grok Bot 队友模型。.
+- [Token Watcher — local multi-agent usage dashboard](https://github.com/luwill/token-watcher) - 零依赖本机用量面板：解析 Claude Code、Codex、WorkBuddy、Grok Build 等本地会话，并用 SSE 实时展示配额。.
+- [agentguard — scan skills/plugins for Grok Build](https://github.com/tainguyen091994/agentguard) - 静态扫描 Agent 技能、hooks、MCP 与 .grok-plugin：在 Claude Code / Grok Build 加载前标出危险模式。.
+- [CodexRunway — macOS menu bar for Codex + Grok Build](https://github.com/Licoy/CodexRunway) - 原生 macOS 菜单栏应用：并排查看 Codex 与 Grok（Build/Imagine/Chat）额度、预付余额、本机 CLI 会话与多账号 OAuth。.
 
 ## 贡献
 
-目前 8 个分类、1081 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1098 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

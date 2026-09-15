@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1081-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1098-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -350,6 +350,8 @@
 - [Grok Bot Meetup wall — Mendoza](https://github.com/MatiasBoldrini/grok-bot-meetup) - Public photo/message wall for a Grok Bot meetup in Mendoza, deployed as a static site teammates can update from the Bot.
 - [AMV company proposal on Grok Bot Live](https://github.com/littletechbird/amv-grokbot-company-proposal) - Public-safe AMV music-video company proposal and Hatch template for standing up an anime-style studio on Grok Bot Live.
 - [Kaspa node density test on one Grok Bot box](https://github.com/STP-KAS/Xai.mainnet.public.nodes) - Honest one-sandbox density notes measuring how many real Kaspa mainnet public nodes a single Grok Bot Linux box can run.
+- [grok-weekly — Grok Bot tech-trend Issues](https://github.com/kurotanshi/grok-weekly) - Archive of weekly tech-trend briefs researched by a Grok Bot specialist and posted to GitHub Issues after an SNS verification gate.
+- [finbot — IBM screener webhooking Grok Bot](https://github.com/jtaroreh/finbot) - Post-close IBM accumulation screener that posts confluence snapshots to a Grok Bot webhook and opens GitHub Issue alerts only.
 
 ## Skills, Plugins & MCP
 
@@ -655,6 +657,12 @@
 - [OpenDia — browser MCP plugin for Grok Build](https://github.com/aeonfun/opendia) - Local-first browser MCP (18 tools) with a first-class Grok Build .grok-plugin so agents drive Chrome/Arc/Firefox privately.
 - [VeigaPunk Grok Build marketplace (xbgst + livepatch)](https://github.com/VeigaPunk/grok-marketplace) - Public Grok Build marketplace shipping xbgst-stack orchestrator skills/commands plus a bundled grok-build-livepatch hard-ban patch.
 - [WeMetOnce — Lost Connection MCP for Grok Build](https://github.com/devworksarav/wemetonce-grok-plugin) - Read-only Grok Build plugin over the public WeMetOnce MCP for searching approved Lost Connection posts by memory and place.
+- [Curse Monitor — Cursor usage CLI + Grok Bot plugin](https://github.com/Maijied/Curse-Monitor-by-Lorapok) - CLI plus Grok Bot / Cursor agent plugin that surfaces Cursor quotas, bonus credits, Auto/API spend, and billing-cycle countdown from local session data.
+- [Tradehand — UK trades booking .grok-plugin](https://github.com/Humanleap/tradehand-grok-plugin) - Official Tradehand .grok-plugin that browses UK tradespeople listings and continues instant quotes over Streamable HTTP MCP inside Grok Build.
+- [Fusion Router — multi-harness model-routing plugin](https://github.com/BoredSexyJordan/fusion-router) - Model-routing orchestration plugin with a first-class .grok-plugin pack for Grok Build / Grok Bot alongside Claude Code, Codex, Cursor, and Hermes.
+- [AgentMail → Cursor Grok Bot email forwarder](https://github.com/jeffhuber/agentmail-grokbot-forwarder) - Svix-signed webhook forwarder that turns AgentMail inboxes into a Bearer-auth email channel for Cursor Grok Bot agents.
+- [Braintrust tracing plugin for Grok Build](https://github.com/braintrustdata/braintrust-grok-plugin) - Generated Braintrust plugin that traces Grok Build CLI sessions into spans for turns, tools, and LLM metrics via bt trace enable grok.
+- [Infiknit — image/video/canvas plugin for Grok Build](https://github.com/Synthenova/infiknit-mcp) - Official Infiknit plugin with documented Grok Build install paths to generate images, videos, and canvas workflows into the project.
 
 ## Reviews & Comparisons
 
@@ -883,6 +891,10 @@
 - [ResetRadar — Grok Bot usage-reset calendar](https://github.com/Yang-bright/resetradar) - Unofficial bilingual calendar deck tracking public usage resets for Codex, Claude Code, and Grok Bot with Beijing-time / ET views.
 - [Grow — Grok Build fork (Rust TUI / ACP)](https://github.com/LordCasser/grow) - Community Rust fork of Grok Build offering TUI, headless, and ACP modes with BYOK providers (not an xAI official product).
 - [Amore Build — Grok Build fork with companions](https://github.com/vincitamore/amore-build) - House-oriented terminal agent fork of grok-build with Iris/Lucerna companions, pinning upstream release tags while renaming the binary to amore.
+- [Grok Build Mobile — LAN ACP phone client](https://github.com/jeffsabatage/grok-build-mobile) - LAN-only Android/web client that drives local Grok Build sessions over ACP (grok agent --leader stdio) without leaving the Wi-Fi.
+- [liaan/grok-desktop — Electron GUI for Grok Build](https://github.com/liaan/grok-desktop) - Desktop GUI for the Grok Build coding agent over ACP, reusing the same ~/.grok skills, MCP servers, and auth as the CLI.
+- [LinkCode — multi-agent workspace with Grok Build](https://github.com/arcboxlabs/linkcode) - Open-source Codex App / WorkBuddy alternative that hosts Claude Code, Codex, OpenCode, Pi, and Grok Build in one normalized workspace.
+- [Grok Cloud Studio — Build Director fleet plane](https://github.com/atebites-hub/grok-cloud-studio) - Secret-free control plane for Grok Build CLI Director seats plus Cursor Cloud Extra High workers via A2A hub, ACP daemons, and MCP plugins.
 
 ## Community & Failure Modes
 
@@ -1039,6 +1051,8 @@
 - [Ubuntu eCryptfs: sand-client ENAMETOOLONG blocks first setup](https://forum.cursor.com/t/grok-bot-0-47-0-on-ubuntu-24-04-first-time-setup-fails-with-enametoolong-writing-sand-client-huge-token/171438) - Staff (Colin, 2026-09-13): Grok Bot stores ~140–200-char files under ~/.config/Grok Bot/sand-client-persistence/; Linux allows 255 but eCryptfs (“Encrypt my home folder”) caps names at 143 → ENAMETOOLONG on Ubuntu first setup. Check with getconf NAME_MAX ~/.config and mount | grep -i ecryptfs; team is shortening names.
 - [Secure-card secrets miss running agent shells — spawn a fresh agent](https://forum.cursor.com/t/token-not-available-in-grok-bot-environment/171441) - Staff (Colin, 2026-09-13): tokens saved via the secure card land in the Agent Computer’s main environment, but agents already open in their own window started a separate shell session that does not pick up later env changes—card shows Saved while the executor cannot see it. Workaround: after saving, create a brand-new agent (or rely on files on disk, which every agent can read); re-saving into an existing agent does not help.
 - [Signature-Agent = Grok Bot computer Chrome, not Cloud Agents](https://forum.cursor.com/t/a-persistent-cursor-browser-generated-high-frequency-requests-against-my-cloudflare-worker/171434) - Staff (Colin, 2026-09-13): Signature-Agent / cursorusercontent.com traffic is the browser inside your Grok Bot Agent Computer—not Cloud Agents or the IDE browser. Health-check tabs stay open after the task and keep polling; stop by Open computer → close those Chrome tabs (or quit Chrome), pause/delete the Automations routine, or Reset Grok Bot’s Computer as last resort.
+- [Trim a fat Grok Bot chat: Duplicate + handoff file](https://forum.cursor.com/t/trim-the-fat-in-a-chat/171653) - Staff (kevinn, 2026-09-14): No in-place compact for a Grok Bot chat—auto-summary near the limit still lets busy threads refill. Workaround: ask the Bot to save a handoff file (responsibilities, decisions, active work, refs) → Bot actions → Duplicate (keeps profile/skills/routines/avatar; clears conversation/memory) → have the copy read the handoff → Hide the old Bot. Prefer short pointers over dumping long specialist handoffs into the Chief chat.
+- [Private Slack channels need /invite @Cursor for routine triggers](https://forum.cursor.com/t/grok-bot-slack-routine-trigger-never-fires-while-test-run-and-slack-return-both-work/171676) - Staff (kevinn, 2026-09-15): Slack-triggered Grok Bot routines never see messages from a private channel unless the Cursor Slack app is a member. Test Run bypasses Slack entirely; Slack plugin replies use a different app than the routine listener—so both can work while the trigger stays silent. Fix: in the private channel run /invite @Cursor, wait ~1 min, post a canary message, then check the routine Run history.
 
 ## Related Lists
 
@@ -1184,10 +1198,13 @@
 - [Hermes Desktop skin inspired by Grok Bot](https://github.com/guidsen/hermes-grok-bot-skin) - Independent Hermes Desktop skin that restyles chat, composer, and Bots view to echo Grok Bot visuals without changing Hermes behavior.
 - [HutchDB — schemaless DB for Grokbot MCP clients](https://github.com/ExpeditedProjects/hutchdb) - Schemaless workspace database that Claude Code, Codex, Cursor, Hermes, Claw, Grokbot, and other MCP clients can read and update together.
 - [OpenBot — self-hosted Grok Bot–style teammate platform](https://github.com/regnull/openbot) - Self-hosted multi-bot platform with persistent actors, tools, memory, approvals, and bot-to-bot workflows in the Grok Bot teammate style.
+- [Token Watcher — local multi-agent usage dashboard](https://github.com/luwill/token-watcher) - Zero-dep local token/quota dashboard that parses on-disk sessions for Claude Code, Codex, WorkBuddy, Grok Build, and peers with a live SSE panel.
+- [agentguard — scan skills/plugins for Grok Build](https://github.com/tainguyen091994/agentguard) - Static scanner for agent skills, hooks, MCP servers, and .grok-plugin packs that flags unsafe patterns before Claude Code or Grok Build loads them.
+- [CodexRunway — macOS menu bar for Codex + Grok Build](https://github.com/Licoy/CodexRunway) - Native macOS menu bar app that shows Grok Build / Imagine / Chat quota, prepaid balance, local CLI sessions, and multi-account OAuth beside Codex.
 
 ## Contributing
 
-1081 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1098 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

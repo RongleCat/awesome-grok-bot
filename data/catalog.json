@@ -2654,6 +2654,26 @@
             "zh": "诚实的单沙箱密度记录：测量一台 Grok Bot Linux 盒子能跑多少个真实 Kaspa 主网公共节点。",
             "ja": "1 台の Grok Bot Linux 箱で実 Kaspa メインネット公開ノードを何本走らせられるかの密度計測メモ。"
           }
+        },
+        {
+          "title": "grok-weekly — Grok Bot tech-trend Issues",
+          "url": "https://github.com/kurotanshi/grok-weekly",
+          "source": "GB-1112",
+          "blurb": {
+            "en": "Archive of weekly tech-trend briefs researched by a Grok Bot specialist and posted to GitHub Issues after an SNS verification gate.",
+            "zh": "由 Grok Bot「科技趋势专家」调研、经 SNS 闸门审稿后自动贴到 GitHub Issue 的每周技术趋势存档。",
+            "ja": "Grok Bot の技術トレンド担当が調査し、SNS ゲート通過後に GitHub Issue へ投稿する週次ブリーフのアーカイブ。"
+          }
+        },
+        {
+          "title": "finbot — IBM screener webhooking Grok Bot",
+          "url": "https://github.com/jtaroreh/finbot",
+          "source": "GB-1113",
+          "blurb": {
+            "en": "Post-close IBM accumulation screener that posts confluence snapshots to a Grok Bot webhook and opens GitHub Issue alerts only.",
+            "zh": "收盘后 IBM 逢低建仓扫描器：把共振快照推到 Grok Bot webhook，并仅以 GitHub Issue 告警。",
+            "ja": "引け後の IBM 積み上げスクリーナー。合流スナップを Grok Bot webhook へ送り、GitHub Issue だけでアラートする。"
+          }
         }
       ]
     },
@@ -5684,6 +5704,66 @@
             "zh": "只读 Grok Build 插件：通过公开 WeMetOnce MCP 按记忆与地点检索已审核的 Lost Connection 帖子。",
             "ja": "公開 WeMetOnce MCP 向け読み取り専用 Grok Build プラグイン。承認済み Lost Connection 投稿を記憶・場所で検索。"
           }
+        },
+        {
+          "title": "Curse Monitor — Cursor usage CLI + Grok Bot plugin",
+          "url": "https://github.com/Maijied/Curse-Monitor-by-Lorapok",
+          "source": "GB-1106",
+          "blurb": {
+            "en": "CLI plus Grok Bot / Cursor agent plugin that surfaces Cursor quotas, bonus credits, Auto/API spend, and billing-cycle countdown from local session data.",
+            "zh": "CLI + Grok Bot / Cursor 代理插件：从本机会话读出 Cursor 配额、赠送额度、Auto/API 占比与账期倒计时。",
+            "ja": "ローカルセッションから Cursor の枠・ボーナス・Auto/API 比率・請求サイクルを出す CLI + Grok Bot / Cursor エージェントプラグイン。"
+          }
+        },
+        {
+          "title": "Tradehand — UK trades booking .grok-plugin",
+          "url": "https://github.com/Humanleap/tradehand-grok-plugin",
+          "source": "GB-1107",
+          "blurb": {
+            "en": "Official Tradehand .grok-plugin that browses UK tradespeople listings and continues instant quotes over Streamable HTTP MCP inside Grok Build.",
+            "zh": "官方 Tradehand .grok-plugin：在 Grok Build 里通过 Streamable HTTP MCP 浏览英国工匠列表并续办即时报价。",
+            "ja": "公式 Tradehand の .grok-plugin。Grok Build 上で Streamable HTTP MCP 経由に英国職人リストを見て見積もりへ進む。"
+          }
+        },
+        {
+          "title": "Fusion Router — multi-harness model-routing plugin",
+          "url": "https://github.com/BoredSexyJordan/fusion-router",
+          "source": "GB-1108",
+          "blurb": {
+            "en": "Model-routing orchestration plugin with a first-class .grok-plugin pack for Grok Build / Grok Bot alongside Claude Code, Codex, Cursor, and Hermes.",
+            "zh": "模型路由编排插件：为 Grok Build / Grok Bot 提供一等 .grok-plugin，并同支持 Claude Code、Codex、Cursor、Hermes。",
+            "ja": "Grok Build / Grok Bot 向け .grok-plugin を備えたモデル振り分けオーケストレーション。Claude Code・Codex・Cursor・Hermes も対応。"
+          }
+        },
+        {
+          "title": "AgentMail → Cursor Grok Bot email forwarder",
+          "url": "https://github.com/jeffhuber/agentmail-grokbot-forwarder",
+          "source": "GB-1109",
+          "blurb": {
+            "en": "Svix-signed webhook forwarder that turns AgentMail inboxes into a Bearer-auth email channel for Cursor Grok Bot agents.",
+            "zh": "带 Svix 验签的 webhook 转发器：把 AgentMail 收件箱接到 Cursor Grok Bot 的 Bearer 邮件通道。",
+            "ja": "Svix 署名付き webhook 転送。AgentMail 受信箱を Cursor Grok Bot の Bearer 認証メールチャネルにする。"
+          }
+        },
+        {
+          "title": "Braintrust tracing plugin for Grok Build",
+          "url": "https://github.com/braintrustdata/braintrust-grok-plugin",
+          "source": "GB-1110",
+          "blurb": {
+            "en": "Generated Braintrust plugin that traces Grok Build CLI sessions into spans for turns, tools, and LLM metrics via bt trace enable grok.",
+            "zh": "Braintrust 生成的 Grok Build 插件：用 bt trace enable grok 把会话、工具与 LLM 指标打成追踪 span。",
+            "ja": "Braintrust 公式生成の Grok Build プラグイン。bt trace enable grok でターン・ツール・LLM 指標をトレースする。"
+          }
+        },
+        {
+          "title": "Infiknit — image/video/canvas plugin for Grok Build",
+          "url": "https://github.com/Synthenova/infiknit-mcp",
+          "source": "GB-1111",
+          "blurb": {
+            "en": "Official Infiknit plugin with documented Grok Build install paths to generate images, videos, and canvas workflows into the project.",
+            "zh": "官方 Infiknit 插件：含 Grok Build 安装说明，可向项目生成图片、视频与画布工作流。",
+            "ja": "公式 Infiknit プラグイン。Grok Build 向け手順付きで画像・動画・キャンバスワークフローをプロジェクトへ生成。"
+          }
         }
       ]
     },
@@ -7924,6 +8004,46 @@
             "zh": "以「房子」为工作区的 grok-build 终端分支：带 Iris/Lucerna 伴侣，钉住上游版本标签并将二进制重命名为 amore。",
             "ja": "grok-build 派生のターミナルエージェント。Iris／Lucerna 付きで upstream タグをピンし、バイナリ名は amore。"
           }
+        },
+        {
+          "title": "Grok Build Mobile — LAN ACP phone client",
+          "url": "https://github.com/jeffsabatage/grok-build-mobile",
+          "source": "GB-1114",
+          "blurb": {
+            "en": "LAN-only Android/web client that drives local Grok Build sessions over ACP (grok agent --leader stdio) without leaving the Wi-Fi.",
+            "zh": "仅局域网的 Android/网页客户端：用 ACP（grok agent --leader stdio）驱动本机 Grok Build 会话，不出 Wi-Fi。",
+            "ja": "LAN 限定の Android/Web クライアント。ACP（grok agent --leader stdio）でローカル Grok Build セッションを操作する。"
+          }
+        },
+        {
+          "title": "liaan/grok-desktop — Electron GUI for Grok Build",
+          "url": "https://github.com/liaan/grok-desktop",
+          "source": "GB-1115",
+          "blurb": {
+            "en": "Desktop GUI for the Grok Build coding agent over ACP, reusing the same ~/.grok skills, MCP servers, and auth as the CLI.",
+            "zh": "面向 Grok Build 的桌面 GUI（ACP）：复用与 CLI 相同的 ~/.grok 技能、MCP 与登录态。",
+            "ja": "Grok Build 向けデスクトップ GUI（ACP）。CLI と同じ ~/.grok スキル・MCP・認証を使う。"
+          }
+        },
+        {
+          "title": "LinkCode — multi-agent workspace with Grok Build",
+          "url": "https://github.com/arcboxlabs/linkcode",
+          "source": "GB-1116",
+          "blurb": {
+            "en": "Open-source Codex App / WorkBuddy alternative that hosts Claude Code, Codex, OpenCode, Pi, and Grok Build in one normalized workspace.",
+            "zh": "开源 Codex App / WorkBuddy 平替：在同一规范化工作区托管 Claude Code、Codex、OpenCode、Pi 与 Grok Build。",
+            "ja": "Codex App / WorkBuddy の OSS 代替。Claude Code・Codex・OpenCode・Pi・Grok Build を一つの正規化ワークスペースでホスト。"
+          }
+        },
+        {
+          "title": "Grok Cloud Studio — Build Director fleet plane",
+          "url": "https://github.com/atebites-hub/grok-cloud-studio",
+          "source": "GB-1117",
+          "blurb": {
+            "en": "Secret-free control plane for Grok Build CLI Director seats plus Cursor Cloud Extra High workers via A2A hub, ACP daemons, and MCP plugins.",
+            "zh": "无密钥控制面：用 A2A 中枢、ACP 守护与 MCP 插件编排 Grok Build CLI Director 席位与 Cursor Cloud Extra High 工人。",
+            "ja": "秘密なしコントロールプレーン。A2A・ACP・MCP で Grok Build CLI Director 席と Cursor Cloud Extra High ワーカーを束ねる。"
+          }
         }
       ]
     },
@@ -9464,6 +9584,26 @@
             "zh": "官方 Colin（2026-09-13）：Signature-Agent / cursorusercontent.com 流量来自 Grok Bot Agent Computer 内的浏览器，不是 Cloud Agents 或 IDE 浏览器。任务结束后健康检查标签页仍开着会持续轮询；处理：打开电脑视图关掉对应 Chrome 标签（或退出 Chrome）、暂停/删除 Automations 例行任务，必要时再 Reset Grok Bot’s Computer。",
             "ja": "Staff（Colin、2026-09-13）：Signature-Agent / cursorusercontent.com のトラフィックは Grok Bot Agent Computer 内ブラウザの識別子で、Cloud Agents や IDE ブラウザではない。タスク後もヘルスチェック用タブが残りポーリングし続ける。対処：コンピュータ画面を開いて該当 Chrome タブを閉じる（または Chrome 終了）、Automations のルーチンを停止/削除、最終手段で Reset Grok Bot’s Computer。"
           }
+        },
+        {
+          "title": "Trim a fat Grok Bot chat: Duplicate + handoff file",
+          "url": "https://forum.cursor.com/t/trim-the-fat-in-a-chat/171653",
+          "source": "GB-1121",
+          "blurb": {
+            "en": "Staff (kevinn, 2026-09-14): No in-place compact for a Grok Bot chat—auto-summary near the limit still lets busy threads refill. Workaround: ask the Bot to save a handoff file (responsibilities, decisions, active work, refs) → Bot actions → Duplicate (keeps profile/skills/routines/avatar; clears conversation/memory) → have the copy read the handoff → Hide the old Bot. Prefer short pointers over dumping long specialist handoffs into the Chief chat.",
+            "zh": "官方 kevinn（2026-09-14）：Grok Bot 聊天暂无就地压缩；接近上限会自动摘要，但忙碌线程仍会再次填满。变通：让 Bot 写一份交接文件（职责、决策、进行中工作、引用）→ Bot 操作 → Duplicate（保留人设/技能/例行/头像，清空对话与记忆）→ 让副本读交接文件 → Hide 旧 Bot。专家 Bot 宜写共享文件并只发短指针，避免把长交接塞进主对话。",
+            "ja": "Staff（kevinn、2026-09-14）：Grok Bot チャットのその場コンパクトは未提供。上限付近の自動要約でも忙しいスレは再び埋まる。回避：Bot にハンドオフファイル（責務・決定・進行中・参照）を保存させる → Bot actions → Duplicate（プロフィール/スキル/ルーチン/アバターは保持、会話と記憶はクリア）→ コピーに読ませる → 旧 Bot を Hide。専門 Bot は共有ファイル＋短いポインタに留め、主チャットへ長文を流し込まない。"
+          }
+        },
+        {
+          "title": "Private Slack channels need /invite @Cursor for routine triggers",
+          "url": "https://forum.cursor.com/t/grok-bot-slack-routine-trigger-never-fires-while-test-run-and-slack-return-both-work/171676",
+          "source": "GB-1122",
+          "blurb": {
+            "en": "Staff (kevinn, 2026-09-15): Slack-triggered Grok Bot routines never see messages from a private channel unless the Cursor Slack app is a member. Test Run bypasses Slack entirely; Slack plugin replies use a different app than the routine listener—so both can work while the trigger stays silent. Fix: in the private channel run /invite @Cursor, wait ~1 min, post a canary message, then check the routine Run history.",
+            "zh": "官方 kevinn（2026-09-15）：Slack 触发的 Grok Bot 例行任务在私有频道收不到消息，除非把 Cursor Slack 应用拉进该频道。Test Run 完全不经 Slack；插件回帖用的是另一套应用，与例行监听不同——所以两者都正常时触发仍可沉默。处理：在私有频道执行 /invite @Cursor，等约 1 分钟，发一条探针消息，再查例行 Run history。",
+            "ja": "Staff（kevinn、2026-09-15）：Slack 起動の Grok Bot ルーチンは、Cursor Slack アプリがそのプライベートチャンネルのメンバーでないとメッセージを受け取れない。Test Run は Slack を経由せず、プラグイン返信はルーチン用リスナーとは別アプリ——両方成功でもトリガーだけ無反応になり得る。対処：チャンネルで /invite @Cursor → 約1分待つ → カナリア投稿 → Run history を確認。"
+          }
         }
       ]
     },
@@ -10893,6 +11033,36 @@
             "en": "Self-hosted multi-bot platform with persistent actors, tools, memory, approvals, and bot-to-bot workflows in the Grok Bot teammate style.",
             "zh": "自托管多 Bot 平台：持久 actor、工具、记忆、审批与 Bot 间工作流，风格接近 Grok Bot 队友模型。",
             "ja": "自ホスト多 Bot。永続 actor・ツール・記憶・承認・Bot 間ワークフローで Grok Bot 風チームメイト。"
+          }
+        },
+        {
+          "title": "Token Watcher — local multi-agent usage dashboard",
+          "url": "https://github.com/luwill/token-watcher",
+          "source": "GB-1118",
+          "blurb": {
+            "en": "Zero-dep local token/quota dashboard that parses on-disk sessions for Claude Code, Codex, WorkBuddy, Grok Build, and peers with a live SSE panel.",
+            "zh": "零依赖本机用量面板：解析 Claude Code、Codex、WorkBuddy、Grok Build 等本地会话，并用 SSE 实时展示配额。",
+            "ja": "依存ゼロのローカル用量ダッシュボード。Claude Code・Codex・WorkBuddy・Grok Build などのセッションを解析し SSE で表示。"
+          }
+        },
+        {
+          "title": "agentguard — scan skills/plugins for Grok Build",
+          "url": "https://github.com/tainguyen091994/agentguard",
+          "source": "GB-1119",
+          "blurb": {
+            "en": "Static scanner for agent skills, hooks, MCP servers, and .grok-plugin packs that flags unsafe patterns before Claude Code or Grok Build loads them.",
+            "zh": "静态扫描 Agent 技能、hooks、MCP 与 .grok-plugin：在 Claude Code / Grok Build 加载前标出危险模式。",
+            "ja": "スキル・hooks・MCP・.grok-plugin を静的検査し、Claude Code / Grok Build が読む前に危険パターンを警告する。"
+          }
+        },
+        {
+          "title": "CodexRunway — macOS menu bar for Codex + Grok Build",
+          "url": "https://github.com/Licoy/CodexRunway",
+          "source": "GB-1120",
+          "blurb": {
+            "en": "Native macOS menu bar app that shows Grok Build / Imagine / Chat quota, prepaid balance, local CLI sessions, and multi-account OAuth beside Codex.",
+            "zh": "原生 macOS 菜单栏应用：并排查看 Codex 与 Grok（Build/Imagine/Chat）额度、预付余额、本机 CLI 会话与多账号 OAuth。",
+            "ja": "ネイティブ macOS メニューバー。Codex と並び Grok（Build/Imagine/Chat）枠・残高・ローカル CLI セッション・複数 OAuth を表示。"
           }
         }
       ]

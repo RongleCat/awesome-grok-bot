@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1081-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1098-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -350,6 +350,8 @@
 - [Grok Bot Meetup wall — Mendoza](https://github.com/MatiasBoldrini/grok-bot-meetup) - メンドーサ Grok Bot ミートアップの写真／伝言ウォール。Bot 側から更新できる静的サイト。
 - [AMV company proposal on Grok Bot Live](https://github.com/littletechbird/amv-grokbot-company-proposal) - 公開向け AMV ミュージックビデオ会社提案と Hatch テンプレ。Grok Bot Live でアニメ風スタジオ立ち上げ。
 - [Kaspa node density test on one Grok Bot box](https://github.com/STP-KAS/Xai.mainnet.public.nodes) - 1 台の Grok Bot Linux 箱で実 Kaspa メインネット公開ノードを何本走らせられるかの密度計測メモ。
+- [grok-weekly — Grok Bot tech-trend Issues](https://github.com/kurotanshi/grok-weekly) - Grok Bot の技術トレンド担当が調査し、SNS ゲート通過後に GitHub Issue へ投稿する週次ブリーフのアーカイブ。
+- [finbot — IBM screener webhooking Grok Bot](https://github.com/jtaroreh/finbot) - 引け後の IBM 積み上げスクリーナー。合流スナップを Grok Bot webhook へ送り、GitHub Issue だけでアラートする。
 
 ## スキル、プラグインと MCP
 
@@ -655,6 +657,12 @@
 - [OpenDia — browser MCP plugin for Grok Build](https://github.com/aeonfun/opendia) - ローカル優先ブラウザ MCP（18 ツール）。正式な Grok Build .grok-plugin で Chrome/Arc/Firefox をプライベート操作。
 - [VeigaPunk Grok Build marketplace (xbgst + livepatch)](https://github.com/VeigaPunk/grok-marketplace) - 公開 Grok Build marketplace。xbgst-stack オーケストレーション skills/commands と grok-build-livepatch ハードバン同梱。
 - [WeMetOnce — Lost Connection MCP for Grok Build](https://github.com/devworksarav/wemetonce-grok-plugin) - 公開 WeMetOnce MCP 向け読み取り専用 Grok Build プラグイン。承認済み Lost Connection 投稿を記憶・場所で検索。
+- [Curse Monitor — Cursor usage CLI + Grok Bot plugin](https://github.com/Maijied/Curse-Monitor-by-Lorapok) - ローカルセッションから Cursor の枠・ボーナス・Auto/API 比率・請求サイクルを出す CLI + Grok Bot / Cursor エージェントプラグイン。
+- [Tradehand — UK trades booking .grok-plugin](https://github.com/Humanleap/tradehand-grok-plugin) - 公式 Tradehand の .grok-plugin。Grok Build 上で Streamable HTTP MCP 経由に英国職人リストを見て見積もりへ進む。
+- [Fusion Router — multi-harness model-routing plugin](https://github.com/BoredSexyJordan/fusion-router) - Grok Build / Grok Bot 向け .grok-plugin を備えたモデル振り分けオーケストレーション。Claude Code・Codex・Cursor・Hermes も対応。
+- [AgentMail → Cursor Grok Bot email forwarder](https://github.com/jeffhuber/agentmail-grokbot-forwarder) - Svix 署名付き webhook 転送。AgentMail 受信箱を Cursor Grok Bot の Bearer 認証メールチャネルにする。
+- [Braintrust tracing plugin for Grok Build](https://github.com/braintrustdata/braintrust-grok-plugin) - Braintrust 公式生成の Grok Build プラグイン。bt trace enable grok でターン・ツール・LLM 指標をトレースする。
+- [Infiknit — image/video/canvas plugin for Grok Build](https://github.com/Synthenova/infiknit-mcp) - 公式 Infiknit プラグイン。Grok Build 向け手順付きで画像・動画・キャンバスワークフローをプロジェクトへ生成。
 
 ## レビューと比較
 
@@ -883,6 +891,10 @@
 - [ResetRadar — Grok Bot usage-reset calendar](https://github.com/Yang-bright/resetradar) - 非公式バイリンガル。Codex・Claude Code・Grok Bot の公開利用リセットを北京時間／ET カレンダーで追う。
 - [Grow — Grok Build fork (Rust TUI / ACP)](https://github.com/LordCasser/grow) - Grok Build のコミュニティ Rust フォーク。TUI／ヘッドレス／ACP と BYOK（xAI 公式ではない）。
 - [Amore Build — Grok Build fork with companions](https://github.com/vincitamore/amore-build) - grok-build 派生のターミナルエージェント。Iris／Lucerna 付きで upstream タグをピンし、バイナリ名は amore。
+- [Grok Build Mobile — LAN ACP phone client](https://github.com/jeffsabatage/grok-build-mobile) - LAN 限定の Android/Web クライアント。ACP（grok agent --leader stdio）でローカル Grok Build セッションを操作する。
+- [liaan/grok-desktop — Electron GUI for Grok Build](https://github.com/liaan/grok-desktop) - Grok Build 向けデスクトップ GUI（ACP）。CLI と同じ ~/.grok スキル・MCP・認証を使う。
+- [LinkCode — multi-agent workspace with Grok Build](https://github.com/arcboxlabs/linkcode) - Codex App / WorkBuddy の OSS 代替。Claude Code・Codex・OpenCode・Pi・Grok Build を一つの正規化ワークスペースでホスト。
+- [Grok Cloud Studio — Build Director fleet plane](https://github.com/atebites-hub/grok-cloud-studio) - 秘密なしコントロールプレーン。A2A・ACP・MCP で Grok Build CLI Director 席と Cursor Cloud Extra High ワーカーを束ねる。
 
 ## コミュニティと障害事例
 
@@ -1039,6 +1051,8 @@
 - [Ubuntu eCryptfs: sand-client ENAMETOOLONG blocks first setup](https://forum.cursor.com/t/grok-bot-0-47-0-on-ubuntu-24-04-first-time-setup-fails-with-enametoolong-writing-sand-client-huge-token/171438) - Staff（Colin、2026-09-13）：Grok Bot は ~/.config/Grok Bot/sand-client-persistence/ に約 140–200 文字のファイル名を書く。Linux は 255 だが eCryptfs（古い「ホーム暗号化」）は 143 上限 → Ubuntu 初回セットアップで ENAMETOOLONG。getconf NAME_MAX と mount | grep ecryptfs で確認；名前短縮を作業中。
 - [Secure-card secrets miss running agent shells — spawn a fresh agent](https://forum.cursor.com/t/token-not-available-in-grok-bot-environment/171441) - Staff（Colin、2026-09-13）：セキュアカードで保存した token は Agent Computer のメイン環境に入るが、既に別ウィンドウで動いている agent は後から追加された env を拾わない別セッション——カードは Saved でも executor からは見えない。回避：保存後に新規 agent を作る（またはディスク上のファイルを使う；全 agent が読める）。既存 agent への再保存は無効。
 - [Signature-Agent = Grok Bot computer Chrome, not Cloud Agents](https://forum.cursor.com/t/a-persistent-cursor-browser-generated-high-frequency-requests-against-my-cloudflare-worker/171434) - Staff（Colin、2026-09-13）：Signature-Agent / cursorusercontent.com のトラフィックは Grok Bot Agent Computer 内ブラウザの識別子で、Cloud Agents や IDE ブラウザではない。タスク後もヘルスチェック用タブが残りポーリングし続ける。対処：コンピュータ画面を開いて該当 Chrome タブを閉じる（または Chrome 終了）、Automations のルーチンを停止/削除、最終手段で Reset Grok Bot’s Computer。
+- [Trim a fat Grok Bot chat: Duplicate + handoff file](https://forum.cursor.com/t/trim-the-fat-in-a-chat/171653) - Staff（kevinn、2026-09-14）：Grok Bot チャットのその場コンパクトは未提供。上限付近の自動要約でも忙しいスレは再び埋まる。回避：Bot にハンドオフファイル（責務・決定・進行中・参照）を保存させる → Bot actions → Duplicate（プロフィール/スキル/ルーチン/アバターは保持、会話と記憶はクリア）→ コピーに読ませる → 旧 Bot を Hide。専門 Bot は共有ファイル＋短いポインタに留め、主チャットへ長文を流し込まない。
+- [Private Slack channels need /invite @Cursor for routine triggers](https://forum.cursor.com/t/grok-bot-slack-routine-trigger-never-fires-while-test-run-and-slack-return-both-work/171676) - Staff（kevinn、2026-09-15）：Slack 起動の Grok Bot ルーチンは、Cursor Slack アプリがそのプライベートチャンネルのメンバーでないとメッセージを受け取れない。Test Run は Slack を経由せず、プラグイン返信はルーチン用リスナーとは別アプリ——両方成功でもトリガーだけ無反応になり得る。対処：チャンネルで /invite @Cursor → 約1分待つ → カナリア投稿 → Run history を確認。
 
 ## 関連リスト
 
@@ -1184,10 +1198,13 @@
 - [Hermes Desktop skin inspired by Grok Bot](https://github.com/guidsen/hermes-grok-bot-skin) - 独立 Hermes Desktop スキン。挙動はそのまま、チャット／入力／Bots を Grok Bot 風の見た目に。
 - [HutchDB — schemaless DB for Grokbot MCP clients](https://github.com/ExpeditedProjects/hutchdb) - スキーマレス作業 DB。Claude Code・Codex・Cursor・Hermes・Claw・Grokbot など MCP クライアントが共同で読み書き。
 - [OpenBot — self-hosted Grok Bot–style teammate platform](https://github.com/regnull/openbot) - 自ホスト多 Bot。永続 actor・ツール・記憶・承認・Bot 間ワークフローで Grok Bot 風チームメイト。
+- [Token Watcher — local multi-agent usage dashboard](https://github.com/luwill/token-watcher) - 依存ゼロのローカル用量ダッシュボード。Claude Code・Codex・WorkBuddy・Grok Build などのセッションを解析し SSE で表示。
+- [agentguard — scan skills/plugins for Grok Build](https://github.com/tainguyen091994/agentguard) - スキル・hooks・MCP・.grok-plugin を静的検査し、Claude Code / Grok Build が読む前に危険パターンを警告する。
+- [CodexRunway — macOS menu bar for Codex + Grok Build](https://github.com/Licoy/CodexRunway) - ネイティブ macOS メニューバー。Codex と並び Grok（Build/Imagine/Chat）枠・残高・ローカル CLI セッション・複数 OAuth を表示。
 
 ## 貢献
 
-8 セクションに 1081 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1098 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
