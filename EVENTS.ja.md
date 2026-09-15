@@ -90,6 +90,9 @@
 <a id="chi-20260930"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotrecruiting-chicago"><img src="./assets/events/chi-20260930-cover.png" alt="Grok Bot build night for Recruiting (Chicago)" width="300" /></a></td><td valign="top"><strong>Grok Bot build night for Recruiting (Chicago)</strong><br />2026-09-30（水）17:00–20:30（America/Chicago、CDT、UTC−5）<br />シカゴ · 会場 TBA（オフライン）<br /><br />SpaceXAI Community の Recruiting 向けビルドナイト（主催 Sunita Rao；forum 171548）。シカゴ時間 17:00–20:30。オフライン無料。初のシカゴ枠。slug grokbotrecruiting-chicago（= spacexai-k0po）。<br /><br /><a href="https://luma.com/grokbotrecruiting-chicago"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
+<a id="aus-20260916"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/jzlxzq14"><img src="./assets/events/aus-20260916-cover.png" alt="Grok Bot in Your Business · AI in Austin" width="300" /></a></td><td valign="top"><strong>Grok Bot in Your Business · AI in Austin</strong><br />2026-09-16（水）18:30–20:30（America/Chicago、CDT、UTC−5）<br />オースティン中心部 · 承認後に住所送付（オフライン）<br /><br />AI in Austin（主催 Ryan Kohler）のオフライン作業会。創業者・オペレーター・GTM 向けに「デモではなく業務に Grok Bot」。CDT 18:30 開場→18:45 マルチエージェントデモ→19:05 ビルド→20:00 共有→20:30 終了。会場は承認後通知。スキャン時 guest_count 0。隔夜の新 slug jzlxzq14。<br /><br /><a href="https://luma.com/jzlxzq14"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
 <a id="country-ca"></a>
 ### カナダ
 
@@ -105,8 +108,8 @@
 <a id="yyz-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-toronto"><img src="./assets/events/yyz-20260917-cover.png" alt="Grok Bot Meetup Toronto" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Toronto</strong><br />2026-09-17（木）17:30–20:30（EDT）<br />トロント · 会場 TBD（登録後に住所）。ノート PC 持参。18:15 閉門。<br /><br />トロント初の対面 Grok Bot（Cursor Community）。アジェンダは未定。主催者承認。ノート PC 持参。<br /><br /><a href="https://luma.com/grok-bot-toronto"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
-<a id="yul-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/hkujao4q"><img src="./assets/events/yul-20260919-cover.png" alt="Official Grok Bot Meetup Montreal" width="300" /></a></td><td valign="top"><strong>Official Grok Bot Meetup Montreal</strong><br />2026-09-19（土）12:00–17:00（America/Toronto、EDT）<br />モントリオール · Reflex（63 Rue de Brésoles、SpaceXAI Community 連携）<br /><br />モントリオール公式 Grok Bot Meetup（Reflex）。短いチュートリアル、コミュニティデモ、交流とメンター。クレジットとスワッグあり。主催 Lucas & Samira G.。無料・承認制。午後対面。EventScheduled。<br /><br /><a href="https://luma.com/hkujao4q"><strong>申し込む →</strong></a></td></tr></table>
+<a id="yul-20260926"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/hkujao4q"><img src="./assets/events/yul-20260919-cover.png" alt="Official Grok Bot Meetup Montreal" width="300" /></a></td><td valign="top"><strong>Official Grok Bot Meetup Montreal</strong><br />2026-09-26（土）12:00–17:00（America/Toronto、EDT）<br />モントリオール · Reflex（63 Rue de Brésoles、SpaceXAI Community 連携）<br /><br />モントリオール公式 Grok Bot Meetup（Reflex）。短いチュートリアル、コミュニティデモ、交流とメンター。クレジットとスワッグあり。主催 Lucas & Samira G.。無料・承認制。午後対面。EventScheduled。<br /><br /><a href="https://luma.com/hkujao4q"><strong>申し込む →</strong></a></td></tr></table>
 
 <a id="country-id"></a>
 ### インドネシア
@@ -118,7 +121,7 @@
 <table><tr><td width="320" valign="top"><a href="https://luma.com/lkmh86ad"><img src="./assets/events/bliw-20261004-cover.png" alt="Grokbot Workshop Bali（Udayana）" width="300" /></a></td><td valign="top"><strong>Grokbot Workshop Bali（Udayana）</strong><br />2026-10-04（日）11:00–14:00（WITA）<br />バリ Jimbaran · Udayana University, Jl. Raya Kampus Unud<br /><br />インドネシア向けキャンパス Workshop。9/15 BukitHub（bli-20260915）とは別。forum 170448・承認制。<br /><br /><a href="https://luma.com/lkmh86ad"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
 <a id="bdg-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-bdg"><img src="./assets/events/bdg-20260919-cover.png" alt="Grok Bot Meetup Bandung" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Bandung</strong><br />2026-09-19（土）14:00–18:00（WIB）<br />バンドン · 登録後に住所を表示<br /><br />バンドンのハンズオン（SpaceXAI）。主催 Faiz Intifada。承認制・約 60 席。会場は登録後。<br /><br /><a href="https://luma.com/grokbot-bdg"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-bdg"><img src="./assets/events/bdg-20260919-cover.png" alt="Grok Bot Meetup Bandung" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Bandung</strong><br />2026-09-19（土）14:00–17:30（WIB）<br />バンドン · 登録後に住所を表示<br /><br />バンドンのハンズオン（SpaceXAI）。主催 Faiz Intifada。承認制・約 60 席。会場は登録後。<br /><br /><a href="https://luma.com/grokbot-bdg"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
 <a id="jkt-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zb6b"><img src="./assets/events/jkt-20261003-cover.png" alt="Grok Bot Meetup Jakarta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Jakarta</strong><br />2026-10-03（土）10:00–13:00（Asia/Jakarta、WIB）<br />ジャカルタ · 会場表記 Jakarta（SpaceXAI for Jakarta カレンダー）<br /><br />ジャカルタの Grok Bot Meetup（SpaceXAI for Jakarta）。事例・Personal Agents・アンバサダー活用・Q&A・交流。主催 Naufaldi。無料・承認制・約 100 席。スキャン時 0 名。対面・EventScheduled・API_OK。バンドン／タンゲランとは別。<br /><br /><a href="https://luma.com/spacexai-zb6b"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
@@ -191,15 +194,6 @@
 
 <a id="osa-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotosaka"><img src="./assets/events/osa-20260917-cover.png" alt="Grok Bot Meetup 大阪" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 大阪</strong><br />2026-09-17（木）19:00–21:30（JST）<br />大阪市北区梅田 North Gate Building<br /><br />大阪の対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/grokbotosaka"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="country-sv"></a>
-### エルサルバドル
-
-<a id="sal-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/bot"><img src="./assets/events/sal-20260919-cover.png" alt="Grok Bot Meetup サンサルバドル" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup サンサルバドル</strong><br />2026-09-19（土）15:00–19:00（El Salvador）<br />サンサルバドル · 住所 TBD（登録後に表示）<br /><br />Ai Labs 主催のサンサルバドル Grok Bot ミートアップ。単発タスクを超える指示・文脈・一気通貫フローを探る（約 50 going）。<br /><br /><a href="https://luma.com/bot"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="salw-20260914"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/khw2316m"><img src="./assets/events/salw-20260914-cover.png" alt="Grok Bot Workshop San Salvador" width="300" /></a></td><td valign="top"><strong>Grok Bot Workshop San Salvador</strong><br />2026-09-14（日）09:00–11:30（America/El_Salvador、GMT-6）<br />エルサルバドル・ソヤパンゴ · Universidad Don Bosco（Soyapango キャンパス）<br /><br />サンサルバドルの Sprint 2 Demo Day。Flutter+AI の短いトーク後、Grok Bot で 1 時間スプリント、Mini Demo Day でピッチ。9/19 の同市 meetup（sal-20260919）とは別。主催 Beatriz Del Pinal、Walter Morales、Anthony Romero。無料・承認制。スキャン時残り約 19 席（約 11 名）。Flutter 済みノート PC 持参。forum 170538。<br /><br /><a href="https://luma.com/khw2316m"><strong>申し込む →</strong></a></td></tr></table>
 
 <a id="country-al"></a>
 ### アルバニア
@@ -296,6 +290,12 @@
 
 <a id="ceb-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot Meetup Cebu" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cebu</strong><br />2026-09-19（土）09:00–11:30（PHT）<br />セブ · 登録後に住所を表示<br /><br />セブの対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="country-sv"></a>
+### エルサルバドル
+
+<a id="sal-20260919"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/bot"><img src="./assets/events/sal-20260919-cover.png" alt="Grok Bot Meetup サンサルバドル" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup サンサルバドル</strong><br />2026-09-19（土）15:00–19:00（El Salvador）<br />サンサルバドル · 住所 TBD（登録後に表示）<br /><br />Ai Labs 主催のサンサルバドル Grok Bot ミートアップ。単発タスクを超える指示・文脈・一気通貫フローを探る（約 50 going）。<br /><br /><a href="https://luma.com/bot"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-ug"></a>
 ### ウガンダ

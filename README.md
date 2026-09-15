@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1049-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1081-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,8 +38,8 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（5）：[Shanghai](./EVENTS.md#sha-20261018) · [Hangzhou](./EVENTS.md#hzo-20260919) · [Beijing](./EVENTS.md#bj-20260919) · [Wuhan](./EVENTS.md#wuh-20261017) · [Zhuhai](./EVENTS.md#zuh-20260920)
-- **United States**（21）：[Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013) · [Dallas](./EVENTS.md#dal-20260919) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [New York](./EVENTS.md#nym-20260917) · [Los Angeles](./EVENTS.md#lad-20260922) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930)
-- **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260915) · [Toronto](./EVENTS.md#yyz-20260917) · [Montreal](./EVENTS.md#yul-20260919)
+- **United States**（22）：[Las Vegas](./EVENTS.md#lv-20260915) · [San Francisco](./EVENTS.md#g101-20260915) · [San Francisco](./EVENTS.md#sfe-20260915) · [San Francisco](./EVENTS.md#sfse-20260916) · [San Francisco](./EVENTS.md#sfsdr-20260916) · [San Francisco](./EVENTS.md#sfmo-20260917) · [San Francisco](./EVENTS.md#sfps-20260917) · [San Francisco](./EVENTS.md#sfm-20260917) · [San Francisco (PMs)](./EVENTS.md#sfpm-20260915) · [San Francisco (Founders)](./EVENTS.md#sffo-20260915) · [San Francisco (Sales)](./EVENTS.md#sfsales-20260916) · [Pittsburgh](./EVENTS.md#pgh-20261013) · [Dallas](./EVENTS.md#dal-20260919) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [New York](./EVENTS.md#nym-20260917) · [Los Angeles](./EVENTS.md#lad-20260922) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Austin](./EVENTS.md#aus-20260916)
+- **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Sudbury](./EVENTS.md#sud-20260915) · [Toronto](./EVENTS.md#yyz-20260917) · [Montreal](./EVENTS.md#yul-20260926)
 - **Indonesia**（4）：[Uluwatu / Bali](./EVENTS.md#bli-20260915) · [Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Bandung](./EVENTS.md#bdg-20260919) · [Jakarta](./EVENTS.md#jkt-20261003)
 - **Argentina**（3）：[Buenos Aires](./EVENTS.md#bue-20260916) · [Mendoza](./EVENTS.md#mdz-20261003) · [Salta](./EVENTS.md#sla-20260916)
 - **Mexico**（3）：[Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926)
@@ -48,7 +48,6 @@
 - **Ecuador**（2）：[Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
 - **Guatemala**（2）：[Quetzaltenango](./EVENTS.md#xela-20260920) · [Guatemala City](./EVENTS.md#gua-20261003)
 - **Japan**（2）：[Sapporo](./EVENTS.md#spk-20261002) · [Osaka](./EVENTS.md#osa-20260917)
-- **El Salvador**（2）：[San Salvador](./EVENTS.md#sal-20260919) · [San Salvador](./EVENTS.md#salw-20260914)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20260917)
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
 - **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20260920)
@@ -65,6 +64,7 @@
 - **Malaysia**（1）：[Kuala Lumpur](./EVENTS.md#kul-20260919)
 - **Netherlands**（1）：[Amsterdam](./EVENTS.md#ams-20260922)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
+- **El Salvador**（1）：[San Salvador](./EVENTS.md#sal-20260919)
 - **Uganda**（1）：[Kampala](./EVENTS.md#kla-20261003)
 - **Zambia**（1）：[Lusaka](./EVENTS.md#lun-20261002)
 
@@ -222,6 +222,7 @@
 - [Grok Bot field manual site (seawind / 000666.BEST)](https://github.com/Cunhe/grok-bot-manual) - Independent Chinese field manual site for Grok Bot that reworks community orange-book notes plus official docs into a deployable Vite handbook.
 - [Grok Bot AI customer support team — companion files](https://github.com/agenteer/grok-bot-ai-customer-support-team) - Paste-ready Sage/Atlas Bot profiles, skills, Slack setup, and test tickets for a two-Bot customer-support team walkthrough.
 - [Department Grok Bot Playbook — 23-role IT roster](https://github.com/ericbrianpearson/department-grok-bot-playbook) - MIT documentation-only playbook for running Grok Bot like a governed IT department: 23 roles, charter, economy mode, and yes/no/hold gates.
+- [How I Use Grok Bot — Aaron Smiley walkthrough](https://github.com/DevonshireVC/how-i-use-grok-bot) - Interactive public walkthrough (and PDF) of how Aaron Smiley runs Grok Bot as a Chief of Staff layer for clinic and VetSOAP work.
 
 ## Field Cases
 
@@ -343,6 +344,12 @@
 - [RDR2 interactive map (Grok Build / Next.js)](https://github.com/patreiCH72/rdr2-interactive-map) - Local, ad-free, login-free interactive Red Dead Redemption 2 fan map built with Grok Build and Next.js.
 - [TaskPad — physical pad with experimental Grok Bot adapter](https://github.com/DNTOF/TaskPad) - STC89C52 physical task pad with LCD1602 and optional ESP8266 OLED bridge; PC hub includes experimental Grok Bot and Cursor adapters.
 - [BotEducation — LMS with Grok professors over MCP](https://github.com/MrF1ow/boteducation) - Self-hosted Next.js + Supabase LMS where Grok / xAI bots act as professors through a remote MCP tool surface (one school per deploy).
+- [SCPlay — StarCraft II sparring for Grok Bot](https://github.com/EdwinKestler/scplay-grok-bot) - Ubuntu StarCraft II sparring package that a Grok Bot can install and coach against, with live chat, match logs, and chaos mode.
+- [video-maker — Remotion render desk for Grok Bot specs](https://github.com/DenisMSouza/video-maker) - Remotion + ffmpeg desk that validates and renders MP4s from JSON storyboards and media produced by a Grok Bot (the Bot does not encode video).
+- [GrokBot meetup slides — daily assistant team](https://github.com/FunkyTaff/grokbot-meetup) - 15-page HTML meetup deck sharing how the speaker built a daily assistant team with Grok Bot, including audience QR and case screenshots.
+- [Grok Bot Meetup wall — Mendoza](https://github.com/MatiasBoldrini/grok-bot-meetup) - Public photo/message wall for a Grok Bot meetup in Mendoza, deployed as a static site teammates can update from the Bot.
+- [AMV company proposal on Grok Bot Live](https://github.com/littletechbird/amv-grokbot-company-proposal) - Public-safe AMV music-video company proposal and Hatch template for standing up an anime-style studio on Grok Bot Live.
+- [Kaspa node density test on one Grok Bot box](https://github.com/STP-KAS/Xai.mainnet.public.nodes) - Honest one-sandbox density notes measuring how many real Kaspa mainnet public nodes a single Grok Bot Linux box can run.
 
 ## Skills, Plugins & MCP
 
@@ -636,6 +643,18 @@
 - [Unstick me — executive-dysfunction skill pack](https://github.com/yanqingcheng/grokbot-unstick-me) - Modular SKILL.md walkthrough for ADHD-style task paralysis, paired with the hosted Unstick me Grok Bot marketplace listing.
 - [3D Lab skills — interactive 3D for Grok Build](https://github.com/LumosLab-Innovation/3D-lab-skills) - One-command Agent Skills that author and animate image-approved interactive 3D (Three.js / Blender MCP) for Grok Build, Codex, Claude Code, and peers.
 - [skills-grok — Cloudflare + custom Grok Bot skills](https://github.com/diegofornalha/skills-grok) - Grok Bot / Cursor skills library bundling Cloudflare plugin skills plus a custom Cloudflare MCP-vs-CLI comparison skill.
+- [TryPost Agent — social publishing for Grok Build](https://github.com/trypostit/trypost-agent) - Official TryPost .grok-plugin marketplace pack that drafts, schedules, and publishes across 12 networks via hosted MCP from Grok Build.
+- [Grok Companion — Claude/Codex → Grok Build plugin](https://github.com/xliberty2008x/grok-plugin) - Dual-host marketplace plugin that delegates review, research, and isolated ACP implementation from Claude Code or Codex to the local Grok Build CLI.
+- [calamrc/grok-plugins — Superpowers pack for Grok Build](https://github.com/calamrc/grok-plugins) - Personal Grok Build marketplace of Superpowers-compatible plugins (refactoring, requirements, UX taste, Zephyr, MQL5) shared with Claude Code.
+- [Call Grok Build — Codex plugin bridge](https://github.com/codeime/call-grok-build) - Codex plugin that starts local Grok Build in the current workspace for research, plan, review, or implement, then lets Codex verify the result.
+- [przypominamy — Polish SMS/voice MCP for Grok Build](https://github.com/pawelmamcarz/przypominamy-grok-plugin) - Grok Build plugin that registers the hosted przypominamy.com MCP for Polish SMS, voice TTS, contacts, templates, and delivery reports.
+- [Solomon vault MCP plugin for Grok Bot](https://github.com/pnthn-ai/solomon-grokbot-plugin) - Thin Grok Bot / Cursor marketplace plugin that wires Solomon cloud MCP vault search and propose-mode writes (cloud URL required on remote boxes).
+- [MIND memory MCP plugin for Grok Bot](https://github.com/theastraway/mind-cursor-plugin) - Official Cursor / Grok Bot marketplace plugin for MIND persistent memory and knowledge-graph MCP (37 tools) plus a session skill.
+- [Triarc Creative Stack — design MCP pack](https://github.com/ahuserious/triarc-creative-stack) - Grok Build marketplace plugin bundling Macro, Higgsfield, Figma, Relume, Brandfetch, and test MCPs with authored creative skills.
+- [delegate-skills — grok-delegate and peers](https://github.com/amElnagdy/delegate-skills) - Skill pack that delegates bounded coding tasks to peer CLIs — including grok-delegate for Grok Build — then reviews the diff before you land it.
+- [OpenDia — browser MCP plugin for Grok Build](https://github.com/aeonfun/opendia) - Local-first browser MCP (18 tools) with a first-class Grok Build .grok-plugin so agents drive Chrome/Arc/Firefox privately.
+- [VeigaPunk Grok Build marketplace (xbgst + livepatch)](https://github.com/VeigaPunk/grok-marketplace) - Public Grok Build marketplace shipping xbgst-stack orchestrator skills/commands plus a bundled grok-build-livepatch hard-ban patch.
+- [WeMetOnce — Lost Connection MCP for Grok Build](https://github.com/devworksarav/wemetonce-grok-plugin) - Read-only Grok Build plugin over the public WeMetOnce MCP for searching approved Lost Connection posts by memory and place.
 
 ## Reviews & Comparisons
 
@@ -854,6 +873,16 @@
 - [Grok-Harness — Electron shell for Grok Build over ACP](https://github.com/Ogurijay/Grok-Harness) - Local Mac/Windows Electron desktop shell that drives the official grok agent over loopback ACP without rewriting Grok Build.
 - [Grok Usage HUD — Windows quota meter for Bot & Build](https://github.com/lqiaoqing/grok-usage-hud) - Windows desktop HUD that reads local Grok Bot sand secrets and ~/.grok auth to show weekly Bot/Build quotas plus live session tokens.
 - [usage-monitor — Windows overlay for Claude/Codex/Grok Build](https://github.com/shivam-17/usage-monitor) - Windows overlay, flyout, and taskbar chips that meter Claude Code, Codex, and Grok Build weekly allowances from existing local logins.
+- [Acpira — IDE harness UI for Grok Build ACP](https://github.com/hotic/acpira) - VS Code / Cursor / IntelliJ extension that drives Grok Build and peer ACP CLIs with shared execution history, approvals, and follow-ups.
+- [BuildnBits.Usage — Grok Build tray meters](https://github.com/cicalooo/buildnbits-usage) - Windows 11 tray app that meters remaining Grok Build (and Codex / Antigravity) usage via official CLIs without storing API keys.
+- [Agent Notify — hooks for Grok Build events](https://github.com/hellolib/agent-notify) - Cross-agent notifier that installs ~/.grok hooks so Grok Build permission, stop, and failure events reach Feishu, WeCom, DingTalk, or desktop.
+- [grok-setup-system — Grok Build harness lifecycle](https://github.com/NDDev-OpenNetwork/grok-setup-system) - CLI that installs, selects, backs up, restores, and removes complete Grok Build harness setups (prompts, skills, hooks, plugins, settings).
+- [OpenClaw catalog of local Grok Build sessions](https://github.com/avanloon/openclaw-grok-build-session-catalog) - Read-only OpenClaw plugin that lists local ~/.grok/sessions in the session catalog without calling xAI or exposing system prompts.
+- [Grok Telegram Bridge — phone to local grok CLI](https://github.com/ssamssae/grok-telegram-bridge) - Private Telegram bridge that runs each message as a real local grok CLI turn with tools, then replies on your phone (single-chat allowlist).
+- [Codeg — multi-agent workspace with Grok Build](https://github.com/xintaofei/codeg) - Collaborative multi-agent coding workspace that aggregates live sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, and peers.
+- [ResetRadar — Grok Bot usage-reset calendar](https://github.com/Yang-bright/resetradar) - Unofficial bilingual calendar deck tracking public usage resets for Codex, Claude Code, and Grok Bot with Beijing-time / ET views.
+- [Grow — Grok Build fork (Rust TUI / ACP)](https://github.com/LordCasser/grow) - Community Rust fork of Grok Build offering TUI, headless, and ACP modes with BYOK providers (not an xAI official product).
+- [Amore Build — Grok Build fork with companions](https://github.com/vincitamore/amore-build) - House-oriented terminal agent fork of grok-build with Iris/Lucerna companions, pinning upstream release tags while renaming the binary to amore.
 
 ## Community & Failure Modes
 
@@ -1152,10 +1181,13 @@
 - [spicefiendd agent-tools catalog for Grok Bot fleet](https://github.com/spicefiendd/agent-tools) - Public catalog of kept Grok Bot agent CLIs on spicefiendd (handoff, X desk, lead-inbox, jobwatch, mycase-pull) with no secrets.
 - [grok-wecom-bot — WeCom bridge to Grok CLI](https://github.com/painrice/grok-wecom-bot) - Enterprise WeChat bot bridge that receives messages over WebSocket and streams replies from the local Grok CLI (grok).
 - [box-grok-reference — Grok Bot box UI & debug runbooks](https://github.com/diegofornalha/box-grok-reference) - Open mirror of Cursor/Grok Bot box runbooks covering app UI notes and debugging the hosted box VM.
+- [Hermes Desktop skin inspired by Grok Bot](https://github.com/guidsen/hermes-grok-bot-skin) - Independent Hermes Desktop skin that restyles chat, composer, and Bots view to echo Grok Bot visuals without changing Hermes behavior.
+- [HutchDB — schemaless DB for Grokbot MCP clients](https://github.com/ExpeditedProjects/hutchdb) - Schemaless workspace database that Claude Code, Codex, Cursor, Hermes, Claw, Grokbot, and other MCP clients can read and update together.
+- [OpenBot — self-hosted Grok Bot–style teammate platform](https://github.com/regnull/openbot) - Self-hosted multi-bot platform with persistent actors, tools, memory, approvals, and bot-to-bot workflows in the Grok Bot teammate style.
 
 ## Contributing
 
-1049 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1081 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
