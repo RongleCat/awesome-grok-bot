@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1181-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1212-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -224,6 +224,7 @@
 - [Grok Bot AI customer support team — companion files](https://github.com/agenteer/grok-bot-ai-customer-support-team) - 双 Bot 客服团队教程配套：可粘贴的 Sage/Atlas 人设与技能、Slack 设置与测试工单。.
 - [Department Grok Bot Playbook — 23-role IT roster](https://github.com/ericbrianpearson/department-grok-bot-playbook) - 纯文档 MIT 手册：把 Grok Bot 当受治理的 IT 部门来跑——23 个角色、章程、economy mode 与 yes/no/hold 门控。.
 - [How I Use Grok Bot — Aaron Smiley walkthrough](https://github.com/DevonshireVC/how-i-use-grok-bot) - 互动公开导览（含 PDF）：Aaron Smiley 如何把 Grok Bot 当作诊所与 VetSOAP 的首席参谋层使用。.
+- [Grok Bot × Cursor harness article (JA archive)](https://github.com/mapserver2007/ai-tools-for-business) - Matt Rice《Grok Bot × Cursor 云代理 harness》商务向随笔的日文存档。.
 
 ## 真实使用案例
 
@@ -358,6 +359,7 @@
 - [Half X — Grok Bot feature-request board prototype](https://github.com/ojotapcosta/grok-bot-requests) - Grok Bot 功能需求墙原型：把 X 群聊想法抽成可投票的需求看板。.
 - [Grok_Secretary — secretary AGENTS.md for Grok Bot](https://github.com/TeaKitano/Grok_Secretary) - 日文使用指南与公开版 AGENTS.md，教你在真正的 Grok Bot 云电脑上跑秘书队友。.
 - [hunting-printables-team — Etsy printables Grok Bot team](https://github.com/SAW72/hunting-printables-team) - 一套 Grok Bot 团队角色提示，覆盖狩猎主题 Etsy 印刷品的调研、设计、文案与打包。.
+- [checkingrokbot — Luma check-in + 58mm tickets](https://github.com/martinmalgor04/checkingrokbot) - Grok Bot Meetup 接待应用：导入 Luma 嘉宾、登记签到，并打印 58 mm ESC/POS 欢迎小票。.
 
 ## 技能、插件与 MCP
 
@@ -701,6 +703,18 @@
 - [briven-plugin — serverless Postgres plugin for Grok Build](https://github.com/flndrn-dev/briven-plugin) - Briven 无服务器 PostgreSQL 技能与在线 MCP 入口，可用 grok plugin install --trust 安装。.
 - [Armbrain — memory MCP plugin for Cursor and Grok Bot](https://github.com/armbrain-io/armbrain-cursor-plugin) - Armbrain 官方 Agent Plugin 包，为 Cursor 与 Grok Bot 提供远程 MCP 与技能。.
 - [GrokBot OpenAI Bridge — ChatGPT courier skill for Grok Bot](https://github.com/OneVillage83/GrokBot-OpenAI-Bridge) - CLI 与 Grok Bot 技能组合：架构留在 ChatGPT，持久 Codex 工作流在 Bot 云电脑上执行。.
+- [Supermemory — persistent memory plugin for Grok Bot](https://github.com/supermemoryai/supermemory) - 记忆引擎并提供官方 Add to Grok Bot 插件，让云端队友跨机器与任务保留结论与偏好。.
+- [Skarn agent-guard — secret hooks for Grok Build](https://github.com/skarn-security/agent-guard) - 本地密钥检测钩子与 MCP，经 skarn setup 接入 Grok Build、Claude Code、Codex、Gemini 与 Cursor。.
+- [BlinkWork MCP connect pack for Cursor / Grok Bot](https://github.com/mazemax/blinkwork-mcp) - 精简 Cursor Marketplace 连接包：用 Bearer token 技能把 Grok Bot 接到 BlinkWork 托管 HTTP MCP。.
+- [fiskmas-grok-plugin — Docker app host for Grok Build](https://github.com/pefman/fiskmas-grok-plugin) - Grok Build 市场插件：接入 Fiskmås 托管 MCP，让智能体完成开户、部署与运维容器化 HTTP 应用。.
+- [ContHunt MCP plugin pack for Grok Build](https://github.com/Synthenova/conthunt-mcp) - ContHunt 托管 MCP 店面：为 Grok Build、Cursor、Claude Code 与 Codex 提供市场清单。.
+- [secret-guard — credential leak hooks including Grok CLI](https://github.com/wtfsayo/agent-plugin-secret-guard) - PreToolUse/PostToolUse 凭据泄漏防护钩子，含 Grok CLI 适配，并覆盖 Claude、Codex、Cursor 与 opencode。.
+- [ximing/grok-plugins — vendored Grok Build marketplace](https://github.com/ximing/grok-plugins) - 自动同步的 Grok Build 市场：将上游 rab 与 csi 技能打包为可安装插件。.
+- [lm-agent-skills — public skill packs for Grok Bot](https://github.com/rapidstartup/lm-agent-skills) - Leads Mastery 托管智能体 SKILL.md 的公开镜像，供 Grok Bot 等按 URL 拉取挂载。.
+- [council — Claude Code plugin that dispatches Grok Build](https://github.com/sitkowsp/super-claude-code) - Claude Code council 插件：本地规划后把并行任务派给 Grok Build、Codex、Copilot、Antigravity 或 Ollama。.
+- [omri-marketplace — personal Grok Build plugin marketplace](https://github.com/omriariav/omri-marketplace) - 个人插件/技能市场：带原生 .grok-plugin 目录，覆盖 Grok Build、Claude、Codex 与 Cursor。.
+- [rnskill — includes grok-build-cli skill for Codex](https://github.com/Pluviobyte/rnskill) - 智能体技能合集，含 grok-build-cli：让 Codex 调用本机已登录的 Grok Build CLI 并回传结果。.
+- [gooey-pi — Make Bot UI skill for Grok Bot webhooks](https://github.com/am-will/gooey-pi) - Pi/OMP 桌面工作区，附带 Make Bot UI 技能：用安全 sender key 流程经 webhook 例程唤醒 Grok Bot。.
 
 ## 评测与对比
 
@@ -961,6 +975,11 @@
 - [AppFolio → Grok Bot webhook bridge](https://github.com/5amfung/appfolio-grokbot-webhook-bridge) - 在 Vercel 上校验 AppFolio JWS Webhook，并把原始请求体转发到 Grok Bot 入站 Webhook。.
 - [Grok30m — VS Code/Cursor fork of Grok Build UI](https://github.com/thirtym/grok30m) - 社区版 Grok Build VS Code 分支，含编辑器页聊天、Sessions 侧栏，并通过 ACP stdio 连接 grok CLI。.
 - [grok-omp — Grok Build TUI driven by Oh My Pi](https://github.com/firatoezcan/grok-omp) - Grok Build TUI 分支，换成 Oh My Pi ACP 后端，以便自带模型与供应商。.
+- [Aster — open harness with Grok Bot marketplace import](https://github.com/Zfinix/aster) - 开源智能体 harness：把 Grok Bot 市场专家导入本地 bot/技能/cron，并如实标出缺失连接器。.
+- [ccc — Telegram crew running Grok Build sessions](https://github.com/kidandcat/ccc) - Telegram 论坛指挥中心：每个话题即一次编码会话，可跑 Claude Code、Grok Build 或 Antigravity。.
+- [botato — local-first Grok Bot alternative](https://github.com/hackyguru/botato) - 本地优先的桌面/移动 bot 运行时，定位为 Grok Bot 替代：每 bot 记忆、日程与共享房间。.
+- [forge — issue-to-Draft-PR factory with Grok Build](https://github.com/forcewake/forge) - 自托管智能体软件工厂（GitLab/GitHub/Azure DevOps）：可在临时 CI 中跑 Grok Build，且永不合并。.
+- [Desk Atlas — physical Grok Bot desk buddy](https://github.com/etjones45/desk-atlas) - Orange Pi + Whisplay HAT 桌面伙伴：语音转写 webhook 进 Grok Bot Atlas，再用设备端 TTS 朗读回复。.
 
 ## 社区与故障现场
 
@@ -1121,6 +1140,10 @@
 - [Private Slack channels need /invite @Cursor for routine triggers](https://forum.cursor.com/t/grok-bot-slack-routine-trigger-never-fires-while-test-run-and-slack-return-both-work/171676) - 官方 kevinn（2026-09-15）：Slack 触发的 Grok Bot 例行任务在私有频道收不到消息，除非把 Cursor Slack 应用拉进该频道。Test Run 完全不经 Slack；插件回帖用的是另一套应用，与例行监听不同——所以两者都正常时触发仍可沉默。处理：在私有频道执行 /invite @Cursor，等约 1 分钟，发一条探针消息，再查例行 Run history。.
 - [Take over shows main desktop — Bot may be on another display (Xvfb)](https://forum.cursor.com/t/grok-bot-viewer-blank/171555) - 官方 deanrie（2026-09-14）：Computer 预览“空白”仍可能已连上——Take over 看的是主桌面，而 Bot 可能在另一显示（如 Xvfb :1）开了应用；先让它在主桌面打开可见窗口或对齐 DISPLAY，不要 Reset。.
 - [Network Debugger when computer is healthy but app can’t connect (Windows)](https://forum.cursor.com/t/grok-bot-0-30-0-recover-failed-computer-inaccessible-after-windows-update-bots-visible/171344) - 员工（Colin，2026-09-14）：Recover 失败但服务端显示 Agent Computer 正常时，先完全退出并用 cursor.com/download/bot 重装（保留 bots/文件/登录），再打开 Settings → General → System → Network Debugger（或连不上时的 Open Network Debugger）；展开 Details 看 Api tls / Api unary / Computer tls / Updates feed，并说明杀软——楼主通过在 Kaspersky 信任站点恢复，无需 Reset。.
+- [One bot silent / failed to send — reply runner stuck server-side; do NOT Reset](https://forum.cursor.com/t/some-of-the-bots-became-unresponsive-failed-to-send-on-my-messages-to-them/171858) - Staff（deanrie，2026-09-16）：个别 Bot 发不出、其他 Bot 与 Agent Computer 仍正常时，是该 Bot 服务端回复处理卡住，不是本机问题；勿 Update/Recover/Reset；文件与历史还在；工具调用后再哑可附最后消息时间与 Bot ID。.
+- [Server-stored webhook routines: URL/key panel fixed in desktop 0.53.0](https://forum.cursor.com/t/grok-bot-cannot-use-routines-on-pro-cursor-plan/171606) - Staff（Colin，2026-09-16）：新 Bot 服务端 routine 桌面看不到 Webhook URL/crsr_ 与暂停删除，不是 Pro+ 限制——桌面 0.53.0 已修；从 0.51.0 更新后面板会再显示凭证；过渡可用日程或 Slack 触发。.
+- [GitHub “issue assigned” routine never fires on github.com](https://forum.cursor.com/t/grok-bot-github-issue-assigned-routine-never-fires-5-attempts-recreated-routine-app-has-repo-access/171791) - Staff（deanrie，2026-09-16）：仓库权限与过滤器都对时，github.com 的 issue assigned 触发仍不点火（服务端已知问题）；过滤看的是指派人；暂无用户可见事件日志；权宜用定时 routine（Webhook 面板问题见 171324，0.53.0 前可能也用不了）。.
+- [Onboarding provisioning fails — create first Bot on mobile, then Update Computer](https://forum.cursor.com/t/grok-bot-onboarding-provisioning-fails-after-3-attempts/171807) - Staff（deanrie，2026-09-16）：账号云电脑卡在服务端时，首次建 Bot 会反复 provisioning 失败，重装重试无效；权宜：手机端先建第一个 Bot，再在桌面 Settings→Updates→Update Grok Bot’s Computer；也可等 Staff 重建云电脑。.
 
 ## 相关列表
 
@@ -1285,10 +1308,18 @@
 - [DeepSquishies — whale desk pet with Grok Build usage](https://github.com/jamielgbr/DeepSquishies) - Windows/macOS 鲸鱼桌宠，可轮播 Grok Build 与 Codex、Claude Code 等用量面板。.
 - [grokfix — Windows/protoc patches for Grok Build](https://github.com/goldengateagent/grokfix) - 小补丁集，修复 Grok Build 在 Windows 上的构建问题以及供应商非标准 ping 响应。.
 - [kiro-acp — wire Kiro Crew to Grok Build over ACP](https://github.com/snpyeso/kiro-acp) - 脚本与垫片，给 Kiro Crew 打补丁，使 Grok Build（grok agent stdio）成为可选 ACP 后端。.
+- [Usage Rings — macOS widget for Grok Bot quota](https://github.com/hayashiii-ghub/usage-rings) - 个人 macOS 26 小组件/菜单栏：在 Codex、Claude、Cursor 旁显示 Grok Bot 周额度剩余。.
+- [AI Usage Menu Bar — GPT + Grok Bot quotas](https://github.com/Basher2042/ai-usage-menubar) - 原生 macOS 菜单栏额度图：经 codexbar 的 cursor-grok-bot 窗口跟踪 Codex 与 Grok Bot，并保留周期历史。.
+- [agentcompat — Grok Build skill/hooks compatibility matrix](https://github.com/tainguyen091994/agentcompat) - 兼容性矩阵与 lint：标出 Grok Build 相对 Claude Code/Cursor/Codex/Gemini 会静默忽略的 SKILL.md 与 hook 字段。.
+- [cpa-plugin-grok-compat — Grok tool-call integer fix](https://github.com/timonwong/cpa-plugin-grok-compat) - CLIProxyAPI 原生插件：在翻译前把 Codex 会拒绝的 Grok 工具调用整数（如 120000.0）修正回来。.
+- [dsh-llm-oauth — DeepSeek Harness Grok OAuth plugin](https://github.com/ziyou979/dsh-llm-oauth) - DeepSeek Harness 插件：在 Copilot/Codex/Anthropic 旁增加 SuperGrok/X Premium OAuth 订阅路由。.
+- [dsh-OAuth — desktop Grok login bar for DeepSeek Harness](https://github.com/yueyexiayu/dsh-OAuth) - DeepSeek Harness 桌面插件：在输入框下显示 Grok 与 ChatGPT Codex OAuth 登录状态，不改写 ~/.grok/auth.json。.
+- [agentgrep — search local Grok and peer agent history](https://github.com/tony/agentgrep) - 在本地 Codex、Claude、Cursor、Antigravity、Grok、Pi 与 OpenCode 历史中检索提示与对话的 CLI。.
+- [gaius — offline ops memory for Grok Build sessions](https://github.com/jkubo/gaius) - 自托管离线记忆整理器：从 Claude Code、Grok Build、Gemini 与 Codex 会话提取并注入运维知识。.
 
 ## 贡献
 
-目前 8 个分类、1181 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1212 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

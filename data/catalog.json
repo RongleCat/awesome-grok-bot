@@ -1404,6 +1404,16 @@
             "zh": "互动公开导览（含 PDF）：Aaron Smiley 如何把 Grok Bot 当作诊所与 VetSOAP 的首席参谋层使用。",
             "ja": "公開インタラクティブ案内（PDF 付き）。Aaron Smiley がクリニック／VetSOAP の Chief of Staff 層として Grok Bot を使う方法。"
           }
+        },
+        {
+          "title": "Grok Bot × Cursor harness article (JA archive)",
+          "url": "https://github.com/mapserver2007/ai-tools-for-business",
+          "source": "GB-1232",
+          "blurb": {
+            "en": "Japanese archive of Matt Rice’s Grok Bot × Cursor Cloud Agent harness essay for business operators.",
+            "zh": "Matt Rice《Grok Bot × Cursor 云代理 harness》商务向随笔的日文存档。",
+            "ja": "Matt Rice の Grok Bot×Cursor Cloud Agent ハーネス論を事業者向けに残した日本語アーカイブ。"
+          }
         }
       ]
     },
@@ -2723,6 +2733,16 @@
             "en": "Role prompts for a Grok Bot team that scouts, designs, copies, and packages hunting-themed Etsy printables.",
             "zh": "一套 Grok Bot 团队角色提示，覆盖狩猎主题 Etsy 印刷品的调研、设计、文案与打包。",
             "ja": "狩猟テーマの Etsy 印刷物向けに偵察・デザイン・コピー・梱包を分担する Grok Bot チームの役割プロンプト。"
+          }
+        },
+        {
+          "title": "checkingrokbot — Luma check-in + 58mm tickets",
+          "url": "https://github.com/martinmalgor04/checkingrokbot",
+          "source": "GB-1218",
+          "blurb": {
+            "en": "Reception app for a Grok Bot Meetup that imports Luma guests, records door check-ins, and prints 58 mm ESC/POS welcome tickets.",
+            "zh": "Grok Bot Meetup 接待应用：导入 Luma 嘉宾、登记签到，并打印 58 mm ESC/POS 欢迎小票。",
+            "ja": "Grok Bot Meetup 受付アプリ。Luma 名簿取込・入場チェックイン・58mm ESC/POS 歓迎チケット印刷。"
           }
         }
       ]
@@ -6134,6 +6154,126 @@
             "zh": "CLI 与 Grok Bot 技能组合：架构留在 ChatGPT，持久 Codex 工作流在 Bot 云电脑上执行。",
             "ja": "設計は ChatGPT、実装は Bot のクラウド PC 上の Codex 作業系に載せる CLI＋Grok Bot スキル。"
           }
+        },
+        {
+          "title": "Supermemory — persistent memory plugin for Grok Bot",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "source": "GB-1206",
+          "blurb": {
+            "en": "Memory engine with an official Add-to-Grok-Bot plugin so cloud teammates keep findings across machines and tasks.",
+            "zh": "记忆引擎并提供官方 Add to Grok Bot 插件，让云端队友跨机器与任务保留结论与偏好。",
+            "ja": "公式 Add to Grok Bot プラグイン付きメモリ基盤。クラウド仲間がマシン／タスクを跨いで知見を保持。"
+          }
+        },
+        {
+          "title": "Skarn agent-guard — secret hooks for Grok Build",
+          "url": "https://github.com/skarn-security/agent-guard",
+          "source": "GB-1207",
+          "blurb": {
+            "en": "Local secret-detection hooks and MCP that skarn setup wires into Grok Build, Claude Code, Codex, Gemini, and Cursor.",
+            "zh": "本地密钥检测钩子与 MCP，经 skarn setup 接入 Grok Build、Claude Code、Codex、Gemini 与 Cursor。",
+            "ja": "skarn setup で Grok Build / Claude Code / Codex / Gemini / Cursor に載せるローカル秘密検知フック＋MCP。"
+          }
+        },
+        {
+          "title": "BlinkWork MCP connect pack for Cursor / Grok Bot",
+          "url": "https://github.com/mazemax/blinkwork-mcp",
+          "source": "GB-1208",
+          "blurb": {
+            "en": "Thin Cursor Marketplace connect package that points Grok Bot at BlinkWork’s hosted HTTP MCP with a Bearer token skill.",
+            "zh": "精简 Cursor Marketplace 连接包：用 Bearer token 技能把 Grok Bot 接到 BlinkWork 托管 HTTP MCP。",
+            "ja": "Bearer token スキルで Grok Bot を BlinkWork ホスト HTTP MCP に繋ぐ薄い Cursor Marketplace 接続パック。"
+          }
+        },
+        {
+          "title": "fiskmas-grok-plugin — Docker app host for Grok Build",
+          "url": "https://github.com/pefman/fiskmas-grok-plugin",
+          "source": "GB-1209",
+          "blurb": {
+            "en": "Grok Build marketplace plugin that wires Fiskmås hosted MCP so agents can onboard, deploy, and operate containerized HTTP apps.",
+            "zh": "Grok Build 市场插件：接入 Fiskmås 托管 MCP，让智能体完成开户、部署与运维容器化 HTTP 应用。",
+            "ja": "Grok Build マーケット向けプラグイン。Fiskmås ホスト MCP でコンテナ HTTP アプリの登録・デプロイ・運用を繋ぐ。"
+          }
+        },
+        {
+          "title": "ContHunt MCP plugin pack for Grok Build",
+          "url": "https://github.com/Synthenova/conthunt-mcp",
+          "source": "GB-1210",
+          "blurb": {
+            "en": "Hosted ContHunt MCP storefront with marketplace manifests for Grok Build, Cursor, Claude Code, and Codex.",
+            "zh": "ContHunt 托管 MCP 店面：为 Grok Build、Cursor、Claude Code 与 Codex 提供市场清单。",
+            "ja": "Grok Build / Cursor / Claude Code / Codex 向けの ContHunt ホスト MCP 店頭（マーケットマニフェスト付き）。"
+          }
+        },
+        {
+          "title": "secret-guard — credential leak hooks including Grok CLI",
+          "url": "https://github.com/wtfsayo/agent-plugin-secret-guard",
+          "source": "GB-1211",
+          "blurb": {
+            "en": "PreToolUse/PostToolUse credential-leak hooks with a native Grok CLI adapter beside Claude, Codex, Cursor, and opencode.",
+            "zh": "PreToolUse/PostToolUse 凭据泄漏防护钩子，含 Grok CLI 适配，并覆盖 Claude、Codex、Cursor 与 opencode。",
+            "ja": "Grok CLI アダプタ付きの Pre/PostToolUse 資格情報リーク防止フック。Claude / Codex / Cursor / opencode にも対応。"
+          }
+        },
+        {
+          "title": "ximing/grok-plugins — vendored Grok Build marketplace",
+          "url": "https://github.com/ximing/grok-plugins",
+          "source": "GB-1212",
+          "blurb": {
+            "en": "Auto-synced Grok Build marketplace that vendors rab and csi skills from upstream repos into installable plugins.",
+            "zh": "自动同步的 Grok Build 市场：将上游 rab 与 csi 技能打包为可安装插件。",
+            "ja": "上流の rab / csi スキルを自動同期してインストール可能にする Grok Build マーケット。"
+          }
+        },
+        {
+          "title": "lm-agent-skills — public skill packs for Grok Bot",
+          "url": "https://github.com/rapidstartup/lm-agent-skills",
+          "source": "GB-1213",
+          "blurb": {
+            "en": "Public mirror of Leads Mastery managed-agent SKILL.md packs that Grok Bot and other consumers can fetch by URL.",
+            "zh": "Leads Mastery 托管智能体 SKILL.md 的公开镜像，供 Grok Bot 等按 URL 拉取挂载。",
+            "ja": "Grok Bot などが URL 取得できる Leads Mastery マネージドエージェント SKILL.md の公開ミラー。"
+          }
+        },
+        {
+          "title": "council — Claude Code plugin that dispatches Grok Build",
+          "url": "https://github.com/sitkowsp/super-claude-code",
+          "source": "GB-1214",
+          "blurb": {
+            "en": "Claude Code council plugin that plans locally then runs disjoint tasks on Grok Build, Codex, Copilot, Antigravity, or Ollama.",
+            "zh": "Claude Code council 插件：本地规划后把并行任务派给 Grok Build、Codex、Copilot、Antigravity 或 Ollama。",
+            "ja": "Claude Code の council プラグイン。計画は本地、実装は Grok Build / Codex / Copilot / Antigravity / Ollama に分散。"
+          }
+        },
+        {
+          "title": "omri-marketplace — personal Grok Build plugin marketplace",
+          "url": "https://github.com/omriariav/omri-marketplace",
+          "source": "GB-1215",
+          "blurb": {
+            "en": "Personal vendored marketplace of plugins and skills with native .grok-plugin catalogs for Grok Build, Claude, Codex, and Cursor.",
+            "zh": "个人插件/技能市场：带原生 .grok-plugin 目录，覆盖 Grok Build、Claude、Codex 与 Cursor。",
+            "ja": "Grok Build / Claude / Codex / Cursor 向け .grok-plugin カタログ付きの個人プラグイン／スキル・マーケット。"
+          }
+        },
+        {
+          "title": "rnskill — includes grok-build-cli skill for Codex",
+          "url": "https://github.com/Pluviobyte/rnskill",
+          "source": "GB-1216",
+          "blurb": {
+            "en": "Agent skill collection featuring grok-build-cli so Codex can invoke a logged-in local Grok Build CLI and return results.",
+            "zh": "智能体技能合集，含 grok-build-cli：让 Codex 调用本机已登录的 Grok Build CLI 并回传结果。",
+            "ja": "Codex からログイン済みローカル Grok Build CLI を呼び結果を返す grok-build-cli を含むスキル集。"
+          }
+        },
+        {
+          "title": "gooey-pi — Make Bot UI skill for Grok Bot webhooks",
+          "url": "https://github.com/am-will/gooey-pi",
+          "source": "GB-1217",
+          "blurb": {
+            "en": "Desktop Pi/OMP workspace that ships a Make Bot UI skill for waking Grok Bot over webhook routines with a safe sender-key flow.",
+            "zh": "Pi/OMP 桌面工作区，附带 Make Bot UI 技能：用安全 sender key 流程经 webhook 例程唤醒 Grok Bot。",
+            "ja": "Pi/OMP デスクトップ作業場。安全な sender key 流れで webhook ルーチンから Grok Bot を起こす Make Bot UI スキル付き。"
+          }
         }
       ]
     },
@@ -8694,6 +8834,56 @@
             "zh": "Grok Build TUI 分支，换成 Oh My Pi ACP 后端，以便自带模型与供应商。",
             "ja": "Grok Build TUI のフォーク。Oh My Pi の ACP バックエンドに差し替え、自前モデル/プロバイダを利用。"
           }
+        },
+        {
+          "title": "Aster — open harness with Grok Bot marketplace import",
+          "url": "https://github.com/Zfinix/aster",
+          "source": "GB-1219",
+          "blurb": {
+            "en": "Open-source agent harness that imports Grok Bot marketplace specialists into local bots, skills, and cron with honesty about missing connectors.",
+            "zh": "开源智能体 harness：把 Grok Bot 市场专家导入本地 bot/技能/cron，并如实标出缺失连接器。",
+            "ja": "Grok Bot マーケットの専門家を本地 bot／スキル／cron に取り込み、欠けるコネクタを正直に示すオープン harness。"
+          }
+        },
+        {
+          "title": "ccc — Telegram crew running Grok Build sessions",
+          "url": "https://github.com/kidandcat/ccc",
+          "source": "GB-1220",
+          "blurb": {
+            "en": "Telegram forum crew command center that runs each topic as a coding session on Claude Code, Grok Build, or Antigravity.",
+            "zh": "Telegram 论坛指挥中心：每个话题即一次编码会话，可跑 Claude Code、Grok Build 或 Antigravity。",
+            "ja": "Telegram フォーラム指揮所。トピック＝セッションで Claude Code / Grok Build / Antigravity を駆動。"
+          }
+        },
+        {
+          "title": "botato — local-first Grok Bot alternative",
+          "url": "https://github.com/hackyguru/botato",
+          "source": "GB-1221",
+          "blurb": {
+            "en": "Local-first desktop and mobile bot runtime billed as a Grok Bot alternative, with per-bot memory, schedules, and shared rooms.",
+            "zh": "本地优先的桌面/移动 bot 运行时，定位为 Grok Bot 替代：每 bot 记忆、日程与共享房间。",
+            "ja": "Grok Bot 代替を掲げるローカル優先デスクトップ／モバイル bot 実行系。bot ごとの記憶・予定・共有ルーム。"
+          }
+        },
+        {
+          "title": "forge — issue-to-Draft-PR factory with Grok Build",
+          "url": "https://github.com/forcewake/forge",
+          "source": "GB-1222",
+          "blurb": {
+            "en": "Self-hosted agentic software factory for GitLab/GitHub/Azure DevOps that can run Grok Build in ephemeral CI and never merges.",
+            "zh": "自托管智能体软件工厂（GitLab/GitHub/Azure DevOps）：可在临时 CI 中跑 Grok Build，且永不合并。",
+            "ja": "GitLab／GitHub／Azure DevOps 向け自ホスト工場。一時 CI で Grok Build を走らせ、マージはしない。"
+          }
+        },
+        {
+          "title": "Desk Atlas — physical Grok Bot desk buddy",
+          "url": "https://github.com/etjones45/desk-atlas",
+          "source": "GB-1223",
+          "blurb": {
+            "en": "Orange Pi + Whisplay HAT desk buddy that STT-webhooks into a Grok Bot Atlas teammate and speaks replies via on-device TTS.",
+            "zh": "Orange Pi + Whisplay HAT 桌面伙伴：语音转写 webhook 进 Grok Bot Atlas，再用设备端 TTS 朗读回复。",
+            "ja": "Orange Pi＋Whisplay HAT の机上相棒。STT→webhook で Grok Bot Atlas に送り、端末 TTS で返答を話す。"
+          }
         }
       ]
     },
@@ -10273,6 +10463,46 @@
             "en": "Staff (Colin, 2026-09-14): If Recover fails but the Agent Computer is healthy server-side, fully quit, reinstall from cursor.com/download/bot (keeps bots/files/logins), then open Settings → General → System → Network Debugger (or “Open Network Debugger” on the trouble-connecting screen); expand Details and check Api tls / Api unary / Computer tls / Updates feed, and name any AV (Kaspersky etc.)—OP fixed it by trusting sites in Kaspersky, without Reset.",
             "zh": "员工（Colin，2026-09-14）：Recover 失败但服务端显示 Agent Computer 正常时，先完全退出并用 cursor.com/download/bot 重装（保留 bots/文件/登录），再打开 Settings → General → System → Network Debugger（或连不上时的 Open Network Debugger）；展开 Details 看 Api tls / Api unary / Computer tls / Updates feed，并说明杀软——楼主通过在 Kaspersky 信任站点恢复，无需 Reset。",
             "ja": "Staff（Colin、2026-09-14）：Recover 失敗でもサーバ側で Agent Computer が健全なら、完全終了後 cursor.com/download/bot から再インストール（bots/ファイル/ログイン保持）、Settings → General → System → Network Debugger（接続トラブル画面なら Open Network Debugger）で Details を展開し Api tls / Api unary / Computer tls / Updates feed を確認、AV（Kaspersky 等）も申告。OP は Kaspersky の信頼サイト設定で復旧、Reset 不要。"
+          }
+        },
+        {
+          "title": "One bot silent / failed to send — reply runner stuck server-side; do NOT Reset",
+          "url": "https://forum.cursor.com/t/some-of-the-bots-became-unresponsive-failed-to-send-on-my-messages-to-them/171858",
+          "source": "GB-1233",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-16): when one Bot fails to send while others and the Agent Computer stay fine, reply processing for that Bot is stuck on Cursor’s side—not your setup; skip Update/Recover/Reset; files and history stay; report last message time + Bot ID if it happens again after a tool call.",
+            "zh": "Staff（deanrie，2026-09-16）：个别 Bot 发不出、其他 Bot 与 Agent Computer 仍正常时，是该 Bot 服务端回复处理卡住，不是本机问题；勿 Update/Recover/Reset；文件与历史还在；工具调用后再哑可附最后消息时间与 Bot ID。",
+            "ja": "Staff（deanrie、2026-09-16）：1体だけ送信失敗で他 Bot と Agent Computer は無事なら、その Bot のサーバ側返信処理が詰まっている。Update/Recover/Reset は不要。履歴は残る。ツール後に再発なら最終メッセージ時刻と Bot ID を報告。"
+          }
+        },
+        {
+          "title": "Server-stored webhook routines: URL/key panel fixed in desktop 0.53.0",
+          "url": "https://forum.cursor.com/t/grok-bot-cannot-use-routines-on-pro-cursor-plan/171606",
+          "source": "GB-1234",
+          "blurb": {
+            "en": "Staff (Colin, 2026-09-16): missing Webhook URL / crsr_ key / Pause-Delete on newer server-stored routines was not a Pro+ plan limit—fixed in Grok Bot desktop 0.53.0; update the app (was 0.51.0) so the routine panel shows credentials again; interim workarounds were schedule or Slack triggers via chat.",
+            "zh": "Staff（Colin，2026-09-16）：新 Bot 服务端 routine 桌面看不到 Webhook URL/crsr_ 与暂停删除，不是 Pro+ 限制——桌面 0.53.0 已修；从 0.51.0 更新后面板会再显示凭证；过渡可用日程或 Slack 触发。",
+            "ja": "Staff（Colin、2026-09-16）：新しめ Bot のサーバ保存 routine で Webhook URL/crsr_ や Pause/Delete が出ない件は Pro+ 制限ではなく、デスクトップ 0.53.0 で修正。0.51.0 から更新すればパネルに戻る。当面は予定／Slack トリガ。"
+          }
+        },
+        {
+          "title": "GitHub “issue assigned” routine never fires on github.com",
+          "url": "https://forum.cursor.com/t/grok-bot-github-issue-assigned-routine-never-fires-5-attempts-recreated-routine-app-has-repo-access/171791",
+          "source": "GB-1235",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-16): with correct repo access and filters, the GitHub issue-assigned trigger still does not fire for github.com repos (known server-side); filter matches the assigner; no user-facing event log yet; temporary workaround is a scheduled routine (webhook may also be blocked by the 171324 panel bug until 0.53.0).",
+            "zh": "Staff（deanrie，2026-09-16）：仓库权限与过滤器都对时，github.com 的 issue assigned 触发仍不点火（服务端已知问题）；过滤看的是指派人；暂无用户可见事件日志；权宜用定时 routine（Webhook 面板问题见 171324，0.53.0 前可能也用不了）。",
+            "ja": "Staff（deanrie、2026-09-16）：権限・フィルタ正しでも github.com の issue assigned トリガは発火しない既知サーバ障害。フィルタは assigner。イベントログ未公開。当面は scheduled routine（Webhook は 171324／0.53.0 前も不可なことあり）。"
+          }
+        },
+        {
+          "title": "Onboarding provisioning fails — create first Bot on mobile, then Update Computer",
+          "url": "https://forum.cursor.com/t/grok-bot-onboarding-provisioning-fails-after-3-attempts/171807",
+          "source": "GB-1236",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-16): first-Bot provisioning can fail when the account’s cloud computer is stuck server-side—reinstall/retry won’t fix it; workaround is create the first Bot in the phone app, then on desktop Settings → Updates → Update Grok Bot’s Computer; staff can also recreate the computer.",
+            "zh": "Staff（deanrie，2026-09-16）：账号云电脑卡在服务端时，首次建 Bot 会反复 provisioning 失败，重装重试无效；权宜：手机端先建第一个 Bot，再在桌面 Settings→Updates→Update Grok Bot’s Computer；也可等 Staff 重建云电脑。",
+            "ja": "Staff（deanrie、2026-09-16）：アカウントのクラウド PC がサーバ側で詰まると初回 Bot 作成の provisioning が繰り返し失敗し、再インストールでは直らない。回避策はモバイルで最初の Bot を作り、デスクトップの Settings→Updates→Update Grok Bot’s Computer。Staff 側で PC 再作成も可。"
           }
         }
       ]
@@ -11893,6 +12123,86 @@
             "en": "Scripts and shim that patch Kiro Crew so Grok Build (grok agent stdio) becomes a selectable ACP backend.",
             "zh": "脚本与垫片，给 Kiro Crew 打补丁，使 Grok Build（grok agent stdio）成为可选 ACP 后端。",
             "ja": "Kiro Crew をパッチし、Grok Build（grok agent stdio）を選択可能な ACP バックエンドにするスクリプト群。"
+          }
+        },
+        {
+          "title": "Usage Rings — macOS widget for Grok Bot quota",
+          "url": "https://github.com/hayashiii-ghub/usage-rings",
+          "source": "GB-1224",
+          "blurb": {
+            "en": "Personal macOS 26 widget and menu-bar app that shows remaining Grok Bot weekly allowance beside Codex, Claude, and Cursor.",
+            "zh": "个人 macOS 26 小组件/菜单栏：在 Codex、Claude、Cursor 旁显示 Grok Bot 周额度剩余。",
+            "ja": "macOS 26 ウィジェット／メニューバー。Codex / Claude / Cursor と並べて Grok Bot 週間枠の残量を表示。"
+          }
+        },
+        {
+          "title": "AI Usage Menu Bar — GPT + Grok Bot quotas",
+          "url": "https://github.com/Basher2042/ai-usage-menubar",
+          "source": "GB-1225",
+          "blurb": {
+            "en": "Native macOS menu-bar quota chart for Codex and Grok Bot via a codexbar cursor-grok-bot window, with cycle history.",
+            "zh": "原生 macOS 菜单栏额度图：经 codexbar 的 cursor-grok-bot 窗口跟踪 Codex 与 Grok Bot，并保留周期历史。",
+            "ja": "codexbar の cursor-grok-bot 枠経由で Codex と Grok Bot 残量を描くネイティブ macOS メニューバー。"
+          }
+        },
+        {
+          "title": "agentcompat — Grok Build skill/hooks compatibility matrix",
+          "url": "https://github.com/tainguyen091994/agentcompat",
+          "source": "GB-1226",
+          "blurb": {
+            "en": "Lint and matrix tool that flags SKILL.md and hook fields Grok Build silently ignores versus Claude Code, Cursor, Codex, and Gemini.",
+            "zh": "兼容性矩阵与 lint：标出 Grok Build 相对 Claude Code/Cursor/Codex/Gemini 会静默忽略的 SKILL.md 与 hook 字段。",
+            "ja": "Grok Build が黙って無視する SKILL.md／hook 項目を Claude Code 等と比較する行列＋lint。"
+          }
+        },
+        {
+          "title": "cpa-plugin-grok-compat — Grok tool-call integer fix",
+          "url": "https://github.com/timonwong/cpa-plugin-grok-compat",
+          "source": "GB-1227",
+          "blurb": {
+            "en": "CLIProxyAPI native plugin that repairs Grok tool-call integers Codex rejects (e.g. 120000.0) before the translator stage.",
+            "zh": "CLIProxyAPI 原生插件：在翻译前把 Codex 会拒绝的 Grok 工具调用整数（如 120000.0）修正回来。",
+            "ja": "Codex が拒否する Grok ツール引数の整数表記（例 120000.0）を翻訳前に直す CLIProxyAPI プラグイン。"
+          }
+        },
+        {
+          "title": "dsh-llm-oauth — DeepSeek Harness Grok OAuth plugin",
+          "url": "https://github.com/ziyou979/dsh-llm-oauth",
+          "source": "GB-1228",
+          "blurb": {
+            "en": "DeepSeek Harness plugin that adds SuperGrok/X Premium OAuth subscription routes beside Copilot, Codex, and Anthropic.",
+            "zh": "DeepSeek Harness 插件：在 Copilot/Codex/Anthropic 旁增加 SuperGrok/X Premium OAuth 订阅路由。",
+            "ja": "DeepSeek Harness プラグイン。Copilot／Codex／Anthropic と並び SuperGrok／X Premium OAuth 購読ルートを追加。"
+          }
+        },
+        {
+          "title": "dsh-OAuth — desktop Grok login bar for DeepSeek Harness",
+          "url": "https://github.com/yueyexiayu/dsh-OAuth",
+          "source": "GB-1229",
+          "blurb": {
+            "en": "DeepSeek Harness desktop plugin that shows Grok and ChatGPT Codex OAuth login status under the input box without touching ~/.grok/auth.json.",
+            "zh": "DeepSeek Harness 桌面插件：在输入框下显示 Grok 与 ChatGPT Codex OAuth 登录状态，不改写 ~/.grok/auth.json。",
+            "ja": "入力欄下に Grok／ChatGPT Codex OAuth 状態を出す DSH デスクトッププラグイン。~/.grok/auth.json は触らない。"
+          }
+        },
+        {
+          "title": "agentgrep — search local Grok and peer agent history",
+          "url": "https://github.com/tony/agentgrep",
+          "source": "GB-1230",
+          "blurb": {
+            "en": "CLI that greps prompts and conversations across local Codex, Claude, Cursor, Antigravity, Grok, Pi, and OpenCode histories.",
+            "zh": "在本地 Codex、Claude、Cursor、Antigravity、Grok、Pi 与 OpenCode 历史中检索提示与对话的 CLI。",
+            "ja": "本地の Codex / Claude / Cursor / Antigravity / Grok / Pi / OpenCode 履歴からプロンプトと会話を grep する CLI。"
+          }
+        },
+        {
+          "title": "gaius — offline ops memory for Grok Build sessions",
+          "url": "https://github.com/jkubo/gaius",
+          "source": "GB-1231",
+          "blurb": {
+            "en": "Self-hosted offline memory consolidator that extracts and injects ops knowledge across Claude Code, Grok Build, Gemini, and Codex sessions.",
+            "zh": "自托管离线记忆整理器：从 Claude Code、Grok Build、Gemini 与 Codex 会话提取并注入运维知识。",
+            "ja": "Claude Code／Grok Build／Gemini／Codex セッションから運用知を抽出し注入する自ホスト・オフライン記憶。"
           }
         }
       ]

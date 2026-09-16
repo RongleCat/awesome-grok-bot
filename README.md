@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1181-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1212-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -224,6 +224,7 @@
 - [Grok Bot AI customer support team — companion files](https://github.com/agenteer/grok-bot-ai-customer-support-team) - Paste-ready Sage/Atlas Bot profiles, skills, Slack setup, and test tickets for a two-Bot customer-support team walkthrough.
 - [Department Grok Bot Playbook — 23-role IT roster](https://github.com/ericbrianpearson/department-grok-bot-playbook) - MIT documentation-only playbook for running Grok Bot like a governed IT department: 23 roles, charter, economy mode, and yes/no/hold gates.
 - [How I Use Grok Bot — Aaron Smiley walkthrough](https://github.com/DevonshireVC/how-i-use-grok-bot) - Interactive public walkthrough (and PDF) of how Aaron Smiley runs Grok Bot as a Chief of Staff layer for clinic and VetSOAP work.
+- [Grok Bot × Cursor harness article (JA archive)](https://github.com/mapserver2007/ai-tools-for-business) - Japanese archive of Matt Rice’s Grok Bot × Cursor Cloud Agent harness essay for business operators.
 
 ## Field Cases
 
@@ -358,6 +359,7 @@
 - [Half X — Grok Bot feature-request board prototype](https://github.com/ojotapcosta/grok-bot-requests) - Prototype feature-request mural for Grok Bot that turns X groupchat ideas into a votable inventory board.
 - [Grok_Secretary — secretary AGENTS.md for Grok Bot](https://github.com/TeaKitano/Grok_Secretary) - Japanese guide and open AGENTS.md profile for running a secretary teammate on real Grok Bot cloud computers.
 - [hunting-printables-team — Etsy printables Grok Bot team](https://github.com/SAW72/hunting-printables-team) - Role prompts for a Grok Bot team that scouts, designs, copies, and packages hunting-themed Etsy printables.
+- [checkingrokbot — Luma check-in + 58mm tickets](https://github.com/martinmalgor04/checkingrokbot) - Reception app for a Grok Bot Meetup that imports Luma guests, records door check-ins, and prints 58 mm ESC/POS welcome tickets.
 
 ## Skills, Plugins & MCP
 
@@ -701,6 +703,18 @@
 - [briven-plugin — serverless Postgres plugin for Grok Build](https://github.com/flndrn-dev/briven-plugin) - Briven serverless PostgreSQL skill plus live MCP door, installable with grok plugin install --trust.
 - [Armbrain — memory MCP plugin for Cursor and Grok Bot](https://github.com/armbrain-io/armbrain-cursor-plugin) - Official Armbrain agent-plugin package with remote MCP and skills for Cursor and Grok Bot.
 - [GrokBot OpenAI Bridge — ChatGPT courier skill for Grok Bot](https://github.com/OneVillage83/GrokBot-OpenAI-Bridge) - CLI plus Grok Bot skill that keeps architecture in ChatGPT while durable Codex workstreams run on the Bot computer.
+- [Supermemory — persistent memory plugin for Grok Bot](https://github.com/supermemoryai/supermemory) - Memory engine with an official Add-to-Grok-Bot plugin so cloud teammates keep findings across machines and tasks.
+- [Skarn agent-guard — secret hooks for Grok Build](https://github.com/skarn-security/agent-guard) - Local secret-detection hooks and MCP that skarn setup wires into Grok Build, Claude Code, Codex, Gemini, and Cursor.
+- [BlinkWork MCP connect pack for Cursor / Grok Bot](https://github.com/mazemax/blinkwork-mcp) - Thin Cursor Marketplace connect package that points Grok Bot at BlinkWork’s hosted HTTP MCP with a Bearer token skill.
+- [fiskmas-grok-plugin — Docker app host for Grok Build](https://github.com/pefman/fiskmas-grok-plugin) - Grok Build marketplace plugin that wires Fiskmås hosted MCP so agents can onboard, deploy, and operate containerized HTTP apps.
+- [ContHunt MCP plugin pack for Grok Build](https://github.com/Synthenova/conthunt-mcp) - Hosted ContHunt MCP storefront with marketplace manifests for Grok Build, Cursor, Claude Code, and Codex.
+- [secret-guard — credential leak hooks including Grok CLI](https://github.com/wtfsayo/agent-plugin-secret-guard) - PreToolUse/PostToolUse credential-leak hooks with a native Grok CLI adapter beside Claude, Codex, Cursor, and opencode.
+- [ximing/grok-plugins — vendored Grok Build marketplace](https://github.com/ximing/grok-plugins) - Auto-synced Grok Build marketplace that vendors rab and csi skills from upstream repos into installable plugins.
+- [lm-agent-skills — public skill packs for Grok Bot](https://github.com/rapidstartup/lm-agent-skills) - Public mirror of Leads Mastery managed-agent SKILL.md packs that Grok Bot and other consumers can fetch by URL.
+- [council — Claude Code plugin that dispatches Grok Build](https://github.com/sitkowsp/super-claude-code) - Claude Code council plugin that plans locally then runs disjoint tasks on Grok Build, Codex, Copilot, Antigravity, or Ollama.
+- [omri-marketplace — personal Grok Build plugin marketplace](https://github.com/omriariav/omri-marketplace) - Personal vendored marketplace of plugins and skills with native .grok-plugin catalogs for Grok Build, Claude, Codex, and Cursor.
+- [rnskill — includes grok-build-cli skill for Codex](https://github.com/Pluviobyte/rnskill) - Agent skill collection featuring grok-build-cli so Codex can invoke a logged-in local Grok Build CLI and return results.
+- [gooey-pi — Make Bot UI skill for Grok Bot webhooks](https://github.com/am-will/gooey-pi) - Desktop Pi/OMP workspace that ships a Make Bot UI skill for waking Grok Bot over webhook routines with a safe sender-key flow.
 
 ## Reviews & Comparisons
 
@@ -961,6 +975,11 @@
 - [AppFolio → Grok Bot webhook bridge](https://github.com/5amfung/appfolio-grokbot-webhook-bridge) - Vercel bridge that verifies AppFolio JWS webhooks and forwards raw bodies to a Grok Bot inbound webhook.
 - [Grok30m — VS Code/Cursor fork of Grok Build UI](https://github.com/thirtym/grok30m) - Community Grok Build VS Code fork with editor-tab chat, Sessions sidebar, and ACP stdio to the grok CLI.
 - [grok-omp — Grok Build TUI driven by Oh My Pi](https://github.com/firatoezcan/grok-omp) - Fork of the Grok Build TUI that swaps in an Oh My Pi ACP backend so you bring your own models and providers.
+- [Aster — open harness with Grok Bot marketplace import](https://github.com/Zfinix/aster) - Open-source agent harness that imports Grok Bot marketplace specialists into local bots, skills, and cron with honesty about missing connectors.
+- [ccc — Telegram crew running Grok Build sessions](https://github.com/kidandcat/ccc) - Telegram forum crew command center that runs each topic as a coding session on Claude Code, Grok Build, or Antigravity.
+- [botato — local-first Grok Bot alternative](https://github.com/hackyguru/botato) - Local-first desktop and mobile bot runtime billed as a Grok Bot alternative, with per-bot memory, schedules, and shared rooms.
+- [forge — issue-to-Draft-PR factory with Grok Build](https://github.com/forcewake/forge) - Self-hosted agentic software factory for GitLab/GitHub/Azure DevOps that can run Grok Build in ephemeral CI and never merges.
+- [Desk Atlas — physical Grok Bot desk buddy](https://github.com/etjones45/desk-atlas) - Orange Pi + Whisplay HAT desk buddy that STT-webhooks into a Grok Bot Atlas teammate and speaks replies via on-device TTS.
 
 ## Community & Failure Modes
 
@@ -1121,6 +1140,10 @@
 - [Private Slack channels need /invite @Cursor for routine triggers](https://forum.cursor.com/t/grok-bot-slack-routine-trigger-never-fires-while-test-run-and-slack-return-both-work/171676) - Staff (kevinn, 2026-09-15): Slack-triggered Grok Bot routines never see messages from a private channel unless the Cursor Slack app is a member. Test Run bypasses Slack entirely; Slack plugin replies use a different app than the routine listener—so both can work while the trigger stays silent. Fix: in the private channel run /invite @Cursor, wait ~1 min, post a canary message, then check the routine Run history.
 - [Take over shows main desktop — Bot may be on another display (Xvfb)](https://forum.cursor.com/t/grok-bot-viewer-blank/171555) - Staff (deanrie, 2026-09-14): A “blank” Computer viewer can still be connected—Take over renders the Bot machine’s main desktop, while the Bot may have launched apps on a separate display (e.g. Xvfb :1); ask it to open something on the main desktop or align DISPLAY, don’t Reset.
 - [Network Debugger when computer is healthy but app can’t connect (Windows)](https://forum.cursor.com/t/grok-bot-0-30-0-recover-failed-computer-inaccessible-after-windows-update-bots-visible/171344) - Staff (Colin, 2026-09-14): If Recover fails but the Agent Computer is healthy server-side, fully quit, reinstall from cursor.com/download/bot (keeps bots/files/logins), then open Settings → General → System → Network Debugger (or “Open Network Debugger” on the trouble-connecting screen); expand Details and check Api tls / Api unary / Computer tls / Updates feed, and name any AV (Kaspersky etc.)—OP fixed it by trusting sites in Kaspersky, without Reset.
+- [One bot silent / failed to send — reply runner stuck server-side; do NOT Reset](https://forum.cursor.com/t/some-of-the-bots-became-unresponsive-failed-to-send-on-my-messages-to-them/171858) - Staff (deanrie, 2026-09-16): when one Bot fails to send while others and the Agent Computer stay fine, reply processing for that Bot is stuck on Cursor’s side—not your setup; skip Update/Recover/Reset; files and history stay; report last message time + Bot ID if it happens again after a tool call.
+- [Server-stored webhook routines: URL/key panel fixed in desktop 0.53.0](https://forum.cursor.com/t/grok-bot-cannot-use-routines-on-pro-cursor-plan/171606) - Staff (Colin, 2026-09-16): missing Webhook URL / crsr_ key / Pause-Delete on newer server-stored routines was not a Pro+ plan limit—fixed in Grok Bot desktop 0.53.0; update the app (was 0.51.0) so the routine panel shows credentials again; interim workarounds were schedule or Slack triggers via chat.
+- [GitHub “issue assigned” routine never fires on github.com](https://forum.cursor.com/t/grok-bot-github-issue-assigned-routine-never-fires-5-attempts-recreated-routine-app-has-repo-access/171791) - Staff (deanrie, 2026-09-16): with correct repo access and filters, the GitHub issue-assigned trigger still does not fire for github.com repos (known server-side); filter matches the assigner; no user-facing event log yet; temporary workaround is a scheduled routine (webhook may also be blocked by the 171324 panel bug until 0.53.0).
+- [Onboarding provisioning fails — create first Bot on mobile, then Update Computer](https://forum.cursor.com/t/grok-bot-onboarding-provisioning-fails-after-3-attempts/171807) - Staff (deanrie, 2026-09-16): first-Bot provisioning can fail when the account’s cloud computer is stuck server-side—reinstall/retry won’t fix it; workaround is create the first Bot in the phone app, then on desktop Settings → Updates → Update Grok Bot’s Computer; staff can also recreate the computer.
 
 ## Related Lists
 
@@ -1285,10 +1308,18 @@
 - [DeepSquishies — whale desk pet with Grok Build usage](https://github.com/jamielgbr/DeepSquishies) - Windows/macOS whale desk pet that rotates usage panels including Grok Build alongside Codex and Claude Code.
 - [grokfix — Windows/protoc patches for Grok Build](https://github.com/goldengateagent/grokfix) - Small patch set that fixes Grok Build Windows builds and non-standard provider ping responses.
 - [kiro-acp — wire Kiro Crew to Grok Build over ACP](https://github.com/snpyeso/kiro-acp) - Scripts and shim that patch Kiro Crew so Grok Build (grok agent stdio) becomes a selectable ACP backend.
+- [Usage Rings — macOS widget for Grok Bot quota](https://github.com/hayashiii-ghub/usage-rings) - Personal macOS 26 widget and menu-bar app that shows remaining Grok Bot weekly allowance beside Codex, Claude, and Cursor.
+- [AI Usage Menu Bar — GPT + Grok Bot quotas](https://github.com/Basher2042/ai-usage-menubar) - Native macOS menu-bar quota chart for Codex and Grok Bot via a codexbar cursor-grok-bot window, with cycle history.
+- [agentcompat — Grok Build skill/hooks compatibility matrix](https://github.com/tainguyen091994/agentcompat) - Lint and matrix tool that flags SKILL.md and hook fields Grok Build silently ignores versus Claude Code, Cursor, Codex, and Gemini.
+- [cpa-plugin-grok-compat — Grok tool-call integer fix](https://github.com/timonwong/cpa-plugin-grok-compat) - CLIProxyAPI native plugin that repairs Grok tool-call integers Codex rejects (e.g. 120000.0) before the translator stage.
+- [dsh-llm-oauth — DeepSeek Harness Grok OAuth plugin](https://github.com/ziyou979/dsh-llm-oauth) - DeepSeek Harness plugin that adds SuperGrok/X Premium OAuth subscription routes beside Copilot, Codex, and Anthropic.
+- [dsh-OAuth — desktop Grok login bar for DeepSeek Harness](https://github.com/yueyexiayu/dsh-OAuth) - DeepSeek Harness desktop plugin that shows Grok and ChatGPT Codex OAuth login status under the input box without touching ~/.grok/auth.json.
+- [agentgrep — search local Grok and peer agent history](https://github.com/tony/agentgrep) - CLI that greps prompts and conversations across local Codex, Claude, Cursor, Antigravity, Grok, Pi, and OpenCode histories.
+- [gaius — offline ops memory for Grok Build sessions](https://github.com/jkubo/gaius) - Self-hosted offline memory consolidator that extracts and injects ops knowledge across Claude Code, Grok Build, Gemini, and Codex sessions.
 
 ## Contributing
 
-1181 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1212 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

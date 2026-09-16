@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1181-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1212-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -224,6 +224,7 @@
 - [Grok Bot AI customer support team — companion files](https://github.com/agenteer/grok-bot-ai-customer-support-team) - 2体 Bot サポートチーム向け。Sage/Atlas の貼り付け用人設・スキル、Slack 設定、テストチケット。
 - [Department Grok Bot Playbook — 23-role IT roster](https://github.com/ericbrianpearson/department-grok-bot-playbook) - ドキュメント専用 MIT プレイブック。Grok Bot を統治された IT 部門として運用（23役割・憲章・economy mode）。
 - [How I Use Grok Bot — Aaron Smiley walkthrough](https://github.com/DevonshireVC/how-i-use-grok-bot) - 公開インタラクティブ案内（PDF 付き）。Aaron Smiley がクリニック／VetSOAP の Chief of Staff 層として Grok Bot を使う方法。
+- [Grok Bot × Cursor harness article (JA archive)](https://github.com/mapserver2007/ai-tools-for-business) - Matt Rice の Grok Bot×Cursor Cloud Agent ハーネス論を事業者向けに残した日本語アーカイブ。
 
 ## 実地事例
 
@@ -358,6 +359,7 @@
 - [Half X — Grok Bot feature-request board prototype](https://github.com/ojotapcosta/grok-bot-requests) - Grok Bot 機能要望ボード原型。X グループの案を投票在庫化。
 - [Grok_Secretary — secretary AGENTS.md for Grok Bot](https://github.com/TeaKitano/Grok_Secretary) - 本物の Grok Bot クラウド PC 上で秘書ボットを運用するための日本語ガイドと公開 AGENTS.md。
 - [hunting-printables-team — Etsy printables Grok Bot team](https://github.com/SAW72/hunting-printables-team) - 狩猟テーマの Etsy 印刷物向けに偵察・デザイン・コピー・梱包を分担する Grok Bot チームの役割プロンプト。
+- [checkingrokbot — Luma check-in + 58mm tickets](https://github.com/martinmalgor04/checkingrokbot) - Grok Bot Meetup 受付アプリ。Luma 名簿取込・入場チェックイン・58mm ESC/POS 歓迎チケット印刷。
 
 ## スキル、プラグインと MCP
 
@@ -701,6 +703,18 @@
 - [briven-plugin — serverless Postgres plugin for Grok Build](https://github.com/flndrn-dev/briven-plugin) - Briven のサーバーレス PostgreSQL スキルと MCP 入口。grok plugin install --trust で導入。
 - [Armbrain — memory MCP plugin for Cursor and Grok Bot](https://github.com/armbrain-io/armbrain-cursor-plugin) - Armbrain 公式の Agent Plugin。Cursor と Grok Bot 向けリモート MCP とスキルを同梱。
 - [GrokBot OpenAI Bridge — ChatGPT courier skill for Grok Bot](https://github.com/OneVillage83/GrokBot-OpenAI-Bridge) - 設計は ChatGPT、実装は Bot のクラウド PC 上の Codex 作業系に載せる CLI＋Grok Bot スキル。
+- [Supermemory — persistent memory plugin for Grok Bot](https://github.com/supermemoryai/supermemory) - 公式 Add to Grok Bot プラグイン付きメモリ基盤。クラウド仲間がマシン／タスクを跨いで知見を保持。
+- [Skarn agent-guard — secret hooks for Grok Build](https://github.com/skarn-security/agent-guard) - skarn setup で Grok Build / Claude Code / Codex / Gemini / Cursor に載せるローカル秘密検知フック＋MCP。
+- [BlinkWork MCP connect pack for Cursor / Grok Bot](https://github.com/mazemax/blinkwork-mcp) - Bearer token スキルで Grok Bot を BlinkWork ホスト HTTP MCP に繋ぐ薄い Cursor Marketplace 接続パック。
+- [fiskmas-grok-plugin — Docker app host for Grok Build](https://github.com/pefman/fiskmas-grok-plugin) - Grok Build マーケット向けプラグイン。Fiskmås ホスト MCP でコンテナ HTTP アプリの登録・デプロイ・運用を繋ぐ。
+- [ContHunt MCP plugin pack for Grok Build](https://github.com/Synthenova/conthunt-mcp) - Grok Build / Cursor / Claude Code / Codex 向けの ContHunt ホスト MCP 店頭（マーケットマニフェスト付き）。
+- [secret-guard — credential leak hooks including Grok CLI](https://github.com/wtfsayo/agent-plugin-secret-guard) - Grok CLI アダプタ付きの Pre/PostToolUse 資格情報リーク防止フック。Claude / Codex / Cursor / opencode にも対応。
+- [ximing/grok-plugins — vendored Grok Build marketplace](https://github.com/ximing/grok-plugins) - 上流の rab / csi スキルを自動同期してインストール可能にする Grok Build マーケット。
+- [lm-agent-skills — public skill packs for Grok Bot](https://github.com/rapidstartup/lm-agent-skills) - Grok Bot などが URL 取得できる Leads Mastery マネージドエージェント SKILL.md の公開ミラー。
+- [council — Claude Code plugin that dispatches Grok Build](https://github.com/sitkowsp/super-claude-code) - Claude Code の council プラグイン。計画は本地、実装は Grok Build / Codex / Copilot / Antigravity / Ollama に分散。
+- [omri-marketplace — personal Grok Build plugin marketplace](https://github.com/omriariav/omri-marketplace) - Grok Build / Claude / Codex / Cursor 向け .grok-plugin カタログ付きの個人プラグイン／スキル・マーケット。
+- [rnskill — includes grok-build-cli skill for Codex](https://github.com/Pluviobyte/rnskill) - Codex からログイン済みローカル Grok Build CLI を呼び結果を返す grok-build-cli を含むスキル集。
+- [gooey-pi — Make Bot UI skill for Grok Bot webhooks](https://github.com/am-will/gooey-pi) - Pi/OMP デスクトップ作業場。安全な sender key 流れで webhook ルーチンから Grok Bot を起こす Make Bot UI スキル付き。
 
 ## レビューと比較
 
@@ -961,6 +975,11 @@
 - [AppFolio → Grok Bot webhook bridge](https://github.com/5amfung/appfolio-grokbot-webhook-bridge) - AppFolio の JWS Webhook を検証し、生ボディを Grok Bot 受信 Webhook へ転送する Vercel ブリッジ。
 - [Grok30m — VS Code/Cursor fork of Grok Build UI](https://github.com/thirtym/grok30m) - エディタタブチャットと Sessions サイドバーを足した Grok Build VS Code フォーク。ACP stdio で grok CLI 接続。
 - [grok-omp — Grok Build TUI driven by Oh My Pi](https://github.com/firatoezcan/grok-omp) - Grok Build TUI のフォーク。Oh My Pi の ACP バックエンドに差し替え、自前モデル/プロバイダを利用。
+- [Aster — open harness with Grok Bot marketplace import](https://github.com/Zfinix/aster) - Grok Bot マーケットの専門家を本地 bot／スキル／cron に取り込み、欠けるコネクタを正直に示すオープン harness。
+- [ccc — Telegram crew running Grok Build sessions](https://github.com/kidandcat/ccc) - Telegram フォーラム指揮所。トピック＝セッションで Claude Code / Grok Build / Antigravity を駆動。
+- [botato — local-first Grok Bot alternative](https://github.com/hackyguru/botato) - Grok Bot 代替を掲げるローカル優先デスクトップ／モバイル bot 実行系。bot ごとの記憶・予定・共有ルーム。
+- [forge — issue-to-Draft-PR factory with Grok Build](https://github.com/forcewake/forge) - GitLab／GitHub／Azure DevOps 向け自ホスト工場。一時 CI で Grok Build を走らせ、マージはしない。
+- [Desk Atlas — physical Grok Bot desk buddy](https://github.com/etjones45/desk-atlas) - Orange Pi＋Whisplay HAT の机上相棒。STT→webhook で Grok Bot Atlas に送り、端末 TTS で返答を話す。
 
 ## コミュニティと障害事例
 
@@ -1121,6 +1140,10 @@
 - [Private Slack channels need /invite @Cursor for routine triggers](https://forum.cursor.com/t/grok-bot-slack-routine-trigger-never-fires-while-test-run-and-slack-return-both-work/171676) - Staff（kevinn、2026-09-15）：Slack 起動の Grok Bot ルーチンは、Cursor Slack アプリがそのプライベートチャンネルのメンバーでないとメッセージを受け取れない。Test Run は Slack を経由せず、プラグイン返信はルーチン用リスナーとは別アプリ——両方成功でもトリガーだけ無反応になり得る。対処：チャンネルで /invite @Cursor → 約1分待つ → カナリア投稿 → Run history を確認。
 - [Take over shows main desktop — Bot may be on another display (Xvfb)](https://forum.cursor.com/t/grok-bot-viewer-blank/171555) - Staff（deanrie、2026-09-14）：Computer ビューアが「真っ黒」でも接続済みのことがある。Take over はメインデスクトップを描画し、Bot は別ディスプレイ（例: Xvfb :1）で起動している場合がある。Reset せず、メイン側で見える窓を開かせるか DISPLAY を揃える。
 - [Network Debugger when computer is healthy but app can’t connect (Windows)](https://forum.cursor.com/t/grok-bot-0-30-0-recover-failed-computer-inaccessible-after-windows-update-bots-visible/171344) - Staff（Colin、2026-09-14）：Recover 失敗でもサーバ側で Agent Computer が健全なら、完全終了後 cursor.com/download/bot から再インストール（bots/ファイル/ログイン保持）、Settings → General → System → Network Debugger（接続トラブル画面なら Open Network Debugger）で Details を展開し Api tls / Api unary / Computer tls / Updates feed を確認、AV（Kaspersky 等）も申告。OP は Kaspersky の信頼サイト設定で復旧、Reset 不要。
+- [One bot silent / failed to send — reply runner stuck server-side; do NOT Reset](https://forum.cursor.com/t/some-of-the-bots-became-unresponsive-failed-to-send-on-my-messages-to-them/171858) - Staff（deanrie、2026-09-16）：1体だけ送信失敗で他 Bot と Agent Computer は無事なら、その Bot のサーバ側返信処理が詰まっている。Update/Recover/Reset は不要。履歴は残る。ツール後に再発なら最終メッセージ時刻と Bot ID を報告。
+- [Server-stored webhook routines: URL/key panel fixed in desktop 0.53.0](https://forum.cursor.com/t/grok-bot-cannot-use-routines-on-pro-cursor-plan/171606) - Staff（Colin、2026-09-16）：新しめ Bot のサーバ保存 routine で Webhook URL/crsr_ や Pause/Delete が出ない件は Pro+ 制限ではなく、デスクトップ 0.53.0 で修正。0.51.0 から更新すればパネルに戻る。当面は予定／Slack トリガ。
+- [GitHub “issue assigned” routine never fires on github.com](https://forum.cursor.com/t/grok-bot-github-issue-assigned-routine-never-fires-5-attempts-recreated-routine-app-has-repo-access/171791) - Staff（deanrie、2026-09-16）：権限・フィルタ正しでも github.com の issue assigned トリガは発火しない既知サーバ障害。フィルタは assigner。イベントログ未公開。当面は scheduled routine（Webhook は 171324／0.53.0 前も不可なことあり）。
+- [Onboarding provisioning fails — create first Bot on mobile, then Update Computer](https://forum.cursor.com/t/grok-bot-onboarding-provisioning-fails-after-3-attempts/171807) - Staff（deanrie、2026-09-16）：アカウントのクラウド PC がサーバ側で詰まると初回 Bot 作成の provisioning が繰り返し失敗し、再インストールでは直らない。回避策はモバイルで最初の Bot を作り、デスクトップの Settings→Updates→Update Grok Bot’s Computer。Staff 側で PC 再作成も可。
 
 ## 関連リスト
 
@@ -1285,10 +1308,18 @@
 - [DeepSquishies — whale desk pet with Grok Build usage](https://github.com/jamielgbr/DeepSquishies) - Grok Build や Codex / Claude Code などの使用量パネルを切り替える Windows/macOS クジラ机上ペット。
 - [grokfix — Windows/protoc patches for Grok Build](https://github.com/goldengateagent/grokfix) - Grok Build の Windows ビルド問題とプロバイダの非標準 ping 応答を直す小さなパッチ集。
 - [kiro-acp — wire Kiro Crew to Grok Build over ACP](https://github.com/snpyeso/kiro-acp) - Kiro Crew をパッチし、Grok Build（grok agent stdio）を選択可能な ACP バックエンドにするスクリプト群。
+- [Usage Rings — macOS widget for Grok Bot quota](https://github.com/hayashiii-ghub/usage-rings) - macOS 26 ウィジェット／メニューバー。Codex / Claude / Cursor と並べて Grok Bot 週間枠の残量を表示。
+- [AI Usage Menu Bar — GPT + Grok Bot quotas](https://github.com/Basher2042/ai-usage-menubar) - codexbar の cursor-grok-bot 枠経由で Codex と Grok Bot 残量を描くネイティブ macOS メニューバー。
+- [agentcompat — Grok Build skill/hooks compatibility matrix](https://github.com/tainguyen091994/agentcompat) - Grok Build が黙って無視する SKILL.md／hook 項目を Claude Code 等と比較する行列＋lint。
+- [cpa-plugin-grok-compat — Grok tool-call integer fix](https://github.com/timonwong/cpa-plugin-grok-compat) - Codex が拒否する Grok ツール引数の整数表記（例 120000.0）を翻訳前に直す CLIProxyAPI プラグイン。
+- [dsh-llm-oauth — DeepSeek Harness Grok OAuth plugin](https://github.com/ziyou979/dsh-llm-oauth) - DeepSeek Harness プラグイン。Copilot／Codex／Anthropic と並び SuperGrok／X Premium OAuth 購読ルートを追加。
+- [dsh-OAuth — desktop Grok login bar for DeepSeek Harness](https://github.com/yueyexiayu/dsh-OAuth) - 入力欄下に Grok／ChatGPT Codex OAuth 状態を出す DSH デスクトッププラグイン。~/.grok/auth.json は触らない。
+- [agentgrep — search local Grok and peer agent history](https://github.com/tony/agentgrep) - 本地の Codex / Claude / Cursor / Antigravity / Grok / Pi / OpenCode 履歴からプロンプトと会話を grep する CLI。
+- [gaius — offline ops memory for Grok Build sessions](https://github.com/jkubo/gaius) - Claude Code／Grok Build／Gemini／Codex セッションから運用知を抽出し注入する自ホスト・オフライン記憶。
 
 ## 貢献
 
-8 セクションに 1181 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1212 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
