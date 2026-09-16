@@ -207,6 +207,7 @@ COUNTRY_LABEL = {
     "mt": {"en": "Malta", "zh": "马耳他", "ja": "マルタ"},
     "pt": {"en": "Portugal", "zh": "葡萄牙", "ja": "ポルトガル"},
     "be": {"en": "Belgium", "zh": "比利时", "ja": "ベルギー"},
+    "bj": {"en": "Benin", "zh": "贝宁", "ja": "ベナン"},
     "bd": {"en": "Bangladesh", "zh": "孟加拉国", "ja": "バングラデシュ"},
     "de": {"en": "Germany", "zh": "德国", "ja": "ドイツ"},
     "kh": {"en": "Cambodia", "zh": "柬埔寨", "ja": "カンボジア"},
@@ -379,6 +380,7 @@ EVENT_GEO = {
     "bcn-20260929": ("es", "Barcelona", "巴塞罗那", "バルセロナ"),
     "vdc-20261014": ("br", "Vitória da Conquista", "维多利亚·达孔基斯塔", "ヴィトーリア・ダ・コンキスタ"),
     "gsp-20261008": ("us", "Greenville", "格林维尔", "グリーンビル"),
+    "coo-20261003": ("bj", "Cotonou", "科托努", "コトヌー"),
 }
 
 

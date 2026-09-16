@@ -27,9 +27,6 @@
 <a id="country-us"></a>
 ### アメリカ
 
-<a id="lv-20260915"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot Meetup Las Vegas" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Las Vegas</strong><br />2026-09-15（月）18:00-20:00（PDT）<br />ラスベガス · 登録承認後に会場を表示<br /><br />交流、トーク / Workshop、Cursor チームのビデオ Q&A。主催者承認制、会場は未定。<br /><br /><a href="https://luma.com/cursor-kaua"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
 <a id="sfse-20260916"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-7n4l"><img src="./assets/events/sfse-20260916-cover.png" alt="Grok Bot for Sales Engineering（SF）" width="300" /></a></td><td valign="top"><strong>Grok Bot for Sales Engineering（SF）</strong><br />2026-09-16（火）09:00–10:30（PDT）<br />San Francisco, CA · The Howard SF, 661 Howard St<br /><br />Sales Engineering 向け公式セッション（The Howard）。無料・残席約 146（Jenna Nanpei / Kathryn Trainor）。<br /><br /><a href="https://luma.com/spacexai-7n4l"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
@@ -215,6 +212,12 @@
 
 <a id="leu-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-leuven-meetup"><img src="./assets/events/leu-20260919-cover.png" alt="Grok Bot Meetup Leuven" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Leuven</strong><br />2026-09-19（土）14:00–17:30（CEST）<br />ルーヴェン · Blijde Inkomststraat 22<br /><br />ベルギー初の Grok Bot Meetup。デモと交流。forum 170453・承認制。<br /><br /><a href="https://luma.com/spacexai-leuven-meetup"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="country-bj"></a>
+### ベナン
+
+<a id="coo-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-fd2l"><img src="./assets/events/coo-20261003-cover.png" alt="Grok Bot ベナン Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot ベナン Workshop</strong><br />2026-10-03（土）09:00–13:00（Africa/Lagos、WAT、UTC+1）<br />ベナン・ゴドメー（コトヌー都市圏）Bibliothèque Benin Excellence（オフライン）<br /><br />SpaceXAI Benin Community 主催のゴドメー/コトヌーでのオフライン Workshop（ホスト Aina René Régis KIKI；カレンダー SpaceXAI for Cotonou）。Grok Bot 入門、AI coding / プロンプト、アイデアから試作までのプロダクト構築、ネットワーキング。学生・開発者歓迎。無料RSVP（スキャン時 guest_count 0）。会場：Bibliothèque Benin Excellence。slug spacexai-fd2l；フォーラムの New event 投稿はまだなし。<br /><br /><a href="https://luma.com/spacexai-fd2l"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
 <a id="country-gb"></a>
 ### イギリス

@@ -27,9 +27,6 @@
 <a id="country-us"></a>
 ### 美国
 
-<a id="lv-20260915"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot 拉斯维加斯线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 拉斯维加斯线下交流</strong><br />2026-09-15 周一 18:00-20:00（太平洋夏令时）<br />拉斯维加斯 · 报名审核后可见场地<br /><br />破冰 + 分享 / Workshop，Cursor 团队视频问答。需主办审核，场地待定。<br /><br /><a href="https://luma.com/cursor-kaua"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
 <a id="sfse-20260916"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-7n4l"><img src="./assets/events/sfse-20260916-cover.png" alt="Grok Bot for Sales Engineering（旧金山）" width="300" /></a></td><td valign="top"><strong>Grok Bot for Sales Engineering（旧金山）</strong><br />2026-09-16 周二 09:00–10:30（旧金山）<br />旧金山 · The Howard SF, 661 Howard St<br /><br />官方 Sales Engineering Grok Bot 场（The Howard）。免费，约 146 席（Jenna Nanpei / Kathryn Trainor）。<br /><br /><a href="https://luma.com/spacexai-7n4l"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
@@ -215,6 +212,12 @@
 
 <a id="leu-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-leuven-meetup"><img src="./assets/events/leu-20260919-cover.png" alt="Grok Bot 鲁汶线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 鲁汶线下交流</strong><br />2026-09-19 周六 14:00–17:30（比利时）<br />比利时鲁汶 · Blijde Inkomststraat 22<br /><br />比利时首场 Grok Bot 线下：AI 队友演示与交流。论坛 170453；需候补/审核。<br /><br /><a href="https://luma.com/spacexai-leuven-meetup"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
+<a id="country-bj"></a>
+### 贝宁
+
+<a id="coo-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-fd2l"><img src="./assets/events/coo-20261003-cover.png" alt="Grok Bot 贝宁 Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot 贝宁 Workshop</strong><br />2026-10-03 周六 09:00–13:00（贝宁科托努/戈多梅 Africa/Lagos，UTC+1）<br />贝宁戈多梅（科托努都会区）Bibliothèque Benin Excellence（线下）<br /><br />SpaceXAI Benin Community 在戈多梅/科托努举办的线下 Workshop（主办 Aina René Régis KIKI；日历 SpaceXAI for Cotonou）。上手 Grok Bot、AI coding / prompt、从想法到可测原型的产品构建，并与当地社区交流。学生与开发者皆可。免费报名（扫描时 guest_count 0）。场地：Bibliothèque Benin Excellence。slug spacexai-fd2l；论坛尚无 New event 帖。<br /><br /><a href="https://luma.com/spacexai-fd2l"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="country-gb"></a>
 ### 英国

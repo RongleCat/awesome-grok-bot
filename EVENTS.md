@@ -27,9 +27,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="country-us"></a>
 ### United States
 
-<a id="lv-20260915"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kaua"><img src="./assets/events/lv-20260915-cover.png" alt="Grok Bot Meetup Las Vegas" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Las Vegas</strong><br />Mon 15 Sep 2026, 18:00-20:00 (PDT)<br />Las Vegas, NV, venue TBD after you register<br /><br />Networking, talks/workshop, and a Cursor-team Q&A on video. Host approval required, venue still TBD.<br /><br /><a href="https://luma.com/cursor-kaua"><strong>Register on Luma →</strong></a></td></tr></table>
-
 <a id="sfse-20260916"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-7n4l"><img src="./assets/events/sfse-20260916-cover.png" alt="Grok Bot for Sales Engineering (SF)" width="300" /></a></td><td valign="top"><strong>Grok Bot for Sales Engineering (SF)</strong><br />Tue 16 Sep 2026, 09:00–10:30 (PDT)<br />San Francisco, CA · The Howard SF, 661 Howard St<br /><br />Official Sales Engineering Grok Bot session at The Howard. Free; ~146 seats (hosts Jenna Nanpei, Kathryn Trainor).<br /><br /><a href="https://luma.com/spacexai-7n4l"><strong>Register on Luma → →</strong></a></td></tr></table>
 
@@ -215,6 +212,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="leu-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-leuven-meetup"><img src="./assets/events/leu-20260919-cover.png" alt="Grok Bot Leuven Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Leuven Meetup</strong><br />Sat 19 Sep 2026, 14:00–17:30 (CEST)<br />Leuven, Belgium · Blijde Inkomststraat 22<br /><br />Belgium’s first Grok Bot meetup — AI teammate demos and hang. Forum 170453; SpaceXAI for Belgium; waitlist/approval.<br /><br /><a href="https://luma.com/spacexai-leuven-meetup"><strong>Register on Luma → →</strong></a></td></tr></table>
+
+<a id="country-bj"></a>
+### Benin
+
+<a id="coo-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-fd2l"><img src="./assets/events/coo-20261003-cover.png" alt="Grok Bot Benin Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Benin Workshop</strong><br />Sat 3 Oct 2026, 09:00–13:00 (Africa/Lagos / WAT, UTC+1)<br />Bibliothèque Benin Excellence, Godomey (Cotonou metro), Benin — offline<br /><br />SpaceXAI Benin Community workshop in Godomey/Cotonou (host Aina René Régis KIKI; calendar SpaceXAI for Cotonou, Benin). Hands-on: Grok Bot onboarding + AI coding / prompt practices + product building from idea to testable prototype; networking with Benin's tech community. Students, beginner/advanced devs, and AI-curious welcome. Free Standard RSVP (guest_count 0 at scan; registration open). Venue: Bibliothèque Benin Excellence, Godomey. Slug spacexai-fd2l (evt-l3Gjkx4wZqGR6hg); no forum New-event post yet.<br /><br /><a href="https://luma.com/spacexai-fd2l"><strong>Register on Luma → →</strong></a></td></tr></table>
 
 <a id="country-gb"></a>
 ### United Kingdom

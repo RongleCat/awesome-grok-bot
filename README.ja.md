@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1156-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1181-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [イベントの詳細](./EVENTS.ja.md)
 
 - **中国**（5）：[上海](./EVENTS.ja.md#sha-20261018) · [杭州](./EVENTS.ja.md#hzo-20260919) · [北京](./EVENTS.ja.md#bj-20260919) · [武漢](./EVENTS.ja.md#wuh-20261017) · [珠海](./EVENTS.ja.md#zuh-20260920)
-- **アメリカ**（19）：[ラスベガス](./EVENTS.ja.md#lv-20260915) · [サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [サンフランシスコ（Sales）](./EVENTS.ja.md#sfsales-20260916) · [ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [ダラス](./EVENTS.ja.md#dal-20260919) · [マイアミ](./EVENTS.ja.md#mia-20260923) · [アトランタ](./EVENTS.ja.md#atl-20260924) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [ニューヨーク](./EVENTS.ja.md#nym-20260917) · [ロサンゼルス](./EVENTS.ja.md#lad-20260922) · [シアトル](./EVENTS.ja.md#sea-20260924) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [オースティン](./EVENTS.ja.md#aus-20260916) · [グリーンビル](./EVENTS.ja.md#gsp-20261008)
+- **アメリカ**（18）：[サンフランシスコ](./EVENTS.ja.md#sfse-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfsdr-20260916) · [サンフランシスコ](./EVENTS.ja.md#sfmo-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfps-20260917) · [サンフランシスコ](./EVENTS.ja.md#sfm-20260917) · [サンフランシスコ（Sales）](./EVENTS.ja.md#sfsales-20260916) · [ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [ダラス](./EVENTS.ja.md#dal-20260919) · [マイアミ](./EVENTS.ja.md#mia-20260923) · [アトランタ](./EVENTS.ja.md#atl-20260924) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [ニューヨーク](./EVENTS.ja.md#nym-20260917) · [ロサンゼルス](./EVENTS.ja.md#lad-20260922) · [シアトル](./EVENTS.ja.md#sea-20260924) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [オースティン](./EVENTS.ja.md#aus-20260916) · [グリーンビル](./EVENTS.ja.md#gsp-20261008)
 - **カナダ**（4）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [ビクトリア（BC）](./EVENTS.ja.md#vic-20260921) · [トロント](./EVENTS.ja.md#yyz-20260917) · [モントリオール](./EVENTS.ja.md#yul-20260926)
 - **アルゼンチン**（3）：[ブエノスアイレス](./EVENTS.ja.md#bue-20260916) · [メンドサ](./EVENTS.ja.md#mdz-20261003) · [サルタ](./EVENTS.ja.md#sla-20260916)
 - **ブラジル**（3）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [フロリアノポリス](./EVENTS.ja.md#fln-20260926)
@@ -53,6 +53,7 @@
 - **オーストラリア**（1）：[シドニー](./EVENTS.ja.md#syd-20261007)
 - **バングラデシュ**（1）：[ダッカ](./EVENTS.ja.md#dac-20260920)
 - **ベルギー**（1）：[ルーヴェン](./EVENTS.ja.md#leu-20260919)
+- **ベナン**（1）：[コトヌー](./EVENTS.ja.md#coo-20261003)
 - **イギリス**（1）：[ロンドン](./EVENTS.ja.md#ldn-20260916)
 - **アイルランド**（1）：[ダブリン](./EVENTS.ja.md#dub-20261004)
 - **ケニア**（1）：[ナイロビ](./EVENTS.ja.md#nbo-20260917)
@@ -355,6 +356,8 @@
 - [OpenSCAD print loop with Grok Bot + Build](https://github.com/leaf1644/OpensCAD-viewer) - 事例。Grok Bot がクラウド PC で OpenSCAD を確認し、Grok Build が .scad を書いて直す印刷ループ。
 - [BMO — Grok Bot seat export (CoS profile + skills)](https://github.com/owenezra/BMO) - Grok Bot CoS シートの公開エクスポート。人設・ワークフロー・資産（会話DBなし）。
 - [Half X — Grok Bot feature-request board prototype](https://github.com/ojotapcosta/grok-bot-requests) - Grok Bot 機能要望ボード原型。X グループの案を投票在庫化。
+- [Grok_Secretary — secretary AGENTS.md for Grok Bot](https://github.com/TeaKitano/Grok_Secretary) - 本物の Grok Bot クラウド PC 上で秘書ボットを運用するための日本語ガイドと公開 AGENTS.md。
+- [hunting-printables-team — Etsy printables Grok Bot team](https://github.com/SAW72/hunting-printables-team) - 狩猟テーマの Etsy 印刷物向けに偵察・デザイン・コピー・梱包を分担する Grok Bot チームの役割プロンプト。
 
 ## スキル、プラグインと MCP
 
@@ -692,6 +695,12 @@
 - [NTainers MCP plugin for Cursor / Grok Bot](https://github.com/Ntainersco/ntainers-mcp-plugin) - Cursor/Grok Bot 向け NTainers MCP 薄いラッパ。TMS/CargoWise 連携。
 - [Grok Bot Team Builder skill](https://github.com/stevederico/grok-bot-team-builder) - Grok Bot スキル。CoS がヒアリングし Research/Software/Marketing 等を配置。
 - [fraxinus-release — Grok Bot linux CLI drop](https://github.com/haru0416-dev/fraxinus-release) - Grok Bot 向け Fraxinus CLI の linux x86_64 配布。検索・図表・PDF 等。
+- [longgraph — long-horizon ledger skill for Grok Build](https://github.com/levi-qiao/longgraph-skill) - Claude Code・Cursor・Codex・Grok Build で共有できる耐久台帳付きの長時間ループ・スキル。
+- [Banger — company email .grok-plugin for Grok Bot](https://github.com/MuchBetterApps/banger-plugin) - エージェントが運用する社内メール用プラグインで、Grok Bot / Grok Build 向け .grok-plugin を同梱。
+- [twinglass-pack — non-overlapping Grok Build skill pack](https://github.com/Fractal-Deployment/twinglass-pack) - .grok-plugin で入れられる Grok Build CLI スキルパック。lattice/twin と単機能スキルを同梱。
+- [briven-plugin — serverless Postgres plugin for Grok Build](https://github.com/flndrn-dev/briven-plugin) - Briven のサーバーレス PostgreSQL スキルと MCP 入口。grok plugin install --trust で導入。
+- [Armbrain — memory MCP plugin for Cursor and Grok Bot](https://github.com/armbrain-io/armbrain-cursor-plugin) - Armbrain 公式の Agent Plugin。Cursor と Grok Bot 向けリモート MCP とスキルを同梱。
+- [GrokBot OpenAI Bridge — ChatGPT courier skill for Grok Bot](https://github.com/OneVillage83/GrokBot-OpenAI-Bridge) - 設計は ChatGPT、実装は Bot のクラウド PC 上の Codex 作業系に載せる CLI＋Grok Bot スキル。
 
 ## レビューと比較
 
@@ -943,6 +952,15 @@
 - [grok-bot-cli — manage Grok Bot agents from the terminal](https://github.com/aa22396584/grok-bot-cli) - npm CLI。Grok Bot の agent/group/thread を端末から作成・操作・清掃。
 - [Orchestra — multi-agent delivery for Codex/Cursor/Grok Build](https://github.com/FranciscoJSBarragan/Orchestra) - Codex/Cursor/Grok Build 向け低コスト交付ワークフロー。計画→検証→コミット。
 - [GrokPot — desktop workspace that can recreate Grok Bot teams](https://github.com/bgibson253/GrokPot) - デスクトップ AI 作業場。説明から Grok Bot チームを再構成可能。
+- [opendray — self-hosted gateway including Grok Build](https://github.com/Opendray/opendray) - Web・モバイル・チャットから Claude Code / Codex / Antigravity / Grok Build / OpenCode を動かすセルフホスト基盤。
+- [Agent Studio — Electron ACP desktop for Grok Build](https://github.com/promise-thens/agent-studio) - ACP 経由でローカル Grok Build を駆動するコミュニティ製 Electron/Vue デスクトップ。
+- [AGI Cockpit — parallel agent manager with Grok Build](https://github.com/tempi-tech/agi-cockpit) - Claude Code・Codex・Cursor・Grok Build のタスクを一つのコックピットで監督するデスクトップ。
+- [Rig — parent/worker control plane for Grok CLI](https://github.com/Brasth/Rig) - Grok を親/ワーカーとして起動でき、Grok Bot.app は GUI のみと明記する端末コントロールプレーン。
+- [Vibey — voice orchestrator that can dispatch Grok Build](https://github.com/h1ddenpr0cess20/vibey) - 会話を保持しつつ Claude Code / Codex / OpenCode / Grok Build に作業を振る音声バイブコーディング助手。
+- [tater — potato voice agent that can drive Grok Build](https://github.com/h1ddenpr0cess20/tater) - ぶっきらぼうなポテト音声エージェント。Grok Build などの CLI をリポジトリに向けて口頭で進行。
+- [AppFolio → Grok Bot webhook bridge](https://github.com/5amfung/appfolio-grokbot-webhook-bridge) - AppFolio の JWS Webhook を検証し、生ボディを Grok Bot 受信 Webhook へ転送する Vercel ブリッジ。
+- [Grok30m — VS Code/Cursor fork of Grok Build UI](https://github.com/thirtym/grok30m) - エディタタブチャットと Sessions サイドバーを足した Grok Build VS Code フォーク。ACP stdio で grok CLI 接続。
+- [grok-omp — Grok Build TUI driven by Oh My Pi](https://github.com/firatoezcan/grok-omp) - Grok Build TUI のフォーク。Oh My Pi の ACP バックエンドに差し替え、自前モデル/プロバイダを利用。
 
 ## コミュニティと障害事例
 
@@ -1259,10 +1277,18 @@
 - [captain-miao — mission control with Grok Build hooks](https://github.com/hyperlogue/captain-miao) - コーディング代理の司令塔。`~/.grok` hooks で Grok Build を監視。
 - [xAI Plugin Marketplace index for Grok Build](https://github.com/aa22396584/plugin-marketplace) - Grok Build プラグイン目録。`.grok-plugin` 付きで閲覧・安装・更新。
 - [ARM64-fixes — Windows-on-ARM fixes for Grok Build CLI](https://github.com/ookla-ariel-ride/ARM64-fixes) - Snapdragon X 向け CLI 修正集。Grok Build CLI 専用ガイド付き。
+- [Ceiling — Windows capacity strip including Grok](https://github.com/btsouth/ceiling) - タスクバー上で Grok（ほか Codex/Claude/Cursor）の枠とリセットを追う Windows 容量モニタ。
+- [grok-faf-mcp — persistent .faf context MCP for Grok](https://github.com/Wolfe-Jam/grok-faf-mcp) - IANA 登録の .faf 形式で Grok Build / Grok TUI に永続プロジェクト文脈を渡す URL ホスト型 MCP。
+- [Arai — enforced AGENTS.md hooks for Grok Build](https://github.com/taniwhaai/arai) - AGENTS.md などを PreToolUse フック化し、Grok Build 上で危険なツール呼び出しを遮断できる。
+- [AI Quota Pet — Windows pet for Grok Bot quotas](https://github.com/MGMTopia/grok-usage-pet) - SuperGrok / Grok Bot / Cursor / Codex の残枠を表示する非公式 Windows デスクトップペット。
+- [TokenGauge — Waybar/TUI usage gauge reading ~/.grok](https://github.com/Arzaroth/TokenGauge) - Grok Build CLI の ~/.grok 認証ほか複数プロバイダを読む Linux Waybar/Plasma/GNOME/TUI モニタ。
+- [DeepSquishies — whale desk pet with Grok Build usage](https://github.com/jamielgbr/DeepSquishies) - Grok Build や Codex / Claude Code などの使用量パネルを切り替える Windows/macOS クジラ机上ペット。
+- [grokfix — Windows/protoc patches for Grok Build](https://github.com/goldengateagent/grokfix) - Grok Build の Windows ビルド問題とプロバイダの非標準 ping 応答を直す小さなパッチ集。
+- [kiro-acp — wire Kiro Crew to Grok Build over ACP](https://github.com/snpyeso/kiro-acp) - Kiro Crew をパッチし、Grok Build（grok agent stdio）を選択可能な ACP バックエンドにするスクリプト群。
 
 ## 貢献
 
-8 セクションに 1156 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1181 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
