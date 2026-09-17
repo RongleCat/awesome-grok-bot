@@ -185,6 +185,7 @@ COUNTRY_LABEL = {
     "pe": {"en": "Peru", "zh": "秘鲁", "ja": "ペルー"},
     "co": {"en": "Colombia", "zh": "哥伦比亚", "ja": "コロンビア"},
     "br": {"en": "Brazil", "zh": "巴西", "ja": "ブラジル"},
+    "bo": {"en": "Bolivia", "zh": "玻利维亚", "ja": "ボリビア"},
     "gt": {"en": "Guatemala", "zh": "危地马拉", "ja": "グアテマラ"},
     "sv": {"en": "El Salvador", "zh": "萨尔瓦多", "ja": "エルサルバドル"},
     "ph": {"en": "Philippines", "zh": "菲律宾", "ja": "フィリピン"},
@@ -215,6 +216,7 @@ COUNTRY_LABEL = {
     "ma": {"en": "Morocco", "zh": "摩洛哥", "ja": "モロッコ"},
     "es": {"en": "Spain", "zh": "西班牙", "ja": "スペイン"},
     "ug": {"en": "Uganda", "zh": "乌干达", "ja": "ウガンダ"},
+    "vn": {"en": "Vietnam", "zh": "越南", "ja": "ベトナム"},
     "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
     "other": {"en": "Other", "zh": "其他", "ja": "その他"},
 }
@@ -381,6 +383,9 @@ EVENT_GEO = {
     "vdc-20261014": ("br", "Vitória da Conquista", "维多利亚·达孔基斯塔", "ヴィトーリア・ダ・コンキスタ"),
     "gsp-20261008": ("us", "Greenville", "格林维尔", "グリーンビル"),
     "coo-20261003": ("bj", "Cotonou", "科托努", "コトヌー"),
+    "vvi-20260926": ("bo", "Santa Cruz", "圣克鲁斯", "サンタクルス"),
+    "dad-20261003": ("vn", "Da Nang", "岘港", "ダナン"),
+    "yyz-20261026": ("ca", "Toronto", "多伦多", "トロント"),
 }
 
 

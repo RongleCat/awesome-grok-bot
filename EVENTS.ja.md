@@ -27,12 +27,6 @@
 <a id="country-us"></a>
 ### アメリカ
 
-<a id="sfse-20260916"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-7n4l"><img src="./assets/events/sfse-20260916-cover.png" alt="Grok Bot for Sales Engineering（SF）" width="300" /></a></td><td valign="top"><strong>Grok Bot for Sales Engineering（SF）</strong><br />2026-09-16（火）09:00–10:30（PDT）<br />San Francisco, CA · The Howard SF, 661 Howard St<br /><br />Sales Engineering 向け公式セッション（The Howard）。無料・残席約 146（Jenna Nanpei / Kathryn Trainor）。<br /><br /><a href="https://luma.com/spacexai-7n4l"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
-<a id="sfsdr-20260916"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-dtez"><img src="./assets/events/sfsdr-20260916-cover.png" alt="Grok Bot for SDRs（SF）" width="300" /></a></td><td valign="top"><strong>Grok Bot for SDRs（SF）</strong><br />2026-09-16（火）14:30–15:30（PDT）<br />San Francisco, CA · The Howard SF, 661 Howard St<br /><br />SDR 向け公式ワークショップ（The Howard）。無料・残席約 147（Jenna Nanpei）。<br /><br /><a href="https://luma.com/spacexai-dtez"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
 <a id="sfmo-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-obof"><img src="./assets/events/sfmo-20260917-cover.png" alt="Grok Bot for Marketing Operations（SF）" width="300" /></a></td><td valign="top"><strong>Grok Bot for Marketing Operations（SF）</strong><br />2026-09-17（水）09:00–10:30（PDT）<br />San Francisco, CA · The Howard SF, 661 Howard St<br /><br />Marketing Ops 向け公式セッション（The Howard）。無料・残席約 146（Jenna Nanpei）。<br /><br /><a href="https://luma.com/spacexai-obof"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
@@ -41,9 +35,6 @@
 
 <a id="sfm-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-1ctm"><img src="./assets/events/sfm-20260917-cover.png" alt="Grok Bot for Marketing（SF）" width="300" /></a></td><td valign="top"><strong>Grok Bot for Marketing（SF）</strong><br />2026-09-17（木）14:30–15:30（America/Los_Angeles、PDT、UTC−7）<br />San Francisco, CA · The Howard SF, 661 Howard St<br /><br />Marketing 向け公式セッション（The Howard）。無料・残席約 148（Jenna Nanpei / Kathryn Trainor）。<br /><br /><a href="https://luma.com/spacexai-1ctm"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
-<a id="sfsales-20260916"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-vpud"><img src="./assets/events/sfsales-20260916-cover.png" alt="Grok Bot for Sales（SF）" width="300" /></a></td><td valign="top"><strong>Grok Bot for Sales（SF）</strong><br />2026-09-16（火）12:30–14:00（PDT）<br />San Francisco, CA · The Howard SF, 661 Howard St<br /><br />セールス向け公式 Grok Bot ワークショップ（The Howard／Sales Eng と SDR の間）。無料・残席約 144・承認制。<br /><br /><a href="https://luma.com/spacexai-vpud"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
 <a id="pgh-20261013"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/6lx5t8ru"><img src="./assets/events/pgh-20261013-cover.png" alt="Grok Bot Meetup Pittsburgh" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Pittsburgh</strong><br />2026-10-13（火）18:30–20:30（EDT）<br />ピッツバーグ · Oakland / Lawrenceville（登録後に住所を表示）<br /><br />ピッツバーグ初のシティ向け対面ミートアップ（キャンパス限定ではない）。短いデモの後にビルド／セットアップ共有。学生・社会人歓迎。主催 Micah Smith。無料・先着約30席。<br /><br /><a href="https://luma.com/6lx5t8ru"><strong>Luma で申し込む →</strong></a></td></tr></table>
@@ -96,17 +87,8 @@
 <a id="yul-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/hkujao4q"><img src="./assets/events/yul-20260919-cover.png" alt="Official Grok Bot Meetup Montreal - BUILD DAY" width="300" /></a></td><td valign="top"><strong>Official Grok Bot Meetup Montreal - BUILD DAY</strong><br />2026-10-03（土）12:00–17:00（America/Toronto、EDT）<br />モントリオール · Reflex（63 Rue de Brésoles、SpaceXAI Community 連携）<br /><br />モントリオール公式 Grok Bot Meetup（Reflex）。短いチュートリアル、コミュニティデモ、交流とメンター。クレジットとスワッグあり。主催 Lucas & Samira G.。無料・承認制。午後対面。EventScheduled。<br /><br /><a href="https://luma.com/hkujao4q"><strong>申し込む →</strong></a></td></tr></table>
 
-<a id="country-ar"></a>
-### アルゼンチン
-
-<a id="bue-20260916"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/8l9u6sns"><img src="./assets/events/bue-20260916-cover.png" alt="Grok Bot Meetup Buenos Aires" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Buenos Aires</strong><br />2026-09-16（水）18:00–20:00（ART）<br />ブエノスアイレス · 登録後に住所を表示<br /><br />ブエノスアイレスの対面 Grok Bot。無料、主催者承認、ウェイティング可、残席 100。<br /><br /><a href="https://luma.com/8l9u6sns"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="mdz-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-mtu0"><img src="./assets/events/mdz-20260929-cover.png" alt="Grok Bot Meetup Mendoza" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Mendoza</strong><br />2026-10-03（土）17:00–20:00（ART）<br />メンドーサ TIC テクノパーク、Rafael Cubillos 2100-2198<br /><br />メンドーサの対面 Grok Bot。先着。<br /><br /><a href="https://luma.com/cursor-mtu0"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="sla-20260916"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-sh4i"><img src="./assets/events/sla-20260916-cover.png" alt="Grok Bot Meetup Salta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Salta</strong><br />2026-09-16（水）18:00–20:00（ART）<br />サルタ · SorboLabs, Dean Funes 244（登録後に住所）<br /><br />サルタ初の Grok Bot。入門ワークショップ、実用例、Q&A、持参 PC でコーワーク。ツールにログインして仕事を仕上げて戻る。主催者承認。充電器持参。<br /><br /><a href="https://luma.com/cursor-sh4i"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+<a id="yyz-20261026"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/mj5bmugc"><img src="./assets/events/yyz-20261026-cover.png" alt="Grok Bot Meetup Toronto（10月）" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Toronto（10月）</strong><br />2026-10-26（月）17:30–20:30（America/Toronto、UTC-4）<br />カナダ・トロント 800 Bay 周辺（Luma で住所ぼかし）（オフライン）<br /><br />トロント月次 Grok Bot ミートアップ（10月／ホスト Jia Ming Huang ほか；カタログ済 yyz-20260917 の続編）。800 Bay で約17:30–20:30：交流・スピーカー2名・Q&A・ビルド。食事付き。ノートPC持参、18:15入場締切。無料・承認制（スキャン時残り約400）。新 slug mj5bmugc；yyz-20260917 と混同しないこと。<br /><br /><a href="https://luma.com/mj5bmugc"><strong>Luma で登録 → →</strong></a></td></tr></table>
 
 <a id="country-br"></a>
 ### ブラジル
@@ -195,6 +177,12 @@
 <a id="tia-20260917"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-ibxj"><img src="./assets/events/tia-20260917-cover.png" alt="Grok Bot Meetup Tirana" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Tirana</strong><br />2026-09-17（木）18:30–20:00（CEST）<br />ティラナ · 登録後に住所を表示<br /><br />ティラナの 9 月 Grok Bot / Cursor ミートアップ。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-ibxj"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
+<a id="country-ar"></a>
+### アルゼンチン
+
+<a id="mdz-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-mtu0"><img src="./assets/events/mdz-20260929-cover.png" alt="Grok Bot Meetup Mendoza" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Mendoza</strong><br />2026-10-03（土）17:00–20:00（ART）<br />メンドーサ TIC テクノパーク、Rafael Cubillos 2100-2198<br /><br />メンドーサの対面 Grok Bot。先着。<br /><br /><a href="https://luma.com/cursor-mtu0"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
 <a id="country-au"></a>
 ### オーストラリア
 
@@ -219,11 +207,11 @@
 <a id="coo-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-fd2l"><img src="./assets/events/coo-20261003-cover.png" alt="Grok Bot ベナン Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot ベナン Workshop</strong><br />2026-10-03（土）09:00–13:00（Africa/Lagos、WAT、UTC+1）<br />ベナン・ゴドメー（コトヌー都市圏）Bibliothèque Benin Excellence（オフライン）<br /><br />SpaceXAI Benin Community 主催のゴドメー/コトヌーでのオフライン Workshop（ホスト Aina René Régis KIKI；カレンダー SpaceXAI for Cotonou）。Grok Bot 入門、AI coding / プロンプト、アイデアから試作までのプロダクト構築、ネットワーキング。学生・開発者歓迎。無料RSVP（スキャン時 guest_count 0）。会場：Bibliothèque Benin Excellence。slug spacexai-fd2l；フォーラムの New event 投稿はまだなし。<br /><br /><a href="https://luma.com/spacexai-fd2l"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
-<a id="country-gb"></a>
-### イギリス
+<a id="country-bo"></a>
+### ボリビア
 
-<a id="ldn-20260916"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-london"><img src="./assets/events/ldn-20260916-cover.png" alt="Grok Bot Meetup London" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup London</strong><br />2026-09-16（水）18:00–21:00（BST）<br />ロンドン · Granola 主催（登録後に住所）<br /><br />ロンドン初の Grok Bot。夕方コーワークと地元パワーユーザーデモ（SpaceXAI フィールドエンジニア）、ノート PC とクレジット。無料登録。<br /><br /><a href="https://luma.com/grok-bot-london"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+<a id="vvi-20260926"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-gc1m"><img src="./assets/events/vvi-20260926-cover.png" alt="Grok Bot Meetup サンタクルス" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup サンタクルス</strong><br />2026-09-26（土）08:30–12:00（America/La_Paz、UTC-4）<br />ボリビア・サンタクルス・デ・ラ・シエラ Universidad Central (Unicen), Ave Trinidad 425（オフライン）<br /><br />ボリビア・サンタクルス初のカタログ掲載 Grok Bot ミートアップ（ホスト Diego Oliver）。スペイン語の午前ワークショップ：紹介・ビルド・共有・交流。無料・承認制。会場 Universidad Central (Unicen)。新 slug spacexai-gc1m；フォーラムの New event 投稿はまだなし。<br /><br /><a href="https://luma.com/spacexai-gc1m"><strong>Luma で登録 → →</strong></a></td></tr></table>
 
 <a id="country-ie"></a>
 ### アイルランド
@@ -296,6 +284,12 @@
 
 <a id="kla-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-upc4"><img src="./assets/events/kla-20261003-cover.png" alt="Grok Bot Meetup Kampala" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Kampala</strong><br />2026-10-03（土）14:00–17:00（Africa/Nairobi、EAT、UTC+3／カンパラ同オフセット）<br />ウガンダ・カンパラ · 会場未定（登録後に案内）<br /><br />SpaceXAI for Kampala, Uganda, Africa の午後Meetup（主催 Ronnie 3.0）。Grok Bot は実作業ができるクラウドエージェント付き AI アシスタント（チャットだけではない）、という製品コピー。始め方・実務ワークフロー・Q&A。Android/Mac/iOS/Linux 対応・初心者歓迎。無料・承認不要・残席100・スキャン時0名。会場は登録後。morning discover / community cal に無く新規。<br /><br /><a href="https://luma.com/spacexai-upc4"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="country-vn"></a>
+### ベトナム
+
+<a id="dad-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-80r9"><img src="./assets/events/dad-20261003-cover.png" alt="Grok Bot Meetup ダナン" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ダナン</strong><br />2026-10-03（土）13:00–16:00（Asia/Ho_Chi_Minh、UTC+7）<br />1710 Cafe & Society, 10 Trần Quý Cáp, Hải Châu, Đà Nẵng 550000, Vietnam（オフライン）<br /><br />ベトナム・ダナンの Grok Bot ミートアップ（ホスト Keith Vaughan, Laksh Arora；Frontier Club Da Nang 支援）。13:00–16:00：受付、アイスブレイク、SpaceXAI/Cursor Q&A、ライトニングデモ、交流。無料オープンRSVP（スキャン時残り約70）。会場 1710 Cafe & Society。新 slug spacexai-80r9；フォーラムの New event 投稿はまだなし。<br /><br /><a href="https://luma.com/spacexai-80r9"><strong>Luma で登録 → →</strong></a></td></tr></table>
 
 <a id="country-zm"></a>
 ### ザンビア

@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -913,6 +913,16 @@
             "en": "Official @bot (2026-09-09): users now get an average of ~10% more included Grok Bot usage from a more efficient harness (up to 35% for heavy users) — missed sibling of the Sep 9 QoL thread already in catalog.",
             "zh": "官方 @bot（2026-09-09）：通过更高效的 harness，用户平均可多约 10% 的 Grok Bot 含用量（重度用户最高约 35%）——同日 QoL 线程中此前未入库的一条。",
             "ja": "公式 @bot（2026-09-09）：ハーネス効率化により Grok Bot の含む利用量が平均約 10%増（ヘビーユーザーは最大約 35%）——同日 QoL スレッドで未収録だった投稿。"
+          }
+        },
+        {
+          "title": "Grok Bot can use 1Password — share vault items, approve each fill",
+          "url": "https://x.com/bot/status/2100335532597502311",
+          "source": "GB-1274",
+          "blurb": {
+            "en": "Official @bot (2026-09-16): Grok Bot can now use 1Password—share items in a vault, approve each fill, and keep secrets in the password manager; partnership follow-up notes more credential improvements coming; try from x.ai/bot (no dedicated docs/news page yet).",
+            "zh": "官方 @bot（2026-09-16）：Grok Bot 现已可用 1Password——在保险库中分享条目、每次填充需批准，密钥留在密码管理器；后续还将改进凭证能力；入口 x.ai/bot（暂无独立 docs/news 页）。",
+            "ja": "公式 @bot（2026-09-16）：Grok Bot が 1Password を利用可能に。Vault で項目を共有し、都度 Approve、秘密はパスワードマネージャに残る。追加の資格情報改善も予告。試すなら x.ai/bot（専用 docs/news は未掲載）。"
           }
         }
       ]
@@ -2743,6 +2753,46 @@
             "en": "Reception app for a Grok Bot Meetup that imports Luma guests, records door check-ins, and prints 58 mm ESC/POS welcome tickets.",
             "zh": "Grok Bot Meetup 接待应用：导入 Luma 嘉宾、登记签到，并打印 58 mm ESC/POS 欢迎小票。",
             "ja": "Grok Bot Meetup 受付アプリ。Luma 名簿取込・入場チェックイン・58mm ESC/POS 歓迎チケット印刷。"
+          }
+        },
+        {
+          "title": "Wardonis Grok Bot templates — Starbase / Galaxy",
+          "url": "https://github.com/Wardonis/wardonis-grok-bots",
+          "source": "GB-1253",
+          "blurb": {
+            "en": "Seven focused Grok Bot clone templates for the Starbase / Galaxy challenge with official x.ai/bot links.",
+            "zh": "Starbase / Galaxy 挑战的七个聚焦 Grok Bot 克隆模板，附官方 x.ai/bot 链接。",
+            "ja": "Starbase/Galaxy向けの7つのGrok Botクローンテンプレと公式x.ai/botリンクです。"
+          }
+        },
+        {
+          "title": "grok-bots — portable AI Researcher Bot recipe",
+          "url": "https://github.com/feraranas/grok-bots",
+          "source": "GB-1254",
+          "blurb": {
+            "en": "Portable scrubbed backup of an AI Researcher Grok Bot recipe with memories, skills, and routines.",
+            "zh": "可移植的 AI Researcher Grok Bot 配方备份（已脱敏），含记忆、技能与例程。",
+            "ja": "記憶・スキル・ルーチン込みのAI Researcher Grok Botレシピの可搬バックアップです。"
+          }
+        },
+        {
+          "title": "grok2telegram — Telegram on a Grok Bot cloud VM",
+          "url": "https://github.com/antonio-castellon/grok2telegram",
+          "source": "GB-1255",
+          "blurb": {
+            "en": "Grok Agent Bot on its cloud VM that long-polls a Telegram group and replies in-thread without a paid xAI API.",
+            "zh": "跑在云 VM 上的 Grok Agent Bot：长轮询 Telegram 群并回帖，无需付费 xAI API。",
+            "ja": "クラウドVM上のGrok Agent BotがTelegramグループを長ポーリングし、有料xAI APIなしで返信します。"
+          }
+        },
+        {
+          "title": "BBA Backtest Lab — Grok Bot team trading workspace",
+          "url": "https://github.com/Simzy420/bba-backtest-lab",
+          "source": "GB-1256",
+          "blurb": {
+            "en": "Shared backtesting lab where Big Brain Ape and a Grok Bot research/trader team exchange strategy briefs and journals.",
+            "zh": "Big Brain Ape 与 Grok Bot 研究/交易团队共享的回测实验室，交换策略简报与日志。",
+            "ja": "Big Brain ApeとGrok Bot研究/取引チームが戦略ブリーフと日誌を共有するバックテスト実験場です。"
           }
         }
       ]
@@ -6274,6 +6324,166 @@
             "zh": "Pi/OMP 桌面工作区，附带 Make Bot UI 技能：用安全 sender key 流程经 webhook 例程唤醒 Grok Bot。",
             "ja": "Pi/OMP デスクトップ作業場。安全な sender key 流れで webhook ルーチンから Grok Bot を起こす Make Bot UI スキル付き。"
           }
+        },
+        {
+          "title": "Remote Grok Build — Grok Bot Agent Plugin to local Grok Build",
+          "url": "https://github.com/Qervas/remote-grok-build",
+          "source": "GB-1237",
+          "blurb": {
+            "en": "Grok Bot Agent Plugin that bridges chat to local Grok Build on a linked PC with mission-control status.",
+            "zh": "Grok Bot Agent 插件，把对话桥接到本机 Grok Build，并带任务状态面板。",
+            "ja": "リンクPC上のローカルGrok Buildへチャットを橋渡しするGrok Bot Agentプラグインです。"
+          }
+        },
+        {
+          "title": "codex-plan — Codex writes plans for Grok Build",
+          "url": "https://github.com/sooth/codex-plan",
+          "source": "GB-1238",
+          "blurb": {
+            "en": "Grok Build skill that asks Codex CLI (GPT-6 Astra) to explore the repo and write a detailed plan.md for Grok.",
+            "zh": "Grok Build 技能：让 Codex CLI（GPT-6 Astra）探仓并写出供 Grok 执行的详细 plan.md。",
+            "ja": "Codex CLI（GPT-6 Astra）にリポジトリを調査させ、Grok向けの詳細plan.mdを書かせるGrok Buildスキルです。"
+          }
+        },
+        {
+          "title": "tandem-skills — Claude designs, Grok builds",
+          "url": "https://github.com/sungminpark-biz/tandem-skills",
+          "source": "GB-1239",
+          "blurb": {
+            "en": "Cross-model agent-team skills so Claude designs and reviews while Grok Build implements in one session.",
+            "zh": "跨模型协作技能：Claude 负责设计与评审，Grok Build 在同一会话里落地实现。",
+            "ja": "Claudeが設計・レビューし、Grok Buildが実装するクロスモデル連携スキルです。"
+          }
+        },
+        {
+          "title": "Groketective — Grok Bot forensics Cursor plugin",
+          "url": "https://github.com/Marcelo-Barella/groketective",
+          "source": "GB-1240",
+          "blurb": {
+            "en": "Cursor plugin with a groketective skill for read-only forensics on local Grok Bot (sand) installs and transcripts.",
+            "zh": "Cursor 插件：用 groketective 技能对本地 Grok Bot（sand）安装与转录做只读取证。",
+            "ja": "ローカルGrok Bot（sand）導入と転写を読み取り専用で鑑定するCursorプラグインです。"
+          }
+        },
+        {
+          "title": "Helena for Grok Build",
+          "url": "https://github.com/EnrichLabsAI/helena-grok-plugin",
+          "source": "GB-1241",
+          "blurb": {
+            "en": "Official Helena remote MCP plugin so Grok Build can run autonomous marketing workflows via OAuth.",
+            "zh": "Helena 官方远程 MCP 插件，让 Grok Build 通过 OAuth 跑自主营销工作流。",
+            "ja": "OAuth経由で自律マーケ作業を回せるHelena公式リモートMCPのGrok Buildプラグインです。"
+          }
+        },
+        {
+          "title": "String Web Access — Grok Build plugin",
+          "url": "https://github.com/usestring/string-grok-plugin",
+          "source": "GB-1242",
+          "blurb": {
+            "en": "Grok Build plugin that fetches, searches, and maps websites to clean Markdown via String Web Access.",
+            "zh": "Grok Build 插件：通过 String Web Access 抓取、搜索并把网页整理成干净 Markdown。",
+            "ja": "String Web Accessでサイトを取得・検索し、きれいなMarkdownに整えるGrok Buildプラグインです。"
+          }
+        },
+        {
+          "title": "factory-process — Grok Bot operating-loop skills",
+          "url": "https://github.com/gbrussich52/factory-process",
+          "source": "GB-1243",
+          "blurb": {
+            "en": "Team operating-loop skills for Grok Bot: spec first, goldens, cheap drafts, and no FYI ping noise.",
+            "zh": "面向 Grok Bot 的团队作业循环技能：先规格、金样、廉价草稿，禁止 FYI 刷屏。",
+            "ja": "仕様優先・ゴールデン・安価ドラフト・FYI禁止のGrok Bot向け運用ループスキルです。"
+          }
+        },
+        {
+          "title": "Deck plugins for Claude Code, Codex & Grok Build",
+          "url": "https://github.com/getdeck-io/plugins",
+          "source": "GB-1244",
+          "blurb": {
+            "en": "Deck product-signal plugins for Claude Code, Codex, and Grok Build to turn customer feedback into prioritized work.",
+            "zh": "Deck 产品信号插件，覆盖 Claude Code、Codex 与 Grok Build，把用户反馈变成可排序任务。",
+            "ja": "顧客シグナルを優先タスクにするDeckプラグイン（Claude Code / Codex / Grok Build対応）です。"
+          }
+        },
+        {
+          "title": "88plug — Claude Code + Grok Build marketplace",
+          "url": "https://github.com/88plug/claude-code-plugins",
+          "source": "GB-1245",
+          "blurb": {
+            "en": "Curated Claude Code and Grok Build plugin marketplace with one-command install for skills and MCP servers.",
+            "zh": "精选 Claude Code 与 Grok Build 插件市场，一条命令安装技能与 MCP 服务。",
+            "ja": "Claude CodeとGrok Build向けの厳選プラグイン市場で、スキルとMCPを一発インストールします。"
+          }
+        },
+        {
+          "title": "Skill Heaven — summon skills for Grok and peers",
+          "url": "https://github.com/gaia-research/gaia-skill-heaven",
+          "source": "GB-1246",
+          "blurb": {
+            "en": "Agent Plugin that treats skills like RAM and summons the right pack for Claude, Codex, Pi, Hermes, or Grok.",
+            "zh": "把技能当 RAM 调度的 Agent 插件，按需召唤 Claude / Codex / Pi / Hermes / Grok 技能包。",
+            "ja": "スキルをRAMのように扱い、Claude/Codex/Pi/Hermes/Grok向けに必要なパックを召喚するAgentプラグインです。"
+          }
+        },
+        {
+          "title": "McpServer Grok Plugin",
+          "url": "https://github.com/sharpninja/mcpserver-grok-plugin",
+          "source": "GB-1247",
+          "blurb": {
+            "en": "Grok Build CLI/TUI plugin that connects sessions to McpServer for TODOs, logs, requirements, and continuity.",
+            "zh": "Grok Build CLI/TUI 插件，把会话接到 McpServer 做待办、日志、需求与连续性管理。",
+            "ja": "TODO・ログ・要件・継続性のためMcpServerへ接続するGrok Build CLI/TUIプラグインです。"
+          }
+        },
+        {
+          "title": "CBM — VICE MCP tools for Grok Build",
+          "url": "https://github.com/stevencombs/CBM",
+          "source": "GB-1248",
+          "blurb": {
+            "en": "Commodore VIC-20/C64 programs plus a local VICE MCP server so Grok Build can drive the emulator on a Mac.",
+            "zh": "VIC-20/C64 程序与本地 VICE MCP，让 Grok Build 在 Mac 上驱动复古模拟器。",
+            "ja": "Mac上のVICEをGrok Buildから動かすためのVIC-20/C64プログラムとローカルMCPです。"
+          }
+        },
+        {
+          "title": "SniffBot — inspect Grok Bot templates before install",
+          "url": "https://github.com/kacperrutkiewicz-deeprootedAI/sniffbot",
+          "source": "GB-1249",
+          "blurb": {
+            "en": "Grok Bot that sniffs x.ai/bot template links before you click Add Bot, so unsafe recipes stay out of your roster.",
+            "zh": "在你点 Add Bot 之前先嗅探 x.ai/bot 模板链接的 Grok Bot，挡下不靠谱配方。",
+            "ja": "Add Botする前にx.ai/botテンプレを嗅ぎ、怪しいレシピを入れないGrok Botです。"
+          }
+        },
+        {
+          "title": "Supademo — Grok Bot Agent Plugin",
+          "url": "https://github.com/Supademo/supademo-grok-plugin",
+          "source": "GB-1250",
+          "blurb": {
+            "en": "Hosted MCP Agent Plugin that lets Grok Bot find, personalize, edit, and analyze interactive Supademo product demos.",
+            "zh": "面向 Grok Bot 的托管 MCP Agent 插件，可查找、个性化、编辑与分析 Supademo 产品演示。",
+            "ja": "Supademoの対話デモを検索・編集・分析できるGrok Bot向けホスト型MCP Agentプラグインです。"
+          }
+        },
+        {
+          "title": "Keito for Grok Build",
+          "url": "https://github.com/osodevops/keito-grok-plugin",
+          "source": "GB-1251",
+          "blurb": {
+            "en": "Official Keito time-tracking MCP plugin for Grok Build: timers, LLM usage logs, expenses, and project reviews.",
+            "zh": "Keito 官方工时 MCP 插件：在 Grok Build 里计时、记模型用量、费用与项目复盘。",
+            "ja": "タイマー・LLM利用・経費・プロジェクト振り返りをGrok Buildから扱うKeito公式MCPプラグインです。"
+          }
+        },
+        {
+          "title": "grok-skills — skills.sh-style Grok Bot skill installer",
+          "url": "https://github.com/samanyugoyal2010/grok-skills",
+          "source": "GB-1252",
+          "blurb": {
+            "en": "skills.sh-style directory and CLI installer for curated Grok Bot skills with add/find workflows.",
+            "zh": "仿 skills.sh 的 Grok Bot 技能目录与 CLI，支持 add/find 安装与检索。",
+            "ja": "skills.sh風のGrok Botスキル目録とCLIで、add/findによる導入と検索ができます。"
+          }
         }
       ]
     },
@@ -8884,6 +9094,86 @@
             "zh": "Orange Pi + Whisplay HAT 桌面伙伴：语音转写 webhook 进 Grok Bot Atlas，再用设备端 TTS 朗读回复。",
             "ja": "Orange Pi＋Whisplay HAT の机上相棒。STT→webhook で Grok Bot Atlas に送り、端末 TTS で返答を話す。"
           }
+        },
+        {
+          "title": "OpenBot — open-source Grok Bot-style agents with a computer",
+          "url": "https://github.com/jccrump/openbot",
+          "source": "GB-1257",
+          "blurb": {
+            "en": "Open-source Grok Bot-style agents that each own a microVM or Mac, with browser, files, and approval gates.",
+            "zh": "开源 Grok Bot 风格智能体：各自拥有 microVM 或 Mac，带浏览器、文件与审批门。",
+            "ja": "microVMまたはMacを持ち、ブラウザ・ファイル・承認ゲート付きのOSSなGrok Bot風エージェントです。"
+          }
+        },
+        {
+          "title": "Open Grok Bot — free modular Grok Bot replica",
+          "url": "https://github.com/carloseorsantos/open-grok-bot",
+          "source": "GB-1258",
+          "blurb": {
+            "en": "Open-source modular replica of Grok Bot teammates with browser, web search, and always-on agent workflows.",
+            "zh": "开源模块化 Grok Bot 复刻：AI 队友带浏览器、联网搜索与常驻工作流。",
+            "ja": "ブラウザ・Web検索・常駐ワークフロー付きのオープンなGrok Botチームメイト再現です。"
+          }
+        },
+        {
+          "title": "oss-bot — on-prem Grok Bot-style chat + VM platform",
+          "url": "https://github.com/Aero123421/oss-bot",
+          "source": "GB-1259",
+          "blurb": {
+            "en": "On-prem Grok Bot-style chat UI and bot VM management that brings your own Codex/Claude/Grok CLIs.",
+            "zh": "本地部署的 Grok Bot 风格聊天与 Bot VM 管理，可自带 Codex/Claude/Grok CLI。",
+            "ja": "自前のCodex/Claude/Grok CLIを載せられるオンプレGrok Bot風チャット＋Bot VM基盤です。"
+          }
+        },
+        {
+          "title": "Capri FE — Grok Build Web UI",
+          "url": "https://github.com/AgentsHarness/capri-fe",
+          "source": "GB-1260",
+          "blurb": {
+            "en": "Capri front-end Web UI for Grok Build sessions under the AgentsHarness constellation.",
+            "zh": "AgentsHarness 旗下 Capri 前端：面向 Grok Build 会话的 Web UI。",
+            "ja": "AgentsHarness配下のCapriフロントエンドで、Grok Buildセッション用Web UIです。"
+          }
+        },
+        {
+          "title": "Capri Host — remote Grok Build ACP host",
+          "url": "https://github.com/AgentsHarness/capri-host",
+          "source": "GB-1261",
+          "blurb": {
+            "en": "Capri Host remote ACP host that connects a browser UI to your local Grok Build agent.",
+            "zh": "Capri Host 远程 ACP 主机，把浏览器 UI 接到本机 Grok Build 智能体。",
+            "ja": "ブラウザUIをローカルGrok BuildエージェントへつなぐCapri HostリモートACPホストです。"
+          }
+        },
+        {
+          "title": "Grok Build Web — local ACP web console",
+          "url": "https://github.com/qing-2114/grok-build-web",
+          "source": "GB-1262",
+          "blurb": {
+            "en": "Local web console for Grok Build over ACP: projects, streaming chat, tool calls, and git branch context.",
+            "zh": "本机 Grok Build 的 ACP Web 控制台：项目、流式对话、工具调用与 git 分支上下文。",
+            "ja": "プロジェクト・ストリーム会話・ツール呼び出し・git分岐を扱うローカルGrok Build向けACP Webコンソールです。"
+          }
+        },
+        {
+          "title": "grok-life — iPhone/Mac nodes for a Grok Bot VM",
+          "url": "https://github.com/ziruihao/grok-life",
+          "source": "GB-1263",
+          "blurb": {
+            "en": "Suite of iPhone, Mac, and Linux nodes that expand a Grok Bot VM with location, messages, and network presence.",
+            "zh": "把 iPhone、Mac 与 Linux 节点接到 Grok Bot VM，扩展位置、消息与网络存在。",
+            "ja": "iPhone/Mac/LinuxノードでGrok Bot VMに位置・メッセージ・ネットワーク存在を広げる一式です。"
+          }
+        },
+        {
+          "title": "Grok Bot Voice — JARVIS mouth for the desktop app",
+          "url": "https://github.com/learnaiwithhugo/grok-bot-voice",
+          "source": "GB-1264",
+          "blurb": {
+            "en": "JARVIS-style voice bridge that types into the Grok Bot desktop chat and reads replies aloud with Fish Audio.",
+            "zh": "JARVIS 风格语音桥：把话打进 Grok Bot 桌面聊天，并用 Fish Audio 朗读回复。",
+            "ja": "Grok Botデスクトップ会話へ入力し、Fish Audioで返答を読み上げるJARVIS風ボイス橋です。"
+          }
         }
       ]
     },
@@ -10503,6 +10793,46 @@
             "en": "Staff (deanrie, 2026-09-16): first-Bot provisioning can fail when the account’s cloud computer is stuck server-side—reinstall/retry won’t fix it; workaround is create the first Bot in the phone app, then on desktop Settings → Updates → Update Grok Bot’s Computer; staff can also recreate the computer.",
             "zh": "Staff（deanrie，2026-09-16）：账号云电脑卡在服务端时，首次建 Bot 会反复 provisioning 失败，重装重试无效；权宜：手机端先建第一个 Bot，再在桌面 Settings→Updates→Update Grok Bot’s Computer；也可等 Staff 重建云电脑。",
             "ja": "Staff（deanrie、2026-09-16）：アカウントのクラウド PC がサーバ側で詰まると初回 Bot 作成の provisioning が繰り返し失敗し、再インストールでは直らない。回避策はモバイルで最初の Bot を作り、デスクトップの Settings→Updates→Update Grok Bot’s Computer。Staff 側で PC 再作成も可。"
+          }
+        },
+        {
+          "title": "update_state memory writes fail fleet-wide — write memory files directly; don’t Reset",
+          "url": "https://forum.cursor.com/t/grok-bot-update-state-memory-writes-fail-fleet-wide-brain-docs-snapshot-was-cut-short-before-completing/171895",
+          "source": "GB-1275",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-16): update_state target:memory fails fleet-wide with “brain docs snapshot was cut short before completing” while settings updates and direct file edits still work—known server-side; workaround is write facts into memory/profile.md or memory/log/YYYY-MM.md; Update/Reset Computer won’t help.",
+            "zh": "Staff（deanrie，2026-09-16）：update_state 写 memory 会全局报 “brain docs snapshot was cut short before completing”，但改 settings 与直接改文件仍可用——服务端已知问题；权宜把事实写入 memory/profile.md 或 memory/log/YYYY-MM.md；Update/Reset Computer 无效。",
+            "ja": "Staff（deanrie、2026-09-16）：update_state の target:memory が艦隊全体で “brain docs snapshot was cut short before completing” で失敗。settings 更新と直接ファイル編集は可。既知サーバ障害。回避は memory/profile.md や memory/log/YYYY-MM.md へ直書き。Update/Reset は無意味。"
+          }
+        },
+        {
+          "title": "Custom MCP OAuth DCR: cursor:// callback breaks Cloudflare https-only allowlists",
+          "url": "https://forum.cursor.com/t/grok-bot-custom-mcp-oauth-fails-before-sign-in-redirect-uri-not-allowed/171877",
+          "source": "GB-1276",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-16): Dynamic Client Registration sends three redirect_uris—cursor://anysphere.cursor-mcp/oauth/callback, https://www.cursor.com/agents/mcp/oauth/callback, and http://localhost:8787/callback; Grok Bot desktop uses localhost, but Cloudflare Managed OAuth rejects the whole set because it can’t allowlist cursor://—tracked server-side fix to drop non-https callbacks.",
+            "zh": "Staff（deanrie，2026-09-16）：DCR 会提交三条 redirect_uris（cursor://…、https://www.cursor.com/agents/mcp/oauth/callback、http://localhost:8787/callback）；桌面走 localhost，但 Cloudflare Managed OAuth 因无法放行 cursor:// 而整单拒绝——属服务端问题，计划只发 https/localhost。",
+            "ja": "Staff（deanrie、2026-09-16）：DCR は redirect_uris に cursor://…、https://www.cursor.com/agents/mcp/oauth/callback、http://localhost:8787/callback の3つを送る。デスクトップは localhost だが、Cloudflare Managed OAuth は cursor:// を許可できず登録全体を拒否。https/localhost のみ送る修正を追跡中。"
+          }
+        },
+        {
+          "title": "Windows Ctrl+, Settings shortcut blocks Traditional Chinese full-width comma",
+          "url": "https://forum.cursor.com/t/grok-bot-windows-ctrl-settings-shortcut-blocks-traditional-chinese-full-width-comma/171839",
+          "source": "GB-1277",
+          "blurb": {
+            "en": "Staff (Colin, 2026-09-16): on Windows, Bopomofo/Zhuyin Ctrl+, for full-width 「，」 still triggers Grok Bot’s Settings shortcut—flagged to the team; interim workaround is Shift+Space to full-width (全形) mode then press , alone (no Ctrl), then Shift+Space back to half-width.",
+            "zh": "Staff（Colin，2026-09-16）：Windows 上注音/Bopomofo 用 Ctrl+, 输入全角「，」仍会触发 Grok Bot 的设置快捷键——已报给团队；权宜：Shift+Space 切全形后单独按 ,（不要 Ctrl），再 Shift+Space 回半形。",
+            "ja": "Staff（Colin、2026-09-16）：Windows で Bopomofo/注音の Ctrl+,（全角「，」）が Settings ショートカットを踏む。チームへ共有済み。当面は Shift+Space で全形にして , 単独入力（Ctrl なし）、再度 Shift+Space で半角へ。"
+          }
+        },
+        {
+          "title": "Routine Edit opens chat by design; webhook panel needs desktop 0.53.0",
+          "url": "https://forum.cursor.com/t/can-no-longer-edit-a-routine/171677",
+          "source": "GB-1278",
+          "blurb": {
+            "en": "Staff (kevinn/Colin, 2026-09-15–16): the routine Edit button now opens a pre-filled Bot chat message by design—ask the Bot in chat to change or create routines; missing Webhook URL/crsr_/Authorization on server-managed routines is the known panel bug fixed in desktop 0.53.0 (same family as 171606/171324).",
+            "zh": "Staff（kevinn/Colin，2026-09-15–16）：Routine 的 Edit 现会按设计打开预填 Bot 对话——改/建 routine 请在聊天里让 Bot 做；服务端 routine 缺少 Webhook URL/crsr_/Authorization 是已知面板问题，桌面 0.53.0 已修（同 171606/171324 一族）。",
+            "ja": "Staff（kevinn/Colin、2026-09-15–16）：Routine の Edit は設計どおり Bot チャットに定型文を開く—変更・作成はチャットで依頼。サーバ管理 routine の Webhook URL/crsr_/Authorization 欠落は既知パネル不具合でデスクトップ 0.53.0 修正（171606/171324 と同系）。"
           }
         }
       ]
@@ -12203,6 +12533,96 @@
             "en": "Self-hosted offline memory consolidator that extracts and injects ops knowledge across Claude Code, Grok Build, Gemini, and Codex sessions.",
             "zh": "自托管离线记忆整理器：从 Claude Code、Grok Build、Gemini 与 Codex 会话提取并注入运维知识。",
             "ja": "Claude Code／Grok Build／Gemini／Codex セッションから運用知を抽出し注入する自ホスト・オフライン記憶。"
+          }
+        },
+        {
+          "title": "grok-swap (gswap) — Grok Build multi-account switcher",
+          "url": "https://github.com/bcharleson/grok-swap",
+          "source": "GB-1265",
+          "blurb": {
+            "en": "Multi-account switcher for Grok Build that snapshots grok login sessions and flips ~/.grok/auth.json locally.",
+            "zh": "Grok Build 多账号切换器：本地快照 login 会话并切换 ~/.grok/auth.json。",
+            "ja": "grokログインをスナップショットし、~/.grok/auth.jsonを切り替えるGrok Build多アカウント切替です。"
+          }
+        },
+        {
+          "title": "grok-accounts — Grok Build CLI profile switcher",
+          "url": "https://github.com/puppe1990/grok-accounts",
+          "source": "GB-1266",
+          "blurb": {
+            "en": "Profile-based account switcher for the Grok Build CLI with atomic auth.json swapping and no re-login.",
+            "zh": "按配置文件管理的 Grok Build CLI 账号切换，原子替换 auth.json，无需重新登录。",
+            "ja": "プロファイル単位でauth.jsonを原子的に入れ替え、再ログイン不要のGrok Build CLIアカウント切替です。"
+          }
+        },
+        {
+          "title": "Grok Bot Pace — Windows tray usage vs even pace",
+          "url": "https://github.com/derekkorczak/grok-bot-pace",
+          "source": "GB-1267",
+          "blurb": {
+            "en": "Windows tray app that compares Grok Bot weekly usage to an even-pace target and shows Super Grok use.",
+            "zh": "Windows 托盘应用：对比 Grok Bot 周用量与匀速目标，并显示 Super Grok 用量。",
+            "ja": "Grok Botの週次使用量を均等ペース目標と比較し、Super Grok使用も示すWindowsトレイアプリです。"
+          }
+        },
+        {
+          "title": "hermes-grokbot-sync — shared memory with Hermes",
+          "url": "https://github.com/fortun8te/hermes-grokbot-sync",
+          "source": "GB-1268",
+          "blurb": {
+            "en": "Local-first shared memory ledger and task handoffs between Grokbot and Hermes Agent without pasting whole chats.",
+            "zh": "本地优先的共享记忆账本，在 Grokbot 与 Hermes Agent 间交接任务，无需整段粘贴聊天。",
+            "ja": "チャット全文貼り付けなしでGrokbotとHermes Agentの共有記憶とタスク引き継ぎを行うローカル優先台帳です。"
+          }
+        },
+        {
+          "title": "crew-chief-middleware — OpenAPI→MCP for Grok Bot",
+          "url": "https://github.com/TechHandPro/crew-chief-middleware",
+          "source": "GB-1269",
+          "blurb": {
+            "en": "OpenAPI-to-MCP middleware so Grok Bot or Cursor can call vendor business APIs as typed tools.",
+            "zh": "OpenAPI→MCP 中间件，让 Grok Bot / Cursor 把厂商业务 API 当成类型化工具来调。",
+            "ja": "ベンダー業務APIを型付きツールとしてGrok Bot/Cursorから呼べるOpenAPI→MCPミドルウェアです。"
+          }
+        },
+        {
+          "title": "grok-build-nix — Nix flake for Grok Build",
+          "url": "https://github.com/AodhanHayter/grok-build-nix",
+          "source": "GB-1270",
+          "blurb": {
+            "en": "Nix flake that tracks Grok Build stable hourly and lands verified Linux/macOS binaries identical to upstream.",
+            "zh": "按小时跟踪 Grok Build stable 的 Nix flake，落地经验证、与上游一致的 Linux/macOS 二进制。",
+            "ja": "Grok Build stableを毎時追跡し、上流と同一の検証済みLinux/macOSバイナリを入れるNix flakeです。"
+          }
+        },
+        {
+          "title": "grok-discord-remote — Discord DM window on Grok Build",
+          "url": "https://github.com/lundgren-greg/grok-discord-remote",
+          "source": "GB-1271",
+          "blurb": {
+            "en": "Discord DM remote that attaches phone messages to the same local Grok Build session you resume on the desk.",
+            "zh": "Discord 私信远程窗口：手机消息接到与桌面同一条本机 Grok Build 会话。",
+            "ja": "携帯Discord DMを机上と同じローカルGrok Buildセッションへつなぐリモート窓口です。"
+          }
+        },
+        {
+          "title": "GrokVibeStack — Windows quality-gate installer for Grok Build",
+          "url": "https://github.com/richardlindstedt-sys/GrokVibeStack",
+          "source": "GB-1272",
+          "blurb": {
+            "en": "Self-contained Windows installer that drops Grok Build quality gates, hooks, and token-saving defaults.",
+            "zh": "一体式 Windows 安装器：为 Grok Build 落下质量门、钩子与省 token 默认配置。",
+            "ja": "品質ゲート・フック・トークン節約デフォルトをGrok Buildへ入れる自己完結Windowsインストーラです。"
+          }
+        },
+        {
+          "title": "omarchy-aarch64-grok-bot — Arch package for Linux arm64 desktop",
+          "url": "https://github.com/maralcbr/omarchy-aarch64-grok-bot",
+          "source": "GB-1273",
+          "blurb": {
+            "en": "Omarchy/Arch aarch64 PKGBUILD that packages the official Grok Bot Linux arm64 desktop .deb with Wayland flags.",
+            "zh": "Omarchy/Arch aarch64 PKGBUILD：把官方 Grok Bot Linux arm64 桌面 .deb 打成带 Wayland 参数的包。",
+            "ja": "公式Grok Bot Linux arm64 .debをWaylandフラグ付きで包むOmarchy/Arch aarch64 PKGBUILDです。"
           }
         }
       ]
@@ -17105,6 +17525,99 @@
         "en": "Register on Luma →",
         "zh": "去 Luma 报名 →",
         "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "when": {
+        "en": "Sat 26 Sep 2026, 08:30–12:00 (America/La_Paz, UTC-4)",
+        "zh": "2026-09-26 周六 08:30–12:00（圣克鲁斯America/La_Paz，UTC-4）",
+        "ja": "2026-09-26（土）08:30–12:00（America/La_Paz、UTC-4）"
+      },
+      "url": "https://luma.com/spacexai-gc1m",
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で登録 →"
+      },
+      "image": "./assets/events/vvi-20260926-cover.png",
+      "expires": "2026-09-26T12:00:00-04:00",
+      "id": "vvi-20260926",
+      "where": {
+        "en": "Universidad Central (Unicen), Ave Trinidad 425, Santa Cruz de la Sierra, Bolivia — offline",
+        "zh": "玻利维亚圣克鲁斯 Universidad Central (Unicen), Ave Trinidad 425（线下）",
+        "ja": "ボリビア・サンタクルス・デ・ラ・シエラ Universidad Central (Unicen), Ave Trinidad 425（オフライン）"
+      },
+      "title": {
+        "en": "Grok Bot Meetup Santa Cruz",
+        "zh": "Grok Bot Meetup 圣克鲁斯",
+        "ja": "Grok Bot Meetup サンタクルス"
+      },
+      "body": {
+        "en": "First catalogued Grok Bot meetup in Santa Cruz de la Sierra, Bolivia (host Diego Oliver; Luma calendar cal-tnfyxEeXhQo3zzR). Spanish-language morning workshop: intro to Grok Bot, hands-on build time, share & learn, community networking. Devs/students/founders/curious welcome — no expertise required. Free RSVP with approval; venue Universidad Central (Unicen). New discover slug spacexai-gc1m (evt-q3GcSfBGYdfY0h1); no forum New-event post yet.",
+        "zh": "玻利维亚圣克鲁斯首场入库 Grok Bot 聚会（主办 Diego Oliver）。西语上午场：Grok Bot 介绍、动手构建、分享交流。免费报名需审批；场地 Universidad Central (Unicen)。新 slug spacexai-gc1m；论坛尚无 New event 帖。",
+        "ja": "ボリビア・サンタクルス初のカタログ掲載 Grok Bot ミートアップ（ホスト Diego Oliver）。スペイン語の午前ワークショップ：紹介・ビルド・共有・交流。無料・承認制。会場 Universidad Central (Unicen)。新 slug spacexai-gc1m；フォーラムの New event 投稿はまだなし。"
+      }
+    },
+    {
+      "when": {
+        "en": "Sat 3 Oct 2026, 13:00–16:00 (Asia/Ho_Chi_Minh, UTC+7)",
+        "zh": "2026-10-03 周六 13:00–16:00（岘港Asia/Ho_Chi_Minh，UTC+7）",
+        "ja": "2026-10-03（土）13:00–16:00（Asia/Ho_Chi_Minh、UTC+7）"
+      },
+      "url": "https://luma.com/spacexai-80r9",
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で登録 →"
+      },
+      "image": "./assets/events/dad-20261003-cover.png",
+      "expires": "2026-10-03T16:00:00+07:00",
+      "id": "dad-20261003",
+      "where": {
+        "en": "1710 Cafe & Society, 10 Trần Quý Cáp, Hải Châu, Đà Nẵng 550000, Vietnam — offline",
+        "zh": "Vietnam岘港 1710 Cafe & Society, 10 Trần Quý Cáp, Hải Châu, Đà Nẵng 550000, Vietnam（线下）",
+        "ja": "1710 Cafe & Society, 10 Trần Quý Cáp, Hải Châu, Đà Nẵng 550000, Vietnam（オフライン）"
+      },
+      "title": {
+        "en": "Grok Bot Meetup Da Nang",
+        "zh": "Grok Bot Meetup 岘港",
+        "ja": "Grok Bot Meetup ダナン"
+      },
+      "body": {
+        "en": "Grok Bot Meetup in Da Nang, Vietnam (hosts Keith Vaughan, Laksh Arora; Frontier Club Da Nang support). Agenda 13:00–16:00: arrive/merch, icebreakers, Q&A/office hours with SpaceXAI/Cursor team, lightning demos (Grok Bot workflows), refreshments/networking. Free open RSVP (spots_remaining 70 at scan). Venue 1710 Cafe & Society, Hải Châu. New discover slug spacexai-80r9 (evt-JtbHchgrITq7vfI); no forum New-event post yet.",
+        "zh": "越南岘港 Grok Bot 聚会（主办 Keith Vaughan, Laksh Arora；Frontier Club Da Nang 支持）。13:00–16:00：入场、破冰、SpaceXAI/Cursor 问答、闪电演示、交流。免费开放报名（扫描时剩余约 70）。场地 1710 Cafe & Society。新 slug spacexai-80r9；论坛尚无 New event 帖。",
+        "ja": "ベトナム・ダナンの Grok Bot ミートアップ（ホスト Keith Vaughan, Laksh Arora；Frontier Club Da Nang 支援）。13:00–16:00：受付、アイスブレイク、SpaceXAI/Cursor Q&A、ライトニングデモ、交流。無料オープンRSVP（スキャン時残り約70）。会場 1710 Cafe & Society。新 slug spacexai-80r9；フォーラムの New event 投稿はまだなし。"
+      }
+    },
+    {
+      "when": {
+        "en": "Mon 26 Oct 2026, 17:30–20:30 (America/Toronto, UTC-4)",
+        "zh": "2026-10-26 周一 17:30–20:30（多伦多America/Toronto，UTC-4）",
+        "ja": "2026-10-26（月）17:30–20:30（America/Toronto、UTC-4）"
+      },
+      "url": "https://luma.com/mj5bmugc",
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で登録 →"
+      },
+      "image": "./assets/events/yyz-20261026-cover.png",
+      "expires": "2026-10-26T20:30:00-04:00",
+      "id": "yyz-20261026",
+      "where": {
+        "en": "800 Bay St area, Toronto, ON, Canada (exact suite obfuscated on Luma) — offline",
+        "zh": "加拿大多伦多 800 Bay 一带（Luma 模糊地址）（线下）",
+        "ja": "カナダ・トロント 800 Bay 周辺（Luma で住所ぼかし）（オフライン）"
+      },
+      "title": {
+        "en": "Grok Bot Meetup Toronto - October",
+        "zh": "Grok Bot Meetup 多伦多（十月）",
+        "ja": "Grok Bot Meetup Toronto（10月）"
+      },
+      "body": {
+        "en": "Monthly Grok Bot Meetup Toronto — October edition (hosts Jia Ming Huang et al.; follows catalogued yyz-20260917 September). Agenda ~17:30–20:30 at 800 Bay: mingle, two speakers, Q&A, networking/building; dinner & drinks; Cursor credits for Grok Bot. Bring laptop; doors close 18:15 sharp. Free RSVP with approval (spots_remaining 400 at scan). Geo obfuscated to Toronto downtown on Luma. New discover slug mj5bmugc (evt-eO08FHgk6HTqIQW); no forum New-event post yet. Do not confuse with yyz-20260917.",
+        "zh": "多伦多月度 Grok Bot 聚会十月场（主办 Jia Ming Huang 等；承接已入库 yyz-20260917 九月场）。约 17:30–20:30 于 800 Bay：交流、两位演讲、Q&A、构建；提供餐饮与 Cursor credits。需带电脑；18:15 截止入场。免费报名需审批（扫描时剩余约 400）。新 slug mj5bmugc；勿与 yyz-20260917 混淆。",
+        "ja": "トロント月次 Grok Bot ミートアップ（10月／ホスト Jia Ming Huang ほか；カタログ済 yyz-20260917 の続編）。800 Bay で約17:30–20:30：交流・スピーカー2名・Q&A・ビルド。食事付き。ノートPC持参、18:15入場締切。無料・承認制（スキャン時残り約400）。新 slug mj5bmugc；yyz-20260917 と混同しないこと。"
       }
     }
   ]
