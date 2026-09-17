@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1285-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1329-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -41,13 +41,14 @@
 - **美国**（14）：[旧金山](./EVENTS.zh.md#sfmo-20260917) · [旧金山](./EVENTS.zh.md#sfps-20260917) · [旧金山](./EVENTS.zh.md#sfm-20260917) · [匹兹堡](./EVENTS.zh.md#pgh-20261013) · [达拉斯](./EVENTS.zh.md#dal-20260919) · [迈阿密](./EVENTS.zh.md#mia-20260923) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929) · [纽约](./EVENTS.zh.md#nym-20260917) · [洛杉矶](./EVENTS.zh.md#lad-20260922) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008)
 - **加拿大**（6）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [多伦多](./EVENTS.zh.md#yyz-20260917) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
 - **巴西**（3）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20260926)
+- **德国**（3）：[弗赖堡](./EVENTS.zh.md#frb-20260917) · [科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015)
 - **印度尼西亚**（3）：[巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [万隆](./EVENTS.zh.md#bdg-20260919) · [雅加达](./EVENTS.zh.md#jkt-20261003)
 - **墨西哥**（3）：[普埃布拉](./EVENTS.zh.md#pue-20260924) · [奇瓦瓦](./EVENTS.zh.md#cuu-20260924) · [墨西哥城](./EVENTS.zh.md#cdmx-20260926)
-- **德国**（2）：[弗赖堡](./EVENTS.zh.md#frb-20260917) · [科隆](./EVENTS.zh.md#cgn-20261009)
 - **厄瓜多尔**（2）：[基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
 - **西班牙**（2）：[巴塞罗那](./EVENTS.zh.md#bcn-20260929) · [马德里](./EVENTS.zh.md#mad-20260929)
 - **危地马拉**（2）：[克萨尔特南戈](./EVENTS.zh.md#xela-20260920) · [危地马拉城](./EVENTS.zh.md#gua-20261003)
 - **日本**（2）：[札幌](./EVENTS.zh.md#spk-20261002) · [大阪](./EVENTS.zh.md#osa-20260917)
+- **越南**（2）：[岘港](./EVENTS.zh.md#dad-20261003) · [胡志明市](./EVENTS.zh.md#sgn-20260926)
 - **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20260917)
 - **阿根廷**（1）：[门多萨](./EVENTS.zh.md#mdz-20261003)
 - **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
@@ -67,7 +68,6 @@
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
 - **萨尔瓦多**（1）：[圣萨尔瓦多](./EVENTS.zh.md#sal-20260919)
 - **乌干达**（1）：[坎帕拉](./EVENTS.zh.md#kla-20261003)
-- **越南**（1）：[岘港](./EVENTS.zh.md#dad-20261003)
 - **赞比亚**（1）：[卢萨卡](./EVENTS.zh.md#lun-20261002)
 
 ## 目录
@@ -175,6 +175,10 @@
 - [Bot Marketplace · Recruiting & People category (x.ai)](https://x.ai/bot/marketplace/recruiting-people) - 官方 x.ai Bot Marketplace Recruiting & People 分类（slug：recruiting-people）：面向面试排程协调与人才发现的可安装公开 Bot。.
 - [@bot: ~10% more included usage from harness efficiency (up to 35%)](https://x.com/bot/status/2097759955214590272) - 官方 @bot（2026-09-09）：通过更高效的 harness，用户平均可多约 10% 的 Grok Bot 含用量（重度用户最高约 35%）——同日 QoL 线程中此前未入库的一条。.
 - [Grok Bot can use 1Password — share vault items, approve each fill](https://x.com/bot/status/2100335532597502311) - 官方 @bot（2026-09-16）：Grok Bot 现已可用 1Password——在保险库中分享条目、每次填充需批准，密钥留在密码管理器；后续还将改进凭证能力；入口 x.ai/bot（暂无独立 docs/news 页）。.
+- [Get started with Grok Bot (Cursor Docs)](https://cursor.com/docs/grok-bot/get-started) - 官方 Cursor Docs：安装 Grok Bot 桌面端，用 Cursor 账号登录，创建第一个 Bot，并交给它一个能端到端完成的任务。.
+- [Settings and notifications (Cursor Docs)](https://cursor.com/docs/grok-bot/settings) - 官方 Cursor Docs：Grok Bot 设置——应用偏好、每个 Bot 的资料与通知、插件、用量可见性，以及应用/云电脑更新（cursor.com 路径；docs.x.ai 对应 settings-and-notifications）。.
+- [Grok Bot use cases (Cursor Docs)](https://cursor.com/docs/grok-bot/use-cases) - 官方 Cursor Docs：适合做成 Bot 的角色，含起步提示词、要连接的工具，以及如何把一次性任务变成长期队友。.
+- [Work with Grok Bot (Cursor Docs)](https://cursor.com/docs/grok-bot/work) - 官方 Cursor Docs：日常与 Bot 协作总览——创建/管理 Bot、消息与协作、共用云电脑，以及用 skills/routines 自动化（docs.x.ai 无对应 /work 页）。.
 
 ## 教程与上手指南
 
@@ -233,6 +237,12 @@
 - [grok-bot-galaxy-live — ball-by-ball Galaxy commentary](https://github.com/shashwatphd-ai/grok-bot-galaxy-live) - 追踪 2026-09-15–17 xAI Grok Bot Galaxy 的现场解说站与产品 demo，含转写与屏幕截图。.
 - [Galaxy Day 1 diarized transcript + named pass](https://github.com/bgagandeep/grok-bot-galaxy-day1-transcript) - 非官方 Grok Bot Galaxy Day 1 转写：说话人分离、命名校对、SRT/JSONL 与要点摘要。.
 - [Grok Bot Galaxy notes (PT) + bot-base materials](https://github.com/Rodribm10/grok-bot-galaxy-notes) - 葡萄牙语 Grok Bot Galaxy Day 1–2 要点，附用于喂养 Galaxy Mentor bot 的 bot-base 材料。.
+- [Grok Bot Galaxy Day 2 — bilingual PDFs by Ellen](https://github.com/HiEllenC/grokbot-galaxy-day2) - Grok Bot Galaxy 直播 Day 2 中英双语课程笔记（各 28 页 PDF）。.
+- [Grok Bot Galaxy notes — Sep 15–17 livestream](https://github.com/jandrusk/grok-bot-galaxy-notes) - Grok Bot Galaxy 直播（2026-09-15～17）分日笔记，附广播链接。.
+- [Grok Bot Galaxy field notes — Day 1 clips 01–18](https://github.com/etor6233/grok-bot-galaxy) - 非官方 Grok Bot Galaxy Day 1 现场指南（clips 01–18），含 llms.txt 与 AGENTS.md。.
+- [Grok Bot Galaxy — evidence-linked livestream synthesis](https://github.com/pcuci/grok-bot-galaxy) - 有证据链的 Galaxy 直播综合：Day 1 转写与仓库内摄取/综合技能。.
+- [Grok Bot Galaxy — Japanese HTML Day 1–3 reports](https://github.com/s-hiraoku/grok-bot-galaxy) - Grok Bot Galaxy X 直播的日文厚报告（HTML），Day 1 已发布 Pages。.
+- [Grok Build 从零到精通蓝皮书 — 150-page guide](https://github.com/zjp1997720/grok-build-bluebook) - 面向小白与 Claude Code/Codex 迁移用户的 150 页 Grok Build 实战蓝皮书（HTML/PDF）。.
 
 ## 真实使用案例
 
@@ -376,6 +386,8 @@
 - [tech-demos — JavaScript demos created by Grok Bot](https://github.com/goofansu/tech-demos) - 由 Grok Bot 创作的 JavaScript demo 合集，含 Peekaboo Bots 头像互动画廊。.
 - [bookmark-demos — X bookmarks → Cursor Agent (mattyp pattern)](https://github.com/kk-agent/bookmark-demos) - 按 mattyp Grok Bot 模式：每日 X 书签 → Cursor Agent demo，并用 Cloudflare 预览部署。.
 - [Onlydevs meetup — Grok Bot + Cursor + GitHub demo](https://github.com/truevis/onlydevs) - Onlydevs 聚会演示：串联 Grok Bot、Cursor 与 GitHub，并附可运行的 Streamlit 城市雷达样例。.
+- [8:30 Desk — CPI/FOMC briefing built with Grok Build](https://github.com/tilakvenu/grok-830-desk-build) - 用 Grok Build 在 2026-09-17 做出的 CPI / 收益率 / FOMC 晨间简报桌。.
+- [ai-co-dm — Grok Bot fleet for a campaign vault](https://github.com/Thedougler/ai-co-dm) - 战役联合 DM 库：含 GROK-BOTS.md 机群编排、Mac 主机门禁与 Grok Bot 任务包规范。.
 
 ## 技能、插件与 MCP
 
@@ -756,6 +768,16 @@
 - [Ruvos Team Marketplace for Cursor / Grok Bot plugins](https://github.com/ThisIsRuvos/ruvos-marketplace) - Cursor/Grok Bot 团队 Marketplace 清单，含可从 GitHub 导入的 Ruvos Google Chat 插件。.
 - [Maxplayer — operate from a Grok Bot box skill](https://github.com/MakePrisms/maxplayerai) - Agent 市场平台，含 grok-bot-operate skill：讲解在共享 Grok Bot Linux 云电脑上用 MCP 买工与常见坑。.
 - [AI Fleet Coordinator — Grok Bot seat skill packs](https://github.com/jaywedgeworth22/ai-fleet-coordinator) - 多智能体舰队协调协议，含专用 Grok Bot [GB-*] 席位 skills：开场、看板、落地与管家等角色。.
+- [grok-bot-skills — reusable Grok Bot SKILL.md recipes](https://github.com/dandanbot1/grok-bot-skills) - 可复用的 Grok Bot 技能库，以 SKILL.md 配方供其他智能体复制安装。.
+- [ax402-plugins — Ax402 marketplace for Grok Build](https://github.com/AxLabs/ax402-plugins) - 带 .grok-plugin 市场索引的 Ax402 智能体插件，可安装到 Grok Build。.
+- [pstack-portable — engineering skills for Grok Build](https://github.com/mgibson0708/pstack-portable) - 面向 Codex、Claude Code、Grok Build 与 Cursor 的可移植 pstack 工程技能，并含 Herdr 协同。.
+- [grok-delegate — hand work to Claude/Codex from Grok Build](https://github.com/arthurkatcher/grok-delegate) - Grok Build 插件：在会话内把后台任务委派给本地 Claude Code 或 Codex。.
+- [oh-my-pi-plugin-grok-build — xAI subscription for omp](https://github.com/metaphorics/oh-my-pi-plugin-grok-build) - oh-my-pi 扩展：接入 xAI Grok Build OAuth 登录、模型发现与流式输出。.
+- [Grok Build Bridge — Codex plugin for local grok CLI](https://github.com/Reederey87/grok-build-codex-plugin) - Codex CLI 插件：内置 MCP，把评审与任务委派给本地 Grok Build CLI。.
+- [grok-subagent — Grok Build as Codex external subagent](https://github.com/Walvez/grok-subagent) - Codex 插件：通过 ACP/MCP 把官方 Grok Build CLI 当作受控外部子智能体。.
+- [migma-skills — email marketing from Cursor and Grok Bot](https://github.com/MigmaAI/migma-skills) - 在 Cursor 与 Grok Bot 中运行的 MigmaAI 邮件营销技能。.
+- [Codex/Claude/Grok plugins marketplace](https://github.com/duyet/codex-claude-plugins) - 面向 Claude Code、Codex、Grok Build 与 Grok Bot 的共享插件/技能集合。.
+- [umbrella-skills — /umbrella pack for Grok and friends](https://github.com/SmokedMeats/umbrella-skills) - 把 /umbrella 议题包技能安装到 ~/.grok 及其他智能体技能目录的叠加层。.
 
 ## 评测与对比
 
@@ -1033,6 +1055,11 @@
 - [OpenBot — self-hosted Grok Bot with private desktops](https://github.com/toolboxmd/openbot) - 自托管 Grok Bot：一台 Docker Screen 电脑上多 Bot，主机 ACP 接入 Codex/Claude Code/Grok Build/Kimi。.
 - [Grok Build GUI — Electron desktop for grok CLI](https://github.com/Jane-o-O-o-O/grok-build-desktop) - 面向原生 Grok Build/grok CLI 的开源 Electron 桌面：流式工具、MCP、第三方模型与并行会话。.
 - [slack-support-bypass — Slack Events → Grok Bot webhooks](https://github.com/aileron-inc/slack-support-bypass) - 精简 Cloudflare Worker：校验 Slack Events 后按公司转发到 Grok Bot webhook，不含业务逻辑。.
+- [Grok UI — local command center for Grok Build](https://github.com/joeynyc/Grok-UI) - 非官方本地优先的 Grok Build 指挥中心：会话、ACP 控制、Git 变更与历史。.
+- [OpenBot — local desktop workspace for AI teammates](https://github.com/nightly-labs/openbot) - 本地优先的桌面工作区：持久 Codex / Claude / Grok 队友，含任务队列与浏览器控制。.
+- [GrokDesk — native macOS workspace on Grok Build](https://github.com/KAMIENDER/GrokDesk) - 基于 Grok Build 运行时的原生开源 macOS SwiftUI 工作区，支持多账户路由。.
+- [Celesto — persistent computers to build your own Grokbot](https://github.com/CelestoAI/celesto) - 为 AI 智能体提供安全持久电脑；含 OpenMuse，宣传为可自建 Grokbot。.
+- [grokgod — persist wrapper for official Grok Build CLI](https://github.com/karlorz/grokgod) - ClawGod 风格的 PATH 包装与更新器，围绕官方 Grok Build CLI 持久重打补丁。.
 
 ## 社区与故障现场
 
@@ -1202,6 +1229,8 @@
 - [Windows Ctrl+, Settings shortcut blocks Traditional Chinese full-width comma](https://forum.cursor.com/t/grok-bot-windows-ctrl-settings-shortcut-blocks-traditional-chinese-full-width-comma/171839) - Staff（Colin，2026-09-16）：Windows 上注音/Bopomofo 用 Ctrl+, 输入全角「，」仍会触发 Grok Bot 的设置快捷键——已报给团队；权宜：Shift+Space 切全形后单独按 ,（不要 Ctrl），再 Shift+Space 回半形。.
 - [Routine Edit opens chat by design; webhook panel needs desktop 0.53.0](https://forum.cursor.com/t/can-no-longer-edit-a-routine/171677) - Staff（kevinn/Colin，2026-09-15–16）：Routine 的 Edit 现会按设计打开预填 Bot 对话——改/建 routine 请在聊天里让 Bot 做；服务端 routine 缺少 Webhook URL/crsr_/Authorization 是已知面板问题，桌面 0.53.0 已修（同 171606/171324 一族）。.
 - [Frozen “sending” after trial usage — check Settings → Usage; don’t Reset](https://forum.cursor.com/t/grok-bot-frozen-and-stuck-sending-on-mac-after-local-update-and-reset-please-recover-recreate-my-agent-computer-on-the-backend/171952) - Staff（deanrie，2026-09-17）：Agent Computer 正常——是免费试用额度用尽，之后每条消息（含新建 Bot）在回复前就被拒；本应提示 “trial usage used”，现常表现为卡在 “sending”——请到 Settings → Usage 确认，勿 Reset/Update/Recover 或重装；有额度前 bots/文件/登录仍安全。.
+- [Confused over Grok Bot — Cursor vs Bot (staff)](https://forum.cursor.com/t/confused-over-grok-bot/171745) - Staff（deanrie，2026-09-17）：Cursor 与 Grok Bot 是共用账号/订阅的两款产品——Cursor 负责编辑器/云 Agent/CLI 里的开发；Grok Bot 负责编辑器外、在常开云电脑上完成任务。Cursor 里的提示只是非编码首条消息的可选提示；Pro 上 Grok Bot 有独立周额度。.
+- [UI rename fails — ask the Bot to rename itself (staff)](https://forum.cursor.com/t/grok-bot-ui-rename-for-bots-agents-often-fails-to-stick-agent-self-rename-works/171950) - Staff（mohitjain）：Grok Bot 界面改名经常不生效（已知在追）。眼下最好的办法：让 Bot/Agent 自己改名——这样会保留。不是本机配置问题。.
 
 ## 相关列表
 
@@ -1390,10 +1419,25 @@
 - [grok-build-install — one-command Grok Build CLI installer](https://github.com/Jgillihan106/grok-build-install) - 一键 macOS/Linux 安装包装脚本，调用官方 x.ai/cli 安装 Grok Build。.
 - [hellogrok — local bridge proxy for Grok Build models](https://github.com/Ahmedabdel6784/hellogrok) - 本地隔离代理：把 Grok Build 模型通道桥接到常见 API 格式，并带自愈配置。.
 - [DevSpace — MCP coding harness with Grok Build subagent](https://github.com/Waishnav/devspace) - 热门自托管 MCP 编程 harness（ChatGPT/本地 agents），含原生 Grok Build（grok-build）子代理路径。.
+- [Awesome Grok Build — skills, templates, workflows](https://github.com/DominikTobureto/awesome-grok-build) - 社区 Awesome：Grok Build 的 .grok/skills、AGENTS.md 模板、hooks 与工作流入门包。.
+- [grok-keysmith — preview-first Grok Build instruction deploy](https://github.com/Jia-Ethan/grok-keysmith) - 面向 Grok Build 指令的预览优先部署工具，含兼容检查、hooks 隔离与卸载。.
+- [omg.dev — one portal for Claude, Codex, Cursor, Grok…](https://github.com/BennyKok/omg.dev) - 开源并行编程智能体驾驭器，桌面/移动端远程控制，支持 Grok 等。.
+- [Distilly — distill thinking into Skills for Grok Build/Bot](https://github.com/titanwings/distilly) - 跨 Claude / Codex / Pi / Grok Build 的技能发现与蒸馏，并含 Grok Bot 保存技能预览。.
+- [grok-build-oneclick — one-click Grok Build CLI installer](https://github.com/Jgillihan106/grok-build-oneclick) - 一键 shell 安装器，封装官方 x.ai Grok Build CLI 安装脚本。.
+- [harness-daily — daily reports written by Grok Build CLI](https://github.com/TardisBooo/harness-daily) - Rust CLI：把昨日的 Codex / Claude / Grok Build 会话写成企业风日报。.
+- [agent-session-kit — read Grok Build session stores over MCP](https://github.com/AstroQore/agent-session-kit) - 用 Swift/Rust 读取含 Grok Build 在内的本地编程智能体会话存储，并通过 MCP 提供。.
+- [llm-speed-bench — tok/s bench inside Grok Build and peers](https://github.com/itlmkz/llm-speed-bench) - 在 pi / Claude Code / Codex / Grok Build 内测量 TTFT、tok/s 与成本的实时流式测速。.
+- [usAIge — macOS usage rail including Grok Build limits](https://github.com/RichardZhengQuan/usAIge) - 浮动 macOS 用量栏：显示 Codex / Claude / Cursor / Grok Build 额度，并有 Apple Watch 配套。.
+- [usage-float — Windows HUD for Claude/Codex/Grok quotas](https://github.com/iikawa0918/usage-float) - 无边框 Windows 副屏 HUD：从本机凭证读取 Claude / Codex / Grok 订阅用量。.
+- [open-grok-build — OpenCode plugin for Grok Build OAuth](https://github.com/kenryu42/open-grok-build) - OpenCode 插件：Grok Build 模型 + xAI OAuth、多账户轮换与配额跟踪。.
+- [omarchy-agents — bar panel including Grok quota](https://github.com/shuv1337/omarchy-agents) - Omarchy 栏表面板：显示 Claude Code / Codex / Fireworks / Grok / Antigravity 用量。.
+- [software-factory — lanes and tickets with Grok as runner](https://github.com/Kripu77/software-factory) - 产线 / 工单 / 人工合并的工厂工作流，可插拔 runner（含 Grok Build）。.
+- [TaskSpec — sealed task contracts across Grok Build](https://github.com/luanmorenommaciel/task-spec) - 跨 Codex / Claude Code / Grok Build / Cursor 的 HMAC 密封原子任务合同与 TaskMesh 执行。.
+- [harness-bridge — point any harness (incl. Grok) at any endpoint](https://github.com/0xSero/harness-bridge) - 把 Claude Code / Codex / Pi / Grok 等驾驭器指向任意兼容推理端点的核心/CLI/托盘/Web 桥。.
 
 ## 贡献
 
-目前 8 个分类、1285 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1329 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
