@@ -24,6 +24,9 @@
 <a id="zuh-20260920"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zhuhai-meetup-sep-20"><img src="./assets/events/zuh-20260920-cover.png" alt="Grok Bot 珠海ミートアップ" width="300" /></a></td><td valign="top"><strong>Grok Bot 珠海ミートアップ</strong><br />2026-09-20（日）15:00–17:00（Asia/Hong_Kong、HKT、UTC+8）<br />珠海 · Skyline Incubator（星匯創孵中心）、香洲区跨境二路33号 星匯中心25階<br /><br />SpaceXAI for Macau コミュニティの珠海 Grok Bot ミートアップ（主催 John Ku / Skyline Incubator）。講義でもワークショップでもなく、Grok Bot の使い方や AI プロジェクトを気軽に共有。無料・人数限定・スキャン時 1 名。日英中の案内あり。<br /><br /><a href="https://luma.com/spacexai-zhuhai-meetup-sep-20"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
+<a id="hzo-20260918"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/wpzawz6x"><img src="./assets/events/hzo-20260918-cover.png" alt="Grok Bot 杭州ビルドナイト" width="300" /></a></td><td valign="top"><strong>Grok Bot 杭州ビルドナイト</strong><br />2026-09-18（金） 19:00–22:00（Asia/Shanghai、UTC+8）<br />中国・杭州（オフライン；Luma 上は秘匿、RSVP 後に案内）<br /><br />杭州 Grok Bot ビルドナイト（SpaceXAI Ambassador Mai Yang）。翌日の hzo-20260919 とは別。約 19:00–22:00：紹介・デモ・Q&A・ビルド・クレジット。無料・承認制（残 20）。新 slug wpzawz6x；フォーラム投稿なし。<br /><br /><a href="https://luma.com/wpzawz6x"><strong>Luma で登録 → →</strong></a></td></tr></table>
+
 <a id="country-us"></a>
 ### アメリカ
 
@@ -66,9 +69,6 @@
 <a id="chi-20260930"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotrecruiting-chicago"><img src="./assets/events/chi-20260930-cover.png" alt="Grok Bot build night for Recruiting (Chicago)" width="300" /></a></td><td valign="top"><strong>Grok Bot build night for Recruiting (Chicago)</strong><br />2026-09-30（水）17:00–20:30（America/Chicago、CDT、UTC−5）<br />シカゴ · 会場 TBA（オフライン）<br /><br />SpaceXAI Community の Recruiting 向けビルドナイト（主催 Sunita Rao；forum 171548）。シカゴ時間 17:00–20:30。オフライン無料。初のシカゴ枠。slug grokbotrecruiting-chicago（= spacexai-k0po）。<br /><br /><a href="https://luma.com/grokbotrecruiting-chicago"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
-<a id="aus-20260916"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/jzlxzq14"><img src="./assets/events/aus-20260916-cover.png" alt="Grok Bot in Your Business · AI in Austin" width="300" /></a></td><td valign="top"><strong>Grok Bot in Your Business · AI in Austin</strong><br />2026-09-16（水）18:30–20:30（America/Chicago、CDT、UTC−5）<br />オースティン中心部 · 承認後に住所送付（オフライン）<br /><br />AI in Austin（主催 Ryan Kohler）のオフライン作業会。創業者・オペレーター・GTM 向けに「デモではなく業務に Grok Bot」。CDT 18:30 開場→18:45 マルチエージェントデモ→19:05 ビルド→20:00 共有→20:30 終了。会場は承認後通知。スキャン時 guest_count 0。隔夜の新 slug jzlxzq14。<br /><br /><a href="https://luma.com/jzlxzq14"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
 <a id="gsp-20261008"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/utdchtxv"><img src="./assets/events/gsp-20261008-cover.png" alt="Grok Bot Meetup グリーンビル" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup グリーンビル</strong><br />2026-10-08（木）18:00–20:00（America/New_York、ET、UTC−4）<br />サウスカロライナ州グリーンビル（会場未定）（オフライン；ソフト定員 50–75、ウェイティングあり）<br /><br />グリーンビル初のカタログ掲載 Grok Bot ミートアップ（主催 Brad Shannon；個人 Luma カレンダー）。アジェンダ：入場〜紹介〜ライブデモ〜Q&A〜ビルド。ノートPC持参、https://x.ai/bot を事前DL推奨。無料RSVP（スキャン時残り約66、guest_count 9）。会場は後日更新。新 discover slug utdchtxv；フォーラムの New event 投稿はまだなし。<br /><br /><a href="https://luma.com/utdchtxv"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
@@ -89,6 +89,9 @@
 
 <a id="yyz-20261026"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/mj5bmugc"><img src="./assets/events/yyz-20261026-cover.png" alt="Grok Bot Meetup Toronto（10月）" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Toronto（10月）</strong><br />2026-10-26（月）17:30–20:30（America/Toronto、UTC-4）<br />カナダ・トロント 800 Bay 周辺（Luma で住所ぼかし）（オフライン）<br /><br />トロント月次 Grok Bot ミートアップ（10月／ホスト Jia Ming Huang ほか；カタログ済 yyz-20260917 の続編）。800 Bay で約17:30–20:30：交流・スピーカー2名・Q&A・ビルド。食事付き。ノートPC持参、18:15入場締切。無料・承認制（スキャン時残り約400）。新 slug mj5bmugc；yyz-20260917 と混同しないこと。<br /><br /><a href="https://luma.com/mj5bmugc"><strong>Luma で登録 → →</strong></a></td></tr></table>
+
+<a id="yow-20261010"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/phs5tofz"><img src="./assets/events/yow-20261010-cover.png" alt="Grok Bot Meetup オタワ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup オタワ</strong><br />2026-10-10（土） 18:00–22:00（America/Toronto、UTC-4）<br />カナダ・オタワ Carleton University Nicol Building, 1125 Colonel By Dr（オフライン、部屋は後日）<br /><br />オタワ初のカタログ掲載 Grok Bot ミートアップ（Builders Collective Ottawa ほか）。Carleton University の夜：紹介・デモ・ショーケース・クレジット・交流。無料・承認制。ノートPC持参。新 slug phs5tofz；フォーラムの New event 投稿はまだなし。<br /><br /><a href="https://luma.com/phs5tofz"><strong>Luma で登録 → →</strong></a></td></tr></table>
 
 <a id="country-br"></a>
 ### ブラジル
@@ -271,7 +274,7 @@
 ### フィリピン
 
 <a id="ceb-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot Meetup Cebu" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cebu</strong><br />2026-09-19（土）09:00–11:30（PHT）<br />セブ · 登録後に住所を表示<br /><br />セブの対面 Grok Bot。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot Meetup Cebu" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cebu</strong><br />2026-10-10（土）09:00–11:30（Asia/Manila / PHT）<br />フィリピン・マンダウエ Zero-Ten Park Cebu Mandaue（オフライン）<br /><br />セブの対面 Grok Bot（2026-10-10（土）に変更）。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
 <a id="country-sv"></a>
 ### エルサルバドル

@@ -24,6 +24,9 @@
 <a id="zuh-20260920"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zhuhai-meetup-sep-20"><img src="./assets/events/zuh-20260920-cover.png" alt="Grok Bot 珠海见面会" width="300" /></a></td><td valign="top"><strong>Grok Bot 珠海见面会</strong><br />2026-09-20 周日 15:00–17:00（香港时区 HKT，UTC+8）<br />珠海 · 星汇创孵中心 Skyline Incubator，香洲区跨境二路33号星汇中心25楼<br /><br />SpaceXAI for Macau 社区 Grok Bot 珠海见面会（主办 John Ku），星汇创孵中心。轻松交流：探索 Grok Bot、分享 AI 项目、认识伙伴；非讲座/工作坊。免费、名额有限；扫描时 guest_count 1。中英双语正文。<br /><br /><a href="https://luma.com/spacexai-zhuhai-meetup-sep-20"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
+<a id="hzo-20260918"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/wpzawz6x"><img src="./assets/events/hzo-20260918-cover.png" alt="Grok Bot 杭州 Build Night" width="300" /></a></td><td valign="top"><strong>Grok Bot 杭州 Build Night</strong><br />2026-09-18 周五 19:00–22:00（Asia/Shanghai，UTC+8）<br />中国杭州（线下；Luma 地址脱敏，报名后告知）<br /><br />杭州 Grok Bot Build Night（SpaceXAI Ambassador Mai Yang），与次日已入库 meetup hzo-20260919 不同场。约 19:00–22:00：介绍、大使演示、问答、动手与积分。免费需审批（余 20）。新 slug wpzawz6x；论坛尚无 New event 帖。<br /><br /><a href="https://luma.com/wpzawz6x"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
 <a id="country-us"></a>
 ### 美国
 
@@ -66,9 +69,6 @@
 <a id="chi-20260930"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotrecruiting-chicago"><img src="./assets/events/chi-20260930-cover.png" alt="Grok Bot Recruiting 芝加哥共建夜" width="300" /></a></td><td valign="top"><strong>Grok Bot Recruiting 芝加哥共建夜</strong><br />2026-09-30 周三 17:00–20:30（美中芝加哥 CDT，UTC−5）<br />美国芝加哥 · 场地待公布（线下）<br /><br />SpaceXAI Community Grok Bot Recruiting 共建夜（主办 Sunita Rao；论坛 171548）。芝加哥时间 17:00–20:30。线下免费；guest_count 0。首场芝加哥。短链 grokbotrecruiting-chicago（= spacexai-k0po）。<br /><br /><a href="https://luma.com/grokbotrecruiting-chicago"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
-<a id="aus-20260916"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/jzlxzq14"><img src="./assets/events/aus-20260916-cover.png" alt="Grok Bot 走进业务 · AI in Austin" width="300" /></a></td><td valign="top"><strong>Grok Bot 走进业务 · AI in Austin</strong><br />2026-09-16 周三 18:30–20:30（美中奥斯汀 CDT，UTC−5）<br />美国奥斯汀市中心 · 报名通过后公布场地（线下）<br /><br />AI in Austin（主办 Ryan Kohler）线下共建夜：面向希望把 Grok Bot 用进真实业务的创始人/运营/GTM。芝加哥时间议程：18:30 入场、18:45 多智能体 Grok Bot 演示、19:05 动手工位、20:00 分享、20:30 结束。场地审批后公开；扫描时 guest_count 0。隔夜新 slug jzlxzq14（晚间 unknown 集未出现）。<br /><br /><a href="https://luma.com/jzlxzq14"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
 <a id="gsp-20261008"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/utdchtxv"><img src="./assets/events/gsp-20261008-cover.png" alt="Grok Bot Meetup 格林维尔" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 格林维尔</strong><br />2026-10-08 周四 18:00–20:00（美国南卡罗来纳州格林维尔 ET，UTC−4）<br />美国南卡罗来纳州格林维尔（场地待定）（线下；软容量 50–75，有候补）<br /><br />格林维尔首场入库 Grok Bot 聚会（主办 Brad Shannon；个人 Luma 日历）。议程：约 17:45 入场、欢迎与介绍 Grok Bot、现场演示、Q&A、自由构建。自带电脑，建议预装 https://x.ai/bot。设计师/PM/创始人/开发者皆可。免费报名（扫描时剩余约 66、guest_count 9）。场地待定。新 discover slug utdchtxv；论坛尚无 New event 帖。<br /><br /><a href="https://luma.com/utdchtxv"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
@@ -89,6 +89,9 @@
 
 <a id="yyz-20261026"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/mj5bmugc"><img src="./assets/events/yyz-20261026-cover.png" alt="Grok Bot Meetup 多伦多（十月）" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 多伦多（十月）</strong><br />2026-10-26 周一 17:30–20:30（多伦多America/Toronto，UTC-4）<br />加拿大多伦多 800 Bay 一带（Luma 模糊地址）（线下）<br /><br />多伦多月度 Grok Bot 聚会十月场（主办 Jia Ming Huang 等；承接已入库 yyz-20260917 九月场）。约 17:30–20:30 于 800 Bay：交流、两位演讲、Q&A、构建；提供餐饮与 Cursor credits。需带电脑；18:15 截止入场。免费报名需审批（扫描时剩余约 400）。新 slug mj5bmugc；勿与 yyz-20260917 混淆。<br /><br /><a href="https://luma.com/mj5bmugc"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
+<a id="yow-20261010"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/phs5tofz"><img src="./assets/events/yow-20261010-cover.png" alt="Grok Bot Meetup 渥太华" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 渥太华</strong><br />2026-10-10 周六 18:00–22:00（America/Toronto，UTC-4）<br />加拿大渥太华 Carleton University Nicol Building, 1125 Colonel By Dr（线下，教室待定）<br /><br />渥太华首场入库 Grok Bot 聚会（Builders Collective Ottawa 等主办）。Carleton University 晚场：Grok Bot 101、演示、展示、积分与交流。免费报名需审批；请带笔记本。新 slug phs5tofz；论坛尚无 New event 帖。<br /><br /><a href="https://luma.com/phs5tofz"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="country-br"></a>
 ### 巴西
@@ -271,7 +274,7 @@
 ### 菲律宾
 
 <a id="ceb-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot 宿务线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 宿务线下交流</strong><br />2026-09-19 周六 09:00–11:30（宿务）<br />宿务 · 报名通过后可见地址<br /><br />宿务线下 Grok Bot。需主办审核。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot 宿务线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 宿务线下交流</strong><br />2026-10-10 周六 09:00–11:30（Asia/Manila / PHT）<br />菲律宾中央维萨亚斯 曼达韦 Zero-Ten Park Cebu Mandaue（线下）<br /><br />宿务线下 Grok Bot（改期至 2026-10-10 周六）。需主办审核。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
 <a id="country-sv"></a>
 ### 萨尔瓦多
