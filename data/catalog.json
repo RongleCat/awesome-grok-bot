@@ -3114,6 +3114,16 @@
             "zh": "用 Grok Bot 做出的浏览器幻想城逃亡垂直切片，可在 GitHub Pages 游玩。",
             "ja": "Grok Bot プロジェクトとして作られたブラウザ幻想都市脱出の垂直スライス。GitHub Pages で遊べる。"
           }
+        },
+        {
+          "title": "Kiwi Chat — watch two Grok bots message each other",
+          "url": "https://github.com/vishnusat2007-wq/kiwi-chat",
+          "source": "GB-1399",
+          "blurb": {
+            "en": "Live messenger demo where two Grok bots talk over a bearer-token HTTP API while humans spectate (not an MCP broker).",
+            "zh": "直播信使演示：两台 Grok bot 经 Bearer HTTP API 互聊，人类旁观（非 MCP 经纪）。",
+            "ja": "ライブメッセンジャーデモ。2 台の Grok bot が Bearer HTTP API で会話し、人間は観戦（MCP 仲介ではない）。"
+          }
         }
       ]
     },
@@ -7114,6 +7124,76 @@
             "zh": "Vervology MCP Portal 官方开源 Cursor / Grok Bot 插件，浏览器 OAuth，不含本地密钥。",
             "ja": "Vervology MCP Portal 公式オープンソースの Cursor / Grok Bot プラグイン。ブラウザ OAuth、ローカル秘密情報なし。"
           }
+        },
+        {
+          "title": "reputation-sweep — Grok Bot data-broker opt-out skill",
+          "url": "https://github.com/LiamFallen/reputation-sweep",
+          "source": "GB-1384",
+          "blurb": {
+            "en": "Self-contained SKILL.md playbook so Grok Bot runs Agent Zero-style people-search and data-broker opt-outs with consent gates.",
+            "zh": "自包含 SKILL.md：让 Grok Bot 按同意门槛做 Agent Zero 式人物检索与数据掮客退出。",
+            "ja": "自己完結 SKILL.md。同意ゲート付きで Grok Bot が Agent Zero 式の人物検索・データブローカー除外を実行。"
+          }
+        },
+        {
+          "title": "Cursor Dispatch — Grok Bot outer-loop plugin",
+          "url": "https://github.com/Unternehmengruppe-SecureCare/coding-hub",
+          "source": "GB-1385",
+          "blurb": {
+            "en": "Grok Bot .grok-plugin that plans work while Cursor Cloud Agents write code for Unternehmengruppe-SecureCare (MCP + skills).",
+            "zh": "带 .grok-plugin 的 Grok Bot 外环插件：Grok 规划、Cursor Cloud Agents 写代码（含 MCP 与 skills）。",
+            "ja": ".grok-plugin 付き Grok Bot 外側ループ。Grok が計画し Cursor Cloud Agents が実装（MCP / skills）。"
+          }
+        },
+        {
+          "title": "GrokLine — US phone SMS plugin for Grok Bot",
+          "url": "https://github.com/brettricks7/grokline-plugin",
+          "source": "GB-1386",
+          "blurb": {
+            "en": "Grok Build / Grok Bot plugin that gives your bot a $3/mo US number for SMS send/receive via .grok-plugin install.",
+            "zh": "Grok Build / Grok Bot 插件：约 $3/月美国号码收发短信，可用 grok plugin install 安装。",
+            "ja": "Grok Build / Grok Bot プラグイン。月 $3 の米国番号で SMS 送受信。.grok-plugin で導入。"
+          }
+        },
+        {
+          "title": "FreshBooks / Gusto / Bill.com MCP for Cursor & Grok Bot",
+          "url": "https://github.com/nbehar/freshbooks-gusto-plugins",
+          "source": "GB-1387",
+          "blurb": {
+            "en": "Multi-plugin marketplace (FreshBooks accounting, Gusto payroll, Bill.com AP/AR) via MCP for Cursor and Grok Bot.",
+            "zh": "面向 Cursor 与 Grok Bot 的 MCP 多插件市场：FreshBooks 记账、Gusto 薪酬、Bill.com 应付应收。",
+            "ja": "Cursor / Grok Bot 向け MCP マルチプラグイン。FreshBooks 会計・Gusto 給与・Bill.com 債務/債権。"
+          }
+        },
+        {
+          "title": "n8n Master — Grok Bot control-plane plugin",
+          "url": "https://github.com/shagghiesuperstar/n8n-master-grok-bot",
+          "source": "GB-1388",
+          "blurb": {
+            "en": "Official-first .grok-plugin so a Grok Bot can read live n8n docs and talk to your n8n instance over HTTPS after connect.",
+            "zh": "官方优先的 .grok-plugin：让 Grok Bot 读实时 n8n 文档，连接后经 HTTPS 操控你的 n8n 实例。",
+            "ja": "公式優先の .grok-plugin。Grok Bot が n8n ドキュメントを読み、接続後 HTTPS でインスタンス操作。"
+          }
+        },
+        {
+          "title": "Cold Outbound — Grok Bot GTM skill library",
+          "url": "https://github.com/timyakubson/cold-outbound-grokbot-repo",
+          "source": "GB-1389",
+          "blurb": {
+            "en": "Staged Grok Bot / Codex skill library for building a cold-outbound GTM system (tools → TAM → copy → multi-channel).",
+            "zh": "分阶段 Grok Bot / Codex 技能库：从工具接入、TAM、文案到多渠道冷外联 GTM。",
+            "ja": "段階式 Grok Bot / Codex スキル集。ツール接続→TAM→文案→マルチチャネルのコールドアウトバウンド GTM。"
+          }
+        },
+        {
+          "title": "Fastmail JMAP push → Grok Bot webhook bridge",
+          "url": "https://github.com/vezaynk/fastmail-jmap-push-bridge",
+          "source": "GB-1390",
+          "blurb": {
+            "en": "Cloudflare Worker that decrypts Fastmail JMAP Web Push and forwards filtered mail events to a Grok Bot webhook.",
+            "zh": "Cloudflare Worker：解密 Fastmail JMAP Web Push，把过滤后的邮件事件转到 Grok Bot webhook。",
+            "ja": "Cloudflare Worker。Fastmail JMAP Web Push を復号し、絞ったメール事象を Grok Bot webhook へ転送。"
+          }
         }
       ]
     },
@@ -9904,6 +9984,26 @@
             "zh": "Cloudflare Worker + D1 的 FIFO 工作队列与 CLI，让多台 Grok Bot 共享任务并带卡住告警 webhook。",
             "ja": "Cloudflare Worker + D1 の FIFO 作業キューと CLI。複数 Grok Bot でジョブ共有し、停滞検知 webhook 付き。"
           }
+        },
+        {
+          "title": "Snap — Mac screenshot paste into Grok Bot",
+          "url": "https://github.com/c-staton/snap",
+          "source": "GB-1391",
+          "blurb": {
+            "en": "Mac utility that captures a screenshot and pastes it into the Grok Bot chat box without sending (Accessibility-powered).",
+            "zh": "Mac 小工具：截屏后粘贴进 Grok Bot 聊天框（不自动发送），需辅助功能权限。",
+            "ja": "Mac 用ユーティリティ。スクショを撮って Grok Bot の入力欄へ貼り付け（送信はしない）。アクセシビリティ権限が必要。"
+          }
+        },
+        {
+          "title": "Codeg — multi-agent workspace incl. Grok Build",
+          "url": "https://github.com/nobug-project/codeg",
+          "source": "GB-1398",
+          "blurb": {
+            "en": "Collaborative multi-agent coding workspace that aggregates sessions from Claude Code, Codex, OpenCode and Grok Build.",
+            "zh": "协作多智能体编码工作区：汇总 Claude Code、Codex、OpenCode、Grok Build 等会话。",
+            "ja": "協調マルチエージェント作業空間。Claude Code / Codex / OpenCode / Grok Build のセッションを集約。"
+          }
         }
       ]
     },
@@ -11613,6 +11713,16 @@
             "en": "Staff (kevinn, 2026-09-17): On Grok Bot iOS Settings, a scroll that starts on a switch can flip it (reproduced; tracking). The protective control is Auto-review (not labeled “Agent guards”). Workaround until fixed: start the scroll on the row text, not on the switch itself.",
             "zh": "Staff（kevinn，2026-09-17）：Grok Bot iOS「设置」里，从开关上开始滑动可能误触翻转开关（已复现、在追）。防护相关控件是 Auto-review（没有叫 Agent guards 的开关）。修复前变通：从该行文字上开始滑，不要从开关本身开始。",
             "ja": "Staff（kevinn、2026-09-17）：Grok Bot iOS の Settings で、スイッチ上からスクロールを始めるとトグルが切り替わることがある（再現済み・追跡中）。保護用は Auto-review（「Agent guards」というスイッチはない）。当面は行のテキスト側からスクロールし、スイッチ自体から始めない。"
+          }
+        },
+        {
+          "title": "172033 Sidebar sections: desktop New Section + no agent create tool",
+          "url": "https://forum.cursor.com/t/grok-bot-agent-tools-to-create-and-manage-sidebar-sections-parity-with-createchannel/172033",
+          "source": "GB-1400",
+          "blurb": {
+            "en": "Staff (kevinn): agents can list sections and CreateAgent can place into one, but there is no tool to create/rename/delete/move sections — on desktop right-click Move to → New Section (mobile long-press).",
+            "zh": "员工 kevinn：智能体可列出分区且 CreateAgent 可放入已有分区，但还没有创建/重命名/删除/移动分区的工具；桌面右键 Move to → New Section（移动端长按）。",
+            "ja": "スタッフ kevinn：エージェントはセクション一覧と CreateAgent での配置はできるが、作成/改名/削除/移動ツールは未実装。デスクトップは右クリック Move to → New Section（モバイルは長押し）。"
           }
         }
       ]
@@ -13663,6 +13773,76 @@
             "en": "German-language Windows batch installer pack that unpacks Grok Build under C:\\GrokBuild and launches it.",
             "zh": "德语说明的 Windows 批处理安装包：解压到 C:\\GrokBuild 并启动 Grok Build。",
             "ja": "ドイツ語案内の Windows バッチ導入パック。C:\\GrokBuild に展開して Grok Build を起動。"
+          }
+        },
+        {
+          "title": "Grok Bot Field Notes — xAI team 72h live build",
+          "url": "https://github.com/unicodef1wn/grokbot-field-notes",
+          "source": "GB-1383",
+          "blurb": {
+            "en": "Rules, playbooks, bot roles and a failure log from the xAI Grok Bot team's 72-hour live product build — drop into AGENTS.md.",
+            "zh": "xAI Grok Bot 团队 72 小时直播从零上线产品的规则、剧本、角色与失败日志，可放进 AGENTS.md。",
+            "ja": "xAI Grok Bot チームが 72 時間ライブでゼロから製品を出したルール・プレイブック・役割・失敗ログ。AGENTS.md に投入可。"
+          }
+        },
+        {
+          "title": "Grok Bot Galaxy Guide — Days 1–3 steal sheet",
+          "url": "https://github.com/Btheriot83/grok-bot-galaxy-guide",
+          "source": "GB-1392",
+          "blurb": {
+            "en": "Unofficial Next.js skim pack of Grok Bot Galaxy livestream steals and Day 1–3 notes for one-person builders.",
+            "zh": "非官方 Next.js 速览：Grok Bot Galaxy 直播可偷师要点与 Day 1–3 笔记，面向一人团队。",
+            "ja": "非公式 Next.js まとめ。Grok Bot Galaxy 配信の盗み技と Day1–3 ノート（一人ビルダー向け）。"
+          }
+        },
+        {
+          "title": "Agent Contract — installable skills scanners for Grok bots",
+          "url": "https://github.com/Jaysi88/agent-contract",
+          "source": "GB-1393",
+          "blurb": {
+            "en": "Five installable Agent Skills with scanners — a constitution every Grok bot / automation must pass before saying done.",
+            "zh": "五套可安装 Agent Skills 与扫描器：Grok bot / 自动化说「完成」前必须过的宪章。",
+            "ja": "導入可能な Agent Skills 5 本とスキャナ。Grok bot / 自動化が「完了」と言う前に通す憲章。"
+          }
+        },
+        {
+          "title": "grok-best-practice — living Grok Build CLI course",
+          "url": "https://github.com/ralftester/grok-best-practice",
+          "source": "GB-1394",
+          "blurb": {
+            "en": "Unofficial living course and ecosystem map for the xAI Grok Build CLI (skills, plugins, inspect, plan mode).",
+            "zh": "非官方活文档：xAI Grok Build CLI 的课程与生态地图（skills、插件、inspect、plan mode）。",
+            "ja": "非公式の生きた教材。xAI Grok Build CLI のコースと生態系マップ（skills・プラグイン・inspect・plan mode）。"
+          }
+        },
+        {
+          "title": "grok-build-nix — Nix flake for Grok Build CLI",
+          "url": "https://github.com/gesop0n/grok-build-nix",
+          "source": "GB-1395",
+          "blurb": {
+            "en": "Nix flake overlay that reproducibly installs pre-built Grok Build CLI binaries from official xAI GitHub releases.",
+            "zh": "Nix flake：从 xAI 官方 GitHub Release 可复现地安装预编译 Grok Build CLI。",
+            "ja": "Nix flake。公式 xAI GitHub Release の Grok Build CLI バイナリを再現可能に導入。"
+          }
+        },
+        {
+          "title": "jev-routing-go — Go Jev harness for Grok Build",
+          "url": "https://github.com/nekowasabi/jev-routing-go",
+          "source": "GB-1396",
+          "blurb": {
+            "en": "Single Go binary Jev harness for Claude Code, Codex and Grok Build without npx (not an MCP server).",
+            "zh": "单个 Go 二进制 Jev 编排：面向 Claude Code、Codex、Grok Build，无需 npx（非 MCP）。",
+            "ja": "単一 Go バイナリの Jev ハーネス。Claude Code / Codex / Grok Build 向け、npx 不要（MCP ではない）。"
+          }
+        },
+        {
+          "title": "HarnessTrajectory — local viewer incl. Grok Build sessions",
+          "url": "https://github.com/Demogorgon314/HarnessTrajectory",
+          "source": "GB-1397",
+          "blurb": {
+            "en": "Local trajectory viewer for coding-agent transcripts including Grok Build, Claude Code, Codex and peers.",
+            "zh": "本地轨迹查看器：读取含 Grok Build、Claude Code、Codex 等编码智能体会话笔录。",
+            "ja": "ローカル軌跡ビューア。Grok Build / Claude Code / Codex などのコーディングエージェント筆録を表示。"
           }
         }
       ]
@@ -18782,6 +18962,192 @@
         "en": "Epplestraße 225/haus 3, 70567 Stuttgart-Möhringen, Germany — offline (first floor)",
         "zh": "德国斯图加特 Epplestraße 225/haus 3, 70567 Stuttgart-Möhringen（线下，一楼）",
         "ja": "ドイツ・シュトゥットガルト Epplestraße 225/haus 3, 70567 Stuttgart-Möhringen（オフライン、1階）"
+      }
+    },
+    {
+      "title": {
+        "en": "Grok Bot Meetup Tbilisi",
+        "zh": "Grok Bot Meetup 第比利斯",
+        "ja": "Grok Bot Meetup トビリシ"
+      },
+      "when": {
+        "en": "Sat 26 Sep 2026, 15:00–17:30 (Asia/Tbilisi, UTC+4)",
+        "zh": "2026-09-26 周六 15:00–17:30（Asia/Tbilisi，UTC+4）",
+        "ja": "2026-09-26（土） 15:00–17:30（Asia/Tbilisi、UTC+4）"
+      },
+      "id": "tbs-20260926",
+      "url": "https://luma.com/0scz2dff",
+      "expires": "2026-09-26T17:30:00+04:00",
+      "where": {
+        "en": "Tbilisi, Georgia — offline (exact venue city-level on Luma / shared after RSVP)",
+        "zh": "格鲁吉亚第比利斯（线下；Luma 仅到城市级，报名后告知具体场地）",
+        "ja": "ジョージア・トビリシ（オフライン；Luma は都市レベル、RSVP 後に会場案内）"
+      },
+      "body": {
+        "en": "First Grok Bot meetup in Tbilisi — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug 0scz2dff, evt-JEDpRvIA8X8CNUM). Opened via discover; OG title verified 2026-09-18.",
+        "zh": "第比利斯首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug 0scz2dff）。2026-09-18 已打开页面核实。",
+        "ja": "トビリシ初の Grok Bot オフラインミートアップ（中央アジア＆コーカサス連続）。体験・デモ・交流。Luma 無料RSVP（slug 0scz2dff）。2026-09-18 にページ確認済み。"
+      },
+      "image": "./assets/events/tbs-20260926-cover.png",
+      "cta": {
+        "en": "RSVP on Luma",
+        "zh": "在 Luma 报名",
+        "ja": "Luma で RSVP"
+      }
+    },
+    {
+      "title": {
+        "en": "Grok Bot Meetup Baku",
+        "zh": "Grok Bot Meetup 巴库",
+        "ja": "Grok Bot Meetup バクー"
+      },
+      "when": {
+        "en": "Sun 27 Sep 2026, 15:00–18:00 (Asia/Baku, UTC+4)",
+        "zh": "2026-09-27 周日 15:00–18:00（Asia/Baku，UTC+4）",
+        "ja": "2026-09-27（日） 15:00–18:00（Asia/Baku、UTC+4）"
+      },
+      "id": "bak-20260927",
+      "url": "https://luma.com/ydy9qy6h",
+      "expires": "2026-09-27T18:00:00+04:00",
+      "where": {
+        "en": "Baku, Azerbaijan — offline (exact venue city-level on Luma / shared after RSVP)",
+        "zh": "阿塞拜疆巴库（线下；Luma 仅到城市级，报名后告知具体场地）",
+        "ja": "アゼルバイジャン・バクー（オフライン；Luma は都市レベル、RSVP 後に会場案内）"
+      },
+      "body": {
+        "en": "First Grok Bot meetup in Baku — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug ydy9qy6h, evt-u0gJBz3jwCKYY7h). Opened via discover; OG title verified 2026-09-18.",
+        "zh": "巴库首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug ydy9qy6h）。2026-09-18 已打开页面核实。",
+        "ja": "バクー初の Grok Bot オフラインミートアップ（中央アジア＆コーカサス連続）。体験・デモ・交流。Luma 無料RSVP（slug ydy9qy6h）。2026-09-18 にページ確認済み。"
+      },
+      "image": "./assets/events/bak-20260927-cover.png",
+      "cta": {
+        "en": "RSVP on Luma",
+        "zh": "在 Luma 报名",
+        "ja": "Luma で RSVP"
+      }
+    },
+    {
+      "title": {
+        "en": "Grok Bot Meetup Tashkent",
+        "zh": "Grok Bot Meetup 塔什干",
+        "ja": "Grok Bot Meetup タシュケント"
+      },
+      "when": {
+        "en": "Tue 29 Sep 2026, 18:00–21:00 (Asia/Samarkand, UTC+5)",
+        "zh": "2026-09-29 周二 18:00–21:00（Asia/Samarkand，UTC+5）",
+        "ja": "2026-09-29（火） 18:00–21:00（Asia/Samarkand、UTC+5）"
+      },
+      "id": "tas-20260929",
+      "url": "https://luma.com/pz9gxlzu",
+      "expires": "2026-09-29T21:00:00+05:00",
+      "where": {
+        "en": "Tashkent, Uzbekistan — offline (exact venue city-level on Luma / shared after RSVP)",
+        "zh": "乌兹别克斯坦塔什干（线下；Luma 仅到城市级，报名后告知具体场地）",
+        "ja": "ウズベキスタン・タシュケント（オフライン；Luma は都市レベル、RSVP 後に会場案内）"
+      },
+      "body": {
+        "en": "First Grok Bot meetup in Tashkent — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug pz9gxlzu, evt-l4cGFBWK7pNt5Fb). Opened via discover; OG title verified 2026-09-18.",
+        "zh": "塔什干首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug pz9gxlzu）。2026-09-18 已打开页面核实。",
+        "ja": "タシュケント初の Grok Bot オフラインミートアップ（中央アジア＆コーカサス連続）。体験・デモ・交流。Luma 無料RSVP（slug pz9gxlzu）。2026-09-18 にページ確認済み。"
+      },
+      "image": "./assets/events/tas-20260929-cover.png",
+      "cta": {
+        "en": "RSVP on Luma",
+        "zh": "在 Luma 报名",
+        "ja": "Luma で RSVP"
+      }
+    },
+    {
+      "title": {
+        "en": "Grok Bot Meetup Bishkek",
+        "zh": "Grok Bot Meetup 比什凯克",
+        "ja": "Grok Bot Meetup ビシュケク"
+      },
+      "when": {
+        "en": "Thu 1 Oct 2026, 10:00–12:30 (Asia/Bishkek, UTC+6)",
+        "zh": "2026-10-01 周四 10:00–12:30（Asia/Bishkek，UTC+6）",
+        "ja": "2026-10-01（木） 10:00–12:30（Asia/Bishkek、UTC+6）"
+      },
+      "id": "fru-20261001",
+      "url": "https://luma.com/7bexxjvh",
+      "expires": "2026-10-01T12:30:00+06:00",
+      "where": {
+        "en": "Bishkek, Kyrgyzstan — offline (exact venue city-level on Luma / shared after RSVP)",
+        "zh": "吉尔吉斯斯坦比什凯克（线下；Luma 仅到城市级，报名后告知具体场地）",
+        "ja": "キルギス・ビシュケク（オフライン；Luma は都市レベル、RSVP 後に会場案内）"
+      },
+      "body": {
+        "en": "First Grok Bot meetup in Bishkek — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug 7bexxjvh, evt-rtYvGpHxG2lETbU). Opened via discover; OG title verified 2026-09-18.",
+        "zh": "比什凯克首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug 7bexxjvh）。2026-09-18 已打开页面核实。",
+        "ja": "ビシュケク初の Grok Bot オフラインミートアップ（中央アジア＆コーカサス連続）。体験・デモ・交流。Luma 無料RSVP（slug 7bexxjvh）。2026-09-18 にページ確認済み。"
+      },
+      "image": "./assets/events/fru-20261001-cover.png",
+      "cta": {
+        "en": "RSVP on Luma",
+        "zh": "在 Luma 报名",
+        "ja": "Luma で RSVP"
+      }
+    },
+    {
+      "title": {
+        "en": "Grok Bot Meetup Astana",
+        "zh": "Grok Bot Meetup 阿斯塔纳",
+        "ja": "Grok Bot Meetup アスタナ"
+      },
+      "when": {
+        "en": "Fri 2 Oct 2026, 14:00–17:00 (Asia/Almaty, UTC+5)",
+        "zh": "2026-10-02 周五 14:00–17:00（Asia/Almaty，UTC+5）",
+        "ja": "2026-10-02（金） 14:00–17:00（Asia/Almaty、UTC+5）"
+      },
+      "id": "nqz-20261002",
+      "url": "https://luma.com/t1l3nqrc",
+      "expires": "2026-10-02T17:00:00+05:00",
+      "where": {
+        "en": "Astana, Kazakhstan — offline (exact venue city-level on Luma / shared after RSVP)",
+        "zh": "哈萨克斯坦阿斯塔纳（线下；Luma 仅到城市级，报名后告知具体场地）",
+        "ja": "カザフスタン・アスタナ（オフライン；Luma は都市レベル、RSVP 後に会場案内）"
+      },
+      "body": {
+        "en": "First Grok Bot meetup in Astana — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug t1l3nqrc, evt-ZSiPrvUD7Jlgf2A). Opened via discover; OG title verified 2026-09-18.",
+        "zh": "阿斯塔纳首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug t1l3nqrc）。2026-09-18 已打开页面核实。",
+        "ja": "アスタナ初の Grok Bot オフラインミートアップ（中央アジア＆コーカサス連続）。体験・デモ・交流。Luma 無料RSVP（slug t1l3nqrc）。2026-09-18 にページ確認済み。"
+      },
+      "image": "./assets/events/nqz-20261002-cover.png",
+      "cta": {
+        "en": "RSVP on Luma",
+        "zh": "在 Luma 报名",
+        "ja": "Luma で RSVP"
+      }
+    },
+    {
+      "title": {
+        "en": "Grok Bot Meetup Almaty",
+        "zh": "Grok Bot Meetup 阿拉木图",
+        "ja": "Grok Bot Meetup アルマトイ"
+      },
+      "when": {
+        "en": "Sun 4 Oct 2026, 14:00–17:00 (Asia/Almaty, UTC+5)",
+        "zh": "2026-10-04 周日 14:00–17:00（Asia/Almaty，UTC+5）",
+        "ja": "2026-10-04（日） 14:00–17:00（Asia/Almaty、UTC+5）"
+      },
+      "id": "ala-20261004",
+      "url": "https://luma.com/vod1qyrk",
+      "expires": "2026-10-04T17:00:00+05:00",
+      "where": {
+        "en": "Almaty, Kazakhstan — offline (exact venue city-level on Luma / shared after RSVP)",
+        "zh": "哈萨克斯坦阿拉木图（线下；Luma 仅到城市级，报名后告知具体场地）",
+        "ja": "カザフスタン・アルマトイ（オフライン；Luma は都市レベル、RSVP 後に会場案内）"
+      },
+      "body": {
+        "en": "First Grok Bot meetup in Almaty — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug vod1qyrk, evt-9chPv7suc0e5yxp). Opened via discover; OG title verified 2026-09-18.",
+        "zh": "阿拉木图首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug vod1qyrk）。2026-09-18 已打开页面核实。",
+        "ja": "アルマトイ初の Grok Bot オフラインミートアップ（中央アジア＆コーカサス連続）。体験・デモ・交流。Luma 無料RSVP（slug vod1qyrk）。2026-09-18 にページ確認済み。"
+      },
+      "image": "./assets/events/ala-20261004-cover.png",
+      "cta": {
+        "en": "RSVP on Luma",
+        "zh": "在 Luma 报名",
+        "ja": "Luma で RSVP"
       }
     }
   ]

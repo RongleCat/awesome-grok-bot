@@ -217,6 +217,11 @@ COUNTRY_LABEL = {
     "es": {"en": "Spain", "zh": "西班牙", "ja": "スペイン"},
     "ug": {"en": "Uganda", "zh": "乌干达", "ja": "ウガンダ"},
     "vn": {"en": "Vietnam", "zh": "越南", "ja": "ベトナム"},
+    "ge": {"en": "Georgia", "zh": "格鲁吉亚", "ja": "ジョージア"},
+    "az": {"en": "Azerbaijan", "zh": "阿塞拜疆", "ja": "アゼルバイジャン"},
+    "uz": {"en": "Uzbekistan", "zh": "乌兹别克斯坦", "ja": "ウズベキスタン"},
+    "kg": {"en": "Kyrgyzstan", "zh": "吉尔吉斯斯坦", "ja": "キルギス"},
+    "kz": {"en": "Kazakhstan", "zh": "哈萨克斯坦", "ja": "カザフスタン"},
     "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
     "other": {"en": "Other", "zh": "其他", "ja": "その他"},
 }
@@ -390,6 +395,12 @@ EVENT_GEO = {
     "hzo-20260918": ("cn", "Hangzhou", "杭州", "杭州"),
     "sgn-20260926": ("vn", "Ho Chi Minh City", "胡志明市", "ホーチミン"),
     "str-20261015": ("de", "Stuttgart", "斯图加特", "シュトゥットガルト"),
+    "tbs-20260926": ("ge", "Tbilisi", "第比利斯", "トビリシ"),
+    "bak-20260927": ("az", "Baku", "巴库", "バクー"),
+    "tas-20260929": ("uz", "Tashkent", "塔什干", "タシュケント"),
+    "fru-20261001": ("kg", "Bishkek", "比什凯克", "ビシュケク"),
+    "nqz-20261002": ("kz", "Astana", "阿斯塔纳", "アスタナ"),
+    "ala-20261004": ("kz", "Almaty", "阿拉木图", "アルマトイ"),
 }
 
 

@@ -150,6 +150,15 @@
 <a id="gua-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-is2h"><img src="./assets/events/gua-20261003-cover.png" alt="Grok Bot 危地马拉城线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 危地马拉城线下交流</strong><br />2026-10-03 周六 10:00–14:00（危地马拉城）<br />危地马拉城 Zona 10 弗朗西斯科·马罗金大学 · 报名后可见门牌<br /><br />Open2 在危地马拉城办的 Grok Bot 见面会：用更好的指令、上下文与端到端流程，而不只是零散任务，并有试用额度（约 36 人意向，需主办审核）。<br /><br /><a href="https://luma.com/cursor-is2h"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
+<a id="country-kz"></a>
+### 哈萨克斯坦
+
+<a id="nqz-20261002"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/t1l3nqrc"><img src="./assets/events/nqz-20261002-cover.png" alt="Grok Bot Meetup 阿斯塔纳" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 阿斯塔纳</strong><br />2026-10-02 周五 14:00–17:00（Asia/Almaty，UTC+5）<br />哈萨克斯坦阿斯塔纳（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />阿斯塔纳首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug t1l3nqrc）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/t1l3nqrc"><strong>在 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="ala-20261004"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/vod1qyrk"><img src="./assets/events/ala-20261004-cover.png" alt="Grok Bot Meetup 阿拉木图" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 阿拉木图</strong><br />2026-10-04 周日 14:00–17:00（Asia/Almaty，UTC+5）<br />哈萨克斯坦阿拉木图（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />阿拉木图首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug vod1qyrk）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/vod1qyrk"><strong>在 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-vn"></a>
 ### 越南
 
@@ -170,6 +179,12 @@
 
 <a id="syd-20261007"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-d70v"><img src="./assets/events/syd-20261007-cover.png" alt="Grok Bot 悉尼线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 悉尼线下交流</strong><br />2026-10-07 周三 17:30–21:00（悉尼）<br />悉尼 · 报名通过后可见地址<br /><br />8 月场之后的下一场官方 Cursor 悉尼 Grok Bot 夜。需主办审核。<br /><br /><a href="https://luma.com/cursor-d70v"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="country-az"></a>
+### 阿塞拜疆
+
+<a id="bak-20260927"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/ydy9qy6h"><img src="./assets/events/bak-20260927-cover.png" alt="Grok Bot Meetup 巴库" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 巴库</strong><br />2026-09-27 周日 15:00–18:00（Asia/Baku，UTC+4）<br />阿塞拜疆巴库（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />巴库首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug ydy9qy6h）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/ydy9qy6h"><strong>在 Luma 报名 →</strong></a></td></tr></table>
 
 <a id="country-bd"></a>
 ### 孟加拉国
@@ -195,6 +210,12 @@
 <a id="vvi-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-gc1m"><img src="./assets/events/vvi-20260926-cover.png" alt="Grok Bot Meetup 圣克鲁斯" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 圣克鲁斯</strong><br />2026-09-26 周六 08:30–12:00（圣克鲁斯America/La_Paz，UTC-4）<br />玻利维亚圣克鲁斯 Universidad Central (Unicen), Ave Trinidad 425（线下）<br /><br />玻利维亚圣克鲁斯首场入库 Grok Bot 聚会（主办 Diego Oliver）。西语上午场：Grok Bot 介绍、动手构建、分享交流。免费报名需审批；场地 Universidad Central (Unicen)。新 slug spacexai-gc1m；论坛尚无 New event 帖。<br /><br /><a href="https://luma.com/spacexai-gc1m"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
+<a id="country-ge"></a>
+### 格鲁吉亚
+
+<a id="tbs-20260926"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/0scz2dff"><img src="./assets/events/tbs-20260926-cover.png" alt="Grok Bot Meetup 第比利斯" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 第比利斯</strong><br />2026-09-26 周六 15:00–17:30（Asia/Tbilisi，UTC+4）<br />格鲁吉亚第比利斯（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />第比利斯首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug 0scz2dff）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/0scz2dff"><strong>在 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-ie"></a>
 ### 爱尔兰
 
@@ -206,6 +227,12 @@
 
 <a id="spk-20261002"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/91kju0je"><img src="./assets/events/spk-20261002-cover.png" alt="Grok Bot 札幌线下交流 #2" width="300" /></a></td><td valign="top"><strong>Grok Bot 札幌线下交流 #2</strong><br />2026-10-02 周五 19:00–22:00（札幌）<br />札幌 · 报名通过后可见地址<br /><br />札幌第二场 Grok Bot 线下。免费，需主办审核。<br /><br /><a href="https://luma.com/91kju0je"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="country-kg"></a>
+### 吉尔吉斯斯坦
+
+<a id="fru-20261001"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/7bexxjvh"><img src="./assets/events/fru-20261001-cover.png" alt="Grok Bot Meetup 比什凯克" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 比什凯克</strong><br />2026-10-01 周四 10:00–12:30（Asia/Bishkek，UTC+6）<br />吉尔吉斯斯坦比什凯克（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />比什凯克首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug 7bexxjvh）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/7bexxjvh"><strong>在 Luma 报名 →</strong></a></td></tr></table>
 
 <a id="country-kh"></a>
 ### 柬埔寨
@@ -260,6 +287,12 @@
 
 <a id="kla-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-upc4"><img src="./assets/events/kla-20261003-cover.png" alt="Grok Bot 坎帕拉线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 坎帕拉线下交流</strong><br />2026-10-03 周六 14:00–17:00（非洲/内罗毕 EAT，UTC+3；坎帕拉同区）<br />乌干达坎帕拉 · 场地待定（报名后可见）<br /><br />SpaceXAI for Kampala, Uganda, Africa 下午局（主办 Ronnie 3.0）。产品文案：Grok Bot 是 SpaceXAI 带云端 agent、能真干活的 AI 助手（非纯聊天）；入门、实用工作流（规划/运维/日常）、问答；支持 Android/Mac/iOS/Linux；欢迎新手。免费、无需审核；余位 100；扫描时报名 0。Luma 无具体地址（日历城市坎帕拉 UG）。相对 morning discover 新增（早间 unknown-grokish / 社区日历均未见）。<br /><br /><a href="https://luma.com/spacexai-upc4"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
+<a id="country-uz"></a>
+### 乌兹别克斯坦
+
+<a id="tas-20260929"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/pz9gxlzu"><img src="./assets/events/tas-20260929-cover.png" alt="Grok Bot Meetup 塔什干" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 塔什干</strong><br />2026-09-29 周二 18:00–21:00（Asia/Samarkand，UTC+5）<br />乌兹别克斯坦塔什干（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />塔什干首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug pz9gxlzu）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/pz9gxlzu"><strong>在 Luma 报名 →</strong></a></td></tr></table>
 
 <a id="country-zm"></a>
 ### 赞比亚

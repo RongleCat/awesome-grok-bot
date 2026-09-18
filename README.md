@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1358-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1376-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -47,15 +47,19 @@
 - **Ecuador**（2）：[Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
 - **Spain**（2）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929)
 - **Guatemala**（2）：[Quetzaltenango](./EVENTS.md#xela-20260920) · [Guatemala City](./EVENTS.md#gua-20261003)
+- **Kazakhstan**（2）：[Astana](./EVENTS.md#nqz-20261002) · [Almaty](./EVENTS.md#ala-20261004)
 - **Vietnam**（2）：[Da Nang](./EVENTS.md#dad-20261003) · [Ho Chi Minh City](./EVENTS.md#sgn-20260926)
 - **Argentina**（1）：[Mendoza](./EVENTS.md#mdz-20261003)
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
+- **Azerbaijan**（1）：[Baku](./EVENTS.md#bak-20260927)
 - **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20260920)
 - **Belgium**（1）：[Leuven](./EVENTS.md#leu-20260919)
 - **Benin**（1）：[Cotonou](./EVENTS.md#coo-20261003)
 - **Bolivia**（1）：[Santa Cruz](./EVENTS.md#vvi-20260926)
+- **Georgia**（1）：[Tbilisi](./EVENTS.md#tbs-20260926)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
 - **Japan**（1）：[Sapporo](./EVENTS.md#spk-20261002)
+- **Kyrgyzstan**（1）：[Bishkek](./EVENTS.md#fru-20261001)
 - **Cambodia**（1）：[Phnom Penh](./EVENTS.md#pnh-20261003)
 - **Kuwait**（1）：[Kuwait / Mubarak Al-Abdullah](./EVENTS.md#kwi-20260922)
 - **Morocco**（1）：[Casablanca](./EVENTS.md#cas-20260919)
@@ -65,6 +69,7 @@
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
 - **El Salvador**（1）：[San Salvador](./EVENTS.md#sal-20260919)
 - **Uganda**（1）：[Kampala](./EVENTS.md#kla-20261003)
+- **Uzbekistan**（1）：[Tashkent](./EVENTS.md#tas-20260929)
 - **Zambia**（1）：[Lusaka](./EVENTS.md#lun-20261002)
 
 ## Contents
@@ -395,6 +400,7 @@
 - [90+ Supply — Grok Bot–ready storefront](https://github.com/sagnikdhar2018-jpg/90plus-supply) - Match-day football gear store with locker auth, live inventory and a documented bot API / GROK.md for Grok agents.
 - [TemplatesGrokBot — 3,000+ Grok Bot templates](https://github.com/templatesgrokbot/templatesgrokbot.com) - Open catalog of 3,000+ ready-made Grok Bot templates with job browse, MCP install and a website to paste into new bots.
 - [Last Night of Aetheria — Grok Bot version](https://github.com/windfaller/last-night-of-aetheria-grok-bot) - Browser vertical-slice fantasy city escape game built as a Grok Bot project, playable on GitHub Pages.
+- [Kiwi Chat — watch two Grok bots message each other](https://github.com/vishnusat2007-wq/kiwi-chat) - Live messenger demo where two Grok bots talk over a bearer-token HTTP API while humans spectate (not an MCP broker).
 
 ## Skills, Plugins & MCP
 
@@ -797,6 +803,13 @@
 - [Unicity AOS Oracles — Grok Build host adapters](https://github.com/unicity-aos/oracles) - Governed host adapters with a .grok-plugin so Claude Code, Grok Build and Codex connect to Unicity AOS as oracles.
 - [Jev Browser — Grok Bot / Cursor agent plugin](https://github.com/usingcolor/jev-browser-plugin) - Agent plugin that teaches Grok Bot / Cursor to automate Mac sites via the TypeSafe Jev browser CLI instead of screenshot computer-use.
 - [Vervology — Cursor / Grok Bot plugin](https://github.com/vervology/vervology-cursor) - Official open-source Cursor and Grok Bot plugin for the Vervology MCP Portal with browser OAuth and no local secrets.
+- [reputation-sweep — Grok Bot data-broker opt-out skill](https://github.com/LiamFallen/reputation-sweep) - Self-contained SKILL.md playbook so Grok Bot runs Agent Zero-style people-search and data-broker opt-outs with consent gates.
+- [Cursor Dispatch — Grok Bot outer-loop plugin](https://github.com/Unternehmengruppe-SecureCare/coding-hub) - Grok Bot .grok-plugin that plans work while Cursor Cloud Agents write code for Unternehmengruppe-SecureCare (MCP + skills).
+- [GrokLine — US phone SMS plugin for Grok Bot](https://github.com/brettricks7/grokline-plugin) - Grok Build / Grok Bot plugin that gives your bot a $3/mo US number for SMS send/receive via .grok-plugin install.
+- [FreshBooks / Gusto / Bill.com MCP for Cursor & Grok Bot](https://github.com/nbehar/freshbooks-gusto-plugins) - Multi-plugin marketplace (FreshBooks accounting, Gusto payroll, Bill.com AP/AR) via MCP for Cursor and Grok Bot.
+- [n8n Master — Grok Bot control-plane plugin](https://github.com/shagghiesuperstar/n8n-master-grok-bot) - Official-first .grok-plugin so a Grok Bot can read live n8n docs and talk to your n8n instance over HTTPS after connect.
+- [Cold Outbound — Grok Bot GTM skill library](https://github.com/timyakubson/cold-outbound-grokbot-repo) - Staged Grok Bot / Codex skill library for building a cold-outbound GTM system (tools → TAM → copy → multi-channel).
+- [Fastmail JMAP push → Grok Bot webhook bridge](https://github.com/vezaynk/fastmail-jmap-push-bridge) - Cloudflare Worker that decrypts Fastmail JMAP Web Push and forwards filtered mail events to a Grok Bot webhook.
 
 ## Reviews & Comparisons
 
@@ -1080,6 +1093,8 @@
 - [Celesto — persistent computers to build your own Grokbot](https://github.com/CelestoAI/celesto) - Secure persistent computers for AI agents, including OpenMuse coworker flows marketed as build-your-own Grokbot.
 - [grokgod — persist wrapper for official Grok Build CLI](https://github.com/karlorz/grokgod) - ClawGod-style PATH shim and updater that re-applies patches around the official Grok Build CLI binary.
 - [grok-bot-fifo — work queue for Grok Bot fleets](https://github.com/bradmb/grok-bot-fifo) - Cloudflare Worker + D1 FIFO work queue and CLI so a fleet of Grok Bot agents can share jobs and stall-aware webhooks.
+- [Snap — Mac screenshot paste into Grok Bot](https://github.com/c-staton/snap) - Mac utility that captures a screenshot and pastes it into the Grok Bot chat box without sending (Accessibility-powered).
+- [Codeg — multi-agent workspace incl. Grok Build](https://github.com/nobug-project/codeg) - Collaborative multi-agent coding workspace that aggregates sessions from Claude Code, Codex, OpenCode and Grok Build.
 
 ## Community & Failure Modes
 
@@ -1253,6 +1268,7 @@
 - [UI rename fails — ask the Bot to rename itself (staff)](https://forum.cursor.com/t/grok-bot-ui-rename-for-bots-agents-often-fails-to-stick-agent-self-rename-works/171950) - Staff (mohitjain): Grok Bot UI rename often doesn’t stick (tracked bug). Best workaround for now: ask the Bot/agent to rename itself — that sticks. Not a local setup issue.
 - [Parent Bot goes quiet after Cloud Agent handoff (staff)](https://forum.cursor.com/t/grok-bot-delegated-cloud-agents-are-running-but-parent-bot-appears-idle/172009) - Staff (Colin, 2026-09-17): When a Grok Bot hands work to a Cursor Cloud Agent the parent chat goes quiet until that agent finishes (auto-wakes then)—expected today, not a hang. Watch live status at cursor.com/agents or Cursor desktop, or ask the parent to attach the agent card for Running/Done inline; in-flight visibility in the parent chat is being improved.
 - [iOS Settings scroll can flip Auto-review — scroll on the label (staff)](https://forum.cursor.com/t/grok-bot-mobile-settings-scroll-activates-toggles-can-disable-agent-guards/172015) - Staff (kevinn, 2026-09-17): On Grok Bot iOS Settings, a scroll that starts on a switch can flip it (reproduced; tracking). The protective control is Auto-review (not labeled “Agent guards”). Workaround until fixed: start the scroll on the row text, not on the switch itself.
+- [172033 Sidebar sections: desktop New Section + no agent create tool](https://forum.cursor.com/t/grok-bot-agent-tools-to-create-and-manage-sidebar-sections-parity-with-createchannel/172033) - Staff (kevinn): agents can list sections and CreateAgent can place into one, but there is no tool to create/rename/delete/move sections — on desktop right-click Move to → New Section (mobile long-press).
 
 ## Related Lists
 
@@ -1460,10 +1476,17 @@
 - [awesome-grok-bot — Polish translation](https://github.com/ralftester/awesome-grok-bot-pl) - Polish translation of the ZeroPointRepo awesome-grok-bot catalog covering Grok Bot skills, plugins and MCP entries.
 - [Grok Build Status — macOS menu bar](https://github.com/tembugi/grok-build-status) - Unofficial macOS menu-bar app that shows Grok Build session state, notifications and weekly usage (Apple Silicon).
 - [Grok Build Windows .bat installer](https://github.com/xmokiii-eng/grok-build-windows) - German-language Windows batch installer pack that unpacks Grok Build under C:\GrokBuild and launches it.
+- [Grok Bot Field Notes — xAI team 72h live build](https://github.com/unicodef1wn/grokbot-field-notes) - Rules, playbooks, bot roles and a failure log from the xAI Grok Bot team's 72-hour live product build — drop into AGENTS.md.
+- [Grok Bot Galaxy Guide — Days 1–3 steal sheet](https://github.com/Btheriot83/grok-bot-galaxy-guide) - Unofficial Next.js skim pack of Grok Bot Galaxy livestream steals and Day 1–3 notes for one-person builders.
+- [Agent Contract — installable skills scanners for Grok bots](https://github.com/Jaysi88/agent-contract) - Five installable Agent Skills with scanners — a constitution every Grok bot / automation must pass before saying done.
+- [grok-best-practice — living Grok Build CLI course](https://github.com/ralftester/grok-best-practice) - Unofficial living course and ecosystem map for the xAI Grok Build CLI (skills, plugins, inspect, plan mode).
+- [grok-build-nix — Nix flake for Grok Build CLI](https://github.com/gesop0n/grok-build-nix) - Nix flake overlay that reproducibly installs pre-built Grok Build CLI binaries from official xAI GitHub releases.
+- [jev-routing-go — Go Jev harness for Grok Build](https://github.com/nekowasabi/jev-routing-go) - Single Go binary Jev harness for Claude Code, Codex and Grok Build without npx (not an MCP server).
+- [HarnessTrajectory — local viewer incl. Grok Build sessions](https://github.com/Demogorgon314/HarnessTrajectory) - Local trajectory viewer for coding-agent transcripts including Grok Build, Claude Code, Codex and peers.
 
 ## Contributing
 
-1358 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1376 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

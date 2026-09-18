@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1358-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1376-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -47,15 +47,19 @@
 - **厄瓜多尔**（2）：[基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
 - **西班牙**（2）：[巴塞罗那](./EVENTS.zh.md#bcn-20260929) · [马德里](./EVENTS.zh.md#mad-20260929)
 - **危地马拉**（2）：[克萨尔特南戈](./EVENTS.zh.md#xela-20260920) · [危地马拉城](./EVENTS.zh.md#gua-20261003)
+- **哈萨克斯坦**（2）：[阿斯塔纳](./EVENTS.zh.md#nqz-20261002) · [阿拉木图](./EVENTS.zh.md#ala-20261004)
 - **越南**（2）：[岘港](./EVENTS.zh.md#dad-20261003) · [胡志明市](./EVENTS.zh.md#sgn-20260926)
 - **阿根廷**（1）：[门多萨](./EVENTS.zh.md#mdz-20261003)
 - **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
+- **阿塞拜疆**（1）：[巴库](./EVENTS.zh.md#bak-20260927)
 - **孟加拉国**（1）：[达卡](./EVENTS.zh.md#dac-20260920)
 - **比利时**（1）：[鲁汶](./EVENTS.zh.md#leu-20260919)
 - **贝宁**（1）：[科托努](./EVENTS.zh.md#coo-20261003)
 - **玻利维亚**（1）：[圣克鲁斯](./EVENTS.zh.md#vvi-20260926)
+- **格鲁吉亚**（1）：[第比利斯](./EVENTS.zh.md#tbs-20260926)
 - **爱尔兰**（1）：[都柏林](./EVENTS.zh.md#dub-20261004)
 - **日本**（1）：[札幌](./EVENTS.zh.md#spk-20261002)
+- **吉尔吉斯斯坦**（1）：[比什凯克](./EVENTS.zh.md#fru-20261001)
 - **柬埔寨**（1）：[金边](./EVENTS.zh.md#pnh-20261003)
 - **科威特**（1）：[科威特](./EVENTS.zh.md#kwi-20260922)
 - **摩洛哥**（1）：[卡萨布兰卡](./EVENTS.zh.md#cas-20260919)
@@ -65,6 +69,7 @@
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
 - **萨尔瓦多**（1）：[圣萨尔瓦多](./EVENTS.zh.md#sal-20260919)
 - **乌干达**（1）：[坎帕拉](./EVENTS.zh.md#kla-20261003)
+- **乌兹别克斯坦**（1）：[塔什干](./EVENTS.zh.md#tas-20260929)
 - **赞比亚**（1）：[卢萨卡](./EVENTS.zh.md#lun-20261002)
 
 ## 目录
@@ -395,6 +400,7 @@
 - [90+ Supply — Grok Bot–ready storefront](https://github.com/sagnikdhar2018-jpg/90plus-supply) - 比赛日球具店：储物柜登录、实时库存，并附 GROK.md 与 bot API 供 Grok 智能体对接。.
 - [TemplatesGrokBot — 3,000+ Grok Bot templates](https://github.com/templatesgrokbot/templatesgrokbot.com) - 3000+ 现成 Grok Bot 模板开源目录，可按岗位浏览、经 MCP 安装，或复制到新 Bot。.
 - [Last Night of Aetheria — Grok Bot version](https://github.com/windfaller/last-night-of-aetheria-grok-bot) - 用 Grok Bot 做出的浏览器幻想城逃亡垂直切片，可在 GitHub Pages 游玩。.
+- [Kiwi Chat — watch two Grok bots message each other](https://github.com/vishnusat2007-wq/kiwi-chat) - 直播信使演示：两台 Grok bot 经 Bearer HTTP API 互聊，人类旁观（非 MCP 经纪）。.
 
 ## 技能、插件与 MCP
 
@@ -797,6 +803,13 @@
 - [Unicity AOS Oracles — Grok Build host adapters](https://github.com/unicity-aos/oracles) - 带 .grok-plugin 的受控宿主适配器：让 Claude Code、Grok Build、Codex 以 oracle 身份接入 Unicity AOS。.
 - [Jev Browser — Grok Bot / Cursor agent plugin](https://github.com/usingcolor/jev-browser-plugin) - Agent 插件：教 Grok Bot / Cursor 用 TypeSafe Jev 浏览器 CLI 做 Mac 网页自动化，替代截图式 computer-use。.
 - [Vervology — Cursor / Grok Bot plugin](https://github.com/vervology/vervology-cursor) - Vervology MCP Portal 官方开源 Cursor / Grok Bot 插件，浏览器 OAuth，不含本地密钥。.
+- [reputation-sweep — Grok Bot data-broker opt-out skill](https://github.com/LiamFallen/reputation-sweep) - 自包含 SKILL.md：让 Grok Bot 按同意门槛做 Agent Zero 式人物检索与数据掮客退出。.
+- [Cursor Dispatch — Grok Bot outer-loop plugin](https://github.com/Unternehmengruppe-SecureCare/coding-hub) - 带 .grok-plugin 的 Grok Bot 外环插件：Grok 规划、Cursor Cloud Agents 写代码（含 MCP 与 skills）。.
+- [GrokLine — US phone SMS plugin for Grok Bot](https://github.com/brettricks7/grokline-plugin) - Grok Build / Grok Bot 插件：约 $3/月美国号码收发短信，可用 grok plugin install 安装。.
+- [FreshBooks / Gusto / Bill.com MCP for Cursor & Grok Bot](https://github.com/nbehar/freshbooks-gusto-plugins) - 面向 Cursor 与 Grok Bot 的 MCP 多插件市场：FreshBooks 记账、Gusto 薪酬、Bill.com 应付应收。.
+- [n8n Master — Grok Bot control-plane plugin](https://github.com/shagghiesuperstar/n8n-master-grok-bot) - 官方优先的 .grok-plugin：让 Grok Bot 读实时 n8n 文档，连接后经 HTTPS 操控你的 n8n 实例。.
+- [Cold Outbound — Grok Bot GTM skill library](https://github.com/timyakubson/cold-outbound-grokbot-repo) - 分阶段 Grok Bot / Codex 技能库：从工具接入、TAM、文案到多渠道冷外联 GTM。.
+- [Fastmail JMAP push → Grok Bot webhook bridge](https://github.com/vezaynk/fastmail-jmap-push-bridge) - Cloudflare Worker：解密 Fastmail JMAP Web Push，把过滤后的邮件事件转到 Grok Bot webhook。.
 
 ## 评测与对比
 
@@ -1080,6 +1093,8 @@
 - [Celesto — persistent computers to build your own Grokbot](https://github.com/CelestoAI/celesto) - 为 AI 智能体提供安全持久电脑；含 OpenMuse，宣传为可自建 Grokbot。.
 - [grokgod — persist wrapper for official Grok Build CLI](https://github.com/karlorz/grokgod) - ClawGod 风格的 PATH 包装与更新器，围绕官方 Grok Build CLI 持久重打补丁。.
 - [grok-bot-fifo — work queue for Grok Bot fleets](https://github.com/bradmb/grok-bot-fifo) - Cloudflare Worker + D1 的 FIFO 工作队列与 CLI，让多台 Grok Bot 共享任务并带卡住告警 webhook。.
+- [Snap — Mac screenshot paste into Grok Bot](https://github.com/c-staton/snap) - Mac 小工具：截屏后粘贴进 Grok Bot 聊天框（不自动发送），需辅助功能权限。.
+- [Codeg — multi-agent workspace incl. Grok Build](https://github.com/nobug-project/codeg) - 协作多智能体编码工作区：汇总 Claude Code、Codex、OpenCode、Grok Build 等会话。.
 
 ## 社区与故障现场
 
@@ -1253,6 +1268,7 @@
 - [UI rename fails — ask the Bot to rename itself (staff)](https://forum.cursor.com/t/grok-bot-ui-rename-for-bots-agents-often-fails-to-stick-agent-self-rename-works/171950) - Staff（mohitjain）：Grok Bot 界面改名经常不生效（已知在追）。眼下最好的办法：让 Bot/Agent 自己改名——这样会保留。不是本机配置问题。.
 - [Parent Bot goes quiet after Cloud Agent handoff (staff)](https://forum.cursor.com/t/grok-bot-delegated-cloud-agents-are-running-but-parent-bot-appears-idle/172009) - Staff（Colin，2026-09-17）：Grok Bot 把活交给 Cursor Cloud Agent 后，父对话会暂时安静，直到子 Agent 结束才被自动唤醒——这是当前预期，不是卡死。可在 cursor.com/agents 或 Cursor 桌面端看实时状态，或让父 Bot 附上 agent card 显示 Running/Done；父对话的进行中可见性正在改进。.
 - [iOS Settings scroll can flip Auto-review — scroll on the label (staff)](https://forum.cursor.com/t/grok-bot-mobile-settings-scroll-activates-toggles-can-disable-agent-guards/172015) - Staff（kevinn，2026-09-17）：Grok Bot iOS「设置」里，从开关上开始滑动可能误触翻转开关（已复现、在追）。防护相关控件是 Auto-review（没有叫 Agent guards 的开关）。修复前变通：从该行文字上开始滑，不要从开关本身开始。.
+- [172033 Sidebar sections: desktop New Section + no agent create tool](https://forum.cursor.com/t/grok-bot-agent-tools-to-create-and-manage-sidebar-sections-parity-with-createchannel/172033) - 员工 kevinn：智能体可列出分区且 CreateAgent 可放入已有分区，但还没有创建/重命名/删除/移动分区的工具；桌面右键 Move to → New Section（移动端长按）。.
 
 ## 相关列表
 
@@ -1460,10 +1476,17 @@
 - [awesome-grok-bot — Polish translation](https://github.com/ralftester/awesome-grok-bot-pl) - ZeroPointRepo awesome-grok-bot 目录的波兰语译本，涵盖 Grok Bot skills、插件与 MCP。.
 - [Grok Build Status — macOS menu bar](https://github.com/tembugi/grok-build-status) - 非官方 macOS 菜单栏应用：显示 Grok Build 会话状态、通知与周用量（Apple Silicon）。.
 - [Grok Build Windows .bat installer](https://github.com/xmokiii-eng/grok-build-windows) - 德语说明的 Windows 批处理安装包：解压到 C:\GrokBuild 并启动 Grok Build。.
+- [Grok Bot Field Notes — xAI team 72h live build](https://github.com/unicodef1wn/grokbot-field-notes) - xAI Grok Bot 团队 72 小时直播从零上线产品的规则、剧本、角色与失败日志，可放进 AGENTS.md。.
+- [Grok Bot Galaxy Guide — Days 1–3 steal sheet](https://github.com/Btheriot83/grok-bot-galaxy-guide) - 非官方 Next.js 速览：Grok Bot Galaxy 直播可偷师要点与 Day 1–3 笔记，面向一人团队。.
+- [Agent Contract — installable skills scanners for Grok bots](https://github.com/Jaysi88/agent-contract) - 五套可安装 Agent Skills 与扫描器：Grok bot / 自动化说「完成」前必须过的宪章。.
+- [grok-best-practice — living Grok Build CLI course](https://github.com/ralftester/grok-best-practice) - 非官方活文档：xAI Grok Build CLI 的课程与生态地图（skills、插件、inspect、plan mode）。.
+- [grok-build-nix — Nix flake for Grok Build CLI](https://github.com/gesop0n/grok-build-nix) - Nix flake：从 xAI 官方 GitHub Release 可复现地安装预编译 Grok Build CLI。.
+- [jev-routing-go — Go Jev harness for Grok Build](https://github.com/nekowasabi/jev-routing-go) - 单个 Go 二进制 Jev 编排：面向 Claude Code、Codex、Grok Build，无需 npx（非 MCP）。.
+- [HarnessTrajectory — local viewer incl. Grok Build sessions](https://github.com/Demogorgon314/HarnessTrajectory) - 本地轨迹查看器：读取含 Grok Build、Claude Code、Codex 等编码智能体会话笔录。.
 
 ## 贡献
 
-目前 8 个分类、1358 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1376 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

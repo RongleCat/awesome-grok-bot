@@ -150,6 +150,15 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="gua-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-is2h"><img src="./assets/events/gua-20261003-cover.png" alt="Grok Bot Meetup Guatemala City" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Guatemala City</strong><br />Sat 3 Oct 2026, 10:00–14:00 (CST)<br />Universidad Francisco Marroquín, Zona 10, Guatemala City · street after you register<br /><br />Open2 Grok Bot meetup in Guatemala City: go beyond one-off tasks with better instructions, context, and end-to-end workflows, plus credits to try Grok Bot (~36 going, host approval).<br /><br /><a href="https://luma.com/cursor-is2h"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
+<a id="country-kz"></a>
+### Kazakhstan
+
+<a id="nqz-20261002"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/t1l3nqrc"><img src="./assets/events/nqz-20261002-cover.png" alt="Grok Bot Meetup Astana" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Astana</strong><br />Fri 2 Oct 2026, 14:00–17:00 (Asia/Almaty, UTC+5)<br />Astana, Kazakhstan — offline (exact venue city-level on Luma / shared after RSVP)<br /><br />First Grok Bot meetup in Astana — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug t1l3nqrc, evt-ZSiPrvUD7Jlgf2A). Opened via discover; OG title verified 2026-09-18.<br /><br /><a href="https://luma.com/t1l3nqrc"><strong>RSVP on Luma →</strong></a></td></tr></table>
+
+<a id="ala-20261004"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/vod1qyrk"><img src="./assets/events/ala-20261004-cover.png" alt="Grok Bot Meetup Almaty" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Almaty</strong><br />Sun 4 Oct 2026, 14:00–17:00 (Asia/Almaty, UTC+5)<br />Almaty, Kazakhstan — offline (exact venue city-level on Luma / shared after RSVP)<br /><br />First Grok Bot meetup in Almaty — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug vod1qyrk, evt-9chPv7suc0e5yxp). Opened via discover; OG title verified 2026-09-18.<br /><br /><a href="https://luma.com/vod1qyrk"><strong>RSVP on Luma →</strong></a></td></tr></table>
+
 <a id="country-vn"></a>
 ### Vietnam
 
@@ -170,6 +179,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="syd-20261007"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-d70v"><img src="./assets/events/syd-20261007-cover.png" alt="Grok Bot Meetup Sydney" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Sydney</strong><br />Wed 7 Oct 2026, 17:30–21:00 (AEDT)<br />Sydney · exact address after you register<br /><br />Next official Cursor Sydney Grok Bot night after the August meetup. Host approval required.<br /><br /><a href="https://luma.com/cursor-d70v"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<a id="country-az"></a>
+### Azerbaijan
+
+<a id="bak-20260927"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/ydy9qy6h"><img src="./assets/events/bak-20260927-cover.png" alt="Grok Bot Meetup Baku" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Baku</strong><br />Sun 27 Sep 2026, 15:00–18:00 (Asia/Baku, UTC+4)<br />Baku, Azerbaijan — offline (exact venue city-level on Luma / shared after RSVP)<br /><br />First Grok Bot meetup in Baku — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug ydy9qy6h, evt-u0gJBz3jwCKYY7h). Opened via discover; OG title verified 2026-09-18.<br /><br /><a href="https://luma.com/ydy9qy6h"><strong>RSVP on Luma →</strong></a></td></tr></table>
 
 <a id="country-bd"></a>
 ### Bangladesh
@@ -195,6 +210,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="vvi-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-gc1m"><img src="./assets/events/vvi-20260926-cover.png" alt="Grok Bot Meetup Santa Cruz" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Santa Cruz</strong><br />Sat 26 Sep 2026, 08:30–12:00 (America/La_Paz, UTC-4)<br />Universidad Central (Unicen), Ave Trinidad 425, Santa Cruz de la Sierra, Bolivia — offline<br /><br />First catalogued Grok Bot meetup in Santa Cruz de la Sierra, Bolivia (host Diego Oliver; Luma calendar cal-tnfyxEeXhQo3zzR). Spanish-language morning workshop: intro to Grok Bot, hands-on build time, share & learn, community networking. Devs/students/founders/curious welcome — no expertise required. Free RSVP with approval; venue Universidad Central (Unicen). New discover slug spacexai-gc1m (evt-q3GcSfBGYdfY0h1); no forum New-event post yet.<br /><br /><a href="https://luma.com/spacexai-gc1m"><strong>Register on Luma → →</strong></a></td></tr></table>
 
+<a id="country-ge"></a>
+### Georgia
+
+<a id="tbs-20260926"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/0scz2dff"><img src="./assets/events/tbs-20260926-cover.png" alt="Grok Bot Meetup Tbilisi" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Tbilisi</strong><br />Sat 26 Sep 2026, 15:00–17:30 (Asia/Tbilisi, UTC+4)<br />Tbilisi, Georgia — offline (exact venue city-level on Luma / shared after RSVP)<br /><br />First Grok Bot meetup in Tbilisi — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug 0scz2dff, evt-JEDpRvIA8X8CNUM). Opened via discover; OG title verified 2026-09-18.<br /><br /><a href="https://luma.com/0scz2dff"><strong>RSVP on Luma →</strong></a></td></tr></table>
+
 <a id="country-ie"></a>
 ### Ireland
 
@@ -206,6 +227,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="spk-20261002"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/91kju0je"><img src="./assets/events/spk-20261002-cover.png" alt="Grok Bot Meetup Sapporo #2" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Sapporo #2</strong><br />Fri 2 Oct 2026, 19:00–22:00 (JST)<br />Sapporo · exact address after you register<br /><br />Second Sapporo Grok Bot meetup. Free, host approval.<br /><br /><a href="https://luma.com/91kju0je"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<a id="country-kg"></a>
+### Kyrgyzstan
+
+<a id="fru-20261001"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/7bexxjvh"><img src="./assets/events/fru-20261001-cover.png" alt="Grok Bot Meetup Bishkek" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Bishkek</strong><br />Thu 1 Oct 2026, 10:00–12:30 (Asia/Bishkek, UTC+6)<br />Bishkek, Kyrgyzstan — offline (exact venue city-level on Luma / shared after RSVP)<br /><br />First Grok Bot meetup in Bishkek — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug 7bexxjvh, evt-rtYvGpHxG2lETbU). Opened via discover; OG title verified 2026-09-18.<br /><br /><a href="https://luma.com/7bexxjvh"><strong>RSVP on Luma →</strong></a></td></tr></table>
 
 <a id="country-kh"></a>
 ### Cambodia
@@ -260,6 +287,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="kla-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-upc4"><img src="./assets/events/kla-20261003-cover.png" alt="Grok Bot Meetup Kampala" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Kampala</strong><br />Sat 3 Oct 2026, 14:00–17:00 (Africa/Nairobi / EAT, UTC+3)<br />Kampala, Uganda · venue TBA (details after register)<br /><br />SpaceXAI for Kampala, Uganda, Africa afternoon meetup (host Ronnie 3.0). Product copy: Grok Bot — SpaceXAI’s AI assistant with cloud agents that do real work, not just chat; getting started, practical workflows (planning/ops/day-to-day), Q&A; runs on Android/Mac/iOS/Linux; beginners welcome. Free; no approval; spots_remaining 100; guest_count 0 at scan. Luma geo blank (calendar city Kampala, UG). NEW vs morning discover (not in morning unknown-grokish / community cal).<br /><br /><a href="https://luma.com/spacexai-upc4"><strong>Register on Luma → →</strong></a></td></tr></table>
+
+<a id="country-uz"></a>
+### Uzbekistan
+
+<a id="tas-20260929"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/pz9gxlzu"><img src="./assets/events/tas-20260929-cover.png" alt="Grok Bot Meetup Tashkent" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Tashkent</strong><br />Tue 29 Sep 2026, 18:00–21:00 (Asia/Samarkand, UTC+5)<br />Tashkent, Uzbekistan — offline (exact venue city-level on Luma / shared after RSVP)<br /><br />First Grok Bot meetup in Tashkent — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug pz9gxlzu, evt-l4cGFBWK7pNt5Fb). Opened via discover; OG title verified 2026-09-18.<br /><br /><a href="https://luma.com/pz9gxlzu"><strong>RSVP on Luma →</strong></a></td></tr></table>
 
 <a id="country-zm"></a>
 ### Zambia
