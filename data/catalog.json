@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -964,6 +964,16 @@
             "zh": "官方 Cursor Docs：日常与 Bot 协作总览——创建/管理 Bot、消息与协作、共用云电脑，以及用 skills/routines 自动化（docs.x.ai 无对应 /work 页）。",
             "ja": "公式 Cursor Docs。日常の Bot 作業ハブ：作成／管理、メッセージと共同作業、共有クラウド PC、skills／routines での自動化（docs.x.ai に /work 相当なし）。"
           }
+        },
+        {
+          "title": "@bot: Grok Bot can talk now (Voice)",
+          "url": "https://x.com/bot/status/2100659463569170779",
+          "source": "GB-1380",
+          "blurb": {
+            "en": "Official @bot (2026-09-17 ~18:53 UTC / Sep 18 ~02:53 Asia/Shanghai): Grok Bot can talk now—Voice is rolling out on desktop and mobile over the next couple of days (demo video in post; follow-up https://x.com/bot/status/2100659464781394222); download via x.ai/bot (no dedicated docs/help/voice page yet).",
+            "zh": "官方 @bot（2026-09-17 ~18:53 UTC / 9月18日约 02:53 Asia/Shanghai）：Grok Bot 现已能语音对话——Voice 将在未来几天陆续上线桌面端与移动端（帖内演示视频；跟帖 https://x.com/bot/status/2100659464781394222）；入口 x.ai/bot（暂无独立 docs/help/voice 页）。",
+            "ja": "公式 @bot（2026-09-17 ~18:53 UTC / 9月18日ごろ 02:53 Asia/Shanghai）：Grok Bot が話せるようになった。Voice は数日中にデスクトップとモバイルへ順次展開（投稿内デモ動画；続報 https://x.com/bot/status/2100659464781394222）。試すなら x.ai/bot（専用 docs/help/voice は未掲載）。"
+          }
         }
       ]
     },
@@ -1583,6 +1593,46 @@
             "en": "150-page Chinese practical guide to Grok Build for beginners and Claude Code/Codex migrants, with HTML/PDF.",
             "zh": "面向小白与 Claude Code/Codex 迁移用户的 150 页 Grok Build 实战蓝皮书（HTML/PDF）。",
             "ja": "初心者と Claude Code/Codex 移行者向け 150 頁の Grok Build 実践ブルーブック（HTML/PDF）。"
+          }
+        },
+        {
+          "title": "Connect Grok Bot to Home Assistant via ha-mcp",
+          "url": "https://github.com/Hrubak/grok-bot-home-assistant-mcp",
+          "source": "GB-1376",
+          "blurb": {
+            "en": "Step-by-step guide to wire Grok Bot or Cursor to Home Assistant using ha-mcp over stdio MCP, with example configs and no secrets.",
+            "zh": "分步教程：用 ha-mcp（stdio MCP）把 Grok Bot / Cursor 接到 Home Assistant，含示例配置且不含密钥。",
+            "ja": "手順ガイド。ha-mcp（stdio MCP）で Grok Bot / Cursor を Home Assistant に接続。設定例あり・秘密情報なし。"
+          }
+        },
+        {
+          "title": "Grok Build Agents — team course",
+          "url": "https://github.com/Practical-Office/grok-build-agents",
+          "source": "GB-1377",
+          "blurb": {
+            "en": "Non-engineer-friendly team course and live site for installing Grok Build, Plan Mode, the AGENT framework and reusable skills.",
+            "zh": "面向非工程师的团队课程与站点：安装 Grok Build、Plan Mode、AGENT 框架与可复用 skills。",
+            "ja": "非エンジニア向けチーム講座とサイト。Grok Build 導入、Plan Mode、AGENT 枠組み、再利用 skills を解説。"
+          }
+        },
+        {
+          "title": "Grok Build Agent transport modes (CN report)",
+          "url": "https://github.com/TianwenWei/Grok-Build-Agent-Transports",
+          "source": "GB-1378",
+          "blurb": {
+            "en": "Chinese research note on Grok Build ACP transports (stdio, local WebSocket serve, relay) and why local HTTP is not used.",
+            "zh": "中文研究报告：Grok Build 三种 ACP 接入（stdio / 本机 WebSocket serve / relay）及本机为何不用 HTTP。",
+            "ja": "中国語の調査ノート。Grok Build の ACP 伝送（stdio / ローカル WebSocket serve / relay）と、ローカル HTTP を使わない理由。"
+          }
+        },
+        {
+          "title": "Grok Bot lesson materials (RU cheatsheet)",
+          "url": "https://github.com/gomymy64/grokbot-cheatsheet",
+          "source": "GB-1379",
+          "blurb": {
+            "en": "Russian interactive HTML lesson pack / cheatsheet for a Grok Bot workshop (Мастодонт), with fonts and lesson assets.",
+            "zh": "俄语交互式 HTML 课件/速查表，用于 Grok Bot 工作坊（Мастодонт），含字体与课程素材。",
+            "ja": "ロシア語の対話型 HTML 教材／チートシート。Grok Bot ワークショップ（Мастодонт）用、フォントと教材付き。"
           }
         }
       ]
@@ -3013,6 +3063,56 @@
             "en": "Campaign co-DM vault with dedicated GROK-BOTS.md fleet wiring, Mac host gate, and packet standards for Grok Bots.",
             "zh": "战役联合 DM 库：含 GROK-BOTS.md 机群编排、Mac 主机门禁与 Grok Bot 任务包规范。",
             "ja": "GROK-BOTS.md による艦隊配線・Mac ホスト門・パケット規約を備えたキャンペーン共 DM 保管庫。"
+          }
+        },
+        {
+          "title": "Jev model router demo — Grok Build vs Codex Astra",
+          "url": "https://github.com/jcpsimmons/jev-model-router-demo",
+          "source": "GB-1366",
+          "blurb": {
+            "en": "Throwaway Jev demo that routes mechanical coding work to Grok Build and high-consequence tasks to Codex Astra.",
+            "zh": "一次性 Jev 演示：把机械编码分给 Grok Build，高后果任务分给 Codex Astra。",
+            "ja": "捨てデモの Jev ルーター。機械的な実装は Grok Build、重大タスクは Codex Astra へ振り分け。"
+          }
+        },
+        {
+          "title": "Trimble Agent Demos — built with Grok Bot",
+          "url": "https://github.com/knybbe/trimble-agent-demos",
+          "source": "GB-1367",
+          "blurb": {
+            "en": "In-browser Trimble talk demos (Clash Explainer Lite and Ask the Drawings) built with agentic AI / Grok Bot.",
+            "zh": "Trimble 演讲用浏览器演示（Clash Explainer Lite 与 Ask the Drawings），由 agentic AI / Grok Bot 构建。",
+            "ja": "Trimble 講演用のブラウザデモ（Clash Explainer Lite / Ask the Drawings）。agentic AI / Grok Bot で構築。"
+          }
+        },
+        {
+          "title": "90+ Supply — Grok Bot–ready storefront",
+          "url": "https://github.com/sagnikdhar2018-jpg/90plus-supply",
+          "source": "GB-1368",
+          "blurb": {
+            "en": "Match-day football gear store with locker auth, live inventory and a documented bot API / GROK.md for Grok agents.",
+            "zh": "比赛日球具店：储物柜登录、实时库存，并附 GROK.md 与 bot API 供 Grok 智能体对接。",
+            "ja": "試合日サッカー用品店。ロッカー認証・在庫リアルタイム更新に加え、Grok エージェント向け GROK.md / bot API 付き。"
+          }
+        },
+        {
+          "title": "TemplatesGrokBot — 3,000+ Grok Bot templates",
+          "url": "https://github.com/templatesgrokbot/templatesgrokbot.com",
+          "source": "GB-1369",
+          "blurb": {
+            "en": "Open catalog of 3,000+ ready-made Grok Bot templates with job browse, MCP install and a website to paste into new bots.",
+            "zh": "3000+ 现成 Grok Bot 模板开源目录，可按岗位浏览、经 MCP 安装，或复制到新 Bot。",
+            "ja": "3,000 超の既製 Grok Bot テンプレート公開カタログ。職種別閲覧・MCP 導入・新規 Bot へ貼り付け可能。"
+          }
+        },
+        {
+          "title": "Last Night of Aetheria — Grok Bot version",
+          "url": "https://github.com/windfaller/last-night-of-aetheria-grok-bot",
+          "source": "GB-1370",
+          "blurb": {
+            "en": "Browser vertical-slice fantasy city escape game built as a Grok Bot project, playable on GitHub Pages.",
+            "zh": "用 Grok Bot 做出的浏览器幻想城逃亡垂直切片，可在 GitHub Pages 游玩。",
+            "ja": "Grok Bot プロジェクトとして作られたブラウザ幻想都市脱出の垂直スライス。GitHub Pages で遊べる。"
           }
         }
       ]
@@ -6894,6 +6994,126 @@
             "zh": "把 /umbrella 议题包技能安装到 ~/.grok 及其他智能体技能目录的叠加层。",
             "ja": "/umbrella イシューパック技能を ~/.grok など各エージェント技能ディレクトリへ入れるオーバーレイ。"
           }
+        },
+        {
+          "title": "pragmatic-orchestration — multi-harness agent skills",
+          "url": "https://github.com/CodeAlive-AI/pragmatic-orchestration",
+          "source": "GB-1354",
+          "blurb": {
+            "en": "Cross-vendor orchestration skills and porch CLI so Codex, Claude Code, OpenCode and Grok Build can delegate, steer and verify workers.",
+            "zh": "跨厂商编排 skills 与 porch CLI：让 Codex、Claude Code、OpenCode、Grok Build 互相委派、引导与验收。",
+            "ja": "ベンダー横断のオーケストレーション skills と porch CLI。Codex / Claude Code / OpenCode / Grok Build で委譲・操縦・検証。"
+          }
+        },
+        {
+          "title": "Corebee plugin for Cursor / Grok Bot / Grok Build",
+          "url": "https://github.com/Corebee-AI/corebee-plugin",
+          "source": "GB-1355",
+          "blurb": {
+            "en": "Corebee support-inbox plugin for Cursor, Grok Bot, Grok Build and Claude Code over a hosted MCP server (.grok-plugin).",
+            "zh": "Corebee 客服收件箱插件，支持 Cursor、Grok Bot、Grok Build 与 Claude Code，托管 MCP（含 .grok-plugin）。",
+            "ja": "Corebee サポート受信箱プラグイン。Cursor / Grok Bot / Grok Build / Claude Code 対応のホスト型 MCP（.grok-plugin 付き）。"
+          }
+        },
+        {
+          "title": "Outbound Research Agent — Grok Bot rule pack",
+          "url": "https://github.com/KrishKPs/AI_Agent_Grok",
+          "source": "GB-1356",
+          "blurb": {
+            "en": "Judgement-free GROK.md rule pack that turns Grok Bot into an outbound lead researcher that only writes drafts for human review.",
+            "zh": "无主观判断的 GROK.md 规则包：把 Grok Bot 变成外联线索研究员，只写草稿给人审，不自动发送。",
+            "ja": "判断を排した GROK.md ルールパック。Grok Bot をアウトバウンド調査エージェントにし、下書きのみ人手レビュー用に出力。"
+          }
+        },
+        {
+          "title": "Reqall — Grok Build persistent memory plugin",
+          "url": "https://github.com/ReqallSystem/grok-plugin",
+          "source": "GB-1357",
+          "blurb": {
+            "en": "Grok Build plugin that adds Reqall semantic memory via lifecycle hooks and MCP so agents persist context across turns.",
+            "zh": "Grok Build 插件：通过生命周期钩子与 MCP 接入 Reqall 语义记忆，跨回合持久化上下文。",
+            "ja": "Grok Build プラグイン。ライフサイクルフックと MCP で Reqall 意味メモリを追加し、ターンをまたいで文脈を保持。"
+          }
+        },
+        {
+          "title": "invoke-grok — call Grok Build from other hosts",
+          "url": "https://github.com/aalhadxx/invoke-grok",
+          "source": "GB-1358",
+          "blurb": {
+            "en": "Portable SKILL.md that lets Claude Code, Codex, Cursor and peers call Grok Build / Super Grok for review, research and rescue tasks.",
+            "zh": "可移植 SKILL.md：让 Claude Code、Codex、Cursor 等宿主调用 Grok Build / Super Grok 做审查、调研与救援。",
+            "ja": "移植可能な SKILL.md。Claude Code / Codex / Cursor などから Grok Build / Super Grok を呼び、レビュー・調査・救出に使う。"
+          }
+        },
+        {
+          "title": "Lavo CRM — Cursor / Grok Bot MCP plugin",
+          "url": "https://github.com/aaronmay82/lavo-crm-cursor-plugin",
+          "source": "GB-1359",
+          "blurb": {
+            "en": "Official Lavo CRM MCP connector plugin for Cursor and Grok Bot with OAuth (customers, quotes, jobs, invoices).",
+            "zh": "Lavo CRM 官方 MCP 连接器插件，面向 Cursor 与 Grok Bot，OAuth 登录后可管客户、报价、工单与发票。",
+            "ja": "Lavo CRM 公式 MCP コネクタプラグイン。Cursor / Grok Bot 向け、OAuth で顧客・見積・作業・請求を操作。"
+          }
+        },
+        {
+          "title": "PromptHero MCP plugin for Grok Bot / Cursor",
+          "url": "https://github.com/elevenyellow/prompthero-plugin",
+          "source": "GB-1360",
+          "blurb": {
+            "en": "Pre-launch PromptHero remote MCP plugin so Grok Bot and Cursor can create images and videos from a connected account.",
+            "zh": "PromptHero 远程 MCP 插件（预发布）：Grok Bot / Cursor 连接账号后可从对话生成图像与视频。",
+            "ja": "PromptHero リモート MCP プラグイン（プレローンチ）。Grok Bot / Cursor が連携アカウントから画像・動画を生成。"
+          }
+        },
+        {
+          "title": "Patch MCP plugin for Grok Bot",
+          "url": "https://github.com/manu-labs/patch-mcp-grok-plugin",
+          "source": "GB-1361",
+          "blurb": {
+            "en": "Grok Bot / Grok Build plugin that places real phone calls from your verified number via hosted Patch MCP plus a briefing skill.",
+            "zh": "Grok Bot / Grok Build 插件：通过托管 Patch MCP 用你已验证号码打真实电话，并附带通话简报 skill。",
+            "ja": "Grok Bot / Grok Build 用プラグイン。ホスト型 Patch MCP で本人確認済み番号から実電話をかけ、ブリーフィング skill 付き。"
+          }
+        },
+        {
+          "title": "Grok Bot Skills — 小管家团队",
+          "url": "https://github.com/pingzongl/grok-bot-skills",
+          "source": "GB-1362",
+          "blurb": {
+            "en": "A set of agentskills-format SKILL.md packs for Grok Bot (mailroom, content, vault, viral scripts, design).",
+            "zh": "一套 agentskills 格式的 Grok Bot 技能包（收发室、内容、储藏室、爆款脚本、设计）。",
+            "ja": "Grok Bot 向け agentskills 形式の SKILL.md 一式（メール室・コンテンツ・保管庫・バズ脚本・デザイン）。"
+          }
+        },
+        {
+          "title": "Unicity AOS Oracles — Grok Build host adapters",
+          "url": "https://github.com/unicity-aos/oracles",
+          "source": "GB-1363",
+          "blurb": {
+            "en": "Governed host adapters with a .grok-plugin so Claude Code, Grok Build and Codex connect to Unicity AOS as oracles.",
+            "zh": "带 .grok-plugin 的受控宿主适配器：让 Claude Code、Grok Build、Codex 以 oracle 身份接入 Unicity AOS。",
+            "ja": ".grok-plugin 付きの統治ホストアダプタ。Claude Code / Grok Build / Codex を Unicity AOS の oracle として接続。"
+          }
+        },
+        {
+          "title": "Jev Browser — Grok Bot / Cursor agent plugin",
+          "url": "https://github.com/usingcolor/jev-browser-plugin",
+          "source": "GB-1364",
+          "blurb": {
+            "en": "Agent plugin that teaches Grok Bot / Cursor to automate Mac sites via the TypeSafe Jev browser CLI instead of screenshot computer-use.",
+            "zh": "Agent 插件：教 Grok Bot / Cursor 用 TypeSafe Jev 浏览器 CLI 做 Mac 网页自动化，替代截图式 computer-use。",
+            "ja": "Grok Bot / Cursor 向けエージェントプラグイン。TypeSafe Jev ブラウザ CLI で Mac サイトを自動化し、スクショ computer-use の代わりに使う。"
+          }
+        },
+        {
+          "title": "Vervology — Cursor / Grok Bot plugin",
+          "url": "https://github.com/vervology/vervology-cursor",
+          "source": "GB-1365",
+          "blurb": {
+            "en": "Official open-source Cursor and Grok Bot plugin for the Vervology MCP Portal with browser OAuth and no local secrets.",
+            "zh": "Vervology MCP Portal 官方开源 Cursor / Grok Bot 插件，浏览器 OAuth，不含本地密钥。",
+            "ja": "Vervology MCP Portal 公式オープンソースの Cursor / Grok Bot プラグイン。ブラウザ OAuth、ローカル秘密情報なし。"
+          }
         }
       ]
     },
@@ -9674,6 +9894,16 @@
             "zh": "ClawGod 风格的 PATH 包装与更新器，围绕官方 Grok Build CLI 持久重打补丁。",
             "ja": "公式 Grok Build CLI 周りにパッチを永続再適用する ClawGod 風 PATH シム／アップデータ。"
           }
+        },
+        {
+          "title": "grok-bot-fifo — work queue for Grok Bot fleets",
+          "url": "https://github.com/bradmb/grok-bot-fifo",
+          "source": "GB-1371",
+          "blurb": {
+            "en": "Cloudflare Worker + D1 FIFO work queue and CLI so a fleet of Grok Bot agents can share jobs and stall-aware webhooks.",
+            "zh": "Cloudflare Worker + D1 的 FIFO 工作队列与 CLI，让多台 Grok Bot 共享任务并带卡住告警 webhook。",
+            "ja": "Cloudflare Worker + D1 の FIFO 作業キューと CLI。複数 Grok Bot でジョブ共有し、停滞検知 webhook 付き。"
+          }
         }
       ]
     },
@@ -11363,6 +11593,26 @@
             "en": "Staff (mohitjain): Grok Bot UI rename often doesn’t stick (tracked bug). Best workaround for now: ask the Bot/agent to rename itself — that sticks. Not a local setup issue.",
             "zh": "Staff（mohitjain）：Grok Bot 界面改名经常不生效（已知在追）。眼下最好的办法：让 Bot/Agent 自己改名——这样会保留。不是本机配置问题。",
             "ja": "Staff（mohitjain）：Grok Bot の UI 改名が定着しないことが多い（追跡中）。当面の回避策は Bot／エージェントに自分で改名させること——そちらは残る。端末設定の問題ではない。"
+          }
+        },
+        {
+          "title": "Parent Bot goes quiet after Cloud Agent handoff (staff)",
+          "url": "https://forum.cursor.com/t/grok-bot-delegated-cloud-agents-are-running-but-parent-bot-appears-idle/172009",
+          "source": "GB-1381",
+          "blurb": {
+            "en": "Staff (Colin, 2026-09-17): When a Grok Bot hands work to a Cursor Cloud Agent the parent chat goes quiet until that agent finishes (auto-wakes then)—expected today, not a hang. Watch live status at cursor.com/agents or Cursor desktop, or ask the parent to attach the agent card for Running/Done inline; in-flight visibility in the parent chat is being improved.",
+            "zh": "Staff（Colin，2026-09-17）：Grok Bot 把活交给 Cursor Cloud Agent 后，父对话会暂时安静，直到子 Agent 结束才被自动唤醒——这是当前预期，不是卡死。可在 cursor.com/agents 或 Cursor 桌面端看实时状态，或让父 Bot 附上 agent card 显示 Running/Done；父对话的进行中可见性正在改进。",
+            "ja": "Staff（Colin、2026-09-17）：Grok Bot が Cursor Cloud Agent に仕事を渡すと、親チャットは子が終わるまで静か（完了で自動起床）——今は想定動作でハングではない。cursor.com/agents や Cursor デスクトップで進捗を見るか、親に agent card を付けさせて Running/Done をインライン表示。親側の進行中表示は改善予定。"
+          }
+        },
+        {
+          "title": "iOS Settings scroll can flip Auto-review — scroll on the label (staff)",
+          "url": "https://forum.cursor.com/t/grok-bot-mobile-settings-scroll-activates-toggles-can-disable-agent-guards/172015",
+          "source": "GB-1382",
+          "blurb": {
+            "en": "Staff (kevinn, 2026-09-17): On Grok Bot iOS Settings, a scroll that starts on a switch can flip it (reproduced; tracking). The protective control is Auto-review (not labeled “Agent guards”). Workaround until fixed: start the scroll on the row text, not on the switch itself.",
+            "zh": "Staff（kevinn，2026-09-17）：Grok Bot iOS「设置」里，从开关上开始滑动可能误触翻转开关（已复现、在追）。防护相关控件是 Auto-review（没有叫 Agent guards 的开关）。修复前变通：从该行文字上开始滑，不要从开关本身开始。",
+            "ja": "Staff（kevinn、2026-09-17）：Grok Bot iOS の Settings で、スイッチ上からスクロールを始めるとトグルが切り替わることがある（再現済み・追跡中）。保護用は Auto-review（「Agent guards」というスイッチはない）。当面は行のテキスト側からスクロールし、スイッチ自体から始めない。"
           }
         }
       ]
@@ -13373,6 +13623,46 @@
             "en": "Core/CLI/tray/web bridge that points Claude Code, Codex, Pi, Grok, and other harnesses at any compatible endpoint.",
             "zh": "把 Claude Code / Codex / Pi / Grok 等驾驭器指向任意兼容推理端点的核心/CLI/托盘/Web 桥。",
             "ja": "Claude Code / Codex / Pi / Grok など任意ハーネスを互換エンドポイントへ向ける core/CLI/tray/web 橋。"
+          }
+        },
+        {
+          "title": "chat-demo-kit — Grok Bot–style product demos",
+          "url": "https://github.com/husan42/chat-demo-kit",
+          "source": "GB-1372",
+          "blurb": {
+            "en": "Build interactive AI-editor chat demo pages inspired by the xAI Grok Bot site, driven by a single shared playback engine.",
+            "zh": "仿 xAI Grok Bot 官网交互的「AI 小编对话」产品 demo 套件，共用一套播放引擎。",
+            "ja": "xAI Grok Bot 公式サイト風の「AI 編集者チャット」製品デモキット。共通再生エンジンで動かす。"
+          }
+        },
+        {
+          "title": "awesome-grok-bot — Polish translation",
+          "url": "https://github.com/ralftester/awesome-grok-bot-pl",
+          "source": "GB-1373",
+          "blurb": {
+            "en": "Polish translation of the ZeroPointRepo awesome-grok-bot catalog covering Grok Bot skills, plugins and MCP entries.",
+            "zh": "ZeroPointRepo awesome-grok-bot 目录的波兰语译本，涵盖 Grok Bot skills、插件与 MCP。",
+            "ja": "ZeroPointRepo の awesome-grok-bot カタログのポーランド語訳。Grok Bot の skills・プラグイン・MCP を収録。"
+          }
+        },
+        {
+          "title": "Grok Build Status — macOS menu bar",
+          "url": "https://github.com/tembugi/grok-build-status",
+          "source": "GB-1374",
+          "blurb": {
+            "en": "Unofficial macOS menu-bar app that shows Grok Build session state, notifications and weekly usage (Apple Silicon).",
+            "zh": "非官方 macOS 菜单栏应用：显示 Grok Build 会话状态、通知与周用量（Apple Silicon）。",
+            "ja": "非公式の macOS メニューバーアプリ。Grok Build のセッション状態・通知・週間使用量を表示（Apple Silicon）。"
+          }
+        },
+        {
+          "title": "Grok Build Windows .bat installer",
+          "url": "https://github.com/xmokiii-eng/grok-build-windows",
+          "source": "GB-1375",
+          "blurb": {
+            "en": "German-language Windows batch installer pack that unpacks Grok Build under C:\\GrokBuild and launches it.",
+            "zh": "德语说明的 Windows 批处理安装包：解压到 C:\\GrokBuild 并启动 Grok Build。",
+            "ja": "ドイツ語案内の Windows バッチ導入パック。C:\\GrokBuild に展開して Grok Build を起動。"
           }
         }
       ]

@@ -30,15 +30,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="country-us"></a>
 ### United States
 
-<a id="sfmo-20260917"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-obof"><img src="./assets/events/sfmo-20260917-cover.png" alt="Grok Bot for Marketing Operations (SF)" width="300" /></a></td><td valign="top"><strong>Grok Bot for Marketing Operations (SF)</strong><br />Wed 17 Sep 2026, 09:00–10:30 (PDT)<br />San Francisco, CA · The Howard SF, 661 Howard St<br /><br />Official Marketing Operations Grok Bot session at The Howard. Free; ~146 seats (host Jenna Nanpei).<br /><br /><a href="https://luma.com/spacexai-obof"><strong>Register on Luma → →</strong></a></td></tr></table>
-
-<a id="sfps-20260917"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-kczr"><img src="./assets/events/sfps-20260917-cover.png" alt="Grok Bot for Post-Sales (SF)" width="300" /></a></td><td valign="top"><strong>Grok Bot for Post-Sales (SF)</strong><br />Wed 17 Sep 2026, 12:30–13:30 (PDT)<br />San Francisco, CA · The Howard SF, 661 Howard St<br /><br />Official Post-Sales Grok Bot workshop at The Howard. Free; ~148 seats (host Jenna Nanpei).<br /><br /><a href="https://luma.com/spacexai-kczr"><strong>Register on Luma → →</strong></a></td></tr></table>
-
-<a id="sfm-20260917"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-1ctm"><img src="./assets/events/sfm-20260917-cover.png" alt="Grok Bot for Marketing (SF)" width="300" /></a></td><td valign="top"><strong>Grok Bot for Marketing (SF)</strong><br />Thu 17 Sep 2026, 14:30–15:30 (America/Los_Angeles / PDT, UTC−7)<br />San Francisco, CA · The Howard SF, 661 Howard St<br /><br />Official Marketing Grok Bot session at The Howard. Free; ~148 seats (hosts Jenna Nanpei, Kathryn Trainor).<br /><br /><a href="https://luma.com/spacexai-1ctm"><strong>Register on Luma → →</strong></a></td></tr></table>
-
 <a id="pgh-20261013"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/6lx5t8ru"><img src="./assets/events/pgh-20261013-cover.png" alt="Grok Bot Meetup Pittsburgh" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Pittsburgh</strong><br />Tue 13 Oct 2026, 18:30–20:30 (EDT)<br />Pittsburgh · Oakland / Lawrenceville (exact address after you register)<br /><br />Pittsburgh's first city Grok Bot meetup (not campus-only). Short demo then build/swap setups; students + working folks welcome. Host Micah Smith; free; open registration (~30 seats).<br /><br /><a href="https://luma.com/6lx5t8ru"><strong>Register on Luma →</strong></a></td></tr></table>
 
@@ -53,9 +44,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="phl-20260929"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-hdle"><img src="./assets/events/phl-20260929-cover.png" alt="Grok Bot Meetup Philadelphia" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Philadelphia</strong><br />Tue 29 Sep 2026, 18:00–20:30 (America/New_York / EDT, UTC−4)<br />Philadelphia, PA · Indy Hall Clubhouse, 709 N 2nd St 3rd Floor<br /><br />SpaceXAI for Philadelphia first Grok Bot Meetup (hosts Luis Cielak, Malcolm Jones). Multi-agent workflow sharing: Think–Pair–Share on real agent setups, builders’ agentic flows, free food/drinks, Free Grok credits. Free; no approval; guest_count 49 at scan. Venue Indy Hall. Overnight rename: evening Sep12 still listed as “Cursor Meetup Philadelphia — September” (Cursor noise, not proposed); now title+body are Grok Bot Meetup. Distinct from expired campus nights phl-20260903 / tmp-20260903.<br /><br /><a href="https://luma.com/cursor-hdle"><strong>Register on Luma →</strong></a></td></tr></table>
-
-<a id="nym-20260917"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotmarketing-nyc"><img src="./assets/events/nym-20260917-cover.png" alt="Grok Bot for Marketing build night (NYC)" width="300" /></a></td><td valign="top"><strong>Grok Bot for Marketing build night (NYC)</strong><br />Thu 17 Sep 2026, 17:00–20:30 (America/New_York / EDT, UTC−4)<br />New York, NY · venue TBA (offline)<br /><br />SpaceXAI Community Grok Bot build night for Marketing (host Sunita Rao; forum 171543). Agenda: doors 17:00, overview, live demos from Grace Clarke + SpaceXAI Marketing team, Q&A, build time with free Grok Bot credits, attendee demos. Offline; free; guest_count 0 at scan (just posted overnight). Vanity slug grokbotmarketing-nyc (= forum redirect spacexai-by4y).<br /><br /><a href="https://luma.com/grokbotmarketing-nyc"><strong>Register on Luma → →</strong></a></td></tr></table>
 
 <a id="lad-20260922"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotdesign-la"><img src="./assets/events/lad-20260922-cover.png" alt="Grok Bot for Design build night (LA)" width="300" /></a></td><td valign="top"><strong>Grok Bot for Design build night (LA)</strong><br />Tue 22 Sep 2026, 17:00–20:30 (America/Los_Angeles / PDT, UTC−7)<br />Los Angeles, CA · venue TBA (offline)<br /><br />SpaceXAI Community Grok Bot build night for Design (host Sunita Rao; forum 171544). Agenda 17:00–20:30: overview, SpaceXAI Design team live demos, Q&A, build time + free Grok Bot credits, attendee demos. Offline; free; guest_count 0 at scan. Local date Sep 22 (UTC start 09-23T00:00Z). Vanity grokbotdesign-la (= spacexai-o5ji).<br /><br /><a href="https://luma.com/grokbotdesign-la"><strong>Register on Luma → →</strong></a></td></tr></table>
@@ -81,9 +69,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="vic-20260921"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot"><img src="./assets/events/vic-20260921-cover.png" alt="Grok Bot Meetup Victoria BC" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Victoria BC</strong><br />Mon 21 Sep 2026, 18:00–21:00 (PDT)<br />Victoria, BC · exact address after you register<br /><br />Grok Bot build night in Victoria. Host approval required.<br /><br /><a href="https://luma.com/grokbot"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
-<a id="yyz-20260917"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-toronto"><img src="./assets/events/yyz-20260917-cover.png" alt="Grok Bot Meetup Toronto" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Toronto</strong><br />Thu 17 Sep 2026, 17:30–20:30 (EDT)<br />Toronto · venue TBD (address after register). Bring a laptop; doors close 18:15.<br /><br />Inaugural in-person Grok Bot meetup in Toronto (Cursor Community). Agenda still TBD. Host approval. Bring a laptop.<br /><br /><a href="https://luma.com/grok-bot-toronto"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
-
 <a id="yul-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/hkujao4q"><img src="./assets/events/yul-20260919-cover.png" alt="Official Grok Bot Montreal - BUILD DAY" width="300" /></a></td><td valign="top"><strong>Official Grok Bot Montreal - BUILD DAY</strong><br />Sat 3 Oct 2026, 12:00–17:00 (America/Toronto, EDT)<br />Montréal, QC · Reflex (63 Rue de Brésoles), with SpaceXAI Community<br /><br />Official Grok Bot Montreal Meetup at Reflex: quick Grok Bot tutorial, live community demos, open-floor social, mentors on site; credits and swag. Hosts Lucas & Samira G.; free; host approval; afternoon in-person. EventScheduled.<br /><br /><a href="https://luma.com/hkujao4q"><strong>Register →</strong></a></td></tr></table>
 
@@ -104,18 +89,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="fln-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/c293hlgc"><img src="./assets/events/fln-20260926-cover.png" alt="Grok Bot Meetup Florianópolis" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Florianópolis</strong><br />Sat 26 Sep 2026, 18:00–20:00 (BRT)<br />Florianópolis, Brazil · Founder Haus - Jurerê In, Av. dos Merlins 156, Jurerê Internacional<br /><br />First Grok Bot meetup in Florianópolis — demos of what locals are building. Forum 170449; ~25 interested; waitlist/approval.<br /><br /><a href="https://luma.com/c293hlgc"><strong>Register on Luma → →</strong></a></td></tr></table>
-
-<a id="country-de"></a>
-### Germany
-
-<a id="frb-20260917"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-freiburg"><img src="./assets/events/frb-20260917-cover.png" alt="Grok Bot Meetup Freiburg" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Freiburg</strong><br />Thu 17 Sep 2026, 18:00–21:00 (CEST)<br />Freiburg im Breisgau, Germany · Stefan-Meier-Straße 8<br /><br />First Freiburg Grok Bot meetup with SpaceXAI community — try the product and hang out. Hosts Aniruth + Foundersclub Freiburg; approval; ~57 seats.<br /><br /><a href="https://luma.com/grok-bot-freiburg"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
-
-<a id="cgn-20261009"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-cologne-meetup1"><img src="./assets/events/cgn-20261009-cover.png" alt="Grok Bot Meetup Cologne" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cologne</strong><br />Fri 9 Oct 2026, 18:00–21:00 (CEST)<br />Cologne (address revealed after registration)<br /><br />Cologne Grok Bot meetup: networking, talks/workshop, hands-on with a real task (Windows/Mac laptop or iPhone; download x.ai/bot). Agenda 18:00 check-in → 18:30 demo & hands-on → 20:00 chat; open to more Grok Bot speakers. Hosts Emmanuel Ketcha, Eyad Kelleh, Babajide Mayowa Moibi, Teoman Köse; free; host approval; ~50 seats.<br /><br /><a href="https://luma.com/spacexai-cologne-meetup1"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
-
-<a id="str-20261015"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-z2er"><img src="./assets/events/str-20261015-cover.png" alt="Grok Bot Stuttgart Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Stuttgart Meetup</strong><br />Thu 15 Oct 2026, 17:30–21:00 (Europe/Berlin, UTC+2 / CEST)<br />Epplestraße 225/haus 3, 70567 Stuttgart-Möhringen, Germany — offline (first floor)<br /><br />First Grok Bot Meetup in Stuttgart (host Sachin Agrawal, AI collective Stuttgart chapter lead / SpaceXAI ambassador). Evening to try Grok Bot, see demos, hang with the SpaceXAI community. Free RSVP with approval (spots_remaining 84; guest_count 6). Luma slug spacexai-z2er (evt-DCND2YYEcL1xi1I); forum New-event 171988.<br /><br /><a href="https://luma.com/spacexai-z2er"><strong>Register on Luma → →</strong></a></td></tr></table>
 
 <a id="country-id"></a>
 ### Indonesia
@@ -140,6 +113,15 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="cdmx-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-89bf"><img src="./assets/events/cdmx-20260926-cover.png" alt="Grok Bot Meetup Mexico City" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Mexico City</strong><br />Sat 26 Sep 2026, 09:00–13:00 (CDMX)<br />Mexico City · Sandbox Hub, Luis G. Urbina 4-dpto. 103, Polanco<br /><br />First CDMX Grok Bot meetup at Sandbox Hub Polanco — hang out and swap real uses. Hosts Javier Rivero / Ben Kim / Ricardo García; approval; ~60 seats.<br /><br /><a href="https://luma.com/spacexai-89bf"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<a id="country-de"></a>
+### Germany
+
+<a id="cgn-20261009"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-cologne-meetup1"><img src="./assets/events/cgn-20261009-cover.png" alt="Grok Bot Meetup Cologne" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cologne</strong><br />Fri 9 Oct 2026, 18:00–21:00 (CEST)<br />Cologne (address revealed after registration)<br /><br />Cologne Grok Bot meetup: networking, talks/workshop, hands-on with a real task (Windows/Mac laptop or iPhone; download x.ai/bot). Agenda 18:00 check-in → 18:30 demo & hands-on → 20:00 chat; open to more Grok Bot speakers. Hosts Emmanuel Ketcha, Eyad Kelleh, Babajide Mayowa Moibi, Teoman Köse; free; host approval; ~50 seats.<br /><br /><a href="https://luma.com/spacexai-cologne-meetup1"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<a id="str-20261015"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-z2er"><img src="./assets/events/str-20261015-cover.png" alt="Grok Bot Stuttgart Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Stuttgart Meetup</strong><br />Thu 15 Oct 2026, 17:30–21:00 (Europe/Berlin, UTC+2 / CEST)<br />Epplestraße 225/haus 3, 70567 Stuttgart-Möhringen, Germany — offline (first floor)<br /><br />First Grok Bot Meetup in Stuttgart (host Sachin Agrawal, AI collective Stuttgart chapter lead / SpaceXAI ambassador). Evening to try Grok Bot, see demos, hang with the SpaceXAI community. Free RSVP with approval (spots_remaining 84; guest_count 6). Luma slug spacexai-z2er (evt-DCND2YYEcL1xi1I); forum New-event 171988.<br /><br /><a href="https://luma.com/spacexai-z2er"><strong>Register on Luma → →</strong></a></td></tr></table>
 
 <a id="country-ec"></a>
 ### Ecuador
@@ -168,15 +150,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="gua-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-is2h"><img src="./assets/events/gua-20261003-cover.png" alt="Grok Bot Meetup Guatemala City" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Guatemala City</strong><br />Sat 3 Oct 2026, 10:00–14:00 (CST)<br />Universidad Francisco Marroquín, Zona 10, Guatemala City · street after you register<br /><br />Open2 Grok Bot meetup in Guatemala City: go beyond one-off tasks with better instructions, context, and end-to-end workflows, plus credits to try Grok Bot (~36 going, host approval).<br /><br /><a href="https://luma.com/cursor-is2h"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
-<a id="country-jp"></a>
-### Japan
-
-<a id="spk-20261002"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/91kju0je"><img src="./assets/events/spk-20261002-cover.png" alt="Grok Bot Meetup Sapporo #2" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Sapporo #2</strong><br />Fri 2 Oct 2026, 19:00–22:00 (JST)<br />Sapporo · exact address after you register<br /><br />Second Sapporo Grok Bot meetup. Free, host approval.<br /><br /><a href="https://luma.com/91kju0je"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
-
-<a id="osa-20260917"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotosaka"><img src="./assets/events/osa-20260917-cover.png" alt="Grok Bot Meetup Osaka" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Osaka</strong><br />Thu 17 Sep 2026, 19:00–21:30 (JST)<br />North Gate Building, 3-chōme-1-3 Umeda, Kita Ward, Osaka<br /><br />In-person Grok Bot meetup in Osaka. Host approval required.<br /><br /><a href="https://luma.com/grokbotosaka"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
-
 <a id="country-vn"></a>
 ### Vietnam
 
@@ -185,12 +158,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="sgn-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-wgmy"><img src="./assets/events/sgn-20260926-cover.png" alt="Grok Bot Meetup HCMC" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup HCMC</strong><br />Sat 26 Sep 2026, 13:00–17:00 (Asia/Ho_Chi_Minh, UTC+7)<br />Ho Chi Minh City, Vietnam — offline (exact venue city-level on Luma / shared after RSVP)<br /><br />1st official Grok Bot Meetup in HCMC (hosts David Zhang, Ivan Paulo, Sandra Vu; SpaceXAI Community). Sat afternoon builders meetup — try Grok Bot, demos, community hang. Free RSVP with approval (spots_remaining 94; guest_count 6). Distinct from catalogued dad-20261003 Da Nang. Luma slug spacexai-wgmy (evt-VutI63orxqoXqGW); forum New-event 171994.<br /><br /><a href="https://luma.com/spacexai-wgmy"><strong>Register on Luma → →</strong></a></td></tr></table>
-
-<a id="country-al"></a>
-### Albania
-
-<a id="tia-20260917"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-ibxj"><img src="./assets/events/tia-20260917-cover.png" alt="Grok Bot Tirana Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Tirana Meetup</strong><br />Thu 17 Sep 2026, 18:30–20:00 (CEST)<br />Tirana · exact address after you register<br /><br />Grok Bot and Cursor meetup in Tirana this September. Host approval required.<br /><br /><a href="https://luma.com/cursor-ibxj"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
 <a id="country-ar"></a>
 ### Argentina
@@ -234,11 +201,11 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="dub-20261004"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-dublin"><img src="./assets/events/dub-20261004-cover.png" alt="Grok Bot Dublin Builder Day" width="300" /></a></td><td valign="top"><strong>Grok Bot Dublin Builder Day</strong><br />Sun 4 Oct 2026, 11:00–17:30 (Europe/Dublin, IST)<br />Dublin 8, Ireland · Baseline (61 Thomas St), Dublin AI Week × Bronto<br /><br />Full-day Grok Bot community build day (SpaceXAI for Dublin, part of Dublin AI Week, partner Bronto): live demo, build bots/workflows/agents, lunch, lightning demos, show&tell. Download ahead: x.ai/bot. Hosts Sanat Thukral & Manoj; free; host approval; ~96 spots; waitlist enabled.<br /><br /><a href="https://luma.com/grokbot-dublin"><strong>Register →</strong></a></td></tr></table>
 
-<a id="country-ke"></a>
-### Kenya
+<a id="country-jp"></a>
+### Japan
 
-<a id="nbo-20260917"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-0yk6"><img src="./assets/events/nbo-20260917-cover.png" alt="Grok Bot Meetup Nairobi" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Nairobi</strong><br />Thu 17 Sep 2026, 15:30–18:00 (EAT)<br />Nairobi · venue TBA after you register<br /><br />Hands-on Grok Bot meetup in Nairobi. Free, host approval, 60 seats left.<br /><br /><a href="https://luma.com/cursor-0yk6"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+<a id="spk-20261002"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/91kju0je"><img src="./assets/events/spk-20261002-cover.png" alt="Grok Bot Meetup Sapporo #2" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Sapporo #2</strong><br />Fri 2 Oct 2026, 19:00–22:00 (JST)<br />Sapporo · exact address after you register<br /><br />Second Sapporo Grok Bot meetup. Free, host approval.<br /><br /><a href="https://luma.com/91kju0je"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
 <a id="country-kh"></a>
 ### Cambodia
@@ -263,12 +230,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="ygn-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-qu3x"><img src="./assets/events/ygn-20260926-cover.png" alt="Grok Bot Yangon Workshop @ ACY" width="300" /></a></td><td valign="top"><strong>Grok Bot Yangon Workshop @ ACY</strong><br />Sat 26 Sep 2026, 13:30–17:00 (MMT)<br />American Center Yangon<br /><br />Hands-on Grok Bot workshop at American Center Yangon. Host approval required.<br /><br /><a href="https://luma.com/cursor-qu3x"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
-
-<a id="country-mt"></a>
-### Malta
-
-<a id="mlt-20260917"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-malta"><img src="./assets/events/mlt-20260917-cover.png" alt="Grok Bot Meetup Malta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Malta</strong><br />Thu 17 Sep 2026, 18:00–21:00 (CEST)<br />Ta' Xbiex, Malta · Coffee Circus Porto, 149 Triq D'Argens<br /><br />First SpaceXAI Grok Bot Meetup in Malta. Live demos, build with Grok Bots/agents, networking. Free, 31 seats left (host Niccolò Mascaro).<br /><br /><a href="https://luma.com/grok-bot-malta"><strong>Register on Luma → →</strong></a></td></tr></table>
 
 <a id="country-my"></a>
 ### Malaysia
