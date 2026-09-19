@@ -12,12 +12,6 @@
 <a id="sha-20261018"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-kh2x"><img src="./assets/events/sha-20261017-cover.png" alt="Grok Bot 上海线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 上海线下交流</strong><br />2026-10-18 周日 14:00–18:30<br />上海 · 报名通过后可见地址<br /><br />上海 Grok Bot 线下：破冰 + 分享/Workshop。预报名需审核。论坛 170454。注意：Luma API 时间目前错成 HKT 09–10（1 小时），以文案 14:00–17:00 为准。<br /><br /><a href="https://luma.com/spacexai-kh2x"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
-<a id="hzo-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/gb05xpbc"><img src="./assets/events/hzo-20260919-cover.png" alt="Grok Bot 杭州线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 杭州线下交流</strong><br />2026-09-19 周六 14:00–17:30<br />杭州 · 报名通过后可见地址<br /><br />SpaceXAI 杭州线下：官方致辞 + 场景分享 + 开放麦 + Networking。需审核，地址报名后可见。<br /><br /><a href="https://luma.com/gb05xpbc"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="bj-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-chwk"><img src="./assets/events/bj-20260919-cover.png" alt="Grok Bot 北京线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 北京线下交流</strong><br />2026-09-19 周六 14:00–18:00<br />北京 · 报名通过后可见地址<br /><br />SpaceXAI 北京线下（主办 Yafang）：产品介绍 + 用法分享。需审核，约 150 席，地址报名后可见。<br /><br /><a href="https://luma.com/spacexai-chwk"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
 <a id="wuh-20261017"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/kss59f4e"><img src="./assets/events/wuh-20261017-cover.png" alt="Grok Bot 武汉线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 武汉线下交流</strong><br />2026-10-17 周六 14:00–17:30（北京时间）<br />武汉（场地待确认，确认后更新 Luma 页）<br /><br />武汉 Grok Bot 线下：交流破冰 + 分享/Workshop。SpaceXAI 产品叙事（能登录你的工具、把做完的活带回来的 AI 队友）。预报名需审核，通过后拉微信群；欢迎分享/志愿者。主办 Hanbing Zhang、chenchong、yuepu；免费，约 150 席。与同日 sha-20261017 上海场不同。<br /><br /><a href="https://luma.com/kss59f4e"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
@@ -219,6 +213,12 @@
 <a id="dub-20261004"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-dublin"><img src="./assets/events/dub-20261004-cover.png" alt="Grok Bot 都柏林 Builder Day" width="300" /></a></td><td valign="top"><strong>Grok Bot 都柏林 Builder Day</strong><br />2026-10-04 周日 11:00–17:30（都柏林 IST）<br />爱尔兰都柏林 · Baseline（61 Thomas St；Dublin AI Week × Bronto）<br /><br />都柏林全天 Grok Bot 共建（SpaceXAI for Dublin，属 Dublin AI Week，合作方 Bronto）：现场 demo、搭 bot/工作流/agent、午餐、闪电分享。请预先下载 x.ai/bot。主办 Sanat Thukral、Manoj；免费需审核；约 96 席，有候补。<br /><br /><a href="https://luma.com/grokbot-dublin"><strong>报名 →</strong></a></td></tr></table>
 
+<a id="country-in"></a>
+### 印度
+
+<a id="raj-20260926"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-rajkot"><img src="./assets/events/raj-20260926-cover.png" alt="Grok Bot 拉杰果德线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 拉杰果德线下交流</strong><br />2026-09-26 周六 10:00–13:00（拉杰果德 IST）<br />印度古吉拉特邦拉杰果德 · 报名通过后可见地址<br /><br />拉杰果德线下 Grok Bot（Build, Automate & Grow with AI）。SpaceXAI for Rajkot 主办；免费；需审核；报名前地址脱敏。<br /><br /><a href="https://luma.com/grok-rajkot"><strong>在 Luma 报名（需主办审核） →</strong></a></td></tr></table>
+
 <a id="country-jp"></a>
 ### 日本
 
@@ -254,12 +254,6 @@
 
 <a id="ygn-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-qu3x"><img src="./assets/events/ygn-20260926-cover.png" alt="Grok Bot 仰光工作坊（ACY）" width="300" /></a></td><td valign="top"><strong>Grok Bot 仰光工作坊（ACY）</strong><br />2026-09-26 周六 13:30–17:00（仰光）<br />仰光 American Center Yangon<br /><br />仰光 American Center 的 Grok Bot 动手工作坊。需主办审核。<br /><br /><a href="https://luma.com/cursor-qu3x"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="country-my"></a>
-### 马来西亚
-
-<a id="kul-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot"><img src="./assets/events/kul-20260919-cover.png" alt="Grok Bot 吉隆坡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 吉隆坡线下交流</strong><br />2026-09-19 周六 14:00–18:00（吉隆坡）<br />吉隆坡 · 报名通过后可见地址<br /><br />吉隆坡线下 Grok Bot。免费，需审核，可候补，还剩 99 个名额。<br /><br /><a href="https://luma.com/grok-bot"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
 <a id="country-nl"></a>
 ### 荷兰

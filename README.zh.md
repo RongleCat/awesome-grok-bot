@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1405-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1416-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,7 +37,7 @@
 
 [全部活动介绍](./EVENTS.zh.md)
 
-- **中国**（5）：[上海](./EVENTS.zh.md#sha-20261018) · [杭州](./EVENTS.zh.md#hzo-20260919) · [北京](./EVENTS.zh.md#bj-20260919) · [武汉](./EVENTS.zh.md#wuh-20261017) · [珠海](./EVENTS.zh.md#zuh-20260920)
+- **中国**（3）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [珠海](./EVENTS.zh.md#zuh-20260920)
 - **美国**（10）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [达拉斯](./EVENTS.zh.md#dal-20260919) · [迈阿密](./EVENTS.zh.md#mia-20260923) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929) · [洛杉矶](./EVENTS.zh.md#lad-20260922) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008)
 - **加拿大**（5）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
 - **巴西**（3）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20260926)
@@ -58,13 +58,13 @@
 - **玻利维亚**（1）：[圣克鲁斯](./EVENTS.zh.md#vvi-20260926)
 - **格鲁吉亚**（1）：[第比利斯](./EVENTS.zh.md#tbs-20260926)
 - **爱尔兰**（1）：[都柏林](./EVENTS.zh.md#dub-20261004)
+- **印度**（1）：[拉杰果德](./EVENTS.zh.md#raj-20260926)
 - **日本**（1）：[札幌](./EVENTS.zh.md#spk-20261002)
 - **吉尔吉斯斯坦**（1）：[比什凯克](./EVENTS.zh.md#fru-20261001)
 - **柬埔寨**（1）：[金边](./EVENTS.zh.md#pnh-20261003)
 - **科威特**（1）：[科威特](./EVENTS.zh.md#kwi-20260922)
 - **摩洛哥**（1）：[卡萨布兰卡](./EVENTS.zh.md#cas-20260919)
 - **缅甸**（1）：[仰光](./EVENTS.zh.md#ygn-20260926)
-- **马来西亚**（1）：[吉隆坡](./EVENTS.zh.md#kul-20260919)
 - **荷兰**（1）：[阿姆斯特丹](./EVENTS.zh.md#ams-20260922)
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
 - **萨尔瓦多**（1）：[圣萨尔瓦多](./EVENTS.zh.md#sal-20260919)
@@ -258,6 +258,7 @@
 
 ## 真实使用案例
 
+- [my-working-party — Grok Bot work canvas](https://github.com/kaibairen/my-working-party) - Grok Bot 工作画布案例：中英规划/状态板，研讨 Boundary Harness（护栏而非监工）如何与云端队友一起交货。.
 - [grokbot-jev-jobs — Jev triage + Grok Bot ATS apply](https://github.com/mcgalleg/grokbot-jev-jobs) - 公开求职应用：用 TypeSafe Jev 筛选职位，再 webhook 触发 Grok Bot（Resume Rudy）填写 ATS 并经密钥接口回写状态。.
 - [Sprite Portal Grok Bot nursery UI](https://github.com/hkclaw/sprite-portal) - 本机 Vite 仪表盘：六个品牌化 Grok Bot 精灵房间、桌面事项与人设字段。.
 - [getdasha.com lobby Worker (Grok Bot ship)](https://github.com/Uuriko/dasha-lobby) - 大型 Cloudflare Worker：从 Grok Bot 工作树发版后镜像的 getdasha.com lobby/compute 线上栈。.
@@ -412,6 +413,9 @@
 
 ## 技能、插件与 MCP
 
+- [Portals — Grok Build browser-games plugin](https://github.com/portals-labs/portals-plugin-grok) - Portals.to 的原生 Grok Build .grok-plugin：内置 portals-web-games MCP 与技能，可在代理里构建、管理、发布并调优浏览器游戏经济。.
+- [PerkOS Floor — Grok Bot desk plugin](https://github.com/PerkOS-xyz/PerkOS-Grok-Plugin) - 面向 PerkOS Floor 工位的 Grok Bot 插件：粘贴一次 Floor 邀请，经托管 MCP/WSS 出站连接，并用 desk-watch / desk-task 技能起草待办，Bot 不持有消费密钥。.
+- [LLM Pulse — Cursor / Grok Bot MCP plugin](https://github.com/LLM-Pulse/llm-pulse-plugin) - LLM Pulse 官方市场插件（Cursor / Grok Bot）：OAuth 接入托管 MCP，查品牌可见度、引用、情绪与竞品提示词，无需粘贴 API Key。.
 - [Йа Криведко — Grok Bot marketplace adapter](https://github.com/ast-ashulga/as.krivedko.grokbot) - 面向 Grok Bot Marketplace 的「Йа Криведко」（padonki/olbanian）薄适配器：锁定拼写子模块、skill/SKILL.md、人设、夹具与分享模板发布清单。.
 - [Agora — Grok Bot career-fleet blueprints](https://github.com/LayishSieger/agora) - 面向 Grok Bot 的职业舰队蓝图与安装遥测：含精简公开模板（人设 + create/steward skills），以及每台盒子上的 profile/简历事实源路径。.
 - [SuperMe — official Cursor / Grok Build plugin manifests](https://github.com/superme-ai/superme-plugins) - SuperMe 官方市场清单，面向 Cursor 与 Grok Build（含 .grok-plugin）：OAuth 接入托管 mcp.superme.ai，多人视角工作建议，无需本地服务或粘贴 API Key。.
@@ -848,6 +852,12 @@
 
 ## 开源替代
 
+- [agentsfleet — prebuilt AI teammate fleets](https://github.com/agentsfleet/agentsfleet) - 面向重复工程活的预置 AI 队友舰队运行时（沙箱舰队、CLI、CI），定位于类 Grok Bot 的私有队友运维。.
+- [Xora Code — open-source Grok Build desktop (Theia)](https://github.com/WhiteNightShadow/xora-code) - 基于 Eclipse Theia + Electron + ACP 的开源 Grok Build 桌面：多会话 Agent、Diff 审阅、Skills、MCP 与自定义主题，把代理装进完整 IDE 壳。.
+- [PinkCode — desktop GUI for Grok Build](https://github.com/3xian/PinkCode) - Grok Build 桌面 GUI：多会话任务板、实时时间线、工作区浏览器与权限弹窗，不必困在 TUI 里也能驾驭 ACP 会话。.
+- [Grox — Tauri desktop workbench for Grok Build](https://github.com/dandandujie/Grox) - 基于 xai-org/grok-build 的 Tauri 桌面工作台：选项目或描述任务，跑可恢复的分析/改码/工具/验证会话，并在需批准时清晰交还给你。.
+- [Pixel GrokBots — pixel office for Grok teammates](https://github.com/Davidgon8/pixel-grokbots) - 可玩的像素办公室：把 Grok Bot 队友与 Grok Build 会话映射到共享楼层——走动、打字、审批旗标与钩子式活动流，可用静态 HTML / GitHub Pages 打开。.
+- [Grokoo — macOS desktop companion for Grok Bot](https://github.com/bleakbelladonnals/Grokoo) - 面向 Grok Bot 的原生 macOS 14+ 桌面伙伴：最多六只角色显示空闲/工作/思考/等待/完成，并可开 Dock 快捷入口进 Bot 与群聊。.
 - [grok-code-headless — drive Grok Build CLI programmatically](https://github.com/Juliusolsson05/grok-code-headless) - 无头库：按 Claude/Codex 系 *-headless 同款方式准备、观察并控制真实 Grok Build CLI/ACP（提示验收、取消、语义回合事件）。.
 - [OGG Switch — Grok Build + Oh My Pi control plane](https://github.com/akiteet/ogg-switch) - Tauri 2 桌面控制面，统一 Grok Build 与 Oh My Pi（OMP）：100+ 提供商目录、OAuth/API Key 预设与 OMP 语义角色，零遥测。.
 - [Mail Agents openbot (GrokBot-shaped)](https://github.com/matjazonline/openbot) - Rust BYOK 多智能体平台：每 Agent 自有邮箱、共享组织记忆与工具，定位为 GrokBot/Buzz 形态替代。.
@@ -1300,6 +1310,7 @@
 
 ## 相关列表
 
+- [agf — fuzzy-find AI coding sessions (incl. Grok Build)](https://github.com/subinium/agf) - 本地优先的模糊查找器（Rust）：跨 Claude Code、Codex、Grok Build 等搜索并恢复编程代理会话，含 TUI、JSON 与可选 MCP。.
 - [NetGoat PM board for Grok Bot agents](https://github.com/duckeydev/pm) - Next.js 看板：只用 GitHub Issues 当队列，让 Grok Bot 智能体与人类共享同一状态板。.
 - [grokbot.se Swedish setup site](https://github.com/joakimengerstam/grokbot) - 面向 grokbot.se 的 Astro 静态站：讲解如何把 Grok Bot 设为 Cursor/xAI 桌面助手。.
 - [GrokBots.se Swedish template studio](https://github.com/wizfrogmark/grokbots-se) - 独立 Next.js 工作室：面向瑞典公司的现成 Grok Bot 模板，含人工门禁与 never-do 规则。.
@@ -1515,7 +1526,7 @@
 
 ## 贡献
 
-目前 8 个分类、1405 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1416 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

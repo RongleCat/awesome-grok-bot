@@ -1696,6 +1696,16 @@
       },
       "items": [
         {
+          "title": "my-working-party — Grok Bot work canvas",
+          "url": "https://github.com/kaibairen/my-working-party",
+          "source": "GB-1439",
+          "blurb": {
+            "en": "Grok Bot work-canvas case: bilingual planning/status board exploring a Boundary Harness (guardrails without jailing intelligence) for delivery with cloud teammates.",
+            "zh": "Grok Bot 工作画布案例：中英规划/状态板，研讨 Boundary Harness（护栏而非监工）如何与云端队友一起交货。",
+            "ja": "Grok Bot 作業キャンバス事例。二言語の計画／状態ボードで Boundary Harness（看守ではなく護欄）をクラウド仲間との納品に探る。"
+          }
+        },
+        {
           "title": "grokbot-jev-jobs — Jev triage + Grok Bot ATS apply",
           "url": "https://github.com/mcgalleg/grokbot-jev-jobs",
           "source": "GB-1428",
@@ -3215,6 +3225,36 @@
         "ja": "スキル、プラグインと MCP"
       },
       "items": [
+        {
+          "title": "Portals — Grok Build browser-games plugin",
+          "url": "https://github.com/portals-labs/portals-plugin-grok",
+          "source": "GB-1432",
+          "blurb": {
+            "en": "Native Grok Build .grok-plugin for Portals.to: bundled portals-web-games MCP plus skills to build, manage, publish, and economy-tune browser games from the agent.",
+            "zh": "Portals.to 的原生 Grok Build .grok-plugin：内置 portals-web-games MCP 与技能，可在代理里构建、管理、发布并调优浏览器游戏经济。",
+            "ja": "Portals.to 向けネイティブ Grok Build .grok-plugin。portals-web-games MCP とスキル同梱で、エージェントからブラウザゲームの構築・管理・公開・経済調整。"
+          }
+        },
+        {
+          "title": "PerkOS Floor — Grok Bot desk plugin",
+          "url": "https://github.com/PerkOS-xyz/PerkOS-Grok-Plugin",
+          "source": "GB-1431",
+          "blurb": {
+            "en": "Grok Bot plugin for a PerkOS Floor desk: paste the Floor invite once, connect outbound over hosted MCP/WSS, and run desk-watch / desk-task skills so the Bot drafts waiting work without holding spend keys.",
+            "zh": "面向 PerkOS Floor 工位的 Grok Bot 插件：粘贴一次 Floor 邀请，经托管 MCP/WSS 出站连接，并用 desk-watch / desk-task 技能起草待办，Bot 不持有消费密钥。",
+            "ja": "PerkOS Floor デスク向け Grok Bot プラグイン。招待を一度貼り、ホスト型 MCP/WSS で外向き接続。desk-watch / desk-task で待ちタスクを下書きし、消費キーは Bot が持たない。"
+          }
+        },
+        {
+          "title": "LLM Pulse — Cursor / Grok Bot MCP plugin",
+          "url": "https://github.com/LLM-Pulse/llm-pulse-plugin",
+          "source": "GB-1430",
+          "blurb": {
+            "en": "Official LLM Pulse Marketplace plugin for Cursor and Grok Bot: OAuth to the hosted MCP for brand visibility, citations, sentiment, and competitor prompts with no pasted API keys.",
+            "zh": "LLM Pulse 官方市场插件（Cursor / Grok Bot）：OAuth 接入托管 MCP，查品牌可见度、引用、情绪与竞品提示词，无需粘贴 API Key。",
+            "ja": "Cursor / Grok Bot 向け LLM Pulse 公式マーケットプラグイン。ホスト型 MCP へ OAuth でブランド可視性・引用・感情・競合プロンプトを取得。API キー貼り付け不要。"
+          }
+        },
         {
           "title": "Йа Криведко — Grok Bot marketplace adapter",
           "url": "https://github.com/ast-ashulga/as.krivedko.grokbot",
@@ -7535,6 +7575,66 @@
         "ja": "オープンソースの代替"
       },
       "items": [
+        {
+          "title": "agentsfleet — prebuilt AI teammate fleets",
+          "url": "https://github.com/agentsfleet/agentsfleet",
+          "source": "GB-1438",
+          "blurb": {
+            "en": "Open fleet runtime for prebuilt AI teammates on recurring engineering work (sandbox fleets, CLI, CI)—positioned for private Grok Bot–style teammate ops.",
+            "zh": "面向重复工程活的预置 AI 队友舰队运行时（沙箱舰队、CLI、CI），定位于类 Grok Bot 的私有队友运维。",
+            "ja": "繰り返しのエンジニアリング向け既製 AI チームメイト艦隊ランタイム（サンドボックス・CLI・CI）。Grok Bot 風のプライベート運用向け。"
+          }
+        },
+        {
+          "title": "Xora Code — open-source Grok Build desktop (Theia)",
+          "url": "https://github.com/WhiteNightShadow/xora-code",
+          "source": "GB-1437",
+          "blurb": {
+            "en": "Open-source Grok Build desktop on Eclipse Theia + Electron + ACP: multi-session agents, diff review, Skills, MCP, and custom themes as a full IDE shell around the agent.",
+            "zh": "基于 Eclipse Theia + Electron + ACP 的开源 Grok Build 桌面：多会话 Agent、Diff 审阅、Skills、MCP 与自定义主题，把代理装进完整 IDE 壳。",
+            "ja": "Eclipse Theia + Electron + ACP のオープンソース Grok Build デスクトップ。マルチセッション、Diff レビュー、Skills、MCP、テーマ付きの IDE シェル。"
+          }
+        },
+        {
+          "title": "PinkCode — desktop GUI for Grok Build",
+          "url": "https://github.com/3xian/PinkCode",
+          "source": "GB-1436",
+          "blurb": {
+            "en": "Desktop GUI for Grok Build with a multi-session task board, live timeline, workspace browser, and permission modal so you can steer ACP sessions without living in the TUI.",
+            "zh": "Grok Build 桌面 GUI：多会话任务板、实时时间线、工作区浏览器与权限弹窗，不必困在 TUI 里也能驾驭 ACP 会话。",
+            "ja": "Grok Build デスクトップ GUI。マルチセッション看板、ライブタイムライン、ワークスペース閲覧、権限モーダルで、TUI に縛られず ACP を操縦。"
+          }
+        },
+        {
+          "title": "Grox — Tauri desktop workbench for Grok Build",
+          "url": "https://github.com/dandandujie/Grox",
+          "source": "GB-1435",
+          "blurb": {
+            "en": "Tauri desktop workbench for xai-org/grok-build: pick a project or describe a task, then run resumable analyze/edit/tool/verify sessions with clear human approval handoffs.",
+            "zh": "基于 xai-org/grok-build 的 Tauri 桌面工作台：选项目或描述任务，跑可恢复的分析/改码/工具/验证会话，并在需批准时清晰交还给你。",
+            "ja": "xai-org/grok-build の Tauri デスクトップ作業台。プロジェクト選択かタスク記述で、再開可能な分析・編集・ツール・検証セッションを回し、承認は人に返す。"
+          }
+        },
+        {
+          "title": "Pixel GrokBots — pixel office for Grok teammates",
+          "url": "https://github.com/Davidgon8/pixel-grokbots",
+          "source": "GB-1434",
+          "blurb": {
+            "en": "Playable pixel office that maps Grok Bot teammates and Grok Build sessions onto a shared floor—walk, type, approval flags, and hook-shaped activity—openable as static HTML / GitHub Pages.",
+            "zh": "可玩的像素办公室：把 Grok Bot 队友与 Grok Build 会话映射到共享楼层——走动、打字、审批旗标与钩子式活动流，可用静态 HTML / GitHub Pages 打开。",
+            "ja": "遊べるピクセル事務所。Grok Bot 仲間と Grok Build セッションを共有フロアに写す（歩行・入力・承認フラグ・フック風アクティビティ）。静的 HTML / GitHub Pages で開ける。"
+          }
+        },
+        {
+          "title": "Grokoo — macOS desktop companion for Grok Bot",
+          "url": "https://github.com/bleakbelladonnals/Grokoo",
+          "source": "GB-1433",
+          "blurb": {
+            "en": "Native macOS 14+ companion for Grok Bot: up to six desktop characters show idle/work/think/wait/done, with optional Dock shortcuts into Bots and group chats.",
+            "zh": "面向 Grok Bot 的原生 macOS 14+ 桌面伙伴：最多六只角色显示空闲/工作/思考/等待/完成，并可开 Dock 快捷入口进 Bot 与群聊。",
+            "ja": "Grok Bot 向けネイティブ macOS 14+ コンパニオン。最大6体のデスクトップキャラが idle/work/think/wait/done を表示し、Dock から Bot／グループチャットへ。"
+          }
+        },
         {
           "title": "grok-code-headless — drive Grok Build CLI programmatically",
           "url": "https://github.com/Juliusolsson05/grok-code-headless",
@@ -12015,6 +12115,16 @@
         "ja": "関連リスト"
       },
       "items": [
+        {
+          "title": "agf — fuzzy-find AI coding sessions (incl. Grok Build)",
+          "url": "https://github.com/subinium/agf",
+          "source": "GB-1440",
+          "blurb": {
+            "en": "Local-first fuzzy finder (Rust) to search and resume AI coding-agent sessions across Claude Code, Codex, Grok Build, and peers—with TUI, JSON, and optional MCP.",
+            "zh": "本地优先的模糊查找器（Rust）：跨 Claude Code、Codex、Grok Build 等搜索并恢复编程代理会话，含 TUI、JSON 与可选 MCP。",
+            "ja": "ローカル優先のファジーファインダ（Rust）。Claude Code / Codex / Grok Build などのコーディングエージェントセッションを検索・再開。TUI・JSON・任意 MCP。"
+          }
+        },
         {
           "title": "NetGoat PM board for Grok Bot agents",
           "url": "https://github.com/duckeydev/pm",
@@ -19438,6 +19548,37 @@
         "en": "RSVP on Luma",
         "zh": "在 Luma 报名",
         "ja": "Luma で RSVP"
+      }
+    },
+    {
+      "id": "raj-20260926",
+      "url": "https://luma.com/grok-rajkot",
+      "image": "./assets/events/raj-20260926-cover.png",
+      "expires": "2026-09-26T13:00:00+05:30",
+      "title": {
+        "en": "Grok Bot Meetup Rajkot",
+        "zh": "Grok Bot 拉杰果德线下交流",
+        "ja": "Grok Bot Meetup Rajkot"
+      },
+      "when": {
+        "en": "Sat 26 Sep 2026, 10:00–13:00 (IST)",
+        "zh": "2026-09-26 周六 10:00–13:00（拉杰果德 IST）",
+        "ja": "2026-09-26（土）10:00–13:00（IST）"
+      },
+      "where": {
+        "en": "Rajkot, Gujarat, India · exact address after you register",
+        "zh": "印度古吉拉特邦拉杰果德 · 报名通过后可见地址",
+        "ja": "Rajkot, Gujarat, India · 登録後に住所を表示"
+      },
+      "body": {
+        "en": "In-person Grok Bot meetup in Rajkot (Build, Automate & Grow with AI). Hosted under SpaceXAI for Rajkot; free; host approval; venue obfuscated until registered.",
+        "zh": "拉杰果德线下 Grok Bot（Build, Automate & Grow with AI）。SpaceXAI for Rajkot 主办；免费；需审核；报名前地址脱敏。",
+        "ja": "Rajkot 対面 Grok Bot（Build, Automate & Grow with AI）。SpaceXAI for Rajkot 主催。無料・承認制。登録前は住所マスク。"
+      },
+      "cta": {
+        "en": "Apply on Luma (host approval)",
+        "zh": "在 Luma 报名（需主办审核）",
+        "ja": "Luma で申し込み（主催者承認）"
       }
     }
   ]

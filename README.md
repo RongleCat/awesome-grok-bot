@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1405-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1416-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,7 +37,7 @@
 
 [Full meetup notes](./EVENTS.md)
 
-- **China**（5）：[Shanghai](./EVENTS.md#sha-20261018) · [Hangzhou](./EVENTS.md#hzo-20260919) · [Beijing](./EVENTS.md#bj-20260919) · [Wuhan](./EVENTS.md#wuh-20261017) · [Zhuhai](./EVENTS.md#zuh-20260920)
+- **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Zhuhai](./EVENTS.md#zuh-20260920)
 - **United States**（10）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Dallas](./EVENTS.md#dal-20260919) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Los Angeles](./EVENTS.md#lad-20260922) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008)
 - **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
 - **Brazil**（3）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926)
@@ -58,13 +58,13 @@
 - **Bolivia**（1）：[Santa Cruz](./EVENTS.md#vvi-20260926)
 - **Georgia**（1）：[Tbilisi](./EVENTS.md#tbs-20260926)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
+- **India**（1）：[Rajkot](./EVENTS.md#raj-20260926)
 - **Japan**（1）：[Sapporo](./EVENTS.md#spk-20261002)
 - **Kyrgyzstan**（1）：[Bishkek](./EVENTS.md#fru-20261001)
 - **Cambodia**（1）：[Phnom Penh](./EVENTS.md#pnh-20261003)
 - **Kuwait**（1）：[Kuwait / Mubarak Al-Abdullah](./EVENTS.md#kwi-20260922)
 - **Morocco**（1）：[Casablanca](./EVENTS.md#cas-20260919)
 - **Myanmar**（1）：[Yangon](./EVENTS.md#ygn-20260926)
-- **Malaysia**（1）：[Kuala Lumpur](./EVENTS.md#kul-20260919)
 - **Netherlands**（1）：[Amsterdam](./EVENTS.md#ams-20260922)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
 - **El Salvador**（1）：[San Salvador](./EVENTS.md#sal-20260919)
@@ -258,6 +258,7 @@
 
 ## Field Cases
 
+- [my-working-party — Grok Bot work canvas](https://github.com/kaibairen/my-working-party) - Grok Bot work-canvas case: bilingual planning/status board exploring a Boundary Harness (guardrails without jailing intelligence) for delivery with cloud teammates.
 - [grokbot-jev-jobs — Jev triage + Grok Bot ATS apply](https://github.com/mcgalleg/grokbot-jev-jobs) - Public job-search app that triages postings with TypeSafe Jev, then webhooks a Grok Bot (Resume Rudy) to fill ATS forms and write status back via secret-gated APIs.
 - [Sprite Portal Grok Bot nursery UI](https://github.com/hkclaw/sprite-portal) - Localhost Vite dashboard that presents six branded Grok Bot sprites with desks, hopper items, and persona fields.
 - [getdasha.com lobby Worker (Grok Bot ship)](https://github.com/Uuriko/dasha-lobby) - Large Cloudflare Worker mirror of the live getdasha.com lobby/compute stack as shipped from a Grok Bot tree.
@@ -412,6 +413,9 @@
 
 ## Skills, Plugins & MCP
 
+- [Portals — Grok Build browser-games plugin](https://github.com/portals-labs/portals-plugin-grok) - Native Grok Build .grok-plugin for Portals.to: bundled portals-web-games MCP plus skills to build, manage, publish, and economy-tune browser games from the agent.
+- [PerkOS Floor — Grok Bot desk plugin](https://github.com/PerkOS-xyz/PerkOS-Grok-Plugin) - Grok Bot plugin for a PerkOS Floor desk: paste the Floor invite once, connect outbound over hosted MCP/WSS, and run desk-watch / desk-task skills so the Bot drafts waiting work without holding spend keys.
+- [LLM Pulse — Cursor / Grok Bot MCP plugin](https://github.com/LLM-Pulse/llm-pulse-plugin) - Official LLM Pulse Marketplace plugin for Cursor and Grok Bot: OAuth to the hosted MCP for brand visibility, citations, sentiment, and competitor prompts with no pasted API keys.
 - [Йа Криведко — Grok Bot marketplace adapter](https://github.com/ast-ashulga/as.krivedko.grokbot) - Thin Grok Bot Marketplace adapter for padonki/olbanian «Йа Криведко»: pinned orthography submodule, skill/SKILL.md, profile, fixtures, and share-as-template release checklist.
 - [Agora — Grok Bot career-fleet blueprints](https://github.com/LayishSieger/agora) - Versioned career-fleet blueprints and install telemetry for Grok Bot, with a thin public template (persona + create/steward skills) and per-box profile/resume SoT paths.
 - [SuperMe — official Cursor / Grok Build plugin manifests](https://github.com/superme-ai/superme-plugins) - Official SuperMe marketplace manifests for Cursor and Grok Build (.grok-plugin): OAuth to hosted mcp.superme.ai for multi-perspective work advice with no local server or pasted API keys.
@@ -848,6 +852,12 @@
 
 ## Open-Source Alternatives
 
+- [agentsfleet — prebuilt AI teammate fleets](https://github.com/agentsfleet/agentsfleet) - Open fleet runtime for prebuilt AI teammates on recurring engineering work (sandbox fleets, CLI, CI)—positioned for private Grok Bot–style teammate ops.
+- [Xora Code — open-source Grok Build desktop (Theia)](https://github.com/WhiteNightShadow/xora-code) - Open-source Grok Build desktop on Eclipse Theia + Electron + ACP: multi-session agents, diff review, Skills, MCP, and custom themes as a full IDE shell around the agent.
+- [PinkCode — desktop GUI for Grok Build](https://github.com/3xian/PinkCode) - Desktop GUI for Grok Build with a multi-session task board, live timeline, workspace browser, and permission modal so you can steer ACP sessions without living in the TUI.
+- [Grox — Tauri desktop workbench for Grok Build](https://github.com/dandandujie/Grox) - Tauri desktop workbench for xai-org/grok-build: pick a project or describe a task, then run resumable analyze/edit/tool/verify sessions with clear human approval handoffs.
+- [Pixel GrokBots — pixel office for Grok teammates](https://github.com/Davidgon8/pixel-grokbots) - Playable pixel office that maps Grok Bot teammates and Grok Build sessions onto a shared floor—walk, type, approval flags, and hook-shaped activity—openable as static HTML / GitHub Pages.
+- [Grokoo — macOS desktop companion for Grok Bot](https://github.com/bleakbelladonnals/Grokoo) - Native macOS 14+ companion for Grok Bot: up to six desktop characters show idle/work/think/wait/done, with optional Dock shortcuts into Bots and group chats.
 - [grok-code-headless — drive Grok Build CLI programmatically](https://github.com/Juliusolsson05/grok-code-headless) - Headless library to prepare, observe, and control the real Grok Build CLI/ACP (prompt acceptance, cancel, semantic turn events) the way other *-headless packages wrap Claude/Codex.
 - [OGG Switch — Grok Build + Oh My Pi control plane](https://github.com/akiteet/ogg-switch) - Tauri 2 desktop control plane that unifies Grok Build and Oh My Pi (OMP): 100+ provider catalog, OAuth/API-key presets, and OMP semantic roles with zero telemetry.
 - [Mail Agents openbot (GrokBot-shaped)](https://github.com/matjazonline/openbot) - Rust BYOK multi-agent platform with per-agent email, shared org memory, and tools—positioned as a GrokBot/Buzz-shaped alternative.
@@ -1300,6 +1310,7 @@
 
 ## Related Lists
 
+- [agf — fuzzy-find AI coding sessions (incl. Grok Build)](https://github.com/subinium/agf) - Local-first fuzzy finder (Rust) to search and resume AI coding-agent sessions across Claude Code, Codex, Grok Build, and peers—with TUI, JSON, and optional MCP.
 - [NetGoat PM board for Grok Bot agents](https://github.com/duckeydev/pm) - Next.js kanban that uses GitHub issues as the only queue so Grok Bot agents and humans share one status board.
 - [grokbot.se Swedish setup site](https://github.com/joakimengerstam/grokbot) - Astro static site for grokbot.se explaining how to set up Grok Bots as Cursor/xAI desktop assistants.
 - [GrokBots.se Swedish template studio](https://github.com/wizfrogmark/grokbots-se) - Independent Next.js studio of ready Grok Bot templates for Swedish companies with human-gate and never-do rules.
@@ -1515,7 +1526,7 @@
 
 ## Contributing
 
-1405 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1416 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
