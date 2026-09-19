@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1376-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1396-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,7 +37,7 @@
 
 [イベントの詳細](./EVENTS.ja.md)
 
-- **中国**（6）：[上海](./EVENTS.ja.md#sha-20261018) · [杭州](./EVENTS.ja.md#hzo-20260919) · [北京](./EVENTS.ja.md#bj-20260919) · [武漢](./EVENTS.ja.md#wuh-20261017) · [珠海](./EVENTS.ja.md#zuh-20260920) · [杭州](./EVENTS.ja.md#hzo-20260918)
+- **中国**（5）：[上海](./EVENTS.ja.md#sha-20261018) · [杭州](./EVENTS.ja.md#hzo-20260919) · [北京](./EVENTS.ja.md#bj-20260919) · [武漢](./EVENTS.ja.md#wuh-20261017) · [珠海](./EVENTS.ja.md#zuh-20260920)
 - **アメリカ**（10）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [ダラス](./EVENTS.ja.md#dal-20260919) · [マイアミ](./EVENTS.ja.md#mia-20260923) · [アトランタ](./EVENTS.ja.md#atl-20260924) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [ロサンゼルス](./EVENTS.ja.md#lad-20260922) · [シアトル](./EVENTS.ja.md#sea-20260924) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [グリーンビル](./EVENTS.ja.md#gsp-20261008)
 - **カナダ**（5）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [ビクトリア（BC）](./EVENTS.ja.md#vic-20260921) · [モントリオール](./EVENTS.ja.md#yul-20260926) · [トロント](./EVENTS.ja.md#yyz-20261026) · [オタワ](./EVENTS.ja.md#yow-20261010)
 - **ブラジル**（3）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [フロリアノポリス](./EVENTS.ja.md#fln-20260926)
@@ -182,6 +182,7 @@
 - [Grok Bot use cases (Cursor Docs)](https://cursor.com/docs/grok-bot/use-cases) - 公式 Cursor Docs。Bot 向きの役割、スタータープロンプト、つなぐツール、一度きりの仕事を持続するチームメイトにする方法。
 - [Work with Grok Bot (Cursor Docs)](https://cursor.com/docs/grok-bot/work) - 公式 Cursor Docs。日常の Bot 作業ハブ：作成／管理、メッセージと共同作業、共有クラウド PC、skills／routines での自動化（docs.x.ai に /work 相当なし）。
 - [@bot: Grok Bot can talk now (Voice)](https://x.com/bot/status/2100659463569170779) - 公式 @bot（2026-09-17 ~18:53 UTC / 9月18日ごろ 02:53 Asia/Shanghai）：Grok Bot が話せるようになった。Voice は数日中にデスクトップとモバイルへ順次展開（投稿内デモ動画；続報 https://x.com/bot/status/2100659464781394222）。試すなら x.ai/bot（専用 docs/help/voice は未掲載）。
+- [@bot: Grok Bot can now send you voice notes](https://x.com/bot/status/2101014478255247544) - 公式 @bot（2026-09-18 ~18:24 UTC / 9月19日 ~02:24 上海）：Grok Bot がボイスノートを送れるように（続報 CTA https://x.com/bot/status/2101014479299617188）。先のライブ Voice 通話ロールアウトとは別機能。x.ai/bot で試せます（専用 docs/news は未掲載）。
 
 ## チュートリアルとガイド
 
@@ -250,6 +251,8 @@
 - [Grok Build Agents — team course](https://github.com/Practical-Office/grok-build-agents) - 非エンジニア向けチーム講座とサイト。Grok Build 導入、Plan Mode、AGENT 枠組み、再利用 skills を解説。
 - [Grok Build Agent transport modes (CN report)](https://github.com/TianwenWei/Grok-Build-Agent-Transports) - 中国語の調査ノート。Grok Build の ACP 伝送（stdio / ローカル WebSocket serve / relay）と、ローカル HTTP を使わない理由。
 - [Grok Bot lesson materials (RU cheatsheet)](https://github.com/gomymy64/grokbot-cheatsheet) - ロシア語の対話型 HTML 教材／チートシート。Grok Bot ワークショップ（Мастодонт）用、フォントと教材付き。
+- [Build Grok Build CLI on Intel macOS](https://github.com/knightc2020/grok-build-intel-macos) - 再現可能なバイリンガル案内とスクリプト。Intel Mac で公式 Grok Build CLI をビルドし verify.sh 付き。
+- [BuildCompany — start a company with AI bots](https://github.com/Meisburg/BuildCompany) - Grok Bot Galaxy 配信から抽出したポータブル起步キット。まず1体の bootstrap bot を作り、AI 会社チームを設計。
 
 ## 実地事例
 
@@ -401,6 +404,8 @@
 - [TemplatesGrokBot — 3,000+ Grok Bot templates](https://github.com/templatesgrokbot/templatesgrokbot.com) - 3,000 超の既製 Grok Bot テンプレート公開カタログ。職種別閲覧・MCP 導入・新規 Bot へ貼り付け可能。
 - [Last Night of Aetheria — Grok Bot version](https://github.com/windfaller/last-night-of-aetheria-grok-bot) - Grok Bot プロジェクトとして作られたブラウザ幻想都市脱出の垂直スライス。GitHub Pages で遊べる。
 - [Kiwi Chat — watch two Grok bots message each other](https://github.com/vishnusat2007-wq/kiwi-chat) - ライブメッセンジャーデモ。2 台の Grok bot が Bearer HTTP API で会話し、人間は観戦（MCP 仲介ではない）。
+- [Scam Shield — Grok Bot that catches scams](https://github.com/LarryLemonBot/scam-shield) - xAI Grok Bot Sharing Challenge 作品。フィッシングや詐欺パターンを事前に見抜く Grok Bot テンプレートとデモ。
+- [Gravity Birds — Godot puzzle built by Grok Bot team](https://github.com/az9713/grokbot-gravity-bird) - オリジナル Godot 重力パズル。Grok Bot チームが Cursor Cloud Agent（Origin）で計画・操縦し、公開の開発ジャーニー付き。
 
 ## スキル、プラグインと MCP
 
@@ -810,6 +815,14 @@
 - [n8n Master — Grok Bot control-plane plugin](https://github.com/shagghiesuperstar/n8n-master-grok-bot) - 公式優先の .grok-plugin。Grok Bot が n8n ドキュメントを読み、接続後 HTTPS でインスタンス操作。
 - [Cold Outbound — Grok Bot GTM skill library](https://github.com/timyakubson/cold-outbound-grokbot-repo) - 段階式 Grok Bot / Codex スキル集。ツール接続→TAM→文案→マルチチャネルのコールドアウトバウンド GTM。
 - [Fastmail JMAP push → Grok Bot webhook bridge](https://github.com/vezaynk/fastmail-jmap-push-bridge) - Cloudflare Worker。Fastmail JMAP Web Push を復号し、絞ったメール事象を Grok Bot webhook へ転送。
+- [Helena — official Cursor / Grok Bot marketing plugin](https://github.com/EnrichLabsAI/helena-cursor-plugin) - Enrich Labs 公式 Helena マーケティングプラグイン。Cursor / Grok Bot 向け、OAuth でブランド連携しホスト型 MCP で調査・企画・制作・納品。
+- [Agent Skills — Grok Build engineering pack](https://github.com/g-tavares14/grok-agent-skills) - .grok-plugin 付き Grok Build プラグイン。addyosmani/agent-skills を /agent-skills:* 名前空間コマンドとして TypeScript/Python 工程に投入。
+- [AgentiSend — email MCP plugin for Grok Build](https://github.com/fortuneflick/agentisend-claude-plugin) - ホスト型 AgentiSend MCP と SKILL.md / .grok-plugin。Grok Build（および Cursor/Claude）が予算・事前検査・人手承認付きで実メール送信。
+- [Pingram — Cursor / Grok Bot email & SMS plugin](https://github.com/pingram-io/cursor-plugin) - Pingram 公式 Cursor / Grok Bot マーケットプレイスプラグイン。地域別ホスト MCP（US/CA/EU）とメール・SMS・音声・webhook skills。
+- [USMail.ai — Cursor / Grok Bot MCP plugin](https://github.com/Postalocity/usmail-cursor-plugin) - USMail.ai の Cursor/Grok Bot プラグイン。ブランド付き Marketplace カード、lab/prod MCP、許可・承認付き郵便 skills。
+- [DataBye Grok — Spain RGPD opt-out skill](https://github.com/686f6c61/DataBye) - スペイン向け Grok Bot の RGPD スキルパック（SKILL.md + ウィザード + roster）。Gmail/Outlook OAuth でアクセス・異議・削除メールを案内。
+- [tmapi-1688-mcp — 1688.com tools for Grok Bot](https://github.com/GalacticDeluge/tmapi-1688-mcp) - stdio MCP。Grok Bot が TMAPI 経由で 1688 の商品・工場・レビュー・送料を検索し、ディスク上 SQLite キャッシュ付き。
+- [search-boost — multi-engine search MCP for Grok Build](https://github.com/Mr-remon219/search-boost) - マルチエンジン Web 検索 MCP（Bing/DDG/Yahoo/Exa＋有料 API）。CLI 一発で Cursor / Codex / Claude Code / Grok Build に接続。
 
 ## レビューと比較
 
@@ -1095,6 +1108,10 @@
 - [grok-bot-fifo — work queue for Grok Bot fleets](https://github.com/bradmb/grok-bot-fifo) - Cloudflare Worker + D1 の FIFO 作業キューと CLI。複数 Grok Bot でジョブ共有し、停滞検知 webhook 付き。
 - [Snap — Mac screenshot paste into Grok Bot](https://github.com/c-staton/snap) - Mac 用ユーティリティ。スクショを撮って Grok Bot の入力欄へ貼り付け（送信はしない）。アクセシビリティ権限が必要。
 - [Codeg — multi-agent workspace incl. Grok Build](https://github.com/nobug-project/codeg) - 協調マルチエージェント作業空間。Claude Code / Codex / OpenCode / Grok Build のセッションを集約。
+- [grokbot-client — unofficial Grok Bot API client](https://github.com/Kenzim/grokbot-client) - 非公式の非同期 Python クライアント。Grok Bot クラウド agent バックエンド（aiserver.v1 / Connect-RPC）向け、テストとツール付き。
+- [grok-web — browser UI for Grok Bot agents](https://github.com/Kenzim/grok-web) - grokbot-client 上の FastAPI BFF + Vite SPA。ブラウザから Grok Bot クラウド agent を操作し、Cursor トークンはホストに残す。
+- [jev-routing — Go Jev harness for Grok Build](https://github.com/nekowasabi/jev-routing) - Claude Code / Codex / Grok Build 向け単一 Go バイナリの Jev ハーネス。tool 結果を圧縮し次手を Jev に聞く。npx 不要・MCP ではない。
+- [pilotfish-grok — multi-model orchestration for Grok Build](https://github.com/Nanako0129/pilotfish-grok) - pilotfish 系オーケストレーションの Grok Build 移植（~/.grok/）。役割横断の承認ゲートと新鮮コンテキスト検証。
 
 ## コミュニティと障害事例
 
@@ -1269,6 +1286,8 @@
 - [Parent Bot goes quiet after Cloud Agent handoff (staff)](https://forum.cursor.com/t/grok-bot-delegated-cloud-agents-are-running-but-parent-bot-appears-idle/172009) - Staff（Colin、2026-09-17）：Grok Bot が Cursor Cloud Agent に仕事を渡すと、親チャットは子が終わるまで静か（完了で自動起床）——今は想定動作でハングではない。cursor.com/agents や Cursor デスクトップで進捗を見るか、親に agent card を付けさせて Running/Done をインライン表示。親側の進行中表示は改善予定。
 - [iOS Settings scroll can flip Auto-review — scroll on the label (staff)](https://forum.cursor.com/t/grok-bot-mobile-settings-scroll-activates-toggles-can-disable-agent-guards/172015) - Staff（kevinn、2026-09-17）：Grok Bot iOS の Settings で、スイッチ上からスクロールを始めるとトグルが切り替わることがある（再現済み・追跡中）。保護用は Auto-review（「Agent guards」というスイッチはない）。当面は行のテキスト側からスクロールし、スイッチ自体から始めない。
 - [172033 Sidebar sections: desktop New Section + no agent create tool](https://forum.cursor.com/t/grok-bot-agent-tools-to-create-and-manage-sidebar-sections-parity-with-createchannel/172033) - スタッフ kevinn：エージェントはセクション一覧と CreateAgent での配置はできるが、作成/改名/削除/移動ツールは未実装。デスクトップは右クリック Move to → New Section（モバイルは長押し）。
+- [iOS 1.11.1+ Voice icon is a gradual account rollout (staff)](https://forum.cursor.com/t/grok-bot-ios-1-11-1-voice-call-icon-missing-after-update/172292) - Staff（kevinn、2026-09-18）：iOS 1.11.1 でボイス/通話アイコンが無いのは端末不具合ではなく、1.11.1+ 向けのアカウント段階ロールアウト。再インストールやサインアウトでは早まりません。デスクトップ Voice は利用可。ボタンが出るまでスマホの入力欄ディクテーションは使えます。
+- [No delete/redact of sent messages — use secure input for secrets (staff)](https://forum.cursor.com/t/redact-own-messages-secrets/172071) - Staff（kevinn、2026-09-17）：送信済みメッセージの削除/秘匿は不可（送信失敗のみ Delete あり）。貼ってしまった秘密はプロバイダ側でローテート。ボットに資格情報を要求させ、マスク付きセキュア入力カードで保存すると、会話ログにもモデル文脈にも残りません。
 
 ## 関連リスト
 
@@ -1483,10 +1502,11 @@
 - [grok-build-nix — Nix flake for Grok Build CLI](https://github.com/gesop0n/grok-build-nix) - Nix flake。公式 xAI GitHub Release の Grok Build CLI バイナリを再現可能に導入。
 - [jev-routing-go — Go Jev harness for Grok Build](https://github.com/nekowasabi/jev-routing-go) - 単一 Go バイナリの Jev ハーネス。Claude Code / Codex / Grok Build 向け、npx 不要（MCP ではない）。
 - [HarnessTrajectory — local viewer incl. Grok Build sessions](https://github.com/Demogorgon314/HarnessTrajectory) - ローカル軌跡ビューア。Grok Build / Claude Code / Codex などのコーディングエージェント筆録を表示。
+- [Grok Bot Galaxy Day 3 — bilingual session notes](https://github.com/HiEllenC/grokbot-galaxy-day3) - Ellen による Grok Bot Galaxy Day 3 の英中バイリンガル PDF ノート。Day 2 の GitHub Pages 記録へのリンク付き。
 
 ## 貢献
 
-8 セクションに 1376 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1396 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -24,9 +24,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="zuh-20260920"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zhuhai-meetup-sep-20"><img src="./assets/events/zuh-20260920-cover.png" alt="Grok Bot Zhuhai Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Zhuhai Meetup</strong><br />Sun 20 Sep 2026, 15:00–17:00 (Asia/Hong_Kong / HKT, UTC+8)<br />Zhuhai · Skyline Incubator, 25/F Xinghui Center, No. 33 Kuajing 2nd Road, Xiangzhou<br /><br />SpaceXAI for Macau community Grok Bot meetup at Skyline Incubator (host John Ku). Casual hangout — explore Grok Bot, share AI projects, meet collaborators; not a lecture/workshop. Free; limited spots; guest_count 1 at scan. Bilingual EN/ZH body.<br /><br /><a href="https://luma.com/spacexai-zhuhai-meetup-sep-20"><strong>Register on Luma → →</strong></a></td></tr></table>
 
-<a id="hzo-20260918"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/wpzawz6x"><img src="./assets/events/hzo-20260918-cover.png" alt="Grok Bot build night Hangzhou" width="300" /></a></td><td valign="top"><strong>Grok Bot build night Hangzhou</strong><br />Fri 18 Sep 2026, 19:00–22:00 (Asia/Shanghai, UTC+8)<br />Hangzhou, China — offline (exact venue obfuscated on Luma / shared after RSVP)<br /><br />Hangzhou Grok Bot build night (host SpaceXAI Ambassador Mai Yang / MaiYangAI), distinct from catalogued meetup hzo-20260919 the next day. Agenda ~19:00–22:00: doors, overview, ambassador demos, Q&A, build time with free credits, attendee demos. Free RSVP with approval (spots_remaining 20). Discover slug wpzawz6x (evt-Ddgc0s4hRI3tnFb); personal calendar; not on Hangzhou community cal yet; no forum New-event post.<br /><br /><a href="https://luma.com/wpzawz6x"><strong>Register on Luma → →</strong></a></td></tr></table>
-
 <a id="country-us"></a>
 ### United States
 

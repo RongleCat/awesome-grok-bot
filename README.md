@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1376-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1396-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,7 +37,7 @@
 
 [Full meetup notes](./EVENTS.md)
 
-- **China**（6）：[Shanghai](./EVENTS.md#sha-20261018) · [Hangzhou](./EVENTS.md#hzo-20260919) · [Beijing](./EVENTS.md#bj-20260919) · [Wuhan](./EVENTS.md#wuh-20261017) · [Zhuhai](./EVENTS.md#zuh-20260920) · [Hangzhou](./EVENTS.md#hzo-20260918)
+- **China**（5）：[Shanghai](./EVENTS.md#sha-20261018) · [Hangzhou](./EVENTS.md#hzo-20260919) · [Beijing](./EVENTS.md#bj-20260919) · [Wuhan](./EVENTS.md#wuh-20261017) · [Zhuhai](./EVENTS.md#zuh-20260920)
 - **United States**（10）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Dallas](./EVENTS.md#dal-20260919) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Los Angeles](./EVENTS.md#lad-20260922) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008)
 - **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
 - **Brazil**（3）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926)
@@ -182,6 +182,7 @@
 - [Grok Bot use cases (Cursor Docs)](https://cursor.com/docs/grok-bot/use-cases) - Official Cursor Docs: roles that work well as Bots, with starter prompts, tools to connect, and how to turn a one-off task into a durable teammate.
 - [Work with Grok Bot (Cursor Docs)](https://cursor.com/docs/grok-bot/work) - Official Cursor Docs hub for day-to-day Bot work: create/manage Bots, message and collaborate, use the shared cloud computer, and automate with skills and routines (no docs.x.ai /work equivalent).
 - [@bot: Grok Bot can talk now (Voice)](https://x.com/bot/status/2100659463569170779) - Official @bot (2026-09-17 ~18:53 UTC / Sep 18 ~02:53 Asia/Shanghai): Grok Bot can talk now—Voice is rolling out on desktop and mobile over the next couple of days (demo video in post; follow-up https://x.com/bot/status/2100659464781394222); download via x.ai/bot (no dedicated docs/help/voice page yet).
+- [@bot: Grok Bot can now send you voice notes](https://x.com/bot/status/2101014478255247544) - Official @bot (2026-09-18 ~18:24 UTC / Sep 19 ~02:24 Asia/Shanghai): Grok Bot can now send you voice notes (follow-up CTA https://x.com/bot/status/2101014479299617188); distinct from the earlier live Voice talk rollout—try from x.ai/bot (no dedicated docs/news page yet).
 
 ## Tutorials & Guides
 
@@ -250,6 +251,8 @@
 - [Grok Build Agents — team course](https://github.com/Practical-Office/grok-build-agents) - Non-engineer-friendly team course and live site for installing Grok Build, Plan Mode, the AGENT framework and reusable skills.
 - [Grok Build Agent transport modes (CN report)](https://github.com/TianwenWei/Grok-Build-Agent-Transports) - Chinese research note on Grok Build ACP transports (stdio, local WebSocket serve, relay) and why local HTTP is not used.
 - [Grok Bot lesson materials (RU cheatsheet)](https://github.com/gomymy64/grokbot-cheatsheet) - Russian interactive HTML lesson pack / cheatsheet for a Grok Bot workshop (Мастодонт), with fonts and lesson assets.
+- [Build Grok Build CLI on Intel macOS](https://github.com/knightc2020/grok-build-intel-macos) - Reproducible bilingual community guide and helper scripts for building the official Grok Build CLI on Intel Macs, with verify.sh.
+- [BuildCompany — start a company with AI bots](https://github.com/Meisburg/BuildCompany) - Portable starter kit distilled from the Grok Bot Galaxy livestream: bootstrap one bot, then design the rest of an AI company team.
 
 ## Field Cases
 
@@ -401,6 +404,8 @@
 - [TemplatesGrokBot — 3,000+ Grok Bot templates](https://github.com/templatesgrokbot/templatesgrokbot.com) - Open catalog of 3,000+ ready-made Grok Bot templates with job browse, MCP install and a website to paste into new bots.
 - [Last Night of Aetheria — Grok Bot version](https://github.com/windfaller/last-night-of-aetheria-grok-bot) - Browser vertical-slice fantasy city escape game built as a Grok Bot project, playable on GitHub Pages.
 - [Kiwi Chat — watch two Grok bots message each other](https://github.com/vishnusat2007-wq/kiwi-chat) - Live messenger demo where two Grok bots talk over a bearer-token HTTP API while humans spectate (not an MCP broker).
+- [Scam Shield — Grok Bot that catches scams](https://github.com/LarryLemonBot/scam-shield) - xAI Grok Bot Sharing Challenge entry: a Grok Bot template plus demo that flags phishing and scam patterns before users get caught.
+- [Gravity Birds — Godot puzzle built by Grok Bot team](https://github.com/az9713/grokbot-gravity-bird) - Original Godot gravity-puzzle game planned and steered by a Grok Bot team via Cursor Cloud Agent on Origin, with a public dev-journey page.
 
 ## Skills, Plugins & MCP
 
@@ -810,6 +815,14 @@
 - [n8n Master — Grok Bot control-plane plugin](https://github.com/shagghiesuperstar/n8n-master-grok-bot) - Official-first .grok-plugin so a Grok Bot can read live n8n docs and talk to your n8n instance over HTTPS after connect.
 - [Cold Outbound — Grok Bot GTM skill library](https://github.com/timyakubson/cold-outbound-grokbot-repo) - Staged Grok Bot / Codex skill library for building a cold-outbound GTM system (tools → TAM → copy → multi-channel).
 - [Fastmail JMAP push → Grok Bot webhook bridge](https://github.com/vezaynk/fastmail-jmap-push-bridge) - Cloudflare Worker that decrypts Fastmail JMAP Web Push and forwards filtered mail events to a Grok Bot webhook.
+- [Helena — official Cursor / Grok Bot marketing plugin](https://github.com/EnrichLabsAI/helena-cursor-plugin) - Official Helena by Enrich Labs marketplace plugin for Cursor and Grok Bot: OAuth to a brand, then research, plan, create, and ship marketing work via hosted MCP.
+- [Agent Skills — Grok Build engineering pack](https://github.com/g-tavares14/grok-agent-skills) - Grok Build plugin (.grok-plugin) that ports addyosmani/agent-skills into namespaced /agent-skills:* commands for TypeScript and Python workflows.
+- [AgentiSend — email MCP plugin for Grok Build](https://github.com/fortuneflick/agentisend-claude-plugin) - Hosted AgentiSend MCP plus SKILL.md and .grok-plugin so Grok Build (and Cursor/Claude) can send real mail with budgets, preflight gates, and human approval.
+- [Pingram — Cursor / Grok Bot email & SMS plugin](https://github.com/pingram-io/cursor-plugin) - Official Pingram marketplace plugin for Cursor and Grok Bot with regional hosted MCP (US/CA/EU) plus skills for email, SMS, voice, and webhooks.
+- [USMail.ai — Cursor / Grok Bot MCP plugin](https://github.com/Postalocity/usmail-cursor-plugin) - USMail.ai Cursor/Grok Bot plugin pack with branded marketplace card, lab+prod MCP connectors, and grant/approve mail skills.
+- [DataBye Grok — Spain RGPD opt-out skill](https://github.com/686f6c61/DataBye) - Spain-only RGPD skill pack for Grok Bot (SKILL.md + wizard + roster) that guides access/objection/erasure emails via Gmail or Outlook OAuth.
+- [tmapi-1688-mcp — 1688.com tools for Grok Bot](https://github.com/GalacticDeluge/tmapi-1688-mcp) - Stdio MCP server so Grok Bot can search 1688.com products, factories, reviews, and shipping via TMAPI with on-disk SQLite caching.
+- [search-boost — multi-engine search MCP for Grok Build](https://github.com/Mr-remon219/search-boost) - Multi-engine web search MCP (Bing/DDG/Yahoo/Exa + keyed APIs) with one CLI setup for Cursor, Codex, Claude Code, and Grok Build.
 
 ## Reviews & Comparisons
 
@@ -1095,6 +1108,10 @@
 - [grok-bot-fifo — work queue for Grok Bot fleets](https://github.com/bradmb/grok-bot-fifo) - Cloudflare Worker + D1 FIFO work queue and CLI so a fleet of Grok Bot agents can share jobs and stall-aware webhooks.
 - [Snap — Mac screenshot paste into Grok Bot](https://github.com/c-staton/snap) - Mac utility that captures a screenshot and pastes it into the Grok Bot chat box without sending (Accessibility-powered).
 - [Codeg — multi-agent workspace incl. Grok Build](https://github.com/nobug-project/codeg) - Collaborative multi-agent coding workspace that aggregates sessions from Claude Code, Codex, OpenCode and Grok Build.
+- [grokbot-client — unofficial Grok Bot API client](https://github.com/Kenzim/grokbot-client) - Unofficial async Python client for the Grok Bot cloud-agent backend (aiserver.v1 / Connect-RPC) with tests and tooling.
+- [grok-web — browser UI for Grok Bot agents](https://github.com/Kenzim/grok-web) - FastAPI BFF + Vite SPA browser UI over grokbot-client so you can drive Grok Bot cloud agents while Cursor tokens stay on the host.
+- [jev-routing — Go Jev harness for Grok Build](https://github.com/nekowasabi/jev-routing) - Single Go binary Jev harness for Claude Code, Codex, and Grok Build that compacts tool results and asks Jev for the next tool—no npx, not an MCP server.
+- [pilotfish-grok — multi-model orchestration for Grok Build](https://github.com/Nanako0129/pilotfish-grok) - pilotfish-family orchestration ported to Grok Build under ~/.grok/, with approval gates and fresh-context verification across roles.
 
 ## Community & Failure Modes
 
@@ -1269,6 +1286,8 @@
 - [Parent Bot goes quiet after Cloud Agent handoff (staff)](https://forum.cursor.com/t/grok-bot-delegated-cloud-agents-are-running-but-parent-bot-appears-idle/172009) - Staff (Colin, 2026-09-17): When a Grok Bot hands work to a Cursor Cloud Agent the parent chat goes quiet until that agent finishes (auto-wakes then)—expected today, not a hang. Watch live status at cursor.com/agents or Cursor desktop, or ask the parent to attach the agent card for Running/Done inline; in-flight visibility in the parent chat is being improved.
 - [iOS Settings scroll can flip Auto-review — scroll on the label (staff)](https://forum.cursor.com/t/grok-bot-mobile-settings-scroll-activates-toggles-can-disable-agent-guards/172015) - Staff (kevinn, 2026-09-17): On Grok Bot iOS Settings, a scroll that starts on a switch can flip it (reproduced; tracking). The protective control is Auto-review (not labeled “Agent guards”). Workaround until fixed: start the scroll on the row text, not on the switch itself.
 - [172033 Sidebar sections: desktop New Section + no agent create tool](https://forum.cursor.com/t/grok-bot-agent-tools-to-create-and-manage-sidebar-sections-parity-with-createchannel/172033) - Staff (kevinn): agents can list sections and CreateAgent can place into one, but there is no tool to create/rename/delete/move sections — on desktop right-click Move to → New Section (mobile long-press).
+- [iOS 1.11.1+ Voice icon is a gradual account rollout (staff)](https://forum.cursor.com/t/grok-bot-ios-1-11-1-voice-call-icon-missing-after-update/172292) - Staff (kevinn, 2026-09-18): Missing voice/call icon on Grok Bot iOS 1.11.1 is not a device bug—Voice chat is rolling out gradually to accounts on 1.11.1+; reinstall/sign-out will not speed it up. Desktop Voice stays available; phone composer dictation mic still works until the button appears.
+- [No delete/redact of sent messages — use secure input for secrets (staff)](https://forum.cursor.com/t/redact-own-messages-secrets/172071) - Staff (kevinn, 2026-09-17): Grok Bot cannot delete or redact a sent message (only failed-to-send messages have Delete)—rotate any pasted secret on the provider. Prefer asking the bot to request the credential: it shows a masked secure input card, stores the value as a bot secret, and keeps it out of the transcript and model context.
 
 ## Related Lists
 
@@ -1483,10 +1502,11 @@
 - [grok-build-nix — Nix flake for Grok Build CLI](https://github.com/gesop0n/grok-build-nix) - Nix flake overlay that reproducibly installs pre-built Grok Build CLI binaries from official xAI GitHub releases.
 - [jev-routing-go — Go Jev harness for Grok Build](https://github.com/nekowasabi/jev-routing-go) - Single Go binary Jev harness for Claude Code, Codex and Grok Build without npx (not an MCP server).
 - [HarnessTrajectory — local viewer incl. Grok Build sessions](https://github.com/Demogorgon314/HarnessTrajectory) - Local trajectory viewer for coding-agent transcripts including Grok Build, Claude Code, Codex and peers.
+- [Grok Bot Galaxy Day 3 — bilingual session notes](https://github.com/HiEllenC/grokbot-galaxy-day3) - Bilingual (EN/CN) PDF session notes from Grok Bot Galaxy Day 3 by Ellen, with a companion Day 2 GitHub Pages write-up.
 
 ## Contributing
 
-1376 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1396 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

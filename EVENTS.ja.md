@@ -24,9 +24,6 @@
 <a id="zuh-20260920"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zhuhai-meetup-sep-20"><img src="./assets/events/zuh-20260920-cover.png" alt="Grok Bot 珠海ミートアップ" width="300" /></a></td><td valign="top"><strong>Grok Bot 珠海ミートアップ</strong><br />2026-09-20（日）15:00–17:00（Asia/Hong_Kong、HKT、UTC+8）<br />珠海 · Skyline Incubator（星匯創孵中心）、香洲区跨境二路33号 星匯中心25階<br /><br />SpaceXAI for Macau コミュニティの珠海 Grok Bot ミートアップ（主催 John Ku / Skyline Incubator）。講義でもワークショップでもなく、Grok Bot の使い方や AI プロジェクトを気軽に共有。無料・人数限定・スキャン時 1 名。日英中の案内あり。<br /><br /><a href="https://luma.com/spacexai-zhuhai-meetup-sep-20"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
-<a id="hzo-20260918"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/wpzawz6x"><img src="./assets/events/hzo-20260918-cover.png" alt="Grok Bot 杭州ビルドナイト" width="300" /></a></td><td valign="top"><strong>Grok Bot 杭州ビルドナイト</strong><br />2026-09-18（金） 19:00–22:00（Asia/Shanghai、UTC+8）<br />中国・杭州（オフライン；Luma 上は秘匿、RSVP 後に案内）<br /><br />杭州 Grok Bot ビルドナイト（SpaceXAI Ambassador Mai Yang）。翌日の hzo-20260919 とは別。約 19:00–22:00：紹介・デモ・Q&A・ビルド・クレジット。無料・承認制（残 20）。新 slug wpzawz6x；フォーラム投稿なし。<br /><br /><a href="https://luma.com/wpzawz6x"><strong>Luma で登録 → →</strong></a></td></tr></table>
-
 <a id="country-us"></a>
 ### アメリカ
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1376-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1396-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,7 +37,7 @@
 
 [全部活动介绍](./EVENTS.zh.md)
 
-- **中国**（6）：[上海](./EVENTS.zh.md#sha-20261018) · [杭州](./EVENTS.zh.md#hzo-20260919) · [北京](./EVENTS.zh.md#bj-20260919) · [武汉](./EVENTS.zh.md#wuh-20261017) · [珠海](./EVENTS.zh.md#zuh-20260920) · [杭州](./EVENTS.zh.md#hzo-20260918)
+- **中国**（5）：[上海](./EVENTS.zh.md#sha-20261018) · [杭州](./EVENTS.zh.md#hzo-20260919) · [北京](./EVENTS.zh.md#bj-20260919) · [武汉](./EVENTS.zh.md#wuh-20261017) · [珠海](./EVENTS.zh.md#zuh-20260920)
 - **美国**（10）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [达拉斯](./EVENTS.zh.md#dal-20260919) · [迈阿密](./EVENTS.zh.md#mia-20260923) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929) · [洛杉矶](./EVENTS.zh.md#lad-20260922) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008)
 - **加拿大**（5）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
 - **巴西**（3）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20260926)
@@ -182,6 +182,7 @@
 - [Grok Bot use cases (Cursor Docs)](https://cursor.com/docs/grok-bot/use-cases) - 官方 Cursor Docs：适合做成 Bot 的角色，含起步提示词、要连接的工具，以及如何把一次性任务变成长期队友。.
 - [Work with Grok Bot (Cursor Docs)](https://cursor.com/docs/grok-bot/work) - 官方 Cursor Docs：日常与 Bot 协作总览——创建/管理 Bot、消息与协作、共用云电脑，以及用 skills/routines 自动化（docs.x.ai 无对应 /work 页）。.
 - [@bot: Grok Bot can talk now (Voice)](https://x.com/bot/status/2100659463569170779) - 官方 @bot（2026-09-17 ~18:53 UTC / 9月18日约 02:53 Asia/Shanghai）：Grok Bot 现已能语音对话——Voice 将在未来几天陆续上线桌面端与移动端（帖内演示视频；跟帖 https://x.com/bot/status/2100659464781394222）；入口 x.ai/bot（暂无独立 docs/help/voice 页）。.
+- [@bot: Grok Bot can now send you voice notes](https://x.com/bot/status/2101014478255247544) - 官方 @bot（2026-09-18 ~18:24 UTC / 9月19日 ~02:24 上海）：Grok Bot 现在可以给你发语音条（跟帖 CTA https://x.com/bot/status/2101014479299617188）；有别于此前的实时 Voice 通话 rollout——请从 x.ai/bot 试用（尚无独立 docs/news 页）。.
 
 ## 教程与上手指南
 
@@ -250,6 +251,8 @@
 - [Grok Build Agents — team course](https://github.com/Practical-Office/grok-build-agents) - 面向非工程师的团队课程与站点：安装 Grok Build、Plan Mode、AGENT 框架与可复用 skills。.
 - [Grok Build Agent transport modes (CN report)](https://github.com/TianwenWei/Grok-Build-Agent-Transports) - 中文研究报告：Grok Build 三种 ACP 接入（stdio / 本机 WebSocket serve / relay）及本机为何不用 HTTP。.
 - [Grok Bot lesson materials (RU cheatsheet)](https://github.com/gomymy64/grokbot-cheatsheet) - 俄语交互式 HTML 课件/速查表，用于 Grok Bot 工作坊（Мастодонт），含字体与课程素材。.
+- [Build Grok Build CLI on Intel macOS](https://github.com/knightc2020/grok-build-intel-macos) - 可复现的中英双语社区指南与脚本：在 Intel Mac 上编译官方 Grok Build CLI，含 verify.sh。.
+- [BuildCompany — start a company with AI bots](https://github.com/Meisburg/BuildCompany) - 从 Grok Bot Galaxy 直播提炼的便携起步包：先养一个 bootstrap bot，再设计整支 AI 公司团队。.
 
 ## 真实使用案例
 
@@ -401,6 +404,8 @@
 - [TemplatesGrokBot — 3,000+ Grok Bot templates](https://github.com/templatesgrokbot/templatesgrokbot.com) - 3000+ 现成 Grok Bot 模板开源目录，可按岗位浏览、经 MCP 安装，或复制到新 Bot。.
 - [Last Night of Aetheria — Grok Bot version](https://github.com/windfaller/last-night-of-aetheria-grok-bot) - 用 Grok Bot 做出的浏览器幻想城逃亡垂直切片，可在 GitHub Pages 游玩。.
 - [Kiwi Chat — watch two Grok bots message each other](https://github.com/vishnusat2007-wq/kiwi-chat) - 直播信使演示：两台 Grok bot 经 Bearer HTTP API 互聊，人类旁观（非 MCP 经纪）。.
+- [Scam Shield — Grok Bot that catches scams](https://github.com/LarryLemonBot/scam-shield) - xAI Grok Bot Sharing Challenge 作品：Bot 模板与演示，在用户中招前识别钓鱼/诈骗模式。.
+- [Gravity Birds — Godot puzzle built by Grok Bot team](https://github.com/az9713/grokbot-gravity-bird) - 原创 Godot 重力解谜：由 Grok Bot 团队经 Cursor Cloud Agent（Origin）规划与驾驭，并附公开开发旅程页。.
 
 ## 技能、插件与 MCP
 
@@ -810,6 +815,14 @@
 - [n8n Master — Grok Bot control-plane plugin](https://github.com/shagghiesuperstar/n8n-master-grok-bot) - 官方优先的 .grok-plugin：让 Grok Bot 读实时 n8n 文档，连接后经 HTTPS 操控你的 n8n 实例。.
 - [Cold Outbound — Grok Bot GTM skill library](https://github.com/timyakubson/cold-outbound-grokbot-repo) - 分阶段 Grok Bot / Codex 技能库：从工具接入、TAM、文案到多渠道冷外联 GTM。.
 - [Fastmail JMAP push → Grok Bot webhook bridge](https://github.com/vezaynk/fastmail-jmap-push-bridge) - Cloudflare Worker：解密 Fastmail JMAP Web Push，把过滤后的邮件事件转到 Grok Bot webhook。.
+- [Helena — official Cursor / Grok Bot marketing plugin](https://github.com/EnrichLabsAI/helena-cursor-plugin) - Enrich Labs 官方 Helena 营销插件，面向 Cursor 与 Grok Bot：OAuth 绑定品牌后，经托管 MCP 做调研、策划、创作与交付。.
+- [Agent Skills — Grok Build engineering pack](https://github.com/g-tavares14/grok-agent-skills) - 带 .grok-plugin 的 Grok Build 插件：把 addyosmani/agent-skills 做成带命名空间的 /agent-skills:* 命令，覆盖 TypeScript/Python 工程流。.
+- [AgentiSend — email MCP plugin for Grok Build](https://github.com/fortuneflick/agentisend-claude-plugin) - 托管 AgentiSend MCP，附 SKILL.md 与 .grok-plugin：让 Grok Build（及 Cursor/Claude）在预算、预检与人工审批下发送真实邮件。.
+- [Pingram — Cursor / Grok Bot email & SMS plugin](https://github.com/pingram-io/cursor-plugin) - Pingram 官方 Cursor / Grok Bot 市场插件：分区托管 MCP（美/加/欧）加邮件、短信、语音与 webhook skills。.
+- [USMail.ai — Cursor / Grok Bot MCP plugin](https://github.com/Postalocity/usmail-cursor-plugin) - USMail.ai 的 Cursor/Grok Bot 插件包：带品牌 Marketplace 卡片、lab+prod MCP 连接器，以及授权/审批寄信 skills。.
+- [DataBye Grok — Spain RGPD opt-out skill](https://github.com/686f6c61/DataBye) - 面向西班牙的 Grok Bot RGPD 技能包（SKILL.md + 向导 + roster）：经 Gmail/Outlook OAuth 指导行使访问/反对/删除权邮件。.
+- [tmapi-1688-mcp — 1688.com tools for Grok Bot](https://github.com/GalacticDeluge/tmapi-1688-mcp) - stdio MCP：让 Grok Bot 经 TMAPI 检索 1688 商品/工厂/评价/运费，并带本地 SQLite 缓存。.
+- [search-boost — multi-engine search MCP for Grok Build](https://github.com/Mr-remon219/search-boost) - 多引擎网页搜索 MCP（Bing/DDG/Yahoo/Exa + 付费 API），一条 CLI 即可接入 Cursor、Codex、Claude Code 与 Grok Build。.
 
 ## 评测与对比
 
@@ -1095,6 +1108,10 @@
 - [grok-bot-fifo — work queue for Grok Bot fleets](https://github.com/bradmb/grok-bot-fifo) - Cloudflare Worker + D1 的 FIFO 工作队列与 CLI，让多台 Grok Bot 共享任务并带卡住告警 webhook。.
 - [Snap — Mac screenshot paste into Grok Bot](https://github.com/c-staton/snap) - Mac 小工具：截屏后粘贴进 Grok Bot 聊天框（不自动发送），需辅助功能权限。.
 - [Codeg — multi-agent workspace incl. Grok Build](https://github.com/nobug-project/codeg) - 协作多智能体编码工作区：汇总 Claude Code、Codex、OpenCode、Grok Build 等会话。.
+- [grokbot-client — unofficial Grok Bot API client](https://github.com/Kenzim/grokbot-client) - 非官方异步 Python 客户端：对接 Grok Bot 云端 agent 后端（aiserver.v1 / Connect-RPC），含测试与工具。.
+- [grok-web — browser UI for Grok Bot agents](https://github.com/Kenzim/grok-web) - 基于 grokbot-client 的 FastAPI BFF + Vite SPA：在浏览器驱动 Grok Bot 云端 agent，Cursor token 留在宿主机。.
+- [jev-routing — Go Jev harness for Grok Build](https://github.com/nekowasabi/jev-routing) - 面向 Claude Code / Codex / Grok Build 的单二进制 Go Jev 编排：压缩 tool 结果并问 Jev 下一步——不用 npx，也不是 MCP。.
+- [pilotfish-grok — multi-model orchestration for Grok Build](https://github.com/Nanako0129/pilotfish-grok) - pilotfish 系编排移植到 Grok Build（装在 ~/.grok/）：跨角色审批闸门与新鲜上下文验收。.
 
 ## 社区与故障现场
 
@@ -1269,6 +1286,8 @@
 - [Parent Bot goes quiet after Cloud Agent handoff (staff)](https://forum.cursor.com/t/grok-bot-delegated-cloud-agents-are-running-but-parent-bot-appears-idle/172009) - Staff（Colin，2026-09-17）：Grok Bot 把活交给 Cursor Cloud Agent 后，父对话会暂时安静，直到子 Agent 结束才被自动唤醒——这是当前预期，不是卡死。可在 cursor.com/agents 或 Cursor 桌面端看实时状态，或让父 Bot 附上 agent card 显示 Running/Done；父对话的进行中可见性正在改进。.
 - [iOS Settings scroll can flip Auto-review — scroll on the label (staff)](https://forum.cursor.com/t/grok-bot-mobile-settings-scroll-activates-toggles-can-disable-agent-guards/172015) - Staff（kevinn，2026-09-17）：Grok Bot iOS「设置」里，从开关上开始滑动可能误触翻转开关（已复现、在追）。防护相关控件是 Auto-review（没有叫 Agent guards 的开关）。修复前变通：从该行文字上开始滑，不要从开关本身开始。.
 - [172033 Sidebar sections: desktop New Section + no agent create tool](https://forum.cursor.com/t/grok-bot-agent-tools-to-create-and-manage-sidebar-sections-parity-with-createchannel/172033) - 员工 kevinn：智能体可列出分区且 CreateAgent 可放入已有分区，但还没有创建/重命名/删除/移动分区的工具；桌面右键 Move to → New Section（移动端长按）。.
+- [iOS 1.11.1+ Voice icon is a gradual account rollout (staff)](https://forum.cursor.com/t/grok-bot-ios-1-11-1-voice-call-icon-missing-after-update/172292) - Staff（kevinn，2026-09-18）：iOS 1.11.1 看不到语音/通话图标不是本机故障——Voice 聊天在 1.11.1+ 按账号逐步放量；重装/退出登录不会加速。桌面 Voice 仍可用；手机端出现按钮前，输入框听写麦克风仍可工作。.
+- [No delete/redact of sent messages — use secure input for secrets (staff)](https://forum.cursor.com/t/redact-own-messages-secrets/172071) - Staff（kevinn，2026-09-17）：Grok Bot 无法删除/遮盖已发送消息（仅发送失败的消息有 Delete）——若已粘贴密钥请在提供商侧轮换。更好做法是让 Bot 来要凭证：会弹出遮罩安全输入卡，存为该 Bot 的 secret，且不会进入对话记录与模型上下文。.
 
 ## 相关列表
 
@@ -1483,10 +1502,11 @@
 - [grok-build-nix — Nix flake for Grok Build CLI](https://github.com/gesop0n/grok-build-nix) - Nix flake：从 xAI 官方 GitHub Release 可复现地安装预编译 Grok Build CLI。.
 - [jev-routing-go — Go Jev harness for Grok Build](https://github.com/nekowasabi/jev-routing-go) - 单个 Go 二进制 Jev 编排：面向 Claude Code、Codex、Grok Build，无需 npx（非 MCP）。.
 - [HarnessTrajectory — local viewer incl. Grok Build sessions](https://github.com/Demogorgon314/HarnessTrajectory) - 本地轨迹查看器：读取含 Grok Build、Claude Code、Codex 等编码智能体会话笔录。.
+- [Grok Bot Galaxy Day 3 — bilingual session notes](https://github.com/HiEllenC/grokbot-galaxy-day3) - Ellen 整理的 Grok Bot Galaxy 第 3 日中英双语 PDF 笔记，并链到 Day 2 的 GitHub Pages 记录。.
 
 ## 贡献
 
-目前 8 个分类、1376 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1396 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

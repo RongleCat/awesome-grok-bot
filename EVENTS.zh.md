@@ -24,9 +24,6 @@
 <a id="zuh-20260920"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zhuhai-meetup-sep-20"><img src="./assets/events/zuh-20260920-cover.png" alt="Grok Bot 珠海见面会" width="300" /></a></td><td valign="top"><strong>Grok Bot 珠海见面会</strong><br />2026-09-20 周日 15:00–17:00（香港时区 HKT，UTC+8）<br />珠海 · 星汇创孵中心 Skyline Incubator，香洲区跨境二路33号星汇中心25楼<br /><br />SpaceXAI for Macau 社区 Grok Bot 珠海见面会（主办 John Ku），星汇创孵中心。轻松交流：探索 Grok Bot、分享 AI 项目、认识伙伴；非讲座/工作坊。免费、名额有限；扫描时 guest_count 1。中英双语正文。<br /><br /><a href="https://luma.com/spacexai-zhuhai-meetup-sep-20"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
-<a id="hzo-20260918"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/wpzawz6x"><img src="./assets/events/hzo-20260918-cover.png" alt="Grok Bot 杭州 Build Night" width="300" /></a></td><td valign="top"><strong>Grok Bot 杭州 Build Night</strong><br />2026-09-18 周五 19:00–22:00（Asia/Shanghai，UTC+8）<br />中国杭州（线下；Luma 地址脱敏，报名后告知）<br /><br />杭州 Grok Bot Build Night（SpaceXAI Ambassador Mai Yang），与次日已入库 meetup hzo-20260919 不同场。约 19:00–22:00：介绍、大使演示、问答、动手与积分。免费需审批（余 20）。新 slug wpzawz6x；论坛尚无 New event 帖。<br /><br /><a href="https://luma.com/wpzawz6x"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
 <a id="country-us"></a>
 ### 美国
 
