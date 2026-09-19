@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1396-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1405-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -86,6 +86,8 @@
 
 ## 官方资源
 
+- [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - 官方 SpaceXAI 文档：企业 TLS 解密网关（如 Zscaler）下配置 Grok Bot——放行嵌套 *.*.cursorvm.com，关闭 SSL 解密与响应缓冲；用于聊天仍可用但云电脑一直连不上时的排查。.
+- [Manage Grok Bot computers (docs.x.ai)](https://docs.x.ai/grok-bot/computers) - 官方 SpaceXAI 文档（仅 Enterprise 组织管理员）：在 Cursor 仪表盘批量 Recreate/Terminate 成员的 Grok Bot 电脑——持久盘保留；Team 管理员不够，因为一台电脑跨该成员所属全部团队。.
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 首发稿：always-on 智能体自带电脑，在你的工具里 24/7 干活。.
 - [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - 官方扩面稿（页面已更新）：Grok Bot 现对 SuperGrok、Cursor Pro 和全部 Cursor Teams 开放。.
 - [@bot: free trial and wider plan access](https://x.com/bot/status/2090852881373311369) - 官方 2026-08-21：SuperGrok Plus、Cursor Pro+、全部 Cursor Teams 已开通，其他人可领有限额的免费试用。.
@@ -256,6 +258,7 @@
 
 ## 真实使用案例
 
+- [grokbot-jev-jobs — Jev triage + Grok Bot ATS apply](https://github.com/mcgalleg/grokbot-jev-jobs) - 公开求职应用：用 TypeSafe Jev 筛选职位，再 webhook 触发 Grok Bot（Resume Rudy）填写 ATS 并经密钥接口回写状态。.
 - [Sprite Portal Grok Bot nursery UI](https://github.com/hkclaw/sprite-portal) - 本机 Vite 仪表盘：六个品牌化 Grok Bot 精灵房间、桌面事项与人设字段。.
 - [getdasha.com lobby Worker (Grok Bot ship)](https://github.com/Uuriko/dasha-lobby) - 大型 Cloudflare Worker：从 Grok Bot 工作树发版后镜像的 getdasha.com lobby/compute 线上栈。.
 - [Grok Bot 3D mascot controller](https://github.com/lenxism/grok-bot-mascot-3d) - Three.js 网页控制器：把官方 Grok Bot 标志做成可眨眼/点头/挥手的 3D 吉祥物，由 Grok Bot + Cursor 构建。.
@@ -409,6 +412,9 @@
 
 ## 技能、插件与 MCP
 
+- [Йа Криведко — Grok Bot marketplace adapter](https://github.com/ast-ashulga/as.krivedko.grokbot) - 面向 Grok Bot Marketplace 的「Йа Криведко」（padonki/olbanian）薄适配器：锁定拼写子模块、skill/SKILL.md、人设、夹具与分享模板发布清单。.
+- [Agora — Grok Bot career-fleet blueprints](https://github.com/LayishSieger/agora) - 面向 Grok Bot 的职业舰队蓝图与安装遥测：含精简公开模板（人设 + create/steward skills），以及每台盒子上的 profile/简历事实源路径。.
+- [SuperMe — official Cursor / Grok Build plugin manifests](https://github.com/superme-ai/superme-plugins) - SuperMe 官方市场清单，面向 Cursor 与 Grok Build（含 .grok-plugin）：OAuth 接入托管 mcp.superme.ai，多人视角工作建议，无需本地服务或粘贴 API Key。.
 - [BotShelf Vampire](https://github.com/BotShelfVampire/botshelf) - 免费的可复制 Grok Bot 工作流包，涵盖来源研究、会议行动项与代码审查，附试用指南和运行证据要求；另有 Claude Code 与 ChatGPT 版本。.
 - [Kontext memory plugin for Grok Bot](https://github.com/TheKontextCo/kontext-grok-plugin) - Cursor 市场插件，可在 Grok Bot 安装：经托管 Kontext MCP 提供可移植项目/任务/记忆。.
 - [BotOps Grok Bot fleet lifecycle skill](https://github.com/granda/botops) - 面向 Grok Bot 舰队的 Agent Skills：CoS→L2→L3 分层、Notion 工单与低噪音 swarm 规则。.
@@ -842,6 +848,8 @@
 
 ## 开源替代
 
+- [grok-code-headless — drive Grok Build CLI programmatically](https://github.com/Juliusolsson05/grok-code-headless) - 无头库：按 Claude/Codex 系 *-headless 同款方式准备、观察并控制真实 Grok Build CLI/ACP（提示验收、取消、语义回合事件）。.
+- [OGG Switch — Grok Build + Oh My Pi control plane](https://github.com/akiteet/ogg-switch) - Tauri 2 桌面控制面，统一 Grok Build 与 Oh My Pi（OMP）：100+ 提供商目录、OAuth/API Key 预设与 OMP 语义角色，零遥测。.
 - [Mail Agents openbot (GrokBot-shaped)](https://github.com/matjazonline/openbot) - Rust BYOK 多智能体平台：每 Agent 自有邮箱、共享组织记忆与工具，定位为 GrokBot/Buzz 形态替代。.
 - [rakazo](https://github.com/elie222/rakazo) - 开源 Grok Bot 替代：自己托管 always-on 队友。.
 - [guaca](https://github.com/madebywelch/guaca) - 另一套自托管的持久电脑 Agent。.
@@ -1115,6 +1123,7 @@
 
 ## 社区与故障现场
 
+- [Forum: 1Password connector needs one-time Mac setup (Windows)](https://forum.cursor.com/t/1password-connector/172310) - 官方人员提示（2026-09-19）：Windows 上 1Password 的 Connect 按钮易误导——Grok Bot 首次绑定须在装有 1Password 桌面端的 Mac 上完成一次，之后 Windows 才能用。.
 - [Forum: Introducing Grok Bot](https://forum.cursor.com/t/introducing-grok-bot/168053) - 首发帖：上线 48 小时里大家真正在问什么。.
 - [Bots are not a security boundary](https://forum.cursor.com/t/grok-bot-ship-real-session-fences-bots-are-not-a-security-boundary/168476) - 必读：账号下所有 Bot 看见同一套登录和文件。.
 - [Always-on workers vs topic threads](https://forum.cursor.com/t/grok-bots-as-always-on-workers-vs-topic-threads/168183) - 社区共识：Bot 是常驻同事，不是聊天标签页。.
@@ -1506,7 +1515,7 @@
 
 ## 贡献
 
-目前 8 个分类、1396 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1405 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

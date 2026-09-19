@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1396-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1405-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -86,6 +86,8 @@
 
 ## Official Resources
 
+- [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - Official SpaceXAI docs for Grok Bot behind TLS-inspecting gateways (e.g. Zscaler): allow nested *.*.cursorvm.com, exempt those domains from SSL inspection and response buffering, and verify computer setup when chat still works but the cloud computer never connects.
+- [Manage Grok Bot computers (docs.x.ai)](https://docs.x.ai/grok-bot/computers) - Official SpaceXAI docs (Enterprise org admins only): bulk Recreate or Terminate member Grok Bot computers from the Cursor dashboard—durable disk kept; Team admin rights are not enough because one computer spans every team the member belongs to.
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - Launch note: always-on agents with their own computer, working inside your tools 24/7.
 - [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - Official access expansion post (updated): Grok Bot is available for SuperGrok, Cursor Pro, and all Cursor Teams plans.
 - [@bot: free trial and wider plan access](https://x.com/bot/status/2090852881373311369) - Official 2026-08-21: SuperGrok Plus, Cursor Pro+, and all Cursor Teams get Grok Bot, plus a limited free trial for everyone else.
@@ -256,6 +258,7 @@
 
 ## Field Cases
 
+- [grokbot-jev-jobs — Jev triage + Grok Bot ATS apply](https://github.com/mcgalleg/grokbot-jev-jobs) - Public job-search app that triages postings with TypeSafe Jev, then webhooks a Grok Bot (Resume Rudy) to fill ATS forms and write status back via secret-gated APIs.
 - [Sprite Portal Grok Bot nursery UI](https://github.com/hkclaw/sprite-portal) - Localhost Vite dashboard that presents six branded Grok Bot sprites with desks, hopper items, and persona fields.
 - [getdasha.com lobby Worker (Grok Bot ship)](https://github.com/Uuriko/dasha-lobby) - Large Cloudflare Worker mirror of the live getdasha.com lobby/compute stack as shipped from a Grok Bot tree.
 - [Grok Bot 3D mascot controller](https://github.com/lenxism/grok-bot-mascot-3d) - Three.js web controller that turns the official Grok Bot mark into a blink/nod/wave 3D mascot, built via Grok Bot + Cursor.
@@ -409,6 +412,9 @@
 
 ## Skills, Plugins & MCP
 
+- [Йа Криведко — Grok Bot marketplace adapter](https://github.com/ast-ashulga/as.krivedko.grokbot) - Thin Grok Bot Marketplace adapter for padonki/olbanian «Йа Криведко»: pinned orthography submodule, skill/SKILL.md, profile, fixtures, and share-as-template release checklist.
+- [Agora — Grok Bot career-fleet blueprints](https://github.com/LayishSieger/agora) - Versioned career-fleet blueprints and install telemetry for Grok Bot, with a thin public template (persona + create/steward skills) and per-box profile/resume SoT paths.
+- [SuperMe — official Cursor / Grok Build plugin manifests](https://github.com/superme-ai/superme-plugins) - Official SuperMe marketplace manifests for Cursor and Grok Build (.grok-plugin): OAuth to hosted mcp.superme.ai for multi-perspective work advice with no local server or pasted API keys.
 - [BotShelf Vampire](https://github.com/BotShelfVampire/botshelf) - Free, copyable Grok Bot workflow packs for source research, meeting actions and code review, with trial guides and run-evidence requirements; includes Claude Code and ChatGPT variants.
 - [Kontext memory plugin for Grok Bot](https://github.com/TheKontextCo/kontext-grok-plugin) - Cursor marketplace plugin Grok Bot can install for portable Projects/Tasks/memory over hosted Kontext MCP.
 - [BotOps Grok Bot fleet lifecycle skill](https://github.com/granda/botops) - Agent Skills pack for running a Grok Bot fleet with CoS → L2 → L3 layers, Notion tickets, and quiet swarm rules.
@@ -842,6 +848,8 @@
 
 ## Open-Source Alternatives
 
+- [grok-code-headless — drive Grok Build CLI programmatically](https://github.com/Juliusolsson05/grok-code-headless) - Headless library to prepare, observe, and control the real Grok Build CLI/ACP (prompt acceptance, cancel, semantic turn events) the way other *-headless packages wrap Claude/Codex.
+- [OGG Switch — Grok Build + Oh My Pi control plane](https://github.com/akiteet/ogg-switch) - Tauri 2 desktop control plane that unifies Grok Build and Oh My Pi (OMP): 100+ provider catalog, OAuth/API-key presets, and OMP semantic roles with zero telemetry.
 - [Mail Agents openbot (GrokBot-shaped)](https://github.com/matjazonline/openbot) - Rust BYOK multi-agent platform with per-agent email, shared org memory, and tools—positioned as a GrokBot/Buzz-shaped alternative.
 - [rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative — self-host the always-on teammate idea.
 - [guaca](https://github.com/madebywelch/guaca) - Another self-hosted take on persistent computer-use agents.
@@ -1115,6 +1123,7 @@
 
 ## Community & Failure Modes
 
+- [Forum: 1Password connector needs one-time Mac setup (Windows)](https://forum.cursor.com/t/1password-connector/172310) - Staff tip (2026-09-19): the 1Password Connect button on Windows is misleading—initial 1Password linking for Grok Bot must be completed once on a Mac with the 1Password desktop app, then Windows can use it.
 - [Forum: Introducing Grok Bot](https://forum.cursor.com/t/introducing-grok-bot/168053) - Launch thread: what people actually asked in the first 48 hours.
 - [Bots are not a security boundary](https://forum.cursor.com/t/grok-bot-ship-real-session-fences-bots-are-not-a-security-boundary/168476) - Must-read: every Bot on the account sees the same logins and files.
 - [Always-on workers vs topic threads](https://forum.cursor.com/t/grok-bots-as-always-on-workers-vs-topic-threads/168183) - Community consensus: a Bot is a standing coworker, not a chat tab.
@@ -1506,7 +1515,7 @@
 
 ## Contributing
 
-1396 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1405 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

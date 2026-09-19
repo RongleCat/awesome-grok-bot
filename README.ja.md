@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1396-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1405-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -86,6 +86,8 @@
 
 ## 公式リソース
 
+- [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - 公式 SpaceXAI ドキュメント。TLS 検査ゲートウェイ（例: Zscaler）配下の Grok Bot 向けに入れ子 *.*.cursorvm.com を許可し、SSL 検査と応答バッファを除外。チャットは動くがクラウド PC が繋がらないときの確認手順。
+- [Manage Grok Bot computers (docs.x.ai)](https://docs.x.ai/grok-bot/computers) - 公式 SpaceXAI ドキュメント（Enterprise 組織管理者のみ）：ダッシュボードでメンバーの Grok Bot コンピュータを一括 Recreate/Terminate。永続ディスクは保持。1台が所属全チームにまたがるため Team 管理者権限では不足。
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 発表記事：always-on のエージェントが専用パソコンを持ち、あなたのツール内で 24/7 働きます。
 - [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - 公式の拡大告知（ページ更新済み）。Grok Bot は SuperGrok、Cursor Pro、全 Cursor Teams で利用可。
 - [@bot: free trial and wider plan access](https://x.com/bot/status/2090852881373311369) - 公式 2026-08-21。SuperGrok Plus、Cursor Pro+、全 Cursor Teams に開放。その他は利用制限付きの無料トライアル。
@@ -256,6 +258,7 @@
 
 ## 実地事例
 
+- [grokbot-jev-jobs — Jev triage + Grok Bot ATS apply](https://github.com/mcgalleg/grokbot-jev-jobs) - TypeSafe Jev で求人を仕分けし、Grok Bot（Resume Rudy）へ webhook して ATS 入力とステータス書き戻しを行う公開ジョブサーチアプリ。
 - [Sprite Portal Grok Bot nursery UI](https://github.com/hkclaw/sprite-portal) - ローカル Vite ダッシュボード。6 体の Grok Bot スプライト部屋・机・ペルソナ欄。
 - [getdasha.com lobby Worker (Grok Bot ship)](https://github.com/Uuriko/dasha-lobby) - Grok Bot ツリーから出荷した getdasha.com lobby/compute の Cloudflare Worker ミラー。
 - [Grok Bot 3D mascot controller](https://github.com/lenxism/grok-bot-mascot-3d) - 公式 Grok Bot マークを瞬き・うなずき・手振りできる 3D マスコットにする Three.js。Grok Bot + Cursor で制作。
@@ -409,6 +412,9 @@
 
 ## スキル、プラグインと MCP
 
+- [Йа Криведко — Grok Bot marketplace adapter](https://github.com/ast-ashulga/as.krivedko.grokbot) - Grok Bot Marketplace 向け «Йа Криведко»（padonki/olbanian）薄いアダプタ。正書法サブモジュール固定、skill/SKILL.md、profile、fixture、テンプレ公開チェックリスト。
+- [Agora — Grok Bot career-fleet blueprints](https://github.com/LayishSieger/agora) - Grok Bot 向けキャリア艦隊ブループリントとインストール計測。薄い公開テンプレ（persona + create/steward skills）とボックスごとの profile/履歴書 SoT。
+- [SuperMe — official Cursor / Grok Build plugin manifests](https://github.com/superme-ai/superme-plugins) - Cursor / Grok Build 向け SuperMe 公式マーケットマニフェスト（.grok-plugin）。ホスト型 mcp.superme.ai へ OAuth、ローカルサーバや API キー貼り付け不要。
 - [BotShelf Vampire](https://github.com/BotShelfVampire/botshelf) - 出典付き調査、会議のアクション整理、コードレビュー向けの無料Grok Botワークフローパックで、試用ガイドと実行証拠の要件を備え、Claude Code・ChatGPT版も収録。
 - [Kontext memory plugin for Grok Bot](https://github.com/TheKontextCo/kontext-grok-plugin) - Grok Bot が入れられる Cursor マーケットプラグイン。ホスト済み Kontext MCP でプロジェクト・タスク・記憶。
 - [BotOps Grok Bot fleet lifecycle skill](https://github.com/granda/botops) - Grok Bot フリート向け Agent Skills。CoS→L2→L3、Notion チケット、静かなスウォーム規則。
@@ -842,6 +848,8 @@
 
 ## オープンソースの代替
 
+- [grok-code-headless — drive Grok Build CLI programmatically](https://github.com/Juliusolsson05/grok-code-headless) - 本物の Grok Build CLI/ACP を準備・観測・制御するヘッドレスライブラリ（プロンプト受理、キャンセル、意味ターンイベント）。Claude/Codex 系 *-headless と同型。
+- [OGG Switch — Grok Build + Oh My Pi control plane](https://github.com/akiteet/ogg-switch) - Grok Build と Oh My Pi（OMP）を統合する Tauri 2 デスクトップ制御面。100+ プロバイダ、OAuth/API キー、OMP セマンティックロール、テレメトリなし。
 - [Mail Agents openbot (GrokBot-shaped)](https://github.com/matjazonline/openbot) - Rust の BYOK マルチエージェント。エージェント毎メール、共有組織メモリとツール。GrokBot / Buzz 形の代替。
 - [rakazo](https://github.com/elie222/rakazo) - オープンソースの Grok Bot 代替。always-on の仲間を自分でホストします。
 - [guaca](https://github.com/madebywelch/guaca) - 持続するパソコン操作エージェントの、もう一つの自前ホスト実装。
@@ -1115,6 +1123,7 @@
 
 ## コミュニティと障害事例
 
+- [Forum: 1Password connector needs one-time Mac setup (Windows)](https://forum.cursor.com/t/1password-connector/172310) - スタッフ案内（2026-09-19）。Windows の 1Password Connect は誤解を招く——初回連携は 1Password デスクトップ付き Mac で一度完了させ、その後 Windows で利用できる。
 - [Forum: Introducing Grok Bot](https://forum.cursor.com/t/introducing-grok-bot/168053) - 発表スレッド：公開後 48 時間で実際に聞かれたこと。
 - [Bots are not a security boundary](https://forum.cursor.com/t/grok-bot-ship-real-session-fences-bots-are-not-a-security-boundary/168476) - 必読：アカウント上の全 Bot が同じログインとファイルを見ます。
 - [Always-on workers vs topic threads](https://forum.cursor.com/t/grok-bots-as-always-on-workers-vs-topic-threads/168183) - コミュニティの合意：Bot は常駐の同僚であり、チャットのタブではない。
@@ -1506,7 +1515,7 @@
 
 ## 貢献
 
-8 セクションに 1396 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1405 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
