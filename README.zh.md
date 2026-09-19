@@ -86,8 +86,6 @@
 
 ## 官方资源
 
-- [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - 官方 SpaceXAI 文档：企业 TLS 解密网关（如 Zscaler）下配置 Grok Bot——放行嵌套 *.*.cursorvm.com，关闭 SSL 解密与响应缓冲；用于聊天仍可用但云电脑一直连不上时的排查。.
-- [Manage Grok Bot computers (docs.x.ai)](https://docs.x.ai/grok-bot/computers) - 官方 SpaceXAI 文档（仅 Enterprise 组织管理员）：在 Cursor 仪表盘批量 Recreate/Terminate 成员的 Grok Bot 电脑——持久盘保留；Team 管理员不够，因为一台电脑跨该成员所属全部团队。.
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 首发稿：always-on 智能体自带电脑，在你的工具里 24/7 干活。.
 - [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - 官方扩面稿（页面已更新）：Grok Bot 现对 SuperGrok、Cursor Pro 和全部 Cursor Teams 开放。.
 - [@bot: free trial and wider plan access](https://x.com/bot/status/2090852881373311369) - 官方 2026-08-21：SuperGrok Plus、Cursor Pro+、全部 Cursor Teams 已开通，其他人可领有限额的免费试用。.
@@ -185,6 +183,8 @@
 - [Work with Grok Bot (Cursor Docs)](https://cursor.com/docs/grok-bot/work) - 官方 Cursor Docs：日常与 Bot 协作总览——创建/管理 Bot、消息与协作、共用云电脑，以及用 skills/routines 自动化（docs.x.ai 无对应 /work 页）。.
 - [@bot: Grok Bot can talk now (Voice)](https://x.com/bot/status/2100659463569170779) - 官方 @bot（2026-09-17 ~18:53 UTC / 9月18日约 02:53 Asia/Shanghai）：Grok Bot 现已能语音对话——Voice 将在未来几天陆续上线桌面端与移动端（帖内演示视频；跟帖 https://x.com/bot/status/2100659464781394222）；入口 x.ai/bot（暂无独立 docs/help/voice 页）。.
 - [@bot: Grok Bot can now send you voice notes](https://x.com/bot/status/2101014478255247544) - 官方 @bot（2026-09-18 ~18:24 UTC / 9月19日 ~02:24 上海）：Grok Bot 现在可以给你发语音条（跟帖 CTA https://x.com/bot/status/2101014479299617188）；有别于此前的实时 Voice 通话 rollout——请从 x.ai/bot 试用（尚无独立 docs/news 页）。.
+- [Manage Grok Bot computers (docs.x.ai)](https://docs.x.ai/grok-bot/computers) - 官方 SpaceXAI 文档（仅 Enterprise 组织管理员）：在 Cursor 仪表盘批量 Recreate/Terminate 成员的 Grok Bot 电脑——持久盘保留；Team 管理员不够，因为一台电脑跨该成员所属全部团队。.
+- [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - 官方 SpaceXAI 文档：企业 TLS 解密网关（如 Zscaler）下配置 Grok Bot——放行嵌套 *.*.cursorvm.com，关闭 SSL 解密与响应缓冲；用于聊天仍可用但云电脑一直连不上时的排查。.
 
 ## 教程与上手指南
 

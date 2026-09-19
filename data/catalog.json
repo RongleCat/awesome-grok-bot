@@ -16,26 +16,6 @@
       },
       "items": [
         {
-          "title": "Configure TLS-inspecting proxies (docs.x.ai)",
-          "url": "https://docs.x.ai/grok-bot/proxies",
-          "source": "GB-1422",
-          "blurb": {
-            "en": "Official SpaceXAI docs for Grok Bot behind TLS-inspecting gateways (e.g. Zscaler): allow nested *.*.cursorvm.com, exempt those domains from SSL inspection and response buffering, and verify computer setup when chat still works but the cloud computer never connects.",
-            "zh": "官方 SpaceXAI 文档：企业 TLS 解密网关（如 Zscaler）下配置 Grok Bot——放行嵌套 *.*.cursorvm.com，关闭 SSL 解密与响应缓冲；用于聊天仍可用但云电脑一直连不上时的排查。",
-            "ja": "公式 SpaceXAI ドキュメント。TLS 検査ゲートウェイ（例: Zscaler）配下の Grok Bot 向けに入れ子 *.*.cursorvm.com を許可し、SSL 検査と応答バッファを除外。チャットは動くがクラウド PC が繋がらないときの確認手順。"
-          }
-        },
-        {
-          "title": "Manage Grok Bot computers (docs.x.ai)",
-          "url": "https://docs.x.ai/grok-bot/computers",
-          "source": "GB-1421",
-          "blurb": {
-            "en": "Official SpaceXAI docs (Enterprise org admins only): bulk Recreate or Terminate member Grok Bot computers from the Cursor dashboard—durable disk kept; Team admin rights are not enough because one computer spans every team the member belongs to.",
-            "zh": "官方 SpaceXAI 文档（仅 Enterprise 组织管理员）：在 Cursor 仪表盘批量 Recreate/Terminate 成员的 Grok Bot 电脑——持久盘保留；Team 管理员不够，因为一台电脑跨该成员所属全部团队。",
-            "ja": "公式 SpaceXAI ドキュメント（Enterprise 組織管理者のみ）：ダッシュボードでメンバーの Grok Bot コンピュータを一括 Recreate/Terminate。永続ディスクは保持。1台が所属全チームにまたがるため Team 管理者権限では不足。"
-          }
-        },
-        {
           "title": "Introducing Grok Bot",
           "url": "https://x.ai/news/introducing-grok-bot",
           "source": "GB-002",
@@ -1003,6 +983,26 @@
             "en": "Official @bot (2026-09-18 ~18:24 UTC / Sep 19 ~02:24 Asia/Shanghai): Grok Bot can now send you voice notes (follow-up CTA https://x.com/bot/status/2101014479299617188); distinct from the earlier live Voice talk rollout—try from x.ai/bot (no dedicated docs/news page yet).",
             "zh": "官方 @bot（2026-09-18 ~18:24 UTC / 9月19日 ~02:24 上海）：Grok Bot 现在可以给你发语音条（跟帖 CTA https://x.com/bot/status/2101014479299617188）；有别于此前的实时 Voice 通话 rollout——请从 x.ai/bot 试用（尚无独立 docs/news 页）。",
             "ja": "公式 @bot（2026-09-18 ~18:24 UTC / 9月19日 ~02:24 上海）：Grok Bot がボイスノートを送れるように（続報 CTA https://x.com/bot/status/2101014479299617188）。先のライブ Voice 通話ロールアウトとは別機能。x.ai/bot で試せます（専用 docs/news は未掲載）。"
+          }
+        },
+        {
+          "title": "Manage Grok Bot computers (docs.x.ai)",
+          "url": "https://docs.x.ai/grok-bot/computers",
+          "source": "GB-1421",
+          "blurb": {
+            "en": "Official SpaceXAI docs (Enterprise org admins only): bulk Recreate or Terminate member Grok Bot computers from the Cursor dashboard—durable disk kept; Team admin rights are not enough because one computer spans every team the member belongs to.",
+            "zh": "官方 SpaceXAI 文档（仅 Enterprise 组织管理员）：在 Cursor 仪表盘批量 Recreate/Terminate 成员的 Grok Bot 电脑——持久盘保留；Team 管理员不够，因为一台电脑跨该成员所属全部团队。",
+            "ja": "公式 SpaceXAI ドキュメント（Enterprise 組織管理者のみ）：ダッシュボードでメンバーの Grok Bot コンピュータを一括 Recreate/Terminate。永続ディスクは保持。1台が所属全チームにまたがるため Team 管理者権限では不足。"
+          }
+        },
+        {
+          "title": "Configure TLS-inspecting proxies (docs.x.ai)",
+          "url": "https://docs.x.ai/grok-bot/proxies",
+          "source": "GB-1422",
+          "blurb": {
+            "en": "Official SpaceXAI docs for Grok Bot behind TLS-inspecting gateways (e.g. Zscaler): allow nested *.*.cursorvm.com, exempt those domains from SSL inspection and response buffering, and verify computer setup when chat still works but the cloud computer never connects.",
+            "zh": "官方 SpaceXAI 文档：企业 TLS 解密网关（如 Zscaler）下配置 Grok Bot——放行嵌套 *.*.cursorvm.com，关闭 SSL 解密与响应缓冲；用于聊天仍可用但云电脑一直连不上时的排查。",
+            "ja": "公式 SpaceXAI ドキュメント。TLS 検査ゲートウェイ（例: Zscaler）配下の Grok Bot 向けに入れ子 *.*.cursorvm.com を許可し、SSL 検査と応答バッファを除外。チャットは動くがクラウド PC が繋がらないときの確認手順。"
           }
         }
       ]

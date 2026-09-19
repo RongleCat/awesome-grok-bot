@@ -86,8 +86,6 @@
 
 ## Official Resources
 
-- [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - Official SpaceXAI docs for Grok Bot behind TLS-inspecting gateways (e.g. Zscaler): allow nested *.*.cursorvm.com, exempt those domains from SSL inspection and response buffering, and verify computer setup when chat still works but the cloud computer never connects.
-- [Manage Grok Bot computers (docs.x.ai)](https://docs.x.ai/grok-bot/computers) - Official SpaceXAI docs (Enterprise org admins only): bulk Recreate or Terminate member Grok Bot computers from the Cursor dashboard—durable disk kept; Team admin rights are not enough because one computer spans every team the member belongs to.
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - Launch note: always-on agents with their own computer, working inside your tools 24/7.
 - [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - Official access expansion post (updated): Grok Bot is available for SuperGrok, Cursor Pro, and all Cursor Teams plans.
 - [@bot: free trial and wider plan access](https://x.com/bot/status/2090852881373311369) - Official 2026-08-21: SuperGrok Plus, Cursor Pro+, and all Cursor Teams get Grok Bot, plus a limited free trial for everyone else.
@@ -185,6 +183,8 @@
 - [Work with Grok Bot (Cursor Docs)](https://cursor.com/docs/grok-bot/work) - Official Cursor Docs hub for day-to-day Bot work: create/manage Bots, message and collaborate, use the shared cloud computer, and automate with skills and routines (no docs.x.ai /work equivalent).
 - [@bot: Grok Bot can talk now (Voice)](https://x.com/bot/status/2100659463569170779) - Official @bot (2026-09-17 ~18:53 UTC / Sep 18 ~02:53 Asia/Shanghai): Grok Bot can talk now—Voice is rolling out on desktop and mobile over the next couple of days (demo video in post; follow-up https://x.com/bot/status/2100659464781394222); download via x.ai/bot (no dedicated docs/help/voice page yet).
 - [@bot: Grok Bot can now send you voice notes](https://x.com/bot/status/2101014478255247544) - Official @bot (2026-09-18 ~18:24 UTC / Sep 19 ~02:24 Asia/Shanghai): Grok Bot can now send you voice notes (follow-up CTA https://x.com/bot/status/2101014479299617188); distinct from the earlier live Voice talk rollout—try from x.ai/bot (no dedicated docs/news page yet).
+- [Manage Grok Bot computers (docs.x.ai)](https://docs.x.ai/grok-bot/computers) - Official SpaceXAI docs (Enterprise org admins only): bulk Recreate or Terminate member Grok Bot computers from the Cursor dashboard—durable disk kept; Team admin rights are not enough because one computer spans every team the member belongs to.
+- [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - Official SpaceXAI docs for Grok Bot behind TLS-inspecting gateways (e.g. Zscaler): allow nested *.*.cursorvm.com, exempt those domains from SSL inspection and response buffering, and verify computer setup when chat still works but the cloud computer never connects.
 
 ## Tutorials & Guides
 

@@ -86,8 +86,6 @@
 
 ## 公式リソース
 
-- [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - 公式 SpaceXAI ドキュメント。TLS 検査ゲートウェイ（例: Zscaler）配下の Grok Bot 向けに入れ子 *.*.cursorvm.com を許可し、SSL 検査と応答バッファを除外。チャットは動くがクラウド PC が繋がらないときの確認手順。
-- [Manage Grok Bot computers (docs.x.ai)](https://docs.x.ai/grok-bot/computers) - 公式 SpaceXAI ドキュメント（Enterprise 組織管理者のみ）：ダッシュボードでメンバーの Grok Bot コンピュータを一括 Recreate/Terminate。永続ディスクは保持。1台が所属全チームにまたがるため Team 管理者権限では不足。
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 発表記事：always-on のエージェントが専用パソコンを持ち、あなたのツール内で 24/7 働きます。
 - [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - 公式の拡大告知（ページ更新済み）。Grok Bot は SuperGrok、Cursor Pro、全 Cursor Teams で利用可。
 - [@bot: free trial and wider plan access](https://x.com/bot/status/2090852881373311369) - 公式 2026-08-21。SuperGrok Plus、Cursor Pro+、全 Cursor Teams に開放。その他は利用制限付きの無料トライアル。
@@ -185,6 +183,8 @@
 - [Work with Grok Bot (Cursor Docs)](https://cursor.com/docs/grok-bot/work) - 公式 Cursor Docs。日常の Bot 作業ハブ：作成／管理、メッセージと共同作業、共有クラウド PC、skills／routines での自動化（docs.x.ai に /work 相当なし）。
 - [@bot: Grok Bot can talk now (Voice)](https://x.com/bot/status/2100659463569170779) - 公式 @bot（2026-09-17 ~18:53 UTC / 9月18日ごろ 02:53 Asia/Shanghai）：Grok Bot が話せるようになった。Voice は数日中にデスクトップとモバイルへ順次展開（投稿内デモ動画；続報 https://x.com/bot/status/2100659464781394222）。試すなら x.ai/bot（専用 docs/help/voice は未掲載）。
 - [@bot: Grok Bot can now send you voice notes](https://x.com/bot/status/2101014478255247544) - 公式 @bot（2026-09-18 ~18:24 UTC / 9月19日 ~02:24 上海）：Grok Bot がボイスノートを送れるように（続報 CTA https://x.com/bot/status/2101014479299617188）。先のライブ Voice 通話ロールアウトとは別機能。x.ai/bot で試せます（専用 docs/news は未掲載）。
+- [Manage Grok Bot computers (docs.x.ai)](https://docs.x.ai/grok-bot/computers) - 公式 SpaceXAI ドキュメント（Enterprise 組織管理者のみ）：ダッシュボードでメンバーの Grok Bot コンピュータを一括 Recreate/Terminate。永続ディスクは保持。1台が所属全チームにまたがるため Team 管理者権限では不足。
+- [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - 公式 SpaceXAI ドキュメント。TLS 検査ゲートウェイ（例: Zscaler）配下の Grok Bot 向けに入れ子 *.*.cursorvm.com を許可し、SSL 検査と応答バッファを除外。チャットは動くがクラウド PC が繋がらないときの確認手順。
 
 ## チュートリアルとガイド
 
