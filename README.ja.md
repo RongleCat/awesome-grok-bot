@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1461-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1485-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,7 +37,7 @@
 
 [イベントの詳細](./EVENTS.ja.md)
 
-- **中国**（3）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017) · [珠海](./EVENTS.ja.md#zuh-20260920)
+- **中国**（2）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017)
 - **アメリカ**（9）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [マイアミ](./EVENTS.ja.md#mia-20260923) · [アトランタ](./EVENTS.ja.md#atl-20260924) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [ロサンゼルス](./EVENTS.ja.md#lad-20260922) · [シアトル](./EVENTS.ja.md#sea-20260924) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [グリーンビル](./EVENTS.ja.md#gsp-20261008)
 - **カナダ**（5）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [ビクトリア（BC）](./EVENTS.ja.md#vic-20260921) · [モントリオール](./EVENTS.ja.md#yul-20260926) · [トロント](./EVENTS.ja.md#yyz-20261026) · [オタワ](./EVENTS.ja.md#yow-20261010)
 - **ブラジル**（3）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [フロリアノポリス](./EVENTS.ja.md#fln-20260926)
@@ -260,6 +260,9 @@
 
 ## 実地事例
 
+- [Ship by Thursday — Grok Bot Galaxy-style scaffold](https://github.com/Phillipcolvin/ship-by-thursday) - Grok Bot Galaxy の約9時間企業構築演習に着想した足場。ドキュメントと Web 起步面付き。
+- [grokbot-mocap — live face mocap SVG avatar](https://github.com/NODE-Sudbury/grokbot-mocap) - ライブ顔モーションキャプチャをアニメ SVG アバターへ投影。NODE Sudbury が Grok コミュニティイベント向けに制作。
+- [Grok Bot Slides — React decks for official guides](https://github.com/wmoralesdev/grok-bot-slides) - React スライドとライブ Q&A。Grok Bot 101 / Engineering / Founders / GTM / Ops など公式ガイド題材。
 - [Multi-Harness Proof — live Grok Build coordination](https://github.com/xormania/multi-harness-proof) - 実証済み。Codex / Claude Code / Grok Build がローカル中継でライブネイティブセッション間にメッセージ交換・協調できる。
 - [Gravity Birds — Godot game built with Grok Bot](https://github.com/az9713/grokbot-game-dev-demo) - オリジナル Godot パズル Gravity Birds。Grok Bot チームと Cursor Cloud Agent で構築しデモ公開。
 - [Sherwood Fund Desk — Grok Bot template](https://github.com/sherwoodagent/grokbot-fund-template) - Grok Bot の Share as Template 向けマルチエージェント投資デスク。Desk Lead とチームメイト導入レシピ（ペーパー→任意で実提案）。
@@ -421,6 +424,21 @@
 
 ## スキル、プラグインと MCP
 
+- [Hydrafetch — live web fetch for Grok Build](https://github.com/Hydrafetch/grok-plugin) - Grok Build の .grok-plugin。URL を取得し、ホスト MCP と skills できれいな Markdown または構造化データを返す。
+- [shunt — keep big I/O off Grok Build frontier](https://github.com/juancruzmunozalbelo/grok-shunt) - Grok Build プラグイン。大ファイル I/O とボイラープレートを frontier から安い worker へ逃がす。
+- [muran-skill — shared skills for Grok Build & peers](https://github.com/MuRanSea/muran-skill) - 個人スキル庫。一箇所で管理し Codex / Claude Code / Pi / OpenCode / Grok Build で共有（Windows 導入付き）。
+- [Timeln — Grok Build memory-layer plugin](https://github.com/Timelnapp/timeln-grok-plugin) - Timeln AI メモリ層の Grok Build .grok-plugin。skills・commands・ホスト MCP 付き。
+- [PostZen — Grok Build social scheduler plugin](https://github.com/postzen-dev/postzen-grok-plugin) - Grok Build の .grok-plugin。ホスト MCP と skills で 10 の SNS に予約投稿・公開。
+- [Unitpost — official Grok Build email plugin](https://github.com/unitpostcom/unitpost-grok-plugin) - Unitpost 公式の Grok Build プラグイン。承認付き送信と連絡先・キャンペーン・ドメイン管理。
+- [Ordo — Grok Build job scheduler plugin](https://github.com/nathanielgraham/ordo-grok-plugin) - ホスト型 Ordo ジョブスケジューラ MCP に繋ぐ Grok Build の .grok-plugin（skills 付き）。
+- [Expodesk — Grok Bot / Cursor marketplace plugin](https://github.com/ryantenor2/expodesk-grok-plugin) - Expodesk 公式マーケットプラグイン（Grok Bot / Cursor）。展示会リード取得 MCP・skills・ブース運用。
+- [USMail.ai — Cursor / Grok Bot plugin](https://github.com/broadstrokeinc/usmail-cursor-plugin) - USMail.ai の Cursor / Grok Bot 向けマーケット風プラグイン（lab+prod MCP）。Added カードにブランドロゴ。
+- [Our Family Dances — Grok plugin](https://github.com/msanchezgrice/our-family-dances-grok-plugin) - 公開 MCP の .grok-plugin。Grok から家族ダンスのシャウトアウト曲を生成（API キー不要）。
+- [My Forever Songs — Grok plugin](https://github.com/msanchezgrice/my-forever-songs-grok-plugin) - 公開 MCP の .grok-plugin。実話をカスタム曲にして Grok から利用（API キー不要）。
+- [ToastBuddy — Grok plugin](https://github.com/msanchezgrice/toastbuddy-grok-plugin) - 公開 Streamable HTTP MCP の .grok-plugin。Grok 内で結婚式・イベントの乾杯挨拶とキューカードを起草。
+- [SurgeryViz — Grok plugin](https://github.com/msanchezgrice/surgeryviz-grok-plugin) - 公開 MCP の .grok-plugin。手技・手順の議論を SurgeryViz のビジュアルプレビューに（API キー不要）。
+- [ConjureAnything — Grok plugin](https://github.com/msanchezgrice/conjureanything-grok-plugin) - Grok 向け公開 MCP の .grok-plugin。製品アイデアを仕様・BOM・コンセプト画像に。
+- [Lesuto — Grok Build / Grok Bot plugin](https://github.com/lesuto/lesuto-grok-plugin) - Lesuto の Grok Build プラグイン（.grok-plugin 付き）。直近30日指標の照会、Connect 招待、在庫確認（ホスト MCP）。
 - [5dive-plugins — telegram-grok and multi-harness bridges](https://github.com/5dive-ai/5dive-plugins) - 5dive プラグイン市場。telegram-grok ランタイム分岐で Telegram DM を MCP ポーリング経由で xAI Grok / Grok Build CLI に接続。
 - [grok-build-mcp-server — Grok CLI as MCP tools](https://github.com/a3lab01create-bit/grok-build-mcp-server) - xAI Grok Build CLI（`grok -p`）を包む TypeScript MCP サーバ。既存ログインのまま任意 MCP クライアントから Grok を呼べる。
 - [grok-build-search — Codex plugin via Grok CLI](https://github.com/lich13/grok-build-search) - Codex マーケットプラグイン。サインイン済みローカル Grok Build CLI（ガード付きツール）で公開 Web を検索・閲覧。
@@ -879,6 +897,11 @@
 
 ## オープンソースの代替
 
+- [Jevbridge — ACP/MCP bridge for Grok Build & peers](https://github.com/tacticocc/Jevbridge) - TypeSafe Jev のコンピュータ操作を Codex / Claude / Grok Build / OpenCode に繋ぐ ACP/MCP アダプタ（★25）。
+- [Swaygentic — sandboxed browser harness for Grok Build](https://github.com/backdoorsecurity/Swaygentic) - Grok Build 向け軽量サンドボックスブラウザ harness（MCP ツール箱）。他 agent からも利用可。
+- [star-loop — autonomous coding loop for Grok Build](https://github.com/MrBeldum/star-loop) - Grok Build 向け自律コーディングループ .grok-plugin。反復ごとに新しい agent を起こし、本当に終わるまで回す。
+- [Hermes + Grok Build + Claude Code connected](https://github.com/jacobcowanr/Hermes-Grok-Build-and-Claude-Code-Connected) - 完全ローカル連携。Hermes / Grok Build / Claude Code が追記式 AGENT_SYNC.md を共有し、クラウド仲介なし。
+- [pstack for Codex — Grok Build / Grok Bot workers](https://github.com/J0UH/pstack-codex) - Codex 向け pstack オーケストレーション。Claude Code worker と任意で Grok Build / Grok Bot 电脑ルーチン。
 - [Mnemosyne — local memory kernel for Grok Build](https://github.com/Furinelle/Mnemosyne) - ローカルファーストの Rust メモリカーネル。Codex / Claude Code / Grok Build / Antigravity が CLI・MCP で Markdown 記憶を共有。
 - [superx — Grok Build native X tools CLI for agents](https://github.com/enderzcx/superx) - エージェント向け CLI。Grok Build ネイティブ X ツール（user/keyword/semantic/thread）を包み、本文をプロジェクト Markdown にキャッシュ。
 - [grokbot-build-relay — Grok Bot → local Grok Build](https://github.com/sec-knight/grokbot-build-relay) - 軽量ヘッドレス橋渡し。Grok Bot（や任意シェルエージェント）が agent -p/-c でローカル Grok Build を駆動し TUI 監視不要。
@@ -1346,6 +1369,7 @@
 
 ## 関連リスト
 
+- [grok-style-pi — Grok Build-inspired Pi TUI chrome](https://github.com/Daedie-git/grok-style-pi) - Pi 向け Grok Build 風 TUI。GrokNight テーマ、ステータスフッタ、集中コンポーザ、菱形ツール行。
 - [LoopLabsBar — macOS menu bar for Grok Bot & peers](https://github.com/RichStone/LoopLabsBar) - CodexBar 風の macOS メニューバー。Claude Code / Codex / Cursor / Grok Bot / Grok / GitHub Copilot セッションを表示。
 - [grok-build-prompts — extract prompts from Grok CLI](https://github.com/hearnadam/grok-build-prompts) - Grok Build CLI バイナリをピン留めし、Mach-O const セクションから埋め込み prompt / skill を抽出するツール。
 - [Grok Build Telemetry — live usage companion](https://github.com/foudress/grok-build-telemetry) - Grok Build 伴走ダッシュボード。token 使用量・キャッシュ・コストをリアルタイム表示。公式 CLI の横に導入可。
@@ -1568,7 +1592,7 @@
 
 ## 貢献
 
-8 セクションに 1461 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1485 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

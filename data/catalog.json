@@ -1746,6 +1746,36 @@
       },
       "items": [
         {
+          "title": "Ship by Thursday — Grok Bot Galaxy-style scaffold",
+          "url": "https://github.com/Phillipcolvin/ship-by-thursday",
+          "source": "GB-1503",
+          "blurb": {
+            "en": "Scaffold inspired by the Grok Bot Galaxy ~9-hour company-build exercise, with docs and a starter web surface.",
+            "zh": "受 Grok Bot Galaxy 约 9 小时公司搭建练习启发的脚手架，含文档与起步 Web 面。",
+            "ja": "Grok Bot Galaxy の約9時間企業構築演習に着想した足場。ドキュメントと Web 起步面付き。"
+          }
+        },
+        {
+          "title": "grokbot-mocap — live face mocap SVG avatar",
+          "url": "https://github.com/NODE-Sudbury/grokbot-mocap",
+          "source": "GB-1502",
+          "blurb": {
+            "en": "Live face motion-capture projected onto an animated SVG avatar, built by NODE Sudbury for a Grok community event.",
+            "zh": "实时面部动捕投影到动画 SVG 头像；NODE Sudbury 为 Grok 社区活动而做。",
+            "ja": "ライブ顔モーションキャプチャをアニメ SVG アバターへ投影。NODE Sudbury が Grok コミュニティイベント向けに制作。"
+          }
+        },
+        {
+          "title": "Grok Bot Slides — React decks for official guides",
+          "url": "https://github.com/wmoralesdev/grok-bot-slides",
+          "source": "GB-1501",
+          "blurb": {
+            "en": "React slide decks and live Q&A shell covering Grok Bot 101, Engineering, Founders, GTM, and Ops guides.",
+            "zh": "React 幻灯与现场问答壳：覆盖 Grok Bot 101、工程、创始人、GTM、运营等官方指南主题。",
+            "ja": "React スライドとライブ Q&A。Grok Bot 101 / Engineering / Founders / GTM / Ops など公式ガイド題材。"
+          }
+        },
+        {
           "title": "Multi-Harness Proof — live Grok Build coordination",
           "url": "https://github.com/xormania/multi-harness-proof",
           "source": "GB-1475",
@@ -3335,6 +3365,156 @@
         "ja": "スキル、プラグインと MCP"
       },
       "items": [
+        {
+          "title": "Hydrafetch — live web fetch for Grok Build",
+          "url": "https://github.com/Hydrafetch/grok-plugin",
+          "source": "GB-1500",
+          "blurb": {
+            "en": "Grok Build .grok-plugin that fetches a URL and returns clean Markdown or structured data via hosted MCP and skills.",
+            "zh": "Grok Build .grok-plugin：抓取 URL 并经托管 MCP 与 skills 返回干净 Markdown 或结构化数据。",
+            "ja": "Grok Build の .grok-plugin。URL を取得し、ホスト MCP と skills できれいな Markdown または構造化データを返す。"
+          }
+        },
+        {
+          "title": "shunt — keep big I/O off Grok Build frontier",
+          "url": "https://github.com/juancruzmunozalbelo/grok-shunt",
+          "source": "GB-1499",
+          "blurb": {
+            "en": "Grok Build plugin that shunts large file I/O and boilerplate off the frontier model onto cheaper workers.",
+            "zh": "Grok Build 插件：把大文件 I/O 与样板代码从 frontier 模型卸到更便宜的 worker。",
+            "ja": "Grok Build プラグイン。大ファイル I/O とボイラープレートを frontier から安い worker へ逃がす。"
+          }
+        },
+        {
+          "title": "muran-skill — shared skills for Grok Build & peers",
+          "url": "https://github.com/MuRanSea/muran-skill",
+          "source": "GB-1498",
+          "blurb": {
+            "en": "Personal skill library maintained once and shared across Codex, Claude Code, Pi, OpenCode, and Grok Build (Windows installer).",
+            "zh": "个人技能库：一处维护，供 Codex、Claude Code、Pi、OpenCode 与 Grok Build 共用（含 Windows 安装）。",
+            "ja": "個人スキル庫。一箇所で管理し Codex / Claude Code / Pi / OpenCode / Grok Build で共有（Windows 導入付き）。"
+          }
+        },
+        {
+          "title": "Timeln — Grok Build memory-layer plugin",
+          "url": "https://github.com/Timelnapp/timeln-grok-plugin",
+          "source": "GB-1497",
+          "blurb": {
+            "en": "Timeln AI memory layer as a Grok Build .grok-plugin with skills, commands, and hosted MCP.",
+            "zh": "Timeln AI 记忆层的 Grok Build .grok-plugin：含 skills、commands 与托管 MCP。",
+            "ja": "Timeln AI メモリ層の Grok Build .grok-plugin。skills・commands・ホスト MCP 付き。"
+          }
+        },
+        {
+          "title": "PostZen — Grok Build social scheduler plugin",
+          "url": "https://github.com/postzen-dev/postzen-grok-plugin",
+          "source": "GB-1496",
+          "blurb": {
+            "en": "Grok Build .grok-plugin to schedule and publish posts across 10 social platforms via hosted MCP and skills.",
+            "zh": "Grok Build .grok-plugin：经托管 MCP 与 skills 在 10 个社交平台排程并发布。",
+            "ja": "Grok Build の .grok-plugin。ホスト MCP と skills で 10 の SNS に予約投稿・公開。"
+          }
+        },
+        {
+          "title": "Unitpost — official Grok Build email plugin",
+          "url": "https://github.com/unitpostcom/unitpost-grok-plugin",
+          "source": "GB-1495",
+          "blurb": {
+            "en": "Official Unitpost plugin for Grok Build: send email with approval, manage contacts, campaigns, and domains.",
+            "zh": "Unitpost 官方 Grok Build 插件：审批后发信，并管理联系人、活动与域名。",
+            "ja": "Unitpost 公式の Grok Build プラグイン。承認付き送信と連絡先・キャンペーン・ドメイン管理。"
+          }
+        },
+        {
+          "title": "Ordo — Grok Build job scheduler plugin",
+          "url": "https://github.com/nathanielgraham/ordo-grok-plugin",
+          "source": "GB-1494",
+          "blurb": {
+            "en": "Grok Build .grok-plugin that connects to the hosted Ordo job scheduler MCP with skills.",
+            "zh": "连接托管 Ordo 任务调度 MCP 的 Grok Build .grok-plugin（含 skills）。",
+            "ja": "ホスト型 Ordo ジョブスケジューラ MCP に繋ぐ Grok Build の .grok-plugin（skills 付き）。"
+          }
+        },
+        {
+          "title": "Expodesk — Grok Bot / Cursor marketplace plugin",
+          "url": "https://github.com/ryantenor2/expodesk-grok-plugin",
+          "source": "GB-1493",
+          "blurb": {
+            "en": "Official Expodesk marketplace plugin for Grok Bot / Cursor: trade-show lead capture MCP, skills, and booth workflows.",
+            "zh": "Expodesk 官方市场插件（Grok Bot / Cursor）：展会线索采集 MCP、skills 与展位工作流。",
+            "ja": "Expodesk 公式マーケットプラグイン（Grok Bot / Cursor）。展示会リード取得 MCP・skills・ブース運用。"
+          }
+        },
+        {
+          "title": "USMail.ai — Cursor / Grok Bot plugin",
+          "url": "https://github.com/broadstrokeinc/usmail-cursor-plugin",
+          "source": "GB-1492",
+          "blurb": {
+            "en": "Marketplace-style Cursor / Grok Bot plugin pack for USMail.ai MCP (lab+prod) with a branded logo on the Added card.",
+            "zh": "USMail.ai 的 Cursor / Grok Bot 市场风插件包（lab+prod MCP），Added 卡片显示品牌 Logo。",
+            "ja": "USMail.ai の Cursor / Grok Bot 向けマーケット風プラグイン（lab+prod MCP）。Added カードにブランドロゴ。"
+          }
+        },
+        {
+          "title": "Our Family Dances — Grok plugin",
+          "url": "https://github.com/msanchezgrice/our-family-dances-grok-plugin",
+          "source": "GB-1491",
+          "blurb": {
+            "en": "Public MCP .grok-plugin that makes a family dance shout-out song from Grok (no API key).",
+            "zh": "公开 MCP .grok-plugin：从 Grok 生成家庭舞蹈 shout-out 歌曲（无需 API key）。",
+            "ja": "公開 MCP の .grok-plugin。Grok から家族ダンスのシャウトアウト曲を生成（API キー不要）。"
+          }
+        },
+        {
+          "title": "My Forever Songs — Grok plugin",
+          "url": "https://github.com/msanchezgrice/my-forever-songs-grok-plugin",
+          "source": "GB-1490",
+          "blurb": {
+            "en": "Public MCP .grok-plugin that turns a real story into a custom song for Grok (no API key).",
+            "zh": "公开 MCP .grok-plugin：把真实故事做成定制歌曲供 Grok 使用（无需 API key）。",
+            "ja": "公開 MCP の .grok-plugin。実話をカスタム曲にして Grok から利用（API キー不要）。"
+          }
+        },
+        {
+          "title": "ToastBuddy — Grok plugin",
+          "url": "https://github.com/msanchezgrice/toastbuddy-grok-plugin",
+          "source": "GB-1489",
+          "blurb": {
+            "en": "Public Streamable HTTP MCP .grok-plugin for drafting wedding/event toasts and cue cards inside Grok.",
+            "zh": "公开 Streamable HTTP MCP .grok-plugin：在 Grok 里起草婚礼/活动祝酒词与提词卡。",
+            "ja": "公開 Streamable HTTP MCP の .grok-plugin。Grok 内で結婚式・イベントの乾杯挨拶とキューカードを起草。"
+          }
+        },
+        {
+          "title": "SurgeryViz — Grok plugin",
+          "url": "https://github.com/msanchezgrice/surgeryviz-grok-plugin",
+          "source": "GB-1488",
+          "blurb": {
+            "en": "Public MCP .grok-plugin that turns a procedure discussion into a visual SurgeryViz preview (no API key).",
+            "zh": "公开 MCP .grok-plugin：把手术/流程讨论变成 SurgeryViz 可视化预览（无需 API key）。",
+            "ja": "公開 MCP の .grok-plugin。手技・手順の議論を SurgeryViz のビジュアルプレビューに（API キー不要）。"
+          }
+        },
+        {
+          "title": "ConjureAnything — Grok plugin",
+          "url": "https://github.com/msanchezgrice/conjureanything-grok-plugin",
+          "source": "GB-1487",
+          "blurb": {
+            "en": "Public MCP .grok-plugin that turns a product idea into specs, BOM, and concept preview images for Grok.",
+            "zh": "面向 Grok 的公开 MCP .grok-plugin：把产品点子变成规格、BOM 与概念预览图。",
+            "ja": "Grok 向け公開 MCP の .grok-plugin。製品アイデアを仕様・BOM・コンセプト画像に。"
+          }
+        },
+        {
+          "title": "Lesuto — Grok Build / Grok Bot plugin",
+          "url": "https://github.com/lesuto/lesuto-grok-plugin",
+          "source": "GB-1486",
+          "blurb": {
+            "en": "Grok Build plugin with .grok-plugin: ask last-30-days metrics, send a Connect invite, and check stock via hosted MCP.",
+            "zh": "Lesuto 的 Grok Build 插件（含 .grok-plugin）：可问近 30 天经营数据、发 Connect 邀约并查库存（托管 MCP）。",
+            "ja": "Lesuto の Grok Build プラグイン（.grok-plugin 付き）。直近30日指標の照会、Connect 招待、在庫確認（ホスト MCP）。"
+          }
+        },
         {
           "title": "5dive-plugins — telegram-grok and multi-harness bridges",
           "url": "https://github.com/5dive-ai/5dive-plugins",
@@ -7875,6 +8055,56 @@
         "ja": "オープンソースの代替"
       },
       "items": [
+        {
+          "title": "Jevbridge — ACP/MCP bridge for Grok Build & peers",
+          "url": "https://github.com/tacticocc/Jevbridge",
+          "source": "GB-1508",
+          "blurb": {
+            "en": "ACP and MCP adapter that bridges TypeSafe Jev computer-use with Codex, Claude, Grok Build, and OpenCode (★25).",
+            "zh": "把 TypeSafe Jev 电脑操控接到 Codex、Claude、Grok Build、OpenCode 的 ACP/MCP 适配器（★25）。",
+            "ja": "TypeSafe Jev のコンピュータ操作を Codex / Claude / Grok Build / OpenCode に繋ぐ ACP/MCP アダプタ（★25）。"
+          }
+        },
+        {
+          "title": "Swaygentic — sandboxed browser harness for Grok Build",
+          "url": "https://github.com/backdoorsecurity/Swaygentic",
+          "source": "GB-1507",
+          "blurb": {
+            "en": "Light sandboxed agentic browser harness built for and with Grok Build; MCP toolbox now usable by other agents too.",
+            "zh": "为 Grok Build 打造的轻量沙箱浏览器 harness（含 MCP 工具箱），现也可给其他 agent 用。",
+            "ja": "Grok Build 向け軽量サンドボックスブラウザ harness（MCP ツール箱）。他 agent からも利用可。"
+          }
+        },
+        {
+          "title": "star-loop — autonomous coding loop for Grok Build",
+          "url": "https://github.com/MrBeldum/star-loop",
+          "source": "GB-1506",
+          "blurb": {
+            "en": "Autonomous coding loop .grok-plugin for Grok Build: one fresh agent per iteration until the work is genuinely done.",
+            "zh": "Grok Build 自主编码循环 .grok-plugin：每轮新开一个 agent，直到活真正做完。",
+            "ja": "Grok Build 向け自律コーディングループ .grok-plugin。反復ごとに新しい agent を起こし、本当に終わるまで回す。"
+          }
+        },
+        {
+          "title": "Hermes + Grok Build + Claude Code connected",
+          "url": "https://github.com/jacobcowanr/Hermes-Grok-Build-and-Claude-Code-Connected",
+          "source": "GB-1505",
+          "blurb": {
+            "en": "Fully local pattern so Hermes, Grok Build, and Claude Code share one append-only AGENT_SYNC.md without cloud brokers.",
+            "zh": "全本地协作模式：Hermes、Grok Build 与 Claude Code 共享同一份追加式 AGENT_SYNC.md，无需云中介。",
+            "ja": "完全ローカル連携。Hermes / Grok Build / Claude Code が追記式 AGENT_SYNC.md を共有し、クラウド仲介なし。"
+          }
+        },
+        {
+          "title": "pstack for Codex — Grok Build / Grok Bot workers",
+          "url": "https://github.com/J0UH/pstack-codex",
+          "source": "GB-1504",
+          "blurb": {
+            "en": "pstack orchestration for Codex with Claude Code workers and optional Grok Build / Grok Bot computer routines.",
+            "zh": "面向 Codex 的 pstack 编排：可挂 Claude Code worker，并可选 Grok Build / Grok Bot 云电脑例程。",
+            "ja": "Codex 向け pstack オーケストレーション。Claude Code worker と任意で Grok Build / Grok Bot 电脑ルーチン。"
+          }
+        },
         {
           "title": "Mnemosyne — local memory kernel for Grok Build",
           "url": "https://github.com/Furinelle/Mnemosyne",
@@ -12505,6 +12735,16 @@
         "ja": "関連リスト"
       },
       "items": [
+        {
+          "title": "grok-style-pi — Grok Build-inspired Pi TUI chrome",
+          "url": "https://github.com/Daedie-git/grok-style-pi",
+          "source": "GB-1509",
+          "blurb": {
+            "en": "Grok Build-inspired TUI chrome for Pi: GrokNight theme, status footer, focused composer, and diamond tool rows.",
+            "zh": "为 Pi 做的 Grok Build 风格 TUI：GrokNight 主题、状态栏、聚焦输入框与菱形工具行。",
+            "ja": "Pi 向け Grok Build 風 TUI。GrokNight テーマ、ステータスフッタ、集中コンポーザ、菱形ツール行。"
+          }
+        },
         {
           "title": "LoopLabsBar — macOS menu bar for Grok Bot & peers",
           "url": "https://github.com/RichStone/LoopLabsBar",

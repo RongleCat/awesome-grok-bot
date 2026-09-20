@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1461-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1485-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,7 +37,7 @@
 
 [Full meetup notes](./EVENTS.md)
 
-- **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Zhuhai](./EVENTS.md#zuh-20260920)
+- **China**（2）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017)
 - **United States**（9）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Los Angeles](./EVENTS.md#lad-20260922) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008)
 - **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
 - **Brazil**（3）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926)
@@ -260,6 +260,9 @@
 
 ## Field Cases
 
+- [Ship by Thursday — Grok Bot Galaxy-style scaffold](https://github.com/Phillipcolvin/ship-by-thursday) - Scaffold inspired by the Grok Bot Galaxy ~9-hour company-build exercise, with docs and a starter web surface.
+- [grokbot-mocap — live face mocap SVG avatar](https://github.com/NODE-Sudbury/grokbot-mocap) - Live face motion-capture projected onto an animated SVG avatar, built by NODE Sudbury for a Grok community event.
+- [Grok Bot Slides — React decks for official guides](https://github.com/wmoralesdev/grok-bot-slides) - React slide decks and live Q&A shell covering Grok Bot 101, Engineering, Founders, GTM, and Ops guides.
 - [Multi-Harness Proof — live Grok Build coordination](https://github.com/xormania/multi-harness-proof) - Confirmed proof that Codex, Claude Code and Grok Build can exchange messages and coordinate work across live native sessions via a local relay.
 - [Gravity Birds — Godot game built with Grok Bot](https://github.com/az9713/grokbot-game-dev-demo) - Original Godot puzzle game Gravity Birds built by a Grok Bot team with a Cursor Cloud Agent, then published as an open demo.
 - [Sherwood Fund Desk — Grok Bot template](https://github.com/sherwoodagent/grokbot-fund-template) - Multi-agent agentic fund desk template for Grok Bot Share-as-Template: Desk Lead plus teammate bootstrap recipes (paper then live propose).
@@ -421,6 +424,21 @@
 
 ## Skills, Plugins & MCP
 
+- [Hydrafetch — live web fetch for Grok Build](https://github.com/Hydrafetch/grok-plugin) - Grok Build .grok-plugin that fetches a URL and returns clean Markdown or structured data via hosted MCP and skills.
+- [shunt — keep big I/O off Grok Build frontier](https://github.com/juancruzmunozalbelo/grok-shunt) - Grok Build plugin that shunts large file I/O and boilerplate off the frontier model onto cheaper workers.
+- [muran-skill — shared skills for Grok Build & peers](https://github.com/MuRanSea/muran-skill) - Personal skill library maintained once and shared across Codex, Claude Code, Pi, OpenCode, and Grok Build (Windows installer).
+- [Timeln — Grok Build memory-layer plugin](https://github.com/Timelnapp/timeln-grok-plugin) - Timeln AI memory layer as a Grok Build .grok-plugin with skills, commands, and hosted MCP.
+- [PostZen — Grok Build social scheduler plugin](https://github.com/postzen-dev/postzen-grok-plugin) - Grok Build .grok-plugin to schedule and publish posts across 10 social platforms via hosted MCP and skills.
+- [Unitpost — official Grok Build email plugin](https://github.com/unitpostcom/unitpost-grok-plugin) - Official Unitpost plugin for Grok Build: send email with approval, manage contacts, campaigns, and domains.
+- [Ordo — Grok Build job scheduler plugin](https://github.com/nathanielgraham/ordo-grok-plugin) - Grok Build .grok-plugin that connects to the hosted Ordo job scheduler MCP with skills.
+- [Expodesk — Grok Bot / Cursor marketplace plugin](https://github.com/ryantenor2/expodesk-grok-plugin) - Official Expodesk marketplace plugin for Grok Bot / Cursor: trade-show lead capture MCP, skills, and booth workflows.
+- [USMail.ai — Cursor / Grok Bot plugin](https://github.com/broadstrokeinc/usmail-cursor-plugin) - Marketplace-style Cursor / Grok Bot plugin pack for USMail.ai MCP (lab+prod) with a branded logo on the Added card.
+- [Our Family Dances — Grok plugin](https://github.com/msanchezgrice/our-family-dances-grok-plugin) - Public MCP .grok-plugin that makes a family dance shout-out song from Grok (no API key).
+- [My Forever Songs — Grok plugin](https://github.com/msanchezgrice/my-forever-songs-grok-plugin) - Public MCP .grok-plugin that turns a real story into a custom song for Grok (no API key).
+- [ToastBuddy — Grok plugin](https://github.com/msanchezgrice/toastbuddy-grok-plugin) - Public Streamable HTTP MCP .grok-plugin for drafting wedding/event toasts and cue cards inside Grok.
+- [SurgeryViz — Grok plugin](https://github.com/msanchezgrice/surgeryviz-grok-plugin) - Public MCP .grok-plugin that turns a procedure discussion into a visual SurgeryViz preview (no API key).
+- [ConjureAnything — Grok plugin](https://github.com/msanchezgrice/conjureanything-grok-plugin) - Public MCP .grok-plugin that turns a product idea into specs, BOM, and concept preview images for Grok.
+- [Lesuto — Grok Build / Grok Bot plugin](https://github.com/lesuto/lesuto-grok-plugin) - Grok Build plugin with .grok-plugin: ask last-30-days metrics, send a Connect invite, and check stock via hosted MCP.
 - [5dive-plugins — telegram-grok and multi-harness bridges](https://github.com/5dive-ai/5dive-plugins) - 5dive plugin marketplace with a telegram-grok runtime fork that bridges Telegram DMs to the xAI Grok / Grok Build CLI via MCP polling.
 - [grok-build-mcp-server — Grok CLI as MCP tools](https://github.com/a3lab01create-bit/grok-build-mcp-server) - TypeScript MCP server that wraps the xAI Grok Build CLI (`grok -p`) so any MCP client can query Grok with your existing login.
 - [grok-build-search — Codex plugin via Grok CLI](https://github.com/lich13/grok-build-search) - Codex marketplace plugin that searches and reads the public web through your signed-in local Grok Build CLI (guarded tools).
@@ -879,6 +897,11 @@
 
 ## Open-Source Alternatives
 
+- [Jevbridge — ACP/MCP bridge for Grok Build & peers](https://github.com/tacticocc/Jevbridge) - ACP and MCP adapter that bridges TypeSafe Jev computer-use with Codex, Claude, Grok Build, and OpenCode (★25).
+- [Swaygentic — sandboxed browser harness for Grok Build](https://github.com/backdoorsecurity/Swaygentic) - Light sandboxed agentic browser harness built for and with Grok Build; MCP toolbox now usable by other agents too.
+- [star-loop — autonomous coding loop for Grok Build](https://github.com/MrBeldum/star-loop) - Autonomous coding loop .grok-plugin for Grok Build: one fresh agent per iteration until the work is genuinely done.
+- [Hermes + Grok Build + Claude Code connected](https://github.com/jacobcowanr/Hermes-Grok-Build-and-Claude-Code-Connected) - Fully local pattern so Hermes, Grok Build, and Claude Code share one append-only AGENT_SYNC.md without cloud brokers.
+- [pstack for Codex — Grok Build / Grok Bot workers](https://github.com/J0UH/pstack-codex) - pstack orchestration for Codex with Claude Code workers and optional Grok Build / Grok Bot computer routines.
 - [Mnemosyne — local memory kernel for Grok Build](https://github.com/Furinelle/Mnemosyne) - Local-first Rust memory kernel so Codex, Claude Code, Grok Build and Antigravity share readable Markdown memories via CLI and MCP.
 - [superx — Grok Build native X tools CLI for agents](https://github.com/enderzcx/superx) - Agent-friendly CLI that wraps Grok Build native X tools (user/keyword/semantic/thread) and caches post bodies as project Markdown.
 - [grokbot-build-relay — Grok Bot → local Grok Build](https://github.com/sec-knight/grokbot-build-relay) - Tiny headless bridge scripts so Grok Bot (or any shell agent) can drive local Grok Build via agent -p/-c without babysitting the TUI.
@@ -1346,6 +1369,7 @@
 
 ## Related Lists
 
+- [grok-style-pi — Grok Build-inspired Pi TUI chrome](https://github.com/Daedie-git/grok-style-pi) - Grok Build-inspired TUI chrome for Pi: GrokNight theme, status footer, focused composer, and diamond tool rows.
 - [LoopLabsBar — macOS menu bar for Grok Bot & peers](https://github.com/RichStone/LoopLabsBar) - CodexBar-style macOS menu-bar status script covering Claude Code, Codex, Cursor, Grok Bot, Grok and GitHub Copilot sessions.
 - [grok-build-prompts — extract prompts from Grok CLI](https://github.com/hearnadam/grok-build-prompts) - Tooling that pins a Grok Build CLI binary and extracts embedded prompt/skill components from Mach-O const sections.
 - [Grok Build Telemetry — live usage companion](https://github.com/foudress/grok-build-telemetry) - Live companion dashboard for Grok Build token usage, cache hit rate and cost, installable beside the official CLI.
@@ -1568,7 +1592,7 @@
 
 ## Contributing
 
-1461 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1485 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

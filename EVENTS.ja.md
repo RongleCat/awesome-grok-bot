@@ -15,9 +15,6 @@
 <a id="wuh-20261017"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/kss59f4e"><img src="./assets/events/wuh-20261017-cover.png" alt="Grok Bot Meetup Wuhan" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Wuhan</strong><br />2026-10-17（土）14:00–17:30（Asia/Shanghai）<br />武漢（会場未定・確定後に Luma で更新）<br /><br />武漢の Grok Bot ミートアップ。アイスブレイク＋シェア／ワークショップ。SpaceXAI 製品説明（ツールにログインし成果を持ち帰る AI チームメイト）。事前登録・承認制、承認後に WeChat グループ。登壇／ボランティア歓迎。主催 Hanbing Zhang、chenchong、yuepu。無料・約150席。同日の sha-20261017 上海とは別開催。<br /><br /><a href="https://luma.com/kss59f4e"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
-<a id="zuh-20260920"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zhuhai-meetup-sep-20"><img src="./assets/events/zuh-20260920-cover.png" alt="Grok Bot 珠海ミートアップ" width="300" /></a></td><td valign="top"><strong>Grok Bot 珠海ミートアップ</strong><br />2026-09-20（日）15:00–17:00（Asia/Hong_Kong、HKT、UTC+8）<br />珠海 · Skyline Incubator（星匯創孵中心）、香洲区跨境二路33号 星匯中心25階<br /><br />SpaceXAI for Macau コミュニティの珠海 Grok Bot ミートアップ（主催 John Ku / Skyline Incubator）。講義でもワークショップでもなく、Grok Bot の使い方や AI プロジェクトを気軽に共有。無料・人数限定・スキャン時 1 名。日英中の案内あり。<br /><br /><a href="https://luma.com/spacexai-zhuhai-meetup-sep-20"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
 <a id="country-us"></a>
 ### アメリカ
 

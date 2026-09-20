@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1461-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1485-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,7 +37,7 @@
 
 [全部活动介绍](./EVENTS.zh.md)
 
-- **中国**（3）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [珠海](./EVENTS.zh.md#zuh-20260920)
+- **中国**（2）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017)
 - **美国**（9）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [迈阿密](./EVENTS.zh.md#mia-20260923) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929) · [洛杉矶](./EVENTS.zh.md#lad-20260922) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008)
 - **加拿大**（5）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
 - **巴西**（3）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20260926)
@@ -260,6 +260,9 @@
 
 ## 真实使用案例
 
+- [Ship by Thursday — Grok Bot Galaxy-style scaffold](https://github.com/Phillipcolvin/ship-by-thursday) - 受 Grok Bot Galaxy 约 9 小时公司搭建练习启发的脚手架，含文档与起步 Web 面。.
+- [grokbot-mocap — live face mocap SVG avatar](https://github.com/NODE-Sudbury/grokbot-mocap) - 实时面部动捕投影到动画 SVG 头像；NODE Sudbury 为 Grok 社区活动而做。.
+- [Grok Bot Slides — React decks for official guides](https://github.com/wmoralesdev/grok-bot-slides) - React 幻灯与现场问答壳：覆盖 Grok Bot 101、工程、创始人、GTM、运营等官方指南主题。.
 - [Multi-Harness Proof — live Grok Build coordination](https://github.com/xormania/multi-harness-proof) - 已确认的实证：Codex、Claude Code 与 Grok Build 可经本地中继在各自原生会话间传消息并协同作业。.
 - [Gravity Birds — Godot game built with Grok Bot](https://github.com/az9713/grokbot-game-dev-demo) - 原创 Godot 解谜游戏 Gravity Birds：由 Grok Bot 团队配合 Cursor Cloud Agent 构建并开源演示。.
 - [Sherwood Fund Desk — Grok Bot template](https://github.com/sherwoodagent/grokbot-fund-template) - 面向 Grok Bot「分享为模板」的多智能体基金桌模板：Desk Lead 与队友引导配方（先纸上交易再可选实盘提议）。.
@@ -421,6 +424,21 @@
 
 ## 技能、插件与 MCP
 
+- [Hydrafetch — live web fetch for Grok Build](https://github.com/Hydrafetch/grok-plugin) - Grok Build .grok-plugin：抓取 URL 并经托管 MCP 与 skills 返回干净 Markdown 或结构化数据。.
+- [shunt — keep big I/O off Grok Build frontier](https://github.com/juancruzmunozalbelo/grok-shunt) - Grok Build 插件：把大文件 I/O 与样板代码从 frontier 模型卸到更便宜的 worker。.
+- [muran-skill — shared skills for Grok Build & peers](https://github.com/MuRanSea/muran-skill) - 个人技能库：一处维护，供 Codex、Claude Code、Pi、OpenCode 与 Grok Build 共用（含 Windows 安装）。.
+- [Timeln — Grok Build memory-layer plugin](https://github.com/Timelnapp/timeln-grok-plugin) - Timeln AI 记忆层的 Grok Build .grok-plugin：含 skills、commands 与托管 MCP。.
+- [PostZen — Grok Build social scheduler plugin](https://github.com/postzen-dev/postzen-grok-plugin) - Grok Build .grok-plugin：经托管 MCP 与 skills 在 10 个社交平台排程并发布。.
+- [Unitpost — official Grok Build email plugin](https://github.com/unitpostcom/unitpost-grok-plugin) - Unitpost 官方 Grok Build 插件：审批后发信，并管理联系人、活动与域名。.
+- [Ordo — Grok Build job scheduler plugin](https://github.com/nathanielgraham/ordo-grok-plugin) - 连接托管 Ordo 任务调度 MCP 的 Grok Build .grok-plugin（含 skills）。.
+- [Expodesk — Grok Bot / Cursor marketplace plugin](https://github.com/ryantenor2/expodesk-grok-plugin) - Expodesk 官方市场插件（Grok Bot / Cursor）：展会线索采集 MCP、skills 与展位工作流。.
+- [USMail.ai — Cursor / Grok Bot plugin](https://github.com/broadstrokeinc/usmail-cursor-plugin) - USMail.ai 的 Cursor / Grok Bot 市场风插件包（lab+prod MCP），Added 卡片显示品牌 Logo。.
+- [Our Family Dances — Grok plugin](https://github.com/msanchezgrice/our-family-dances-grok-plugin) - 公开 MCP .grok-plugin：从 Grok 生成家庭舞蹈 shout-out 歌曲（无需 API key）。.
+- [My Forever Songs — Grok plugin](https://github.com/msanchezgrice/my-forever-songs-grok-plugin) - 公开 MCP .grok-plugin：把真实故事做成定制歌曲供 Grok 使用（无需 API key）。.
+- [ToastBuddy — Grok plugin](https://github.com/msanchezgrice/toastbuddy-grok-plugin) - 公开 Streamable HTTP MCP .grok-plugin：在 Grok 里起草婚礼/活动祝酒词与提词卡。.
+- [SurgeryViz — Grok plugin](https://github.com/msanchezgrice/surgeryviz-grok-plugin) - 公开 MCP .grok-plugin：把手术/流程讨论变成 SurgeryViz 可视化预览（无需 API key）。.
+- [ConjureAnything — Grok plugin](https://github.com/msanchezgrice/conjureanything-grok-plugin) - 面向 Grok 的公开 MCP .grok-plugin：把产品点子变成规格、BOM 与概念预览图。.
+- [Lesuto — Grok Build / Grok Bot plugin](https://github.com/lesuto/lesuto-grok-plugin) - Lesuto 的 Grok Build 插件（含 .grok-plugin）：可问近 30 天经营数据、发 Connect 邀约并查库存（托管 MCP）。.
 - [5dive-plugins — telegram-grok and multi-harness bridges](https://github.com/5dive-ai/5dive-plugins) - 5dive 插件市场：含 telegram-grok 运行时分支，经 MCP 轮询把 Telegram 私信接到 xAI Grok / Grok Build CLI。.
 - [grok-build-mcp-server — Grok CLI as MCP tools](https://github.com/a3lab01create-bit/grok-build-mcp-server) - TypeScript MCP 服务器：封装 xAI Grok Build CLI（`grok -p`），让任意 MCP 客户端用你现有登录调用 Grok。.
 - [grok-build-search — Codex plugin via Grok CLI](https://github.com/lich13/grok-build-search) - Codex 市场插件：经你已登录的本地 Grok Build CLI（受控工具）搜索并阅读公开网页。.
@@ -879,6 +897,11 @@
 
 ## 开源替代
 
+- [Jevbridge — ACP/MCP bridge for Grok Build & peers](https://github.com/tacticocc/Jevbridge) - 把 TypeSafe Jev 电脑操控接到 Codex、Claude、Grok Build、OpenCode 的 ACP/MCP 适配器（★25）。.
+- [Swaygentic — sandboxed browser harness for Grok Build](https://github.com/backdoorsecurity/Swaygentic) - 为 Grok Build 打造的轻量沙箱浏览器 harness（含 MCP 工具箱），现也可给其他 agent 用。.
+- [star-loop — autonomous coding loop for Grok Build](https://github.com/MrBeldum/star-loop) - Grok Build 自主编码循环 .grok-plugin：每轮新开一个 agent，直到活真正做完。.
+- [Hermes + Grok Build + Claude Code connected](https://github.com/jacobcowanr/Hermes-Grok-Build-and-Claude-Code-Connected) - 全本地协作模式：Hermes、Grok Build 与 Claude Code 共享同一份追加式 AGENT_SYNC.md，无需云中介。.
+- [pstack for Codex — Grok Build / Grok Bot workers](https://github.com/J0UH/pstack-codex) - 面向 Codex 的 pstack 编排：可挂 Claude Code worker，并可选 Grok Build / Grok Bot 云电脑例程。.
 - [Mnemosyne — local memory kernel for Grok Build](https://github.com/Furinelle/Mnemosyne) - 本地优先的 Rust 记忆内核：让 Codex、Claude Code、Grok Build、Antigravity 经 CLI/MCP 共享可读 Markdown 记忆。.
 - [superx — Grok Build native X tools CLI for agents](https://github.com/enderzcx/superx) - 面向 Agent 的 CLI：封装 Grok Build 原生 X 工具（用户/关键词/语义/线程），并把帖文缓存为项目内 Markdown。.
 - [grokbot-build-relay — Grok Bot → local Grok Build](https://github.com/sec-knight/grokbot-build-relay) - 轻量无头桥接脚本：让 Grok Bot（或任意 shell 智能体）用 agent -p/-c 驱动本机 Grok Build，无需盯着 TUI。.
@@ -1346,6 +1369,7 @@
 
 ## 相关列表
 
+- [grok-style-pi — Grok Build-inspired Pi TUI chrome](https://github.com/Daedie-git/grok-style-pi) - 为 Pi 做的 Grok Build 风格 TUI：GrokNight 主题、状态栏、聚焦输入框与菱形工具行。.
 - [LoopLabsBar — macOS menu bar for Grok Bot & peers](https://github.com/RichStone/LoopLabsBar) - 类 CodexBar 的 macOS 菜单栏状态脚本，覆盖 Claude Code、Codex、Cursor、Grok Bot、Grok 与 GitHub Copilot 会话。.
 - [grok-build-prompts — extract prompts from Grok CLI](https://github.com/hearnadam/grok-build-prompts) - 固定 Grok Build CLI 二进制版本，并从 Mach-O const 段提取内嵌 prompt / skill 组件的工具。.
 - [Grok Build Telemetry — live usage companion](https://github.com/foudress/grok-build-telemetry) - Grok Build 伴生仪表盘：实时显示 token 用量、缓存命中与费用，可装在官方 CLI 旁。.
@@ -1568,7 +1592,7 @@
 
 ## 贡献
 
-目前 8 个分类、1461 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1485 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
