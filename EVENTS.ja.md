@@ -249,12 +249,6 @@
 <a id="ceb-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot Meetup Cebu" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cebu</strong><br />2026-10-10（土）09:00–11:30（Asia/Manila / PHT）<br />フィリピン・マンダウエ Zero-Ten Park Cebu Mandaue（オフライン）<br /><br />セブの対面 Grok Bot（2026-10-10（土）に変更）。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
-<a id="country-sv"></a>
-### エルサルバドル
-
-<a id="sal-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/bot"><img src="./assets/events/sal-20260919-cover.png" alt="Grok Bot Meetup サンサルバドル" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup サンサルバドル</strong><br />2026-09-19（土）15:00–19:00（El Salvador）<br />サンサルバドル · 住所 TBD（登録後に表示）<br /><br />Ai Labs 主催のサンサルバドル Grok Bot ミートアップ。単発タスクを超える指示・文脈・一気通貫フローを探る（約 50 going）。<br /><br /><a href="https://luma.com/bot"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
 <a id="country-ug"></a>
 ### ウガンダ
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1437-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1461-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -65,7 +65,6 @@
 - **缅甸**（1）：[仰光](./EVENTS.zh.md#ygn-20260926)
 - **荷兰**（1）：[阿姆斯特丹](./EVENTS.zh.md#ams-20260922)
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
-- **萨尔瓦多**（1）：[圣萨尔瓦多](./EVENTS.zh.md#sal-20260919)
 - **乌干达**（1）：[坎帕拉](./EVENTS.zh.md#kla-20261003)
 - **乌兹别克斯坦**（1）：[塔什干](./EVENTS.zh.md#tas-20260929)
 - **赞比亚**（1）：[卢萨卡](./EVENTS.zh.md#lun-20261002)
@@ -186,6 +185,8 @@
 
 ## 教程与上手指南
 
+- [Grok Bot asar recovery — tree-sitter startup fix](https://github.com/Pitchfork-and-Torch/grok-bot-asar-recovery) - 社区恢复手册：Grok Bot 桌面端因损坏的 app.asar（tree-sitter 依赖空桩）无法启动时的修复步骤。.
+- [Grok Bot ↔ Hermes Remote — SSH linkup handoff](https://github.com/0x-wzw/hermes-grok-ssh-handoff) - 脱敏交接文档（无密钥）：经 Tailscale SSH 把 Grok Bot 接到 Hermes Desktop/Remote，并复用多路 profile API 网关。.
 - [Grok Bot Galaxy Archive — Whisper + bot metadata](https://github.com/weichselbaum/grok-bot-galaxy-archive) - SpaceXAI Grok Bot Galaxy 直播社区归档：完整 Whisper 转写，以及结构化的 bots/approaches/code 元数据。.
 - [GrokBot Galaxy Corpus — Days 1–3 retrieval pack](https://github.com/KJ5IRQ/grokbot-galaxy-corpus) - 有出处的 GrokBot Galaxy 第 1–3 天语料：转写、技术参考、SQLite/JSONL 检索与 LLM agent SKILL.md。.
 - [Grok Bot Garmin Coach — MCP setup guide](https://github.com/mellor28/grokbot-garmin-coach-setup) - 把 Grok Bot 做成跑步教练的安装指南与可粘贴提示：经 MCP 按需读 Garmin Connect（仓库不含凭证）。.
@@ -259,6 +260,9 @@
 
 ## 真实使用案例
 
+- [Multi-Harness Proof — live Grok Build coordination](https://github.com/xormania/multi-harness-proof) - 已确认的实证：Codex、Claude Code 与 Grok Build 可经本地中继在各自原生会话间传消息并协同作业。.
+- [Gravity Birds — Godot game built with Grok Bot](https://github.com/az9713/grokbot-game-dev-demo) - 原创 Godot 解谜游戏 Gravity Birds：由 Grok Bot 团队配合 Cursor Cloud Agent 构建并开源演示。.
+- [Sherwood Fund Desk — Grok Bot template](https://github.com/sherwoodagent/grokbot-fund-template) - 面向 Grok Bot「分享为模板」的多智能体基金桌模板：Desk Lead 与队友引导配方（先纸上交易再可选实盘提议）。.
 - [grok-bot-fiverr — Fiverr sourcing Grok Bot](https://github.com/sea517/grok-bot-fiverr) - Grok Bot 在 Fiverr 上招自由职业者的技能与看板：浏览器会话搜人、筛选，并邀请 GitHub 作业。.
 - [Eye of Grok — human-facing Grok Bot org map](https://github.com/supe-log/eye-of-grok) - 给人看的 Grok Bot 组织图（Next.js）：由幕僚长 Bot 推送花名册，人类判断精简方案（Vercel 有演示）。.
 - [INDEXX — Grok Bot Instagram Saved wiki](https://github.com/NYLLON-SOFTWARE/indexx) - Grok Bot 技能脚手架：把 Instagram Saved 做成个人媒体维基（转写、标签、带引用页面；Mac 优先）。.
@@ -417,6 +421,17 @@
 
 ## 技能、插件与 MCP
 
+- [5dive-plugins — telegram-grok and multi-harness bridges](https://github.com/5dive-ai/5dive-plugins) - 5dive 插件市场：含 telegram-grok 运行时分支，经 MCP 轮询把 Telegram 私信接到 xAI Grok / Grok Build CLI。.
+- [grok-build-mcp-server — Grok CLI as MCP tools](https://github.com/a3lab01create-bit/grok-build-mcp-server) - TypeScript MCP 服务器：封装 xAI Grok Build CLI（`grok -p`），让任意 MCP 客户端用你现有登录调用 Grok。.
+- [grok-build-search — Codex plugin via Grok CLI](https://github.com/lich13/grok-build-search) - Codex 市场插件：经你已登录的本地 Grok Build CLI（受控工具）搜索并阅读公开网页。.
+- [Any-to-Grok-Build — session control for any harness](https://github.com/ZiChenWang114514/Any-to-Grok-Build) - 面向任意兼容编码宿主的本地 Grok Build 会话控制：用 SKILL.md 与 agents 检查上下文并精确恢复会话。.
+- [grok-build-delegate — headless Grok Build skill](https://github.com/letya999/grok-build-delegate) - 无头 Grok Build 委派 skill：跨平台 Python 封装、经 xAI 执行，并用 JSON 回调回传给其他智能体。.
+- [grok-delegate — MCP bridge to Grok CLI](https://github.com/zai-one/grok-build-mcp) - MCP stdio 桥：把编码循环交给本地 Grok CLI，并向 Claude Code / Cursor / Codex 宿主返回可核验收据。.
+- [Grok Build Skills — 18 platform skill packs](https://github.com/byron-public/grok-build-skills) - 从 Grok Build 应用构建环境整理的 18 套原始 agent skills 与平台参考（界面、游戏、认证、部署）。.
+- [Hermes skill — delegate to Grok Build CLI](https://github.com/collettsystems/hermes-grok-build-skill) - Hermes Agent 的 SKILL.md：把有界无头编码、审查与验证委派给 xAI Grok Build CLI。.
+- [agents-acp — Codex/Claude plugin for Grok Build ACP](https://github.com/HarveyZgit/agents-acp) - Codex / Claude Code 插件：把限定任务委派给本地 ACP 智能体，适配 Grok Build 与 Cursor CLI。.
+- [Domain Scan — official Grok Build MCP plugin](https://github.com/EnriqueITE/domainscan-mcp-grok-plugin) - CYBERACE Domain Scan 官方 .grok-plugin：让 Grok Build 经托管 HTTPS MCP 做域名安全扫描。.
+- [Grok Personalities — 12 modes for chat & Grok Build](https://github.com/trigger6980/grok-personalities) - 12 套可切换回复人格：同时覆盖 Grok 聊天 Custom Agents 与 Grok Build personas，并附人格切换 skill。.
 - [pCloud MCP — hostable storage for Grok / Grokbot iOS](https://github.com/rghrb/pcloud-mcp) - 可自托管的 pCloud MCP：让 Grok、Grokbot iOS、Claude 等 MCP 客户端浏览、读写与分享网盘文件。.
 - [Ormus Jev — TypeSafe Jev teaching pack for Grok Bot](https://github.com/HermeticOrmus/ormus-jev) - 给 Grok Bot 用的 TypeSafe Jev 开源教学包：决策门、主张核验、上下文筛查三车道，含 skills 与示例。.
 - [grok-build-plugin — Grok Build for any coding agent](https://github.com/VasiHemanth/grok-build-plugin) - 跨宿主 Grok Build 插件：MCP grok_search 与 /grok:search|/review|/rescue，让 Claude Code、Codex、Cursor 调用 Grok Build。.
@@ -864,6 +879,8 @@
 
 ## 开源替代
 
+- [Mnemosyne — local memory kernel for Grok Build](https://github.com/Furinelle/Mnemosyne) - 本地优先的 Rust 记忆内核：让 Codex、Claude Code、Grok Build、Antigravity 经 CLI/MCP 共享可读 Markdown 记忆。.
+- [superx — Grok Build native X tools CLI for agents](https://github.com/enderzcx/superx) - 面向 Agent 的 CLI：封装 Grok Build 原生 X 工具（用户/关键词/语义/线程），并把帖文缓存为项目内 Markdown。.
 - [grokbot-build-relay — Grok Bot → local Grok Build](https://github.com/sec-knight/grokbot-build-relay) - 轻量无头桥接脚本：让 Grok Bot（或任意 shell 智能体）用 agent -p/-c 驱动本机 Grok Build，无需盯着 TUI。.
 - [Foundry harness — GrokBot-class Pi package](https://github.com/mit-bach/foundry-harness) - Pi coding-agent 包：把 Pi 变成 GrokBot 级工位（命名机器人、车道、房间、记忆、例行与人工审批）。.
 - [Adjutant UI Windows — Grok Build web console](https://github.com/acequint0/adjutant-ui-windows) - Adjutant UI 的 Windows 移植：ConPTY 与 adjutant --elevated，用浏览器控制台包裹本机 Grok Build TUI。.
@@ -1329,6 +1346,12 @@
 
 ## 相关列表
 
+- [LoopLabsBar — macOS menu bar for Grok Bot & peers](https://github.com/RichStone/LoopLabsBar) - 类 CodexBar 的 macOS 菜单栏状态脚本，覆盖 Claude Code、Codex、Cursor、Grok Bot、Grok 与 GitHub Copilot 会话。.
+- [grok-build-prompts — extract prompts from Grok CLI](https://github.com/hearnadam/grok-build-prompts) - 固定 Grok Build CLI 二进制版本，并从 Mach-O const 段提取内嵌 prompt / skill 组件的工具。.
+- [Grok Build Telemetry — live usage companion](https://github.com/foudress/grok-build-telemetry) - Grok Build 伴生仪表盘：实时显示 token 用量、缓存命中与费用，可装在官方 CLI 旁。.
+- [Grok-Build-Desktop — desktop agent over Grok CLI/ACP](https://github.com/nct88/Grok-Build-Desktop) - 非官方桌面 Agent 壳：经 ACP 驱动本地 Grok Build CLI，在原版 TUI 之外做编码任务。.
+- [grok-build-zh — Chinese UI for Grok Build TUI](https://github.com/akinokoiri/grok-build-zh) - xAI Grok Build TUI 社区汉化版，适配 Windows 11，并带自动构建与发布。.
+- [persona-voice — local voices for Grok Bot](https://github.com/miuuyy/persona-voice) - 为 ChatGPT、Codex 与 Grok Bot 提供本地近实时自定义输出语音，让智能体用选定人设开口说话。.
 - [agf — fuzzy-find AI coding sessions (incl. Grok Build)](https://github.com/subinium/agf) - 本地优先的模糊查找器（Rust）：跨 Claude Code、Codex、Grok Build 等搜索并恢复编程代理会话，含 TUI、JSON 与可选 MCP。.
 - [NetGoat PM board for Grok Bot agents](https://github.com/duckeydev/pm) - Next.js 看板：只用 GitHub Issues 当队列，让 Grok Bot 智能体与人类共享同一状态板。.
 - [grokbot.se Swedish setup site](https://github.com/joakimengerstam/grokbot) - 面向 grokbot.se 的 Astro 静态站：讲解如何把 Grok Bot 设为 Cursor/xAI 桌面助手。.
@@ -1545,7 +1568,7 @@
 
 ## 贡献
 
-目前 8 个分类、1437 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1461 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

@@ -1016,6 +1016,26 @@
       },
       "items": [
         {
+          "title": "Grok Bot asar recovery — tree-sitter startup fix",
+          "url": "https://github.com/Pitchfork-and-Torch/grok-bot-asar-recovery",
+          "source": "GB-1477",
+          "blurb": {
+            "en": "Community recovery runbook when Grok Bot desktop fails to start after a broken app.asar leaves empty tree-sitter dep stubs.",
+            "zh": "社区恢复手册：Grok Bot 桌面端因损坏的 app.asar（tree-sitter 依赖空桩）无法启动时的修复步骤。",
+            "ja": "コミュニティ復旧手順。壊れた app.asar（tree-sitter 依存の空スタブ）で Grok Bot デスクトップが起動しない時の直し方。"
+          }
+        },
+        {
+          "title": "Grok Bot ↔ Hermes Remote — SSH linkup handoff",
+          "url": "https://github.com/0x-wzw/hermes-grok-ssh-handoff",
+          "source": "GB-1476",
+          "blurb": {
+            "en": "Sanitized runbook (no secrets) for wiring Grok Bot to Hermes Desktop/Remote over Tailscale SSH with a multiplexed profile API gateway.",
+            "zh": "脱敏交接文档（无密钥）：经 Tailscale SSH 把 Grok Bot 接到 Hermes Desktop/Remote，并复用多路 profile API 网关。",
+            "ja": "秘密情報なしの手順書。Tailscale SSH で Grok Bot を Hermes Desktop/Remote に接続し、多重化 profile API ゲートウェイを使う。"
+          }
+        },
+        {
           "title": "Grok Bot Galaxy Archive — Whisper + bot metadata",
           "url": "https://github.com/weichselbaum/grok-bot-galaxy-archive",
           "source": "GB-1460",
@@ -1725,6 +1745,36 @@
         "ja": "実地事例"
       },
       "items": [
+        {
+          "title": "Multi-Harness Proof — live Grok Build coordination",
+          "url": "https://github.com/xormania/multi-harness-proof",
+          "source": "GB-1475",
+          "blurb": {
+            "en": "Confirmed proof that Codex, Claude Code and Grok Build can exchange messages and coordinate work across live native sessions via a local relay.",
+            "zh": "已确认的实证：Codex、Claude Code 与 Grok Build 可经本地中继在各自原生会话间传消息并协同作业。",
+            "ja": "実証済み。Codex / Claude Code / Grok Build がローカル中継でライブネイティブセッション間にメッセージ交換・協調できる。"
+          }
+        },
+        {
+          "title": "Gravity Birds — Godot game built with Grok Bot",
+          "url": "https://github.com/az9713/grokbot-game-dev-demo",
+          "source": "GB-1474",
+          "blurb": {
+            "en": "Original Godot puzzle game Gravity Birds built by a Grok Bot team with a Cursor Cloud Agent, then published as an open demo.",
+            "zh": "原创 Godot 解谜游戏 Gravity Birds：由 Grok Bot 团队配合 Cursor Cloud Agent 构建并开源演示。",
+            "ja": "オリジナル Godot パズル Gravity Birds。Grok Bot チームと Cursor Cloud Agent で構築しデモ公開。"
+          }
+        },
+        {
+          "title": "Sherwood Fund Desk — Grok Bot template",
+          "url": "https://github.com/sherwoodagent/grokbot-fund-template",
+          "source": "GB-1473",
+          "blurb": {
+            "en": "Multi-agent agentic fund desk template for Grok Bot Share-as-Template: Desk Lead plus teammate bootstrap recipes (paper then live propose).",
+            "zh": "面向 Grok Bot「分享为模板」的多智能体基金桌模板：Desk Lead 与队友引导配方（先纸上交易再可选实盘提议）。",
+            "ja": "Grok Bot の Share as Template 向けマルチエージェント投資デスク。Desk Lead とチームメイト導入レシピ（ペーパー→任意で実提案）。"
+          }
+        },
         {
           "title": "grok-bot-fiverr — Fiverr sourcing Grok Bot",
           "url": "https://github.com/sea517/grok-bot-fiverr",
@@ -3285,6 +3335,116 @@
         "ja": "スキル、プラグインと MCP"
       },
       "items": [
+        {
+          "title": "5dive-plugins — telegram-grok and multi-harness bridges",
+          "url": "https://github.com/5dive-ai/5dive-plugins",
+          "source": "GB-1472",
+          "blurb": {
+            "en": "5dive plugin marketplace with a telegram-grok runtime fork that bridges Telegram DMs to the xAI Grok / Grok Build CLI via MCP polling.",
+            "zh": "5dive 插件市场：含 telegram-grok 运行时分支，经 MCP 轮询把 Telegram 私信接到 xAI Grok / Grok Build CLI。",
+            "ja": "5dive プラグイン市場。telegram-grok ランタイム分岐で Telegram DM を MCP ポーリング経由で xAI Grok / Grok Build CLI に接続。"
+          }
+        },
+        {
+          "title": "grok-build-mcp-server — Grok CLI as MCP tools",
+          "url": "https://github.com/a3lab01create-bit/grok-build-mcp-server",
+          "source": "GB-1471",
+          "blurb": {
+            "en": "TypeScript MCP server that wraps the xAI Grok Build CLI (`grok -p`) so any MCP client can query Grok with your existing login.",
+            "zh": "TypeScript MCP 服务器：封装 xAI Grok Build CLI（`grok -p`），让任意 MCP 客户端用你现有登录调用 Grok。",
+            "ja": "xAI Grok Build CLI（`grok -p`）を包む TypeScript MCP サーバ。既存ログインのまま任意 MCP クライアントから Grok を呼べる。"
+          }
+        },
+        {
+          "title": "grok-build-search — Codex plugin via Grok CLI",
+          "url": "https://github.com/lich13/grok-build-search",
+          "source": "GB-1470",
+          "blurb": {
+            "en": "Codex marketplace plugin that searches and reads the public web through your signed-in local Grok Build CLI (guarded tools).",
+            "zh": "Codex 市场插件：经你已登录的本地 Grok Build CLI（受控工具）搜索并阅读公开网页。",
+            "ja": "Codex マーケットプラグイン。サインイン済みローカル Grok Build CLI（ガード付きツール）で公開 Web を検索・閲覧。"
+          }
+        },
+        {
+          "title": "Any-to-Grok-Build — session control for any harness",
+          "url": "https://github.com/ZiChenWang114514/Any-to-Grok-Build",
+          "source": "GB-1469",
+          "blurb": {
+            "en": "Local Grok Build session control for any compatible coding harness: inspect context and resume exact sessions via SKILL.md and agents.",
+            "zh": "面向任意兼容编码宿主的本地 Grok Build 会话控制：用 SKILL.md 与 agents 检查上下文并精确恢复会话。",
+            "ja": "互換コーディングハーネス向けのローカル Grok Build セッション制御。SKILL.md と agents で文脈確認・正確な再開。"
+          }
+        },
+        {
+          "title": "grok-build-delegate — headless Grok Build skill",
+          "url": "https://github.com/letya999/grok-build-delegate",
+          "source": "GB-1468",
+          "blurb": {
+            "en": "Headless Grok Build delegate skill with a cross-platform Python wrapper, xAI-backed execution and JSON callbacks for other agents.",
+            "zh": "无头 Grok Build 委派 skill：跨平台 Python 封装、经 xAI 执行，并用 JSON 回调回传给其他智能体。",
+            "ja": "ヘッドレス Grok Build 委譲 skill。クロスプラットフォーム Python ラッパ、xAI 実行、他エージェント向け JSON コールバック。"
+          }
+        },
+        {
+          "title": "grok-delegate — MCP bridge to Grok CLI",
+          "url": "https://github.com/zai-one/grok-build-mcp",
+          "source": "GB-1467",
+          "blurb": {
+            "en": "MCP stdio bridge that hands the coding loop to the local Grok CLI and returns a verified receipt for Claude Code, Cursor or Codex hosts.",
+            "zh": "MCP stdio 桥：把编码循环交给本地 Grok CLI，并向 Claude Code / Cursor / Codex 宿主返回可核验收据。",
+            "ja": "MCP stdio ブリッジ。コーディングループをローカル Grok CLI に渡し、Claude Code / Cursor / Codex へ検証済みレシートを返す。"
+          }
+        },
+        {
+          "title": "Grok Build Skills — 18 platform skill packs",
+          "url": "https://github.com/byron-public/grok-build-skills",
+          "source": "GB-1466",
+          "blurb": {
+            "en": "Eighteen original agent skills and platform references captured from the Grok Build app-builder environment (UI, games, auth, deploy).",
+            "zh": "从 Grok Build 应用构建环境整理的 18 套原始 agent skills 与平台参考（界面、游戏、认证、部署）。",
+            "ja": "Grok Build アプリ構築環境から採取した 18 の agent skills とプラットフォーム参照（UI・ゲーム・認証・デプロイ）。"
+          }
+        },
+        {
+          "title": "Hermes skill — delegate to Grok Build CLI",
+          "url": "https://github.com/collettsystems/hermes-grok-build-skill",
+          "source": "GB-1465",
+          "blurb": {
+            "en": "Hermes Agent SKILL.md pack for bounded headless runs that delegate coding, review and verification to the xAI Grok Build CLI.",
+            "zh": "Hermes Agent 的 SKILL.md：把有界无头编码、审查与验证委派给 xAI Grok Build CLI。",
+            "ja": "Hermes Agent 用 SKILL.md。有界ヘッドレス実行でコーディング・レビュー・検証を xAI Grok Build CLI に委譲。"
+          }
+        },
+        {
+          "title": "agents-acp — Codex/Claude plugin for Grok Build ACP",
+          "url": "https://github.com/HarveyZgit/agents-acp",
+          "source": "GB-1464",
+          "blurb": {
+            "en": "Codex and Claude Code plugin that delegates scoped tasks to local ACP agents, with adapters for Grok Build and Cursor CLI.",
+            "zh": "Codex / Claude Code 插件：把限定任务委派给本地 ACP 智能体，适配 Grok Build 与 Cursor CLI。",
+            "ja": "Codex / Claude Code プラグイン。スコープ付きタスクをローカル ACP エージェントへ委譲し、Grok Build と Cursor CLI を適応。"
+          }
+        },
+        {
+          "title": "Domain Scan — official Grok Build MCP plugin",
+          "url": "https://github.com/EnriqueITE/domainscan-mcp-grok-plugin",
+          "source": "GB-1463",
+          "blurb": {
+            "en": "Official Domain Scan by CYBERACE .grok-plugin that points Grok Build at a hosted HTTPS MCP for domain security scans.",
+            "zh": "CYBERACE Domain Scan 官方 .grok-plugin：让 Grok Build 经托管 HTTPS MCP 做域名安全扫描。",
+            "ja": "CYBERACE Domain Scan 公式 .grok-plugin。ホスト型 HTTPS MCP で Grok Build からドメインセキュリティスキャン。"
+          }
+        },
+        {
+          "title": "Grok Personalities — 12 modes for chat & Grok Build",
+          "url": "https://github.com/trigger6980/grok-personalities",
+          "source": "GB-1462",
+          "blurb": {
+            "en": "Twelve switchable response personalities for Grok chat Custom Agents and Grok Build personas, plus a personality-switcher skill.",
+            "zh": "12 套可切换回复人格：同时覆盖 Grok 聊天 Custom Agents 与 Grok Build personas，并附人格切换 skill。",
+            "ja": "Grok チャット Custom Agents と Grok Build personas 向けの切替可能人格 12 種と、人格切替 skill。"
+          }
+        },
         {
           "title": "pCloud MCP — hostable storage for Grok / Grokbot iOS",
           "url": "https://github.com/rghrb/pcloud-mcp",
@@ -7715,6 +7875,26 @@
         "ja": "オープンソースの代替"
       },
       "items": [
+        {
+          "title": "Mnemosyne — local memory kernel for Grok Build",
+          "url": "https://github.com/Furinelle/Mnemosyne",
+          "source": "GB-1479",
+          "blurb": {
+            "en": "Local-first Rust memory kernel so Codex, Claude Code, Grok Build and Antigravity share readable Markdown memories via CLI and MCP.",
+            "zh": "本地优先的 Rust 记忆内核：让 Codex、Claude Code、Grok Build、Antigravity 经 CLI/MCP 共享可读 Markdown 记忆。",
+            "ja": "ローカルファーストの Rust メモリカーネル。Codex / Claude Code / Grok Build / Antigravity が CLI・MCP で Markdown 記憶を共有。"
+          }
+        },
+        {
+          "title": "superx — Grok Build native X tools CLI for agents",
+          "url": "https://github.com/enderzcx/superx",
+          "source": "GB-1478",
+          "blurb": {
+            "en": "Agent-friendly CLI that wraps Grok Build native X tools (user/keyword/semantic/thread) and caches post bodies as project Markdown.",
+            "zh": "面向 Agent 的 CLI：封装 Grok Build 原生 X 工具（用户/关键词/语义/线程），并把帖文缓存为项目内 Markdown。",
+            "ja": "エージェント向け CLI。Grok Build ネイティブ X ツール（user/keyword/semantic/thread）を包み、本文をプロジェクト Markdown にキャッシュ。"
+          }
+        },
         {
           "title": "grokbot-build-relay — Grok Bot → local Grok Build",
           "url": "https://github.com/sec-knight/grokbot-build-relay",
@@ -12325,6 +12505,66 @@
         "ja": "関連リスト"
       },
       "items": [
+        {
+          "title": "LoopLabsBar — macOS menu bar for Grok Bot & peers",
+          "url": "https://github.com/RichStone/LoopLabsBar",
+          "source": "GB-1485",
+          "blurb": {
+            "en": "CodexBar-style macOS menu-bar status script covering Claude Code, Codex, Cursor, Grok Bot, Grok and GitHub Copilot sessions.",
+            "zh": "类 CodexBar 的 macOS 菜单栏状态脚本，覆盖 Claude Code、Codex、Cursor、Grok Bot、Grok 与 GitHub Copilot 会话。",
+            "ja": "CodexBar 風の macOS メニューバー。Claude Code / Codex / Cursor / Grok Bot / Grok / GitHub Copilot セッションを表示。"
+          }
+        },
+        {
+          "title": "grok-build-prompts — extract prompts from Grok CLI",
+          "url": "https://github.com/hearnadam/grok-build-prompts",
+          "source": "GB-1484",
+          "blurb": {
+            "en": "Tooling that pins a Grok Build CLI binary and extracts embedded prompt/skill components from Mach-O const sections.",
+            "zh": "固定 Grok Build CLI 二进制版本，并从 Mach-O const 段提取内嵌 prompt / skill 组件的工具。",
+            "ja": "Grok Build CLI バイナリをピン留めし、Mach-O const セクションから埋め込み prompt / skill を抽出するツール。"
+          }
+        },
+        {
+          "title": "Grok Build Telemetry — live usage companion",
+          "url": "https://github.com/foudress/grok-build-telemetry",
+          "source": "GB-1483",
+          "blurb": {
+            "en": "Live companion dashboard for Grok Build token usage, cache hit rate and cost, installable beside the official CLI.",
+            "zh": "Grok Build 伴生仪表盘：实时显示 token 用量、缓存命中与费用，可装在官方 CLI 旁。",
+            "ja": "Grok Build 伴走ダッシュボード。token 使用量・キャッシュ・コストをリアルタイム表示。公式 CLI の横に導入可。"
+          }
+        },
+        {
+          "title": "Grok-Build-Desktop — desktop agent over Grok CLI/ACP",
+          "url": "https://github.com/nct88/Grok-Build-Desktop",
+          "source": "GB-1482",
+          "blurb": {
+            "en": "Unofficial desktop agent shell that drives the local Grok Build CLI over ACP for coding tasks outside the stock TUI.",
+            "zh": "非官方桌面 Agent 壳：经 ACP 驱动本地 Grok Build CLI，在原版 TUI 之外做编码任务。",
+            "ja": "非公式デスクトップエージェント。ACP 経由でローカル Grok Build CLI を駆動し、標準 TUI 外でコーディング。"
+          }
+        },
+        {
+          "title": "grok-build-zh — Chinese UI for Grok Build TUI",
+          "url": "https://github.com/akinokoiri/grok-build-zh",
+          "source": "GB-1481",
+          "blurb": {
+            "en": "Community Chinese localization of the xAI Grok Build TUI with Windows 11 adaptations and automated build/release.",
+            "zh": "xAI Grok Build TUI 社区汉化版，适配 Windows 11，并带自动构建与发布。",
+            "ja": "xAI Grok Build TUI のコミュニティ中国語化。Windows 11 対応と自動ビルド／リリース付き。"
+          }
+        },
+        {
+          "title": "persona-voice — local voices for Grok Bot",
+          "url": "https://github.com/miuuyy/persona-voice",
+          "source": "GB-1480",
+          "blurb": {
+            "en": "Custom local near-real-time output voices for ChatGPT, Codex and Grok Bot so agents can speak in a chosen persona.",
+            "zh": "为 ChatGPT、Codex 与 Grok Bot 提供本地近实时自定义输出语音，让智能体用选定人设开口说话。",
+            "ja": "ChatGPT / Codex / Grok Bot 向けのローカル準リアルタイム音声。選んだペルソナでエージェントが発話。"
+          }
+        },
         {
           "title": "agf — fuzzy-find AI coding sessions (incl. Grok Build)",
           "url": "https://github.com/subinium/agf",

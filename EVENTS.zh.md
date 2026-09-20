@@ -249,12 +249,6 @@
 <a id="ceb-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot 宿务线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 宿务线下交流</strong><br />2026-10-10 周六 09:00–11:30（Asia/Manila / PHT）<br />菲律宾中央维萨亚斯 曼达韦 Zero-Ten Park Cebu Mandaue（线下）<br /><br />宿务线下 Grok Bot（改期至 2026-10-10 周六）。需主办审核。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
-<a id="country-sv"></a>
-### 萨尔瓦多
-
-<a id="sal-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/bot"><img src="./assets/events/sal-20260919-cover.png" alt="Grok Bot 见面会圣萨尔瓦多" width="300" /></a></td><td valign="top"><strong>Grok Bot 见面会圣萨尔瓦多</strong><br />2026-09-19 周六 15:00–19:00（萨尔瓦多）<br />萨尔瓦多圣萨尔瓦多 · 地址待定（报名后可见）<br /><br />Ai Labs 在圣萨尔瓦多办的 Grok Bot 见面会：用更好的指令、上下文与端到端流程，而不只是零散任务（约 50 人意向）。<br /><br /><a href="https://luma.com/bot"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
 <a id="country-ug"></a>
 ### 乌干达
 

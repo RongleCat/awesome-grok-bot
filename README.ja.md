@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1437-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1461-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -65,7 +65,6 @@
 - **ミャンマー**（1）：[ヤンゴン](./EVENTS.ja.md#ygn-20260926)
 - **オランダ**（1）：[アムステルダム](./EVENTS.ja.md#ams-20260922)
 - **フィリピン**（1）：[セブ](./EVENTS.ja.md#ceb-20260919)
-- **エルサルバドル**（1）：[サンサルバドル](./EVENTS.ja.md#sal-20260919)
 - **ウガンダ**（1）：[カンパラ](./EVENTS.ja.md#kla-20261003)
 - **ウズベキスタン**（1）：[タシュケント](./EVENTS.ja.md#tas-20260929)
 - **ザンビア**（1）：[ルサカ](./EVENTS.ja.md#lun-20261002)
@@ -186,6 +185,8 @@
 
 ## チュートリアルとガイド
 
+- [Grok Bot asar recovery — tree-sitter startup fix](https://github.com/Pitchfork-and-Torch/grok-bot-asar-recovery) - コミュニティ復旧手順。壊れた app.asar（tree-sitter 依存の空スタブ）で Grok Bot デスクトップが起動しない時の直し方。
+- [Grok Bot ↔ Hermes Remote — SSH linkup handoff](https://github.com/0x-wzw/hermes-grok-ssh-handoff) - 秘密情報なしの手順書。Tailscale SSH で Grok Bot を Hermes Desktop/Remote に接続し、多重化 profile API ゲートウェイを使う。
 - [Grok Bot Galaxy Archive — Whisper + bot metadata](https://github.com/weichselbaum/grok-bot-galaxy-archive) - SpaceXAI Grok Bot Galaxy 配信のコミュニティ保管庫。Whisper 全文起こしと bots/approaches/code メタデータ。
 - [GrokBot Galaxy Corpus — Days 1–3 retrieval pack](https://github.com/KJ5IRQ/grokbot-galaxy-corpus) - 出典付き Galaxy Days 1–3 コーパス。文字起こし・技術参照・SQLite/JSONL 検索と LLM agent SKILL.md。
 - [Grok Bot Garmin Coach — MCP setup guide](https://github.com/mellor28/grokbot-garmin-coach-setup) - Grok Bot をランニングコーチにするセットアップ案内とコピペ用プロンプト。MCP で Garmin Connect を都度参照（リポに認証情報なし）。
@@ -259,6 +260,9 @@
 
 ## 実地事例
 
+- [Multi-Harness Proof — live Grok Build coordination](https://github.com/xormania/multi-harness-proof) - 実証済み。Codex / Claude Code / Grok Build がローカル中継でライブネイティブセッション間にメッセージ交換・協調できる。
+- [Gravity Birds — Godot game built with Grok Bot](https://github.com/az9713/grokbot-game-dev-demo) - オリジナル Godot パズル Gravity Birds。Grok Bot チームと Cursor Cloud Agent で構築しデモ公開。
+- [Sherwood Fund Desk — Grok Bot template](https://github.com/sherwoodagent/grokbot-fund-template) - Grok Bot の Share as Template 向けマルチエージェント投資デスク。Desk Lead とチームメイト導入レシピ（ペーパー→任意で実提案）。
 - [grok-bot-fiverr — Fiverr sourcing Grok Bot](https://github.com/sea517/grok-bot-fiverr) - Grok Bot が Fiverr でフリーランスを探す skills とダッシュボード。ブラウザセッションで検索・選考し GitHub 課題を招待。
 - [Eye of Grok — human-facing Grok Bot org map](https://github.com/supe-log/eye-of-grok) - 人向け Grok Bot 組織図（Next.js）。Chief of Staff Bot が名簿を押し、人間が縮小案を判断（Vercel デモあり）。
 - [INDEXX — Grok Bot Instagram Saved wiki](https://github.com/NYLLON-SOFTWARE/indexx) - Grok Bot スキル足場。Instagram Saved を文字起こし・タグ・引用ページ付きの個人メディア wiki に（Mac 優先）。
@@ -417,6 +421,17 @@
 
 ## スキル、プラグインと MCP
 
+- [5dive-plugins — telegram-grok and multi-harness bridges](https://github.com/5dive-ai/5dive-plugins) - 5dive プラグイン市場。telegram-grok ランタイム分岐で Telegram DM を MCP ポーリング経由で xAI Grok / Grok Build CLI に接続。
+- [grok-build-mcp-server — Grok CLI as MCP tools](https://github.com/a3lab01create-bit/grok-build-mcp-server) - xAI Grok Build CLI（`grok -p`）を包む TypeScript MCP サーバ。既存ログインのまま任意 MCP クライアントから Grok を呼べる。
+- [grok-build-search — Codex plugin via Grok CLI](https://github.com/lich13/grok-build-search) - Codex マーケットプラグイン。サインイン済みローカル Grok Build CLI（ガード付きツール）で公開 Web を検索・閲覧。
+- [Any-to-Grok-Build — session control for any harness](https://github.com/ZiChenWang114514/Any-to-Grok-Build) - 互換コーディングハーネス向けのローカル Grok Build セッション制御。SKILL.md と agents で文脈確認・正確な再開。
+- [grok-build-delegate — headless Grok Build skill](https://github.com/letya999/grok-build-delegate) - ヘッドレス Grok Build 委譲 skill。クロスプラットフォーム Python ラッパ、xAI 実行、他エージェント向け JSON コールバック。
+- [grok-delegate — MCP bridge to Grok CLI](https://github.com/zai-one/grok-build-mcp) - MCP stdio ブリッジ。コーディングループをローカル Grok CLI に渡し、Claude Code / Cursor / Codex へ検証済みレシートを返す。
+- [Grok Build Skills — 18 platform skill packs](https://github.com/byron-public/grok-build-skills) - Grok Build アプリ構築環境から採取した 18 の agent skills とプラットフォーム参照（UI・ゲーム・認証・デプロイ）。
+- [Hermes skill — delegate to Grok Build CLI](https://github.com/collettsystems/hermes-grok-build-skill) - Hermes Agent 用 SKILL.md。有界ヘッドレス実行でコーディング・レビュー・検証を xAI Grok Build CLI に委譲。
+- [agents-acp — Codex/Claude plugin for Grok Build ACP](https://github.com/HarveyZgit/agents-acp) - Codex / Claude Code プラグイン。スコープ付きタスクをローカル ACP エージェントへ委譲し、Grok Build と Cursor CLI を適応。
+- [Domain Scan — official Grok Build MCP plugin](https://github.com/EnriqueITE/domainscan-mcp-grok-plugin) - CYBERACE Domain Scan 公式 .grok-plugin。ホスト型 HTTPS MCP で Grok Build からドメインセキュリティスキャン。
+- [Grok Personalities — 12 modes for chat & Grok Build](https://github.com/trigger6980/grok-personalities) - Grok チャット Custom Agents と Grok Build personas 向けの切替可能人格 12 種と、人格切替 skill。
 - [pCloud MCP — hostable storage for Grok / Grokbot iOS](https://github.com/rghrb/pcloud-mcp) - 自ホスト可能な pCloud MCP。Grok / Grokbot iOS / Claude などからファイル閲覧・読書き・共有。
 - [Ormus Jev — TypeSafe Jev teaching pack for Grok Bot](https://github.com/HermeticOrmus/ormus-jev) - Grok Bot 向け TypeSafe Jev 公開教材。意思決定ゲート・主張検証・コンテキスト筛いの三レーン、skills と例付き。
 - [grok-build-plugin — Grok Build for any coding agent](https://github.com/VasiHemanth/grok-build-plugin) - 横断エージェント用 Grok Build プラグイン。MCP grok_search と /grok:search|/review|/rescue で Claude Code / Codex / Cursor から駆動。
@@ -864,6 +879,8 @@
 
 ## オープンソースの代替
 
+- [Mnemosyne — local memory kernel for Grok Build](https://github.com/Furinelle/Mnemosyne) - ローカルファーストの Rust メモリカーネル。Codex / Claude Code / Grok Build / Antigravity が CLI・MCP で Markdown 記憶を共有。
+- [superx — Grok Build native X tools CLI for agents](https://github.com/enderzcx/superx) - エージェント向け CLI。Grok Build ネイティブ X ツール（user/keyword/semantic/thread）を包み、本文をプロジェクト Markdown にキャッシュ。
 - [grokbot-build-relay — Grok Bot → local Grok Build](https://github.com/sec-knight/grokbot-build-relay) - 軽量ヘッドレス橋渡し。Grok Bot（や任意シェルエージェント）が agent -p/-c でローカル Grok Build を駆動し TUI 監視不要。
 - [Foundry harness — GrokBot-class Pi package](https://github.com/mit-bach/foundry-harness) - Pi coding-agent パッケージ。Pi を GrokBot 級フロアに（名前付きボット・レーン・部屋・記憶・ルーチン・承認）。
 - [Adjutant UI Windows — Grok Build web console](https://github.com/acequint0/adjutant-ui-windows) - Adjutant UI の Windows 移植。ConPTY と adjutant --elevated でローカル Grok Build TUI をブラウザコンソール化。
@@ -1329,6 +1346,12 @@
 
 ## 関連リスト
 
+- [LoopLabsBar — macOS menu bar for Grok Bot & peers](https://github.com/RichStone/LoopLabsBar) - CodexBar 風の macOS メニューバー。Claude Code / Codex / Cursor / Grok Bot / Grok / GitHub Copilot セッションを表示。
+- [grok-build-prompts — extract prompts from Grok CLI](https://github.com/hearnadam/grok-build-prompts) - Grok Build CLI バイナリをピン留めし、Mach-O const セクションから埋め込み prompt / skill を抽出するツール。
+- [Grok Build Telemetry — live usage companion](https://github.com/foudress/grok-build-telemetry) - Grok Build 伴走ダッシュボード。token 使用量・キャッシュ・コストをリアルタイム表示。公式 CLI の横に導入可。
+- [Grok-Build-Desktop — desktop agent over Grok CLI/ACP](https://github.com/nct88/Grok-Build-Desktop) - 非公式デスクトップエージェント。ACP 経由でローカル Grok Build CLI を駆動し、標準 TUI 外でコーディング。
+- [grok-build-zh — Chinese UI for Grok Build TUI](https://github.com/akinokoiri/grok-build-zh) - xAI Grok Build TUI のコミュニティ中国語化。Windows 11 対応と自動ビルド／リリース付き。
+- [persona-voice — local voices for Grok Bot](https://github.com/miuuyy/persona-voice) - ChatGPT / Codex / Grok Bot 向けのローカル準リアルタイム音声。選んだペルソナでエージェントが発話。
 - [agf — fuzzy-find AI coding sessions (incl. Grok Build)](https://github.com/subinium/agf) - ローカル優先のファジーファインダ（Rust）。Claude Code / Codex / Grok Build などのコーディングエージェントセッションを検索・再開。TUI・JSON・任意 MCP。
 - [NetGoat PM board for Grok Bot agents](https://github.com/duckeydev/pm) - Next.js カンバン。キューは GitHub Issues のみ。Grok Bot と人間が同じステータス板を共有。
 - [grokbot.se Swedish setup site](https://github.com/joakimengerstam/grokbot) - grokbot.se 向け Astro 静的サイト。Cursor / xAI デスクトップ助手としての Grok Bot 導入を説明。
@@ -1545,7 +1568,7 @@
 
 ## 貢献
 
-8 セクションに 1437 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1461 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

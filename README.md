@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1437-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1461-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -65,7 +65,6 @@
 - **Myanmar**（1）：[Yangon](./EVENTS.md#ygn-20260926)
 - **Netherlands**（1）：[Amsterdam](./EVENTS.md#ams-20260922)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
-- **El Salvador**（1）：[San Salvador](./EVENTS.md#sal-20260919)
 - **Uganda**（1）：[Kampala](./EVENTS.md#kla-20261003)
 - **Uzbekistan**（1）：[Tashkent](./EVENTS.md#tas-20260929)
 - **Zambia**（1）：[Lusaka](./EVENTS.md#lun-20261002)
@@ -186,6 +185,8 @@
 
 ## Tutorials & Guides
 
+- [Grok Bot asar recovery — tree-sitter startup fix](https://github.com/Pitchfork-and-Torch/grok-bot-asar-recovery) - Community recovery runbook when Grok Bot desktop fails to start after a broken app.asar leaves empty tree-sitter dep stubs.
+- [Grok Bot ↔ Hermes Remote — SSH linkup handoff](https://github.com/0x-wzw/hermes-grok-ssh-handoff) - Sanitized runbook (no secrets) for wiring Grok Bot to Hermes Desktop/Remote over Tailscale SSH with a multiplexed profile API gateway.
 - [Grok Bot Galaxy Archive — Whisper + bot metadata](https://github.com/weichselbaum/grok-bot-galaxy-archive) - Community archive of SpaceXAI Grok Bot Galaxy livestreams: full Whisper transcripts plus structured bots/approaches/code metadata.
 - [GrokBot Galaxy Corpus — Days 1–3 retrieval pack](https://github.com/KJ5IRQ/grokbot-galaxy-corpus) - Source-grounded Galaxy Days 1–3 corpus with transcripts, technical refs, SQLite/JSONL retrieval and an LLM agent SKILL.md.
 - [Grok Bot Garmin Coach — MCP setup guide](https://github.com/mellor28/grokbot-garmin-coach-setup) - Setup guide and copy-paste prompts for a Grok Bot running coach that reads Garmin Connect on demand via MCP (no credentials in-repo).
@@ -259,6 +260,9 @@
 
 ## Field Cases
 
+- [Multi-Harness Proof — live Grok Build coordination](https://github.com/xormania/multi-harness-proof) - Confirmed proof that Codex, Claude Code and Grok Build can exchange messages and coordinate work across live native sessions via a local relay.
+- [Gravity Birds — Godot game built with Grok Bot](https://github.com/az9713/grokbot-game-dev-demo) - Original Godot puzzle game Gravity Birds built by a Grok Bot team with a Cursor Cloud Agent, then published as an open demo.
+- [Sherwood Fund Desk — Grok Bot template](https://github.com/sherwoodagent/grokbot-fund-template) - Multi-agent agentic fund desk template for Grok Bot Share-as-Template: Desk Lead plus teammate bootstrap recipes (paper then live propose).
 - [grok-bot-fiverr — Fiverr sourcing Grok Bot](https://github.com/sea517/grok-bot-fiverr) - Source-of-truth skills and dashboard for a Grok Bot that sources Fiverr freelancers via browser session, screens them, and invites GitHub take-homes.
 - [Eye of Grok — human-facing Grok Bot org map](https://github.com/supe-log/eye-of-grok) - Next.js org map so humans can see a Grok Bot fleet roster pushed by a Chief of Staff bot and judge lean-up plans (live demo on Vercel).
 - [INDEXX — Grok Bot Instagram Saved wiki](https://github.com/NYLLON-SOFTWARE/indexx) - Grok Bot skill scaffolding that turns Instagram Saved into a personal media wiki with transcripts, tags and cited pages (Mac-first).
@@ -417,6 +421,17 @@
 
 ## Skills, Plugins & MCP
 
+- [5dive-plugins — telegram-grok and multi-harness bridges](https://github.com/5dive-ai/5dive-plugins) - 5dive plugin marketplace with a telegram-grok runtime fork that bridges Telegram DMs to the xAI Grok / Grok Build CLI via MCP polling.
+- [grok-build-mcp-server — Grok CLI as MCP tools](https://github.com/a3lab01create-bit/grok-build-mcp-server) - TypeScript MCP server that wraps the xAI Grok Build CLI (`grok -p`) so any MCP client can query Grok with your existing login.
+- [grok-build-search — Codex plugin via Grok CLI](https://github.com/lich13/grok-build-search) - Codex marketplace plugin that searches and reads the public web through your signed-in local Grok Build CLI (guarded tools).
+- [Any-to-Grok-Build — session control for any harness](https://github.com/ZiChenWang114514/Any-to-Grok-Build) - Local Grok Build session control for any compatible coding harness: inspect context and resume exact sessions via SKILL.md and agents.
+- [grok-build-delegate — headless Grok Build skill](https://github.com/letya999/grok-build-delegate) - Headless Grok Build delegate skill with a cross-platform Python wrapper, xAI-backed execution and JSON callbacks for other agents.
+- [grok-delegate — MCP bridge to Grok CLI](https://github.com/zai-one/grok-build-mcp) - MCP stdio bridge that hands the coding loop to the local Grok CLI and returns a verified receipt for Claude Code, Cursor or Codex hosts.
+- [Grok Build Skills — 18 platform skill packs](https://github.com/byron-public/grok-build-skills) - Eighteen original agent skills and platform references captured from the Grok Build app-builder environment (UI, games, auth, deploy).
+- [Hermes skill — delegate to Grok Build CLI](https://github.com/collettsystems/hermes-grok-build-skill) - Hermes Agent SKILL.md pack for bounded headless runs that delegate coding, review and verification to the xAI Grok Build CLI.
+- [agents-acp — Codex/Claude plugin for Grok Build ACP](https://github.com/HarveyZgit/agents-acp) - Codex and Claude Code plugin that delegates scoped tasks to local ACP agents, with adapters for Grok Build and Cursor CLI.
+- [Domain Scan — official Grok Build MCP plugin](https://github.com/EnriqueITE/domainscan-mcp-grok-plugin) - Official Domain Scan by CYBERACE .grok-plugin that points Grok Build at a hosted HTTPS MCP for domain security scans.
+- [Grok Personalities — 12 modes for chat & Grok Build](https://github.com/trigger6980/grok-personalities) - Twelve switchable response personalities for Grok chat Custom Agents and Grok Build personas, plus a personality-switcher skill.
 - [pCloud MCP — hostable storage for Grok / Grokbot iOS](https://github.com/rghrb/pcloud-mcp) - Hostable MCP server for pCloud storage so Grok, Grokbot iOS, Claude and other MCP clients can browse, read, write and share files.
 - [Ormus Jev — TypeSafe Jev teaching pack for Grok Bot](https://github.com/HermeticOrmus/ormus-jev) - Open teaching pack for TypeSafe Jev in Grok Bot: decision gate, claim verify, and context-screen lanes with skills and examples.
 - [grok-build-plugin — Grok Build for any coding agent](https://github.com/VasiHemanth/grok-build-plugin) - Cross-agent Grok Build plugin: MCP grok_search plus /grok:search|/grok:review|/grok:rescue so Claude Code, Codex and Cursor can drive Grok Build.
@@ -864,6 +879,8 @@
 
 ## Open-Source Alternatives
 
+- [Mnemosyne — local memory kernel for Grok Build](https://github.com/Furinelle/Mnemosyne) - Local-first Rust memory kernel so Codex, Claude Code, Grok Build and Antigravity share readable Markdown memories via CLI and MCP.
+- [superx — Grok Build native X tools CLI for agents](https://github.com/enderzcx/superx) - Agent-friendly CLI that wraps Grok Build native X tools (user/keyword/semantic/thread) and caches post bodies as project Markdown.
 - [grokbot-build-relay — Grok Bot → local Grok Build](https://github.com/sec-knight/grokbot-build-relay) - Tiny headless bridge scripts so Grok Bot (or any shell agent) can drive local Grok Build via agent -p/-c without babysitting the TUI.
 - [Foundry harness — GrokBot-class Pi package](https://github.com/mit-bach/foundry-harness) - Pi coding-agent package that turns Pi into a GrokBot-class floor: named bots, lanes, rooms, memory, routines and operator approvals.
 - [Adjutant UI Windows — Grok Build web console](https://github.com/acequint0/adjutant-ui-windows) - Windows port of Adjutant UI: ConPTY + adjutant --elevated browser console wrapping the local Grok Build TUI.
@@ -1329,6 +1346,12 @@
 
 ## Related Lists
 
+- [LoopLabsBar — macOS menu bar for Grok Bot & peers](https://github.com/RichStone/LoopLabsBar) - CodexBar-style macOS menu-bar status script covering Claude Code, Codex, Cursor, Grok Bot, Grok and GitHub Copilot sessions.
+- [grok-build-prompts — extract prompts from Grok CLI](https://github.com/hearnadam/grok-build-prompts) - Tooling that pins a Grok Build CLI binary and extracts embedded prompt/skill components from Mach-O const sections.
+- [Grok Build Telemetry — live usage companion](https://github.com/foudress/grok-build-telemetry) - Live companion dashboard for Grok Build token usage, cache hit rate and cost, installable beside the official CLI.
+- [Grok-Build-Desktop — desktop agent over Grok CLI/ACP](https://github.com/nct88/Grok-Build-Desktop) - Unofficial desktop agent shell that drives the local Grok Build CLI over ACP for coding tasks outside the stock TUI.
+- [grok-build-zh — Chinese UI for Grok Build TUI](https://github.com/akinokoiri/grok-build-zh) - Community Chinese localization of the xAI Grok Build TUI with Windows 11 adaptations and automated build/release.
+- [persona-voice — local voices for Grok Bot](https://github.com/miuuyy/persona-voice) - Custom local near-real-time output voices for ChatGPT, Codex and Grok Bot so agents can speak in a chosen persona.
 - [agf — fuzzy-find AI coding sessions (incl. Grok Build)](https://github.com/subinium/agf) - Local-first fuzzy finder (Rust) to search and resume AI coding-agent sessions across Claude Code, Codex, Grok Build, and peers—with TUI, JSON, and optional MCP.
 - [NetGoat PM board for Grok Bot agents](https://github.com/duckeydev/pm) - Next.js kanban that uses GitHub issues as the only queue so Grok Bot agents and humans share one status board.
 - [grokbot.se Swedish setup site](https://github.com/joakimengerstam/grokbot) - Astro static site for grokbot.se explaining how to set up Grok Bots as Cursor/xAI desktop assistants.
@@ -1545,7 +1568,7 @@
 
 ## Contributing
 
-1437 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1461 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
