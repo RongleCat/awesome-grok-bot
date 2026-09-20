@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1416-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1437-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,22 +38,21 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（3）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [珠海](./EVENTS.zh.md#zuh-20260920)
-- **美国**（10）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [达拉斯](./EVENTS.zh.md#dal-20260919) · [迈阿密](./EVENTS.zh.md#mia-20260923) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929) · [洛杉矶](./EVENTS.zh.md#lad-20260922) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008)
+- **美国**（9）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [迈阿密](./EVENTS.zh.md#mia-20260923) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929) · [洛杉矶](./EVENTS.zh.md#lad-20260922) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008)
 - **加拿大**（5）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
 - **巴西**（3）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20260926)
-- **印度尼西亚**（3）：[巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [万隆](./EVENTS.zh.md#bdg-20260919) · [雅加达](./EVENTS.zh.md#jkt-20261003)
 - **墨西哥**（3）：[普埃布拉](./EVENTS.zh.md#pue-20260924) · [奇瓦瓦](./EVENTS.zh.md#cuu-20260924) · [墨西哥城](./EVENTS.zh.md#cdmx-20260926)
 - **德国**（2）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015)
 - **厄瓜多尔**（2）：[基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
 - **西班牙**（2）：[巴塞罗那](./EVENTS.zh.md#bcn-20260929) · [马德里](./EVENTS.zh.md#mad-20260929)
 - **危地马拉**（2）：[克萨尔特南戈](./EVENTS.zh.md#xela-20260920) · [危地马拉城](./EVENTS.zh.md#gua-20261003)
+- **印度尼西亚**（2）：[巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [雅加达](./EVENTS.zh.md#jkt-20261003)
 - **哈萨克斯坦**（2）：[阿斯塔纳](./EVENTS.zh.md#nqz-20261002) · [阿拉木图](./EVENTS.zh.md#ala-20261004)
 - **越南**（2）：[岘港](./EVENTS.zh.md#dad-20261003) · [胡志明市](./EVENTS.zh.md#sgn-20260926)
 - **阿根廷**（1）：[门多萨](./EVENTS.zh.md#mdz-20261003)
 - **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
 - **阿塞拜疆**（1）：[巴库](./EVENTS.zh.md#bak-20260927)
 - **孟加拉国**（1）：[达卡](./EVENTS.zh.md#dac-20260920)
-- **比利时**（1）：[鲁汶](./EVENTS.zh.md#leu-20260919)
 - **贝宁**（1）：[科托努](./EVENTS.zh.md#coo-20261003)
 - **玻利维亚**（1）：[圣克鲁斯](./EVENTS.zh.md#vvi-20260926)
 - **格鲁吉亚**（1）：[第比利斯](./EVENTS.zh.md#tbs-20260926)
@@ -63,7 +62,6 @@
 - **吉尔吉斯斯坦**（1）：[比什凯克](./EVENTS.zh.md#fru-20261001)
 - **柬埔寨**（1）：[金边](./EVENTS.zh.md#pnh-20261003)
 - **科威特**（1）：[科威特](./EVENTS.zh.md#kwi-20260922)
-- **摩洛哥**（1）：[卡萨布兰卡](./EVENTS.zh.md#cas-20260919)
 - **缅甸**（1）：[仰光](./EVENTS.zh.md#ygn-20260926)
 - **荷兰**（1）：[阿姆斯特丹](./EVENTS.zh.md#ams-20260922)
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
@@ -188,6 +186,9 @@
 
 ## 教程与上手指南
 
+- [Grok Bot Galaxy Archive — Whisper + bot metadata](https://github.com/weichselbaum/grok-bot-galaxy-archive) - SpaceXAI Grok Bot Galaxy 直播社区归档：完整 Whisper 转写，以及结构化的 bots/approaches/code 元数据。.
+- [GrokBot Galaxy Corpus — Days 1–3 retrieval pack](https://github.com/KJ5IRQ/grokbot-galaxy-corpus) - 有出处的 GrokBot Galaxy 第 1–3 天语料：转写、技术参考、SQLite/JSONL 检索与 LLM agent SKILL.md。.
+- [Grok Bot Garmin Coach — MCP setup guide](https://github.com/mellor28/grokbot-garmin-coach-setup) - 把 Grok Bot 做成跑步教练的安装指南与可粘贴提示：经 MCP 按需读 Garmin Connect（仓库不含凭证）。.
 - [How to Get Started with Grok Bot](https://debbie.codes/blog/how-to-get-started-with-grok-bot) - Debbie 上手：第一个 Bot、CoS prompt、怎么重组编制。.
 - [Grok Bot Masterclass](https://www.dailydoseofds.com/p/grok-bot-masterclass/) - Avi / Daily Dose：录一遍变 skill，再挂 routine，笔记本合上仍跑。.
 - [How to Set Up Grok Bot and Build Your First AI Agents](https://www.mindstudio.ai/blog/grok-bot-setup-guide) - 从安装到第一个 Agent，并写清 Heavy / Ultra / Teams 门槛。.
@@ -258,6 +259,9 @@
 
 ## 真实使用案例
 
+- [grok-bot-fiverr — Fiverr sourcing Grok Bot](https://github.com/sea517/grok-bot-fiverr) - Grok Bot 在 Fiverr 上招自由职业者的技能与看板：浏览器会话搜人、筛选，并邀请 GitHub 作业。.
+- [Eye of Grok — human-facing Grok Bot org map](https://github.com/supe-log/eye-of-grok) - 给人看的 Grok Bot 组织图（Next.js）：由幕僚长 Bot 推送花名册，人类判断精简方案（Vercel 有演示）。.
+- [INDEXX — Grok Bot Instagram Saved wiki](https://github.com/NYLLON-SOFTWARE/indexx) - Grok Bot 技能脚手架：把 Instagram Saved 做成个人媒体维基（转写、标签、带引用页面；Mac 优先）。.
 - [my-working-party — Grok Bot work canvas](https://github.com/kaibairen/my-working-party) - Grok Bot 工作画布案例：中英规划/状态板，研讨 Boundary Harness（护栏而非监工）如何与云端队友一起交货。.
 - [grokbot-jev-jobs — Jev triage + Grok Bot ATS apply](https://github.com/mcgalleg/grokbot-jev-jobs) - 公开求职应用：用 TypeSafe Jev 筛选职位，再 webhook 触发 Grok Bot（Resume Rudy）填写 ATS 并经密钥接口回写状态。.
 - [Sprite Portal Grok Bot nursery UI](https://github.com/hkclaw/sprite-portal) - 本机 Vite 仪表盘：六个品牌化 Grok Bot 精灵房间、桌面事项与人设字段。.
@@ -413,6 +417,14 @@
 
 ## 技能、插件与 MCP
 
+- [pCloud MCP — hostable storage for Grok / Grokbot iOS](https://github.com/rghrb/pcloud-mcp) - 可自托管的 pCloud MCP：让 Grok、Grokbot iOS、Claude 等 MCP 客户端浏览、读写与分享网盘文件。.
+- [Ormus Jev — TypeSafe Jev teaching pack for Grok Bot](https://github.com/HermeticOrmus/ormus-jev) - 给 Grok Bot 用的 TypeSafe Jev 开源教学包：决策门、主张核验、上下文筛查三车道，含 skills 与示例。.
+- [grok-build-plugin — Grok Build for any coding agent](https://github.com/VasiHemanth/grok-build-plugin) - 跨宿主 Grok Build 插件：MCP grok_search 与 /grok:search|/review|/rescue，让 Claude Code、Codex、Cursor 调用 Grok Build。.
+- [Agent Skills — Grok Build engineering pack (TS/Python)](https://github.com/g-tavares14/agent-skills) - 面向 Grok Build / Codex 的 .grok-plugin：工程 skills、专家 agents 与 /agent-skills:* 生命周期命令（TypeScript / Python）。.
+- [openllm-bots — Grok Bot as OpenLLM orchestrator](https://github.com/MindDragonLabs/openllm-bots) - 多编排机器人单体仓库（Grok Bot、Cursor、Muse、Hermes），经 openllm mcp 共用 OpenLLM 模型层。.
+- [Vexa — meeting-bot plugin for Grok](https://github.com/Vexa-ai/grok-plugin) - Vexa 的 .grok-plugin：经托管 Vexa MCP 把转写机器人送进进行中的 Google Meet、Teams 或 Zoom。.
+- [Grok Bot Jev Router — TypeSafe decision layer](https://github.com/Bodila51/grok-bot-jev) - 开源参考实现：把 TypeSafe Jev 接到 Grok Bot，作为低成本决策层（复用缓存、限制调研、请示人类）再做高成本工作。.
+- [pipe0 — official Grok Bot / Grok Build plugin](https://github.com/pipe-0/grokbot-plugin) - pipe0 官方插件（含 .grok-plugin 与托管 MCP）：让 Grok Bot / Grok Build 搜人搜公司、补全联系方式并操作 pipe0 Sheets。.
 - [Portals — Grok Build browser-games plugin](https://github.com/portals-labs/portals-plugin-grok) - Portals.to 的原生 Grok Build .grok-plugin：内置 portals-web-games MCP 与技能，可在代理里构建、管理、发布并调优浏览器游戏经济。.
 - [PerkOS Floor — Grok Bot desk plugin](https://github.com/PerkOS-xyz/PerkOS-Grok-Plugin) - 面向 PerkOS Floor 工位的 Grok Bot 插件：粘贴一次 Floor 邀请，经托管 MCP/WSS 出站连接，并用 desk-watch / desk-task 技能起草待办，Bot 不持有消费密钥。.
 - [LLM Pulse — Cursor / Grok Bot MCP plugin](https://github.com/LLM-Pulse/llm-pulse-plugin) - LLM Pulse 官方市场插件（Cursor / Grok Bot）：OAuth 接入托管 MCP，查品牌可见度、引用、情绪与竞品提示词，无需粘贴 API Key。.
@@ -852,6 +864,12 @@
 
 ## 开源替代
 
+- [grokbot-build-relay — Grok Bot → local Grok Build](https://github.com/sec-knight/grokbot-build-relay) - 轻量无头桥接脚本：让 Grok Bot（或任意 shell 智能体）用 agent -p/-c 驱动本机 Grok Build，无需盯着 TUI。.
+- [Foundry harness — GrokBot-class Pi package](https://github.com/mit-bach/foundry-harness) - Pi coding-agent 包：把 Pi 变成 GrokBot 级工位（命名机器人、车道、房间、记忆、例行与人工审批）。.
+- [Adjutant UI Windows — Grok Build web console](https://github.com/acequint0/adjutant-ui-windows) - Adjutant UI 的 Windows 移植：ConPTY 与 adjutant --elevated，用浏览器控制台包裹本机 Grok Build TUI。.
+- [PorkBot — open-source Grok Bot alternative](https://github.com/0xZ0uk/PorkBot) - 自托管单操作者 AI 队友平台（pnpm/Turborepo 单体仓），定位为开源 Grok Bot 替代。.
+- [Grok Build Desktop — Windows-first community client](https://github.com/wangyingxuan383-ai/grok-build-desktop) - 非官方、Windows 优先的 Grok Build CLI 桌面客户端（ACP）：会话、插件/技能中心、额度面板与实验性 Computer Use。.
+- [Agent Exchange (ax) — multi-harness local messaging](https://github.com/rcdexta/agent-exchange) - 本地消息 CLI（ax）：让 Claude Code、Codex、Grok Build、OpenCode 保留各自 TUI，按名字互通。.
 - [agentsfleet — prebuilt AI teammate fleets](https://github.com/agentsfleet/agentsfleet) - 面向重复工程活的预置 AI 队友舰队运行时（沙箱舰队、CLI、CI），定位于类 Grok Bot 的私有队友运维。.
 - [Xora Code — open-source Grok Build desktop (Theia)](https://github.com/WhiteNightShadow/xora-code) - 基于 Eclipse Theia + Electron + ACP 的开源 Grok Build 桌面：多会话 Agent、Diff 审阅、Skills、MCP 与自定义主题，把代理装进完整 IDE 壳。.
 - [PinkCode — desktop GUI for Grok Build](https://github.com/3xian/PinkCode) - Grok Build 桌面 GUI：多会话任务板、实时时间线、工作区浏览器与权限弹窗，不必困在 TUI 里也能驾驭 ACP 会话。.
@@ -1133,6 +1151,7 @@
 
 ## 社区与故障现场
 
+- [Local-exec file tools stay in the user profile root (staff)](https://forum.cursor.com/t/copyfrombox-and-read-refuse-paths-outside-user-profile-after-0-57-1-outside-the-allowed-local-exec-root/172349) - Staff（deanrie，2026-09-19）：注册本机上 Read / CopyFromBox / CopyToBox 仅限用户配置目录（如 C:\Users\<you>），Shell 无此限制——因此 D:\/G:\ 以及解析到配置目录外的 junction 会被文件工具拒绝。变通：先 CopyFromBox 到主目录再用 Shell 移动，或直接用 Shell（Get-Content / Copy-Item）读写其他盘。团队在评估是让文件工具与 Shell 同范围，还是让 Bot 在路径越界时改用 Shell。.
 - [Forum: 1Password connector needs one-time Mac setup (Windows)](https://forum.cursor.com/t/1password-connector/172310) - 官方人员提示（2026-09-19）：Windows 上 1Password 的 Connect 按钮易误导——Grok Bot 首次绑定须在装有 1Password 桌面端的 Mac 上完成一次，之后 Windows 才能用。.
 - [Forum: Introducing Grok Bot](https://forum.cursor.com/t/introducing-grok-bot/168053) - 首发帖：上线 48 小时里大家真正在问什么。.
 - [Bots are not a security boundary](https://forum.cursor.com/t/grok-bot-ship-real-session-fences-bots-are-not-a-security-boundary/168476) - 必读：账号下所有 Bot 看见同一套登录和文件。.
@@ -1526,7 +1545,7 @@
 
 ## 贡献
 
-目前 8 个分类、1416 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1437 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

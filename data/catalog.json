@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -1016,6 +1016,36 @@
       },
       "items": [
         {
+          "title": "Grok Bot Galaxy Archive — Whisper + bot metadata",
+          "url": "https://github.com/weichselbaum/grok-bot-galaxy-archive",
+          "source": "GB-1460",
+          "blurb": {
+            "en": "Community archive of SpaceXAI Grok Bot Galaxy livestreams: full Whisper transcripts plus structured bots/approaches/code metadata.",
+            "zh": "SpaceXAI Grok Bot Galaxy 直播社区归档：完整 Whisper 转写，以及结构化的 bots/approaches/code 元数据。",
+            "ja": "SpaceXAI Grok Bot Galaxy 配信のコミュニティ保管庫。Whisper 全文起こしと bots/approaches/code メタデータ。"
+          }
+        },
+        {
+          "title": "GrokBot Galaxy Corpus — Days 1–3 retrieval pack",
+          "url": "https://github.com/KJ5IRQ/grokbot-galaxy-corpus",
+          "source": "GB-1459",
+          "blurb": {
+            "en": "Source-grounded Galaxy Days 1–3 corpus with transcripts, technical refs, SQLite/JSONL retrieval and an LLM agent SKILL.md.",
+            "zh": "有出处的 GrokBot Galaxy 第 1–3 天语料：转写、技术参考、SQLite/JSONL 检索与 LLM agent SKILL.md。",
+            "ja": "出典付き Galaxy Days 1–3 コーパス。文字起こし・技術参照・SQLite/JSONL 検索と LLM agent SKILL.md。"
+          }
+        },
+        {
+          "title": "Grok Bot Garmin Coach — MCP setup guide",
+          "url": "https://github.com/mellor28/grokbot-garmin-coach-setup",
+          "source": "GB-1458",
+          "blurb": {
+            "en": "Setup guide and copy-paste prompts for a Grok Bot running coach that reads Garmin Connect on demand via MCP (no credentials in-repo).",
+            "zh": "把 Grok Bot 做成跑步教练的安装指南与可粘贴提示：经 MCP 按需读 Garmin Connect（仓库不含凭证）。",
+            "ja": "Grok Bot をランニングコーチにするセットアップ案内とコピペ用プロンプト。MCP で Garmin Connect を都度参照（リポに認証情報なし）。"
+          }
+        },
+        {
           "title": "How to Get Started with Grok Bot",
           "url": "https://debbie.codes/blog/how-to-get-started-with-grok-bot",
           "source": "GB-090",
@@ -1695,6 +1725,36 @@
         "ja": "実地事例"
       },
       "items": [
+        {
+          "title": "grok-bot-fiverr — Fiverr sourcing Grok Bot",
+          "url": "https://github.com/sea517/grok-bot-fiverr",
+          "source": "GB-1451",
+          "blurb": {
+            "en": "Source-of-truth skills and dashboard for a Grok Bot that sources Fiverr freelancers via browser session, screens them, and invites GitHub take-homes.",
+            "zh": "Grok Bot 在 Fiverr 上招自由职业者的技能与看板：浏览器会话搜人、筛选，并邀请 GitHub 作业。",
+            "ja": "Grok Bot が Fiverr でフリーランスを探す skills とダッシュボード。ブラウザセッションで検索・選考し GitHub 課題を招待。"
+          }
+        },
+        {
+          "title": "Eye of Grok — human-facing Grok Bot org map",
+          "url": "https://github.com/supe-log/eye-of-grok",
+          "source": "GB-1450",
+          "blurb": {
+            "en": "Next.js org map so humans can see a Grok Bot fleet roster pushed by a Chief of Staff bot and judge lean-up plans (live demo on Vercel).",
+            "zh": "给人看的 Grok Bot 组织图（Next.js）：由幕僚长 Bot 推送花名册，人类判断精简方案（Vercel 有演示）。",
+            "ja": "人向け Grok Bot 組織図（Next.js）。Chief of Staff Bot が名簿を押し、人間が縮小案を判断（Vercel デモあり）。"
+          }
+        },
+        {
+          "title": "INDEXX — Grok Bot Instagram Saved wiki",
+          "url": "https://github.com/NYLLON-SOFTWARE/indexx",
+          "source": "GB-1449",
+          "blurb": {
+            "en": "Grok Bot skill scaffolding that turns Instagram Saved into a personal media wiki with transcripts, tags and cited pages (Mac-first).",
+            "zh": "Grok Bot 技能脚手架：把 Instagram Saved 做成个人媒体维基（转写、标签、带引用页面；Mac 优先）。",
+            "ja": "Grok Bot スキル足場。Instagram Saved を文字起こし・タグ・引用ページ付きの個人メディア wiki に（Mac 優先）。"
+          }
+        },
         {
           "title": "my-working-party — Grok Bot work canvas",
           "url": "https://github.com/kaibairen/my-working-party",
@@ -3225,6 +3285,86 @@
         "ja": "スキル、プラグインと MCP"
       },
       "items": [
+        {
+          "title": "pCloud MCP — hostable storage for Grok / Grokbot iOS",
+          "url": "https://github.com/rghrb/pcloud-mcp",
+          "source": "GB-1448",
+          "blurb": {
+            "en": "Hostable MCP server for pCloud storage so Grok, Grokbot iOS, Claude and other MCP clients can browse, read, write and share files.",
+            "zh": "可自托管的 pCloud MCP：让 Grok、Grokbot iOS、Claude 等 MCP 客户端浏览、读写与分享网盘文件。",
+            "ja": "自ホスト可能な pCloud MCP。Grok / Grokbot iOS / Claude などからファイル閲覧・読書き・共有。"
+          }
+        },
+        {
+          "title": "Ormus Jev — TypeSafe Jev teaching pack for Grok Bot",
+          "url": "https://github.com/HermeticOrmus/ormus-jev",
+          "source": "GB-1447",
+          "blurb": {
+            "en": "Open teaching pack for TypeSafe Jev in Grok Bot: decision gate, claim verify, and context-screen lanes with skills and examples.",
+            "zh": "给 Grok Bot 用的 TypeSafe Jev 开源教学包：决策门、主张核验、上下文筛查三车道，含 skills 与示例。",
+            "ja": "Grok Bot 向け TypeSafe Jev 公開教材。意思決定ゲート・主張検証・コンテキスト筛いの三レーン、skills と例付き。"
+          }
+        },
+        {
+          "title": "grok-build-plugin — Grok Build for any coding agent",
+          "url": "https://github.com/VasiHemanth/grok-build-plugin",
+          "source": "GB-1446",
+          "blurb": {
+            "en": "Cross-agent Grok Build plugin: MCP grok_search plus /grok:search|/grok:review|/grok:rescue so Claude Code, Codex and Cursor can drive Grok Build.",
+            "zh": "跨宿主 Grok Build 插件：MCP grok_search 与 /grok:search|/review|/rescue，让 Claude Code、Codex、Cursor 调用 Grok Build。",
+            "ja": "横断エージェント用 Grok Build プラグイン。MCP grok_search と /grok:search|/review|/rescue で Claude Code / Codex / Cursor から駆動。"
+          }
+        },
+        {
+          "title": "Agent Skills — Grok Build engineering pack (TS/Python)",
+          "url": "https://github.com/g-tavares14/agent-skills",
+          "source": "GB-1445",
+          "blurb": {
+            "en": "Grok Build / Codex plugin (.grok-plugin) with engineering skills, specialist agents, and /agent-skills:* lifecycle commands for TypeScript and Python.",
+            "zh": "面向 Grok Build / Codex 的 .grok-plugin：工程 skills、专家 agents 与 /agent-skills:* 生命周期命令（TypeScript / Python）。",
+            "ja": "Grok Build / Codex 向け .grok-plugin。エンジニアリング skills・専門 agents・/agent-skills:* ライフサイクルコマンド（TS/Python）。"
+          }
+        },
+        {
+          "title": "openllm-bots — Grok Bot as OpenLLM orchestrator",
+          "url": "https://github.com/MindDragonLabs/openllm-bots",
+          "source": "GB-1444",
+          "blurb": {
+            "en": "Monorepo of orchestrator bots (Grok Bot, Cursor, Muse, Hermes) that share OpenLLM as the model fabric via openllm mcp.",
+            "zh": "多编排机器人单体仓库（Grok Bot、Cursor、Muse、Hermes），经 openllm mcp 共用 OpenLLM 模型层。",
+            "ja": "Grok Bot / Cursor / Muse / Hermes などのオーケストレータ monorepo。openllm mcp で OpenLLM を共通モデル層に。"
+          }
+        },
+        {
+          "title": "Vexa — meeting-bot plugin for Grok",
+          "url": "https://github.com/Vexa-ai/grok-plugin",
+          "source": "GB-1443",
+          "blurb": {
+            "en": "Vexa .grok-plugin that sends a transcription bot into live Google Meet, Teams or Zoom via hosted Vexa MCP.",
+            "zh": "Vexa 的 .grok-plugin：经托管 Vexa MCP 把转写机器人送进进行中的 Google Meet、Teams 或 Zoom。",
+            "ja": "Vexa の .grok-plugin。ホスト型 Vexa MCP で Google Meet / Teams / Zoom の進行中会議に文字起こしボットを投入。"
+          }
+        },
+        {
+          "title": "Grok Bot Jev Router — TypeSafe decision layer",
+          "url": "https://github.com/Bodila51/grok-bot-jev",
+          "source": "GB-1442",
+          "blurb": {
+            "en": "Open reference that wires TypeSafe Jev to Grok Bot as a cheap decision layer (reuse cache, cap research, ask human) before expensive work.",
+            "zh": "开源参考实现：把 TypeSafe Jev 接到 Grok Bot，作为低成本决策层（复用缓存、限制调研、请示人类）再做高成本工作。",
+            "ja": "TypeSafe Jev を Grok Bot に繋ぐオープン参照。高コスト作業の前にキャッシュ再利用・調査上限・人手確認などの安価な判断層。"
+          }
+        },
+        {
+          "title": "pipe0 — official Grok Bot / Grok Build plugin",
+          "url": "https://github.com/pipe-0/grokbot-plugin",
+          "source": "GB-1441",
+          "blurb": {
+            "en": "Official pipe0 plugin with .grok-plugin and hosted MCP so Grok Bot and Grok Build can search people/companies, enrich contacts, and run pipe0 Sheets.",
+            "zh": "pipe0 官方插件（含 .grok-plugin 与托管 MCP）：让 Grok Bot / Grok Build 搜人搜公司、补全联系方式并操作 pipe0 Sheets。",
+            "ja": "pipe0 公式プラグイン（.grok-plugin とホスト型 MCP）。Grok Bot / Grok Build で人物・企業検索、連絡先拡充、Sheets 操作。"
+          }
+        },
         {
           "title": "Portals — Grok Build browser-games plugin",
           "url": "https://github.com/portals-labs/portals-plugin-grok",
@@ -7576,6 +7716,66 @@
       },
       "items": [
         {
+          "title": "grokbot-build-relay — Grok Bot → local Grok Build",
+          "url": "https://github.com/sec-knight/grokbot-build-relay",
+          "source": "GB-1457",
+          "blurb": {
+            "en": "Tiny headless bridge scripts so Grok Bot (or any shell agent) can drive local Grok Build via agent -p/-c without babysitting the TUI.",
+            "zh": "轻量无头桥接脚本：让 Grok Bot（或任意 shell 智能体）用 agent -p/-c 驱动本机 Grok Build，无需盯着 TUI。",
+            "ja": "軽量ヘッドレス橋渡し。Grok Bot（や任意シェルエージェント）が agent -p/-c でローカル Grok Build を駆動し TUI 監視不要。"
+          }
+        },
+        {
+          "title": "Foundry harness — GrokBot-class Pi package",
+          "url": "https://github.com/mit-bach/foundry-harness",
+          "source": "GB-1456",
+          "blurb": {
+            "en": "Pi coding-agent package that turns Pi into a GrokBot-class floor: named bots, lanes, rooms, memory, routines and operator approvals.",
+            "zh": "Pi coding-agent 包：把 Pi 变成 GrokBot 级工位（命名机器人、车道、房间、记忆、例行与人工审批）。",
+            "ja": "Pi coding-agent パッケージ。Pi を GrokBot 級フロアに（名前付きボット・レーン・部屋・記憶・ルーチン・承認）。"
+          }
+        },
+        {
+          "title": "Adjutant UI Windows — Grok Build web console",
+          "url": "https://github.com/acequint0/adjutant-ui-windows",
+          "source": "GB-1455",
+          "blurb": {
+            "en": "Windows port of Adjutant UI: ConPTY + adjutant --elevated browser console wrapping the local Grok Build TUI.",
+            "zh": "Adjutant UI 的 Windows 移植：ConPTY 与 adjutant --elevated，用浏览器控制台包裹本机 Grok Build TUI。",
+            "ja": "Adjutant UI の Windows 移植。ConPTY と adjutant --elevated でローカル Grok Build TUI をブラウザコンソール化。"
+          }
+        },
+        {
+          "title": "PorkBot — open-source Grok Bot alternative",
+          "url": "https://github.com/0xZ0uk/PorkBot",
+          "source": "GB-1454",
+          "blurb": {
+            "en": "Self-hosted single-operator AI teammate platform (pnpm/Turborepo monorepo) positioned as an open-source Grok Bot alternative.",
+            "zh": "自托管单操作者 AI 队友平台（pnpm/Turborepo 单体仓），定位为开源 Grok Bot 替代。",
+            "ja": "自ホスト単一オペレーター向け AI チームメイト基盤（pnpm/Turborepo monorepo）。オープンソースの Grok Bot 代替。"
+          }
+        },
+        {
+          "title": "Grok Build Desktop — Windows-first community client",
+          "url": "https://github.com/wangyingxuan383-ai/grok-build-desktop",
+          "source": "GB-1453",
+          "blurb": {
+            "en": "Unofficial Windows-first desktop client for Grok Build CLI over ACP: sessions, plugins/skills hub, quota panel and experimental Computer Use.",
+            "zh": "非官方、Windows 优先的 Grok Build CLI 桌面客户端（ACP）：会话、插件/技能中心、额度面板与实验性 Computer Use。",
+            "ja": "非公式・Windows 優先の Grok Build CLI デスクトップ（ACP）。セッション、プラグイン/スキル拠点、枠パネル、実験的 Computer Use。"
+          }
+        },
+        {
+          "title": "Agent Exchange (ax) — multi-harness local messaging",
+          "url": "https://github.com/rcdexta/agent-exchange",
+          "source": "GB-1452",
+          "blurb": {
+            "en": "Local messaging CLI (ax) so Claude Code, Codex, Grok Build and OpenCode keep their own TUIs while talking to each other by name.",
+            "zh": "本地消息 CLI（ax）：让 Claude Code、Codex、Grok Build、OpenCode 保留各自 TUI，按名字互通。",
+            "ja": "ローカル消息 CLI（ax）。Claude Code / Codex / Grok Build / OpenCode が各自 TUI のまま名前付きで通信。"
+          }
+        },
+        {
           "title": "agentsfleet — prebuilt AI teammate fleets",
           "url": "https://github.com/agentsfleet/agentsfleet",
           "source": "GB-1438",
@@ -10365,6 +10565,16 @@
         "ja": "コミュニティと障害事例"
       },
       "items": [
+        {
+          "title": "Local-exec file tools stay in the user profile root (staff)",
+          "url": "https://forum.cursor.com/t/copyfrombox-and-read-refuse-paths-outside-user-profile-after-0-57-1-outside-the-allowed-local-exec-root/172349",
+          "source": "GB-1461",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-19): On a registered machine, Read / CopyFromBox / CopyToBox are limited to the user profile folder (e.g. C:\\Users\\<you>), while Shell is not—so D:\\/G:\\ and junctions that resolve outside the profile are rejected by the file tools. Workaround: CopyFromBox into the home folder then move with Shell, or read/copy other drives via Shell (Get-Content / Copy-Item). Team is deciding whether file tools should match Shell’s reach or bots should prefer Shell when the path is outside the profile.",
+            "zh": "Staff（deanrie，2026-09-19）：注册本机上 Read / CopyFromBox / CopyToBox 仅限用户配置目录（如 C:\\Users\\<you>），Shell 无此限制——因此 D:\\/G:\\ 以及解析到配置目录外的 junction 会被文件工具拒绝。变通：先 CopyFromBox 到主目录再用 Shell 移动，或直接用 Shell（Get-Content / Copy-Item）读写其他盘。团队在评估是让文件工具与 Shell 同范围，还是让 Bot 在路径越界时改用 Shell。",
+            "ja": "Staff（deanrie、2026-09-19）：登録マシンでは Read / CopyFromBox / CopyToBox はユーザープロファイル（例: C:\\Users\\<you>）内に限定され、Shell にはその制限がありません。そのため D:\\/G:\\ やプロファイル外へ解決するジャンクションはファイル系ツールで拒否されます。回避策: いったんホームへ CopyFromBox してから Shell で移動するか、他ドライブは Shell（Get-Content / Copy-Item）で直接扱う。ファイル系を Shell と同じ到達範囲にするか、範囲外では Bot が Shell を選ぶかの方針を検討中。"
+          }
+        },
         {
           "title": "Forum: 1Password connector needs one-time Mac setup (Windows)",
           "url": "https://forum.cursor.com/t/1password-connector/172310",

@@ -24,9 +24,6 @@
 <a id="pgh-20261013"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/6lx5t8ru"><img src="./assets/events/pgh-20261013-cover.png" alt="Grok Bot Meetup Pittsburgh" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Pittsburgh</strong><br />2026-10-13（火）18:30–20:30（EDT）<br />ピッツバーグ · Oakland / Lawrenceville（登録後に住所を表示）<br /><br />ピッツバーグ初のシティ向け対面ミートアップ（キャンパス限定ではない）。短いデモの後にビルド／セットアップ共有。学生・社会人歓迎。主催 Micah Smith。無料・先着約30席。<br /><br /><a href="https://luma.com/6lx5t8ru"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="dal-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-ym79"><img src="./assets/events/dal-20260919-cover.png" alt="Cursor + Grok Bot Dallas Meetup" width="300" /></a></td><td valign="top"><strong>Cursor + Grok Bot Dallas Meetup</strong><br />2026-09-19（土）10:30–14:30（CDT）<br />ダラス · Kiln Preston Hollow（9850 N Central Expy #230）<br /><br />ダラス初の Grok Bot ミートアップ。短いトーク／デモの後にビルド。ノートPC推奨（x.ai/bot）。Cursor と SpaceXAI API クレジット（音声／チャット／画像／動画）先着。会場 Kiln Preston Hollow（North Dallas、無料駐車）。主催 Pradipta Shrestha、Sebastian Mendo、Tyler Vea。無料・承認制・約60席（スキャン時約33名）。<br /><br /><a href="https://luma.com/cursor-ym79"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
 <a id="mia-20260923"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-kxjz"><img src="./assets/events/mia-20260923-cover.png" alt="Grok Bot Miami Kickoff" width="300" /></a></td><td valign="top"><strong>Grok Bot Miami Kickoff</strong><br />2026-09-23（水）18:30–21:30（America/New_York、EDT）<br />マイアミ · The DOCK、400 NW 26th St（Wynwood）<br /><br />SpaceXAI for Miami（旧 Cursor Community Miami）初の Grok Bot Kickoff。ライブデモ・ビルダー交流、AIエージェント実践の第一歩。アジェンダは後日。ノートPC歓迎。会場 The DOCK（Wynwood）。主催 Ben Milshtein & The LAB Miami。無料・手動承認。スキャン時 0 名。<br /><br /><a href="https://luma.com/spacexai-kxjz"><strong>申し込む →</strong></a></td></tr></table>
 
@@ -81,18 +78,6 @@
 <a id="fln-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/c293hlgc"><img src="./assets/events/fln-20260926-cover.png" alt="Grok Bot Meetup Florianópolis" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Florianópolis</strong><br />2026-09-26（土）18:00–20:00（BRT）<br />フロリアノポリス · Founder Haus - Jurerê In, Av. dos Merlins 156<br /><br />フロリアノポリス初の Grok Bot Meetup。デモと交流。forum 170449・関心約 25・承認制。<br /><br /><a href="https://luma.com/c293hlgc"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
-<a id="country-id"></a>
-### インドネシア
-
-<a id="bliw-20261004"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/lkmh86ad"><img src="./assets/events/bliw-20261004-cover.png" alt="Grokbot Workshop Bali（Udayana）" width="300" /></a></td><td valign="top"><strong>Grokbot Workshop Bali（Udayana）</strong><br />2026-10-04（日）11:00–14:00（WITA）<br />バリ Jimbaran · Udayana University, Jl. Raya Kampus Unud<br /><br />インドネシア向けキャンパス Workshop。9/15 BukitHub（bli-20260915）とは別。forum 170448・承認制。<br /><br /><a href="https://luma.com/lkmh86ad"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
-<a id="bdg-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-bdg"><img src="./assets/events/bdg-20260919-cover.png" alt="Grok Bot Meetup Bandung" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Bandung</strong><br />2026-09-19（土）14:00–17:30（WIB）<br />バンドン · 登録後に住所を表示<br /><br />バンドンのハンズオン（SpaceXAI）。主催 Faiz Intifada。承認制・約 60 席。会場は登録後。<br /><br /><a href="https://luma.com/grokbot-bdg"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="jkt-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zb6b"><img src="./assets/events/jkt-20261003-cover.png" alt="Grok Bot Meetup Jakarta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Jakarta</strong><br />2026-10-03（土）10:00 – 2026-10-04（日）13:00（Asia/Jakarta、WIB）<br />ジャカルタ · 会場表記 Jakarta（SpaceXAI for Jakarta カレンダー）<br /><br />ジャカルタの Grok Bot Meetup（SpaceXAI for Jakarta）。事例・Personal Agents・アンバサダー活用・Q&A・交流。主催 Naufaldi。無料・承認制・約 100 席。スキャン時 0 名。対面・EventScheduled・API_OK。バンドン／タンゲランとは別 終了は 2026-10-04（日）13:00 WIB に変更（+1日）。<br /><br /><a href="https://luma.com/spacexai-zb6b"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
 <a id="country-mx"></a>
 ### メキシコ
 
@@ -141,6 +126,15 @@
 <a id="gua-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-is2h"><img src="./assets/events/gua-20261003-cover.png" alt="Grok Bot Meetup グアテマラシティ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup グアテマラシティ</strong><br />2026-10-03（土）10:00–14:00（CST）<br />グアテマラシティ Zona 10 フランシスコ・マロキン大学 · 登録後に住所を表示<br /><br />Open2 主催のグアテマラシティ Grok Bot ミートアップ。単発タスクを超える指示・文脈・一気通貫フローと試用クレジット（約 36 going、主催者承認）。<br /><br /><a href="https://luma.com/cursor-is2h"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
+<a id="country-id"></a>
+### インドネシア
+
+<a id="bliw-20261004"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/lkmh86ad"><img src="./assets/events/bliw-20261004-cover.png" alt="Grokbot Workshop Bali（Udayana）" width="300" /></a></td><td valign="top"><strong>Grokbot Workshop Bali（Udayana）</strong><br />2026-10-04（日）11:00–14:00（WITA）<br />バリ Jimbaran · Udayana University, Jl. Raya Kampus Unud<br /><br />インドネシア向けキャンパス Workshop。9/15 BukitHub（bli-20260915）とは別。forum 170448・承認制。<br /><br /><a href="https://luma.com/lkmh86ad"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="jkt-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zb6b"><img src="./assets/events/jkt-20261003-cover.png" alt="Grok Bot Meetup Jakarta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Jakarta</strong><br />2026-10-03（土）10:00 – 2026-10-04（日）13:00（Asia/Jakarta、WIB）<br />ジャカルタ · 会場表記 Jakarta（SpaceXAI for Jakarta カレンダー）<br /><br />ジャカルタの Grok Bot Meetup（SpaceXAI for Jakarta）。事例・Personal Agents・アンバサダー活用・Q&A・交流。主催 Naufaldi。無料・承認制・約 100 席。スキャン時 0 名。対面・EventScheduled・API_OK。バンドン／タンゲランとは別 終了は 2026-10-04（日）13:00 WIB に変更（+1日）。<br /><br /><a href="https://luma.com/spacexai-zb6b"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
 <a id="country-kz"></a>
 ### カザフスタン
 
@@ -182,12 +176,6 @@
 
 <a id="dac-20260920"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-b80k"><img src="./assets/events/dac-20261020-cover.png" alt="Grok Bot Dhaka Cowork" width="300" /></a></td><td valign="top"><strong>Grok Bot Dhaka Cowork</strong><br />2026-09-20（日）13:00–16:30（Asia/Dhaka、GMT+6）<br />ダッカ（登録後に住所公開）<br /><br />ダッカのハンズオン Grok Bot コワーク。サイドプロジェクトやアイデアを持ち寄り、単独／ペアで構築・共有・学習。主催 Mahinoor Rahman（SpaceXAI for Dhaka）。無料・主催承認制・約90席。ノートPC持参。初心者歓迎。<br /><br /><a href="https://luma.com/spacexai-b80k"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="country-be"></a>
-### ベルギー
-
-<a id="leu-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-leuven-meetup"><img src="./assets/events/leu-20260919-cover.png" alt="Grok Bot Meetup Leuven" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Leuven</strong><br />2026-09-19（土）14:00–17:30（CEST）<br />ルーヴェン · Blijde Inkomststraat 22<br /><br />ベルギー初の Grok Bot Meetup。デモと交流。forum 170453・承認制。<br /><br /><a href="https://luma.com/spacexai-leuven-meetup"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
 <a id="country-bj"></a>
 ### ベナン
@@ -242,12 +230,6 @@
 
 <a id="kwi-20260922"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/197n9c91"><img src="./assets/events/kwi-20260922-cover.png" alt="Grok Bot Meetup Kuwait" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Kuwait</strong><br />2026-09-22（月）12:30–14:30（Asia/Riyadh、GMT+3）<br />クウェート Mubarak Al-Abdullah（Hawalli）· 登録後に住所を表示<br /><br />クウェート初の Grok Bot × SpaceXAI ミートアップ。紹介とハンズオン、地元ビルダー交流。参加者に Grok Bot 1ヶ月クレジット、軽食あり。iPhone/Android/Windows/Mac 持参（Cursor 不要）。主催 Asama Akhtar。無料・承認制・残席約24。次回は Build with Grok Bot ワークショップ予定。<br /><br /><a href="https://luma.com/197n9c91"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="country-ma"></a>
-### モロッコ
-
-<a id="cas-20260919"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-okg3"><img src="./assets/events/cas-20260919-cover.png" alt="Grok Bot Morocco Cowork" width="300" /></a></td><td valign="top"><strong>Grok Bot Morocco Cowork</strong><br />2026-09-19（土）10:00–16:00（Africa/Casablanca、GMT+1）<br />カサブランカ、モロッコ（登録後に住所公開・ALTS Morocco 共催）<br /><br />カサブランカの土曜 Grok Bot コワーク／ビルダソン（ALTS Morocco 共催）。Oumayma Essarhi の短いワークショップの後、深掘り作業とデモ。Grok Bot 製品説明（ツールにログインできる AI チームメイト）。イベント中クレジットあり。主催 OUMAYMA ESSARHI & El Bachir Outidrarine。無料・承認制・約100席。SpaceXAI for Morocco カレンダー。<br /><br /><a href="https://luma.com/spacexai-okg3"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
 <a id="country-mm"></a>
 ### ミャンマー

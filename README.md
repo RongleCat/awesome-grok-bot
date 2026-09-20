@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1416-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1437-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,22 +38,21 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Zhuhai](./EVENTS.md#zuh-20260920)
-- **United States**（10）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Dallas](./EVENTS.md#dal-20260919) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Los Angeles](./EVENTS.md#lad-20260922) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008)
+- **United States**（9）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Los Angeles](./EVENTS.md#lad-20260922) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008)
 - **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
 - **Brazil**（3）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926)
-- **Indonesia**（3）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Bandung](./EVENTS.md#bdg-20260919) · [Jakarta](./EVENTS.md#jkt-20261003)
 - **Mexico**（3）：[Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926)
 - **Germany**（2）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015)
 - **Ecuador**（2）：[Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
 - **Spain**（2）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929)
 - **Guatemala**（2）：[Quetzaltenango](./EVENTS.md#xela-20260920) · [Guatemala City](./EVENTS.md#gua-20261003)
+- **Indonesia**（2）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003)
 - **Kazakhstan**（2）：[Astana](./EVENTS.md#nqz-20261002) · [Almaty](./EVENTS.md#ala-20261004)
 - **Vietnam**（2）：[Da Nang](./EVENTS.md#dad-20261003) · [Ho Chi Minh City](./EVENTS.md#sgn-20260926)
 - **Argentina**（1）：[Mendoza](./EVENTS.md#mdz-20261003)
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
 - **Azerbaijan**（1）：[Baku](./EVENTS.md#bak-20260927)
 - **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20260920)
-- **Belgium**（1）：[Leuven](./EVENTS.md#leu-20260919)
 - **Benin**（1）：[Cotonou](./EVENTS.md#coo-20261003)
 - **Bolivia**（1）：[Santa Cruz](./EVENTS.md#vvi-20260926)
 - **Georgia**（1）：[Tbilisi](./EVENTS.md#tbs-20260926)
@@ -63,7 +62,6 @@
 - **Kyrgyzstan**（1）：[Bishkek](./EVENTS.md#fru-20261001)
 - **Cambodia**（1）：[Phnom Penh](./EVENTS.md#pnh-20261003)
 - **Kuwait**（1）：[Kuwait / Mubarak Al-Abdullah](./EVENTS.md#kwi-20260922)
-- **Morocco**（1）：[Casablanca](./EVENTS.md#cas-20260919)
 - **Myanmar**（1）：[Yangon](./EVENTS.md#ygn-20260926)
 - **Netherlands**（1）：[Amsterdam](./EVENTS.md#ams-20260922)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
@@ -188,6 +186,9 @@
 
 ## Tutorials & Guides
 
+- [Grok Bot Galaxy Archive — Whisper + bot metadata](https://github.com/weichselbaum/grok-bot-galaxy-archive) - Community archive of SpaceXAI Grok Bot Galaxy livestreams: full Whisper transcripts plus structured bots/approaches/code metadata.
+- [GrokBot Galaxy Corpus — Days 1–3 retrieval pack](https://github.com/KJ5IRQ/grokbot-galaxy-corpus) - Source-grounded Galaxy Days 1–3 corpus with transcripts, technical refs, SQLite/JSONL retrieval and an LLM agent SKILL.md.
+- [Grok Bot Garmin Coach — MCP setup guide](https://github.com/mellor28/grokbot-garmin-coach-setup) - Setup guide and copy-paste prompts for a Grok Bot running coach that reads Garmin Connect on demand via MCP (no credentials in-repo).
 - [How to Get Started with Grok Bot](https://debbie.codes/blog/how-to-get-started-with-grok-bot) - Debbie's field guide: first Bot, CoS prompt, and how she reorganizes the roster.
 - [Grok Bot Masterclass](https://www.dailydoseofds.com/p/grok-bot-masterclass/) - Avi / Daily Dose: record once, turn it into a skill, hang it on a routine.
 - [How to Set Up Grok Bot and Build Your First AI Agents](https://www.mindstudio.ai/blog/grok-bot-setup-guide) - Install-to-first-agent walkthrough with the Heavy / Ultra / Teams gates called out.
@@ -258,6 +259,9 @@
 
 ## Field Cases
 
+- [grok-bot-fiverr — Fiverr sourcing Grok Bot](https://github.com/sea517/grok-bot-fiverr) - Source-of-truth skills and dashboard for a Grok Bot that sources Fiverr freelancers via browser session, screens them, and invites GitHub take-homes.
+- [Eye of Grok — human-facing Grok Bot org map](https://github.com/supe-log/eye-of-grok) - Next.js org map so humans can see a Grok Bot fleet roster pushed by a Chief of Staff bot and judge lean-up plans (live demo on Vercel).
+- [INDEXX — Grok Bot Instagram Saved wiki](https://github.com/NYLLON-SOFTWARE/indexx) - Grok Bot skill scaffolding that turns Instagram Saved into a personal media wiki with transcripts, tags and cited pages (Mac-first).
 - [my-working-party — Grok Bot work canvas](https://github.com/kaibairen/my-working-party) - Grok Bot work-canvas case: bilingual planning/status board exploring a Boundary Harness (guardrails without jailing intelligence) for delivery with cloud teammates.
 - [grokbot-jev-jobs — Jev triage + Grok Bot ATS apply](https://github.com/mcgalleg/grokbot-jev-jobs) - Public job-search app that triages postings with TypeSafe Jev, then webhooks a Grok Bot (Resume Rudy) to fill ATS forms and write status back via secret-gated APIs.
 - [Sprite Portal Grok Bot nursery UI](https://github.com/hkclaw/sprite-portal) - Localhost Vite dashboard that presents six branded Grok Bot sprites with desks, hopper items, and persona fields.
@@ -413,6 +417,14 @@
 
 ## Skills, Plugins & MCP
 
+- [pCloud MCP — hostable storage for Grok / Grokbot iOS](https://github.com/rghrb/pcloud-mcp) - Hostable MCP server for pCloud storage so Grok, Grokbot iOS, Claude and other MCP clients can browse, read, write and share files.
+- [Ormus Jev — TypeSafe Jev teaching pack for Grok Bot](https://github.com/HermeticOrmus/ormus-jev) - Open teaching pack for TypeSafe Jev in Grok Bot: decision gate, claim verify, and context-screen lanes with skills and examples.
+- [grok-build-plugin — Grok Build for any coding agent](https://github.com/VasiHemanth/grok-build-plugin) - Cross-agent Grok Build plugin: MCP grok_search plus /grok:search|/grok:review|/grok:rescue so Claude Code, Codex and Cursor can drive Grok Build.
+- [Agent Skills — Grok Build engineering pack (TS/Python)](https://github.com/g-tavares14/agent-skills) - Grok Build / Codex plugin (.grok-plugin) with engineering skills, specialist agents, and /agent-skills:* lifecycle commands for TypeScript and Python.
+- [openllm-bots — Grok Bot as OpenLLM orchestrator](https://github.com/MindDragonLabs/openllm-bots) - Monorepo of orchestrator bots (Grok Bot, Cursor, Muse, Hermes) that share OpenLLM as the model fabric via openllm mcp.
+- [Vexa — meeting-bot plugin for Grok](https://github.com/Vexa-ai/grok-plugin) - Vexa .grok-plugin that sends a transcription bot into live Google Meet, Teams or Zoom via hosted Vexa MCP.
+- [Grok Bot Jev Router — TypeSafe decision layer](https://github.com/Bodila51/grok-bot-jev) - Open reference that wires TypeSafe Jev to Grok Bot as a cheap decision layer (reuse cache, cap research, ask human) before expensive work.
+- [pipe0 — official Grok Bot / Grok Build plugin](https://github.com/pipe-0/grokbot-plugin) - Official pipe0 plugin with .grok-plugin and hosted MCP so Grok Bot and Grok Build can search people/companies, enrich contacts, and run pipe0 Sheets.
 - [Portals — Grok Build browser-games plugin](https://github.com/portals-labs/portals-plugin-grok) - Native Grok Build .grok-plugin for Portals.to: bundled portals-web-games MCP plus skills to build, manage, publish, and economy-tune browser games from the agent.
 - [PerkOS Floor — Grok Bot desk plugin](https://github.com/PerkOS-xyz/PerkOS-Grok-Plugin) - Grok Bot plugin for a PerkOS Floor desk: paste the Floor invite once, connect outbound over hosted MCP/WSS, and run desk-watch / desk-task skills so the Bot drafts waiting work without holding spend keys.
 - [LLM Pulse — Cursor / Grok Bot MCP plugin](https://github.com/LLM-Pulse/llm-pulse-plugin) - Official LLM Pulse Marketplace plugin for Cursor and Grok Bot: OAuth to the hosted MCP for brand visibility, citations, sentiment, and competitor prompts with no pasted API keys.
@@ -852,6 +864,12 @@
 
 ## Open-Source Alternatives
 
+- [grokbot-build-relay — Grok Bot → local Grok Build](https://github.com/sec-knight/grokbot-build-relay) - Tiny headless bridge scripts so Grok Bot (or any shell agent) can drive local Grok Build via agent -p/-c without babysitting the TUI.
+- [Foundry harness — GrokBot-class Pi package](https://github.com/mit-bach/foundry-harness) - Pi coding-agent package that turns Pi into a GrokBot-class floor: named bots, lanes, rooms, memory, routines and operator approvals.
+- [Adjutant UI Windows — Grok Build web console](https://github.com/acequint0/adjutant-ui-windows) - Windows port of Adjutant UI: ConPTY + adjutant --elevated browser console wrapping the local Grok Build TUI.
+- [PorkBot — open-source Grok Bot alternative](https://github.com/0xZ0uk/PorkBot) - Self-hosted single-operator AI teammate platform (pnpm/Turborepo monorepo) positioned as an open-source Grok Bot alternative.
+- [Grok Build Desktop — Windows-first community client](https://github.com/wangyingxuan383-ai/grok-build-desktop) - Unofficial Windows-first desktop client for Grok Build CLI over ACP: sessions, plugins/skills hub, quota panel and experimental Computer Use.
+- [Agent Exchange (ax) — multi-harness local messaging](https://github.com/rcdexta/agent-exchange) - Local messaging CLI (ax) so Claude Code, Codex, Grok Build and OpenCode keep their own TUIs while talking to each other by name.
 - [agentsfleet — prebuilt AI teammate fleets](https://github.com/agentsfleet/agentsfleet) - Open fleet runtime for prebuilt AI teammates on recurring engineering work (sandbox fleets, CLI, CI)—positioned for private Grok Bot–style teammate ops.
 - [Xora Code — open-source Grok Build desktop (Theia)](https://github.com/WhiteNightShadow/xora-code) - Open-source Grok Build desktop on Eclipse Theia + Electron + ACP: multi-session agents, diff review, Skills, MCP, and custom themes as a full IDE shell around the agent.
 - [PinkCode — desktop GUI for Grok Build](https://github.com/3xian/PinkCode) - Desktop GUI for Grok Build with a multi-session task board, live timeline, workspace browser, and permission modal so you can steer ACP sessions without living in the TUI.
@@ -1133,6 +1151,7 @@
 
 ## Community & Failure Modes
 
+- [Local-exec file tools stay in the user profile root (staff)](https://forum.cursor.com/t/copyfrombox-and-read-refuse-paths-outside-user-profile-after-0-57-1-outside-the-allowed-local-exec-root/172349) - Staff (deanrie, 2026-09-19): On a registered machine, Read / CopyFromBox / CopyToBox are limited to the user profile folder (e.g. C:\Users\<you>), while Shell is not—so D:\/G:\ and junctions that resolve outside the profile are rejected by the file tools. Workaround: CopyFromBox into the home folder then move with Shell, or read/copy other drives via Shell (Get-Content / Copy-Item). Team is deciding whether file tools should match Shell’s reach or bots should prefer Shell when the path is outside the profile.
 - [Forum: 1Password connector needs one-time Mac setup (Windows)](https://forum.cursor.com/t/1password-connector/172310) - Staff tip (2026-09-19): the 1Password Connect button on Windows is misleading—initial 1Password linking for Grok Bot must be completed once on a Mac with the 1Password desktop app, then Windows can use it.
 - [Forum: Introducing Grok Bot](https://forum.cursor.com/t/introducing-grok-bot/168053) - Launch thread: what people actually asked in the first 48 hours.
 - [Bots are not a security boundary](https://forum.cursor.com/t/grok-bot-ship-real-session-fences-bots-are-not-a-security-boundary/168476) - Must-read: every Bot on the account sees the same logins and files.
@@ -1526,7 +1545,7 @@
 
 ## Contributing
 
-1416 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1437 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
