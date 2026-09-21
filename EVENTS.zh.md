@@ -114,15 +114,6 @@
 <a id="mad-20260929"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotmadrid1"><img src="./assets/events/mad-20260929-cover.png" alt="Grok Bot 马德里线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 马德里线下交流</strong><br />2026-09-29 周二 17:30–21:30（马德里 CEST）<br />西班牙马德里 · Pl. del Callao, 1（Samplia Hub / mad.builders）<br /><br />马德里首场 Grok Bot Meetup：偏实操工作坊——现场试用、短 demo，再针对自带（或主办准备的）自动化挑战搭 bot。现场发额度；笔记本或手机即可；西班牙语（欢迎英语）。日程 17:30 签到发额度 → 18:00 介绍 → 18:20 demo → 19:00 workshop → 20:30 交流/~21:30。主办 Felipe Basurto、Alvaro Fragoso（Mad Builders）；免费需审核；约 60 席；扫描时报名 0。论坛 171020。<br /><br /><a href="https://luma.com/grokbotmadrid1"><strong>报名 →</strong></a></td></tr></table>
 
-<a id="country-gt"></a>
-### 危地马拉
-
-<a id="xela-20260920"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kfex"><img src="./assets/events/xela-20260920-cover.png" alt="Grok Bot 危地马拉克萨尔特南戈线下" width="300" /></a></td><td valign="top"><strong>Grok Bot 危地马拉克萨尔特南戈线下</strong><br />2026-09-20 周日 09:00–15:00（克萨尔特南戈）<br />克萨尔特南戈中美洲大学<br /><br />克萨尔特南戈全天创客场：用 Grok Bot 做玛雅语、农村农业、中小企业和医疗教育方向的原型。<br /><br /><a href="https://luma.com/cursor-kfex"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="gua-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-is2h"><img src="./assets/events/gua-20261003-cover.png" alt="Grok Bot 危地马拉城线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 危地马拉城线下交流</strong><br />2026-10-03 周六 10:00–14:00（危地马拉城）<br />危地马拉城 Zona 10 弗朗西斯科·马罗金大学 · 报名后可见门牌<br /><br />Open2 在危地马拉城办的 Grok Bot 见面会：用更好的指令、上下文与端到端流程，而不只是零散任务，并有试用额度（约 36 人意向，需主办审核）。<br /><br /><a href="https://luma.com/cursor-is2h"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
 <a id="country-id"></a>
 ### 印度尼西亚
 
@@ -168,12 +159,6 @@
 <a id="bak-20260927"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/ydy9qy6h"><img src="./assets/events/bak-20260927-cover.png" alt="Grok Bot Meetup 巴库" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 巴库</strong><br />2026-09-27 周日 15:00–18:00（Asia/Baku，UTC+4）<br />阿塞拜疆巴库（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />巴库首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug ydy9qy6h）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/ydy9qy6h"><strong>在 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="country-bd"></a>
-### 孟加拉国
-
-<a id="dac-20260920"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-b80k"><img src="./assets/events/dac-20261020-cover.png" alt="Grok Bot 达卡 Cowork" width="300" /></a></td><td valign="top"><strong>Grok Bot 达卡 Cowork</strong><br />2026-09-20 周日 13:00–16:30（达卡时间 GMT+6）<br />达卡（报名后可见具体地址）<br /><br />达卡 Grok Bot 动手 cowork：带 side project 或想法，单独或组队用 Grok Bot 边做边学、分享与交流。主办 Mahinoor Rahman（SpaceXAI for Dhaka）；免费，需主办审批，约 90 席；请带笔记本；新手欢迎。<br /><br /><a href="https://luma.com/spacexai-b80k"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
 <a id="country-bj"></a>
 ### 贝宁
 
@@ -191,6 +176,12 @@
 
 <a id="tbs-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/0scz2dff"><img src="./assets/events/tbs-20260926-cover.png" alt="Grok Bot Meetup 第比利斯" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 第比利斯</strong><br />2026-09-26 周六 15:00–17:30（Asia/Tbilisi，UTC+4）<br />格鲁吉亚第比利斯（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />第比利斯首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug 0scz2dff）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/0scz2dff"><strong>在 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="country-gt"></a>
+### 危地马拉
+
+<a id="gua-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-is2h"><img src="./assets/events/gua-20261003-cover.png" alt="Grok Bot 危地马拉城线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 危地马拉城线下交流</strong><br />2026-10-03 周六 10:00–14:00（危地马拉城）<br />危地马拉城 Zona 10 弗朗西斯科·马罗金大学 · 报名后可见门牌<br /><br />Open2 在危地马拉城办的 Grok Bot 见面会：用更好的指令、上下文与端到端流程，而不只是零散任务，并有试用额度（约 36 人意向，需主办审核）。<br /><br /><a href="https://luma.com/cursor-is2h"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
 <a id="country-ie"></a>
 ### 爱尔兰

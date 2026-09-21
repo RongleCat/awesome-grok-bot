@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -1746,6 +1746,26 @@
       },
       "items": [
         {
+          "title": "Grok Bot Live Study — Galaxy sprint field record",
+          "url": "https://github.com/billgaohub/grokbot-live-study",
+          "source": "GB-1530",
+          "blurb": {
+            "en": "Evidence-first curated field-study reconstructing the Grok Bot Galaxy live-build sprint with observations, claims and failure recoveries.",
+            "zh": "证据优先的田野研究库：重构 Grok Bot Galaxy 直播冲刺中的观察、主张与故障恢复。",
+            "ja": "証拠優先のフィールドスタディ。Grok Bot Galaxy ライブ構築スプリントの観察・主張・障害復旧を再構成。"
+          }
+        },
+        {
+          "title": "grok-jev-router — Jev decides, Grok Bot executes",
+          "url": "https://github.com/colinmcdermott/grok-jev-router",
+          "source": "GB-1529",
+          "blurb": {
+            "en": "Dependency-free Python toolkit and Grok Bot template so Jev calibrates risky actions before the Bot executes, with shadow and kill-switch modes.",
+            "zh": "无依赖 Python 工具包与 Grok Bot 模板：Jev 先校准高风险动作再由 Bot 执行，含影子模式与一键关闭。",
+            "ja": "依存なし Python ツールキットと Grok Bot テンプレ。Jev がリスク動作を校正してから Bot が実行（shadow / kill-switch 付き）。"
+          }
+        },
+        {
           "title": "Ship by Thursday — Grok Bot Galaxy-style scaffold",
           "url": "https://github.com/Phillipcolvin/ship-by-thursday",
           "source": "GB-1503",
@@ -3365,6 +3385,196 @@
         "ja": "スキル、プラグインと MCP"
       },
       "items": [
+        {
+          "title": "grok-mcp-orchestrator — peer bus for Grok Build",
+          "url": "https://github.com/diechtiar/grok-mcp-orchestrator",
+          "source": "GB-1528",
+          "blurb": {
+            "en": "Filesystem MCP peer bus (ListAgents / SendMessage) so Grok Build and Claude Code can steer each other across harnesses.",
+            "zh": "文件系统 MCP 对等总线（ListAgents / SendMessage），让 Grok Build 与 Claude Code 跨 harness 互相引导。",
+            "ja": "ファイルシステム MCP ピアバス（ListAgents / SendMessage）。Grok Build と Claude Code が harness 横断で操縦。"
+          }
+        },
+        {
+          "title": "Grok Build Reality OS — Hermetic doctrine pack",
+          "url": "https://github.com/HermeticOrmus/grok-build-reality-os",
+          "source": "GB-1527",
+          "blurb": {
+            "en": "Complete Hermetic doctrine AGENTS.md plus official Grok Build user-guide pack for Reality OS installs.",
+            "zh": "完整 Hermetic 教义 AGENTS.md 与官方 Grok Build 用户指南包，用于 Reality OS 安装。",
+            "ja": "Hermetic 教義 AGENTS.md と公式 Grok Build ユーザーガイド一式（Reality OS 導入用）。"
+          }
+        },
+        {
+          "title": "grok-skills — Hermetic skills for Grok Build",
+          "url": "https://github.com/HermeticOrmus/grok-skills",
+          "source": "GB-1526",
+          "blurb": {
+            "en": "HermeticOrmus skill pack adapted for Grok Build truth-seeking and tool-using loops with install.sh.",
+            "zh": "为 Grok Build 求真与用工具循环改编的 HermeticOrmus 技能包，附 install.sh。",
+            "ja": "Grok Build の求真・ツール利用向けに適応した HermeticOrmus スキルパック（install.sh 付き）。"
+          }
+        },
+        {
+          "title": "jev-grok-bot — Jev wiring for Grok Bot",
+          "url": "https://github.com/HermeticOrmus/jev-grok-bot",
+          "source": "GB-1525",
+          "blurb": {
+            "en": "Grok Bot-focused skill strip that wires TypeSafe Jev decision gates on top of the HermeticOrmus/ormus-jev hub.",
+            "zh": "面向 Grok Bot 的 Jev 接线 skill 条带，基于 HermeticOrmus/ormus-jev 中枢做决策门。",
+            "ja": "HermeticOrmus/ormus-jev ハブ上で TypeSafe Jev 判定ゲートを Grok Bot に繋ぐ skill ストリップ。"
+          }
+        },
+        {
+          "title": "LibreUIUX skills for Grok Build",
+          "url": "https://github.com/HermeticOrmus/LibreUIUX-Grok-Build",
+          "source": "GB-1524",
+          "blurb": {
+            "en": "UI/UX skills and agents melted from LibreUIUX for Grok Build design-and-build loops.",
+            "zh": "从 LibreUIUX 熔炼到 Grok Build 的 UI/UX skills 与 agents。",
+            "ja": "LibreUIUX から Grok Build 向けに溶かした UI/UX skills と agents。"
+          }
+        },
+        {
+          "title": "LibreSessionFlow handoff skills for Grok Build",
+          "url": "https://github.com/HermeticOrmus/LibreSessionFlow-Grok-Build",
+          "source": "GB-1523",
+          "blurb": {
+            "en": "Session handoff / pickup / absorb skills melted from LibreSessionFlow for Grok Build multi-session work.",
+            "zh": "从 LibreSessionFlow 熔炼到 Grok Build 的会话交接 / 续接 / 吸收 skills。",
+            "ja": "LibreSessionFlow から Grok Build 向けに溶かしたセッション引き継ぎ / 再開 / 吸収 skills。"
+          }
+        },
+        {
+          "title": "LibreSecOps defensive skills for Grok Build",
+          "url": "https://github.com/HermeticOrmus/LibreSecOps-Grok-Build",
+          "source": "GB-1522",
+          "blurb": {
+            "en": "Defensive SecOps skills melted from LibreSecOps for Grok Build with Gold Hat posture.",
+            "zh": "从 LibreSecOps 熔炼到 Grok Build 的防御向 SecOps skills（Gold Hat）。",
+            "ja": "LibreSecOps から Grok Build 向けに溶かした防御 SecOps skills（Gold Hat）。"
+          }
+        },
+        {
+          "title": "LibreDevOps skills for Grok Build",
+          "url": "https://github.com/HermeticOrmus/LibreDevOps-Grok-Build",
+          "source": "GB-1521",
+          "blurb": {
+            "en": "DevOps / IaC / CI skills melted from LibreDevOps for Grok Build sessions.",
+            "zh": "从 LibreDevOps 熔炼到 Grok Build 的 DevOps / IaC / CI skills。",
+            "ja": "LibreDevOps から Grok Build 向けに溶かした DevOps / IaC / CI skills。"
+          }
+        },
+        {
+          "title": "LibreArch architecture skills for Grok Build",
+          "url": "https://github.com/HermeticOrmus/LibreArch-Grok-Build",
+          "source": "GB-1520",
+          "blurb": {
+            "en": "Architecture and DDD skills melted from LibreArch for Grok Build with Gold Hat install paths.",
+            "zh": "从 LibreArch 熔炼到 Grok Build 的架构与 DDD skills，附 Gold Hat 安装路径。",
+            "ja": "LibreArch から Grok Build 向けに溶かしたアーキテクチャ / DDD skills（Gold Hat）。"
+          }
+        },
+        {
+          "title": "LibreCopy docs-as-code skills for Grok Build",
+          "url": "https://github.com/HermeticOrmus/LibreCopy-Grok-Build",
+          "source": "GB-1519",
+          "blurb": {
+            "en": "Technical writing and docs-as-code skills melted from LibreCopy for Grok Build sessions under Gold Hat doctrine.",
+            "zh": "从 LibreCopy 熔炼到 Grok Build 的技术写作与 docs-as-code skills（Gold Hat）。",
+            "ja": "LibreCopy から Grok Build 向けに溶かした技術文書・docs-as-code skills（Gold Hat）。"
+          }
+        },
+        {
+          "title": "LibreWhatsApp skills for Grok Build",
+          "url": "https://github.com/HermeticOrmus/LibreWhatsApp-Grok-Build",
+          "source": "GB-1518",
+          "blurb": {
+            "en": "Gold-Hat WhatsApp-in-session skills melted for Grok Build (draft-reply, consent-gate, template-scrub) with draft-only defaults.",
+            "zh": "为 Grok Build 熔炼的 Gold Hat WhatsApp 会话内 skills（草稿回复、同意门、模板清洗），默认只出草稿。",
+            "ja": "Grok Build 向けに溶かした Gold Hat の WhatsApp セッション skills（下書き返信・同意ゲート・テンプレ洗浄）。既定は下書きのみ。"
+          }
+        },
+        {
+          "title": "RoboSystems — Claude / Cursor / Grok Build plugin",
+          "url": "https://github.com/RoboFinSystems/robosystems-plugin",
+          "source": "GB-1517",
+          "blurb": {
+            "en": "RoboSystems MCP plugin (.grok-plugin) for Claude Code, Cursor and Grok Build with SEC graph and RoboLedger close / board-pack skills.",
+            "zh": "RoboSystems MCP 插件（含 .grok-plugin）：适配 Claude Code、Cursor 与 Grok Build，含 SEC 图谱与 RoboLedger 结账/董事会材料 skills。",
+            "ja": "RoboSystems MCP プラグイン（.grok-plugin）。Claude Code / Cursor / Grok Build 向け、SEC グラフと RoboLedger 決算・取締役会パック skills。"
+          }
+        },
+        {
+          "title": "otelyssey — OpenTelemetry agent-plugin marketplace",
+          "url": "https://github.com/using-system/otelyssey",
+          "source": "GB-1516",
+          "blurb": {
+            "en": "Agent Plugins marketplace of OpenTelemetry plugins with a .grok-plugin pack so Grok Build can install OTel instrumentation and collector skills.",
+            "zh": "OpenTelemetry 的 Agent Plugins 市场（含 .grok-plugin），供 Grok Build 安装 OTel 埋点与 Collector 相关技能。",
+            "ja": "OpenTelemetry の Agent Plugins マーケット（.grok-plugin 付き）。Grok Build 向け OTel 計装・Collector スキル。"
+          }
+        },
+        {
+          "title": "grokware — Grok Build plugin marketplace",
+          "url": "https://github.com/aksheyd/grokware",
+          "source": "GB-1515",
+          "blurb": {
+            "en": "Grokware Factory marketplace for Grok Build: add once then install trusted plugins from the aksheyd/grokware catalog.",
+            "zh": "Grok Build 的 Grokware Factory 插件市场：一次添加后即可从 aksheyd/grokware 目录安装受信任插件。",
+            "ja": "Grok Build 向け Grokware Factory マーケット。一度追加すれば aksheyd/grokware から信頼済みプラグインを導入。"
+          }
+        },
+        {
+          "title": "Outstand — Cursor / Grok Bot social MCP plugin",
+          "url": "https://github.com/Outstand-so/grok-bot-agent-plugin",
+          "source": "GB-1514",
+          "blurb": {
+            "en": "Outstand hosted-MCP plugin for Cursor and Grok Bot to publish, schedule and read engagement across connected social accounts with OAuth PKCE.",
+            "zh": "Outstand 托管 MCP 插件：Cursor / Grok Bot 用 OAuth PKCE 连接社交账号后可发布、排期与读取互动数据。",
+            "ja": "Outstand ホスト MCP プラグイン。Cursor / Grok Bot が OAuth PKCE で連携アカウントの投稿・予約・エンゲージメントを操作。"
+          }
+        },
+        {
+          "title": "SuperNegotiate — Cursor / Grok Bot marketplace plugin",
+          "url": "https://github.com/supernegotiate/supernegotiate-cursor",
+          "source": "GB-1513",
+          "blurb": {
+            "en": "Public Cursor / Grok Bot marketplace plugin for SuperNegotiate hosted MCP so the agent can run RFQ sourcing as a category manager.",
+            "zh": "SuperNegotiate 托管 MCP 的公开 Cursor / Grok Bot 市场插件，让助手以品类经理身份跑询价 sourcing。",
+            "ja": "SuperNegotiate ホスト MCP 向け公開 Cursor / Grok Bot マーケットプレイスプラグイン。カテゴリマネージャとして RFQ 調達を実行。"
+          }
+        },
+        {
+          "title": "Trades Supply Scout — Grok Bot / Cursor plugin",
+          "url": "https://github.com/dcrandall2481-rgb/trades-supply-scout",
+          "source": "GB-1512",
+          "blurb": {
+            "en": "Free Grok Bot and Cursor plugin (.grok-plugin) for US trades material takeoffs, SKU normalize and multi-supplier posted-price compare.",
+            "zh": "免费 Grok Bot / Cursor 插件（含 .grok-plugin）：美国工种材料算量、SKU 归一与多家供应商标价对比。",
+            "ja": "無料の Grok Bot / Cursor プラグイン（.grok-plugin）。米国家職の材料拾い・SKU 正規化・複数サプライヤ価格比較。"
+          }
+        },
+        {
+          "title": "TrialStack Catalyst — Codex / Grok Build plugin",
+          "url": "https://github.com/trialstack/trialstack-catalyst",
+          "source": "GB-1511",
+          "blurb": {
+            "en": "Shared TrialStack Catalyst plugin for Codex and Grok Build (.grok-plugin) with governed prepare/approve/execute MCP workflow for clinical trial data.",
+            "zh": "面向 Codex 与 Grok Build 的 TrialStack Catalyst 共享插件（含 .grok-plugin），托管 MCP 上以准备/批准/执行治理临床试验数据。",
+            "ja": "Codex / Grok Build 向け TrialStack Catalyst 共有プラグイン（.grok-plugin 付き）。ホスト MCP で治験データの prepare/approve/execute を統制。"
+          }
+        },
+        {
+          "title": "Postedly — Cursor / Grok Bot physical-mail plugin",
+          "url": "https://github.com/soxoa/postedly-cursor-plugin",
+          "source": "GB-1510",
+          "blurb": {
+            "en": "Cursor and Grok Bot marketplace plugin that prepares physical mail, fax and print quotes via hosted Postedly MCP with browser OAuth proof-before-pay.",
+            "zh": "Cursor / Grok Bot 市场插件：通过托管 Postedly MCP 与浏览器 OAuth，准备实体邮件、传真与打印报价，支付前先审校样。",
+            "ja": "Cursor / Grok Bot マーケットプレイスプラグイン。ホスト型 Postedly MCP とブラウザ OAuth で郵便・FAX・印刷見積を準備し、支払い前に校正。"
+          }
+        },
         {
           "title": "Hydrafetch — live web fetch for Grok Build",
           "url": "https://github.com/Hydrafetch/grok-plugin",
@@ -8056,6 +8266,36 @@
       },
       "items": [
         {
+          "title": "Grok Build Desktop — GUI for open-source Grok Build",
+          "url": "https://github.com/Rushour0/grok-build-desktop",
+          "source": "GB-1533",
+          "blurb": {
+            "en": "Signed desktop GUI for xAI's open-source Grok Build coding agent on macOS, Windows and Linux so users avoid the terminal.",
+            "zh": "面向 xAI 开源 Grok Build 编码智能体的签名桌面 GUI（macOS / Windows / Linux），免去终端安装。",
+            "ja": "xAI オープンソース Grok Build 向け署名済みデスクトップ GUI（macOS / Windows / Linux）。ターミナル不要。"
+          }
+        },
+        {
+          "title": "Open-GrokBot — local-first AI teammate workspace",
+          "url": "https://github.com/jiraiya1729/open-grokbot",
+          "source": "GB-1532",
+          "blurb": {
+            "en": "Open-source local-first workspace for persistent AI teammates with Docker computers, memory, skills, routines and multi-bot collaboration.",
+            "zh": "开源本地优先工作区：持久 AI 队友、Docker 电脑、记忆、skills、例程与多 Bot 协作。",
+            "ja": "オープンソースのローカル優先ワークスペース。永続 AI 队友、Docker パソコン、記憶、skills、ルーチン、多 Bot 協業。"
+          }
+        },
+        {
+          "title": "nitro — Grok Build with TypeSafe Jev tool routing",
+          "url": "https://github.com/daniel-farina/nitro",
+          "source": "GB-1531",
+          "blurb": {
+            "en": "Open harness that runs stock Grok Build behind a once-per-turn TypeSafe Jev tool filter to cut schema tokens and cost without changing outputs.",
+            "zh": "开源 harness：在原版 Grok Build 前加每轮一次的 TypeSafe Jev 工具过滤，减少 schema token 与费用且不改输出。",
+            "ja": "オープンな harness。純正 Grok Build の前でターン毎に TypeSafe Jev がツールを間引き、出力を変えず schema token / コストを削減。"
+          }
+        },
+        {
           "title": "Jevbridge — ACP/MCP bridge for Grok Build & peers",
           "url": "https://github.com/tacticocc/Jevbridge",
           "source": "GB-1508",
@@ -10976,6 +11216,16 @@
       },
       "items": [
         {
+          "title": "Grok Bot unreachable on Windows and phone since Sep 20 evening KST",
+          "url": "https://forum.cursor.com/t/grok-bot-unreachable-on-windows-and-phone-since-sep-20-evening-kst-routines-still-run/172453",
+          "source": "GB-1535",
+          "blurb": {
+            "en": "Forum report: interactive Grok Bot chat reconnect-fails on Windows desktop and phone since 2026-09-20 evening KST while routines still run.",
+            "zh": "论坛报告：自 2026-09-20 韩国时间晚间起，Windows 桌面与手机上的交互式 Grok Bot 聊天一直重连失败，但例程仍在跑。",
+            "ja": "フォーラム報告：2026-09-20 韓国時間の夜以降、Windows / スマホの対話 Grok Bot が再接続失敗する一方、ルーチンは動作中。"
+          }
+        },
+        {
           "title": "Local-exec file tools stay in the user profile root (staff)",
           "url": "https://forum.cursor.com/t/copyfrombox-and-read-refuse-paths-outside-user-profile-after-0-57-1-outside-the-allowed-local-exec-root/172349",
           "source": "GB-1461",
@@ -12735,6 +12985,16 @@
         "ja": "関連リスト"
       },
       "items": [
+        {
+          "title": "EdgeWidget — Windows 11 quota edge widget",
+          "url": "https://github.com/danielfinchdev/EdgeWidget",
+          "source": "GB-1534",
+          "blurb": {
+            "en": "Windows 11 edge widget that shows remaining Claude, Codex and Grok Bot weekly quota plus CPU/GPU temperature without telemetry.",
+            "zh": "Windows 11 边缘小组件：展示 Claude、Codex 与 Grok Bot 剩余周配额以及 CPU/GPU 温度，无遥测。",
+            "ja": "Windows 11 エッジウィジェット。Claude / Codex / Grok Bot の週次残量と CPU/GPU 温度を表示（テレメトリなし）。"
+          }
+        },
         {
           "title": "grok-style-pi — Grok Build-inspired Pi TUI chrome",
           "url": "https://github.com/Daedie-git/grok-style-pi",

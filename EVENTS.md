@@ -114,15 +114,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="mad-20260929"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotmadrid1"><img src="./assets/events/mad-20260929-cover.png" alt="Grok Bot Madrid Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Madrid Meetup</strong><br />Tue 29 Sep 2026, 17:30–21:30 (Europe/Madrid, CEST)<br />Madrid, Spain · Pl. del Callao, 1 (Samplia Hub / mad.builders)<br /><br />First Grok Bot Meetup in Madrid: practical workshop afternoon — live try Grok Bot, short community demos, then build bots for a challenge you bring (or host-supplied ideas). Credits provided on site; laptop or phone OK; Spanish (English welcome). Agenda 17:30 setup → 18:00 intro → 18:20 demos → 19:00 workshop → 20:30 networking/~21:30. Hosts Felipe Basurto & Alvaro Fragoso (Mad Builders); free; host approval; ~60 spots; guest_count 0 at scan. Forum 171020.<br /><br /><a href="https://luma.com/grokbotmadrid1"><strong>Register →</strong></a></td></tr></table>
 
-<a id="country-gt"></a>
-### Guatemala
-
-<a id="xela-20260920"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kfex"><img src="./assets/events/xela-20260920-cover.png" alt="Grok Bot Meetup Guatemala (Xela)" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Guatemala (Xela)</strong><br />Sun 20 Sep 2026, 09:00–15:00 (CST)<br />Universidad Mesoamericana, Quetzaltenango<br /><br />Full-day Quetzaltenango builders meetup to prototype with Grok Bot across Maya languages, rural/ag, SME, and health/education tracks.<br /><br /><a href="https://luma.com/cursor-kfex"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
-
-<a id="gua-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-is2h"><img src="./assets/events/gua-20261003-cover.png" alt="Grok Bot Meetup Guatemala City" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Guatemala City</strong><br />Sat 3 Oct 2026, 10:00–14:00 (CST)<br />Universidad Francisco Marroquín, Zona 10, Guatemala City · street after you register<br /><br />Open2 Grok Bot meetup in Guatemala City: go beyond one-off tasks with better instructions, context, and end-to-end workflows, plus credits to try Grok Bot (~36 going, host approval).<br /><br /><a href="https://luma.com/cursor-is2h"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
-
 <a id="country-id"></a>
 ### Indonesia
 
@@ -168,12 +159,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="bak-20260927"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/ydy9qy6h"><img src="./assets/events/bak-20260927-cover.png" alt="Grok Bot Meetup Baku" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Baku</strong><br />Sun 27 Sep 2026, 15:00–18:00 (Asia/Baku, UTC+4)<br />Baku, Azerbaijan — offline (exact venue city-level on Luma / shared after RSVP)<br /><br />First Grok Bot meetup in Baku — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug ydy9qy6h, evt-u0gJBz3jwCKYY7h). Opened via discover; OG title verified 2026-09-18.<br /><br /><a href="https://luma.com/ydy9qy6h"><strong>RSVP on Luma →</strong></a></td></tr></table>
 
-<a id="country-bd"></a>
-### Bangladesh
-
-<a id="dac-20260920"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-b80k"><img src="./assets/events/dac-20261020-cover.png" alt="Grok Bot Dhaka Cowork" width="300" /></a></td><td valign="top"><strong>Grok Bot Dhaka Cowork</strong><br />Sun 20 Sep 2026, 13:00–16:30 (Asia/Dhaka, GMT+6)<br />Dhaka (address revealed after registration)<br /><br />Hands-on Grok Bot coworking in Dhaka: bring a side project or idea, build with Grok Bot solo or in pairs, share discoveries, and learn from other builders. Host Mahinoor Rahman (SpaceXAI for Dhaka); free; host approval; ~90 seats; laptop required; beginners welcome.<br /><br /><a href="https://luma.com/spacexai-b80k"><strong>Register on Luma →</strong></a></td></tr></table>
-
 <a id="country-bj"></a>
 ### Benin
 
@@ -191,6 +176,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="tbs-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/0scz2dff"><img src="./assets/events/tbs-20260926-cover.png" alt="Grok Bot Meetup Tbilisi" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Tbilisi</strong><br />Sat 26 Sep 2026, 15:00–17:30 (Asia/Tbilisi, UTC+4)<br />Tbilisi, Georgia — offline (exact venue city-level on Luma / shared after RSVP)<br /><br />First Grok Bot meetup in Tbilisi — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug 0scz2dff, evt-JEDpRvIA8X8CNUM). Opened via discover; OG title verified 2026-09-18.<br /><br /><a href="https://luma.com/0scz2dff"><strong>RSVP on Luma →</strong></a></td></tr></table>
+
+<a id="country-gt"></a>
+### Guatemala
+
+<a id="gua-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-is2h"><img src="./assets/events/gua-20261003-cover.png" alt="Grok Bot Meetup Guatemala City" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Guatemala City</strong><br />Sat 3 Oct 2026, 10:00–14:00 (CST)<br />Universidad Francisco Marroquín, Zona 10, Guatemala City · street after you register<br /><br />Open2 Grok Bot meetup in Guatemala City: go beyond one-off tasks with better instructions, context, and end-to-end workflows, plus credits to try Grok Bot (~36 going, host approval).<br /><br /><a href="https://luma.com/cursor-is2h"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
 <a id="country-ie"></a>
 ### Ireland

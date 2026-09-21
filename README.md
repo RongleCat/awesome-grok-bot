@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1485-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1511-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -45,17 +45,16 @@
 - **Germany**（2）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015)
 - **Ecuador**（2）：[Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
 - **Spain**（2）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929)
-- **Guatemala**（2）：[Quetzaltenango](./EVENTS.md#xela-20260920) · [Guatemala City](./EVENTS.md#gua-20261003)
 - **Indonesia**（2）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003)
 - **Kazakhstan**（2）：[Astana](./EVENTS.md#nqz-20261002) · [Almaty](./EVENTS.md#ala-20261004)
 - **Vietnam**（2）：[Da Nang](./EVENTS.md#dad-20261003) · [Ho Chi Minh City](./EVENTS.md#sgn-20260926)
 - **Argentina**（1）：[Mendoza](./EVENTS.md#mdz-20261003)
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
 - **Azerbaijan**（1）：[Baku](./EVENTS.md#bak-20260927)
-- **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20260920)
 - **Benin**（1）：[Cotonou](./EVENTS.md#coo-20261003)
 - **Bolivia**（1）：[Santa Cruz](./EVENTS.md#vvi-20260926)
 - **Georgia**（1）：[Tbilisi](./EVENTS.md#tbs-20260926)
+- **Guatemala**（1）：[Guatemala City](./EVENTS.md#gua-20261003)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
 - **India**（1）：[Rajkot](./EVENTS.md#raj-20260926)
 - **Japan**（1）：[Sapporo](./EVENTS.md#spk-20261002)
@@ -260,6 +259,8 @@
 
 ## Field Cases
 
+- [Grok Bot Live Study — Galaxy sprint field record](https://github.com/billgaohub/grokbot-live-study) - Evidence-first curated field-study reconstructing the Grok Bot Galaxy live-build sprint with observations, claims and failure recoveries.
+- [grok-jev-router — Jev decides, Grok Bot executes](https://github.com/colinmcdermott/grok-jev-router) - Dependency-free Python toolkit and Grok Bot template so Jev calibrates risky actions before the Bot executes, with shadow and kill-switch modes.
 - [Ship by Thursday — Grok Bot Galaxy-style scaffold](https://github.com/Phillipcolvin/ship-by-thursday) - Scaffold inspired by the Grok Bot Galaxy ~9-hour company-build exercise, with docs and a starter web surface.
 - [grokbot-mocap — live face mocap SVG avatar](https://github.com/NODE-Sudbury/grokbot-mocap) - Live face motion-capture projected onto an animated SVG avatar, built by NODE Sudbury for a Grok community event.
 - [Grok Bot Slides — React decks for official guides](https://github.com/wmoralesdev/grok-bot-slides) - React slide decks and live Q&A shell covering Grok Bot 101, Engineering, Founders, GTM, and Ops guides.
@@ -424,6 +425,25 @@
 
 ## Skills, Plugins & MCP
 
+- [grok-mcp-orchestrator — peer bus for Grok Build](https://github.com/diechtiar/grok-mcp-orchestrator) - Filesystem MCP peer bus (ListAgents / SendMessage) so Grok Build and Claude Code can steer each other across harnesses.
+- [Grok Build Reality OS — Hermetic doctrine pack](https://github.com/HermeticOrmus/grok-build-reality-os) - Complete Hermetic doctrine AGENTS.md plus official Grok Build user-guide pack for Reality OS installs.
+- [grok-skills — Hermetic skills for Grok Build](https://github.com/HermeticOrmus/grok-skills) - HermeticOrmus skill pack adapted for Grok Build truth-seeking and tool-using loops with install.sh.
+- [jev-grok-bot — Jev wiring for Grok Bot](https://github.com/HermeticOrmus/jev-grok-bot) - Grok Bot-focused skill strip that wires TypeSafe Jev decision gates on top of the HermeticOrmus/ormus-jev hub.
+- [LibreUIUX skills for Grok Build](https://github.com/HermeticOrmus/LibreUIUX-Grok-Build) - UI/UX skills and agents melted from LibreUIUX for Grok Build design-and-build loops.
+- [LibreSessionFlow handoff skills for Grok Build](https://github.com/HermeticOrmus/LibreSessionFlow-Grok-Build) - Session handoff / pickup / absorb skills melted from LibreSessionFlow for Grok Build multi-session work.
+- [LibreSecOps defensive skills for Grok Build](https://github.com/HermeticOrmus/LibreSecOps-Grok-Build) - Defensive SecOps skills melted from LibreSecOps for Grok Build with Gold Hat posture.
+- [LibreDevOps skills for Grok Build](https://github.com/HermeticOrmus/LibreDevOps-Grok-Build) - DevOps / IaC / CI skills melted from LibreDevOps for Grok Build sessions.
+- [LibreArch architecture skills for Grok Build](https://github.com/HermeticOrmus/LibreArch-Grok-Build) - Architecture and DDD skills melted from LibreArch for Grok Build with Gold Hat install paths.
+- [LibreCopy docs-as-code skills for Grok Build](https://github.com/HermeticOrmus/LibreCopy-Grok-Build) - Technical writing and docs-as-code skills melted from LibreCopy for Grok Build sessions under Gold Hat doctrine.
+- [LibreWhatsApp skills for Grok Build](https://github.com/HermeticOrmus/LibreWhatsApp-Grok-Build) - Gold-Hat WhatsApp-in-session skills melted for Grok Build (draft-reply, consent-gate, template-scrub) with draft-only defaults.
+- [RoboSystems — Claude / Cursor / Grok Build plugin](https://github.com/RoboFinSystems/robosystems-plugin) - RoboSystems MCP plugin (.grok-plugin) for Claude Code, Cursor and Grok Build with SEC graph and RoboLedger close / board-pack skills.
+- [otelyssey — OpenTelemetry agent-plugin marketplace](https://github.com/using-system/otelyssey) - Agent Plugins marketplace of OpenTelemetry plugins with a .grok-plugin pack so Grok Build can install OTel instrumentation and collector skills.
+- [grokware — Grok Build plugin marketplace](https://github.com/aksheyd/grokware) - Grokware Factory marketplace for Grok Build: add once then install trusted plugins from the aksheyd/grokware catalog.
+- [Outstand — Cursor / Grok Bot social MCP plugin](https://github.com/Outstand-so/grok-bot-agent-plugin) - Outstand hosted-MCP plugin for Cursor and Grok Bot to publish, schedule and read engagement across connected social accounts with OAuth PKCE.
+- [SuperNegotiate — Cursor / Grok Bot marketplace plugin](https://github.com/supernegotiate/supernegotiate-cursor) - Public Cursor / Grok Bot marketplace plugin for SuperNegotiate hosted MCP so the agent can run RFQ sourcing as a category manager.
+- [Trades Supply Scout — Grok Bot / Cursor plugin](https://github.com/dcrandall2481-rgb/trades-supply-scout) - Free Grok Bot and Cursor plugin (.grok-plugin) for US trades material takeoffs, SKU normalize and multi-supplier posted-price compare.
+- [TrialStack Catalyst — Codex / Grok Build plugin](https://github.com/trialstack/trialstack-catalyst) - Shared TrialStack Catalyst plugin for Codex and Grok Build (.grok-plugin) with governed prepare/approve/execute MCP workflow for clinical trial data.
+- [Postedly — Cursor / Grok Bot physical-mail plugin](https://github.com/soxoa/postedly-cursor-plugin) - Cursor and Grok Bot marketplace plugin that prepares physical mail, fax and print quotes via hosted Postedly MCP with browser OAuth proof-before-pay.
 - [Hydrafetch — live web fetch for Grok Build](https://github.com/Hydrafetch/grok-plugin) - Grok Build .grok-plugin that fetches a URL and returns clean Markdown or structured data via hosted MCP and skills.
 - [shunt — keep big I/O off Grok Build frontier](https://github.com/juancruzmunozalbelo/grok-shunt) - Grok Build plugin that shunts large file I/O and boilerplate off the frontier model onto cheaper workers.
 - [muran-skill — shared skills for Grok Build & peers](https://github.com/MuRanSea/muran-skill) - Personal skill library maintained once and shared across Codex, Claude Code, Pi, OpenCode, and Grok Build (Windows installer).
@@ -897,6 +917,9 @@
 
 ## Open-Source Alternatives
 
+- [Grok Build Desktop — GUI for open-source Grok Build](https://github.com/Rushour0/grok-build-desktop) - Signed desktop GUI for xAI's open-source Grok Build coding agent on macOS, Windows and Linux so users avoid the terminal.
+- [Open-GrokBot — local-first AI teammate workspace](https://github.com/jiraiya1729/open-grokbot) - Open-source local-first workspace for persistent AI teammates with Docker computers, memory, skills, routines and multi-bot collaboration.
+- [nitro — Grok Build with TypeSafe Jev tool routing](https://github.com/daniel-farina/nitro) - Open harness that runs stock Grok Build behind a once-per-turn TypeSafe Jev tool filter to cut schema tokens and cost without changing outputs.
 - [Jevbridge — ACP/MCP bridge for Grok Build & peers](https://github.com/tacticocc/Jevbridge) - ACP and MCP adapter that bridges TypeSafe Jev computer-use with Codex, Claude, Grok Build, and OpenCode (★25).
 - [Swaygentic — sandboxed browser harness for Grok Build](https://github.com/backdoorsecurity/Swaygentic) - Light sandboxed agentic browser harness built for and with Grok Build; MCP toolbox now usable by other agents too.
 - [star-loop — autonomous coding loop for Grok Build](https://github.com/MrBeldum/star-loop) - Autonomous coding loop .grok-plugin for Grok Build: one fresh agent per iteration until the work is genuinely done.
@@ -1191,6 +1214,7 @@
 
 ## Community & Failure Modes
 
+- [Grok Bot unreachable on Windows and phone since Sep 20 evening KST](https://forum.cursor.com/t/grok-bot-unreachable-on-windows-and-phone-since-sep-20-evening-kst-routines-still-run/172453) - Forum report: interactive Grok Bot chat reconnect-fails on Windows desktop and phone since 2026-09-20 evening KST while routines still run.
 - [Local-exec file tools stay in the user profile root (staff)](https://forum.cursor.com/t/copyfrombox-and-read-refuse-paths-outside-user-profile-after-0-57-1-outside-the-allowed-local-exec-root/172349) - Staff (deanrie, 2026-09-19): On a registered machine, Read / CopyFromBox / CopyToBox are limited to the user profile folder (e.g. C:\Users\<you>), while Shell is not—so D:\/G:\ and junctions that resolve outside the profile are rejected by the file tools. Workaround: CopyFromBox into the home folder then move with Shell, or read/copy other drives via Shell (Get-Content / Copy-Item). Team is deciding whether file tools should match Shell’s reach or bots should prefer Shell when the path is outside the profile.
 - [Forum: 1Password connector needs one-time Mac setup (Windows)](https://forum.cursor.com/t/1password-connector/172310) - Staff tip (2026-09-19): the 1Password Connect button on Windows is misleading—initial 1Password linking for Grok Bot must be completed once on a Mac with the 1Password desktop app, then Windows can use it.
 - [Forum: Introducing Grok Bot](https://forum.cursor.com/t/introducing-grok-bot/168053) - Launch thread: what people actually asked in the first 48 hours.
@@ -1369,6 +1393,7 @@
 
 ## Related Lists
 
+- [EdgeWidget — Windows 11 quota edge widget](https://github.com/danielfinchdev/EdgeWidget) - Windows 11 edge widget that shows remaining Claude, Codex and Grok Bot weekly quota plus CPU/GPU temperature without telemetry.
 - [grok-style-pi — Grok Build-inspired Pi TUI chrome](https://github.com/Daedie-git/grok-style-pi) - Grok Build-inspired TUI chrome for Pi: GrokNight theme, status footer, focused composer, and diamond tool rows.
 - [LoopLabsBar — macOS menu bar for Grok Bot & peers](https://github.com/RichStone/LoopLabsBar) - CodexBar-style macOS menu-bar status script covering Claude Code, Codex, Cursor, Grok Bot, Grok and GitHub Copilot sessions.
 - [grok-build-prompts — extract prompts from Grok CLI](https://github.com/hearnadam/grok-build-prompts) - Tooling that pins a Grok Build CLI binary and extracts embedded prompt/skill components from Mach-O const sections.
@@ -1592,7 +1617,7 @@
 
 ## Contributing
 
-1485 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1511 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

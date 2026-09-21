@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1485-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1511-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -45,17 +45,16 @@
 - **ドイツ**（2）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015)
 - **エクアドル**（2）：[キト](./EVENTS.ja.md#uio-20260924) · [クンバヤ](./EVENTS.ja.md#cumb-20261003)
 - **スペイン**（2）：[バルセロナ](./EVENTS.ja.md#bcn-20260929) · [マドリード](./EVENTS.ja.md#mad-20260929)
-- **グアテマラ**（2）：[ケツァルテナンゴ](./EVENTS.ja.md#xela-20260920) · [グアテマラシティ](./EVENTS.ja.md#gua-20261003)
 - **インドネシア**（2）：[ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [ジャカルタ](./EVENTS.ja.md#jkt-20261003)
 - **カザフスタン**（2）：[アスタナ](./EVENTS.ja.md#nqz-20261002) · [アルマトイ](./EVENTS.ja.md#ala-20261004)
 - **ベトナム**（2）：[ダナン](./EVENTS.ja.md#dad-20261003) · [ホーチミン](./EVENTS.ja.md#sgn-20260926)
 - **アルゼンチン**（1）：[メンドサ](./EVENTS.ja.md#mdz-20261003)
 - **オーストラリア**（1）：[シドニー](./EVENTS.ja.md#syd-20261007)
 - **アゼルバイジャン**（1）：[バクー](./EVENTS.ja.md#bak-20260927)
-- **バングラデシュ**（1）：[ダッカ](./EVENTS.ja.md#dac-20260920)
 - **ベナン**（1）：[コトヌー](./EVENTS.ja.md#coo-20261003)
 - **ボリビア**（1）：[サンタクルス](./EVENTS.ja.md#vvi-20260926)
 - **ジョージア**（1）：[トビリシ](./EVENTS.ja.md#tbs-20260926)
+- **グアテマラ**（1）：[グアテマラシティ](./EVENTS.ja.md#gua-20261003)
 - **アイルランド**（1）：[ダブリン](./EVENTS.ja.md#dub-20261004)
 - **インド**（1）：[ラージコート](./EVENTS.ja.md#raj-20260926)
 - **日本**（1）：[札幌](./EVENTS.ja.md#spk-20261002)
@@ -260,6 +259,8 @@
 
 ## 実地事例
 
+- [Grok Bot Live Study — Galaxy sprint field record](https://github.com/billgaohub/grokbot-live-study) - 証拠優先のフィールドスタディ。Grok Bot Galaxy ライブ構築スプリントの観察・主張・障害復旧を再構成。
+- [grok-jev-router — Jev decides, Grok Bot executes](https://github.com/colinmcdermott/grok-jev-router) - 依存なし Python ツールキットと Grok Bot テンプレ。Jev がリスク動作を校正してから Bot が実行（shadow / kill-switch 付き）。
 - [Ship by Thursday — Grok Bot Galaxy-style scaffold](https://github.com/Phillipcolvin/ship-by-thursday) - Grok Bot Galaxy の約9時間企業構築演習に着想した足場。ドキュメントと Web 起步面付き。
 - [grokbot-mocap — live face mocap SVG avatar](https://github.com/NODE-Sudbury/grokbot-mocap) - ライブ顔モーションキャプチャをアニメ SVG アバターへ投影。NODE Sudbury が Grok コミュニティイベント向けに制作。
 - [Grok Bot Slides — React decks for official guides](https://github.com/wmoralesdev/grok-bot-slides) - React スライドとライブ Q&A。Grok Bot 101 / Engineering / Founders / GTM / Ops など公式ガイド題材。
@@ -424,6 +425,25 @@
 
 ## スキル、プラグインと MCP
 
+- [grok-mcp-orchestrator — peer bus for Grok Build](https://github.com/diechtiar/grok-mcp-orchestrator) - ファイルシステム MCP ピアバス（ListAgents / SendMessage）。Grok Build と Claude Code が harness 横断で操縦。
+- [Grok Build Reality OS — Hermetic doctrine pack](https://github.com/HermeticOrmus/grok-build-reality-os) - Hermetic 教義 AGENTS.md と公式 Grok Build ユーザーガイド一式（Reality OS 導入用）。
+- [grok-skills — Hermetic skills for Grok Build](https://github.com/HermeticOrmus/grok-skills) - Grok Build の求真・ツール利用向けに適応した HermeticOrmus スキルパック（install.sh 付き）。
+- [jev-grok-bot — Jev wiring for Grok Bot](https://github.com/HermeticOrmus/jev-grok-bot) - HermeticOrmus/ormus-jev ハブ上で TypeSafe Jev 判定ゲートを Grok Bot に繋ぐ skill ストリップ。
+- [LibreUIUX skills for Grok Build](https://github.com/HermeticOrmus/LibreUIUX-Grok-Build) - LibreUIUX から Grok Build 向けに溶かした UI/UX skills と agents。
+- [LibreSessionFlow handoff skills for Grok Build](https://github.com/HermeticOrmus/LibreSessionFlow-Grok-Build) - LibreSessionFlow から Grok Build 向けに溶かしたセッション引き継ぎ / 再開 / 吸収 skills。
+- [LibreSecOps defensive skills for Grok Build](https://github.com/HermeticOrmus/LibreSecOps-Grok-Build) - LibreSecOps から Grok Build 向けに溶かした防御 SecOps skills（Gold Hat）。
+- [LibreDevOps skills for Grok Build](https://github.com/HermeticOrmus/LibreDevOps-Grok-Build) - LibreDevOps から Grok Build 向けに溶かした DevOps / IaC / CI skills。
+- [LibreArch architecture skills for Grok Build](https://github.com/HermeticOrmus/LibreArch-Grok-Build) - LibreArch から Grok Build 向けに溶かしたアーキテクチャ / DDD skills（Gold Hat）。
+- [LibreCopy docs-as-code skills for Grok Build](https://github.com/HermeticOrmus/LibreCopy-Grok-Build) - LibreCopy から Grok Build 向けに溶かした技術文書・docs-as-code skills（Gold Hat）。
+- [LibreWhatsApp skills for Grok Build](https://github.com/HermeticOrmus/LibreWhatsApp-Grok-Build) - Grok Build 向けに溶かした Gold Hat の WhatsApp セッション skills（下書き返信・同意ゲート・テンプレ洗浄）。既定は下書きのみ。
+- [RoboSystems — Claude / Cursor / Grok Build plugin](https://github.com/RoboFinSystems/robosystems-plugin) - RoboSystems MCP プラグイン（.grok-plugin）。Claude Code / Cursor / Grok Build 向け、SEC グラフと RoboLedger 決算・取締役会パック skills。
+- [otelyssey — OpenTelemetry agent-plugin marketplace](https://github.com/using-system/otelyssey) - OpenTelemetry の Agent Plugins マーケット（.grok-plugin 付き）。Grok Build 向け OTel 計装・Collector スキル。
+- [grokware — Grok Build plugin marketplace](https://github.com/aksheyd/grokware) - Grok Build 向け Grokware Factory マーケット。一度追加すれば aksheyd/grokware から信頼済みプラグインを導入。
+- [Outstand — Cursor / Grok Bot social MCP plugin](https://github.com/Outstand-so/grok-bot-agent-plugin) - Outstand ホスト MCP プラグイン。Cursor / Grok Bot が OAuth PKCE で連携アカウントの投稿・予約・エンゲージメントを操作。
+- [SuperNegotiate — Cursor / Grok Bot marketplace plugin](https://github.com/supernegotiate/supernegotiate-cursor) - SuperNegotiate ホスト MCP 向け公開 Cursor / Grok Bot マーケットプレイスプラグイン。カテゴリマネージャとして RFQ 調達を実行。
+- [Trades Supply Scout — Grok Bot / Cursor plugin](https://github.com/dcrandall2481-rgb/trades-supply-scout) - 無料の Grok Bot / Cursor プラグイン（.grok-plugin）。米国家職の材料拾い・SKU 正規化・複数サプライヤ価格比較。
+- [TrialStack Catalyst — Codex / Grok Build plugin](https://github.com/trialstack/trialstack-catalyst) - Codex / Grok Build 向け TrialStack Catalyst 共有プラグイン（.grok-plugin 付き）。ホスト MCP で治験データの prepare/approve/execute を統制。
+- [Postedly — Cursor / Grok Bot physical-mail plugin](https://github.com/soxoa/postedly-cursor-plugin) - Cursor / Grok Bot マーケットプレイスプラグイン。ホスト型 Postedly MCP とブラウザ OAuth で郵便・FAX・印刷見積を準備し、支払い前に校正。
 - [Hydrafetch — live web fetch for Grok Build](https://github.com/Hydrafetch/grok-plugin) - Grok Build の .grok-plugin。URL を取得し、ホスト MCP と skills できれいな Markdown または構造化データを返す。
 - [shunt — keep big I/O off Grok Build frontier](https://github.com/juancruzmunozalbelo/grok-shunt) - Grok Build プラグイン。大ファイル I/O とボイラープレートを frontier から安い worker へ逃がす。
 - [muran-skill — shared skills for Grok Build & peers](https://github.com/MuRanSea/muran-skill) - 個人スキル庫。一箇所で管理し Codex / Claude Code / Pi / OpenCode / Grok Build で共有（Windows 導入付き）。
@@ -897,6 +917,9 @@
 
 ## オープンソースの代替
 
+- [Grok Build Desktop — GUI for open-source Grok Build](https://github.com/Rushour0/grok-build-desktop) - xAI オープンソース Grok Build 向け署名済みデスクトップ GUI（macOS / Windows / Linux）。ターミナル不要。
+- [Open-GrokBot — local-first AI teammate workspace](https://github.com/jiraiya1729/open-grokbot) - オープンソースのローカル優先ワークスペース。永続 AI 队友、Docker パソコン、記憶、skills、ルーチン、多 Bot 協業。
+- [nitro — Grok Build with TypeSafe Jev tool routing](https://github.com/daniel-farina/nitro) - オープンな harness。純正 Grok Build の前でターン毎に TypeSafe Jev がツールを間引き、出力を変えず schema token / コストを削減。
 - [Jevbridge — ACP/MCP bridge for Grok Build & peers](https://github.com/tacticocc/Jevbridge) - TypeSafe Jev のコンピュータ操作を Codex / Claude / Grok Build / OpenCode に繋ぐ ACP/MCP アダプタ（★25）。
 - [Swaygentic — sandboxed browser harness for Grok Build](https://github.com/backdoorsecurity/Swaygentic) - Grok Build 向け軽量サンドボックスブラウザ harness（MCP ツール箱）。他 agent からも利用可。
 - [star-loop — autonomous coding loop for Grok Build](https://github.com/MrBeldum/star-loop) - Grok Build 向け自律コーディングループ .grok-plugin。反復ごとに新しい agent を起こし、本当に終わるまで回す。
@@ -1191,6 +1214,7 @@
 
 ## コミュニティと障害事例
 
+- [Grok Bot unreachable on Windows and phone since Sep 20 evening KST](https://forum.cursor.com/t/grok-bot-unreachable-on-windows-and-phone-since-sep-20-evening-kst-routines-still-run/172453) - フォーラム報告：2026-09-20 韓国時間の夜以降、Windows / スマホの対話 Grok Bot が再接続失敗する一方、ルーチンは動作中。
 - [Local-exec file tools stay in the user profile root (staff)](https://forum.cursor.com/t/copyfrombox-and-read-refuse-paths-outside-user-profile-after-0-57-1-outside-the-allowed-local-exec-root/172349) - Staff（deanrie、2026-09-19）：登録マシンでは Read / CopyFromBox / CopyToBox はユーザープロファイル（例: C:\Users\<you>）内に限定され、Shell にはその制限がありません。そのため D:\/G:\ やプロファイル外へ解決するジャンクションはファイル系ツールで拒否されます。回避策: いったんホームへ CopyFromBox してから Shell で移動するか、他ドライブは Shell（Get-Content / Copy-Item）で直接扱う。ファイル系を Shell と同じ到達範囲にするか、範囲外では Bot が Shell を選ぶかの方針を検討中。
 - [Forum: 1Password connector needs one-time Mac setup (Windows)](https://forum.cursor.com/t/1password-connector/172310) - スタッフ案内（2026-09-19）。Windows の 1Password Connect は誤解を招く——初回連携は 1Password デスクトップ付き Mac で一度完了させ、その後 Windows で利用できる。
 - [Forum: Introducing Grok Bot](https://forum.cursor.com/t/introducing-grok-bot/168053) - 発表スレッド：公開後 48 時間で実際に聞かれたこと。
@@ -1369,6 +1393,7 @@
 
 ## 関連リスト
 
+- [EdgeWidget — Windows 11 quota edge widget](https://github.com/danielfinchdev/EdgeWidget) - Windows 11 エッジウィジェット。Claude / Codex / Grok Bot の週次残量と CPU/GPU 温度を表示（テレメトリなし）。
 - [grok-style-pi — Grok Build-inspired Pi TUI chrome](https://github.com/Daedie-git/grok-style-pi) - Pi 向け Grok Build 風 TUI。GrokNight テーマ、ステータスフッタ、集中コンポーザ、菱形ツール行。
 - [LoopLabsBar — macOS menu bar for Grok Bot & peers](https://github.com/RichStone/LoopLabsBar) - CodexBar 風の macOS メニューバー。Claude Code / Codex / Cursor / Grok Bot / Grok / GitHub Copilot セッションを表示。
 - [grok-build-prompts — extract prompts from Grok CLI](https://github.com/hearnadam/grok-build-prompts) - Grok Build CLI バイナリをピン留めし、Mach-O const セクションから埋め込み prompt / skill を抽出するツール。
@@ -1592,7 +1617,7 @@
 
 ## 貢献
 
-8 セクションに 1485 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1511 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

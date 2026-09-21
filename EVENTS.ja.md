@@ -114,15 +114,6 @@
 <a id="mad-20260929"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotmadrid1"><img src="./assets/events/mad-20260929-cover.png" alt="Grok Bot Meetup Madrid" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Madrid</strong><br />2026-09-29（火）17:30–21:30（Europe/Madrid、CEST）<br />スペイン・マドリード · Pl. del Callao, 1（Samplia Hub / mad.builders）<br /><br />マドリード初の Grok Bot Meetup。実践ワークショップ：ライブ試用・短いデモの後、持参（または主催案）の自動化課題で bot を構築。会場でクレジット配布。ノートPC/スマホ可。スペイン語（英語歓迎）。17:30 受付→18:00 紹介→18:20 デモ→19:00 WS→20:30 交流/~21:30。主催 Felipe Basurto & Alvaro Fragoso（Mad Builders）。無料・承認制。約 60 席。スキャン時 0 名。forum 171020。<br /><br /><a href="https://luma.com/grokbotmadrid1"><strong>申し込む →</strong></a></td></tr></table>
 
-<a id="country-gt"></a>
-### グアテマラ
-
-<a id="xela-20260920"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-kfex"><img src="./assets/events/xela-20260920-cover.png" alt="Grok Bot Meetup Guatemala (Xela)" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Guatemala (Xela)</strong><br />2026-09-20（日）09:00–15:00（CST）<br />ケツァルテナンゴの Universidad Mesoamericana<br /><br />ケツァルテナンゴ終日。マヤ語、農村・農業、中小企業、医療・教育のトラックで Grok Bot の試作。<br /><br /><a href="https://luma.com/cursor-kfex"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="gua-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-is2h"><img src="./assets/events/gua-20261003-cover.png" alt="Grok Bot Meetup グアテマラシティ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup グアテマラシティ</strong><br />2026-10-03（土）10:00–14:00（CST）<br />グアテマラシティ Zona 10 フランシスコ・マロキン大学 · 登録後に住所を表示<br /><br />Open2 主催のグアテマラシティ Grok Bot ミートアップ。単発タスクを超える指示・文脈・一気通貫フローと試用クレジット（約 36 going、主催者承認）。<br /><br /><a href="https://luma.com/cursor-is2h"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
 <a id="country-id"></a>
 ### インドネシア
 
@@ -168,12 +159,6 @@
 <a id="bak-20260927"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/ydy9qy6h"><img src="./assets/events/bak-20260927-cover.png" alt="Grok Bot Meetup バクー" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup バクー</strong><br />2026-09-27（日） 15:00–18:00（Asia/Baku、UTC+4）<br />アゼルバイジャン・バクー（オフライン；Luma は都市レベル、RSVP 後に会場案内）<br /><br />バクー初の Grok Bot オフラインミートアップ（中央アジア＆コーカサス連続）。体験・デモ・交流。Luma 無料RSVP（slug ydy9qy6h）。2026-09-18 にページ確認済み。<br /><br /><a href="https://luma.com/ydy9qy6h"><strong>Luma で RSVP →</strong></a></td></tr></table>
 
-<a id="country-bd"></a>
-### バングラデシュ
-
-<a id="dac-20260920"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-b80k"><img src="./assets/events/dac-20261020-cover.png" alt="Grok Bot Dhaka Cowork" width="300" /></a></td><td valign="top"><strong>Grok Bot Dhaka Cowork</strong><br />2026-09-20（日）13:00–16:30（Asia/Dhaka、GMT+6）<br />ダッカ（登録後に住所公開）<br /><br />ダッカのハンズオン Grok Bot コワーク。サイドプロジェクトやアイデアを持ち寄り、単独／ペアで構築・共有・学習。主催 Mahinoor Rahman（SpaceXAI for Dhaka）。無料・主催承認制・約90席。ノートPC持参。初心者歓迎。<br /><br /><a href="https://luma.com/spacexai-b80k"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
 <a id="country-bj"></a>
 ### ベナン
 
@@ -191,6 +176,12 @@
 
 <a id="tbs-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/0scz2dff"><img src="./assets/events/tbs-20260926-cover.png" alt="Grok Bot Meetup トビリシ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup トビリシ</strong><br />2026-09-26（土） 15:00–17:30（Asia/Tbilisi、UTC+4）<br />ジョージア・トビリシ（オフライン；Luma は都市レベル、RSVP 後に会場案内）<br /><br />トビリシ初の Grok Bot オフラインミートアップ（中央アジア＆コーカサス連続）。体験・デモ・交流。Luma 無料RSVP（slug 0scz2dff）。2026-09-18 にページ確認済み。<br /><br /><a href="https://luma.com/0scz2dff"><strong>Luma で RSVP →</strong></a></td></tr></table>
+
+<a id="country-gt"></a>
+### グアテマラ
+
+<a id="gua-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-is2h"><img src="./assets/events/gua-20261003-cover.png" alt="Grok Bot Meetup グアテマラシティ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup グアテマラシティ</strong><br />2026-10-03（土）10:00–14:00（CST）<br />グアテマラシティ Zona 10 フランシスコ・マロキン大学 · 登録後に住所を表示<br /><br />Open2 主催のグアテマラシティ Grok Bot ミートアップ。単発タスクを超える指示・文脈・一気通貫フローと試用クレジット（約 36 going、主催者承認）。<br /><br /><a href="https://luma.com/cursor-is2h"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
 <a id="country-ie"></a>
 ### アイルランド
