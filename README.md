@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1511-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1532-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,14 +38,14 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（2）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017)
-- **United States**（9）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Los Angeles](./EVENTS.md#lad-20260922) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008)
+- **United States**（10）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Los Angeles](./EVENTS.md#lad-20260922) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009)
 - **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
+- **Mexico**（4）：[Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926) · [Monterrey](./EVENTS.md#mty-20261003)
 - **Brazil**（3）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926)
-- **Mexico**（3）：[Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926)
+- **Indonesia**（3）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003) · [Jakarta](./EVENTS.md#jkt-20261107)
 - **Germany**（2）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015)
 - **Ecuador**（2）：[Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
 - **Spain**（2）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929)
-- **Indonesia**（2）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003)
 - **Kazakhstan**（2）：[Astana](./EVENTS.md#nqz-20261002) · [Almaty](./EVENTS.md#ala-20261004)
 - **Vietnam**（2）：[Da Nang](./EVENTS.md#dad-20261003) · [Ho Chi Minh City](./EVENTS.md#sgn-20260926)
 - **Argentina**（1）：[Mendoza](./EVENTS.md#mdz-20261003)
@@ -57,6 +57,7 @@
 - **Guatemala**（1）：[Guatemala City](./EVENTS.md#gua-20261003)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
 - **India**（1）：[Rajkot](./EVENTS.md#raj-20260926)
+- **Italy**（1）：[Padua](./EVENTS.md#pdv-20260925)
 - **Japan**（1）：[Sapporo](./EVENTS.md#spk-20261002)
 - **Kyrgyzstan**（1）：[Bishkek](./EVENTS.md#fru-20261001)
 - **Cambodia**（1）：[Phnom Penh](./EVENTS.md#pnh-20261003)
@@ -64,9 +65,11 @@
 - **Myanmar**（1）：[Yangon](./EVENTS.md#ygn-20260926)
 - **Netherlands**（1）：[Amsterdam](./EVENTS.md#ams-20260922)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
+- **Turkey**（1）：[Istanbul](./EVENTS.md#ist-20260929)
 - **Uganda**（1）：[Kampala](./EVENTS.md#kla-20261003)
 - **Uzbekistan**（1）：[Tashkent](./EVENTS.md#tas-20260929)
 - **Zambia**（1）：[Lusaka](./EVENTS.md#lun-20261002)
+- **Online**（1）：[Online (Goiânia)](./EVENTS.md#gyn-20261017)
 
 ## Contents
 
@@ -259,6 +262,9 @@
 
 ## Field Cases
 
+- [mordheim-grok-build-prompts — tactics game prompt series](https://github.com/davenpmo/mordheim-grok-build-prompts) - Rules-first Jupyter/markdown prompt series to build a 1999-rules Mordheim 3D tactics game inside Grok Build Mode.
+- [living-icon — mood-reactive avatars for Grok Bots](https://github.com/skiiwa67-collab/living-icon) - Living Icon project for mood-reactive evolving avatars meant to sit beside Grok Bot teammates.
+- [fleet-overview — static Grok Bot fleet board](https://github.com/Lennart1970/fleet-overview) - Static GitHub Pages board that visualizes a personal Grok Bot fleet as lanes, bots, and todos.
 - [Grok Bot Live Study — Galaxy sprint field record](https://github.com/billgaohub/grokbot-live-study) - Evidence-first curated field-study reconstructing the Grok Bot Galaxy live-build sprint with observations, claims and failure recoveries.
 - [grok-jev-router — Jev decides, Grok Bot executes](https://github.com/colinmcdermott/grok-jev-router) - Dependency-free Python toolkit and Grok Bot template so Jev calibrates risky actions before the Bot executes, with shadow and kill-switch modes.
 - [Ship by Thursday — Grok Bot Galaxy-style scaffold](https://github.com/Phillipcolvin/ship-by-thursday) - Scaffold inspired by the Grok Bot Galaxy ~9-hour company-build exercise, with docs and a starter web surface.
@@ -425,6 +431,14 @@
 
 ## Skills, Plugins & MCP
 
+- [LibreMLOps-Grok-Build — MLOps/LLMOps skills](https://github.com/HermeticOrmus/LibreMLOps-Grok-Build) - MLOps and LLMOps skill pack for Grok Build, melted from LibreMLOps with .grok/ layout.
+- [LibreGEO-Grok-Build — GEO / llms.txt skills](https://github.com/HermeticOrmus/LibreGEO-Grok-Build) - GEO and AI-search / llms.txt skill pack for Grok Build, melted from LibreGEO with .grok/ layout.
+- [LibreFinTech-Grok-Build — payments/compliance skills](https://github.com/HermeticOrmus/LibreFinTech-Grok-Build) - FinTech payments and compliance design-review skills for Grok Build (ledger, audit trail), melted from LibreFinTech.
+- [LibreMobileDev-Grok-Build — mobile-dev skills](https://github.com/HermeticOrmus/LibreMobileDev-Grok-Build) - Mobile development skill pack for Grok Build, melted from LibreMobileDev with .grok/ layout.
+- [LibreGameDev-Grok-Build — game-dev skills](https://github.com/HermeticOrmus/LibreGameDev-Grok-Build) - Game development skill pack for Grok Build, melted from LibreGameDev with honest depth matrix and .grok/ layout.
+- [LibreEmbed-Grok-Build — embedded/IoT skills](https://github.com/HermeticOrmus/LibreEmbed-Grok-Build) - Embedded firmware and IoT skill pack for Grok Build (bring-up, RTOS, OTA), melted from LibreEmbed with .grok/ layout.
+- [grokbot-cursor-bridge — Grok Bot ↔ Cursor Agent MCP](https://github.com/kdriedger/grokbot-cursor-bridge) - Self-hosted OAuth MCP bridge and Agent Plugin so Grok Bot stays the chat UI while Cursor Agent CLI runs tools on your machine.
+- [open-computer-use-grok — Grok Build Computer Use plugin](https://github.com/lich13/open-computer-use-grok) - Grok Build marketplace plugin that wires the official open-computer-use MCP runtime (accessibility + screen recording) into Grok with Skill and turn-ended hooks.
 - [grok-mcp-orchestrator — peer bus for Grok Build](https://github.com/diechtiar/grok-mcp-orchestrator) - Filesystem MCP peer bus (ListAgents / SendMessage) so Grok Build and Claude Code can steer each other across harnesses.
 - [Grok Build Reality OS — Hermetic doctrine pack](https://github.com/HermeticOrmus/grok-build-reality-os) - Complete Hermetic doctrine AGENTS.md plus official Grok Build user-guide pack for Reality OS installs.
 - [grok-skills — Hermetic skills for Grok Build](https://github.com/HermeticOrmus/grok-skills) - HermeticOrmus skill pack adapted for Grok Build truth-seeking and tool-using loops with install.sh.
@@ -917,6 +931,13 @@
 
 ## Open-Source Alternatives
 
+- [grok-bot-box-image — local rebuild of Grok Bot box base](https://github.com/2217173240/grok-bot-box-image) - Dockerfile and scripts to rebuild a Grok Bot–style local box base image (desktop, browser, toolchains) from black-box observations of 0.18.
+- [synderesis-code — Apache-2.0 Grok Build fork](https://github.com/Synderesis-EU/synderesis-code) - Apache-2.0 terminal coding assistant forked from Grok Build and wired to the Synderesis API (independent, not xAI).
+- [grok-build-boxed — cage Grok Build away from homedir](https://github.com/olwig/grok-build-boxed) - Runs Grok Build in a tighter cage so the agent cannot freely touch your homedir outside the sandbox.
+- [grok-swift-build — native Swift Grok Build reimplementation](https://github.com/irons163/grok-swift-build) - Native Swift reimplementation of the Grok Build terminal coding agent.
+- [grokbot-chat-harness — drive chat-only agents over SSH](https://github.com/laris-co/grokbot-chat-harness) - CLI/TUI harness that drives a chat-only Grok Bot–style agent over SSH, with a second model deciding what to ask next.
+- [TecAdRiseBot — OSS Grok Bot alternative (Cursor SDK)](https://github.com/tecadrise-ai/TecAdRiseBot) - MIT Electron multi-agent desktop chat that runs local agents via the Cursor TypeScript SDK as a free open-source Grok Bot alternative.
+- [RedSky-Bot — local Grok Bot–style teammates](https://github.com/0xMudit/RedSky-Bot) - Open-source Electron app for Grok Bot–style local AI teammates with per-bot OpenCode sessions, workspace, memory, and schedules.
 - [Grok Build Desktop — GUI for open-source Grok Build](https://github.com/Rushour0/grok-build-desktop) - Signed desktop GUI for xAI's open-source Grok Build coding agent on macOS, Windows and Linux so users avoid the terminal.
 - [Open-GrokBot — local-first AI teammate workspace](https://github.com/jiraiya1729/open-grokbot) - Open-source local-first workspace for persistent AI teammates with Docker computers, memory, skills, routines and multi-bot collaboration.
 - [nitro — Grok Build with TypeSafe Jev tool routing](https://github.com/daniel-farina/nitro) - Open harness that runs stock Grok Build behind a once-per-turn TypeSafe Jev tool filter to cut schema tokens and cost without changing outputs.
@@ -1393,6 +1414,9 @@
 
 ## Related Lists
 
+- [grok-build-mirror — unofficial Grok Build CLI release mirror](https://github.com/snakejohn/grok-build-mirror) - Unofficial mirror that republishes public Grok Build CLI artifacts to GitHub Releases with a Cloudflare download proxy.
+- [pilion-browser — ACP browser that can drive Grok Build](https://github.com/echoVic/pilion-browser) - Desktop ACP browser that lets Claude Code, Codex, Gemini CLI, OpenCode, or Grok Build drive tabs via MCP with approvals.
+- [owngoal-dev/grok — Grok Build CLI for jailbroken iOS](https://github.com/owngoal-dev/grok) - Unofficial packaging of the Grok Build CLI as .deb for jailbroken iOS (roothide and rootless bootstraps).
 - [EdgeWidget — Windows 11 quota edge widget](https://github.com/danielfinchdev/EdgeWidget) - Windows 11 edge widget that shows remaining Claude, Codex and Grok Bot weekly quota plus CPU/GPU temperature without telemetry.
 - [grok-style-pi — Grok Build-inspired Pi TUI chrome](https://github.com/Daedie-git/grok-style-pi) - Grok Build-inspired TUI chrome for Pi: GrokNight theme, status footer, focused composer, and diamond tool rows.
 - [LoopLabsBar — macOS menu bar for Grok Bot & peers](https://github.com/RichStone/LoopLabsBar) - CodexBar-style macOS menu-bar status script covering Claude Code, Codex, Cursor, Grok Bot, Grok and GitHub Copilot sessions.
@@ -1617,7 +1641,7 @@
 
 ## Contributing
 
-1511 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1532 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
