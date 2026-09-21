@@ -224,6 +224,8 @@ COUNTRY_LABEL = {
     "kz": {"en": "Kazakhstan", "zh": "哈萨克斯坦", "ja": "カザフスタン"},
     "tr": {"en": "Turkey", "zh": "土耳其", "ja": "トルコ"},
     "it": {"en": "Italy", "zh": "意大利", "ja": "イタリア"},
+    "nz": {"en": "New Zealand", "zh": "新西兰", "ja": "ニュージーランド"},
+    "cz": {"en": "Czechia", "zh": "捷克", "ja": "チェコ"},
     "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
     "other": {"en": "Other", "zh": "其他", "ja": "その他"},
 }
@@ -411,6 +413,14 @@ EVENT_GEO = {
     "gyn-20261017": ("online", "Online (Goiânia)", "线上（戈亚尼亚）", "オンライン（ゴイアニア）"),
     "jkt-20261107": ("id", "Jakarta", "雅加达", "ジャカルタ"),
     "raj-20260926": ("in", "Rajkot", "拉杰科特", "ラージコート"),
+    "aus-20261004": ("us", "Austin", "奥斯汀", "オースティン"),
+    "akl-20261008": ("nz", "Auckland", "奥克兰", "オークランド"),
+    "vlc-20260925": ("es", "Valencia", "瓦伦西亚", "バレンシア"),
+    "prg-20260930": ("cz", "Prague", "布拉格", "プラハ"),
+    "ldn-20260926": ("gb", "London", "伦敦", "ロンドン"),
+    "phl-20261027": ("us", "Philadelphia", "费城", "フィラデルフィア"),
+    "phl-20261117": ("us", "Philadelphia", "费城", "フィラデルフィア"),
+    "phl-20261217": ("us", "Philadelphia", "费城", "フィラデルフィア"),
 }
 
 

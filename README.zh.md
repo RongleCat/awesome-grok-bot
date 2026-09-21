@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1532-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1541-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,14 +38,14 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（2）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017)
-- **美国**（10）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [迈阿密](./EVENTS.zh.md#mia-20260923) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929) · [洛杉矶](./EVENTS.zh.md#lad-20260922) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009)
+- **美国**（14）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [迈阿密](./EVENTS.zh.md#mia-20260923) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929) · [洛杉矶](./EVENTS.zh.md#lad-20260922) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217)
 - **加拿大**（5）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
 - **墨西哥**（4）：[普埃布拉](./EVENTS.zh.md#pue-20260924) · [奇瓦瓦](./EVENTS.zh.md#cuu-20260924) · [墨西哥城](./EVENTS.zh.md#cdmx-20260926) · [蒙特雷](./EVENTS.zh.md#mty-20261003)
 - **巴西**（3）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20260926)
+- **西班牙**（3）：[巴塞罗那](./EVENTS.zh.md#bcn-20260929) · [马德里](./EVENTS.zh.md#mad-20260929) · [瓦伦西亚](./EVENTS.zh.md#vlc-20260925)
 - **印度尼西亚**（3）：[巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [雅加达](./EVENTS.zh.md#jkt-20261003) · [雅加达](./EVENTS.zh.md#jkt-20261107)
 - **德国**（2）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015)
 - **厄瓜多尔**（2）：[基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
-- **西班牙**（2）：[巴塞罗那](./EVENTS.zh.md#bcn-20260929) · [马德里](./EVENTS.zh.md#mad-20260929)
 - **哈萨克斯坦**（2）：[阿斯塔纳](./EVENTS.zh.md#nqz-20261002) · [阿拉木图](./EVENTS.zh.md#ala-20261004)
 - **越南**（2）：[岘港](./EVENTS.zh.md#dad-20261003) · [胡志明市](./EVENTS.zh.md#sgn-20260926)
 - **阿根廷**（1）：[门多萨](./EVENTS.zh.md#mdz-20261003)
@@ -53,6 +53,8 @@
 - **阿塞拜疆**（1）：[巴库](./EVENTS.zh.md#bak-20260927)
 - **贝宁**（1）：[科托努](./EVENTS.zh.md#coo-20261003)
 - **玻利维亚**（1）：[圣克鲁斯](./EVENTS.zh.md#vvi-20260926)
+- **捷克**（1）：[布拉格](./EVENTS.zh.md#prg-20260930)
+- **英国**（1）：[伦敦](./EVENTS.zh.md#ldn-20260926)
 - **格鲁吉亚**（1）：[第比利斯](./EVENTS.zh.md#tbs-20260926)
 - **危地马拉**（1）：[危地马拉城](./EVENTS.zh.md#gua-20261003)
 - **爱尔兰**（1）：[都柏林](./EVENTS.zh.md#dub-20261004)
@@ -64,6 +66,7 @@
 - **科威特**（1）：[科威特](./EVENTS.zh.md#kwi-20260922)
 - **缅甸**（1）：[仰光](./EVENTS.zh.md#ygn-20260926)
 - **荷兰**（1）：[阿姆斯特丹](./EVENTS.zh.md#ams-20260922)
+- **新西兰**（1）：[奥克兰](./EVENTS.zh.md#akl-20261008)
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
 - **土耳其**（1）：[伊斯坦布尔](./EVENTS.zh.md#ist-20260929)
 - **乌干达**（1）：[坎帕拉](./EVENTS.zh.md#kla-20261003)
@@ -431,6 +434,9 @@
 
 ## 技能、插件与 MCP
 
+- [grok-build-optimizer — Windows workstation tuning](https://github.com/LJMoffat81/grok-build-optimizer) - 用 PowerShell 审计/应用脚本调优 Windows 电源计划与终端默认值，让 Grok Build 编码更顺。.
+- [ams-plugin-beats — LA Car Beats drop-in for Grok Bot](https://github.com/audiomotorsports-sketch/ams-plugin-beats) - 挂在 lacarbeats.com 横幅下的 HTML/CSS 试验插件，附给 Grok Bot / Cursor 智能体用的安装说明。.
+- [what-is-the-data-saying — Grok Build chart-choice skill](https://github.com/g0uv4/what-is-the-data-saying) - 开源核心 Grok Build Skill：贴表格后推荐该画哪种图，含台湾繁中教学法与 40 个命名模式。.
 - [LibreMLOps-Grok-Build — MLOps/LLMOps skills](https://github.com/HermeticOrmus/LibreMLOps-Grok-Build) - 面向 Grok Build 的 MLOps / LLMOps 技能包，自 LibreMLOps 熔铸并含 .grok/ 布局。.
 - [LibreGEO-Grok-Build — GEO / llms.txt skills](https://github.com/HermeticOrmus/LibreGEO-Grok-Build) - 面向 Grok Build 的 GEO / AI 搜索 / llms.txt 技能包，自 LibreGEO 熔铸并含 .grok/ 布局。.
 - [LibreFinTech-Grok-Build — payments/compliance skills](https://github.com/HermeticOrmus/LibreFinTech-Grok-Build) - 面向 Grok Build 的金融支付与合规设计评审技能（账本、审计轨迹），自 LibreFinTech 熔铸。.
@@ -931,6 +937,11 @@
 
 ## 开源替代
 
+- [Muxdeck (tmux-web-console) — browser tmux for Grok Build](https://github.com/lovinrain/tmux-web-console) - 移动友好的 tmux Web 控制台：持久工作区，并能识别 Claude Code、Codex、Cursor Agent、Grok Build 状态。.
+- [Grok-Build-IDE — Code-OSS workbench for Grok CLI](https://github.com/nct88/Grok-Build-IDE) - 基于 Code-OSS 的 IDE，内置 Grok Build Workbench，经 ACP stdio 连接官方 Grok CLI；Releases 提供 Windows 安装包。.
+- [larkent — Feishu/Lark bridge for Grok Build & CLIs](https://github.com/Rainnystone/larkent) - 把 Claude Code、Codex、Kimi、Grok Build、Cursor CLI、Antigravity 接到飞书/Lark，支持多 profile 会话。.
+- [snorlax-bot — local Grok Bot-like stack on DGX Spark](https://github.com/chinghauchu/snorlax-bot) - Apache-2.0 本地复刻 Grok Bot 产品形态（具名队友、电脑面板、技能/例程、MCP），跑在 NVIDIA DGX Spark 上。.
+- [grokbot-chat-harness — drive chat agents over SSH](https://github.com/Soul-Brews-Studio/grokbot-chat-harness) - 用单次 SSH 在远端盒子上列出/提问/跟踪仅聊天智能体的 CLI、Ink TUI 与第二模型编排 harness。.
 - [grok-bot-box-image — local rebuild of Grok Bot box base](https://github.com/2217173240/grok-bot-box-image) - 基于对 Grok Bot 0.18 沙箱的黑盒观察，用 Dockerfile/脚本重建本机 box 基础镜像（桌面、浏览器、工具链）。.
 - [synderesis-code — Apache-2.0 Grok Build fork](https://github.com/Synderesis-EU/synderesis-code) - 自 Grok Build 分出的 Apache-2.0 终端编码助手，对接 Synderesis API（独立产品，非 xAI）。.
 - [grok-build-boxed — cage Grok Build away from homedir](https://github.com/olwig/grok-build-boxed) - 把 Grok Build 关进更紧的笼子，避免 Agent 随意触碰沙箱外的家目录。.
@@ -1414,6 +1425,7 @@
 
 ## 相关列表
 
+- [beyond-grok-bot — desktop vs server-side agent essay](https://github.com/Amz34/beyond-grok-bot) - 短文对比个人向 Grok Bot 式桌面智能体与 24/7 服务端业务智能体的架构差异。.
 - [grok-build-mirror — unofficial Grok Build CLI release mirror](https://github.com/snakejohn/grok-build-mirror) - 非官方镜像：把公开的 Grok Build CLI 安装包同步到 GitHub Releases，并带 Cloudflare 下载加速。.
 - [pilion-browser — ACP browser that can drive Grok Build](https://github.com/echoVic/pilion-browser) - 桌面 ACP 浏览器：让 Claude Code、Codex、Gemini CLI、OpenCode 或 Grok Build 经 MCP 控标签页，并带审批。.
 - [owngoal-dev/grok — Grok Build CLI for jailbroken iOS](https://github.com/owngoal-dev/grok) - 非官方把 Grok Build CLI 打成 jailbreak iOS 用的 .deb（roothide / rootless）。.
@@ -1641,7 +1653,7 @@
 
 ## 贡献
 
-目前 8 个分类、1532 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1541 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

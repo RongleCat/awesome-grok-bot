@@ -3416,6 +3416,36 @@
       },
       "items": [
         {
+          "title": "grok-build-optimizer — Windows workstation tuning",
+          "url": "https://github.com/LJMoffat81/grok-build-optimizer",
+          "source": "GB-1564",
+          "blurb": {
+            "en": "PowerShell audit/apply scripts that tune Windows power plans and terminal defaults for smoother Grok Build coding sessions.",
+            "zh": "用 PowerShell 审计/应用脚本调优 Windows 电源计划与终端默认值，让 Grok Build 编码更顺。",
+            "ja": "Windows の電源プランとターミナル既定を整え、Grok Build のコーディングを滑らかにする PowerShell 監査/適用スクリプト。"
+          }
+        },
+        {
+          "title": "ams-plugin-beats — LA Car Beats drop-in for Grok Bot",
+          "url": "https://github.com/audiomotorsports-sketch/ams-plugin-beats",
+          "source": "GB-1558",
+          "blurb": {
+            "en": "Drop-in HTML/CSS guinea-pig plugin under the lacarbeats.com banner, with INSTALL notes written for Grok Bot / Cursor agents.",
+            "zh": "挂在 lacarbeats.com 横幅下的 HTML/CSS 试验插件，附给 Grok Bot / Cursor 智能体用的安装说明。",
+            "ja": "lacarbeats.com バナー配下の HTML/CSS 試験プラグイン。Grok Bot / Cursor 向け INSTALL 手順付き。"
+          }
+        },
+        {
+          "title": "what-is-the-data-saying — Grok Build chart-choice skill",
+          "url": "https://github.com/g0uv4/what-is-the-data-saying",
+          "source": "GB-1557",
+          "blurb": {
+            "en": "Open-core Grok Build skill that recommends which chart to draw from a pasted table, with Taiwan zh-TW pedagogy and 40 named patterns.",
+            "zh": "开源核心 Grok Build Skill：贴表格后推荐该画哪种图，含台湾繁中教学法与 40 个命名模式。",
+            "ja": "貼った表からどのグラフを描くべきか勧めるオープンコア Grok Build スキル。台湾繁体字の教え方と 40 の命名パターン付き。"
+          }
+        },
+        {
           "title": "LibreMLOps-Grok-Build — MLOps/LLMOps skills",
           "url": "https://github.com/HermeticOrmus/LibreMLOps-Grok-Build",
           "source": "GB-1543",
@@ -8376,6 +8406,56 @@
       },
       "items": [
         {
+          "title": "Muxdeck (tmux-web-console) — browser tmux for Grok Build",
+          "url": "https://github.com/lovinrain/tmux-web-console",
+          "source": "GB-1565",
+          "blurb": {
+            "en": "Mobile-friendly tmux web console with workspace persistence and status detection for Claude Code, Codex, Cursor Agent, and Grok Build.",
+            "zh": "移动友好的 tmux Web 控制台：持久工作区，并能识别 Claude Code、Codex、Cursor Agent、Grok Build 状态。",
+            "ja": "モバイル向け tmux Web コンソール。ワークスペース永続化と Claude Code / Codex / Cursor Agent / Grok Build の状態検知付き。"
+          }
+        },
+        {
+          "title": "Grok-Build-IDE — Code-OSS workbench for Grok CLI",
+          "url": "https://github.com/nct88/Grok-Build-IDE",
+          "source": "GB-1563",
+          "blurb": {
+            "en": "Code-OSS based IDE with Grok Build Workbench and ACP stdio to the official Grok CLI; Windows installers on Releases.",
+            "zh": "基于 Code-OSS 的 IDE，内置 Grok Build Workbench，经 ACP stdio 连接官方 Grok CLI；Releases 提供 Windows 安装包。",
+            "ja": "Code-OSS ベースの IDE。Grok Build Workbench を内蔵し、公式 Grok CLI と ACP stdio で接続。Releases に Windows インストーラ。"
+          }
+        },
+        {
+          "title": "larkent — Feishu/Lark bridge for Grok Build & CLIs",
+          "url": "https://github.com/Rainnystone/larkent",
+          "source": "GB-1562",
+          "blurb": {
+            "en": "Bring Claude Code, Codex, Kimi, Grok Build, Cursor CLI, and Antigravity into Feishu/Lark with multi-profile sessions.",
+            "zh": "把 Claude Code、Codex、Kimi、Grok Build、Cursor CLI、Antigravity 接到飞书/Lark，支持多 profile 会话。",
+            "ja": "Claude Code・Codex・Kimi・Grok Build・Cursor CLI・Antigravity を Feishu/Lark に繋ぎ、複数プロファイルで会話する。"
+          }
+        },
+        {
+          "title": "snorlax-bot — local Grok Bot-like stack on DGX Spark",
+          "url": "https://github.com/chinghauchu/snorlax-bot",
+          "source": "GB-1561",
+          "blurb": {
+            "en": "Apache-2.0 local recreation of the Grok Bot product shape (named teammates, computer pane, skills/routines, MCP) on NVIDIA DGX Spark.",
+            "zh": "Apache-2.0 本地复刻 Grok Bot 产品形态（具名队友、电脑面板、技能/例程、MCP），跑在 NVIDIA DGX Spark 上。",
+            "ja": "Grok Bot の製品形（名前付き队友・コンピュータ枠・skills/routines・MCP）を NVIDIA DGX Spark 上で再現する Apache-2.0 ローカル実装。"
+          }
+        },
+        {
+          "title": "grokbot-chat-harness — drive chat agents over SSH",
+          "url": "https://github.com/Soul-Brews-Studio/grokbot-chat-harness",
+          "source": "GB-1559",
+          "blurb": {
+            "en": "CLI, Ink TUI, and second-model harness to list/ask/tail chat-only agents on a remote box over one SSH session.",
+            "zh": "用单次 SSH 在远端盒子上列出/提问/跟踪仅聊天智能体的 CLI、Ink TUI 与第二模型编排 harness。",
+            "ja": "1 本の SSH で遠隔ボックス上のチャット専用エージェントを list/ask/tail する CLI・Ink TUI・第二モデル harness。"
+          }
+        },
+        {
           "title": "grok-bot-box-image — local rebuild of Grok Bot box base",
           "url": "https://github.com/2217173240/grok-bot-box-image",
           "source": "GB-1550",
@@ -13165,6 +13245,16 @@
         "ja": "関連リスト"
       },
       "items": [
+        {
+          "title": "beyond-grok-bot — desktop vs server-side agent essay",
+          "url": "https://github.com/Amz34/beyond-grok-bot",
+          "source": "GB-1560",
+          "blurb": {
+            "en": "Short architecture essay contrasting personal Grok Bot-style desktop agents with always-on server-side business agents.",
+            "zh": "短文对比个人向 Grok Bot 式桌面智能体与 24/7 服务端业务智能体的架构差异。",
+            "ja": "個人向け Grok Bot 型デスクトップエージェントと常時稼働のサーバ側ビジネスエージェントを対比する短い論考。"
+          }
+        },
         {
           "title": "grok-build-mirror — unofficial Grok Build CLI release mirror",
           "url": "https://github.com/snakejohn/grok-build-mirror",
@@ -20920,6 +21010,254 @@
         "en": "SpaceXAI Hackathon Indonesia in Jakarta — multi-day offline build around Grok Bot / SpaceXAI Community.",
         "zh": "SpaceXAI 印尼黑客松（雅加达）：围绕 Grok Bot / SpaceXAI Community 的多日线下构建。",
         "ja": "ジャカルタの SpaceXAI Hackathon Indonesia。Grok Bot／SpaceXAI Community 周りの複数日オフライン。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "aus-20261004",
+      "url": "https://luma.com/GrokBotClass",
+      "image": "./assets/events/aus-20261004-cover.png",
+      "expires": "2026-10-04T16:00:00-05:00",
+      "title": {
+        "en": "GROK BOT MASTERCLASS: Build a Mini Company with Grok Bot",
+        "zh": "Grok Bot 大师课：用 Grok Bot 搭迷你公司",
+        "ja": "Grok Bot マスタークラス：ミニ会社を Grok Bot で作る"
+      },
+      "when": {
+        "en": "Sun 4 Oct 2026, 13:00–16:00 (America/Chicago)",
+        "zh": "2026-10-04 周日 13:00–16:00（America/Chicago）",
+        "ja": "2026-10-04（日）13:00–16:00（America/Chicago）"
+      },
+      "where": {
+        "en": "Austin · Antler VC, 800 Brazos St #340, Austin, TX 78701, USA — offline",
+        "zh": "奥斯汀 · Antler VC, 800 Brazos St #340, Austin, TX 78701, USA — 线下",
+        "ja": "オースティン · Antler VC, 800 Brazos St #340, Austin, TX 78701, USA — オフライン"
+      },
+      "body": {
+        "en": "AI Implementation Club masterclass in Austin: build a mini company with Grok Bot at Antler VC. Register on Luma.",
+        "zh": "奥斯汀 AI Implementation Club 大师课：在 Antler VC 用 Grok Bot 搭迷你公司。Luma 报名。",
+        "ja": "オースティン AI Implementation Club のマスタークラス。Antler VC で Grok Bot を使いミニ会社を構築。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "akl-20261008",
+      "url": "https://luma.com/spacexai-akl01",
+      "image": "./assets/events/akl-20261008-cover.png",
+      "expires": "2026-10-08T21:00:00+13:00",
+      "title": {
+        "en": "Grok Bot Auckland Meetup",
+        "zh": "Grok Bot Meetup 奥克兰",
+        "ja": "Grok Bot Meetup オークランド"
+      },
+      "when": {
+        "en": "Thu 8 Oct 2026, 18:00–21:00 (Pacific/Auckland)",
+        "zh": "2026-10-08 周四 18:00–21:00（Pacific/Auckland）",
+        "ja": "2026-10-08（木）18:00–21:00（Pacific/Auckland）"
+      },
+      "where": {
+        "en": "Auckland CBD · address shared with guests — offline",
+        "zh": "奥克兰市中心 · 地址对嘉宾可见 — 线下",
+        "ja": "オークランド CBD · 住所はゲストに共有 — オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI Community Grok Bot meetup in Auckland, New Zealand. In-person builders session; register on Luma.",
+        "zh": "SpaceXAI Community 新西兰奥克兰 Grok Bot 线下局。Luma 报名。",
+        "ja": "SpaceXAI Community のオークランド（NZ）Grok Bot 対面ミートアップ。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "vlc-20260925",
+      "url": "https://luma.com/cpgwzo6n",
+      "image": "./assets/events/vlc-20260925-cover.png",
+      "expires": "2026-09-25T17:00:00+02:00",
+      "title": {
+        "en": "Cafe Cursor València",
+        "zh": "Cafe Cursor 瓦伦西亚",
+        "ja": "Cafe Cursor バレンシア"
+      },
+      "when": {
+        "en": "Fri 25 Sep 2026, 10:00–17:00 (Europe/Madrid)",
+        "zh": "2026-09-25 周五 10:00–17:00（Europe/Madrid）",
+        "ja": "2026-09-25（金）10:00–17:00（Europe/Madrid）"
+      },
+      "where": {
+        "en": "València · SpaceXAI for Valencia — offline",
+        "zh": "瓦伦西亚 · SpaceXAI Valencia — 线下",
+        "ja": "バレンシア · SpaceXAI Valencia — オフライン"
+      },
+      "body": {
+        "en": "Cafe Cursor cowork session in València under the SpaceXAI Community calendar. Register on Luma.",
+        "zh": "SpaceXAI Community 日历下的瓦伦西亚 Cafe Cursor 共创局。Luma 报名。",
+        "ja": "SpaceXAI Community カレンダーのバレンシア Cafe Cursor コワーク。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "prg-20260930",
+      "url": "https://luma.com/cursor-mljb",
+      "image": "./assets/events/prg-20260930-cover.png",
+      "expires": "2026-09-30T19:00:00+02:00",
+      "title": {
+        "en": "Cursor Hackathon Prague: Forge the Stack",
+        "zh": "Cursor 布拉格黑客松：Forge the Stack",
+        "ja": "Cursor Hackathon プラハ：Forge the Stack"
+      },
+      "when": {
+        "en": "Wed 30 Sep 2026, 12:30–19:00 (Europe/Prague)",
+        "zh": "2026-09-30 周三 12:30–19:00（Europe/Prague）",
+        "ja": "2026-09-30（水）12:30–19:00（Europe/Prague）"
+      },
+      "where": {
+        "en": "Prague · SpaceXAI for Prague — offline",
+        "zh": "布拉格 · SpaceXAI Prague — 线下",
+        "ja": "プラハ · SpaceXAI Prague — オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI Community Cursor/Grok hackathon in Prague — Forge the Stack. In-person; register on Luma.",
+        "zh": "SpaceXAI Community 布拉格 Cursor/Grok 黑客松（Forge the Stack）。线下；Luma 报名。",
+        "ja": "SpaceXAI Community のプラハ Cursor/Grok ハッカソン（Forge the Stack）。対面。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "ldn-20260926",
+      "url": "https://luma.com/cursor-td9f",
+      "image": "./assets/events/ldn-20260926-cover.png",
+      "expires": "2026-09-26T18:00:00+01:00",
+      "title": {
+        "en": "Cursor Commerce London Hackathon",
+        "zh": "Cursor Commerce 伦敦黑客松",
+        "ja": "Cursor Commerce ロンドンハッカソン"
+      },
+      "when": {
+        "en": "Sat 26 Sep 2026, 09:00–18:00 (Europe/London)",
+        "zh": "2026-09-26 周六 09:00–18:00（Europe/London）",
+        "ja": "2026-09-26（土）09:00–18:00（Europe/London）"
+      },
+      "where": {
+        "en": "London · SpaceXAI for London — offline",
+        "zh": "伦敦 · SpaceXAI London — 线下",
+        "ja": "ロンドン · SpaceXAI London — オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI Community Cursor Commerce hackathon in London. In-person builders day; register on Luma.",
+        "zh": "SpaceXAI Community 伦敦 Cursor Commerce 黑客松。线下建造日；Luma 报名。",
+        "ja": "SpaceXAI Community のロンドン Cursor Commerce ハッカソン。対面ビルド日。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "phl-20261027",
+      "url": "https://luma.com/cursor-c2mq",
+      "image": "./assets/events/phl-20261027-cover.jpg",
+      "expires": "2026-10-27T20:30:00-04:00",
+      "title": {
+        "en": "Cursor Meetup Philadelphia — October",
+        "zh": "Cursor Meetup 费城 — 十月场",
+        "ja": "Cursor Meetup フィラデルフィア — 10月"
+      },
+      "when": {
+        "en": "Tue 27 Oct 2026, 18:00–20:30 (America/New_York)",
+        "zh": "2026-10-27 周二 18:00–20:30（America/New_York）",
+        "ja": "2026-10-27（火）18:00–20:30（America/New_York）"
+      },
+      "where": {
+        "en": "Philadelphia · SpaceXAI for Philadelphia — offline",
+        "zh": "费城 · SpaceXAI Philadelphia — 线下",
+        "ja": "フィラデルフィア · SpaceXAI Philadelphia — オフライン"
+      },
+      "body": {
+        "en": "October SpaceXAI Community Cursor/Grok meetup in Philadelphia. Follow-on to the Sep 29 Grok Bot meetup; register on Luma.",
+        "zh": "SpaceXAI Community 费城十月 Cursor/Grok 局（接 9/29 Grok Bot Meetup）。Luma 报名。",
+        "ja": "SpaceXAI Community のフィラデルフィア 10 月 Cursor/Grok ミートアップ（9/29 に続く回）。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "phl-20261117",
+      "url": "https://luma.com/cursor-acqy",
+      "image": "./assets/events/phl-20261117-cover.jpg",
+      "expires": "2026-11-17T20:30:00-05:00",
+      "title": {
+        "en": "Cursor Meetup Philadelphia — November",
+        "zh": "Cursor Meetup 费城 — 十一月场",
+        "ja": "Cursor Meetup フィラデルフィア — 11月"
+      },
+      "when": {
+        "en": "Tue 17 Nov 2026, 18:00–20:30 (America/New_York)",
+        "zh": "2026-11-17 周二 18:00–20:30（America/New_York）",
+        "ja": "2026-11-17（火）18:00–20:30（America/New_York）"
+      },
+      "where": {
+        "en": "Philadelphia · SpaceXAI for Philadelphia — offline",
+        "zh": "费城 · SpaceXAI Philadelphia — 线下",
+        "ja": "フィラデルフィア · SpaceXAI Philadelphia — オフライン"
+      },
+      "body": {
+        "en": "November SpaceXAI Community Cursor/Grok meetup in Philadelphia. Register on Luma.",
+        "zh": "SpaceXAI Community 费城十一月 Cursor/Grok 局。Luma 报名。",
+        "ja": "SpaceXAI Community のフィラデルフィア 11 月 Cursor/Grok ミートアップ。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "phl-20261217",
+      "url": "https://luma.com/cursor-8wr8",
+      "image": "./assets/events/phl-20261217-cover.jpg",
+      "expires": "2026-12-17T20:30:00-05:00",
+      "title": {
+        "en": "Cursor Meetup Philadelphia — December",
+        "zh": "Cursor Meetup 费城 — 十二月场",
+        "ja": "Cursor Meetup フィラデルフィア — 12月"
+      },
+      "when": {
+        "en": "Thu 17 Dec 2026, 18:00–20:30 (America/New_York)",
+        "zh": "2026-12-17 周四 18:00–20:30（America/New_York）",
+        "ja": "2026-12-17（木）18:00–20:30（America/New_York）"
+      },
+      "where": {
+        "en": "Philadelphia · SpaceXAI for Philadelphia — offline",
+        "zh": "费城 · SpaceXAI Philadelphia — 线下",
+        "ja": "フィラデルフィア · SpaceXAI Philadelphia — オフライン"
+      },
+      "body": {
+        "en": "December SpaceXAI Community Cursor/Grok meetup in Philadelphia. Register on Luma.",
+        "zh": "SpaceXAI Community 费城十二月 Cursor/Grok 局。Luma 报名。",
+        "ja": "SpaceXAI Community のフィラデルフィア 12 月 Cursor/Grok ミートアップ。Luma で登録。"
       },
       "cta": {
         "en": "Register on Luma",

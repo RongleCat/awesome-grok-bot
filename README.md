@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1532-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1541-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,14 +38,14 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（2）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017)
-- **United States**（10）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Los Angeles](./EVENTS.md#lad-20260922) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009)
+- **United States**（14）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Los Angeles](./EVENTS.md#lad-20260922) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217)
 - **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
 - **Mexico**（4）：[Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926) · [Monterrey](./EVENTS.md#mty-20261003)
 - **Brazil**（3）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926)
+- **Spain**（3）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929) · [Valencia](./EVENTS.md#vlc-20260925)
 - **Indonesia**（3）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003) · [Jakarta](./EVENTS.md#jkt-20261107)
 - **Germany**（2）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015)
 - **Ecuador**（2）：[Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
-- **Spain**（2）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929)
 - **Kazakhstan**（2）：[Astana](./EVENTS.md#nqz-20261002) · [Almaty](./EVENTS.md#ala-20261004)
 - **Vietnam**（2）：[Da Nang](./EVENTS.md#dad-20261003) · [Ho Chi Minh City](./EVENTS.md#sgn-20260926)
 - **Argentina**（1）：[Mendoza](./EVENTS.md#mdz-20261003)
@@ -53,6 +53,8 @@
 - **Azerbaijan**（1）：[Baku](./EVENTS.md#bak-20260927)
 - **Benin**（1）：[Cotonou](./EVENTS.md#coo-20261003)
 - **Bolivia**（1）：[Santa Cruz](./EVENTS.md#vvi-20260926)
+- **Czechia**（1）：[Prague](./EVENTS.md#prg-20260930)
+- **United Kingdom**（1）：[London](./EVENTS.md#ldn-20260926)
 - **Georgia**（1）：[Tbilisi](./EVENTS.md#tbs-20260926)
 - **Guatemala**（1）：[Guatemala City](./EVENTS.md#gua-20261003)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
@@ -64,6 +66,7 @@
 - **Kuwait**（1）：[Kuwait / Mubarak Al-Abdullah](./EVENTS.md#kwi-20260922)
 - **Myanmar**（1）：[Yangon](./EVENTS.md#ygn-20260926)
 - **Netherlands**（1）：[Amsterdam](./EVENTS.md#ams-20260922)
+- **New Zealand**（1）：[Auckland](./EVENTS.md#akl-20261008)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
 - **Turkey**（1）：[Istanbul](./EVENTS.md#ist-20260929)
 - **Uganda**（1）：[Kampala](./EVENTS.md#kla-20261003)
@@ -431,6 +434,9 @@
 
 ## Skills, Plugins & MCP
 
+- [grok-build-optimizer — Windows workstation tuning](https://github.com/LJMoffat81/grok-build-optimizer) - PowerShell audit/apply scripts that tune Windows power plans and terminal defaults for smoother Grok Build coding sessions.
+- [ams-plugin-beats — LA Car Beats drop-in for Grok Bot](https://github.com/audiomotorsports-sketch/ams-plugin-beats) - Drop-in HTML/CSS guinea-pig plugin under the lacarbeats.com banner, with INSTALL notes written for Grok Bot / Cursor agents.
+- [what-is-the-data-saying — Grok Build chart-choice skill](https://github.com/g0uv4/what-is-the-data-saying) - Open-core Grok Build skill that recommends which chart to draw from a pasted table, with Taiwan zh-TW pedagogy and 40 named patterns.
 - [LibreMLOps-Grok-Build — MLOps/LLMOps skills](https://github.com/HermeticOrmus/LibreMLOps-Grok-Build) - MLOps and LLMOps skill pack for Grok Build, melted from LibreMLOps with .grok/ layout.
 - [LibreGEO-Grok-Build — GEO / llms.txt skills](https://github.com/HermeticOrmus/LibreGEO-Grok-Build) - GEO and AI-search / llms.txt skill pack for Grok Build, melted from LibreGEO with .grok/ layout.
 - [LibreFinTech-Grok-Build — payments/compliance skills](https://github.com/HermeticOrmus/LibreFinTech-Grok-Build) - FinTech payments and compliance design-review skills for Grok Build (ledger, audit trail), melted from LibreFinTech.
@@ -931,6 +937,11 @@
 
 ## Open-Source Alternatives
 
+- [Muxdeck (tmux-web-console) — browser tmux for Grok Build](https://github.com/lovinrain/tmux-web-console) - Mobile-friendly tmux web console with workspace persistence and status detection for Claude Code, Codex, Cursor Agent, and Grok Build.
+- [Grok-Build-IDE — Code-OSS workbench for Grok CLI](https://github.com/nct88/Grok-Build-IDE) - Code-OSS based IDE with Grok Build Workbench and ACP stdio to the official Grok CLI; Windows installers on Releases.
+- [larkent — Feishu/Lark bridge for Grok Build & CLIs](https://github.com/Rainnystone/larkent) - Bring Claude Code, Codex, Kimi, Grok Build, Cursor CLI, and Antigravity into Feishu/Lark with multi-profile sessions.
+- [snorlax-bot — local Grok Bot-like stack on DGX Spark](https://github.com/chinghauchu/snorlax-bot) - Apache-2.0 local recreation of the Grok Bot product shape (named teammates, computer pane, skills/routines, MCP) on NVIDIA DGX Spark.
+- [grokbot-chat-harness — drive chat agents over SSH](https://github.com/Soul-Brews-Studio/grokbot-chat-harness) - CLI, Ink TUI, and second-model harness to list/ask/tail chat-only agents on a remote box over one SSH session.
 - [grok-bot-box-image — local rebuild of Grok Bot box base](https://github.com/2217173240/grok-bot-box-image) - Dockerfile and scripts to rebuild a Grok Bot–style local box base image (desktop, browser, toolchains) from black-box observations of 0.18.
 - [synderesis-code — Apache-2.0 Grok Build fork](https://github.com/Synderesis-EU/synderesis-code) - Apache-2.0 terminal coding assistant forked from Grok Build and wired to the Synderesis API (independent, not xAI).
 - [grok-build-boxed — cage Grok Build away from homedir](https://github.com/olwig/grok-build-boxed) - Runs Grok Build in a tighter cage so the agent cannot freely touch your homedir outside the sandbox.
@@ -1414,6 +1425,7 @@
 
 ## Related Lists
 
+- [beyond-grok-bot — desktop vs server-side agent essay](https://github.com/Amz34/beyond-grok-bot) - Short architecture essay contrasting personal Grok Bot-style desktop agents with always-on server-side business agents.
 - [grok-build-mirror — unofficial Grok Build CLI release mirror](https://github.com/snakejohn/grok-build-mirror) - Unofficial mirror that republishes public Grok Build CLI artifacts to GitHub Releases with a Cloudflare download proxy.
 - [pilion-browser — ACP browser that can drive Grok Build](https://github.com/echoVic/pilion-browser) - Desktop ACP browser that lets Claude Code, Codex, Gemini CLI, OpenCode, or Grok Build drive tabs via MCP with approvals.
 - [owngoal-dev/grok — Grok Build CLI for jailbroken iOS](https://github.com/owngoal-dev/grok) - Unofficial packaging of the Grok Build CLI as .deb for jailbroken iOS (roothide and rootless bootstraps).
@@ -1641,7 +1653,7 @@
 
 ## Contributing
 
-1532 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1541 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

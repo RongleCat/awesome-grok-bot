@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1532-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1541-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,14 +38,14 @@
 [イベントの詳細](./EVENTS.ja.md)
 
 - **中国**（2）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017)
-- **アメリカ**（10）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [マイアミ](./EVENTS.ja.md#mia-20260923) · [アトランタ](./EVENTS.ja.md#atl-20260924) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [ロサンゼルス](./EVENTS.ja.md#lad-20260922) · [シアトル](./EVENTS.ja.md#sea-20260924) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009)
+- **アメリカ**（14）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [マイアミ](./EVENTS.ja.md#mia-20260923) · [アトランタ](./EVENTS.ja.md#atl-20260924) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [ロサンゼルス](./EVENTS.ja.md#lad-20260922) · [シアトル](./EVENTS.ja.md#sea-20260924) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [オースティン](./EVENTS.ja.md#aus-20261004) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217)
 - **カナダ**（5）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [ビクトリア（BC）](./EVENTS.ja.md#vic-20260921) · [モントリオール](./EVENTS.ja.md#yul-20260926) · [トロント](./EVENTS.ja.md#yyz-20261026) · [オタワ](./EVENTS.ja.md#yow-20261010)
 - **メキシコ**（4）：[プエブラ](./EVENTS.ja.md#pue-20260924) · [チワワ](./EVENTS.ja.md#cuu-20260924) · [メキシコシティ](./EVENTS.ja.md#cdmx-20260926) · [モンテレイ](./EVENTS.ja.md#mty-20261003)
 - **ブラジル**（3）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [フロリアノポリス](./EVENTS.ja.md#fln-20260926)
+- **スペイン**（3）：[バルセロナ](./EVENTS.ja.md#bcn-20260929) · [マドリード](./EVENTS.ja.md#mad-20260929) · [バレンシア](./EVENTS.ja.md#vlc-20260925)
 - **インドネシア**（3）：[ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [ジャカルタ](./EVENTS.ja.md#jkt-20261003) · [ジャカルタ](./EVENTS.ja.md#jkt-20261107)
 - **ドイツ**（2）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015)
 - **エクアドル**（2）：[キト](./EVENTS.ja.md#uio-20260924) · [クンバヤ](./EVENTS.ja.md#cumb-20261003)
-- **スペイン**（2）：[バルセロナ](./EVENTS.ja.md#bcn-20260929) · [マドリード](./EVENTS.ja.md#mad-20260929)
 - **カザフスタン**（2）：[アスタナ](./EVENTS.ja.md#nqz-20261002) · [アルマトイ](./EVENTS.ja.md#ala-20261004)
 - **ベトナム**（2）：[ダナン](./EVENTS.ja.md#dad-20261003) · [ホーチミン](./EVENTS.ja.md#sgn-20260926)
 - **アルゼンチン**（1）：[メンドサ](./EVENTS.ja.md#mdz-20261003)
@@ -53,6 +53,8 @@
 - **アゼルバイジャン**（1）：[バクー](./EVENTS.ja.md#bak-20260927)
 - **ベナン**（1）：[コトヌー](./EVENTS.ja.md#coo-20261003)
 - **ボリビア**（1）：[サンタクルス](./EVENTS.ja.md#vvi-20260926)
+- **チェコ**（1）：[プラハ](./EVENTS.ja.md#prg-20260930)
+- **イギリス**（1）：[ロンドン](./EVENTS.ja.md#ldn-20260926)
 - **ジョージア**（1）：[トビリシ](./EVENTS.ja.md#tbs-20260926)
 - **グアテマラ**（1）：[グアテマラシティ](./EVENTS.ja.md#gua-20261003)
 - **アイルランド**（1）：[ダブリン](./EVENTS.ja.md#dub-20261004)
@@ -64,6 +66,7 @@
 - **クウェート**（1）：[クウェート](./EVENTS.ja.md#kwi-20260922)
 - **ミャンマー**（1）：[ヤンゴン](./EVENTS.ja.md#ygn-20260926)
 - **オランダ**（1）：[アムステルダム](./EVENTS.ja.md#ams-20260922)
+- **ニュージーランド**（1）：[オークランド](./EVENTS.ja.md#akl-20261008)
 - **フィリピン**（1）：[セブ](./EVENTS.ja.md#ceb-20260919)
 - **トルコ**（1）：[イスタンブール](./EVENTS.ja.md#ist-20260929)
 - **ウガンダ**（1）：[カンパラ](./EVENTS.ja.md#kla-20261003)
@@ -431,6 +434,9 @@
 
 ## スキル、プラグインと MCP
 
+- [grok-build-optimizer — Windows workstation tuning](https://github.com/LJMoffat81/grok-build-optimizer) - Windows の電源プランとターミナル既定を整え、Grok Build のコーディングを滑らかにする PowerShell 監査/適用スクリプト。
+- [ams-plugin-beats — LA Car Beats drop-in for Grok Bot](https://github.com/audiomotorsports-sketch/ams-plugin-beats) - lacarbeats.com バナー配下の HTML/CSS 試験プラグイン。Grok Bot / Cursor 向け INSTALL 手順付き。
+- [what-is-the-data-saying — Grok Build chart-choice skill](https://github.com/g0uv4/what-is-the-data-saying) - 貼った表からどのグラフを描くべきか勧めるオープンコア Grok Build スキル。台湾繁体字の教え方と 40 の命名パターン付き。
 - [LibreMLOps-Grok-Build — MLOps/LLMOps skills](https://github.com/HermeticOrmus/LibreMLOps-Grok-Build) - Grok Build 向け MLOps／LLMOps スキルパック。LibreMLOps から移植し .grok/ 付き。
 - [LibreGEO-Grok-Build — GEO / llms.txt skills](https://github.com/HermeticOrmus/LibreGEO-Grok-Build) - Grok Build 向け GEO／AI 検索／llms.txt スキルパック。LibreGEO から移植し .grok/ 付き。
 - [LibreFinTech-Grok-Build — payments/compliance skills](https://github.com/HermeticOrmus/LibreFinTech-Grok-Build) - Grok Build 向け FinTech 決済・コンプライアンス設計レビュー技能（台帳・監査証跡）。LibreFinTech から移植。
@@ -931,6 +937,11 @@
 
 ## オープンソースの代替
 
+- [Muxdeck (tmux-web-console) — browser tmux for Grok Build](https://github.com/lovinrain/tmux-web-console) - モバイル向け tmux Web コンソール。ワークスペース永続化と Claude Code / Codex / Cursor Agent / Grok Build の状態検知付き。
+- [Grok-Build-IDE — Code-OSS workbench for Grok CLI](https://github.com/nct88/Grok-Build-IDE) - Code-OSS ベースの IDE。Grok Build Workbench を内蔵し、公式 Grok CLI と ACP stdio で接続。Releases に Windows インストーラ。
+- [larkent — Feishu/Lark bridge for Grok Build & CLIs](https://github.com/Rainnystone/larkent) - Claude Code・Codex・Kimi・Grok Build・Cursor CLI・Antigravity を Feishu/Lark に繋ぎ、複数プロファイルで会話する。
+- [snorlax-bot — local Grok Bot-like stack on DGX Spark](https://github.com/chinghauchu/snorlax-bot) - Grok Bot の製品形（名前付き队友・コンピュータ枠・skills/routines・MCP）を NVIDIA DGX Spark 上で再現する Apache-2.0 ローカル実装。
+- [grokbot-chat-harness — drive chat agents over SSH](https://github.com/Soul-Brews-Studio/grokbot-chat-harness) - 1 本の SSH で遠隔ボックス上のチャット専用エージェントを list/ask/tail する CLI・Ink TUI・第二モデル harness。
 - [grok-bot-box-image — local rebuild of Grok Bot box base](https://github.com/2217173240/grok-bot-box-image) - Grok Bot 0.18 サンドボックスのブラックボックス観察に基づき、デスクトップ／ブラウザ／ツールチェーン付き box ベースイメージを再構築する Dockerfile とスクリプト。
 - [synderesis-code — Apache-2.0 Grok Build fork](https://github.com/Synderesis-EU/synderesis-code) - Grok Build から分岐した Apache-2.0 ターミナルコーディング助手。Synderesis API 接続（xAI 非公式）。
 - [grok-build-boxed — cage Grok Build away from homedir](https://github.com/olwig/grok-build-boxed) - Grok Build を厳しめのケージで実行し、サンドボックス外のホームディレクトリへ触れにくくする。
@@ -1414,6 +1425,7 @@
 
 ## 関連リスト
 
+- [beyond-grok-bot — desktop vs server-side agent essay](https://github.com/Amz34/beyond-grok-bot) - 個人向け Grok Bot 型デスクトップエージェントと常時稼働のサーバ側ビジネスエージェントを対比する短い論考。
 - [grok-build-mirror — unofficial Grok Build CLI release mirror](https://github.com/snakejohn/grok-build-mirror) - 公開の Grok Build CLI 成果物を GitHub Releases に再配布する非公式ミラー（Cloudflare ダウンロード代理付き）。
 - [pilion-browser — ACP browser that can drive Grok Build](https://github.com/echoVic/pilion-browser) - Claude Code／Codex／Gemini CLI／OpenCode／Grok Build が MCP でタブ操作できるデスクトップ ACP ブラウザ（承認付き）。
 - [owngoal-dev/grok — Grok Build CLI for jailbroken iOS](https://github.com/owngoal-dev/grok) - ジェイルブレイク iOS 向けに Grok Build CLI を .deb 化した非公式パッケージ（roothide／rootless）。
@@ -1641,7 +1653,7 @@
 
 ## 貢献
 
-8 セクションに 1532 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1541 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
