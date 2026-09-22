@@ -227,6 +227,8 @@ COUNTRY_LABEL = {
     "nz": {"en": "New Zealand", "zh": "新西兰", "ja": "ニュージーランド"},
     "cz": {"en": "Czechia", "zh": "捷克", "ja": "チェコ"},
     "pk": {"en": "Pakistan", "zh": "巴基斯坦", "ja": "パキスタン"},
+    "gr": {"en": "Greece", "zh": "希腊", "ja": "ギリシャ"},
+    "no": {"en": "Norway", "zh": "挪威", "ja": "ノルウェー"},
     "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
     "other": {"en": "Other", "zh": "其他", "ja": "その他"},
 }
@@ -424,6 +426,11 @@ EVENT_GEO = {
     "phl-20261217": ("us", "Philadelphia", "费城", "フィラデルフィア"),
     "khi-20260926": ("pk", "Karachi", "卡拉奇", "カラチ"),
     "tpa-20261114": ("us", "Tampa Bay", "坦帕湾", "タンパベイ"),
+    "cwb-20260929": ("br", "Curitiba", "库里蒂巴", "クリチバ"),
+    "ath-20261001": ("gr", "Athens", "雅典", "アテネ"),
+    "osl-20261016": ("no", "Oslo", "奥斯陆", "オスロ"),
+    "bli-20261025": ("id", "Canggu / Bali", "巴厘岛Canggu", "チャングー / バリ"),
+    "gua-20261205": ("gt", "Guatemala", "危地马拉", "グアテマラ"),
 }
 
 
