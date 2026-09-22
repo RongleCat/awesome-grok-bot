@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1541-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1572-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -68,6 +68,7 @@
 - **荷兰**（1）：[阿姆斯特丹](./EVENTS.zh.md#ams-20260922)
 - **新西兰**（1）：[奥克兰](./EVENTS.zh.md#akl-20261008)
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
+- **巴基斯坦**（1）：[卡拉奇](./EVENTS.zh.md#khi-20260926)
 - **土耳其**（1）：[伊斯坦布尔](./EVENTS.zh.md#ist-20260929)
 - **乌干达**（1）：[坎帕拉](./EVENTS.zh.md#kla-20261003)
 - **乌兹别克斯坦**（1）：[塔什干](./EVENTS.zh.md#tas-20260929)
@@ -190,6 +191,8 @@
 
 ## 教程与上手指南
 
+- [Grok Bot Galaxy ebook summary (Portuguese)](https://github.com/simiao-cavalcante/grok-bot-galaxy) - 免费 23 页葡语电子书：概括 Grok Bot 是什么，以及三天 Galaxy 搭公司直播的要点。.
+- [Grok Bot Galaxy livestream archive — searchable transcripts](https://github.com/peterdays/grok-bot-galaxy-livestream-archive) - 独立的 Grok Bot Galaxy 约 25 小时直播可检索档案：章节评分、SRT/VTT 字幕与本地跳转。.
 - [Grok Bot asar recovery — tree-sitter startup fix](https://github.com/Pitchfork-and-Torch/grok-bot-asar-recovery) - 社区恢复手册：Grok Bot 桌面端因损坏的 app.asar（tree-sitter 依赖空桩）无法启动时的修复步骤。.
 - [Grok Bot ↔ Hermes Remote — SSH linkup handoff](https://github.com/0x-wzw/hermes-grok-ssh-handoff) - 脱敏交接文档（无密钥）：经 Tailscale SSH 把 Grok Bot 接到 Hermes Desktop/Remote，并复用多路 profile API 网关。.
 - [Grok Bot Galaxy Archive — Whisper + bot metadata](https://github.com/weichselbaum/grok-bot-galaxy-archive) - SpaceXAI Grok Bot Galaxy 直播社区归档：完整 Whisper 转写，以及结构化的 bots/approaches/code 元数据。.
@@ -434,6 +437,17 @@
 
 ## 技能、插件与 MCP
 
+- [Grok-Build-for-Codex — invoke Grok Build inside Codex](https://github.com/Himare4092/Grok-Build-for-Codex) - 桥接包：让 Codex 调用 Grok Build 做代码审查等任务，含日英文档。.
+- [CodyBearTV Bitcoin stream plugin for Grok Build](https://github.com/contentctv/codybeartv-bitcoin-stream) - 面向 Grok Build 的只读比特币流插件（CodyBearTV）；明确不是交易机器人。.
+- [Grok-W-Workflow — parallel Grok Build CLI fan-out skill](https://github.com/sauerlandtreffi/Grok-W-Workflow) - Skill 与脚本：把批量任务扇出到并行 Grok Build CLI 子代理，并带面向大批量的校验门。.
+- [fabius — shared rules and skills across Claude, Codex, Grok Build](https://github.com/shear559/fabius) - 十五套共享 Skill 与六步 Fabius 循环，覆盖 Claude Code、Codex 与 Grok Build，让多模型共用同一规则集。.
+- [grok-pstack — Lauren Tan pstack playbooks for Grok Build](https://github.com/ThewindMom/grok-pstack) - 把 Lauren Tan 的 pstack/poteto 剧本移植为 Grok Build 插件，含 spawn_subagent 编排与质量优先原则。.
+- [CosVoice — phone-number MCP for Grok Bot Chief of Staff](https://github.com/CosVoice/cosvoice-mcp) - 托管 MCP：给首席参谋 Bot 配电话号码，可用于 Grok Bot、Claude 与 ChatGPT。.
+- [Raily — personal-agent MCP for Cursor Marketplace and Grok Bot](https://github.com/railyai/raily-mcp) - 面向 Cursor Marketplace 与 Grok Bot 的 Raily 个人代理 MCP 插件，含工具说明与发布说明。.
+- [Vertebrae — meeting-notes MCP for Grok Bot and Grok Build](https://github.com/vertebrae-ai/vertebrae-plugin) - 面向 Grok Build、Cursor、Grok Bot 与 Claude Code 的托管 MCP 会议纪要插件，把通话整理成结构化跟进。.
+- [PerilScore — risk plugin for Cursor, Grok Bot, and Grok Build](https://github.com/PerilScore/perilscore-agent-plugin) - 官方 PerilScore 代理插件：通过托管 MCP 向 Cursor、Grok Bot 与 Grok Build 暴露风险评分工具。.
+- [Proxy — ad-library MCP plugin for Cursor and Grok Bot](https://github.com/proxy-intell/cursor-plugin) - 面向 Cursor 与 Grok Bot 的免费 MCP 插件：检索 Meta/Google/LinkedIn/TikTok 广告库做竞品与创意研究。.
+- [Scout — Grok Bot MCP for local coding-agent coordination](https://github.com/arach/grok-scout) - 托管 MCP + OAuth：经 OpenScout 把本地编程代理接入 Grok Bot 对话，在同一会话里派活并跟踪结果。.
 - [grok-build-optimizer — Windows workstation tuning](https://github.com/LJMoffat81/grok-build-optimizer) - 用 PowerShell 审计/应用脚本调优 Windows 电源计划与终端默认值，让 Grok Build 编码更顺。.
 - [ams-plugin-beats — LA Car Beats drop-in for Grok Bot](https://github.com/audiomotorsports-sketch/ams-plugin-beats) - 挂在 lacarbeats.com 横幅下的 HTML/CSS 试验插件，附给 Grok Bot / Cursor 智能体用的安装说明。.
 - [what-is-the-data-saying — Grok Build chart-choice skill](https://github.com/g0uv4/what-is-the-data-saying) - 开源核心 Grok Build Skill：贴表格后推荐该画哪种图，含台湾繁中教学法与 40 个命名模式。.
@@ -937,6 +951,14 @@
 
 ## 开源替代
 
+- [GrokBuildWorkbench — custom workbench for Grok Build](https://github.com/Datapad-nl/GrokBuildWorkbench) - 围绕 Grok Build 编程代理的自定义工作台 UI 与本地会话工具。.
+- [grok-build-app — Windows launcher package for Grok Build](https://github.com/jonyb21/grok-build-app) - Grok Build 的 Windows 桌面打包：定制图标、启动器与可供 AI 安装的包说明。.
+- [GrokGUIPrototype — Tauri GUI for Grok Build coding agent](https://github.com/zyfvhcfh87-rgb/GrokGUIPrototype) - 面向 Grok Build 编程代理的本地优先 Tauri 桌面 GUI 原型，含 crates 与文档。.
+- [Grok-desktop — ACP desktop app for open-source Grok Build](https://github.com/vishwam1158/Grok-desktop) - 类 Claude Code 的桌面应用，通过 ACP 驱动开源 xai-org/grok-build 做本地编程会话。.
+- [Grok Build Control Center — Windows desktop for local CLI](https://github.com/j0988114582-ui/grok-build-control-center) - 非官方 Windows 桌面控制中心，管理本机已安装的 Grok Build CLI，含 beta 说明与构建文档。.
+- [Grokbuild Tokyo — unofficial Grok Build desktop client](https://github.com/swf-cmd/grokbuild-tokyo) - 非官方 Grok Build 桌面客户端（Windows / macOS Intel+Apple Silicon），东京雨夜主题，含指南与 CI。.
+- [inoculum — durable Chromium+CDP browser layer for Grok Bot](https://github.com/sourman/inoculum) - 为 Grok Bot 提供按代理持久化的 Chromium + CDP 浏览器层（可与 wacdp 配对），稳定做 computer-use 自动化。.
+- [grokbot-cdp — drive Grok Bot cloud machine via CDP](https://github.com/DaizeDong/grokbot-cdp) - 用 Python CDP 挂到 Grok Bot 的 Electron/noVNC 会话，无需 Bot API 即可截屏、点击、键入并在云电脑上跑 shell。.
 - [Muxdeck (tmux-web-console) — browser tmux for Grok Build](https://github.com/lovinrain/tmux-web-console) - 移动友好的 tmux Web 控制台：持久工作区，并能识别 Claude Code、Codex、Cursor Agent、Grok Build 状态。.
 - [Grok-Build-IDE — Code-OSS workbench for Grok CLI](https://github.com/nct88/Grok-Build-IDE) - 基于 Code-OSS 的 IDE，内置 Grok Build Workbench，经 ACP stdio 连接官方 Grok CLI；Releases 提供 Windows 安装包。.
 - [larkent — Feishu/Lark bridge for Grok Build & CLIs](https://github.com/Rainnystone/larkent) - 把 Claude Code、Codex、Kimi、Grok Build、Cursor CLI、Antigravity 接到飞书/Lark，支持多 profile 会话。.
@@ -1246,6 +1268,9 @@
 
 ## 社区与故障现场
 
+- [Grok Bot forever box: agent-transcripts mirror never created](https://forum.cursor.com/t/grok-bot-forever-box-agent-transcripts-mirror-never-created-server-agent-proxy-transcript-tail-con/172494) - 论坛报告：forever box 的 agent-transcripts 镜像从未创建，但 server-agent-proxy 的 transcript 尾部仍保持连接。.
+- [Grok Bot 0.57.1 Windows — 0x0 off-screen window cannot reopen](https://forum.cursor.com/t/grok-bot-0-57-1-on-windows-saves-a-0x0-off-screen-window-state-and-cannot-reopen/172502) - 论坛报告：Windows 上 Grok Bot 0.57.1 会保存 0x0 屏外窗口状态，导致应用无法正常再次打开。.
+- [Grok Bot 0.57.1 Windows — quits under local Shell/CopyFromBox + Chrome UI](https://forum.cursor.com/t/grok-bot-0-57-1-windows-app-quits-under-local-shell-copyfrombox-chrome-ui-idle-stays-up/172549) - 论坛报告：Windows 上 Grok Bot 0.57.1 在本地 Shell/CopyFromBox 配合 Chrome UI 时会退出，空闲进程却仍在。.
 - [Grok Bot unreachable on Windows and phone since Sep 20 evening KST](https://forum.cursor.com/t/grok-bot-unreachable-on-windows-and-phone-since-sep-20-evening-kst-routines-still-run/172453) - 论坛报告：自 2026-09-20 韩国时间晚间起，Windows 桌面与手机上的交互式 Grok Bot 聊天一直重连失败，但例程仍在跑。.
 - [Local-exec file tools stay in the user profile root (staff)](https://forum.cursor.com/t/copyfrombox-and-read-refuse-paths-outside-user-profile-after-0-57-1-outside-the-allowed-local-exec-root/172349) - Staff（deanrie，2026-09-19）：注册本机上 Read / CopyFromBox / CopyToBox 仅限用户配置目录（如 C:\Users\<you>），Shell 无此限制——因此 D:\/G:\ 以及解析到配置目录外的 junction 会被文件工具拒绝。变通：先 CopyFromBox 到主目录再用 Shell 移动，或直接用 Shell（Get-Content / Copy-Item）读写其他盘。团队在评估是让文件工具与 Shell 同范围，还是让 Bot 在路径越界时改用 Shell。.
 - [Forum: 1Password connector needs one-time Mac setup (Windows)](https://forum.cursor.com/t/1password-connector/172310) - 官方人员提示（2026-09-19）：Windows 上 1Password 的 Connect 按钮易误导——Grok Bot 首次绑定须在装有 1Password 桌面端的 Mac 上完成一次，之后 Windows 才能用。.
@@ -1425,6 +1450,13 @@
 
 ## 相关列表
 
+- [grok-build-byok — BYOK helper allowlist for Grok Build](https://github.com/ARMedS/grok-build-byok) - Grok Build 的小型 BYOK 助手：短白名单、keys.env 与安装脚本，避免把 TOML 密钥整段导出。.
+- [grok-build-archive — historical archive of xai-org/grok-build](https://github.com/karlorz/grok-build-archive) - 非官方 xai-org/grok-build 历史归档（Apache-2.0），与 xAI 无关。.
+- [grok-build-termux — unofficial Termux port of Grok Build CLI](https://github.com/janisxyz/grok-build-termux) - 非官方 Termux 移植：在 Android 上经 proot 运行官方 linux-aarch64 Grok Build CLI。.
+- [kojo — mobile remote for Claude, Codex, and Grok Build CLIs](https://github.com/loppo-llc/kojo) - 移动端遥控 Claude Code、Codex 与 Grok Build 等 AI 编程 CLI，支持持久会话。.
+- [GrokBuildCLI-Remote — mobile PTY for Grok Build CLI](https://github.com/CjPetersonIX/GrokBuildCLI-Remote) - Grok Build CLI 的移动端 PTY 远程：持久会话与感知 Tailscale 的 WebSocket 桥。.
+- [Grok Build Quota — batch account quota probe (Leptos)](https://github.com/starlight02/grok-build-quota) - Leptos 全栈工具：批量探测 Grok Build / CLIProxyAPI 账号额度，token 不落盘。.
+- [QuotAI — macOS menu bar for Cursor and Grok Bot quota](https://github.com/marotron/QuotAI) - macOS 菜单栏应用：显示 Cursor Models 与 Grok Bot 的 Cursor Spending 额度。.
 - [beyond-grok-bot — desktop vs server-side agent essay](https://github.com/Amz34/beyond-grok-bot) - 短文对比个人向 Grok Bot 式桌面智能体与 24/7 服务端业务智能体的架构差异。.
 - [grok-build-mirror — unofficial Grok Build CLI release mirror](https://github.com/snakejohn/grok-build-mirror) - 非官方镜像：把公开的 Grok Build CLI 安装包同步到 GitHub Releases，并带 Cloudflare 下载加速。.
 - [pilion-browser — ACP browser that can drive Grok Build](https://github.com/echoVic/pilion-browser) - 桌面 ACP 浏览器：让 Claude Code、Codex、Gemini CLI、OpenCode 或 Grok Build 经 MCP 控标签页，并带审批。.
@@ -1653,7 +1685,7 @@
 
 ## 贡献
 
-目前 8 个分类、1541 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1572 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

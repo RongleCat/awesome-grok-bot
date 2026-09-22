@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1541-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1572-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -68,6 +68,7 @@
 - **Netherlands**（1）：[Amsterdam](./EVENTS.md#ams-20260922)
 - **New Zealand**（1）：[Auckland](./EVENTS.md#akl-20261008)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
+- **Pakistan**（1）：[Karachi](./EVENTS.md#khi-20260926)
 - **Turkey**（1）：[Istanbul](./EVENTS.md#ist-20260929)
 - **Uganda**（1）：[Kampala](./EVENTS.md#kla-20261003)
 - **Uzbekistan**（1）：[Tashkent](./EVENTS.md#tas-20260929)
@@ -190,6 +191,8 @@
 
 ## Tutorials & Guides
 
+- [Grok Bot Galaxy ebook summary (Portuguese)](https://github.com/simiao-cavalcante/grok-bot-galaxy) - Free 23-page Portuguese ebook summarizing what Grok Bot is and lessons from the three-day Galaxy company-build livestream.
+- [Grok Bot Galaxy livestream archive — searchable transcripts](https://github.com/peterdays/grok-bot-galaxy-livestream-archive) - Independent searchable archive of the ~25h Grok Bot Galaxy livestream with ranked chapters, SRT/VTT, and local seek.
 - [Grok Bot asar recovery — tree-sitter startup fix](https://github.com/Pitchfork-and-Torch/grok-bot-asar-recovery) - Community recovery runbook when Grok Bot desktop fails to start after a broken app.asar leaves empty tree-sitter dep stubs.
 - [Grok Bot ↔ Hermes Remote — SSH linkup handoff](https://github.com/0x-wzw/hermes-grok-ssh-handoff) - Sanitized runbook (no secrets) for wiring Grok Bot to Hermes Desktop/Remote over Tailscale SSH with a multiplexed profile API gateway.
 - [Grok Bot Galaxy Archive — Whisper + bot metadata](https://github.com/weichselbaum/grok-bot-galaxy-archive) - Community archive of SpaceXAI Grok Bot Galaxy livestreams: full Whisper transcripts plus structured bots/approaches/code metadata.
@@ -434,6 +437,17 @@
 
 ## Skills, Plugins & MCP
 
+- [Grok-Build-for-Codex — invoke Grok Build inside Codex](https://github.com/Himare4092/Grok-Build-for-Codex) - Bridge package that lets Codex invoke Grok Build for tasks such as code reviews, with JA/EN docs.
+- [CodyBearTV Bitcoin stream plugin for Grok Build](https://github.com/contentctv/codybeartv-bitcoin-stream) - Read-only Bitcoin stream plugin for Grok Build (CodyBearTV); explicitly not a trading bot.
+- [Grok-W-Workflow — parallel Grok Build CLI fan-out skill](https://github.com/sauerlandtreffi/Grok-W-Workflow) - Skill and scripts that fan bulk work out to parallel Grok Build CLI subagents with verification gates designed for high-volume runs.
+- [fabius — shared rules and skills across Claude, Codex, Grok Build](https://github.com/shear559/fabius) - Fifteen shared skills and a six-step Fabius loop that sit above Claude Code, Codex, and Grok Build so models share one rule set.
+- [grok-pstack — Lauren Tan pstack playbooks for Grok Build](https://github.com/ThewindMom/grok-pstack) - Grok Build plugin port of Lauren Tan’s pstack/poteto playbooks with spawn_subagent harness and quality-first principles.
+- [CosVoice — phone-number MCP for Grok Bot Chief of Staff](https://github.com/CosVoice/cosvoice-mcp) - Hosted MCP that gives your Chief-of-Staff bot a phone number, installable for Grok Bot, Claude, and ChatGPT.
+- [Raily — personal-agent MCP for Cursor Marketplace and Grok Bot](https://github.com/railyai/raily-mcp) - Raily personal-agent MCP plugin published for Cursor Marketplace and Grok Bot with tools docs and publishing notes.
+- [Vertebrae — meeting-notes MCP for Grok Bot and Grok Build](https://github.com/vertebrae-ai/vertebrae-plugin) - Hosted MCP meeting-notes plugin for Grok Build, Cursor, Grok Bot, and Claude Code that turns calls into structured follow-ups.
+- [PerilScore — risk plugin for Cursor, Grok Bot, and Grok Build](https://github.com/PerilScore/perilscore-agent-plugin) - Official PerilScore agent plugin that exposes risk scoring tools to Cursor, Grok Bot, and Grok Build via hosted MCP.
+- [Proxy — ad-library MCP plugin for Cursor and Grok Bot](https://github.com/proxy-intell/cursor-plugin) - Free MCP plugin for Cursor and Grok Bot that searches Meta, Google, LinkedIn, and TikTok ad libraries for competitor and creative research.
+- [Scout — Grok Bot MCP for local coding-agent coordination](https://github.com/arach/grok-scout) - Hosted MCP plus OAuth that brings local coding agents into a Grok Bot chat via OpenScout so you can delegate work and follow results in one conversation.
 - [grok-build-optimizer — Windows workstation tuning](https://github.com/LJMoffat81/grok-build-optimizer) - PowerShell audit/apply scripts that tune Windows power plans and terminal defaults for smoother Grok Build coding sessions.
 - [ams-plugin-beats — LA Car Beats drop-in for Grok Bot](https://github.com/audiomotorsports-sketch/ams-plugin-beats) - Drop-in HTML/CSS guinea-pig plugin under the lacarbeats.com banner, with INSTALL notes written for Grok Bot / Cursor agents.
 - [what-is-the-data-saying — Grok Build chart-choice skill](https://github.com/g0uv4/what-is-the-data-saying) - Open-core Grok Build skill that recommends which chart to draw from a pasted table, with Taiwan zh-TW pedagogy and 40 named patterns.
@@ -937,6 +951,14 @@
 
 ## Open-Source Alternatives
 
+- [GrokBuildWorkbench — custom workbench for Grok Build](https://github.com/Datapad-nl/GrokBuildWorkbench) - Custom workbench UI and tooling around the Grok Build coding agent for local sessions.
+- [grok-build-app — Windows launcher package for Grok Build](https://github.com/jonyb21/grok-build-app) - Windows desktop app packaging for Grok Build with designed icon, launcher, and AI-installable package prompts.
+- [GrokGUIPrototype — Tauri GUI for Grok Build coding agent](https://github.com/zyfvhcfh87-rgb/GrokGUIPrototype) - Local-first Tauri desktop GUI prototype for the Grok Build coding agent with crates and docs.
+- [Grok-desktop — ACP desktop app for open-source Grok Build](https://github.com/vishwam1158/Grok-desktop) - Claude Code-like desktop app that drives xai-org/grok-build over ACP for local coding sessions.
+- [Grok Build Control Center — Windows desktop for local CLI](https://github.com/j0988114582-ui/grok-build-control-center) - Unofficial Windows desktop control center for a locally installed Grok Build CLI, with beta notes and build docs.
+- [Grokbuild Tokyo — unofficial Grok Build desktop client](https://github.com/swf-cmd/grokbuild-tokyo) - Unofficial Windows and macOS (Intel + Apple Silicon) rainy-night themed desktop client for Grok Build with guides and CI.
+- [inoculum — durable Chromium+CDP browser layer for Grok Bot](https://github.com/sourman/inoculum) - Grok Bot browser layer that keeps a durable per-agent Chromium with CDP (pairs with wacdp) for stable computer-use automation.
+- [grokbot-cdp — drive Grok Bot cloud machine via CDP](https://github.com/DaizeDong/grokbot-cdp) - Python CDP client that attaches to a Grok Bot Electron/noVNC session so you can screenshot, click, type, and run shell on the cloud computer without a Bot API.
 - [Muxdeck (tmux-web-console) — browser tmux for Grok Build](https://github.com/lovinrain/tmux-web-console) - Mobile-friendly tmux web console with workspace persistence and status detection for Claude Code, Codex, Cursor Agent, and Grok Build.
 - [Grok-Build-IDE — Code-OSS workbench for Grok CLI](https://github.com/nct88/Grok-Build-IDE) - Code-OSS based IDE with Grok Build Workbench and ACP stdio to the official Grok CLI; Windows installers on Releases.
 - [larkent — Feishu/Lark bridge for Grok Build & CLIs](https://github.com/Rainnystone/larkent) - Bring Claude Code, Codex, Kimi, Grok Build, Cursor CLI, and Antigravity into Feishu/Lark with multi-profile sessions.
@@ -1246,6 +1268,9 @@
 
 ## Community & Failure Modes
 
+- [Grok Bot forever box: agent-transcripts mirror never created](https://forum.cursor.com/t/grok-bot-forever-box-agent-transcripts-mirror-never-created-server-agent-proxy-transcript-tail-con/172494) - Forum report: forever-box agent-transcripts mirror is never created while server-agent-proxy transcript tail stays connected.
+- [Grok Bot 0.57.1 Windows — 0x0 off-screen window cannot reopen](https://forum.cursor.com/t/grok-bot-0-57-1-on-windows-saves-a-0x0-off-screen-window-state-and-cannot-reopen/172502) - Forum report: Grok Bot 0.57.1 on Windows saves a 0x0 off-screen window state so the app cannot be reopened normally.
+- [Grok Bot 0.57.1 Windows — quits under local Shell/CopyFromBox + Chrome UI](https://forum.cursor.com/t/grok-bot-0-57-1-windows-app-quits-under-local-shell-copyfrombox-chrome-ui-idle-stays-up/172549) - Forum report: Grok Bot 0.57.1 on Windows exits when local Shell/CopyFromBox runs with Chrome UI while the idle process stays up.
 - [Grok Bot unreachable on Windows and phone since Sep 20 evening KST](https://forum.cursor.com/t/grok-bot-unreachable-on-windows-and-phone-since-sep-20-evening-kst-routines-still-run/172453) - Forum report: interactive Grok Bot chat reconnect-fails on Windows desktop and phone since 2026-09-20 evening KST while routines still run.
 - [Local-exec file tools stay in the user profile root (staff)](https://forum.cursor.com/t/copyfrombox-and-read-refuse-paths-outside-user-profile-after-0-57-1-outside-the-allowed-local-exec-root/172349) - Staff (deanrie, 2026-09-19): On a registered machine, Read / CopyFromBox / CopyToBox are limited to the user profile folder (e.g. C:\Users\<you>), while Shell is not—so D:\/G:\ and junctions that resolve outside the profile are rejected by the file tools. Workaround: CopyFromBox into the home folder then move with Shell, or read/copy other drives via Shell (Get-Content / Copy-Item). Team is deciding whether file tools should match Shell’s reach or bots should prefer Shell when the path is outside the profile.
 - [Forum: 1Password connector needs one-time Mac setup (Windows)](https://forum.cursor.com/t/1password-connector/172310) - Staff tip (2026-09-19): the 1Password Connect button on Windows is misleading—initial 1Password linking for Grok Bot must be completed once on a Mac with the 1Password desktop app, then Windows can use it.
@@ -1425,6 +1450,13 @@
 
 ## Related Lists
 
+- [grok-build-byok — BYOK helper allowlist for Grok Build](https://github.com/ARMedS/grok-build-byok) - Small BYOK helper for Grok Build: short allowlist, keys.env, and install script without dumping TOML secrets.
+- [grok-build-archive — historical archive of xai-org/grok-build](https://github.com/karlorz/grok-build-archive) - Unofficial historical archive of xai-org/grok-build (Apache-2.0); not affiliated with xAI.
+- [grok-build-termux — unofficial Termux port of Grok Build CLI](https://github.com/janisxyz/grok-build-termux) - Unofficial Termux port that runs the official linux-aarch64 Grok Build CLI binary via proot on Android.
+- [kojo — mobile remote for Claude, Codex, and Grok Build CLIs](https://github.com/loppo-llc/kojo) - Mobile remote control for AI coding CLIs including Claude Code, Codex, and Grok Build with persistent sessions.
+- [GrokBuildCLI-Remote — mobile PTY for Grok Build CLI](https://github.com/CjPetersonIX/GrokBuildCLI-Remote) - Mobile PTY remote for Grok Build CLI with persistent session and Tailscale-aware WebSocket bridge.
+- [Grok Build Quota — batch account quota probe (Leptos)](https://github.com/starlight02/grok-build-quota) - Leptos full-stack tool that batch-probes Grok Build / CLIProxyAPI account quota without persisting tokens on disk.
+- [QuotAI — macOS menu bar for Cursor and Grok Bot quota](https://github.com/marotron/QuotAI) - macOS menu-bar app that shows Cursor Spending quota across Cursor Models and Grok Bot usage.
 - [beyond-grok-bot — desktop vs server-side agent essay](https://github.com/Amz34/beyond-grok-bot) - Short architecture essay contrasting personal Grok Bot-style desktop agents with always-on server-side business agents.
 - [grok-build-mirror — unofficial Grok Build CLI release mirror](https://github.com/snakejohn/grok-build-mirror) - Unofficial mirror that republishes public Grok Build CLI artifacts to GitHub Releases with a Cloudflare download proxy.
 - [pilion-browser — ACP browser that can drive Grok Build](https://github.com/echoVic/pilion-browser) - Desktop ACP browser that lets Claude Code, Codex, Gemini CLI, OpenCode, or Grok Build drive tabs via MCP with approvals.
@@ -1653,7 +1685,7 @@
 
 ## Contributing
 
-1541 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1572 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

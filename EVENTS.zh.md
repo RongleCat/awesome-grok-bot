@@ -285,6 +285,12 @@
 <a id="ceb-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot 宿务线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 宿务线下交流</strong><br />2026-10-10 周六 09:00–11:30（Asia/Manila / PHT）<br />菲律宾中央维萨亚斯 曼达韦 Zero-Ten Park Cebu Mandaue（线下）<br /><br />宿务线下 Grok Bot（改期至 2026-10-10 周六）。需主办审核。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
+<a id="country-pk"></a>
+### 巴基斯坦
+
+<a id="khi-20260926"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-karachi"><img src="./assets/events/khi-20260926-cover.png" alt="Grok Bot 卡拉奇 Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot 卡拉奇 Meetup</strong><br />2026-09-26 周六 17:00–20:00（Asia/Karachi）<br />卡拉奇 · COLABS Shahrah-e-Faisal, P.E.C.H.S Block 6, Karachi, Pakistan — 线下<br /><br />卡拉奇线下 Grok Bot 聚会，地点 COLABS Shahrah-e-Faisal。Luma 报名。<br /><br /><a href="https://luma.com/grokbot-karachi"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-tr"></a>
 ### 土耳其
 

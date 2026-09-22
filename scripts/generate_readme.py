@@ -226,6 +226,7 @@ COUNTRY_LABEL = {
     "it": {"en": "Italy", "zh": "意大利", "ja": "イタリア"},
     "nz": {"en": "New Zealand", "zh": "新西兰", "ja": "ニュージーランド"},
     "cz": {"en": "Czechia", "zh": "捷克", "ja": "チェコ"},
+    "pk": {"en": "Pakistan", "zh": "巴基斯坦", "ja": "パキスタン"},
     "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
     "other": {"en": "Other", "zh": "其他", "ja": "その他"},
 }
@@ -421,6 +422,7 @@ EVENT_GEO = {
     "phl-20261027": ("us", "Philadelphia", "费城", "フィラデルフィア"),
     "phl-20261117": ("us", "Philadelphia", "费城", "フィラデルフィア"),
     "phl-20261217": ("us", "Philadelphia", "费城", "フィラデルフィア"),
+    "khi-20260926": ("pk", "Karachi", "卡拉奇", "カラチ"),
 }
 
 

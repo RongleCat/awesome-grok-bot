@@ -285,6 +285,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="ceb-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot Meetup Cebu" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cebu</strong><br />Sat 10 Oct 2026, 09:00–11:30 (Asia/Manila / PHT)<br />Zero-Ten Park Cebu Mandaue, Mandaue, Central Visayas, Philippines — offline<br /><br />In-person Grok Bot meetup in Cebu (rescheduled to Sat 10 Oct 2026). Host approval required.<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
+<a id="country-pk"></a>
+### Pakistan
+
+<a id="khi-20260926"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-karachi"><img src="./assets/events/khi-20260926-cover.png" alt="Grok Bot Karachi Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Karachi Meetup</strong><br />Sat 26 Sep 2026, 17:00–20:00 (Asia/Karachi)<br />Karachi · COLABS Shahrah-e-Faisal, P.E.C.H.S Block 6, Karachi, Pakistan — offline<br /><br />Offline Grok Bot meetup in Karachi at COLABS Shahrah-e-Faisal. Register on Luma.<br /><br /><a href="https://luma.com/grokbot-karachi"><strong>Register on Luma →</strong></a></td></tr></table>
+
 <a id="country-tr"></a>
 ### Turkey
 

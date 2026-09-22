@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1541-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1572-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -68,6 +68,7 @@
 - **オランダ**（1）：[アムステルダム](./EVENTS.ja.md#ams-20260922)
 - **ニュージーランド**（1）：[オークランド](./EVENTS.ja.md#akl-20261008)
 - **フィリピン**（1）：[セブ](./EVENTS.ja.md#ceb-20260919)
+- **パキスタン**（1）：[カラチ](./EVENTS.ja.md#khi-20260926)
 - **トルコ**（1）：[イスタンブール](./EVENTS.ja.md#ist-20260929)
 - **ウガンダ**（1）：[カンパラ](./EVENTS.ja.md#kla-20261003)
 - **ウズベキスタン**（1）：[タシュケント](./EVENTS.ja.md#tas-20260929)
@@ -190,6 +191,8 @@
 
 ## チュートリアルとガイド
 
+- [Grok Bot Galaxy ebook summary (Portuguese)](https://github.com/simiao-cavalcante/grok-bot-galaxy) - Grok Bot とは何かと、3 日間 Galaxy 社内構築配信の要点をまとめた無料 23 ページのポルトガル語電子書籍。
+- [Grok Bot Galaxy livestream archive — searchable transcripts](https://github.com/peterdays/grok-bot-galaxy-livestream-archive) - 約 25 時間の Grok Bot Galaxy 配信の独立検索アーカイブ。章立て採点、SRT/VTT、ローカルシーク対応。
 - [Grok Bot asar recovery — tree-sitter startup fix](https://github.com/Pitchfork-and-Torch/grok-bot-asar-recovery) - コミュニティ復旧手順。壊れた app.asar（tree-sitter 依存の空スタブ）で Grok Bot デスクトップが起動しない時の直し方。
 - [Grok Bot ↔ Hermes Remote — SSH linkup handoff](https://github.com/0x-wzw/hermes-grok-ssh-handoff) - 秘密情報なしの手順書。Tailscale SSH で Grok Bot を Hermes Desktop/Remote に接続し、多重化 profile API ゲートウェイを使う。
 - [Grok Bot Galaxy Archive — Whisper + bot metadata](https://github.com/weichselbaum/grok-bot-galaxy-archive) - SpaceXAI Grok Bot Galaxy 配信のコミュニティ保管庫。Whisper 全文起こしと bots/approaches/code メタデータ。
@@ -434,6 +437,17 @@
 
 ## スキル、プラグインと MCP
 
+- [Grok-Build-for-Codex — invoke Grok Build inside Codex](https://github.com/Himare4092/Grok-Build-for-Codex) - Codex から Grok Build を呼び出してコードレビュー等を行えるブリッジ。日英ドキュメント付き。
+- [CodyBearTV Bitcoin stream plugin for Grok Build](https://github.com/contentctv/codybeartv-bitcoin-stream) - Grok Build 向け読み取り専用ビットコイン・ストリームプラグイン（CodyBearTV）。取引ボットではない。
+- [Grok-W-Workflow — parallel Grok Build CLI fan-out skill](https://github.com/sauerlandtreffi/Grok-W-Workflow) - 大量作業を並列 Grok Build CLI サブエージェントに扇状展開するスキルとスクリプト。検証ゲート付き。
+- [fabius — shared rules and skills across Claude, Codex, Grok Build](https://github.com/shear559/fabius) - Claude Code / Codex / Grok Build の上に載る 15 の共有スキルと 6 段 Fabius ループ。モデル横断の共通ルール。
+- [grok-pstack — Lauren Tan pstack playbooks for Grok Build](https://github.com/ThewindMom/grok-pstack) - Lauren Tan の pstack/poteto プレイブックを Grok Build プラグイン化。spawn_subagent ハーネスと品質優先の原則付き。
+- [CosVoice — phone-number MCP for Grok Bot Chief of Staff](https://github.com/CosVoice/cosvoice-mcp) - チーフ・オブ・スタッフ Bot に電話番号を付与するホスト型 MCP。Grok Bot / Claude / ChatGPT に導入可。
+- [Raily — personal-agent MCP for Cursor Marketplace and Grok Bot](https://github.com/railyai/raily-mcp) - Cursor Marketplace と Grok Bot 向け Raily 個人エージェント MCP プラグイン。ツール説明と公開手順付き。
+- [Vertebrae — meeting-notes MCP for Grok Bot and Grok Build](https://github.com/vertebrae-ai/vertebrae-plugin) - Grok Build / Cursor / Grok Bot / Claude Code 向けホスト型 MCP 議事録プラグイン。通話を構造化したフォローに落とす。
+- [PerilScore — risk plugin for Cursor, Grok Bot, and Grok Build](https://github.com/PerilScore/perilscore-agent-plugin) - 公式 PerilScore エージェントプラグイン。ホスト型 MCP で Cursor / Grok Bot / Grok Build にリスク採点ツールを提供。
+- [Proxy — ad-library MCP plugin for Cursor and Grok Bot](https://github.com/proxy-intell/cursor-plugin) - Cursor と Grok Bot 向け無料 MCP プラグイン。Meta / Google / LinkedIn / TikTok 広告ライブラリを横断検索できる。
+- [Scout — Grok Bot MCP for local coding-agent coordination](https://github.com/arach/grok-scout) - ホスト型 MCP と OAuth で、OpenScout 経由のローカルコーディングエージェントを Grok Bot 会話に取り込み、一つのチャットで委任と結果追跡ができる。
 - [grok-build-optimizer — Windows workstation tuning](https://github.com/LJMoffat81/grok-build-optimizer) - Windows の電源プランとターミナル既定を整え、Grok Build のコーディングを滑らかにする PowerShell 監査/適用スクリプト。
 - [ams-plugin-beats — LA Car Beats drop-in for Grok Bot](https://github.com/audiomotorsports-sketch/ams-plugin-beats) - lacarbeats.com バナー配下の HTML/CSS 試験プラグイン。Grok Bot / Cursor 向け INSTALL 手順付き。
 - [what-is-the-data-saying — Grok Build chart-choice skill](https://github.com/g0uv4/what-is-the-data-saying) - 貼った表からどのグラフを描くべきか勧めるオープンコア Grok Build スキル。台湾繁体字の教え方と 40 の命名パターン付き。
@@ -937,6 +951,14 @@
 
 ## オープンソースの代替
 
+- [GrokBuildWorkbench — custom workbench for Grok Build](https://github.com/Datapad-nl/GrokBuildWorkbench) - Grok Build コーディングエージェント向けカスタム・ワークベンチ UI とローカルセッション用具。
+- [grok-build-app — Windows launcher package for Grok Build](https://github.com/jonyb21/grok-build-app) - Grok Build の Windows デスクトップ包装。専用アイコン、ランチャー、AI インストール可能なパッケージ説明付き。
+- [GrokGUIPrototype — Tauri GUI for Grok Build coding agent](https://github.com/zyfvhcfh87-rgb/GrokGUIPrototype) - Grok Build コーディングエージェント向けローカル優先 Tauri デスクトップ GUI 原型。crates とドキュメント付き。
+- [Grok-desktop — ACP desktop app for open-source Grok Build](https://github.com/vishwam1158/Grok-desktop) - ACP 経由でオープンソース xai-org/grok-build を動かす Claude Code 風デスクトップアプリ。
+- [Grok Build Control Center — Windows desktop for local CLI](https://github.com/j0988114582-ui/grok-build-control-center) - ローカル Grok Build CLI 向け非公式 Windows デスクトップ制御センター。ベータ説明とビルド文書付き。
+- [Grokbuild Tokyo — unofficial Grok Build desktop client](https://github.com/swf-cmd/grokbuild-tokyo) - 非公式の Grok Build デスクトップクライアント（Windows / macOS Intel+Apple Silicon）。東京雨夜テーマ、ガイドと CI 付き。
+- [inoculum — durable Chromium+CDP browser layer for Grok Bot](https://github.com/sourman/inoculum) - エージェントごとに永続 Chromium + CDP を保つ Grok Bot ブラウザ層（wacdp と連携）。computer-use 自動化を安定化。
+- [grokbot-cdp — drive Grok Bot cloud machine via CDP](https://github.com/DaizeDong/grokbot-cdp) - Grok Bot の Electron/noVNC セッションに CDP で接続し、Bot API なしでクラウド PC のスクショ・クリック・入力・シェル実行ができる Python クライアント。
 - [Muxdeck (tmux-web-console) — browser tmux for Grok Build](https://github.com/lovinrain/tmux-web-console) - モバイル向け tmux Web コンソール。ワークスペース永続化と Claude Code / Codex / Cursor Agent / Grok Build の状態検知付き。
 - [Grok-Build-IDE — Code-OSS workbench for Grok CLI](https://github.com/nct88/Grok-Build-IDE) - Code-OSS ベースの IDE。Grok Build Workbench を内蔵し、公式 Grok CLI と ACP stdio で接続。Releases に Windows インストーラ。
 - [larkent — Feishu/Lark bridge for Grok Build & CLIs](https://github.com/Rainnystone/larkent) - Claude Code・Codex・Kimi・Grok Build・Cursor CLI・Antigravity を Feishu/Lark に繋ぎ、複数プロファイルで会話する。
@@ -1246,6 +1268,9 @@
 
 ## コミュニティと障害事例
 
+- [Grok Bot forever box: agent-transcripts mirror never created](https://forum.cursor.com/t/grok-bot-forever-box-agent-transcripts-mirror-never-created-server-agent-proxy-transcript-tail-con/172494) - フォーラム報告：forever box の agent-transcripts ミラーが作られず、server-agent-proxy の transcript テールだけ接続したまま。
+- [Grok Bot 0.57.1 Windows — 0x0 off-screen window cannot reopen](https://forum.cursor.com/t/grok-bot-0-57-1-on-windows-saves-a-0x0-off-screen-window-state-and-cannot-reopen/172502) - フォーラム報告：Windows の Grok Bot 0.57.1 が 0x0 の画面外ウィンドウ状態を保存し、通常どおり再開できなくなる。
+- [Grok Bot 0.57.1 Windows — quits under local Shell/CopyFromBox + Chrome UI](https://forum.cursor.com/t/grok-bot-0-57-1-windows-app-quits-under-local-shell-copyfrombox-chrome-ui-idle-stays-up/172549) - フォーラム報告：Windows の Grok Bot 0.57.1 がローカル Shell/CopyFromBox と Chrome UI 併用時に終了し、アイドルプロセスだけ残る。
 - [Grok Bot unreachable on Windows and phone since Sep 20 evening KST](https://forum.cursor.com/t/grok-bot-unreachable-on-windows-and-phone-since-sep-20-evening-kst-routines-still-run/172453) - フォーラム報告：2026-09-20 韓国時間の夜以降、Windows / スマホの対話 Grok Bot が再接続失敗する一方、ルーチンは動作中。
 - [Local-exec file tools stay in the user profile root (staff)](https://forum.cursor.com/t/copyfrombox-and-read-refuse-paths-outside-user-profile-after-0-57-1-outside-the-allowed-local-exec-root/172349) - Staff（deanrie、2026-09-19）：登録マシンでは Read / CopyFromBox / CopyToBox はユーザープロファイル（例: C:\Users\<you>）内に限定され、Shell にはその制限がありません。そのため D:\/G:\ やプロファイル外へ解決するジャンクションはファイル系ツールで拒否されます。回避策: いったんホームへ CopyFromBox してから Shell で移動するか、他ドライブは Shell（Get-Content / Copy-Item）で直接扱う。ファイル系を Shell と同じ到達範囲にするか、範囲外では Bot が Shell を選ぶかの方針を検討中。
 - [Forum: 1Password connector needs one-time Mac setup (Windows)](https://forum.cursor.com/t/1password-connector/172310) - スタッフ案内（2026-09-19）。Windows の 1Password Connect は誤解を招く——初回連携は 1Password デスクトップ付き Mac で一度完了させ、その後 Windows で利用できる。
@@ -1425,6 +1450,13 @@
 
 ## 関連リスト
 
+- [grok-build-byok — BYOK helper allowlist for Grok Build](https://github.com/ARMedS/grok-build-byok) - Grok Build 向け小型 BYOK ヘルパー。短い許可リスト、keys.env、TOML 秘密を吐き出さないインストール脚本。
+- [grok-build-archive — historical archive of xai-org/grok-build](https://github.com/karlorz/grok-build-archive) - xai-org/grok-build の非公式履歴アーカイブ（Apache-2.0）。xAI 非公認。
+- [grok-build-termux — unofficial Termux port of Grok Build CLI](https://github.com/janisxyz/grok-build-termux) - 非公式 Termux 移植。Android 上で公式 linux-aarch64 Grok Build CLI を proot 経由実行。
+- [kojo — mobile remote for Claude, Codex, and Grok Build CLIs](https://github.com/loppo-llc/kojo) - Claude Code / Codex / Grok Build など AI コーディング CLI のモバイル遠隔操作。永続セッション対応。
+- [GrokBuildCLI-Remote — mobile PTY for Grok Build CLI](https://github.com/CjPetersonIX/GrokBuildCLI-Remote) - Grok Build CLI 向けモバイル PTY リモート。永続セッションと Tailscale 対応 WebSocket ブリッジ。
+- [Grok Build Quota — batch account quota probe (Leptos)](https://github.com/starlight02/grok-build-quota) - Leptos フルスタック。Grok Build / CLIProxyAPI の枠を一括プローブし、トークンをディスクに残さない。
+- [QuotAI — macOS menu bar for Cursor and Grok Bot quota](https://github.com/marotron/QuotAI) - macOS メニューバーアプリ。Cursor Models と Grok Bot の Cursor Spending 枠を表示。
 - [beyond-grok-bot — desktop vs server-side agent essay](https://github.com/Amz34/beyond-grok-bot) - 個人向け Grok Bot 型デスクトップエージェントと常時稼働のサーバ側ビジネスエージェントを対比する短い論考。
 - [grok-build-mirror — unofficial Grok Build CLI release mirror](https://github.com/snakejohn/grok-build-mirror) - 公開の Grok Build CLI 成果物を GitHub Releases に再配布する非公式ミラー（Cloudflare ダウンロード代理付き）。
 - [pilion-browser — ACP browser that can drive Grok Build](https://github.com/echoVic/pilion-browser) - Claude Code／Codex／Gemini CLI／OpenCode／Grok Build が MCP でタブ操作できるデスクトップ ACP ブラウザ（承認付き）。
@@ -1653,7 +1685,7 @@
 
 ## 貢献
 
-8 セクションに 1541 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1572 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -285,6 +285,12 @@
 <a id="ceb-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot Meetup Cebu" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cebu</strong><br />2026-10-10（土）09:00–11:30（Asia/Manila / PHT）<br />フィリピン・マンダウエ Zero-Ten Park Cebu Mandaue（オフライン）<br /><br />セブの対面 Grok Bot（2026-10-10（土）に変更）。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
+<a id="country-pk"></a>
+### パキスタン
+
+<a id="khi-20260926"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-karachi"><img src="./assets/events/khi-20260926-cover.png" alt="Grok Bot カラチ Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot カラチ Meetup</strong><br />2026-09-26（土）17:00–20:00（Asia/Karachi）<br />カラチ · COLABS Shahrah-e-Faisal, P.E.C.H.S Block 6, Karachi, Pakistan — オフライン<br /><br />カラチのオフライン Grok Bot ミートアップ（COLABS Shahrah-e-Faisal）。Luma で登録。<br /><br /><a href="https://luma.com/grokbot-karachi"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
 <a id="country-tr"></a>
 ### トルコ
 
