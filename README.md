@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1572-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1587-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,8 +38,8 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（2）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017)
-- **United States**（14）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Los Angeles](./EVENTS.md#lad-20260922) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217)
-- **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Victoria BC](./EVENTS.md#vic-20260921) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
+- **United States**（15）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Los Angeles](./EVENTS.md#lad-20260922) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114)
+- **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
 - **Mexico**（4）：[Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926) · [Monterrey](./EVENTS.md#mty-20261003)
 - **Brazil**（3）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926)
 - **Spain**（3）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929) · [Valencia](./EVENTS.md#vlc-20260925)
@@ -268,6 +268,8 @@
 
 ## Field Cases
 
+- [star-catcher-smoke — offline canvas game (Grok Build smoke)](https://github.com/Cesardellantonio/star-catcher-smoke) - Offline HTML canvas courier game (Ember→Ion→Nova quotas) used as a Grok Build smoke—open index.html, no install or network.
+- [llegadas-tarde — local late-arrival PWA built with Grok Bot](https://github.com/korckyjals-grok-bot/llegadas-tarde) - Local-only school late-arrival PWA (IndexedDB, WhatsApp-ready texts, Vite + Vitest/Playwright) authored under a Grok Bot org—no backend or CDN.
 - [mordheim-grok-build-prompts — tactics game prompt series](https://github.com/davenpmo/mordheim-grok-build-prompts) - Rules-first Jupyter/markdown prompt series to build a 1999-rules Mordheim 3D tactics game inside Grok Build Mode.
 - [living-icon — mood-reactive avatars for Grok Bots](https://github.com/skiiwa67-collab/living-icon) - Living Icon project for mood-reactive evolving avatars meant to sit beside Grok Bot teammates.
 - [fleet-overview — static Grok Bot fleet board](https://github.com/Lennart1970/fleet-overview) - Static GitHub Pages board that visualizes a personal Grok Bot fleet as lanes, bots, and todos.
@@ -437,6 +439,9 @@
 
 ## Skills, Plugins & MCP
 
+- [dsh-grok-subscription — SuperGrok login for DeepSeek Harness](https://github.com/BaronCyrus/dsh-grok-subscription) - DeepSeek Harness community plugin that reuses the official Grok Build CLI SuperGrok/X Premium OAuth session as a separate grok-build model route.
+- [sociallisteningapi-grokbot — social search MCP plugin](https://github.com/shash7/sociallisteningapi-grokbot) - Grok Bot / Cursor plugin that connects to SocialListeningAPI’s hosted MCP for public social, Google, and Instagram discovery search via OAuth.
+- [gander-plugins — Gander skill packages for Grok Build](https://github.com/gandermd/gander-plugins) - Plugin packaging repo that ships the Gander skill plus MCP entry as a Grok Build `.grok-plugin` (also Claude Code / Cursor wrappers).
 - [Grok-Build-for-Codex — invoke Grok Build inside Codex](https://github.com/Himare4092/Grok-Build-for-Codex) - Bridge package that lets Codex invoke Grok Build for tasks such as code reviews, with JA/EN docs.
 - [CodyBearTV Bitcoin stream plugin for Grok Build](https://github.com/contentctv/codybeartv-bitcoin-stream) - Read-only Bitcoin stream plugin for Grok Build (CodyBearTV); explicitly not a trading bot.
 - [Grok-W-Workflow — parallel Grok Build CLI fan-out skill](https://github.com/sauerlandtreffi/Grok-W-Workflow) - Skill and scripts that fan bulk work out to parallel Grok Build CLI subagents with verification gates designed for high-volume runs.
@@ -951,6 +956,7 @@
 
 ## Open-Source Alternatives
 
+- [pebble-index-bridge — Index 01 voice → Grok Bot routines](https://github.com/Zhigre/pebble-index-bridge) - Self-hosted bridge that converts Pebble Index 01 multipart voice transcriptions into JSON for Grok Bot agent/routine webhooks.
 - [GrokBuildWorkbench — custom workbench for Grok Build](https://github.com/Datapad-nl/GrokBuildWorkbench) - Custom workbench UI and tooling around the Grok Build coding agent for local sessions.
 - [grok-build-app — Windows launcher package for Grok Build](https://github.com/jonyb21/grok-build-app) - Windows desktop app packaging for Grok Build with designed icon, launcher, and AI-installable package prompts.
 - [GrokGUIPrototype — Tauri GUI for Grok Build coding agent](https://github.com/zyfvhcfh87-rgb/GrokGUIPrototype) - Local-first Tauri desktop GUI prototype for the Grok Build coding agent with crates and docs.
@@ -1268,6 +1274,13 @@
 
 ## Community & Failure Modes
 
+- [Agent Computer stuck “starting up” for 48–72h](https://forum.cursor.com/t/grok-bot-agent-computer-stuck-starting-up-48-72h-update-reset-failed-on-all-devices-please-reprovision/172519) - Agent Computer stayed “still starting up” / unreachable for days; Update and Reset failed across devices.
+- [1Password vault-only sharing request for Grok Bot](https://forum.cursor.com/t/1password-vault-only-access-in-grokbot/172524) - Feature ask: share a single 1Password vault with Grok Bot instead of the entire account.
+- [Grok Bot false play/state claims in playtest loop](https://forum.cursor.com/t/grok-bot-agent-false-play-state-claims-break-trust-preview-mismatch-treated-as-playtesting/172533) - Arcade Lab Tester seat made false play/state claims that treated preview mismatches as successful playtesting.
+- [Grok Bot hung on Updating computer at 43%](https://forum.cursor.com/t/grokbot-unavailable-hung-on-updating-grok-bot-s-computer-at-43/172535) - Bot unavailable while the “Updating Grok Bot’s Computer” dialog stalls around 43% transferring the environment.
+- [Grok Bot Routines don’t auto-wake at day start](https://forum.cursor.com/t/grok-bot-routines-dont-wake-up-at-the-beginning-of-a-new-day/172545) - Routines and sub-agents never fire their first run at the beginning of a new day unless the user manually says “wake up”.
+- [Grok Bot reconnect loop — api2.cursor.sh bad cert host](https://forum.cursor.com/t/grok-bot-keeps-reconnecting-api2-cursor-sh-resolves-to-100-60-17-13-which-presents-a-certificate-for-devapi-english-com/172578) - Grok Bot stuck on “Can’t reach your computer” because api2.cursor.sh resolves to 100.60.17.13 serving a mismatched certificate.
+- [Grok Bot usage drains too fast on Cursor Ultra](https://forum.cursor.com/t/grok-bot-usage-too-low-even-on-cursor-ultra/172584) - Report that coordinated Grok Bot + Cursor Cloud Worker work burns weekly Ultra usage far faster than expected.
 - [Grok Bot forever box: agent-transcripts mirror never created](https://forum.cursor.com/t/grok-bot-forever-box-agent-transcripts-mirror-never-created-server-agent-proxy-transcript-tail-con/172494) - Forum report: forever-box agent-transcripts mirror is never created while server-agent-proxy transcript tail stays connected.
 - [Grok Bot 0.57.1 Windows — 0x0 off-screen window cannot reopen](https://forum.cursor.com/t/grok-bot-0-57-1-on-windows-saves-a-0x0-off-screen-window-state-and-cannot-reopen/172502) - Forum report: Grok Bot 0.57.1 on Windows saves a 0x0 off-screen window state so the app cannot be reopened normally.
 - [Grok Bot 0.57.1 Windows — quits under local Shell/CopyFromBox + Chrome UI](https://forum.cursor.com/t/grok-bot-0-57-1-windows-app-quits-under-local-shell-copyfrombox-chrome-ui-idle-stays-up/172549) - Forum report: Grok Bot 0.57.1 on Windows exits when local Shell/CopyFromBox runs with Chrome UI while the idle process stays up.
@@ -1450,6 +1463,8 @@
 
 ## Related Lists
 
+- [ezotec/grokbot — live bot roster & role prompts](https://github.com/ezotec/grokbot) - Paste-ready roster of live Grok Bot roles (Chief of Staff, Inbox, Digest, SE account specialists) with house rules in AGENTS.md.
+- [ai-conversation-cleaner — local Grok Build chat cleanup (Windows)](https://github.com/xing-skyline/ai-conversation-cleaner) - Windows utility to search, preview, back up, and delete local conversations from Grok Build (and Codex/Claude Code/Cursor/etc.) without a hosted service.
 - [grok-build-byok — BYOK helper allowlist for Grok Build](https://github.com/ARMedS/grok-build-byok) - Small BYOK helper for Grok Build: short allowlist, keys.env, and install script without dumping TOML secrets.
 - [grok-build-archive — historical archive of xai-org/grok-build](https://github.com/karlorz/grok-build-archive) - Unofficial historical archive of xai-org/grok-build (Apache-2.0); not affiliated with xAI.
 - [grok-build-termux — unofficial Termux port of Grok Build CLI](https://github.com/janisxyz/grok-build-termux) - Unofficial Termux port that runs the official linux-aarch64 Grok Build CLI binary via proot on Android.
@@ -1685,7 +1700,7 @@
 
 ## Contributing
 
-1572 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1587 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

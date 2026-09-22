@@ -60,14 +60,14 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="phl-20261217"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-8wr8"><img src="./assets/events/phl-20261217-cover.jpg" alt="Cursor Meetup Philadelphia — December" width="300" /></a></td><td valign="top"><strong>Cursor Meetup Philadelphia — December</strong><br />Thu 17 Dec 2026, 18:00–20:30 (America/New_York)<br />Philadelphia · SpaceXAI for Philadelphia — offline<br /><br />December SpaceXAI Community Cursor/Grok meetup in Philadelphia. Register on Luma.<br /><br /><a href="https://luma.com/cursor-8wr8"><strong>Register on Luma →</strong></a></td></tr></table>
 
+<a id="tpa-20261114"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-g0x6"><img src="./assets/events/tpa-20261114-cover.png" alt="Grok Bot Meetup Tampa Bay" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Tampa Bay</strong><br />Sat 14 Nov 2026, 13:00–16:00 (America/New_York)<br />Tampa Bay, FL · venue TBA (address after register). Offline.<br /><br />Offline Grok Bot meetup in Tampa Bay hosted with SpaceXAI Tampa. Register on Luma.<br /><br /><a href="https://luma.com/spacexai-g0x6"><strong>Register on Luma →</strong></a></td></tr></table>
+
 <a id="country-ca"></a>
 ### Canada
 
 <a id="yyc-20260930"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-coel"><img src="./assets/events/yyc-20260930-cover.png" alt="Grok Bot Meetup Calgary" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Calgary</strong><br />Wed 30 Sep 2026, 17:30–20:30 (MDT)<br />Calgary · venue TBD after you register<br /><br />In-person Grok Bot meetup in Calgary. Free, open registration.<br /><br /><a href="https://luma.com/cursor-coel"><strong>Register on Luma →</strong></a></td></tr></table>
-
-<a id="vic-20260921"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot"><img src="./assets/events/vic-20260921-cover.png" alt="Grok Bot Meetup Victoria BC" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Victoria BC</strong><br />Mon 21 Sep 2026, 18:00–21:00 (PDT)<br />Victoria, BC · exact address after you register<br /><br />Grok Bot build night in Victoria. Host approval required.<br /><br /><a href="https://luma.com/grokbot"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
 <a id="yul-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/hkujao4q"><img src="./assets/events/yul-20260919-cover.png" alt="Official Grok Bot Montreal - BUILD DAY" width="300" /></a></td><td valign="top"><strong>Official Grok Bot Montreal - BUILD DAY</strong><br />Sat 3 Oct 2026, 12:00–17:00 (America/Toronto, EDT)<br />Montréal, QC · Reflex (63 Rue de Brésoles), with SpaceXAI Community<br /><br />Official Grok Bot Montreal Meetup at Reflex: quick Grok Bot tutorial, live community demos, open-floor social, mentors on site; credits and swag. Hosts Lucas & Samira G.; free; host approval; afternoon in-person. EventScheduled.<br /><br /><a href="https://luma.com/hkujao4q"><strong>Register →</strong></a></td></tr></table>

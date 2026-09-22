@@ -1766,6 +1766,26 @@
       },
       "items": [
         {
+          "title": "star-catcher-smoke — offline canvas game (Grok Build smoke)",
+          "url": "https://github.com/Cesardellantonio/star-catcher-smoke",
+          "source": "GB-1603",
+          "blurb": {
+            "en": "Offline HTML canvas courier game (Ember→Ion→Nova quotas) used as a Grok Build smoke—open index.html, no install or network.",
+            "zh": "离线 HTML canvas 送信小游戏（Ember→Ion→Nova 配额），用作 Grok Build smoke：打开 index.html 即可，无需安装联网。",
+            "ja": "オフライン HTML canvas の配達ゲーム（Ember→Ion→Nova）。Grok Build のスモーク用で、index.html を開くだけ。"
+          }
+        },
+        {
+          "title": "llegadas-tarde — local late-arrival PWA built with Grok Bot",
+          "url": "https://github.com/korckyjals-grok-bot/llegadas-tarde",
+          "source": "GB-1602",
+          "blurb": {
+            "en": "Local-only school late-arrival PWA (IndexedDB, WhatsApp-ready texts, Vite + Vitest/Playwright) authored under a Grok Bot org—no backend or CDN.",
+            "zh": "Grok Bot 组织下做的纯本地迟到登记 PWA（IndexedDB、WhatsApp 文案、Vite + Vitest/Playwright），无后端无 CDN。",
+            "ja": "Grok Bot 組織下で作ったローカル専用の遅刻記録 PWA（IndexedDB・WhatsApp 文案・Vite + Vitest/Playwright）。バックエンドなし."
+          }
+        },
+        {
           "title": "mordheim-grok-build-prompts — tactics game prompt series",
           "url": "https://github.com/davenpmo/mordheim-grok-build-prompts",
           "source": "GB-1553",
@@ -3435,6 +3455,36 @@
         "ja": "スキル、プラグインと MCP"
       },
       "items": [
+        {
+          "title": "dsh-grok-subscription — SuperGrok login for DeepSeek Harness",
+          "url": "https://github.com/BaronCyrus/dsh-grok-subscription",
+          "source": "GB-1601",
+          "blurb": {
+            "en": "DeepSeek Harness community plugin that reuses the official Grok Build CLI SuperGrok/X Premium OAuth session as a separate grok-build model route.",
+            "zh": "DeepSeek Harness 社区插件：复用官方 Grok Build CLI 的 SuperGrok/X Premium OAuth，单独提供 grok-build 模型路由。",
+            "ja": "DeepSeek Harness 向けコミュニティプラグイン。公式 Grok Build CLI の SuperGrok/X Premium OAuth を流用し、独立した grok-build ルートを追加。"
+          }
+        },
+        {
+          "title": "sociallisteningapi-grokbot — social search MCP plugin",
+          "url": "https://github.com/shash7/sociallisteningapi-grokbot",
+          "source": "GB-1598",
+          "blurb": {
+            "en": "Grok Bot / Cursor plugin that connects to SocialListeningAPI’s hosted MCP for public social, Google, and Instagram discovery search via OAuth.",
+            "zh": "通过 OAuth 把 Grok Bot / Cursor 接到 SocialListeningAPI 托管 MCP，搜索公开社媒、Google 与 Instagram 发现数据。",
+            "ja": "OAuth で Grok Bot / Cursor を SocialListeningAPI のホスト型 MCP に接続し、公開 SNS・Google・Instagram 検索を行うプラグイン."
+          }
+        },
+        {
+          "title": "gander-plugins — Gander skill packages for Grok Build",
+          "url": "https://github.com/gandermd/gander-plugins",
+          "source": "GB-1597",
+          "blurb": {
+            "en": "Plugin packaging repo that ships the Gander skill plus MCP entry as a Grok Build `.grok-plugin` (also Claude Code / Cursor wrappers).",
+            "zh": "把 Gander skill 与 MCP 打成 Grok Build 的 `.grok-plugin` 包（同时提供 Claude Code / Cursor 包装）。",
+            "ja": "Gander skill と MCP を Grok Build の `.grok-plugin` として梱包（Claude Code / Cursor 用ラッパーもあり）."
+          }
+        },
         {
           "title": "Grok-Build-for-Codex — invoke Grok Build inside Codex",
           "url": "https://github.com/Himare4092/Grok-Build-for-Codex",
@@ -8536,6 +8586,16 @@
       },
       "items": [
         {
+          "title": "pebble-index-bridge — Index 01 voice → Grok Bot routines",
+          "url": "https://github.com/Zhigre/pebble-index-bridge",
+          "source": "GB-1599",
+          "blurb": {
+            "en": "Self-hosted bridge that converts Pebble Index 01 multipart voice transcriptions into JSON for Grok Bot agent/routine webhooks.",
+            "zh": "自建桥接：把 Pebble Index 01 的 multipart 语音转写转成 JSON，送给 Grok Bot agent/routine webhook。",
+            "ja": "Pebble Index 01 の multipart 音声文字起こしを JSON に変換し、Grok Bot の agent/routine webhook へ送るセルフホスト橋。"
+          }
+        },
+        {
           "title": "GrokBuildWorkbench — custom workbench for Grok Build",
           "url": "https://github.com/Datapad-nl/GrokBuildWorkbench",
           "source": "GB-1593",
@@ -11686,6 +11746,76 @@
       },
       "items": [
         {
+          "title": "Agent Computer stuck “starting up” for 48–72h",
+          "url": "https://forum.cursor.com/t/grok-bot-agent-computer-stuck-starting-up-48-72h-update-reset-failed-on-all-devices-please-reprovision/172519",
+          "source": "GB-1611",
+          "blurb": {
+            "en": "Agent Computer stayed “still starting up” / unreachable for days; Update and Reset failed across devices.",
+            "zh": "Agent Computer 连续 48–72 小时停在 “starting up”/不可达，各设备上 Update/Reset 均失败。",
+            "ja": "Agent Computer が 48–72 時間 “starting up” のまま到達不可で、Update/Reset も各端末で失敗した報告。"
+          }
+        },
+        {
+          "title": "1Password vault-only sharing request for Grok Bot",
+          "url": "https://forum.cursor.com/t/1password-vault-only-access-in-grokbot/172524",
+          "source": "GB-1610",
+          "blurb": {
+            "en": "Feature ask: share a single 1Password vault with Grok Bot instead of the entire account.",
+            "zh": "功能请求：只把选定的 1Password 保险库分享给 Grok Bot，而不是整个账号。",
+            "ja": "1Password の特定ボルトだけを Grok Bot に共有したい（アカウント全体ではなく）という要望。"
+          }
+        },
+        {
+          "title": "Grok Bot false play/state claims in playtest loop",
+          "url": "https://forum.cursor.com/t/grok-bot-agent-false-play-state-claims-break-trust-preview-mismatch-treated-as-playtesting/172533",
+          "source": "GB-1609",
+          "blurb": {
+            "en": "Arcade Lab Tester seat made false play/state claims that treated preview mismatches as successful playtesting.",
+            "zh": "Arcade Lab Tester 席位反复给出与预览不符的虚假 play/状态声明，却当成已完成试玩。",
+            "ja": "Arcade Lab Tester がプレビュー不一致を成功プレイ扱いにする虚偽の play/状態報告をする問題。"
+          }
+        },
+        {
+          "title": "Grok Bot hung on Updating computer at 43%",
+          "url": "https://forum.cursor.com/t/grokbot-unavailable-hung-on-updating-grok-bot-s-computer-at-43/172535",
+          "source": "GB-1608",
+          "blurb": {
+            "en": "Bot unavailable while the “Updating Grok Bot’s Computer” dialog stalls around 43% transferring the environment.",
+            "zh": "Grok Bot 不可用：「Updating Grok Bot’s Computer」在约 43% 传输环境时卡住。",
+            "ja": "「Updating Grok Bot’s Computer」が約 43% で止まり、Bot が使えないという報告。"
+          }
+        },
+        {
+          "title": "Grok Bot Routines don’t auto-wake at day start",
+          "url": "https://forum.cursor.com/t/grok-bot-routines-dont-wake-up-at-the-beginning-of-a-new-day/172545",
+          "source": "GB-1607",
+          "blurb": {
+            "en": "Routines and sub-agents never fire their first run at the beginning of a new day unless the user manually says “wake up”.",
+            "zh": "新的一天开始时 Routines/子 agent 不会自动跑第一次，除非用户手动说 “wake up”。",
+            "ja": "新しい日の始まりに Routines / サブエージェントが自動起動せず、手動で “wake up” が必要という報告。"
+          }
+        },
+        {
+          "title": "Grok Bot reconnect loop — api2.cursor.sh bad cert host",
+          "url": "https://forum.cursor.com/t/grok-bot-keeps-reconnecting-api2-cursor-sh-resolves-to-100-60-17-13-which-presents-a-certificate-for-devapi-english-com/172578",
+          "source": "GB-1606",
+          "blurb": {
+            "en": "Grok Bot stuck on “Can’t reach your computer” because api2.cursor.sh resolves to 100.60.17.13 serving a mismatched certificate.",
+            "zh": "Grok Bot 一直 “Can’t reach your computer”：api2.cursor.sh 解析到 100.60.17.13 且证书不匹配，不断重连。",
+            "ja": "api2.cursor.sh が 100.60.17.13 に解決し証明書不一致のため、Grok Bot が到達不可のまま再接続を繰り返す報告。"
+          }
+        },
+        {
+          "title": "Grok Bot usage drains too fast on Cursor Ultra",
+          "url": "https://forum.cursor.com/t/grok-bot-usage-too-low-even-on-cursor-ultra/172584",
+          "source": "GB-1605",
+          "blurb": {
+            "en": "Report that coordinated Grok Bot + Cursor Cloud Worker work burns weekly Ultra usage far faster than expected.",
+            "zh": "反馈在 Cursor Ultra 上做协同 Grok Bot + Cloud Worker 开发时，周额度消耗远快于预期。",
+            "ja": "Cursor Ultra 上で Grok Bot と Cloud Worker を併用すると週次利用枠が想定より早く減るという報告。"
+          }
+        },
+        {
           "title": "Grok Bot forever box: agent-transcripts mirror never created",
           "url": "https://forum.cursor.com/t/grok-bot-forever-box-agent-transcripts-mirror-never-created-server-agent-proxy-transcript-tail-con/172494",
           "source": "GB-1596",
@@ -13485,6 +13615,26 @@
         "ja": "関連リスト"
       },
       "items": [
+        {
+          "title": "ezotec/grokbot — live bot roster & role prompts",
+          "url": "https://github.com/ezotec/grokbot",
+          "source": "GB-1604",
+          "blurb": {
+            "en": "Paste-ready roster of live Grok Bot roles (Chief of Staff, Inbox, Digest, SE account specialists) with house rules in AGENTS.md.",
+            "zh": "可粘贴的 Grok Bot 角色名册（首席参谋、收件箱、日报、SE 客户专家等），附 AGENTS.md 家规。",
+            "ja": "そのまま使える Grok Bot ロール名冊（Chief of Staff・Inbox・Digest・SE など）と AGENTS.md のハウスルール."
+          }
+        },
+        {
+          "title": "ai-conversation-cleaner — local Grok Build chat cleanup (Windows)",
+          "url": "https://github.com/xing-skyline/ai-conversation-cleaner",
+          "source": "GB-1600",
+          "blurb": {
+            "en": "Windows utility to search, preview, back up, and delete local conversations from Grok Build (and Codex/Claude Code/Cursor/etc.) without a hosted service.",
+            "zh": "Windows 本地工具：搜索、预览、备份并删除 Grok Build（以及 Codex/Claude Code/Cursor 等）本地会话，无需托管服务。",
+            "ja": "Windows 向けローカルツール。Grok Build（ほか Codex/Claude Code/Cursor 等）のローカル会話を検索・プレビュー・バックアップ・削除。"
+          }
+        },
         {
           "title": "grok-build-byok — BYOK helper allowlist for Grok Build",
           "url": "https://github.com/ARMedS/grok-build-byok",
@@ -21599,6 +21749,37 @@
         "en": "Offline Grok Bot meetup in Karachi at COLABS Shahrah-e-Faisal. Register on Luma.",
         "zh": "卡拉奇线下 Grok Bot 聚会，地点 COLABS Shahrah-e-Faisal。Luma 报名。",
         "ja": "カラチのオフライン Grok Bot ミートアップ（COLABS Shahrah-e-Faisal）。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "tpa-20261114",
+      "url": "https://luma.com/spacexai-g0x6",
+      "image": "./assets/events/tpa-20261114-cover.png",
+      "expires": "2026-11-14T16:00:00-05:00",
+      "title": {
+        "en": "Grok Bot Meetup Tampa Bay",
+        "zh": "Grok Bot 坦帕湾 Meetup",
+        "ja": "Grok Bot タンパベイ Meetup"
+      },
+      "when": {
+        "en": "Sat 14 Nov 2026, 13:00–16:00 (America/New_York)",
+        "zh": "2026-11-14 周六 13:00–16:00（America/New_York）",
+        "ja": "2026-11-14（土）13:00–16:00（America/New_York）"
+      },
+      "where": {
+        "en": "Tampa Bay, FL · venue TBA (address after register). Offline.",
+        "zh": "美国佛罗里达坦帕湾 · 场地待定（报名后通知）。线下。",
+        "ja": "フロリダ州タンパベイ · 会場 TBD（登録後に案内）。オフライン。"
+      },
+      "body": {
+        "en": "Offline Grok Bot meetup in Tampa Bay hosted with SpaceXAI Tampa. Register on Luma.",
+        "zh": "坦帕湾线下 Grok Bot 聚会（SpaceXAI Tampa）。Luma 报名。",
+        "ja": "タンパベイのオフライン Grok Bot ミートアップ（SpaceXAI Tampa）。Luma で登録。"
       },
       "cta": {
         "en": "Register on Luma",

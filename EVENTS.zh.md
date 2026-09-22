@@ -60,14 +60,14 @@
 <a id="phl-20261217"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-8wr8"><img src="./assets/events/phl-20261217-cover.jpg" alt="Cursor Meetup 费城 — 十二月场" width="300" /></a></td><td valign="top"><strong>Cursor Meetup 费城 — 十二月场</strong><br />2026-12-17 周四 18:00–20:30（America/New_York）<br />费城 · SpaceXAI Philadelphia — 线下<br /><br />SpaceXAI Community 费城十二月 Cursor/Grok 局。Luma 报名。<br /><br /><a href="https://luma.com/cursor-8wr8"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
+<a id="tpa-20261114"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-g0x6"><img src="./assets/events/tpa-20261114-cover.png" alt="Grok Bot 坦帕湾 Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot 坦帕湾 Meetup</strong><br />2026-11-14 周六 13:00–16:00（America/New_York）<br />美国佛罗里达坦帕湾 · 场地待定（报名后通知）。线下。<br /><br />坦帕湾线下 Grok Bot 聚会（SpaceXAI Tampa）。Luma 报名。<br /><br /><a href="https://luma.com/spacexai-g0x6"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-ca"></a>
 ### 加拿大
 
 <a id="yyc-20260930"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-coel"><img src="./assets/events/yyc-20260930-cover.png" alt="Grok Bot 卡尔加里线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 卡尔加里线下交流</strong><br />2026-09-30 周三 17:30–20:30（卡尔加里）<br />卡尔加里 · 场地待定，报名后通知<br /><br />卡尔加里线下 Grok Bot。免费开放报名。<br /><br /><a href="https://luma.com/cursor-coel"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
-<a id="vic-20260921"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot"><img src="./assets/events/vic-20260921-cover.png" alt="Grok Bot 维多利亚（BC）线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 维多利亚（BC）线下交流</strong><br />2026-09-21 周一 18:00–21:00（维多利亚）<br />维多利亚（BC）· 报名通过后可见地址<br /><br />维多利亚 Grok Bot 动手夜。需主办审核。<br /><br /><a href="https://luma.com/grokbot"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
 <a id="yul-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/hkujao4q"><img src="./assets/events/yul-20260919-cover.png" alt="Grok Bot 蒙特利尔线下交流 - BUILD DAY" width="300" /></a></td><td valign="top"><strong>Grok Bot 蒙特利尔线下交流 - BUILD DAY</strong><br />2026-10-03 周六 12:00–17:00（蒙特利尔 EDT）<br />蒙特利尔 · Reflex（63 Rue de Brésoles；与 SpaceXAI Community 合作）<br /><br />蒙特利尔官方 Grok Bot 线下（Reflex）：快速教程、社区现场 demo、自由交流与导师答疑；有试用额度与周边。主办 Lucas、Samira G.；免费需审核；下午线下。EventScheduled。<br /><br /><a href="https://luma.com/hkujao4q"><strong>报名 →</strong></a></td></tr></table>

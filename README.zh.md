@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1572-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1587-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,8 +38,8 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（2）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017)
-- **美国**（14）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [迈阿密](./EVENTS.zh.md#mia-20260923) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929) · [洛杉矶](./EVENTS.zh.md#lad-20260922) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217)
-- **加拿大**（5）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [维多利亚（BC）](./EVENTS.zh.md#vic-20260921) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
+- **美国**（15）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [迈阿密](./EVENTS.zh.md#mia-20260923) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929) · [洛杉矶](./EVENTS.zh.md#lad-20260922) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114)
+- **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
 - **墨西哥**（4）：[普埃布拉](./EVENTS.zh.md#pue-20260924) · [奇瓦瓦](./EVENTS.zh.md#cuu-20260924) · [墨西哥城](./EVENTS.zh.md#cdmx-20260926) · [蒙特雷](./EVENTS.zh.md#mty-20261003)
 - **巴西**（3）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20260926)
 - **西班牙**（3）：[巴塞罗那](./EVENTS.zh.md#bcn-20260929) · [马德里](./EVENTS.zh.md#mad-20260929) · [瓦伦西亚](./EVENTS.zh.md#vlc-20260925)
@@ -268,6 +268,8 @@
 
 ## 真实使用案例
 
+- [star-catcher-smoke — offline canvas game (Grok Build smoke)](https://github.com/Cesardellantonio/star-catcher-smoke) - 离线 HTML canvas 送信小游戏（Ember→Ion→Nova 配额），用作 Grok Build smoke：打开 index.html 即可，无需安装联网。.
+- [llegadas-tarde — local late-arrival PWA built with Grok Bot](https://github.com/korckyjals-grok-bot/llegadas-tarde) - Grok Bot 组织下做的纯本地迟到登记 PWA（IndexedDB、WhatsApp 文案、Vite + Vitest/Playwright），无后端无 CDN。.
 - [mordheim-grok-build-prompts — tactics game prompt series](https://github.com/davenpmo/mordheim-grok-build-prompts) - 规则优先的 Jupyter/Markdown 提示词系列：在 Grok Build Mode 里做 1999 规则 Mordheim 3D 战术游戏。.
 - [living-icon — mood-reactive avatars for Grok Bots](https://github.com/skiiwa67-collab/living-icon) - Living Icon：情绪响应、会演化的头像，设计给 Grok Bot 队友旁边用。.
 - [fleet-overview — static Grok Bot fleet board](https://github.com/Lennart1970/fleet-overview) - 用静态 GitHub Pages 看板展示个人 Grok Bot 机队：泳道、bots 与待办。.
@@ -437,6 +439,9 @@
 
 ## 技能、插件与 MCP
 
+- [dsh-grok-subscription — SuperGrok login for DeepSeek Harness](https://github.com/BaronCyrus/dsh-grok-subscription) - DeepSeek Harness 社区插件：复用官方 Grok Build CLI 的 SuperGrok/X Premium OAuth，单独提供 grok-build 模型路由。.
+- [sociallisteningapi-grokbot — social search MCP plugin](https://github.com/shash7/sociallisteningapi-grokbot) - 通过 OAuth 把 Grok Bot / Cursor 接到 SocialListeningAPI 托管 MCP，搜索公开社媒、Google 与 Instagram 发现数据。.
+- [gander-plugins — Gander skill packages for Grok Build](https://github.com/gandermd/gander-plugins) - 把 Gander skill 与 MCP 打成 Grok Build 的 `.grok-plugin` 包（同时提供 Claude Code / Cursor 包装）。.
 - [Grok-Build-for-Codex — invoke Grok Build inside Codex](https://github.com/Himare4092/Grok-Build-for-Codex) - 桥接包：让 Codex 调用 Grok Build 做代码审查等任务，含日英文档。.
 - [CodyBearTV Bitcoin stream plugin for Grok Build](https://github.com/contentctv/codybeartv-bitcoin-stream) - 面向 Grok Build 的只读比特币流插件（CodyBearTV）；明确不是交易机器人。.
 - [Grok-W-Workflow — parallel Grok Build CLI fan-out skill](https://github.com/sauerlandtreffi/Grok-W-Workflow) - Skill 与脚本：把批量任务扇出到并行 Grok Build CLI 子代理，并带面向大批量的校验门。.
@@ -951,6 +956,7 @@
 
 ## 开源替代
 
+- [pebble-index-bridge — Index 01 voice → Grok Bot routines](https://github.com/Zhigre/pebble-index-bridge) - 自建桥接：把 Pebble Index 01 的 multipart 语音转写转成 JSON，送给 Grok Bot agent/routine webhook。.
 - [GrokBuildWorkbench — custom workbench for Grok Build](https://github.com/Datapad-nl/GrokBuildWorkbench) - 围绕 Grok Build 编程代理的自定义工作台 UI 与本地会话工具。.
 - [grok-build-app — Windows launcher package for Grok Build](https://github.com/jonyb21/grok-build-app) - Grok Build 的 Windows 桌面打包：定制图标、启动器与可供 AI 安装的包说明。.
 - [GrokGUIPrototype — Tauri GUI for Grok Build coding agent](https://github.com/zyfvhcfh87-rgb/GrokGUIPrototype) - 面向 Grok Build 编程代理的本地优先 Tauri 桌面 GUI 原型，含 crates 与文档。.
@@ -1268,6 +1274,13 @@
 
 ## 社区与故障现场
 
+- [Agent Computer stuck “starting up” for 48–72h](https://forum.cursor.com/t/grok-bot-agent-computer-stuck-starting-up-48-72h-update-reset-failed-on-all-devices-please-reprovision/172519) - Agent Computer 连续 48–72 小时停在 “starting up”/不可达，各设备上 Update/Reset 均失败。.
+- [1Password vault-only sharing request for Grok Bot](https://forum.cursor.com/t/1password-vault-only-access-in-grokbot/172524) - 功能请求：只把选定的 1Password 保险库分享给 Grok Bot，而不是整个账号。.
+- [Grok Bot false play/state claims in playtest loop](https://forum.cursor.com/t/grok-bot-agent-false-play-state-claims-break-trust-preview-mismatch-treated-as-playtesting/172533) - Arcade Lab Tester 席位反复给出与预览不符的虚假 play/状态声明，却当成已完成试玩。.
+- [Grok Bot hung on Updating computer at 43%](https://forum.cursor.com/t/grokbot-unavailable-hung-on-updating-grok-bot-s-computer-at-43/172535) - Grok Bot 不可用：「Updating Grok Bot’s Computer」在约 43% 传输环境时卡住。.
+- [Grok Bot Routines don’t auto-wake at day start](https://forum.cursor.com/t/grok-bot-routines-dont-wake-up-at-the-beginning-of-a-new-day/172545) - 新的一天开始时 Routines/子 agent 不会自动跑第一次，除非用户手动说 “wake up”。.
+- [Grok Bot reconnect loop — api2.cursor.sh bad cert host](https://forum.cursor.com/t/grok-bot-keeps-reconnecting-api2-cursor-sh-resolves-to-100-60-17-13-which-presents-a-certificate-for-devapi-english-com/172578) - Grok Bot 一直 “Can’t reach your computer”：api2.cursor.sh 解析到 100.60.17.13 且证书不匹配，不断重连。.
+- [Grok Bot usage drains too fast on Cursor Ultra](https://forum.cursor.com/t/grok-bot-usage-too-low-even-on-cursor-ultra/172584) - 反馈在 Cursor Ultra 上做协同 Grok Bot + Cloud Worker 开发时，周额度消耗远快于预期。.
 - [Grok Bot forever box: agent-transcripts mirror never created](https://forum.cursor.com/t/grok-bot-forever-box-agent-transcripts-mirror-never-created-server-agent-proxy-transcript-tail-con/172494) - 论坛报告：forever box 的 agent-transcripts 镜像从未创建，但 server-agent-proxy 的 transcript 尾部仍保持连接。.
 - [Grok Bot 0.57.1 Windows — 0x0 off-screen window cannot reopen](https://forum.cursor.com/t/grok-bot-0-57-1-on-windows-saves-a-0x0-off-screen-window-state-and-cannot-reopen/172502) - 论坛报告：Windows 上 Grok Bot 0.57.1 会保存 0x0 屏外窗口状态，导致应用无法正常再次打开。.
 - [Grok Bot 0.57.1 Windows — quits under local Shell/CopyFromBox + Chrome UI](https://forum.cursor.com/t/grok-bot-0-57-1-windows-app-quits-under-local-shell-copyfrombox-chrome-ui-idle-stays-up/172549) - 论坛报告：Windows 上 Grok Bot 0.57.1 在本地 Shell/CopyFromBox 配合 Chrome UI 时会退出，空闲进程却仍在。.
@@ -1450,6 +1463,8 @@
 
 ## 相关列表
 
+- [ezotec/grokbot — live bot roster & role prompts](https://github.com/ezotec/grokbot) - 可粘贴的 Grok Bot 角色名册（首席参谋、收件箱、日报、SE 客户专家等），附 AGENTS.md 家规。.
+- [ai-conversation-cleaner — local Grok Build chat cleanup (Windows)](https://github.com/xing-skyline/ai-conversation-cleaner) - Windows 本地工具：搜索、预览、备份并删除 Grok Build（以及 Codex/Claude Code/Cursor 等）本地会话，无需托管服务。.
 - [grok-build-byok — BYOK helper allowlist for Grok Build](https://github.com/ARMedS/grok-build-byok) - Grok Build 的小型 BYOK 助手：短白名单、keys.env 与安装脚本，避免把 TOML 密钥整段导出。.
 - [grok-build-archive — historical archive of xai-org/grok-build](https://github.com/karlorz/grok-build-archive) - 非官方 xai-org/grok-build 历史归档（Apache-2.0），与 xAI 无关。.
 - [grok-build-termux — unofficial Termux port of Grok Build CLI](https://github.com/janisxyz/grok-build-termux) - 非官方 Termux 移植：在 Android 上经 proot 运行官方 linux-aarch64 Grok Build CLI。.
@@ -1685,7 +1700,7 @@
 
 ## 贡献
 
-目前 8 个分类、1572 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1587 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

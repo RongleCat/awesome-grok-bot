@@ -60,14 +60,14 @@
 <a id="phl-20261217"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-8wr8"><img src="./assets/events/phl-20261217-cover.jpg" alt="Cursor Meetup フィラデルフィア — 12月" width="300" /></a></td><td valign="top"><strong>Cursor Meetup フィラデルフィア — 12月</strong><br />2026-12-17（木）18:00–20:30（America/New_York）<br />フィラデルフィア · SpaceXAI Philadelphia — オフライン<br /><br />SpaceXAI Community のフィラデルフィア 12 月 Cursor/Grok ミートアップ。Luma で登録。<br /><br /><a href="https://luma.com/cursor-8wr8"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
+<a id="tpa-20261114"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-g0x6"><img src="./assets/events/tpa-20261114-cover.png" alt="Grok Bot タンパベイ Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot タンパベイ Meetup</strong><br />2026-11-14（土）13:00–16:00（America/New_York）<br />フロリダ州タンパベイ · 会場 TBD（登録後に案内）。オフライン。<br /><br />タンパベイのオフライン Grok Bot ミートアップ（SpaceXAI Tampa）。Luma で登録。<br /><br /><a href="https://luma.com/spacexai-g0x6"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
 <a id="country-ca"></a>
 ### カナダ
 
 <a id="yyc-20260930"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-coel"><img src="./assets/events/yyc-20260930-cover.png" alt="Grok Bot Meetup Calgary" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Calgary</strong><br />2026-09-30（水）17:30–20:30（MDT）<br />カルガリー · 会場は登録後に案内<br /><br />カルガリーの対面 Grok Bot。無料・先着。<br /><br /><a href="https://luma.com/cursor-coel"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="vic-20260921"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot"><img src="./assets/events/vic-20260921-cover.png" alt="Grok Bot Meetup Victoria BC" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Victoria BC</strong><br />2026-09-21（月）18:00–21:00（PDT）<br />ビクトリア（BC）· 登録後に住所を表示<br /><br />ビクトリアの Grok Bot ビルドナイト。主催者承認が必要。<br /><br /><a href="https://luma.com/grokbot"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
 <a id="yul-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/hkujao4q"><img src="./assets/events/yul-20260919-cover.png" alt="Official Grok Bot Meetup Montreal - BUILD DAY" width="300" /></a></td><td valign="top"><strong>Official Grok Bot Meetup Montreal - BUILD DAY</strong><br />2026-10-03（土）12:00–17:00（America/Toronto、EDT）<br />モントリオール · Reflex（63 Rue de Brésoles、SpaceXAI Community 連携）<br /><br />モントリオール公式 Grok Bot Meetup（Reflex）。短いチュートリアル、コミュニティデモ、交流とメンター。クレジットとスワッグあり。主催 Lucas & Samira G.。無料・承認制。午後対面。EventScheduled。<br /><br /><a href="https://luma.com/hkujao4q"><strong>申し込む →</strong></a></td></tr></table>
