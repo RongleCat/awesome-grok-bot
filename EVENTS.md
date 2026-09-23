@@ -30,9 +30,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="phl-20260929"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-hdle"><img src="./assets/events/phl-20260929-cover.png" alt="Grok Bot Meetup Philadelphia" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Philadelphia</strong><br />Tue 29 Sep 2026, 18:00–20:30 (America/New_York / EDT, UTC−4)<br />Philadelphia, PA · Indy Hall Clubhouse, 709 N 2nd St 3rd Floor<br /><br />SpaceXAI for Philadelphia first Grok Bot Meetup (hosts Luis Cielak, Malcolm Jones). Multi-agent workflow sharing: Think–Pair–Share on real agent setups, builders’ agentic flows, free food/drinks, Free Grok credits. Free; no approval; guest_count 49 at scan. Venue Indy Hall. Overnight rename: evening Sep12 still listed as “Cursor Meetup Philadelphia — September” (Cursor noise, not proposed); now title+body are Grok Bot Meetup. Distinct from expired campus nights phl-20260903 / tmp-20260903.<br /><br /><a href="https://luma.com/cursor-hdle"><strong>Register on Luma →</strong></a></td></tr></table>
 
-<a id="lad-20260922"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotdesign-la"><img src="./assets/events/lad-20260922-cover.png" alt="Grok Bot for Design build night (LA)" width="300" /></a></td><td valign="top"><strong>Grok Bot for Design build night (LA)</strong><br />Tue 22 Sep 2026, 17:00–20:30 (America/Los_Angeles / PDT, UTC−7)<br />Los Angeles, CA · venue TBA (offline)<br /><br />SpaceXAI Community Grok Bot build night for Design (host Sunita Rao; forum 171544). Agenda 17:00–20:30: overview, SpaceXAI Design team live demos, Q&A, build time + free Grok Bot credits, attendee demos. Offline; free; guest_count 0 at scan. Local date Sep 22 (UTC start 09-23T00:00Z). Vanity grokbotdesign-la (= spacexai-o5ji).<br /><br /><a href="https://luma.com/grokbotdesign-la"><strong>Register on Luma → →</strong></a></td></tr></table>
-
 <a id="sea-20260924"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotengineering-seattle"><img src="./assets/events/sea-20260924-cover.png" alt="Grok Bot for Engineering build night (Seattle)" width="300" /></a></td><td valign="top"><strong>Grok Bot for Engineering build night (Seattle)</strong><br />Thu 24 Sep 2026, 17:00–20:30 (America/Los_Angeles / PDT, UTC−7)<br />Seattle, WA · venue TBA (offline)<br /><br />SpaceXAI Community Grok Bot build night for Engineering (host Sunita Rao; forum 171546). Agenda 17:00–20:30 Pacific: overview, SpaceXAI Engineering demos, Q&A, build time + free Grok Bot credits. Offline; free; guest_count 0. Local date Sep 24 (UTC start 09-25T00:00Z; Luma tz America/Los_Angeles = Pacific, correct for Seattle). Vanity grokbotengineering-seattle (= spacexai-xn5j).<br /><br /><a href="https://luma.com/grokbotengineering-seattle"><strong>Register on Luma → →</strong></a></td></tr></table>
 
@@ -168,6 +165,15 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="gua-20261205"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-97mt"><img src="./assets/events/gua-20261205-cover.png" alt="Grok Bot Meetup Guatemala" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Guatemala</strong><br />Sat 5 Dec 2026, 15:00–20:00 (America/Guatemala)<br />Guatemala · venue TBA (see Luma / host update) — offline<br /><br />SpaceXAI Guatemala offline Grok Bot meetup (forum + Luma). Register on Luma for venue details.<br /><br /><a href="https://luma.com/spacexai-97mt"><strong>Register on Luma →</strong></a></td></tr></table>
 
+<a id="country-it"></a>
+### Italy
+
+<a id="pdv-20260925"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-v5ch"><img src="./assets/events/pdv-20260925-cover.png" alt="Grok Hackathon Padova" width="300" /></a></td><td valign="top"><strong>Grok Hackathon Padova</strong><br />Fri 25 Sep 2026, 19:00–23:00 (Europe/Rome)<br />Padua · Via della Croce Rossa, 42 — offline<br /><br />Grok Hackathon Padova at Via della Croce Rossa 42 — in-person SpaceXAI Community hackathon.<br /><br /><a href="https://luma.com/cursor-v5ch"><strong>Register on Luma →</strong></a></td></tr></table>
+
+<a id="rom-20261023"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-rome"><img src="./assets/events/rom-20261023-cover.png" alt="Grok Bot Meetup Rome" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Rome</strong><br />Fri 23 Oct 2026, 10:00–13:00 (Europe/Rome)<br />Rome, Italy · Urbe Hub (Largo Dino Frisullo, 00153 Roma RM) — offline<br /><br />SpaceXAI for Rome meetup at Urbe Hub: build and share with Grok Bot. Hosted with Urbe Hub. Register on Luma.<br /><br /><a href="https://luma.com/grok-bot-rome"><strong>Register on Luma →</strong></a></td></tr></table>
+
 <a id="country-kz"></a>
 ### Kazakhstan
 
@@ -257,12 +263,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="raj-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grok-rajkot"><img src="./assets/events/raj-20260926-cover.png" alt="Grok Bot Meetup Rajkot" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Rajkot</strong><br />Sat 26 Sep 2026, 10:00–13:00 (IST)<br />Rajkot, Gujarat, India · exact address after you register<br /><br />In-person Grok Bot meetup in Rajkot (Build, Automate & Grow with AI). Hosted under SpaceXAI for Rajkot; free; host approval; venue obfuscated until registered.<br /><br /><a href="https://luma.com/grok-rajkot"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
-
-<a id="country-it"></a>
-### Italy
-
-<a id="pdv-20260925"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-v5ch"><img src="./assets/events/pdv-20260925-cover.png" alt="Grok Hackathon Padova" width="300" /></a></td><td valign="top"><strong>Grok Hackathon Padova</strong><br />Fri 25 Sep 2026, 19:00–23:00 (Europe/Rome)<br />Padua · Via della Croce Rossa, 42 — offline<br /><br />Grok Hackathon Padova at Via della Croce Rossa 42 — in-person SpaceXAI Community hackathon.<br /><br /><a href="https://luma.com/cursor-v5ch"><strong>Register on Luma →</strong></a></td></tr></table>
 
 <a id="country-jp"></a>
 ### Japan

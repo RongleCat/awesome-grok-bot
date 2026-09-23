@@ -1036,6 +1036,16 @@
       },
       "items": [
         {
+          "title": "Panda Labs verification loop for Grok Bot teams",
+          "url": "https://github.com/PandaHK-Hub/verification-loop",
+          "source": "GB-1662",
+          "blurb": {
+            "en": "Public method write-up of a You→CoS→Worker→Auditor verification loop for maturing Grok Bot team skills.",
+            "zh": "公开方法说明：You→CoS→Worker→Auditor 验证环，用于打磨 Grok Bot 团队技能。",
+            "ja": "Grok Bot チームのスキル成熟向け You→CoS→Worker→Auditor 検証ループの公開メソッド解説。"
+          }
+        },
+        {
           "title": "Grok Bot Field Notes (Chinese edition)",
           "url": "https://github.com/siyuanfeng636-cpu/grokbot-field-notes-zh",
           "source": "GB-1649",
@@ -1795,6 +1805,36 @@
         "ja": "実地事例"
       },
       "items": [
+        {
+          "title": "Interactive staff org chart for a Grok Bot board",
+          "url": "https://github.com/siriusbontea/grok-bot-task-org",
+          "source": "GB-1663",
+          "blurb": {
+            "en": "Public interactive org-chart site for a Grok Bot board with role chips, stories, and generated portraits.",
+            "zh": "面向 Grok Bot 看板的公开交互式组织图站点：角色芯片、故事与生成肖像。",
+            "ja": "Grok Bot ボード向けの公開インタラクティブ組織図。ロールチップ・ストーリー・生成ポートレート付き。"
+          }
+        },
+        {
+          "title": "Director orchestrator logs & templates for Grok Bot",
+          "url": "https://github.com/Ansefe/grok-bot-orquestator",
+          "source": "GB-1661",
+          "blurb": {
+            "en": "Spanish evaluation logs, bitácora, and templates for a Grok Bot “Director” that coordinates competitor coding agents.",
+            "zh": "Grok Bot「Director」编排器的评估日志、工作日志与模板（西语），用于协调竞赛编码代理。",
+            "ja": "Grok Bot「Director」オーケストレータ向けの評価ログ・日誌・テンプレート（スペイン語）。"
+          }
+        },
+        {
+          "title": "Public agent observatory page for a Grok Bot / OpenClaw host",
+          "url": "https://github.com/cuthbertnogood/grok-bot-observatory",
+          "source": "GB-1660",
+          "blurb": {
+            "en": "Browser-safe public showcase of agents on a Grok Bot/OpenClaw host (index.html + agents.json), not a Control UI.",
+            "zh": "Grok Bot/OpenClaw 主机上的公开代理观测页（index.html + agents.json），非 Control UI。",
+            "ja": "Grok Bot/OpenClaw ホスト上のエージェント公開ショーケース（index.html + agents.json）。Control UI ではない。"
+          }
+        },
         {
           "title": "ORB//TEARDOWN — Grok Bot orb design study",
           "url": "https://github.com/Pitchfork-and-Torch/grok-bot-exploded",
@@ -3525,6 +3565,46 @@
         "ja": "スキル、プラグインと MCP"
       },
       "items": [
+        {
+          "title": "Namecheap domain/DNS plugin for Cursor / Grok Bot marketplace",
+          "url": "https://github.com/zohan724/namecheap-cursor-plugin",
+          "source": "GB-1657",
+          "blurb": {
+            "en": "Cursor/Grok Bot marketplace plugin with bundled MCP server, rules, and skills for Namecheap domain listing and DNS host management.",
+            "zh": "Cursor/Grok Bot 市场插件：内置 MCP、规则与技能，用于 Namecheap 域名列表与 DNS host 管理。",
+            "ja": "Cursor/Grok Bot マーケット向けプラグイン。同梱 MCP・ルール・スキルで Namecheap のドメイン一覧と DNS 管理が可能。"
+          }
+        },
+        {
+          "title": "Grok Bot ↔ Feishu/Lark via official lark-mcp + routines",
+          "url": "https://github.com/nszhsl/grokbot-larkfeishu",
+          "source": "GB-1656",
+          "blurb": {
+            "en": "Grok Bot skills and minute-level Feishu poll routines that send/receive Lark messages through the official @larksuiteoapi/lark-mcp.",
+            "zh": "Grok Bot 技能与飞书分钟级轮询例程：经官方 @larksuiteoapi/lark-mcp 代发/近似入站飞书消息。",
+            "ja": "Grok Bot 向けスキルと分単位の Feishu ポーリング Routine。公式 @larksuiteoapi/lark-mcp で送受信します。"
+          }
+        },
+        {
+          "title": "crm2crm .grok-plugin — hosted MCP CRM for Grok Build",
+          "url": "https://github.com/chisoftco/crm2crm-grok-plugin",
+          "source": "GB-1655",
+          "blurb": {
+            "en": "Manifest-only Grok Build plugin (.grok-plugin + .mcp.json) that points Grok at crm2crm’s hosted MCP with 85 CRM tools.",
+            "zh": "仅含清单的 Grok Build 插件（.grok-plugin + .mcp.json），把 Grok 接到 crm2crm 托管 MCP（85 个 CRM 工具）。",
+            "ja": "マニフェストのみの Grok Build プラグイン（.grok-plugin + .mcp.json）。crm2crm のホスト型 MCP（CRM ツール 85）へ接続。"
+          }
+        },
+        {
+          "title": "Veilink for Grok Bot — remote MCP marketplace plugin",
+          "url": "https://github.com/veilink-ai/veilink-grok-bot",
+          "source": "GB-1654",
+          "blurb": {
+            "en": "Pre-release Grok Bot marketplace plugin that connects Veilink’s hosted MCP so bots can manage introductions and contact sharing via OAuth.",
+            "zh": "面向 Grok Bot 市场的预发布插件：通过 OAuth 接入 Veilink 托管 MCP，让 Bot 管理介绍与联系人分享。",
+            "ja": "Grok Bot マーケット向けプレリリースプラグイン。OAuth で Veilink のホスト型 MCP に接続し、紹介と連絡先共有を扱えます。"
+          }
+        },
         {
           "title": "Grok Custom Skills (89-pack for ~/.grok/skills)",
           "url": "https://github.com/Stijnman/grok-custom-skills",
@@ -11996,6 +12076,16 @@
       },
       "items": [
         {
+          "title": "Route-through-desktop only reaches public IPs (not private / split-horizon)",
+          "url": "https://forum.cursor.com/t/grok-bot-route-traffic-through-this-computer-fails-for-split-horizon-internal-dev-hosts/172715",
+          "source": "GB-1664",
+          "blurb": {
+            "en": "Staff (deanrie, 2026-09-23): “Route traffic through this computer” only relays to public internet addresses—desktop rejects CONNECT when the hostname resolves to private ranges (192.168/10/172.16–31); public cloud hosts still work. Docs currently imply internal hosts should work; mismatch filed with the team (no ETA).",
+            "zh": "官方（deanrie，2026-09-23）：「经本机上网」目前只转发公网地址——主机名若解析到私网（192.168/10/172.16–31），桌面侧会拒掉 CONNECT；公有云主机仍可用。文档暗示内网可达，与现状不符，已反馈团队（暂无 ETA）。",
+            "ja": "スタッフ（deanrie、2026-09-23）：「このコンピュータ経由で通信」は現状パブリック宛のみ。ホスト名がプライベート帯（192.168/10/172.16–31）に解決するとデスクトップ側が CONNECT を拒否。パブリッククラウドは可。ドキュメントは社内ホスト到達を示唆しており不一致をチームへ共有（ETA なし）。"
+          }
+        },
+        {
           "title": "Origin CLI on Grok Bot is read-only; merge via UI or your machine",
           "url": "https://forum.cursor.com/t/merging-prs-in-origin-with-grok-bot/172592",
           "source": "GB-1653",
@@ -13915,6 +14005,26 @@
         "ja": "関連リスト"
       },
       "items": [
+        {
+          "title": "grokbotpatcher — per-Bot alternate-model routing (planning)",
+          "url": "https://github.com/dndungu/grokbotpatcher",
+          "source": "GB-1659",
+          "blurb": {
+            "en": "Planning docs and ADRs for a version-resilient on-device agent that lets each Grok Bot route inference to an alternate provider.",
+            "zh": "规划文档与 ADR：在设备上运行、按 Bot 隔离的补丁代理，让 Grok Bot 把推理路由到备用模型提供方。",
+            "ja": "計画ドキュメントと ADR。各 Grok Bot が代替プロバイダへ推論をルーティングする端末上エージェント向け。"
+          }
+        },
+        {
+          "title": "Grok×Jev efficiency gates package for Grok Bot",
+          "url": "https://github.com/Sentry01/grokbot-improver",
+          "source": "GB-1658",
+          "blurb": {
+            "en": "Contribution pack of 15 runnable Grok×Jev efficiency gates, CI loop docs, and live Grok Bot gated-turn demos.",
+            "zh": "面向 Grok Bot 的 Grok×Jev 效率门控贡献包：15 个可运行 gate、CI 循环文档与实况回合演示。",
+            "ja": "Grok Bot 向け Grok×Jev 効率ゲート貢献パック。実行可能な gate 15・CI ループ文書・実況デモを収録。"
+          }
+        },
         {
           "title": "Homebrew tap for privacy-hardened grok-build",
           "url": "https://github.com/carmilea/homebrew-grok",
@@ -22479,6 +22589,37 @@
         "en": "First SpaceXAI Alicante lunch meetup: 5-min lightning demos of Grok Bot workflows in Cursor + networking. Register on Luma (forum 172631).",
         "zh": "SpaceXAI 阿利坎特首场午间 Meetup：5 分钟闪电演示（Cursor 里的 Grok Bot 工作流）+ 社交。论坛 172631，Luma 报名。",
         "ja": "SpaceXAI アリカンテ初のランチミートアップ。5 分ライトニングデモ（Cursor 上の Grok Bot）と交流。フォーラム 172631。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "rom-20261023",
+      "url": "https://luma.com/grok-bot-rome",
+      "image": "./assets/events/rom-20261023-cover.png",
+      "expires": "2026-10-23T13:00:00+02:00",
+      "title": {
+        "en": "Grok Bot Meetup Rome",
+        "zh": "Grok Bot Meetup 罗马",
+        "ja": "Grok Bot Meetup ローマ"
+      },
+      "when": {
+        "en": "Fri 23 Oct 2026, 10:00–13:00 (Europe/Rome)",
+        "zh": "2026-10-23 周五 10:00–13:00（Europe/Rome）",
+        "ja": "2026-10-23（金）10:00–13:00（Europe/Rome）"
+      },
+      "where": {
+        "en": "Rome, Italy · Urbe Hub (Largo Dino Frisullo, 00153 Roma RM) — offline",
+        "zh": "意大利罗马 · Urbe Hub（Largo Dino Frisullo, 00153 Roma RM）— 线下",
+        "ja": "イタリア・ローマ · Urbe Hub（Largo Dino Frisullo, 00153 Roma RM）— オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI for Rome meetup at Urbe Hub: build and share with Grok Bot. Hosted with Urbe Hub. Register on Luma.",
+        "zh": "SpaceXAI 罗马站（Urbe Hub）：一起用 Grok Bot 构建与分享。与 Urbe Hub 合办。Luma 报名。",
+        "ja": "SpaceXAI ローマ（Urbe Hub）のミートアップ。Grok Bot で作り共有。Urbe Hub 共催。Luma で登録。"
       },
       "cta": {
         "en": "Register on Luma",

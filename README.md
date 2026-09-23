@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1629-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1640-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（2）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017)
-- **United States**（15）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Los Angeles](./EVENTS.md#lad-20260922) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114)
+- **United States**（14）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114)
 - **Brazil**（5）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926) · [Curitiba](./EVENTS.md#cwb-20260929) · [Salvador](./EVENTS.md#ssa-20261008)
 - **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
 - **Spain**（4）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929) · [Valencia](./EVENTS.md#vlc-20260925) · [Alicante](./EVENTS.md#alc-20261107)
@@ -47,6 +47,7 @@
 - **Germany**（2）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015)
 - **Ecuador**（2）：[Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
 - **Guatemala**（2）：[Guatemala City](./EVENTS.md#gua-20261003) · [Guatemala](./EVENTS.md#gua-20261205)
+- **Italy**（2）：[Padua](./EVENTS.md#pdv-20260925) · [Rome](./EVENTS.md#rom-20261023)
 - **Kazakhstan**（2）：[Astana](./EVENTS.md#nqz-20261002) · [Almaty](./EVENTS.md#ala-20261004)
 - **Vietnam**（2）：[Da Nang](./EVENTS.md#dad-20261003) · [Ho Chi Minh City](./EVENTS.md#sgn-20260926)
 - **Argentina**（1）：[Mendoza](./EVENTS.md#mdz-20261003)
@@ -61,7 +62,6 @@
 - **Greece**（1）：[Athens](./EVENTS.md#ath-20261001)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
 - **India**（1）：[Rajkot](./EVENTS.md#raj-20260926)
-- **Italy**（1）：[Padua](./EVENTS.md#pdv-20260925)
 - **Japan**（1）：[Sapporo](./EVENTS.md#spk-20261002)
 - **Kyrgyzstan**（1）：[Bishkek](./EVENTS.md#fru-20261001)
 - **Cambodia**（1）：[Phnom Penh](./EVENTS.md#pnh-20261003)
@@ -195,6 +195,7 @@
 
 ## Tutorials & Guides
 
+- [Panda Labs verification loop for Grok Bot teams](https://github.com/PandaHK-Hub/verification-loop) - Public method write-up of a You→CoS→Worker→Auditor verification loop for maturing Grok Bot team skills.
 - [Grok Bot Field Notes (Chinese edition)](https://github.com/siyuanfeng636-cpu/grokbot-field-notes-zh) - Chinese translation and restructuring of unicodef1wn/grokbot-field-notes: 72-hour multi-agent field notes, antipatterns, and role roster.
 - [Grok Bot Galaxy ebook summary (Portuguese)](https://github.com/simiao-cavalcante/grok-bot-galaxy) - Free 23-page Portuguese ebook summarizing what Grok Bot is and lessons from the three-day Galaxy company-build livestream.
 - [Grok Bot Galaxy livestream archive — searchable transcripts](https://github.com/peterdays/grok-bot-galaxy-livestream-archive) - Independent searchable archive of the ~25h Grok Bot Galaxy livestream with ranked chapters, SRT/VTT, and local seek.
@@ -273,6 +274,9 @@
 
 ## Field Cases
 
+- [Interactive staff org chart for a Grok Bot board](https://github.com/siriusbontea/grok-bot-task-org) - Public interactive org-chart site for a Grok Bot board with role chips, stories, and generated portraits.
+- [Director orchestrator logs & templates for Grok Bot](https://github.com/Ansefe/grok-bot-orquestator) - Spanish evaluation logs, bitácora, and templates for a Grok Bot “Director” that coordinates competitor coding agents.
+- [Public agent observatory page for a Grok Bot / OpenClaw host](https://github.com/cuthbertnogood/grok-bot-observatory) - Browser-safe public showcase of agents on a Grok Bot/OpenClaw host (index.html + agents.json), not a Control UI.
 - [ORB//TEARDOWN — Grok Bot orb design study](https://github.com/Pitchfork-and-Torch/grok-bot-exploded) - Independent WebGL design study that explodes a porcelain Grok Bot orb into near-future internals (not an official product).
 - [RLE harness using xAI Grok Build](https://github.com/AppSprout-dev/rle-harness-grok-build) - Turns xai-org/grok-build into an RLE harness where a coding agent manages a RimWorld colony over MCP.
 - [EPOCHBOUND MMO Grok Build handoff](https://github.com/MetaphyKing/epochbound) - Original two-era MMO language prototype packaged as a Grok Build handoff with GOAL/HANDOFF/LOCKS agent files.
@@ -448,6 +452,10 @@
 
 ## Skills, Plugins & MCP
 
+- [Namecheap domain/DNS plugin for Cursor / Grok Bot marketplace](https://github.com/zohan724/namecheap-cursor-plugin) - Cursor/Grok Bot marketplace plugin with bundled MCP server, rules, and skills for Namecheap domain listing and DNS host management.
+- [Grok Bot ↔ Feishu/Lark via official lark-mcp + routines](https://github.com/nszhsl/grokbot-larkfeishu) - Grok Bot skills and minute-level Feishu poll routines that send/receive Lark messages through the official @larksuiteoapi/lark-mcp.
+- [crm2crm .grok-plugin — hosted MCP CRM for Grok Build](https://github.com/chisoftco/crm2crm-grok-plugin) - Manifest-only Grok Build plugin (.grok-plugin + .mcp.json) that points Grok at crm2crm’s hosted MCP with 85 CRM tools.
+- [Veilink for Grok Bot — remote MCP marketplace plugin](https://github.com/veilink-ai/veilink-grok-bot) - Pre-release Grok Bot marketplace plugin that connects Veilink’s hosted MCP so bots can manage introductions and contact sharing via OAuth.
 - [Grok Custom Skills (89-pack for ~/.grok/skills)](https://github.com/Stijnman/grok-custom-skills) - Curated library of 89 safety-conscious skill packages installable into ~/.grok/skills for Grok-compatible agent hosts.
 - [iHatePosting social publisher for Grok Build](https://github.com/iHatePostingOrg/agent-skill) - Multi-host social publishing pack with mcp.grok.json and .grok-plugin so Grok Build can draft and post via iHatePosting.
 - [CLIProxyAPI Provider plugin for Grok Build](https://github.com/islee23520/cliproxy-api-provider) - Grok Build plugin that syncs CLIProxyAPI models into config.toml with context windows and reasoning-effort policies.
@@ -1301,6 +1309,7 @@
 
 ## Community & Failure Modes
 
+- [Route-through-desktop only reaches public IPs (not private / split-horizon)](https://forum.cursor.com/t/grok-bot-route-traffic-through-this-computer-fails-for-split-horizon-internal-dev-hosts/172715) - Staff (deanrie, 2026-09-23): “Route traffic through this computer” only relays to public internet addresses—desktop rejects CONNECT when the hostname resolves to private ranges (192.168/10/172.16–31); public cloud hosts still work. Docs currently imply internal hosts should work; mismatch filed with the team (no ETA).
 - [Origin CLI on Grok Bot is read-only; merge via UI or your machine](https://forum.cursor.com/t/merging-prs-in-origin-with-grok-bot/172592) - Staff (kevinn): Grok Bot’s Origin CLI is intentionally read-only (repos/PRs/diffs/checks); undraft/merge isn’t direct yet—ask cloud agents to open PRs ready-for-review, then merge on cursor.com/codebase or `origin pr merge` locally.
 - [Fleet cost tip: fresh chat per task + quieter Bot-to-Bot handoffs](https://forum.cursor.com/t/1-500-in-one-week-running-a-grok-bot-fleet-expected-or-a-bug/172705) - Staff (kevinn): each turn re-reads the bot’s full chat history—so week-long threads burn 80–90k tokens/step; use + fresh chat per task, keep Profile/Notion state, silence ack pings between bots, and space Routines (hourly+) to cut fleet spend.
 - [Grok Bot harness efficiency: ~10–35% more effective usage](https://forum.cursor.com/t/grok-bot-got-a-lot-faster/172445) - Staff: harness routing/caching/context work yields ~10% average (up to ~35%) more effective usage; avoid noisy group chats and overused subagents that burn quota.
@@ -1495,6 +1504,8 @@
 
 ## Related Lists
 
+- [grokbotpatcher — per-Bot alternate-model routing (planning)](https://github.com/dndungu/grokbotpatcher) - Planning docs and ADRs for a version-resilient on-device agent that lets each Grok Bot route inference to an alternate provider.
+- [Grok×Jev efficiency gates package for Grok Bot](https://github.com/Sentry01/grokbot-improver) - Contribution pack of 15 runnable Grok×Jev efficiency gates, CI loop docs, and live Grok Bot gated-turn demos.
 - [Homebrew tap for privacy-hardened grok-build](https://github.com/carmilea/homebrew-grok) - Homebrew tap that installs carmilea's privacy-hardened grok-build fork (telemetry phone-home disabled).
 - [pi-grok-cli — SuperGrok OAuth inside Pi](https://github.com/kenryu42/pi-grok-cli) - Pi coding-agent extension that logs into X Premium / SuperGrok OAuth and exposes Grok Build–class models inside pi.
 - [GrokHub — native Rust cabin for Grok Build](https://github.com/blackviperxiii-ui/GrokHub) - Native Rust desktop cabin (no Electron/Tauri) that installs and drives Grok Build CLI alpha for Arch/CachyOS and Windows.
@@ -1744,7 +1755,7 @@
 
 ## Contributing
 
-1629 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1640 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

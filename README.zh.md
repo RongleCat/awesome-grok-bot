@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1629-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1640-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（2）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017)
-- **美国**（15）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [迈阿密](./EVENTS.zh.md#mia-20260923) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929) · [洛杉矶](./EVENTS.zh.md#lad-20260922) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114)
+- **美国**（14）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [迈阿密](./EVENTS.zh.md#mia-20260923) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114)
 - **巴西**（5）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20260926) · [库里蒂巴](./EVENTS.zh.md#cwb-20260929) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
 - **西班牙**（4）：[巴塞罗那](./EVENTS.zh.md#bcn-20260929) · [马德里](./EVENTS.zh.md#mad-20260929) · [瓦伦西亚](./EVENTS.zh.md#vlc-20260925) · [阿利坎特](./EVENTS.zh.md#alc-20261107)
@@ -47,6 +47,7 @@
 - **德国**（2）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015)
 - **厄瓜多尔**（2）：[基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
 - **危地马拉**（2）：[危地马拉城](./EVENTS.zh.md#gua-20261003) · [危地马拉](./EVENTS.zh.md#gua-20261205)
+- **意大利**（2）：[帕多瓦](./EVENTS.zh.md#pdv-20260925) · [罗马](./EVENTS.zh.md#rom-20261023)
 - **哈萨克斯坦**（2）：[阿斯塔纳](./EVENTS.zh.md#nqz-20261002) · [阿拉木图](./EVENTS.zh.md#ala-20261004)
 - **越南**（2）：[岘港](./EVENTS.zh.md#dad-20261003) · [胡志明市](./EVENTS.zh.md#sgn-20260926)
 - **阿根廷**（1）：[门多萨](./EVENTS.zh.md#mdz-20261003)
@@ -61,7 +62,6 @@
 - **希腊**（1）：[雅典](./EVENTS.zh.md#ath-20261001)
 - **爱尔兰**（1）：[都柏林](./EVENTS.zh.md#dub-20261004)
 - **印度**（1）：[拉杰科特](./EVENTS.zh.md#raj-20260926)
-- **意大利**（1）：[帕多瓦](./EVENTS.zh.md#pdv-20260925)
 - **日本**（1）：[札幌](./EVENTS.zh.md#spk-20261002)
 - **吉尔吉斯斯坦**（1）：[比什凯克](./EVENTS.zh.md#fru-20261001)
 - **柬埔寨**（1）：[金边](./EVENTS.zh.md#pnh-20261003)
@@ -195,6 +195,7 @@
 
 ## 教程与上手指南
 
+- [Panda Labs verification loop for Grok Bot teams](https://github.com/PandaHK-Hub/verification-loop) - 公开方法说明：You→CoS→Worker→Auditor 验证环，用于打磨 Grok Bot 团队技能。.
 - [Grok Bot Field Notes (Chinese edition)](https://github.com/siyuanfeng636-cpu/grokbot-field-notes-zh) - unicodef1wn/grokbot-field-notes 的中文精译与重组：72 小时多 Agent 实战笔记、反模式与角色图鉴。.
 - [Grok Bot Galaxy ebook summary (Portuguese)](https://github.com/simiao-cavalcante/grok-bot-galaxy) - 免费 23 页葡语电子书：概括 Grok Bot 是什么，以及三天 Galaxy 搭公司直播的要点。.
 - [Grok Bot Galaxy livestream archive — searchable transcripts](https://github.com/peterdays/grok-bot-galaxy-livestream-archive) - 独立的 Grok Bot Galaxy 约 25 小时直播可检索档案：章节评分、SRT/VTT 字幕与本地跳转。.
@@ -273,6 +274,9 @@
 
 ## 真实使用案例
 
+- [Interactive staff org chart for a Grok Bot board](https://github.com/siriusbontea/grok-bot-task-org) - 面向 Grok Bot 看板的公开交互式组织图站点：角色芯片、故事与生成肖像。.
+- [Director orchestrator logs & templates for Grok Bot](https://github.com/Ansefe/grok-bot-orquestator) - Grok Bot「Director」编排器的评估日志、工作日志与模板（西语），用于协调竞赛编码代理。.
+- [Public agent observatory page for a Grok Bot / OpenClaw host](https://github.com/cuthbertnogood/grok-bot-observatory) - Grok Bot/OpenClaw 主机上的公开代理观测页（index.html + agents.json），非 Control UI。.
 - [ORB//TEARDOWN — Grok Bot orb design study](https://github.com/Pitchfork-and-Torch/grok-bot-exploded) - 独立 WebGL 设计研究：把瓷器质感的 Grok Bot 球体爆炸拆解为近未来内部结构（非官方产品）。.
 - [RLE harness using xAI Grok Build](https://github.com/AppSprout-dev/rle-harness-grok-build) - 把 xai-org/grok-build 接成 RLE harness：编码智能体通过 MCP 管理 RimWorld 殖民地。.
 - [EPOCHBOUND MMO Grok Build handoff](https://github.com/MetaphyKing/epochbound) - 原创双纪元 MMO 语言原型，整理成带 GOAL/HANDOFF/LOCKS 智能体文件的 Grok Build 交接包。.
@@ -448,6 +452,10 @@
 
 ## 技能、插件与 MCP
 
+- [Namecheap domain/DNS plugin for Cursor / Grok Bot marketplace](https://github.com/zohan724/namecheap-cursor-plugin) - Cursor/Grok Bot 市场插件：内置 MCP、规则与技能，用于 Namecheap 域名列表与 DNS host 管理。.
+- [Grok Bot ↔ Feishu/Lark via official lark-mcp + routines](https://github.com/nszhsl/grokbot-larkfeishu) - Grok Bot 技能与飞书分钟级轮询例程：经官方 @larksuiteoapi/lark-mcp 代发/近似入站飞书消息。.
+- [crm2crm .grok-plugin — hosted MCP CRM for Grok Build](https://github.com/chisoftco/crm2crm-grok-plugin) - 仅含清单的 Grok Build 插件（.grok-plugin + .mcp.json），把 Grok 接到 crm2crm 托管 MCP（85 个 CRM 工具）。.
+- [Veilink for Grok Bot — remote MCP marketplace plugin](https://github.com/veilink-ai/veilink-grok-bot) - 面向 Grok Bot 市场的预发布插件：通过 OAuth 接入 Veilink 托管 MCP，让 Bot 管理介绍与联系人分享。.
 - [Grok Custom Skills (89-pack for ~/.grok/skills)](https://github.com/Stijnman/grok-custom-skills) - 精选 89 个安全导向技能包，可安装到 ~/.grok/skills，供 Grok 兼容代理主机使用。.
 - [iHatePosting social publisher for Grok Build](https://github.com/iHatePostingOrg/agent-skill) - 多宿主社交发布技能包：含 mcp.grok.json 与 .grok-plugin，让 Grok Build 经 iHatePosting 起草并发布。.
 - [CLIProxyAPI Provider plugin for Grok Build](https://github.com/islee23520/cliproxy-api-provider) - Grok Build 插件：从 CLIProxyAPI 同步模型到 config.toml，并写入上下文窗口与推理力度策略。.
@@ -1301,6 +1309,7 @@
 
 ## 社区与故障现场
 
+- [Route-through-desktop only reaches public IPs (not private / split-horizon)](https://forum.cursor.com/t/grok-bot-route-traffic-through-this-computer-fails-for-split-horizon-internal-dev-hosts/172715) - 官方（deanrie，2026-09-23）：「经本机上网」目前只转发公网地址——主机名若解析到私网（192.168/10/172.16–31），桌面侧会拒掉 CONNECT；公有云主机仍可用。文档暗示内网可达，与现状不符，已反馈团队（暂无 ETA）。.
 - [Origin CLI on Grok Bot is read-only; merge via UI or your machine](https://forum.cursor.com/t/merging-prs-in-origin-with-grok-bot/172592) - 官方（kevinn）：Grok Bot 上的 Origin CLI 有意只读（查仓库/PR/diff/检查）；暂不能直接取消草稿/合并——可让 cloud agent 开成 ready-for-review，再在 cursor.com/codebase 点合并或本机 `origin pr merge`。.
 - [Fleet cost tip: fresh chat per task + quieter Bot-to-Bot handoffs](https://forum.cursor.com/t/1-500-in-one-week-running-a-grok-bot-fleet-expected-or-a-bug/172705) - 官方（kevinn）：每轮都会重读该 Bot 整段对话——周长会话一步可烧 8–9 万 token；请用侧边 + 按任务新开对话、说明留在 Profile/Notion、禁 Bot 间致谢/进度打扰，并把 Routines 拉疏（至少按小时）以控车队成本。.
 - [Grok Bot harness efficiency: ~10–35% more effective usage](https://forum.cursor.com/t/grok-bot-got-a-lot-faster/172445) - 官方：harness 路由/缓存/上下文优化约带来平均 10%（最高约 35%）更有效用量；少用嘈杂群聊和过度子 agent，以免额度浪费。.
@@ -1495,6 +1504,8 @@
 
 ## 相关列表
 
+- [grokbotpatcher — per-Bot alternate-model routing (planning)](https://github.com/dndungu/grokbotpatcher) - 规划文档与 ADR：在设备上运行、按 Bot 隔离的补丁代理，让 Grok Bot 把推理路由到备用模型提供方。.
+- [Grok×Jev efficiency gates package for Grok Bot](https://github.com/Sentry01/grokbot-improver) - 面向 Grok Bot 的 Grok×Jev 效率门控贡献包：15 个可运行 gate、CI 循环文档与实况回合演示。.
 - [Homebrew tap for privacy-hardened grok-build](https://github.com/carmilea/homebrew-grok) - Homebrew tap：安装 carmilea 隐私加固版 grok-build 分支（关闭遥测回拨）。.
 - [pi-grok-cli — SuperGrok OAuth inside Pi](https://github.com/kenryu42/pi-grok-cli) - Pi 编程代理扩展：用 X Premium / SuperGrok OAuth 登录，并在 pi 内使用 Grok Build 级模型。.
 - [GrokHub — native Rust cabin for Grok Build](https://github.com/blackviperxiii-ui/GrokHub) - 原生 Rust 桌面舱（无 Electron/Tauri）：自动安装并驱动 Grok Build CLI alpha，覆盖 Arch/CachyOS 与 Windows。.
@@ -1744,7 +1755,7 @@
 
 ## 贡献
 
-目前 8 个分类、1629 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1640 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
