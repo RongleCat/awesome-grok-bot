@@ -1806,6 +1806,16 @@
       },
       "items": [
         {
+          "title": "KR ETF Lab — Grok Bot handoff backtest app",
+          "url": "https://github.com/aepiros33/kr-etf-lab",
+          "source": "GB-1669",
+          "blurb": {
+            "en": "KRX ETF portfolio backtest web app with AGENTS.md and GROK_BOT_PROMPT.md handoff notes for continuing work on a Grok Bot computer.",
+            "zh": "KRX ETF 组合回测网页应用，附 AGENTS.md 与 GROK_BOT_PROMPT.md，便于在 Grok Bot 电脑上接力开发。",
+            "ja": "KRX ETF ポートフォリオのバックテスト Web アプリ。AGENTS.md と GROK_BOT_PROMPT.md で Grok Bot へ引き継ぎ可能。"
+          }
+        },
+        {
           "title": "Interactive staff org chart for a Grok Bot board",
           "url": "https://github.com/siriusbontea/grok-bot-task-org",
           "source": "GB-1663",
@@ -3565,6 +3575,46 @@
         "ja": "スキル、プラグインと MCP"
       },
       "items": [
+        {
+          "title": "Brooks Surgical Team skills plugin (incl. Grok Build)",
+          "url": "https://github.com/zakame/brooks-agent-team",
+          "source": "GB-1668",
+          "blurb": {
+            "en": "Fred Brooks Surgical Team skills plugin for multi-agent coding, with install paths for Grok Build alongside Claude/Codex/OpenCode.",
+            "zh": "Fred Brooks「外科手术团队」多智能体编程技能插件，安装路径覆盖 Grok Build 以及 Claude/Codex/OpenCode。",
+            "ja": "Fred Brooks の Surgical Team モデルに基づくマルチエージェント開発スキル。Grok Build ほか Claude/Codex/OpenCode に対応。"
+          }
+        },
+        {
+          "title": "Octen official plugin for Grok Build (web search MCP)",
+          "url": "https://github.com/Octen-Team/octen-grok-plugin",
+          "source": "GB-1667",
+          "blurb": {
+            "en": "Official Octen .grok-plugin for Grok Build: hosted MCP search/news/extract with `grok plugin install octen --trust`.",
+            "zh": "Octen 官方 Grok Build 插件（.grok-plugin）：托管 MCP 提供 search/news/extract，安装：`grok plugin install octen --trust`。",
+            "ja": "Grok Build 向け公式 Octen .grok-plugin。ホスト型 MCP の search/news/extract。`grok plugin install octen --trust`。"
+          }
+        },
+        {
+          "title": "Scrubbed JSON recipes for Grok Bot assistants",
+          "url": "https://github.com/Ashwin-Selvaraj/grok-bots",
+          "source": "GB-1666",
+          "blurb": {
+            "en": "Portable scrubbed JSON recipes (standup brief, schema) for rebuilding Grok Bot assistants without secrets.",
+            "zh": "脱敏后的可移植 JSON 配方（站会简报等）与 schema，便于重建 Grok Bot 助理且不含密钥。",
+            "ja": "秘密情報を除いた移植可能な JSON レシピ（スタンドアップ要約など）と schema。Grok Bot アシスタント再構築用。"
+          }
+        },
+        {
+          "title": "BibleMate native skills for Grok Bot (verse/devotion/sermon)",
+          "url": "https://github.com/eliranwong/grok-bot-biblemate",
+          "source": "GB-1665",
+          "blurb": {
+            "en": "Native BibleMate skills and slash workflows for Grok Bot computers—verse retrieval, devotionals, sermons, and study playbooks via WebSearch/Read/Shell.",
+            "zh": "面向 Grok Bot 电脑的 BibleMate 原生技能与斜杠工作流：经文检索、灵修、讲道与研经 playbook（WebSearch/Read/Shell）。",
+            "ja": "Grok Bot 向け BibleMate ネイティブスキルとスラッシュワークフロー。聖句検索・黙想・説教・学び用プレイブックを WebSearch/Read/Shell で実行。"
+          }
+        },
         {
           "title": "Namecheap domain/DNS plugin for Cursor / Grok Bot marketplace",
           "url": "https://github.com/zohan724/namecheap-cursor-plugin",
@@ -14006,6 +14056,26 @@
       },
       "items": [
         {
+          "title": "Grokbot Icon Studio (Simplified Chinese)",
+          "url": "https://github.com/BosenY/grokbot-icon-studio-zh",
+          "source": "GB-1671",
+          "blurb": {
+            "en": "Simplified-Chinese static Grokbot Icon Studio: browse sample icons and copy short/full prompts for bot-style avatar generation.",
+            "zh": "简体中文版 Grokbot Icon Studio 静态站：浏览示例图标并一键复制简版/完整提示词，生成机器人风格头像。",
+            "ja": "簡体字中国語版 Grokbot Icon Studio。サンプルアイコンを見て短文/全文プロンプトをコピーし、ボット風アバターを生成。"
+          }
+        },
+        {
+          "title": "Non-stock Grok Bot box filesystem dump (sanitized)",
+          "url": "https://github.com/danielfebrero/Grok-Bot-app",
+          "source": "GB-1670",
+          "blurb": {
+            "en": "Sanitized dump of a non-stock Grok Bot box tree (exec-daemon/home/usr/workspace layout) for studying agent-computer filesystem layout.",
+            "zh": "脱敏的非原厂 Grok Bot box 目录树快照（exec-daemon/home/usr/workspace），便于研究 Agent Computer 文件系统布局。",
+            "ja": "非標準の Grok Bot ボックスツリー（exec-daemon/home/usr/workspace）のサニタイズ済みダンプ。Agent Computer の構成把握用。"
+          }
+        },
+        {
           "title": "grokbotpatcher — per-Bot alternate-model routing (planning)",
           "url": "https://github.com/dndungu/grokbotpatcher",
           "source": "GB-1659",
@@ -22620,6 +22690,68 @@
         "en": "SpaceXAI for Rome meetup at Urbe Hub: build and share with Grok Bot. Hosted with Urbe Hub. Register on Luma.",
         "zh": "SpaceXAI 罗马站（Urbe Hub）：一起用 Grok Bot 构建与分享。与 Urbe Hub 合办。Luma 报名。",
         "ja": "SpaceXAI ローマ（Urbe Hub）のミートアップ。Grok Bot で作り共有。Urbe Hub 共催。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "bil-20261019",
+      "url": "https://luma.com/spacexai-euskadi",
+      "image": "./assets/events/bil-20261019-cover.png",
+      "expires": "2026-10-19T21:30:00+02:00",
+      "title": {
+        "en": "Grok Bot Bilbao meetup",
+        "zh": "Grok Bot Meetup 毕尔巴鄂",
+        "ja": "Grok Bot Meetup ビルバオ"
+      },
+      "when": {
+        "en": "Mon 19 Oct 2026, 18:00–21:30 (Europe/Madrid)",
+        "zh": "2026-10-19 周一 18:00–21:30（Europe/Madrid）",
+        "ja": "2026-10-19（月）18:00–21:30（Europe/Madrid）"
+      },
+      "where": {
+        "en": "Bilbao, Spain · La Perrera Espazioa (Sabino Arana Etorbidea, 50) — offline",
+        "zh": "西班牙毕尔巴鄂 · La Perrera Espazioa（Sabino Arana Etorbidea, 50）— 线下",
+        "ja": "スペイン・ビルバオ · La Perrera Espazioa（Sabino Arana Etorbidea, 50）— オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI for Bilbao meetup at La Perrera Espazioa: meet builders and share with Grok Bot. Free registration on Luma.",
+        "zh": "SpaceXAI 毕尔巴鄂站（La Perrera Espazioa）：见面交流并用 Grok Bot 构建分享。Luma 免费报名。",
+        "ja": "SpaceXAI ビルバオ（La Perrera Espazioa）のミートアップ。Grok Bot で作り共有。Luma で無料登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "tyo-20261011",
+      "url": "https://luma.com/grokbot-hackathon-tokyo",
+      "image": "./assets/events/tyo-20261011-cover.png",
+      "expires": "2026-10-11T18:00:00+09:00",
+      "title": {
+        "en": "Grok Bot Tokyo Hackathon",
+        "zh": "Grok Bot 东京黑客松",
+        "ja": "Grok Bot 東京ハッカソン"
+      },
+      "when": {
+        "en": "Sat 11 Oct 2026, 10:00–18:00 (Asia/Tokyo)",
+        "zh": "2026-10-11 周六 10:00–18:00（Asia/Tokyo）",
+        "ja": "2026-10-11（土）10:00–18:00（Asia/Tokyo）"
+      },
+      "where": {
+        "en": "Tokyo, Japan · Ochanomizu Sola City (4-chōme-6 Kanda Surugadai, Chiyoda) — offline",
+        "zh": "日本东京 · 御茶ノ水ソラシティ（千代田区神田骏河台4-6）— 线下",
+        "ja": "日本・東京 · 御茶ノ水ソラシティ（千代田区神田駿河台４丁目６）— オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI Tokyo hackathon at Ochanomizu Sola City: build with Grok Bot in a full-day offline session. Register on Luma.",
+        "zh": "SpaceXAI 东京黑客松（御茶ノ水ソラシティ）：全日线下用 Grok Bot 构建。Luma 报名。",
+        "ja": "SpaceXAI 東京ハッカソン（御茶ノ水ソラシティ）。終日オフラインで Grok Bot を使って制作。Luma で登録。"
       },
       "cta": {
         "en": "Register on Luma",

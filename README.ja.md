@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1640-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1647-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -40,14 +40,15 @@
 - **中国**（2）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017)
 - **アメリカ**（14）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [マイアミ](./EVENTS.ja.md#mia-20260923) · [アトランタ](./EVENTS.ja.md#atl-20260924) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [シアトル](./EVENTS.ja.md#sea-20260924) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [オースティン](./EVENTS.ja.md#aus-20261004) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114)
 - **ブラジル**（5）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [フロリアノポリス](./EVENTS.ja.md#fln-20260926) · [クリチバ](./EVENTS.ja.md#cwb-20260929) · [サルバドール](./EVENTS.ja.md#ssa-20261008)
+- **スペイン**（5）：[バルセロナ](./EVENTS.ja.md#bcn-20260929) · [マドリード](./EVENTS.ja.md#mad-20260929) · [バレンシア](./EVENTS.ja.md#vlc-20260925) · [アリカンテ](./EVENTS.ja.md#alc-20261107) · [ビルバオ](./EVENTS.ja.md#bil-20261019)
 - **カナダ**（4）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [モントリオール](./EVENTS.ja.md#yul-20260926) · [トロント](./EVENTS.ja.md#yyz-20261026) · [オタワ](./EVENTS.ja.md#yow-20261010)
-- **スペイン**（4）：[バルセロナ](./EVENTS.ja.md#bcn-20260929) · [マドリード](./EVENTS.ja.md#mad-20260929) · [バレンシア](./EVENTS.ja.md#vlc-20260925) · [アリカンテ](./EVENTS.ja.md#alc-20261107)
 - **インドネシア**（4）：[ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [ジャカルタ](./EVENTS.ja.md#jkt-20261003) · [ジャカルタ](./EVENTS.ja.md#jkt-20261107) · [チャングー / バリ](./EVENTS.ja.md#bli-20261025)
 - **メキシコ**（4）：[プエブラ](./EVENTS.ja.md#pue-20260924) · [チワワ](./EVENTS.ja.md#cuu-20260924) · [メキシコシティ](./EVENTS.ja.md#cdmx-20260926) · [モンテレイ](./EVENTS.ja.md#mty-20261003)
 - **ドイツ**（2）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015)
 - **エクアドル**（2）：[キト](./EVENTS.ja.md#uio-20260924) · [クンバヤ](./EVENTS.ja.md#cumb-20261003)
 - **グアテマラ**（2）：[グアテマラシティ](./EVENTS.ja.md#gua-20261003) · [グアテマラ](./EVENTS.ja.md#gua-20261205)
 - **イタリア**（2）：[パドヴァ](./EVENTS.ja.md#pdv-20260925) · [ローマ](./EVENTS.ja.md#rom-20261023)
+- **日本**（2）：[札幌](./EVENTS.ja.md#spk-20261002) · [東京](./EVENTS.ja.md#tyo-20261011)
 - **カザフスタン**（2）：[アスタナ](./EVENTS.ja.md#nqz-20261002) · [アルマトイ](./EVENTS.ja.md#ala-20261004)
 - **ベトナム**（2）：[ダナン](./EVENTS.ja.md#dad-20261003) · [ホーチミン](./EVENTS.ja.md#sgn-20260926)
 - **アルゼンチン**（1）：[メンドサ](./EVENTS.ja.md#mdz-20261003)
@@ -62,7 +63,6 @@
 - **ギリシャ**（1）：[アテネ](./EVENTS.ja.md#ath-20261001)
 - **アイルランド**（1）：[ダブリン](./EVENTS.ja.md#dub-20261004)
 - **インド**（1）：[ラージコート](./EVENTS.ja.md#raj-20260926)
-- **日本**（1）：[札幌](./EVENTS.ja.md#spk-20261002)
 - **キルギス**（1）：[ビシュケク](./EVENTS.ja.md#fru-20261001)
 - **カンボジア**（1）：[プノンペン](./EVENTS.ja.md#pnh-20261003)
 - **ミャンマー**（1）：[ヤンゴン](./EVENTS.ja.md#ygn-20260926)
@@ -274,6 +274,7 @@
 
 ## 実地事例
 
+- [KR ETF Lab — Grok Bot handoff backtest app](https://github.com/aepiros33/kr-etf-lab) - KRX ETF ポートフォリオのバックテスト Web アプリ。AGENTS.md と GROK_BOT_PROMPT.md で Grok Bot へ引き継ぎ可能。
 - [Interactive staff org chart for a Grok Bot board](https://github.com/siriusbontea/grok-bot-task-org) - Grok Bot ボード向けの公開インタラクティブ組織図。ロールチップ・ストーリー・生成ポートレート付き。
 - [Director orchestrator logs & templates for Grok Bot](https://github.com/Ansefe/grok-bot-orquestator) - Grok Bot「Director」オーケストレータ向けの評価ログ・日誌・テンプレート（スペイン語）。
 - [Public agent observatory page for a Grok Bot / OpenClaw host](https://github.com/cuthbertnogood/grok-bot-observatory) - Grok Bot/OpenClaw ホスト上のエージェント公開ショーケース（index.html + agents.json）。Control UI ではない。
@@ -452,6 +453,10 @@
 
 ## スキル、プラグインと MCP
 
+- [Brooks Surgical Team skills plugin (incl. Grok Build)](https://github.com/zakame/brooks-agent-team) - Fred Brooks の Surgical Team モデルに基づくマルチエージェント開発スキル。Grok Build ほか Claude/Codex/OpenCode に対応。
+- [Octen official plugin for Grok Build (web search MCP)](https://github.com/Octen-Team/octen-grok-plugin) - Grok Build 向け公式 Octen .grok-plugin。ホスト型 MCP の search/news/extract。`grok plugin install octen --trust`。
+- [Scrubbed JSON recipes for Grok Bot assistants](https://github.com/Ashwin-Selvaraj/grok-bots) - 秘密情報を除いた移植可能な JSON レシピ（スタンドアップ要約など）と schema。Grok Bot アシスタント再構築用。
+- [BibleMate native skills for Grok Bot (verse/devotion/sermon)](https://github.com/eliranwong/grok-bot-biblemate) - Grok Bot 向け BibleMate ネイティブスキルとスラッシュワークフロー。聖句検索・黙想・説教・学び用プレイブックを WebSearch/Read/Shell で実行。
 - [Namecheap domain/DNS plugin for Cursor / Grok Bot marketplace](https://github.com/zohan724/namecheap-cursor-plugin) - Cursor/Grok Bot マーケット向けプラグイン。同梱 MCP・ルール・スキルで Namecheap のドメイン一覧と DNS 管理が可能。
 - [Grok Bot ↔ Feishu/Lark via official lark-mcp + routines](https://github.com/nszhsl/grokbot-larkfeishu) - Grok Bot 向けスキルと分単位の Feishu ポーリング Routine。公式 @larksuiteoapi/lark-mcp で送受信します。
 - [crm2crm .grok-plugin — hosted MCP CRM for Grok Build](https://github.com/chisoftco/crm2crm-grok-plugin) - マニフェストのみの Grok Build プラグイン（.grok-plugin + .mcp.json）。crm2crm のホスト型 MCP（CRM ツール 85）へ接続。
@@ -1504,6 +1509,8 @@
 
 ## 関連リスト
 
+- [Grokbot Icon Studio (Simplified Chinese)](https://github.com/BosenY/grokbot-icon-studio-zh) - 簡体字中国語版 Grokbot Icon Studio。サンプルアイコンを見て短文/全文プロンプトをコピーし、ボット風アバターを生成。
+- [Non-stock Grok Bot box filesystem dump (sanitized)](https://github.com/danielfebrero/Grok-Bot-app) - 非標準の Grok Bot ボックスツリー（exec-daemon/home/usr/workspace）のサニタイズ済みダンプ。Agent Computer の構成把握用。
 - [grokbotpatcher — per-Bot alternate-model routing (planning)](https://github.com/dndungu/grokbotpatcher) - 計画ドキュメントと ADR。各 Grok Bot が代替プロバイダへ推論をルーティングする端末上エージェント向け。
 - [Grok×Jev efficiency gates package for Grok Bot](https://github.com/Sentry01/grokbot-improver) - Grok Bot 向け Grok×Jev 効率ゲート貢献パック。実行可能な gate 15・CI ループ文書・実況デモを収録。
 - [Homebrew tap for privacy-hardened grok-build](https://github.com/carmilea/homebrew-grok) - carmilea のプライバシー強化 grok-build フォーク用 Homebrew tap（テレメトリ無効）。
@@ -1755,7 +1762,7 @@
 
 ## 貢献
 
-8 セクションに 1640 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1647 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

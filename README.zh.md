@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1640-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1647-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -40,14 +40,15 @@
 - **中国**（2）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017)
 - **美国**（14）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [迈阿密](./EVENTS.zh.md#mia-20260923) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114)
 - **巴西**（5）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20260926) · [库里蒂巴](./EVENTS.zh.md#cwb-20260929) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008)
+- **西班牙**（5）：[巴塞罗那](./EVENTS.zh.md#bcn-20260929) · [马德里](./EVENTS.zh.md#mad-20260929) · [瓦伦西亚](./EVENTS.zh.md#vlc-20260925) · [阿利坎特](./EVENTS.zh.md#alc-20261107) · [毕尔巴鄂](./EVENTS.zh.md#bil-20261019)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
-- **西班牙**（4）：[巴塞罗那](./EVENTS.zh.md#bcn-20260929) · [马德里](./EVENTS.zh.md#mad-20260929) · [瓦伦西亚](./EVENTS.zh.md#vlc-20260925) · [阿利坎特](./EVENTS.zh.md#alc-20261107)
 - **印度尼西亚**（4）：[巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [雅加达](./EVENTS.zh.md#jkt-20261003) · [雅加达](./EVENTS.zh.md#jkt-20261107) · [巴厘岛Canggu](./EVENTS.zh.md#bli-20261025)
 - **墨西哥**（4）：[普埃布拉](./EVENTS.zh.md#pue-20260924) · [奇瓦瓦](./EVENTS.zh.md#cuu-20260924) · [墨西哥城](./EVENTS.zh.md#cdmx-20260926) · [蒙特雷](./EVENTS.zh.md#mty-20261003)
 - **德国**（2）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015)
 - **厄瓜多尔**（2）：[基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
 - **危地马拉**（2）：[危地马拉城](./EVENTS.zh.md#gua-20261003) · [危地马拉](./EVENTS.zh.md#gua-20261205)
 - **意大利**（2）：[帕多瓦](./EVENTS.zh.md#pdv-20260925) · [罗马](./EVENTS.zh.md#rom-20261023)
+- **日本**（2）：[札幌](./EVENTS.zh.md#spk-20261002) · [东京](./EVENTS.zh.md#tyo-20261011)
 - **哈萨克斯坦**（2）：[阿斯塔纳](./EVENTS.zh.md#nqz-20261002) · [阿拉木图](./EVENTS.zh.md#ala-20261004)
 - **越南**（2）：[岘港](./EVENTS.zh.md#dad-20261003) · [胡志明市](./EVENTS.zh.md#sgn-20260926)
 - **阿根廷**（1）：[门多萨](./EVENTS.zh.md#mdz-20261003)
@@ -62,7 +63,6 @@
 - **希腊**（1）：[雅典](./EVENTS.zh.md#ath-20261001)
 - **爱尔兰**（1）：[都柏林](./EVENTS.zh.md#dub-20261004)
 - **印度**（1）：[拉杰科特](./EVENTS.zh.md#raj-20260926)
-- **日本**（1）：[札幌](./EVENTS.zh.md#spk-20261002)
 - **吉尔吉斯斯坦**（1）：[比什凯克](./EVENTS.zh.md#fru-20261001)
 - **柬埔寨**（1）：[金边](./EVENTS.zh.md#pnh-20261003)
 - **缅甸**（1）：[仰光](./EVENTS.zh.md#ygn-20260926)
@@ -274,6 +274,7 @@
 
 ## 真实使用案例
 
+- [KR ETF Lab — Grok Bot handoff backtest app](https://github.com/aepiros33/kr-etf-lab) - KRX ETF 组合回测网页应用，附 AGENTS.md 与 GROK_BOT_PROMPT.md，便于在 Grok Bot 电脑上接力开发。.
 - [Interactive staff org chart for a Grok Bot board](https://github.com/siriusbontea/grok-bot-task-org) - 面向 Grok Bot 看板的公开交互式组织图站点：角色芯片、故事与生成肖像。.
 - [Director orchestrator logs & templates for Grok Bot](https://github.com/Ansefe/grok-bot-orquestator) - Grok Bot「Director」编排器的评估日志、工作日志与模板（西语），用于协调竞赛编码代理。.
 - [Public agent observatory page for a Grok Bot / OpenClaw host](https://github.com/cuthbertnogood/grok-bot-observatory) - Grok Bot/OpenClaw 主机上的公开代理观测页（index.html + agents.json），非 Control UI。.
@@ -452,6 +453,10 @@
 
 ## 技能、插件与 MCP
 
+- [Brooks Surgical Team skills plugin (incl. Grok Build)](https://github.com/zakame/brooks-agent-team) - Fred Brooks「外科手术团队」多智能体编程技能插件，安装路径覆盖 Grok Build 以及 Claude/Codex/OpenCode。.
+- [Octen official plugin for Grok Build (web search MCP)](https://github.com/Octen-Team/octen-grok-plugin) - Octen 官方 Grok Build 插件（.grok-plugin）：托管 MCP 提供 search/news/extract，安装：`grok plugin install octen --trust`。.
+- [Scrubbed JSON recipes for Grok Bot assistants](https://github.com/Ashwin-Selvaraj/grok-bots) - 脱敏后的可移植 JSON 配方（站会简报等）与 schema，便于重建 Grok Bot 助理且不含密钥。.
+- [BibleMate native skills for Grok Bot (verse/devotion/sermon)](https://github.com/eliranwong/grok-bot-biblemate) - 面向 Grok Bot 电脑的 BibleMate 原生技能与斜杠工作流：经文检索、灵修、讲道与研经 playbook（WebSearch/Read/Shell）。.
 - [Namecheap domain/DNS plugin for Cursor / Grok Bot marketplace](https://github.com/zohan724/namecheap-cursor-plugin) - Cursor/Grok Bot 市场插件：内置 MCP、规则与技能，用于 Namecheap 域名列表与 DNS host 管理。.
 - [Grok Bot ↔ Feishu/Lark via official lark-mcp + routines](https://github.com/nszhsl/grokbot-larkfeishu) - Grok Bot 技能与飞书分钟级轮询例程：经官方 @larksuiteoapi/lark-mcp 代发/近似入站飞书消息。.
 - [crm2crm .grok-plugin — hosted MCP CRM for Grok Build](https://github.com/chisoftco/crm2crm-grok-plugin) - 仅含清单的 Grok Build 插件（.grok-plugin + .mcp.json），把 Grok 接到 crm2crm 托管 MCP（85 个 CRM 工具）。.
@@ -1504,6 +1509,8 @@
 
 ## 相关列表
 
+- [Grokbot Icon Studio (Simplified Chinese)](https://github.com/BosenY/grokbot-icon-studio-zh) - 简体中文版 Grokbot Icon Studio 静态站：浏览示例图标并一键复制简版/完整提示词，生成机器人风格头像。.
+- [Non-stock Grok Bot box filesystem dump (sanitized)](https://github.com/danielfebrero/Grok-Bot-app) - 脱敏的非原厂 Grok Bot box 目录树快照（exec-daemon/home/usr/workspace），便于研究 Agent Computer 文件系统布局。.
 - [grokbotpatcher — per-Bot alternate-model routing (planning)](https://github.com/dndungu/grokbotpatcher) - 规划文档与 ADR：在设备上运行、按 Bot 隔离的补丁代理，让 Grok Bot 把推理路由到备用模型提供方。.
 - [Grok×Jev efficiency gates package for Grok Bot](https://github.com/Sentry01/grokbot-improver) - 面向 Grok Bot 的 Grok×Jev 效率门控贡献包：15 个可运行 gate、CI 循环文档与实况回合演示。.
 - [Homebrew tap for privacy-hardened grok-build](https://github.com/carmilea/homebrew-grok) - Homebrew tap：安装 carmilea 隐私加固版 grok-build 分支（关闭遥测回拨）。.
@@ -1755,7 +1762,7 @@
 
 ## 贡献
 
-目前 8 个分类、1640 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1647 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
