@@ -1816,6 +1816,36 @@
       },
       "items": [
         {
+          "title": "Woodeex matériel for Grok Build (2026-09-24)",
+          "url": "https://github.com/CodeNoLimits/woodeex-grok-build-2026-09-24",
+          "source": "GB-1706",
+          "blurb": {
+            "en": "French Woodeex delivery pack for Grok Build (pilots, 30s cuts, QC notes) published 2026-09-24 for temporary public Build access.",
+            "zh": "Woodeex 给 Grok Build 的法语交付包（2026-09-24）：重建片头、30 秒剪辑与 QC 说明，临时公开。",
+            "ja": "Grok Build 向け Woodeex 仏語納品パック（2026-09-24）。パイロット再構築・30秒カット・QC メモを一時公開。"
+          }
+        },
+        {
+          "title": "SEAMBOUND — Grok Build slot design pack",
+          "url": "https://github.com/12553240Kj/seambound-grok-build-pack",
+          "source": "GB-1705",
+          "blurb": {
+            "en": "Original slot-design pack dated 2026-09-24 for Grok Build, with a master spec zip ready to attach to a Build session.",
+            "zh": "面向 Grok Build 的 SEAMBOUND 原创老虎机设计包（2026-09-24）：含主规格 zip，可直接挂到 Build。",
+            "ja": "Grok Build 向け SEAMBOUND スロットデザインパック（2026-09-24）。マスター仕様 ZIP を Build に添付可能。"
+          }
+        },
+        {
+          "title": "grok-canvas — mobile scene canvas for Grok Bot",
+          "url": "https://github.com/JorgeDeArmas/grok-canvas",
+          "source": "GB-1704",
+          "blurb": {
+            "en": "Mobile web canvas for Grok Bot: one link updates as scenes change, with HTML scenes and media for shareable bot-driven visuals.",
+            "zh": "给 Grok Bot 用的移动端画布：同一链接随场景更新，含 HTML 场景与媒体，方便分享 Bot 驱动画面。",
+            "ja": "Grok Bot 向けモバイル Canvas。同一リンクがシーン更新に追従し、HTML シーンとメディアで共有可能。"
+          }
+        },
+        {
           "title": "AIResearch — GrokBot-maintained AI knowledge base",
           "url": "https://github.com/ProphetEngine/AIResearch",
           "source": "GB-1686",
@@ -3605,6 +3635,46 @@
         "ja": "スキル、プラグインと MCP"
       },
       "items": [
+        {
+          "title": "Trillet voice calling plugin for Grok Bot",
+          "url": "https://github.com/TrilletAI/Trillet-grok",
+          "source": "GB-1703",
+          "blurb": {
+            "en": "Trillet connector plugin for Grok Bot and Cursor: claim a number, place outbound voice calls from chat, and get transcripts back.",
+            "zh": "Trillet 的 Grok Bot / Cursor 插件：对话里领号、外呼语音电话，并拿回通话转写。",
+            "ja": "Trillet の Grok Bot / Cursor プラグイン。番号取得・外線発信と通話文字起こしをチャットから。"
+          }
+        },
+        {
+          "title": "WebsitePublisher for Grok Bot",
+          "url": "https://github.com/megberts/websitepublisher-grok",
+          "source": "GB-1702",
+          "blurb": {
+            "en": "Grok Bot .grok-plugin that connects WebsitePublisher MCP tools to create, patch, and publish live website pages from chat.",
+            "zh": "Grok Bot 的 WebsitePublisher 插件（.grok-plugin）：用 MCP 在对话里创建、修补并发布网站页面。",
+            "ja": "Grok Bot 向け WebsitePublisher の .grok-plugin。MCP でページ作成・パッチ・公開までチャットから。"
+          }
+        },
+        {
+          "title": "Zell — sales coaching plugin for Grok Bot",
+          "url": "https://github.com/GetZell/zell",
+          "source": "GB-1701",
+          "blurb": {
+            "en": "Official Zell agent plugin for Grok Bot and Cursor: OAuth MCP connector plus skills for sales coaching from real calls.",
+            "zh": "Zell 官方 Grok Bot / Cursor 插件：OAuth MCP 连接器与销售辅导 skill，基于真实通话。",
+            "ja": "Zell 公式の Grok Bot / Cursor プラグイン。OAuth MCP と実通話ベースのセールスコーチングスキル。"
+          }
+        },
+        {
+          "title": "CashFlow Engine plugin for Grok Bot",
+          "url": "https://github.com/CashflowEngine/cashflow-engine-plugin",
+          "source": "GB-1700",
+          "blurb": {
+            "en": "Grok Bot / Cursor agent plugin with a hosted CashFlow Engine MCP server and skill for portfolio analytics (analysis only, cannot trade).",
+            "zh": "面向 Grok Bot / Cursor 的 CashFlow Engine 插件：托管 MCP + skill，做组合分析（只分析、不下单）。",
+            "ja": "Grok Bot / Cursor 向け CashFlow Engine プラグイン。ホスト MCP とスキルでポートフォリオ分析（取引は不可）。"
+          }
+        },
         {
           "title": "观潮 Guanchao — Grok Bot research workbench template",
           "url": "https://github.com/junit/guanchao-research-workbench",
@@ -12276,6 +12346,36 @@
       },
       "items": [
         {
+          "title": "Staff: Voice channel lag is playback, tasks already finished",
+          "url": "https://forum.cursor.com/t/grok-bot-voice-channel-latency-silent-hang-after-tools-complete/172844",
+          "source": "GB-1710",
+          "blurb": {
+            "en": "Staff notes Voice tools often finish server-side in seconds; perceived hangs are mostly spoken-result playback, worse with the app backgrounded.",
+            "zh": "员工说明：Voice 侧工具多在服务端秒级完成；体感卡顿多是语音回放，应用在后台时更明显。",
+            "ja": "スタッフ注記：Voice のツールは数秒で完了しがち。体感の無音は再生遅延で、アプリがバックグラウンドだと悪化。"
+          }
+        },
+        {
+          "title": "Request: official avatar extension API for 3D avatars",
+          "url": "https://forum.cursor.com/t/grok-bot-official-avatar-extension-api-for-third-party-animated-3d-avatars/172882",
+          "source": "GB-1709",
+          "blurb": {
+            "en": "Forum feature request (staff-engaged) for an official Grok Bot avatar extension API so third-party animated or 3D avatars can plug in safely.",
+            "zh": "论坛功能建议（员工已跟帖）：希望官方提供 Grok Bot 头像扩展 API，方便第三方动画/3D 形象安全接入。",
+            "ja": "フォーラム要望（スタッフ関与）：第三者のアニメ/3D アバターを安全に繋ぐ公式アバター拡張 API。"
+          }
+        },
+        {
+          "title": "Staff: reattach after sign-out — do not Reset (Delilah case)",
+          "url": "https://forum.cursor.com/t/grok-bot-delilah-still-exists-bot-id-641a7c54-but-chat-will-not-send-and-both-windows-and-iphone-lost-her-after-sign-out-reattach-to-the-existing-computer-do-not-reset/172862",
+          "source": "GB-1708",
+          "blurb": {
+            "en": "Staff confirms bot data stays server-side after sign-out; reattach to the existing computer and avoid Reset when chat send fails across devices.",
+            "zh": "员工说明：退出登录后 Bot 数据仍在服务端；发不出消息时应重绑原电脑，切勿 Reset。",
+            "ja": "スタッフ回答：サインアウト後も Bot データはサーバ側。送信不可時は既存コンピュータへ再接続し Reset しない。"
+          }
+        },
+        {
           "title": "Grok Bot 0.58.0: screen view moved under Bot name (staff)",
           "url": "https://forum.cursor.com/t/grok-bot-windows-collapsing-chat-computer-divider-hides-right-pane-with-no-monitor-icon-to-reopen/172842",
           "source": "GB-1699",
@@ -14245,6 +14345,16 @@
         "ja": "関連リスト"
       },
       "items": [
+        {
+          "title": "WowGrok — Grok Build from inside World of Warcraft",
+          "url": "https://github.com/hydrolive/wow-grok",
+          "source": "GB-1707",
+          "blurb": {
+            "en": "WoW addon plus local bridge so you can chat with Grok Build sessions in-game (/grok) without alt-tabbing, including item tooltip context.",
+            "zh": "魔兽世界插件 + 本地桥：游戏内 /grok 对话连到本机 Grok Build，可带物品提示，无需切窗。",
+            "ja": "WoW アドオン＋ローカル橋。ゲーム内 /grok で Grok Build と会話し、アイテムツールチップも渡せる。"
+          }
+        },
         {
           "title": "GrokMax — deterministic-first routing to cut Grok Bot usage",
           "url": "https://github.com/M4G3LL4N0/grokmax",
@@ -23125,6 +23235,192 @@
         "en": "SpaceXAI for Abidjan meetup at Alto café: drop-in day to build and share with Grok Bot (follow-up to Café Cursor Abidjan). Free coffee vibe; ~11 guests. Register on Luma.",
         "zh": "SpaceXAI 阿比让站（Alto café）：全天随到随建、用 Grok Bot 交流（Café Cursor Abidjan 续场）。轻松咖啡氛围；目前约 11 人。Luma 报名。",
         "ja": "SpaceXAI アビジャン（Alto café）。Grok Bot で作り共有するドロップイン（Café Cursor Abidjan の続編）。コーヒーあり。現時点で約11名。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "cmb-20261017",
+      "url": "https://luma.com/grokbot-cmb",
+      "image": "./assets/events/cmb-20261017-cover.png",
+      "expires": "2026-10-17T17:00:00+05:30",
+      "title": {
+        "en": "Grok Bot Meetup Colombo",
+        "zh": "Grok Bot Meetup 科伦坡",
+        "ja": "Grok Bot Meetup コロンボ"
+      },
+      "when": {
+        "en": "Sat 17 Oct 2026, 09:30–17:00 (Asia/Colombo, UTC+5:30)",
+        "zh": "2026-10-17 周六 09:30–17:00（Asia/Colombo，UTC+5:30）",
+        "ja": "2026-10-17（土）09:30–17:00（Asia/Colombo、UTC+5:30）"
+      },
+      "where": {
+        "en": "Colombo, Sri Lanka · DHPL Auditorium (42 Nawam Mawatha, Colombo 2) — offline",
+        "zh": "斯里兰卡科伦坡 · DHPL Auditorium（42 Nawam Mawatha, Colombo 2）— 线下",
+        "ja": "スリランカ・コロンボ · DHPL Auditorium（42 Nawam Mawatha, Colombo 2）— オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI for Colombo meetup: friendly intro with slides, live Grok Bot demo, Q&A, and networking at DHPL Auditorium. Register on Luma.",
+        "zh": "SpaceXAI 科伦坡站：幻灯片介绍、Grok Bot 现场演示、问答与社交（DHPL Auditorium）。Luma 报名。",
+        "ja": "SpaceXAI コロンボ。スライド紹介・Grok Bot ライブデモ・Q&A・交流（DHPL Auditorium）。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "fra-20260926",
+      "url": "https://luma.com/qfru9327",
+      "image": "./assets/events/fra-20260926-cover.png",
+      "expires": "2026-09-26T19:00:00+02:00",
+      "title": {
+        "en": "Build with GrokBot — Frankfurt (26 Sep)",
+        "zh": "Build with GrokBot — 法兰克福（9/26）",
+        "ja": "Build with GrokBot — フランクフルト（9/26）"
+      },
+      "when": {
+        "en": "Fri 26 Sep 2026, 12:00–19:00 (Europe/Berlin)",
+        "zh": "2026-09-26 周五 12:00–19:00（Europe/Berlin）",
+        "ja": "2026-09-26（金）12:00–19:00（Europe/Berlin）"
+      },
+      "where": {
+        "en": "Frankfurt am Main, Germany · Ka Eins (Kasseler Str. 1A) — offline",
+        "zh": "德国法兰克福 · Ka Eins（Kasseler Str. 1A）— 线下",
+        "ja": "ドイツ・フランクフルト · Ka Eins（Kasseler Str. 1A）— オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI Frankfurt Build Day for founders and operators who want to ship with Grok Bot (~193 on Luma). Register on Luma.",
+        "zh": "SpaceXAI 法兰克福 Build Day：面向想用 Grok Bot 真正交付的创始人/运营（Luma 约 193 人）。Luma 报名。",
+        "ja": "SpaceXAI フランクフルト Build Day。Grok Bot で出荷したい創業者向け（Luma 約193名）。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "fra-20261023",
+      "url": "https://luma.com/1rv39ekj",
+      "image": "./assets/events/fra-20261023-cover.png",
+      "expires": "2026-10-23T22:30:00+02:00",
+      "title": {
+        "en": "Build with Grokbot — Frankfurt (23 Oct)",
+        "zh": "Build with Grokbot — 法兰克福（10/23）",
+        "ja": "Build with Grokbot — フランクフルト（10/23）"
+      },
+      "when": {
+        "en": "Fri 23 Oct 2026, 14:00–22:30 (Europe/Berlin)",
+        "zh": "2026-10-23 周五 14:00–22:30（Europe/Berlin）",
+        "ja": "2026-10-23（金）14:00–22:30（Europe/Berlin）"
+      },
+      "where": {
+        "en": "Frankfurt am Main, Germany · Motel One Frankfurt-Messe (Europa-Allee 25) — offline",
+        "zh": "德国法兰克福 · Motel One Frankfurt-Messe（Europa-Allee 25）— 线下",
+        "ja": "ドイツ・フランクフルト · Motel One Frankfurt-Messe（Europa-Allee 25）— オフライン"
+      },
+      "body": {
+        "en": "Second SpaceXAI Frankfurt Build Day: ship with Grok Bot at Motel One Messe. Register on Luma.",
+        "zh": "SpaceXAI 法兰克福第二场 Build Day：在 Motel One Messe 用 Grok Bot 交付。Luma 报名。",
+        "ja": "SpaceXAI フランクフルト第2回 Build Day。Motel One Messe で Grok Bot 制作。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "was-20260929",
+      "url": "https://luma.com/cwzr9s9c",
+      "image": "./assets/events/was-20260929-cover.png",
+      "expires": "2026-09-30T00:00:00-04:00",
+      "title": {
+        "en": "AI Demo Night: Grok Bot & Hermes (DC)",
+        "zh": "AI Demo Night：Grok Bot & Hermes（华盛顿）",
+        "ja": "AI Demo Night：Grok Bot & Hermes（DC）"
+      },
+      "when": {
+        "en": "Tue 29 Sep 2026, 17:30–20:00 (America/New_York)",
+        "zh": "2026-09-29 周二 17:30–20:00（America/New_York）",
+        "ja": "2026-09-29（火）17:30–20:00（America/New_York）"
+      },
+      "where": {
+        "en": "Washington, DC, USA · Prefect HQ (2112 Pennsylvania Ave NW) — offline",
+        "zh": "美国华盛顿特区 · Prefect HQ（2112 Pennsylvania Ave NW）— 线下",
+        "ja": "米国ワシントンDC · Prefect HQ（2112 Pennsylvania Ave NW）— オフライン"
+      },
+      "body": {
+        "en": "AI Build Club DC demo night at Prefect HQ featuring persistent agents: Grok Bot and Hermes (~45 guests). Food and drinks; register on Luma.",
+        "zh": "AI Build Club DC 在 Prefect HQ 的演示夜：持久化代理（Grok Bot 与 Hermes，约 45 人）。提供餐饮；Luma 报名。",
+        "ja": "AI Build Club DC の Prefect HQ デモナイト。Grok Bot と Hermes の永続エージェント（約45名）。飲食あり。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "pas-20261008",
+      "url": "https://luma.com/l4yagss3",
+      "image": "./assets/events/pas-20261008-cover.png",
+      "expires": "2026-10-08T04:00:00-07:00",
+      "title": {
+        "en": "Startup Club × SpaceXAI Build Night (Caltech)",
+        "zh": "Startup Club × SpaceXAI Build Night（Caltech）",
+        "ja": "Startup Club × SpaceXAI Build Night（Caltech）"
+      },
+      "when": {
+        "en": "Wed 7 Oct 2026, 19:00–21:00 (America/Los_Angeles)",
+        "zh": "2026-10-07 周三 19:00–21:00（America/Los_Angeles）",
+        "ja": "2026-10-07（水）19:00–21:00（America/Los_Angeles）"
+      },
+      "where": {
+        "en": "Pasadena, CA, USA · Hameetman Center / Winnett (Caltech) — offline",
+        "zh": "美国加州帕萨迪纳 · Hameetman Center / Winnett（Caltech）— 线下",
+        "ja": "米国カリフォルニア州パサデナ · Hameetman Center / Winnett（Caltech）— オフライン"
+      },
+      "body": {
+        "en": "First public SpaceXAI night at Caltech with Startup Club: live repo demo then build with Cursor / Grok Bot. Register on Luma.",
+        "zh": "Caltech 首场公开 SpaceXAI 之夜（Startup Club）：现场仓库演示后用 Cursor / Grok Bot 构建。Luma 报名。",
+        "ja": "Caltech 初の公開 SpaceXAI ナイト（Startup Club）。リポジトリデモ後に Cursor / Grok Bot で制作。Luma で登録。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "nyc-20260924",
+      "url": "https://luma.com/en1r0kym",
+      "image": "./assets/events/nyc-20260924-cover.png",
+      "expires": "2026-09-25T00:00:00-04:00",
+      "title": {
+        "en": "Tech@NYU panel with SpaceXAI",
+        "zh": "Tech@NYU × SpaceXAI 座谈",
+        "ja": "Tech@NYU × SpaceXAI パネル"
+      },
+      "when": {
+        "en": "Wed 24 Sep 2026, 18:30–20:00 (America/New_York)",
+        "zh": "2026-09-24 周三 18:30–20:00（America/New_York）",
+        "ja": "2026-09-24（水）18:30–20:00（America/New_York）"
+      },
+      "where": {
+        "en": "New York, NY, USA · NYU Leslie eLab (16 Washington Pl) — offline",
+        "zh": "美国纽约 · NYU Leslie eLab（16 Washington Pl）— 线下",
+        "ja": "米国ニューヨーク · NYU Leslie eLab（16 Washington Pl）— オフライン"
+      },
+      "body": {
+        "en": "Tech@NYU panel on how SpaceXAI engineers build with Cursor and Grok Bot, then a workshop (~102 guests). Register on Luma.",
+        "zh": "Tech@NYU 座谈：SpaceXAI 工程师如何用 Cursor 与 Grok Bot 构建，随后工作坊（约 102 人）。Luma 报名。",
+        "ja": "Tech@NYU パネル。SpaceXAI が Cursor / Grok Bot でどう作るか紹介し、その後ワークショップ（約102名）。Luma で登録。"
       },
       "cta": {
         "en": "Register on Luma",

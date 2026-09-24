@@ -230,6 +230,7 @@ COUNTRY_LABEL = {
     "gr": {"en": "Greece", "zh": "希腊", "ja": "ギリシャ"},
     "no": {"en": "Norway", "zh": "挪威", "ja": "ノルウェー"},
     "ci": {"en": "Côte d'Ivoire", "zh": "科特迪瓦", "ja": "コートジボワール"},
+    "lk": {"en": "Sri Lanka", "zh": "斯里兰卡", "ja": "スリランカ"},
     "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
     "other": {"en": "Other", "zh": "其他", "ja": "その他"},
 }
@@ -442,6 +443,12 @@ EVENT_GEO = {
     "mo-20261007": ("cn", "Macao", "澳门", "マカオ"),
     "was-20261007": ("us", "Washington, DC", "华盛顿特区", "ワシントンDC"),
     "abj-20261107": ("ci", "Abidjan", "阿比让", "アビジャン"),
+    "cmb-20261017": ("lk", "Colombo", "科伦坡", "コロンボ"),
+    "fra-20260926": ("de", "Frankfurt", "法兰克福", "フランクフルト"),
+    "fra-20261023": ("de", "Frankfurt", "法兰克福", "フランクフルト"),
+    "was-20260929": ("us", "Washington, DC", "华盛顿特区", "ワシントンDC"),
+    "pas-20261008": ("us", "Pasadena", "帕萨迪纳", "パサデナ"),
+    "nyc-20260924": ("us", "New York", "纽约", "ニューヨーク"),
 }
 
 

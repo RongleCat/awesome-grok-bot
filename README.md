@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1675-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1686-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,13 +38,13 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261007)
-- **United States**（14）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007)
+- **United States**（17）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Washington, DC](./EVENTS.md#was-20260929) · [Pasadena](./EVENTS.md#pas-20261008) · [New York](./EVENTS.md#nyc-20260924)
 - **Brazil**（5）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926) · [Curitiba](./EVENTS.md#cwb-20260929) · [Salvador](./EVENTS.md#ssa-20261008)
 - **Spain**（5）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929) · [Valencia](./EVENTS.md#vlc-20260925) · [Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
 - **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
+- **Germany**（4）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20260926) · [Frankfurt](./EVENTS.md#fra-20261023)
 - **Indonesia**（4）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003) · [Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
 - **Mexico**（4）：[Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926) · [Monterrey](./EVENTS.md#mty-20261003)
-- **Germany**（2）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015)
 - **Ecuador**（2）：[Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
 - **Guatemala**（2）：[Guatemala City](./EVENTS.md#gua-20261003) · [Guatemala](./EVENTS.md#gua-20261205)
 - **Italy**（2）：[Padua](./EVENTS.md#pdv-20260925) · [Rome](./EVENTS.md#rom-20261023)
@@ -66,6 +66,7 @@
 - **India**（1）：[Rajkot](./EVENTS.md#raj-20260926)
 - **Kyrgyzstan**（1）：[Bishkek](./EVENTS.md#fru-20261001)
 - **Cambodia**（1）：[Phnom Penh](./EVENTS.md#pnh-20261003)
+- **Sri Lanka**（1）：[Colombo](./EVENTS.md#cmb-20261017)
 - **Myanmar**（1）：[Yangon](./EVENTS.md#ygn-20260926)
 - **Norway**（1）：[Oslo](./EVENTS.md#osl-20261016)
 - **New Zealand**（1）：[Auckland](./EVENTS.md#akl-20261008)
@@ -276,6 +277,9 @@
 
 ## Field Cases
 
+- [Woodeex matériel for Grok Build (2026-09-24)](https://github.com/CodeNoLimits/woodeex-grok-build-2026-09-24) - French Woodeex delivery pack for Grok Build (pilots, 30s cuts, QC notes) published 2026-09-24 for temporary public Build access.
+- [SEAMBOUND — Grok Build slot design pack](https://github.com/12553240Kj/seambound-grok-build-pack) - Original slot-design pack dated 2026-09-24 for Grok Build, with a master spec zip ready to attach to a Build session.
+- [grok-canvas — mobile scene canvas for Grok Bot](https://github.com/JorgeDeArmas/grok-canvas) - Mobile web canvas for Grok Bot: one link updates as scenes change, with HTML scenes and media for shareable bot-driven visuals.
 - [AIResearch — GrokBot-maintained AI knowledge base](https://github.com/ProphetEngine/AIResearch) - Obsidian-friendly AI research knowledge base that a Grok Bot automatically maintains with topic MOCs and atomic notes.
 - [Content Grokbot kit v1.0.0](https://github.com/xander-using-ai-to-scale/content-grokbot) - Drop-in kit that turns a fresh Grok Bot into a content team with an editor-in-chief, nine sub-agents, and an Almanac memory vault.
 - [KR ETF Lab — Grok Bot handoff backtest app](https://github.com/aepiros33/kr-etf-lab) - KRX ETF portfolio backtest web app with AGENTS.md and GROK_BOT_PROMPT.md handoff notes for continuing work on a Grok Bot computer.
@@ -457,6 +461,10 @@
 
 ## Skills, Plugins & MCP
 
+- [Trillet voice calling plugin for Grok Bot](https://github.com/TrilletAI/Trillet-grok) - Trillet connector plugin for Grok Bot and Cursor: claim a number, place outbound voice calls from chat, and get transcripts back.
+- [WebsitePublisher for Grok Bot](https://github.com/megberts/websitepublisher-grok) - Grok Bot .grok-plugin that connects WebsitePublisher MCP tools to create, patch, and publish live website pages from chat.
+- [Zell — sales coaching plugin for Grok Bot](https://github.com/GetZell/zell) - Official Zell agent plugin for Grok Bot and Cursor: OAuth MCP connector plus skills for sales coaching from real calls.
+- [CashFlow Engine plugin for Grok Bot](https://github.com/CashflowEngine/cashflow-engine-plugin) - Grok Bot / Cursor agent plugin with a hosted CashFlow Engine MCP server and skill for portfolio analytics (analysis only, cannot trade).
 - [观潮 Guanchao — Grok Bot research workbench template](https://github.com/junit/guanchao-research-workbench) - Open docs + market/ skeleton and skills for a Grok Bot “观潮” cross-market research desk (A/HK/US/macro briefings), with a public installable Bot template on x.ai/bot; labeled not investment advice.
 - [Doublespeed plugin for Grok Bot](https://github.com/doublespeed-main/doublespeed-plugin) - Grok Bot / agent-client marketplace connector (.cursor-plugin + mcp.json) that OAuth-links a Doublespeed product workspace for carousel/content workflows without baking secrets into the package.
 - [Yaps plugin for Grok Bot / Cursor](https://github.com/richawo/yaps-plugin) - Cursor/Grok Bot marketplace plugin (.cursor-plugin + mcp.json + skills) that drives the local Yaps desktop app for transcription, captions, clipping, TTS, and vault notes—with an optional skill to set up Yaps on the Bot’s cloud computer.
@@ -1330,6 +1338,9 @@
 
 ## Community & Failure Modes
 
+- [Staff: Voice channel lag is playback, tasks already finished](https://forum.cursor.com/t/grok-bot-voice-channel-latency-silent-hang-after-tools-complete/172844) - Staff notes Voice tools often finish server-side in seconds; perceived hangs are mostly spoken-result playback, worse with the app backgrounded.
+- [Request: official avatar extension API for 3D avatars](https://forum.cursor.com/t/grok-bot-official-avatar-extension-api-for-third-party-animated-3d-avatars/172882) - Forum feature request (staff-engaged) for an official Grok Bot avatar extension API so third-party animated or 3D avatars can plug in safely.
+- [Staff: reattach after sign-out — do not Reset (Delilah case)](https://forum.cursor.com/t/grok-bot-delilah-still-exists-bot-id-641a7c54-but-chat-will-not-send-and-both-windows-and-iphone-lost-her-after-sign-out-reattach-to-the-existing-computer-do-not-reset/172862) - Staff confirms bot data stays server-side after sign-out; reattach to the existing computer and avoid Reset when chat send fails across devices.
 - [Grok Bot 0.58.0: screen view moved under Bot name (staff)](https://forum.cursor.com/t/grok-bot-windows-collapsing-chat-computer-divider-hides-right-pane-with-no-monitor-icon-to-reopen/172842) - Staff (@kevinn, 2026-09-24): in Grok Bot 0.58.0 the separate top-right computer button was folded into the Bot’s name at the top center—open the Bot chat, click the name, Back to details, then the live screen preview at the top of that panel (fixes “screen view disappeared” / fully collapsed divider).
 - [Ultra weekly Bot pool: each messaged bot burns a turn](https://forum.cursor.com/t/grok-bot-usage-billing/172769) - Staff (kevinn, 2026-09-23): on Ultra, Grok Bot has its own weekly allowance separate from Cursor; spawning ~60 bots plus group chats burned usage fast because every bot that receives a message runs its own turn—prefer fewer bots (one bot + subagents), delete unused, or enable on-demand under Spending.
 - [Print via registered local computer only (no home-LAN printers)](https://forum.cursor.com/t/grok-bot-native-direct-printer-support-for-agents-skip-registered-mac-lp-bridge/172798) - Staff (kevinn, 2026-09-23): agents run on a cloud computer and cannot see home-network printers—send the file to any signed-in Grok Bot desktop machine that has the printer, then print there; set Settings → Computer → “Execution on this computer” to Always allow to cut approval friction (Auto-review still checks).
@@ -1529,6 +1540,7 @@
 
 ## Related Lists
 
+- [WowGrok — Grok Build from inside World of Warcraft](https://github.com/hydrolive/wow-grok) - WoW addon plus local bridge so you can chat with Grok Build sessions in-game (/grok) without alt-tabbing, including item tooltip context.
 - [GrokMax — deterministic-first routing to cut Grok Bot usage](https://github.com/M4G3LL4N0/grokmax) - Open-source pipeline that routes tasks through deterministic/local/API/cheaper agents before spending Grok Bot quota—five-layer cache, context slicing, budget ceilings, and honest measured/estimated/proxy telemetry.
 - [grokbot-bridge — phone-call MCP between local agents and Grok Bot](https://github.com/kitepon/grokbot-bridge) - Shared streamable-HTTP MCP that lets a local coding agent ring a Grok Bot switchboard seat, then talk direct with a member Bot over session send/poll (switchboard does not relay bodies).
 - [GrokBot Compose — Android vector orb component](https://github.com/Mr-XiaoLiang/GrokBot) - Jetpack Compose port of the Grok Bot orb/avatar with moods, shapes, and interactive eyes for Android apps.
@@ -1791,7 +1803,7 @@
 
 ## Contributing
 
-1675 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1686 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

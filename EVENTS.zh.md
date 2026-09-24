@@ -63,6 +63,15 @@
 <a id="was-20261007"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/h2ijioha"><img src="./assets/events/was-20261007-cover.png" alt="Grok Bot Meetup 华盛顿特区" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 华盛顿特区</strong><br />2026-10-07 周三 17:30–20:30（美东 EDT，UTC−4）<br />美国华盛顿特区 · Downtown（Luma 上精确地址暂隐藏）— 线下<br /><br />华盛顿特区首场 Grok Bot Meetup（HireNimbus 联合创始人主办）。分享 SpaceXAI Galaxy 旧金山行后如何用 Grok Bot 做事。免费；目前约 15 人。Luma 报名。<br /><br /><a href="https://luma.com/h2ijioha"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
+<a id="was-20260929"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cwzr9s9c"><img src="./assets/events/was-20260929-cover.png" alt="AI Demo Night：Grok Bot & Hermes（华盛顿）" width="300" /></a></td><td valign="top"><strong>AI Demo Night：Grok Bot & Hermes（华盛顿）</strong><br />2026-09-29 周二 17:30–20:00（America/New_York）<br />美国华盛顿特区 · Prefect HQ（2112 Pennsylvania Ave NW）— 线下<br /><br />AI Build Club DC 在 Prefect HQ 的演示夜：持久化代理（Grok Bot 与 Hermes，约 45 人）。提供餐饮；Luma 报名。<br /><br /><a href="https://luma.com/cwzr9s9c"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="pas-20261008"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/l4yagss3"><img src="./assets/events/pas-20261008-cover.png" alt="Startup Club × SpaceXAI Build Night（Caltech）" width="300" /></a></td><td valign="top"><strong>Startup Club × SpaceXAI Build Night（Caltech）</strong><br />2026-10-07 周三 19:00–21:00（America/Los_Angeles）<br />美国加州帕萨迪纳 · Hameetman Center / Winnett（Caltech）— 线下<br /><br />Caltech 首场公开 SpaceXAI 之夜（Startup Club）：现场仓库演示后用 Cursor / Grok Bot 构建。Luma 报名。<br /><br /><a href="https://luma.com/l4yagss3"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="nyc-20260924"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/en1r0kym"><img src="./assets/events/nyc-20260924-cover.png" alt="Tech@NYU × SpaceXAI 座谈" width="300" /></a></td><td valign="top"><strong>Tech@NYU × SpaceXAI 座谈</strong><br />2026-09-24 周三 18:30–20:00（America/New_York）<br />美国纽约 · NYU Leslie eLab（16 Washington Pl）— 线下<br /><br />Tech@NYU 座谈：SpaceXAI 工程师如何用 Cursor 与 Grok Bot 构建，随后工作坊（约 102 人）。Luma 报名。<br /><br /><a href="https://luma.com/en1r0kym"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-br"></a>
 ### 巴西
 
@@ -114,6 +123,21 @@
 <a id="yow-20261010"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/phs5tofz"><img src="./assets/events/yow-20261010-cover.png" alt="Grok Bot Meetup 渥太华" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 渥太华</strong><br />2026-10-10 周六 18:00–22:00（America/Toronto，UTC-4）<br />加拿大渥太华 Carleton University Nicol Building, 1125 Colonel By Dr（线下，教室待定）<br /><br />渥太华首场入库 Grok Bot 聚会（Builders Collective Ottawa 等主办）。Carleton University 晚场：Grok Bot 101、演示、展示、积分与交流。免费报名需审批；请带笔记本。新 slug phs5tofz；论坛尚无 New event 帖。<br /><br /><a href="https://luma.com/phs5tofz"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
+<a id="country-de"></a>
+### 德国
+
+<a id="cgn-20261009"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-cologne-meetup1"><img src="./assets/events/cgn-20261009-cover.png" alt="Grok Bot 科隆线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 科隆线下交流</strong><br />2026-10-09 周五 18:00–21:00（科隆 CEST）<br />科隆（报名后可见具体地址）<br /><br />科隆 Grok Bot 线下：社交、分享/工作坊、带着真实任务动手（Windows/Mac 笔记本或 iPhone；先下 x.ai/bot）。议程 18:00 签到→18:30 演示与动手→20:00 闲聊；欢迎更多 Grok Bot 分享者。主办 Emmanuel Ketcha、Eyad Kelleh、Babajide Mayowa Moibi、Teoman Köse；免费，需主办审批，约 50 席。<br /><br /><a href="https://luma.com/spacexai-cologne-meetup1"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="str-20261015"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-z2er"><img src="./assets/events/str-20261015-cover.png" alt="Grok Bot Meetup 斯图加特" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 斯图加特</strong><br />2026-10-15 周四 17:30–21:00（Europe/Berlin，UTC+2 / CEST）<br />德国斯图加特 Epplestraße 225/haus 3, 70567 Stuttgart-Möhringen（线下，一楼）<br /><br />斯图加特首场 Grok Bot 聚会（Sachin Agrawal；AI collective Stuttgart / SpaceXAI ambassador）。晚场试玩、演示与社区交流。免费需审批（余 84）。slug spacexai-z2er；论坛 New event 171988。<br /><br /><a href="https://luma.com/spacexai-z2er"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
+<a id="fra-20260926"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/qfru9327"><img src="./assets/events/fra-20260926-cover.png" alt="Build with GrokBot — 法兰克福（9/26）" width="300" /></a></td><td valign="top"><strong>Build with GrokBot — 法兰克福（9/26）</strong><br />2026-09-26 周五 12:00–19:00（Europe/Berlin）<br />德国法兰克福 · Ka Eins（Kasseler Str. 1A）— 线下<br /><br />SpaceXAI 法兰克福 Build Day：面向想用 Grok Bot 真正交付的创始人/运营（Luma 约 193 人）。Luma 报名。<br /><br /><a href="https://luma.com/qfru9327"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="fra-20261023"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/1rv39ekj"><img src="./assets/events/fra-20261023-cover.png" alt="Build with Grokbot — 法兰克福（10/23）" width="300" /></a></td><td valign="top"><strong>Build with Grokbot — 法兰克福（10/23）</strong><br />2026-10-23 周五 14:00–22:30（Europe/Berlin）<br />德国法兰克福 · Motel One Frankfurt-Messe（Europa-Allee 25）— 线下<br /><br />SpaceXAI 法兰克福第二场 Build Day：在 Motel One Messe 用 Grok Bot 交付。Luma 报名。<br /><br /><a href="https://luma.com/1rv39ekj"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-id"></a>
 ### 印度尼西亚
 
@@ -143,15 +167,6 @@
 
 <a id="mty-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/5ohq71b3"><img src="./assets/events/mty-20261003-cover.png" alt="Grok 蒙特雷黑客松" width="300" /></a></td><td valign="top"><strong>Grok 蒙特雷黑客松</strong><br />2026-10-03 周六 10:00–17:00（America/Monterrey）<br />墨西哥蒙特雷 — 线下（详细场地见 Luma）<br /><br />Grok 蒙特雷黑客松（SpaceXAI for Monterrey）：当日构建场，有别于早前 mty-20260910 交流。<br /><br /><a href="https://luma.com/5ohq71b3"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
-<a id="country-de"></a>
-### 德国
-
-<a id="cgn-20261009"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-cologne-meetup1"><img src="./assets/events/cgn-20261009-cover.png" alt="Grok Bot 科隆线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 科隆线下交流</strong><br />2026-10-09 周五 18:00–21:00（科隆 CEST）<br />科隆（报名后可见具体地址）<br /><br />科隆 Grok Bot 线下：社交、分享/工作坊、带着真实任务动手（Windows/Mac 笔记本或 iPhone；先下 x.ai/bot）。议程 18:00 签到→18:30 演示与动手→20:00 闲聊；欢迎更多 Grok Bot 分享者。主办 Emmanuel Ketcha、Eyad Kelleh、Babajide Mayowa Moibi、Teoman Köse；免费，需主办审批，约 50 席。<br /><br /><a href="https://luma.com/spacexai-cologne-meetup1"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="str-20261015"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-z2er"><img src="./assets/events/str-20261015-cover.png" alt="Grok Bot Meetup 斯图加特" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 斯图加特</strong><br />2026-10-15 周四 17:30–21:00（Europe/Berlin，UTC+2 / CEST）<br />德国斯图加特 Epplestraße 225/haus 3, 70567 Stuttgart-Möhringen（线下，一楼）<br /><br />斯图加特首场 Grok Bot 聚会（Sachin Agrawal；AI collective Stuttgart / SpaceXAI ambassador）。晚场试玩、演示与社区交流。免费需审批（余 84）。slug spacexai-z2er；论坛 New event 171988。<br /><br /><a href="https://luma.com/spacexai-z2er"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="country-ec"></a>
 ### 厄瓜多尔
@@ -296,6 +311,12 @@
 
 <a id="pnh-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-jt05"><img src="./assets/events/pnh-20261003-cover.png" alt="Grok Bot 金边线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 金边线下交流</strong><br />2026-10-03 周六 14:00–16:00（金边 / Bangkok 时区 GMT+7）<br />金边 · Smart Startup Space（Connexion Building, Koh Pich）<br /><br />柬埔寨首场 Grok Bot 线下：演示与交流、现场 credits 试玩（笔记本或手机均可），另有线上嘉宾。与 Smart Startup Space 合办。主办 Taka Kiyone、Luis Romero；免费，需主办审批，约 80 席；新手欢迎。<br /><br /><a href="https://luma.com/spacexai-jt05"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="country-lk"></a>
+### 斯里兰卡
+
+<a id="cmb-20261017"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-cmb"><img src="./assets/events/cmb-20261017-cover.png" alt="Grok Bot Meetup 科伦坡" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 科伦坡</strong><br />2026-10-17 周六 09:30–17:00（Asia/Colombo，UTC+5:30）<br />斯里兰卡科伦坡 · DHPL Auditorium（42 Nawam Mawatha, Colombo 2）— 线下<br /><br />SpaceXAI 科伦坡站：幻灯片介绍、Grok Bot 现场演示、问答与社交（DHPL Auditorium）。Luma 报名。<br /><br /><a href="https://luma.com/grokbot-cmb"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 <a id="country-mm"></a>
 ### 缅甸
