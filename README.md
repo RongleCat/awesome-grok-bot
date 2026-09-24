@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1647-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1669-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,8 +37,8 @@
 
 [Full meetup notes](./EVENTS.md)
 
-- **China**（2）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017)
-- **United States**（14）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114)
+- **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261007)
+- **United States**（15）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Miami](./EVENTS.md#mia-20260923) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007)
 - **Brazil**（5）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926) · [Curitiba](./EVENTS.md#cwb-20260929) · [Salvador](./EVENTS.md#ssa-20261008)
 - **Spain**（5）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929) · [Valencia](./EVENTS.md#vlc-20260925) · [Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
 - **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
@@ -56,6 +56,7 @@
 - **Azerbaijan**（1）：[Baku](./EVENTS.md#bak-20260927)
 - **Benin**（1）：[Cotonou](./EVENTS.md#coo-20261003)
 - **Bolivia**（1）：[Santa Cruz](./EVENTS.md#vvi-20260926)
+- **Côte d'Ivoire**（1）：[Abidjan](./EVENTS.md#abj-20261107)
 - **Colombia**（1）：[Pereira](./EVENTS.md#pei-20261002)
 - **Czechia**（1）：[Prague](./EVENTS.md#prg-20260930)
 - **United Kingdom**（1）：[London](./EVENTS.md#ldn-20260926)
@@ -195,6 +196,7 @@
 
 ## Tutorials & Guides
 
+- [Grok Bot POC + CLI/LinkedIn playbook](https://github.com/rifaterdemsahin/grokbot) - Hands-on Grok Bot and Grok CLI install notes with a documented LinkedIn recruiter pipeline and screenshot evidence gallery.
 - [Panda Labs verification loop for Grok Bot teams](https://github.com/PandaHK-Hub/verification-loop) - Public method write-up of a You→CoS→Worker→Auditor verification loop for maturing Grok Bot team skills.
 - [Grok Bot Field Notes (Chinese edition)](https://github.com/siyuanfeng636-cpu/grokbot-field-notes-zh) - Chinese translation and restructuring of unicodef1wn/grokbot-field-notes: 72-hour multi-agent field notes, antipatterns, and role roster.
 - [Grok Bot Galaxy ebook summary (Portuguese)](https://github.com/simiao-cavalcante/grok-bot-galaxy) - Free 23-page Portuguese ebook summarizing what Grok Bot is and lessons from the three-day Galaxy company-build livestream.
@@ -274,6 +276,8 @@
 
 ## Field Cases
 
+- [AIResearch — GrokBot-maintained AI knowledge base](https://github.com/ProphetEngine/AIResearch) - Obsidian-friendly AI research knowledge base that a Grok Bot automatically maintains with topic MOCs and atomic notes.
+- [Content Grokbot kit v1.0.0](https://github.com/xander-using-ai-to-scale/content-grokbot) - Drop-in kit that turns a fresh Grok Bot into a content team with an editor-in-chief, nine sub-agents, and an Almanac memory vault.
 - [KR ETF Lab — Grok Bot handoff backtest app](https://github.com/aepiros33/kr-etf-lab) - KRX ETF portfolio backtest web app with AGENTS.md and GROK_BOT_PROMPT.md handoff notes for continuing work on a Grok Bot computer.
 - [Interactive staff org chart for a Grok Bot board](https://github.com/siriusbontea/grok-bot-task-org) - Public interactive org-chart site for a Grok Bot board with role chips, stories, and generated portraits.
 - [Director orchestrator logs & templates for Grok Bot](https://github.com/Ansefe/grok-bot-orquestator) - Spanish evaluation logs, bitácora, and templates for a Grok Bot “Director” that coordinates competitor coding agents.
@@ -453,6 +457,12 @@
 
 ## Skills, Plugins & MCP
 
+- [parallel-search-skill (incl. Grok Build bench)](https://github.com/chenghaoYang/parallel-search-skill) - Multi-agent deep-search SKILL.md pack with a harness bench that includes Grok Build alongside Claude Code and Kimi Code.
+- [Grok connector plugins (prod Cursor team marketplace)](https://github.com/minupalaniappan/grok-connector-plugins-prod) - Production Cursor team marketplace that mirrors the Finance Grok connector plugin against the live xAI connectors gateway.
+- [Solidum Odoo MCP for Cursor & Grok Bot](https://github.com/bethesna-dev/odoo-mcp) - Solidum Odoo connector MCP with accounting skills and rules for Cursor and Grok Bot workflows.
+- [Instant.ai agent plugins (incl. Grok Bot)](https://github.com/instant-labs/agent-plugins) - Instant.ai domain/trademark MCP plugins that install into Claude Code, Codex, Cursor, Grok Bot, and Grok Build via per-client manifests.
+- [Postdom for Grok Bot — social publish MCP plugin](https://github.com/deanfankhauser/postdom-grokbot) - Prepared Grok Bot agent plugin with OAuth MCP tools for scheduling and publishing social content under human guardrails.
+- [OpenTweet plugin for Grok Bot / Grok Build](https://github.com/opentweetio/grok-bot-plugin) - Grok Bot marketplace plugin (.grok-plugin) that connects hosted OpenTweet MCP to schedule and publish posts on X, LinkedIn, and Bluesky.
 - [Brooks Surgical Team skills plugin (incl. Grok Build)](https://github.com/zakame/brooks-agent-team) - Fred Brooks Surgical Team skills plugin for multi-agent coding, with install paths for Grok Build alongside Claude/Codex/OpenCode.
 - [Octen official plugin for Grok Build (web search MCP)](https://github.com/Octen-Team/octen-grok-plugin) - Official Octen .grok-plugin for Grok Build: hosted MCP search/news/extract with `grok plugin install octen --trust`.
 - [Scrubbed JSON recipes for Grok Bot assistants](https://github.com/Ashwin-Selvaraj/grok-bots) - Portable scrubbed JSON recipes (standup brief, schema) for rebuilding Grok Bot assistants without secrets.
@@ -991,6 +1001,9 @@
 
 ## Open-Source Alternatives
 
+- [Grok Bot Agent Clone (Next.js + E2B)](https://github.com/rrs301/grok-bot-agent-clone) - Next.js agent workspace clone with Composio tools, Inngest routines, and E2B desktop sandboxes inspired by Grok Bot.
+- [Holly Bot — BYOK Grok Bot–style desktop assistant](https://github.com/xgamer791/holly-bot) - Bring-your-own-key Grok Bot–style assistant with multi-bot personalities plus an optional always-on Holly Computer host.
+- [Grokbot Harness (GBH) — open Grok Bot replica](https://github.com/river-li/brok-pot-harness) - Open desktop agent workspace aiming to replica Grok Bot locally with sandbox, MCP/Skills, and bring-your-own model API.
 - [GrokNode — local reconstruction of Grok Bot 0.18](https://github.com/tyonger-stack/GrokNode) - Unofficial TypeScript reconstruction of the Grok Bot 0.18.0 macOS app with local Docker sandbox and BYOK inference routing.
 - [Privacy-hardened fork of xai-org/grok-build](https://github.com/carmilea/grok-build) - Fork of xai-org/grok-build synced to 1.0.38 with telemetry disabled and extra web_search providers; ships Linux/macOS binaries.
 - [Provision control plane for Grok Build sessions](https://github.com/jeremydixon22/provision) - Linux-native local-first control plane for Codex CLI, Claude Code, and Grok Build sessions, terminals, and spend.
@@ -1314,6 +1327,9 @@
 
 ## Community & Failure Modes
 
+- [Ultra weekly Bot pool: each messaged bot burns a turn](https://forum.cursor.com/t/grok-bot-usage-billing/172769) - Staff (kevinn, 2026-09-23): on Ultra, Grok Bot has its own weekly allowance separate from Cursor; spawning ~60 bots plus group chats burned usage fast because every bot that receives a message runs its own turn—prefer fewer bots (one bot + subagents), delete unused, or enable on-demand under Spending.
+- [Print via registered local computer only (no home-LAN printers)](https://forum.cursor.com/t/grok-bot-native-direct-printer-support-for-agents-skip-registered-mac-lp-bridge/172798) - Staff (kevinn, 2026-09-23): agents run on a cloud computer and cannot see home-network printers—send the file to any signed-in Grok Bot desktop machine that has the printer, then print there; set Settings → Computer → “Execution on this computer” to Always allow to cut approval friction (Auto-review still checks).
+- [No per-bot reasoning effort control (staff)](https://forum.cursor.com/t/grok-bot-per-agent-reasoning-effort-control-low-mid-full/172822) - Staff (kevinn, 2026-09-23): there is no per-agent reasoning-effort control in Bot or chat settings—Grok Bot chooses how much reasoning a turn gets, and you cannot set it per bot, role, or template yet (team aware).
 - [Route-through-desktop only reaches public IPs (not private / split-horizon)](https://forum.cursor.com/t/grok-bot-route-traffic-through-this-computer-fails-for-split-horizon-internal-dev-hosts/172715) - Staff (deanrie, 2026-09-23): “Route traffic through this computer” only relays to public internet addresses—desktop rejects CONNECT when the hostname resolves to private ranges (192.168/10/172.16–31); public cloud hosts still work. Docs currently imply internal hosts should work; mismatch filed with the team (no ETA).
 - [Origin CLI on Grok Bot is read-only; merge via UI or your machine](https://forum.cursor.com/t/merging-prs-in-origin-with-grok-bot/172592) - Staff (kevinn): Grok Bot’s Origin CLI is intentionally read-only (repos/PRs/diffs/checks); undraft/merge isn’t direct yet—ask cloud agents to open PRs ready-for-review, then merge on cursor.com/codebase or `origin pr merge` locally.
 - [Fleet cost tip: fresh chat per task + quieter Bot-to-Bot handoffs](https://forum.cursor.com/t/1-500-in-one-week-running-a-grok-bot-fleet-expected-or-a-bug/172705) - Staff (kevinn): each turn re-reads the bot’s full chat history—so week-long threads burn 80–90k tokens/step; use + fresh chat per task, keep Profile/Notion state, silence ack pings between bots, and space Routines (hourly+) to cut fleet spend.
@@ -1509,6 +1525,13 @@
 
 ## Related Lists
 
+- [GrokBot Compose — Android vector orb component](https://github.com/Mr-XiaoLiang/GrokBot) - Jetpack Compose port of the Grok Bot orb/avatar with moods, shapes, and interactive eyes for Android apps.
+- [Grok Build marginal-compute SWE-bench study](https://github.com/RyanJunejo/grok-build-marginal-compute) - Forked-trajectory experiments measuring when escalating a Grok Build run to a larger model helps on SWE-bench Verified.
+- [Coagent — peer agents for Grok Build / Claude Code](https://github.com/jasrusable/coagent) - Harness-agnostic co-agent helper that lets a Grok Build or Claude Code lead spawn a remembered inner agent on the same tree.
+- [Grok Build Switch (macOS + subscription proxy)](https://github.com/CyberStaZJU/grok-build-switch) - macOS menu-bar/desktop manager for Grok CLI profiles, model routing, usage analytics, and embedded subscription proxy.
+- [Wingman — MCP bridge from Grok Bot to local agents](https://github.com/juangurdian/wingman) - TypeScript MCP bridge and pair CLI so Grok Bot can list, read, and message live local Codex or Claude Code sessions.
+- [agent-cookie-sync — Chrome sessions for Grok Bot](https://github.com/markfulton/agent-cookie-sync) - Chrome Manifest V3 extension plus local native host that hands already-signed-in browser sessions to Grok Bot or Muse.
+- [pi-grok-build — delegate work to Grok Build from Pi](https://github.com/Tiziano-AI/pi-grok-build) - Pi package that exposes a managed grok_build tool so Pi can delegate review, research, and edits to xAI Grok Build over ACP.
 - [Grokbot Icon Studio (Simplified Chinese)](https://github.com/BosenY/grokbot-icon-studio-zh) - Simplified-Chinese static Grokbot Icon Studio: browse sample icons and copy short/full prompts for bot-style avatar generation.
 - [Non-stock Grok Bot box filesystem dump (sanitized)](https://github.com/danielfebrero/Grok-Bot-app) - Sanitized dump of a non-stock Grok Bot box tree (exec-daemon/home/usr/workspace layout) for studying agent-computer filesystem layout.
 - [grokbotpatcher — per-Bot alternate-model routing (planning)](https://github.com/dndungu/grokbotpatcher) - Planning docs and ADRs for a version-resilient on-device agent that lets each Grok Bot route inference to an alternate provider.
@@ -1762,7 +1785,7 @@
 
 ## Contributing
 
-1647 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1669 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

@@ -15,6 +15,9 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="wuh-20261017"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/kss59f4e"><img src="./assets/events/wuh-20261017-cover.png" alt="Grok Bot Meetup Wuhan" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Wuhan</strong><br />Sat 17 Oct 2026, 14:00–17:30 (Asia/Shanghai, GMT+8)<br />Wuhan, Hubei (venue TBD — updated on Luma after confirm)<br /><br />Wuhan Grok Bot meetup: icebreaker + share/workshop. SpaceXAI product framing (AI teammates that sign into your tools and bring finished work back). Pre-registration with host approval; WeChat group after approve; speakers/volunteers welcome. Hosts Hanbing Zhang, chenchong, yuepu; free; ~150 seats. Distinct from same-day sha-20261017 Shanghai.<br /><br /><a href="https://luma.com/kss59f4e"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
+<a id="mo-20261007"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/5zcbo2vm"><img src="./assets/events/mo-20261007-cover.png" alt="Grok Bot Macau Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Macau Workshop</strong><br />Wed 7 Oct 2026, 19:00–21:30 (Asia/Macau, UTC+8)<br />Macao · Macau University of Science and Technology (MUST, Cotai) — offline<br /><br />SpaceXAI for Macau workshop: vibe coding with Grok Bot at MUST (Cotai). Public, free, 50 spots. Register on Luma.<br /><br /><a href="https://luma.com/5zcbo2vm"><strong>Register on Luma →</strong></a></td></tr></table>
+
 <a id="country-us"></a>
 ### United States
 
@@ -59,6 +62,9 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="tpa-20261114"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-g0x6"><img src="./assets/events/tpa-20261114-cover.png" alt="Grok Bot Meetup Tampa Bay" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Tampa Bay</strong><br />Sat 14 Nov 2026, 13:00–16:00 (America/New_York)<br />Tampa Bay, FL · venue TBA (address after register). Offline.<br /><br />Offline Grok Bot meetup in Tampa Bay hosted with SpaceXAI Tampa. Register on Luma.<br /><br /><a href="https://luma.com/spacexai-g0x6"><strong>Register on Luma →</strong></a></td></tr></table>
+
+<a id="was-20261007"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/h2ijioha"><img src="./assets/events/was-20261007-cover.png" alt="Grok Bot DC Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot DC Meetup</strong><br />Wed 7 Oct 2026, 17:30–20:30 (America/New_York / EDT, UTC−4)<br />Washington, DC · Downtown (exact venue obfuscated on Luma) — offline<br /><br />DC’s first Grok Bot meetup (hosts: HireNimbus co-founders). Share how teams run on Grok Bot after SpaceXAI Galaxy SF. Free; ~15 guests so far. Register on Luma.<br /><br /><a href="https://luma.com/h2ijioha"><strong>Register on Luma →</strong></a></td></tr></table>
 
 <a id="country-br"></a>
 ### Brazil
@@ -233,6 +239,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="vvi-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-gc1m"><img src="./assets/events/vvi-20260926-cover.png" alt="Grok Bot Meetup Santa Cruz" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Santa Cruz</strong><br />Sat 26 Sep 2026, 08:30–12:00 (America/La_Paz, UTC-4)<br />Universidad Central (Unicen), Ave Trinidad 425, Santa Cruz de la Sierra, Bolivia — offline<br /><br />First catalogued Grok Bot meetup in Santa Cruz de la Sierra, Bolivia (host Diego Oliver; Luma calendar cal-tnfyxEeXhQo3zzR). Spanish-language morning workshop: intro to Grok Bot, hands-on build time, share & learn, community networking. Devs/students/founders/curious welcome — no expertise required. Free RSVP with approval; venue Universidad Central (Unicen). New discover slug spacexai-gc1m (evt-q3GcSfBGYdfY0h1); no forum New-event post yet.<br /><br /><a href="https://luma.com/spacexai-gc1m"><strong>Register on Luma → →</strong></a></td></tr></table>
+
+<a id="country-ci"></a>
+### Côte d'Ivoire
+
+<a id="abj-20261107"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-2qgv"><img src="./assets/events/abj-20261107-cover.png" alt="Grok Bot Meetup Abidjan" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Abidjan</strong><br />Sat 7 Nov 2026, 09:00–17:00 (Africa/Abidjan / GMT)<br />Abidjan, Côte d'Ivoire · Alto café (near Institut Coeur de Grace, Danga Nord) — offline<br /><br />SpaceXAI for Abidjan meetup at Alto café: drop-in day to build and share with Grok Bot (follow-up to Café Cursor Abidjan). Free coffee vibe; ~11 guests. Register on Luma.<br /><br /><a href="https://luma.com/spacexai-2qgv"><strong>Register on Luma →</strong></a></td></tr></table>
 
 <a id="country-co"></a>
 ### Colombia

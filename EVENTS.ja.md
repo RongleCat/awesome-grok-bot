@@ -15,6 +15,9 @@
 <a id="wuh-20261017"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/kss59f4e"><img src="./assets/events/wuh-20261017-cover.png" alt="Grok Bot Meetup Wuhan" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Wuhan</strong><br />2026-10-17（土）14:00–17:30（Asia/Shanghai）<br />武漢（会場未定・確定後に Luma で更新）<br /><br />武漢の Grok Bot ミートアップ。アイスブレイク＋シェア／ワークショップ。SpaceXAI 製品説明（ツールにログインし成果を持ち帰る AI チームメイト）。事前登録・承認制、承認後に WeChat グループ。登壇／ボランティア歓迎。主催 Hanbing Zhang、chenchong、yuepu。無料・約150席。同日の sha-20261017 上海とは別開催。<br /><br /><a href="https://luma.com/kss59f4e"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
+<a id="mo-20261007"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/5zcbo2vm"><img src="./assets/events/mo-20261007-cover.png" alt="Grok Bot Macau Workshop" width="300" /></a></td><td valign="top"><strong>Grok Bot Macau Workshop</strong><br />2026-10-07（水）19:00–21:30（Asia/Macau、UTC+8）<br />マカオ · マカオ科技大学（MUST、コタイ）— オフライン<br /><br />SpaceXAI マカオのワークショップ。MUST（コタイ）で Grok Bot のバイブコーディング。公開・無料・約50席。Luma で登録。<br /><br /><a href="https://luma.com/5zcbo2vm"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
 <a id="country-us"></a>
 ### アメリカ
 
@@ -59,6 +62,9 @@
 
 <a id="tpa-20261114"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-g0x6"><img src="./assets/events/tpa-20261114-cover.png" alt="Grok Bot タンパベイ Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot タンパベイ Meetup</strong><br />2026-11-14（土）13:00–16:00（America/New_York）<br />フロリダ州タンパベイ · 会場 TBD（登録後に案内）。オフライン。<br /><br />タンパベイのオフライン Grok Bot ミートアップ（SpaceXAI Tampa）。Luma で登録。<br /><br /><a href="https://luma.com/spacexai-g0x6"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<a id="was-20261007"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/h2ijioha"><img src="./assets/events/was-20261007-cover.png" alt="Grok Bot Meetup ワシントンDC" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ワシントンDC</strong><br />2026-10-07（水）17:30–20:30（America/New_York、EDT、UTC−4）<br />ワシントンDC · Downtown（Luma 上は会場詳細非公開）— オフライン<br /><br />ワシントンDC初の Grok Bot ミートアップ（HireNimbus 共同創業者主催）。Galaxy SF の後、Grok Bot の使い方を共有。無料。現時点で約15名。Luma で登録。<br /><br /><a href="https://luma.com/h2ijioha"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-br"></a>
 ### ブラジル
@@ -233,6 +239,12 @@
 
 <a id="vvi-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-gc1m"><img src="./assets/events/vvi-20260926-cover.png" alt="Grok Bot Meetup サンタクルス" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup サンタクルス</strong><br />2026-09-26（土）08:30–12:00（America/La_Paz、UTC-4）<br />ボリビア・サンタクルス・デ・ラ・シエラ Universidad Central (Unicen), Ave Trinidad 425（オフライン）<br /><br />ボリビア・サンタクルス初のカタログ掲載 Grok Bot ミートアップ（ホスト Diego Oliver）。スペイン語の午前ワークショップ：紹介・ビルド・共有・交流。無料・承認制。会場 Universidad Central (Unicen)。新 slug spacexai-gc1m；フォーラムの New event 投稿はまだなし。<br /><br /><a href="https://luma.com/spacexai-gc1m"><strong>Luma で登録 → →</strong></a></td></tr></table>
+
+<a id="country-ci"></a>
+### コートジボワール
+
+<a id="abj-20261107"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-2qgv"><img src="./assets/events/abj-20261107-cover.png" alt="Grok Bot Meetup アビジャン" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup アビジャン</strong><br />2026-11-07（土）09:00–17:00（Africa/Abidjan / GMT）<br />コートジボワール・アビジャン · Alto café（Danga Nord、Institut Coeur de Grace 付近）— オフライン<br /><br />SpaceXAI アビジャン（Alto café）。Grok Bot で作り共有するドロップイン（Café Cursor Abidjan の続編）。コーヒーあり。現時点で約11名。Luma で登録。<br /><br /><a href="https://luma.com/spacexai-2qgv"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-co"></a>
 ### コロンビア
