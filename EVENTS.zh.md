@@ -24,9 +24,6 @@
 <a id="pgh-20261013"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/6lx5t8ru"><img src="./assets/events/pgh-20261013-cover.png" alt="Grok Bot 匹兹堡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 匹兹堡线下交流</strong><br />2026-10-13 周二 18:30–20:30（美东）<br />匹兹堡 · Oakland / Lawrenceville（报名后可见详细地址）<br /><br />匹兹堡首场城市级 Grok Bot 线下（非校园专场）：短演示后动手/换配置；学生与在职皆可。主办 Micah Smith；免费，开放报名（约 30 席）。<br /><br /><a href="https://luma.com/6lx5t8ru"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="mia-20260923"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-kxjz"><img src="./assets/events/mia-20260923-cover.png" alt="Grok Bot 迈阿密 Kickoff" width="300" /></a></td><td valign="top"><strong>Grok Bot 迈阿密 Kickoff</strong><br />2026-09-23 周三 18:30–21:30（美东 EDT）<br />迈阿密 · The DOCK，400 NW 26th St（Wynwood）<br /><br />迈阿密 SpaceXAI（承接原 Cursor Community Miami）首场 Grok Bot Kickoff：现场 demo、真实 builder，初探把 AI agent 用起来。议程待公布；欢迎带本。场地 The DOCK（Wynwood）。主办 Ben Milshtein、The LAB Miami；免费，人工审核；扫描时报名 0。<br /><br /><a href="https://luma.com/spacexai-kxjz"><strong>报名 →</strong></a></td></tr></table>
-
 <a id="atl-20260924"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/ihgtq394"><img src="./assets/events/atl-20260924-cover.png" alt="Grok Bot 亚特兰大线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 亚特兰大线下交流</strong><br />2026-09-24 周四 18:00–20:00（美东 EDT）<br />亚特兰大都会区 Alpharetta · Tech North Atlanta，925 North Point Pkwy Ste 130<br /><br />亚特兰大 SpaceXAI 入门局：下班后 demo 优先——Grok Bot 是什么、产品走查、现场 AI 辅助架构演示、问答/开放麦、餐点咖啡、免费停车。主办 Raj Poloju、Sreyas Gentela；免费，免审核；笔记本可选；扫描时报名 0。论坛 171336。<br /><br /><a href="https://luma.com/ihgtq394"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 

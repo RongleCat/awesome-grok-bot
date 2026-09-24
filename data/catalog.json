@@ -3606,6 +3606,36 @@
       },
       "items": [
         {
+          "title": "观潮 Guanchao — Grok Bot research workbench template",
+          "url": "https://github.com/junit/guanchao-research-workbench",
+          "source": "GB-1696",
+          "blurb": {
+            "en": "Open docs + market/ skeleton and skills for a Grok Bot “观潮” cross-market research desk (A/HK/US/macro briefings), with a public installable Bot template on x.ai/bot; labeled not investment advice.",
+            "zh": "开源研究流程文档与 market/ 骨架 + skills，配套 Grok Bot「观潮」跨市场研究台（A/港/美/宏观简报），并提供 x.ai/bot 可安装公开模板；标明非投资建议。",
+            "ja": "Grok Bot「観潮」向けの研究フロー文書・market/ 骨格と skills。A株/香港/米国/マクロのブリーフィング用で、x.ai/bot の公開テンプレ付き（投資助言ではない旨を明示）。"
+          }
+        },
+        {
+          "title": "Doublespeed plugin for Grok Bot",
+          "url": "https://github.com/doublespeed-main/doublespeed-plugin",
+          "source": "GB-1695",
+          "blurb": {
+            "en": "Grok Bot / agent-client marketplace connector (.cursor-plugin + mcp.json) that OAuth-links a Doublespeed product workspace for carousel/content workflows without baking secrets into the package.",
+            "zh": "Grok Bot / agent 客户端市场连接器（.cursor-plugin + mcp.json）：用 OAuth 挂上 Doublespeed 产品工作区做轮播/内容流程，包内不含密钥。",
+            "ja": "Grok Bot / エージェント向けコネクタ（.cursor-plugin + mcp.json）。OAuth で Doublespeed のプロダクトワークスペースに繋ぎ、秘密情報はパッケージに含めない。"
+          }
+        },
+        {
+          "title": "Yaps plugin for Grok Bot / Cursor",
+          "url": "https://github.com/richawo/yaps-plugin",
+          "source": "GB-1694",
+          "blurb": {
+            "en": "Cursor/Grok Bot marketplace plugin (.cursor-plugin + mcp.json + skills) that drives the local Yaps desktop app for transcription, captions, clipping, TTS, and vault notes—with an optional skill to set up Yaps on the Bot’s cloud computer.",
+            "zh": "面向 Cursor / Grok Bot 市场的插件（.cursor-plugin + mcp.json + skills）：驱动本机 Yaps 桌面端做转写、字幕、剪辑、TTS 与笔记库；另有可选 skill 在 Bot 云电脑上安装 Yaps。",
+            "ja": "Cursor / Grok Bot 向けプラグイン（.cursor-plugin + mcp.json + skills）。ローカルの Yaps デスクトップで文字起こし・字幕・カット・TTS・ノートを扱い、任意で Bot クラウド PC 上に Yaps を立てる skill 付き。"
+          }
+        },
+        {
           "title": "parallel-search-skill (incl. Grok Build bench)",
           "url": "https://github.com/chenghaoYang/parallel-search-skill",
           "source": "GB-1677",
@@ -12246,6 +12276,16 @@
       },
       "items": [
         {
+          "title": "Grok Bot 0.58.0: screen view moved under Bot name (staff)",
+          "url": "https://forum.cursor.com/t/grok-bot-windows-collapsing-chat-computer-divider-hides-right-pane-with-no-monitor-icon-to-reopen/172842",
+          "source": "GB-1699",
+          "blurb": {
+            "en": "Staff (@kevinn, 2026-09-24): in Grok Bot 0.58.0 the separate top-right computer button was folded into the Bot’s name at the top center—open the Bot chat, click the name, Back to details, then the live screen preview at the top of that panel (fixes “screen view disappeared” / fully collapsed divider).",
+            "zh": "官方员工 @kevinn（2026-09-24）：Grok Bot 0.58.0 起，右上角独立电脑按钮并入对话顶部中央的 Bot 名称——打开该 Bot 对话、点名称、Back to details，面板顶部即实时屏幕预览（可恢复“屏幕视图消失”/分割条拖死）。",
+            "ja": "スタッフ @kevinn（2026-09-24）：Grok Bot 0.58.0 では右上の独立コンピュータボタンがチャット上部中央の Bot 名に統合。Bot のチャットを開き、名前→ Back to details → パネル上部のライブ画面プレビュー（画面ビュー消失／分割を閉じ切った場合の再開）。"
+          }
+        },
+        {
           "title": "Ultra weekly Bot pool: each messaged bot burns a turn",
           "url": "https://forum.cursor.com/t/grok-bot-usage-billing/172769",
           "source": "GB-1693",
@@ -14205,6 +14245,26 @@
         "ja": "関連リスト"
       },
       "items": [
+        {
+          "title": "GrokMax — deterministic-first routing to cut Grok Bot usage",
+          "url": "https://github.com/M4G3LL4N0/grokmax",
+          "source": "GB-1698",
+          "blurb": {
+            "en": "Open-source pipeline that routes tasks through deterministic/local/API/cheaper agents before spending Grok Bot quota—five-layer cache, context slicing, budget ceilings, and honest measured/estimated/proxy telemetry.",
+            "zh": "开源流水线：在消耗 Grok Bot 配额前，先走确定性/本地/API/更便宜的执行器——五层缓存、上下文切片、预算上限，以及标明 measured/estimated/proxy 的用量账本。",
+            "ja": "Grok Bot 枠を使う前に決定的/ローカル/API/安価な実行へ振るオープンなパイプライン。5層キャッシュ、コンテキスト切片、予算上限、measured/estimated/proxy を明示するテレメトリ。"
+          }
+        },
+        {
+          "title": "grokbot-bridge — phone-call MCP between local agents and Grok Bot",
+          "url": "https://github.com/kitepon/grokbot-bridge",
+          "source": "GB-1697",
+          "blurb": {
+            "en": "Shared streamable-HTTP MCP that lets a local coding agent ring a Grok Bot switchboard seat, then talk direct with a member Bot over session send/poll (switchboard does not relay bodies).",
+            "zh": "共享的 streamable-HTTP MCP：让本地编程代理呼叫 Grok Bot「总机」席位，再与成员 Bot 用 session send/poll 直连通话（总机不中继正文）。",
+            "ja": "共有の streamable-HTTP MCP。ローカルのコーディングエージェントが Grok Bot の交換手席を起こし、メンバー Bot と session の send/poll で直接通話（交換手は本文を中継しない）。"
+          }
+        },
         {
           "title": "GrokBot Compose — Android vector orb component",
           "url": "https://github.com/Mr-XiaoLiang/GrokBot",

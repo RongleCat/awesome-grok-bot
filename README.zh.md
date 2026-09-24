@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1669-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1675-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（3）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [澳门](./EVENTS.zh.md#mo-20261007)
-- **美国**（15）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [迈阿密](./EVENTS.zh.md#mia-20260923) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007)
+- **美国**（14）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [亚特兰大](./EVENTS.zh.md#atl-20260924) · [费城](./EVENTS.zh.md#phl-20260929) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007)
 - **巴西**（5）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20260926) · [库里蒂巴](./EVENTS.zh.md#cwb-20260929) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008)
 - **西班牙**（5）：[巴塞罗那](./EVENTS.zh.md#bcn-20260929) · [马德里](./EVENTS.zh.md#mad-20260929) · [瓦伦西亚](./EVENTS.zh.md#vlc-20260925) · [阿利坎特](./EVENTS.zh.md#alc-20261107) · [毕尔巴鄂](./EVENTS.zh.md#bil-20261019)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
@@ -457,6 +457,9 @@
 
 ## 技能、插件与 MCP
 
+- [观潮 Guanchao — Grok Bot research workbench template](https://github.com/junit/guanchao-research-workbench) - 开源研究流程文档与 market/ 骨架 + skills，配套 Grok Bot「观潮」跨市场研究台（A/港/美/宏观简报），并提供 x.ai/bot 可安装公开模板；标明非投资建议。.
+- [Doublespeed plugin for Grok Bot](https://github.com/doublespeed-main/doublespeed-plugin) - Grok Bot / agent 客户端市场连接器（.cursor-plugin + mcp.json）：用 OAuth 挂上 Doublespeed 产品工作区做轮播/内容流程，包内不含密钥。.
+- [Yaps plugin for Grok Bot / Cursor](https://github.com/richawo/yaps-plugin) - 面向 Cursor / Grok Bot 市场的插件（.cursor-plugin + mcp.json + skills）：驱动本机 Yaps 桌面端做转写、字幕、剪辑、TTS 与笔记库；另有可选 skill 在 Bot 云电脑上安装 Yaps。.
 - [parallel-search-skill (incl. Grok Build bench)](https://github.com/chenghaoYang/parallel-search-skill) - 多 Agent 深度调研 SKILL.md：附带将 Grok Build 与 Claude Code、Kimi Code 对比的评测 bench。.
 - [Grok connector plugins (prod Cursor team marketplace)](https://github.com/minupalaniappan/grok-connector-plugins-prod) - Cursor 团队市场的生产镜像：安装对接 xAI 生产 connectors gateway 的 Finance Grok 连接器插件。.
 - [Solidum Odoo MCP for Cursor & Grok Bot](https://github.com/bethesna-dev/odoo-mcp) - Solidum 的 Odoo MCP 连接器：含会计 Skills/Rules，面向 Cursor 与 Grok Bot 工作流。.
@@ -1327,6 +1330,7 @@
 
 ## 社区与故障现场
 
+- [Grok Bot 0.58.0: screen view moved under Bot name (staff)](https://forum.cursor.com/t/grok-bot-windows-collapsing-chat-computer-divider-hides-right-pane-with-no-monitor-icon-to-reopen/172842) - 官方员工 @kevinn（2026-09-24）：Grok Bot 0.58.0 起，右上角独立电脑按钮并入对话顶部中央的 Bot 名称——打开该 Bot 对话、点名称、Back to details，面板顶部即实时屏幕预览（可恢复“屏幕视图消失”/分割条拖死）。.
 - [Ultra weekly Bot pool: each messaged bot burns a turn](https://forum.cursor.com/t/grok-bot-usage-billing/172769) - 官方（kevinn，2026-09-23）：Ultra 上 Grok Bot 有独立于 Cursor 的每周额度；一次拉起约 60 个 Bot 再加群聊会很快烧掉额度——每个收到消息的 Bot 都会跑一轮；建议少建 Bot（一 Bot + 子智能体）、删闲置，或在 Spending 开按需。.
 - [Print via registered local computer only (no home-LAN printers)](https://forum.cursor.com/t/grok-bot-native-direct-printer-support-for-agents-skip-registered-mac-lp-bridge/172798) - 官方（kevinn，2026-09-23）：智能体跑在云电脑上，看不到家庭局域网打印机——把文件发到任意已登录且装好打印机的 Grok Bot 桌面机再打印；可在设置→电脑把「在此电脑执行」设为始终允许以减少审批（Auto-review 仍会检查）。.
 - [No per-bot reasoning effort control (staff)](https://forum.cursor.com/t/grok-bot-per-agent-reasoning-effort-control-low-mid-full/172822) - 官方（kevinn，2026-09-23）：Bot/聊天设置里目前没有按智能体调节「推理力度」——每轮推理量由 Grok Bot 决定，尚不能按 Bot、角色或模板指定（团队已知晓）。.
@@ -1525,6 +1529,8 @@
 
 ## 相关列表
 
+- [GrokMax — deterministic-first routing to cut Grok Bot usage](https://github.com/M4G3LL4N0/grokmax) - 开源流水线：在消耗 Grok Bot 配额前，先走确定性/本地/API/更便宜的执行器——五层缓存、上下文切片、预算上限，以及标明 measured/estimated/proxy 的用量账本。.
+- [grokbot-bridge — phone-call MCP between local agents and Grok Bot](https://github.com/kitepon/grokbot-bridge) - 共享的 streamable-HTTP MCP：让本地编程代理呼叫 Grok Bot「总机」席位，再与成员 Bot 用 session send/poll 直连通话（总机不中继正文）。.
 - [GrokBot Compose — Android vector orb component](https://github.com/Mr-XiaoLiang/GrokBot) - Grok Bot 小机器人形象的 Jetpack Compose 移植：表情/体型/眼神跟随，可嵌入 Android 应用。.
 - [Grok Build marginal-compute SWE-bench study](https://github.com/RyanJunejo/grok-build-marginal-compute) - 基于分叉轨迹的实验：衡量 Grok Build 在 SWE-bench Verified 上何时升级到更大模型更有效。.
 - [Coagent — peer agents for Grok Build / Claude Code](https://github.com/jasrusable/coagent) - 与 harness 无关的协作 agent：让 Grok Build 或 Claude Code 主会话在同一仓库树中拉起可记忆的内层 agent。.
@@ -1785,7 +1791,7 @@
 
 ## 贡献
 
-目前 8 个分类、1669 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1675 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

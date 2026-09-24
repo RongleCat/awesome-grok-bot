@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1669-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1675-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [イベントの詳細](./EVENTS.ja.md)
 
 - **中国**（3）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017) · [マカオ](./EVENTS.ja.md#mo-20261007)
-- **アメリカ**（15）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [マイアミ](./EVENTS.ja.md#mia-20260923) · [アトランタ](./EVENTS.ja.md#atl-20260924) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [シアトル](./EVENTS.ja.md#sea-20260924) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [オースティン](./EVENTS.ja.md#aus-20261004) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [ワシントンDC](./EVENTS.ja.md#was-20261007)
+- **アメリカ**（14）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [アトランタ](./EVENTS.ja.md#atl-20260924) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [シアトル](./EVENTS.ja.md#sea-20260924) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [オースティン](./EVENTS.ja.md#aus-20261004) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [ワシントンDC](./EVENTS.ja.md#was-20261007)
 - **ブラジル**（5）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [フロリアノポリス](./EVENTS.ja.md#fln-20260926) · [クリチバ](./EVENTS.ja.md#cwb-20260929) · [サルバドール](./EVENTS.ja.md#ssa-20261008)
 - **スペイン**（5）：[バルセロナ](./EVENTS.ja.md#bcn-20260929) · [マドリード](./EVENTS.ja.md#mad-20260929) · [バレンシア](./EVENTS.ja.md#vlc-20260925) · [アリカンテ](./EVENTS.ja.md#alc-20261107) · [ビルバオ](./EVENTS.ja.md#bil-20261019)
 - **カナダ**（4）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [モントリオール](./EVENTS.ja.md#yul-20260926) · [トロント](./EVENTS.ja.md#yyz-20261026) · [オタワ](./EVENTS.ja.md#yow-20261010)
@@ -457,6 +457,9 @@
 
 ## スキル、プラグインと MCP
 
+- [观潮 Guanchao — Grok Bot research workbench template](https://github.com/junit/guanchao-research-workbench) - Grok Bot「観潮」向けの研究フロー文書・market/ 骨格と skills。A株/香港/米国/マクロのブリーフィング用で、x.ai/bot の公開テンプレ付き（投資助言ではない旨を明示）。
+- [Doublespeed plugin for Grok Bot](https://github.com/doublespeed-main/doublespeed-plugin) - Grok Bot / エージェント向けコネクタ（.cursor-plugin + mcp.json）。OAuth で Doublespeed のプロダクトワークスペースに繋ぎ、秘密情報はパッケージに含めない。
+- [Yaps plugin for Grok Bot / Cursor](https://github.com/richawo/yaps-plugin) - Cursor / Grok Bot 向けプラグイン（.cursor-plugin + mcp.json + skills）。ローカルの Yaps デスクトップで文字起こし・字幕・カット・TTS・ノートを扱い、任意で Bot クラウド PC 上に Yaps を立てる skill 付き。
 - [parallel-search-skill (incl. Grok Build bench)](https://github.com/chenghaoYang/parallel-search-skill) - 多エージェント深掘り検索の SKILL.md。Grok Build を Claude Code・Kimi Code と並べたベンチ付きです。
 - [Grok connector plugins (prod Cursor team marketplace)](https://github.com/minupalaniappan/grok-connector-plugins-prod) - Cursor チーム向け本番マーケット。xAI 本番 connectors gateway の Finance Grok コネクタを導入します。
 - [Solidum Odoo MCP for Cursor & Grok Bot](https://github.com/bethesna-dev/odoo-mcp) - Solidum の Odoo MCP コネクタ。会計向け Skills/Rules 付きで Cursor と Grok Bot から使えます。
@@ -1327,6 +1330,7 @@
 
 ## コミュニティと障害事例
 
+- [Grok Bot 0.58.0: screen view moved under Bot name (staff)](https://forum.cursor.com/t/grok-bot-windows-collapsing-chat-computer-divider-hides-right-pane-with-no-monitor-icon-to-reopen/172842) - スタッフ @kevinn（2026-09-24）：Grok Bot 0.58.0 では右上の独立コンピュータボタンがチャット上部中央の Bot 名に統合。Bot のチャットを開き、名前→ Back to details → パネル上部のライブ画面プレビュー（画面ビュー消失／分割を閉じ切った場合の再開）。
 - [Ultra weekly Bot pool: each messaged bot burns a turn](https://forum.cursor.com/t/grok-bot-usage-billing/172769) - スタッフ（kevinn、2026-09-23）：Ultra では Grok Bot に Cursor とは別の週間枠がある。約 60 Bot 作成＋グループチャットで急減したのは、メッセージを受けた Bot ごとにターンが走るため。Bot 数を減らし（1 Bot＋サブエージェント）、不要削除、または Spending でオンデマンドを。
 - [Print via registered local computer only (no home-LAN printers)](https://forum.cursor.com/t/grok-bot-native-direct-printer-support-for-agents-skip-registered-mac-lp-bridge/172798) - スタッフ（kevinn、2026-09-23）：エージェントはクラウド上のコンピュータで動くため家庭 LAN のプリンタは見えない。プリンタ設定済みのサインイン済みデスクトップへファイルを送りそこで印刷。Settings→Computer の「このコンピュータでの実行」を Always allow にすると承認摩擦を減らせる（Auto-review は継続）。
 - [No per-bot reasoning effort control (staff)](https://forum.cursor.com/t/grok-bot-per-agent-reasoning-effort-control-low-mid-full/172822) - スタッフ（kevinn、2026-09-23）：Bot／チャット設定にエージェント単位の推論強度コントロールはない。ターンごとの推論量は Grok Bot が決め、Bot・役割・テンプレ単位ではまだ設定不可（チーム把握済み）。
@@ -1525,6 +1529,8 @@
 
 ## 関連リスト
 
+- [GrokMax — deterministic-first routing to cut Grok Bot usage](https://github.com/M4G3LL4N0/grokmax) - Grok Bot 枠を使う前に決定的/ローカル/API/安価な実行へ振るオープンなパイプライン。5層キャッシュ、コンテキスト切片、予算上限、measured/estimated/proxy を明示するテレメトリ。
+- [grokbot-bridge — phone-call MCP between local agents and Grok Bot](https://github.com/kitepon/grokbot-bridge) - 共有の streamable-HTTP MCP。ローカルのコーディングエージェントが Grok Bot の交換手席を起こし、メンバー Bot と session の send/poll で直接通話（交換手は本文を中継しない）。
 - [GrokBot Compose — Android vector orb component](https://github.com/Mr-XiaoLiang/GrokBot) - Grok Bot オーブの Jetpack Compose 移植。表情・体型・視線追従付きで Android に埋め込めます。
 - [Grok Build marginal-compute SWE-bench study](https://github.com/RyanJunejo/grok-build-marginal-compute) - 分岐軌跡実験。SWE-bench Verified で Grok Build 実行を大型モデルへエスカレートする効果を測ります。
 - [Coagent — peer agents for Grok Build / Claude Code](https://github.com/jasrusable/coagent) - ハーネス非依存の共同エージェント。Grok Build / Claude Code のリードから同一ツリー上の内層エージェントを起動します。
@@ -1785,7 +1791,7 @@
 
 ## 貢献
 
-8 セクションに 1669 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1675 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
