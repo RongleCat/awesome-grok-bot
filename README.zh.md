@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1712-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1719-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -470,6 +470,11 @@
 
 ## 技能、插件与 MCP
 
+- [grok-codex-app-handoff — Codex CLI to desktop via Grok Bot](https://github.com/ccmxigua/grok-codex-app-handoff) - 可复用的 Grok Bot 技能与脚本：经 macOS Terminal.app 把 Codex CLI 会话交接给 Codex 桌面应用。.
+- [Pallyy — social scheduling plugin for Grok Bot](https://github.com/pallyysocial/pallyy-agent) - Pallyy 托管 MCP 插件（含技能）：让 Grok Bot 管理社交账号集，并在 Instagram、LinkedIn、X 等平台起草或排期帖子。.
+- [Fintable — bank and investment MCP for Grok Bot](https://github.com/ibnIrshad/fintable-grok-plugin) - Fintable 插件：让 Grok Bot 或 Cursor 通过托管 MCP 处理银行流水、余额、投资与分类。.
+- [Wassenger — WhatsApp OS plugin for Cursor and Grok Bot](https://github.com/wassengerhq/cursor-plugin) - Wassenger 插件：把 Cursor 与 Grok Bot 接到 WhatsApp Business，用 MCP 做自动回复、营销、销售与群管理。.
+- [grok-bot-builder-architect — design multi-bot Grok Bot rosters](https://github.com/AN3S-CREATE/grok-bot-builder-architect) - Grok Bot 技能：把杂乱需求整理成可粘贴的 Bot 配置、多 Bot 阵容、例程与插件，并区分 Grok Bot 与 Grok Build。.
 - [MSSQL DBA skill book for Grok Bot fleets](https://github.com/SimonBarnett/skill-dba) - 面向 Grok Bot / Bob 机群的通用 MSSQL DBA 技能书（`.grok/skills`：备份、健康检查、死锁排查）。.
 - [Resemble AI authenticity connector for Grok Bot](https://github.com/obaid/resemble-ai-connector) - 面向 Grok Bot 的 Resemble AI 真实性 Agent 插件 + MCP（Detect Agent、调查、深度伪造评分）。.
 - [NeiroPay tipping plugin for Grok Bot](https://github.com/bropump/neiropay-grok-plugin) - 经 NeiroPay 的 OAuth MCP：让 Grok Bot 用 Solana 给 X 账号打赏（准备/发送/状态工具，无本地密钥）。.
@@ -1025,6 +1030,7 @@
 
 ## 开源替代
 
+- [GrokInstall — capability contracts for Grok Bot](https://github.com/M4G3LL4N0/grokinstall) - Go CLI：检查仓库、选择安全集成方式，并生成 Grok Bot 可调用的精简能力契约，无需把整个项目塞进上下文。.
 - [Grok Bot Agent Clone (Next.js + E2B)](https://github.com/rrs301/grok-bot-agent-clone) - 受 Grok Bot 启发的 Next.js agent 工作区克隆：Composio 工具、Inngest 例程与 E2B 桌面沙箱。.
 - [Holly Bot — BYOK Grok Bot–style desktop assistant](https://github.com/xgamer791/holly-bot) - 自备密钥的 Grok Bot 风格助手：多 Bot 人设，并可在本机运行 always-on 的 Holly Computer。.
 - [Grokbot Harness (GBH) — open Grok Bot replica](https://github.com/river-li/brok-pot-harness) - 开源桌面 agent 工作区：在本地复刻 Grok Bot，含沙箱、MCP/Skills 与自备模型 API。.
@@ -1351,6 +1357,7 @@
 
 ## 社区与故障现场
 
+- [Three Surfaces — IDE, Agents Projects, and Grok Bot (forum)](https://forum.cursor.com/t/now-we-have-three-surfaces/172965) - 论坛帖（grok-bot 标签）：Cursor IDE、Agents Projects 与 Grok Bot 像三套界面，彼此难以打通。.
 - [Agent Computer unreachable on iOS and Windows](https://forum.cursor.com/t/subject-grok-bot-agent-computer-unreachable-on-ios-and-windows/172958) - 反馈：全新安装的 Grok Bot 在 iOS 与 Windows 上无法连通 Agent Computer。.
 - [Stuck on Setting up Grok Bot's computer (Mac/iOS)](https://forum.cursor.com/t/grok-bot-stuck-on-setting-up-grok-bots-computer-mac-and-ios-cannot-connect/172957) - 反馈：Mac 与 iOS 上 Grok Bot 一直停在「Setting up Grok Bot's computer」，连不上 Agent Computer。.
 - [Delisted GitHub plugin stuck connected with 0 tools](https://forum.cursor.com/t/grok-bot-delisted-github-plugin-48677658-cant-be-uninstalled-or-reconfigured-and-shows-connected-with-0-tools-after-a-401/172955) - 反馈：已下架的 GitHub 市场插件（48677658）无法卸载/重配，401 后仍显示已连接但 0 工具。.
@@ -1830,7 +1837,7 @@
 
 ## 贡献
 
-目前 8 个分类、1712 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1719 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

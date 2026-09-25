@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1712-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1719-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -470,6 +470,11 @@
 
 ## Skills, Plugins & MCP
 
+- [grok-codex-app-handoff — Codex CLI to desktop via Grok Bot](https://github.com/ccmxigua/grok-codex-app-handoff) - Reusable Grok Bot skill and helper scripts that hand a Codex CLI session to the Codex desktop app through macOS Terminal.app.
+- [Pallyy — social scheduling plugin for Grok Bot](https://github.com/pallyysocial/pallyy-agent) - Pallyy hosted MCP plugin (plus skill) so Grok Bot can list social sets and draft or schedule posts across Instagram, LinkedIn, X, and more.
+- [Fintable — bank and investment MCP for Grok Bot](https://github.com/ibnIrshad/fintable-grok-plugin) - Fintable plugin so Grok Bot or Cursor can work with bank transactions, balances, investments, and categories over a hosted MCP connector.
+- [Wassenger — WhatsApp OS plugin for Cursor and Grok Bot](https://github.com/wassengerhq/cursor-plugin) - Wassenger plugin connecting Cursor and Grok Bot to WhatsApp Business for agent replies, campaigns, sales, and group management via MCP.
+- [grok-bot-builder-architect — design multi-bot Grok Bot rosters](https://github.com/AN3S-CREATE/grok-bot-builder-architect) - Grok Bot skill that turns a messy request into paste-ready Bot packages, multi-bot rosters, routines, and plugins while distinguishing Grok Bot from Grok Build.
 - [MSSQL DBA skill book for Grok Bot fleets](https://github.com/SimonBarnett/skill-dba) - General Microsoft SQL Server DBA playbooks as `.grok/skills` for Grok Bot / Bob fleets (backup, health, deadlock triage).
 - [Resemble AI authenticity connector for Grok Bot](https://github.com/obaid/resemble-ai-connector) - Agent plugin + MCP for Resemble AI media authenticity workflows on Grok Bot (detect agents, investigations, deepfake scores).
 - [NeiroPay tipping plugin for Grok Bot](https://github.com/bropump/neiropay-grok-plugin) - OAuth MCP connector so Grok Bot can tip X accounts on Solana via NeiroPay (prepare/send/status tools; no local secrets).
@@ -1025,6 +1030,7 @@
 
 ## Open-Source Alternatives
 
+- [GrokInstall — capability contracts for Grok Bot](https://github.com/M4G3LL4N0/grokinstall) - Go CLI that inspects a repo, picks a safe integration, and emits a tiny capability contract Grok Bot can call without loading the whole project.
 - [Grok Bot Agent Clone (Next.js + E2B)](https://github.com/rrs301/grok-bot-agent-clone) - Next.js agent workspace clone with Composio tools, Inngest routines, and E2B desktop sandboxes inspired by Grok Bot.
 - [Holly Bot — BYOK Grok Bot–style desktop assistant](https://github.com/xgamer791/holly-bot) - Bring-your-own-key Grok Bot–style assistant with multi-bot personalities plus an optional always-on Holly Computer host.
 - [Grokbot Harness (GBH) — open Grok Bot replica](https://github.com/river-li/brok-pot-harness) - Open desktop agent workspace aiming to replica Grok Bot locally with sandbox, MCP/Skills, and bring-your-own model API.
@@ -1351,6 +1357,7 @@
 
 ## Community & Failure Modes
 
+- [Three Surfaces — IDE, Agents Projects, and Grok Bot (forum)](https://forum.cursor.com/t/now-we-have-three-surfaces/172965) - Forum thread (tagged grok-bot): Cursor IDE, Agents Projects, and Grok Bot feel like three separate surfaces with weak cross-integration.
 - [Agent Computer unreachable on iOS and Windows](https://forum.cursor.com/t/subject-grok-bot-agent-computer-unreachable-on-ios-and-windows/172958) - Bug report: brand-new Grok Bot install cannot reach the Agent Computer on iOS and Windows.
 - [Stuck on Setting up Grok Bot's computer (Mac/iOS)](https://forum.cursor.com/t/grok-bot-stuck-on-setting-up-grok-bots-computer-mac-and-ios-cannot-connect/172957) - Report that Grok Bot stays on “Setting up Grok Bot's computer” on Mac and iOS and never reaches the Agent Computer.
 - [Delisted GitHub plugin stuck connected with 0 tools](https://forum.cursor.com/t/grok-bot-delisted-github-plugin-48677658-cant-be-uninstalled-or-reconfigured-and-shows-connected-with-0-tools-after-a-401/172955) - Bug report: delisted marketplace GitHub plugin (48677658) cannot be uninstalled/reconfigured and shows connected with 0 tools after 401.
@@ -1830,7 +1837,7 @@
 
 ## Contributing
 
-1712 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1719 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1712-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1719-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -470,6 +470,11 @@
 
 ## スキル、プラグインと MCP
 
+- [grok-codex-app-handoff — Codex CLI to desktop via Grok Bot](https://github.com/ccmxigua/grok-codex-app-handoff) - 再利用可能な Grok Bot スキルとヘルパー。macOS Terminal.app 経由で Codex CLI セッションを Codex デスクトップへ引き渡す。
+- [Pallyy — social scheduling plugin for Grok Bot](https://github.com/pallyysocial/pallyy-agent) - Pallyy ホスト型 MCP プラグイン（スキル付き）。Grok Bot がソーシャルセットを管理し、Instagram / LinkedIn / X などで下書き・予約投稿できる。
+- [Fintable — bank and investment MCP for Grok Bot](https://github.com/ibnIrshad/fintable-grok-plugin) - Fintable プラグイン。Grok Bot または Cursor がホスト型 MCP で銀行明細・残高・投資・カテゴリを扱える。
+- [Wassenger — WhatsApp OS plugin for Cursor and Grok Bot](https://github.com/wassengerhq/cursor-plugin) - Wassenger プラグイン。Cursor と Grok Bot を WhatsApp Business に接続し、MCP で返信・キャンペーン・営業・グループ管理。
+- [grok-bot-builder-architect — design multi-bot Grok Bot rosters](https://github.com/AN3S-CREATE/grok-bot-builder-architect) - Grok Bot スキル。雑多な要望を貼り付け可能な Bot パッケージ・多 Bot 編成・ルーチン・プラグインに整理し、Grok Bot と Grok Build を区別する。
 - [MSSQL DBA skill book for Grok Bot fleets](https://github.com/SimonBarnett/skill-dba) - Grok Bot / Bob 向けの汎用 MSSQL DBA スキルブック（`.grok/skills`：バックアップ・ヘルス・デッドロック）。
 - [Resemble AI authenticity connector for Grok Bot](https://github.com/obaid/resemble-ai-connector) - Grok Bot 向け Resemble AI 真正性プラグイン + MCP（Detect Agent・調査・ディープフェイクスコア）。
 - [NeiroPay tipping plugin for Grok Bot](https://github.com/bropump/neiropay-grok-plugin) - NeiroPay の OAuth MCP。Grok Bot が Solana で X アカウントにチップ（準備/送信/状態、ローカル秘密なし）。
@@ -1025,6 +1030,7 @@
 
 ## オープンソースの代替
 
+- [GrokInstall — capability contracts for Grok Bot](https://github.com/M4G3LL4N0/grokinstall) - Go CLI。リポジトリを検査し安全な統合を選び、プロジェクト全体を読み込まずに Grok Bot が呼べる小さな capability 契約を出す。
 - [Grok Bot Agent Clone (Next.js + E2B)](https://github.com/rrs301/grok-bot-agent-clone) - Grok Bot 着想の Next.js agent 作業空間。Composio・Inngest・E2B デスクトップサンドボックス付き。
 - [Holly Bot — BYOK Grok Bot–style desktop assistant](https://github.com/xgamer791/holly-bot) - BYOK の Grok Bot 風アシスタント。複数 Bot 人格と常駐 Holly Computer ホストに対応します。
 - [Grokbot Harness (GBH) — open Grok Bot replica](https://github.com/river-li/brok-pot-harness) - Grok Bot をローカル再現するオープンなデスクトップ agent 作業空間。サンドボックス・MCP/Skills・BYOK 対応。
@@ -1351,6 +1357,7 @@
 
 ## コミュニティと障害事例
 
+- [Three Surfaces — IDE, Agents Projects, and Grok Bot (forum)](https://forum.cursor.com/t/now-we-have-three-surfaces/172965) - フォーラム（grok-bot タグ）。Cursor IDE・Agents Projects・Grok Bot が三つの画面に分かれ、連携が弱いという指摘。
 - [Agent Computer unreachable on iOS and Windows](https://forum.cursor.com/t/subject-grok-bot-agent-computer-unreachable-on-ios-and-windows/172958) - 報告：新規インストールの Grok Bot が iOS / Windows で Agent Computer に到達できない。
 - [Stuck on Setting up Grok Bot's computer (Mac/iOS)](https://forum.cursor.com/t/grok-bot-stuck-on-setting-up-grok-bots-computer-mac-and-ios-cannot-connect/172957) - 報告：Mac / iOS で「Setting up Grok Bot's computer」のまま Agent Computer に接続できない。
 - [Delisted GitHub plugin stuck connected with 0 tools](https://forum.cursor.com/t/grok-bot-delisted-github-plugin-48677658-cant-be-uninstalled-or-reconfigured-and-shows-connected-with-0-tools-after-a-401/172955) - 報告：市場から消えた GitHub プラグイン（48677658）を削除／再設定できず、401 後も接続・0 tools のまま。
@@ -1830,7 +1837,7 @@
 
 ## 貢献
 
-8 セクションに 1712 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1719 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

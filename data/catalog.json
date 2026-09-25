@@ -3716,6 +3716,56 @@
       },
       "items": [
         {
+          "title": "grok-codex-app-handoff — Codex CLI to desktop via Grok Bot",
+          "url": "https://github.com/ccmxigua/grok-codex-app-handoff",
+          "source": "GB-1741",
+          "blurb": {
+            "en": "Reusable Grok Bot skill and helper scripts that hand a Codex CLI session to the Codex desktop app through macOS Terminal.app.",
+            "zh": "可复用的 Grok Bot 技能与脚本：经 macOS Terminal.app 把 Codex CLI 会话交接给 Codex 桌面应用。",
+            "ja": "再利用可能な Grok Bot スキルとヘルパー。macOS Terminal.app 経由で Codex CLI セッションを Codex デスクトップへ引き渡す。"
+          }
+        },
+        {
+          "title": "Pallyy — social scheduling plugin for Grok Bot",
+          "url": "https://github.com/pallyysocial/pallyy-agent",
+          "source": "GB-1740",
+          "blurb": {
+            "en": "Pallyy hosted MCP plugin (plus skill) so Grok Bot can list social sets and draft or schedule posts across Instagram, LinkedIn, X, and more.",
+            "zh": "Pallyy 托管 MCP 插件（含技能）：让 Grok Bot 管理社交账号集，并在 Instagram、LinkedIn、X 等平台起草或排期帖子。",
+            "ja": "Pallyy ホスト型 MCP プラグイン（スキル付き）。Grok Bot がソーシャルセットを管理し、Instagram / LinkedIn / X などで下書き・予約投稿できる。"
+          }
+        },
+        {
+          "title": "Fintable — bank and investment MCP for Grok Bot",
+          "url": "https://github.com/ibnIrshad/fintable-grok-plugin",
+          "source": "GB-1739",
+          "blurb": {
+            "en": "Fintable plugin so Grok Bot or Cursor can work with bank transactions, balances, investments, and categories over a hosted MCP connector.",
+            "zh": "Fintable 插件：让 Grok Bot 或 Cursor 通过托管 MCP 处理银行流水、余额、投资与分类。",
+            "ja": "Fintable プラグイン。Grok Bot または Cursor がホスト型 MCP で銀行明細・残高・投資・カテゴリを扱える。"
+          }
+        },
+        {
+          "title": "Wassenger — WhatsApp OS plugin for Cursor and Grok Bot",
+          "url": "https://github.com/wassengerhq/cursor-plugin",
+          "source": "GB-1738",
+          "blurb": {
+            "en": "Wassenger plugin connecting Cursor and Grok Bot to WhatsApp Business for agent replies, campaigns, sales, and group management via MCP.",
+            "zh": "Wassenger 插件：把 Cursor 与 Grok Bot 接到 WhatsApp Business，用 MCP 做自动回复、营销、销售与群管理。",
+            "ja": "Wassenger プラグイン。Cursor と Grok Bot を WhatsApp Business に接続し、MCP で返信・キャンペーン・営業・グループ管理。"
+          }
+        },
+        {
+          "title": "grok-bot-builder-architect — design multi-bot Grok Bot rosters",
+          "url": "https://github.com/AN3S-CREATE/grok-bot-builder-architect",
+          "source": "GB-1737",
+          "blurb": {
+            "en": "Grok Bot skill that turns a messy request into paste-ready Bot packages, multi-bot rosters, routines, and plugins while distinguishing Grok Bot from Grok Build.",
+            "zh": "Grok Bot 技能：把杂乱需求整理成可粘贴的 Bot 配置、多 Bot 阵容、例程与插件，并区分 Grok Bot 与 Grok Build。",
+            "ja": "Grok Bot スキル。雑多な要望を貼り付け可能な Bot パッケージ・多 Bot 編成・ルーチン・プラグインに整理し、Grok Bot と Grok Build を区別する。"
+          }
+        },
+        {
           "title": "MSSQL DBA skill book for Grok Bot fleets",
           "url": "https://github.com/SimonBarnett/skill-dba",
           "source": "GB-1714",
@@ -9226,6 +9276,16 @@
       },
       "items": [
         {
+          "title": "GrokInstall — capability contracts for Grok Bot",
+          "url": "https://github.com/M4G3LL4N0/grokinstall",
+          "source": "GB-1742",
+          "blurb": {
+            "en": "Go CLI that inspects a repo, picks a safe integration, and emits a tiny capability contract Grok Bot can call without loading the whole project.",
+            "zh": "Go CLI：检查仓库、选择安全集成方式，并生成 Grok Bot 可调用的精简能力契约，无需把整个项目塞进上下文。",
+            "ja": "Go CLI。リポジトリを検査し安全な統合を選び、プロジェクト全体を読み込まずに Grok Bot が呼べる小さな capability 契約を出す。"
+          }
+        },
+        {
           "title": "Grok Bot Agent Clone (Next.js + E2B)",
           "url": "https://github.com/rrs301/grok-bot-agent-clone",
           "source": "GB-1689",
@@ -12465,6 +12525,16 @@
         "ja": "コミュニティと障害事例"
       },
       "items": [
+        {
+          "title": "Three Surfaces — IDE, Agents Projects, and Grok Bot (forum)",
+          "url": "https://forum.cursor.com/t/now-we-have-three-surfaces/172965",
+          "source": "GB-1743",
+          "blurb": {
+            "en": "Forum thread (tagged grok-bot): Cursor IDE, Agents Projects, and Grok Bot feel like three separate surfaces with weak cross-integration.",
+            "zh": "论坛帖（grok-bot 标签）：Cursor IDE、Agents Projects 与 Grok Bot 像三套界面，彼此难以打通。",
+            "ja": "フォーラム（grok-bot タグ）。Cursor IDE・Agents Projects・Grok Bot が三つの画面に分かれ、連携が弱いという指摘。"
+          }
+        },
         {
           "title": "Agent Computer unreachable on iOS and Windows",
           "url": "https://forum.cursor.com/t/subject-grok-bot-agent-computer-unreachable-on-ios-and-windows/172958",
