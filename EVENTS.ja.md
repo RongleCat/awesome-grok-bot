@@ -27,9 +27,6 @@
 <a id="phl-20260929"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-hdle"><img src="./assets/events/phl-20260929-cover.png" alt="Grok Bot Meetup Philadelphia" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Philadelphia</strong><br />2026-09-29（火）18:00–20:30（America/New_York、EDT、UTC−4）<br />フィラデルフィア · Indy Hall Clubhouse、709 N 2nd St 3rd Floor<br /><br />SpaceXAI for Philadelphia 初の Grok Bot Meetup（主催 Luis Cielak / Malcolm Jones）。マルチエージェント共有・Think–Pair–Share・飲食・Free Grok credits。無料・承認不要・スキャン時 49 名。会場 Indy Hall。隔夜リネーム：9/12 夕は “Cursor Meetup Philadelphia — September”（未提案の Cursor 枠）→ 現在は Grok Bot Meetup。期限切れの campus 枠 phl-20260903 / tmp-20260903 とは別。<br /><br /><a href="https://luma.com/cursor-hdle"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="sea-20260924"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotengineering-seattle"><img src="./assets/events/sea-20260924-cover.png" alt="Grok Bot for Engineering build night (Seattle)" width="300" /></a></td><td valign="top"><strong>Grok Bot for Engineering build night (Seattle)</strong><br />2026-09-24（木）17:00–20:30（America/Los_Angeles、PDT、UTC−7）<br />シアトル · 会場 TBA（オフライン）<br /><br />SpaceXAI Community の Engineering 向けビルドナイト（主催 Sunita Rao；forum 171546）。太平洋時間 17:00–20:30。オフライン無料。ローカル日 9/24。slug grokbotengineering-seattle（= spacexai-xn5j）。<br /><br /><a href="https://luma.com/grokbotengineering-seattle"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
 <a id="sfp-20260929"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotproduct-sf"><img src="./assets/events/sfp-20260929-cover.png" alt="Grok Bot for Product build night (SF)" width="300" /></a></td><td valign="top"><strong>Grok Bot for Product build night (SF)</strong><br />2026-09-29（火）17:00–20:30（America/Los_Angeles、PDT、UTC−7）<br />サンフランシスコ · 会場 TBA（オフライン）<br /><br />SpaceXAI Community の Product 向けビルドナイト（主催 Sunita Rao；forum 171547）。Howard の sfpm-20260915（9/15）とは別。17:00–20:30。ローカル日 9/29。slug grokbotproduct-sf（= spacexai-81pf）。<br /><br /><a href="https://luma.com/grokbotproduct-sf"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
@@ -65,9 +62,6 @@
 
 <a id="pas-20261008"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/l4yagss3"><img src="./assets/events/pas-20261008-cover.png" alt="Startup Club × SpaceXAI Build Night（Caltech）" width="300" /></a></td><td valign="top"><strong>Startup Club × SpaceXAI Build Night（Caltech）</strong><br />2026-10-07（水）19:00–21:00（America/Los_Angeles）<br />米国カリフォルニア州パサデナ · Hameetman Center / Winnett（Caltech）— オフライン<br /><br />Caltech 初の公開 SpaceXAI ナイト（Startup Club）。リポジトリデモ後に Cursor / Grok Bot で制作。Luma で登録。<br /><br /><a href="https://luma.com/l4yagss3"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="nyc-20260924"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/en1r0kym"><img src="./assets/events/nyc-20260924-cover.png" alt="Tech@NYU × SpaceXAI パネル" width="300" /></a></td><td valign="top"><strong>Tech@NYU × SpaceXAI パネル</strong><br />2026-09-24（水）18:30–20:00（America/New_York）<br />米国ニューヨーク · NYU Leslie eLab（16 Washington Pl）— オフライン<br /><br />Tech@NYU パネル。SpaceXAI が Cursor / Grok Bot でどう作るか紹介し、その後ワークショップ（約102名）。Luma で登録。<br /><br /><a href="https://luma.com/en1r0kym"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="lax-20260928"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/t8xpz5ws"><img src="./assets/events/lax-20260928-cover.png" alt="Grok Bot Meetup ロサンゼルス創業者" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ロサンゼルス創業者</strong><br />2026-09-28（月）19:00–21:00（America/Los_Angeles、UTC-07:00）<br />米国ロサンゼルス · オフライン（Club Sanctuary 連携。住所は Luma）<br /><br />ロサンゼルスの創業者向け Grok Bot コワーキング＋デモ夜（食事と無料 Grok クレジット）。<br /><br /><a href="https://luma.com/t8xpz5ws"><strong>Luma で申し込む →</strong></a></td></tr></table>
@@ -114,24 +108,6 @@
 <a id="bil-20261019"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-euskadi"><img src="./assets/events/bil-20261019-cover.png" alt="Grok Bot Meetup ビルバオ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ビルバオ</strong><br />2026-10-19（月）18:00–21:30（Europe/Madrid）<br />スペイン・ビルバオ · La Perrera Espazioa（Sabino Arana Etorbidea, 50）— オフライン<br /><br />SpaceXAI ビルバオ（La Perrera Espazioa）のミートアップ。Grok Bot で作り共有。Luma で無料登録。<br /><br /><a href="https://luma.com/spacexai-euskadi"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="country-mx"></a>
-### メキシコ
-
-<a id="pue-20260924"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/puebla-d4iw"><img src="./assets/events/pue-20260924-cover.png" alt="Grok Bot Meetup Puebla" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Puebla</strong><br />2026-09-24（木）18:00–22:00（CST）<br />プエブラ · 登録後に住所を表示<br /><br />プエブラ初の Grok Bot ミートアップ。主催者承認が必要。<br /><br /><a href="https://luma.com/puebla-d4iw"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="cuu-20260924"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-7lje"><img src="./assets/events/cuu-20260924-cover.png" alt="Grok Bot Meetup Chihuahua" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Chihuahua</strong><br />2026-09-24（木）16:00–19:00（Chihuahua）<br />Chihuahua · LivingLab CUU, Av. George Washington 3701-13<br /><br />チワワ初の Grok Bot × SpaceXAI（LivingLab CUU）。主催 Alfonso Reyes。承認制・約 200 席。<br /><br /><a href="https://luma.com/spacexai-7lje"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="cdmx-20260926"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-89bf"><img src="./assets/events/cdmx-20260926-cover.png" alt="Grok Bot Meetup Mexico City" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Mexico City</strong><br />2026-09-26（土）09:00–13:00（CDMX）<br />Mexico City · Sandbox Hub, Luis G. Urbina 4-dpto. 103, Polanco<br /><br />CDMX 初の対面（Sandbox Hub Polanco）。主催 Javier Rivero / Ben Kim / Ricardo García。承認制・約 60 席。<br /><br /><a href="https://luma.com/spacexai-89bf"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
-
-<a id="mty-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/5ohq71b3"><img src="./assets/events/mty-20261003-cover.png" alt="Grok Monterrey Hackathon" width="300" /></a></td><td valign="top"><strong>Grok Monterrey Hackathon</strong><br />2026-10-03（土）10:00–17:00（America/Monterrey）<br />メキシコ・モンテレイ — オフライン（詳細は Luma）<br /><br />Grok Monterrey Hackathon（SpaceXAI for Monterrey）。以前の mty-20260910 ミートアップとは別の当日ビルド枠。<br /><br /><a href="https://luma.com/5ohq71b3"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="vhs-20261001"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-chzd"><img src="./assets/events/vhs-20261001-cover.png" alt="Grok Bot Meetup ビヤエルモサ（10月）" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ビヤエルモサ（10月）</strong><br />2026-10-01（木）17:00–21:00（America/Mexico_City、UTC-06:00）<br />メキシコ・ビヤエルモサ · オフライン<br /><br />公式 SpaceXAI ビヤエルモサ。Cursor / Grok Bot ビルダー向けオフライン（10月版）。<br /><br /><a href="https://luma.com/spacexai-chzd"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
 <a id="country-ca"></a>
 ### カナダ
 
@@ -177,14 +153,17 @@
 <a id="bli-20261025"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/ubpln69o"><img src="./assets/events/bli-20261025-cover.jpg" alt="Grok Bot Meetup バリ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup バリ</strong><br />2026-10-25（日）13:00–16:00（Asia/Makassar）<br />バリ・チャングー / バドゥン · 住所は登録後 — オフライン<br /><br />SpaceXAI バリ（チャングー）の Grok Bot ミートアップ。ワークフロー共有・クレジット・飲食あり。初心者歓迎。Luma で登録。<br /><br /><a href="https://luma.com/ubpln69o"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="country-ec"></a>
-### エクアドル
+<a id="country-mx"></a>
+### メキシコ
 
-<a id="uio-20260924"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotquitomeetup"><img src="./assets/events/uio-20260924-cover.png" alt="Grok Bot Meetup Quito" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Quito</strong><br />2026-09-24（木）19:30–21:30（ECT）<br />キト · 登録後に住所を表示<br /><br />キトの対面 Grok Bot。無料、主催者承認、残席 47。<br /><br /><a href="https://luma.com/grokbotquitomeetup"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+<a id="cdmx-20260926"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-89bf"><img src="./assets/events/cdmx-20260926-cover.png" alt="Grok Bot Meetup Mexico City" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Mexico City</strong><br />2026-09-26（土）09:00–13:00（CDMX）<br />Mexico City · Sandbox Hub, Luis G. Urbina 4-dpto. 103, Polanco<br /><br />CDMX 初の対面（Sandbox Hub Polanco）。主催 Javier Rivero / Ben Kim / Ricardo García。承認制・約 60 席。<br /><br /><a href="https://luma.com/spacexai-89bf"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
-<a id="cumb-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cccumbaya"><img src="./assets/events/cumb-20261003-cover.png" alt="Grok Bot Meetup Cumbayá" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cumbayá</strong><br />2026-10-03（土）09:30–12:00（ECT）<br />キト近郊 Cumbayá<br /><br />キト近郊 Cumbayá の対面 Grok Bot。無料、ウェイティング可、残席 37。<br /><br /><a href="https://luma.com/cccumbaya"><strong>Luma で申し込む →</strong></a></td></tr></table>
+<a id="mty-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/5ohq71b3"><img src="./assets/events/mty-20261003-cover.png" alt="Grok Monterrey Hackathon" width="300" /></a></td><td valign="top"><strong>Grok Monterrey Hackathon</strong><br />2026-10-03（土）10:00–17:00（America/Monterrey）<br />メキシコ・モンテレイ — オフライン（詳細は Luma）<br /><br />Grok Monterrey Hackathon（SpaceXAI for Monterrey）。以前の mty-20260910 ミートアップとは別の当日ビルド枠。<br /><br /><a href="https://luma.com/5ohq71b3"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<a id="vhs-20261001"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-chzd"><img src="./assets/events/vhs-20261001-cover.png" alt="Grok Bot Meetup ビヤエルモサ（10月）" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ビヤエルモサ（10月）</strong><br />2026-10-01（木）17:00–21:00（America/Mexico_City、UTC-06:00）<br />メキシコ・ビヤエルモサ · オフライン<br /><br />公式 SpaceXAI ビヤエルモサ。Cursor / Grok Bot ビルダー向けオフライン（10月版）。<br /><br /><a href="https://luma.com/spacexai-chzd"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-gt"></a>
 ### グアテマラ
@@ -278,6 +257,12 @@
 
 <a id="prg-20260930"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-mljb"><img src="./assets/events/prg-20260930-cover.png" alt="Cursor Hackathon プラハ：Forge the Stack" width="300" /></a></td><td valign="top"><strong>Cursor Hackathon プラハ：Forge the Stack</strong><br />2026-09-30（水）12:30–19:00（Europe/Prague）<br />プラハ · SpaceXAI Prague — オフライン<br /><br />SpaceXAI Community のプラハ Cursor/Grok ハッカソン（Forge the Stack）。対面。Luma で登録。<br /><br /><a href="https://luma.com/cursor-mljb"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<a id="country-ec"></a>
+### エクアドル
+
+<a id="cumb-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cccumbaya"><img src="./assets/events/cumb-20261003-cover.png" alt="Grok Bot Meetup Cumbayá" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cumbayá</strong><br />2026-10-03（土）09:30–12:00（ECT）<br />キト近郊 Cumbayá<br /><br />キト近郊 Cumbayá の対面 Grok Bot。無料、ウェイティング可、残席 37。<br /><br /><a href="https://luma.com/cccumbaya"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-gb"></a>
 ### イギリス

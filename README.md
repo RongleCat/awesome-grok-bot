@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1699-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1712-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,14 +38,13 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261007)
-- **United States**（19）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Philadelphia](./EVENTS.md#phl-20260929) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Washington, DC](./EVENTS.md#was-20260929) · [Pasadena](./EVENTS.md#pas-20261008) · [New York](./EVENTS.md#nyc-20260924) · [Los Angeles](./EVENTS.md#lax-20260928) · [Ithaca](./EVENTS.md#ith-20260929) · [Atlanta](./EVENTS.md#atl-20261016)
+- **United States**（17）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Philadelphia](./EVENTS.md#phl-20260929) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Washington, DC](./EVENTS.md#was-20260929) · [Pasadena](./EVENTS.md#pas-20261008) · [Los Angeles](./EVENTS.md#lax-20260928) · [Ithaca](./EVENTS.md#ith-20260929) · [Atlanta](./EVENTS.md#atl-20261016)
 - **Brazil**（5）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926) · [Curitiba](./EVENTS.md#cwb-20260929) · [Salvador](./EVENTS.md#ssa-20261008)
 - **Spain**（5）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929) · [Valencia](./EVENTS.md#vlc-20260925) · [Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
-- **Mexico**（5）：[Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926) · [Monterrey](./EVENTS.md#mty-20261003) · [Villahermosa](./EVENTS.md#vhs-20261001)
 - **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
 - **Germany**（4）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20260926) · [Frankfurt](./EVENTS.md#fra-20261023)
 - **Indonesia**（4）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003) · [Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
-- **Ecuador**（2）：[Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
+- **Mexico**（3）：[Mexico City](./EVENTS.md#cdmx-20260926) · [Monterrey](./EVENTS.md#mty-20261003) · [Villahermosa](./EVENTS.md#vhs-20261001)
 - **Guatemala**（2）：[Guatemala City](./EVENTS.md#gua-20261003) · [Guatemala](./EVENTS.md#gua-20261205)
 - **Italy**（2）：[Padua](./EVENTS.md#pdv-20260925) · [Rome](./EVENTS.md#rom-20261023)
 - **Japan**（2）：[Sapporo](./EVENTS.md#spk-20261002) · [Tokyo](./EVENTS.md#tyo-20261011)
@@ -59,6 +58,7 @@
 - **Côte d'Ivoire**（1）：[Abidjan](./EVENTS.md#abj-20261107)
 - **Colombia**（1）：[Pereira](./EVENTS.md#pei-20261002)
 - **Czechia**（1）：[Prague](./EVENTS.md#prg-20260930)
+- **Ecuador**（1）：[Cumbayá](./EVENTS.md#cumb-20261003)
 - **United Kingdom**（1）：[London](./EVENTS.md#ldn-20260926)
 - **Georgia**（1）：[Tbilisi](./EVENTS.md#tbs-20260926)
 - **Greece**（1）：[Athens](./EVENTS.md#ath-20261001)
@@ -94,6 +94,12 @@
 
 ## Official Resources
 
+- [Grok Build overview (docs.x.ai)](https://docs.x.ai/build/overview) - Official SpaceXAI docs overview for Grok Build, the terminal coding agent companion to Grok Bot.
+- [Group chats and Bot-to-Bot messages (Cursor Help)](https://cursor.com/help/grok-bot/group-chats) - Official Cursor Help: create group chats with multiple Bots and use Bot-to-Bot handoffs that appear in each Bot's own chat.
+- [Change a Bot's name, picture, and description (Cursor Help)](https://cursor.com/help/grok-bot/edit-bot) - Official Cursor Help: edit a Bot's name, picture, and job description that steers what it works on and when it asks first.
+- [Grok Bot FAQs (Cursor Help)](https://cursor.com/help/grok-bot/faqs) - Official Cursor Help FAQs for Grok Bot access, usage, service status, and links to longer step-by-step articles.
+- [Grok Bot How Tos (Cursor Help)](https://cursor.com/help/grok-bot/how-to) - Official Cursor Help hub of Grok Bot how-to articles—match a symptom to the linked recovery or setup steps.
+- [Voice chat with a Bot (Cursor Help)](https://cursor.com/help/grok-bot/voice-chat) - Official Cursor Help: start a live spoken voice chat with a Bot on desktop or mobile (talk and the Bot talks back).
 - [@bot QoL: cleaner UI, Google Docs/Sheets/Slides, network routing, speed](https://x.com/bot/status/2102532697960956074) - Official @bot thread (2026-09-22 ~22:57 UTC / Sep 23 ~06:57 Asia/Shanghai): cleaner Bot UI; native Google Slides/Sheets/Docs plus better email file attach; route internet via your own network; faster replies (~+6% usage) and desktop perf (53 fixes)—try x.ai/bot (no separate news page).
 - [How SpaceXAI is using Grok Bot to scale customer support](https://x.ai/news/grok-bot-customer-support) - Official case study (2026-09-22): SpaceXAI/Cursor rebuilt support around Grok Bot—ticket intake to resolution, Plain/Linear/Datadog, refunds, SLA/queue, X sentiment, and Bot-coaching-Bot—handling +175% tickets without new headcount at ~$0.20–$0.30/resolution.
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - Launch note: always-on agents with their own computer, working inside your tools 24/7.
@@ -1345,6 +1351,11 @@
 
 ## Community & Failure Modes
 
+- [Agent Computer unreachable on iOS and Windows](https://forum.cursor.com/t/subject-grok-bot-agent-computer-unreachable-on-ios-and-windows/172958) - Bug report: brand-new Grok Bot install cannot reach the Agent Computer on iOS and Windows.
+- [Stuck on Setting up Grok Bot's computer (Mac/iOS)](https://forum.cursor.com/t/grok-bot-stuck-on-setting-up-grok-bots-computer-mac-and-ios-cannot-connect/172957) - Report that Grok Bot stays on “Setting up Grok Bot's computer” on Mac and iOS and never reaches the Agent Computer.
+- [Delisted GitHub plugin stuck connected with 0 tools](https://forum.cursor.com/t/grok-bot-delisted-github-plugin-48677658-cant-be-uninstalled-or-reconfigured-and-shows-connected-with-0-tools-after-a-401/172955) - Bug report: delisted marketplace GitHub plugin (48677658) cannot be uninstalled/reconfigured and shows connected with 0 tools after 401.
+- [Request: edit custom stdio MCP command in place](https://forum.cursor.com/t/grok-bot-edit-a-custom-stdio-mcp-servers-command-args-env-in-place-without-losing-its-instructions/172953) - Feature request: edit a custom stdio MCP server's command/args/env in place in Grok Bot without wiping its instructions.
+- [Grok Bot Android: voice preference does not persist](https://forum.cursor.com/t/grok-bot-android-voice-preference-sal-1-25x-does-not-persist-reverts-to-liora-leora/172951) - Bug report: Grok Bot Android voice preference (e.g. Sal @ 1.25x) does not persist and reverts to Liora/Leora.
 - [Duplicate Bot control missing for long-lived context handoff](https://forum.cursor.com/t/duplicate-bot-missing/172938) - Report that Duplicate Bot (handoff summary → Duplicate → Hide) is missing, making long-lived Grok Bot context costly.
 - [Request: Desktop honor voice= and publish speaking/amplitude](https://forum.cursor.com/t/grok-bot-desktop-should-honor-voice-and-publish-speaking-or-amplitude/172905) - Feature request for Grok Bot Desktop to honor voice= deeplinks and publish speaking/amplitude for hardware (e.g. Stream Deck).
 - [Staff: Grok Bot weekly allowance is separate from Cursor models](https://forum.cursor.com/t/grok-bot-usage-to-models/172897) - Forum thread with staff note: Grok Bot has its own weekly allowance, separate from Cursor plan model usage.
@@ -1550,6 +1561,8 @@
 
 ## Related Lists
 
+- [nix-grok-build — declarative Grok Build on Nix](https://github.com/gaavin/nix-grok-build) - Nix flake packaging the official Grok Build CLI binaries for declarative NixOS / Home Manager installs.
+- [GrokZen — Chinese privacy build of Grok Build](https://github.com/Catapult291/GrokZen) - Community Simplified-Chinese Grok Build (grok-zh) with telemetry disabled at the source; not an official SpaceXAI release.
 - [Brainiac — portable agent brain for Grok Build](https://github.com/Gaetan-PRUVOT-SQS/brainiac) - Portable agentic-brain template aligning Codex, Claude Code, and Grok Build around shared prefs and demo skills.
 - [grok-zh — Chinese UI overlay for Grok Build](https://github.com/dennisehugh1-hash/grok-zh) - Windows Python overlay that localizes the Grok Build English UI to Chinese without patching grok.exe.
 - [Calories Club plugin for Grok Build](https://github.com/zenandrei/calories-club-grok-plugin) - Official Calories Club hosted-MCP plugin for Grok Build (food logging, macros, barcode, water/weight; OAuth).
@@ -1817,7 +1830,7 @@
 
 ## Contributing
 
-1699 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1712 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

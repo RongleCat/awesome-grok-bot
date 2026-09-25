@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1699-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1712-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,14 +38,13 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（3）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [澳门](./EVENTS.zh.md#mo-20261007)
-- **美国**（19）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [费城](./EVENTS.zh.md#phl-20260929) · [西雅图](./EVENTS.zh.md#sea-20260924) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007) · [华盛顿特区](./EVENTS.zh.md#was-20260929) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [纽约](./EVENTS.zh.md#nyc-20260924) · [洛杉矶](./EVENTS.zh.md#lax-20260928) · [伊萨卡](./EVENTS.zh.md#ith-20260929) · [亚特兰大](./EVENTS.zh.md#atl-20261016)
+- **美国**（17）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [费城](./EVENTS.zh.md#phl-20260929) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007) · [华盛顿特区](./EVENTS.zh.md#was-20260929) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [洛杉矶](./EVENTS.zh.md#lax-20260928) · [伊萨卡](./EVENTS.zh.md#ith-20260929) · [亚特兰大](./EVENTS.zh.md#atl-20261016)
 - **巴西**（5）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20260926) · [库里蒂巴](./EVENTS.zh.md#cwb-20260929) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008)
 - **西班牙**（5）：[巴塞罗那](./EVENTS.zh.md#bcn-20260929) · [马德里](./EVENTS.zh.md#mad-20260929) · [瓦伦西亚](./EVENTS.zh.md#vlc-20260925) · [阿利坎特](./EVENTS.zh.md#alc-20261107) · [毕尔巴鄂](./EVENTS.zh.md#bil-20261019)
-- **墨西哥**（5）：[普埃布拉](./EVENTS.zh.md#pue-20260924) · [奇瓦瓦](./EVENTS.zh.md#cuu-20260924) · [墨西哥城](./EVENTS.zh.md#cdmx-20260926) · [蒙特雷](./EVENTS.zh.md#mty-20261003) · [比亚埃尔莫萨](./EVENTS.zh.md#vhs-20261001)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
 - **德国**（4）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20260926) · [法兰克福](./EVENTS.zh.md#fra-20261023)
 - **印度尼西亚**（4）：[巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [雅加达](./EVENTS.zh.md#jkt-20261003) · [雅加达](./EVENTS.zh.md#jkt-20261107) · [巴厘岛Canggu](./EVENTS.zh.md#bli-20261025)
-- **厄瓜多尔**（2）：[基多](./EVENTS.zh.md#uio-20260924) · [昆巴亚](./EVENTS.zh.md#cumb-20261003)
+- **墨西哥**（3）：[墨西哥城](./EVENTS.zh.md#cdmx-20260926) · [蒙特雷](./EVENTS.zh.md#mty-20261003) · [比亚埃尔莫萨](./EVENTS.zh.md#vhs-20261001)
 - **危地马拉**（2）：[危地马拉城](./EVENTS.zh.md#gua-20261003) · [危地马拉](./EVENTS.zh.md#gua-20261205)
 - **意大利**（2）：[帕多瓦](./EVENTS.zh.md#pdv-20260925) · [罗马](./EVENTS.zh.md#rom-20261023)
 - **日本**（2）：[札幌](./EVENTS.zh.md#spk-20261002) · [东京](./EVENTS.zh.md#tyo-20261011)
@@ -59,6 +58,7 @@
 - **科特迪瓦**（1）：[阿比让](./EVENTS.zh.md#abj-20261107)
 - **哥伦比亚**（1）：[佩雷拉](./EVENTS.zh.md#pei-20261002)
 - **捷克**（1）：[布拉格](./EVENTS.zh.md#prg-20260930)
+- **厄瓜多尔**（1）：[昆巴亚](./EVENTS.zh.md#cumb-20261003)
 - **英国**（1）：[伦敦](./EVENTS.zh.md#ldn-20260926)
 - **格鲁吉亚**（1）：[第比利斯](./EVENTS.zh.md#tbs-20260926)
 - **希腊**（1）：[雅典](./EVENTS.zh.md#ath-20261001)
@@ -94,6 +94,12 @@
 
 ## 官方资源
 
+- [Grok Build overview (docs.x.ai)](https://docs.x.ai/build/overview) - 官方 SpaceXAI 文档：Grok Build（与 Grok Bot 配套的终端编程智能体）概览。.
+- [Group chats and Bot-to-Bot messages (Cursor Help)](https://cursor.com/help/grok-bot/group-chats) - 官方 Cursor Help：创建含多个 Bot 的群聊，并用 Bot 之间交接（消息出现在各自聊天中）。.
+- [Change a Bot's name, picture, and description (Cursor Help)](https://cursor.com/help/grok-bot/edit-bot) - 官方 Cursor Help：修改 Bot 的名称、头像与职责描述（决定它做什么、何时先问你）。.
+- [Grok Bot FAQs (Cursor Help)](https://cursor.com/help/grok-bot/faqs) - 官方 Cursor Help：Grok Bot 访问、用量、服务状态等 FAQ，并链到更长的分步文章。.
+- [Grok Bot How Tos (Cursor Help)](https://cursor.com/help/grok-bot/how-to) - 官方 Cursor Help：Grok Bot 操作指南合集，可按症状跳到对应恢复/设置步骤。.
+- [Voice chat with a Bot (Cursor Help)](https://cursor.com/help/grok-bot/voice-chat) - 官方 Cursor Help：在桌面或手机与 Bot 进行实时语音对话（你说，Bot 说回来）。.
 - [@bot QoL: cleaner UI, Google Docs/Sheets/Slides, network routing, speed](https://x.com/bot/status/2102532697960956074) - 官方 @bot 串（2026-09-22 ~22:57 UTC / 9月23日 ~06:57 上海）：更清晰的 Bot 界面；原生 Google 幻灯片/表格/文档并改进邮件附件；上网可走你自己的网络；回复更快（约 +6% 有效用量）与桌面性能（53 项修复）——试用 x.ai/bot（暂无独立 news 页）。.
 - [How SpaceXAI is using Grok Bot to scale customer support](https://x.ai/news/grok-bot-customer-support) - 官方案例（2026-09-22）：SpaceXAI/Cursor 用 Grok Bot 重建客服——从收单到结案、Plain/Linear/Datadog、退款、SLA/排队、X 舆情与 Bot 互教，工单 +175% 未增人，单次结案约 $0.20–$0.30。.
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 首发稿：always-on 智能体自带电脑，在你的工具里 24/7 干活。.
@@ -1345,6 +1351,11 @@
 
 ## 社区与故障现场
 
+- [Agent Computer unreachable on iOS and Windows](https://forum.cursor.com/t/subject-grok-bot-agent-computer-unreachable-on-ios-and-windows/172958) - 反馈：全新安装的 Grok Bot 在 iOS 与 Windows 上无法连通 Agent Computer。.
+- [Stuck on Setting up Grok Bot's computer (Mac/iOS)](https://forum.cursor.com/t/grok-bot-stuck-on-setting-up-grok-bots-computer-mac-and-ios-cannot-connect/172957) - 反馈：Mac 与 iOS 上 Grok Bot 一直停在「Setting up Grok Bot's computer」，连不上 Agent Computer。.
+- [Delisted GitHub plugin stuck connected with 0 tools](https://forum.cursor.com/t/grok-bot-delisted-github-plugin-48677658-cant-be-uninstalled-or-reconfigured-and-shows-connected-with-0-tools-after-a-401/172955) - 反馈：已下架的 GitHub 市场插件（48677658）无法卸载/重配，401 后仍显示已连接但 0 工具。.
+- [Request: edit custom stdio MCP command in place](https://forum.cursor.com/t/grok-bot-edit-a-custom-stdio-mcp-servers-command-args-env-in-place-without-losing-its-instructions/172953) - 功能请求：在 Grok Bot 中就地编辑自定义 stdio MCP 的 command/args/env，且不丢失其指令。.
+- [Grok Bot Android: voice preference does not persist](https://forum.cursor.com/t/grok-bot-android-voice-preference-sal-1-25x-does-not-persist-reverts-to-liora-leora/172951) - 反馈：Grok Bot Android 端语音偏好（如 Sal 1.25x）无法持久，会回到 Liora/Leora。.
 - [Duplicate Bot control missing for long-lived context handoff](https://forum.cursor.com/t/duplicate-bot-missing/172938) - 反馈：Duplicate Bot（摘要交接 → 复制 → 隐藏原 Bot）入口缺失，长对话 Grok Bot 上下文成本很高。.
 - [Request: Desktop honor voice= and publish speaking/amplitude](https://forum.cursor.com/t/grok-bot-desktop-should-honor-voice-and-publish-speaking-or-amplitude/172905) - 功能请求：Grok Bot Desktop 应遵守 voice= 深链，并发布 speaking/amplitude 供 Stream Deck 等硬件使用。.
 - [Staff: Grok Bot weekly allowance is separate from Cursor models](https://forum.cursor.com/t/grok-bot-usage-to-models/172897) - 论坛帖（含员工说明）：Grok Bot 有独立的周额度，与 Cursor 套餐模型用量分开。.
@@ -1550,6 +1561,8 @@
 
 ## 相关列表
 
+- [nix-grok-build — declarative Grok Build on Nix](https://github.com/gaavin/nix-grok-build) - 用 Nix flake 封装官方 Grok Build CLI 二进制，便于 NixOS / Home Manager 声明式安装。.
+- [GrokZen — Chinese privacy build of Grok Build](https://github.com/Catapult291/GrokZen) - 社区简体中文版 Grok Build（grok-zh），源码层禁用遥测；非 SpaceXAI 官方发行版。.
 - [Brainiac — portable agent brain for Grok Build](https://github.com/Gaetan-PRUVOT-SQS/brainiac) - 可移植的智能体「大脑」模板：让 Codex、Claude Code 与 Grok Build 共用偏好与演示 skills。.
 - [grok-zh — Chinese UI overlay for Grok Build](https://github.com/dennisehugh1-hash/grok-zh) - Windows 上用 Python 给 Grok Build 英文界面套中文层，不修改 grok.exe。.
 - [Calories Club plugin for Grok Build](https://github.com/zenandrei/calories-club-grok-plugin) - 面向 Grok Build 的官方 Calories Club 托管 MCP 插件（饮食记录、宏量营养、条码、饮水/体重；OAuth）。.
@@ -1817,7 +1830,7 @@
 
 ## 贡献
 
-目前 8 个分类、1699 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1712 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

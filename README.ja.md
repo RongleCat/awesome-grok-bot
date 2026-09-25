@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1699-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1712-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,14 +38,13 @@
 [イベントの詳細](./EVENTS.ja.md)
 
 - **中国**（3）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017) · [マカオ](./EVENTS.ja.md#mo-20261007)
-- **アメリカ**（19）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [シアトル](./EVENTS.ja.md#sea-20260924) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [オースティン](./EVENTS.ja.md#aus-20261004) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [ワシントンDC](./EVENTS.ja.md#was-20261007) · [ワシントンDC](./EVENTS.ja.md#was-20260929) · [パサデナ](./EVENTS.ja.md#pas-20261008) · [ニューヨーク](./EVENTS.ja.md#nyc-20260924) · [ロサンゼルス](./EVENTS.ja.md#lax-20260928) · [イサカ](./EVENTS.ja.md#ith-20260929) · [アトランタ](./EVENTS.ja.md#atl-20261016)
+- **アメリカ**（17）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [オースティン](./EVENTS.ja.md#aus-20261004) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [ワシントンDC](./EVENTS.ja.md#was-20261007) · [ワシントンDC](./EVENTS.ja.md#was-20260929) · [パサデナ](./EVENTS.ja.md#pas-20261008) · [ロサンゼルス](./EVENTS.ja.md#lax-20260928) · [イサカ](./EVENTS.ja.md#ith-20260929) · [アトランタ](./EVENTS.ja.md#atl-20261016)
 - **ブラジル**（5）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [フロリアノポリス](./EVENTS.ja.md#fln-20260926) · [クリチバ](./EVENTS.ja.md#cwb-20260929) · [サルバドール](./EVENTS.ja.md#ssa-20261008)
 - **スペイン**（5）：[バルセロナ](./EVENTS.ja.md#bcn-20260929) · [マドリード](./EVENTS.ja.md#mad-20260929) · [バレンシア](./EVENTS.ja.md#vlc-20260925) · [アリカンテ](./EVENTS.ja.md#alc-20261107) · [ビルバオ](./EVENTS.ja.md#bil-20261019)
-- **メキシコ**（5）：[プエブラ](./EVENTS.ja.md#pue-20260924) · [チワワ](./EVENTS.ja.md#cuu-20260924) · [メキシコシティ](./EVENTS.ja.md#cdmx-20260926) · [モンテレイ](./EVENTS.ja.md#mty-20261003) · [ビヤエルモサ](./EVENTS.ja.md#vhs-20261001)
 - **カナダ**（4）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [モントリオール](./EVENTS.ja.md#yul-20260926) · [トロント](./EVENTS.ja.md#yyz-20261026) · [オタワ](./EVENTS.ja.md#yow-20261010)
 - **ドイツ**（4）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015) · [フランクフルト](./EVENTS.ja.md#fra-20260926) · [フランクフルト](./EVENTS.ja.md#fra-20261023)
 - **インドネシア**（4）：[ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [ジャカルタ](./EVENTS.ja.md#jkt-20261003) · [ジャカルタ](./EVENTS.ja.md#jkt-20261107) · [チャングー / バリ](./EVENTS.ja.md#bli-20261025)
-- **エクアドル**（2）：[キト](./EVENTS.ja.md#uio-20260924) · [クンバヤ](./EVENTS.ja.md#cumb-20261003)
+- **メキシコ**（3）：[メキシコシティ](./EVENTS.ja.md#cdmx-20260926) · [モンテレイ](./EVENTS.ja.md#mty-20261003) · [ビヤエルモサ](./EVENTS.ja.md#vhs-20261001)
 - **グアテマラ**（2）：[グアテマラシティ](./EVENTS.ja.md#gua-20261003) · [グアテマラ](./EVENTS.ja.md#gua-20261205)
 - **イタリア**（2）：[パドヴァ](./EVENTS.ja.md#pdv-20260925) · [ローマ](./EVENTS.ja.md#rom-20261023)
 - **日本**（2）：[札幌](./EVENTS.ja.md#spk-20261002) · [東京](./EVENTS.ja.md#tyo-20261011)
@@ -59,6 +58,7 @@
 - **コートジボワール**（1）：[アビジャン](./EVENTS.ja.md#abj-20261107)
 - **コロンビア**（1）：[ペレイラ](./EVENTS.ja.md#pei-20261002)
 - **チェコ**（1）：[プラハ](./EVENTS.ja.md#prg-20260930)
+- **エクアドル**（1）：[クンバヤ](./EVENTS.ja.md#cumb-20261003)
 - **イギリス**（1）：[ロンドン](./EVENTS.ja.md#ldn-20260926)
 - **ジョージア**（1）：[トビリシ](./EVENTS.ja.md#tbs-20260926)
 - **ギリシャ**（1）：[アテネ](./EVENTS.ja.md#ath-20261001)
@@ -94,6 +94,12 @@
 
 ## 公式リソース
 
+- [Grok Build overview (docs.x.ai)](https://docs.x.ai/build/overview) - 公式 SpaceXAI ドキュメント：Grok Build（Grok Bot 向けターミナルコーディングエージェント）概要。
+- [Group chats and Bot-to-Bot messages (Cursor Help)](https://cursor.com/help/grok-bot/group-chats) - 公式 Cursor Help：複数 Bot のグループチャットと Bot 同士ハンドオフ（各 Bot のチャットに表示）。
+- [Change a Bot's name, picture, and description (Cursor Help)](https://cursor.com/help/grok-bot/edit-bot) - 公式 Cursor Help：Bot の名前・画像・職務説明を編集（何をするか・いつ確認するかを決める）。
+- [Grok Bot FAQs (Cursor Help)](https://cursor.com/help/grok-bot/faqs) - 公式 Cursor Help：Grok Bot のアクセス・利用枠・障害状況 FAQ（詳細手順へリンク）。
+- [Grok Bot How Tos (Cursor Help)](https://cursor.com/help/grok-bot/how-to) - 公式 Cursor Help：Grok Bot ハウツー集。症状から復旧・セットアップ記事へ。
+- [Voice chat with a Bot (Cursor Help)](https://cursor.com/help/grok-bot/voice-chat) - 公式 Cursor Help：デスクトップ／モバイルで Bot とリアルタイム音声チャット（話しかけると Bot が返事）。
 - [@bot QoL: cleaner UI, Google Docs/Sheets/Slides, network routing, speed](https://x.com/bot/status/2102532697960956074) - 公式 @bot スレ（2026-09-22 ~22:57 UTC / 9月23日 ~06:57 上海）：Bot UI 整理、Google スライド/シート/ドキュメント原生接続とメール添付改善、自ネットワーク経由の通信、返信高速化（有効利用約 +6%）とデスクトップ性能（53 修正）。試すなら x.ai/bot（専用 news なし）。
 - [How SpaceXAI is using Grok Bot to scale customer support](https://x.ai/news/grok-bot-customer-support) - 公式事例（2026-09-22）：SpaceXAI/Cursor が Grok Bot でサポートを再構築。受付〜解決、Plain/Linear/Datadog、返金、SLA/キュー、X センチメント、Bot同士のコーチングでチケット +175% を増員なし、1件約 $0.20–$0.30。
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 発表記事：always-on のエージェントが専用パソコンを持ち、あなたのツール内で 24/7 働きます。
@@ -1345,6 +1351,11 @@
 
 ## コミュニティと障害事例
 
+- [Agent Computer unreachable on iOS and Windows](https://forum.cursor.com/t/subject-grok-bot-agent-computer-unreachable-on-ios-and-windows/172958) - 報告：新規インストールの Grok Bot が iOS / Windows で Agent Computer に到達できない。
+- [Stuck on Setting up Grok Bot's computer (Mac/iOS)](https://forum.cursor.com/t/grok-bot-stuck-on-setting-up-grok-bots-computer-mac-and-ios-cannot-connect/172957) - 報告：Mac / iOS で「Setting up Grok Bot's computer」のまま Agent Computer に接続できない。
+- [Delisted GitHub plugin stuck connected with 0 tools](https://forum.cursor.com/t/grok-bot-delisted-github-plugin-48677658-cant-be-uninstalled-or-reconfigured-and-shows-connected-with-0-tools-after-a-401/172955) - 報告：市場から消えた GitHub プラグイン（48677658）を削除／再設定できず、401 後も接続・0 tools のまま。
+- [Request: edit custom stdio MCP command in place](https://forum.cursor.com/t/grok-bot-edit-a-custom-stdio-mcp-servers-command-args-env-in-place-without-losing-its-instructions/172953) - 機能要望：Grok Bot でカスタム stdio MCP の command/args/env をインプレース編集し、指示を消さない。
+- [Grok Bot Android: voice preference does not persist](https://forum.cursor.com/t/grok-bot-android-voice-preference-sal-1-25x-does-not-persist-reverts-to-liora-leora/172951) - 報告：Grok Bot Android の音声設定（例: Sal 1.25x）が保持されず Liora/Leora に戻る。
 - [Duplicate Bot control missing for long-lived context handoff](https://forum.cursor.com/t/duplicate-bot-missing/172938) - 報告：Duplicate Bot（要約ハンドオフ→複製→元を非表示）が見つからず、長期 Grok Bot のコンテキストコストが高い。
 - [Request: Desktop honor voice= and publish speaking/amplitude](https://forum.cursor.com/t/grok-bot-desktop-should-honor-voice-and-publish-speaking-or-amplitude/172905) - 機能要望：Grok Bot Desktop が voice= ディープリンクを尊重し、speaking/amplitude を公開（Stream Deck 等向け）。
 - [Staff: Grok Bot weekly allowance is separate from Cursor models](https://forum.cursor.com/t/grok-bot-usage-to-models/172897) - フォーラム（スタッフ回答）：Grok Bot には Cursor プランのモデル枠とは別の週間枠がある。
@@ -1550,6 +1561,8 @@
 
 ## 関連リスト
 
+- [nix-grok-build — declarative Grok Build on Nix](https://github.com/gaavin/nix-grok-build) - 公式 Grok Build CLI バイナリを Nix flake 化。NixOS / Home Manager で宣言的に導入。
+- [GrokZen — Chinese privacy build of Grok Build](https://github.com/Catapult291/GrokZen) - コミュニティ製の簡体字中国語 Grok Build（grok-zh）。ソースでテレメトリ無効。非公式。
 - [Brainiac — portable agent brain for Grok Build](https://github.com/Gaetan-PRUVOT-SQS/brainiac) - Codex・Claude Code・Grok Build で共有設定とデモ skills を揃えるポータブル agentic brain テンプレ。
 - [grok-zh — Chinese UI overlay for Grok Build](https://github.com/dennisehugh1-hash/grok-zh) - Windows の Python で Grok Build 英語 UI に中国語オーバーレイ（grok.exe は非改変）。
 - [Calories Club plugin for Grok Build](https://github.com/zenandrei/calories-club-grok-plugin) - Grok Build 向け公式 Calories Club ホスト MCP プラグイン（食事記録・マクロ・バーコード・水分/体重。OAuth）。
@@ -1817,7 +1830,7 @@
 
 ## 貢献
 
-8 セクションに 1699 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1712 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -16,6 +16,66 @@
       },
       "items": [
         {
+          "title": "Grok Build overview (docs.x.ai)",
+          "url": "https://docs.x.ai/build/overview",
+          "source": "GB-1729",
+          "blurb": {
+            "en": "Official SpaceXAI docs overview for Grok Build, the terminal coding agent companion to Grok Bot.",
+            "zh": "官方 SpaceXAI 文档：Grok Build（与 Grok Bot 配套的终端编程智能体）概览。",
+            "ja": "公式 SpaceXAI ドキュメント：Grok Build（Grok Bot 向けターミナルコーディングエージェント）概要。"
+          }
+        },
+        {
+          "title": "Group chats and Bot-to-Bot messages (Cursor Help)",
+          "url": "https://cursor.com/help/grok-bot/group-chats",
+          "source": "GB-1728",
+          "blurb": {
+            "en": "Official Cursor Help: create group chats with multiple Bots and use Bot-to-Bot handoffs that appear in each Bot's own chat.",
+            "zh": "官方 Cursor Help：创建含多个 Bot 的群聊，并用 Bot 之间交接（消息出现在各自聊天中）。",
+            "ja": "公式 Cursor Help：複数 Bot のグループチャットと Bot 同士ハンドオフ（各 Bot のチャットに表示）。"
+          }
+        },
+        {
+          "title": "Change a Bot's name, picture, and description (Cursor Help)",
+          "url": "https://cursor.com/help/grok-bot/edit-bot",
+          "source": "GB-1727",
+          "blurb": {
+            "en": "Official Cursor Help: edit a Bot's name, picture, and job description that steers what it works on and when it asks first.",
+            "zh": "官方 Cursor Help：修改 Bot 的名称、头像与职责描述（决定它做什么、何时先问你）。",
+            "ja": "公式 Cursor Help：Bot の名前・画像・職務説明を編集（何をするか・いつ確認するかを決める）。"
+          }
+        },
+        {
+          "title": "Grok Bot FAQs (Cursor Help)",
+          "url": "https://cursor.com/help/grok-bot/faqs",
+          "source": "GB-1726",
+          "blurb": {
+            "en": "Official Cursor Help FAQs for Grok Bot access, usage, service status, and links to longer step-by-step articles.",
+            "zh": "官方 Cursor Help：Grok Bot 访问、用量、服务状态等 FAQ，并链到更长的分步文章。",
+            "ja": "公式 Cursor Help：Grok Bot のアクセス・利用枠・障害状況 FAQ（詳細手順へリンク）。"
+          }
+        },
+        {
+          "title": "Grok Bot How Tos (Cursor Help)",
+          "url": "https://cursor.com/help/grok-bot/how-to",
+          "source": "GB-1725",
+          "blurb": {
+            "en": "Official Cursor Help hub of Grok Bot how-to articles—match a symptom to the linked recovery or setup steps.",
+            "zh": "官方 Cursor Help：Grok Bot 操作指南合集，可按症状跳到对应恢复/设置步骤。",
+            "ja": "公式 Cursor Help：Grok Bot ハウツー集。症状から復旧・セットアップ記事へ。"
+          }
+        },
+        {
+          "title": "Voice chat with a Bot (Cursor Help)",
+          "url": "https://cursor.com/help/grok-bot/voice-chat",
+          "source": "GB-1724",
+          "blurb": {
+            "en": "Official Cursor Help: start a live spoken voice chat with a Bot on desktop or mobile (talk and the Bot talks back).",
+            "zh": "官方 Cursor Help：在桌面或手机与 Bot 进行实时语音对话（你说，Bot 说回来）。",
+            "ja": "公式 Cursor Help：デスクトップ／モバイルで Bot とリアルタイム音声チャット（話しかけると Bot が返事）。"
+          }
+        },
+        {
           "title": "@bot QoL: cleaner UI, Google Docs/Sheets/Slides, network routing, speed",
           "url": "https://x.com/bot/status/2102532697960956074",
           "source": "GB-1651",
@@ -12406,6 +12466,56 @@
       },
       "items": [
         {
+          "title": "Agent Computer unreachable on iOS and Windows",
+          "url": "https://forum.cursor.com/t/subject-grok-bot-agent-computer-unreachable-on-ios-and-windows/172958",
+          "source": "GB-1736",
+          "blurb": {
+            "en": "Bug report: brand-new Grok Bot install cannot reach the Agent Computer on iOS and Windows.",
+            "zh": "反馈：全新安装的 Grok Bot 在 iOS 与 Windows 上无法连通 Agent Computer。",
+            "ja": "報告：新規インストールの Grok Bot が iOS / Windows で Agent Computer に到達できない。"
+          }
+        },
+        {
+          "title": "Stuck on Setting up Grok Bot's computer (Mac/iOS)",
+          "url": "https://forum.cursor.com/t/grok-bot-stuck-on-setting-up-grok-bots-computer-mac-and-ios-cannot-connect/172957",
+          "source": "GB-1735",
+          "blurb": {
+            "en": "Report that Grok Bot stays on “Setting up Grok Bot's computer” on Mac and iOS and never reaches the Agent Computer.",
+            "zh": "反馈：Mac 与 iOS 上 Grok Bot 一直停在「Setting up Grok Bot's computer」，连不上 Agent Computer。",
+            "ja": "報告：Mac / iOS で「Setting up Grok Bot's computer」のまま Agent Computer に接続できない。"
+          }
+        },
+        {
+          "title": "Delisted GitHub plugin stuck connected with 0 tools",
+          "url": "https://forum.cursor.com/t/grok-bot-delisted-github-plugin-48677658-cant-be-uninstalled-or-reconfigured-and-shows-connected-with-0-tools-after-a-401/172955",
+          "source": "GB-1734",
+          "blurb": {
+            "en": "Bug report: delisted marketplace GitHub plugin (48677658) cannot be uninstalled/reconfigured and shows connected with 0 tools after 401.",
+            "zh": "反馈：已下架的 GitHub 市场插件（48677658）无法卸载/重配，401 后仍显示已连接但 0 工具。",
+            "ja": "報告：市場から消えた GitHub プラグイン（48677658）を削除／再設定できず、401 後も接続・0 tools のまま。"
+          }
+        },
+        {
+          "title": "Request: edit custom stdio MCP command in place",
+          "url": "https://forum.cursor.com/t/grok-bot-edit-a-custom-stdio-mcp-servers-command-args-env-in-place-without-losing-its-instructions/172953",
+          "source": "GB-1733",
+          "blurb": {
+            "en": "Feature request: edit a custom stdio MCP server's command/args/env in place in Grok Bot without wiping its instructions.",
+            "zh": "功能请求：在 Grok Bot 中就地编辑自定义 stdio MCP 的 command/args/env，且不丢失其指令。",
+            "ja": "機能要望：Grok Bot でカスタム stdio MCP の command/args/env をインプレース編集し、指示を消さない。"
+          }
+        },
+        {
+          "title": "Grok Bot Android: voice preference does not persist",
+          "url": "https://forum.cursor.com/t/grok-bot-android-voice-preference-sal-1-25x-does-not-persist-reverts-to-liora-leora/172951",
+          "source": "GB-1732",
+          "blurb": {
+            "en": "Bug report: Grok Bot Android voice preference (e.g. Sal @ 1.25x) does not persist and reverts to Liora/Leora.",
+            "zh": "反馈：Grok Bot Android 端语音偏好（如 Sal 1.25x）无法持久，会回到 Liora/Leora。",
+            "ja": "報告：Grok Bot Android の音声設定（例: Sal 1.25x）が保持されず Liora/Leora に戻る。"
+          }
+        },
+        {
           "title": "Duplicate Bot control missing for long-lived context handoff",
           "url": "https://forum.cursor.com/t/duplicate-bot-missing/172938",
           "source": "GB-1723",
@@ -14435,6 +14545,26 @@
         "ja": "関連リスト"
       },
       "items": [
+        {
+          "title": "nix-grok-build — declarative Grok Build on Nix",
+          "url": "https://github.com/gaavin/nix-grok-build",
+          "source": "GB-1731",
+          "blurb": {
+            "en": "Nix flake packaging the official Grok Build CLI binaries for declarative NixOS / Home Manager installs.",
+            "zh": "用 Nix flake 封装官方 Grok Build CLI 二进制，便于 NixOS / Home Manager 声明式安装。",
+            "ja": "公式 Grok Build CLI バイナリを Nix flake 化。NixOS / Home Manager で宣言的に導入。"
+          }
+        },
+        {
+          "title": "GrokZen — Chinese privacy build of Grok Build",
+          "url": "https://github.com/Catapult291/GrokZen",
+          "source": "GB-1730",
+          "blurb": {
+            "en": "Community Simplified-Chinese Grok Build (grok-zh) with telemetry disabled at the source; not an official SpaceXAI release.",
+            "zh": "社区简体中文版 Grok Build（grok-zh），源码层禁用遥测；非 SpaceXAI 官方发行版。",
+            "ja": "コミュニティ製の簡体字中国語 Grok Build（grok-zh）。ソースでテレメトリ無効。非公式。"
+          }
+        },
         {
           "title": "Brainiac — portable agent brain for Grok Build",
           "url": "https://github.com/Gaetan-PRUVOT-SQS/brainiac",
