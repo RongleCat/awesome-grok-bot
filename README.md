@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1686-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1699-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,13 +38,13 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261007)
-- **United States**（17）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Atlanta](./EVENTS.md#atl-20260924) · [Philadelphia](./EVENTS.md#phl-20260929) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Washington, DC](./EVENTS.md#was-20260929) · [Pasadena](./EVENTS.md#pas-20261008) · [New York](./EVENTS.md#nyc-20260924)
+- **United States**（19）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Philadelphia](./EVENTS.md#phl-20260929) · [Seattle](./EVENTS.md#sea-20260924) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Washington, DC](./EVENTS.md#was-20260929) · [Pasadena](./EVENTS.md#pas-20261008) · [New York](./EVENTS.md#nyc-20260924) · [Los Angeles](./EVENTS.md#lax-20260928) · [Ithaca](./EVENTS.md#ith-20260929) · [Atlanta](./EVENTS.md#atl-20261016)
 - **Brazil**（5）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926) · [Curitiba](./EVENTS.md#cwb-20260929) · [Salvador](./EVENTS.md#ssa-20261008)
 - **Spain**（5）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929) · [Valencia](./EVENTS.md#vlc-20260925) · [Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
+- **Mexico**（5）：[Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926) · [Monterrey](./EVENTS.md#mty-20261003) · [Villahermosa](./EVENTS.md#vhs-20261001)
 - **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
 - **Germany**（4）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20260926) · [Frankfurt](./EVENTS.md#fra-20261023)
 - **Indonesia**（4）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003) · [Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
-- **Mexico**（4）：[Puebla](./EVENTS.md#pue-20260924) · [Chihuahua](./EVENTS.md#cuu-20260924) · [Mexico City](./EVENTS.md#cdmx-20260926) · [Monterrey](./EVENTS.md#mty-20261003)
 - **Ecuador**（2）：[Quito](./EVENTS.md#uio-20260924) · [Cumbayá](./EVENTS.md#cumb-20261003)
 - **Guatemala**（2）：[Guatemala City](./EVENTS.md#gua-20261003) · [Guatemala](./EVENTS.md#gua-20261205)
 - **Italy**（2）：[Padua](./EVENTS.md#pdv-20260925) · [Rome](./EVENTS.md#rom-20261023)
@@ -72,6 +72,7 @@
 - **New Zealand**（1）：[Auckland](./EVENTS.md#akl-20261008)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
 - **Pakistan**（1）：[Karachi](./EVENTS.md#khi-20260926)
+- **Rwanda**（1）：[Kigali](./EVENTS.md#kgl-20261003)
 - **Togo**（1）：[Lomé](./EVENTS.md#lfw-20260925)
 - **Turkey**（1）：[Istanbul](./EVENTS.md#ist-20260929)
 - **Uganda**（1）：[Kampala](./EVENTS.md#kla-20261003)
@@ -197,6 +198,7 @@
 
 ## Tutorials & Guides
 
+- [GrokBot DevFlow — SHP agent team workflow](https://github.com/sheepnir/GrokBot_DevFlow) - Approved process v1.1 for running an SHP software team of Grok Bot roles with Cursor Ultra (bots coordinate, cloud agents produce).
 - [Grok Bot POC + CLI/LinkedIn playbook](https://github.com/rifaterdemsahin/grokbot) - Hands-on Grok Bot and Grok CLI install notes with a documented LinkedIn recruiter pipeline and screenshot evidence gallery.
 - [Panda Labs verification loop for Grok Bot teams](https://github.com/PandaHK-Hub/verification-loop) - Public method write-up of a You→CoS→Worker→Auditor verification loop for maturing Grok Bot team skills.
 - [Grok Bot Field Notes (Chinese edition)](https://github.com/siyuanfeng636-cpu/grokbot-field-notes-zh) - Chinese translation and restructuring of unicodef1wn/grokbot-field-notes: 72-hour multi-agent field notes, antipatterns, and role roster.
@@ -277,6 +279,7 @@
 
 ## Field Cases
 
+- [StartupSwarm — 23-role GrokBot startup team](https://github.com/mr-dap-lab/startupswarm) - Markdown role pack for a 23-agent startup team designed for GrokBot (orchestrator + specialists; Miami Kickoff demo lineage).
 - [Woodeex matériel for Grok Build (2026-09-24)](https://github.com/CodeNoLimits/woodeex-grok-build-2026-09-24) - French Woodeex delivery pack for Grok Build (pilots, 30s cuts, QC notes) published 2026-09-24 for temporary public Build access.
 - [SEAMBOUND — Grok Build slot design pack](https://github.com/12553240Kj/seambound-grok-build-pack) - Original slot-design pack dated 2026-09-24 for Grok Build, with a master spec zip ready to attach to a Build session.
 - [grok-canvas — mobile scene canvas for Grok Bot](https://github.com/JorgeDeArmas/grok-canvas) - Mobile web canvas for Grok Bot: one link updates as scenes change, with HTML scenes and media for shareable bot-driven visuals.
@@ -461,6 +464,10 @@
 
 ## Skills, Plugins & MCP
 
+- [MSSQL DBA skill book for Grok Bot fleets](https://github.com/SimonBarnett/skill-dba) - General Microsoft SQL Server DBA playbooks as `.grok/skills` for Grok Bot / Bob fleets (backup, health, deadlock triage).
+- [Resemble AI authenticity connector for Grok Bot](https://github.com/obaid/resemble-ai-connector) - Agent plugin + MCP for Resemble AI media authenticity workflows on Grok Bot (detect agents, investigations, deepfake scores).
+- [NeiroPay tipping plugin for Grok Bot](https://github.com/bropump/neiropay-grok-plugin) - OAuth MCP connector so Grok Bot can tip X accounts on Solana via NeiroPay (prepare/send/status tools; no local secrets).
+- [Facturatum MCP plugin for Grok Bot](https://github.com/PoliteiaSoft/facturatum-grok-bot-plugin) - Official Politeia Soft Facturatum MCP OAuth plugin for the Grok Bot / Cursor marketplace (remote gateway, skill, no secrets in repo).
 - [Trillet voice calling plugin for Grok Bot](https://github.com/TrilletAI/Trillet-grok) - Trillet connector plugin for Grok Bot and Cursor: claim a number, place outbound voice calls from chat, and get transcripts back.
 - [WebsitePublisher for Grok Bot](https://github.com/megberts/websitepublisher-grok) - Grok Bot .grok-plugin that connects WebsitePublisher MCP tools to create, patch, and publish live website pages from chat.
 - [Zell — sales coaching plugin for Grok Bot](https://github.com/GetZell/zell) - Official Zell agent plugin for Grok Bot and Cursor: OAuth MCP connector plus skills for sales coaching from real calls.
@@ -1338,6 +1345,9 @@
 
 ## Community & Failure Modes
 
+- [Duplicate Bot control missing for long-lived context handoff](https://forum.cursor.com/t/duplicate-bot-missing/172938) - Report that Duplicate Bot (handoff summary → Duplicate → Hide) is missing, making long-lived Grok Bot context costly.
+- [Request: Desktop honor voice= and publish speaking/amplitude](https://forum.cursor.com/t/grok-bot-desktop-should-honor-voice-and-publish-speaking-or-amplitude/172905) - Feature request for Grok Bot Desktop to honor voice= deeplinks and publish speaking/amplitude for hardware (e.g. Stream Deck).
+- [Staff: Grok Bot weekly allowance is separate from Cursor models](https://forum.cursor.com/t/grok-bot-usage-to-models/172897) - Forum thread with staff note: Grok Bot has its own weekly allowance, separate from Cursor plan model usage.
 - [Staff: Voice channel lag is playback, tasks already finished](https://forum.cursor.com/t/grok-bot-voice-channel-latency-silent-hang-after-tools-complete/172844) - Staff notes Voice tools often finish server-side in seconds; perceived hangs are mostly spoken-result playback, worse with the app backgrounded.
 - [Request: official avatar extension API for 3D avatars](https://forum.cursor.com/t/grok-bot-official-avatar-extension-api-for-third-party-animated-3d-avatars/172882) - Forum feature request (staff-engaged) for an official Grok Bot avatar extension API so third-party animated or 3D avatars can plug in safely.
 - [Staff: reattach after sign-out — do not Reset (Delilah case)](https://forum.cursor.com/t/grok-bot-delilah-still-exists-bot-id-641a7c54-but-chat-will-not-send-and-both-windows-and-iphone-lost-her-after-sign-out-reattach-to-the-existing-computer-do-not-reset/172862) - Staff confirms bot data stays server-side after sign-out; reattach to the existing computer and avoid Reset when chat send fails across devices.
@@ -1540,6 +1550,10 @@
 
 ## Related Lists
 
+- [Brainiac — portable agent brain for Grok Build](https://github.com/Gaetan-PRUVOT-SQS/brainiac) - Portable agentic-brain template aligning Codex, Claude Code, and Grok Build around shared prefs and demo skills.
+- [grok-zh — Chinese UI overlay for Grok Build](https://github.com/dennisehugh1-hash/grok-zh) - Windows Python overlay that localizes the Grok Build English UI to Chinese without patching grok.exe.
+- [Calories Club plugin for Grok Build](https://github.com/zenandrei/calories-club-grok-plugin) - Official Calories Club hosted-MCP plugin for Grok Build (food logging, macros, barcode, water/weight; OAuth).
+- [Recordo plugin for Grok Build](https://github.com/zenandrei/recordo-grok-plugin) - Official Recordo hosted-MCP plugin for Grok Build (ADHD tasks, notes, daily plans; OAuth, no local credentials).
 - [WowGrok — Grok Build from inside World of Warcraft](https://github.com/hydrolive/wow-grok) - WoW addon plus local bridge so you can chat with Grok Build sessions in-game (/grok) without alt-tabbing, including item tooltip context.
 - [GrokMax — deterministic-first routing to cut Grok Bot usage](https://github.com/M4G3LL4N0/grokmax) - Open-source pipeline that routes tasks through deterministic/local/API/cheaper agents before spending Grok Bot quota—five-layer cache, context slicing, budget ceilings, and honest measured/estimated/proxy telemetry.
 - [grokbot-bridge — phone-call MCP between local agents and Grok Bot](https://github.com/kitepon/grokbot-bridge) - Shared streamable-HTTP MCP that lets a local coding agent ring a Grok Bot switchboard seat, then talk direct with a member Bot over session send/poll (switchboard does not relay bodies).
@@ -1803,7 +1817,7 @@
 
 ## Contributing
 
-1686 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1699 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
