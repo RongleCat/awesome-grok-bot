@@ -90,24 +90,6 @@
 <a id="ssa-20261008"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-psox"><img src="./assets/events/ssa-20261008-cover.png" alt="Grok Bot Meetup サルバドール" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup サルバドール</strong><br />2026-10-08（木）18:00–21:00（America/Bahia）<br />ブラジル・サルバドール（バイーア）· UNIFACS Campus Tancredo Neves（Av. Tancredo Neves, 2131）— オフライン<br /><br />SpaceXAI サルバドール（バイーア）の Grok Bot ミートアップ。ネットワーキング・トーク/ワークショップ・Q&A（UNIFACS）。Luma で登録。<br /><br /><a href="https://luma.com/spacexai-psox"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="country-es"></a>
-### スペイン
-
-<a id="bcn-20260929"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/802d0upt"><img src="./assets/events/bcn-20260929-cover.png" alt="Grok Bot Meetup バルセロナ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup バルセロナ</strong><br />2026-09-29（火）18:00–20:00（Europe/Madrid、CEST、UTC+2）<br />バルセロナ Carrer de Llull（詳細住所は後日）· Poblenou 地下鉄 L4 近く · オフライン（満席時は配信）<br /><br />バルセロナ初の Grok Bot Meetup（SpaceXAI for Barcelona；主催 Marc Nebot I Moyano、Walter Troiani）。スペイン語の実践ワークショップ：18:00 受付・クレジット、18:15 紹介、18:30 短デモ、19:00 ビルド、19:45 Q&A。ノートPC/スマホ持参、クレジット現場配布、事前インストール不要。会場は Carrer de Llull（Poblenou L4 近く、詳細後日）。承認制；スキャン時 guest_count 7。満席時のみ配信。コミュニティ暦の新 slug 802d0upt + フォーラム 171706。<br /><br /><a href="https://luma.com/802d0upt"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
-<a id="mad-20260929"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotmadrid1"><img src="./assets/events/mad-20260929-cover.png" alt="Grok Bot Meetup Madrid" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Madrid</strong><br />2026-09-29（火）17:30–21:30（Europe/Madrid、CEST）<br />スペイン・マドリード · Pl. del Callao, 1（Samplia Hub / mad.builders）<br /><br />マドリード初の Grok Bot Meetup。実践ワークショップ：ライブ試用・短いデモの後、持参（または主催案）の自動化課題で bot を構築。会場でクレジット配布。ノートPC/スマホ可。スペイン語（英語歓迎）。17:30 受付→18:00 紹介→18:20 デモ→19:00 WS→20:30 交流/~21:30。主催 Felipe Basurto & Alvaro Fragoso（Mad Builders）。無料・承認制。約 60 席。スキャン時 0 名。forum 171020。<br /><br /><a href="https://luma.com/grokbotmadrid1"><strong>申し込む →</strong></a></td></tr></table>
-
-<a id="vlc-20260925"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cpgwzo6n"><img src="./assets/events/vlc-20260925-cover.png" alt="Cafe Cursor バレンシア" width="300" /></a></td><td valign="top"><strong>Cafe Cursor バレンシア</strong><br />2026-09-25（金）10:00–17:00（Europe/Madrid）<br />バレンシア · SpaceXAI Valencia — オフライン<br /><br />SpaceXAI Community カレンダーのバレンシア Cafe Cursor コワーク。Luma で登録。<br /><br /><a href="https://luma.com/cpgwzo6n"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="alc-20261107"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-ol8x"><img src="./assets/events/alc-20261107-cover.png" alt="Grok Bot Meetup アリカンテ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup アリカンテ</strong><br />2026-11-07（土）12:00–14:30（Europe/Madrid）<br />スペイン・アリカンテ · Sausalito Premium Club（Muelle Levante, 6 / 港）— オフライン<br /><br />SpaceXAI アリカンテ初のランチミートアップ。5 分ライトニングデモ（Cursor 上の Grok Bot）と交流。フォーラム 172631。Luma で登録。<br /><br /><a href="https://luma.com/spacexai-ol8x"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="bil-20261019"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-euskadi"><img src="./assets/events/bil-20261019-cover.png" alt="Grok Bot Meetup ビルバオ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ビルバオ</strong><br />2026-10-19（月）18:00–21:30（Europe/Madrid）<br />スペイン・ビルバオ · La Perrera Espazioa（Sabino Arana Etorbidea, 50）— オフライン<br /><br />SpaceXAI ビルバオ（La Perrera Espazioa）のミートアップ。Grok Bot で作り共有。Luma で無料登録。<br /><br /><a href="https://luma.com/spacexai-euskadi"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
 <a id="country-ca"></a>
 ### カナダ
 
@@ -137,6 +119,21 @@
 
 <a id="fra-20261023"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/1rv39ekj"><img src="./assets/events/fra-20261023-cover.png" alt="Build with Grokbot — フランクフルト（10/23）" width="300" /></a></td><td valign="top"><strong>Build with Grokbot — フランクフルト（10/23）</strong><br />2026-10-23（金）14:00–22:30（Europe/Berlin）<br />ドイツ・フランクフルト · Motel One Frankfurt-Messe（Europa-Allee 25）— オフライン<br /><br />SpaceXAI フランクフルト第2回 Build Day。Motel One Messe で Grok Bot 制作。Luma で登録。<br /><br /><a href="https://luma.com/1rv39ekj"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<a id="country-es"></a>
+### スペイン
+
+<a id="bcn-20260929"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/802d0upt"><img src="./assets/events/bcn-20260929-cover.png" alt="Grok Bot Meetup バルセロナ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup バルセロナ</strong><br />2026-09-29（火）18:00–20:00（Europe/Madrid、CEST、UTC+2）<br />バルセロナ Carrer de Llull（詳細住所は後日）· Poblenou 地下鉄 L4 近く · オフライン（満席時は配信）<br /><br />バルセロナ初の Grok Bot Meetup（SpaceXAI for Barcelona；主催 Marc Nebot I Moyano、Walter Troiani）。スペイン語の実践ワークショップ：18:00 受付・クレジット、18:15 紹介、18:30 短デモ、19:00 ビルド、19:45 Q&A。ノートPC/スマホ持参、クレジット現場配布、事前インストール不要。会場は Carrer de Llull（Poblenou L4 近く、詳細後日）。承認制；スキャン時 guest_count 7。満席時のみ配信。コミュニティ暦の新 slug 802d0upt + フォーラム 171706。<br /><br /><a href="https://luma.com/802d0upt"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="mad-20260929"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotmadrid1"><img src="./assets/events/mad-20260929-cover.png" alt="Grok Bot Meetup Madrid" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Madrid</strong><br />2026-09-29（火）17:30–21:30（Europe/Madrid、CEST）<br />スペイン・マドリード · Pl. del Callao, 1（Samplia Hub / mad.builders）<br /><br />マドリード初の Grok Bot Meetup。実践ワークショップ：ライブ試用・短いデモの後、持参（または主催案）の自動化課題で bot を構築。会場でクレジット配布。ノートPC/スマホ可。スペイン語（英語歓迎）。17:30 受付→18:00 紹介→18:20 デモ→19:00 WS→20:30 交流/~21:30。主催 Felipe Basurto & Alvaro Fragoso（Mad Builders）。無料・承認制。約 60 席。スキャン時 0 名。forum 171020。<br /><br /><a href="https://luma.com/grokbotmadrid1"><strong>申し込む →</strong></a></td></tr></table>
+
+<a id="alc-20261107"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-ol8x"><img src="./assets/events/alc-20261107-cover.png" alt="Grok Bot Meetup アリカンテ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup アリカンテ</strong><br />2026-11-07（土）12:00–14:30（Europe/Madrid）<br />スペイン・アリカンテ · Sausalito Premium Club（Muelle Levante, 6 / 港）— オフライン<br /><br />SpaceXAI アリカンテ初のランチミートアップ。5 分ライトニングデモ（Cursor 上の Grok Bot）と交流。フォーラム 172631。Luma で登録。<br /><br /><a href="https://luma.com/spacexai-ol8x"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<a id="bil-20261019"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-euskadi"><img src="./assets/events/bil-20261019-cover.png" alt="Grok Bot Meetup ビルバオ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ビルバオ</strong><br />2026-10-19（月）18:00–21:30（Europe/Madrid）<br />スペイン・ビルバオ · La Perrera Espazioa（Sabino Arana Etorbidea, 50）— オフライン<br /><br />SpaceXAI ビルバオ（La Perrera Espazioa）のミートアップ。Grok Bot で作り共有。Luma で無料登録。<br /><br /><a href="https://luma.com/spacexai-euskadi"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-id"></a>
 ### インドネシア
@@ -173,15 +170,6 @@
 
 <a id="gua-20261205"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-97mt"><img src="./assets/events/gua-20261205-cover.png" alt="Grok Bot Meetup グアテマラ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup グアテマラ</strong><br />2026-12-05（土）15:00–20:00（America/Guatemala）<br />グアテマラ · 会場 TBD（Luma / 主催更新を参照）— オフライン<br /><br />SpaceXAI グアテマラのオフライン Grok Bot ミートアップ（フォーラム+Luma）。会場は Luma で確認。<br /><br /><a href="https://luma.com/spacexai-97mt"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="country-it"></a>
-### イタリア
-
-<a id="pdv-20260925"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-v5ch"><img src="./assets/events/pdv-20260925-cover.png" alt="Grok Hackathon Padova" width="300" /></a></td><td valign="top"><strong>Grok Hackathon Padova</strong><br />2026-09-25（金）19:00–23:00（Europe/Rome）<br />パドヴァ · Via della Croce Rossa, 42 — オフライン<br /><br />パドヴァの Grok Hackathon（Via della Croce Rossa 42）。SpaceXAI Community 対面ハッカソン。<br /><br /><a href="https://luma.com/cursor-v5ch"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="rom-20261023"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-rome"><img src="./assets/events/rom-20261023-cover.png" alt="Grok Bot Meetup ローマ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ローマ</strong><br />2026-10-23（金）10:00–13:00（Europe/Rome）<br />イタリア・ローマ · Urbe Hub（Largo Dino Frisullo, 00153 Roma RM）— オフライン<br /><br />SpaceXAI ローマ（Urbe Hub）のミートアップ。Grok Bot で作り共有。Urbe Hub 共催。Luma で登録。<br /><br /><a href="https://luma.com/grok-bot-rome"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-jp"></a>
 ### 日本
@@ -293,6 +281,12 @@
 
 <a id="raj-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grok-rajkot"><img src="./assets/events/raj-20260926-cover.png" alt="Grok Bot Meetup Rajkot" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Rajkot</strong><br />2026-09-26（土）10:00–13:00（IST）<br />Rajkot, Gujarat, India · 登録後に住所を表示<br /><br />Rajkot 対面 Grok Bot（Build, Automate & Grow with AI）。SpaceXAI for Rajkot 主催。無料・承認制。登録前は住所マスク。<br /><br /><a href="https://luma.com/grok-rajkot"><strong>Luma で申し込み（主催者承認） →</strong></a></td></tr></table>
+
+<a id="country-it"></a>
+### イタリア
+
+<a id="rom-20261023"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-rome"><img src="./assets/events/rom-20261023-cover.png" alt="Grok Bot Meetup ローマ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ローマ</strong><br />2026-10-23（金）10:00–13:00（Europe/Rome）<br />イタリア・ローマ · Urbe Hub（Largo Dino Frisullo, 00153 Roma RM）— オフライン<br /><br />SpaceXAI ローマ（Urbe Hub）のミートアップ。Grok Bot で作り共有。Urbe Hub 共催。Luma で登録。<br /><br /><a href="https://luma.com/grok-bot-rome"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-kg"></a>
 ### キルギス

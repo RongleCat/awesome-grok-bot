@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1719-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1731-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -40,13 +40,12 @@
 - **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261007)
 - **United States**（17）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Philadelphia](./EVENTS.md#phl-20260929) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Washington, DC](./EVENTS.md#was-20260929) · [Pasadena](./EVENTS.md#pas-20261008) · [Los Angeles](./EVENTS.md#lax-20260928) · [Ithaca](./EVENTS.md#ith-20260929) · [Atlanta](./EVENTS.md#atl-20261016)
 - **Brazil**（5）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926) · [Curitiba](./EVENTS.md#cwb-20260929) · [Salvador](./EVENTS.md#ssa-20261008)
-- **Spain**（5）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929) · [Valencia](./EVENTS.md#vlc-20260925) · [Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
 - **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
 - **Germany**（4）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20260926) · [Frankfurt](./EVENTS.md#fra-20261023)
+- **Spain**（4）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929) · [Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
 - **Indonesia**（4）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003) · [Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
 - **Mexico**（3）：[Mexico City](./EVENTS.md#cdmx-20260926) · [Monterrey](./EVENTS.md#mty-20261003) · [Villahermosa](./EVENTS.md#vhs-20261001)
 - **Guatemala**（2）：[Guatemala City](./EVENTS.md#gua-20261003) · [Guatemala](./EVENTS.md#gua-20261205)
-- **Italy**（2）：[Padua](./EVENTS.md#pdv-20260925) · [Rome](./EVENTS.md#rom-20261023)
 - **Japan**（2）：[Sapporo](./EVENTS.md#spk-20261002) · [Tokyo](./EVENTS.md#tyo-20261011)
 - **Kazakhstan**（2）：[Astana](./EVENTS.md#nqz-20261002) · [Almaty](./EVENTS.md#ala-20261004)
 - **Vietnam**（2）：[Da Nang](./EVENTS.md#dad-20261003) · [Ho Chi Minh City](./EVENTS.md#sgn-20260926)
@@ -64,6 +63,7 @@
 - **Greece**（1）：[Athens](./EVENTS.md#ath-20261001)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
 - **India**（1）：[Rajkot](./EVENTS.md#raj-20260926)
+- **Italy**（1）：[Rome](./EVENTS.md#rom-20261023)
 - **Kyrgyzstan**（1）：[Bishkek](./EVENTS.md#fru-20261001)
 - **Cambodia**（1）：[Phnom Penh](./EVENTS.md#pnh-20261003)
 - **Sri Lanka**（1）：[Colombo](./EVENTS.md#cmb-20261017)
@@ -285,6 +285,7 @@
 
 ## Field Cases
 
+- [ImmortalWrt x86/64 QNAP soft-router — built by Grok Bot](https://github.com/pengyuw96/immortalwrt-x86-64-qnap) - ImmortalWrt v25.12.2 x86/64 UEFI soft-router image for QNAP Virtualization Station, documented as built by Grok Bot.
 - [StartupSwarm — 23-role GrokBot startup team](https://github.com/mr-dap-lab/startupswarm) - Markdown role pack for a 23-agent startup team designed for GrokBot (orchestrator + specialists; Miami Kickoff demo lineage).
 - [Woodeex matériel for Grok Build (2026-09-24)](https://github.com/CodeNoLimits/woodeex-grok-build-2026-09-24) - French Woodeex delivery pack for Grok Build (pilots, 30s cuts, QC notes) published 2026-09-24 for temporary public Build access.
 - [SEAMBOUND — Grok Build slot design pack](https://github.com/12553240Kj/seambound-grok-build-pack) - Original slot-design pack dated 2026-09-24 for Grok Build, with a master spec zip ready to attach to a Build session.
@@ -470,6 +471,12 @@
 
 ## Skills, Plugins & MCP
 
+- [Android Phone Pilot — control Android from Grok Bot](https://x.ai/bot/ILb_gakZvABUA98zaeHqQ) - Third-party Grok Bot skill (Everest) that drives an Android phone over ADB for hands-free app open, tap, and scroll.
+- [vibecoding-god-setup — Lead + Claude Code + Jev on Grok Bot](https://github.com/Argona7/vibecoding-god-setup) - One-message Grok Bot Lead kit that clones setup docs and wires Claude Code (Opus) plus Jev decisioning on the Bot cloud computer.
+- [HivemindOS — research and multi-model plugin for Grok Bot](https://github.com/LiamVisionary/hivemindos-cursor-plugin) - Official HivemindOS plugin that points Cursor and Grok Bot at a hosted MCP for research reports, generation, memory, and more with one API key.
+- [Realie — U.S. property data plugin for Grok Bot](https://github.com/realie-ai/realie-plugin) - Official Realie plugin so Grok Bot or Cursor can look up U.S. parcels, owners, sales, mortgages, and AVMs over a hosted MCP.
+- [My Privacy Agent — data-broker opt-out plugin for Grok Bot](https://github.com/myprivacyagent/myprivacyagent-plugin) - My Privacy Agent plugin with a skill and remote MCP for verified people-search opt-out guides and removal routes from Grok Bot chat.
+- [Stackcut — cut SaaS spend from Grok Bot chat](https://github.com/Stackcut/stackcut-plugin) - Stackcut plugin and skill that connects Grok Bot to a read-only MCP for SaaS savings plans, cheaper replacements, and local stack audits.
 - [grok-codex-app-handoff — Codex CLI to desktop via Grok Bot](https://github.com/ccmxigua/grok-codex-app-handoff) - Reusable Grok Bot skill and helper scripts that hand a Codex CLI session to the Codex desktop app through macOS Terminal.app.
 - [Pallyy — social scheduling plugin for Grok Bot](https://github.com/pallyysocial/pallyy-agent) - Pallyy hosted MCP plugin (plus skill) so Grok Bot can list social sets and draft or schedule posts across Instagram, LinkedIn, X, and more.
 - [Fintable — bank and investment MCP for Grok Bot](https://github.com/ibnIrshad/fintable-grok-plugin) - Fintable plugin so Grok Bot or Cursor can work with bank transactions, balances, investments, and categories over a hosted MCP connector.
@@ -1030,6 +1037,9 @@
 
 ## Open-Source Alternatives
 
+- [GrokBot Office — workforce control layer for a small GrokBot core](https://github.com/M4G3LL4N0/grokbot-office) - Public reference control layer so a small persistent GrokBot supervisor core coordinates an external elastic workforce via AgentOS.
+- [grokbot-mcp-bridge — secure MCP bridge to a Grok Bot webhook](https://github.com/kinopeee/grokbot-mcp-bridge) - Fly.io-ready MCP bridge that lets Poke call a Cursor automation webhook for Grok Bot without exposing the webhook URL or API key.
+- [GrokBot Meter — macOS menu-bar usage meters for Grok Bot](https://github.com/nuno/grokbot-meter) - Unofficial early-beta macOS menu-bar app that shows Grok Bot weekly usage percent, today stats, and reset timing from official meters.
 - [GrokInstall — capability contracts for Grok Bot](https://github.com/M4G3LL4N0/grokinstall) - Go CLI that inspects a repo, picks a safe integration, and emits a tiny capability contract Grok Bot can call without loading the whole project.
 - [Grok Bot Agent Clone (Next.js + E2B)](https://github.com/rrs301/grok-bot-agent-clone) - Next.js agent workspace clone with Composio tools, Inngest routines, and E2B desktop sandboxes inspired by Grok Bot.
 - [Holly Bot — BYOK Grok Bot–style desktop assistant](https://github.com/xgamer791/holly-bot) - Bring-your-own-key Grok Bot–style assistant with multi-bot personalities plus an optional always-on Holly Computer host.
@@ -1568,6 +1578,8 @@
 
 ## Related Lists
 
+- [SpaceXAI Grok Bot check-in display](https://github.com/ivoklimsa/spacexai_grokbot_checkin) - Fullscreen venue check-in kiosk that spawns floating grokbot avatars for each guest name, with a live Vercel demo.
+- [Railagent — cross-platform messaging MCP for Grok Bot and peers](https://github.com/Railagent-io/Railagent) - Hosted MCP inbox so agents (including Grok Bot) get one address to message and share files across platforms.
 - [nix-grok-build — declarative Grok Build on Nix](https://github.com/gaavin/nix-grok-build) - Nix flake packaging the official Grok Build CLI binaries for declarative NixOS / Home Manager installs.
 - [GrokZen — Chinese privacy build of Grok Build](https://github.com/Catapult291/GrokZen) - Community Simplified-Chinese Grok Build (grok-zh) with telemetry disabled at the source; not an official SpaceXAI release.
 - [Brainiac — portable agent brain for Grok Build](https://github.com/Gaetan-PRUVOT-SQS/brainiac) - Portable agentic-brain template aligning Codex, Claude Code, and Grok Build around shared prefs and demo skills.
@@ -1837,7 +1849,7 @@
 
 ## Contributing
 
-1719 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1731 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

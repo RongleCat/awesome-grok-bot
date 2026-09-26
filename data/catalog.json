@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -1886,6 +1886,16 @@
       },
       "items": [
         {
+          "title": "ImmortalWrt x86/64 QNAP soft-router — built by Grok Bot",
+          "url": "https://github.com/pengyuw96/immortalwrt-x86-64-qnap",
+          "source": "GB-1753",
+          "blurb": {
+            "en": "ImmortalWrt v25.12.2 x86/64 UEFI soft-router image for QNAP Virtualization Station, documented as built by Grok Bot.",
+            "zh": "面向 QNAP Virtualization Station 的 ImmortalWrt v25.12.2 x86/64 UEFI 软路由镜像，由 Grok Bot 构建并写明。",
+            "ja": "QNAP Virtualization Station 向け ImmortalWrt v25.12.2 x86/64 UEFI ソフトルーターイメージ。Grok Bot が構築したと明記。"
+          }
+        },
+        {
           "title": "StartupSwarm — 23-role GrokBot startup team",
           "url": "https://github.com/mr-dap-lab/startupswarm",
           "source": "GB-1716",
@@ -3715,6 +3725,66 @@
         "ja": "スキル、プラグインと MCP"
       },
       "items": [
+        {
+          "title": "Android Phone Pilot — control Android from Grok Bot",
+          "url": "https://x.ai/bot/ILb_gakZvABUA98zaeHqQ",
+          "source": "GB-1749",
+          "blurb": {
+            "en": "Third-party Grok Bot skill (Everest) that drives an Android phone over ADB for hands-free app open, tap, and scroll.",
+            "zh": "第三方 Grok Bot 技能（Everest）：经 ADB 操控安卓手机，免提打开应用、点击与滚动。",
+            "ja": "第三者の Grok Bot スキル（Everest）。ADB で Android を操作し、アプリ起動・タップ・スクロールをハンズフリーで行う。"
+          }
+        },
+        {
+          "title": "vibecoding-god-setup — Lead + Claude Code + Jev on Grok Bot",
+          "url": "https://github.com/Argona7/vibecoding-god-setup",
+          "source": "GB-1748",
+          "blurb": {
+            "en": "One-message Grok Bot Lead kit that clones setup docs and wires Claude Code (Opus) plus Jev decisioning on the Bot cloud computer.",
+            "zh": "一条消息让 Grok Bot Lead 克隆配置，并在云电脑上接通 Claude Code（Opus）与 Jev 决策层。",
+            "ja": "1 通のメッセージで Grok Bot Lead がセットアップをクローンし、クラウド PC 上で Claude Code（Opus）と Jev 判断層をつなぐ。"
+          }
+        },
+        {
+          "title": "HivemindOS — research and multi-model plugin for Grok Bot",
+          "url": "https://github.com/LiamVisionary/hivemindos-cursor-plugin",
+          "source": "GB-1747",
+          "blurb": {
+            "en": "Official HivemindOS plugin that points Cursor and Grok Bot at a hosted MCP for research reports, generation, memory, and more with one API key.",
+            "zh": "官方 HivemindOS 插件：用一把 API Key 把 Cursor/Grok Bot 接到托管 MCP，做研究报告、生成与记忆等。",
+            "ja": "公式 HivemindOS プラグイン。1 つの API キーで Cursor / Grok Bot をホスト MCP に接続し、調査レポートや生成・メモリなどを使う。"
+          }
+        },
+        {
+          "title": "Realie — U.S. property data plugin for Grok Bot",
+          "url": "https://github.com/realie-ai/realie-plugin",
+          "source": "GB-1746",
+          "blurb": {
+            "en": "Official Realie plugin so Grok Bot or Cursor can look up U.S. parcels, owners, sales, mortgages, and AVMs over a hosted MCP.",
+            "zh": "官方 Realie 插件：让 Grok Bot/Cursor 经托管 MCP 查询美国地块、业主、成交、抵押与 AVM。",
+            "ja": "公式 Realie プラグイン。ホスト MCP 経由で米国土地・所有者・売買・抵当・AVM を Grok Bot / Cursor から照会する。"
+          }
+        },
+        {
+          "title": "My Privacy Agent — data-broker opt-out plugin for Grok Bot",
+          "url": "https://github.com/myprivacyagent/myprivacyagent-plugin",
+          "source": "GB-1745",
+          "blurb": {
+            "en": "My Privacy Agent plugin with a skill and remote MCP for verified people-search opt-out guides and removal routes from Grok Bot chat.",
+            "zh": "My Privacy Agent 插件（技能 + 远程 MCP）：在 Grok Bot 对话里给出经核实的人搜站退订与删除路径。",
+            "ja": "My Privacy Agent プラグイン（スキル + リモート MCP）。Grok Bot チャットから人検索サイトのオプトアウト手順と削除ルートを案内する。"
+          }
+        },
+        {
+          "title": "Stackcut — cut SaaS spend from Grok Bot chat",
+          "url": "https://github.com/Stackcut/stackcut-plugin",
+          "source": "GB-1744",
+          "blurb": {
+            "en": "Stackcut plugin and skill that connects Grok Bot to a read-only MCP for SaaS savings plans, cheaper replacements, and local stack audits.",
+            "zh": "Stackcut 插件与技能：把 Grok Bot 接到只读 MCP，做 SaaS 省钱方案、更便宜替代与本地栈审计。",
+            "ja": "Stackcut プラグインとスキル。読み取り専用 MCP で SaaS 節約プラン、安い代替、ローカル構成監査を Grok Bot から行う。"
+          }
+        },
         {
           "title": "grok-codex-app-handoff — Codex CLI to desktop via Grok Bot",
           "url": "https://github.com/ccmxigua/grok-codex-app-handoff",
@@ -9276,6 +9346,36 @@
       },
       "items": [
         {
+          "title": "GrokBot Office — workforce control layer for a small GrokBot core",
+          "url": "https://github.com/M4G3LL4N0/grokbot-office",
+          "source": "GB-1752",
+          "blurb": {
+            "en": "Public reference control layer so a small persistent GrokBot supervisor core coordinates an external elastic workforce via AgentOS.",
+            "zh": "公开参考的控制层：用精简持久的 GrokBot 督导核心，经 AgentOS 调度外部弹性劳动力。",
+            "ja": "公開リファレンスの制御層。小さな常駐 GrokBot 監督コアが AgentOS 経由で外部の弾力ワーカーを調整する。"
+          }
+        },
+        {
+          "title": "grokbot-mcp-bridge — secure MCP bridge to a Grok Bot webhook",
+          "url": "https://github.com/kinopeee/grokbot-mcp-bridge",
+          "source": "GB-1751",
+          "blurb": {
+            "en": "Fly.io-ready MCP bridge that lets Poke call a Cursor automation webhook for Grok Bot without exposing the webhook URL or API key.",
+            "zh": "可部署到 Fly.io 的 MCP 桥：让 Poke 调用 Cursor 自动化 webhook 驱动 Grok Bot，且不暴露 URL/密钥。",
+            "ja": "Fly.io 向け MCP ブリッジ。Webhook URL や API キーを見せずに Poke から Cursor 自動化経由で Grok Bot を呼べる。"
+          }
+        },
+        {
+          "title": "GrokBot Meter — macOS menu-bar usage meters for Grok Bot",
+          "url": "https://github.com/nuno/grokbot-meter",
+          "source": "GB-1750",
+          "blurb": {
+            "en": "Unofficial early-beta macOS menu-bar app that shows Grok Bot weekly usage percent, today stats, and reset timing from official meters.",
+            "zh": "非官方 macOS 菜单栏早期 beta：用官方用量数据展示 Grok Bot 周用量百分比、今日统计与重置倒计时。",
+            "ja": "非公式の macOS メニューバー早期ベータ。公式メーターから Grok Bot の週次使用率・本日分・リセット時刻を表示する。"
+          }
+        },
+        {
           "title": "GrokInstall — capability contracts for Grok Bot",
           "url": "https://github.com/M4G3LL4N0/grokinstall",
           "source": "GB-1742",
@@ -14615,6 +14715,26 @@
         "ja": "関連リスト"
       },
       "items": [
+        {
+          "title": "SpaceXAI Grok Bot check-in display",
+          "url": "https://github.com/ivoklimsa/spacexai_grokbot_checkin",
+          "source": "GB-1755",
+          "blurb": {
+            "en": "Fullscreen venue check-in kiosk that spawns floating grokbot avatars for each guest name, with a live Vercel demo.",
+            "zh": "全屏会场签到屏：为每位嘉宾名字生成漂浮 grokbot 头像，附 Vercel 演示。",
+            "ja": "全画面の会場チェックインキオスク。ゲスト名ごとに漂う grokbot アバターを出し、Vercel デモ付き。"
+          }
+        },
+        {
+          "title": "Railagent — cross-platform messaging MCP for Grok Bot and peers",
+          "url": "https://github.com/Railagent-io/Railagent",
+          "source": "GB-1754",
+          "blurb": {
+            "en": "Hosted MCP inbox so agents (including Grok Bot) get one address to message and share files across platforms.",
+            "zh": "托管 MCP 收件箱：让含 Grok Bot 在内的智能体共用一个地址，跨平台发消息与传文件。",
+            "ja": "ホスト MCP の受信箱。Grok Bot を含むエージェントが 1 つのアドレスで横断メッセージとファイル共有できる。"
+          }
+        },
         {
           "title": "nix-grok-build — declarative Grok Build on Nix",
           "url": "https://github.com/gaavin/nix-grok-build",

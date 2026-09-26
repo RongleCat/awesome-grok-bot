@@ -90,24 +90,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="ssa-20261008"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-psox"><img src="./assets/events/ssa-20261008-cover.png" alt="Grok Bot Salvador Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Salvador Meetup</strong><br />Thu 8 Oct 2026, 18:00–21:00 (America/Bahia)<br />Salvador, BA, Brazil · UNIFACS Campus Tancredo Neves (Av. Tancredo Neves, 2131) — offline<br /><br />SpaceXAI Salvador (Bahia) Grok Bot meetup: networking, talks/workshop, Q&A at UNIFACS. Register on Luma (new listing).<br /><br /><a href="https://luma.com/spacexai-psox"><strong>Register on Luma →</strong></a></td></tr></table>
 
-<a id="country-es"></a>
-### Spain
-
-<a id="bcn-20260929"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/802d0upt"><img src="./assets/events/bcn-20260929-cover.png" alt="Grok Bot Meetup Barcelona" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Barcelona</strong><br />Tue 29 Sep 2026, 18:00–20:00 (Europe/Madrid / CEST, UTC+2)<br />Carrer de Llull, Barcelona (exact address TBA) · near Poblenou metro L4 · offline (stream fallback if full)<br /><br />First Grok Bot Meetup in Barcelona (SpaceXAI for Barcelona; hosts Marc Nebot I Moyano, Walter Troiani). Practical Spanish-language workshop: 18:00 setup/credits, 18:15 intro, 18:30 short community demos, 19:00 build bots, 19:45 Q&A. Bring laptop/phone; credits provided on-site, no prior install/account required. Address on Carrer de Llull TBA near Poblenou L4; approval-gated; guest_count 7 at scan. Hybrid stream only if seats fill. New community-cal slug 802d0upt + forum 171706.<br /><br /><a href="https://luma.com/802d0upt"><strong>Register on Luma → →</strong></a></td></tr></table>
-
-<a id="mad-20260929"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotmadrid1"><img src="./assets/events/mad-20260929-cover.png" alt="Grok Bot Madrid Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Madrid Meetup</strong><br />Tue 29 Sep 2026, 17:30–21:30 (Europe/Madrid, CEST)<br />Madrid, Spain · Pl. del Callao, 1 (Samplia Hub / mad.builders)<br /><br />First Grok Bot Meetup in Madrid: practical workshop afternoon — live try Grok Bot, short community demos, then build bots for a challenge you bring (or host-supplied ideas). Credits provided on site; laptop or phone OK; Spanish (English welcome). Agenda 17:30 setup → 18:00 intro → 18:20 demos → 19:00 workshop → 20:30 networking/~21:30. Hosts Felipe Basurto & Alvaro Fragoso (Mad Builders); free; host approval; ~60 spots; guest_count 0 at scan. Forum 171020.<br /><br /><a href="https://luma.com/grokbotmadrid1"><strong>Register →</strong></a></td></tr></table>
-
-<a id="vlc-20260925"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cpgwzo6n"><img src="./assets/events/vlc-20260925-cover.png" alt="Cafe Cursor València" width="300" /></a></td><td valign="top"><strong>Cafe Cursor València</strong><br />Fri 25 Sep 2026, 10:00–17:00 (Europe/Madrid)<br />València · SpaceXAI for Valencia — offline<br /><br />Cafe Cursor cowork session in València under the SpaceXAI Community calendar. Register on Luma.<br /><br /><a href="https://luma.com/cpgwzo6n"><strong>Register on Luma →</strong></a></td></tr></table>
-
-<a id="alc-20261107"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-ol8x"><img src="./assets/events/alc-20261107-cover.png" alt="Grok Bot Alicante Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Alicante Meetup</strong><br />Sat 7 Nov 2026, 12:00–14:30 (Europe/Madrid)<br />Alicante, Spain · Sausalito Premium Club (Muelle Levante, 6 / Alicante Port) — offline<br /><br />First SpaceXAI Alicante lunch meetup: 5-min lightning demos of Grok Bot workflows in Cursor + networking. Register on Luma (forum 172631).<br /><br /><a href="https://luma.com/spacexai-ol8x"><strong>Register on Luma →</strong></a></td></tr></table>
-
-<a id="bil-20261019"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-euskadi"><img src="./assets/events/bil-20261019-cover.png" alt="Grok Bot Bilbao meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Bilbao meetup</strong><br />Mon 19 Oct 2026, 18:00–21:30 (Europe/Madrid)<br />Bilbao, Spain · La Perrera Espazioa (Sabino Arana Etorbidea, 50) — offline<br /><br />SpaceXAI for Bilbao meetup at La Perrera Espazioa: meet builders and share with Grok Bot. Free registration on Luma.<br /><br /><a href="https://luma.com/spacexai-euskadi"><strong>Register on Luma →</strong></a></td></tr></table>
-
 <a id="country-ca"></a>
 ### Canada
 
@@ -137,6 +119,21 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="fra-20261023"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/1rv39ekj"><img src="./assets/events/fra-20261023-cover.png" alt="Build with Grokbot — Frankfurt (23 Oct)" width="300" /></a></td><td valign="top"><strong>Build with Grokbot — Frankfurt (23 Oct)</strong><br />Fri 23 Oct 2026, 14:00–22:30 (Europe/Berlin)<br />Frankfurt am Main, Germany · Motel One Frankfurt-Messe (Europa-Allee 25) — offline<br /><br />Second SpaceXAI Frankfurt Build Day: ship with Grok Bot at Motel One Messe. Register on Luma.<br /><br /><a href="https://luma.com/1rv39ekj"><strong>Register on Luma →</strong></a></td></tr></table>
+
+<a id="country-es"></a>
+### Spain
+
+<a id="bcn-20260929"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/802d0upt"><img src="./assets/events/bcn-20260929-cover.png" alt="Grok Bot Meetup Barcelona" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Barcelona</strong><br />Tue 29 Sep 2026, 18:00–20:00 (Europe/Madrid / CEST, UTC+2)<br />Carrer de Llull, Barcelona (exact address TBA) · near Poblenou metro L4 · offline (stream fallback if full)<br /><br />First Grok Bot Meetup in Barcelona (SpaceXAI for Barcelona; hosts Marc Nebot I Moyano, Walter Troiani). Practical Spanish-language workshop: 18:00 setup/credits, 18:15 intro, 18:30 short community demos, 19:00 build bots, 19:45 Q&A. Bring laptop/phone; credits provided on-site, no prior install/account required. Address on Carrer de Llull TBA near Poblenou L4; approval-gated; guest_count 7 at scan. Hybrid stream only if seats fill. New community-cal slug 802d0upt + forum 171706.<br /><br /><a href="https://luma.com/802d0upt"><strong>Register on Luma → →</strong></a></td></tr></table>
+
+<a id="mad-20260929"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotmadrid1"><img src="./assets/events/mad-20260929-cover.png" alt="Grok Bot Madrid Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Madrid Meetup</strong><br />Tue 29 Sep 2026, 17:30–21:30 (Europe/Madrid, CEST)<br />Madrid, Spain · Pl. del Callao, 1 (Samplia Hub / mad.builders)<br /><br />First Grok Bot Meetup in Madrid: practical workshop afternoon — live try Grok Bot, short community demos, then build bots for a challenge you bring (or host-supplied ideas). Credits provided on site; laptop or phone OK; Spanish (English welcome). Agenda 17:30 setup → 18:00 intro → 18:20 demos → 19:00 workshop → 20:30 networking/~21:30. Hosts Felipe Basurto & Alvaro Fragoso (Mad Builders); free; host approval; ~60 spots; guest_count 0 at scan. Forum 171020.<br /><br /><a href="https://luma.com/grokbotmadrid1"><strong>Register →</strong></a></td></tr></table>
+
+<a id="alc-20261107"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-ol8x"><img src="./assets/events/alc-20261107-cover.png" alt="Grok Bot Alicante Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Alicante Meetup</strong><br />Sat 7 Nov 2026, 12:00–14:30 (Europe/Madrid)<br />Alicante, Spain · Sausalito Premium Club (Muelle Levante, 6 / Alicante Port) — offline<br /><br />First SpaceXAI Alicante lunch meetup: 5-min lightning demos of Grok Bot workflows in Cursor + networking. Register on Luma (forum 172631).<br /><br /><a href="https://luma.com/spacexai-ol8x"><strong>Register on Luma →</strong></a></td></tr></table>
+
+<a id="bil-20261019"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-euskadi"><img src="./assets/events/bil-20261019-cover.png" alt="Grok Bot Bilbao meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Bilbao meetup</strong><br />Mon 19 Oct 2026, 18:00–21:30 (Europe/Madrid)<br />Bilbao, Spain · La Perrera Espazioa (Sabino Arana Etorbidea, 50) — offline<br /><br />SpaceXAI for Bilbao meetup at La Perrera Espazioa: meet builders and share with Grok Bot. Free registration on Luma.<br /><br /><a href="https://luma.com/spacexai-euskadi"><strong>Register on Luma →</strong></a></td></tr></table>
 
 <a id="country-id"></a>
 ### Indonesia
@@ -173,15 +170,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="gua-20261205"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-97mt"><img src="./assets/events/gua-20261205-cover.png" alt="Grok Bot Meetup Guatemala" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Guatemala</strong><br />Sat 5 Dec 2026, 15:00–20:00 (America/Guatemala)<br />Guatemala · venue TBA (see Luma / host update) — offline<br /><br />SpaceXAI Guatemala offline Grok Bot meetup (forum + Luma). Register on Luma for venue details.<br /><br /><a href="https://luma.com/spacexai-97mt"><strong>Register on Luma →</strong></a></td></tr></table>
-
-<a id="country-it"></a>
-### Italy
-
-<a id="pdv-20260925"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-v5ch"><img src="./assets/events/pdv-20260925-cover.png" alt="Grok Hackathon Padova" width="300" /></a></td><td valign="top"><strong>Grok Hackathon Padova</strong><br />Fri 25 Sep 2026, 19:00–23:00 (Europe/Rome)<br />Padua · Via della Croce Rossa, 42 — offline<br /><br />Grok Hackathon Padova at Via della Croce Rossa 42 — in-person SpaceXAI Community hackathon.<br /><br /><a href="https://luma.com/cursor-v5ch"><strong>Register on Luma →</strong></a></td></tr></table>
-
-<a id="rom-20261023"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-rome"><img src="./assets/events/rom-20261023-cover.png" alt="Grok Bot Meetup Rome" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Rome</strong><br />Fri 23 Oct 2026, 10:00–13:00 (Europe/Rome)<br />Rome, Italy · Urbe Hub (Largo Dino Frisullo, 00153 Roma RM) — offline<br /><br />SpaceXAI for Rome meetup at Urbe Hub: build and share with Grok Bot. Hosted with Urbe Hub. Register on Luma.<br /><br /><a href="https://luma.com/grok-bot-rome"><strong>Register on Luma →</strong></a></td></tr></table>
 
 <a id="country-jp"></a>
 ### Japan
@@ -293,6 +281,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="raj-20260926"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grok-rajkot"><img src="./assets/events/raj-20260926-cover.png" alt="Grok Bot Meetup Rajkot" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Rajkot</strong><br />Sat 26 Sep 2026, 10:00–13:00 (IST)<br />Rajkot, Gujarat, India · exact address after you register<br /><br />In-person Grok Bot meetup in Rajkot (Build, Automate & Grow with AI). Hosted under SpaceXAI for Rajkot; free; host approval; venue obfuscated until registered.<br /><br /><a href="https://luma.com/grok-rajkot"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<a id="country-it"></a>
+### Italy
+
+<a id="rom-20261023"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-rome"><img src="./assets/events/rom-20261023-cover.png" alt="Grok Bot Meetup Rome" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Rome</strong><br />Fri 23 Oct 2026, 10:00–13:00 (Europe/Rome)<br />Rome, Italy · Urbe Hub (Largo Dino Frisullo, 00153 Roma RM) — offline<br /><br />SpaceXAI for Rome meetup at Urbe Hub: build and share with Grok Bot. Hosted with Urbe Hub. Register on Luma.<br /><br /><a href="https://luma.com/grok-bot-rome"><strong>Register on Luma →</strong></a></td></tr></table>
 
 <a id="country-kg"></a>
 ### Kyrgyzstan
