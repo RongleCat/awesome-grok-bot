@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1737-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1739-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -48,7 +48,6 @@
 - **危地马拉**（2）：[危地马拉城](./EVENTS.zh.md#gua-20261003) · [危地马拉](./EVENTS.zh.md#gua-20261205)
 - **日本**（2）：[札幌](./EVENTS.zh.md#spk-20261002) · [东京](./EVENTS.zh.md#tyo-20261011)
 - **哈萨克斯坦**（2）：[阿斯塔纳](./EVENTS.zh.md#nqz-20261002) · [阿拉木图](./EVENTS.zh.md#ala-20261004)
-- **越南**（2）：[岘港](./EVENTS.zh.md#dad-20261003) · [胡志明市](./EVENTS.zh.md#sgn-20260926)
 - **阿根廷**（1）：[门多萨](./EVENTS.zh.md#mdz-20261003)
 - **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
 - **阿塞拜疆**（1）：[巴库](./EVENTS.zh.md#bak-20260927)
@@ -62,7 +61,6 @@
 - **格鲁吉亚**（1）：[第比利斯](./EVENTS.zh.md#tbs-20260926)
 - **希腊**（1）：[雅典](./EVENTS.zh.md#ath-20261001)
 - **爱尔兰**（1）：[都柏林](./EVENTS.zh.md#dub-20261004)
-- **印度**（1）：[拉杰科特](./EVENTS.zh.md#raj-20260926)
 - **意大利**（1）：[罗马](./EVENTS.zh.md#rom-20261023)
 - **吉尔吉斯斯坦**（1）：[比什凯克](./EVENTS.zh.md#fru-20261001)
 - **柬埔寨**（1）：[金边](./EVENTS.zh.md#pnh-20261003)
@@ -78,6 +76,7 @@
 - **土耳其**（1）：[伊斯坦布尔](./EVENTS.zh.md#ist-20260929)
 - **乌干达**（1）：[坎帕拉](./EVENTS.zh.md#kla-20261003)
 - **乌兹别克斯坦**（1）：[塔什干](./EVENTS.zh.md#tas-20260929)
+- **越南**（1）：[岘港](./EVENTS.zh.md#dad-20261003)
 - **赞比亚**（1）：[卢萨卡](./EVENTS.zh.md#lun-20261002)
 - **线上**（1）：[线上（戈亚尼亚）](./EVENTS.zh.md#gyn-20261017)
 
@@ -283,6 +282,7 @@
 - [Grok Bot lesson materials (RU cheatsheet)](https://github.com/gomymy64/grokbot-cheatsheet) - 俄语交互式 HTML 课件/速查表，用于 Grok Bot 工作坊（Мастодонт），含字体与课程素材。.
 - [Build Grok Build CLI on Intel macOS](https://github.com/knightc2020/grok-build-intel-macos) - 可复现的中英双语社区指南与脚本：在 Intel Mac 上编译官方 Grok Build CLI，含 verify.sh。.
 - [BuildCompany — start a company with AI bots](https://github.com/Meisburg/BuildCompany) - 从 Grok Bot Galaxy 直播提炼的便携起步包：先养一个 bootstrap bot，再设计整支 AI 公司团队。.
+- [Sawyer Merritt — Grok Bot Tutorial (20 lessons)](https://x.ai/bot/VBmzZaD3abMPl53kwWuYp) - 社区 @bot 模板：面向新手的 20 课 Grok Bot 动手教程，含分步练习。.
 
 ## 真实使用案例
 
@@ -1023,6 +1023,7 @@
 - [B2BLeads — B2B contact search plugin for Grok Build](https://github.com/B2BLeadsAPI/b2bleads-grok-plugin) - Grok Build 市场插件：经 OAuth MCP 按行业/地区/规模检索并丰富 B2B 线索。.
 - [RelayDesk — remote device MCP for Grok Build](https://github.com/mave-studios/relaydesk-grok-plugin) - RelayDesk 官方 .grok-plugin：经托管 OAuth MCP 让 Grok Build 操作用户已配对的电脑/虚拟机，仓库内不含密钥。.
 - [UlazAI Media — private image MCP for Grok Build](https://github.com/ulazai/agent-plugin) - 代理插件：托管 UlazAI MCP + skill，让 Grok Build 比模型、备提示词并把私有图片生成进项目。.
+- [PaperOffice — document MCP plugin for Grok Build](https://github.com/paperoffice-ai/paperoffice-grok-plugin) - .grok-plugin：把 Grok Build 接到 PaperOffice 欧盟托管 MCP，可搜文档/读 OCR、看文件夹与标签，并经 OAuth 或用户令牌创建 PDF。.
 
 ## 评测与对比
 
@@ -1856,7 +1857,7 @@
 
 ## 贡献
 
-目前 8 个分类、1737 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1739 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1737-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1739-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -48,7 +48,6 @@
 - **Guatemala**（2）：[Guatemala City](./EVENTS.md#gua-20261003) · [Guatemala](./EVENTS.md#gua-20261205)
 - **Japan**（2）：[Sapporo](./EVENTS.md#spk-20261002) · [Tokyo](./EVENTS.md#tyo-20261011)
 - **Kazakhstan**（2）：[Astana](./EVENTS.md#nqz-20261002) · [Almaty](./EVENTS.md#ala-20261004)
-- **Vietnam**（2）：[Da Nang](./EVENTS.md#dad-20261003) · [Ho Chi Minh City](./EVENTS.md#sgn-20260926)
 - **Argentina**（1）：[Mendoza](./EVENTS.md#mdz-20261003)
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
 - **Azerbaijan**（1）：[Baku](./EVENTS.md#bak-20260927)
@@ -62,7 +61,6 @@
 - **Georgia**（1）：[Tbilisi](./EVENTS.md#tbs-20260926)
 - **Greece**（1）：[Athens](./EVENTS.md#ath-20261001)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
-- **India**（1）：[Rajkot](./EVENTS.md#raj-20260926)
 - **Italy**（1）：[Rome](./EVENTS.md#rom-20261023)
 - **Kyrgyzstan**（1）：[Bishkek](./EVENTS.md#fru-20261001)
 - **Cambodia**（1）：[Phnom Penh](./EVENTS.md#pnh-20261003)
@@ -78,6 +76,7 @@
 - **Turkey**（1）：[Istanbul](./EVENTS.md#ist-20260929)
 - **Uganda**（1）：[Kampala](./EVENTS.md#kla-20261003)
 - **Uzbekistan**（1）：[Tashkent](./EVENTS.md#tas-20260929)
+- **Vietnam**（1）：[Da Nang](./EVENTS.md#dad-20261003)
 - **Zambia**（1）：[Lusaka](./EVENTS.md#lun-20261002)
 - **Online**（1）：[Online (Goiânia)](./EVENTS.md#gyn-20261017)
 
@@ -283,6 +282,7 @@
 - [Grok Bot lesson materials (RU cheatsheet)](https://github.com/gomymy64/grokbot-cheatsheet) - Russian interactive HTML lesson pack / cheatsheet for a Grok Bot workshop (Мастодонт), with fonts and lesson assets.
 - [Build Grok Build CLI on Intel macOS](https://github.com/knightc2020/grok-build-intel-macos) - Reproducible bilingual community guide and helper scripts for building the official Grok Build CLI on Intel Macs, with verify.sh.
 - [BuildCompany — start a company with AI bots](https://github.com/Meisburg/BuildCompany) - Portable starter kit distilled from the Grok Bot Galaxy livestream: bootstrap one bot, then design the rest of an AI company team.
+- [Sawyer Merritt — Grok Bot Tutorial (20 lessons)](https://x.ai/bot/VBmzZaD3abMPl53kwWuYp) - Community @bot template: a 20-lesson hands-on Grok Bot course with step-by-step exercises for new users.
 
 ## Field Cases
 
@@ -1023,6 +1023,7 @@
 - [B2BLeads — B2B contact search plugin for Grok Build](https://github.com/B2BLeadsAPI/b2bleads-grok-plugin) - Grok Build marketplace plugin with OAuth MCP tools to search and enrich B2B leads by industry, location, and company size.
 - [RelayDesk — remote device MCP for Grok Build](https://github.com/mave-studios/relaydesk-grok-plugin) - Official RelayDesk .grok-plugin so Grok Build can work on user-paired computers and VMs through a hosted OAuth MCP with no keys in the repo.
 - [UlazAI Media — private image MCP for Grok Build](https://github.com/ulazai/agent-plugin) - Agent plugin with hosted UlazAI MCP and skill so Grok Build can compare models, prepare prompts, and generate private images into the project.
+- [PaperOffice — document MCP plugin for Grok Build](https://github.com/paperoffice-ai/paperoffice-grok-plugin) - Marketplace .grok-plugin that connects Grok Build to PaperOffice’s EU-hosted MCP for document search, OCR text, folders/tags, and creating PDFs via OAuth or user tokens.
 
 ## Reviews & Comparisons
 
@@ -1856,7 +1857,7 @@
 
 ## Contributing
 
-1737 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1739 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

@@ -1874,6 +1874,16 @@
             "zh": "从 Grok Bot Galaxy 直播提炼的便携起步包：先养一个 bootstrap bot，再设计整支 AI 公司团队。",
             "ja": "Grok Bot Galaxy 配信から抽出したポータブル起步キット。まず1体の bootstrap bot を作り、AI 会社チームを設計。"
           }
+        },
+        {
+          "title": "Sawyer Merritt — Grok Bot Tutorial (20 lessons)",
+          "url": "https://x.ai/bot/VBmzZaD3abMPl53kwWuYp",
+          "source": "GB-1763",
+          "blurb": {
+            "en": "Community @bot template: a 20-lesson hands-on Grok Bot course with step-by-step exercises for new users.",
+            "zh": "社区 @bot 模板：面向新手的 20 课 Grok Bot 动手教程，含分步练习。",
+            "ja": "コミュニティ @bot テンプレ。初心者向け 20 レッスンの Grok Bot ハンズオン講座（段階演習付き）。"
+          }
         }
       ]
     },
@@ -9233,6 +9243,16 @@
             "en": "Agent plugin with hosted UlazAI MCP and skill so Grok Build can compare models, prepare prompts, and generate private images into the project.",
             "zh": "代理插件：托管 UlazAI MCP + skill，让 Grok Build 比模型、备提示词并把私有图片生成进项目。",
             "ja": "ホスト型 UlazAI MCP とスキル付きエージェントプラグイン。Grok Build からモデル比較・プロンプト準備・プライベート画像生成ができる。"
+          }
+        },
+        {
+          "title": "PaperOffice — document MCP plugin for Grok Build",
+          "url": "https://github.com/paperoffice-ai/paperoffice-grok-plugin",
+          "source": "GB-1762",
+          "blurb": {
+            "en": "Marketplace .grok-plugin that connects Grok Build to PaperOffice’s EU-hosted MCP for document search, OCR text, folders/tags, and creating PDFs via OAuth or user tokens.",
+            "zh": ".grok-plugin：把 Grok Build 接到 PaperOffice 欧盟托管 MCP，可搜文档/读 OCR、看文件夹与标签，并经 OAuth 或用户令牌创建 PDF。",
+            "ja": ".grok-plugin。PaperOffice の EU ホスト MCP で文書検索・OCR・フォルダ/タグ参照、OAuth またはユーザートークンで PDF 作成を Grok Build から行う。"
           }
         }
       ]

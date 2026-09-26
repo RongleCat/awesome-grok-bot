@@ -189,15 +189,6 @@
 <a id="ala-20261004"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/vod1qyrk"><img src="./assets/events/ala-20261004-cover.png" alt="Grok Bot Meetup 阿拉木图" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 阿拉木图</strong><br />2026-10-04 周日 14:00–17:00（Asia/Almaty，UTC+5）<br />哈萨克斯坦阿拉木图（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />阿拉木图首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug vod1qyrk）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/vod1qyrk"><strong>在 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="country-vn"></a>
-### 越南
-
-<a id="dad-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-80r9"><img src="./assets/events/dad-20261003-cover.png" alt="Grok Bot Meetup 岘港" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 岘港</strong><br />2026-10-03 周六 13:00–16:00（岘港Asia/Ho_Chi_Minh，UTC+7）<br />Vietnam岘港 1710 Cafe & Society, 10 Trần Quý Cáp, Hải Châu, Đà Nẵng 550000, Vietnam（线下）<br /><br />越南岘港 Grok Bot 聚会（主办 Keith Vaughan, Laksh Arora；Frontier Club Da Nang 支持）。13:00–16:00：入场、破冰、SpaceXAI/Cursor 问答、闪电演示、交流。免费开放报名（扫描时剩余约 70）。场地 1710 Cafe & Society。新 slug spacexai-80r9；论坛尚无 New event 帖。<br /><br /><a href="https://luma.com/spacexai-80r9"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
-<a id="sgn-20260926"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-wgmy"><img src="./assets/events/sgn-20260926-cover.png" alt="Grok Bot Meetup 胡志明市" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 胡志明市</strong><br />2026-09-26 周六 13:00–17:00（Asia/Ho_Chi_Minh，UTC+7）<br />越南胡志明市（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />胡志明市首场官方 Grok Bot 聚会（David Zhang / Ivan Paulo / Sandra Vu；SpaceXAI Community）。周六下午试玩、演示与交流。免费需审批（余 94）。与已入库岘港 dad-20261003 不同场。slug spacexai-wgmy；论坛 New event 171994。<br /><br /><a href="https://luma.com/spacexai-wgmy"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
 <a id="country-ar"></a>
 ### 阿根廷
 
@@ -275,12 +266,6 @@
 
 <a id="dub-20261004"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-dublin"><img src="./assets/events/dub-20261004-cover.png" alt="Grok Bot 都柏林 Builder Day" width="300" /></a></td><td valign="top"><strong>Grok Bot 都柏林 Builder Day</strong><br />2026-10-04 周日 11:00–17:30（都柏林 IST）<br />爱尔兰都柏林 · Baseline（61 Thomas St；Dublin AI Week × Bronto）<br /><br />都柏林全天 Grok Bot 共建（SpaceXAI for Dublin，属 Dublin AI Week，合作方 Bronto）：现场 demo、搭 bot/工作流/agent、午餐、闪电分享。请预先下载 x.ai/bot。主办 Sanat Thukral、Manoj；免费需审核；约 96 席，有候补。<br /><br /><a href="https://luma.com/grokbot-dublin"><strong>报名 →</strong></a></td></tr></table>
-
-<a id="country-in"></a>
-### 印度
-
-<a id="raj-20260926"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-rajkot"><img src="./assets/events/raj-20260926-cover.png" alt="Grok Bot 拉杰果德线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 拉杰果德线下交流</strong><br />2026-09-26 周六 10:00–13:00（拉杰果德 IST）<br />印度古吉拉特邦拉杰果德 · 报名通过后可见地址<br /><br />拉杰果德线下 Grok Bot（Build, Automate & Grow with AI）。SpaceXAI for Rajkot 主办；免费；需审核；报名前地址脱敏。<br /><br /><a href="https://luma.com/grok-rajkot"><strong>在 Luma 报名（需主办审核） →</strong></a></td></tr></table>
 
 <a id="country-it"></a>
 ### 意大利
@@ -371,6 +356,12 @@
 
 <a id="tas-20260929"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/pz9gxlzu"><img src="./assets/events/tas-20260929-cover.png" alt="Grok Bot Meetup 塔什干" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 塔什干</strong><br />2026-09-29 周二 18:00–21:00（Asia/Samarkand，UTC+5）<br />乌兹别克斯坦塔什干（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />塔什干首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug pz9gxlzu）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/pz9gxlzu"><strong>在 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="country-vn"></a>
+### 越南
+
+<a id="dad-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-80r9"><img src="./assets/events/dad-20261003-cover.png" alt="Grok Bot Meetup 岘港" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 岘港</strong><br />2026-10-03 周六 13:00–16:00（岘港Asia/Ho_Chi_Minh，UTC+7）<br />Vietnam岘港 1710 Cafe & Society, 10 Trần Quý Cáp, Hải Châu, Đà Nẵng 550000, Vietnam（线下）<br /><br />越南岘港 Grok Bot 聚会（主办 Keith Vaughan, Laksh Arora；Frontier Club Da Nang 支持）。13:00–16:00：入场、破冰、SpaceXAI/Cursor 问答、闪电演示、交流。免费开放报名（扫描时剩余约 70）。场地 1710 Cafe & Society。新 slug spacexai-80r9；论坛尚无 New event 帖。<br /><br /><a href="https://luma.com/spacexai-80r9"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="country-zm"></a>
 ### 赞比亚

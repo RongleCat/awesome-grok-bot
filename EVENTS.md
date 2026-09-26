@@ -189,15 +189,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="ala-20261004"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/vod1qyrk"><img src="./assets/events/ala-20261004-cover.png" alt="Grok Bot Meetup Almaty" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Almaty</strong><br />Sun 4 Oct 2026, 14:00–17:00 (Asia/Almaty, UTC+5)<br />Almaty, Kazakhstan — offline (exact venue city-level on Luma / shared after RSVP)<br /><br />First Grok Bot meetup in Almaty — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug vod1qyrk, evt-9chPv7suc0e5yxp). Opened via discover; OG title verified 2026-09-18.<br /><br /><a href="https://luma.com/vod1qyrk"><strong>RSVP on Luma →</strong></a></td></tr></table>
 
-<a id="country-vn"></a>
-### Vietnam
-
-<a id="dad-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-80r9"><img src="./assets/events/dad-20261003-cover.png" alt="Grok Bot Meetup Da Nang" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Da Nang</strong><br />Sat 3 Oct 2026, 13:00–16:00 (Asia/Ho_Chi_Minh, UTC+7)<br />1710 Cafe & Society, 10 Trần Quý Cáp, Hải Châu, Đà Nẵng 550000, Vietnam — offline<br /><br />Grok Bot Meetup in Da Nang, Vietnam (hosts Keith Vaughan, Laksh Arora; Frontier Club Da Nang support). Agenda 13:00–16:00: arrive/merch, icebreakers, Q&A/office hours with SpaceXAI/Cursor team, lightning demos (Grok Bot workflows), refreshments/networking. Free open RSVP (spots_remaining 70 at scan). Venue 1710 Cafe & Society, Hải Châu. New discover slug spacexai-80r9 (evt-JtbHchgrITq7vfI); no forum New-event post yet.<br /><br /><a href="https://luma.com/spacexai-80r9"><strong>Register on Luma → →</strong></a></td></tr></table>
-
-<a id="sgn-20260926"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-wgmy"><img src="./assets/events/sgn-20260926-cover.png" alt="Grok Bot Meetup HCMC" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup HCMC</strong><br />Sat 26 Sep 2026, 13:00–17:00 (Asia/Ho_Chi_Minh, UTC+7)<br />Ho Chi Minh City, Vietnam — offline (exact venue city-level on Luma / shared after RSVP)<br /><br />1st official Grok Bot Meetup in HCMC (hosts David Zhang, Ivan Paulo, Sandra Vu; SpaceXAI Community). Sat afternoon builders meetup — try Grok Bot, demos, community hang. Free RSVP with approval (spots_remaining 94; guest_count 6). Distinct from catalogued dad-20261003 Da Nang. Luma slug spacexai-wgmy (evt-VutI63orxqoXqGW); forum New-event 171994.<br /><br /><a href="https://luma.com/spacexai-wgmy"><strong>Register on Luma → →</strong></a></td></tr></table>
-
 <a id="country-ar"></a>
 ### Argentina
 
@@ -275,12 +266,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="dub-20261004"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-dublin"><img src="./assets/events/dub-20261004-cover.png" alt="Grok Bot Dublin Builder Day" width="300" /></a></td><td valign="top"><strong>Grok Bot Dublin Builder Day</strong><br />Sun 4 Oct 2026, 11:00–17:30 (Europe/Dublin, IST)<br />Dublin 8, Ireland · Baseline (61 Thomas St), Dublin AI Week × Bronto<br /><br />Full-day Grok Bot community build day (SpaceXAI for Dublin, part of Dublin AI Week, partner Bronto): live demo, build bots/workflows/agents, lunch, lightning demos, show&tell. Download ahead: x.ai/bot. Hosts Sanat Thukral & Manoj; free; host approval; ~96 spots; waitlist enabled.<br /><br /><a href="https://luma.com/grokbot-dublin"><strong>Register →</strong></a></td></tr></table>
-
-<a id="country-in"></a>
-### India
-
-<a id="raj-20260926"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-rajkot"><img src="./assets/events/raj-20260926-cover.png" alt="Grok Bot Meetup Rajkot" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Rajkot</strong><br />Sat 26 Sep 2026, 10:00–13:00 (IST)<br />Rajkot, Gujarat, India · exact address after you register<br /><br />In-person Grok Bot meetup in Rajkot (Build, Automate & Grow with AI). Hosted under SpaceXAI for Rajkot; free; host approval; venue obfuscated until registered.<br /><br /><a href="https://luma.com/grok-rajkot"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
 <a id="country-it"></a>
 ### Italy
@@ -371,6 +356,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="tas-20260929"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/pz9gxlzu"><img src="./assets/events/tas-20260929-cover.png" alt="Grok Bot Meetup Tashkent" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Tashkent</strong><br />Tue 29 Sep 2026, 18:00–21:00 (Asia/Samarkand, UTC+5)<br />Tashkent, Uzbekistan — offline (exact venue city-level on Luma / shared after RSVP)<br /><br />First Grok Bot meetup in Tashkent — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug pz9gxlzu, evt-l4cGFBWK7pNt5Fb). Opened via discover; OG title verified 2026-09-18.<br /><br /><a href="https://luma.com/pz9gxlzu"><strong>RSVP on Luma →</strong></a></td></tr></table>
+
+<a id="country-vn"></a>
+### Vietnam
+
+<a id="dad-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-80r9"><img src="./assets/events/dad-20261003-cover.png" alt="Grok Bot Meetup Da Nang" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Da Nang</strong><br />Sat 3 Oct 2026, 13:00–16:00 (Asia/Ho_Chi_Minh, UTC+7)<br />1710 Cafe & Society, 10 Trần Quý Cáp, Hải Châu, Đà Nẵng 550000, Vietnam — offline<br /><br />Grok Bot Meetup in Da Nang, Vietnam (hosts Keith Vaughan, Laksh Arora; Frontier Club Da Nang support). Agenda 13:00–16:00: arrive/merch, icebreakers, Q&A/office hours with SpaceXAI/Cursor team, lightning demos (Grok Bot workflows), refreshments/networking. Free open RSVP (spots_remaining 70 at scan). Venue 1710 Cafe & Society, Hải Châu. New discover slug spacexai-80r9 (evt-JtbHchgrITq7vfI); no forum New-event post yet.<br /><br /><a href="https://luma.com/spacexai-80r9"><strong>Register on Luma → →</strong></a></td></tr></table>
 
 <a id="country-zm"></a>
 ### Zambia

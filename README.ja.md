@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1737-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1739-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -48,7 +48,6 @@
 - **グアテマラ**（2）：[グアテマラシティ](./EVENTS.ja.md#gua-20261003) · [グアテマラ](./EVENTS.ja.md#gua-20261205)
 - **日本**（2）：[札幌](./EVENTS.ja.md#spk-20261002) · [東京](./EVENTS.ja.md#tyo-20261011)
 - **カザフスタン**（2）：[アスタナ](./EVENTS.ja.md#nqz-20261002) · [アルマトイ](./EVENTS.ja.md#ala-20261004)
-- **ベトナム**（2）：[ダナン](./EVENTS.ja.md#dad-20261003) · [ホーチミン](./EVENTS.ja.md#sgn-20260926)
 - **アルゼンチン**（1）：[メンドサ](./EVENTS.ja.md#mdz-20261003)
 - **オーストラリア**（1）：[シドニー](./EVENTS.ja.md#syd-20261007)
 - **アゼルバイジャン**（1）：[バクー](./EVENTS.ja.md#bak-20260927)
@@ -62,7 +61,6 @@
 - **ジョージア**（1）：[トビリシ](./EVENTS.ja.md#tbs-20260926)
 - **ギリシャ**（1）：[アテネ](./EVENTS.ja.md#ath-20261001)
 - **アイルランド**（1）：[ダブリン](./EVENTS.ja.md#dub-20261004)
-- **インド**（1）：[ラージコート](./EVENTS.ja.md#raj-20260926)
 - **イタリア**（1）：[ローマ](./EVENTS.ja.md#rom-20261023)
 - **キルギス**（1）：[ビシュケク](./EVENTS.ja.md#fru-20261001)
 - **カンボジア**（1）：[プノンペン](./EVENTS.ja.md#pnh-20261003)
@@ -78,6 +76,7 @@
 - **トルコ**（1）：[イスタンブール](./EVENTS.ja.md#ist-20260929)
 - **ウガンダ**（1）：[カンパラ](./EVENTS.ja.md#kla-20261003)
 - **ウズベキスタン**（1）：[タシュケント](./EVENTS.ja.md#tas-20260929)
+- **ベトナム**（1）：[ダナン](./EVENTS.ja.md#dad-20261003)
 - **ザンビア**（1）：[ルサカ](./EVENTS.ja.md#lun-20261002)
 - **オンライン**（1）：[オンライン（ゴイアニア）](./EVENTS.ja.md#gyn-20261017)
 
@@ -283,6 +282,7 @@
 - [Grok Bot lesson materials (RU cheatsheet)](https://github.com/gomymy64/grokbot-cheatsheet) - ロシア語の対話型 HTML 教材／チートシート。Grok Bot ワークショップ（Мастодонт）用、フォントと教材付き。
 - [Build Grok Build CLI on Intel macOS](https://github.com/knightc2020/grok-build-intel-macos) - 再現可能なバイリンガル案内とスクリプト。Intel Mac で公式 Grok Build CLI をビルドし verify.sh 付き。
 - [BuildCompany — start a company with AI bots](https://github.com/Meisburg/BuildCompany) - Grok Bot Galaxy 配信から抽出したポータブル起步キット。まず1体の bootstrap bot を作り、AI 会社チームを設計。
+- [Sawyer Merritt — Grok Bot Tutorial (20 lessons)](https://x.ai/bot/VBmzZaD3abMPl53kwWuYp) - コミュニティ @bot テンプレ。初心者向け 20 レッスンの Grok Bot ハンズオン講座（段階演習付き）。
 
 ## 実地事例
 
@@ -1023,6 +1023,7 @@
 - [B2BLeads — B2B contact search plugin for Grok Build](https://github.com/B2BLeadsAPI/b2bleads-grok-plugin) - Grok Build 向けマーケットプラグイン。OAuth MCP で業種・地域・規模から B2B リードを検索・補強する。
 - [RelayDesk — remote device MCP for Grok Build](https://github.com/mave-studios/relaydesk-grok-plugin) - RelayDesk 公式 .grok-plugin。ホスト型 OAuth MCP でユーザーがペアリングした PC/VM を Grok Build から操作（リポジトリに鍵なし）。
 - [UlazAI Media — private image MCP for Grok Build](https://github.com/ulazai/agent-plugin) - ホスト型 UlazAI MCP とスキル付きエージェントプラグイン。Grok Build からモデル比較・プロンプト準備・プライベート画像生成ができる。
+- [PaperOffice — document MCP plugin for Grok Build](https://github.com/paperoffice-ai/paperoffice-grok-plugin) - .grok-plugin。PaperOffice の EU ホスト MCP で文書検索・OCR・フォルダ/タグ参照、OAuth またはユーザートークンで PDF 作成を Grok Build から行う。
 
 ## レビューと比較
 
@@ -1856,7 +1857,7 @@
 
 ## 貢献
 
-8 セクションに 1737 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1739 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

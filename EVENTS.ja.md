@@ -189,15 +189,6 @@
 <a id="ala-20261004"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/vod1qyrk"><img src="./assets/events/ala-20261004-cover.png" alt="Grok Bot Meetup アルマトイ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup アルマトイ</strong><br />2026-10-04（日） 14:00–17:00（Asia/Almaty、UTC+5）<br />カザフスタン・アルマトイ（オフライン；Luma は都市レベル、RSVP 後に会場案内）<br /><br />アルマトイ初の Grok Bot オフラインミートアップ（中央アジア＆コーカサス連続）。体験・デモ・交流。Luma 無料RSVP（slug vod1qyrk）。2026-09-18 にページ確認済み。<br /><br /><a href="https://luma.com/vod1qyrk"><strong>Luma で RSVP →</strong></a></td></tr></table>
 
-<a id="country-vn"></a>
-### ベトナム
-
-<a id="dad-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-80r9"><img src="./assets/events/dad-20261003-cover.png" alt="Grok Bot Meetup ダナン" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ダナン</strong><br />2026-10-03（土）13:00–16:00（Asia/Ho_Chi_Minh、UTC+7）<br />1710 Cafe & Society, 10 Trần Quý Cáp, Hải Châu, Đà Nẵng 550000, Vietnam（オフライン）<br /><br />ベトナム・ダナンの Grok Bot ミートアップ（ホスト Keith Vaughan, Laksh Arora；Frontier Club Da Nang 支援）。13:00–16:00：受付、アイスブレイク、SpaceXAI/Cursor Q&A、ライトニングデモ、交流。無料オープンRSVP（スキャン時残り約70）。会場 1710 Cafe & Society。新 slug spacexai-80r9；フォーラムの New event 投稿はまだなし。<br /><br /><a href="https://luma.com/spacexai-80r9"><strong>Luma で登録 → →</strong></a></td></tr></table>
-
-<a id="sgn-20260926"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-wgmy"><img src="./assets/events/sgn-20260926-cover.png" alt="Grok Bot Meetup ホーチミン" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ホーチミン</strong><br />2026-09-26（土） 13:00–17:00（Asia/Ho_Chi_Minh、UTC+7）<br />ベトナム・ホーチミン（オフライン；Luma は都市レベル、RSVP 後に会場案内）<br /><br />ホーチミン初の公式 Grok Bot ミートアップ（David Zhang / Ivan Paulo / Sandra Vu；SpaceXAI Community）。土曜午後の体験・デモ・交流。無料・承認制（残 94）。ダナン dad-20261003 とは別。slug spacexai-wgmy；フォーラム 171994。<br /><br /><a href="https://luma.com/spacexai-wgmy"><strong>Luma で登録 → →</strong></a></td></tr></table>
-
 <a id="country-ar"></a>
 ### アルゼンチン
 
@@ -275,12 +266,6 @@
 
 <a id="dub-20261004"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-dublin"><img src="./assets/events/dub-20261004-cover.png" alt="Grok Bot Dublin Builder Day" width="300" /></a></td><td valign="top"><strong>Grok Bot Dublin Builder Day</strong><br />2026-10-04（日）11:00–17:30（Europe/Dublin、IST）<br />アイルランド・ダブリン · Baseline（61 Thomas St、Dublin AI Week × Bronto）<br /><br />ダブリン終日 Grok Bot ビルドデイ（SpaceXAI for Dublin、Dublin AI Week の一環、Bronto 提携）。ライブデモ、ボット／ワークフロー構築、昼食、ライトニングデモ。事前に x.ai/bot を導入。主催 Sanat Thukral & Manoj。無料・承認制・約 96 席・ウェイトリストあり。<br /><br /><a href="https://luma.com/grokbot-dublin"><strong>申し込む →</strong></a></td></tr></table>
-
-<a id="country-in"></a>
-### インド
-
-<a id="raj-20260926"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-rajkot"><img src="./assets/events/raj-20260926-cover.png" alt="Grok Bot Meetup Rajkot" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Rajkot</strong><br />2026-09-26（土）10:00–13:00（IST）<br />Rajkot, Gujarat, India · 登録後に住所を表示<br /><br />Rajkot 対面 Grok Bot（Build, Automate & Grow with AI）。SpaceXAI for Rajkot 主催。無料・承認制。登録前は住所マスク。<br /><br /><a href="https://luma.com/grok-rajkot"><strong>Luma で申し込み（主催者承認） →</strong></a></td></tr></table>
 
 <a id="country-it"></a>
 ### イタリア
@@ -371,6 +356,12 @@
 
 <a id="tas-20260929"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/pz9gxlzu"><img src="./assets/events/tas-20260929-cover.png" alt="Grok Bot Meetup タシュケント" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup タシュケント</strong><br />2026-09-29（火） 18:00–21:00（Asia/Samarkand、UTC+5）<br />ウズベキスタン・タシュケント（オフライン；Luma は都市レベル、RSVP 後に会場案内）<br /><br />タシュケント初の Grok Bot オフラインミートアップ（中央アジア＆コーカサス連続）。体験・デモ・交流。Luma 無料RSVP（slug pz9gxlzu）。2026-09-18 にページ確認済み。<br /><br /><a href="https://luma.com/pz9gxlzu"><strong>Luma で RSVP →</strong></a></td></tr></table>
+
+<a id="country-vn"></a>
+### ベトナム
+
+<a id="dad-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-80r9"><img src="./assets/events/dad-20261003-cover.png" alt="Grok Bot Meetup ダナン" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ダナン</strong><br />2026-10-03（土）13:00–16:00（Asia/Ho_Chi_Minh、UTC+7）<br />1710 Cafe & Society, 10 Trần Quý Cáp, Hải Châu, Đà Nẵng 550000, Vietnam（オフライン）<br /><br />ベトナム・ダナンの Grok Bot ミートアップ（ホスト Keith Vaughan, Laksh Arora；Frontier Club Da Nang 支援）。13:00–16:00：受付、アイスブレイク、SpaceXAI/Cursor Q&A、ライトニングデモ、交流。無料オープンRSVP（スキャン時残り約70）。会場 1710 Cafe & Society。新 slug spacexai-80r9；フォーラムの New event 投稿はまだなし。<br /><br /><a href="https://luma.com/spacexai-80r9"><strong>Luma で登録 → →</strong></a></td></tr></table>
 
 <a id="country-zm"></a>
 ### ザンビア
