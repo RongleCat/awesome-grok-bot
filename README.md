@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1731-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1737-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -66,6 +66,7 @@
 - **Italy**（1）：[Rome](./EVENTS.md#rom-20261023)
 - **Kyrgyzstan**（1）：[Bishkek](./EVENTS.md#fru-20261001)
 - **Cambodia**（1）：[Phnom Penh](./EVENTS.md#pnh-20261003)
+- **South Korea**（1）：[Seoul](./EVENTS.md#sel-20261027)
 - **Sri Lanka**（1）：[Colombo](./EVENTS.md#cmb-20261017)
 - **Myanmar**（1）：[Yangon](./EVENTS.md#ygn-20260926)
 - **Norway**（1）：[Oslo](./EVENTS.md#osl-20261016)
@@ -1017,6 +1018,11 @@
 - [DataBye Grok — Spain RGPD opt-out skill](https://github.com/686f6c61/DataBye) - Spain-only RGPD skill pack for Grok Bot (SKILL.md + wizard + roster) that guides access/objection/erasure emails via Gmail or Outlook OAuth.
 - [tmapi-1688-mcp — 1688.com tools for Grok Bot](https://github.com/GalacticDeluge/tmapi-1688-mcp) - Stdio MCP server so Grok Bot can search 1688.com products, factories, reviews, and shipping via TMAPI with on-disk SQLite caching.
 - [search-boost — multi-engine search MCP for Grok Build](https://github.com/Mr-remon219/search-boost) - Multi-engine web search MCP (Bing/DDG/Yahoo/Exa + keyed APIs) with one CLI setup for Cursor, Codex, Claude Code, and Grok Build.
+- [Figma Grok — Figma MCP and skills for Grok Bot](https://github.com/SIMPL-Automation/figma-grok) - Marketplace plugin that connects Grok Bot to Figma’s hosted MCP plus fourteen official skills-figquery workflows for design-to-code, FigJam, Slides, and motion.
+- [Jobs by Workable — job search MCP plugin for Grok Bot](https://github.com/Workable/workable-jobs-grok-plugin) - Official-style .grok-plugin that connects Grok Bot to Jobs by Workable MCP for job search, company pages, and signed-in profile and application tools.
+- [B2BLeads — B2B contact search plugin for Grok Build](https://github.com/B2BLeadsAPI/b2bleads-grok-plugin) - Grok Build marketplace plugin with OAuth MCP tools to search and enrich B2B leads by industry, location, and company size.
+- [RelayDesk — remote device MCP for Grok Build](https://github.com/mave-studios/relaydesk-grok-plugin) - Official RelayDesk .grok-plugin so Grok Build can work on user-paired computers and VMs through a hosted OAuth MCP with no keys in the repo.
+- [UlazAI Media — private image MCP for Grok Build](https://github.com/ulazai/agent-plugin) - Agent plugin with hosted UlazAI MCP and skill so Grok Build can compare models, prepare prompts, and generate private images into the project.
 
 ## Reviews & Comparisons
 
@@ -1846,10 +1852,11 @@
 - [jev-routing-go — Go Jev harness for Grok Build](https://github.com/nekowasabi/jev-routing-go) - Single Go binary Jev harness for Claude Code, Codex and Grok Build without npx (not an MCP server).
 - [HarnessTrajectory — local viewer incl. Grok Build sessions](https://github.com/Demogorgon314/HarnessTrajectory) - Local trajectory viewer for coding-agent transcripts including Grok Build, Claude Code, Codex and peers.
 - [Grok Bot Galaxy Day 3 — bilingual session notes](https://github.com/HiEllenC/grokbot-galaxy-day3) - Bilingual (EN/CN) PDF session notes from Grok Bot Galaxy Day 3 by Ellen, with a companion Day 2 GitHub Pages write-up.
+- [GrokBotChineseFix — Windows fullwidth comma for Grok Bot](https://github.com/thinkingpowerai-ux/GrokBotChineseFix) - Small Windows utility that remaps Ctrl+, to a fullwidth Chinese comma only while the Grok Bot desktop window is focused.
 
 ## Contributing
 
-1731 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1737 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

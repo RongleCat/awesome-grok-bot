@@ -300,6 +300,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="pnh-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-jt05"><img src="./assets/events/pnh-20261003-cover.png" alt="Grok Bot Meetup Phnom Penh" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Phnom Penh</strong><br />Sat 3 Oct 2026, 14:00–16:00 (Asia/Bangkok, GMT+7)<br />Phnom Penh · Smart Startup Space (Connexion Building, Koh Pich)<br /><br />Cambodia's first Grok Bot meetup: demos, idea swap, on-site try-with-credits (laptop or phone OK), plus an online guest speaker. Co-organized with Smart Startup Space. Hosts Taka Kiyone & Luis Romero; free; host approval; ~80 seats; beginners welcome.<br /><br /><a href="https://luma.com/spacexai-jt05"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
+<a id="country-kr"></a>
+### South Korea
+
+<a id="sel-20261027"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/6ee6i3v6"><img src="./assets/events/sel-20261027-cover.png" alt="Grok Bot Meetup Seoul" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Seoul</strong><br />Tue 27 Oct 2026, 19:00–22:00 (Europe/Amsterdam on Luma; first Seoul meetup).<br />Seoul, South Korea — offline (exact address TBA / obfuscated on Luma).<br /><br />First Grok Bot meetup in Seoul (hosts Andreas Kruszakin-Liboska + Eric Kim; personal calendar). Evening of building Bots and demos; laptop recommended; credits provided. Free RSVP (guest_count 4 at scan). Slug 6ee6i3v6 (evt-E1UoQfncUbg2JSK); no forum New-event post yet.<br /><br /><a href="https://luma.com/6ee6i3v6"><strong>Register on Luma → →</strong></a></td></tr></table>
+
 <a id="country-lk"></a>
 ### Sri Lanka
 

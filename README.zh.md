@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1731-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1737-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -66,6 +66,7 @@
 - **意大利**（1）：[罗马](./EVENTS.zh.md#rom-20261023)
 - **吉尔吉斯斯坦**（1）：[比什凯克](./EVENTS.zh.md#fru-20261001)
 - **柬埔寨**（1）：[金边](./EVENTS.zh.md#pnh-20261003)
+- **韩国**（1）：[首尔](./EVENTS.zh.md#sel-20261027)
 - **斯里兰卡**（1）：[科伦坡](./EVENTS.zh.md#cmb-20261017)
 - **缅甸**（1）：[仰光](./EVENTS.zh.md#ygn-20260926)
 - **挪威**（1）：[奥斯陆](./EVENTS.zh.md#osl-20261016)
@@ -1017,6 +1018,11 @@
 - [DataBye Grok — Spain RGPD opt-out skill](https://github.com/686f6c61/DataBye) - 面向西班牙的 Grok Bot RGPD 技能包（SKILL.md + 向导 + roster）：经 Gmail/Outlook OAuth 指导行使访问/反对/删除权邮件。.
 - [tmapi-1688-mcp — 1688.com tools for Grok Bot](https://github.com/GalacticDeluge/tmapi-1688-mcp) - stdio MCP：让 Grok Bot 经 TMAPI 检索 1688 商品/工厂/评价/运费，并带本地 SQLite 缓存。.
 - [search-boost — multi-engine search MCP for Grok Build](https://github.com/Mr-remon219/search-boost) - 多引擎网页搜索 MCP（Bing/DDG/Yahoo/Exa + 付费 API），一条 CLI 即可接入 Cursor、Codex、Claude Code 与 Grok Build。.
+- [Figma Grok — Figma MCP and skills for Grok Bot](https://github.com/SIMPL-Automation/figma-grok) - 市场插件：把 Grok Bot 接到 Figma 托管 MCP，并附带 14 个官方 skills-figquery（设计转代码、FigJam、Slides、动效等）。.
+- [Jobs by Workable — job search MCP plugin for Grok Bot](https://github.com/Workable/workable-jobs-grok-plugin) - .grok-plugin：把 Grok Bot 接到 Jobs by Workable MCP，可搜职位/公司，并在浏览器登录后管理简历与投递。.
+- [B2BLeads — B2B contact search plugin for Grok Build](https://github.com/B2BLeadsAPI/b2bleads-grok-plugin) - Grok Build 市场插件：经 OAuth MCP 按行业/地区/规模检索并丰富 B2B 线索。.
+- [RelayDesk — remote device MCP for Grok Build](https://github.com/mave-studios/relaydesk-grok-plugin) - RelayDesk 官方 .grok-plugin：经托管 OAuth MCP 让 Grok Build 操作用户已配对的电脑/虚拟机，仓库内不含密钥。.
+- [UlazAI Media — private image MCP for Grok Build](https://github.com/ulazai/agent-plugin) - 代理插件：托管 UlazAI MCP + skill，让 Grok Build 比模型、备提示词并把私有图片生成进项目。.
 
 ## 评测与对比
 
@@ -1846,10 +1852,11 @@
 - [jev-routing-go — Go Jev harness for Grok Build](https://github.com/nekowasabi/jev-routing-go) - 单个 Go 二进制 Jev 编排：面向 Claude Code、Codex、Grok Build，无需 npx（非 MCP）。.
 - [HarnessTrajectory — local viewer incl. Grok Build sessions](https://github.com/Demogorgon314/HarnessTrajectory) - 本地轨迹查看器：读取含 Grok Build、Claude Code、Codex 等编码智能体会话笔录。.
 - [Grok Bot Galaxy Day 3 — bilingual session notes](https://github.com/HiEllenC/grokbot-galaxy-day3) - Ellen 整理的 Grok Bot Galaxy 第 3 日中英双语 PDF 笔记，并链到 Day 2 的 GitHub Pages 记录。.
+- [GrokBotChineseFix — Windows fullwidth comma for Grok Bot](https://github.com/thinkingpowerai-ux/GrokBotChineseFix) - Windows 小工具：仅在 Grok Bot 桌面窗口前台时，把 Ctrl+, 改成输入全角中文逗号。.
 
 ## 贡献
 
-目前 8 个分类、1731 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1737 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

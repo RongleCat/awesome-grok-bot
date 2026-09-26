@@ -300,6 +300,12 @@
 <a id="pnh-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-jt05"><img src="./assets/events/pnh-20261003-cover.png" alt="Grok Bot Meetup Phnom Penh" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Phnom Penh</strong><br />2026-10-03（土）14:00–16:00（Asia/Bangkok、GMT+7）<br />プノンペン · Smart Startup Space（Connexion Building, Koh Pich）<br /><br />カンボジア初の Grok Bot ミートアップ。デモ・アイデア交換、現地クレジット試用（ノート／スマホ可）、オンラインゲストあり。Smart Startup Space 共催。主催 Taka Kiyone & Luis Romero。無料・承認制・約80席。初心者歓迎。<br /><br /><a href="https://luma.com/spacexai-jt05"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
+<a id="country-kr"></a>
+### 韓国
+
+<a id="sel-20261027"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/6ee6i3v6"><img src="./assets/events/sel-20261027-cover.png" alt="Grok Bot ソウル Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot ソウル Meetup</strong><br />2026-10-27（火）19:00–22:00（Luma 上 Europe/Amsterdam；ソウル初 Meetup）。<br />韓国・ソウル — オフライン（Luma 上は住所非公開/後日案内）。<br /><br />ソウル初の Grok Bot Meetup（ホスト Andreas Kruszakin-Liboska + Eric Kim）。ボット作成とデモの夜会。ノート PC 推奨、クレジット提供。無料 RSVP（スキャン時 guest_count 4）。slug 6ee6i3v6；フォーラムの New event は未確認。<br /><br /><a href="https://luma.com/6ee6i3v6"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
 <a id="country-lk"></a>
 ### スリランカ
 

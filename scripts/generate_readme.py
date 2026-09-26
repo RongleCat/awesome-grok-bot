@@ -178,6 +178,7 @@ COUNTRY_LABEL = {
     "cn": {"en": "China", "zh": "中国", "ja": "中国"},
     "us": {"en": "United States", "zh": "美国", "ja": "アメリカ"},
     "jp": {"en": "Japan", "zh": "日本", "ja": "日本"},
+    "kr": {"en": "South Korea", "zh": "韩国", "ja": "韓国"},
     "ca": {"en": "Canada", "zh": "加拿大", "ja": "カナダ"},
     "mx": {"en": "Mexico", "zh": "墨西哥", "ja": "メキシコ"},
     "ar": {"en": "Argentina", "zh": "阿根廷", "ja": "アルゼンチン"},
@@ -455,6 +456,7 @@ EVENT_GEO = {
     "vhs-20261001": ("mx", "Villahermosa", "比亚埃尔莫萨", "ビヤエルモサ"),
     "kgl-20261003": ("rw", "Kigali", "基加利", "キガリ"),
     "atl-20261016": ("us", "Atlanta", "亚特兰大", "アトランタ"),
+    "sel-20261027": ("kr", "Seoul", "首尔", "ソウル"),
 }
 
 

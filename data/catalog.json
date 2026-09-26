@@ -9184,6 +9184,56 @@
             "zh": "多引擎网页搜索 MCP（Bing/DDG/Yahoo/Exa + 付费 API），一条 CLI 即可接入 Cursor、Codex、Claude Code 与 Grok Build。",
             "ja": "マルチエンジン Web 検索 MCP（Bing/DDG/Yahoo/Exa＋有料 API）。CLI 一発で Cursor / Codex / Claude Code / Grok Build に接続。"
           }
+        },
+        {
+          "title": "Figma Grok — Figma MCP and skills for Grok Bot",
+          "url": "https://github.com/SIMPL-Automation/figma-grok",
+          "source": "GB-1756",
+          "blurb": {
+            "en": "Marketplace plugin that connects Grok Bot to Figma’s hosted MCP plus fourteen official skills-figquery workflows for design-to-code, FigJam, Slides, and motion.",
+            "zh": "市场插件：把 Grok Bot 接到 Figma 托管 MCP，并附带 14 个官方 skills-figquery（设计转代码、FigJam、Slides、动效等）。",
+            "ja": "Grok Bot を Figma ホスト MCP と公式 skills-figquery（デザイン→コード、FigJam、Slides、モーション等）14本に接続するマーケットプレイスプラグイン。"
+          }
+        },
+        {
+          "title": "Jobs by Workable — job search MCP plugin for Grok Bot",
+          "url": "https://github.com/Workable/workable-jobs-grok-plugin",
+          "source": "GB-1757",
+          "blurb": {
+            "en": "Official-style .grok-plugin that connects Grok Bot to Jobs by Workable MCP for job search, company pages, and signed-in profile and application tools.",
+            "zh": ".grok-plugin：把 Grok Bot 接到 Jobs by Workable MCP，可搜职位/公司，并在浏览器登录后管理简历与投递。",
+            "ja": ".grok-plugin。Jobs by Workable MCP で求人・企業検索、ブラウザログイン後のプロフィール/応募管理を Grok Bot から行う。"
+          }
+        },
+        {
+          "title": "B2BLeads — B2B contact search plugin for Grok Build",
+          "url": "https://github.com/B2BLeadsAPI/b2bleads-grok-plugin",
+          "source": "GB-1758",
+          "blurb": {
+            "en": "Grok Build marketplace plugin with OAuth MCP tools to search and enrich B2B leads by industry, location, and company size.",
+            "zh": "Grok Build 市场插件：经 OAuth MCP 按行业/地区/规模检索并丰富 B2B 线索。",
+            "ja": "Grok Build 向けマーケットプラグイン。OAuth MCP で業種・地域・規模から B2B リードを検索・補強する。"
+          }
+        },
+        {
+          "title": "RelayDesk — remote device MCP for Grok Build",
+          "url": "https://github.com/mave-studios/relaydesk-grok-plugin",
+          "source": "GB-1759",
+          "blurb": {
+            "en": "Official RelayDesk .grok-plugin so Grok Build can work on user-paired computers and VMs through a hosted OAuth MCP with no keys in the repo.",
+            "zh": "RelayDesk 官方 .grok-plugin：经托管 OAuth MCP 让 Grok Build 操作用户已配对的电脑/虚拟机，仓库内不含密钥。",
+            "ja": "RelayDesk 公式 .grok-plugin。ホスト型 OAuth MCP でユーザーがペアリングした PC/VM を Grok Build から操作（リポジトリに鍵なし）。"
+          }
+        },
+        {
+          "title": "UlazAI Media — private image MCP for Grok Build",
+          "url": "https://github.com/ulazai/agent-plugin",
+          "source": "GB-1760",
+          "blurb": {
+            "en": "Agent plugin with hosted UlazAI MCP and skill so Grok Build can compare models, prepare prompts, and generate private images into the project.",
+            "zh": "代理插件：托管 UlazAI MCP + skill，让 Grok Build 比模型、备提示词并把私有图片生成进项目。",
+            "ja": "ホスト型 UlazAI MCP とスキル付きエージェントプラグイン。Grok Build からモデル比較・プロンプト準備・プライベート画像生成ができる。"
+          }
         }
       ]
     },
@@ -17394,6 +17444,16 @@
             "zh": "Ellen 整理的 Grok Bot Galaxy 第 3 日中英双语 PDF 笔记，并链到 Day 2 的 GitHub Pages 记录。",
             "ja": "Ellen による Grok Bot Galaxy Day 3 の英中バイリンガル PDF ノート。Day 2 の GitHub Pages 記録へのリンク付き。"
           }
+        },
+        {
+          "title": "GrokBotChineseFix — Windows fullwidth comma for Grok Bot",
+          "url": "https://github.com/thinkingpowerai-ux/GrokBotChineseFix",
+          "source": "GB-1761",
+          "blurb": {
+            "en": "Small Windows utility that remaps Ctrl+, to a fullwidth Chinese comma only while the Grok Bot desktop window is focused.",
+            "zh": "Windows 小工具：仅在 Grok Bot 桌面窗口前台时，把 Ctrl+, 改成输入全角中文逗号。",
+            "ja": "Windows 用ユーティリティ。Grok Bot デスクトップが前面のときだけ Ctrl+, を全角読点「，」入力に差し替える。"
+          }
         }
       ]
     }
@@ -24031,6 +24091,37 @@
         "en": "Register on Luma",
         "zh": "去 Luma 报名",
         "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "sel-20261027",
+      "url": "https://luma.com/6ee6i3v6",
+      "image": "./assets/events/sel-20261027-cover.png",
+      "expires": "2026-10-27T22:00:00+02:00",
+      "title": {
+        "en": "Grok Bot Meetup Seoul",
+        "zh": "Grok Bot 首尔 Meetup",
+        "ja": "Grok Bot ソウル Meetup"
+      },
+      "when": {
+        "en": "Tue 27 Oct 2026, 19:00–22:00 (Europe/Amsterdam on Luma; first Seoul meetup).",
+        "zh": "2026-10-27 周二 19:00–22:00（Luma 时区 Europe/Amsterdam；首尔首场 Meetup）。",
+        "ja": "2026-10-27（火）19:00–22:00（Luma 上 Europe/Amsterdam；ソウル初 Meetup）。"
+      },
+      "where": {
+        "en": "Seoul, South Korea — offline (exact address TBA / obfuscated on Luma).",
+        "zh": "韩国首尔 — 线下（Luma 地址暂隐/待公布）。",
+        "ja": "韓国・ソウル — オフライン（Luma 上は住所非公開/後日案内）。"
+      },
+      "body": {
+        "en": "First Grok Bot meetup in Seoul (hosts Andreas Kruszakin-Liboska + Eric Kim; personal calendar). Evening of building Bots and demos; laptop recommended; credits provided. Free RSVP (guest_count 4 at scan). Slug 6ee6i3v6 (evt-E1UoQfncUbg2JSK); no forum New-event post yet.",
+        "zh": "首尔首场 Grok Bot Meetup（主办 Andreas Kruszakin-Liboska + Eric Kim）。晚上一起搭 Bot、看演示；建议带笔记本，现场提供 credits。免费报名（扫描时 guest_count 4）。slug 6ee6i3v6；论坛尚无 New event 帖。",
+        "ja": "ソウル初の Grok Bot Meetup（ホスト Andreas Kruszakin-Liboska + Eric Kim）。ボット作成とデモの夜会。ノート PC 推奨、クレジット提供。無料 RSVP（スキャン時 guest_count 4）。slug 6ee6i3v6；フォーラムの New event は未確認。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
       }
     }
   ]

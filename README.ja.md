@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1731-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1737-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -66,6 +66,7 @@
 - **イタリア**（1）：[ローマ](./EVENTS.ja.md#rom-20261023)
 - **キルギス**（1）：[ビシュケク](./EVENTS.ja.md#fru-20261001)
 - **カンボジア**（1）：[プノンペン](./EVENTS.ja.md#pnh-20261003)
+- **韓国**（1）：[ソウル](./EVENTS.ja.md#sel-20261027)
 - **スリランカ**（1）：[コロンボ](./EVENTS.ja.md#cmb-20261017)
 - **ミャンマー**（1）：[ヤンゴン](./EVENTS.ja.md#ygn-20260926)
 - **ノルウェー**（1）：[オスロ](./EVENTS.ja.md#osl-20261016)
@@ -1017,6 +1018,11 @@
 - [DataBye Grok — Spain RGPD opt-out skill](https://github.com/686f6c61/DataBye) - スペイン向け Grok Bot の RGPD スキルパック（SKILL.md + ウィザード + roster）。Gmail/Outlook OAuth でアクセス・異議・削除メールを案内。
 - [tmapi-1688-mcp — 1688.com tools for Grok Bot](https://github.com/GalacticDeluge/tmapi-1688-mcp) - stdio MCP。Grok Bot が TMAPI 経由で 1688 の商品・工場・レビュー・送料を検索し、ディスク上 SQLite キャッシュ付き。
 - [search-boost — multi-engine search MCP for Grok Build](https://github.com/Mr-remon219/search-boost) - マルチエンジン Web 検索 MCP（Bing/DDG/Yahoo/Exa＋有料 API）。CLI 一発で Cursor / Codex / Claude Code / Grok Build に接続。
+- [Figma Grok — Figma MCP and skills for Grok Bot](https://github.com/SIMPL-Automation/figma-grok) - Grok Bot を Figma ホスト MCP と公式 skills-figquery（デザイン→コード、FigJam、Slides、モーション等）14本に接続するマーケットプレイスプラグイン。
+- [Jobs by Workable — job search MCP plugin for Grok Bot](https://github.com/Workable/workable-jobs-grok-plugin) - .grok-plugin。Jobs by Workable MCP で求人・企業検索、ブラウザログイン後のプロフィール/応募管理を Grok Bot から行う。
+- [B2BLeads — B2B contact search plugin for Grok Build](https://github.com/B2BLeadsAPI/b2bleads-grok-plugin) - Grok Build 向けマーケットプラグイン。OAuth MCP で業種・地域・規模から B2B リードを検索・補強する。
+- [RelayDesk — remote device MCP for Grok Build](https://github.com/mave-studios/relaydesk-grok-plugin) - RelayDesk 公式 .grok-plugin。ホスト型 OAuth MCP でユーザーがペアリングした PC/VM を Grok Build から操作（リポジトリに鍵なし）。
+- [UlazAI Media — private image MCP for Grok Build](https://github.com/ulazai/agent-plugin) - ホスト型 UlazAI MCP とスキル付きエージェントプラグイン。Grok Build からモデル比較・プロンプト準備・プライベート画像生成ができる。
 
 ## レビューと比較
 
@@ -1846,10 +1852,11 @@
 - [jev-routing-go — Go Jev harness for Grok Build](https://github.com/nekowasabi/jev-routing-go) - 単一 Go バイナリの Jev ハーネス。Claude Code / Codex / Grok Build 向け、npx 不要（MCP ではない）。
 - [HarnessTrajectory — local viewer incl. Grok Build sessions](https://github.com/Demogorgon314/HarnessTrajectory) - ローカル軌跡ビューア。Grok Build / Claude Code / Codex などのコーディングエージェント筆録を表示。
 - [Grok Bot Galaxy Day 3 — bilingual session notes](https://github.com/HiEllenC/grokbot-galaxy-day3) - Ellen による Grok Bot Galaxy Day 3 の英中バイリンガル PDF ノート。Day 2 の GitHub Pages 記録へのリンク付き。
+- [GrokBotChineseFix — Windows fullwidth comma for Grok Bot](https://github.com/thinkingpowerai-ux/GrokBotChineseFix) - Windows 用ユーティリティ。Grok Bot デスクトップが前面のときだけ Ctrl+, を全角読点「，」入力に差し替える。
 
 ## 貢献
 
-8 セクションに 1731 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1737 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
