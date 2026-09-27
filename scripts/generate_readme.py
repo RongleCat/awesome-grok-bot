@@ -181,6 +181,7 @@ COUNTRY_LABEL = {
     "kr": {"en": "South Korea", "zh": "韩国", "ja": "韓国"},
     "ca": {"en": "Canada", "zh": "加拿大", "ja": "カナダ"},
     "mx": {"en": "Mexico", "zh": "墨西哥", "ja": "メキシコ"},
+    "ni": {"en": "Nicaragua", "zh": "尼加拉瓜", "ja": "ニカラグア"},
     "ar": {"en": "Argentina", "zh": "阿根廷", "ja": "アルゼンチン"},
     "ec": {"en": "Ecuador", "zh": "厄瓜多尔", "ja": "エクアドル"},
     "pe": {"en": "Peru", "zh": "秘鲁", "ja": "ペルー"},
@@ -457,6 +458,9 @@ EVENT_GEO = {
     "kgl-20261003": ("rw", "Kigali", "基加利", "キガリ"),
     "atl-20261016": ("us", "Atlanta", "亚特兰大", "アトランタ"),
     "sel-20261027": ("kr", "Seoul", "首尔", "ソウル"),
+    "mga-20261003": ("ni", "Managua", "马那瓜", "マナグア"),
+    "fln-20261016": ("br", "Florianópolis", "弗洛里亚诺波利斯", "フロリアノポリス"),
+    "fra-20261120": ("de", "Frankfurt", "法兰克福", "フランクフルト"),
 }
 
 

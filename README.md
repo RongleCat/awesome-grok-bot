@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1739-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1758-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -39,26 +39,23 @@
 
 - **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261007)
 - **United States**（17）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Philadelphia](./EVENTS.md#phl-20260929) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Washington, DC](./EVENTS.md#was-20260929) · [Pasadena](./EVENTS.md#pas-20261008) · [Los Angeles](./EVENTS.md#lax-20260928) · [Ithaca](./EVENTS.md#ith-20260929) · [Atlanta](./EVENTS.md#atl-20261016)
-- **Brazil**（5）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20260926) · [Curitiba](./EVENTS.md#cwb-20260929) · [Salvador](./EVENTS.md#ssa-20261008)
+- **Brazil**（5）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Curitiba](./EVENTS.md#cwb-20260929) · [Salvador](./EVENTS.md#ssa-20261008) · [Florianópolis](./EVENTS.md#fln-20261016)
 - **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
-- **Germany**（4）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20260926) · [Frankfurt](./EVENTS.md#fra-20261023)
+- **Germany**（4）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261023) · [Frankfurt](./EVENTS.md#fra-20261120)
 - **Spain**（4）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929) · [Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
 - **Indonesia**（4）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003) · [Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
-- **Mexico**（3）：[Mexico City](./EVENTS.md#cdmx-20260926) · [Monterrey](./EVENTS.md#mty-20261003) · [Villahermosa](./EVENTS.md#vhs-20261001)
 - **Guatemala**（2）：[Guatemala City](./EVENTS.md#gua-20261003) · [Guatemala](./EVENTS.md#gua-20261205)
 - **Japan**（2）：[Sapporo](./EVENTS.md#spk-20261002) · [Tokyo](./EVENTS.md#tyo-20261011)
 - **Kazakhstan**（2）：[Astana](./EVENTS.md#nqz-20261002) · [Almaty](./EVENTS.md#ala-20261004)
+- **Mexico**（2）：[Monterrey](./EVENTS.md#mty-20261003) · [Villahermosa](./EVENTS.md#vhs-20261001)
 - **Argentina**（1）：[Mendoza](./EVENTS.md#mdz-20261003)
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
 - **Azerbaijan**（1）：[Baku](./EVENTS.md#bak-20260927)
 - **Benin**（1）：[Cotonou](./EVENTS.md#coo-20261003)
-- **Bolivia**（1）：[Santa Cruz](./EVENTS.md#vvi-20260926)
 - **Côte d'Ivoire**（1）：[Abidjan](./EVENTS.md#abj-20261107)
 - **Colombia**（1）：[Pereira](./EVENTS.md#pei-20261002)
 - **Czechia**（1）：[Prague](./EVENTS.md#prg-20260930)
 - **Ecuador**（1）：[Cumbayá](./EVENTS.md#cumb-20261003)
-- **United Kingdom**（1）：[London](./EVENTS.md#ldn-20260926)
-- **Georgia**（1）：[Tbilisi](./EVENTS.md#tbs-20260926)
 - **Greece**（1）：[Athens](./EVENTS.md#ath-20261001)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
 - **Italy**（1）：[Rome](./EVENTS.md#rom-20261023)
@@ -66,13 +63,11 @@
 - **Cambodia**（1）：[Phnom Penh](./EVENTS.md#pnh-20261003)
 - **South Korea**（1）：[Seoul](./EVENTS.md#sel-20261027)
 - **Sri Lanka**（1）：[Colombo](./EVENTS.md#cmb-20261017)
-- **Myanmar**（1）：[Yangon](./EVENTS.md#ygn-20260926)
+- **Nicaragua**（1）：[Managua](./EVENTS.md#mga-20261003)
 - **Norway**（1）：[Oslo](./EVENTS.md#osl-20261016)
 - **New Zealand**（1）：[Auckland](./EVENTS.md#akl-20261008)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
-- **Pakistan**（1）：[Karachi](./EVENTS.md#khi-20260926)
 - **Rwanda**（1）：[Kigali](./EVENTS.md#kgl-20261003)
-- **Togo**（1）：[Lomé](./EVENTS.md#lfw-20260925)
 - **Turkey**（1）：[Istanbul](./EVENTS.md#ist-20260929)
 - **Uganda**（1）：[Kampala](./EVENTS.md#kla-20261003)
 - **Uzbekistan**（1）：[Tashkent](./EVENTS.md#tas-20260929)
@@ -283,6 +278,8 @@
 - [Build Grok Build CLI on Intel macOS](https://github.com/knightc2020/grok-build-intel-macos) - Reproducible bilingual community guide and helper scripts for building the official Grok Build CLI on Intel Macs, with verify.sh.
 - [BuildCompany — start a company with AI bots](https://github.com/Meisburg/BuildCompany) - Portable starter kit distilled from the Grok Bot Galaxy livestream: bootstrap one bot, then design the rest of an AI company team.
 - [Sawyer Merritt — Grok Bot Tutorial (20 lessons)](https://x.ai/bot/VBmzZaD3abMPl53kwWuYp) - Community @bot template: a 20-lesson hands-on Grok Bot course with step-by-step exercises for new users.
+- [Analytics Vidhya — Getting Started with Grok Bot automation](https://www.analyticsvidhya.com/blog/2026/09/grok-bot-automation-tutorial/) - Hands-on Analytics Vidhya tutorial that walks through Grok Bot skills, routines, and plugins while building bug-repro and churn-watch agents.
+- [Alex Finn — Grok Bot from beginner to expert in 25 minutes](https://moderncreator.app/2026-08-17-alex-finn-grok-bot-from-beginner-to-expert-in-25-minutes) - Alex Finn’s Modern Creator write-up of a 25-minute Grok Bot tour covering plugins, AgentMail, Vercel, and research skills like last30days.
 
 ## Field Cases
 
@@ -1024,6 +1021,19 @@
 - [RelayDesk — remote device MCP for Grok Build](https://github.com/mave-studios/relaydesk-grok-plugin) - Official RelayDesk .grok-plugin so Grok Build can work on user-paired computers and VMs through a hosted OAuth MCP with no keys in the repo.
 - [UlazAI Media — private image MCP for Grok Build](https://github.com/ulazai/agent-plugin) - Agent plugin with hosted UlazAI MCP and skill so Grok Build can compare models, prepare prompts, and generate private images into the project.
 - [PaperOffice — document MCP plugin for Grok Build](https://github.com/paperoffice-ai/paperoffice-grok-plugin) - Marketplace .grok-plugin that connects Grok Build to PaperOffice’s EU-hosted MCP for document search, OCR text, folders/tags, and creating PDFs via OAuth or user tokens.
+- [Stocklake — read-only market data plugin for Grok Build](https://github.com/mweber89/stocklake-plugin) - Official Stocklake .grok-plugin with hosted MCP and skills so Grok Build can fetch read-only prices, indicators, and fundamentals for 3,500+ stocks and ETFs without placing trades.
+- [NeverApply — jobs MCP plugin for Grok Build](https://github.com/kasovy/neverapply-mcp) - Plugin manifests (.grok-plugin) for NeverApply’s hosted jobs MCP so Grok Build can search roles, review matches, and draft applications via OAuth.
+- [PayHelm — e-commerce analytics plugin for Grok Build](https://github.com/payhelm/payhelm-grok-plugin) - Official PayHelm .grok-plugin connecting Grok Build to a hosted MCP for orders, revenue, ads, email, shipping, inventory, and storefront metrics.
+- [ACA — client acquisition MCP plugin for Grok Build](https://github.com/Automated-Client-Acquisition/aca-grok-plugin) - ACA .grok-plugin with OAuth-hosted MCP for workspace-aware contact research, sequence reviews, and conversation triage inside Grok Build.
+- [WindBorne — weather forecast plugin for Grok Build](https://github.com/windborne/windborne-grok-plugin) - Official WindBorne .grok-plugin with hosted MCP and skill so Grok Build can return WeatherMesh forecasts as interactive weather cards.
+- [job.rocks — staffing MCP plugin for Grok Build](https://github.com/job-rocks/jobrocks-grok-plugin) - Official job.rocks .grok-plugin with privacy-minimized OAuth MCP so Grok Build can draft staffing projects and check readiness without exposing worker PII.
+- [Ranla — lifecycle email and growth plugin for Grok Build](https://github.com/Super-Send/ranla-grok-plugin) - Official Ranla .grok-plugin wiring Grok Build to a hosted MCP for audience, campaigns, transactional email, and approval-gated growth work.
+- [CourtsApp — court booking MCP plugin for Grok Build](https://github.com/courtsapp/courtsapp-grok-plugin) - Official CourtsApp .grok-plugin with public Streamable HTTP MCP so Grok Build can search pickleball/tennis/padel availability and return booking links.
+- [Ballet — playbooks MCP plugin for Grok Build](https://github.com/brainfish-ai/ballet-grok-plugin) - Official Ballet .grok-plugin so Grok Build can author and run agent playbooks, connectors, and scheduled workflows via Ballet’s hosted MCP.
+- [ArrowMem — privacy MCP tools plugin for Grok Build](https://github.com/ArrowMem-inc/arrowmem-grok-plugin) - ArrowMem .grok-plugin exposing free public MCP tools (privacy model, org info, security checks) to Grok Build over streamable HTTP with no API key.
+- [Oviond — agency reporting plugin for Grok](https://github.com/oviond/grok-plugin) - Oviond .grok-plugin with hosted MCP and skills so Grok can build white-label client reports, refresh datasources, and schedule monthly marketing recaps.
+- [GrokBot Poteto Stack — specialist operator skill pack](https://github.com/aipieksel/grokbot-poteto-stack) - Portable Poteto-style operator skill pack with named specialists, evidence-based handoffs, and on-disk project context templates for Grok Bot workflows.
+- [seodraft agents — SEO MCP templates for Grok Bot](https://github.com/ch0rch/seodraft-agents) - Ready-made agent templates and plugins that connect Grok Bot to seodraft’s remote MCP for search-volume topics, SERP briefs, and evidence-based drafts.
 
 ## Reviews & Comparisons
 
@@ -1371,6 +1381,8 @@
 - [grok-web — browser UI for Grok Bot agents](https://github.com/Kenzim/grok-web) - FastAPI BFF + Vite SPA browser UI over grokbot-client so you can drive Grok Bot cloud agents while Cursor tokens stay on the host.
 - [jev-routing — Go Jev harness for Grok Build](https://github.com/nekowasabi/jev-routing) - Single Go binary Jev harness for Claude Code, Codex, and Grok Build that compacts tool results and asks Jev for the next tool—no npx, not an MCP server.
 - [pilotfish-grok — multi-model orchestration for Grok Build](https://github.com/Nanako0129/pilotfish-grok) - pilotfish-family orchestration ported to Grok Build under ~/.grok/, with approval gates and fresh-context verification across roles.
+- [Cloakroom — CloakBrowser turnkey for Grok Bot](https://github.com/jonclegg/cloakroom) - Turnkey CloakBrowser stack for Grok Bot on Mac (OrbStack + cloudflared) with skills for Amazon login and iMessage 2FA so the Bot can sign into sites safely.
+- [Grok Workhorse — sandboxed coding workers MCP](https://github.com/mrchatam/Grok-workhorse) - Unofficial MCP daemon so a supervising Grok Bot can delegate coding tasks to sandboxed local workers (git worktrees + bubblewrap) that return diffs and test results.
 
 ## Community & Failure Modes
 
@@ -1582,6 +1594,8 @@
 - [172033 Sidebar sections: desktop New Section + no agent create tool](https://forum.cursor.com/t/grok-bot-agent-tools-to-create-and-manage-sidebar-sections-parity-with-createchannel/172033) - Staff (kevinn): agents can list sections and CreateAgent can place into one, but there is no tool to create/rename/delete/move sections — on desktop right-click Move to → New Section (mobile long-press).
 - [iOS 1.11.1+ Voice icon is a gradual account rollout (staff)](https://forum.cursor.com/t/grok-bot-ios-1-11-1-voice-call-icon-missing-after-update/172292) - Staff (kevinn, 2026-09-18): Missing voice/call icon on Grok Bot iOS 1.11.1 is not a device bug—Voice chat is rolling out gradually to accounts on 1.11.1+; reinstall/sign-out will not speed it up. Desktop Voice stays available; phone composer dictation mic still works until the button appears.
 - [No delete/redact of sent messages — use secure input for secrets (staff)](https://forum.cursor.com/t/redact-own-messages-secrets/172071) - Staff (kevinn, 2026-09-17): Grok Bot cannot delete or redact a sent message (only failed-to-send messages have Delete)—rotate any pasted secret on the provider. Prefer asking the bot to request the credential: it shows a masked secure input card, stores the value as a bot secret, and keeps it out of the transcript and model context.
+- [Forum: Grok Bot computer stuck at 43% Transferring your data](https://forum.cursor.com/t/grok-bot-computer-stuck-at-43-transferring-your-data/173086) - Cursor Forum fault report where Grok Bot’s computer hangs at 43% “Transferring your data,” blocking use until the transfer finishes or is reset.
+- [Forum: Grok Bot hijacks XDG text/html handler on Linux](https://forum.cursor.com/t/grok-bot-hijacks-xdg-text-html-default-handler-on-linux/173050) - Cursor Forum report that installing Grok Bot on Linux rewrites the XDG text/html default handler, so browser links open in the wrong app.
 
 ## Related Lists
 
@@ -1857,7 +1871,7 @@
 
 ## Contributing
 
-1739 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1758 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

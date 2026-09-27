@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1739-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1758-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -39,26 +39,23 @@
 
 - **中国**（3）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [澳门](./EVENTS.zh.md#mo-20261007)
 - **美国**（17）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [费城](./EVENTS.zh.md#phl-20260929) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007) · [华盛顿特区](./EVENTS.zh.md#was-20260929) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [洛杉矶](./EVENTS.zh.md#lax-20260928) · [伊萨卡](./EVENTS.zh.md#ith-20260929) · [亚特兰大](./EVENTS.zh.md#atl-20261016)
-- **巴西**（5）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20260926) · [库里蒂巴](./EVENTS.zh.md#cwb-20260929) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008)
+- **巴西**（5）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [库里蒂巴](./EVENTS.zh.md#cwb-20260929) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20261016)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
-- **德国**（4）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20260926) · [法兰克福](./EVENTS.zh.md#fra-20261023)
+- **德国**（4）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20261023) · [法兰克福](./EVENTS.zh.md#fra-20261120)
 - **西班牙**（4）：[巴塞罗那](./EVENTS.zh.md#bcn-20260929) · [马德里](./EVENTS.zh.md#mad-20260929) · [阿利坎特](./EVENTS.zh.md#alc-20261107) · [毕尔巴鄂](./EVENTS.zh.md#bil-20261019)
 - **印度尼西亚**（4）：[巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [雅加达](./EVENTS.zh.md#jkt-20261003) · [雅加达](./EVENTS.zh.md#jkt-20261107) · [巴厘岛Canggu](./EVENTS.zh.md#bli-20261025)
-- **墨西哥**（3）：[墨西哥城](./EVENTS.zh.md#cdmx-20260926) · [蒙特雷](./EVENTS.zh.md#mty-20261003) · [比亚埃尔莫萨](./EVENTS.zh.md#vhs-20261001)
 - **危地马拉**（2）：[危地马拉城](./EVENTS.zh.md#gua-20261003) · [危地马拉](./EVENTS.zh.md#gua-20261205)
 - **日本**（2）：[札幌](./EVENTS.zh.md#spk-20261002) · [东京](./EVENTS.zh.md#tyo-20261011)
 - **哈萨克斯坦**（2）：[阿斯塔纳](./EVENTS.zh.md#nqz-20261002) · [阿拉木图](./EVENTS.zh.md#ala-20261004)
+- **墨西哥**（2）：[蒙特雷](./EVENTS.zh.md#mty-20261003) · [比亚埃尔莫萨](./EVENTS.zh.md#vhs-20261001)
 - **阿根廷**（1）：[门多萨](./EVENTS.zh.md#mdz-20261003)
 - **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
 - **阿塞拜疆**（1）：[巴库](./EVENTS.zh.md#bak-20260927)
 - **贝宁**（1）：[科托努](./EVENTS.zh.md#coo-20261003)
-- **玻利维亚**（1）：[圣克鲁斯](./EVENTS.zh.md#vvi-20260926)
 - **科特迪瓦**（1）：[阿比让](./EVENTS.zh.md#abj-20261107)
 - **哥伦比亚**（1）：[佩雷拉](./EVENTS.zh.md#pei-20261002)
 - **捷克**（1）：[布拉格](./EVENTS.zh.md#prg-20260930)
 - **厄瓜多尔**（1）：[昆巴亚](./EVENTS.zh.md#cumb-20261003)
-- **英国**（1）：[伦敦](./EVENTS.zh.md#ldn-20260926)
-- **格鲁吉亚**（1）：[第比利斯](./EVENTS.zh.md#tbs-20260926)
 - **希腊**（1）：[雅典](./EVENTS.zh.md#ath-20261001)
 - **爱尔兰**（1）：[都柏林](./EVENTS.zh.md#dub-20261004)
 - **意大利**（1）：[罗马](./EVENTS.zh.md#rom-20261023)
@@ -66,13 +63,11 @@
 - **柬埔寨**（1）：[金边](./EVENTS.zh.md#pnh-20261003)
 - **韩国**（1）：[首尔](./EVENTS.zh.md#sel-20261027)
 - **斯里兰卡**（1）：[科伦坡](./EVENTS.zh.md#cmb-20261017)
-- **缅甸**（1）：[仰光](./EVENTS.zh.md#ygn-20260926)
+- **尼加拉瓜**（1）：[马那瓜](./EVENTS.zh.md#mga-20261003)
 - **挪威**（1）：[奥斯陆](./EVENTS.zh.md#osl-20261016)
 - **新西兰**（1）：[奥克兰](./EVENTS.zh.md#akl-20261008)
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
-- **巴基斯坦**（1）：[卡拉奇](./EVENTS.zh.md#khi-20260926)
 - **卢旺达**（1）：[基加利](./EVENTS.zh.md#kgl-20261003)
-- **多哥**（1）：[洛美](./EVENTS.zh.md#lfw-20260925)
 - **土耳其**（1）：[伊斯坦布尔](./EVENTS.zh.md#ist-20260929)
 - **乌干达**（1）：[坎帕拉](./EVENTS.zh.md#kla-20261003)
 - **乌兹别克斯坦**（1）：[塔什干](./EVENTS.zh.md#tas-20260929)
@@ -283,6 +278,8 @@
 - [Build Grok Build CLI on Intel macOS](https://github.com/knightc2020/grok-build-intel-macos) - 可复现的中英双语社区指南与脚本：在 Intel Mac 上编译官方 Grok Build CLI，含 verify.sh。.
 - [BuildCompany — start a company with AI bots](https://github.com/Meisburg/BuildCompany) - 从 Grok Bot Galaxy 直播提炼的便携起步包：先养一个 bootstrap bot，再设计整支 AI 公司团队。.
 - [Sawyer Merritt — Grok Bot Tutorial (20 lessons)](https://x.ai/bot/VBmzZaD3abMPl53kwWuYp) - 社区 @bot 模板：面向新手的 20 课 Grok Bot 动手教程，含分步练习。.
+- [Analytics Vidhya — Getting Started with Grok Bot automation](https://www.analyticsvidhya.com/blog/2026/09/grok-bot-automation-tutorial/) - Analytics Vidhya 实操教程：讲清 Grok Bot 的 skills/routines/plugins，并搭建缺陷复现与流失预警 Agent。.
+- [Alex Finn — Grok Bot from beginner to expert in 25 minutes](https://moderncreator.app/2026-08-17-alex-finn-grok-bot-from-beginner-to-expert-in-25-minutes) - Alex Finn（Modern Creator）25 分钟 Grok Bot 导览文：插件、AgentMail、Vercel 以及 last30days 等研究技能。.
 
 ## 真实使用案例
 
@@ -1024,6 +1021,19 @@
 - [RelayDesk — remote device MCP for Grok Build](https://github.com/mave-studios/relaydesk-grok-plugin) - RelayDesk 官方 .grok-plugin：经托管 OAuth MCP 让 Grok Build 操作用户已配对的电脑/虚拟机，仓库内不含密钥。.
 - [UlazAI Media — private image MCP for Grok Build](https://github.com/ulazai/agent-plugin) - 代理插件：托管 UlazAI MCP + skill，让 Grok Build 比模型、备提示词并把私有图片生成进项目。.
 - [PaperOffice — document MCP plugin for Grok Build](https://github.com/paperoffice-ai/paperoffice-grok-plugin) - .grok-plugin：把 Grok Build 接到 PaperOffice 欧盟托管 MCP，可搜文档/读 OCR、看文件夹与标签，并经 OAuth 或用户令牌创建 PDF。.
+- [Stocklake — read-only market data plugin for Grok Build](https://github.com/mweber89/stocklake-plugin) - Stocklake 官方 .grok-plugin：托管 MCP + skills，让 Grok Build 只读拉取 3500+ 股票/ETF 的行情、指标与基本面，不下单。.
+- [NeverApply — jobs MCP plugin for Grok Build](https://github.com/kasovy/neverapply-mcp) - NeverApply 托管求职 MCP 的 .grok-plugin 清单：Grok Build 可经 OAuth 搜职位、看匹配并起草申请。.
+- [PayHelm — e-commerce analytics plugin for Grok Build](https://github.com/payhelm/payhelm-grok-plugin) - PayHelm 官方 .grok-plugin：把 Grok Build 接到托管 MCP，可看订单/营收/广告/邮件/物流/库存与店铺指标。.
+- [ACA — client acquisition MCP plugin for Grok Build](https://github.com/Automated-Client-Acquisition/aca-grok-plugin) - ACA .grok-plugin：OAuth 托管 MCP，在 Grok Build 里做联系人研究、序列回顾与会话分拣。.
+- [WindBorne — weather forecast plugin for Grok Build](https://github.com/windborne/windborne-grok-plugin) - WindBorne 官方 .grok-plugin：托管 MCP + skill，让 Grok Build 用 WeatherMesh 预报并返回互动天气卡片。.
+- [job.rocks — staffing MCP plugin for Grok Build](https://github.com/job-rocks/jobrocks-grok-plugin) - job.rocks 官方 .grok-plugin：隐私最小化的 OAuth MCP，让 Grok Build 起草排班项目并检查就绪，不暴露员工 PII。.
+- [Ranla — lifecycle email and growth plugin for Grok Build](https://github.com/Super-Send/ranla-grok-plugin) - Ranla 官方 .grok-plugin：把 Grok Build 接到托管 MCP，可管受众/活动/事务邮件，并在审批后推进增长动作。.
+- [CourtsApp — court booking MCP plugin for Grok Build](https://github.com/courtsapp/courtsapp-grok-plugin) - CourtsApp 官方 .grok-plugin：公开 Streamable HTTP MCP，让 Grok Build 搜匹克球/网球/垫网球场空位并返回预订链接。.
+- [Ballet — playbooks MCP plugin for Grok Build](https://github.com/brainfish-ai/ballet-grok-plugin) - Ballet 官方 .grok-plugin：经托管 MCP 让 Grok Build 编写/运行 playbook、连接器与定时工作流。.
+- [ArrowMem — privacy MCP tools plugin for Grok Build](https://github.com/ArrowMem-inc/arrowmem-grok-plugin) - ArrowMem .grok-plugin：经无密钥 Streamable HTTP 向 Grok Build 暴露免费公共 MCP 工具（隐私模型/组织信息/安全检查）。.
+- [Oviond — agency reporting plugin for Grok](https://github.com/oviond/grok-plugin) - Oviond .grok-plugin：托管 MCP + skills，让 Grok 搭建白标客户报告、刷新数据源并安排月度营销汇总。.
+- [GrokBot Poteto Stack — specialist operator skill pack](https://github.com/aipieksel/grokbot-poteto-stack) - 便携 Poteto 风操作技能包：命名专家、基于证据的交接，以及磁盘上的项目上下文模板，供 Grok Bot 工作流使用。.
+- [seodraft agents — SEO MCP templates for Grok Bot](https://github.com/ch0rch/seodraft-agents) - 现成 Agent 模板/插件：把 Grok Bot 接到 seodraft 远程 MCP，做有搜索量的选题、SERP brief 与有证据的草稿。.
 
 ## 评测与对比
 
@@ -1371,6 +1381,8 @@
 - [grok-web — browser UI for Grok Bot agents](https://github.com/Kenzim/grok-web) - 基于 grokbot-client 的 FastAPI BFF + Vite SPA：在浏览器驱动 Grok Bot 云端 agent，Cursor token 留在宿主机。.
 - [jev-routing — Go Jev harness for Grok Build](https://github.com/nekowasabi/jev-routing) - 面向 Claude Code / Codex / Grok Build 的单二进制 Go Jev 编排：压缩 tool 结果并问 Jev 下一步——不用 npx，也不是 MCP。.
 - [pilotfish-grok — multi-model orchestration for Grok Build](https://github.com/Nanako0129/pilotfish-grok) - pilotfish 系编排移植到 Grok Build（装在 ~/.grok/）：跨角色审批闸门与新鲜上下文验收。.
+- [Cloakroom — CloakBrowser turnkey for Grok Bot](https://github.com/jonclegg/cloakroom) - 给 Grok Bot 用的一键 CloakBrowser（Mac/OrbStack + cloudflared），含 Amazon 登录与 iMessage 2FA 技能，便于安全登录网站。.
+- [Grok Workhorse — sandboxed coding workers MCP](https://github.com/mrchatam/Grok-workhorse) - 非官方 MCP 守护进程：监督型 Grok Bot 可把编码任务委派给本地沙箱 worker（git worktree + bubblewrap），返回 diff 与测试结果。.
 
 ## 社区与故障现场
 
@@ -1582,6 +1594,8 @@
 - [172033 Sidebar sections: desktop New Section + no agent create tool](https://forum.cursor.com/t/grok-bot-agent-tools-to-create-and-manage-sidebar-sections-parity-with-createchannel/172033) - 员工 kevinn：智能体可列出分区且 CreateAgent 可放入已有分区，但还没有创建/重命名/删除/移动分区的工具；桌面右键 Move to → New Section（移动端长按）。.
 - [iOS 1.11.1+ Voice icon is a gradual account rollout (staff)](https://forum.cursor.com/t/grok-bot-ios-1-11-1-voice-call-icon-missing-after-update/172292) - Staff（kevinn，2026-09-18）：iOS 1.11.1 看不到语音/通话图标不是本机故障——Voice 聊天在 1.11.1+ 按账号逐步放量；重装/退出登录不会加速。桌面 Voice 仍可用；手机端出现按钮前，输入框听写麦克风仍可工作。.
 - [No delete/redact of sent messages — use secure input for secrets (staff)](https://forum.cursor.com/t/redact-own-messages-secrets/172071) - Staff（kevinn，2026-09-17）：Grok Bot 无法删除/遮盖已发送消息（仅发送失败的消息有 Delete）——若已粘贴密钥请在提供商侧轮换。更好做法是让 Bot 来要凭证：会弹出遮罩安全输入卡，存为该 Bot 的 secret，且不会进入对话记录与模型上下文。.
+- [Forum: Grok Bot computer stuck at 43% Transferring your data](https://forum.cursor.com/t/grok-bot-computer-stuck-at-43-transferring-your-data/173086) - Cursor 论坛故障贴：Grok Bot 电脑卡在 43%「Transferring your data」，不完成传输或重置就无法使用。.
+- [Forum: Grok Bot hijacks XDG text/html handler on Linux](https://forum.cursor.com/t/grok-bot-hijacks-xdg-text-html-default-handler-on-linux/173050) - Cursor 论坛反馈：在 Linux 安装 Grok Bot 会改写 XDG text/html 默认打开方式，导致链接被错误应用打开。.
 
 ## 相关列表
 
@@ -1857,7 +1871,7 @@
 
 ## 贡献
 
-目前 8 个分类、1739 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1758 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

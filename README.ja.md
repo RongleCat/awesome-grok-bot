@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1739-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1758-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -39,26 +39,23 @@
 
 - **中国**（3）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017) · [マカオ](./EVENTS.ja.md#mo-20261007)
 - **アメリカ**（17）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [オースティン](./EVENTS.ja.md#aus-20261004) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [ワシントンDC](./EVENTS.ja.md#was-20261007) · [ワシントンDC](./EVENTS.ja.md#was-20260929) · [パサデナ](./EVENTS.ja.md#pas-20261008) · [ロサンゼルス](./EVENTS.ja.md#lax-20260928) · [イサカ](./EVENTS.ja.md#ith-20260929) · [アトランタ](./EVENTS.ja.md#atl-20261016)
-- **ブラジル**（5）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [フロリアノポリス](./EVENTS.ja.md#fln-20260926) · [クリチバ](./EVENTS.ja.md#cwb-20260929) · [サルバドール](./EVENTS.ja.md#ssa-20261008)
+- **ブラジル**（5）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [クリチバ](./EVENTS.ja.md#cwb-20260929) · [サルバドール](./EVENTS.ja.md#ssa-20261008) · [フロリアノポリス](./EVENTS.ja.md#fln-20261016)
 - **カナダ**（4）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [モントリオール](./EVENTS.ja.md#yul-20260926) · [トロント](./EVENTS.ja.md#yyz-20261026) · [オタワ](./EVENTS.ja.md#yow-20261010)
-- **ドイツ**（4）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015) · [フランクフルト](./EVENTS.ja.md#fra-20260926) · [フランクフルト](./EVENTS.ja.md#fra-20261023)
+- **ドイツ**（4）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015) · [フランクフルト](./EVENTS.ja.md#fra-20261023) · [フランクフルト](./EVENTS.ja.md#fra-20261120)
 - **スペイン**（4）：[バルセロナ](./EVENTS.ja.md#bcn-20260929) · [マドリード](./EVENTS.ja.md#mad-20260929) · [アリカンテ](./EVENTS.ja.md#alc-20261107) · [ビルバオ](./EVENTS.ja.md#bil-20261019)
 - **インドネシア**（4）：[ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [ジャカルタ](./EVENTS.ja.md#jkt-20261003) · [ジャカルタ](./EVENTS.ja.md#jkt-20261107) · [チャングー / バリ](./EVENTS.ja.md#bli-20261025)
-- **メキシコ**（3）：[メキシコシティ](./EVENTS.ja.md#cdmx-20260926) · [モンテレイ](./EVENTS.ja.md#mty-20261003) · [ビヤエルモサ](./EVENTS.ja.md#vhs-20261001)
 - **グアテマラ**（2）：[グアテマラシティ](./EVENTS.ja.md#gua-20261003) · [グアテマラ](./EVENTS.ja.md#gua-20261205)
 - **日本**（2）：[札幌](./EVENTS.ja.md#spk-20261002) · [東京](./EVENTS.ja.md#tyo-20261011)
 - **カザフスタン**（2）：[アスタナ](./EVENTS.ja.md#nqz-20261002) · [アルマトイ](./EVENTS.ja.md#ala-20261004)
+- **メキシコ**（2）：[モンテレイ](./EVENTS.ja.md#mty-20261003) · [ビヤエルモサ](./EVENTS.ja.md#vhs-20261001)
 - **アルゼンチン**（1）：[メンドサ](./EVENTS.ja.md#mdz-20261003)
 - **オーストラリア**（1）：[シドニー](./EVENTS.ja.md#syd-20261007)
 - **アゼルバイジャン**（1）：[バクー](./EVENTS.ja.md#bak-20260927)
 - **ベナン**（1）：[コトヌー](./EVENTS.ja.md#coo-20261003)
-- **ボリビア**（1）：[サンタクルス](./EVENTS.ja.md#vvi-20260926)
 - **コートジボワール**（1）：[アビジャン](./EVENTS.ja.md#abj-20261107)
 - **コロンビア**（1）：[ペレイラ](./EVENTS.ja.md#pei-20261002)
 - **チェコ**（1）：[プラハ](./EVENTS.ja.md#prg-20260930)
 - **エクアドル**（1）：[クンバヤ](./EVENTS.ja.md#cumb-20261003)
-- **イギリス**（1）：[ロンドン](./EVENTS.ja.md#ldn-20260926)
-- **ジョージア**（1）：[トビリシ](./EVENTS.ja.md#tbs-20260926)
 - **ギリシャ**（1）：[アテネ](./EVENTS.ja.md#ath-20261001)
 - **アイルランド**（1）：[ダブリン](./EVENTS.ja.md#dub-20261004)
 - **イタリア**（1）：[ローマ](./EVENTS.ja.md#rom-20261023)
@@ -66,13 +63,11 @@
 - **カンボジア**（1）：[プノンペン](./EVENTS.ja.md#pnh-20261003)
 - **韓国**（1）：[ソウル](./EVENTS.ja.md#sel-20261027)
 - **スリランカ**（1）：[コロンボ](./EVENTS.ja.md#cmb-20261017)
-- **ミャンマー**（1）：[ヤンゴン](./EVENTS.ja.md#ygn-20260926)
+- **ニカラグア**（1）：[マナグア](./EVENTS.ja.md#mga-20261003)
 - **ノルウェー**（1）：[オスロ](./EVENTS.ja.md#osl-20261016)
 - **ニュージーランド**（1）：[オークランド](./EVENTS.ja.md#akl-20261008)
 - **フィリピン**（1）：[セブ](./EVENTS.ja.md#ceb-20260919)
-- **パキスタン**（1）：[カラチ](./EVENTS.ja.md#khi-20260926)
 - **ルワンダ**（1）：[キガリ](./EVENTS.ja.md#kgl-20261003)
-- **トーゴ**（1）：[ロメ](./EVENTS.ja.md#lfw-20260925)
 - **トルコ**（1）：[イスタンブール](./EVENTS.ja.md#ist-20260929)
 - **ウガンダ**（1）：[カンパラ](./EVENTS.ja.md#kla-20261003)
 - **ウズベキスタン**（1）：[タシュケント](./EVENTS.ja.md#tas-20260929)
@@ -283,6 +278,8 @@
 - [Build Grok Build CLI on Intel macOS](https://github.com/knightc2020/grok-build-intel-macos) - 再現可能なバイリンガル案内とスクリプト。Intel Mac で公式 Grok Build CLI をビルドし verify.sh 付き。
 - [BuildCompany — start a company with AI bots](https://github.com/Meisburg/BuildCompany) - Grok Bot Galaxy 配信から抽出したポータブル起步キット。まず1体の bootstrap bot を作り、AI 会社チームを設計。
 - [Sawyer Merritt — Grok Bot Tutorial (20 lessons)](https://x.ai/bot/VBmzZaD3abMPl53kwWuYp) - コミュニティ @bot テンプレ。初心者向け 20 レッスンの Grok Bot ハンズオン講座（段階演習付き）。
+- [Analytics Vidhya — Getting Started with Grok Bot automation](https://www.analyticsvidhya.com/blog/2026/09/grok-bot-automation-tutorial/) - Analytics Vidhya の実践チュートリアル。Grok Bot の skills/routines/plugins を追い、バグ再現と解約予兆エージェントを作る。
+- [Alex Finn — Grok Bot from beginner to expert in 25 minutes](https://moderncreator.app/2026-08-17-alex-finn-grok-bot-from-beginner-to-expert-in-25-minutes) - Alex Finn（Modern Creator）による 25 分 Grok Bot ツアー記事。プラグイン、AgentMail、Vercel、last30days など研究スキルを紹介。
 
 ## 実地事例
 
@@ -1024,6 +1021,19 @@
 - [RelayDesk — remote device MCP for Grok Build](https://github.com/mave-studios/relaydesk-grok-plugin) - RelayDesk 公式 .grok-plugin。ホスト型 OAuth MCP でユーザーがペアリングした PC/VM を Grok Build から操作（リポジトリに鍵なし）。
 - [UlazAI Media — private image MCP for Grok Build](https://github.com/ulazai/agent-plugin) - ホスト型 UlazAI MCP とスキル付きエージェントプラグイン。Grok Build からモデル比較・プロンプト準備・プライベート画像生成ができる。
 - [PaperOffice — document MCP plugin for Grok Build](https://github.com/paperoffice-ai/paperoffice-grok-plugin) - .grok-plugin。PaperOffice の EU ホスト MCP で文書検索・OCR・フォルダ/タグ参照、OAuth またはユーザートークンで PDF 作成を Grok Build から行う。
+- [Stocklake — read-only market data plugin for Grok Build](https://github.com/mweber89/stocklake-plugin) - Stocklake 公式 .grok-plugin。ホスト型 MCP とスキルで、売買なしの読み取り専用として 3500+ 銘柄の価格・指標・ファンダを Grok Build から取得。
+- [NeverApply — jobs MCP plugin for Grok Build](https://github.com/kasovy/neverapply-mcp) - NeverApply ホスト型求人 MCP 用 .grok-plugin。OAuth で求人検索・マッチ確認・応募ドラフトを Grok Build から。
+- [PayHelm — e-commerce analytics plugin for Grok Build](https://github.com/payhelm/payhelm-grok-plugin) - PayHelm 公式 .grok-plugin。ホスト型 MCP で注文・売上・広告・メール・物流・在庫・ストア指標を Grok Build から。
+- [ACA — client acquisition MCP plugin for Grok Build](https://github.com/Automated-Client-Acquisition/aca-grok-plugin) - ACA .grok-plugin。OAuth ホスト MCP でコンタクト調査・シーケンス確認・会話トリアージを Grok Build から。
+- [WindBorne — weather forecast plugin for Grok Build](https://github.com/windborne/windborne-grok-plugin) - WindBorne 公式 .grok-plugin。ホスト型 MCP とスキルで WeatherMesh 予報をインタラクティブ天気カードとして Grok Build に返す。
+- [job.rocks — staffing MCP plugin for Grok Build](https://github.com/job-rocks/jobrocks-grok-plugin) - job.rocks 公式 .grok-plugin。プライバシー最小化の OAuth MCP で、従業員 PII を出さず人員計画の下書きと準備確認を Grok Build から。
+- [Ranla — lifecycle email and growth plugin for Grok Build](https://github.com/Super-Send/ranla-grok-plugin) - Ranla 公式 .grok-plugin。ホスト型 MCP でオーディエンス・キャンペーン・トランザクションメールと承認付きグロース作業を Grok Build から。
+- [CourtsApp — court booking MCP plugin for Grok Build](https://github.com/courtsapp/courtsapp-grok-plugin) - CourtsApp 公式 .grok-plugin。公開 Streamable HTTP MCP でピックルボール/テニス/パデルの空き検索と予約リンクを Grok Build から。
+- [Ballet — playbooks MCP plugin for Grok Build](https://github.com/brainfish-ai/ballet-grok-plugin) - Ballet 公式 .grok-plugin。ホスト型 MCP でプレイブック・コネクタ・スケジュール実行を Grok Build から作成・運用。
+- [ArrowMem — privacy MCP tools plugin for Grok Build](https://github.com/ArrowMem-inc/arrowmem-grok-plugin) - ArrowMem .grok-plugin。鍵不要の Streamable HTTP でプライバシーモデル等の無料公開 MCP ツールを Grok Build に提供。
+- [Oviond — agency reporting plugin for Grok](https://github.com/oviond/grok-plugin) - Oviond .grok-plugin。ホスト型 MCP とスキルでホワイトラベル顧客レポート作成・データソース更新・月次マーケまとめを Grok から。
+- [GrokBot Poteto Stack — specialist operator skill pack](https://github.com/aipieksel/grokbot-poteto-stack) - Poteto 風オペレータ技能パック。指名スペシャリスト、証拠ベース引き継ぎ、ディスク上のプロジェクト文脈テンプレを Grok Bot 向けに提供。
+- [seodraft agents — SEO MCP templates for Grok Bot](https://github.com/ch0rch/seodraft-agents) - Grok Bot を seodraft リモート MCP に繋ぐエージェント雛形/プラグイン。検索ボリューム付きトピック、SERP brief、根拠付き下書き向け。
 
 ## レビューと比較
 
@@ -1371,6 +1381,8 @@
 - [grok-web — browser UI for Grok Bot agents](https://github.com/Kenzim/grok-web) - grokbot-client 上の FastAPI BFF + Vite SPA。ブラウザから Grok Bot クラウド agent を操作し、Cursor トークンはホストに残す。
 - [jev-routing — Go Jev harness for Grok Build](https://github.com/nekowasabi/jev-routing) - Claude Code / Codex / Grok Build 向け単一 Go バイナリの Jev ハーネス。tool 結果を圧縮し次手を Jev に聞く。npx 不要・MCP ではない。
 - [pilotfish-grok — multi-model orchestration for Grok Build](https://github.com/Nanako0129/pilotfish-grok) - pilotfish 系オーケストレーションの Grok Build 移植（~/.grok/）。役割横断の承認ゲートと新鮮コンテキスト検証。
+- [Cloakroom — CloakBrowser turnkey for Grok Bot](https://github.com/jonclegg/cloakroom) - Grok Bot 向け CloakBrowser 一式（Mac/OrbStack + cloudflared）。Amazon ログインと iMessage 2FA スキルで安全にサイトへサインイン。
+- [Grok Workhorse — sandboxed coding workers MCP](https://github.com/mrchatam/Grok-workhorse) - 非公式 MCP デーモン。監督役の Grok Bot がローカル砂箱ワーカー（git worktree + bubblewrap）にコーディングを委譲し、diff とテスト結果を受け取る。
 
 ## コミュニティと障害事例
 
@@ -1582,6 +1594,8 @@
 - [172033 Sidebar sections: desktop New Section + no agent create tool](https://forum.cursor.com/t/grok-bot-agent-tools-to-create-and-manage-sidebar-sections-parity-with-createchannel/172033) - スタッフ kevinn：エージェントはセクション一覧と CreateAgent での配置はできるが、作成/改名/削除/移動ツールは未実装。デスクトップは右クリック Move to → New Section（モバイルは長押し）。
 - [iOS 1.11.1+ Voice icon is a gradual account rollout (staff)](https://forum.cursor.com/t/grok-bot-ios-1-11-1-voice-call-icon-missing-after-update/172292) - Staff（kevinn、2026-09-18）：iOS 1.11.1 でボイス/通話アイコンが無いのは端末不具合ではなく、1.11.1+ 向けのアカウント段階ロールアウト。再インストールやサインアウトでは早まりません。デスクトップ Voice は利用可。ボタンが出るまでスマホの入力欄ディクテーションは使えます。
 - [No delete/redact of sent messages — use secure input for secrets (staff)](https://forum.cursor.com/t/redact-own-messages-secrets/172071) - Staff（kevinn、2026-09-17）：送信済みメッセージの削除/秘匿は不可（送信失敗のみ Delete あり）。貼ってしまった秘密はプロバイダ側でローテート。ボットに資格情報を要求させ、マスク付きセキュア入力カードで保存すると、会話ログにもモデル文脈にも残りません。
+- [Forum: Grok Bot computer stuck at 43% Transferring your data](https://forum.cursor.com/t/grok-bot-computer-stuck-at-43-transferring-your-data/173086) - Cursor フォーラム障害報告。Grok Bot のコンピュータが 43% の「Transferring your data」で止まり、転送完了かリセットまで使えない。
+- [Forum: Grok Bot hijacks XDG text/html handler on Linux](https://forum.cursor.com/t/grok-bot-hijacks-xdg-text-html-default-handler-on-linux/173050) - Cursor フォーラム報告。Linux で Grok Bot を入れると XDG の text/html 既定ハンドラが書き換わり、リンクが別アプリで開く。
 
 ## 関連リスト
 
@@ -1857,7 +1871,7 @@
 
 ## 貢献
 
-8 セクションに 1739 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1758 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
