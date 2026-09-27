@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1767-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1776-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -45,6 +45,7 @@
 - **スペイン**（4）：[バルセロナ](./EVENTS.ja.md#bcn-20260929) · [マドリード](./EVENTS.ja.md#mad-20260929) · [アリカンテ](./EVENTS.ja.md#alc-20261107) · [ビルバオ](./EVENTS.ja.md#bil-20261019)
 - **インドネシア**（4）：[ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [ジャカルタ](./EVENTS.ja.md#jkt-20261003) · [ジャカルタ](./EVENTS.ja.md#jkt-20261107) · [チャングー / バリ](./EVENTS.ja.md#bli-20261025)
 - **グアテマラ**（2）：[グアテマラシティ](./EVENTS.ja.md#gua-20261003) · [グアテマラ](./EVENTS.ja.md#gua-20261205)
+- **イタリア**（2）：[ローマ](./EVENTS.ja.md#rom-20261023) · [トレヴィーゾ](./EVENTS.ja.md#tvs-20261022)
 - **日本**（2）：[札幌](./EVENTS.ja.md#spk-20261002) · [東京](./EVENTS.ja.md#tyo-20261011)
 - **カザフスタン**（2）：[アスタナ](./EVENTS.ja.md#nqz-20261002) · [アルマトイ](./EVENTS.ja.md#ala-20261004)
 - **メキシコ**（2）：[モンテレイ](./EVENTS.ja.md#mty-20261003) · [ビヤエルモサ](./EVENTS.ja.md#vhs-20261001)
@@ -58,7 +59,6 @@
 - **エクアドル**（1）：[クンバヤ](./EVENTS.ja.md#cumb-20261003)
 - **ギリシャ**（1）：[アテネ](./EVENTS.ja.md#ath-20261001)
 - **アイルランド**（1）：[ダブリン](./EVENTS.ja.md#dub-20261004)
-- **イタリア**（1）：[ローマ](./EVENTS.ja.md#rom-20261023)
 - **キルギス**（1）：[ビシュケク](./EVENTS.ja.md#fru-20261001)
 - **カンボジア**（1）：[プノンペン](./EVENTS.ja.md#pnh-20261003)
 - **韓国**（1）：[ソウル](./EVENTS.ja.md#sel-20261027)
@@ -282,6 +282,7 @@
 - [Analytics Vidhya — Getting Started with Grok Bot automation](https://www.analyticsvidhya.com/blog/2026/09/grok-bot-automation-tutorial/) - Analytics Vidhya の実践チュートリアル。Grok Bot の skills/routines/plugins を追い、バグ再現と解約予兆エージェントを作る。
 - [Alex Finn — Grok Bot from beginner to expert in 25 minutes](https://moderncreator.app/2026-08-17-alex-finn-grok-bot-from-beginner-to-expert-in-25-minutes) - Alex Finn（Modern Creator）による 25 分 Grok Bot ツアー記事。プラグイン、AgentMail、Vercel、last30days など研究スキルを紹介。
 - [AI Maker — seven Grok Bot team you can run from your phone](https://aimaker.substack.com/p/grok-bot-ai-agent-team) - AI Maker / One Shot Show の実践記事。ライター・CoS・請求書ハンター・SEO など 7 体のクラウド Grok Bot チームとプラグイン／routines／スマホ利用。
+- [Grok Bot 教學｜香港老師版 (HK Traditional Chinese guide)](https://github.com/desmondsir106-droid/grok-bot-hk-guide) - 香港の教師向け繁体字オンボーディング静的サイト。5ステップ導入、Cursor/SuperGrok/X Premium 経路、AI Manager テンプレ付き。
 
 ## 実地事例
 
@@ -1038,6 +1039,8 @@
 - [seodraft agents — SEO MCP templates for Grok Bot](https://github.com/ch0rch/seodraft-agents) - Grok Bot を seodraft リモート MCP に繋ぐエージェント雛形/プラグイン。検索ボリューム付きトピック、SERP brief、根拠付き下書き向け。
 - [AttentionWatch — AI product & launch discovery MCP for Grok Build/Bot](https://github.com/montorox/attentionwatch-grok-plugin) - Montorox 公式 AttentionWatch の Grok Build プラグイン。読み取り専用リモート MCP で AI プロダクト検索、ローンチ、トレンド訪問、Attention Market 履歴を参照。
 - [invinoveritas — verify-before-action MCP plugin for Grok Build](https://github.com/babyblueviper1/invinoveritas-grok-plugin) - Grok Build プラグイン。投稿・オンチェーン署名・出荷など不可逆操作の前に中立プレビュー裁決を出し、再計算可能な署名証明と公開台帳をリモート MCP で提供。
+- [grokbot-claude-inbox — Claude Code remote ping/reply via Grok Bot](https://github.com/hexuria/grokbot-claude-inbox) - Grok Bot スキル：webhook と ~/.grokbot 受信箱で Claude Code の判断をスマホへ中継し、放置ターミナルへ数秒で返答する。
+- [Nomad Pro UK Residency Tracker — Grok Bot engine & skills](https://github.com/komalamee/Grok-NP_residency-tracker) - Nomad Pro 英国居住判定 Grok Bot テンプレを各ユーザーのマシンで動かすエンジン一式（skills・ツール・HMRC SRT ミラー）。
 
 ## レビューと比較
 
@@ -1389,6 +1392,10 @@
 - [Cloakroom — CloakBrowser turnkey for Grok Bot](https://github.com/jonclegg/cloakroom) - Grok Bot 向け CloakBrowser 一式（Mac/OrbStack + cloudflared）。Amazon ログインと iMessage 2FA スキルで安全にサイトへサインイン。
 - [Grok Workhorse — sandboxed coding workers MCP](https://github.com/mrchatam/Grok-workhorse) - 非公式 MCP デーモン。監督役の Grok Bot がローカル砂箱ワーカー（git worktree + bubblewrap）にコーディングを委譲し、diff とテスト結果を受け取る。
 - [Duty First — trust fiduciary COPILOT template for Grok Bot](https://github.com/steve-rteam/duty-first-grok-bot) - 公開 Grok Bot テンプレ（profile/memory/skills）。信託文書に沿った元本/収益分類と受益者向け1枚レポート下書き用。デモのみで法的助言ではない。
+- [grok-office — pixel-art virtual office for your Grok Bot agents](https://github.com/kelvaaan/grok-office) - 依存ゼロの Node ピクセルオフィス UI。従業員は Grok Bot エージェントで、状態・席・アイドル徘徊を表示。
+- [Meeting Action Brief — evidence-linked actions for Grok Bot / CLI](https://github.com/rp0927/meeting-action-brief) - 標準ライブラリのみの会議ワークフロー。Grok Bot / CLI 向けに根拠付き決定・アクションを抽出し、用語をスコープ正規化する。
+- [Meraki Health Bot — read-only Cisco Meraki checks for Grok Bot](https://github.com/Presidio-Federal/Meraki-health-bot) - 読み取り専用の Meraki Dashboard API スクリプトで、Grok Bot がネットワーク健全性・監視・週次ダイジェストを平易に報告する。
+- [grokbot-data-broker-removal — companion pack + x.ai/bot template](https://github.com/natv/grokbot-data-broker-removal) - 無料の米データブローカー削除 Grok Bot テンプレ用コンパニオン一式（x.ai/bot で追加）。カタログ・注意点・初回セットアップ付き。
 
 ## コミュニティと障害事例
 
@@ -1605,6 +1612,8 @@
 - [Forum: Grok Bot unresponsive after Update/Reset on Windows 0.59.1](https://forum.cursor.com/t/grok-bot-failed-to-respond-after-update-and-reset-windows-0-59-1/173045) - Cursor フォーラム報告。Windows 0.59.1 で Update/Reset 後、コンピュータは健全に見えても Grok Bot が応答しなくなる。
 - [Forum: Kaspersky HTTPS scanning breaks Grok Bot API on Windows](https://forum.cursor.com/t/kaspersky-https-scanning-makes-grok-bot-0-59-1-on-windows-fail-every-api-call-with-connecterror-internal-and-leak-over-a-thousand-connections/173062) - Cursor フォーラム報告。Windows の Kaspersky HTTPS スキャンで Grok Bot 0.59.1 が全 API を ConnectError.Internal にし、数千接続をリークする。
 - [Forum: Grok Bot Agent Computer Reset Stuck](https://forum.cursor.com/t/grok-bot-agent-computer-reset-stuck/173069) - Cursor フォーラムスレ。Agent Computer Reset が固まり、復旧まで各デバイスで Grok Bot コンピュータが使えない。
+- [Forum: Cloudflare plugin Connected while bindings still needsAuth](https://forum.cursor.com/t/grok-bot-cloudflare-plugin-shows-connected-while-one-of-its-connectors-bindings-still-needs-auth-ios-and-mac-disagree/173019) - Cloudflare マーケットプラグインが Connected 表示のまま cloudflare-bindings が needsAuth で、iOS/Mac の状態が食い違う報告。
+- [Forum: Can’t reach computer / *.cursorvm.com blocked (Windows, India)](https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-after-retry-and-recover-cursorvm-com-unreachable-windows-india/173041) - インドの Windows で Retry/Recover 後も *.cursorvm.com に届かず、企業 Zscaler なしでも接続不能になる報告。
 
 ## 関連リスト
 
@@ -1880,7 +1889,7 @@
 
 ## 貢献
 
-8 セクションに 1767 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1776 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

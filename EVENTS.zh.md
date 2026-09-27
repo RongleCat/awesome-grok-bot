@@ -159,6 +159,15 @@
 <a id="gua-20261205"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-97mt"><img src="./assets/events/gua-20261205-cover.png" alt="Grok Bot Meetup 危地马拉" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 危地马拉</strong><br />2026-12-05 周六 15:00–20:00（America/Guatemala）<br />危地马拉 · 场地待定（见 Luma/主办方更新）— 线下<br /><br />SpaceXAI 危地马拉线下 Grok Bot 聚会（论坛+Luma 已发）。场地细节见 Luma 报名页。<br /><br /><a href="https://luma.com/spacexai-97mt"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
+<a id="country-it"></a>
+### 意大利
+
+<a id="rom-20261023"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-rome"><img src="./assets/events/rom-20261023-cover.png" alt="Grok Bot Meetup 罗马" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 罗马</strong><br />2026-10-23 周五 10:00–13:00（Europe/Rome）<br />意大利罗马 · Urbe Hub（Largo Dino Frisullo, 00153 Roma RM）— 线下<br /><br />SpaceXAI 罗马站（Urbe Hub）：一起用 Grok Bot 构建与分享。与 Urbe Hub 合办。Luma 报名。<br /><br /><a href="https://luma.com/grok-bot-rome"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="tvs-20261022"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-kk5f"><img src="./assets/events/tvs-20261022-cover.png" alt="Grok Bot Meetup — H-FARM 特雷维索" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup — H-FARM 特雷维索</strong><br />2026-10-22 周四 18:30–21:00（Europe/Rome，CEST，UTC+2）。<br />意大利特雷维索省 Roncade · H-FARM（Via Adriano Olivetti 1，31056）— 线下。<br /><br />威尼托首场 Grok Bot Meetup，场地 H-FARM（SpaceXAI for Padua 日历；主办 Victor Motricala；开场 Diego Pizzocaro / H-FARM AI）。英语晚间：介绍、直播演示、发额度、交流餐饮、动手；必须带笔记本。免费开放报名，启用候补（扫描时 guest_count 2 / 约 128 席）。slug spacexai-kk5f（evt-DQJ18z0yEPgVagi）+ 论坛 173108。<br /><br /><a href="https://luma.com/spacexai-kk5f"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
 <a id="country-jp"></a>
 ### 日本
 
@@ -245,12 +254,6 @@
 
 <a id="dub-20261004"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-dublin"><img src="./assets/events/dub-20261004-cover.png" alt="Grok Bot 都柏林 Builder Day" width="300" /></a></td><td valign="top"><strong>Grok Bot 都柏林 Builder Day</strong><br />2026-10-04 周日 11:00–17:30（都柏林 IST）<br />爱尔兰都柏林 · Baseline（61 Thomas St；Dublin AI Week × Bronto）<br /><br />都柏林全天 Grok Bot 共建（SpaceXAI for Dublin，属 Dublin AI Week，合作方 Bronto）：现场 demo、搭 bot/工作流/agent、午餐、闪电分享。请预先下载 x.ai/bot。主办 Sanat Thukral、Manoj；免费需审核；约 96 席，有候补。<br /><br /><a href="https://luma.com/grokbot-dublin"><strong>报名 →</strong></a></td></tr></table>
-
-<a id="country-it"></a>
-### 意大利
-
-<a id="rom-20261023"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-rome"><img src="./assets/events/rom-20261023-cover.png" alt="Grok Bot Meetup 罗马" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 罗马</strong><br />2026-10-23 周五 10:00–13:00（Europe/Rome）<br />意大利罗马 · Urbe Hub（Largo Dino Frisullo, 00153 Roma RM）— 线下<br /><br />SpaceXAI 罗马站（Urbe Hub）：一起用 Grok Bot 构建与分享。与 Urbe Hub 合办。Luma 报名。<br /><br /><a href="https://luma.com/grok-bot-rome"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 <a id="country-kg"></a>
 ### 吉尔吉斯斯坦

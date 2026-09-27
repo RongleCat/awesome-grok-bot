@@ -159,6 +159,15 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="gua-20261205"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-97mt"><img src="./assets/events/gua-20261205-cover.png" alt="Grok Bot Meetup Guatemala" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Guatemala</strong><br />Sat 5 Dec 2026, 15:00–20:00 (America/Guatemala)<br />Guatemala · venue TBA (see Luma / host update) — offline<br /><br />SpaceXAI Guatemala offline Grok Bot meetup (forum + Luma). Register on Luma for venue details.<br /><br /><a href="https://luma.com/spacexai-97mt"><strong>Register on Luma →</strong></a></td></tr></table>
 
+<a id="country-it"></a>
+### Italy
+
+<a id="rom-20261023"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-rome"><img src="./assets/events/rom-20261023-cover.png" alt="Grok Bot Meetup Rome" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Rome</strong><br />Fri 23 Oct 2026, 10:00–13:00 (Europe/Rome)<br />Rome, Italy · Urbe Hub (Largo Dino Frisullo, 00153 Roma RM) — offline<br /><br />SpaceXAI for Rome meetup at Urbe Hub: build and share with Grok Bot. Hosted with Urbe Hub. Register on Luma.<br /><br /><a href="https://luma.com/grok-bot-rome"><strong>Register on Luma →</strong></a></td></tr></table>
+
+<a id="tvs-20261022"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-kk5f"><img src="./assets/events/tvs-20261022-cover.png" alt="Grok Bot Meetup - H-FARM Treviso" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup - H-FARM Treviso</strong><br />Thu 22 Oct 2026, 18:30–21:00 (Europe/Rome / CEST, UTC+2).<br />H-FARM, Via Adriano Olivetti 1, 31056 Roncade TV (Provincia di Treviso), Italy — offline.<br /><br />First Veneto Grok Bot Meetup at H-FARM (SpaceXAI for Padua calendar; host Victor Motricala; opening talk Diego Pizzocaro / H-FARM AI). English evening: intro, live demo, credits, networking/food, hands-on; laptop mandatory. Free, open registration, waitlist enabled (guest_count 2 / ~128 spots at scan). Slug spacexai-kk5f (evt-DQJ18z0yEPgVagi) + forum 173108.<br /><br /><a href="https://luma.com/spacexai-kk5f"><strong>Register on Luma → →</strong></a></td></tr></table>
+
 <a id="country-jp"></a>
 ### Japan
 
@@ -245,12 +254,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="dub-20261004"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-dublin"><img src="./assets/events/dub-20261004-cover.png" alt="Grok Bot Dublin Builder Day" width="300" /></a></td><td valign="top"><strong>Grok Bot Dublin Builder Day</strong><br />Sun 4 Oct 2026, 11:00–17:30 (Europe/Dublin, IST)<br />Dublin 8, Ireland · Baseline (61 Thomas St), Dublin AI Week × Bronto<br /><br />Full-day Grok Bot community build day (SpaceXAI for Dublin, part of Dublin AI Week, partner Bronto): live demo, build bots/workflows/agents, lunch, lightning demos, show&tell. Download ahead: x.ai/bot. Hosts Sanat Thukral & Manoj; free; host approval; ~96 spots; waitlist enabled.<br /><br /><a href="https://luma.com/grokbot-dublin"><strong>Register →</strong></a></td></tr></table>
-
-<a id="country-it"></a>
-### Italy
-
-<a id="rom-20261023"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-rome"><img src="./assets/events/rom-20261023-cover.png" alt="Grok Bot Meetup Rome" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Rome</strong><br />Fri 23 Oct 2026, 10:00–13:00 (Europe/Rome)<br />Rome, Italy · Urbe Hub (Largo Dino Frisullo, 00153 Roma RM) — offline<br /><br />SpaceXAI for Rome meetup at Urbe Hub: build and share with Grok Bot. Hosted with Urbe Hub. Register on Luma.<br /><br /><a href="https://luma.com/grok-bot-rome"><strong>Register on Luma →</strong></a></td></tr></table>
 
 <a id="country-kg"></a>
 ### Kyrgyzstan

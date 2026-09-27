@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1767-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1776-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -45,6 +45,7 @@
 - **Spain**（4）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929) · [Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
 - **Indonesia**（4）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003) · [Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
 - **Guatemala**（2）：[Guatemala City](./EVENTS.md#gua-20261003) · [Guatemala](./EVENTS.md#gua-20261205)
+- **Italy**（2）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022)
 - **Japan**（2）：[Sapporo](./EVENTS.md#spk-20261002) · [Tokyo](./EVENTS.md#tyo-20261011)
 - **Kazakhstan**（2）：[Astana](./EVENTS.md#nqz-20261002) · [Almaty](./EVENTS.md#ala-20261004)
 - **Mexico**（2）：[Monterrey](./EVENTS.md#mty-20261003) · [Villahermosa](./EVENTS.md#vhs-20261001)
@@ -58,7 +59,6 @@
 - **Ecuador**（1）：[Cumbayá](./EVENTS.md#cumb-20261003)
 - **Greece**（1）：[Athens](./EVENTS.md#ath-20261001)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
-- **Italy**（1）：[Rome](./EVENTS.md#rom-20261023)
 - **Kyrgyzstan**（1）：[Bishkek](./EVENTS.md#fru-20261001)
 - **Cambodia**（1）：[Phnom Penh](./EVENTS.md#pnh-20261003)
 - **South Korea**（1）：[Seoul](./EVENTS.md#sel-20261027)
@@ -282,6 +282,7 @@
 - [Analytics Vidhya — Getting Started with Grok Bot automation](https://www.analyticsvidhya.com/blog/2026/09/grok-bot-automation-tutorial/) - Hands-on Analytics Vidhya tutorial that walks through Grok Bot skills, routines, and plugins while building bug-repro and churn-watch agents.
 - [Alex Finn — Grok Bot from beginner to expert in 25 minutes](https://moderncreator.app/2026-08-17-alex-finn-grok-bot-from-beginner-to-expert-in-25-minutes) - Alex Finn’s Modern Creator write-up of a 25-minute Grok Bot tour covering plugins, AgentMail, Vercel, and research skills like last30days.
 - [AI Maker — seven Grok Bot team you can run from your phone](https://aimaker.substack.com/p/grok-bot-ai-agent-team) - AI Maker / One Shot Show write-up of a seven-Bot cloud team (writer, chief of staff, invoice hunter, SEO, and more) with plugins, routines, and phone access.
+- [Grok Bot 教學｜香港老師版 (HK Traditional Chinese guide)](https://github.com/desmondsir106-droid/grok-bot-hk-guide) - Static Traditional Chinese onboarding site for Hong Kong teachers: five-step start, Cursor/SuperGrok/X Premium paths, plus an AI Manager bot template.
 
 ## Field Cases
 
@@ -1038,6 +1039,8 @@
 - [seodraft agents — SEO MCP templates for Grok Bot](https://github.com/ch0rch/seodraft-agents) - Ready-made agent templates and plugins that connect Grok Bot to seodraft’s remote MCP for search-volume topics, SERP briefs, and evidence-based drafts.
 - [AttentionWatch — AI product & launch discovery MCP for Grok Build/Bot](https://github.com/montorox/attentionwatch-grok-plugin) - Official Montorox AttentionWatch Grok Build plugin: read-only remote MCP for AI product directory search, launches, trending visits, and labeled Attention Market history.
 - [invinoveritas — verify-before-action MCP plugin for Grok Build](https://github.com/babyblueviper1/invinoveritas-grok-plugin) - Grok Build plugin that gates irreversible agent actions with a neutral pre-action verdict, signed recomputable proofs, and a public verdict ledger via remote MCP.
+- [grokbot-claude-inbox — Claude Code remote ping/reply via Grok Bot](https://github.com/hexuria/grokbot-claude-inbox) - Grok Bot skill that relays Claude Code session decisions to your phone over webhooks and a ~/.grokbot inbox so blocked terminals get answers within seconds.
+- [Nomad Pro UK Residency Tracker — Grok Bot engine & skills](https://github.com/komalamee/Grok-NP_residency-tracker) - Open engine pack (skills, tools, HMRC SRT mirror) that powers the Nomad Pro UK residency-tracker Grok Bot marketplace template on each user’s box.
 
 ## Reviews & Comparisons
 
@@ -1389,6 +1392,10 @@
 - [Cloakroom — CloakBrowser turnkey for Grok Bot](https://github.com/jonclegg/cloakroom) - Turnkey CloakBrowser stack for Grok Bot on Mac (OrbStack + cloudflared) with skills for Amazon login and iMessage 2FA so the Bot can sign into sites safely.
 - [Grok Workhorse — sandboxed coding workers MCP](https://github.com/mrchatam/Grok-workhorse) - Unofficial MCP daemon so a supervising Grok Bot can delegate coding tasks to sandboxed local workers (git worktrees + bubblewrap) that return diffs and test results.
 - [Duty First — trust fiduciary COPILOT template for Grok Bot](https://github.com/steve-rteam/duty-first-grok-bot) - Open Grok Bot template pack (profile/memory/skills) for instrument-aware principal/income classification and one-page beneficiary report drafts; demo-only, not legal advice.
+- [grok-office — pixel-art virtual office for your Grok Bot agents](https://github.com/kelvaaan/grok-office) - Zero-dependency Node pixel-art office UI whose employees are your Grok Bot agents, with live status, desks, and idle wander animations.
+- [Meeting Action Brief — evidence-linked actions for Grok Bot / CLI](https://github.com/rp0927/meeting-action-brief) - stdlib-only Python meeting workflow that extracts evidence-linked decisions/actions for Grok Bot (or Grok CLI) with scoped glossary normalization.
+- [Meraki Health Bot — read-only Cisco Meraki checks for Grok Bot](https://github.com/Presidio-Federal/Meraki-health-bot) - Read-only Meraki Dashboard API scripts that give a Grok Bot plain-English network health findings, monitoring, and weekly digests.
+- [grokbot-data-broker-removal — companion pack + x.ai/bot template](https://github.com/natv/grokbot-data-broker-removal) - Companion file pack for the free US data-broker removal Grok Bot template (Add via x.ai/bot) with catalogs, quirks, and first-run setup.
 
 ## Community & Failure Modes
 
@@ -1605,6 +1612,8 @@
 - [Forum: Grok Bot unresponsive after Update/Reset on Windows 0.59.1](https://forum.cursor.com/t/grok-bot-failed-to-respond-after-update-and-reset-windows-0-59-1/173045) - Cursor Forum report that after Update and Reset on Windows 0.59.1, Grok Bot stops responding even when the computer looks healthy.
 - [Forum: Kaspersky HTTPS scanning breaks Grok Bot API on Windows](https://forum.cursor.com/t/kaspersky-https-scanning-makes-grok-bot-0-59-1-on-windows-fail-every-api-call-with-connecterror-internal-and-leak-over-a-thousand-connections/173062) - Cursor Forum report that Kaspersky HTTPS scanning on Windows makes Grok Bot 0.59.1 fail every API call with ConnectError.Internal and leak thousands of connections.
 - [Forum: Grok Bot Agent Computer Reset Stuck](https://forum.cursor.com/t/grok-bot-agent-computer-reset-stuck/173069) - Cursor Forum thread where Agent Computer Reset hangs, leaving the Grok Bot computer unusable across devices until server-side recovery.
+- [Forum: Cloudflare plugin Connected while bindings still needsAuth](https://forum.cursor.com/t/grok-bot-cloudflare-plugin-shows-connected-while-one-of-its-connectors-bindings-still-needs-auth-ios-and-mac-disagree/173019) - Reports the Cloudflare marketplace plugin showing Connected while cloudflare-bindings stays needsAuth, with iOS/Mac status disagreement.
+- [Forum: Can’t reach computer / *.cursorvm.com blocked (Windows, India)](https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-after-retry-and-recover-cursorvm-com-unreachable-windows-india/173041) - Windows India case where Retry/Recover fail and Grok Bot cannot reach *.cursorvm.com despite no corporate Zscaler.
 
 ## Related Lists
 
@@ -1880,7 +1889,7 @@
 
 ## Contributing
 
-1767 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1776 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

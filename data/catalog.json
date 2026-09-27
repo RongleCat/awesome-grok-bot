@@ -1924,6 +1924,16 @@
             "zh": "AI Maker / One Shot Show 实操文：七个云端 Grok Bot 团队（文案、幕僚长、发票猎人、SEO 等），含插件、routines 与手机端使用。",
             "ja": "AI Maker / One Shot Show の実践記事。ライター・CoS・請求書ハンター・SEO など 7 体のクラウド Grok Bot チームとプラグイン／routines／スマホ利用。"
           }
+        },
+        {
+          "title": "Grok Bot 教學｜香港老師版 (HK Traditional Chinese guide)",
+          "url": "https://github.com/desmondsir106-droid/grok-bot-hk-guide",
+          "source": "GB-1798",
+          "blurb": {
+            "en": "Static Traditional Chinese onboarding site for Hong Kong teachers: five-step start, Cursor/SuperGrok/X Premium paths, plus an AI Manager bot template.",
+            "zh": "面向香港老师的繁中静态上手站：五步入门、Cursor/SuperGrok/X Premium 三条订阅路径，并附 AI Manager 机器人模板。",
+            "ja": "香港の教師向け繁体字オンボーディング静的サイト。5ステップ導入、Cursor/SuperGrok/X Premium 経路、AI Manager テンプレ付き。"
+          }
         }
       ]
     },
@@ -9444,6 +9454,26 @@
             "zh": "Grok Build 插件：在发帖/链上签名/发版等不可逆动作前给出中立预审裁决，并提供可重算签名证明与公开裁决账本（远程 MCP）。",
             "ja": "Grok Build プラグイン。投稿・オンチェーン署名・出荷など不可逆操作の前に中立プレビュー裁決を出し、再計算可能な署名証明と公開台帳をリモート MCP で提供。"
           }
+        },
+        {
+          "title": "grokbot-claude-inbox — Claude Code remote ping/reply via Grok Bot",
+          "url": "https://github.com/hexuria/grokbot-claude-inbox",
+          "source": "GB-1792",
+          "blurb": {
+            "en": "Grok Bot skill that relays Claude Code session decisions to your phone over webhooks and a ~/.grokbot inbox so blocked terminals get answers within seconds.",
+            "zh": "Grok Bot 技能：用 webhook 与 ~/.grokbot 收件箱把 Claude Code 会话决策转到手机，让无人值守终端几秒内收到回复。",
+            "ja": "Grok Bot スキル：webhook と ~/.grokbot 受信箱で Claude Code の判断をスマホへ中継し、放置ターミナルへ数秒で返答する。"
+          }
+        },
+        {
+          "title": "Nomad Pro UK Residency Tracker — Grok Bot engine & skills",
+          "url": "https://github.com/komalamee/Grok-NP_residency-tracker",
+          "source": "GB-1793",
+          "blurb": {
+            "en": "Open engine pack (skills, tools, HMRC SRT mirror) that powers the Nomad Pro UK residency-tracker Grok Bot marketplace template on each user’s box.",
+            "zh": "开源引擎包（技能、工具与 HMRC SRT 指引镜像），驱动 Nomad Pro 英国税务居住追踪 Grok Bot 市场模板在用户本机运行。",
+            "ja": "Nomad Pro 英国居住判定 Grok Bot テンプレを各ユーザーのマシンで動かすエンジン一式（skills・ツール・HMRC SRT ミラー）。"
+          }
         }
       ]
     },
@@ -12914,6 +12944,46 @@
             "zh": "开源 Grok Bot 模板包（profile/memory/skills）：按信托文书做本金/收益分类与一页受益人报告草稿；仅演示，非法务意见。",
             "ja": "公開 Grok Bot テンプレ（profile/memory/skills）。信託文書に沿った元本/収益分類と受益者向け1枚レポート下書き用。デモのみで法的助言ではない。"
           }
+        },
+        {
+          "title": "grok-office — pixel-art virtual office for your Grok Bot agents",
+          "url": "https://github.com/kelvaaan/grok-office",
+          "source": "GB-1794",
+          "blurb": {
+            "en": "Zero-dependency Node pixel-art office UI whose employees are your Grok Bot agents, with live status, desks, and idle wander animations.",
+            "zh": "零依赖 Node 像素风虚拟办公室：员工即你的 Grok Bot 智能体，含实时状态、工位与闲逛动画。",
+            "ja": "依存ゼロの Node ピクセルオフィス UI。従業員は Grok Bot エージェントで、状態・席・アイドル徘徊を表示。"
+          }
+        },
+        {
+          "title": "Meeting Action Brief — evidence-linked actions for Grok Bot / CLI",
+          "url": "https://github.com/rp0927/meeting-action-brief",
+          "source": "GB-1795",
+          "blurb": {
+            "en": "stdlib-only Python meeting workflow that extracts evidence-linked decisions/actions for Grok Bot (or Grok CLI) with scoped glossary normalization.",
+            "zh": "仅用标准库的 Python 会议工作流：为 Grok Bot（或 Grok CLI）抽取带证据的决策与行动项，并做范围化术语归一。",
+            "ja": "標準ライブラリのみの会議ワークフロー。Grok Bot / CLI 向けに根拠付き決定・アクションを抽出し、用語をスコープ正規化する。"
+          }
+        },
+        {
+          "title": "Meraki Health Bot — read-only Cisco Meraki checks for Grok Bot",
+          "url": "https://github.com/Presidio-Federal/Meraki-health-bot",
+          "source": "GB-1796",
+          "blurb": {
+            "en": "Read-only Meraki Dashboard API scripts that give a Grok Bot plain-English network health findings, monitoring, and weekly digests.",
+            "zh": "只读 Meraki Dashboard API 脚本，让 Grok Bot 用通俗英语汇报网络健康、监控与周报。",
+            "ja": "読み取り専用の Meraki Dashboard API スクリプトで、Grok Bot がネットワーク健全性・監視・週次ダイジェストを平易に報告する。"
+          }
+        },
+        {
+          "title": "grokbot-data-broker-removal — companion pack + x.ai/bot template",
+          "url": "https://github.com/natv/grokbot-data-broker-removal",
+          "source": "GB-1797",
+          "blurb": {
+            "en": "Companion file pack for the free US data-broker removal Grok Bot template (Add via x.ai/bot) with catalogs, quirks, and first-run setup.",
+            "zh": "免费美国数据经纪删除 Grok Bot 模板的配套文件包（经 x.ai/bot 添加），含目录、注意事项与首次设置。",
+            "ja": "無料の米データブローカー削除 Grok Bot テンプレ用コンパニオン一式（x.ai/bot で追加）。カタログ・注意点・初回セットアップ付き。"
+          }
         }
       ]
     },
@@ -15053,6 +15123,26 @@
             "en": "Cursor Forum thread where Agent Computer Reset hangs, leaving the Grok Bot computer unusable across devices until server-side recovery.",
             "zh": "Cursor 论坛帖：Agent Computer Reset 卡住，导致多端都无法使用 Grok Bot 电脑，需服务端恢复。",
             "ja": "Cursor フォーラムスレ。Agent Computer Reset が固まり、復旧まで各デバイスで Grok Bot コンピュータが使えない。"
+          }
+        },
+        {
+          "title": "Forum: Cloudflare plugin Connected while bindings still needsAuth",
+          "url": "https://forum.cursor.com/t/grok-bot-cloudflare-plugin-shows-connected-while-one-of-its-connectors-bindings-still-needs-auth-ios-and-mac-disagree/173019",
+          "source": "GB-1799",
+          "blurb": {
+            "en": "Reports the Cloudflare marketplace plugin showing Connected while cloudflare-bindings stays needsAuth, with iOS/Mac status disagreement.",
+            "zh": "反馈 Cloudflare 市场插件显示 Connected，但 cloudflare-bindings 仍为 needsAuth，且 iOS 与 Mac 状态不一致。",
+            "ja": "Cloudflare マーケットプラグインが Connected 表示のまま cloudflare-bindings が needsAuth で、iOS/Mac の状態が食い違う報告。"
+          }
+        },
+        {
+          "title": "Forum: Can’t reach computer / *.cursorvm.com blocked (Windows, India)",
+          "url": "https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-after-retry-and-recover-cursorvm-com-unreachable-windows-india/173041",
+          "source": "GB-1800",
+          "blurb": {
+            "en": "Windows India case where Retry/Recover fail and Grok Bot cannot reach *.cursorvm.com despite no corporate Zscaler.",
+            "zh": "印度 Windows 场景：Retry/Recover 无效，且在无企业 Zscaler 时仍无法访问 *.cursorvm.com。",
+            "ja": "インドの Windows で Retry/Recover 後も *.cursorvm.com に届かず、企業 Zscaler なしでも接続不能になる報告。"
           }
         }
       ]
@@ -24510,6 +24600,37 @@
         "en": "Next Frankfurt Build with Grokbot after the Sep/Oct nights (SpaceXAI for Frankfurt; hosts DJ Gangan, Felix Schiessl, Eyad Kelleh, Sabri Guenes). Afternoon-to-evening build at Motel One Messe; waitlist active (guest_count 3 at scan). Slug l9tfh081 (evt-uVvS2YIX7wA1ATB).",
         "zh": "法兰克福继 9/10 月场次后的下一场 Build with Grokbot（SpaceXAI for Frankfurt；主办 DJ Gangan 等）。Motel One Messe 下午到晚上搭建；候补开放（扫描时 guest_count 3）。slug l9tfh081。",
         "ja": "フランクフルトの Build with Grokbot（9/10月に続く回；SpaceXAI for Frankfurt；ホスト DJ Gangan ほか）。Motel One Messe で午後〜夜のビルド。ウェイトリストあり（スキャン時 guest_count 3）。slug l9tfh081。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "tvs-20261022",
+      "url": "https://luma.com/spacexai-kk5f",
+      "image": "./assets/events/tvs-20261022-cover.png",
+      "expires": "2026-10-22T21:00:00+02:00",
+      "title": {
+        "en": "Grok Bot Meetup - H-FARM Treviso",
+        "zh": "Grok Bot Meetup — H-FARM 特雷维索",
+        "ja": "Grok Bot Meetup — H-FARM トレヴィーゾ"
+      },
+      "when": {
+        "en": "Thu 22 Oct 2026, 18:30–21:00 (Europe/Rome / CEST, UTC+2).",
+        "zh": "2026-10-22 周四 18:30–21:00（Europe/Rome，CEST，UTC+2）。",
+        "ja": "2026-10-22（木）18:30–21:00（Europe/Rome、CEST、UTC+2）。"
+      },
+      "where": {
+        "en": "H-FARM, Via Adriano Olivetti 1, 31056 Roncade TV (Provincia di Treviso), Italy — offline.",
+        "zh": "意大利特雷维索省 Roncade · H-FARM（Via Adriano Olivetti 1，31056）— 线下。",
+        "ja": "イタリア・トレヴィーゾ県ロンカーデ H-FARM（Via Adriano Olivetti 1, 31056）— オフライン。"
+      },
+      "body": {
+        "en": "First Veneto Grok Bot Meetup at H-FARM (SpaceXAI for Padua calendar; host Victor Motricala; opening talk Diego Pizzocaro / H-FARM AI). English evening: intro, live demo, credits, networking/food, hands-on; laptop mandatory. Free, open registration, waitlist enabled (guest_count 2 / ~128 spots at scan). Slug spacexai-kk5f (evt-DQJ18z0yEPgVagi) + forum 173108.",
+        "zh": "威尼托首场 Grok Bot Meetup，场地 H-FARM（SpaceXAI for Padua 日历；主办 Victor Motricala；开场 Diego Pizzocaro / H-FARM AI）。英语晚间：介绍、直播演示、发额度、交流餐饮、动手；必须带笔记本。免费开放报名，启用候补（扫描时 guest_count 2 / 约 128 席）。slug spacexai-kk5f（evt-DQJ18z0yEPgVagi）+ 论坛 173108。",
+        "ja": "ヴェネト初の Grok Bot Meetup（会場 H-FARM；SpaceXAI for Padua 暦；ホスト Victor Motricala；開会 Diego Pizzocaro / H-FARM AI）。英語の夜：紹介・ライブデモ・クレジット・交流飲食・ハンズオン。ノートPC必須。無料・先着、ウェイトリストあり（スキャン時 guest_count 2 / 約128席）。slug spacexai-kk5f（evt-DQJ18z0yEPgVagi）+ フォーラム 173108。"
       },
       "cta": {
         "en": "Register on Luma →",

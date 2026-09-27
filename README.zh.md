@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1767-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1776-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -45,6 +45,7 @@
 - **西班牙**（4）：[巴塞罗那](./EVENTS.zh.md#bcn-20260929) · [马德里](./EVENTS.zh.md#mad-20260929) · [阿利坎特](./EVENTS.zh.md#alc-20261107) · [毕尔巴鄂](./EVENTS.zh.md#bil-20261019)
 - **印度尼西亚**（4）：[巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [雅加达](./EVENTS.zh.md#jkt-20261003) · [雅加达](./EVENTS.zh.md#jkt-20261107) · [巴厘岛Canggu](./EVENTS.zh.md#bli-20261025)
 - **危地马拉**（2）：[危地马拉城](./EVENTS.zh.md#gua-20261003) · [危地马拉](./EVENTS.zh.md#gua-20261205)
+- **意大利**（2）：[罗马](./EVENTS.zh.md#rom-20261023) · [特雷维索](./EVENTS.zh.md#tvs-20261022)
 - **日本**（2）：[札幌](./EVENTS.zh.md#spk-20261002) · [东京](./EVENTS.zh.md#tyo-20261011)
 - **哈萨克斯坦**（2）：[阿斯塔纳](./EVENTS.zh.md#nqz-20261002) · [阿拉木图](./EVENTS.zh.md#ala-20261004)
 - **墨西哥**（2）：[蒙特雷](./EVENTS.zh.md#mty-20261003) · [比亚埃尔莫萨](./EVENTS.zh.md#vhs-20261001)
@@ -58,7 +59,6 @@
 - **厄瓜多尔**（1）：[昆巴亚](./EVENTS.zh.md#cumb-20261003)
 - **希腊**（1）：[雅典](./EVENTS.zh.md#ath-20261001)
 - **爱尔兰**（1）：[都柏林](./EVENTS.zh.md#dub-20261004)
-- **意大利**（1）：[罗马](./EVENTS.zh.md#rom-20261023)
 - **吉尔吉斯斯坦**（1）：[比什凯克](./EVENTS.zh.md#fru-20261001)
 - **柬埔寨**（1）：[金边](./EVENTS.zh.md#pnh-20261003)
 - **韩国**（1）：[首尔](./EVENTS.zh.md#sel-20261027)
@@ -282,6 +282,7 @@
 - [Analytics Vidhya — Getting Started with Grok Bot automation](https://www.analyticsvidhya.com/blog/2026/09/grok-bot-automation-tutorial/) - Analytics Vidhya 实操教程：讲清 Grok Bot 的 skills/routines/plugins，并搭建缺陷复现与流失预警 Agent。.
 - [Alex Finn — Grok Bot from beginner to expert in 25 minutes](https://moderncreator.app/2026-08-17-alex-finn-grok-bot-from-beginner-to-expert-in-25-minutes) - Alex Finn（Modern Creator）25 分钟 Grok Bot 导览文：插件、AgentMail、Vercel 以及 last30days 等研究技能。.
 - [AI Maker — seven Grok Bot team you can run from your phone](https://aimaker.substack.com/p/grok-bot-ai-agent-team) - AI Maker / One Shot Show 实操文：七个云端 Grok Bot 团队（文案、幕僚长、发票猎人、SEO 等），含插件、routines 与手机端使用。.
+- [Grok Bot 教學｜香港老師版 (HK Traditional Chinese guide)](https://github.com/desmondsir106-droid/grok-bot-hk-guide) - 面向香港老师的繁中静态上手站：五步入门、Cursor/SuperGrok/X Premium 三条订阅路径，并附 AI Manager 机器人模板。.
 
 ## 真实使用案例
 
@@ -1038,6 +1039,8 @@
 - [seodraft agents — SEO MCP templates for Grok Bot](https://github.com/ch0rch/seodraft-agents) - 现成 Agent 模板/插件：把 Grok Bot 接到 seodraft 远程 MCP，做有搜索量的选题、SERP brief 与有证据的草稿。.
 - [AttentionWatch — AI product & launch discovery MCP for Grok Build/Bot](https://github.com/montorox/attentionwatch-grok-plugin) - Montorox 官方 AttentionWatch Grok Build 插件：只读远程 MCP，可搜 AI 产品目录、上线动态、趋势访问量与标注的 Attention Market 历史。.
 - [invinoveritas — verify-before-action MCP plugin for Grok Build](https://github.com/babyblueviper1/invinoveritas-grok-plugin) - Grok Build 插件：在发帖/链上签名/发版等不可逆动作前给出中立预审裁决，并提供可重算签名证明与公开裁决账本（远程 MCP）。.
+- [grokbot-claude-inbox — Claude Code remote ping/reply via Grok Bot](https://github.com/hexuria/grokbot-claude-inbox) - Grok Bot 技能：用 webhook 与 ~/.grokbot 收件箱把 Claude Code 会话决策转到手机，让无人值守终端几秒内收到回复。.
+- [Nomad Pro UK Residency Tracker — Grok Bot engine & skills](https://github.com/komalamee/Grok-NP_residency-tracker) - 开源引擎包（技能、工具与 HMRC SRT 指引镜像），驱动 Nomad Pro 英国税务居住追踪 Grok Bot 市场模板在用户本机运行。.
 
 ## 评测与对比
 
@@ -1389,6 +1392,10 @@
 - [Cloakroom — CloakBrowser turnkey for Grok Bot](https://github.com/jonclegg/cloakroom) - 给 Grok Bot 用的一键 CloakBrowser（Mac/OrbStack + cloudflared），含 Amazon 登录与 iMessage 2FA 技能，便于安全登录网站。.
 - [Grok Workhorse — sandboxed coding workers MCP](https://github.com/mrchatam/Grok-workhorse) - 非官方 MCP 守护进程：监督型 Grok Bot 可把编码任务委派给本地沙箱 worker（git worktree + bubblewrap），返回 diff 与测试结果。.
 - [Duty First — trust fiduciary COPILOT template for Grok Bot](https://github.com/steve-rteam/duty-first-grok-bot) - 开源 Grok Bot 模板包（profile/memory/skills）：按信托文书做本金/收益分类与一页受益人报告草稿；仅演示，非法务意见。.
+- [grok-office — pixel-art virtual office for your Grok Bot agents](https://github.com/kelvaaan/grok-office) - 零依赖 Node 像素风虚拟办公室：员工即你的 Grok Bot 智能体，含实时状态、工位与闲逛动画。.
+- [Meeting Action Brief — evidence-linked actions for Grok Bot / CLI](https://github.com/rp0927/meeting-action-brief) - 仅用标准库的 Python 会议工作流：为 Grok Bot（或 Grok CLI）抽取带证据的决策与行动项，并做范围化术语归一。.
+- [Meraki Health Bot — read-only Cisco Meraki checks for Grok Bot](https://github.com/Presidio-Federal/Meraki-health-bot) - 只读 Meraki Dashboard API 脚本，让 Grok Bot 用通俗英语汇报网络健康、监控与周报。.
+- [grokbot-data-broker-removal — companion pack + x.ai/bot template](https://github.com/natv/grokbot-data-broker-removal) - 免费美国数据经纪删除 Grok Bot 模板的配套文件包（经 x.ai/bot 添加），含目录、注意事项与首次设置。.
 
 ## 社区与故障现场
 
@@ -1605,6 +1612,8 @@
 - [Forum: Grok Bot unresponsive after Update/Reset on Windows 0.59.1](https://forum.cursor.com/t/grok-bot-failed-to-respond-after-update-and-reset-windows-0-59-1/173045) - Cursor 论坛反馈：Windows 0.59.1 上执行 Update/Reset 后，即便电脑看似正常，Grok Bot 也不再响应。.
 - [Forum: Kaspersky HTTPS scanning breaks Grok Bot API on Windows](https://forum.cursor.com/t/kaspersky-https-scanning-makes-grok-bot-0-59-1-on-windows-fail-every-api-call-with-connecterror-internal-and-leak-over-a-thousand-connections/173062) - Cursor 论坛反馈：Windows 上 Kaspersky HTTPS 扫描会导致 Grok Bot 0.59.1 每次 API 调用都 ConnectError.Internal，并泄漏上千连接。.
 - [Forum: Grok Bot Agent Computer Reset Stuck](https://forum.cursor.com/t/grok-bot-agent-computer-reset-stuck/173069) - Cursor 论坛帖：Agent Computer Reset 卡住，导致多端都无法使用 Grok Bot 电脑，需服务端恢复。.
+- [Forum: Cloudflare plugin Connected while bindings still needsAuth](https://forum.cursor.com/t/grok-bot-cloudflare-plugin-shows-connected-while-one-of-its-connectors-bindings-still-needs-auth-ios-and-mac-disagree/173019) - 反馈 Cloudflare 市场插件显示 Connected，但 cloudflare-bindings 仍为 needsAuth，且 iOS 与 Mac 状态不一致。.
+- [Forum: Can’t reach computer / *.cursorvm.com blocked (Windows, India)](https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-after-retry-and-recover-cursorvm-com-unreachable-windows-india/173041) - 印度 Windows 场景：Retry/Recover 无效，且在无企业 Zscaler 时仍无法访问 *.cursorvm.com。.
 
 ## 相关列表
 
@@ -1880,7 +1889,7 @@
 
 ## 贡献
 
-目前 8 个分类、1767 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1776 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

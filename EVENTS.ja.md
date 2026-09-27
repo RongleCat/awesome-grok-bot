@@ -159,6 +159,15 @@
 <a id="gua-20261205"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-97mt"><img src="./assets/events/gua-20261205-cover.png" alt="Grok Bot Meetup グアテマラ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup グアテマラ</strong><br />2026-12-05（土）15:00–20:00（America/Guatemala）<br />グアテマラ · 会場 TBD（Luma / 主催更新を参照）— オフライン<br /><br />SpaceXAI グアテマラのオフライン Grok Bot ミートアップ（フォーラム+Luma）。会場は Luma で確認。<br /><br /><a href="https://luma.com/spacexai-97mt"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
+<a id="country-it"></a>
+### イタリア
+
+<a id="rom-20261023"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-rome"><img src="./assets/events/rom-20261023-cover.png" alt="Grok Bot Meetup ローマ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ローマ</strong><br />2026-10-23（金）10:00–13:00（Europe/Rome）<br />イタリア・ローマ · Urbe Hub（Largo Dino Frisullo, 00153 Roma RM）— オフライン<br /><br />SpaceXAI ローマ（Urbe Hub）のミートアップ。Grok Bot で作り共有。Urbe Hub 共催。Luma で登録。<br /><br /><a href="https://luma.com/grok-bot-rome"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<a id="tvs-20261022"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-kk5f"><img src="./assets/events/tvs-20261022-cover.png" alt="Grok Bot Meetup — H-FARM トレヴィーゾ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup — H-FARM トレヴィーゾ</strong><br />2026-10-22（木）18:30–21:00（Europe/Rome、CEST、UTC+2）。<br />イタリア・トレヴィーゾ県ロンカーデ H-FARM（Via Adriano Olivetti 1, 31056）— オフライン。<br /><br />ヴェネト初の Grok Bot Meetup（会場 H-FARM；SpaceXAI for Padua 暦；ホスト Victor Motricala；開会 Diego Pizzocaro / H-FARM AI）。英語の夜：紹介・ライブデモ・クレジット・交流飲食・ハンズオン。ノートPC必須。無料・先着、ウェイトリストあり（スキャン時 guest_count 2 / 約128席）。slug spacexai-kk5f（evt-DQJ18z0yEPgVagi）+ フォーラム 173108。<br /><br /><a href="https://luma.com/spacexai-kk5f"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
 <a id="country-jp"></a>
 ### 日本
 
@@ -245,12 +254,6 @@
 
 <a id="dub-20261004"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-dublin"><img src="./assets/events/dub-20261004-cover.png" alt="Grok Bot Dublin Builder Day" width="300" /></a></td><td valign="top"><strong>Grok Bot Dublin Builder Day</strong><br />2026-10-04（日）11:00–17:30（Europe/Dublin、IST）<br />アイルランド・ダブリン · Baseline（61 Thomas St、Dublin AI Week × Bronto）<br /><br />ダブリン終日 Grok Bot ビルドデイ（SpaceXAI for Dublin、Dublin AI Week の一環、Bronto 提携）。ライブデモ、ボット／ワークフロー構築、昼食、ライトニングデモ。事前に x.ai/bot を導入。主催 Sanat Thukral & Manoj。無料・承認制・約 96 席・ウェイトリストあり。<br /><br /><a href="https://luma.com/grokbot-dublin"><strong>申し込む →</strong></a></td></tr></table>
-
-<a id="country-it"></a>
-### イタリア
-
-<a id="rom-20261023"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-rome"><img src="./assets/events/rom-20261023-cover.png" alt="Grok Bot Meetup ローマ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ローマ</strong><br />2026-10-23（金）10:00–13:00（Europe/Rome）<br />イタリア・ローマ · Urbe Hub（Largo Dino Frisullo, 00153 Roma RM）— オフライン<br /><br />SpaceXAI ローマ（Urbe Hub）のミートアップ。Grok Bot で作り共有。Urbe Hub 共催。Luma で登録。<br /><br /><a href="https://luma.com/grok-bot-rome"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-kg"></a>
 ### キルギス
