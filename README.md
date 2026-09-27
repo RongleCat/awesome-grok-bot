@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1758-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1767-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -196,6 +196,7 @@
 - [@bot: Grok Bot can now send you voice notes](https://x.com/bot/status/2101014478255247544) - Official @bot (2026-09-18 ~18:24 UTC / Sep 19 ~02:24 Asia/Shanghai): Grok Bot can now send you voice notes (follow-up CTA https://x.com/bot/status/2101014479299617188); distinct from the earlier live Voice talk rollout—try from x.ai/bot (no dedicated docs/news page yet).
 - [Manage Grok Bot computers (docs.x.ai)](https://docs.x.ai/grok-bot/computers) - Official SpaceXAI docs (Enterprise org admins only): bulk Recreate or Terminate member Grok Bot computers from the Cursor dashboard—durable disk kept; Team admin rights are not enough because one computer spans every team the member belongs to.
 - [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - Official SpaceXAI docs for Grok Bot behind TLS-inspecting gateways (e.g. Zscaler): allow nested *.*.cursorvm.com, exempt those domains from SSL inspection and response buffering, and verify computer setup when chat still works but the cloud computer never connects.
+- [Skills, Plugins & Marketplaces (Grok Build docs)](https://docs.x.ai/build/features/skills-plugins-marketplaces) - Official SpaceXAI Grok Build docs for installing and publishing skills, plugins, and marketplaces—the same packaging model Grok Bot uses for Marketplace installs.
 
 ## Tutorials & Guides
 
@@ -280,6 +281,7 @@
 - [Sawyer Merritt — Grok Bot Tutorial (20 lessons)](https://x.ai/bot/VBmzZaD3abMPl53kwWuYp) - Community @bot template: a 20-lesson hands-on Grok Bot course with step-by-step exercises for new users.
 - [Analytics Vidhya — Getting Started with Grok Bot automation](https://www.analyticsvidhya.com/blog/2026/09/grok-bot-automation-tutorial/) - Hands-on Analytics Vidhya tutorial that walks through Grok Bot skills, routines, and plugins while building bug-repro and churn-watch agents.
 - [Alex Finn — Grok Bot from beginner to expert in 25 minutes](https://moderncreator.app/2026-08-17-alex-finn-grok-bot-from-beginner-to-expert-in-25-minutes) - Alex Finn’s Modern Creator write-up of a 25-minute Grok Bot tour covering plugins, AgentMail, Vercel, and research skills like last30days.
+- [AI Maker — seven Grok Bot team you can run from your phone](https://aimaker.substack.com/p/grok-bot-ai-agent-team) - AI Maker / One Shot Show write-up of a seven-Bot cloud team (writer, chief of staff, invoice hunter, SEO, and more) with plugins, routines, and phone access.
 
 ## Field Cases
 
@@ -1034,6 +1036,8 @@
 - [Oviond — agency reporting plugin for Grok](https://github.com/oviond/grok-plugin) - Oviond .grok-plugin with hosted MCP and skills so Grok can build white-label client reports, refresh datasources, and schedule monthly marketing recaps.
 - [GrokBot Poteto Stack — specialist operator skill pack](https://github.com/aipieksel/grokbot-poteto-stack) - Portable Poteto-style operator skill pack with named specialists, evidence-based handoffs, and on-disk project context templates for Grok Bot workflows.
 - [seodraft agents — SEO MCP templates for Grok Bot](https://github.com/ch0rch/seodraft-agents) - Ready-made agent templates and plugins that connect Grok Bot to seodraft’s remote MCP for search-volume topics, SERP briefs, and evidence-based drafts.
+- [AttentionWatch — AI product & launch discovery MCP for Grok Build/Bot](https://github.com/montorox/attentionwatch-grok-plugin) - Official Montorox AttentionWatch Grok Build plugin: read-only remote MCP for AI product directory search, launches, trending visits, and labeled Attention Market history.
+- [invinoveritas — verify-before-action MCP plugin for Grok Build](https://github.com/babyblueviper1/invinoveritas-grok-plugin) - Grok Build plugin that gates irreversible agent actions with a neutral pre-action verdict, signed recomputable proofs, and a public verdict ledger via remote MCP.
 
 ## Reviews & Comparisons
 
@@ -1051,6 +1055,7 @@
 - [CellCog: Grok Bot pricing after the $20 Pro expansion](https://cellcog.ai/blog/grok-bot-pricing/) - Living pricing note updated 2026-08-27: eight routes from Cursor Pro $20 / SuperGrok $30, unpublished weekly allowance, shared on-demand, and no published enterprise price.
 - [What is Grok Bot? The Real Cost & Hidden Risks](https://4geeks.com/en/blog/ai-tools/what-is-grok-bot) - 4Geeks 2026-08-27 review of Grok Bot cost and credential risk: one shared computer is not a security boundary, Auto-review is best-effort, and the public docs never mention prompt injection.
 - [trusty-tools Grok Bot competitive/comparable research pack](https://github.com/bobmatnyc/trusty-tools) - Review pack inside trusty-tools: ~19KB public Grok Bot comparable research with doc extracts and marketing/docs screenshots captured 2026-09-05.
+- [Engadget — SpaceXAI Grok Bot early beta: how to try it](https://www.engadget.com/2259931/spacexai-grok-bot-early-beta-how-to-try/) - Engadget Sep 20, 2026 explainer on Grok Bot early beta: eligible SuperGrok/Cursor plans, Bot vs chat vs Build, and where to download the apps.
 
 ## Open-Source Alternatives
 
@@ -1383,6 +1388,7 @@
 - [pilotfish-grok — multi-model orchestration for Grok Build](https://github.com/Nanako0129/pilotfish-grok) - pilotfish-family orchestration ported to Grok Build under ~/.grok/, with approval gates and fresh-context verification across roles.
 - [Cloakroom — CloakBrowser turnkey for Grok Bot](https://github.com/jonclegg/cloakroom) - Turnkey CloakBrowser stack for Grok Bot on Mac (OrbStack + cloudflared) with skills for Amazon login and iMessage 2FA so the Bot can sign into sites safely.
 - [Grok Workhorse — sandboxed coding workers MCP](https://github.com/mrchatam/Grok-workhorse) - Unofficial MCP daemon so a supervising Grok Bot can delegate coding tasks to sandboxed local workers (git worktrees + bubblewrap) that return diffs and test results.
+- [Duty First — trust fiduciary COPILOT template for Grok Bot](https://github.com/steve-rteam/duty-first-grok-bot) - Open Grok Bot template pack (profile/memory/skills) for instrument-aware principal/income classification and one-page beneficiary report drafts; demo-only, not legal advice.
 
 ## Community & Failure Modes
 
@@ -1596,6 +1602,9 @@
 - [No delete/redact of sent messages — use secure input for secrets (staff)](https://forum.cursor.com/t/redact-own-messages-secrets/172071) - Staff (kevinn, 2026-09-17): Grok Bot cannot delete or redact a sent message (only failed-to-send messages have Delete)—rotate any pasted secret on the provider. Prefer asking the bot to request the credential: it shows a masked secure input card, stores the value as a bot secret, and keeps it out of the transcript and model context.
 - [Forum: Grok Bot computer stuck at 43% Transferring your data](https://forum.cursor.com/t/grok-bot-computer-stuck-at-43-transferring-your-data/173086) - Cursor Forum fault report where Grok Bot’s computer hangs at 43% “Transferring your data,” blocking use until the transfer finishes or is reset.
 - [Forum: Grok Bot hijacks XDG text/html handler on Linux](https://forum.cursor.com/t/grok-bot-hijacks-xdg-text-html-default-handler-on-linux/173050) - Cursor Forum report that installing Grok Bot on Linux rewrites the XDG text/html default handler, so browser links open in the wrong app.
+- [Forum: Grok Bot unresponsive after Update/Reset on Windows 0.59.1](https://forum.cursor.com/t/grok-bot-failed-to-respond-after-update-and-reset-windows-0-59-1/173045) - Cursor Forum report that after Update and Reset on Windows 0.59.1, Grok Bot stops responding even when the computer looks healthy.
+- [Forum: Kaspersky HTTPS scanning breaks Grok Bot API on Windows](https://forum.cursor.com/t/kaspersky-https-scanning-makes-grok-bot-0-59-1-on-windows-fail-every-api-call-with-connecterror-internal-and-leak-over-a-thousand-connections/173062) - Cursor Forum report that Kaspersky HTTPS scanning on Windows makes Grok Bot 0.59.1 fail every API call with ConnectError.Internal and leak thousands of connections.
+- [Forum: Grok Bot Agent Computer Reset Stuck](https://forum.cursor.com/t/grok-bot-agent-computer-reset-stuck/173069) - Cursor Forum thread where Agent Computer Reset hangs, leaving the Grok Bot computer unusable across devices until server-side recovery.
 
 ## Related Lists
 
@@ -1871,7 +1880,7 @@
 
 ## Contributing
 
-1758 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1767 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

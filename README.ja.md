@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1758-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1767-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -196,6 +196,7 @@
 - [@bot: Grok Bot can now send you voice notes](https://x.com/bot/status/2101014478255247544) - 公式 @bot（2026-09-18 ~18:24 UTC / 9月19日 ~02:24 上海）：Grok Bot がボイスノートを送れるように（続報 CTA https://x.com/bot/status/2101014479299617188）。先のライブ Voice 通話ロールアウトとは別機能。x.ai/bot で試せます（専用 docs/news は未掲載）。
 - [Manage Grok Bot computers (docs.x.ai)](https://docs.x.ai/grok-bot/computers) - 公式 SpaceXAI ドキュメント（Enterprise 組織管理者のみ）：ダッシュボードでメンバーの Grok Bot コンピュータを一括 Recreate/Terminate。永続ディスクは保持。1台が所属全チームにまたがるため Team 管理者権限では不足。
 - [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - 公式 SpaceXAI ドキュメント。TLS 検査ゲートウェイ（例: Zscaler）配下の Grok Bot 向けに入れ子 *.*.cursorvm.com を許可し、SSL 検査と応答バッファを除外。チャットは動くがクラウド PC が繋がらないときの確認手順。
+- [Skills, Plugins & Marketplaces (Grok Build docs)](https://docs.x.ai/build/features/skills-plugins-marketplaces) - 公式 SpaceXAI Grok Build ドキュメント。skills / plugins / marketplaces の導入と公開。Grok Bot の Marketplace と同じパッケージモデル。
 
 ## チュートリアルとガイド
 
@@ -280,6 +281,7 @@
 - [Sawyer Merritt — Grok Bot Tutorial (20 lessons)](https://x.ai/bot/VBmzZaD3abMPl53kwWuYp) - コミュニティ @bot テンプレ。初心者向け 20 レッスンの Grok Bot ハンズオン講座（段階演習付き）。
 - [Analytics Vidhya — Getting Started with Grok Bot automation](https://www.analyticsvidhya.com/blog/2026/09/grok-bot-automation-tutorial/) - Analytics Vidhya の実践チュートリアル。Grok Bot の skills/routines/plugins を追い、バグ再現と解約予兆エージェントを作る。
 - [Alex Finn — Grok Bot from beginner to expert in 25 minutes](https://moderncreator.app/2026-08-17-alex-finn-grok-bot-from-beginner-to-expert-in-25-minutes) - Alex Finn（Modern Creator）による 25 分 Grok Bot ツアー記事。プラグイン、AgentMail、Vercel、last30days など研究スキルを紹介。
+- [AI Maker — seven Grok Bot team you can run from your phone](https://aimaker.substack.com/p/grok-bot-ai-agent-team) - AI Maker / One Shot Show の実践記事。ライター・CoS・請求書ハンター・SEO など 7 体のクラウド Grok Bot チームとプラグイン／routines／スマホ利用。
 
 ## 実地事例
 
@@ -1034,6 +1036,8 @@
 - [Oviond — agency reporting plugin for Grok](https://github.com/oviond/grok-plugin) - Oviond .grok-plugin。ホスト型 MCP とスキルでホワイトラベル顧客レポート作成・データソース更新・月次マーケまとめを Grok から。
 - [GrokBot Poteto Stack — specialist operator skill pack](https://github.com/aipieksel/grokbot-poteto-stack) - Poteto 風オペレータ技能パック。指名スペシャリスト、証拠ベース引き継ぎ、ディスク上のプロジェクト文脈テンプレを Grok Bot 向けに提供。
 - [seodraft agents — SEO MCP templates for Grok Bot](https://github.com/ch0rch/seodraft-agents) - Grok Bot を seodraft リモート MCP に繋ぐエージェント雛形/プラグイン。検索ボリューム付きトピック、SERP brief、根拠付き下書き向け。
+- [AttentionWatch — AI product & launch discovery MCP for Grok Build/Bot](https://github.com/montorox/attentionwatch-grok-plugin) - Montorox 公式 AttentionWatch の Grok Build プラグイン。読み取り専用リモート MCP で AI プロダクト検索、ローンチ、トレンド訪問、Attention Market 履歴を参照。
+- [invinoveritas — verify-before-action MCP plugin for Grok Build](https://github.com/babyblueviper1/invinoveritas-grok-plugin) - Grok Build プラグイン。投稿・オンチェーン署名・出荷など不可逆操作の前に中立プレビュー裁決を出し、再計算可能な署名証明と公開台帳をリモート MCP で提供。
 
 ## レビューと比較
 
@@ -1051,6 +1055,7 @@
 - [CellCog: Grok Bot pricing after the $20 Pro expansion](https://cellcog.ai/blog/grok-bot-pricing/) - 2026-08-27 更新の料金解説。Cursor Pro $20 / SuperGrok $30 からの 8 経路、週次枠は非公開、超過は共有 On-Demand、企業価格は未発表。
 - [What is Grok Bot? The Real Cost & Hidden Risks](https://4geeks.com/en/blog/ai-tools/what-is-grok-bot) - 4Geeks の 2026-08-27 レビュー。共有パソコンはセキュリティ境界ではない。Auto-review は最善努力で、公開文書にプロンプトインジェクションの言及がない。
 - [trusty-tools Grok Bot competitive/comparable research pack](https://github.com/bobmatnyc/trusty-tools) - trusty-tools 内のレビュー。約 19KB の Grok Bot 比較調査＋2026-09-05 の docs／マーケ截図。
+- [Engadget — SpaceXAI Grok Bot early beta: how to try it](https://www.engadget.com/2259931/spacexai-grok-bot-early-beta-how-to-try/) - Engadget 2026-09-20 の Grok Bot 早期ベータ解説。対象の SuperGrok/Cursor プラン、チャットや Grok Build との違い、アプリ入手先。
 
 ## オープンソースの代替
 
@@ -1383,6 +1388,7 @@
 - [pilotfish-grok — multi-model orchestration for Grok Build](https://github.com/Nanako0129/pilotfish-grok) - pilotfish 系オーケストレーションの Grok Build 移植（~/.grok/）。役割横断の承認ゲートと新鮮コンテキスト検証。
 - [Cloakroom — CloakBrowser turnkey for Grok Bot](https://github.com/jonclegg/cloakroom) - Grok Bot 向け CloakBrowser 一式（Mac/OrbStack + cloudflared）。Amazon ログインと iMessage 2FA スキルで安全にサイトへサインイン。
 - [Grok Workhorse — sandboxed coding workers MCP](https://github.com/mrchatam/Grok-workhorse) - 非公式 MCP デーモン。監督役の Grok Bot がローカル砂箱ワーカー（git worktree + bubblewrap）にコーディングを委譲し、diff とテスト結果を受け取る。
+- [Duty First — trust fiduciary COPILOT template for Grok Bot](https://github.com/steve-rteam/duty-first-grok-bot) - 公開 Grok Bot テンプレ（profile/memory/skills）。信託文書に沿った元本/収益分類と受益者向け1枚レポート下書き用。デモのみで法的助言ではない。
 
 ## コミュニティと障害事例
 
@@ -1596,6 +1602,9 @@
 - [No delete/redact of sent messages — use secure input for secrets (staff)](https://forum.cursor.com/t/redact-own-messages-secrets/172071) - Staff（kevinn、2026-09-17）：送信済みメッセージの削除/秘匿は不可（送信失敗のみ Delete あり）。貼ってしまった秘密はプロバイダ側でローテート。ボットに資格情報を要求させ、マスク付きセキュア入力カードで保存すると、会話ログにもモデル文脈にも残りません。
 - [Forum: Grok Bot computer stuck at 43% Transferring your data](https://forum.cursor.com/t/grok-bot-computer-stuck-at-43-transferring-your-data/173086) - Cursor フォーラム障害報告。Grok Bot のコンピュータが 43% の「Transferring your data」で止まり、転送完了かリセットまで使えない。
 - [Forum: Grok Bot hijacks XDG text/html handler on Linux](https://forum.cursor.com/t/grok-bot-hijacks-xdg-text-html-default-handler-on-linux/173050) - Cursor フォーラム報告。Linux で Grok Bot を入れると XDG の text/html 既定ハンドラが書き換わり、リンクが別アプリで開く。
+- [Forum: Grok Bot unresponsive after Update/Reset on Windows 0.59.1](https://forum.cursor.com/t/grok-bot-failed-to-respond-after-update-and-reset-windows-0-59-1/173045) - Cursor フォーラム報告。Windows 0.59.1 で Update/Reset 後、コンピュータは健全に見えても Grok Bot が応答しなくなる。
+- [Forum: Kaspersky HTTPS scanning breaks Grok Bot API on Windows](https://forum.cursor.com/t/kaspersky-https-scanning-makes-grok-bot-0-59-1-on-windows-fail-every-api-call-with-connecterror-internal-and-leak-over-a-thousand-connections/173062) - Cursor フォーラム報告。Windows の Kaspersky HTTPS スキャンで Grok Bot 0.59.1 が全 API を ConnectError.Internal にし、数千接続をリークする。
+- [Forum: Grok Bot Agent Computer Reset Stuck](https://forum.cursor.com/t/grok-bot-agent-computer-reset-stuck/173069) - Cursor フォーラムスレ。Agent Computer Reset が固まり、復旧まで各デバイスで Grok Bot コンピュータが使えない。
 
 ## 関連リスト
 
@@ -1871,7 +1880,7 @@
 
 ## 貢献
 
-8 セクションに 1758 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1767 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

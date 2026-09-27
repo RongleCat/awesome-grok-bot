@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1758-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1767-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -196,6 +196,7 @@
 - [@bot: Grok Bot can now send you voice notes](https://x.com/bot/status/2101014478255247544) - 官方 @bot（2026-09-18 ~18:24 UTC / 9月19日 ~02:24 上海）：Grok Bot 现在可以给你发语音条（跟帖 CTA https://x.com/bot/status/2101014479299617188）；有别于此前的实时 Voice 通话 rollout——请从 x.ai/bot 试用（尚无独立 docs/news 页）。.
 - [Manage Grok Bot computers (docs.x.ai)](https://docs.x.ai/grok-bot/computers) - 官方 SpaceXAI 文档（仅 Enterprise 组织管理员）：在 Cursor 仪表盘批量 Recreate/Terminate 成员的 Grok Bot 电脑——持久盘保留；Team 管理员不够，因为一台电脑跨该成员所属全部团队。.
 - [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - 官方 SpaceXAI 文档：企业 TLS 解密网关（如 Zscaler）下配置 Grok Bot——放行嵌套 *.*.cursorvm.com，关闭 SSL 解密与响应缓冲；用于聊天仍可用但云电脑一直连不上时的排查。.
+- [Skills, Plugins & Marketplaces (Grok Build docs)](https://docs.x.ai/build/features/skills-plugins-marketplaces) - 官方 SpaceXAI Grok Build 文档：安装与发布 skills/plugins/marketplaces；与 Grok Bot 市场安装共用同一打包模型。.
 
 ## 教程与上手指南
 
@@ -280,6 +281,7 @@
 - [Sawyer Merritt — Grok Bot Tutorial (20 lessons)](https://x.ai/bot/VBmzZaD3abMPl53kwWuYp) - 社区 @bot 模板：面向新手的 20 课 Grok Bot 动手教程，含分步练习。.
 - [Analytics Vidhya — Getting Started with Grok Bot automation](https://www.analyticsvidhya.com/blog/2026/09/grok-bot-automation-tutorial/) - Analytics Vidhya 实操教程：讲清 Grok Bot 的 skills/routines/plugins，并搭建缺陷复现与流失预警 Agent。.
 - [Alex Finn — Grok Bot from beginner to expert in 25 minutes](https://moderncreator.app/2026-08-17-alex-finn-grok-bot-from-beginner-to-expert-in-25-minutes) - Alex Finn（Modern Creator）25 分钟 Grok Bot 导览文：插件、AgentMail、Vercel 以及 last30days 等研究技能。.
+- [AI Maker — seven Grok Bot team you can run from your phone](https://aimaker.substack.com/p/grok-bot-ai-agent-team) - AI Maker / One Shot Show 实操文：七个云端 Grok Bot 团队（文案、幕僚长、发票猎人、SEO 等），含插件、routines 与手机端使用。.
 
 ## 真实使用案例
 
@@ -1034,6 +1036,8 @@
 - [Oviond — agency reporting plugin for Grok](https://github.com/oviond/grok-plugin) - Oviond .grok-plugin：托管 MCP + skills，让 Grok 搭建白标客户报告、刷新数据源并安排月度营销汇总。.
 - [GrokBot Poteto Stack — specialist operator skill pack](https://github.com/aipieksel/grokbot-poteto-stack) - 便携 Poteto 风操作技能包：命名专家、基于证据的交接，以及磁盘上的项目上下文模板，供 Grok Bot 工作流使用。.
 - [seodraft agents — SEO MCP templates for Grok Bot](https://github.com/ch0rch/seodraft-agents) - 现成 Agent 模板/插件：把 Grok Bot 接到 seodraft 远程 MCP，做有搜索量的选题、SERP brief 与有证据的草稿。.
+- [AttentionWatch — AI product & launch discovery MCP for Grok Build/Bot](https://github.com/montorox/attentionwatch-grok-plugin) - Montorox 官方 AttentionWatch Grok Build 插件：只读远程 MCP，可搜 AI 产品目录、上线动态、趋势访问量与标注的 Attention Market 历史。.
+- [invinoveritas — verify-before-action MCP plugin for Grok Build](https://github.com/babyblueviper1/invinoveritas-grok-plugin) - Grok Build 插件：在发帖/链上签名/发版等不可逆动作前给出中立预审裁决，并提供可重算签名证明与公开裁决账本（远程 MCP）。.
 
 ## 评测与对比
 
@@ -1051,6 +1055,7 @@
 - [CellCog: Grok Bot pricing after the $20 Pro expansion](https://cellcog.ai/blog/grok-bot-pricing/) - 2026-08-27 更新的定价长文：八条入门（Cursor Pro $20 / SuperGrok $30 起）、周额度未公开、超额走共享 On-Demand、企业价未公布。.
 - [What is Grok Bot? The Real Cost & Hidden Risks](https://4geeks.com/en/blog/ai-tools/what-is-grok-bot) - 4Geeks 2026-08-27 评测：共享云电脑不是安全边界，Auto-review 只是尽力，公开文档没提 prompt injection，还拆了价格和条款。.
 - [trusty-tools Grok Bot competitive/comparable research pack](https://github.com/bobmatnyc/trusty-tools) - trusty-tools 内评测包：约 19KB 的 Grok Bot 竞品/对照研究，含文档摘录与 2026-09-05 营销/文档截图。.
+- [Engadget — SpaceXAI Grok Bot early beta: how to try it](https://www.engadget.com/2259931/spacexai-grok-bot-early-beta-how-to-try/) - Engadget 2026-09-20 介绍 Grok Bot 早期 beta：可用的 SuperGrok/Cursor 套餐、与普通对话/Grok Build 的区别，以及各端下载入口。.
 
 ## 开源替代
 
@@ -1383,6 +1388,7 @@
 - [pilotfish-grok — multi-model orchestration for Grok Build](https://github.com/Nanako0129/pilotfish-grok) - pilotfish 系编排移植到 Grok Build（装在 ~/.grok/）：跨角色审批闸门与新鲜上下文验收。.
 - [Cloakroom — CloakBrowser turnkey for Grok Bot](https://github.com/jonclegg/cloakroom) - 给 Grok Bot 用的一键 CloakBrowser（Mac/OrbStack + cloudflared），含 Amazon 登录与 iMessage 2FA 技能，便于安全登录网站。.
 - [Grok Workhorse — sandboxed coding workers MCP](https://github.com/mrchatam/Grok-workhorse) - 非官方 MCP 守护进程：监督型 Grok Bot 可把编码任务委派给本地沙箱 worker（git worktree + bubblewrap），返回 diff 与测试结果。.
+- [Duty First — trust fiduciary COPILOT template for Grok Bot](https://github.com/steve-rteam/duty-first-grok-bot) - 开源 Grok Bot 模板包（profile/memory/skills）：按信托文书做本金/收益分类与一页受益人报告草稿；仅演示，非法务意见。.
 
 ## 社区与故障现场
 
@@ -1596,6 +1602,9 @@
 - [No delete/redact of sent messages — use secure input for secrets (staff)](https://forum.cursor.com/t/redact-own-messages-secrets/172071) - Staff（kevinn，2026-09-17）：Grok Bot 无法删除/遮盖已发送消息（仅发送失败的消息有 Delete）——若已粘贴密钥请在提供商侧轮换。更好做法是让 Bot 来要凭证：会弹出遮罩安全输入卡，存为该 Bot 的 secret，且不会进入对话记录与模型上下文。.
 - [Forum: Grok Bot computer stuck at 43% Transferring your data](https://forum.cursor.com/t/grok-bot-computer-stuck-at-43-transferring-your-data/173086) - Cursor 论坛故障贴：Grok Bot 电脑卡在 43%「Transferring your data」，不完成传输或重置就无法使用。.
 - [Forum: Grok Bot hijacks XDG text/html handler on Linux](https://forum.cursor.com/t/grok-bot-hijacks-xdg-text-html-default-handler-on-linux/173050) - Cursor 论坛反馈：在 Linux 安装 Grok Bot 会改写 XDG text/html 默认打开方式，导致链接被错误应用打开。.
+- [Forum: Grok Bot unresponsive after Update/Reset on Windows 0.59.1](https://forum.cursor.com/t/grok-bot-failed-to-respond-after-update-and-reset-windows-0-59-1/173045) - Cursor 论坛反馈：Windows 0.59.1 上执行 Update/Reset 后，即便电脑看似正常，Grok Bot 也不再响应。.
+- [Forum: Kaspersky HTTPS scanning breaks Grok Bot API on Windows](https://forum.cursor.com/t/kaspersky-https-scanning-makes-grok-bot-0-59-1-on-windows-fail-every-api-call-with-connecterror-internal-and-leak-over-a-thousand-connections/173062) - Cursor 论坛反馈：Windows 上 Kaspersky HTTPS 扫描会导致 Grok Bot 0.59.1 每次 API 调用都 ConnectError.Internal，并泄漏上千连接。.
+- [Forum: Grok Bot Agent Computer Reset Stuck](https://forum.cursor.com/t/grok-bot-agent-computer-reset-stuck/173069) - Cursor 论坛帖：Agent Computer Reset 卡住，导致多端都无法使用 Grok Bot 电脑，需服务端恢复。.
 
 ## 相关列表
 
@@ -1871,7 +1880,7 @@
 
 ## 贡献
 
-目前 8 个分类、1758 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1767 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

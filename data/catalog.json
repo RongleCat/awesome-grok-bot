@@ -1084,6 +1084,16 @@
             "zh": "官方 SpaceXAI 文档：企业 TLS 解密网关（如 Zscaler）下配置 Grok Bot——放行嵌套 *.*.cursorvm.com，关闭 SSL 解密与响应缓冲；用于聊天仍可用但云电脑一直连不上时的排查。",
             "ja": "公式 SpaceXAI ドキュメント。TLS 検査ゲートウェイ（例: Zscaler）配下の Grok Bot 向けに入れ子 *.*.cursorvm.com を許可し、SSL 検査と応答バッファを除外。チャットは動くがクラウド PC が繋がらないときの確認手順。"
           }
+        },
+        {
+          "title": "Skills, Plugins & Marketplaces (Grok Build docs)",
+          "url": "https://docs.x.ai/build/features/skills-plugins-marketplaces",
+          "source": "GB-1786",
+          "blurb": {
+            "en": "Official SpaceXAI Grok Build docs for installing and publishing skills, plugins, and marketplaces—the same packaging model Grok Bot uses for Marketplace installs.",
+            "zh": "官方 SpaceXAI Grok Build 文档：安装与发布 skills/plugins/marketplaces；与 Grok Bot 市场安装共用同一打包模型。",
+            "ja": "公式 SpaceXAI Grok Build ドキュメント。skills / plugins / marketplaces の導入と公開。Grok Bot の Marketplace と同じパッケージモデル。"
+          }
         }
       ]
     },
@@ -1903,6 +1913,16 @@
             "en": "Alex Finn’s Modern Creator write-up of a 25-minute Grok Bot tour covering plugins, AgentMail, Vercel, and research skills like last30days.",
             "zh": "Alex Finn（Modern Creator）25 分钟 Grok Bot 导览文：插件、AgentMail、Vercel 以及 last30days 等研究技能。",
             "ja": "Alex Finn（Modern Creator）による 25 分 Grok Bot ツアー記事。プラグイン、AgentMail、Vercel、last30days など研究スキルを紹介。"
+          }
+        },
+        {
+          "title": "AI Maker — seven Grok Bot team you can run from your phone",
+          "url": "https://aimaker.substack.com/p/grok-bot-ai-agent-team",
+          "source": "GB-1787",
+          "blurb": {
+            "en": "AI Maker / One Shot Show write-up of a seven-Bot cloud team (writer, chief of staff, invoice hunter, SEO, and more) with plugins, routines, and phone access.",
+            "zh": "AI Maker / One Shot Show 实操文：七个云端 Grok Bot 团队（文案、幕僚长、发票猎人、SEO 等），含插件、routines 与手机端使用。",
+            "ja": "AI Maker / One Shot Show の実践記事。ライター・CoS・請求書ハンター・SEO など 7 体のクラウド Grok Bot チームとプラグイン／routines／スマホ利用。"
           }
         }
       ]
@@ -9404,6 +9424,26 @@
             "zh": "现成 Agent 模板/插件：把 Grok Bot 接到 seodraft 远程 MCP，做有搜索量的选题、SERP brief 与有证据的草稿。",
             "ja": "Grok Bot を seodraft リモート MCP に繋ぐエージェント雛形/プラグイン。検索ボリューム付きトピック、SERP brief、根拠付き下書き向け。"
           }
+        },
+        {
+          "title": "AttentionWatch — AI product & launch discovery MCP for Grok Build/Bot",
+          "url": "https://github.com/montorox/attentionwatch-grok-plugin",
+          "source": "GB-1783",
+          "blurb": {
+            "en": "Official Montorox AttentionWatch Grok Build plugin: read-only remote MCP for AI product directory search, launches, trending visits, and labeled Attention Market history.",
+            "zh": "Montorox 官方 AttentionWatch Grok Build 插件：只读远程 MCP，可搜 AI 产品目录、上线动态、趋势访问量与标注的 Attention Market 历史。",
+            "ja": "Montorox 公式 AttentionWatch の Grok Build プラグイン。読み取り専用リモート MCP で AI プロダクト検索、ローンチ、トレンド訪問、Attention Market 履歴を参照。"
+          }
+        },
+        {
+          "title": "invinoveritas — verify-before-action MCP plugin for Grok Build",
+          "url": "https://github.com/babyblueviper1/invinoveritas-grok-plugin",
+          "source": "GB-1784",
+          "blurb": {
+            "en": "Grok Build plugin that gates irreversible agent actions with a neutral pre-action verdict, signed recomputable proofs, and a public verdict ledger via remote MCP.",
+            "zh": "Grok Build 插件：在发帖/链上签名/发版等不可逆动作前给出中立预审裁决，并提供可重算签名证明与公开裁决账本（远程 MCP）。",
+            "ja": "Grok Build プラグイン。投稿・オンチェーン署名・出荷など不可逆操作の前に中立プレビュー裁決を出し、再計算可能な署名証明と公開台帳をリモート MCP で提供。"
+          }
         }
       ]
     },
@@ -9553,6 +9593,16 @@
             "en": "Review pack inside trusty-tools: ~19KB public Grok Bot comparable research with doc extracts and marketing/docs screenshots captured 2026-09-05.",
             "zh": "trusty-tools 内评测包：约 19KB 的 Grok Bot 竞品/对照研究，含文档摘录与 2026-09-05 营销/文档截图。",
             "ja": "trusty-tools 内のレビュー。約 19KB の Grok Bot 比較調査＋2026-09-05 の docs／マーケ截図。"
+          }
+        },
+        {
+          "title": "Engadget — SpaceXAI Grok Bot early beta: how to try it",
+          "url": "https://www.engadget.com/2259931/spacexai-grok-bot-early-beta-how-to-try/",
+          "source": "GB-1788",
+          "blurb": {
+            "en": "Engadget Sep 20, 2026 explainer on Grok Bot early beta: eligible SuperGrok/Cursor plans, Bot vs chat vs Build, and where to download the apps.",
+            "zh": "Engadget 2026-09-20 介绍 Grok Bot 早期 beta：可用的 SuperGrok/Cursor 套餐、与普通对话/Grok Build 的区别，以及各端下载入口。",
+            "ja": "Engadget 2026-09-20 の Grok Bot 早期ベータ解説。対象の SuperGrok/Cursor プラン、チャットや Grok Build との違い、アプリ入手先。"
           }
         }
       ]
@@ -12854,6 +12904,16 @@
             "zh": "非官方 MCP 守护进程：监督型 Grok Bot 可把编码任务委派给本地沙箱 worker（git worktree + bubblewrap），返回 diff 与测试结果。",
             "ja": "非公式 MCP デーモン。監督役の Grok Bot がローカル砂箱ワーカー（git worktree + bubblewrap）にコーディングを委譲し、diff とテスト結果を受け取る。"
           }
+        },
+        {
+          "title": "Duty First — trust fiduciary COPILOT template for Grok Bot",
+          "url": "https://github.com/steve-rteam/duty-first-grok-bot",
+          "source": "GB-1785",
+          "blurb": {
+            "en": "Open Grok Bot template pack (profile/memory/skills) for instrument-aware principal/income classification and one-page beneficiary report drafts; demo-only, not legal advice.",
+            "zh": "开源 Grok Bot 模板包（profile/memory/skills）：按信托文书做本金/收益分类与一页受益人报告草稿；仅演示，非法务意见。",
+            "ja": "公開 Grok Bot テンプレ（profile/memory/skills）。信託文書に沿った元本/収益分類と受益者向け1枚レポート下書き用。デモのみで法的助言ではない。"
+          }
         }
       ]
     },
@@ -14963,6 +15023,36 @@
             "en": "Cursor Forum report that installing Grok Bot on Linux rewrites the XDG text/html default handler, so browser links open in the wrong app.",
             "zh": "Cursor 论坛反馈：在 Linux 安装 Grok Bot 会改写 XDG text/html 默认打开方式，导致链接被错误应用打开。",
             "ja": "Cursor フォーラム報告。Linux で Grok Bot を入れると XDG の text/html 既定ハンドラが書き換わり、リンクが別アプリで開く。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot unresponsive after Update/Reset on Windows 0.59.1",
+          "url": "https://forum.cursor.com/t/grok-bot-failed-to-respond-after-update-and-reset-windows-0-59-1/173045",
+          "source": "GB-1789",
+          "blurb": {
+            "en": "Cursor Forum report that after Update and Reset on Windows 0.59.1, Grok Bot stops responding even when the computer looks healthy.",
+            "zh": "Cursor 论坛反馈：Windows 0.59.1 上执行 Update/Reset 后，即便电脑看似正常，Grok Bot 也不再响应。",
+            "ja": "Cursor フォーラム報告。Windows 0.59.1 で Update/Reset 後、コンピュータは健全に見えても Grok Bot が応答しなくなる。"
+          }
+        },
+        {
+          "title": "Forum: Kaspersky HTTPS scanning breaks Grok Bot API on Windows",
+          "url": "https://forum.cursor.com/t/kaspersky-https-scanning-makes-grok-bot-0-59-1-on-windows-fail-every-api-call-with-connecterror-internal-and-leak-over-a-thousand-connections/173062",
+          "source": "GB-1790",
+          "blurb": {
+            "en": "Cursor Forum report that Kaspersky HTTPS scanning on Windows makes Grok Bot 0.59.1 fail every API call with ConnectError.Internal and leak thousands of connections.",
+            "zh": "Cursor 论坛反馈：Windows 上 Kaspersky HTTPS 扫描会导致 Grok Bot 0.59.1 每次 API 调用都 ConnectError.Internal，并泄漏上千连接。",
+            "ja": "Cursor フォーラム報告。Windows の Kaspersky HTTPS スキャンで Grok Bot 0.59.1 が全 API を ConnectError.Internal にし、数千接続をリークする。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot Agent Computer Reset Stuck",
+          "url": "https://forum.cursor.com/t/grok-bot-agent-computer-reset-stuck/173069",
+          "source": "GB-1791",
+          "blurb": {
+            "en": "Cursor Forum thread where Agent Computer Reset hangs, leaving the Grok Bot computer unusable across devices until server-side recovery.",
+            "zh": "Cursor 论坛帖：Agent Computer Reset 卡住，导致多端都无法使用 Grok Bot 电脑，需服务端恢复。",
+            "ja": "Cursor フォーラムスレ。Agent Computer Reset が固まり、復旧まで各デバイスで Grok Bot コンピュータが使えない。"
           }
         }
       ]
