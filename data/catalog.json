@@ -9554,6 +9554,36 @@
             "zh": "Financy 官方 .grok-plugin：托管 MCP 与收支技能，让 Grok Bot 只读查看以色列银行卡余额、交易与分类。",
             "ja": "Financy 公式 .grok-plugin。ホスト型 MCP と支出・キャッシュフロー用スキルで、Grok Bot がイスラエルの銀行・カード残高・取引・分類を読み取り専用で扱えます。"
           }
+        },
+        {
+          "title": "Kalshi MCP — read-only prediction-market plugin for Grok Bot",
+          "url": "https://github.com/akashnaren/kalshi-mcp",
+          "source": "GB-1824",
+          "blurb": {
+            "en": "Cursor/Grok Bot plugin with stdio MCP, skills, and a Finance Engineer harness so the bot can read Kalshi cash, positions, and markets (safe mode on by default; order tools need explicit confirm).",
+            "zh": "面向 Cursor/Grok Bot 的 Kalshi 插件：stdio MCP、技能与 Finance Engineer 套件，默认可读余额/持仓/市场（安全模式默认开启；下单工具需显式确认）。",
+            "ja": "Cursor/Grok Bot 向け Kalshi プラグイン。stdio MCP・スキル・Finance Engineer ハーネスで残高・ポジション・市場を読み取り（セーフモード既定。注文は明示確認が必要）。"
+          }
+        },
+        {
+          "title": "Davia Creation — hosted MCP plugin for Grok Bot game drafts",
+          "url": "https://github.com/davialabs/davia-creation-plugin",
+          "source": "GB-1825",
+          "blurb": {
+            "en": "Cursor Marketplace–ready plugin with a hosted MCP connection and usage skill so Grok Bot can build and revise characters, places, and rules in private Davia game drafts.",
+            "zh": "面向 Cursor 市场的 Davia 插件：托管 MCP 与用法技能，让 Grok Bot 在私有 Davia 游戏草稿里创建与修订角色、地点与规则。",
+            "ja": "Cursor Marketplace 向け Davia プラグイン。ホスト型 MCP と利用スキルで、Grok Bot が非公開の Davia ゲーム草稿のキャラ・場所・ルールを作成・改訂できます。"
+          }
+        },
+        {
+          "title": "Abbelo — Guides/skills MCP preview plugin for Grok Bot",
+          "url": "https://github.com/abbeloapp/abbelo-plugin",
+          "source": "GB-1826",
+          "blurb": {
+            "en": "Preview Cursor/Grok Bot plugin (hosted MCP + skill) that surfaces Abbelo Guides, saved conversations, and habit work; OAuth client registration with Abbelo is required before connect.",
+            "zh": "Abbelo 预览版 Cursor/Grok Bot 插件（托管 MCP + 技能）：可访问 Guides、已保存对话与习惯练习；连接前需向 Abbelo 注册 OAuth 客户端。",
+            "ja": "Abbelo のプレビュー用 Cursor/Grok Bot プラグイン（ホスト型 MCP + スキル）。Guide・保存会話・習慣ワークにアクセスでき、接続前に Abbelo への OAuth クライアント登録が必要です。"
+          }
         }
       ]
     },
@@ -13184,6 +13214,26 @@
             "zh": "公开 Grok Bot 玩法包（人设、每日扫描技能、例行任务、X 发帖）：监控科技新闻、起草进度补丁，并在审批后更新 Judgment Day 追踪站。",
             "ja": "公開の Grok Bot プレイブック（プロフィール、日次スキャンスキル、ルーチン、X 投稿）。テックニュースを監視しトラッカー用パッチを起草し、承認後に Judgment Day 進捗サイトを更新します。"
           }
+        },
+        {
+          "title": "Physique Team — hub-and-specialist Grok Bot recomposition pack",
+          "url": "https://github.com/EERamos/physique-team",
+          "source": "GB-1827",
+          "blurb": {
+            "en": "Open hub-and-specialist Grok Bot layout (personas, SOP, knowledge) for evidence-based body recomposition spanning training, load/recovery, nutrition, evidence, and labs prep.",
+            "zh": "开源的 Grok Bot 中枢+专家布局（人设、SOP、知识库），覆盖循证身体重组：训练、负荷/恢复、营养、证据检索与体检准备。",
+            "ja": "根拠に基づくボディ再構成向けの Grok Bot ハブ＋専門家レイアウト（ペルソナ、SOP、知識）。トレーニング、負荷/回復、栄養、エビデンス、検査準備を扱います。"
+          }
+        },
+        {
+          "title": "QuotaBar — Mac menu bar usage for Grok Bot and friends",
+          "url": "https://github.com/Simon66-workshop/QuotaBar",
+          "source": "GB-1828",
+          "blurb": {
+            "en": "Mac menu-bar app that shows live Grok Bot (Sand) weekly usage alongside Grok, Cursor, ChatGPT/Codex, and Claude quotas, plus disk use, without needing the full Xcode project.",
+            "zh": "macOS 菜单栏工具：实时显示 Grok Bot（Sand）周额度，并并列 Grok、Cursor、ChatGPT/Codex、Claude 用量与磁盘占用（无需打开完整 Xcode 工程）。",
+            "ja": "Mac メニューバーアプリ。Grok Bot（Sand）の週次利用枠を Grok / Cursor / ChatGPT・Codex / Claude の枠やディスク使用量と並べて表示します（Xcode プロジェクト不要）。"
+          }
         }
       ]
     },
@@ -15373,6 +15423,26 @@
             "en": "Week-long “Can’t reach your computer” after a Grok Bot update where Recover and Reset leave bots in a partial unreachable state.",
             "zh": "更新后连续约一周 “无法连接电脑”，Recover/Reset 后仍处半残不可达状态的社区报告。",
             "ja": "アップデート後約1週間「コンピュータに接続できない」状態が続き、Recover/Reset でも部分的に到達不能のままという報告。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot cache bug burning quota after 2026-09-24",
+          "url": "https://forum.cursor.com/t/grok-bot-cache-bug-burning-quota/173201",
+          "source": "GB-1829",
+          "blurb": {
+            "en": "Cursor forum bug report claiming grok-bot-default cache stops surviving 5–60 minute gaps after 2026-09-24 06:03 UTC, driving roughly 12× quota for the same traffic.",
+            "zh": "Cursor 论坛报告：自 2026-09-24 06:03 UTC 起 grok-bot-default 缓存无法跨过约 5–60 分钟空档，同等流量额度约增至 12 倍。",
+            "ja": "Cursor フォーラムの不具合報告。2026-09-24 06:03 UTC 以降、grok-bot-default のキャッシュが 5〜60 分の間隔を越えず、同トラフィックで枠が約 12 倍になるという内容です。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot chat image/file attachments fail to send",
+          "url": "https://forum.cursor.com/t/grok-bot-chat-image-file-attachments-fail-to-send-3-pcs-since-2026-09-26-text-ok/173187",
+          "source": "GB-1830",
+          "blurb": {
+            "en": "Cursor forum thread: pasted/dragged chat images and file attachments fail across multiple PCs since 2026-09-26 while plain text and path-based local image reads still work.",
+            "zh": "Cursor 论坛帖：自 2026-09-26 起多台电脑上粘贴/拖拽图片与附件无法发送，纯文本与按本地路径读图仍正常。",
+            "ja": "Cursor フォーラムスレ。2026-09-26 以降、複数 PC でチャットへの画像貼付・ファイル添付が送れず、テキスト送信とローカルパス指定の画像読みは可能という報告です。"
           }
         }
       ]
@@ -24866,6 +24936,37 @@
         "en": "Register on Luma →",
         "zh": "去 Luma 报名 →",
         "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "sea-20261012",
+      "url": "https://luma.com/b0x0mc3p",
+      "image": "./assets/events/sea-20261012-cover.png",
+      "expires": "2026-10-12T21:00:00-07:00",
+      "title": {
+        "en": "Grok Bot meetup Seattle",
+        "zh": "Grok Bot Meetup 西雅图",
+        "ja": "Grok Bot Meetup シアトル"
+      },
+      "when": {
+        "en": "Mon 12 Oct 2026, 18:00–21:00 (America/Los_Angeles / PDT, UTC−7).",
+        "zh": "2026-10-12 周一 18:00–21:00（美西太平洋 PDT，UTC−7）。",
+        "ja": "2026-10-12（月）18:00–21:00（America/Los_Angeles、PDT、UTC−7）。"
+      },
+      "where": {
+        "en": "Seattle, WA · Westlake area (offline; exact address on Luma after approval).",
+        "zh": "美国西雅图 · Westlake 一带（线下；通过审批后见 Luma 地址）。",
+        "ja": "シアトル WA · Westlake 周辺（オフライン。承認後に Luma で住所表示）。"
+      },
+      "body": {
+        "en": "First Seattle Grok Bot workshop+meetup (host shrey shah; forum 173194 / Luma b0x0mc3p = evt-2qLvibXwpI22akX). Agenda 18:00–21:00 Pacific: doors/food, hands-on Grok Bot setup, community demos/templates, networking; laptop recommended. Free; approval required; waitlist on; ~200 spots; guest_count 0 at evening scan.",
+        "zh": "西雅图首场 Grok Bot 工作坊+聚会（主办 shrey shah；论坛 173194 / Luma b0x0mc3p）。太平洋时间 18:00–21:00：入场餐饮、动手搭建、社区演示与模板、社交；建议带笔记本。免费需审批，候补开启，约 200 席；晚间扫描时 guest_count 0。",
+        "ja": "シアトル初の Grok Bot ワークショップ＋ミートアップ（主催 shrey shah、フォーラム 173194 / Luma b0x0mc3p）。太平洋時間 18:00–21:00：受付・飲食、ハンズオン構築、コミュニティデモ、交流。ノート PC 推奨。無料・承認制・ウェイトリストあり・約 200 席。夕方スキャン時 guest_count 0。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     }
   ]

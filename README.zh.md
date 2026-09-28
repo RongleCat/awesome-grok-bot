@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1799-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1806-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（3）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [澳门](./EVENTS.zh.md#mo-20261007)
-- **美国**（17）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [费城](./EVENTS.zh.md#phl-20260929) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007) · [华盛顿特区](./EVENTS.zh.md#was-20260929) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [洛杉矶](./EVENTS.zh.md#lax-20260928) · [伊萨卡](./EVENTS.zh.md#ith-20260929) · [亚特兰大](./EVENTS.zh.md#atl-20261016)
+- **美国**（18）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [费城](./EVENTS.zh.md#phl-20260929) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007) · [华盛顿特区](./EVENTS.zh.md#was-20260929) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [洛杉矶](./EVENTS.zh.md#lax-20260928) · [伊萨卡](./EVENTS.zh.md#ith-20260929) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012)
 - **巴西**（5）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [库里蒂巴](./EVENTS.zh.md#cwb-20260929) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20261016)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
 - **德国**（4）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20261023) · [法兰克福](./EVENTS.zh.md#fra-20261120)
@@ -1048,6 +1048,9 @@
 - [nextcloud-mcp — Nextcloud files MCP + skill for Grok Bot](https://github.com/wckdboy/nextcloud-mcp) - 面向 Grok Bot/Cursor 的 Nextcloud WebDAV/OCS MCP：含插件清单与 nextcloud-files 技能，可列目录、读写上传、分享与搜索。.
 - [Unbrowse — websites-as-APIs plugin and hosted MCP for Grok Bot](https://github.com/unbrowse-ai/unbrowse) - 托管服务（有免费额度），提供 Cursor/Grok Bot 插件与 OAuth 远程 MCP：把任意网页读成 Markdown，用学到的站点一方 API 执行任务，找不到时回退到带已保存登录的云浏览器。.
 - [Financy — Israeli bank/card MCP plugin for Grok Bot](https://github.com/open-finance-ai/financy-grok-plugin) - Financy 官方 .grok-plugin：托管 MCP 与收支技能，让 Grok Bot 只读查看以色列银行卡余额、交易与分类。.
+- [Kalshi MCP — read-only prediction-market plugin for Grok Bot](https://github.com/akashnaren/kalshi-mcp) - 面向 Cursor/Grok Bot 的 Kalshi 插件：stdio MCP、技能与 Finance Engineer 套件，默认可读余额/持仓/市场（安全模式默认开启；下单工具需显式确认）。.
+- [Davia Creation — hosted MCP plugin for Grok Bot game drafts](https://github.com/davialabs/davia-creation-plugin) - 面向 Cursor 市场的 Davia 插件：托管 MCP 与用法技能，让 Grok Bot 在私有 Davia 游戏草稿里创建与修订角色、地点与规则。.
+- [Abbelo — Guides/skills MCP preview plugin for Grok Bot](https://github.com/abbeloapp/abbelo-plugin) - Abbelo 预览版 Cursor/Grok Bot 插件（托管 MCP + 技能）：可访问 Guides、已保存对话与习惯练习；连接前需向 Abbelo 注册 OAuth 客户端。.
 
 ## 评测与对比
 
@@ -1415,6 +1418,8 @@
 - [Grok Bot Container Hardening Team — six-agent security pack](https://github.com/ritvikindupuri/grok-bot-container-hardening-team) - 六机器人团队设计文档：检查 GitHub 仓库的容器/Kubernetes 风险并开修复 PR，含架构说明与样例发现。.
 - [Omarchy Grok Bot Tray — close-window stay-online Linux widget](https://github.com/sunny0826/omarchy-grok-bot-tray) - Omarchy/Hyprland 托盘小组件与 systemd 守护：把 Grok Bot 收到托盘工作区，关窗保持在线，崩溃自动拉起并在 Linux 上自动更新。.
 - [Judgment Day Tracker — Grok Bot news-monitor playbook](https://github.com/memelord420p/judgement-day-tracker) - 公开 Grok Bot 玩法包（人设、每日扫描技能、例行任务、X 发帖）：监控科技新闻、起草进度补丁，并在审批后更新 Judgment Day 追踪站。.
+- [Physique Team — hub-and-specialist Grok Bot recomposition pack](https://github.com/EERamos/physique-team) - 开源的 Grok Bot 中枢+专家布局（人设、SOP、知识库），覆盖循证身体重组：训练、负荷/恢复、营养、证据检索与体检准备。.
+- [QuotaBar — Mac menu bar usage for Grok Bot and friends](https://github.com/Simon66-workshop/QuotaBar) - macOS 菜单栏工具：实时显示 Grok Bot（Sand）周额度，并并列 Grok、Cursor、ChatGPT/Codex、Claude 用量与磁盘占用（无需打开完整 Xcode 工程）。.
 
 ## 社区与故障现场
 
@@ -1636,6 +1641,8 @@
 - [Forum: Grok Bot & 1Password connector won’t connect](https://forum.cursor.com/t/grokbot-1password/173142) - 讨论官方 1Password 连接器能创建 bot 却无法完成连接（含服务账号等尝试）的排查帖。.
 - [Forum: Grok Bot iOS login only offers accounts.x.ai (no Apple SSO)](https://forum.cursor.com/t/grok-bot-ios-login-only-offers-accounts-x-ai-cursor-apple-sso-account-not-found/173116) - 反馈 iOS 端 Grok Bot 登录只提供 accounts.x.ai，桌面端用的 Cursor Apple SSO 账号找不到。.
 - [Forum: Can’t reach computer for 7 days after update (Recover/Reset fail)](https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-for-7-days-since-update-recover-and-reset-failed-partial-state/173136) - 更新后连续约一周 “无法连接电脑”，Recover/Reset 后仍处半残不可达状态的社区报告。.
+- [Forum: Grok Bot cache bug burning quota after 2026-09-24](https://forum.cursor.com/t/grok-bot-cache-bug-burning-quota/173201) - Cursor 论坛报告：自 2026-09-24 06:03 UTC 起 grok-bot-default 缓存无法跨过约 5–60 分钟空档，同等流量额度约增至 12 倍。.
+- [Forum: Grok Bot chat image/file attachments fail to send](https://forum.cursor.com/t/grok-bot-chat-image-file-attachments-fail-to-send-3-pcs-since-2026-09-26-text-ok/173187) - Cursor 论坛帖：自 2026-09-26 起多台电脑上粘贴/拖拽图片与附件无法发送，纯文本与按本地路径读图仍正常。.
 
 ## 相关列表
 
@@ -1911,7 +1918,7 @@
 
 ## 贡献
 
-目前 8 个分类、1799 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1806 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

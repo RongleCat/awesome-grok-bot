@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1799-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1806-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [イベントの詳細](./EVENTS.ja.md)
 
 - **中国**（3）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017) · [マカオ](./EVENTS.ja.md#mo-20261007)
-- **アメリカ**（17）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [オースティン](./EVENTS.ja.md#aus-20261004) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [ワシントンDC](./EVENTS.ja.md#was-20261007) · [ワシントンDC](./EVENTS.ja.md#was-20260929) · [パサデナ](./EVENTS.ja.md#pas-20261008) · [ロサンゼルス](./EVENTS.ja.md#lax-20260928) · [イサカ](./EVENTS.ja.md#ith-20260929) · [アトランタ](./EVENTS.ja.md#atl-20261016)
+- **アメリカ**（18）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [オースティン](./EVENTS.ja.md#aus-20261004) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [ワシントンDC](./EVENTS.ja.md#was-20261007) · [ワシントンDC](./EVENTS.ja.md#was-20260929) · [パサデナ](./EVENTS.ja.md#pas-20261008) · [ロサンゼルス](./EVENTS.ja.md#lax-20260928) · [イサカ](./EVENTS.ja.md#ith-20260929) · [アトランタ](./EVENTS.ja.md#atl-20261016) · [シアトル](./EVENTS.ja.md#sea-20261012)
 - **ブラジル**（5）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [クリチバ](./EVENTS.ja.md#cwb-20260929) · [サルバドール](./EVENTS.ja.md#ssa-20261008) · [フロリアノポリス](./EVENTS.ja.md#fln-20261016)
 - **カナダ**（4）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [モントリオール](./EVENTS.ja.md#yul-20260926) · [トロント](./EVENTS.ja.md#yyz-20261026) · [オタワ](./EVENTS.ja.md#yow-20261010)
 - **ドイツ**（4）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015) · [フランクフルト](./EVENTS.ja.md#fra-20261023) · [フランクフルト](./EVENTS.ja.md#fra-20261120)
@@ -1048,6 +1048,9 @@
 - [nextcloud-mcp — Nextcloud files MCP + skill for Grok Bot](https://github.com/wckdboy/nextcloud-mcp) - Grok Bot/Cursor 向け Nextcloud WebDAV/OCS MCP。プラグイン定義と nextcloud-files スキルで一覧・読取・アップロード・共有・検索ができます。
 - [Unbrowse — websites-as-APIs plugin and hosted MCP for Grok Bot](https://github.com/unbrowse-ai/unbrowse) - 無料枠のあるホスト型サービス。Cursor/Grok Bot プラグインと OAuth 対応 MCP で任意のページを Markdown で読み、学習済みのサイト API でタスクを実行し、該当がなければログインを保存したクラウドブラウザで処理します。
 - [Financy — Israeli bank/card MCP plugin for Grok Bot](https://github.com/open-finance-ai/financy-grok-plugin) - Financy 公式 .grok-plugin。ホスト型 MCP と支出・キャッシュフロー用スキルで、Grok Bot がイスラエルの銀行・カード残高・取引・分類を読み取り専用で扱えます。
+- [Kalshi MCP — read-only prediction-market plugin for Grok Bot](https://github.com/akashnaren/kalshi-mcp) - Cursor/Grok Bot 向け Kalshi プラグイン。stdio MCP・スキル・Finance Engineer ハーネスで残高・ポジション・市場を読み取り（セーフモード既定。注文は明示確認が必要）。
+- [Davia Creation — hosted MCP plugin for Grok Bot game drafts](https://github.com/davialabs/davia-creation-plugin) - Cursor Marketplace 向け Davia プラグイン。ホスト型 MCP と利用スキルで、Grok Bot が非公開の Davia ゲーム草稿のキャラ・場所・ルールを作成・改訂できます。
+- [Abbelo — Guides/skills MCP preview plugin for Grok Bot](https://github.com/abbeloapp/abbelo-plugin) - Abbelo のプレビュー用 Cursor/Grok Bot プラグイン（ホスト型 MCP + スキル）。Guide・保存会話・習慣ワークにアクセスでき、接続前に Abbelo への OAuth クライアント登録が必要です。
 
 ## レビューと比較
 
@@ -1415,6 +1418,8 @@
 - [Grok Bot Container Hardening Team — six-agent security pack](https://github.com/ritvikindupuri/grok-bot-container-hardening-team) - 6体の Grok Bot チーム設計。GitHub リポジトリのコンテナ/Kubernetes リスクを調べ修正 PR を開く手順と構成・サンプル所見付き。
 - [Omarchy Grok Bot Tray — close-window stay-online Linux widget](https://github.com/sunny0826/omarchy-grok-bot-tray) - Omarchy/Hyprland のバーウィジェットと systemd 監視。Grok Bot をトレイ用ワークスペースに退避させて閉じてもオンライン維持し、クラッシュ再起動と Linux 自動更新に対応します。
 - [Judgment Day Tracker — Grok Bot news-monitor playbook](https://github.com/memelord420p/judgement-day-tracker) - 公開の Grok Bot プレイブック（プロフィール、日次スキャンスキル、ルーチン、X 投稿）。テックニュースを監視しトラッカー用パッチを起草し、承認後に Judgment Day 進捗サイトを更新します。
+- [Physique Team — hub-and-specialist Grok Bot recomposition pack](https://github.com/EERamos/physique-team) - 根拠に基づくボディ再構成向けの Grok Bot ハブ＋専門家レイアウト（ペルソナ、SOP、知識）。トレーニング、負荷/回復、栄養、エビデンス、検査準備を扱います。
+- [QuotaBar — Mac menu bar usage for Grok Bot and friends](https://github.com/Simon66-workshop/QuotaBar) - Mac メニューバーアプリ。Grok Bot（Sand）の週次利用枠を Grok / Cursor / ChatGPT・Codex / Claude の枠やディスク使用量と並べて表示します（Xcode プロジェクト不要）。
 
 ## コミュニティと障害事例
 
@@ -1636,6 +1641,8 @@
 - [Forum: Grok Bot & 1Password connector won’t connect](https://forum.cursor.com/t/grokbot-1password/173142) - 公式 1Password コネクタが bot を作っても接続完了しない問題のフォーラムスレッド。
 - [Forum: Grok Bot iOS login only offers accounts.x.ai (no Apple SSO)](https://forum.cursor.com/t/grok-bot-ios-login-only-offers-accounts-x-ai-cursor-apple-sso-account-not-found/173116) - iOS の Grok Bot ログインが accounts.x.ai のみで、デスクトップの Cursor Apple SSO アカウントが見つからない報告。
 - [Forum: Can’t reach computer for 7 days after update (Recover/Reset fail)](https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-for-7-days-since-update-recover-and-reset-failed-partial-state/173136) - アップデート後約1週間「コンピュータに接続できない」状態が続き、Recover/Reset でも部分的に到達不能のままという報告。
+- [Forum: Grok Bot cache bug burning quota after 2026-09-24](https://forum.cursor.com/t/grok-bot-cache-bug-burning-quota/173201) - Cursor フォーラムの不具合報告。2026-09-24 06:03 UTC 以降、grok-bot-default のキャッシュが 5〜60 分の間隔を越えず、同トラフィックで枠が約 12 倍になるという内容です。
+- [Forum: Grok Bot chat image/file attachments fail to send](https://forum.cursor.com/t/grok-bot-chat-image-file-attachments-fail-to-send-3-pcs-since-2026-09-26-text-ok/173187) - Cursor フォーラムスレ。2026-09-26 以降、複数 PC でチャットへの画像貼付・ファイル添付が送れず、テキスト送信とローカルパス指定の画像読みは可能という報告です。
 
 ## 関連リスト
 
@@ -1911,7 +1918,7 @@
 
 ## 貢献
 
-8 セクションに 1799 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1806 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

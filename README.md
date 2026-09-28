@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1799-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1806-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261007)
-- **United States**（17）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Philadelphia](./EVENTS.md#phl-20260929) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Washington, DC](./EVENTS.md#was-20260929) · [Pasadena](./EVENTS.md#pas-20261008) · [Los Angeles](./EVENTS.md#lax-20260928) · [Ithaca](./EVENTS.md#ith-20260929) · [Atlanta](./EVENTS.md#atl-20261016)
+- **United States**（18）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Philadelphia](./EVENTS.md#phl-20260929) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Washington, DC](./EVENTS.md#was-20260929) · [Pasadena](./EVENTS.md#pas-20261008) · [Los Angeles](./EVENTS.md#lax-20260928) · [Ithaca](./EVENTS.md#ith-20260929) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012)
 - **Brazil**（5）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Curitiba](./EVENTS.md#cwb-20260929) · [Salvador](./EVENTS.md#ssa-20261008) · [Florianópolis](./EVENTS.md#fln-20261016)
 - **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
 - **Germany**（4）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261023) · [Frankfurt](./EVENTS.md#fra-20261120)
@@ -1048,6 +1048,9 @@
 - [nextcloud-mcp — Nextcloud files MCP + skill for Grok Bot](https://github.com/wckdboy/nextcloud-mcp) - Production Nextcloud WebDAV/OCS MCP server with a Cursor plugin manifest and nextcloud-files skill so Grok Bot can list, read, upload, share, and search files.
 - [Unbrowse — websites-as-APIs plugin and hosted MCP for Grok Bot](https://github.com/unbrowse-ai/unbrowse) - Hosted service (free tier) with a Cursor/Grok Bot plugin and OAuth MCP that reads any page as markdown, runs site tasks through learned first-party APIs, and falls back to a cloud browser with saved logins.
 - [Financy — Israeli bank/card MCP plugin for Grok Bot](https://github.com/open-finance-ai/financy-grok-plugin) - Official Financy .grok-plugin with hosted MCP and spending/cashflow skills so Grok Bot can read Israeli bank and card balances, transactions, and categories (read-only).
+- [Kalshi MCP — read-only prediction-market plugin for Grok Bot](https://github.com/akashnaren/kalshi-mcp) - Cursor/Grok Bot plugin with stdio MCP, skills, and a Finance Engineer harness so the bot can read Kalshi cash, positions, and markets (safe mode on by default; order tools need explicit confirm).
+- [Davia Creation — hosted MCP plugin for Grok Bot game drafts](https://github.com/davialabs/davia-creation-plugin) - Cursor Marketplace–ready plugin with a hosted MCP connection and usage skill so Grok Bot can build and revise characters, places, and rules in private Davia game drafts.
+- [Abbelo — Guides/skills MCP preview plugin for Grok Bot](https://github.com/abbeloapp/abbelo-plugin) - Preview Cursor/Grok Bot plugin (hosted MCP + skill) that surfaces Abbelo Guides, saved conversations, and habit work; OAuth client registration with Abbelo is required before connect.
 
 ## Reviews & Comparisons
 
@@ -1415,6 +1418,8 @@
 - [Grok Bot Container Hardening Team — six-agent security pack](https://github.com/ritvikindupuri/grok-bot-container-hardening-team) - Documented six-Bot team design that reviews GitHub repos for container/Kubernetes risks and opens fix PRs, with architecture notes and sample findings.
 - [Omarchy Grok Bot Tray — close-window stay-online Linux widget](https://github.com/sunny0826/omarchy-grok-bot-tray) - Omarchy/Hyprland bar widget plus systemd supervisor that parks Grok Bot in a tray workspace so closing the window keeps the agent online, with crash restart and Linux auto-update.
 - [Judgment Day Tracker — Grok Bot news-monitor playbook](https://github.com/memelord420p/judgement-day-tracker) - Public Grok Bot playbook (profile, daily-scan skill, routines, X posting) that monitors tech news, drafts tracker patches, and keeps a Judgment Day progress site updated with approval gates.
+- [Physique Team — hub-and-specialist Grok Bot recomposition pack](https://github.com/EERamos/physique-team) - Open hub-and-specialist Grok Bot layout (personas, SOP, knowledge) for evidence-based body recomposition spanning training, load/recovery, nutrition, evidence, and labs prep.
+- [QuotaBar — Mac menu bar usage for Grok Bot and friends](https://github.com/Simon66-workshop/QuotaBar) - Mac menu-bar app that shows live Grok Bot (Sand) weekly usage alongside Grok, Cursor, ChatGPT/Codex, and Claude quotas, plus disk use, without needing the full Xcode project.
 
 ## Community & Failure Modes
 
@@ -1636,6 +1641,8 @@
 - [Forum: Grok Bot & 1Password connector won’t connect](https://forum.cursor.com/t/grokbot-1password/173142) - Thread on the official 1Password connector creating a bot but failing to complete connection despite service-account attempts.
 - [Forum: Grok Bot iOS login only offers accounts.x.ai (no Apple SSO)](https://forum.cursor.com/t/grok-bot-ios-login-only-offers-accounts-x-ai-cursor-apple-sso-account-not-found/173116) - Reports iOS Grok Bot sign-in offering only accounts.x.ai while desktop uses Cursor Sign in with Apple, so the Apple SSO account is not found.
 - [Forum: Can’t reach computer for 7 days after update (Recover/Reset fail)](https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-for-7-days-since-update-recover-and-reset-failed-partial-state/173136) - Week-long “Can’t reach your computer” after a Grok Bot update where Recover and Reset leave bots in a partial unreachable state.
+- [Forum: Grok Bot cache bug burning quota after 2026-09-24](https://forum.cursor.com/t/grok-bot-cache-bug-burning-quota/173201) - Cursor forum bug report claiming grok-bot-default cache stops surviving 5–60 minute gaps after 2026-09-24 06:03 UTC, driving roughly 12× quota for the same traffic.
+- [Forum: Grok Bot chat image/file attachments fail to send](https://forum.cursor.com/t/grok-bot-chat-image-file-attachments-fail-to-send-3-pcs-since-2026-09-26-text-ok/173187) - Cursor forum thread: pasted/dragged chat images and file attachments fail across multiple PCs since 2026-09-26 while plain text and path-based local image reads still work.
 
 ## Related Lists
 
@@ -1911,7 +1918,7 @@
 
 ## Contributing
 
-1799 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1806 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

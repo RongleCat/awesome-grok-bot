@@ -72,6 +72,9 @@
 <a id="atl-20261016"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/07lxjoiu"><img src="./assets/events/atl-20261016-cover.png" alt="Grok Bot 工程师工作坊 @ KSU 亚特兰大" width="300" /></a></td><td valign="top"><strong>Grok Bot 工程师工作坊 @ KSU 亚特兰大</strong><br />2026-10-16 周五 15:00–17:00（America/New_York，UTC-04:00）<br />美国佐治亚州亚特兰大 · KSU Marietta — 线下<br /><br />亚特兰大 KSU Marietta 面向工程师与学生的 Grok Bot 动手工作坊。<br /><br /><a href="https://luma.com/07lxjoiu"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
+<a id="sea-20261012"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/b0x0mc3p"><img src="./assets/events/sea-20261012-cover.png" alt="Grok Bot Meetup 西雅图" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 西雅图</strong><br />2026-10-12 周一 18:00–21:00（美西太平洋 PDT，UTC−7）。<br />美国西雅图 · Westlake 一带（线下；通过审批后见 Luma 地址）。<br /><br />西雅图首场 Grok Bot 工作坊+聚会（主办 shrey shah；论坛 173194 / Luma b0x0mc3p）。太平洋时间 18:00–21:00：入场餐饮、动手搭建、社区演示与模板、社交；建议带笔记本。免费需审批，候补开启，约 200 席；晚间扫描时 guest_count 0。<br /><br /><a href="https://luma.com/b0x0mc3p"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-br"></a>
 ### 巴西
 

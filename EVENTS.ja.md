@@ -72,6 +72,9 @@
 <a id="atl-20261016"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/07lxjoiu"><img src="./assets/events/atl-20261016-cover.png" alt="Grok Bot エンジニア向け @ KSU アトランタ" width="300" /></a></td><td valign="top"><strong>Grok Bot エンジニア向け @ KSU アトランタ</strong><br />2026-10-16（金）15:00–17:00（America/New_York、UTC-04:00）<br />米国ジョージア州アトランタ · KSU Marietta — オフライン<br /><br />アトランタ KSU Marietta のエンジニア／学生向け Grok Bot ハンズオン。<br /><br /><a href="https://luma.com/07lxjoiu"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
+<a id="sea-20261012"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/b0x0mc3p"><img src="./assets/events/sea-20261012-cover.png" alt="Grok Bot Meetup シアトル" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup シアトル</strong><br />2026-10-12（月）18:00–21:00（America/Los_Angeles、PDT、UTC−7）。<br />シアトル WA · Westlake 周辺（オフライン。承認後に Luma で住所表示）。<br /><br />シアトル初の Grok Bot ワークショップ＋ミートアップ（主催 shrey shah、フォーラム 173194 / Luma b0x0mc3p）。太平洋時間 18:00–21:00：受付・飲食、ハンズオン構築、コミュニティデモ、交流。ノート PC 推奨。無料・承認制・ウェイトリストあり・約 200 席。夕方スキャン時 guest_count 0。<br /><br /><a href="https://luma.com/b0x0mc3p"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
 <a id="country-br"></a>
 ### ブラジル
 

@@ -72,6 +72,9 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="atl-20261016"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/07lxjoiu"><img src="./assets/events/atl-20261016-cover.png" alt="Grok Bot for Engineers at KSU, Atlanta" width="300" /></a></td><td valign="top"><strong>Grok Bot for Engineers at KSU, Atlanta</strong><br />Fri 16 Oct 2026, 15:00–17:00 (America/New_York, UTC-04:00)<br />KSU Marietta, Atlanta, GA, USA — offline<br /><br />Hands-on Grok Bot workshop for engineers and students at KSU Marietta (Atlanta).<br /><br /><a href="https://luma.com/07lxjoiu"><strong>Register on Luma →</strong></a></td></tr></table>
 
+<a id="sea-20261012"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/b0x0mc3p"><img src="./assets/events/sea-20261012-cover.png" alt="Grok Bot meetup Seattle" width="300" /></a></td><td valign="top"><strong>Grok Bot meetup Seattle</strong><br />Mon 12 Oct 2026, 18:00–21:00 (America/Los_Angeles / PDT, UTC−7).<br />Seattle, WA · Westlake area (offline; exact address on Luma after approval).<br /><br />First Seattle Grok Bot workshop+meetup (host shrey shah; forum 173194 / Luma b0x0mc3p = evt-2qLvibXwpI22akX). Agenda 18:00–21:00 Pacific: doors/food, hands-on Grok Bot setup, community demos/templates, networking; laptop recommended. Free; approval required; waitlist on; ~200 spots; guest_count 0 at evening scan.<br /><br /><a href="https://luma.com/b0x0mc3p"><strong>Register on Luma →</strong></a></td></tr></table>
+
 <a id="country-br"></a>
 ### Brazil
 
