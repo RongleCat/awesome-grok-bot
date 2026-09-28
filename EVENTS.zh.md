@@ -207,12 +207,6 @@
 <a id="syd-20261007"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-d70v"><img src="./assets/events/syd-20261007-cover.png" alt="Grok Bot 悉尼线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 悉尼线下交流</strong><br />2026-10-07 周三 17:30–21:00（悉尼）<br />悉尼 · 报名通过后可见地址<br /><br />8 月场之后的下一场官方 Cursor 悉尼 Grok Bot 夜。需主办审核。<br /><br /><a href="https://luma.com/cursor-d70v"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
 
-<a id="country-az"></a>
-### 阿塞拜疆
-
-<a id="bak-20260927"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/ydy9qy6h"><img src="./assets/events/bak-20260927-cover.png" alt="Grok Bot Meetup 巴库" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 巴库</strong><br />2026-09-27 周日 15:00–18:00（Asia/Baku，UTC+4）<br />阿塞拜疆巴库（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />巴库首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug ydy9qy6h）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/ydy9qy6h"><strong>在 Luma 报名 →</strong></a></td></tr></table>
-
 <a id="country-bj"></a>
 ### 贝宁
 

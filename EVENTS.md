@@ -207,12 +207,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="syd-20261007"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-d70v"><img src="./assets/events/syd-20261007-cover.png" alt="Grok Bot Meetup Sydney" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Sydney</strong><br />Wed 7 Oct 2026, 17:30–21:00 (AEDT)<br />Sydney · exact address after you register<br /><br />Next official Cursor Sydney Grok Bot night after the August meetup. Host approval required.<br /><br /><a href="https://luma.com/cursor-d70v"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
 
-<a id="country-az"></a>
-### Azerbaijan
-
-<a id="bak-20260927"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/ydy9qy6h"><img src="./assets/events/bak-20260927-cover.png" alt="Grok Bot Meetup Baku" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Baku</strong><br />Sun 27 Sep 2026, 15:00–18:00 (Asia/Baku, UTC+4)<br />Baku, Azerbaijan — offline (exact venue city-level on Luma / shared after RSVP)<br /><br />First Grok Bot meetup in Baku — part of a Central Asia & Caucasus series. Offline builders meetup to try Grok Bot, demos and community hang. Free RSVP on Luma (slug ydy9qy6h, evt-u0gJBz3jwCKYY7h). Opened via discover; OG title verified 2026-09-18.<br /><br /><a href="https://luma.com/ydy9qy6h"><strong>RSVP on Luma →</strong></a></td></tr></table>
-
 <a id="country-bj"></a>
 ### Benin
 

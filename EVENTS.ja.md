@@ -207,12 +207,6 @@
 <a id="syd-20261007"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-d70v"><img src="./assets/events/syd-20261007-cover.png" alt="Grok Bot Meetup Sydney" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Sydney</strong><br />2026-10-07（水）17:30–21:00（AEDT）<br />シドニー · 登録後に住所を表示<br /><br />8 月開催の次、公式 Cursor Sydney の Grok Bot ナイト。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-d70v"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
-<a id="country-az"></a>
-### アゼルバイジャン
-
-<a id="bak-20260927"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/ydy9qy6h"><img src="./assets/events/bak-20260927-cover.png" alt="Grok Bot Meetup バクー" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup バクー</strong><br />2026-09-27（日） 15:00–18:00（Asia/Baku、UTC+4）<br />アゼルバイジャン・バクー（オフライン；Luma は都市レベル、RSVP 後に会場案内）<br /><br />バクー初の Grok Bot オフラインミートアップ（中央アジア＆コーカサス連続）。体験・デモ・交流。Luma 無料RSVP（slug ydy9qy6h）。2026-09-18 にページ確認済み。<br /><br /><a href="https://luma.com/ydy9qy6h"><strong>Luma で RSVP →</strong></a></td></tr></table>
-
 <a id="country-bj"></a>
 ### ベナン
 

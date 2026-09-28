@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1776-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1795-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -51,7 +51,6 @@
 - **Mexico**（2）：[Monterrey](./EVENTS.md#mty-20261003) · [Villahermosa](./EVENTS.md#vhs-20261001)
 - **Argentina**（1）：[Mendoza](./EVENTS.md#mdz-20261003)
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
-- **Azerbaijan**（1）：[Baku](./EVENTS.md#bak-20260927)
 - **Benin**（1）：[Cotonou](./EVENTS.md#coo-20261003)
 - **Côte d'Ivoire**（1）：[Abidjan](./EVENTS.md#abj-20261107)
 - **Colombia**（1）：[Pereira](./EVENTS.md#pei-20261002)
@@ -469,6 +468,7 @@
 - [Kiwi Chat — watch two Grok bots message each other](https://github.com/vishnusat2007-wq/kiwi-chat) - Live messenger demo where two Grok bots talk over a bearer-token HTTP API while humans spectate (not an MCP broker).
 - [Scam Shield — Grok Bot that catches scams](https://github.com/LarryLemonBot/scam-shield) - xAI Grok Bot Sharing Challenge entry: a Grok Bot template plus demo that flags phishing and scam patterns before users get caught.
 - [Gravity Birds — Godot puzzle built by Grok Bot team](https://github.com/az9713/grokbot-gravity-bird) - Original Godot gravity-puzzle game planned and steered by a Grok Bot team via Cursor Cloud Agent on Origin, with a public dev-journey page.
+- [Replenish Autopilot — Grok Bot Commerce Hackathon (London)](https://github.com/EXL-1/Replenish-Autopilot) - Privacy-first autonomous replenishment commerce demo built at the London Grok Bot Commerce Hackathon, with policy engine, Shopify path, and Bot-facing agent loop.
 
 ## Skills, Plugins & MCP
 
@@ -1041,6 +1041,11 @@
 - [invinoveritas — verify-before-action MCP plugin for Grok Build](https://github.com/babyblueviper1/invinoveritas-grok-plugin) - Grok Build plugin that gates irreversible agent actions with a neutral pre-action verdict, signed recomputable proofs, and a public verdict ledger via remote MCP.
 - [grokbot-claude-inbox — Claude Code remote ping/reply via Grok Bot](https://github.com/hexuria/grokbot-claude-inbox) - Grok Bot skill that relays Claude Code session decisions to your phone over webhooks and a ~/.grokbot inbox so blocked terminals get answers within seconds.
 - [Nomad Pro UK Residency Tracker — Grok Bot engine & skills](https://github.com/komalamee/Grok-NP_residency-tracker) - Open engine pack (skills, tools, HMRC SRT mirror) that powers the Nomad Pro UK residency-tracker Grok Bot marketplace template on each user’s box.
+- [Shotboard — Grok Bot video project template & craft skills](https://github.com/CoreOrca/shotboard) - Free Grok Bot template plus craft/produce skills and a shot canvas so bots treat AI video as a multi-shot project with FAL/Replicate/xAI keys.
+- [Article Audio — Gemini TTS skill & Grok Bot template](https://github.com/harrisrobin/article-audio) - Portable CLI plus Grok Bot skills/template (x.ai/bot) that narrate full articles with Gemini TTS and optional private Cloudflare R2 hosting.
+- [Tiro — meeting notes MCP plugin for Cursor & Grok Bot](https://github.com/plato-corp/tiro-cursor-plugin) - Cursor/Grok Bot marketplace-style plugin that connects Tiro’s hosted MCP with catch-up and pull skills for multilingual meeting notes and wiki search.
+- [SuperAging.AI — public Grok Bot template recipe (skills)](https://github.com/steve-rteam/superaging-grok-bot-template) - Public skills-and-docs mirror of the SuperAging.AI Grok Bot template (x.ai/bot) for monthly Health/Mind/Retirement life statements.
+- [nextcloud-mcp — Nextcloud files MCP + skill for Grok Bot](https://github.com/wckdboy/nextcloud-mcp) - Production Nextcloud WebDAV/OCS MCP server with a Cursor plugin manifest and nextcloud-files skill so Grok Bot can list, read, upload, share, and search files.
 
 ## Reviews & Comparisons
 
@@ -1396,6 +1401,16 @@
 - [Meeting Action Brief — evidence-linked actions for Grok Bot / CLI](https://github.com/rp0927/meeting-action-brief) - stdlib-only Python meeting workflow that extracts evidence-linked decisions/actions for Grok Bot (or Grok CLI) with scoped glossary normalization.
 - [Meraki Health Bot — read-only Cisco Meraki checks for Grok Bot](https://github.com/Presidio-Federal/Meraki-health-bot) - Read-only Meraki Dashboard API scripts that give a Grok Bot plain-English network health findings, monitoring, and weekly digests.
 - [grokbot-data-broker-removal — companion pack + x.ai/bot template](https://github.com/natv/grokbot-data-broker-removal) - Companion file pack for the free US data-broker removal Grok Bot template (Add via x.ai/bot) with catalogs, quirks, and first-run setup.
+- [Sparks — Grok Bot network chief-of-staff kit](https://github.com/edklinger/sparks-grokbot-kit) - Installable Grok Bot kit that ingests mail/calendar/chat archives into a ranked network map of introductions and commitments, with dashboard scripts and shareable template flow.
+- [meet-linux-bridge — Google Meet audio bridge for Grok Bot](https://github.com/nyfeblade/meet-linux-bridge) - PipeWire/Pulse audio bridge and Meet join helper so a Grok Bot voice call can speak and listen inside Google Meet on Linux, with an x.ai/bot Meeting Operator template.
+- [grok-bot-bridge — two-way bridge to local coding agents](https://github.com/anup-a/grok-bot-bridge) - Unofficial bridge so Grok Bots can run long Claude Code/Codex jobs on your machine via gbb and get webhook wakeups when agents finish.
+- [Grok-Bot-Setup — hackathon/career/research three-bot pack](https://github.com/Nissan-Dutta/Grok-Bot-Setup) - Three Grok Bot profiles (Hackathon Captain, Research Lead, Career Agent) with shared skills and routines that scan events, papers, and job boards for human approval.
+- [grokbot-mcp — outbound MCP to drive your Grok Bot agents](https://github.com/Kenzim/grokbot-mcp) - Outbound MCP server wrapping grokbot-client so Cursor/Claude/VS Code tools can drive your own Grok Bot cloud agents over api2.cursor.sh.
+- [GrokCell — four Grok Bot templates with CI eval harness](https://github.com/sdcarlson/grokcell) - Four published Grok Bot LLM-agent templates with versioned SKILL.md packs, behavior checks, and a Python eval harness that runs in GitHub Actions.
+- [PhotonGrokBot — iMessage bridge pack for Grok Bot](https://github.com/tecxbro/photongrokbot) - Open handoff pack that lets a Grok Bot stand up a Photon Spectrum hosted iMessage line with front-door/specialist agent graph and getting-started skill.
+- [grokbot2claw — Mac Shell bridge to OpenClaw agents](https://github.com/AndreaGriffiths11/grokbot2claw) - Unofficial local-first preview that sends one message from Grok Bot Mac Shell to a selected OpenClaw agent and returns the reply through approved shell access.
+- [indie-brief — read-only indie-hacker brief API + Bot template](https://github.com/majiayu000/indie-brief) - Read-only indie-hacker brief API with a Grok Bot template that only restates /v1/today snapshot columns (discussion, products, context) behind API keys.
+- [Grok Bot Container Hardening Team — six-agent security pack](https://github.com/ritvikindupuri/grok-bot-container-hardening-team) - Documented six-Bot team design that reviews GitHub repos for container/Kubernetes risks and opens fix PRs, with architecture notes and sample findings.
 
 ## Community & Failure Modes
 
@@ -1614,6 +1629,9 @@
 - [Forum: Grok Bot Agent Computer Reset Stuck](https://forum.cursor.com/t/grok-bot-agent-computer-reset-stuck/173069) - Cursor Forum thread where Agent Computer Reset hangs, leaving the Grok Bot computer unusable across devices until server-side recovery.
 - [Forum: Cloudflare plugin Connected while bindings still needsAuth](https://forum.cursor.com/t/grok-bot-cloudflare-plugin-shows-connected-while-one-of-its-connectors-bindings-still-needs-auth-ios-and-mac-disagree/173019) - Reports the Cloudflare marketplace plugin showing Connected while cloudflare-bindings stays needsAuth, with iOS/Mac status disagreement.
 - [Forum: Can’t reach computer / *.cursorvm.com blocked (Windows, India)](https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-after-retry-and-recover-cursorvm-com-unreachable-windows-india/173041) - Windows India case where Retry/Recover fail and Grok Bot cannot reach *.cursorvm.com despite no corporate Zscaler.
+- [Forum: Grok Bot & 1Password connector won’t connect](https://forum.cursor.com/t/grokbot-1password/173142) - Thread on the official 1Password connector creating a bot but failing to complete connection despite service-account attempts.
+- [Forum: Grok Bot iOS login only offers accounts.x.ai (no Apple SSO)](https://forum.cursor.com/t/grok-bot-ios-login-only-offers-accounts-x-ai-cursor-apple-sso-account-not-found/173116) - Reports iOS Grok Bot sign-in offering only accounts.x.ai while desktop uses Cursor Sign in with Apple, so the Apple SSO account is not found.
+- [Forum: Can’t reach computer for 7 days after update (Recover/Reset fail)](https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-for-7-days-since-update-recover-and-reset-failed-partial-state/173136) - Week-long “Can’t reach your computer” after a Grok Bot update where Recover and Reset leave bots in a partial unreachable state.
 
 ## Related Lists
 
@@ -1889,7 +1907,7 @@
 
 ## Contributing
 
-1776 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1795 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

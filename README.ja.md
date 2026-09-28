@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1776-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1795-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -51,7 +51,6 @@
 - **メキシコ**（2）：[モンテレイ](./EVENTS.ja.md#mty-20261003) · [ビヤエルモサ](./EVENTS.ja.md#vhs-20261001)
 - **アルゼンチン**（1）：[メンドサ](./EVENTS.ja.md#mdz-20261003)
 - **オーストラリア**（1）：[シドニー](./EVENTS.ja.md#syd-20261007)
-- **アゼルバイジャン**（1）：[バクー](./EVENTS.ja.md#bak-20260927)
 - **ベナン**（1）：[コトヌー](./EVENTS.ja.md#coo-20261003)
 - **コートジボワール**（1）：[アビジャン](./EVENTS.ja.md#abj-20261107)
 - **コロンビア**（1）：[ペレイラ](./EVENTS.ja.md#pei-20261002)
@@ -469,6 +468,7 @@
 - [Kiwi Chat — watch two Grok bots message each other](https://github.com/vishnusat2007-wq/kiwi-chat) - ライブメッセンジャーデモ。2 台の Grok bot が Bearer HTTP API で会話し、人間は観戦（MCP 仲介ではない）。
 - [Scam Shield — Grok Bot that catches scams](https://github.com/LarryLemonBot/scam-shield) - xAI Grok Bot Sharing Challenge 作品。フィッシングや詐欺パターンを事前に見抜く Grok Bot テンプレートとデモ。
 - [Gravity Birds — Godot puzzle built by Grok Bot team](https://github.com/az9713/grokbot-gravity-bird) - オリジナル Godot 重力パズル。Grok Bot チームが Cursor Cloud Agent（Origin）で計画・操縦し、公開の開発ジャーニー付き。
+- [Replenish Autopilot — Grok Bot Commerce Hackathon (London)](https://github.com/EXL-1/Replenish-Autopilot) - ロンドンの Grok Bot Commerce ハッカソン作品。プライバシー重視の自動補充コマースデモで、ポリシーエンジンと Shopify 経路、Bot 向けループを含みます。
 
 ## スキル、プラグインと MCP
 
@@ -1041,6 +1041,11 @@
 - [invinoveritas — verify-before-action MCP plugin for Grok Build](https://github.com/babyblueviper1/invinoveritas-grok-plugin) - Grok Build プラグイン。投稿・オンチェーン署名・出荷など不可逆操作の前に中立プレビュー裁決を出し、再計算可能な署名証明と公開台帳をリモート MCP で提供。
 - [grokbot-claude-inbox — Claude Code remote ping/reply via Grok Bot](https://github.com/hexuria/grokbot-claude-inbox) - Grok Bot スキル：webhook と ~/.grokbot 受信箱で Claude Code の判断をスマホへ中継し、放置ターミナルへ数秒で返答する。
 - [Nomad Pro UK Residency Tracker — Grok Bot engine & skills](https://github.com/komalamee/Grok-NP_residency-tracker) - Nomad Pro 英国居住判定 Grok Bot テンプレを各ユーザーのマシンで動かすエンジン一式（skills・ツール・HMRC SRT ミラー）。
+- [Shotboard — Grok Bot video project template & craft skills](https://github.com/CoreOrca/shotboard) - 無料の Grok Bot テンプレートと制作スキル。AI動画をマルチショットプロジェクトとして扱い、FAL/Replicate/xAI キーで不足ショットを補えます。
+- [Article Audio — Gemini TTS skill & Grok Bot template](https://github.com/harrisrobin/article-audio) - ポータブル CLI と Grok Bot スキル/テンプレート（x.ai/bot）。Gemini TTS で記事全文を MP3 化し、任意で Cloudflare R2 に非公開ホストします。
+- [Tiro — meeting notes MCP plugin for Cursor & Grok Bot](https://github.com/plato-corp/tiro-cursor-plugin) - Cursor/Grok Bot 向け Tiro 会議ノートプラグイン。ホスト型 MCP と catch-up/pull スキルで多言語の議事録・Wiki を検索します。
+- [SuperAging.AI — public Grok Bot template recipe (skills)](https://github.com/steve-rteam/superaging-grok-bot-template) - SuperAging.AI の Grok Bot テンプレート公開レシピ（x.ai/bot リンク付き）。月次の健康・心・退職資産ステートメント用です。
+- [nextcloud-mcp — Nextcloud files MCP + skill for Grok Bot](https://github.com/wckdboy/nextcloud-mcp) - Grok Bot/Cursor 向け Nextcloud WebDAV/OCS MCP。プラグイン定義と nextcloud-files スキルで一覧・読取・アップロード・共有・検索ができます。
 
 ## レビューと比較
 
@@ -1396,6 +1401,16 @@
 - [Meeting Action Brief — evidence-linked actions for Grok Bot / CLI](https://github.com/rp0927/meeting-action-brief) - 標準ライブラリのみの会議ワークフロー。Grok Bot / CLI 向けに根拠付き決定・アクションを抽出し、用語をスコープ正規化する。
 - [Meraki Health Bot — read-only Cisco Meraki checks for Grok Bot](https://github.com/Presidio-Federal/Meraki-health-bot) - 読み取り専用の Meraki Dashboard API スクリプトで、Grok Bot がネットワーク健全性・監視・週次ダイジェストを平易に報告する。
 - [grokbot-data-broker-removal — companion pack + x.ai/bot template](https://github.com/natv/grokbot-data-broker-removal) - 無料の米データブローカー削除 Grok Bot テンプレ用コンパニオン一式（x.ai/bot で追加）。カタログ・注意点・初回セットアップ付き。
+- [Sparks — Grok Bot network chief-of-staff kit](https://github.com/edklinger/sparks-grokbot-kit) - インストール可能な Grok Bot キット。メール/カレンダー/チャットを取り込み、紹介や約束を順位付きネットワーク地図とダッシュボードにします。
+- [meet-linux-bridge — Google Meet audio bridge for Grok Bot](https://github.com/nyfeblade/meet-linux-bridge) - Linux 上で Grok Bot の音声通話を Google Meet に入出力する PipeWire/Pulse ブリッジと参加ヘルパー。x.ai/bot の Meeting Operator テンプレート付き。
+- [grok-bot-bridge — two-way bridge to local coding agents](https://github.com/anup-a/grok-bot-bridge) - 非公式の双方向ブリッジ。Grok Bot が gbb 経由でローカルの Claude Code/Codex 長時間ジョブを実行し、完了時に webhook で起きます。
+- [Grok-Bot-Setup — hackathon/career/research three-bot pack](https://github.com/Nissan-Dutta/Grok-Bot-Setup) - 3体の Grok Bot 構成（ハッカソン隊長/研究リード/キャリア）と共有スキル・ルーチン。イベント・論文・求人をスキャンし人が承認します。
+- [grokbot-mcp — outbound MCP to drive your Grok Bot agents](https://github.com/Kenzim/grokbot-mcp) - grokbot-client を包むアウトバウンド MCP。Cursor/Claude/VS Code から自分の Grok Bot クラウドエージェントを操作します。
+- [GrokCell — four Grok Bot templates with CI eval harness](https://github.com/sdcarlson/grokcell) - 公開済み Grok Bot テンプレート4種。版付き SKILL.md、挙動チェック、GitHub Actions の Python 評価ハーネス付き。
+- [PhotonGrokBot — iMessage bridge pack for Grok Bot](https://github.com/tecxbro/photongrokbot) - Grok Bot が Photon Spectrum のホスト型 iMessage 回線を立てるためのハンドオフパック。フロントドア/専門エージェント構成と入門スキル付き。
+- [grokbot2claw — Mac Shell bridge to OpenClaw agents](https://github.com/AndreaGriffiths11/grokbot2claw) - 非公式のローカル先行版。Grok Bot Mac Shell から選んだ OpenClaw エージェントへ1通送り、承認済みシェル経由で返信を受けます。
+- [indie-brief — read-only indie-hacker brief API + Bot template](https://github.com/majiayu000/indie-brief) - 読み取り専用のインディーハッカー向けブリーフ API と Grok Bot テンプレート。API キー付き /v1/today の3欄スナップショットだけを要約します。
+- [Grok Bot Container Hardening Team — six-agent security pack](https://github.com/ritvikindupuri/grok-bot-container-hardening-team) - 6体の Grok Bot チーム設計。GitHub リポジトリのコンテナ/Kubernetes リスクを調べ修正 PR を開く手順と構成・サンプル所見付き。
 
 ## コミュニティと障害事例
 
@@ -1614,6 +1629,9 @@
 - [Forum: Grok Bot Agent Computer Reset Stuck](https://forum.cursor.com/t/grok-bot-agent-computer-reset-stuck/173069) - Cursor フォーラムスレ。Agent Computer Reset が固まり、復旧まで各デバイスで Grok Bot コンピュータが使えない。
 - [Forum: Cloudflare plugin Connected while bindings still needsAuth](https://forum.cursor.com/t/grok-bot-cloudflare-plugin-shows-connected-while-one-of-its-connectors-bindings-still-needs-auth-ios-and-mac-disagree/173019) - Cloudflare マーケットプラグインが Connected 表示のまま cloudflare-bindings が needsAuth で、iOS/Mac の状態が食い違う報告。
 - [Forum: Can’t reach computer / *.cursorvm.com blocked (Windows, India)](https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-after-retry-and-recover-cursorvm-com-unreachable-windows-india/173041) - インドの Windows で Retry/Recover 後も *.cursorvm.com に届かず、企業 Zscaler なしでも接続不能になる報告。
+- [Forum: Grok Bot & 1Password connector won’t connect](https://forum.cursor.com/t/grokbot-1password/173142) - 公式 1Password コネクタが bot を作っても接続完了しない問題のフォーラムスレッド。
+- [Forum: Grok Bot iOS login only offers accounts.x.ai (no Apple SSO)](https://forum.cursor.com/t/grok-bot-ios-login-only-offers-accounts-x-ai-cursor-apple-sso-account-not-found/173116) - iOS の Grok Bot ログインが accounts.x.ai のみで、デスクトップの Cursor Apple SSO アカウントが見つからない報告。
+- [Forum: Can’t reach computer for 7 days after update (Recover/Reset fail)](https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-for-7-days-since-update-recover-and-reset-failed-partial-state/173136) - アップデート後約1週間「コンピュータに接続できない」状態が続き、Recover/Reset でも部分的に到達不能のままという報告。
 
 ## 関連リスト
 
@@ -1889,7 +1907,7 @@
 
 ## 貢献
 
-8 セクションに 1776 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1795 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1776-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1795-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -51,7 +51,6 @@
 - **墨西哥**（2）：[蒙特雷](./EVENTS.zh.md#mty-20261003) · [比亚埃尔莫萨](./EVENTS.zh.md#vhs-20261001)
 - **阿根廷**（1）：[门多萨](./EVENTS.zh.md#mdz-20261003)
 - **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
-- **阿塞拜疆**（1）：[巴库](./EVENTS.zh.md#bak-20260927)
 - **贝宁**（1）：[科托努](./EVENTS.zh.md#coo-20261003)
 - **科特迪瓦**（1）：[阿比让](./EVENTS.zh.md#abj-20261107)
 - **哥伦比亚**（1）：[佩雷拉](./EVENTS.zh.md#pei-20261002)
@@ -469,6 +468,7 @@
 - [Kiwi Chat — watch two Grok bots message each other](https://github.com/vishnusat2007-wq/kiwi-chat) - 直播信使演示：两台 Grok bot 经 Bearer HTTP API 互聊，人类旁观（非 MCP 经纪）。.
 - [Scam Shield — Grok Bot that catches scams](https://github.com/LarryLemonBot/scam-shield) - xAI Grok Bot Sharing Challenge 作品：Bot 模板与演示，在用户中招前识别钓鱼/诈骗模式。.
 - [Gravity Birds — Godot puzzle built by Grok Bot team](https://github.com/az9713/grokbot-gravity-bird) - 原创 Godot 重力解谜：由 Grok Bot 团队经 Cursor Cloud Agent（Origin）规划与驾驭，并附公开开发旅程页。.
+- [Replenish Autopilot — Grok Bot Commerce Hackathon (London)](https://github.com/EXL-1/Replenish-Autopilot) - 伦敦 Grok Bot Commerce 黑客松作品：隐私优先的自动补货电商演示，含策略引擎、Shopify 路径与面向 Bot 的代理循环。.
 
 ## 技能、插件与 MCP
 
@@ -1041,6 +1041,11 @@
 - [invinoveritas — verify-before-action MCP plugin for Grok Build](https://github.com/babyblueviper1/invinoveritas-grok-plugin) - Grok Build 插件：在发帖/链上签名/发版等不可逆动作前给出中立预审裁决，并提供可重算签名证明与公开裁决账本（远程 MCP）。.
 - [grokbot-claude-inbox — Claude Code remote ping/reply via Grok Bot](https://github.com/hexuria/grokbot-claude-inbox) - Grok Bot 技能：用 webhook 与 ~/.grokbot 收件箱把 Claude Code 会话决策转到手机，让无人值守终端几秒内收到回复。.
 - [Nomad Pro UK Residency Tracker — Grok Bot engine & skills](https://github.com/komalamee/Grok-NP_residency-tracker) - 开源引擎包（技能、工具与 HMRC SRT 指引镜像），驱动 Nomad Pro 英国税务居住追踪 Grok Bot 市场模板在用户本机运行。.
+- [Shotboard — Grok Bot video project template & craft skills](https://github.com/CoreOrca/shotboard) - 免费 Grok Bot 模板与制作技能包：把 AI 视频当成多镜头项目，自带镜头画布，可用你的 FAL/Replicate/xAI 密钥补拍。.
+- [Article Audio — Gemini TTS skill & Grok Bot template](https://github.com/harrisrobin/article-audio) - 便携 CLI 与 Grok Bot 技能/模板（x.ai/bot）：用 Gemini TTS 把全文读成 MP3，可选私有 Cloudflare R2 托管。.
+- [Tiro — meeting notes MCP plugin for Cursor & Grok Bot](https://github.com/plato-corp/tiro-cursor-plugin) - 面向 Cursor/Grok Bot 的 Tiro 会议笔记插件：托管 MCP 加 catch-up/pull 技能，可检索多语种会议纪要与团队 wiki。.
+- [SuperAging.AI — public Grok Bot template recipe (skills)](https://github.com/steve-rteam/superaging-grok-bot-template) - SuperAging.AI Grok Bot 模板的公开技能与文档镜像（含 x.ai/bot 链接），用于每月健康/心智/退休财富人生报表。.
+- [nextcloud-mcp — Nextcloud files MCP + skill for Grok Bot](https://github.com/wckdboy/nextcloud-mcp) - 面向 Grok Bot/Cursor 的 Nextcloud WebDAV/OCS MCP：含插件清单与 nextcloud-files 技能，可列目录、读写上传、分享与搜索。.
 
 ## 评测与对比
 
@@ -1396,6 +1401,16 @@
 - [Meeting Action Brief — evidence-linked actions for Grok Bot / CLI](https://github.com/rp0927/meeting-action-brief) - 仅用标准库的 Python 会议工作流：为 Grok Bot（或 Grok CLI）抽取带证据的决策与行动项，并做范围化术语归一。.
 - [Meraki Health Bot — read-only Cisco Meraki checks for Grok Bot](https://github.com/Presidio-Federal/Meraki-health-bot) - 只读 Meraki Dashboard API 脚本，让 Grok Bot 用通俗英语汇报网络健康、监控与周报。.
 - [grokbot-data-broker-removal — companion pack + x.ai/bot template](https://github.com/natv/grokbot-data-broker-removal) - 免费美国数据经纪删除 Grok Bot 模板的配套文件包（经 x.ai/bot 添加），含目录、注意事项与首次设置。.
+- [Sparks — Grok Bot network chief-of-staff kit](https://github.com/edklinger/sparks-grokbot-kit) - 可安装的 Grok Bot 套件：把邮件/日历/聊天归档收成带证据的人脉地图与待办引荐，含仪表盘脚本与模板分享流程。.
+- [meet-linux-bridge — Google Meet audio bridge for Grok Bot](https://github.com/nyfeblade/meet-linux-bridge) - Linux 上让 Grok Bot 语音通话进出 Google Meet 的 PipeWire/Pulse 音频桥与入会助手，附 x.ai/bot Meeting Operator 模板。.
+- [grok-bot-bridge — two-way bridge to local coding agents](https://github.com/anup-a/grok-bot-bridge) - 非官方双向桥：Grok Bot 可通过 gbb 在本地跑长时 Claude Code/Codex 任务，并在代理完成后 webhook 唤醒。.
+- [Grok-Bot-Setup — hackathon/career/research three-bot pack](https://github.com/Nissan-Dutta/Grok-Bot-Setup) - 三套 Grok Bot 配置（黑客松队长/研究主导/职业代理）与共享技能与例行任务，扫描活动、论文与职位板并等人审批。.
+- [grokbot-mcp — outbound MCP to drive your Grok Bot agents](https://github.com/Kenzim/grokbot-mcp) - 封装 grokbot-client 的出站 MCP：让 Cursor/Claude/VS Code 的工具驱动你自己的 Grok Bot 云代理（api2.cursor.sh）。.
+- [GrokCell — four Grok Bot templates with CI eval harness](https://github.com/sdcarlson/grokcell) - 四套已发布的 Grok Bot 模板，含版本化 SKILL.md、行为检查与在 GitHub Actions 中跑的 Python 评测脚手架。.
+- [PhotonGrokBot — iMessage bridge pack for Grok Bot](https://github.com/tecxbro/photongrokbot) - 开源交接包：让 Grok Bot 经 Photon Spectrum 拉起托管 iMessage 线路，含前门/专家代理图与入门技能。.
+- [grokbot2claw — Mac Shell bridge to OpenClaw agents](https://github.com/AndreaGriffiths11/grokbot2claw) - 非官方本地预览：从 Grok Bot Mac Shell 向选定 OpenClaw 代理发一条消息，经批准的 Shell 权限拿回回复。.
+- [indie-brief — read-only indie-hacker brief API + Bot template](https://github.com/majiayu000/indie-brief) - 只读独立开发者简报 API，附 Grok Bot 模板：仅转述带密钥保护的 /v1/today 三栏快照（讨论/产品/背景）。.
+- [Grok Bot Container Hardening Team — six-agent security pack](https://github.com/ritvikindupuri/grok-bot-container-hardening-team) - 六机器人团队设计文档：检查 GitHub 仓库的容器/Kubernetes 风险并开修复 PR，含架构说明与样例发现。.
 
 ## 社区与故障现场
 
@@ -1614,6 +1629,9 @@
 - [Forum: Grok Bot Agent Computer Reset Stuck](https://forum.cursor.com/t/grok-bot-agent-computer-reset-stuck/173069) - Cursor 论坛帖：Agent Computer Reset 卡住，导致多端都无法使用 Grok Bot 电脑，需服务端恢复。.
 - [Forum: Cloudflare plugin Connected while bindings still needsAuth](https://forum.cursor.com/t/grok-bot-cloudflare-plugin-shows-connected-while-one-of-its-connectors-bindings-still-needs-auth-ios-and-mac-disagree/173019) - 反馈 Cloudflare 市场插件显示 Connected，但 cloudflare-bindings 仍为 needsAuth，且 iOS 与 Mac 状态不一致。.
 - [Forum: Can’t reach computer / *.cursorvm.com blocked (Windows, India)](https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-after-retry-and-recover-cursorvm-com-unreachable-windows-india/173041) - 印度 Windows 场景：Retry/Recover 无效，且在无企业 Zscaler 时仍无法访问 *.cursorvm.com。.
+- [Forum: Grok Bot & 1Password connector won’t connect](https://forum.cursor.com/t/grokbot-1password/173142) - 讨论官方 1Password 连接器能创建 bot 却无法完成连接（含服务账号等尝试）的排查帖。.
+- [Forum: Grok Bot iOS login only offers accounts.x.ai (no Apple SSO)](https://forum.cursor.com/t/grok-bot-ios-login-only-offers-accounts-x-ai-cursor-apple-sso-account-not-found/173116) - 反馈 iOS 端 Grok Bot 登录只提供 accounts.x.ai，桌面端用的 Cursor Apple SSO 账号找不到。.
+- [Forum: Can’t reach computer for 7 days after update (Recover/Reset fail)](https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-for-7-days-since-update-recover-and-reset-failed-partial-state/173136) - 更新后连续约一周 “无法连接电脑”，Recover/Reset 后仍处半残不可达状态的社区报告。.
 
 ## 相关列表
 
@@ -1889,7 +1907,7 @@
 
 ## 贡献
 
-目前 8 个分类、1776 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1795 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
