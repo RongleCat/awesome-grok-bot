@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1795-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1796-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1046,6 +1046,7 @@
 - [Tiro — meeting notes MCP plugin for Cursor & Grok Bot](https://github.com/plato-corp/tiro-cursor-plugin) - Cursor/Grok Bot marketplace-style plugin that connects Tiro’s hosted MCP with catch-up and pull skills for multilingual meeting notes and wiki search.
 - [SuperAging.AI — public Grok Bot template recipe (skills)](https://github.com/steve-rteam/superaging-grok-bot-template) - Public skills-and-docs mirror of the SuperAging.AI Grok Bot template (x.ai/bot) for monthly Health/Mind/Retirement life statements.
 - [nextcloud-mcp — Nextcloud files MCP + skill for Grok Bot](https://github.com/wckdboy/nextcloud-mcp) - Production Nextcloud WebDAV/OCS MCP server with a Cursor plugin manifest and nextcloud-files skill so Grok Bot can list, read, upload, share, and search files.
+- [Unbrowse — websites-as-APIs plugin and hosted MCP for Grok Bot](https://github.com/unbrowse-ai/unbrowse) - Hosted service (free tier) with a Cursor/Grok Bot plugin and OAuth MCP that reads any page as markdown, runs site tasks through learned first-party APIs, and falls back to a cloud browser with saved logins.
 
 ## Reviews & Comparisons
 
@@ -1907,7 +1908,7 @@
 
 ## Contributing
 
-1795 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1796 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

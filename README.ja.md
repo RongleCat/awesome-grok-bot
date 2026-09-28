@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1795-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1796-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1046,6 +1046,7 @@
 - [Tiro — meeting notes MCP plugin for Cursor & Grok Bot](https://github.com/plato-corp/tiro-cursor-plugin) - Cursor/Grok Bot 向け Tiro 会議ノートプラグイン。ホスト型 MCP と catch-up/pull スキルで多言語の議事録・Wiki を検索します。
 - [SuperAging.AI — public Grok Bot template recipe (skills)](https://github.com/steve-rteam/superaging-grok-bot-template) - SuperAging.AI の Grok Bot テンプレート公開レシピ（x.ai/bot リンク付き）。月次の健康・心・退職資産ステートメント用です。
 - [nextcloud-mcp — Nextcloud files MCP + skill for Grok Bot](https://github.com/wckdboy/nextcloud-mcp) - Grok Bot/Cursor 向け Nextcloud WebDAV/OCS MCP。プラグイン定義と nextcloud-files スキルで一覧・読取・アップロード・共有・検索ができます。
+- [Unbrowse — websites-as-APIs plugin and hosted MCP for Grok Bot](https://github.com/unbrowse-ai/unbrowse) - 無料枠のあるホスト型サービス。Cursor/Grok Bot プラグインと OAuth 対応 MCP で任意のページを Markdown で読み、学習済みのサイト API でタスクを実行し、該当がなければログインを保存したクラウドブラウザで処理します。
 
 ## レビューと比較
 
@@ -1907,7 +1908,7 @@
 
 ## 貢献
 
-8 セクションに 1795 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1796 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

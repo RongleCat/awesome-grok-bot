@@ -9534,6 +9534,16 @@
             "zh": "面向 Grok Bot/Cursor 的 Nextcloud WebDAV/OCS MCP：含插件清单与 nextcloud-files 技能，可列目录、读写上传、分享与搜索。",
             "ja": "Grok Bot/Cursor 向け Nextcloud WebDAV/OCS MCP。プラグイン定義と nextcloud-files スキルで一覧・読取・アップロード・共有・検索ができます。"
           }
+        },
+        {
+          "title": "Unbrowse — websites-as-APIs plugin and hosted MCP for Grok Bot",
+          "url": "https://github.com/unbrowse-ai/unbrowse",
+          "source": "GB-1820",
+          "blurb": {
+            "en": "Hosted service (free tier) with a Cursor/Grok Bot plugin and OAuth MCP that reads any page as markdown, runs site tasks through learned first-party APIs, and falls back to a cloud browser with saved logins.",
+            "zh": "托管服务（有免费额度），提供 Cursor/Grok Bot 插件与 OAuth 远程 MCP：把任意网页读成 Markdown，用学到的站点一方 API 执行任务，找不到时回退到带已保存登录的云浏览器。",
+            "ja": "無料枠のあるホスト型サービス。Cursor/Grok Bot プラグインと OAuth 対応 MCP で任意のページを Markdown で読み、学習済みのサイト API でタスクを実行し、該当がなければログインを保存したクラウドブラウザで処理します。"
+          }
         }
       ]
     },

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1795-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1796-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1046,6 +1046,7 @@
 - [Tiro — meeting notes MCP plugin for Cursor & Grok Bot](https://github.com/plato-corp/tiro-cursor-plugin) - 面向 Cursor/Grok Bot 的 Tiro 会议笔记插件：托管 MCP 加 catch-up/pull 技能，可检索多语种会议纪要与团队 wiki。.
 - [SuperAging.AI — public Grok Bot template recipe (skills)](https://github.com/steve-rteam/superaging-grok-bot-template) - SuperAging.AI Grok Bot 模板的公开技能与文档镜像（含 x.ai/bot 链接），用于每月健康/心智/退休财富人生报表。.
 - [nextcloud-mcp — Nextcloud files MCP + skill for Grok Bot](https://github.com/wckdboy/nextcloud-mcp) - 面向 Grok Bot/Cursor 的 Nextcloud WebDAV/OCS MCP：含插件清单与 nextcloud-files 技能，可列目录、读写上传、分享与搜索。.
+- [Unbrowse — websites-as-APIs plugin and hosted MCP for Grok Bot](https://github.com/unbrowse-ai/unbrowse) - 托管服务（有免费额度），提供 Cursor/Grok Bot 插件与 OAuth 远程 MCP：把任意网页读成 Markdown，用学到的站点一方 API 执行任务，找不到时回退到带已保存登录的云浏览器。.
 
 ## 评测与对比
 
@@ -1907,7 +1908,7 @@
 
 ## 贡献
 
-目前 8 个分类、1795 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1796 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
