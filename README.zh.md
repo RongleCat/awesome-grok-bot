@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1795-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1799-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1046,6 +1046,8 @@
 - [Tiro — meeting notes MCP plugin for Cursor & Grok Bot](https://github.com/plato-corp/tiro-cursor-plugin) - 面向 Cursor/Grok Bot 的 Tiro 会议笔记插件：托管 MCP 加 catch-up/pull 技能，可检索多语种会议纪要与团队 wiki。.
 - [SuperAging.AI — public Grok Bot template recipe (skills)](https://github.com/steve-rteam/superaging-grok-bot-template) - SuperAging.AI Grok Bot 模板的公开技能与文档镜像（含 x.ai/bot 链接），用于每月健康/心智/退休财富人生报表。.
 - [nextcloud-mcp — Nextcloud files MCP + skill for Grok Bot](https://github.com/wckdboy/nextcloud-mcp) - 面向 Grok Bot/Cursor 的 Nextcloud WebDAV/OCS MCP：含插件清单与 nextcloud-files 技能，可列目录、读写上传、分享与搜索。.
+- [Unbrowse — websites-as-APIs plugin and hosted MCP for Grok Bot](https://github.com/unbrowse-ai/unbrowse) - 托管服务（有免费额度），提供 Cursor/Grok Bot 插件与 OAuth 远程 MCP：把任意网页读成 Markdown，用学到的站点一方 API 执行任务，找不到时回退到带已保存登录的云浏览器。.
+- [Financy — Israeli bank/card MCP plugin for Grok Bot](https://github.com/open-finance-ai/financy-grok-plugin) - Financy 官方 .grok-plugin：托管 MCP 与收支技能，让 Grok Bot 只读查看以色列银行卡余额、交易与分类。.
 
 ## 评测与对比
 
@@ -1411,6 +1413,8 @@
 - [grokbot2claw — Mac Shell bridge to OpenClaw agents](https://github.com/AndreaGriffiths11/grokbot2claw) - 非官方本地预览：从 Grok Bot Mac Shell 向选定 OpenClaw 代理发一条消息，经批准的 Shell 权限拿回回复。.
 - [indie-brief — read-only indie-hacker brief API + Bot template](https://github.com/majiayu000/indie-brief) - 只读独立开发者简报 API，附 Grok Bot 模板：仅转述带密钥保护的 /v1/today 三栏快照（讨论/产品/背景）。.
 - [Grok Bot Container Hardening Team — six-agent security pack](https://github.com/ritvikindupuri/grok-bot-container-hardening-team) - 六机器人团队设计文档：检查 GitHub 仓库的容器/Kubernetes 风险并开修复 PR，含架构说明与样例发现。.
+- [Omarchy Grok Bot Tray — close-window stay-online Linux widget](https://github.com/sunny0826/omarchy-grok-bot-tray) - Omarchy/Hyprland 托盘小组件与 systemd 守护：把 Grok Bot 收到托盘工作区，关窗保持在线，崩溃自动拉起并在 Linux 上自动更新。.
+- [Judgment Day Tracker — Grok Bot news-monitor playbook](https://github.com/memelord420p/judgement-day-tracker) - 公开 Grok Bot 玩法包（人设、每日扫描技能、例行任务、X 发帖）：监控科技新闻、起草进度补丁，并在审批后更新 Judgment Day 追踪站。.
 
 ## 社区与故障现场
 
@@ -1907,7 +1911,7 @@
 
 ## 贡献
 
-目前 8 个分类、1795 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1799 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

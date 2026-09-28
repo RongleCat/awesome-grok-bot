@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1795-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1799-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1046,6 +1046,8 @@
 - [Tiro — meeting notes MCP plugin for Cursor & Grok Bot](https://github.com/plato-corp/tiro-cursor-plugin) - Cursor/Grok Bot 向け Tiro 会議ノートプラグイン。ホスト型 MCP と catch-up/pull スキルで多言語の議事録・Wiki を検索します。
 - [SuperAging.AI — public Grok Bot template recipe (skills)](https://github.com/steve-rteam/superaging-grok-bot-template) - SuperAging.AI の Grok Bot テンプレート公開レシピ（x.ai/bot リンク付き）。月次の健康・心・退職資産ステートメント用です。
 - [nextcloud-mcp — Nextcloud files MCP + skill for Grok Bot](https://github.com/wckdboy/nextcloud-mcp) - Grok Bot/Cursor 向け Nextcloud WebDAV/OCS MCP。プラグイン定義と nextcloud-files スキルで一覧・読取・アップロード・共有・検索ができます。
+- [Unbrowse — websites-as-APIs plugin and hosted MCP for Grok Bot](https://github.com/unbrowse-ai/unbrowse) - 無料枠のあるホスト型サービス。Cursor/Grok Bot プラグインと OAuth 対応 MCP で任意のページを Markdown で読み、学習済みのサイト API でタスクを実行し、該当がなければログインを保存したクラウドブラウザで処理します。
+- [Financy — Israeli bank/card MCP plugin for Grok Bot](https://github.com/open-finance-ai/financy-grok-plugin) - Financy 公式 .grok-plugin。ホスト型 MCP と支出・キャッシュフロー用スキルで、Grok Bot がイスラエルの銀行・カード残高・取引・分類を読み取り専用で扱えます。
 
 ## レビューと比較
 
@@ -1411,6 +1413,8 @@
 - [grokbot2claw — Mac Shell bridge to OpenClaw agents](https://github.com/AndreaGriffiths11/grokbot2claw) - 非公式のローカル先行版。Grok Bot Mac Shell から選んだ OpenClaw エージェントへ1通送り、承認済みシェル経由で返信を受けます。
 - [indie-brief — read-only indie-hacker brief API + Bot template](https://github.com/majiayu000/indie-brief) - 読み取り専用のインディーハッカー向けブリーフ API と Grok Bot テンプレート。API キー付き /v1/today の3欄スナップショットだけを要約します。
 - [Grok Bot Container Hardening Team — six-agent security pack](https://github.com/ritvikindupuri/grok-bot-container-hardening-team) - 6体の Grok Bot チーム設計。GitHub リポジトリのコンテナ/Kubernetes リスクを調べ修正 PR を開く手順と構成・サンプル所見付き。
+- [Omarchy Grok Bot Tray — close-window stay-online Linux widget](https://github.com/sunny0826/omarchy-grok-bot-tray) - Omarchy/Hyprland のバーウィジェットと systemd 監視。Grok Bot をトレイ用ワークスペースに退避させて閉じてもオンライン維持し、クラッシュ再起動と Linux 自動更新に対応します。
+- [Judgment Day Tracker — Grok Bot news-monitor playbook](https://github.com/memelord420p/judgement-day-tracker) - 公開の Grok Bot プレイブック（プロフィール、日次スキャンスキル、ルーチン、X 投稿）。テックニュースを監視しトラッカー用パッチを起草し、承認後に Judgment Day 進捗サイトを更新します。
 
 ## コミュニティと障害事例
 
@@ -1907,7 +1911,7 @@
 
 ## 貢献
 
-8 セクションに 1795 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1799 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

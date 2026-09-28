@@ -9534,6 +9534,26 @@
             "zh": "面向 Grok Bot/Cursor 的 Nextcloud WebDAV/OCS MCP：含插件清单与 nextcloud-files 技能，可列目录、读写上传、分享与搜索。",
             "ja": "Grok Bot/Cursor 向け Nextcloud WebDAV/OCS MCP。プラグイン定義と nextcloud-files スキルで一覧・読取・アップロード・共有・検索ができます。"
           }
+        },
+        {
+          "title": "Unbrowse — websites-as-APIs plugin and hosted MCP for Grok Bot",
+          "url": "https://github.com/unbrowse-ai/unbrowse",
+          "source": "GB-1820",
+          "blurb": {
+            "en": "Hosted service (free tier) with a Cursor/Grok Bot plugin and OAuth MCP that reads any page as markdown, runs site tasks through learned first-party APIs, and falls back to a cloud browser with saved logins.",
+            "zh": "托管服务（有免费额度），提供 Cursor/Grok Bot 插件与 OAuth 远程 MCP：把任意网页读成 Markdown，用学到的站点一方 API 执行任务，找不到时回退到带已保存登录的云浏览器。",
+            "ja": "無料枠のあるホスト型サービス。Cursor/Grok Bot プラグインと OAuth 対応 MCP で任意のページを Markdown で読み、学習済みのサイト API でタスクを実行し、該当がなければログインを保存したクラウドブラウザで処理します。"
+          }
+        },
+        {
+          "title": "Financy — Israeli bank/card MCP plugin for Grok Bot",
+          "url": "https://github.com/open-finance-ai/financy-grok-plugin",
+          "source": "GB-1821",
+          "blurb": {
+            "en": "Official Financy .grok-plugin with hosted MCP and spending/cashflow skills so Grok Bot can read Israeli bank and card balances, transactions, and categories (read-only).",
+            "zh": "Financy 官方 .grok-plugin：托管 MCP 与收支技能，让 Grok Bot 只读查看以色列银行卡余额、交易与分类。",
+            "ja": "Financy 公式 .grok-plugin。ホスト型 MCP と支出・キャッシュフロー用スキルで、Grok Bot がイスラエルの銀行・カード残高・取引・分類を読み取り専用で扱えます。"
+          }
         }
       ]
     },
@@ -13143,6 +13163,26 @@
             "en": "Documented six-Bot team design that reviews GitHub repos for container/Kubernetes risks and opens fix PRs, with architecture notes and sample findings.",
             "zh": "六机器人团队设计文档：检查 GitHub 仓库的容器/Kubernetes 风险并开修复 PR，含架构说明与样例发现。",
             "ja": "6体の Grok Bot チーム設計。GitHub リポジトリのコンテナ/Kubernetes リスクを調べ修正 PR を開く手順と構成・サンプル所見付き。"
+          }
+        },
+        {
+          "title": "Omarchy Grok Bot Tray — close-window stay-online Linux widget",
+          "url": "https://github.com/sunny0826/omarchy-grok-bot-tray",
+          "source": "GB-1822",
+          "blurb": {
+            "en": "Omarchy/Hyprland bar widget plus systemd supervisor that parks Grok Bot in a tray workspace so closing the window keeps the agent online, with crash restart and Linux auto-update.",
+            "zh": "Omarchy/Hyprland 托盘小组件与 systemd 守护：把 Grok Bot 收到托盘工作区，关窗保持在线，崩溃自动拉起并在 Linux 上自动更新。",
+            "ja": "Omarchy/Hyprland のバーウィジェットと systemd 監視。Grok Bot をトレイ用ワークスペースに退避させて閉じてもオンライン維持し、クラッシュ再起動と Linux 自動更新に対応します。"
+          }
+        },
+        {
+          "title": "Judgment Day Tracker — Grok Bot news-monitor playbook",
+          "url": "https://github.com/memelord420p/judgement-day-tracker",
+          "source": "GB-1823",
+          "blurb": {
+            "en": "Public Grok Bot playbook (profile, daily-scan skill, routines, X posting) that monitors tech news, drafts tracker patches, and keeps a Judgment Day progress site updated with approval gates.",
+            "zh": "公开 Grok Bot 玩法包（人设、每日扫描技能、例行任务、X 发帖）：监控科技新闻、起草进度补丁，并在审批后更新 Judgment Day 追踪站。",
+            "ja": "公開の Grok Bot プレイブック（プロフィール、日次スキャンスキル、ルーチン、X 投稿）。テックニュースを監視しトラッカー用パッチを起草し、承認後に Judgment Day 進捗サイトを更新します。"
           }
         }
       ]
