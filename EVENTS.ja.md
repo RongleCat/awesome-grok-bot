@@ -105,6 +105,9 @@
 <a id="yow-20261010"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/phs5tofz"><img src="./assets/events/yow-20261010-cover.png" alt="Grok Bot Meetup オタワ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup オタワ</strong><br />2026-10-10（土） 18:00–22:00（America/Toronto、UTC-4）<br />カナダ・オタワ Carleton University Nicol Building, 1125 Colonel By Dr（オフライン、部屋は後日）<br /><br />オタワ初のカタログ掲載 Grok Bot ミートアップ（Builders Collective Ottawa ほか）。Carleton University の夜：紹介・デモ・ショーケース・クレジット・交流。無料・承認制。ノートPC持参。新 slug phs5tofz；フォーラムの New event 投稿はまだなし。<br /><br /><a href="https://luma.com/phs5tofz"><strong>Luma で登録 → →</strong></a></td></tr></table>
 
+<a id="yyc-20261028"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/i9grzzp3"><img src="./assets/events/yyc-20261028-cover.png" alt="Grok Bot Meetup カルガリー（10月）" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup カルガリー（10月）</strong><br />2026-10-28（水）17:30–20:30（America/Edmonton、MDT、UTC−6）<br />カナダ・カルガリー · 会場 TBD（Luma に表示）· オフライン<br /><br />カルガリー月次 Grok Bot Meetup（主催 Simon Loewen、Jia Ming Huang、フォーラム 173296 / Luma i9grzzp3）。山地時間 17:30–20:30：受付・ビルド・デモ・交流。ノート PC 持参。ウェイトリストあり。夕方スキャン時 guest_count 1。<br /><br /><a href="https://luma.com/i9grzzp3"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
 <a id="country-de"></a>
 ### ドイツ
 
@@ -177,6 +180,15 @@
 <a id="tyo-20261011"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-hackathon-tokyo"><img src="./assets/events/tyo-20261011-cover.png" alt="Grok Bot 東京ハッカソン" width="300" /></a></td><td valign="top"><strong>Grok Bot 東京ハッカソン</strong><br />2026-10-11（土）10:00–18:00（Asia/Tokyo）<br />日本・東京 · 御茶ノ水ソラシティ（千代田区神田駿河台４丁目６）— オフライン<br /><br />SpaceXAI 東京ハッカソン（御茶ノ水ソラシティ）。終日オフラインで Grok Bot を使って制作。Luma で登録。<br /><br /><a href="https://luma.com/grokbot-hackathon-tokyo"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
+<a id="country-kh"></a>
+### カンボジア
+
+<a id="pnh-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-jt05"><img src="./assets/events/pnh-20261003-cover.png" alt="Grok Bot Meetup Phnom Penh" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Phnom Penh</strong><br />2026-10-03（土）14:00–16:00（Asia/Bangkok、GMT+7）<br />プノンペン · Smart Startup Space（Connexion Building, Koh Pich）<br /><br />カンボジア初の Grok Bot ミートアップ。デモ・アイデア交換、現地クレジット試用（ノート／スマホ可）、オンラインゲストあり。Smart Startup Space 共催。主催 Taka Kiyone & Luis Romero。無料・承認制・約80席。初心者歓迎。<br /><br /><a href="https://luma.com/spacexai-jt05"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="srp-20261101"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-yvwt"><img src="./assets/events/srp-20261101-cover.png" alt="Grok Bot Meetup シェムリアップ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup シェムリアップ</strong><br />2026-11-01（日）14:00–18:00（Asia/Bangkok、ICT、UTC+7）<br />カンボジア・シェムリアップ The Creative House（Street Wat Po）· オフライン<br /><br />シェムリアップ初の Grok Bot ミートアップ（SpaceXAI プノンペン暦、主催 Taka Kiyone / Luis Romero ほか、フォーラム 173298 / Luma spacexai-yvwt）。交流・デモ。ウェイトリストあり。夕方スキャン時 guest_count 0。<br /><br /><a href="https://luma.com/spacexai-yvwt"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
 <a id="country-kz"></a>
 ### カザフスタン
 
@@ -195,6 +207,12 @@
 <a id="vhs-20261001"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-chzd"><img src="./assets/events/vhs-20261001-cover.png" alt="Grok Bot Meetup ビヤエルモサ（10月）" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ビヤエルモサ（10月）</strong><br />2026-10-01（木）17:00–21:00（America/Mexico_City、UTC-06:00）<br />メキシコ・ビヤエルモサ · オフライン<br /><br />公式 SpaceXAI ビヤエルモサ。Cursor / Grok Bot ビルダー向けオフライン（10月版）。<br /><br /><a href="https://luma.com/spacexai-chzd"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
+<a id="country-al"></a>
+### アルバニア
+
+<a id="tia-20261017"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-kpc5"><img src="./assets/events/tia-20261017-cover.png" alt="Grok Bot ティラナ Workshop: Build Your AI Team" width="300" /></a></td><td valign="top"><strong>Grok Bot ティラナ Workshop: Build Your AI Team</strong><br />2026-10-17（土）12:00–13:30（Europe/Tirane、CEST、UTC+2）<br />アルバニア・ティラナ Coolab（Rruga E Dibrës Nr.65）· オフライン<br /><br />SpaceXAI ティラナのワークショップ。Grok Bot で AI チームを組む（主催 Dorian Kane、Dhimiter Gero、フォーラム 173299 / Luma spacexai-kpc5）。Coolab でハンズオン。ウェイトリストあり。夕方スキャン時 guest_count 1。<br /><br /><a href="https://luma.com/spacexai-kpc5"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
 <a id="country-ar"></a>
 ### アルゼンチン
 
@@ -206,6 +224,12 @@
 
 <a id="syd-20261007"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-d70v"><img src="./assets/events/syd-20261007-cover.png" alt="Grok Bot Meetup Sydney" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Sydney</strong><br />2026-10-07（水）17:30–21:00（AEDT）<br />シドニー · 登録後に住所を表示<br /><br />8 月開催の次、公式 Cursor Sydney の Grok Bot ナイト。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-d70v"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="country-bd"></a>
+### バングラデシュ
+
+<a id="dac-20261031"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-qnlu"><img src="./assets/events/dac-20261031-cover.png" alt="Grok Bot Meetup ダッカ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ダッカ</strong><br />2026-10-31（土）14:00–16:00（Asia/Dhaka、BST、UTC+6）<br />バングラデシュ・ダッカ · 会場は Luma（登録前は位置ぼかし）· オフライン<br /><br />ダッカのハンズオン Grok Bot コワーキング（主催 Mahinoor Rahman、フォーラム 173297 / Luma spacexai-qnlu）。アイデア探索・制作・学習。ウェイトリストなし。夕方スキャン時 guest_count 0。<br /><br /><a href="https://luma.com/spacexai-qnlu"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-bj"></a>
 ### ベナン
@@ -254,12 +278,6 @@
 
 <a id="fru-20261001"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/7bexxjvh"><img src="./assets/events/fru-20261001-cover.png" alt="Grok Bot Meetup ビシュケク" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ビシュケク</strong><br />2026-10-01（木） 10:00–12:30（Asia/Bishkek、UTC+6）<br />キルギス・ビシュケク（オフライン；Luma は都市レベル、RSVP 後に会場案内）<br /><br />ビシュケク初の Grok Bot オフラインミートアップ（中央アジア＆コーカサス連続）。体験・デモ・交流。Luma 無料RSVP（slug 7bexxjvh）。2026-09-18 にページ確認済み。<br /><br /><a href="https://luma.com/7bexxjvh"><strong>Luma で RSVP →</strong></a></td></tr></table>
-
-<a id="country-kh"></a>
-### カンボジア
-
-<a id="pnh-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-jt05"><img src="./assets/events/pnh-20261003-cover.png" alt="Grok Bot Meetup Phnom Penh" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Phnom Penh</strong><br />2026-10-03（土）14:00–16:00（Asia/Bangkok、GMT+7）<br />プノンペン · Smart Startup Space（Connexion Building, Koh Pich）<br /><br />カンボジア初の Grok Bot ミートアップ。デモ・アイデア交換、現地クレジット試用（ノート／スマホ可）、オンラインゲストあり。Smart Startup Space 共催。主催 Taka Kiyone & Luis Romero。無料・承認制・約80席。初心者歓迎。<br /><br /><a href="https://luma.com/spacexai-jt05"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
 <a id="country-kr"></a>
 ### 韓国

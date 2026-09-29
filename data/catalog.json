@@ -1094,6 +1094,16 @@
             "zh": "官方 SpaceXAI Grok Build 文档：安装与发布 skills/plugins/marketplaces；与 Grok Bot 市场安装共用同一打包模型。",
             "ja": "公式 SpaceXAI Grok Build ドキュメント。skills / plugins / marketplaces の導入と公開。Grok Bot の Marketplace と同じパッケージモデル。"
           }
+        },
+        {
+          "title": "Team Bots (Cursor Help)",
+          "url": "https://cursor.com/help/grok-bot/team-bots",
+          "source": "GB-1857",
+          "blurb": {
+            "en": "Official Cursor Help page for Team Bots: publish a cloud Grok Bot to your Cursor team so teammates can each open a private chat with the same shared bot.",
+            "zh": "Cursor 官方帮助：Team Bots——把云端 Grok Bot 发布到 Cursor 团队，队友各自与同一共享 Bot 开私密会话。",
+            "ja": "Cursor 公式ヘルプの Team Bots。クラウドの Grok Bot をチームに公開し、各自がその共有ボットとプライベートチャットできます。"
+          }
         }
       ]
     },
@@ -9674,6 +9684,46 @@
             "zh": "Abbelo 预览版 Cursor/Grok Bot 插件（托管 MCP + 技能）：可访问 Guides、已保存对话与习惯练习；连接前需向 Abbelo 注册 OAuth 客户端。",
             "ja": "Abbelo のプレビュー用 Cursor/Grok Bot プラグイン（ホスト型 MCP + スキル）。Guide・保存会話・習慣ワークにアクセスでき、接続前に Abbelo への OAuth クライアント登録が必要です。"
           }
+        },
+        {
+          "title": "Spoki — WhatsApp Business MCP plugin for Grok Bot",
+          "url": "https://github.com/Spoki-App/spoki-cursor-plugin",
+          "source": "GB-1851",
+          "blurb": {
+            "en": "Cursor/Grok Bot marketplace plugin with hosted Spoki MCP and a usage skill so the bot can manage WhatsApp contacts, lists, tags, templates, campaigns, tickets, and stats from chat.",
+            "zh": "面向 Cursor/Grok Bot 的 Spoki 市场插件：托管 MCP 与用法技能，可在对话里管理 WhatsApp 联系人、名单、标签、模板、活动、工单与统计。",
+            "ja": "Cursor/Grok Bot 向け Spoki マーケットプレイスプラグイン。ホスト型 MCP と利用スキルで、チャットから WhatsApp の連絡先・リスト・タグ・テンプレ・キャンペーン・チケット・統計を操作できます。"
+          }
+        },
+        {
+          "title": "ChatCut — video editing agent plugin for Grok Bot",
+          "url": "https://github.com/ChatCut-Inc/agent-plugin",
+          "source": "GB-1852",
+          "blurb": {
+            "en": "Open ChatCut agent plugins (915★) with a dedicated grok/ package of MCP skills so Grok Bot can import media, edit timelines, captions, motion graphics, and export inside ChatCut projects.",
+            "zh": "开源 ChatCut Agent 插件（915★），含专用 grok/ 技能包，让 Grok Bot 在 ChatCut 项目里导入素材、改时间线、字幕、动态图形并导出。",
+            "ja": "ChatCut のエージェントプラグイン（915★）。専用 grok/ スキル一式で、Grok Bot が ChatCut プロジェクトの素材取込・タイムライン編集・字幕・モーショングラフィックス・書き出しができます。"
+          }
+        },
+        {
+          "title": "Money Watchdog — inbox charge-hunter Grok Bot template",
+          "url": "https://github.com/Grryp-LLC/money-watchdog",
+          "source": "GB-1853",
+          "blurb": {
+            "en": "Read-only Grok Bot template kit (skills, ledger engine, poster renderer) that watches Gmail for sneaky charges, trials, and renewals and pins a MOST WANTED poster on the worst offender.",
+            "zh": "只读 Grok Bot 模板套件（技能、账本引擎、海报渲染）：盯 Gmail 里的暗扣费/试用转正/续费，并把「通缉」海报挂到最糟的那一笔上。",
+            "ja": "読み取り専用の Grok Bot テンプレート（スキル・台帳エンジン・ポスター描画）。Gmail の不正請求や試用→課金・更新を監視し、最悪の一件に MOST WANTED ポスターを貼ります。"
+          }
+        },
+        {
+          "title": "Founder Bot — day-one co-founder Grok Bot template",
+          "url": "https://github.com/Grryp-LLC/founder-bot",
+          "source": "GB-1854",
+          "blurb": {
+            "en": "Grok Bot template that interviews a founder, builds a tracked 34-item Launch Board (entity, store, marketing, books, ops), and ships a shareable weekly mission-control progress card.",
+            "zh": "Grok Bot 模板：逐问采访创始人，搭好可追踪的 34 项 Launch Board（主体、店铺、营销、账务、运营），并每周产出可分享的进度卡。",
+            "ja": "創業者にインタビューし、34 項目の Launch Board（法人・店舗・マーケ・経理・運用）を追跡しつつ、毎週共有できる進捗カードを出す Grok Bot テンプレートです。"
+          }
         }
       ]
     },
@@ -13374,6 +13424,26 @@
             "zh": "macOS 菜单栏工具：实时显示 Grok Bot（Sand）周额度，并并列 Grok、Cursor、ChatGPT/Codex、Claude 用量与磁盘占用（无需打开完整 Xcode 工程）。",
             "ja": "Mac メニューバーアプリ。Grok Bot（Sand）の週次利用枠を Grok / Cursor / ChatGPT・Codex / Claude の枠やディスク使用量と並べて表示します（Xcode プロジェクト不要）。"
           }
+        },
+        {
+          "title": "grokbot-mcp — sync MCP bridge for Grok Bot webhooks",
+          "url": "https://github.com/YunosukeYoshino/grokbot-mcp",
+          "source": "GB-1855",
+          "blurb": {
+            "en": "Cloudflare Worker that turns Grok Bot Cursor automation webhook callbacks into synchronous MCP tool results, with TypeScript tests and a Japanese README.",
+            "zh": "Cloudflare Worker：把 Grok Bot（Cursor automation）异步 webhook 回调收成同步 MCP 工具结果，含 TypeScript 测试与日文 README。",
+            "ja": "Grok Bot（Cursor automation）の非同期 webhook コールバックを同期 MCP ツール結果に変換する Cloudflare Worker。TypeScript テストと日本語 README 付き。"
+          }
+        },
+        {
+          "title": "Meeting Action Tracker — Granola→kanban Grok Bot agent",
+          "url": "https://github.com/script-repo/meeting-action-tracker",
+          "source": "GB-1856",
+          "blurb": {
+            "en": "Grok Bot agent pack that watches Granola meeting notes, extracts action items with owners/dates, dedupes them, and writes a markdown kanban (Backlog/Doing/Done).",
+            "zh": "Grok Bot agent 包：盯 Granola 会议笔记，抽出带负责人/日期的 action items，去重后写入 markdown 看板（Backlog/Doing/Done）。",
+            "ja": "Granola の議事録を監視し、担当・期限付きアクションを抽出・重複排除して markdown かんばん（Backlog/Doing/Done）に書く Grok Bot エージェント一式です。"
+          }
         }
       ]
     },
@@ -15643,6 +15713,26 @@
             "en": "Cursor forum thread: pasted/dragged chat images and file attachments fail across multiple PCs since 2026-09-26 while plain text and path-based local image reads still work.",
             "zh": "Cursor 论坛帖：自 2026-09-26 起多台电脑上粘贴/拖拽图片与附件无法发送，纯文本与按本地路径读图仍正常。",
             "ja": "Cursor フォーラムスレ。2026-09-26 以降、複数 PC でチャットへの画像貼付・ファイル添付が送れず、テキスト送信とローカルパス指定の画像読みは可能という報告です。"
+          }
+        },
+        {
+          "title": "Forum: voice calls should integrate with the chat session",
+          "url": "https://forum.cursor.com/t/grok-bot-voice-calls-should-integrate-with-the-chat-session-post-turns-three-part-summary/173241",
+          "source": "GB-1858",
+          "blurb": {
+            "en": "Feature request that Grok Bot voice-call turns and a three-part-summary land in the same chat transcript instead of a separate hang-up JSON rail.",
+            "zh": "功能请求：希望 Grok Bot 语音通话的回合与 three-part-summary 写回同一聊天记录，而不是挂断后另存一份 JSON。",
+            "ja": "機能要望。Grok Bot のボイス通話ターンと three-part-summary を、切断後の別 JSON ではなく同じチャット履歴に残してほしいという報告です。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot agent stuck in Working state",
+          "url": "https://forum.cursor.com/t/grok-bot-agent-stuck-in-working-state/173218",
+          "source": "GB-1859",
+          "blurb": {
+            "en": "Bug thread where a Chief of Staff Grok Bot stays stuck in Working and never returns a reply after ordinary chat turns.",
+            "zh": "缺陷帖：Chief of Staff 类 Grok Bot 在普通对话后卡在 Working，迟迟不回复。",
+            "ja": "不具合報告。Chief of Staff 系の Grok Bot が通常チャット後に Working のまま応答しなくなる件です。"
           }
         }
       ]
@@ -25162,6 +25252,130 @@
         "en": "First Seattle Grok Bot workshop+meetup (host shrey shah; forum 173194 / Luma b0x0mc3p = evt-2qLvibXwpI22akX). Agenda 18:00–21:00 Pacific: doors/food, hands-on Grok Bot setup, community demos/templates, networking; laptop recommended. Free; approval required; waitlist on; ~200 spots; guest_count 0 at evening scan.",
         "zh": "西雅图首场 Grok Bot 工作坊+聚会（主办 shrey shah；论坛 173194 / Luma b0x0mc3p）。太平洋时间 18:00–21:00：入场餐饮、动手搭建、社区演示与模板、社交；建议带笔记本。免费需审批，候补开启，约 200 席；晚间扫描时 guest_count 0。",
         "ja": "シアトル初の Grok Bot ワークショップ＋ミートアップ（主催 shrey shah、フォーラム 173194 / Luma b0x0mc3p）。太平洋時間 18:00–21:00：受付・飲食、ハンズオン構築、コミュニティデモ、交流。ノート PC 推奨。無料・承認制・ウェイトリストあり・約 200 席。夕方スキャン時 guest_count 0。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "tia-20261017",
+      "url": "https://luma.com/spacexai-kpc5",
+      "image": "./assets/events/tia-20261017-cover.png",
+      "expires": "2026-10-17T13:30:00+02:00",
+      "title": {
+        "en": "Grok Bot Tirana Workshop: Build Your AI Team",
+        "zh": "Grok Bot 地拉那工作坊：组建你的 AI 团队",
+        "ja": "Grok Bot ティラナ Workshop: Build Your AI Team"
+      },
+      "when": {
+        "en": "Sat 17 Oct 2026, 12:00–13:30 (Europe/Tirane / CEST, UTC+2)",
+        "zh": "2026-10-17 周六 12:00–13:30（地拉那 CEST，UTC+2）",
+        "ja": "2026-10-17（土）12:00–13:30（Europe/Tirane、CEST、UTC+2）"
+      },
+      "where": {
+        "en": "Coolab, Rruga E Dibrës Nr.65, Tiranë 1015, Albania · offline",
+        "zh": "阿尔巴尼亚地拉那 Coolab（Rruga E Dibrës Nr.65）· 线下",
+        "ja": "アルバニア・ティラナ Coolab（Rruga E Dibrës Nr.65）· オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI Tirana workshop on building an AI team with Grok Bot (hosts Dorian Kane, Dhimiter Gero; forum 173299 / Luma spacexai-kpc5). Hands-on session at Coolab; waitlist on; guest_count 1 at evening scan.",
+        "zh": "SpaceXAI 地拉那工作坊：用 Grok Bot 组建 AI 团队（主办 Dorian Kane、Dhimiter Gero；论坛 173299 / Luma spacexai-kpc5）。Coolab 动手局；候补开启；晚间扫描 guest_count 1。",
+        "ja": "SpaceXAI ティラナのワークショップ。Grok Bot で AI チームを組む（主催 Dorian Kane、Dhimiter Gero、フォーラム 173299 / Luma spacexai-kpc5）。Coolab でハンズオン。ウェイトリストあり。夕方スキャン時 guest_count 1。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "srp-20261101",
+      "url": "https://luma.com/spacexai-yvwt",
+      "image": "./assets/events/srp-20261101-cover.png",
+      "expires": "2026-11-01T18:00:00+07:00",
+      "title": {
+        "en": "Grok Bot Siem Reap Meetup",
+        "zh": "Grok Bot Meetup 暹粒",
+        "ja": "Grok Bot Meetup シェムリアップ"
+      },
+      "when": {
+        "en": "Sun 1 Nov 2026, 14:00–18:00 (Asia/Bangkok / ICT, UTC+7)",
+        "zh": "2026-11-01 周日 14:00–18:00（暹粒 / 曼谷时区 ICT，UTC+7）",
+        "ja": "2026-11-01（日）14:00–18:00（Asia/Bangkok、ICT、UTC+7）"
+      },
+      "where": {
+        "en": "The Creative House, Street Wat Po, Krong Siem Reap 17251, Cambodia · offline",
+        "zh": "柬埔寨暹粒 The Creative House（Street Wat Po）· 线下",
+        "ja": "カンボジア・シェムリアップ The Creative House（Street Wat Po）· オフライン"
+      },
+      "body": {
+        "en": "First-ever Siem Reap Grok Bot meetup (SpaceXAI Phnom Penh calendar; hosts Taka Kiyone, Luis Romero et al.; forum 173298 / Luma spacexai-yvwt). Hang out, demos, swap ideas; waitlist on; guest_count 0 at evening scan.",
+        "zh": "暹粒首场 Grok Bot 聚会（SpaceXAI 金边日历；主办 Taka Kiyone、Luis Romero 等；论坛 173298 / Luma spacexai-yvwt）。闲聊、演示、交流；候补开启；晚间扫描 guest_count 0。",
+        "ja": "シェムリアップ初の Grok Bot ミートアップ（SpaceXAI プノンペン暦、主催 Taka Kiyone / Luis Romero ほか、フォーラム 173298 / Luma spacexai-yvwt）。交流・デモ。ウェイトリストあり。夕方スキャン時 guest_count 0。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "dac-20261031",
+      "url": "https://luma.com/spacexai-qnlu",
+      "image": "./assets/events/dac-20261031-cover.png",
+      "expires": "2026-10-31T16:00:00+06:00",
+      "title": {
+        "en": "Grok Bot Dhaka Meetup",
+        "zh": "Grok Bot Meetup 达卡",
+        "ja": "Grok Bot Meetup ダッカ"
+      },
+      "when": {
+        "en": "Sat 31 Oct 2026, 14:00–16:00 (Asia/Dhaka / BST, UTC+6)",
+        "zh": "2026-10-31 周六 14:00–16:00（达卡时间 BST，UTC+6）",
+        "ja": "2026-10-31（土）14:00–16:00（Asia/Dhaka、BST、UTC+6）"
+      },
+      "where": {
+        "en": "Dhaka, Bangladesh · venue details on Luma (geo obfuscated until register) · offline",
+        "zh": "孟加拉国达卡 · 场地见 Luma（报名前地址脱敏）· 线下",
+        "ja": "バングラデシュ・ダッカ · 会場は Luma（登録前は位置ぼかし）· オフライン"
+      },
+      "body": {
+        "en": "Hands-on Grok Bot coworking meetup in Dhaka (host Mahinoor Rahman; forum 173297 / Luma spacexai-qnlu). Explore ideas, build projects, learn together; waitlist off; guest_count 0 at evening scan.",
+        "zh": "达卡 Grok Bot 动手共建局（主办 Mahinoor Rahman；论坛 173297 / Luma spacexai-qnlu）。一起探索想法、做项目、学习；无候补；晚间扫描 guest_count 0。",
+        "ja": "ダッカのハンズオン Grok Bot コワーキング（主催 Mahinoor Rahman、フォーラム 173297 / Luma spacexai-qnlu）。アイデア探索・制作・学習。ウェイトリストなし。夕方スキャン時 guest_count 0。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "yyc-20261028",
+      "url": "https://luma.com/i9grzzp3",
+      "image": "./assets/events/yyc-20261028-cover.png",
+      "expires": "2026-10-28T20:30:00-06:00",
+      "title": {
+        "en": "Grok Bot Calgary Meetup, October",
+        "zh": "Grok Bot Meetup 卡尔加里（10 月）",
+        "ja": "Grok Bot Meetup カルガリー（10月）"
+      },
+      "when": {
+        "en": "Wed 28 Oct 2026, 17:30–20:30 (America/Edmonton / MDT, UTC−6)",
+        "zh": "2026-10-28 周三 17:30–20:30（卡尔加里 MDT，UTC−6）",
+        "ja": "2026-10-28（水）17:30–20:30（America/Edmonton、MDT、UTC−6）"
+      },
+      "where": {
+        "en": "Calgary, AB · venue TBD (shown on Luma) · offline",
+        "zh": "加拿大卡尔加里 · 场地待定（见 Luma）· 线下",
+        "ja": "カナダ・カルガリー · 会場 TBD（Luma に表示）· オフライン"
+      },
+      "body": {
+        "en": "Calgary’s monthly Grok Bot Meetup (hosts Simon Loewen, Jia Ming Huang; forum 173296 / Luma i9grzzp3). Agenda 17:30–20:30 Mountain: doors, build, demos, networking; bring a laptop; waitlist on; guest_count 1 at evening scan.",
+        "zh": "卡尔加里月度 Grok Bot Meetup（主办 Simon Loewen、Jia Ming Huang；论坛 173296 / Luma i9grzzp3）。山地时间 17:30–20:30：入场、动手、演示、社交；自带笔记本；候补开启；晚间扫描 guest_count 1。",
+        "ja": "カルガリー月次 Grok Bot Meetup（主催 Simon Loewen、Jia Ming Huang、フォーラム 173296 / Luma i9grzzp3）。山地時間 17:30–20:30：受付・ビルド・デモ・交流。ノート PC 持参。ウェイトリストあり。夕方スキャン時 guest_count 1。"
       },
       "cta": {
         "en": "Register on Luma",

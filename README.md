@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1826-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1835-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -40,17 +40,20 @@
 - **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261007)
 - **United States**（17）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Philadelphia](./EVENTS.md#phl-20260929) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Washington, DC](./EVENTS.md#was-20260929) · [Pasadena](./EVENTS.md#pas-20261008) · [Ithaca](./EVENTS.md#ith-20260929) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012)
 - **Brazil**（5）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Curitiba](./EVENTS.md#cwb-20260929) · [Salvador](./EVENTS.md#ssa-20261008) · [Florianópolis](./EVENTS.md#fln-20261016)
-- **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
+- **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010) · [Calgary](./EVENTS.md#yyc-20261028)
 - **Germany**（4）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261023) · [Frankfurt](./EVENTS.md#fra-20261120)
 - **Spain**（4）：[Barcelona](./EVENTS.md#bcn-20260929) · [Madrid](./EVENTS.md#mad-20260929) · [Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
 - **Indonesia**（4）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003) · [Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
 - **Guatemala**（2）：[Guatemala City](./EVENTS.md#gua-20261003) · [Guatemala](./EVENTS.md#gua-20261205)
 - **Italy**（2）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022)
 - **Japan**（2）：[Sapporo](./EVENTS.md#spk-20261002) · [Tokyo](./EVENTS.md#tyo-20261011)
+- **Cambodia**（2）：[Phnom Penh](./EVENTS.md#pnh-20261003) · [Siem Reap](./EVENTS.md#srp-20261101)
 - **Kazakhstan**（2）：[Astana](./EVENTS.md#nqz-20261002) · [Almaty](./EVENTS.md#ala-20261004)
 - **Mexico**（2）：[Monterrey](./EVENTS.md#mty-20261003) · [Villahermosa](./EVENTS.md#vhs-20261001)
+- **Albania**（1）：[Tirana](./EVENTS.md#tia-20261017)
 - **Argentina**（1）：[Mendoza](./EVENTS.md#mdz-20261003)
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
+- **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20261031)
 - **Benin**（1）：[Cotonou](./EVENTS.md#coo-20261003)
 - **Côte d'Ivoire**（1）：[Abidjan](./EVENTS.md#abj-20261107)
 - **Colombia**（1）：[Pereira](./EVENTS.md#pei-20261002)
@@ -59,7 +62,6 @@
 - **Greece**（1）：[Athens](./EVENTS.md#ath-20261001)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
 - **Kyrgyzstan**（1）：[Bishkek](./EVENTS.md#fru-20261001)
-- **Cambodia**（1）：[Phnom Penh](./EVENTS.md#pnh-20261003)
 - **South Korea**（1）：[Seoul](./EVENTS.md#sel-20261027)
 - **Sri Lanka**（1）：[Colombo](./EVENTS.md#cmb-20261017)
 - **Nicaragua**（1）：[Managua](./EVENTS.md#mga-20261003)
@@ -196,6 +198,7 @@
 - [Manage Grok Bot computers (docs.x.ai)](https://docs.x.ai/grok-bot/computers) - Official SpaceXAI docs (Enterprise org admins only): bulk Recreate or Terminate member Grok Bot computers from the Cursor dashboard—durable disk kept; Team admin rights are not enough because one computer spans every team the member belongs to.
 - [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - Official SpaceXAI docs for Grok Bot behind TLS-inspecting gateways (e.g. Zscaler): allow nested *.*.cursorvm.com, exempt those domains from SSL inspection and response buffering, and verify computer setup when chat still works but the cloud computer never connects.
 - [Skills, Plugins & Marketplaces (Grok Build docs)](https://docs.x.ai/build/features/skills-plugins-marketplaces) - Official SpaceXAI Grok Build docs for installing and publishing skills, plugins, and marketplaces—the same packaging model Grok Bot uses for Marketplace installs.
+- [Team Bots (Cursor Help)](https://cursor.com/help/grok-bot/team-bots) - Official Cursor Help page for Team Bots: publish a cloud Grok Bot to your Cursor team so teammates can each open a private chat with the same shared bot.
 
 ## Tutorials & Guides
 
@@ -1060,6 +1063,10 @@
 - [Kalshi MCP — read-only prediction-market plugin for Grok Bot](https://github.com/akashnaren/kalshi-mcp) - Cursor/Grok Bot plugin with stdio MCP, skills, and a Finance Engineer harness so the bot can read Kalshi cash, positions, and markets (safe mode on by default; order tools need explicit confirm).
 - [Davia Creation — hosted MCP plugin for Grok Bot game drafts](https://github.com/davialabs/davia-creation-plugin) - Cursor Marketplace–ready plugin with a hosted MCP connection and usage skill so Grok Bot can build and revise characters, places, and rules in private Davia game drafts.
 - [Abbelo — Guides/skills MCP preview plugin for Grok Bot](https://github.com/abbeloapp/abbelo-plugin) - Preview Cursor/Grok Bot plugin (hosted MCP + skill) that surfaces Abbelo Guides, saved conversations, and habit work; OAuth client registration with Abbelo is required before connect.
+- [Spoki — WhatsApp Business MCP plugin for Grok Bot](https://github.com/Spoki-App/spoki-cursor-plugin) - Cursor/Grok Bot marketplace plugin with hosted Spoki MCP and a usage skill so the bot can manage WhatsApp contacts, lists, tags, templates, campaigns, tickets, and stats from chat.
+- [ChatCut — video editing agent plugin for Grok Bot](https://github.com/ChatCut-Inc/agent-plugin) - Open ChatCut agent plugins (915★) with a dedicated grok/ package of MCP skills so Grok Bot can import media, edit timelines, captions, motion graphics, and export inside ChatCut projects.
+- [Money Watchdog — inbox charge-hunter Grok Bot template](https://github.com/Grryp-LLC/money-watchdog) - Read-only Grok Bot template kit (skills, ledger engine, poster renderer) that watches Gmail for sneaky charges, trials, and renewals and pins a MOST WANTED poster on the worst offender.
+- [Founder Bot — day-one co-founder Grok Bot template](https://github.com/Grryp-LLC/founder-bot) - Grok Bot template that interviews a founder, builds a tracked 34-item Launch Board (entity, store, marketing, books, ops), and ships a shareable weekly mission-control progress card.
 
 ## Reviews & Comparisons
 
@@ -1434,6 +1441,8 @@
 - [Judgment Day Tracker — Grok Bot news-monitor playbook](https://github.com/memelord420p/judgement-day-tracker) - Public Grok Bot playbook (profile, daily-scan skill, routines, X posting) that monitors tech news, drafts tracker patches, and keeps a Judgment Day progress site updated with approval gates.
 - [Physique Team — hub-and-specialist Grok Bot recomposition pack](https://github.com/EERamos/physique-team) - Open hub-and-specialist Grok Bot layout (personas, SOP, knowledge) for evidence-based body recomposition spanning training, load/recovery, nutrition, evidence, and labs prep.
 - [QuotaBar — Mac menu bar usage for Grok Bot and friends](https://github.com/Simon66-workshop/QuotaBar) - Mac menu-bar app that shows live Grok Bot (Sand) weekly usage alongside Grok, Cursor, ChatGPT/Codex, and Claude quotas, plus disk use, without needing the full Xcode project.
+- [grokbot-mcp — sync MCP bridge for Grok Bot webhooks](https://github.com/YunosukeYoshino/grokbot-mcp) - Cloudflare Worker that turns Grok Bot Cursor automation webhook callbacks into synchronous MCP tool results, with TypeScript tests and a Japanese README.
+- [Meeting Action Tracker — Granola→kanban Grok Bot agent](https://github.com/script-repo/meeting-action-tracker) - Grok Bot agent pack that watches Granola meeting notes, extracts action items with owners/dates, dedupes them, and writes a markdown kanban (Backlog/Doing/Done).
 
 ## Community & Failure Modes
 
@@ -1663,6 +1672,8 @@
 - [Forum: Can’t reach computer for 7 days after update (Recover/Reset fail)](https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-for-7-days-since-update-recover-and-reset-failed-partial-state/173136) - Week-long “Can’t reach your computer” after a Grok Bot update where Recover and Reset leave bots in a partial unreachable state.
 - [Forum: Grok Bot cache bug burning quota after 2026-09-24](https://forum.cursor.com/t/grok-bot-cache-bug-burning-quota/173201) - Cursor forum bug report claiming grok-bot-default cache stops surviving 5–60 minute gaps after 2026-09-24 06:03 UTC, driving roughly 12× quota for the same traffic.
 - [Forum: Grok Bot chat image/file attachments fail to send](https://forum.cursor.com/t/grok-bot-chat-image-file-attachments-fail-to-send-3-pcs-since-2026-09-26-text-ok/173187) - Cursor forum thread: pasted/dragged chat images and file attachments fail across multiple PCs since 2026-09-26 while plain text and path-based local image reads still work.
+- [Forum: voice calls should integrate with the chat session](https://forum.cursor.com/t/grok-bot-voice-calls-should-integrate-with-the-chat-session-post-turns-three-part-summary/173241) - Feature request that Grok Bot voice-call turns and a three-part-summary land in the same chat transcript instead of a separate hang-up JSON rail.
+- [Forum: Grok Bot agent stuck in Working state](https://forum.cursor.com/t/grok-bot-agent-stuck-in-working-state/173218) - Bug thread where a Chief of Staff Grok Bot stays stuck in Working and never returns a reply after ordinary chat turns.
 
 ## Related Lists
 
@@ -1938,7 +1949,7 @@
 
 ## Contributing
 
-1826 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1835 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

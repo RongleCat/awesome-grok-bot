@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1826-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1835-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -40,17 +40,20 @@
 - **中国**（3）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017) · [マカオ](./EVENTS.ja.md#mo-20261007)
 - **アメリカ**（17）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [オースティン](./EVENTS.ja.md#aus-20261004) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [ワシントンDC](./EVENTS.ja.md#was-20261007) · [ワシントンDC](./EVENTS.ja.md#was-20260929) · [パサデナ](./EVENTS.ja.md#pas-20261008) · [イサカ](./EVENTS.ja.md#ith-20260929) · [アトランタ](./EVENTS.ja.md#atl-20261016) · [シアトル](./EVENTS.ja.md#sea-20261012)
 - **ブラジル**（5）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [クリチバ](./EVENTS.ja.md#cwb-20260929) · [サルバドール](./EVENTS.ja.md#ssa-20261008) · [フロリアノポリス](./EVENTS.ja.md#fln-20261016)
-- **カナダ**（4）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [モントリオール](./EVENTS.ja.md#yul-20260926) · [トロント](./EVENTS.ja.md#yyz-20261026) · [オタワ](./EVENTS.ja.md#yow-20261010)
+- **カナダ**（5）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [モントリオール](./EVENTS.ja.md#yul-20260926) · [トロント](./EVENTS.ja.md#yyz-20261026) · [オタワ](./EVENTS.ja.md#yow-20261010) · [カルガリー](./EVENTS.ja.md#yyc-20261028)
 - **ドイツ**（4）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015) · [フランクフルト](./EVENTS.ja.md#fra-20261023) · [フランクフルト](./EVENTS.ja.md#fra-20261120)
 - **スペイン**（4）：[バルセロナ](./EVENTS.ja.md#bcn-20260929) · [マドリード](./EVENTS.ja.md#mad-20260929) · [アリカンテ](./EVENTS.ja.md#alc-20261107) · [ビルバオ](./EVENTS.ja.md#bil-20261019)
 - **インドネシア**（4）：[ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [ジャカルタ](./EVENTS.ja.md#jkt-20261003) · [ジャカルタ](./EVENTS.ja.md#jkt-20261107) · [チャングー / バリ](./EVENTS.ja.md#bli-20261025)
 - **グアテマラ**（2）：[グアテマラシティ](./EVENTS.ja.md#gua-20261003) · [グアテマラ](./EVENTS.ja.md#gua-20261205)
 - **イタリア**（2）：[ローマ](./EVENTS.ja.md#rom-20261023) · [トレヴィーゾ](./EVENTS.ja.md#tvs-20261022)
 - **日本**（2）：[札幌](./EVENTS.ja.md#spk-20261002) · [東京](./EVENTS.ja.md#tyo-20261011)
+- **カンボジア**（2）：[プノンペン](./EVENTS.ja.md#pnh-20261003) · [シェムリアップ](./EVENTS.ja.md#srp-20261101)
 - **カザフスタン**（2）：[アスタナ](./EVENTS.ja.md#nqz-20261002) · [アルマトイ](./EVENTS.ja.md#ala-20261004)
 - **メキシコ**（2）：[モンテレイ](./EVENTS.ja.md#mty-20261003) · [ビヤエルモサ](./EVENTS.ja.md#vhs-20261001)
+- **アルバニア**（1）：[ティラナ](./EVENTS.ja.md#tia-20261017)
 - **アルゼンチン**（1）：[メンドサ](./EVENTS.ja.md#mdz-20261003)
 - **オーストラリア**（1）：[シドニー](./EVENTS.ja.md#syd-20261007)
+- **バングラデシュ**（1）：[ダッカ](./EVENTS.ja.md#dac-20261031)
 - **ベナン**（1）：[コトヌー](./EVENTS.ja.md#coo-20261003)
 - **コートジボワール**（1）：[アビジャン](./EVENTS.ja.md#abj-20261107)
 - **コロンビア**（1）：[ペレイラ](./EVENTS.ja.md#pei-20261002)
@@ -59,7 +62,6 @@
 - **ギリシャ**（1）：[アテネ](./EVENTS.ja.md#ath-20261001)
 - **アイルランド**（1）：[ダブリン](./EVENTS.ja.md#dub-20261004)
 - **キルギス**（1）：[ビシュケク](./EVENTS.ja.md#fru-20261001)
-- **カンボジア**（1）：[プノンペン](./EVENTS.ja.md#pnh-20261003)
 - **韓国**（1）：[ソウル](./EVENTS.ja.md#sel-20261027)
 - **スリランカ**（1）：[コロンボ](./EVENTS.ja.md#cmb-20261017)
 - **ニカラグア**（1）：[マナグア](./EVENTS.ja.md#mga-20261003)
@@ -196,6 +198,7 @@
 - [Manage Grok Bot computers (docs.x.ai)](https://docs.x.ai/grok-bot/computers) - 公式 SpaceXAI ドキュメント（Enterprise 組織管理者のみ）：ダッシュボードでメンバーの Grok Bot コンピュータを一括 Recreate/Terminate。永続ディスクは保持。1台が所属全チームにまたがるため Team 管理者権限では不足。
 - [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - 公式 SpaceXAI ドキュメント。TLS 検査ゲートウェイ（例: Zscaler）配下の Grok Bot 向けに入れ子 *.*.cursorvm.com を許可し、SSL 検査と応答バッファを除外。チャットは動くがクラウド PC が繋がらないときの確認手順。
 - [Skills, Plugins & Marketplaces (Grok Build docs)](https://docs.x.ai/build/features/skills-plugins-marketplaces) - 公式 SpaceXAI Grok Build ドキュメント。skills / plugins / marketplaces の導入と公開。Grok Bot の Marketplace と同じパッケージモデル。
+- [Team Bots (Cursor Help)](https://cursor.com/help/grok-bot/team-bots) - Cursor 公式ヘルプの Team Bots。クラウドの Grok Bot をチームに公開し、各自がその共有ボットとプライベートチャットできます。
 
 ## チュートリアルとガイド
 
@@ -1060,6 +1063,10 @@
 - [Kalshi MCP — read-only prediction-market plugin for Grok Bot](https://github.com/akashnaren/kalshi-mcp) - Cursor/Grok Bot 向け Kalshi プラグイン。stdio MCP・スキル・Finance Engineer ハーネスで残高・ポジション・市場を読み取り（セーフモード既定。注文は明示確認が必要）。
 - [Davia Creation — hosted MCP plugin for Grok Bot game drafts](https://github.com/davialabs/davia-creation-plugin) - Cursor Marketplace 向け Davia プラグイン。ホスト型 MCP と利用スキルで、Grok Bot が非公開の Davia ゲーム草稿のキャラ・場所・ルールを作成・改訂できます。
 - [Abbelo — Guides/skills MCP preview plugin for Grok Bot](https://github.com/abbeloapp/abbelo-plugin) - Abbelo のプレビュー用 Cursor/Grok Bot プラグイン（ホスト型 MCP + スキル）。Guide・保存会話・習慣ワークにアクセスでき、接続前に Abbelo への OAuth クライアント登録が必要です。
+- [Spoki — WhatsApp Business MCP plugin for Grok Bot](https://github.com/Spoki-App/spoki-cursor-plugin) - Cursor/Grok Bot 向け Spoki マーケットプレイスプラグイン。ホスト型 MCP と利用スキルで、チャットから WhatsApp の連絡先・リスト・タグ・テンプレ・キャンペーン・チケット・統計を操作できます。
+- [ChatCut — video editing agent plugin for Grok Bot](https://github.com/ChatCut-Inc/agent-plugin) - ChatCut のエージェントプラグイン（915★）。専用 grok/ スキル一式で、Grok Bot が ChatCut プロジェクトの素材取込・タイムライン編集・字幕・モーショングラフィックス・書き出しができます。
+- [Money Watchdog — inbox charge-hunter Grok Bot template](https://github.com/Grryp-LLC/money-watchdog) - 読み取り専用の Grok Bot テンプレート（スキル・台帳エンジン・ポスター描画）。Gmail の不正請求や試用→課金・更新を監視し、最悪の一件に MOST WANTED ポスターを貼ります。
+- [Founder Bot — day-one co-founder Grok Bot template](https://github.com/Grryp-LLC/founder-bot) - 創業者にインタビューし、34 項目の Launch Board（法人・店舗・マーケ・経理・運用）を追跡しつつ、毎週共有できる進捗カードを出す Grok Bot テンプレートです。
 
 ## レビューと比較
 
@@ -1434,6 +1441,8 @@
 - [Judgment Day Tracker — Grok Bot news-monitor playbook](https://github.com/memelord420p/judgement-day-tracker) - 公開の Grok Bot プレイブック（プロフィール、日次スキャンスキル、ルーチン、X 投稿）。テックニュースを監視しトラッカー用パッチを起草し、承認後に Judgment Day 進捗サイトを更新します。
 - [Physique Team — hub-and-specialist Grok Bot recomposition pack](https://github.com/EERamos/physique-team) - 根拠に基づくボディ再構成向けの Grok Bot ハブ＋専門家レイアウト（ペルソナ、SOP、知識）。トレーニング、負荷/回復、栄養、エビデンス、検査準備を扱います。
 - [QuotaBar — Mac menu bar usage for Grok Bot and friends](https://github.com/Simon66-workshop/QuotaBar) - Mac メニューバーアプリ。Grok Bot（Sand）の週次利用枠を Grok / Cursor / ChatGPT・Codex / Claude の枠やディスク使用量と並べて表示します（Xcode プロジェクト不要）。
+- [grokbot-mcp — sync MCP bridge for Grok Bot webhooks](https://github.com/YunosukeYoshino/grokbot-mcp) - Grok Bot（Cursor automation）の非同期 webhook コールバックを同期 MCP ツール結果に変換する Cloudflare Worker。TypeScript テストと日本語 README 付き。
+- [Meeting Action Tracker — Granola→kanban Grok Bot agent](https://github.com/script-repo/meeting-action-tracker) - Granola の議事録を監視し、担当・期限付きアクションを抽出・重複排除して markdown かんばん（Backlog/Doing/Done）に書く Grok Bot エージェント一式です。
 
 ## コミュニティと障害事例
 
@@ -1663,6 +1672,8 @@
 - [Forum: Can’t reach computer for 7 days after update (Recover/Reset fail)](https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-for-7-days-since-update-recover-and-reset-failed-partial-state/173136) - アップデート後約1週間「コンピュータに接続できない」状態が続き、Recover/Reset でも部分的に到達不能のままという報告。
 - [Forum: Grok Bot cache bug burning quota after 2026-09-24](https://forum.cursor.com/t/grok-bot-cache-bug-burning-quota/173201) - Cursor フォーラムの不具合報告。2026-09-24 06:03 UTC 以降、grok-bot-default のキャッシュが 5〜60 分の間隔を越えず、同トラフィックで枠が約 12 倍になるという内容です。
 - [Forum: Grok Bot chat image/file attachments fail to send](https://forum.cursor.com/t/grok-bot-chat-image-file-attachments-fail-to-send-3-pcs-since-2026-09-26-text-ok/173187) - Cursor フォーラムスレ。2026-09-26 以降、複数 PC でチャットへの画像貼付・ファイル添付が送れず、テキスト送信とローカルパス指定の画像読みは可能という報告です。
+- [Forum: voice calls should integrate with the chat session](https://forum.cursor.com/t/grok-bot-voice-calls-should-integrate-with-the-chat-session-post-turns-three-part-summary/173241) - 機能要望。Grok Bot のボイス通話ターンと three-part-summary を、切断後の別 JSON ではなく同じチャット履歴に残してほしいという報告です。
+- [Forum: Grok Bot agent stuck in Working state](https://forum.cursor.com/t/grok-bot-agent-stuck-in-working-state/173218) - 不具合報告。Chief of Staff 系の Grok Bot が通常チャット後に Working のまま応答しなくなる件です。
 
 ## 関連リスト
 
@@ -1938,7 +1949,7 @@
 
 ## 貢献
 
-8 セクションに 1826 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1835 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

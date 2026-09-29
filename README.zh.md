@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1826-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1835-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -40,17 +40,20 @@
 - **中国**（3）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [澳门](./EVENTS.zh.md#mo-20261007)
 - **美国**（17）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [费城](./EVENTS.zh.md#phl-20260929) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007) · [华盛顿特区](./EVENTS.zh.md#was-20260929) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [伊萨卡](./EVENTS.zh.md#ith-20260929) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012)
 - **巴西**（5）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [库里蒂巴](./EVENTS.zh.md#cwb-20260929) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20261016)
-- **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
+- **加拿大**（5）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010) · [卡尔加里](./EVENTS.zh.md#yyc-20261028)
 - **德国**（4）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20261023) · [法兰克福](./EVENTS.zh.md#fra-20261120)
 - **西班牙**（4）：[巴塞罗那](./EVENTS.zh.md#bcn-20260929) · [马德里](./EVENTS.zh.md#mad-20260929) · [阿利坎特](./EVENTS.zh.md#alc-20261107) · [毕尔巴鄂](./EVENTS.zh.md#bil-20261019)
 - **印度尼西亚**（4）：[巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [雅加达](./EVENTS.zh.md#jkt-20261003) · [雅加达](./EVENTS.zh.md#jkt-20261107) · [巴厘岛Canggu](./EVENTS.zh.md#bli-20261025)
 - **危地马拉**（2）：[危地马拉城](./EVENTS.zh.md#gua-20261003) · [危地马拉](./EVENTS.zh.md#gua-20261205)
 - **意大利**（2）：[罗马](./EVENTS.zh.md#rom-20261023) · [特雷维索](./EVENTS.zh.md#tvs-20261022)
 - **日本**（2）：[札幌](./EVENTS.zh.md#spk-20261002) · [东京](./EVENTS.zh.md#tyo-20261011)
+- **柬埔寨**（2）：[金边](./EVENTS.zh.md#pnh-20261003) · [暹粒](./EVENTS.zh.md#srp-20261101)
 - **哈萨克斯坦**（2）：[阿斯塔纳](./EVENTS.zh.md#nqz-20261002) · [阿拉木图](./EVENTS.zh.md#ala-20261004)
 - **墨西哥**（2）：[蒙特雷](./EVENTS.zh.md#mty-20261003) · [比亚埃尔莫萨](./EVENTS.zh.md#vhs-20261001)
+- **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20261017)
 - **阿根廷**（1）：[门多萨](./EVENTS.zh.md#mdz-20261003)
 - **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
+- **孟加拉国**（1）：[达卡](./EVENTS.zh.md#dac-20261031)
 - **贝宁**（1）：[科托努](./EVENTS.zh.md#coo-20261003)
 - **科特迪瓦**（1）：[阿比让](./EVENTS.zh.md#abj-20261107)
 - **哥伦比亚**（1）：[佩雷拉](./EVENTS.zh.md#pei-20261002)
@@ -59,7 +62,6 @@
 - **希腊**（1）：[雅典](./EVENTS.zh.md#ath-20261001)
 - **爱尔兰**（1）：[都柏林](./EVENTS.zh.md#dub-20261004)
 - **吉尔吉斯斯坦**（1）：[比什凯克](./EVENTS.zh.md#fru-20261001)
-- **柬埔寨**（1）：[金边](./EVENTS.zh.md#pnh-20261003)
 - **韩国**（1）：[首尔](./EVENTS.zh.md#sel-20261027)
 - **斯里兰卡**（1）：[科伦坡](./EVENTS.zh.md#cmb-20261017)
 - **尼加拉瓜**（1）：[马那瓜](./EVENTS.zh.md#mga-20261003)
@@ -196,6 +198,7 @@
 - [Manage Grok Bot computers (docs.x.ai)](https://docs.x.ai/grok-bot/computers) - 官方 SpaceXAI 文档（仅 Enterprise 组织管理员）：在 Cursor 仪表盘批量 Recreate/Terminate 成员的 Grok Bot 电脑——持久盘保留；Team 管理员不够，因为一台电脑跨该成员所属全部团队。.
 - [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - 官方 SpaceXAI 文档：企业 TLS 解密网关（如 Zscaler）下配置 Grok Bot——放行嵌套 *.*.cursorvm.com，关闭 SSL 解密与响应缓冲；用于聊天仍可用但云电脑一直连不上时的排查。.
 - [Skills, Plugins & Marketplaces (Grok Build docs)](https://docs.x.ai/build/features/skills-plugins-marketplaces) - 官方 SpaceXAI Grok Build 文档：安装与发布 skills/plugins/marketplaces；与 Grok Bot 市场安装共用同一打包模型。.
+- [Team Bots (Cursor Help)](https://cursor.com/help/grok-bot/team-bots) - Cursor 官方帮助：Team Bots——把云端 Grok Bot 发布到 Cursor 团队，队友各自与同一共享 Bot 开私密会话。.
 
 ## 教程与上手指南
 
@@ -1060,6 +1063,10 @@
 - [Kalshi MCP — read-only prediction-market plugin for Grok Bot](https://github.com/akashnaren/kalshi-mcp) - 面向 Cursor/Grok Bot 的 Kalshi 插件：stdio MCP、技能与 Finance Engineer 套件，默认可读余额/持仓/市场（安全模式默认开启；下单工具需显式确认）。.
 - [Davia Creation — hosted MCP plugin for Grok Bot game drafts](https://github.com/davialabs/davia-creation-plugin) - 面向 Cursor 市场的 Davia 插件：托管 MCP 与用法技能，让 Grok Bot 在私有 Davia 游戏草稿里创建与修订角色、地点与规则。.
 - [Abbelo — Guides/skills MCP preview plugin for Grok Bot](https://github.com/abbeloapp/abbelo-plugin) - Abbelo 预览版 Cursor/Grok Bot 插件（托管 MCP + 技能）：可访问 Guides、已保存对话与习惯练习；连接前需向 Abbelo 注册 OAuth 客户端。.
+- [Spoki — WhatsApp Business MCP plugin for Grok Bot](https://github.com/Spoki-App/spoki-cursor-plugin) - 面向 Cursor/Grok Bot 的 Spoki 市场插件：托管 MCP 与用法技能，可在对话里管理 WhatsApp 联系人、名单、标签、模板、活动、工单与统计。.
+- [ChatCut — video editing agent plugin for Grok Bot](https://github.com/ChatCut-Inc/agent-plugin) - 开源 ChatCut Agent 插件（915★），含专用 grok/ 技能包，让 Grok Bot 在 ChatCut 项目里导入素材、改时间线、字幕、动态图形并导出。.
+- [Money Watchdog — inbox charge-hunter Grok Bot template](https://github.com/Grryp-LLC/money-watchdog) - 只读 Grok Bot 模板套件（技能、账本引擎、海报渲染）：盯 Gmail 里的暗扣费/试用转正/续费，并把「通缉」海报挂到最糟的那一笔上。.
+- [Founder Bot — day-one co-founder Grok Bot template](https://github.com/Grryp-LLC/founder-bot) - Grok Bot 模板：逐问采访创始人，搭好可追踪的 34 项 Launch Board（主体、店铺、营销、账务、运营），并每周产出可分享的进度卡。.
 
 ## 评测与对比
 
@@ -1434,6 +1441,8 @@
 - [Judgment Day Tracker — Grok Bot news-monitor playbook](https://github.com/memelord420p/judgement-day-tracker) - 公开 Grok Bot 玩法包（人设、每日扫描技能、例行任务、X 发帖）：监控科技新闻、起草进度补丁，并在审批后更新 Judgment Day 追踪站。.
 - [Physique Team — hub-and-specialist Grok Bot recomposition pack](https://github.com/EERamos/physique-team) - 开源的 Grok Bot 中枢+专家布局（人设、SOP、知识库），覆盖循证身体重组：训练、负荷/恢复、营养、证据检索与体检准备。.
 - [QuotaBar — Mac menu bar usage for Grok Bot and friends](https://github.com/Simon66-workshop/QuotaBar) - macOS 菜单栏工具：实时显示 Grok Bot（Sand）周额度，并并列 Grok、Cursor、ChatGPT/Codex、Claude 用量与磁盘占用（无需打开完整 Xcode 工程）。.
+- [grokbot-mcp — sync MCP bridge for Grok Bot webhooks](https://github.com/YunosukeYoshino/grokbot-mcp) - Cloudflare Worker：把 Grok Bot（Cursor automation）异步 webhook 回调收成同步 MCP 工具结果，含 TypeScript 测试与日文 README。.
+- [Meeting Action Tracker — Granola→kanban Grok Bot agent](https://github.com/script-repo/meeting-action-tracker) - Grok Bot agent 包：盯 Granola 会议笔记，抽出带负责人/日期的 action items，去重后写入 markdown 看板（Backlog/Doing/Done）。.
 
 ## 社区与故障现场
 
@@ -1663,6 +1672,8 @@
 - [Forum: Can’t reach computer for 7 days after update (Recover/Reset fail)](https://forum.cursor.com/t/grok-bot-cant-reach-your-computer-for-7-days-since-update-recover-and-reset-failed-partial-state/173136) - 更新后连续约一周 “无法连接电脑”，Recover/Reset 后仍处半残不可达状态的社区报告。.
 - [Forum: Grok Bot cache bug burning quota after 2026-09-24](https://forum.cursor.com/t/grok-bot-cache-bug-burning-quota/173201) - Cursor 论坛报告：自 2026-09-24 06:03 UTC 起 grok-bot-default 缓存无法跨过约 5–60 分钟空档，同等流量额度约增至 12 倍。.
 - [Forum: Grok Bot chat image/file attachments fail to send](https://forum.cursor.com/t/grok-bot-chat-image-file-attachments-fail-to-send-3-pcs-since-2026-09-26-text-ok/173187) - Cursor 论坛帖：自 2026-09-26 起多台电脑上粘贴/拖拽图片与附件无法发送，纯文本与按本地路径读图仍正常。.
+- [Forum: voice calls should integrate with the chat session](https://forum.cursor.com/t/grok-bot-voice-calls-should-integrate-with-the-chat-session-post-turns-three-part-summary/173241) - 功能请求：希望 Grok Bot 语音通话的回合与 three-part-summary 写回同一聊天记录，而不是挂断后另存一份 JSON。.
+- [Forum: Grok Bot agent stuck in Working state](https://forum.cursor.com/t/grok-bot-agent-stuck-in-working-state/173218) - 缺陷帖：Chief of Staff 类 Grok Bot 在普通对话后卡在 Working，迟迟不回复。.
 
 ## 相关列表
 
@@ -1938,7 +1949,7 @@
 
 ## 贡献
 
-目前 8 个分类、1826 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1835 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
