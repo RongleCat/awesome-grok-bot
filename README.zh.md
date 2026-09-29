@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1816-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1826-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（3）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [澳门](./EVENTS.zh.md#mo-20261007)
-- **美国**（18）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [费城](./EVENTS.zh.md#phl-20260929) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007) · [华盛顿特区](./EVENTS.zh.md#was-20260929) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [洛杉矶](./EVENTS.zh.md#lax-20260928) · [伊萨卡](./EVENTS.zh.md#ith-20260929) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012)
+- **美国**（17）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [费城](./EVENTS.zh.md#phl-20260929) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007) · [华盛顿特区](./EVENTS.zh.md#was-20260929) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [伊萨卡](./EVENTS.zh.md#ith-20260929) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012)
 - **巴西**（5）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [库里蒂巴](./EVENTS.zh.md#cwb-20260929) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20261016)
 - **加拿大**（4）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010)
 - **德国**（4）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20261023) · [法兰克福](./EVENTS.zh.md#fra-20261120)
@@ -472,6 +472,11 @@
 
 ## 技能、插件与 MCP
 
+- [Car Chaser — skills for the Car Chaser Grok Bot template](https://github.com/function1st/grok-bot-car-chaser) - Car Chaser Grok Bot 模板的两套可安装技能（上手规则与看车图片过滤）；因模板导入目前会丢掉技能，故由仓库自行安装。.
+- [Schoolyland — WordPress course-business MCP plugin for Grok Bot](https://github.com/schoolyland/cursor-plugin) - Schoolyland 的 Cursor/Grok Bot 插件：连接托管 MCP，经 OAuth 管理 WordPress 课程站（Elementor、WooCommerce、LearnDash、FluentCRM）。.
+- [Refine — academic proofreading MCP plugin for Grok Bot](https://github.com/0mm-mark/refined) - 面向 Grok Bot/Cursor 的 Refine.ink 学术校对连接器：托管 MCP（OAuth 或 API key）与 refine-review 技能，可在对话中发起论文审阅。.
+- [ForeclosureOPS — foreclosure search MCP plugin for Grok Bot](https://github.com/ankouny/foreclosureops-plugin) - ForeclosureOPS 官方 Cursor/Grok Bot 插件：通过只读托管 MCP 搜索法拍房产、查看物业卷宗并发现即将举行的拍卖。.
+- [Discord Grok Bot — Discord MCP connector plugin](https://github.com/stevederico/discord-grok-bot-oss) - MIT 插件：为 Grok Bot（及 Grok Build CLI）提供 Discord MCP 工具与技能，可列出服务器、读/搜索频道，并可选通过 Gateway 回复 @提及。.
 - [Warm Dark — Grok Bot fleet report-card skill](https://github.com/testusercar/warm-dark) - 开源技能与 Python 渲染器：把 Grok Bot 舰队 JSON 清单画成 Warm Dark 风格 PNG 报告卡，便于一次 SendToUser 发送。.
 - [ADO Grok — Azure DevOps MCP plugin for Grok Bot](https://github.com/SIMPL-Automation/ado-grok) - 面向 Grok Bot 的市场插件：在机器人电脑上运行微软 @azure-devops/mcp，粘贴 PAT 即可处理工作项/流水线/PR，无需用户笔记本或 Azure CLI。.
 - [SharedBrief — drafts/briefs MCP plugin for Grok Bot](https://github.com/lakshman111/sharedbrief-cursor-plugin) - Cursor 市场插件：把 Grok Bot 连到 SharedBrief 托管 MCP，经 OAuth 把选定对话内容做成私有草稿或可分享的未公开简报。.
@@ -1076,6 +1081,8 @@
 
 ## 开源替代
 
+- [Grok Bot event bridge — JSONL queue + webhook wake](https://github.com/tqd118/grok-bot-event-bridge) - 个人事件驱动桥：同事机器人写入本机 JSONL 队列，经 webhook routine 唤醒 Helper Grok Bot，无需入站 HTTP 或忙轮询。.
+- [Grok Bot SDLC portable — host-agnostic bot definition pack](https://github.com/dsickles/grok-bot-sdlc-portable) - 七个云端 Grok Bot 角色的公开 Markdown 包，覆盖从 backlog 到文档的 SDLC 流水线；个人覆盖层不进 git，便于跨主机迁移。.
 - [BOTELLIGENCE — Grok Bot fleet control-center kit](https://github.com/vsgellon/botelligence-control-center) - 仅标准库的可安装 Python 驾驶舱：监控私有 Grok Bot 舰队健康、自报告与安全告警，并把优化/暂停/回滚请求转发到管理机器人 webhook。.
 - [CodeCaps — macOS menu bar quotas including Grok Bot](https://github.com/jaywedgeworth22/CodeCaps) - 开源 macOS 菜单栏应用：读取本机已登录的 Grok Bot 与其他 AI CLI 套餐用量/额度窗口，并可选通过 collector 在多台 Mac 间共享读数。.
 - [Commander's Intent — Chief of Staff Grok Bot fleet template](https://github.com/shagghiesuperstar/commanders-intent) - 自包含的 Grok Bot「参谋长」模板（人设、例行任务、技能、舰队布局），用共享使命与护栏驱动主动、可自愈的多智能体编排。.
@@ -1430,6 +1437,9 @@
 
 ## 社区与故障现场
 
+- [Forum: Reset failed / computer stuck in partial state](https://forum.cursor.com/t/grok-bot-reset-failed-computer-stuck-in-partial-state-can-t-connect/173229) - Grok Bot 0.61（macOS）反馈：共享云电脑一直连不上，Stop 不生效，Reset Grok Bot’s Computer 卡在半完成状态。.
+- [Forum: let Grok Bot see its own usage stats](https://forum.cursor.com/t/feature-request-let-grok-bot-see-its-own-usage-stats/173270) - 功能请求：希望 Grok Bot 能原生查看每周额度剩余与按需用量，避免大型任务悄悄烧光预算。.
+- [Forum: Grok Bot Ahrefs connector rate-limited / SyntaxError](https://forum.cursor.com/t/grokbot-ahref-connector-rate-limited/173206) - Grok Bot 0.61 市场 Ahrefs 连接器在添加认证时失败，报出带 rate-limit 措辞的 SyntaxError。.
 - [Forum: Chief of Staff cannot message or hand off to other bots](https://forum.cursor.com/t/chief-of-staff-unable-to-communicate-with-other-bots/173238) - Cursor 论坛报告：此前可正常交接的「参谋长」Grok Bot 突然无法向其他助手发消息或移交后台任务。.
 - [Forum: Inkbox MCP shows connected but agent cannot find server](https://forum.cursor.com/t/grok-bot-inkbox-mcp-shows-connected-with-51-tools-but-agent-gets-mcp-server-not-found/173208) - Cursor 论坛帖：Inkbox 市场 MCP 显示已连接且有 51 个工具，但代理报 “MCP server user-Inkbox not found”，动态工具搜索也无结果。.
 - [Forum: Grok Bot ignores plugin mcpServers optional field](https://forum.cursor.com/t/grok-bot-cursor-cloud-agents-not-respecting-mcpservers-optional-field/173273) - Cursor 论坛报告：当 MCP 配置文件不是默认 mcp.json 时，Grok Bot 与 Cursor 云代理似乎不尊重插件清单里的 mcpServers 可选字段。.
@@ -1928,7 +1938,7 @@
 
 ## 贡献
 
-目前 8 个分类、1816 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1826 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

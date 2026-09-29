@@ -63,9 +63,6 @@
 <a id="pas-20261008"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/l4yagss3"><img src="./assets/events/pas-20261008-cover.png" alt="Startup Club × SpaceXAI Build Night（Caltech）" width="300" /></a></td><td valign="top"><strong>Startup Club × SpaceXAI Build Night（Caltech）</strong><br />2026-10-07（水）19:00–21:00（America/Los_Angeles）<br />米国カリフォルニア州パサデナ · Hameetman Center / Winnett（Caltech）— オフライン<br /><br />Caltech 初の公開 SpaceXAI ナイト（Startup Club）。リポジトリデモ後に Cursor / Grok Bot で制作。Luma で登録。<br /><br /><a href="https://luma.com/l4yagss3"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="lax-20260928"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/t8xpz5ws"><img src="./assets/events/lax-20260928-cover.png" alt="Grok Bot Meetup ロサンゼルス創業者" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ロサンゼルス創業者</strong><br />2026-09-28（月）19:00–21:00（America/Los_Angeles、UTC-07:00）<br />米国ロサンゼルス · オフライン（Club Sanctuary 連携。住所は Luma）<br /><br />ロサンゼルスの創業者向け Grok Bot コワーキング＋デモ夜（食事と無料 Grok クレジット）。<br /><br /><a href="https://luma.com/t8xpz5ws"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
 <a id="ith-20260929"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/1rh16mvk"><img src="./assets/events/ith-20260929-cover.png" alt="SpaceXAI Build Night @ Cornell" width="300" /></a></td><td valign="top"><strong>SpaceXAI Build Night @ Cornell</strong><br />2026-09-29（火）18:30–20:00（America/New_York、UTC-04:00）<br />米国ニューヨーク州イサカ · コーネル大学 — オフライン<br /><br />コーネルの SpaceXAI Build Night。夕食・デモ・ビルド。Cursor / Grok Bot 無料枠とグッズあり。<br /><br /><a href="https://luma.com/1rh16mvk"><strong>Luma で申し込む →</strong></a></td></tr></table>
 

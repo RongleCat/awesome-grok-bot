@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1816-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1826-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261007)
-- **United States**（18）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Philadelphia](./EVENTS.md#phl-20260929) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Washington, DC](./EVENTS.md#was-20260929) · [Pasadena](./EVENTS.md#pas-20261008) · [Los Angeles](./EVENTS.md#lax-20260928) · [Ithaca](./EVENTS.md#ith-20260929) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012)
+- **United States**（17）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Philadelphia](./EVENTS.md#phl-20260929) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Washington, DC](./EVENTS.md#was-20260929) · [Pasadena](./EVENTS.md#pas-20261008) · [Ithaca](./EVENTS.md#ith-20260929) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012)
 - **Brazil**（5）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Curitiba](./EVENTS.md#cwb-20260929) · [Salvador](./EVENTS.md#ssa-20261008) · [Florianópolis](./EVENTS.md#fln-20261016)
 - **Canada**（4）：[Calgary](./EVENTS.md#yyc-20260930) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010)
 - **Germany**（4）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261023) · [Frankfurt](./EVENTS.md#fra-20261120)
@@ -472,6 +472,11 @@
 
 ## Skills, Plugins & MCP
 
+- [Car Chaser — skills for the Car Chaser Grok Bot template](https://github.com/function1st/grok-bot-car-chaser) - Two installable skills for the Car Chaser Grok Bot template (getting-started rules plus photo-filter car watch) that the template pulls in because template imports currently drop skills.
+- [Schoolyland — WordPress course-business MCP plugin for Grok Bot](https://github.com/schoolyland/cursor-plugin) - Schoolyland plugin for Cursor and Grok Bot that connects to a hosted MCP so the agent can manage WordPress course sites (Elementor, WooCommerce, LearnDash, FluentCRM) via OAuth.
+- [Refine — academic proofreading MCP plugin for Grok Bot](https://github.com/0mm-mark/refined) - Grok Bot/Cursor connector for Refine.ink academic proofreading via hosted MCP (OAuth or API key) plus a refine-review skill for running paper reviews from chat.
+- [ForeclosureOPS — foreclosure search MCP plugin for Grok Bot](https://github.com/ankouny/foreclosureops-plugin) - Official ForeclosureOPS Cursor/Grok Bot plugin that connects a read-only hosted MCP for foreclosure search, property dossiers, and upcoming auction discovery.
+- [Discord Grok Bot — Discord MCP connector plugin](https://github.com/stevederico/discord-grok-bot-oss) - MIT plugin with Discord MCP tools and skills so Grok Bot (and Grok Build CLI) can list servers, read/search channels, and optionally reply to mentions via a Gateway process.
 - [Warm Dark — Grok Bot fleet report-card skill](https://github.com/testusercar/warm-dark) - Open skill plus Python renderer that turns a Grok Bot fleet JSON manifest into Warm Dark–styled PNG report cards for a single SendToUser turn.
 - [ADO Grok — Azure DevOps MCP plugin for Grok Bot](https://github.com/SIMPL-Automation/ado-grok) - Grok Bot marketplace plugin that runs Microsoft’s @azure-devops/mcp on the bot computer with a pasted PAT, so work items, pipelines, and PRs work without a user laptop or Azure CLI.
 - [SharedBrief — drafts/briefs MCP plugin for Grok Bot](https://github.com/lakshman111/sharedbrief-cursor-plugin) - Cursor Marketplace plugin that connects Grok Bot to SharedBrief’s hosted MCP so selected chat content can become private drafts or shareable unlisted briefs via OAuth.
@@ -1076,6 +1081,8 @@
 
 ## Open-Source Alternatives
 
+- [Grok Bot event bridge — JSONL queue + webhook wake](https://github.com/tqd118/grok-bot-event-bridge) - Personal event-driven bridge that lets a colleague bot append to a local JSONL queue and wake a Helper Grok Bot via webhook routine without inbound HTTP or busy polling.
+- [Grok Bot SDLC portable — host-agnostic bot definition pack](https://github.com/dsickles/grok-bot-sdlc-portable) - Public markdown pack of seven cloud Grok Bot roles for an SDLC pipeline (backlog through docs), with personal overlays kept out of git so jobs stay portable across hosts.
 - [BOTELLIGENCE — Grok Bot fleet control-center kit](https://github.com/vsgellon/botelligence-control-center) - Installable stdlib-only Python cockpit for a private Grok Bot fleet, showing health, self-reports, and safety alerts while forwarding optimize/pause/rollback actions to a managing bot webhook.
 - [CodeCaps — macOS menu bar quotas including Grok Bot](https://github.com/jaywedgeworth22/CodeCaps) - Open-source macOS menu bar app that reads signed-in plan usage/quota windows for Grok Bot and other AI CLIs, with an optional collector for sharing readings across Macs.
 - [Commander's Intent — Chief of Staff Grok Bot fleet template](https://github.com/shagghiesuperstar/commanders-intent) - Self-contained Chief of Staff Grok Bot template (persona, routines, skills, fleet layout) for a proactive, self-healing multi-agent setup with shared mission guardrails.
@@ -1430,6 +1437,9 @@
 
 ## Community & Failure Modes
 
+- [Forum: Reset failed / computer stuck in partial state](https://forum.cursor.com/t/grok-bot-reset-failed-computer-stuck-in-partial-state-can-t-connect/173229) - Grok Bot 0.61 macOS report where the shared cloud computer stays unreachable, Stop never finishes, and Reset Grok Bot’s Computer fails in a partial state.
+- [Forum: let Grok Bot see its own usage stats](https://forum.cursor.com/t/feature-request-let-grok-bot-see-its-own-usage-stats/173270) - Feature request for a first-party way for Grok Bots to read remaining weekly allowance and on-demand spend before large jobs burn the budget silently.
+- [Forum: Grok Bot Ahrefs connector rate-limited / SyntaxError](https://forum.cursor.com/t/grokbot-ahref-connector-rate-limited/173206) - Marketplace Ahrefs connector authenticate fails on Grok Bot 0.61 with a SyntaxError framed as rate-limit while adding the connector.
 - [Forum: Chief of Staff cannot message or hand off to other bots](https://forum.cursor.com/t/chief-of-staff-unable-to-communicate-with-other-bots/173238) - Cursor forum bug report that a Chief of Staff Grok Bot suddenly cannot send messages or hand off background tasks to sibling bots after previously working handoffs.
 - [Forum: Inkbox MCP shows connected but agent cannot find server](https://forum.cursor.com/t/grok-bot-inkbox-mcp-shows-connected-with-51-tools-but-agent-gets-mcp-server-not-found/173208) - Cursor forum thread: Inkbox marketplace MCP showed connected with 51 tools while the agent got “MCP server user-Inkbox not found” and dynamic tool search returned nothing.
 - [Forum: Grok Bot ignores plugin mcpServers optional field](https://forum.cursor.com/t/grok-bot-cursor-cloud-agents-not-respecting-mcpservers-optional-field/173273) - Cursor forum bug report: Grok Bot and Cursor cloud agents appear not to honor the plugin manifest mcpServers optional field when MCP config is not the default mcp.json name.
@@ -1928,7 +1938,7 @@
 
 ## Contributing
 
-1816 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1826 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

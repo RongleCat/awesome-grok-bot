@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1816-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1826-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [イベントの詳細](./EVENTS.ja.md)
 
 - **中国**（3）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017) · [マカオ](./EVENTS.ja.md#mo-20261007)
-- **アメリカ**（18）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [オースティン](./EVENTS.ja.md#aus-20261004) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [ワシントンDC](./EVENTS.ja.md#was-20261007) · [ワシントンDC](./EVENTS.ja.md#was-20260929) · [パサデナ](./EVENTS.ja.md#pas-20261008) · [ロサンゼルス](./EVENTS.ja.md#lax-20260928) · [イサカ](./EVENTS.ja.md#ith-20260929) · [アトランタ](./EVENTS.ja.md#atl-20261016) · [シアトル](./EVENTS.ja.md#sea-20261012)
+- **アメリカ**（17）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [フィラデルフィア](./EVENTS.ja.md#phl-20260929) · [サンフランシスコ](./EVENTS.ja.md#sfp-20260929) · [シカゴ](./EVENTS.ja.md#chi-20260930) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [オースティン](./EVENTS.ja.md#aus-20261004) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [ワシントンDC](./EVENTS.ja.md#was-20261007) · [ワシントンDC](./EVENTS.ja.md#was-20260929) · [パサデナ](./EVENTS.ja.md#pas-20261008) · [イサカ](./EVENTS.ja.md#ith-20260929) · [アトランタ](./EVENTS.ja.md#atl-20261016) · [シアトル](./EVENTS.ja.md#sea-20261012)
 - **ブラジル**（5）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [クリチバ](./EVENTS.ja.md#cwb-20260929) · [サルバドール](./EVENTS.ja.md#ssa-20261008) · [フロリアノポリス](./EVENTS.ja.md#fln-20261016)
 - **カナダ**（4）：[カルガリー](./EVENTS.ja.md#yyc-20260930) · [モントリオール](./EVENTS.ja.md#yul-20260926) · [トロント](./EVENTS.ja.md#yyz-20261026) · [オタワ](./EVENTS.ja.md#yow-20261010)
 - **ドイツ**（4）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015) · [フランクフルト](./EVENTS.ja.md#fra-20261023) · [フランクフルト](./EVENTS.ja.md#fra-20261120)
@@ -472,6 +472,11 @@
 
 ## スキル、プラグインと MCP
 
+- [Car Chaser — skills for the Car Chaser Grok Bot template](https://github.com/function1st/grok-bot-car-chaser) - Car Chaser Grok Bot テンプレート用の 2 スキル（開始ルールと写真フィルタの車ウォッチ）。テンプレート取り込みがスキルを落とすため、このリポジトリから入れます。
+- [Schoolyland — WordPress course-business MCP plugin for Grok Bot](https://github.com/schoolyland/cursor-plugin) - Cursor/Grok Bot 向け Schoolyland プラグイン。ホスト型 MCP に OAuth 接続し、WordPress 講座サイト（Elementor、WooCommerce、LearnDash、FluentCRM）を操作できます。
+- [Refine — academic proofreading MCP plugin for Grok Bot](https://github.com/0mm-mark/refined) - Grok Bot/Cursor 向け Refine.ink 学術校正コネクタ。ホスト型 MCP（OAuth または API キー）と refine-review スキルで、チャットから論文レビューを実行できます。
+- [ForeclosureOPS — foreclosure search MCP plugin for Grok Bot](https://github.com/ankouny/foreclosureops-plugin) - ForeclosureOPS 公式の Cursor/Grok Bot プラグイン。読み取り専用ホスト型 MCP で差し押さえ物件検索、物件ドシエ、今後のオークション発見につなぎます。
+- [Discord Grok Bot — Discord MCP connector plugin](https://github.com/stevederico/discord-grok-bot-oss) - MIT プラグイン。Discord MCP ツールとスキルで、Grok Bot（および Grok Build CLI）がサーバー一覧・チャンネルの読み取り/検索、任意で Gateway によるメンション返信ができます。
 - [Warm Dark — Grok Bot fleet report-card skill](https://github.com/testusercar/warm-dark) - オープンスキル＋Python レンダラ。Grok Bot フリートの JSON マニフェストを Warm Dark 風 PNG レポートカードにし、1 回の SendToUser で送れます。
 - [ADO Grok — Azure DevOps MCP plugin for Grok Bot](https://github.com/SIMPL-Automation/ado-grok) - Grok Bot 向け Marketplace プラグイン。ボット側で Microsoft の @azure-devops/mcp を動かし、PAT を貼るだけで作業項目・パイプライン・PR を扱えます（ユーザー PC / Azure CLI 不要）。
 - [SharedBrief — drafts/briefs MCP plugin for Grok Bot](https://github.com/lakshman111/sharedbrief-cursor-plugin) - Cursor Marketplace プラグイン。Grok Bot を SharedBrief のホスト型 MCP に接続し、OAuth 経由で会話内容を非公開下書きや共有可能な未公開ブリーフにできます。
@@ -1076,6 +1081,8 @@
 
 ## オープンソースの代替
 
+- [Grok Bot event bridge — JSONL queue + webhook wake](https://github.com/tqd118/grok-bot-event-bridge) - 個人向けイベント駆動ブリッジ。同僚ボットがローカル JSONL キューへ追記し、webhook routine で Helper Grok Bot を起こすため、着信 HTTP や忙しいポーリングは不要です。
+- [Grok Bot SDLC portable — host-agnostic bot definition pack](https://github.com/dsickles/grok-bot-sdlc-portable) - バックログからドキュメントまでの SDLC 向け 7 つのクラウド Grok Bot 役割を公開 Markdown でまとめたパック。個人オーバーレイは git 外に置き、ホスト間で持ち運べます。
 - [BOTELLIGENCE — Grok Bot fleet control-center kit](https://github.com/vsgellon/botelligence-control-center) - 標準ライブラリのみのインストール可能な Python コックピット。非公開 Grok Bot フリートのヘルス・自己報告・安全アラートを表示し、最適化/一時停止/ロールバックを管理ボットの webhook に転送します。
 - [CodeCaps — macOS menu bar quotas including Grok Bot](https://github.com/jaywedgeworth22/CodeCaps) - オープンソースの macOS メニューバーアプリ。サインイン済みの Grok Bot や他 AI CLI の利用枠を表示し、任意の collector で Mac 間共有もできます。
 - [Commander's Intent — Chief of Staff Grok Bot fleet template](https://github.com/shagghiesuperstar/commanders-intent) - 自己完結型の Grok Bot「参謀（Chief of Staff）」テンプレ（ペルソナ・ルーチン・スキル・フリート構成）。共有ミッションとガードレールで先回り・自己修復型の多エージェント運用向け。
@@ -1430,6 +1437,9 @@
 
 ## コミュニティと障害事例
 
+- [Forum: Reset failed / computer stuck in partial state](https://forum.cursor.com/t/grok-bot-reset-failed-computer-stuck-in-partial-state-can-t-connect/173229) - Grok Bot 0.61（macOS）の報告。共有クラウド PC に届かず、Stop が終わらず、Reset Grok Bot’s Computer が途中状態のまま失敗します。
+- [Forum: let Grok Bot see its own usage stats](https://forum.cursor.com/t/feature-request-let-grok-bot-see-its-own-usage-stats/173270) - 機能要望。大きなジョブで予算を黙って使い切る前に、Grok Bot 自身が週次残量とオンデマンド使用量を読める公式手段が欲しいという報告です。
+- [Forum: Grok Bot Ahrefs connector rate-limited / SyntaxError](https://forum.cursor.com/t/grokbot-ahref-connector-rate-limited/173206) - Grok Bot 0.61 のマーケットプレイス Ahrefs コネクタ追加時、rate-limit と書かれた SyntaxError で認証に失敗する報告です。
 - [Forum: Chief of Staff cannot message or hand off to other bots](https://forum.cursor.com/t/chief-of-staff-unable-to-communicate-with-other-bots/173238) - Cursor フォーラムの不具合報告。以前はできたのに、Chief of Staff の Grok Bot が他ボットへのメッセージ送信やバックグラウンド引き継ぎができなくなったという内容です。
 - [Forum: Inkbox MCP shows connected but agent cannot find server](https://forum.cursor.com/t/grok-bot-inkbox-mcp-shows-connected-with-51-tools-but-agent-gets-mcp-server-not-found/173208) - Cursor フォーラムスレ。Inkbox の Marketplace MCP は接続済みで 51 ツール表示なのに、エージェントは “MCP server user-Inkbox not found” となり動的ツール検索も空だったという報告です。
 - [Forum: Grok Bot ignores plugin mcpServers optional field](https://forum.cursor.com/t/grok-bot-cursor-cloud-agents-not-respecting-mcpservers-optional-field/173273) - Cursor フォーラムの不具合報告。MCP 設定が既定の mcp.json 以外だと、Grok Bot と Cursor クラウドエージェントがプラグインマニフェストの mcpServers 任意フィールドを尊重しないという内容です。
@@ -1928,7 +1938,7 @@
 
 ## 貢献
 
-8 セクションに 1816 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1826 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -3796,6 +3796,56 @@
       },
       "items": [
         {
+          "title": "Car Chaser — skills for the Car Chaser Grok Bot template",
+          "url": "https://github.com/function1st/grok-bot-car-chaser",
+          "source": "GB-1845",
+          "blurb": {
+            "en": "Two installable skills for the Car Chaser Grok Bot template (getting-started rules plus photo-filter car watch) that the template pulls in because template imports currently drop skills.",
+            "zh": "Car Chaser Grok Bot 模板的两套可安装技能（上手规则与看车图片过滤）；因模板导入目前会丢掉技能，故由仓库自行安装。",
+            "ja": "Car Chaser Grok Bot テンプレート用の 2 スキル（開始ルールと写真フィルタの車ウォッチ）。テンプレート取り込みがスキルを落とすため、このリポジトリから入れます。"
+          }
+        },
+        {
+          "title": "Schoolyland — WordPress course-business MCP plugin for Grok Bot",
+          "url": "https://github.com/schoolyland/cursor-plugin",
+          "source": "GB-1844",
+          "blurb": {
+            "en": "Schoolyland plugin for Cursor and Grok Bot that connects to a hosted MCP so the agent can manage WordPress course sites (Elementor, WooCommerce, LearnDash, FluentCRM) via OAuth.",
+            "zh": "Schoolyland 的 Cursor/Grok Bot 插件：连接托管 MCP，经 OAuth 管理 WordPress 课程站（Elementor、WooCommerce、LearnDash、FluentCRM）。",
+            "ja": "Cursor/Grok Bot 向け Schoolyland プラグイン。ホスト型 MCP に OAuth 接続し、WordPress 講座サイト（Elementor、WooCommerce、LearnDash、FluentCRM）を操作できます。"
+          }
+        },
+        {
+          "title": "Refine — academic proofreading MCP plugin for Grok Bot",
+          "url": "https://github.com/0mm-mark/refined",
+          "source": "GB-1843",
+          "blurb": {
+            "en": "Grok Bot/Cursor connector for Refine.ink academic proofreading via hosted MCP (OAuth or API key) plus a refine-review skill for running paper reviews from chat.",
+            "zh": "面向 Grok Bot/Cursor 的 Refine.ink 学术校对连接器：托管 MCP（OAuth 或 API key）与 refine-review 技能，可在对话中发起论文审阅。",
+            "ja": "Grok Bot/Cursor 向け Refine.ink 学術校正コネクタ。ホスト型 MCP（OAuth または API キー）と refine-review スキルで、チャットから論文レビューを実行できます。"
+          }
+        },
+        {
+          "title": "ForeclosureOPS — foreclosure search MCP plugin for Grok Bot",
+          "url": "https://github.com/ankouny/foreclosureops-plugin",
+          "source": "GB-1842",
+          "blurb": {
+            "en": "Official ForeclosureOPS Cursor/Grok Bot plugin that connects a read-only hosted MCP for foreclosure search, property dossiers, and upcoming auction discovery.",
+            "zh": "ForeclosureOPS 官方 Cursor/Grok Bot 插件：通过只读托管 MCP 搜索法拍房产、查看物业卷宗并发现即将举行的拍卖。",
+            "ja": "ForeclosureOPS 公式の Cursor/Grok Bot プラグイン。読み取り専用ホスト型 MCP で差し押さえ物件検索、物件ドシエ、今後のオークション発見につなぎます。"
+          }
+        },
+        {
+          "title": "Discord Grok Bot — Discord MCP connector plugin",
+          "url": "https://github.com/stevederico/discord-grok-bot-oss",
+          "source": "GB-1841",
+          "blurb": {
+            "en": "MIT plugin with Discord MCP tools and skills so Grok Bot (and Grok Build CLI) can list servers, read/search channels, and optionally reply to mentions via a Gateway process.",
+            "zh": "MIT 插件：为 Grok Bot（及 Grok Build CLI）提供 Discord MCP 工具与技能，可列出服务器、读/搜索频道，并可选通过 Gateway 回复 @提及。",
+            "ja": "MIT プラグイン。Discord MCP ツールとスキルで、Grok Bot（および Grok Build CLI）がサーバー一覧・チャンネルの読み取り/検索、任意で Gateway によるメンション返信ができます。"
+          }
+        },
+        {
           "title": "Warm Dark — Grok Bot fleet report-card skill",
           "url": "https://github.com/testusercar/warm-dark",
           "source": "GB-1835",
@@ -9796,6 +9846,26 @@
       },
       "items": [
         {
+          "title": "Grok Bot event bridge — JSONL queue + webhook wake",
+          "url": "https://github.com/tqd118/grok-bot-event-bridge",
+          "source": "GB-1847",
+          "blurb": {
+            "en": "Personal event-driven bridge that lets a colleague bot append to a local JSONL queue and wake a Helper Grok Bot via webhook routine without inbound HTTP or busy polling.",
+            "zh": "个人事件驱动桥：同事机器人写入本机 JSONL 队列，经 webhook routine 唤醒 Helper Grok Bot，无需入站 HTTP 或忙轮询。",
+            "ja": "個人向けイベント駆動ブリッジ。同僚ボットがローカル JSONL キューへ追記し、webhook routine で Helper Grok Bot を起こすため、着信 HTTP や忙しいポーリングは不要です。"
+          }
+        },
+        {
+          "title": "Grok Bot SDLC portable — host-agnostic bot definition pack",
+          "url": "https://github.com/dsickles/grok-bot-sdlc-portable",
+          "source": "GB-1846",
+          "blurb": {
+            "en": "Public markdown pack of seven cloud Grok Bot roles for an SDLC pipeline (backlog through docs), with personal overlays kept out of git so jobs stay portable across hosts.",
+            "zh": "七个云端 Grok Bot 角色的公开 Markdown 包，覆盖从 backlog 到文档的 SDLC 流水线；个人覆盖层不进 git，便于跨主机迁移。",
+            "ja": "バックログからドキュメントまでの SDLC 向け 7 つのクラウド Grok Bot 役割を公開 Markdown でまとめたパック。個人オーバーレイは git 外に置き、ホスト間で持ち運べます。"
+          }
+        },
+        {
           "title": "BOTELLIGENCE — Grok Bot fleet control-center kit",
           "url": "https://github.com/vsgellon/botelligence-control-center",
           "source": "GB-1837",
@@ -13315,6 +13385,36 @@
         "ja": "コミュニティと障害事例"
       },
       "items": [
+        {
+          "title": "Forum: Reset failed / computer stuck in partial state",
+          "url": "https://forum.cursor.com/t/grok-bot-reset-failed-computer-stuck-in-partial-state-can-t-connect/173229",
+          "source": "GB-1850",
+          "blurb": {
+            "en": "Grok Bot 0.61 macOS report where the shared cloud computer stays unreachable, Stop never finishes, and Reset Grok Bot’s Computer fails in a partial state.",
+            "zh": "Grok Bot 0.61（macOS）反馈：共享云电脑一直连不上，Stop 不生效，Reset Grok Bot’s Computer 卡在半完成状态。",
+            "ja": "Grok Bot 0.61（macOS）の報告。共有クラウド PC に届かず、Stop が終わらず、Reset Grok Bot’s Computer が途中状態のまま失敗します。"
+          }
+        },
+        {
+          "title": "Forum: let Grok Bot see its own usage stats",
+          "url": "https://forum.cursor.com/t/feature-request-let-grok-bot-see-its-own-usage-stats/173270",
+          "source": "GB-1849",
+          "blurb": {
+            "en": "Feature request for a first-party way for Grok Bots to read remaining weekly allowance and on-demand spend before large jobs burn the budget silently.",
+            "zh": "功能请求：希望 Grok Bot 能原生查看每周额度剩余与按需用量，避免大型任务悄悄烧光预算。",
+            "ja": "機能要望。大きなジョブで予算を黙って使い切る前に、Grok Bot 自身が週次残量とオンデマンド使用量を読める公式手段が欲しいという報告です。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot Ahrefs connector rate-limited / SyntaxError",
+          "url": "https://forum.cursor.com/t/grokbot-ahref-connector-rate-limited/173206",
+          "source": "GB-1848",
+          "blurb": {
+            "en": "Marketplace Ahrefs connector authenticate fails on Grok Bot 0.61 with a SyntaxError framed as rate-limit while adding the connector.",
+            "zh": "Grok Bot 0.61 市场 Ahrefs 连接器在添加认证时失败，报出带 rate-limit 措辞的 SyntaxError。",
+            "ja": "Grok Bot 0.61 のマーケットプレイス Ahrefs コネクタ追加時、rate-limit と書かれた SyntaxError で認証に失敗する報告です。"
+          }
+        },
         {
           "title": "Forum: Chief of Staff cannot message or hand off to other bots",
           "url": "https://forum.cursor.com/t/chief-of-staff-unable-to-communicate-with-other-bots/173238",
