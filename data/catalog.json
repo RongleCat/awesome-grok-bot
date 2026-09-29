@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -3795,6 +3795,46 @@
         "ja": "スキル、プラグインと MCP"
       },
       "items": [
+        {
+          "title": "Warm Dark — Grok Bot fleet report-card skill",
+          "url": "https://github.com/testusercar/warm-dark",
+          "source": "GB-1835",
+          "blurb": {
+            "en": "Open skill plus Python renderer that turns a Grok Bot fleet JSON manifest into Warm Dark–styled PNG report cards for a single SendToUser turn.",
+            "zh": "开源技能与 Python 渲染器：把 Grok Bot 舰队 JSON 清单画成 Warm Dark 风格 PNG 报告卡，便于一次 SendToUser 发送。",
+            "ja": "オープンスキル＋Python レンダラ。Grok Bot フリートの JSON マニフェストを Warm Dark 風 PNG レポートカードにし、1 回の SendToUser で送れます。"
+          }
+        },
+        {
+          "title": "ADO Grok — Azure DevOps MCP plugin for Grok Bot",
+          "url": "https://github.com/SIMPL-Automation/ado-grok",
+          "source": "GB-1833",
+          "blurb": {
+            "en": "Grok Bot marketplace plugin that runs Microsoft’s @azure-devops/mcp on the bot computer with a pasted PAT, so work items, pipelines, and PRs work without a user laptop or Azure CLI.",
+            "zh": "面向 Grok Bot 的市场插件：在机器人电脑上运行微软 @azure-devops/mcp，粘贴 PAT 即可处理工作项/流水线/PR，无需用户笔记本或 Azure CLI。",
+            "ja": "Grok Bot 向け Marketplace プラグイン。ボット側で Microsoft の @azure-devops/mcp を動かし、PAT を貼るだけで作業項目・パイプライン・PR を扱えます（ユーザー PC / Azure CLI 不要）。"
+          }
+        },
+        {
+          "title": "SharedBrief — drafts/briefs MCP plugin for Grok Bot",
+          "url": "https://github.com/lakshman111/sharedbrief-cursor-plugin",
+          "source": "GB-1832",
+          "blurb": {
+            "en": "Cursor Marketplace plugin that connects Grok Bot to SharedBrief’s hosted MCP so selected chat content can become private drafts or shareable unlisted briefs via OAuth.",
+            "zh": "Cursor 市场插件：把 Grok Bot 连到 SharedBrief 托管 MCP，经 OAuth 把选定对话内容做成私有草稿或可分享的未公开简报。",
+            "ja": "Cursor Marketplace プラグイン。Grok Bot を SharedBrief のホスト型 MCP に接続し、OAuth 経由で会話内容を非公開下書きや共有可能な未公開ブリーフにできます。"
+          }
+        },
+        {
+          "title": "PixelDojo — image/video/ads MCP plugin for Grok Bot",
+          "url": "https://github.com/blovett80/pixeldojo-plugin",
+          "source": "GB-1831",
+          "blurb": {
+            "en": "Official Cursor/Grok Bot plugin with a hosted PixelDojo MCP server and 11 workflow skills so the bot can generate images, video, audio, ads, and short films across 145+ models.",
+            "zh": "面向 Cursor/Grok Bot 的 PixelDojo 官方插件：托管 MCP 与 11 个工作流技能，可在 145+ 模型上生成图像、视频、音频、广告与短片。",
+            "ja": "Cursor/Grok Bot 向け PixelDojo 公式プラグイン。ホスト型 MCP と 11 のワークフロースキルで、145+ モデルから画像・動画・音声・広告・短編を生成できます。"
+          }
+        },
         {
           "title": "Android Phone Pilot — control Android from Grok Bot",
           "url": "https://x.ai/bot/ILb_gakZvABUA98zaeHqQ",
@@ -9756,6 +9796,36 @@
       },
       "items": [
         {
+          "title": "BOTELLIGENCE — Grok Bot fleet control-center kit",
+          "url": "https://github.com/vsgellon/botelligence-control-center",
+          "source": "GB-1837",
+          "blurb": {
+            "en": "Installable stdlib-only Python cockpit for a private Grok Bot fleet, showing health, self-reports, and safety alerts while forwarding optimize/pause/rollback actions to a managing bot webhook.",
+            "zh": "仅标准库的可安装 Python 驾驶舱：监控私有 Grok Bot 舰队健康、自报告与安全告警，并把优化/暂停/回滚请求转发到管理机器人 webhook。",
+            "ja": "標準ライブラリのみのインストール可能な Python コックピット。非公開 Grok Bot フリートのヘルス・自己報告・安全アラートを表示し、最適化/一時停止/ロールバックを管理ボットの webhook に転送します。"
+          }
+        },
+        {
+          "title": "CodeCaps — macOS menu bar quotas including Grok Bot",
+          "url": "https://github.com/jaywedgeworth22/CodeCaps",
+          "source": "GB-1836",
+          "blurb": {
+            "en": "Open-source macOS menu bar app that reads signed-in plan usage/quota windows for Grok Bot and other AI CLIs, with an optional collector for sharing readings across Macs.",
+            "zh": "开源 macOS 菜单栏应用：读取本机已登录的 Grok Bot 与其他 AI CLI 套餐用量/额度窗口，并可选通过 collector 在多台 Mac 间共享读数。",
+            "ja": "オープンソースの macOS メニューバーアプリ。サインイン済みの Grok Bot や他 AI CLI の利用枠を表示し、任意の collector で Mac 間共有もできます。"
+          }
+        },
+        {
+          "title": "Commander's Intent — Chief of Staff Grok Bot fleet template",
+          "url": "https://github.com/shagghiesuperstar/commanders-intent",
+          "source": "GB-1834",
+          "blurb": {
+            "en": "Self-contained Chief of Staff Grok Bot template (persona, routines, skills, fleet layout) for a proactive, self-healing multi-agent setup with shared mission guardrails.",
+            "zh": "自包含的 Grok Bot「参谋长」模板（人设、例行任务、技能、舰队布局），用共享使命与护栏驱动主动、可自愈的多智能体编排。",
+            "ja": "自己完結型の Grok Bot「参謀（Chief of Staff）」テンプレ（ペルソナ・ルーチン・スキル・フリート構成）。共有ミッションとガードレールで先回り・自己修復型の多エージェント運用向け。"
+          }
+        },
+        {
           "title": "GrokBot Office — workforce control layer for a small GrokBot core",
           "url": "https://github.com/M4G3LL4N0/grokbot-office",
           "source": "GB-1752",
@@ -13245,6 +13315,36 @@
         "ja": "コミュニティと障害事例"
       },
       "items": [
+        {
+          "title": "Forum: Chief of Staff cannot message or hand off to other bots",
+          "url": "https://forum.cursor.com/t/chief-of-staff-unable-to-communicate-with-other-bots/173238",
+          "source": "GB-1840",
+          "blurb": {
+            "en": "Cursor forum bug report that a Chief of Staff Grok Bot suddenly cannot send messages or hand off background tasks to sibling bots after previously working handoffs.",
+            "zh": "Cursor 论坛报告：此前可正常交接的「参谋长」Grok Bot 突然无法向其他助手发消息或移交后台任务。",
+            "ja": "Cursor フォーラムの不具合報告。以前はできたのに、Chief of Staff の Grok Bot が他ボットへのメッセージ送信やバックグラウンド引き継ぎができなくなったという内容です。"
+          }
+        },
+        {
+          "title": "Forum: Inkbox MCP shows connected but agent cannot find server",
+          "url": "https://forum.cursor.com/t/grok-bot-inkbox-mcp-shows-connected-with-51-tools-but-agent-gets-mcp-server-not-found/173208",
+          "source": "GB-1839",
+          "blurb": {
+            "en": "Cursor forum thread: Inkbox marketplace MCP showed connected with 51 tools while the agent got “MCP server user-Inkbox not found” and dynamic tool search returned nothing.",
+            "zh": "Cursor 论坛帖：Inkbox 市场 MCP 显示已连接且有 51 个工具，但代理报 “MCP server user-Inkbox not found”，动态工具搜索也无结果。",
+            "ja": "Cursor フォーラムスレ。Inkbox の Marketplace MCP は接続済みで 51 ツール表示なのに、エージェントは “MCP server user-Inkbox not found” となり動的ツール検索も空だったという報告です。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot ignores plugin mcpServers optional field",
+          "url": "https://forum.cursor.com/t/grok-bot-cursor-cloud-agents-not-respecting-mcpservers-optional-field/173273",
+          "source": "GB-1838",
+          "blurb": {
+            "en": "Cursor forum bug report: Grok Bot and Cursor cloud agents appear not to honor the plugin manifest mcpServers optional field when MCP config is not the default mcp.json name.",
+            "zh": "Cursor 论坛报告：当 MCP 配置文件不是默认 mcp.json 时，Grok Bot 与 Cursor 云代理似乎不尊重插件清单里的 mcpServers 可选字段。",
+            "ja": "Cursor フォーラムの不具合報告。MCP 設定が既定の mcp.json 以外だと、Grok Bot と Cursor クラウドエージェントがプラグインマニフェストの mcpServers 任意フィールドを尊重しないという内容です。"
+          }
+        },
         {
           "title": "Three Surfaces — IDE, Agents Projects, and Grok Bot (forum)",
           "url": "https://forum.cursor.com/t/now-we-have-three-surfaces/172965",

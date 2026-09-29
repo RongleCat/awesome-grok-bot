@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1806-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1816-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -472,6 +472,10 @@
 
 ## スキル、プラグインと MCP
 
+- [Warm Dark — Grok Bot fleet report-card skill](https://github.com/testusercar/warm-dark) - オープンスキル＋Python レンダラ。Grok Bot フリートの JSON マニフェストを Warm Dark 風 PNG レポートカードにし、1 回の SendToUser で送れます。
+- [ADO Grok — Azure DevOps MCP plugin for Grok Bot](https://github.com/SIMPL-Automation/ado-grok) - Grok Bot 向け Marketplace プラグイン。ボット側で Microsoft の @azure-devops/mcp を動かし、PAT を貼るだけで作業項目・パイプライン・PR を扱えます（ユーザー PC / Azure CLI 不要）。
+- [SharedBrief — drafts/briefs MCP plugin for Grok Bot](https://github.com/lakshman111/sharedbrief-cursor-plugin) - Cursor Marketplace プラグイン。Grok Bot を SharedBrief のホスト型 MCP に接続し、OAuth 経由で会話内容を非公開下書きや共有可能な未公開ブリーフにできます。
+- [PixelDojo — image/video/ads MCP plugin for Grok Bot](https://github.com/blovett80/pixeldojo-plugin) - Cursor/Grok Bot 向け PixelDojo 公式プラグイン。ホスト型 MCP と 11 のワークフロースキルで、145+ モデルから画像・動画・音声・広告・短編を生成できます。
 - [Android Phone Pilot — control Android from Grok Bot](https://x.ai/bot/ILb_gakZvABUA98zaeHqQ) - 第三者の Grok Bot スキル（Everest）。ADB で Android を操作し、アプリ起動・タップ・スクロールをハンズフリーで行う。
 - [vibecoding-god-setup — Lead + Claude Code + Jev on Grok Bot](https://github.com/Argona7/vibecoding-god-setup) - 1 通のメッセージで Grok Bot Lead がセットアップをクローンし、クラウド PC 上で Claude Code（Opus）と Jev 判断層をつなぐ。
 - [HivemindOS — research and multi-model plugin for Grok Bot](https://github.com/LiamVisionary/hivemindos-cursor-plugin) - 公式 HivemindOS プラグイン。1 つの API キーで Cursor / Grok Bot をホスト MCP に接続し、調査レポートや生成・メモリなどを使う。
@@ -1072,6 +1076,9 @@
 
 ## オープンソースの代替
 
+- [BOTELLIGENCE — Grok Bot fleet control-center kit](https://github.com/vsgellon/botelligence-control-center) - 標準ライブラリのみのインストール可能な Python コックピット。非公開 Grok Bot フリートのヘルス・自己報告・安全アラートを表示し、最適化/一時停止/ロールバックを管理ボットの webhook に転送します。
+- [CodeCaps — macOS menu bar quotas including Grok Bot](https://github.com/jaywedgeworth22/CodeCaps) - オープンソースの macOS メニューバーアプリ。サインイン済みの Grok Bot や他 AI CLI の利用枠を表示し、任意の collector で Mac 間共有もできます。
+- [Commander's Intent — Chief of Staff Grok Bot fleet template](https://github.com/shagghiesuperstar/commanders-intent) - 自己完結型の Grok Bot「参謀（Chief of Staff）」テンプレ（ペルソナ・ルーチン・スキル・フリート構成）。共有ミッションとガードレールで先回り・自己修復型の多エージェント運用向け。
 - [GrokBot Office — workforce control layer for a small GrokBot core](https://github.com/M4G3LL4N0/grokbot-office) - 公開リファレンスの制御層。小さな常駐 GrokBot 監督コアが AgentOS 経由で外部の弾力ワーカーを調整する。
 - [grokbot-mcp-bridge — secure MCP bridge to a Grok Bot webhook](https://github.com/kinopeee/grokbot-mcp-bridge) - Fly.io 向け MCP ブリッジ。Webhook URL や API キーを見せずに Poke から Cursor 自動化経由で Grok Bot を呼べる。
 - [GrokBot Meter — macOS menu-bar usage meters for Grok Bot](https://github.com/nuno/grokbot-meter) - 非公式の macOS メニューバー早期ベータ。公式メーターから Grok Bot の週次使用率・本日分・リセット時刻を表示する。
@@ -1423,6 +1430,9 @@
 
 ## コミュニティと障害事例
 
+- [Forum: Chief of Staff cannot message or hand off to other bots](https://forum.cursor.com/t/chief-of-staff-unable-to-communicate-with-other-bots/173238) - Cursor フォーラムの不具合報告。以前はできたのに、Chief of Staff の Grok Bot が他ボットへのメッセージ送信やバックグラウンド引き継ぎができなくなったという内容です。
+- [Forum: Inkbox MCP shows connected but agent cannot find server](https://forum.cursor.com/t/grok-bot-inkbox-mcp-shows-connected-with-51-tools-but-agent-gets-mcp-server-not-found/173208) - Cursor フォーラムスレ。Inkbox の Marketplace MCP は接続済みで 51 ツール表示なのに、エージェントは “MCP server user-Inkbox not found” となり動的ツール検索も空だったという報告です。
+- [Forum: Grok Bot ignores plugin mcpServers optional field](https://forum.cursor.com/t/grok-bot-cursor-cloud-agents-not-respecting-mcpservers-optional-field/173273) - Cursor フォーラムの不具合報告。MCP 設定が既定の mcp.json 以外だと、Grok Bot と Cursor クラウドエージェントがプラグインマニフェストの mcpServers 任意フィールドを尊重しないという内容です。
 - [Three Surfaces — IDE, Agents Projects, and Grok Bot (forum)](https://forum.cursor.com/t/now-we-have-three-surfaces/172965) - フォーラム（grok-bot タグ）。Cursor IDE・Agents Projects・Grok Bot が三つの画面に分かれ、連携が弱いという指摘。
 - [Agent Computer unreachable on iOS and Windows](https://forum.cursor.com/t/subject-grok-bot-agent-computer-unreachable-on-ios-and-windows/172958) - 報告：新規インストールの Grok Bot が iOS / Windows で Agent Computer に到達できない。
 - [Stuck on Setting up Grok Bot's computer (Mac/iOS)](https://forum.cursor.com/t/grok-bot-stuck-on-setting-up-grok-bots-computer-mac-and-ios-cannot-connect/172957) - 報告：Mac / iOS で「Setting up Grok Bot's computer」のまま Agent Computer に接続できない。
@@ -1918,7 +1928,7 @@
 
 ## 貢献
 
-8 セクションに 1806 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1816 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1806-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1816-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -472,6 +472,10 @@
 
 ## 技能、插件与 MCP
 
+- [Warm Dark — Grok Bot fleet report-card skill](https://github.com/testusercar/warm-dark) - 开源技能与 Python 渲染器：把 Grok Bot 舰队 JSON 清单画成 Warm Dark 风格 PNG 报告卡，便于一次 SendToUser 发送。.
+- [ADO Grok — Azure DevOps MCP plugin for Grok Bot](https://github.com/SIMPL-Automation/ado-grok) - 面向 Grok Bot 的市场插件：在机器人电脑上运行微软 @azure-devops/mcp，粘贴 PAT 即可处理工作项/流水线/PR，无需用户笔记本或 Azure CLI。.
+- [SharedBrief — drafts/briefs MCP plugin for Grok Bot](https://github.com/lakshman111/sharedbrief-cursor-plugin) - Cursor 市场插件：把 Grok Bot 连到 SharedBrief 托管 MCP，经 OAuth 把选定对话内容做成私有草稿或可分享的未公开简报。.
+- [PixelDojo — image/video/ads MCP plugin for Grok Bot](https://github.com/blovett80/pixeldojo-plugin) - 面向 Cursor/Grok Bot 的 PixelDojo 官方插件：托管 MCP 与 11 个工作流技能，可在 145+ 模型上生成图像、视频、音频、广告与短片。.
 - [Android Phone Pilot — control Android from Grok Bot](https://x.ai/bot/ILb_gakZvABUA98zaeHqQ) - 第三方 Grok Bot 技能（Everest）：经 ADB 操控安卓手机，免提打开应用、点击与滚动。.
 - [vibecoding-god-setup — Lead + Claude Code + Jev on Grok Bot](https://github.com/Argona7/vibecoding-god-setup) - 一条消息让 Grok Bot Lead 克隆配置，并在云电脑上接通 Claude Code（Opus）与 Jev 决策层。.
 - [HivemindOS — research and multi-model plugin for Grok Bot](https://github.com/LiamVisionary/hivemindos-cursor-plugin) - 官方 HivemindOS 插件：用一把 API Key 把 Cursor/Grok Bot 接到托管 MCP，做研究报告、生成与记忆等。.
@@ -1072,6 +1076,9 @@
 
 ## 开源替代
 
+- [BOTELLIGENCE — Grok Bot fleet control-center kit](https://github.com/vsgellon/botelligence-control-center) - 仅标准库的可安装 Python 驾驶舱：监控私有 Grok Bot 舰队健康、自报告与安全告警，并把优化/暂停/回滚请求转发到管理机器人 webhook。.
+- [CodeCaps — macOS menu bar quotas including Grok Bot](https://github.com/jaywedgeworth22/CodeCaps) - 开源 macOS 菜单栏应用：读取本机已登录的 Grok Bot 与其他 AI CLI 套餐用量/额度窗口，并可选通过 collector 在多台 Mac 间共享读数。.
+- [Commander's Intent — Chief of Staff Grok Bot fleet template](https://github.com/shagghiesuperstar/commanders-intent) - 自包含的 Grok Bot「参谋长」模板（人设、例行任务、技能、舰队布局），用共享使命与护栏驱动主动、可自愈的多智能体编排。.
 - [GrokBot Office — workforce control layer for a small GrokBot core](https://github.com/M4G3LL4N0/grokbot-office) - 公开参考的控制层：用精简持久的 GrokBot 督导核心，经 AgentOS 调度外部弹性劳动力。.
 - [grokbot-mcp-bridge — secure MCP bridge to a Grok Bot webhook](https://github.com/kinopeee/grokbot-mcp-bridge) - 可部署到 Fly.io 的 MCP 桥：让 Poke 调用 Cursor 自动化 webhook 驱动 Grok Bot，且不暴露 URL/密钥。.
 - [GrokBot Meter — macOS menu-bar usage meters for Grok Bot](https://github.com/nuno/grokbot-meter) - 非官方 macOS 菜单栏早期 beta：用官方用量数据展示 Grok Bot 周用量百分比、今日统计与重置倒计时。.
@@ -1423,6 +1430,9 @@
 
 ## 社区与故障现场
 
+- [Forum: Chief of Staff cannot message or hand off to other bots](https://forum.cursor.com/t/chief-of-staff-unable-to-communicate-with-other-bots/173238) - Cursor 论坛报告：此前可正常交接的「参谋长」Grok Bot 突然无法向其他助手发消息或移交后台任务。.
+- [Forum: Inkbox MCP shows connected but agent cannot find server](https://forum.cursor.com/t/grok-bot-inkbox-mcp-shows-connected-with-51-tools-but-agent-gets-mcp-server-not-found/173208) - Cursor 论坛帖：Inkbox 市场 MCP 显示已连接且有 51 个工具，但代理报 “MCP server user-Inkbox not found”，动态工具搜索也无结果。.
+- [Forum: Grok Bot ignores plugin mcpServers optional field](https://forum.cursor.com/t/grok-bot-cursor-cloud-agents-not-respecting-mcpservers-optional-field/173273) - Cursor 论坛报告：当 MCP 配置文件不是默认 mcp.json 时，Grok Bot 与 Cursor 云代理似乎不尊重插件清单里的 mcpServers 可选字段。.
 - [Three Surfaces — IDE, Agents Projects, and Grok Bot (forum)](https://forum.cursor.com/t/now-we-have-three-surfaces/172965) - 论坛帖（grok-bot 标签）：Cursor IDE、Agents Projects 与 Grok Bot 像三套界面，彼此难以打通。.
 - [Agent Computer unreachable on iOS and Windows](https://forum.cursor.com/t/subject-grok-bot-agent-computer-unreachable-on-ios-and-windows/172958) - 反馈：全新安装的 Grok Bot 在 iOS 与 Windows 上无法连通 Agent Computer。.
 - [Stuck on Setting up Grok Bot's computer (Mac/iOS)](https://forum.cursor.com/t/grok-bot-stuck-on-setting-up-grok-bots-computer-mac-and-ios-cannot-connect/172957) - 反馈：Mac 与 iOS 上 Grok Bot 一直停在「Setting up Grok Bot's computer」，连不上 Agent Computer。.
@@ -1918,7 +1928,7 @@
 
 ## 贡献
 
-目前 8 个分类、1806 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1816 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

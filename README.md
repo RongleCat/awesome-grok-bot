@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1806-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1816-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -472,6 +472,10 @@
 
 ## Skills, Plugins & MCP
 
+- [Warm Dark — Grok Bot fleet report-card skill](https://github.com/testusercar/warm-dark) - Open skill plus Python renderer that turns a Grok Bot fleet JSON manifest into Warm Dark–styled PNG report cards for a single SendToUser turn.
+- [ADO Grok — Azure DevOps MCP plugin for Grok Bot](https://github.com/SIMPL-Automation/ado-grok) - Grok Bot marketplace plugin that runs Microsoft’s @azure-devops/mcp on the bot computer with a pasted PAT, so work items, pipelines, and PRs work without a user laptop or Azure CLI.
+- [SharedBrief — drafts/briefs MCP plugin for Grok Bot](https://github.com/lakshman111/sharedbrief-cursor-plugin) - Cursor Marketplace plugin that connects Grok Bot to SharedBrief’s hosted MCP so selected chat content can become private drafts or shareable unlisted briefs via OAuth.
+- [PixelDojo — image/video/ads MCP plugin for Grok Bot](https://github.com/blovett80/pixeldojo-plugin) - Official Cursor/Grok Bot plugin with a hosted PixelDojo MCP server and 11 workflow skills so the bot can generate images, video, audio, ads, and short films across 145+ models.
 - [Android Phone Pilot — control Android from Grok Bot](https://x.ai/bot/ILb_gakZvABUA98zaeHqQ) - Third-party Grok Bot skill (Everest) that drives an Android phone over ADB for hands-free app open, tap, and scroll.
 - [vibecoding-god-setup — Lead + Claude Code + Jev on Grok Bot](https://github.com/Argona7/vibecoding-god-setup) - One-message Grok Bot Lead kit that clones setup docs and wires Claude Code (Opus) plus Jev decisioning on the Bot cloud computer.
 - [HivemindOS — research and multi-model plugin for Grok Bot](https://github.com/LiamVisionary/hivemindos-cursor-plugin) - Official HivemindOS plugin that points Cursor and Grok Bot at a hosted MCP for research reports, generation, memory, and more with one API key.
@@ -1072,6 +1076,9 @@
 
 ## Open-Source Alternatives
 
+- [BOTELLIGENCE — Grok Bot fleet control-center kit](https://github.com/vsgellon/botelligence-control-center) - Installable stdlib-only Python cockpit for a private Grok Bot fleet, showing health, self-reports, and safety alerts while forwarding optimize/pause/rollback actions to a managing bot webhook.
+- [CodeCaps — macOS menu bar quotas including Grok Bot](https://github.com/jaywedgeworth22/CodeCaps) - Open-source macOS menu bar app that reads signed-in plan usage/quota windows for Grok Bot and other AI CLIs, with an optional collector for sharing readings across Macs.
+- [Commander's Intent — Chief of Staff Grok Bot fleet template](https://github.com/shagghiesuperstar/commanders-intent) - Self-contained Chief of Staff Grok Bot template (persona, routines, skills, fleet layout) for a proactive, self-healing multi-agent setup with shared mission guardrails.
 - [GrokBot Office — workforce control layer for a small GrokBot core](https://github.com/M4G3LL4N0/grokbot-office) - Public reference control layer so a small persistent GrokBot supervisor core coordinates an external elastic workforce via AgentOS.
 - [grokbot-mcp-bridge — secure MCP bridge to a Grok Bot webhook](https://github.com/kinopeee/grokbot-mcp-bridge) - Fly.io-ready MCP bridge that lets Poke call a Cursor automation webhook for Grok Bot without exposing the webhook URL or API key.
 - [GrokBot Meter — macOS menu-bar usage meters for Grok Bot](https://github.com/nuno/grokbot-meter) - Unofficial early-beta macOS menu-bar app that shows Grok Bot weekly usage percent, today stats, and reset timing from official meters.
@@ -1423,6 +1430,9 @@
 
 ## Community & Failure Modes
 
+- [Forum: Chief of Staff cannot message or hand off to other bots](https://forum.cursor.com/t/chief-of-staff-unable-to-communicate-with-other-bots/173238) - Cursor forum bug report that a Chief of Staff Grok Bot suddenly cannot send messages or hand off background tasks to sibling bots after previously working handoffs.
+- [Forum: Inkbox MCP shows connected but agent cannot find server](https://forum.cursor.com/t/grok-bot-inkbox-mcp-shows-connected-with-51-tools-but-agent-gets-mcp-server-not-found/173208) - Cursor forum thread: Inkbox marketplace MCP showed connected with 51 tools while the agent got “MCP server user-Inkbox not found” and dynamic tool search returned nothing.
+- [Forum: Grok Bot ignores plugin mcpServers optional field](https://forum.cursor.com/t/grok-bot-cursor-cloud-agents-not-respecting-mcpservers-optional-field/173273) - Cursor forum bug report: Grok Bot and Cursor cloud agents appear not to honor the plugin manifest mcpServers optional field when MCP config is not the default mcp.json name.
 - [Three Surfaces — IDE, Agents Projects, and Grok Bot (forum)](https://forum.cursor.com/t/now-we-have-three-surfaces/172965) - Forum thread (tagged grok-bot): Cursor IDE, Agents Projects, and Grok Bot feel like three separate surfaces with weak cross-integration.
 - [Agent Computer unreachable on iOS and Windows](https://forum.cursor.com/t/subject-grok-bot-agent-computer-unreachable-on-ios-and-windows/172958) - Bug report: brand-new Grok Bot install cannot reach the Agent Computer on iOS and Windows.
 - [Stuck on Setting up Grok Bot's computer (Mac/iOS)](https://forum.cursor.com/t/grok-bot-stuck-on-setting-up-grok-bots-computer-mac-and-ios-cannot-connect/172957) - Report that Grok Bot stays on “Setting up Grok Bot's computer” on Mac and iOS and never reaches the Agent Computer.
@@ -1918,7 +1928,7 @@
 
 ## Contributing
 
-1806 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1816 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
