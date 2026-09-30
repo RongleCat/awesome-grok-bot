@@ -27,12 +27,6 @@
 <a id="pgh-20261013"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/6lx5t8ru"><img src="./assets/events/pgh-20261013-cover.png" alt="Grok Bot Meetup Pittsburgh" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Pittsburgh</strong><br />2026-10-13（火）18:30–20:30（EDT）<br />ピッツバーグ · Oakland / Lawrenceville（登録後に住所を表示）<br /><br />ピッツバーグ初のシティ向け対面ミートアップ（キャンパス限定ではない）。短いデモの後にビルド／セットアップ共有。学生・社会人歓迎。主催 Micah Smith。無料・先着約30席。<br /><br /><a href="https://luma.com/6lx5t8ru"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="phl-20260929"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-hdle"><img src="./assets/events/phl-20260929-cover.png" alt="Grok Bot Meetup Philadelphia" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Philadelphia</strong><br />2026-09-29（火）18:00–20:30（America/New_York、EDT、UTC−4）<br />フィラデルフィア · Indy Hall Clubhouse、709 N 2nd St 3rd Floor<br /><br />SpaceXAI for Philadelphia 初の Grok Bot Meetup（主催 Luis Cielak / Malcolm Jones）。マルチエージェント共有・Think–Pair–Share・飲食・Free Grok credits。無料・承認不要・スキャン時 49 名。会場 Indy Hall。隔夜リネーム：9/12 夕は “Cursor Meetup Philadelphia — September”（未提案の Cursor 枠）→ 現在は Grok Bot Meetup。期限切れの campus 枠 phl-20260903 / tmp-20260903 とは別。<br /><br /><a href="https://luma.com/cursor-hdle"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="sfp-20260929"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotproduct-sf"><img src="./assets/events/sfp-20260929-cover.png" alt="Grok Bot for Product build night (SF)" width="300" /></a></td><td valign="top"><strong>Grok Bot for Product build night (SF)</strong><br />2026-09-29（火）17:00–20:30（America/Los_Angeles、PDT、UTC−7）<br />サンフランシスコ · 会場 TBA（オフライン）<br /><br />SpaceXAI Community の Product 向けビルドナイト（主催 Sunita Rao；forum 171547）。Howard の sfpm-20260915（9/15）とは別。17:00–20:30。ローカル日 9/29。slug grokbotproduct-sf（= spacexai-81pf）。<br /><br /><a href="https://luma.com/grokbotproduct-sf"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
 <a id="chi-20260930"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotrecruiting-chicago"><img src="./assets/events/chi-20260930-cover.png" alt="Grok Bot build night for Recruiting (Chicago)" width="300" /></a></td><td valign="top"><strong>Grok Bot build night for Recruiting (Chicago)</strong><br />2026-09-30（水）17:00–20:30（America/Chicago、CDT、UTC−5）<br />シカゴ · 会場 TBA（オフライン）<br /><br />SpaceXAI Community の Recruiting 向けビルドナイト（主催 Sunita Rao；forum 171548）。シカゴ時間 17:00–20:30。オフライン無料。初のシカゴ枠。slug grokbotrecruiting-chicago（= spacexai-k0po）。<br /><br /><a href="https://luma.com/grokbotrecruiting-chicago"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
@@ -59,9 +53,6 @@
 
 <a id="was-20261007"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/h2ijioha"><img src="./assets/events/was-20261007-cover.png" alt="Grok Bot Meetup ワシントンDC" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ワシントンDC</strong><br />2026-10-07（水）17:30–20:30（America/New_York、EDT、UTC−4）<br />ワシントンDC · Downtown（Luma 上は会場詳細非公開）— オフライン<br /><br />ワシントンDC初の Grok Bot ミートアップ（HireNimbus 共同創業者主催）。Galaxy SF の後、Grok Bot の使い方を共有。無料。現時点で約15名。Luma で登録。<br /><br /><a href="https://luma.com/h2ijioha"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="was-20260929"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cwzr9s9c"><img src="./assets/events/was-20260929-cover.png" alt="AI Demo Night：Grok Bot & Hermes（DC）" width="300" /></a></td><td valign="top"><strong>AI Demo Night：Grok Bot & Hermes（DC）</strong><br />2026-09-29（火）17:30–20:00（America/New_York）<br />米国ワシントンDC · Prefect HQ（2112 Pennsylvania Ave NW）— オフライン<br /><br />AI Build Club DC の Prefect HQ デモナイト。Grok Bot と Hermes の永続エージェント（約45名）。飲食あり。Luma で登録。<br /><br /><a href="https://luma.com/cwzr9s9c"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="pas-20261008"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/l4yagss3"><img src="./assets/events/pas-20261008-cover.png" alt="Startup Club × SpaceXAI Build Night（Caltech）" width="300" /></a></td><td valign="top"><strong>Startup Club × SpaceXAI Build Night（Caltech）</strong><br />2026-10-07（水）19:00–21:00（America/Los_Angeles）<br />米国カリフォルニア州パサデナ · Hameetman Center / Winnett（Caltech）— オフライン<br /><br />Caltech 初の公開 SpaceXAI ナイト（Startup Club）。リポジトリデモ後に Cursor / Grok Bot で制作。Luma で登録。<br /><br /><a href="https://luma.com/l4yagss3"><strong>Luma で申し込む →</strong></a></td></tr></table>

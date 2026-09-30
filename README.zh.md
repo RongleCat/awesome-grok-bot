@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1844-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1859-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（4）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [澳门](./EVENTS.zh.md#mo-20261007) · [澳门](./EVENTS.zh.md#mo-20261112)
-- **美国**（16）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [费城](./EVENTS.zh.md#phl-20260929) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007) · [华盛顿特区](./EVENTS.zh.md#was-20260929) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012)
+- **美国**（13）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012)
 - **加拿大**（5）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010) · [卡尔加里](./EVENTS.zh.md#yyc-20261028)
 - **德国**（5）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20261023) · [法兰克福](./EVENTS.zh.md#fra-20261120) · [卡塞尔](./EVENTS.zh.md#kas-20261112)
 - **巴西**（4）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20261016)
@@ -197,6 +197,7 @@
 - [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - 官方 SpaceXAI 文档：企业 TLS 解密网关（如 Zscaler）下配置 Grok Bot——放行嵌套 *.*.cursorvm.com，关闭 SSL 解密与响应缓冲；用于聊天仍可用但云电脑一直连不上时的排查。.
 - [Skills, Plugins & Marketplaces (Grok Build docs)](https://docs.x.ai/build/features/skills-plugins-marketplaces) - 官方 SpaceXAI Grok Build 文档：安装与发布 skills/plugins/marketplaces；与 Grok Bot 市场安装共用同一打包模型。.
 - [Team Bots (Cursor Help)](https://cursor.com/help/grok-bot/team-bots) - Cursor 官方帮助：Team Bots——把云端 Grok Bot 发布到 Cursor 团队，队友各自与同一共享 Bot 开私密会话。.
+- [Team Bots: AI coworkers that learn from your team](https://x.ai/news/team-bots) - 官方 SpaceXAI 新闻（2026-09-28）：Team Bots——把 Grok Bot 分享给团队，大家在 Slack 或 Grok Bot 里共用同一套技能、插件与凭证（Teams/Enterprise 公开测试）。.
 
 ## 教程与上手指南
 
@@ -1068,6 +1069,10 @@
 - [Founder Bot — day-one co-founder Grok Bot template](https://github.com/Grryp-LLC/founder-bot) - Grok Bot 模板：逐问采访创始人，搭好可追踪的 34 项 Launch Board（主体、店铺、营销、账务、运营），并每周产出可分享的进度卡。.
 - [Longwave — video pipeline MCP plugin for Grok Bot](https://github.com/Longwave-Media/longwave-plugin) - MCP 插件：让 Grok Bot（及 Cursor/Claude Code）接入创作者视频流水线——Shorts、缩略图、播客 RSS，并发布到创作者自己的 YouTube；一次 OAuth，代理侧无需 API key。.
 - [Grok Bot Studio Kit — one-person studio templates](https://github.com/w0rldwid3vib3s/grok-bot-studio-kit) - 免费「参谋长」模板与十条运营规则，用于用 Grok Bot 团队跑一人工作室，并在发帖/发送前设审批闸门。.
+- [Grok Switch Plus — maintained model switcher for Grok Bot](https://github.com/yuwenjie058-boop/grok-switch-plus) - 基于 grok-bot-switch 的持续维护分支：面向 Grok Bot Linux 云电脑的单文件模型/供应商切换器，含宿主适配、工具调用修复、上下文裁剪与带守护的更新恢复。.
+- [Organify — workspace/projects MCP plugin for Grok Build](https://github.com/organifystudio/organify-grok-plugin) - Organify 官方 .grok-plugin：经托管 OAuth MCP 管理空间、项目、任务与通知，无需粘贴 API key；可装到 Grok Build 与 Claude Code。.
+- [BakLater — private recommendation library plugin for Grok Build](https://github.com/hakantaymaz/baklater-grok-plugin) - BakLater 官方 Grok Build .grok-plugin：经托管 OAuth MCP 保存/搜索私人推荐库（电影、书籍、地点等）。.
+- [MarketNow — MCP trust-layer plugin (incl. Grok Build)](https://github.com/alicelabs-llc/marketnow-agent) - 通用智能体插件：接入 MarketNow 托管 MCP 信任层（凭证校验、域名风险、大型 MCP 注册表），支持 Grok Build、Cursor、Claude Code 等安装路径。.
 
 ## 评测与对比
 
@@ -1446,6 +1451,9 @@
 - [grokbot-mcp — sync MCP bridge for Grok Bot webhooks](https://github.com/YunosukeYoshino/grokbot-mcp) - Cloudflare Worker：把 Grok Bot（Cursor automation）异步 webhook 回调收成同步 MCP 工具结果，含 TypeScript 测试与日文 README。.
 - [Meeting Action Tracker — Granola→kanban Grok Bot agent](https://github.com/script-repo/meeting-action-tracker) - Grok Bot agent 包：盯 Granola 会议笔记，抽出带负责人/日期的 action items，去重后写入 markdown 看板（Backlog/Doing/Done）。.
 - [Dostigus — self-host household agent OS (Grok Bot alt)](https://github.com/dostigus/dostigus) - 自托管家庭智能体 OS：在自有 Host 上跑 Bots、聊天、日程、OpenRouter 供应商与 MCP——相对把循环放在 Grok Bot 云电脑上的开源替代。.
+- [BalaBot — single-container multi-agent OS (Grok Bot–inspired)](https://github.com/afaraha8403/balabot) - MIT 开源、单容器多智能体：principal、governor 决策账本、常驻智能体与子智能体，编排模式对标 Grok Bot 名单（强依赖 TypeSafe AI Jev）。.
+- [KALE 9000 — phone-camera plant-care stack for Grok Bot](https://github.com/darrellgum/kale-9000) - KALE 9000 Grok Bot 植物养护模板的配套代码：闲置手机网页摄像头、经 Cloudflare 隧道上传到 Bot 云电脑的看门狗，以及可选智能插座桥。.
+- [foss-bot — open multi-agent team for Claude Code/Codex](https://github.com/dyl-joseph/foss-bot) - 开源的 Grok Bot 风格多 Bot 团队（首席参谋+专家席）面向 Claude Code/Codex，支持跨模型席位与可选每工人 CUA 微虚拟机，不另起应用运行时。.
 
 ## 社区与故障现场
 
@@ -1680,6 +1688,11 @@
 - [Forum: show/edit Bot role description in the info pane](https://forum.cursor.com/t/grok-bot-show-and-edit-bot-role-description-in-the-info-pane-match-docs/173333) - 功能请求：Bot 信息面板仍缺少文档所述的角色描述字段，用户只能在对话里让 Bot 改自己的岗位说明。.
 - [Forum: Shared 1Password autofill says Filled but password empty](https://forum.cursor.com/t/grok-bot-shared-1password-autofill-says-filled-but-password-stays-empty-instagram/173365) - 缺陷报告：Shared with Grok Bot 的 1Password Connect 在 Instagram/Letterboxd 显示 Filled，但只有用户名填上、密码仍空，Bot 无法独自完成登录。.
 - [Forum: Gmail connector rewrites links into google.com/url redirects](https://forum.cursor.com/t/grok-bot-gmail-connector-user-gmail-rewrites-every-link-into-google-com-url-redirects-on-create-draft-and-send-message/173321) - 缺陷报告：user-Gmail 的 create_draft/send_message 会把每条链接改写成 google.com/url 跳转（可见文本与 href 皆然），搞坏客服邮件。.
+- [Forum: Grok Bot iOS show webhook URL for routines](https://forum.cursor.com/t/grok-bot-ios-show-the-webhook-url-for-webhook-triggered-routines/173373) - 功能请求：在 Grok Bot iOS 端显示并可复制 webhook 触发例程的 URL，不要只在桌面端可见。.
+- [Forum: context compaction, clone-replace, per-bot usage](https://forum.cursor.com/t/grok-bot-agents-context-compaction-clone-replace-for-hung-chats-and-per-bot-usage-telemetry/173357) - 功能请求：为 Grok Bot/agents 提供上下文压缩、卡住对话的克隆替换，以及按 Bot 的用量遥测（而非不透明共享配额）。.
+- [Forum: Chief bot cannot message other bots](https://forum.cursor.com/t/chief-bot-not-talking-to-other-bots/173356) - 缺陷报告：Chief bot 能收到其他 Bot 的消息，但无法主动向其他 Bot 发起 Bot 间对话。.
+- [Forum: GenerateImage aspect_ratio ignored (always 1280×720)](https://forum.cursor.com/t/generateimage-accepts-aspect-ratio-but-sand-drops-it-always-returns-1280x720-jpeg/173363) - 缺陷报告：Grok Bot/Sand 的 GenerateImage 工具 schema 接受 aspect_ratio，但实际始终返回 1280×720 JPEG，比例参数被丢弃。.
+- [Forum: per-site routing through my computer](https://forum.cursor.com/t/feature-request-per-site-routing-through-my-computer/173349) - 功能请求：将「经此电脑路由流量」改为按站点可选，而非全开/全关，以便仅让被拦站点走家里机器出口。.
 
 ## 相关列表
 
@@ -1953,10 +1966,12 @@
 - [Grok Bot Galaxy Day 3 — bilingual session notes](https://github.com/HiEllenC/grokbot-galaxy-day3) - Ellen 整理的 Grok Bot Galaxy 第 3 日中英双语 PDF 笔记，并链到 Day 2 的 GitHub Pages 记录。.
 - [GrokBotChineseFix — Windows fullwidth comma for Grok Bot](https://github.com/thinkingpowerai-ux/GrokBotChineseFix) - Windows 小工具：仅在 Grok Bot 桌面窗口前台时，把 Ctrl+, 改成输入全角中文逗号。.
 - [Xiaomei Signal — pixel macOS status light for Grok Bot](https://github.com/rw174655-ux/xiaomei-signal) - 为 Grok Bot 做的像素风 macOS 悬浮信号灯（绿/黄/红），影子随一天中的时间变方向，一眼看出 Bot 在推进、在等你还是卡住。.
+- [HTML Artifacts reference — Grok Bot canvas skill pages](https://github.com/Biggles10-claude/html-artifacts-reference) - Grok Bot html-artifacts 技能的公开参考：GitHub Pages 上的类 Claude Artifacts 单页画布（替代旧版 live-deck 滑动壳）。.
+- [VoiceOS × Grok Bot integration template](https://github.com/Arav-Rithvik-VoiceOS/voiceos-grokbot-integration) - VoiceOS 对接 Grok Bot 的集成模板：含 macOS 钥匙串「Grok Bot Safe Storage」Always Allow 步骤与 MCP 服务端骨架。.
 
 ## 贡献
 
-目前 8 个分类、1844 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1859 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

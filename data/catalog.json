@@ -1104,6 +1104,16 @@
             "zh": "Cursor 官方帮助：Team Bots——把云端 Grok Bot 发布到 Cursor 团队，队友各自与同一共享 Bot 开私密会话。",
             "ja": "Cursor 公式ヘルプの Team Bots。クラウドの Grok Bot をチームに公開し、各自がその共有ボットとプライベートチャットできます。"
           }
+        },
+        {
+          "title": "Team Bots: AI coworkers that learn from your team",
+          "url": "https://x.ai/news/team-bots",
+          "source": "GB-1869",
+          "blurb": {
+            "en": "Official SpaceXAI news (2026-09-28): Team Bots—share a Grok Bot with your team so everyone works from the same skills, plugins, and credentials in Slack or Grok Bot (public beta for Teams/Enterprise).",
+            "zh": "官方 SpaceXAI 新闻（2026-09-28）：Team Bots——把 Grok Bot 分享给团队，大家在 Slack 或 Grok Bot 里共用同一套技能、插件与凭证（Teams/Enterprise 公开测试）。",
+            "ja": "公式 SpaceXAI ニュース（2026-09-28）。Team Bots：スキル・プラグイン・資格情報を共有した Grok Bot をチームで使い、Slack または Grok Bot で同じ文脈で働く（Teams/Enterprise 公開ベータ）。"
+          }
         }
       ]
     },
@@ -9754,6 +9764,46 @@
             "zh": "免费「参谋长」模板与十条运营规则，用于用 Grok Bot 团队跑一人工作室，并在发帖/发送前设审批闸门。",
             "ja": "一人スタジオを Grok Bot チームで回すための無料 Chief of Staff テンプレと運用ルール 10 条。投稿・送信前に承認ゲートを置く。"
           }
+        },
+        {
+          "title": "Grok Switch Plus — maintained model switcher for Grok Bot",
+          "url": "https://github.com/yuwenjie058-boop/grok-switch-plus",
+          "source": "GB-1870",
+          "blurb": {
+            "en": "Independently maintained fork of grok-bot-switch: one-file model/provider switcher for the Grok Bot Linux box with host adaptation, tool-call fixes, context trimming, and guarded update recovery.",
+            "zh": "基于 grok-bot-switch 的持续维护分支：面向 Grok Bot Linux 云电脑的单文件模型/供应商切换器，含宿主适配、工具调用修复、上下文裁剪与带守护的更新恢复。",
+            "ja": "grok-bot-switch の独立メンテ版。Grok Bot Linux ボックス向け単一ファイルのモデル／プロバイダ切替器で、ホスト適応・ツール呼び出し修正・文脈整理・更新リカバリを備える。"
+          }
+        },
+        {
+          "title": "Organify — workspace/projects MCP plugin for Grok Build",
+          "url": "https://github.com/organifystudio/organify-grok-plugin",
+          "source": "GB-1871",
+          "blurb": {
+            "en": "Official Organify .grok-plugin: manage workspaces, projects, tasks, and notifications via Organify’s hosted OAuth MCP—no API key paste; installable for Grok Build and Claude Code.",
+            "zh": "Organify 官方 .grok-plugin：经托管 OAuth MCP 管理空间、项目、任务与通知，无需粘贴 API key；可装到 Grok Build 与 Claude Code。",
+            "ja": "Organify 公式 .grok-plugin。ホスト OAuth MCP でワークスペース・プロジェクト・タスク・通知を管理（API キー貼り付け不要）。Grok Build / Claude Code 向け。"
+          }
+        },
+        {
+          "title": "BakLater — private recommendation library plugin for Grok Build",
+          "url": "https://github.com/hakantaymaz/baklater-grok-plugin",
+          "source": "GB-1872",
+          "blurb": {
+            "en": "Official BakLater .grok-plugin for Grok Build: save and search a private recommendation library (movies, books, places, and more) through BakLater’s hosted OAuth MCP.",
+            "zh": "BakLater 官方 Grok Build .grok-plugin：经托管 OAuth MCP 保存/搜索私人推荐库（电影、书籍、地点等）。",
+            "ja": "BakLater 公式 Grok Build .grok-plugin。ホスト OAuth MCP で映画・本・場所などのプライベート推奨ライブラリを保存・検索。"
+          }
+        },
+        {
+          "title": "MarketNow — MCP trust-layer plugin (incl. Grok Build)",
+          "url": "https://github.com/alicelabs-llc/marketnow-agent",
+          "source": "GB-1873",
+          "blurb": {
+            "en": "Universal agent plugin that adds MarketNow’s hosted MCP trust layer—credential verify, domain scam checks, and a large MCP registry—with install paths for Grok Build, Cursor, Claude Code, and more.",
+            "zh": "通用智能体插件：接入 MarketNow 托管 MCP 信任层（凭证校验、域名风险、大型 MCP 注册表），支持 Grok Build、Cursor、Claude Code 等安装路径。",
+            "ja": "MarketNow のホスト MCP 信頼レイヤ（資格情報検証・ドメイン検査・大規模 MCP レジストリ）を足すユニバーサルプラグイン。Grok Build / Cursor / Claude Code などに対応。"
+          }
         }
       ]
     },
@@ -13494,6 +13544,36 @@
             "zh": "自托管家庭智能体 OS：在自有 Host 上跑 Bots、聊天、日程、OpenRouter 供应商与 MCP——相对把循环放在 Grok Bot 云电脑上的开源替代。",
             "ja": "自前 Host 上で Bots・チャット・スケジュール・OpenRouter・MCP を動かすセルフホスト家庭向けエージェント OS。Grok Bot のクラウドパソコンにループを置く代わりのオープン代替。"
           }
+        },
+        {
+          "title": "BalaBot — single-container multi-agent OS (Grok Bot–inspired)",
+          "url": "https://github.com/afaraha8403/balabot",
+          "source": "GB-1874",
+          "blurb": {
+            "en": "MIT open-source multi-agent stack in one Docker container—principal, governor ledger, persistent agents and sub-agents—patterned on Grok Bot’s roster model (hard-depends on TypeSafe AI Jev).",
+            "zh": "MIT 开源、单容器多智能体：principal、governor 决策账本、常驻智能体与子智能体，编排模式对标 Grok Bot 名单（强依赖 TypeSafe AI Jev）。",
+            "ja": "MIT の単一コンテナ多智能体。principal・governor 台帳・常駐／サブエージェントで、Grok Bot のロスター型に近い（TypeSafe AI Jev が必須依存）。"
+          }
+        },
+        {
+          "title": "KALE 9000 — phone-camera plant-care stack for Grok Bot",
+          "url": "https://github.com/darrellgum/kale-9000",
+          "source": "GB-1875",
+          "blurb": {
+            "en": "Companion code for the KALE 9000 Grok Bot plant-care template: spare-phone camera capture, watchdog uploads to the Bot computer via Cloudflare tunnel, and optional smart-plug bridge.",
+            "zh": "KALE 9000 Grok Bot 植物养护模板的配套代码：闲置手机网页摄像头、经 Cloudflare 隧道上传到 Bot 云电脑的看门狗，以及可选智能插座桥。",
+            "ja": "KALE 9000 Grok Bot 植物ケアテンプレ用コード。予備スマホのカメラ撮影、Cloudflare トンネルで Bot パソコンへ送る watchdog、任意のスマートプラグ橋。"
+          }
+        },
+        {
+          "title": "foss-bot — open multi-agent team for Claude Code/Codex",
+          "url": "https://github.com/dyl-joseph/foss-bot",
+          "source": "GB-1876",
+          "blurb": {
+            "en": "Open-source Grok Bot–style chief-of-staff + specialist bots for Claude Code and Codex, with cross-model seats and optional per-worker CUA microVMs—no new app runtime.",
+            "zh": "开源的 Grok Bot 风格多 Bot 团队（首席参谋+专家席）面向 Claude Code/Codex，支持跨模型席位与可选每工人 CUA 微虚拟机，不另起应用运行时。",
+            "ja": "Claude Code / Codex 向けのオープンな Grok Bot 風マルチエージェント（参謀＋専門 Bot）。クロスモデル席と任意のワーカー別 CUA microVM。新ランタイムなし。"
+          }
         }
       ]
     },
@@ -15813,6 +15893,56 @@
             "en": "Bug report: user-Gmail create_draft/send_message wraps every URL as a google.com/url redirect in both visible text and href, breaking support emails.",
             "zh": "缺陷报告：user-Gmail 的 create_draft/send_message 会把每条链接改写成 google.com/url 跳转（可见文本与 href 皆然），搞坏客服邮件。",
             "ja": "不具合報告。user-Gmail の create_draft/send_message がすべての URL を google.com/url リダイレクトに書き換え（表示・href とも）、サポートメールが壊れる。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot iOS show webhook URL for routines",
+          "url": "https://forum.cursor.com/t/grok-bot-ios-show-the-webhook-url-for-webhook-triggered-routines/173373",
+          "source": "GB-1879",
+          "blurb": {
+            "en": "Feature request: show and copy the webhook URL for webhook-triggered routines inside the Grok Bot iOS app, not only on desktop.",
+            "zh": "功能请求：在 Grok Bot iOS 端显示并可复制 webhook 触发例程的 URL，不要只在桌面端可见。",
+            "ja": "機能要望。webhook 起動ルーチンの URL を Grok Bot iOS アプリでも表示・コピーできるようにしてほしい（デスクトップのみでなく）。"
+          }
+        },
+        {
+          "title": "Forum: context compaction, clone-replace, per-bot usage",
+          "url": "https://forum.cursor.com/t/grok-bot-agents-context-compaction-clone-replace-for-hung-chats-and-per-bot-usage-telemetry/173357",
+          "source": "GB-1880",
+          "blurb": {
+            "en": "Feature request for Grok Bot/agents: context compaction, clone-and-replace hung chats, and per-bot usage telemetry instead of opaque shared quotas.",
+            "zh": "功能请求：为 Grok Bot/agents 提供上下文压缩、卡住对话的克隆替换，以及按 Bot 的用量遥测（而非不透明共享配额）。",
+            "ja": "機能要望。Grok Bot/agents 向けに文脈圧縮、固まったチャットの clone-replace、共有枠ではなく Bot 単位の利用テレメトリ。"
+          }
+        },
+        {
+          "title": "Forum: Chief bot cannot message other bots",
+          "url": "https://forum.cursor.com/t/chief-bot-not-talking-to-other-bots/173356",
+          "source": "GB-1881",
+          "blurb": {
+            "en": "Bug report: a Chief bot receives messages from other bots but cannot initiate Bot-to-Bot chats the other way.",
+            "zh": "缺陷报告：Chief bot 能收到其他 Bot 的消息，但无法主动向其他 Bot 发起 Bot 间对话。",
+            "ja": "不具合報告。Chief bot は他 Bot からのメッセージは受け取れるが、逆方向の Bot 間チャットを開始できない。"
+          }
+        },
+        {
+          "title": "Forum: GenerateImage aspect_ratio ignored (always 1280×720)",
+          "url": "https://forum.cursor.com/t/generateimage-accepts-aspect-ratio-but-sand-drops-it-always-returns-1280x720-jpeg/173363",
+          "source": "GB-1882",
+          "blurb": {
+            "en": "Bug report: Grok Bot/Sand GenerateImage accepts aspect_ratio in the schema but always returns 1280×720 JPEG, dropping the requested ratio.",
+            "zh": "缺陷报告：Grok Bot/Sand 的 GenerateImage 工具 schema 接受 aspect_ratio，但实际始终返回 1280×720 JPEG，比例参数被丢弃。",
+            "ja": "不具合報告。Grok Bot/Sand の GenerateImage は schema で aspect_ratio を受けるが、常に 1280×720 JPEG を返し比率が落ちる。"
+          }
+        },
+        {
+          "title": "Forum: per-site routing through my computer",
+          "url": "https://forum.cursor.com/t/feature-request-per-site-routing-through-my-computer/173349",
+          "source": "GB-1883",
+          "blurb": {
+            "en": "Feature request: make “Route traffic through this computer” per-site instead of all-or-nothing, so only blocked sites leave via the home machine.",
+            "zh": "功能请求：将「经此电脑路由流量」改为按站点可选，而非全开/全关，以便仅让被拦站点走家里机器出口。",
+            "ja": "機能要望。「このコンピュータ経由で通信」を全か無かではなくサイト単位にし、ブロックされるサイトだけ自宅回線へ。"
           }
         }
       ]
@@ -18523,6 +18653,26 @@
             "en": "Pixel-art macOS floating status light for Grok Bot (green/yellow/red) whose shadow tracks the time of day, so you can glance whether the Bot is progressing, waiting, or stuck.",
             "zh": "为 Grok Bot 做的像素风 macOS 悬浮信号灯（绿/黄/红），影子随一天中的时间变方向，一眼看出 Bot 在推进、在等你还是卡住。",
             "ja": "Grok Bot 用のピクセル風 macOS フローティング信号灯（緑/黄/赤）。影が時刻で向きを変え、進行中・待機・停止を一目で分かる。"
+          }
+        },
+        {
+          "title": "HTML Artifacts reference — Grok Bot canvas skill pages",
+          "url": "https://github.com/Biggles10-claude/html-artifacts-reference",
+          "source": "GB-1877",
+          "blurb": {
+            "en": "Public reference for Grok Bot’s html-artifacts skill: Claude Artifacts–style single-page canvases on GitHub Pages (replaces the old live-deck swipe chrome).",
+            "zh": "Grok Bot html-artifacts 技能的公开参考：GitHub Pages 上的类 Claude Artifacts 单页画布（替代旧版 live-deck 滑动壳）。",
+            "ja": "Grok Bot の html-artifacts スキル向け公開リファレンス。GitHub Pages 上の Claude Artifacts 風単一ページ（旧 live-deck スワイプ UI の代替）。"
+          }
+        },
+        {
+          "title": "VoiceOS × Grok Bot integration template",
+          "url": "https://github.com/Arav-Rithvik-VoiceOS/voiceos-grokbot-integration",
+          "source": "GB-1878",
+          "blurb": {
+            "en": "VoiceOS integration template for routing spoken tools to Grok Bot, including the macOS Keychain “Grok Bot Safe Storage” Always Allow setup step and MCP server stubs.",
+            "zh": "VoiceOS 对接 Grok Bot 的集成模板：含 macOS 钥匙串「Grok Bot Safe Storage」Always Allow 步骤与 MCP 服务端骨架。",
+            "ja": "VoiceOS 向け Grok Bot 統合テンプレート。発話ツールを Grok Bot へルーティングし、macOS キーチェーン「Grok Bot Safe Storage」の Always Allow 手順と MCP サーバ雛形を含む。"
           }
         }
       ]

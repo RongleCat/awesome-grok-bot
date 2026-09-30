@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1844-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1859-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（4）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261007) · [Macao](./EVENTS.md#mo-20261112)
-- **United States**（16）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Philadelphia](./EVENTS.md#phl-20260929) · [San Francisco](./EVENTS.md#sfp-20260929) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Washington, DC](./EVENTS.md#was-20260929) · [Pasadena](./EVENTS.md#pas-20261008) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012)
+- **United States**（13）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Chicago](./EVENTS.md#chi-20260930) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Pasadena](./EVENTS.md#pas-20261008) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012)
 - **Canada**（5）：[Calgary](./EVENTS.md#yyc-20260930) · [Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010) · [Calgary](./EVENTS.md#yyc-20261028)
 - **Germany**（5）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261023) · [Frankfurt](./EVENTS.md#fra-20261120) · [Kassel](./EVENTS.md#kas-20261112)
 - **Brazil**（4）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Salvador](./EVENTS.md#ssa-20261008) · [Florianópolis](./EVENTS.md#fln-20261016)
@@ -197,6 +197,7 @@
 - [Configure TLS-inspecting proxies (docs.x.ai)](https://docs.x.ai/grok-bot/proxies) - Official SpaceXAI docs for Grok Bot behind TLS-inspecting gateways (e.g. Zscaler): allow nested *.*.cursorvm.com, exempt those domains from SSL inspection and response buffering, and verify computer setup when chat still works but the cloud computer never connects.
 - [Skills, Plugins & Marketplaces (Grok Build docs)](https://docs.x.ai/build/features/skills-plugins-marketplaces) - Official SpaceXAI Grok Build docs for installing and publishing skills, plugins, and marketplaces—the same packaging model Grok Bot uses for Marketplace installs.
 - [Team Bots (Cursor Help)](https://cursor.com/help/grok-bot/team-bots) - Official Cursor Help page for Team Bots: publish a cloud Grok Bot to your Cursor team so teammates can each open a private chat with the same shared bot.
+- [Team Bots: AI coworkers that learn from your team](https://x.ai/news/team-bots) - Official SpaceXAI news (2026-09-28): Team Bots—share a Grok Bot with your team so everyone works from the same skills, plugins, and credentials in Slack or Grok Bot (public beta for Teams/Enterprise).
 
 ## Tutorials & Guides
 
@@ -1068,6 +1069,10 @@
 - [Founder Bot — day-one co-founder Grok Bot template](https://github.com/Grryp-LLC/founder-bot) - Grok Bot template that interviews a founder, builds a tracked 34-item Launch Board (entity, store, marketing, books, ops), and ships a shareable weekly mission-control progress card.
 - [Longwave — video pipeline MCP plugin for Grok Bot](https://github.com/Longwave-Media/longwave-plugin) - MCP plugin that gives Grok Bot (and Cursor/Claude Code) a creator video pipeline—Shorts, thumbnails, podcast RSS, and publish to the creator’s own YouTube—via one OAuth connection with no API key in the agent.
 - [Grok Bot Studio Kit — one-person studio templates](https://github.com/w0rldwid3vib3s/grok-bot-studio-kit) - Free Chief of Staff template plus ten operating rules for running a one-person studio on a Grok Bot team, with approval gates before anything posts or sends.
+- [Grok Switch Plus — maintained model switcher for Grok Bot](https://github.com/yuwenjie058-boop/grok-switch-plus) - Independently maintained fork of grok-bot-switch: one-file model/provider switcher for the Grok Bot Linux box with host adaptation, tool-call fixes, context trimming, and guarded update recovery.
+- [Organify — workspace/projects MCP plugin for Grok Build](https://github.com/organifystudio/organify-grok-plugin) - Official Organify .grok-plugin: manage workspaces, projects, tasks, and notifications via Organify’s hosted OAuth MCP—no API key paste; installable for Grok Build and Claude Code.
+- [BakLater — private recommendation library plugin for Grok Build](https://github.com/hakantaymaz/baklater-grok-plugin) - Official BakLater .grok-plugin for Grok Build: save and search a private recommendation library (movies, books, places, and more) through BakLater’s hosted OAuth MCP.
+- [MarketNow — MCP trust-layer plugin (incl. Grok Build)](https://github.com/alicelabs-llc/marketnow-agent) - Universal agent plugin that adds MarketNow’s hosted MCP trust layer—credential verify, domain scam checks, and a large MCP registry—with install paths for Grok Build, Cursor, Claude Code, and more.
 
 ## Reviews & Comparisons
 
@@ -1446,6 +1451,9 @@
 - [grokbot-mcp — sync MCP bridge for Grok Bot webhooks](https://github.com/YunosukeYoshino/grokbot-mcp) - Cloudflare Worker that turns Grok Bot Cursor automation webhook callbacks into synchronous MCP tool results, with TypeScript tests and a Japanese README.
 - [Meeting Action Tracker — Granola→kanban Grok Bot agent](https://github.com/script-repo/meeting-action-tracker) - Grok Bot agent pack that watches Granola meeting notes, extracts action items with owners/dates, dedupes them, and writes a markdown kanban (Backlog/Doing/Done).
 - [Dostigus — self-host household agent OS (Grok Bot alt)](https://github.com/dostigus/dostigus) - Self-hosted household agent OS with bots, chat, schedules, OpenRouter providers, and MCP on your own Host—an open alternative to keeping the loop on Grok Bot’s cloud computer.
+- [BalaBot — single-container multi-agent OS (Grok Bot–inspired)](https://github.com/afaraha8403/balabot) - MIT open-source multi-agent stack in one Docker container—principal, governor ledger, persistent agents and sub-agents—patterned on Grok Bot’s roster model (hard-depends on TypeSafe AI Jev).
+- [KALE 9000 — phone-camera plant-care stack for Grok Bot](https://github.com/darrellgum/kale-9000) - Companion code for the KALE 9000 Grok Bot plant-care template: spare-phone camera capture, watchdog uploads to the Bot computer via Cloudflare tunnel, and optional smart-plug bridge.
+- [foss-bot — open multi-agent team for Claude Code/Codex](https://github.com/dyl-joseph/foss-bot) - Open-source Grok Bot–style chief-of-staff + specialist bots for Claude Code and Codex, with cross-model seats and optional per-worker CUA microVMs—no new app runtime.
 
 ## Community & Failure Modes
 
@@ -1680,6 +1688,11 @@
 - [Forum: show/edit Bot role description in the info pane](https://forum.cursor.com/t/grok-bot-show-and-edit-bot-role-description-in-the-info-pane-match-docs/173333) - Feature request: Bot info pane still lacks the documented role-description field, so users must ask the Bot in chat to update its standing job brief.
 - [Forum: Shared 1Password autofill says Filled but password empty](https://forum.cursor.com/t/grok-bot-shared-1password-autofill-says-filled-but-password-stays-empty-instagram/173365) - Bug report: Shared-with-Grok-Bot 1Password Connect shows Filled on Instagram/Letterboxd but only username lands—password stays empty so bots cannot finish logins alone.
 - [Forum: Gmail connector rewrites links into google.com/url redirects](https://forum.cursor.com/t/grok-bot-gmail-connector-user-gmail-rewrites-every-link-into-google-com-url-redirects-on-create-draft-and-send-message/173321) - Bug report: user-Gmail create_draft/send_message wraps every URL as a google.com/url redirect in both visible text and href, breaking support emails.
+- [Forum: Grok Bot iOS show webhook URL for routines](https://forum.cursor.com/t/grok-bot-ios-show-the-webhook-url-for-webhook-triggered-routines/173373) - Feature request: show and copy the webhook URL for webhook-triggered routines inside the Grok Bot iOS app, not only on desktop.
+- [Forum: context compaction, clone-replace, per-bot usage](https://forum.cursor.com/t/grok-bot-agents-context-compaction-clone-replace-for-hung-chats-and-per-bot-usage-telemetry/173357) - Feature request for Grok Bot/agents: context compaction, clone-and-replace hung chats, and per-bot usage telemetry instead of opaque shared quotas.
+- [Forum: Chief bot cannot message other bots](https://forum.cursor.com/t/chief-bot-not-talking-to-other-bots/173356) - Bug report: a Chief bot receives messages from other bots but cannot initiate Bot-to-Bot chats the other way.
+- [Forum: GenerateImage aspect_ratio ignored (always 1280×720)](https://forum.cursor.com/t/generateimage-accepts-aspect-ratio-but-sand-drops-it-always-returns-1280x720-jpeg/173363) - Bug report: Grok Bot/Sand GenerateImage accepts aspect_ratio in the schema but always returns 1280×720 JPEG, dropping the requested ratio.
+- [Forum: per-site routing through my computer](https://forum.cursor.com/t/feature-request-per-site-routing-through-my-computer/173349) - Feature request: make “Route traffic through this computer” per-site instead of all-or-nothing, so only blocked sites leave via the home machine.
 
 ## Related Lists
 
@@ -1953,10 +1966,12 @@
 - [Grok Bot Galaxy Day 3 — bilingual session notes](https://github.com/HiEllenC/grokbot-galaxy-day3) - Bilingual (EN/CN) PDF session notes from Grok Bot Galaxy Day 3 by Ellen, with a companion Day 2 GitHub Pages write-up.
 - [GrokBotChineseFix — Windows fullwidth comma for Grok Bot](https://github.com/thinkingpowerai-ux/GrokBotChineseFix) - Small Windows utility that remaps Ctrl+, to a fullwidth Chinese comma only while the Grok Bot desktop window is focused.
 - [Xiaomei Signal — pixel macOS status light for Grok Bot](https://github.com/rw174655-ux/xiaomei-signal) - Pixel-art macOS floating status light for Grok Bot (green/yellow/red) whose shadow tracks the time of day, so you can glance whether the Bot is progressing, waiting, or stuck.
+- [HTML Artifacts reference — Grok Bot canvas skill pages](https://github.com/Biggles10-claude/html-artifacts-reference) - Public reference for Grok Bot’s html-artifacts skill: Claude Artifacts–style single-page canvases on GitHub Pages (replaces the old live-deck swipe chrome).
+- [VoiceOS × Grok Bot integration template](https://github.com/Arav-Rithvik-VoiceOS/voiceos-grokbot-integration) - VoiceOS integration template for routing spoken tools to Grok Bot, including the macOS Keychain “Grok Bot Safe Storage” Always Allow setup step and MCP server stubs.
 
 ## Contributing
 
-1844 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1859 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

@@ -27,12 +27,6 @@
 <a id="pgh-20261013"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/6lx5t8ru"><img src="./assets/events/pgh-20261013-cover.png" alt="Grok Bot 匹兹堡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 匹兹堡线下交流</strong><br />2026-10-13 周二 18:30–20:30（美东）<br />匹兹堡 · Oakland / Lawrenceville（报名后可见详细地址）<br /><br />匹兹堡首场城市级 Grok Bot 线下（非校园专场）：短演示后动手/换配置；学生与在职皆可。主办 Micah Smith；免费，开放报名（约 30 席）。<br /><br /><a href="https://luma.com/6lx5t8ru"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="phl-20260929"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-hdle"><img src="./assets/events/phl-20260929-cover.png" alt="Grok Bot 费城线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 费城线下交流</strong><br />2026-09-29 周二 18:00–20:30（美东纽约 EDT，UTC−4）<br />美国费城 · Indy Hall Clubhouse，709 N 2nd St 3rd Floor<br /><br />SpaceXAI for Philadelphia 首场 Grok Bot Meetup（主办 Luis Cielak、Malcolm Jones）。多智能体工作流分享：Think–Pair–Share、agentic 流程、餐饮、Free Grok credits。免费、无需审核；扫描时报名 49。场地 Indy Hall。隔夜更名：9/12 晚间仍为 “Cursor Meetup Philadelphia — September”（Cursor 局，未收录）；现标题与正文已是 Grok Bot Meetup。不同于已过期校园场 phl-20260903 / tmp-20260903。<br /><br /><a href="https://luma.com/cursor-hdle"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
-<a id="sfp-20260929"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotproduct-sf"><img src="./assets/events/sfp-20260929-cover.png" alt="Grok Bot Product 旧金山共建夜" width="300" /></a></td><td valign="top"><strong>Grok Bot Product 旧金山共建夜</strong><br />2026-09-29 周二 17:00–20:30（美西旧金山 PDT，UTC−7）<br />美国旧金山 · 场地待公布（线下）<br /><br />SpaceXAI Community Grok Bot Product 共建夜（主办 Sunita Rao；论坛 171547）。不同于 Howard SF 的 sfpm-20260915（9/15 PM 场）。17:00–20:30；线下免费；guest_count 0。本地日 Sep 29。短链 grokbotproduct-sf（= spacexai-81pf）。<br /><br /><a href="https://luma.com/grokbotproduct-sf"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
 <a id="chi-20260930"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotrecruiting-chicago"><img src="./assets/events/chi-20260930-cover.png" alt="Grok Bot Recruiting 芝加哥共建夜" width="300" /></a></td><td valign="top"><strong>Grok Bot Recruiting 芝加哥共建夜</strong><br />2026-09-30 周三 17:00–20:30（美中芝加哥 CDT，UTC−5）<br />美国芝加哥 · 场地待公布（线下）<br /><br />SpaceXAI Community Grok Bot Recruiting 共建夜（主办 Sunita Rao；论坛 171548）。芝加哥时间 17:00–20:30。线下免费；guest_count 0。首场芝加哥。短链 grokbotrecruiting-chicago（= spacexai-k0po）。<br /><br /><a href="https://luma.com/grokbotrecruiting-chicago"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
@@ -59,9 +53,6 @@
 
 <a id="was-20261007"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/h2ijioha"><img src="./assets/events/was-20261007-cover.png" alt="Grok Bot Meetup 华盛顿特区" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 华盛顿特区</strong><br />2026-10-07 周三 17:30–20:30（美东 EDT，UTC−4）<br />美国华盛顿特区 · Downtown（Luma 上精确地址暂隐藏）— 线下<br /><br />华盛顿特区首场 Grok Bot Meetup（HireNimbus 联合创始人主办）。分享 SpaceXAI Galaxy 旧金山行后如何用 Grok Bot 做事。免费；目前约 15 人。Luma 报名。<br /><br /><a href="https://luma.com/h2ijioha"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
-<a id="was-20260929"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cwzr9s9c"><img src="./assets/events/was-20260929-cover.png" alt="AI Demo Night：Grok Bot & Hermes（华盛顿）" width="300" /></a></td><td valign="top"><strong>AI Demo Night：Grok Bot & Hermes（华盛顿）</strong><br />2026-09-29 周二 17:30–20:00（America/New_York）<br />美国华盛顿特区 · Prefect HQ（2112 Pennsylvania Ave NW）— 线下<br /><br />AI Build Club DC 在 Prefect HQ 的演示夜：持久化代理（Grok Bot 与 Hermes，约 45 人）。提供餐饮；Luma 报名。<br /><br /><a href="https://luma.com/cwzr9s9c"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 <a id="pas-20261008"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/l4yagss3"><img src="./assets/events/pas-20261008-cover.png" alt="Startup Club × SpaceXAI Build Night（Caltech）" width="300" /></a></td><td valign="top"><strong>Startup Club × SpaceXAI Build Night（Caltech）</strong><br />2026-10-07 周三 19:00–21:00（America/Los_Angeles）<br />美国加州帕萨迪纳 · Hameetman Center / Winnett（Caltech）— 线下<br /><br />Caltech 首场公开 SpaceXAI 之夜（Startup Club）：现场仓库演示后用 Cursor / Grok Bot 构建。Luma 报名。<br /><br /><a href="https://luma.com/l4yagss3"><strong>去 Luma 报名 →</strong></a></td></tr></table>
