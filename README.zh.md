@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1835-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1844-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,13 +37,13 @@
 
 [全部活动介绍](./EVENTS.zh.md)
 
-- **中国**（3）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [澳门](./EVENTS.zh.md#mo-20261007)
-- **美国**（17）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [费城](./EVENTS.zh.md#phl-20260929) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007) · [华盛顿特区](./EVENTS.zh.md#was-20260929) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [伊萨卡](./EVENTS.zh.md#ith-20260929) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012)
-- **巴西**（5）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [库里蒂巴](./EVENTS.zh.md#cwb-20260929) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20261016)
+- **中国**（4）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [澳门](./EVENTS.zh.md#mo-20261007) · [澳门](./EVENTS.zh.md#mo-20261112)
+- **美国**（16）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [费城](./EVENTS.zh.md#phl-20260929) · [旧金山](./EVENTS.zh.md#sfp-20260929) · [芝加哥](./EVENTS.zh.md#chi-20260930) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [奥斯汀](./EVENTS.zh.md#aus-20261004) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007) · [华盛顿特区](./EVENTS.zh.md#was-20260929) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012)
 - **加拿大**（5）：[卡尔加里](./EVENTS.zh.md#yyc-20260930) · [蒙特利尔](./EVENTS.zh.md#yul-20260926) · [多伦多](./EVENTS.zh.md#yyz-20261026) · [渥太华](./EVENTS.zh.md#yow-20261010) · [卡尔加里](./EVENTS.zh.md#yyc-20261028)
-- **德国**（4）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20261023) · [法兰克福](./EVENTS.zh.md#fra-20261120)
-- **西班牙**（4）：[巴塞罗那](./EVENTS.zh.md#bcn-20260929) · [马德里](./EVENTS.zh.md#mad-20260929) · [阿利坎特](./EVENTS.zh.md#alc-20261107) · [毕尔巴鄂](./EVENTS.zh.md#bil-20261019)
+- **德国**（5）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20261023) · [法兰克福](./EVENTS.zh.md#fra-20261120) · [卡塞尔](./EVENTS.zh.md#kas-20261112)
+- **巴西**（4）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20261016)
 - **印度尼西亚**（4）：[巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [雅加达](./EVENTS.zh.md#jkt-20261003) · [雅加达](./EVENTS.zh.md#jkt-20261107) · [巴厘岛Canggu](./EVENTS.zh.md#bli-20261025)
+- **西班牙**（2）：[阿利坎特](./EVENTS.zh.md#alc-20261107) · [毕尔巴鄂](./EVENTS.zh.md#bil-20261019)
 - **危地马拉**（2）：[危地马拉城](./EVENTS.zh.md#gua-20261003) · [危地马拉](./EVENTS.zh.md#gua-20261205)
 - **意大利**（2）：[罗马](./EVENTS.zh.md#rom-20261023) · [特雷维索](./EVENTS.zh.md#tvs-20261022)
 - **日本**（2）：[札幌](./EVENTS.zh.md#spk-20261002) · [东京](./EVENTS.zh.md#tyo-20261011)
@@ -69,9 +69,7 @@
 - **新西兰**（1）：[奥克兰](./EVENTS.zh.md#akl-20261008)
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
 - **卢旺达**（1）：[基加利](./EVENTS.zh.md#kgl-20261003)
-- **土耳其**（1）：[伊斯坦布尔](./EVENTS.zh.md#ist-20260929)
 - **乌干达**（1）：[坎帕拉](./EVENTS.zh.md#kla-20261003)
-- **乌兹别克斯坦**（1）：[塔什干](./EVENTS.zh.md#tas-20260929)
 - **越南**（1）：[岘港](./EVENTS.zh.md#dad-20261003)
 - **赞比亚**（1）：[卢萨卡](./EVENTS.zh.md#lun-20261002)
 - **线上**（1）：[线上（戈亚尼亚）](./EVENTS.zh.md#gyn-20261017)
@@ -285,6 +283,7 @@
 - [Alex Finn — Grok Bot from beginner to expert in 25 minutes](https://moderncreator.app/2026-08-17-alex-finn-grok-bot-from-beginner-to-expert-in-25-minutes) - Alex Finn（Modern Creator）25 分钟 Grok Bot 导览文：插件、AgentMail、Vercel 以及 last30days 等研究技能。.
 - [AI Maker — seven Grok Bot team you can run from your phone](https://aimaker.substack.com/p/grok-bot-ai-agent-team) - AI Maker / One Shot Show 实操文：七个云端 Grok Bot 团队（文案、幕僚长、发票猎人、SEO 等），含插件、routines 与手机端使用。.
 - [Grok Bot 教學｜香港老師版 (HK Traditional Chinese guide)](https://github.com/desmondsir106-droid/grok-bot-hk-guide) - 面向香港老师的繁中静态上手站：五步入门、Cursor/SuperGrok/X Premium 三条订阅路径，并附 AI Manager 机器人模板。.
+- [Grok Bot 排程一條龍（繁中）— build and verify routines](https://github.com/zaxardery8011-design/grok-bot-routines-tw) - 繁中教程：用 AGENTS.md 提示词让 Grok Bot（或其他 AI）帮你建排程，并核对「自动化」列表确认它真的会跑。.
 
 ## 真实使用案例
 
@@ -1067,6 +1066,8 @@
 - [ChatCut — video editing agent plugin for Grok Bot](https://github.com/ChatCut-Inc/agent-plugin) - 开源 ChatCut Agent 插件（915★），含专用 grok/ 技能包，让 Grok Bot 在 ChatCut 项目里导入素材、改时间线、字幕、动态图形并导出。.
 - [Money Watchdog — inbox charge-hunter Grok Bot template](https://github.com/Grryp-LLC/money-watchdog) - 只读 Grok Bot 模板套件（技能、账本引擎、海报渲染）：盯 Gmail 里的暗扣费/试用转正/续费，并把「通缉」海报挂到最糟的那一笔上。.
 - [Founder Bot — day-one co-founder Grok Bot template](https://github.com/Grryp-LLC/founder-bot) - Grok Bot 模板：逐问采访创始人，搭好可追踪的 34 项 Launch Board（主体、店铺、营销、账务、运营），并每周产出可分享的进度卡。.
+- [Longwave — video pipeline MCP plugin for Grok Bot](https://github.com/Longwave-Media/longwave-plugin) - MCP 插件：让 Grok Bot（及 Cursor/Claude Code）接入创作者视频流水线——Shorts、缩略图、播客 RSS，并发布到创作者自己的 YouTube；一次 OAuth，代理侧无需 API key。.
+- [Grok Bot Studio Kit — one-person studio templates](https://github.com/w0rldwid3vib3s/grok-bot-studio-kit) - 免费「参谋长」模板与十条运营规则，用于用 Grok Bot 团队跑一人工作室，并在发帖/发送前设审批闸门。.
 
 ## 评测与对比
 
@@ -1085,6 +1086,7 @@
 - [What is Grok Bot? The Real Cost & Hidden Risks](https://4geeks.com/en/blog/ai-tools/what-is-grok-bot) - 4Geeks 2026-08-27 评测：共享云电脑不是安全边界，Auto-review 只是尽力，公开文档没提 prompt injection，还拆了价格和条款。.
 - [trusty-tools Grok Bot competitive/comparable research pack](https://github.com/bobmatnyc/trusty-tools) - trusty-tools 内评测包：约 19KB 的 Grok Bot 竞品/对照研究，含文档摘录与 2026-09-05 营销/文档截图。.
 - [Engadget — SpaceXAI Grok Bot early beta: how to try it](https://www.engadget.com/2259931/spacexai-grok-bot-early-beta-how-to-try/) - Engadget 2026-09-20 介绍 Grok Bot 早期 beta：可用的 SuperGrok/Cursor 套餐、与普通对话/Grok Build 的区别，以及各端下载入口。.
+- [Windows Mode — OpenAI Dots vs Grok Bot (DevDay 2026)](https://www.windowsmode.com/openai-dots-always-on-agent) - Windows Mode 长文：对照 OpenAI DevDay 的 dots（ChatGPT 常驻智能体）与 Grok Bot——云电脑、多 Bot 协作、套餐与 Windows 上手。.
 
 ## 开源替代
 
@@ -1443,6 +1445,7 @@
 - [QuotaBar — Mac menu bar usage for Grok Bot and friends](https://github.com/Simon66-workshop/QuotaBar) - macOS 菜单栏工具：实时显示 Grok Bot（Sand）周额度，并并列 Grok、Cursor、ChatGPT/Codex、Claude 用量与磁盘占用（无需打开完整 Xcode 工程）。.
 - [grokbot-mcp — sync MCP bridge for Grok Bot webhooks](https://github.com/YunosukeYoshino/grokbot-mcp) - Cloudflare Worker：把 Grok Bot（Cursor automation）异步 webhook 回调收成同步 MCP 工具结果，含 TypeScript 测试与日文 README。.
 - [Meeting Action Tracker — Granola→kanban Grok Bot agent](https://github.com/script-repo/meeting-action-tracker) - Grok Bot agent 包：盯 Granola 会议笔记，抽出带负责人/日期的 action items，去重后写入 markdown 看板（Backlog/Doing/Done）。.
+- [Dostigus — self-host household agent OS (Grok Bot alt)](https://github.com/dostigus/dostigus) - 自托管家庭智能体 OS：在自有 Host 上跑 Bots、聊天、日程、OpenRouter 供应商与 MCP——相对把循环放在 Grok Bot 云电脑上的开源替代。.
 
 ## 社区与故障现场
 
@@ -1674,6 +1677,9 @@
 - [Forum: Grok Bot chat image/file attachments fail to send](https://forum.cursor.com/t/grok-bot-chat-image-file-attachments-fail-to-send-3-pcs-since-2026-09-26-text-ok/173187) - Cursor 论坛帖：自 2026-09-26 起多台电脑上粘贴/拖拽图片与附件无法发送，纯文本与按本地路径读图仍正常。.
 - [Forum: voice calls should integrate with the chat session](https://forum.cursor.com/t/grok-bot-voice-calls-should-integrate-with-the-chat-session-post-turns-three-part-summary/173241) - 功能请求：希望 Grok Bot 语音通话的回合与 three-part-summary 写回同一聊天记录，而不是挂断后另存一份 JSON。.
 - [Forum: Grok Bot agent stuck in Working state](https://forum.cursor.com/t/grok-bot-agent-stuck-in-working-state/173218) - 缺陷帖：Chief of Staff 类 Grok Bot 在普通对话后卡在 Working，迟迟不回复。.
+- [Forum: show/edit Bot role description in the info pane](https://forum.cursor.com/t/grok-bot-show-and-edit-bot-role-description-in-the-info-pane-match-docs/173333) - 功能请求：Bot 信息面板仍缺少文档所述的角色描述字段，用户只能在对话里让 Bot 改自己的岗位说明。.
+- [Forum: Shared 1Password autofill says Filled but password empty](https://forum.cursor.com/t/grok-bot-shared-1password-autofill-says-filled-but-password-stays-empty-instagram/173365) - 缺陷报告：Shared with Grok Bot 的 1Password Connect 在 Instagram/Letterboxd 显示 Filled，但只有用户名填上、密码仍空，Bot 无法独自完成登录。.
+- [Forum: Gmail connector rewrites links into google.com/url redirects](https://forum.cursor.com/t/grok-bot-gmail-connector-user-gmail-rewrites-every-link-into-google-com-url-redirects-on-create-draft-and-send-message/173321) - 缺陷报告：user-Gmail 的 create_draft/send_message 会把每条链接改写成 google.com/url 跳转（可见文本与 href 皆然），搞坏客服邮件。.
 
 ## 相关列表
 
@@ -1946,10 +1952,11 @@
 - [HarnessTrajectory — local viewer incl. Grok Build sessions](https://github.com/Demogorgon314/HarnessTrajectory) - 本地轨迹查看器：读取含 Grok Build、Claude Code、Codex 等编码智能体会话笔录。.
 - [Grok Bot Galaxy Day 3 — bilingual session notes](https://github.com/HiEllenC/grokbot-galaxy-day3) - Ellen 整理的 Grok Bot Galaxy 第 3 日中英双语 PDF 笔记，并链到 Day 2 的 GitHub Pages 记录。.
 - [GrokBotChineseFix — Windows fullwidth comma for Grok Bot](https://github.com/thinkingpowerai-ux/GrokBotChineseFix) - Windows 小工具：仅在 Grok Bot 桌面窗口前台时，把 Ctrl+, 改成输入全角中文逗号。.
+- [Xiaomei Signal — pixel macOS status light for Grok Bot](https://github.com/rw174655-ux/xiaomei-signal) - 为 Grok Bot 做的像素风 macOS 悬浮信号灯（绿/黄/红），影子随一天中的时间变方向，一眼看出 Bot 在推进、在等你还是卡住。.
 
 ## 贡献
 
-目前 8 个分类、1835 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1844 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
