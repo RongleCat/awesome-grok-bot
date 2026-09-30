@@ -294,6 +294,12 @@
 <a id="akl-20261008"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-akl01"><img src="./assets/events/akl-20261008-cover.png" alt="Grok Bot Meetup オークランド" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup オークランド</strong><br />2026-10-08（木）18:00–21:00（Pacific/Auckland）<br />オークランド CBD · 住所はゲストに共有 — オフライン<br /><br />SpaceXAI Community のオークランド（NZ）Grok Bot 対面ミートアップ。Luma で登録。<br /><br /><a href="https://luma.com/spacexai-akl01"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
+<a id="country-pe"></a>
+### ペルー
+
+<a id="hyo-20261023"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/x5jqstsk"><img src="./assets/events/hyo-20261023-cover.png" alt="Grok Bot Meetup ワンカヨ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ワンカヨ</strong><br />2026-10-23（木）16:00–19:30（America/Lima、PET、UTC−5）<br />ペルー・ワンカヨ Parque Huamanmarca · オフライン<br /><br />ワンカヨのハンズオン Grok Bot ミートアップ（主催 Ignacio Velasquez、フォーラム 173396 / Luma x5jqstsk）。話すより作る。ノート PC 持参で半日で動くアプリを出荷。無料、承認+ウェイトリスト、残り枠 40、夕方スキャン時 guest_count 0。<br /><br /><a href="https://luma.com/x5jqstsk"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
 <a id="country-ph"></a>
 ### フィリピン
 

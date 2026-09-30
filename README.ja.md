@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1859-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1866-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -67,6 +67,7 @@
 - **ニカラグア**（1）：[マナグア](./EVENTS.ja.md#mga-20261003)
 - **ノルウェー**（1）：[オスロ](./EVENTS.ja.md#osl-20261016)
 - **ニュージーランド**（1）：[オークランド](./EVENTS.ja.md#akl-20261008)
+- **ペルー**（1）：[ワンカヨ](./EVENTS.ja.md#hyo-20261023)
 - **フィリピン**（1）：[セブ](./EVENTS.ja.md#ceb-20260919)
 - **ルワンダ**（1）：[キガリ](./EVENTS.ja.md#kgl-20261003)
 - **ウガンダ**（1）：[カンパラ](./EVENTS.ja.md#kla-20261003)
@@ -472,6 +473,7 @@
 - [Scam Shield — Grok Bot that catches scams](https://github.com/LarryLemonBot/scam-shield) - xAI Grok Bot Sharing Challenge 作品。フィッシングや詐欺パターンを事前に見抜く Grok Bot テンプレートとデモ。
 - [Gravity Birds — Godot puzzle built by Grok Bot team](https://github.com/az9713/grokbot-gravity-bird) - オリジナル Godot 重力パズル。Grok Bot チームが Cursor Cloud Agent（Origin）で計画・操縦し、公開の開発ジャーニー付き。
 - [Replenish Autopilot — Grok Bot Commerce Hackathon (London)](https://github.com/EXL-1/Replenish-Autopilot) - ロンドンの Grok Bot Commerce ハッカソン作品。プライバシー重視の自動補充コマースデモで、ポリシーエンジンと Shopify 経路、Bot 向けループを含みます。
+- [Don't Panic — HHGTTG-flavored tea & stretch Grok Bot](https://github.com/tink1010/dont-panic-grokbot) - 銀河ヒッチハイク・ガイド風 Grok Bot（x.ai/bot 共有）。お茶タイマー、水分/ストレッチ催促、uplift メニューと公開 bot-rules.md。
 
 ## スキル、プラグインと MCP
 
@@ -1073,6 +1075,7 @@
 - [Organify — workspace/projects MCP plugin for Grok Build](https://github.com/organifystudio/organify-grok-plugin) - Organify 公式 .grok-plugin。ホスト OAuth MCP でワークスペース・プロジェクト・タスク・通知を管理（API キー貼り付け不要）。Grok Build / Claude Code 向け。
 - [BakLater — private recommendation library plugin for Grok Build](https://github.com/hakantaymaz/baklater-grok-plugin) - BakLater 公式 Grok Build .grok-plugin。ホスト OAuth MCP で映画・本・場所などのプライベート推奨ライブラリを保存・検索。
 - [MarketNow — MCP trust-layer plugin (incl. Grok Build)](https://github.com/alicelabs-llc/marketnow-agent) - MarketNow のホスト MCP 信頼レイヤ（資格情報検証・ドメイン検査・大規模 MCP レジストリ）を足すユニバーサルプラグイン。Grok Build / Cursor / Claude Code などに対応。
+- [ClickFunnels — Cursor / Grok Bot Marketplace plugin](https://github.com/clickfunnels2/cursor-plugin) - Cursor / Grok Bot Marketplace 向け ClickFunnels MCP プラグイン。ログイン済みワークスペースでファネル/ページ作成と連絡先・商品・注文・自動化を操作。
 
 ## レビューと比較
 
@@ -1454,6 +1457,8 @@
 - [BalaBot — single-container multi-agent OS (Grok Bot–inspired)](https://github.com/afaraha8403/balabot) - MIT の単一コンテナ多智能体。principal・governor 台帳・常駐／サブエージェントで、Grok Bot のロスター型に近い（TypeSafe AI Jev が必須依存）。
 - [KALE 9000 — phone-camera plant-care stack for Grok Bot](https://github.com/darrellgum/kale-9000) - KALE 9000 Grok Bot 植物ケアテンプレ用コード。予備スマホのカメラ撮影、Cloudflare トンネルで Bot パソコンへ送る watchdog、任意のスマートプラグ橋。
 - [foss-bot — open multi-agent team for Claude Code/Codex](https://github.com/dyl-joseph/foss-bot) - Claude Code / Codex 向けのオープンな Grok Bot 風マルチエージェント（参謀＋専門 Bot）。クロスモデル席と任意のワーカー別 CUA microVM。新ランタイムなし。
+- [Codync — open-source Grok Bot / Muse–style messaging agents](https://github.com/leepokai/Codync) - Grok Bot / Muse のオープンな 1:1 代替。iPhone・Mac・Linux・端末から Claude Code / Codex / Cursor / Gemini などへ Bot としてメッセージ（Rust ホスト）。
+- [perlica-grokbot — Hermes/Perlica webhook thin client](https://github.com/OttoPrua/perlica-grokbot) - 既存の Perlica/Hermes クラウド webhook ディスパッチャへ認証付きジョブを POST する薄い CLI。SendToAgent 偽造なし、秘密は環境変数のみ。
 
 ## コミュニティと障害事例
 
@@ -1693,6 +1698,8 @@
 - [Forum: Chief bot cannot message other bots](https://forum.cursor.com/t/chief-bot-not-talking-to-other-bots/173356) - 不具合報告。Chief bot は他 Bot からのメッセージは受け取れるが、逆方向の Bot 間チャットを開始できない。
 - [Forum: GenerateImage aspect_ratio ignored (always 1280×720)](https://forum.cursor.com/t/generateimage-accepts-aspect-ratio-but-sand-drops-it-always-returns-1280x720-jpeg/173363) - 不具合報告。Grok Bot/Sand の GenerateImage は schema で aspect_ratio を受けるが、常に 1280×720 JPEG を返し比率が落ちる。
 - [Forum: per-site routing through my computer](https://forum.cursor.com/t/feature-request-per-site-routing-through-my-computer/173349) - 機能要望。「このコンピュータ経由で通信」を全か無かではなくサイト単位にし、ブロックされるサイトだけ自宅回線へ。
+- [Forum: Grok Bot desktop unreachable after installing VPN](https://forum.cursor.com/t/hey-guys-the-desctop-from-grok-bot-is-offline-for-2-days-and-i-cant-do-anything-with-it/173388) - 報告。Bot が無料 VPN を入れたあと 2 日間コンピュータに到達できず、サーバー側での VPN 削除を依頼。
+- [Forum: Loss of Browser control (desktop-control tool missing)](https://forum.cursor.com/t/loss-of-browser-control/173319) - 報告。スクリーンショットはできるが click/type/browse ができず、セッションから desktop-control ツールが欠落（おおむね 2026-09-22 以降）。
 
 ## 関連リスト
 
@@ -1968,10 +1975,11 @@
 - [Xiaomei Signal — pixel macOS status light for Grok Bot](https://github.com/rw174655-ux/xiaomei-signal) - Grok Bot 用のピクセル風 macOS フローティング信号灯（緑/黄/赤）。影が時刻で向きを変え、進行中・待機・停止を一目で分かる。
 - [HTML Artifacts reference — Grok Bot canvas skill pages](https://github.com/Biggles10-claude/html-artifacts-reference) - Grok Bot の html-artifacts スキル向け公開リファレンス。GitHub Pages 上の Claude Artifacts 風単一ページ（旧 live-deck スワイプ UI の代替）。
 - [VoiceOS × Grok Bot integration template](https://github.com/Arav-Rithvik-VoiceOS/voiceos-grokbot-integration) - VoiceOS 向け Grok Bot 統合テンプレート。発話ツールを Grok Bot へルーティングし、macOS キーチェーン「Grok Bot Safe Storage」の Always Allow 手順と MCP サーバ雛形を含む。
+- [Grok Bot Meetup talk — Open Slide deck](https://github.com/naufaldi/grok-bot-meetup-talk) - Grok Bot ミートアップ向け Open Slide デッキ（22 ページ）。SpaceXAI / Grok Bot ブランディング、ユースケース構成、発表者ノート付き。
 
 ## 貢献
 
-8 セクションに 1859 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1866 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

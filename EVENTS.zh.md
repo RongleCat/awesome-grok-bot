@@ -294,6 +294,12 @@
 <a id="akl-20261008"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-akl01"><img src="./assets/events/akl-20261008-cover.png" alt="Grok Bot Meetup 奥克兰" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 奥克兰</strong><br />2026-10-08 周四 18:00–21:00（Pacific/Auckland）<br />奥克兰市中心 · 地址对嘉宾可见 — 线下<br /><br />SpaceXAI Community 新西兰奥克兰 Grok Bot 线下局。Luma 报名。<br /><br /><a href="https://luma.com/spacexai-akl01"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
+<a id="country-pe"></a>
+### 秘鲁
+
+<a id="hyo-20261023"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/x5jqstsk"><img src="./assets/events/hyo-20261023-cover.png" alt="Grok Bot Meetup 万卡约" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 万卡约</strong><br />2026-10-23 周四 16:00–19:30（秘鲁利马时区 PET，UTC−5）<br />秘鲁万卡约 Parque Huamanmarca · 线下<br /><br />万卡约 Grok Bot 动手局（主办 Ignacio Velasquez；论坛 173396 / Luma x5jqstsk）：少聊天、多构建，自带笔记本一下午做出可用应用。免费；需审批+候补；剩余名额 40；晚间扫描 guest_count 0。<br /><br /><a href="https://luma.com/x5jqstsk"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-ph"></a>
 ### 菲律宾
 

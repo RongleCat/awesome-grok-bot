@@ -294,6 +294,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="akl-20261008"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-akl01"><img src="./assets/events/akl-20261008-cover.png" alt="Grok Bot Auckland Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Auckland Meetup</strong><br />Thu 8 Oct 2026, 18:00–21:00 (Pacific/Auckland)<br />Auckland CBD · address shared with guests — offline<br /><br />SpaceXAI Community Grok Bot meetup in Auckland, New Zealand. In-person builders session; register on Luma.<br /><br /><a href="https://luma.com/spacexai-akl01"><strong>Register on Luma →</strong></a></td></tr></table>
 
+<a id="country-pe"></a>
+### Peru
+
+<a id="hyo-20261023"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/x5jqstsk"><img src="./assets/events/hyo-20261023-cover.png" alt="Grok Bot Huancayo Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Huancayo Meetup</strong><br />Thu 23 Oct 2026, 16:00–19:30 (America/Lima / PET, UTC−5)<br />Parque Huamanmarca, Huancayo 12001, Peru · offline<br /><br />Hands-on Grok Bot meetup in Huancayo (host Ignacio Velasquez; forum 173396 / Luma x5jqstsk): less talk, more building—bring a laptop and ship a working app in one afternoon. Free; approval + waitlist; spots_remaining 40; guest_count 0 at evening scan.<br /><br /><a href="https://luma.com/x5jqstsk"><strong>Register on Luma →</strong></a></td></tr></table>
+
 <a id="country-ph"></a>
 ### Philippines
 

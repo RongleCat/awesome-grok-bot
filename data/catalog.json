@@ -3814,6 +3814,16 @@
             "zh": "伦敦 Grok Bot Commerce 黑客松作品：隐私优先的自动补货电商演示，含策略引擎、Shopify 路径与面向 Bot 的代理循环。",
             "ja": "ロンドンの Grok Bot Commerce ハッカソン作品。プライバシー重視の自動補充コマースデモで、ポリシーエンジンと Shopify 経路、Bot 向けループを含みます。"
           }
+        },
+        {
+          "title": "Don't Panic — HHGTTG-flavored tea & stretch Grok Bot",
+          "url": "https://github.com/tink1010/dont-panic-grokbot",
+          "source": "GB-1887",
+          "blurb": {
+            "en": "Hitchhiker’s Guide–flavored Grok Bot (x.ai/bot share) built around KTeaTime/RSIBreak-style tea timers, water/stretch reminders, and uplift menus, with public bot-rules.md.",
+            "zh": "银河系漫游指南风味的 Grok Bot（含 x.ai/bot 分享）：茶饮计时、喝水/拉伸提醒与 uplift 菜单，附公开 bot-rules.md。",
+            "ja": "銀河ヒッチハイク・ガイド風 Grok Bot（x.ai/bot 共有）。お茶タイマー、水分/ストレッチ催促、uplift メニューと公開 bot-rules.md。"
+          }
         }
       ]
     },
@@ -9804,6 +9814,16 @@
             "zh": "通用智能体插件：接入 MarketNow 托管 MCP 信任层（凭证校验、域名风险、大型 MCP 注册表），支持 Grok Build、Cursor、Claude Code 等安装路径。",
             "ja": "MarketNow のホスト MCP 信頼レイヤ（資格情報検証・ドメイン検査・大規模 MCP レジストリ）を足すユニバーサルプラグイン。Grok Build / Cursor / Claude Code などに対応。"
           }
+        },
+        {
+          "title": "ClickFunnels — Cursor / Grok Bot Marketplace plugin",
+          "url": "https://github.com/clickfunnels2/cursor-plugin",
+          "source": "GB-1884",
+          "blurb": {
+            "en": "ClickFunnels MCP plugin for Cursor and the Grok Bot Marketplace: build funnels/pages and manage contacts, products, orders, and automations in the signed-in workspace.",
+            "zh": "ClickFunnels 的 Cursor / Grok Bot Marketplace MCP 插件：在已登录工作区内搭建漏斗与页面，并管理联系人、产品、订单与自动化。",
+            "ja": "Cursor / Grok Bot Marketplace 向け ClickFunnels MCP プラグイン。ログイン済みワークスペースでファネル/ページ作成と連絡先・商品・注文・自動化を操作。"
+          }
         }
       ]
     },
@@ -13574,6 +13594,26 @@
             "zh": "开源的 Grok Bot 风格多 Bot 团队（首席参谋+专家席）面向 Claude Code/Codex，支持跨模型席位与可选每工人 CUA 微虚拟机，不另起应用运行时。",
             "ja": "Claude Code / Codex 向けのオープンな Grok Bot 風マルチエージェント（参謀＋専門 Bot）。クロスモデル席と任意のワーカー別 CUA microVM。新ランタイムなし。"
           }
+        },
+        {
+          "title": "Codync — open-source Grok Bot / Muse–style messaging agents",
+          "url": "https://github.com/leepokai/Codync",
+          "source": "GB-1885",
+          "blurb": {
+            "en": "Open-source 1:1 alternative to Grok Bot and Muse: message Claude Code, Codex, Cursor, Gemini and other coding agents as bots from iPhone, Mac, Linux, or terminal (Rust host).",
+            "zh": "开源的 Grok Bot / Muse 风格替代：在 iPhone、Mac、Linux 或终端里把 Claude Code、Codex、Cursor、Gemini 等编程代理当 Bot 来聊（Rust 主机）。",
+            "ja": "Grok Bot / Muse のオープンな 1:1 代替。iPhone・Mac・Linux・端末から Claude Code / Codex / Cursor / Gemini などへ Bot としてメッセージ（Rust ホスト）。"
+          }
+        },
+        {
+          "title": "perlica-grokbot — Hermes/Perlica webhook thin client",
+          "url": "https://github.com/OttoPrua/perlica-grokbot",
+          "source": "GB-1888",
+          "blurb": {
+            "en": "Thin command-line client that POSTs authenticated jobs to an existing Perlica/Hermes cloud webhook dispatcher for Grok Bots—no forged SendToAgent, secrets from env only.",
+            "zh": "面向已有 Perlica/Hermes 云端 webhook 调度器的薄 CLI：向 Grok Bot 投递已认证任务，不伪造 SendToAgent，密钥仅来自环境变量。",
+            "ja": "既存の Perlica/Hermes クラウド webhook ディスパッチャへ認証付きジョブを POST する薄い CLI。SendToAgent 偽造なし、秘密は環境変数のみ。"
+          }
         }
       ]
     },
@@ -15943,6 +15983,26 @@
             "en": "Feature request: make “Route traffic through this computer” per-site instead of all-or-nothing, so only blocked sites leave via the home machine.",
             "zh": "功能请求：将「经此电脑路由流量」改为按站点可选，而非全开/全关，以便仅让被拦站点走家里机器出口。",
             "ja": "機能要望。「このコンピュータ経由で通信」を全か無かではなくサイト単位にし、ブロックされるサイトだけ自宅回線へ。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot desktop unreachable after installing VPN",
+          "url": "https://forum.cursor.com/t/hey-guys-the-desctop-from-grok-bot-is-offline-for-2-days-and-i-cant-do-anything-with-it/173388",
+          "source": "GB-1889",
+          "blurb": {
+            "en": "Report: Grok Bot computer stayed unreachable for two days after the bot installed a free VPN client; ask to remove VPN server-side.",
+            "zh": "反馈：Bot 自行安装免费 VPN 后云电脑连续两天不可达，请求服务端移除 VPN。",
+            "ja": "報告。Bot が無料 VPN を入れたあと 2 日間コンピュータに到達できず、サーバー側での VPN 削除を依頼。"
+          }
+        },
+        {
+          "title": "Forum: Loss of Browser control (desktop-control tool missing)",
+          "url": "https://forum.cursor.com/t/loss-of-browser-control/173319",
+          "source": "GB-1890",
+          "blurb": {
+            "en": "Report: Grok Bot can screenshot its desktop but cannot click/type/browse because the desktop-control tool is missing from the session (since ~2026-09-22).",
+            "zh": "反馈：Grok Bot 能截屏但无法点击/键入/浏览，会话里缺少 desktop-control 工具（约自 2026-09-22）。",
+            "ja": "報告。スクリーンショットはできるが click/type/browse ができず、セッションから desktop-control ツールが欠落（おおむね 2026-09-22 以降）。"
           }
         }
       ]
@@ -18673,6 +18733,16 @@
             "en": "VoiceOS integration template for routing spoken tools to Grok Bot, including the macOS Keychain “Grok Bot Safe Storage” Always Allow setup step and MCP server stubs.",
             "zh": "VoiceOS 对接 Grok Bot 的集成模板：含 macOS 钥匙串「Grok Bot Safe Storage」Always Allow 步骤与 MCP 服务端骨架。",
             "ja": "VoiceOS 向け Grok Bot 統合テンプレート。発話ツールを Grok Bot へルーティングし、macOS キーチェーン「Grok Bot Safe Storage」の Always Allow 手順と MCP サーバ雛形を含む。"
+          }
+        },
+        {
+          "title": "Grok Bot Meetup talk — Open Slide deck",
+          "url": "https://github.com/naufaldi/grok-bot-meetup-talk",
+          "source": "GB-1886",
+          "blurb": {
+            "en": "Open Slide deck (22 pages) for a Grok Bot meetup talk, with SpaceXAI/Grok Bot branding, use-case storyboard, and presenter notes.",
+            "zh": "Grok Bot Meetup 演讲用 Open Slide 幻灯片（22 页）：含 SpaceXAI/Grok Bot 品牌页、用例分镜与讲者备注。",
+            "ja": "Grok Bot ミートアップ向け Open Slide デッキ（22 ページ）。SpaceXAI / Grok Bot ブランディング、ユースケース構成、発表者ノート付き。"
           }
         }
       ]
@@ -25678,6 +25748,37 @@
         "en": "Three-day Macao hackathon with two tracks: build a company with Grok Bot, or Physical AI × Grok Bot (open + high-school) (host John Ku; forum 173330 / Luma spacexai-macau-hackathlon-nov). BYO laptop; individual signup, team on site; approval required; spots_remaining 80 at morning scan.",
         "zh": "澳门三日黑客松，双赛道：用 Grok Bot 三天搭公司，或 Physical AI × Grok Bot（公开+高中生）（主办 John Ku；论坛 173330 / Luma spacexai-macau-hackathlon-nov）。自带电脑；个人报名现场组队；需审批；早间扫描剩余约 80 席。",
         "ja": "マカオ 3 日間ハッカソン。2 トラック：Grok Bot で 3 日で会社を作る／Physical AI × Grok Bot（公開＋高校生）（主催 John Ku、フォーラム 173330 / Luma spacexai-macau-hackathlon-nov）。ノート PC 持参。個人登録・現地でチーム編成。承認制。朝スキャン時残り約 80 席。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "hyo-20261023",
+      "url": "https://luma.com/x5jqstsk",
+      "image": "./assets/events/hyo-20261023-cover.png",
+      "expires": "2026-10-23T19:30:00-05:00",
+      "title": {
+        "en": "Grok Bot Huancayo Meetup",
+        "zh": "Grok Bot Meetup 万卡约",
+        "ja": "Grok Bot Meetup ワンカヨ"
+      },
+      "when": {
+        "en": "Thu 23 Oct 2026, 16:00–19:30 (America/Lima / PET, UTC−5)",
+        "zh": "2026-10-23 周四 16:00–19:30（秘鲁利马时区 PET，UTC−5）",
+        "ja": "2026-10-23（木）16:00–19:30（America/Lima、PET、UTC−5）"
+      },
+      "where": {
+        "en": "Parque Huamanmarca, Huancayo 12001, Peru · offline",
+        "zh": "秘鲁万卡约 Parque Huamanmarca · 线下",
+        "ja": "ペルー・ワンカヨ Parque Huamanmarca · オフライン"
+      },
+      "body": {
+        "en": "Hands-on Grok Bot meetup in Huancayo (host Ignacio Velasquez; forum 173396 / Luma x5jqstsk): less talk, more building—bring a laptop and ship a working app in one afternoon. Free; approval + waitlist; spots_remaining 40; guest_count 0 at evening scan.",
+        "zh": "万卡约 Grok Bot 动手局（主办 Ignacio Velasquez；论坛 173396 / Luma x5jqstsk）：少聊天、多构建，自带笔记本一下午做出可用应用。免费；需审批+候补；剩余名额 40；晚间扫描 guest_count 0。",
+        "ja": "ワンカヨのハンズオン Grok Bot ミートアップ（主催 Ignacio Velasquez、フォーラム 173396 / Luma x5jqstsk）。話すより作る。ノート PC 持参で半日で動くアプリを出荷。無料、承認+ウェイトリスト、残り枠 40、夕方スキャン時 guest_count 0。"
       },
       "cta": {
         "en": "Register on Luma",

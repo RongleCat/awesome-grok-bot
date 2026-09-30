@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1859-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1866-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -67,6 +67,7 @@
 - **尼加拉瓜**（1）：[马那瓜](./EVENTS.zh.md#mga-20261003)
 - **挪威**（1）：[奥斯陆](./EVENTS.zh.md#osl-20261016)
 - **新西兰**（1）：[奥克兰](./EVENTS.zh.md#akl-20261008)
+- **秘鲁**（1）：[万卡约](./EVENTS.zh.md#hyo-20261023)
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
 - **卢旺达**（1）：[基加利](./EVENTS.zh.md#kgl-20261003)
 - **乌干达**（1）：[坎帕拉](./EVENTS.zh.md#kla-20261003)
@@ -472,6 +473,7 @@
 - [Scam Shield — Grok Bot that catches scams](https://github.com/LarryLemonBot/scam-shield) - xAI Grok Bot Sharing Challenge 作品：Bot 模板与演示，在用户中招前识别钓鱼/诈骗模式。.
 - [Gravity Birds — Godot puzzle built by Grok Bot team](https://github.com/az9713/grokbot-gravity-bird) - 原创 Godot 重力解谜：由 Grok Bot 团队经 Cursor Cloud Agent（Origin）规划与驾驭，并附公开开发旅程页。.
 - [Replenish Autopilot — Grok Bot Commerce Hackathon (London)](https://github.com/EXL-1/Replenish-Autopilot) - 伦敦 Grok Bot Commerce 黑客松作品：隐私优先的自动补货电商演示，含策略引擎、Shopify 路径与面向 Bot 的代理循环。.
+- [Don't Panic — HHGTTG-flavored tea & stretch Grok Bot](https://github.com/tink1010/dont-panic-grokbot) - 银河系漫游指南风味的 Grok Bot（含 x.ai/bot 分享）：茶饮计时、喝水/拉伸提醒与 uplift 菜单，附公开 bot-rules.md。.
 
 ## 技能、插件与 MCP
 
@@ -1073,6 +1075,7 @@
 - [Organify — workspace/projects MCP plugin for Grok Build](https://github.com/organifystudio/organify-grok-plugin) - Organify 官方 .grok-plugin：经托管 OAuth MCP 管理空间、项目、任务与通知，无需粘贴 API key；可装到 Grok Build 与 Claude Code。.
 - [BakLater — private recommendation library plugin for Grok Build](https://github.com/hakantaymaz/baklater-grok-plugin) - BakLater 官方 Grok Build .grok-plugin：经托管 OAuth MCP 保存/搜索私人推荐库（电影、书籍、地点等）。.
 - [MarketNow — MCP trust-layer plugin (incl. Grok Build)](https://github.com/alicelabs-llc/marketnow-agent) - 通用智能体插件：接入 MarketNow 托管 MCP 信任层（凭证校验、域名风险、大型 MCP 注册表），支持 Grok Build、Cursor、Claude Code 等安装路径。.
+- [ClickFunnels — Cursor / Grok Bot Marketplace plugin](https://github.com/clickfunnels2/cursor-plugin) - ClickFunnels 的 Cursor / Grok Bot Marketplace MCP 插件：在已登录工作区内搭建漏斗与页面，并管理联系人、产品、订单与自动化。.
 
 ## 评测与对比
 
@@ -1454,6 +1457,8 @@
 - [BalaBot — single-container multi-agent OS (Grok Bot–inspired)](https://github.com/afaraha8403/balabot) - MIT 开源、单容器多智能体：principal、governor 决策账本、常驻智能体与子智能体，编排模式对标 Grok Bot 名单（强依赖 TypeSafe AI Jev）。.
 - [KALE 9000 — phone-camera plant-care stack for Grok Bot](https://github.com/darrellgum/kale-9000) - KALE 9000 Grok Bot 植物养护模板的配套代码：闲置手机网页摄像头、经 Cloudflare 隧道上传到 Bot 云电脑的看门狗，以及可选智能插座桥。.
 - [foss-bot — open multi-agent team for Claude Code/Codex](https://github.com/dyl-joseph/foss-bot) - 开源的 Grok Bot 风格多 Bot 团队（首席参谋+专家席）面向 Claude Code/Codex，支持跨模型席位与可选每工人 CUA 微虚拟机，不另起应用运行时。.
+- [Codync — open-source Grok Bot / Muse–style messaging agents](https://github.com/leepokai/Codync) - 开源的 Grok Bot / Muse 风格替代：在 iPhone、Mac、Linux 或终端里把 Claude Code、Codex、Cursor、Gemini 等编程代理当 Bot 来聊（Rust 主机）。.
+- [perlica-grokbot — Hermes/Perlica webhook thin client](https://github.com/OttoPrua/perlica-grokbot) - 面向已有 Perlica/Hermes 云端 webhook 调度器的薄 CLI：向 Grok Bot 投递已认证任务，不伪造 SendToAgent，密钥仅来自环境变量。.
 
 ## 社区与故障现场
 
@@ -1693,6 +1698,8 @@
 - [Forum: Chief bot cannot message other bots](https://forum.cursor.com/t/chief-bot-not-talking-to-other-bots/173356) - 缺陷报告：Chief bot 能收到其他 Bot 的消息，但无法主动向其他 Bot 发起 Bot 间对话。.
 - [Forum: GenerateImage aspect_ratio ignored (always 1280×720)](https://forum.cursor.com/t/generateimage-accepts-aspect-ratio-but-sand-drops-it-always-returns-1280x720-jpeg/173363) - 缺陷报告：Grok Bot/Sand 的 GenerateImage 工具 schema 接受 aspect_ratio，但实际始终返回 1280×720 JPEG，比例参数被丢弃。.
 - [Forum: per-site routing through my computer](https://forum.cursor.com/t/feature-request-per-site-routing-through-my-computer/173349) - 功能请求：将「经此电脑路由流量」改为按站点可选，而非全开/全关，以便仅让被拦站点走家里机器出口。.
+- [Forum: Grok Bot desktop unreachable after installing VPN](https://forum.cursor.com/t/hey-guys-the-desctop-from-grok-bot-is-offline-for-2-days-and-i-cant-do-anything-with-it/173388) - 反馈：Bot 自行安装免费 VPN 后云电脑连续两天不可达，请求服务端移除 VPN。.
+- [Forum: Loss of Browser control (desktop-control tool missing)](https://forum.cursor.com/t/loss-of-browser-control/173319) - 反馈：Grok Bot 能截屏但无法点击/键入/浏览，会话里缺少 desktop-control 工具（约自 2026-09-22）。.
 
 ## 相关列表
 
@@ -1968,10 +1975,11 @@
 - [Xiaomei Signal — pixel macOS status light for Grok Bot](https://github.com/rw174655-ux/xiaomei-signal) - 为 Grok Bot 做的像素风 macOS 悬浮信号灯（绿/黄/红），影子随一天中的时间变方向，一眼看出 Bot 在推进、在等你还是卡住。.
 - [HTML Artifacts reference — Grok Bot canvas skill pages](https://github.com/Biggles10-claude/html-artifacts-reference) - Grok Bot html-artifacts 技能的公开参考：GitHub Pages 上的类 Claude Artifacts 单页画布（替代旧版 live-deck 滑动壳）。.
 - [VoiceOS × Grok Bot integration template](https://github.com/Arav-Rithvik-VoiceOS/voiceos-grokbot-integration) - VoiceOS 对接 Grok Bot 的集成模板：含 macOS 钥匙串「Grok Bot Safe Storage」Always Allow 步骤与 MCP 服务端骨架。.
+- [Grok Bot Meetup talk — Open Slide deck](https://github.com/naufaldi/grok-bot-meetup-talk) - Grok Bot Meetup 演讲用 Open Slide 幻灯片（22 页）：含 SpaceXAI/Grok Bot 品牌页、用例分镜与讲者备注。.
 
 ## 贡献
 
-目前 8 个分类、1859 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1866 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

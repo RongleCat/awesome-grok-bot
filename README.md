@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1859-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1866-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -67,6 +67,7 @@
 - **Nicaragua**（1）：[Managua](./EVENTS.md#mga-20261003)
 - **Norway**（1）：[Oslo](./EVENTS.md#osl-20261016)
 - **New Zealand**（1）：[Auckland](./EVENTS.md#akl-20261008)
+- **Peru**（1）：[Huancayo](./EVENTS.md#hyo-20261023)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
 - **Rwanda**（1）：[Kigali](./EVENTS.md#kgl-20261003)
 - **Uganda**（1）：[Kampala](./EVENTS.md#kla-20261003)
@@ -472,6 +473,7 @@
 - [Scam Shield — Grok Bot that catches scams](https://github.com/LarryLemonBot/scam-shield) - xAI Grok Bot Sharing Challenge entry: a Grok Bot template plus demo that flags phishing and scam patterns before users get caught.
 - [Gravity Birds — Godot puzzle built by Grok Bot team](https://github.com/az9713/grokbot-gravity-bird) - Original Godot gravity-puzzle game planned and steered by a Grok Bot team via Cursor Cloud Agent on Origin, with a public dev-journey page.
 - [Replenish Autopilot — Grok Bot Commerce Hackathon (London)](https://github.com/EXL-1/Replenish-Autopilot) - Privacy-first autonomous replenishment commerce demo built at the London Grok Bot Commerce Hackathon, with policy engine, Shopify path, and Bot-facing agent loop.
+- [Don't Panic — HHGTTG-flavored tea & stretch Grok Bot](https://github.com/tink1010/dont-panic-grokbot) - Hitchhiker’s Guide–flavored Grok Bot (x.ai/bot share) built around KTeaTime/RSIBreak-style tea timers, water/stretch reminders, and uplift menus, with public bot-rules.md.
 
 ## Skills, Plugins & MCP
 
@@ -1073,6 +1075,7 @@
 - [Organify — workspace/projects MCP plugin for Grok Build](https://github.com/organifystudio/organify-grok-plugin) - Official Organify .grok-plugin: manage workspaces, projects, tasks, and notifications via Organify’s hosted OAuth MCP—no API key paste; installable for Grok Build and Claude Code.
 - [BakLater — private recommendation library plugin for Grok Build](https://github.com/hakantaymaz/baklater-grok-plugin) - Official BakLater .grok-plugin for Grok Build: save and search a private recommendation library (movies, books, places, and more) through BakLater’s hosted OAuth MCP.
 - [MarketNow — MCP trust-layer plugin (incl. Grok Build)](https://github.com/alicelabs-llc/marketnow-agent) - Universal agent plugin that adds MarketNow’s hosted MCP trust layer—credential verify, domain scam checks, and a large MCP registry—with install paths for Grok Build, Cursor, Claude Code, and more.
+- [ClickFunnels — Cursor / Grok Bot Marketplace plugin](https://github.com/clickfunnels2/cursor-plugin) - ClickFunnels MCP plugin for Cursor and the Grok Bot Marketplace: build funnels/pages and manage contacts, products, orders, and automations in the signed-in workspace.
 
 ## Reviews & Comparisons
 
@@ -1454,6 +1457,8 @@
 - [BalaBot — single-container multi-agent OS (Grok Bot–inspired)](https://github.com/afaraha8403/balabot) - MIT open-source multi-agent stack in one Docker container—principal, governor ledger, persistent agents and sub-agents—patterned on Grok Bot’s roster model (hard-depends on TypeSafe AI Jev).
 - [KALE 9000 — phone-camera plant-care stack for Grok Bot](https://github.com/darrellgum/kale-9000) - Companion code for the KALE 9000 Grok Bot plant-care template: spare-phone camera capture, watchdog uploads to the Bot computer via Cloudflare tunnel, and optional smart-plug bridge.
 - [foss-bot — open multi-agent team for Claude Code/Codex](https://github.com/dyl-joseph/foss-bot) - Open-source Grok Bot–style chief-of-staff + specialist bots for Claude Code and Codex, with cross-model seats and optional per-worker CUA microVMs—no new app runtime.
+- [Codync — open-source Grok Bot / Muse–style messaging agents](https://github.com/leepokai/Codync) - Open-source 1:1 alternative to Grok Bot and Muse: message Claude Code, Codex, Cursor, Gemini and other coding agents as bots from iPhone, Mac, Linux, or terminal (Rust host).
+- [perlica-grokbot — Hermes/Perlica webhook thin client](https://github.com/OttoPrua/perlica-grokbot) - Thin command-line client that POSTs authenticated jobs to an existing Perlica/Hermes cloud webhook dispatcher for Grok Bots—no forged SendToAgent, secrets from env only.
 
 ## Community & Failure Modes
 
@@ -1693,6 +1698,8 @@
 - [Forum: Chief bot cannot message other bots](https://forum.cursor.com/t/chief-bot-not-talking-to-other-bots/173356) - Bug report: a Chief bot receives messages from other bots but cannot initiate Bot-to-Bot chats the other way.
 - [Forum: GenerateImage aspect_ratio ignored (always 1280×720)](https://forum.cursor.com/t/generateimage-accepts-aspect-ratio-but-sand-drops-it-always-returns-1280x720-jpeg/173363) - Bug report: Grok Bot/Sand GenerateImage accepts aspect_ratio in the schema but always returns 1280×720 JPEG, dropping the requested ratio.
 - [Forum: per-site routing through my computer](https://forum.cursor.com/t/feature-request-per-site-routing-through-my-computer/173349) - Feature request: make “Route traffic through this computer” per-site instead of all-or-nothing, so only blocked sites leave via the home machine.
+- [Forum: Grok Bot desktop unreachable after installing VPN](https://forum.cursor.com/t/hey-guys-the-desctop-from-grok-bot-is-offline-for-2-days-and-i-cant-do-anything-with-it/173388) - Report: Grok Bot computer stayed unreachable for two days after the bot installed a free VPN client; ask to remove VPN server-side.
+- [Forum: Loss of Browser control (desktop-control tool missing)](https://forum.cursor.com/t/loss-of-browser-control/173319) - Report: Grok Bot can screenshot its desktop but cannot click/type/browse because the desktop-control tool is missing from the session (since ~2026-09-22).
 
 ## Related Lists
 
@@ -1968,10 +1975,11 @@
 - [Xiaomei Signal — pixel macOS status light for Grok Bot](https://github.com/rw174655-ux/xiaomei-signal) - Pixel-art macOS floating status light for Grok Bot (green/yellow/red) whose shadow tracks the time of day, so you can glance whether the Bot is progressing, waiting, or stuck.
 - [HTML Artifacts reference — Grok Bot canvas skill pages](https://github.com/Biggles10-claude/html-artifacts-reference) - Public reference for Grok Bot’s html-artifacts skill: Claude Artifacts–style single-page canvases on GitHub Pages (replaces the old live-deck swipe chrome).
 - [VoiceOS × Grok Bot integration template](https://github.com/Arav-Rithvik-VoiceOS/voiceos-grokbot-integration) - VoiceOS integration template for routing spoken tools to Grok Bot, including the macOS Keychain “Grok Bot Safe Storage” Always Allow setup step and MCP server stubs.
+- [Grok Bot Meetup talk — Open Slide deck](https://github.com/naufaldi/grok-bot-meetup-talk) - Open Slide deck (22 pages) for a Grok Bot meetup talk, with SpaceXAI/Grok Bot branding, use-case storyboard, and presenter notes.
 
 ## Contributing
 
-1859 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1866 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
