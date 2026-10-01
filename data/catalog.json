@@ -3864,6 +3864,16 @@
             "zh": "实战：只被要求交易 meme 币的 Grok Bot 自主发行 VOXA，并在风控 agent 审核下隔夜把小资金做大。",
             "ja": "実例。ミーム通貨取引だけを任された Grok Bot が自ら VOXA を発行し、リスク審査エージェント付きで一晩で資金を伸ばした。"
           }
+        },
+        {
+          "title": "poteto: gave my bot my brain — how I fix bugs now",
+          "url": "https://x.com/poteto/status/2105576730413134291",
+          "source": "GB-1920",
+          "blurb": {
+            "en": "SpaceXAI eng lead shows handing a personal Grok Bot her context so it fixes bugs her way while she sleeps.",
+            "zh": "SpaceXAI 工程负责人演示把个人上下文交给 Grok Bot，让它按她的方式修 bug，人可以去睡觉。",
+            "ja": "SpaceXAI のエンジニアが個人コンテキストを Grok Bot に渡し、自分流のバグ修正を任せて寝る流れを公開。"
+          }
         }
       ]
     },
@@ -13764,6 +13774,16 @@
             "zh": "Node 守护进程：合并微信拆开的滴答任务、用生命周期标签认领，再 webhook 唤醒 Grok Bot 例程。",
             "ja": "WeChat 経由で分裂した Dida タスクを再結合し、ライフサイクルタグでクレームして Grok Bot の webhook を起こす Node デーモン。"
           }
+        },
+        {
+          "title": "grok-coding-observatory — live replay of Grok Bot edits in the browser",
+          "url": "https://github.com/Eeliya/grok-coding-observatory",
+          "source": "GB-1924",
+          "blurb": {
+            "en": "Local Node tool that watches a git repo and replays each Grok Bot (or other agent) save as a typed diff in the browser.",
+            "zh": "本地 Node 工具：监视 git 仓库，把 Grok Bot（或其他智能体）每次保存以打字动画形式在浏览器回放。",
+            "ja": "git リポジトリを監視し、Grok Bot 等の保存差分をブラウザでタイピング再生するローカル Node ツール。"
+          }
         }
       ]
     },
@@ -16253,6 +16273,16 @@
             "en": "Feature request: add a Google Chat connector alongside existing Google Workspace integrations for team messaging.",
             "zh": "功能请求：在现有 Google Workspace 集成之外增加 Google Chat 连接器，方便团队消息。",
             "ja": "機能要望。既存の Google Workspace 連携に加え Google Chat コネクタが欲しい。"
+          }
+        },
+        {
+          "title": "Forum: Bot Description field missing on Ubuntu desktop (v0.63.0)",
+          "url": "https://forum.cursor.com/t/grok-bot-description-field-missing-on-ubuntu-desktop/173483",
+          "source": "GB-1925",
+          "blurb": {
+            "en": "Ubuntu 25.10 / Grok Bot 0.63.0 report: Bot settings panel lacks the Description field docs promise, though existing descriptions still answer in chat.",
+            "zh": "Ubuntu 25.10 + Grok Bot 0.63.0：Bot 设置面板缺少文档中的 Description 字段，但已有描述仍可在对话中读出。",
+            "ja": "Ubuntu 25.10 / Grok Bot 0.63.0：ドキュメントにある Description 欄が設定パネルに無く、既存説明はチャットでは読めるという報告。"
           }
         }
       ]
@@ -19033,6 +19063,36 @@
             "en": "Community changelog for 0.65.0: server-resident agents shipped, plus notes on iMessage, MCP apps, accent colors, and team-bot controls still rolling out.",
             "zh": "社区整理的 0.65.0 更新：已上线服务器侧 agent，并记录 iMessage、MCP 应用、主题色与 Team Bot 权限等未全量能力。",
             "ja": "0.65.0 のコミュニティ更新メモ。サーバー常駐エージェントが追加され、iMessage・MCP アプリ・アクセント色・Team Bot 管理などは今後。"
+          }
+        },
+        {
+          "title": "Open Dots — open-source personal AI agent workspace (Grok Bot alternative)",
+          "url": "https://github.com/Anil-matcha/open-dots",
+          "source": "GB-1921",
+          "blurb": {
+            "en": "MIT self-hosted agent workspace (chat, connectors, approvals, optional computer use) positioned as an open alternative to Grok Bot and similar products.",
+            "zh": "MIT 自托管智能体工作区（聊天、连接器、审批与可选 computer use），定位为 Grok Bot 等产品的开源替代。",
+            "ja": "MIT の自ホスト・エージェント作業空間（チャット・コネクタ・承認・任意の computer use）。Grok Bot 等のオープン代替として位置づけ。"
+          }
+        },
+        {
+          "title": "Awesome Grok Bot Templates — 3,300+ public bot templates (botsdots.site)",
+          "url": "https://github.com/Maimuzamilhu/awesome-grok-bot-templates",
+          "source": "GB-1922",
+          "blurb": {
+            "en": "Curated, link-checked list of 3,300+ public x.ai/bot templates by job, with access ratings and a searchable site at botsdots.site.",
+            "zh": "精选并校验的 3300+ 条公开 x.ai/bot 模板清单（按岗位/权限分级），可在 botsdots.site 检索。",
+            "ja": "公開 x.ai/bot テンプレ 3300+ を職種・権限で整理しリンク検証した Awesome リスト。botsdots.site で検索可。"
+          }
+        },
+        {
+          "title": "Openshard — receipts for AI coding agents including Grok Bot",
+          "url": "https://github.com/openshard/openshard",
+          "source": "GB-1923",
+          "blurb": {
+            "en": "Local receipt/audit trail for what coding agents ran, changed, verified, and cost — including Grok Bot and Grok Build sessions.",
+            "zh": "本地“回执/审计”工具：记录编码智能体跑了什么、改了什么、验证与花费，覆盖 Grok Bot 与 Grok Build。",
+            "ja": "コーディングエージェントの実行・差分・検証・コストをローカルに残すレシート。Grok Bot / Grok Build セッションにも対応。"
           }
         }
       ]
@@ -26100,6 +26160,130 @@
         "en": "Next Tel Aviv Grok Bot meetup (hosts Elie Steinbock & Vlad Tansky; Luma ax8q461b): Claroty venue; short intros/demos plus talks on verifying agent work. Free; ~144 spots left / guest_count 206 at midday scan. Distinct from expired tlv-20260908.",
         "zh": "特拉维夫下一场 Grok Bot 聚会（主办 Elie Steinbock、Vlad Tansky；Luma ax8q461b）：Claroty 场地；短分享/演示与智能体验收主题。免费；午间扫描剩约 144 席、guest_count 206。勿与已过期 tlv-20260908 混淆。",
         "ja": "テルアビブ次回 Grok Bot ミートアップ（主催 Elie Steinbock / Vlad Tansky、Luma ax8q461b）。Claroty 会場で短いデモと検証トーク。無料；昼スキャンで残席約 144・guest_count 206。期限切れの tlv-20260908 とは別。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "yhz-20261015",
+      "url": "https://luma.com/grok-bot-halifax",
+      "image": "./assets/events/yhz-20261015-cover.png",
+      "expires": "2026-10-15T20:00:00-03:00",
+      "title": {
+        "en": "Grok Bot Meetup – Halifax",
+        "zh": "Grok Bot Meetup 哈利法克斯",
+        "ja": "Grok Bot Meetup ハリファックス"
+      },
+      "when": {
+        "en": "Wed 15 Oct 2026, 18:00–20:00 (America/Halifax, ADT, UTC-3)",
+        "zh": "2026-10-15 周三 18:00–20:00（America/Halifax，ADT，UTC-3）",
+        "ja": "2026-10-15（水）18:00–20:00（America/Halifax、ADT、UTC-3）"
+      },
+      "where": {
+        "en": "Halifax, NS · Downtown Halifax (exact pin after register) · offline",
+        "zh": "加拿大哈利法克斯 · 市中心（报名后可见精确地址）· 线下",
+        "ja": "ハリファックス（NS）· ダウンタウン（登録後に会場ピン）· オフライン"
+      },
+      "body": {
+        "en": "Use-cases night with one live Grok Bot implementation (host Rishabh A / SquareCX). Laptop optional; free RSVP on Luma (slug grok-bot-halifax). Forum: 173477.",
+        "zh": "用例分享 + 一场现场 Grok Bot 实装（主办 Rishabh A / SquareCX）。笔记本可选；Luma 免费报名（slug grok-bot-halifax）。论坛 173477。",
+        "ja": "ユースケースとライブ実装 1 本（主催 Rishabh A / SquareCX）。ノート PC 任意。Luma 無料 RSVP（slug grok-bot-halifax）。フォーラム 173477。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "atu-20261029",
+      "url": "https://luma.com/grokbotambatomeetup",
+      "image": "./assets/events/atu-20261029-cover.png",
+      "expires": "2026-10-29T15:00:00-05:00",
+      "title": {
+        "en": "Grok Bot Ambato Meetup",
+        "zh": "Grok Bot Meetup 安巴托",
+        "ja": "Grok Bot Meetup アンバト"
+      },
+      "when": {
+        "en": "Thu 29 Oct 2026, 08:00–15:00 (America/Guayaquil, UTC-5)",
+        "zh": "2026-10-29 周四 08:00–15:00（America/Guayaquil，UTC-5）",
+        "ja": "2026-10-29（木）08:00–15:00（America/Guayaquil、UTC-5）"
+      },
+      "where": {
+        "en": "Ambato, Ecuador · Ambato Technical University – Campus Ingahurco · offline",
+        "zh": "厄瓜多尔安巴托 · 安巴托技术大学 Ingahurco 校区 · 线下",
+        "ja": "エクアドル・アンバト · Ambato Technical University（Campus Ingahurco）· オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI Ambato builders meetup at UTA Campus Ingahurco (host Kevin Morales). Free Standard ticket; forum 173478; Luma grokbotambatomeetup.",
+        "zh": "SpaceXAI 安巴托站：UTA Ingahurco 校区线下（主办 Kevin Morales）。免费 Standard；论坛 173478；Luma grokbotambatomeetup。",
+        "ja": "SpaceXAI アンバト。UTA Campus Ingahurco（主催 Kevin Morales）。無料 Standard。フォーラム 173478 / Luma grokbotambatomeetup。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "vie-20261031",
+      "url": "https://luma.com/spacexai-build-day-vienna",
+      "image": "./assets/events/vie-20261031-cover.png",
+      "expires": "2026-10-31T18:00:00+01:00",
+      "title": {
+        "en": "Grok Bot Vienna Build Day",
+        "zh": "Grok Bot Vienna Build Day",
+        "ja": "Grok Bot Vienna Build Day"
+      },
+      "when": {
+        "en": "Sat 31 Oct 2026, 13:00–18:00 (Europe/Vienna, CET, UTC+1)",
+        "zh": "2026-10-31 周六 13:00–18:00（Europe/Vienna，CET，UTC+1）",
+        "ja": "2026-10-31（土）13:00–18:00（Europe/Vienna、CET、UTC+1）"
+      },
+      "where": {
+        "en": "Vienna (Wien) · Roßau · hosted at Flinn (exact pin after register) · offline",
+        "zh": "维也纳 · Roßau · Flinn 场地（报名后可见精确地址）· 线下",
+        "ja": "ウィーン · Roßau · Flinn ホスト（登録後に会場ピン）· オフライン"
+      },
+      "body": {
+        "en": "Official SpaceXAI-sponsored Vienna Build Day at Flinn (host Abdul Basit Banbhan): demos, learning, networking for Grok Bot users. Free; approval ticket; forum 173479.",
+        "zh": "官方 SpaceXAI 赞助的维也纳 Build Day（Flinn 场地，主办 Abdul Basit Banbhan）：演示、学习与社交。免费需审批；论坛 173479。",
+        "ja": "SpaceXAI スポンサーの Vienna Build Day（会場 Flinn、主催 Abdul Basit Banbhan）。デモ・学習・交流。無料・承認制。フォーラム 173479。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "nbo-20261008",
+      "url": "https://luma.com/spacexai-9apo",
+      "image": "./assets/events/nbo-20261008-cover.png",
+      "expires": "2026-10-08T18:00:00+03:00",
+      "title": {
+        "en": "Grok Bot Kenya Workshop",
+        "zh": "Grok Bot 肯尼亚工作坊",
+        "ja": "Grok Bot Kenya Workshop"
+      },
+      "when": {
+        "en": "Wed 8 Oct 2026, 15:00–18:00 (Africa/Nairobi, EAT, UTC+3)",
+        "zh": "2026-10-08 周三 15:00–18:00（Africa/Nairobi，EAT，UTC+3）",
+        "ja": "2026-10-08（水）15:00–18:00（Africa/Nairobi、EAT、UTC+3）"
+      },
+      "where": {
+        "en": "Nairobi · Upper Hill Estate (exact pin after register) · offline",
+        "zh": "内罗毕 · Upper Hill（报名后可见精确地址）· 线下",
+        "ja": "ナイロビ · Upper Hill（登録後に会場ピン）· オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI Kenya hands-on workshop on Grok Bot in Nairobi (host Felix Jumason). Free approval ticket; guest_count 24 at evening scan; forum 173480; Luma spacexai-9apo. Distinct from expired nbo-20260917.",
+        "zh": "SpaceXAI 肯尼亚 Grok Bot 实操工作坊（内罗毕，主办 Felix Jumason）。免费需审批；晚间扫描 guest_count 24；论坛 173480；Luma spacexai-9apo。勿与已过期 nbo-20260917 混淆。",
+        "ja": "SpaceXAI Kenya の Grok Bot ハンズオン（ナイロビ、主催 Felix Jumason）。無料・承認制。夕スキャン guest_count 24。フォーラム 173480 / Luma spacexai-9apo。期限切れ nbo-20260917 とは別。"
       },
       "cta": {
         "en": "Register on Luma",

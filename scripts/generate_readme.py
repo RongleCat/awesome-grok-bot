@@ -234,6 +234,7 @@ COUNTRY_LABEL = {
     "ci": {"en": "Côte d'Ivoire", "zh": "科特迪瓦", "ja": "コートジボワール"},
     "lk": {"en": "Sri Lanka", "zh": "斯里兰卡", "ja": "スリランカ"},
     "rw": {"en": "Rwanda", "zh": "卢旺达", "ja": "ルワンダ"},
+    "at": {"en": "Austria", "zh": "奥地利", "ja": "オーストリア"},
     "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
     "other": {"en": "Other", "zh": "其他", "ja": "その他"},
 }
@@ -472,6 +473,10 @@ EVENT_GEO = {
     "kas-20261112": ("de", "Kassel", "卡塞尔", "カッセル"),
     "mo-20261112": ("cn", "Macao", "澳门", "マカオ"),
     "hyo-20261023": ("pe", "Huancayo", "万卡约", "ワンカヨ"),
+    "yhz-20261015": ("ca", "Halifax", "哈利法克斯", "ハリファックス"),
+    "atu-20261029": ("ec", "Ambato", "安巴托", "アンバト"),
+    "vie-20261031": ("at", "Vienna", "维也纳", "ウィーン"),
+    "nbo-20261008": ("ke", "Nairobi (Kenya Workshop)", "内罗毕（肯尼亚工作坊）", "ナイロビ（Kenya Workshop）"),
 }
 
 
