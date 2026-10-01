@@ -285,6 +285,7 @@ EVENT_GEO = {
     "mlt-20260917": ("mt", "Ta' Xbiex / Malta", "马耳他 Ta' Xbiex", "マルタ Ta' Xbiex"),
     "bab-20260903": ("us", "Babson / Wellesley", "Babson 韦尔斯利", "Babson / Wellesley"),
     "tlv-20260908": ("il", "Tel Aviv", "特拉维夫", "テルアビブ"),
+    "tlv-20261019": ("il", "Tel Aviv", "特拉维夫", "テルアビブ"),
     "mty-20260910": ("mx", "Monterrey", "蒙特雷", "モンテレイ"),
     "pue-20260924": ("mx", "Puebla", "普埃布拉", "プエブラ"),
     "vhs-20260903": ("mx", "Villahermosa", "比亚埃尔莫萨", "ビヤエルモサ"),

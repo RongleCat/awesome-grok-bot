@@ -1124,6 +1124,26 @@
             "zh": "官方 @bot（2026-09-30 ~19:06 UTC / 10-01 ~03:06 上海）：Grok Bot 更擅长做软件——可把编码任务交给 Cursor，用 GitHub/Origin 插件管理 PR，并分享构建过程视频演示。",
             "ja": "公式 @bot（2026-09-30 ~19:06 UTC / 10-01 ~03:06 上海）。ソフト開発が強化—コーディングを Cursor にハンドオフ、GitHub/Origin プラグインで PR 管理、構築デモ動画を共有。"
           }
+        },
+        {
+          "title": "matt palmer: What's new in Grok Bot (Team bots, Finance, Voice)",
+          "url": "https://x.com/mattyp/status/2105345158162063493",
+          "source": "GB-1906",
+          "blurb": {
+            "en": "Walkthrough video of Team bots, Plaid Finance, and voice-call improvements for Grok Bot.",
+            "zh": "演示视频：Grok Bot 的 Team bots、Plaid 财务接入与语音通话改进。",
+            "ja": "Grok Bot の Team bots・Plaid Finance・通話改善を紹介するウォークスルー動画。"
+          }
+        },
+        {
+          "title": "Elon Musk: New in Grok @Bot",
+          "url": "https://x.com/elonmusk/status/2105350300534210708",
+          "source": "GB-1907",
+          "blurb": {
+            "en": "Elon amplifies the latest Grok Bot product roundup covering Team bots, Finance, and voice.",
+            "zh": "Elon 转发最新 Grok Bot 产品速览，涵盖 Team bots、财务与语音能力。",
+            "ja": "Elon が Team bots・Finance・音声を含む最新 Grok Bot まとめを拡散。"
+          }
         }
       ]
     },
@@ -3833,6 +3853,16 @@
             "en": "Hitchhiker’s Guide–flavored Grok Bot (x.ai/bot share) built around KTeaTime/RSIBreak-style tea timers, water/stretch reminders, and uplift menus, with public bot-rules.md.",
             "zh": "银河系漫游指南风味的 Grok Bot（含 x.ai/bot 分享）：茶饮计时、喝水/拉伸提醒与 uplift 菜单，附公开 bot-rules.md。",
             "ja": "銀河ヒッチハイク・ガイド風 Grok Bot（x.ai/bot 共有）。お茶タイマー、水分/ストレッチ催促、uplift メニューと公開 bot-rules.md。"
+          }
+        },
+        {
+          "title": "0xToji: Grok Bot trading agent mints its own meme coin",
+          "url": "https://x.com/Yel0_22G/status/2105526443732308021",
+          "source": "GB-1909",
+          "blurb": {
+            "en": "Field case: a Grok Bot tasked only to trade memecoins autonomously launched its own token (VOXA) and grew a small stack overnight under a risk-review agent.",
+            "zh": "实战：只被要求交易 meme 币的 Grok Bot 自主发行 VOXA，并在风控 agent 审核下隔夜把小资金做大。",
+            "ja": "実例。ミーム通貨取引だけを任された Grok Bot が自ら VOXA を発行し、リスク審査エージェント付きで一晩で資金を伸ばした。"
           }
         }
       ]
@@ -9864,6 +9894,46 @@
             "zh": "面向 AV 的 Itirium Vision 测试版 MCP（房间设计、RFP、健康检查）：用 Microsoft 登录把 Grok Bot 接上，避免 OAuth 卡死。",
             "ja": "AV 向け Itirium Vision β MCP（ルーム設計・RFP・ヘルスチェック）。Microsoft サインインで Grok Bot を接続し、OAuth で弾かれにくくする。"
           }
+        },
+        {
+          "title": "Liquid Gold for Grok Bot — kintsugi-verified templates & teams",
+          "url": "https://github.com/HermeticOrmus/liquid-gold-grok-bot",
+          "source": "GB-1910",
+          "blurb": {
+            "en": "Living library of Grok Bot templates and teams with instructions, skills, routines, and a LEDGER of sealed failure modes per bot.",
+            "zh": "Grok Bot 模板与团队活库：指令、skills、例程，以及每个 Bot 的裂缝修复台账（LEDGER）。",
+            "ja": "Grok Bot テンプレとチームのライブラリ。指示・skills・ルーチンと、Bot ごとの不具合を封じる LEDGER 付き。"
+          }
+        },
+        {
+          "title": "Oomi for Grok Bot — Cursor plugin (phone/web bridge)",
+          "url": "https://github.com/crispcode-io/oomi-cursor-plugin",
+          "source": "GB-1911",
+          "blurb": {
+            "en": "Cursor/Grok Bot plugin that connects an existing cloud Bot to Oomi for phone and web chat with auth-link pairing and repair skills.",
+            "zh": "Cursor/Grok Bot 插件：把现有云端 Bot 接到 Oomi，支持手机/网页聊天、授权链接配对与修复技能。",
+            "ja": "既存のクラウド Bot を Oomi に接続する Cursor/Grok Bot プラグイン。スマホ/Web 会話、認可リンク、修復スキル付き。"
+          }
+        },
+        {
+          "title": "Agent Handoff Bridge — MCP room across Codex, Dots & Grok Bots",
+          "url": "https://github.com/1ststepai/agent-handoff-bridge",
+          "source": "GB-1912",
+          "blurb": {
+            "en": "Self-hosted MCP shared room and task queue for supervised handoffs among Codex, OpenAI Dots, and Grok Bot roles with audit checkpoints.",
+            "zh": "自托管 MCP 共享房间与任务队列：在 Codex、OpenAI Dots 与 Grok Bot 角色间做带审批与审计检查点的交接。",
+            "ja": "Codex・OpenAI Dots・Grok Bot 役割間の監督付きハンドオフ用セルフホスト MCP 共有ルームとタスクキュー。"
+          }
+        },
+        {
+          "title": "Grok Bot Discord Fleet — manage/status MCP + skills",
+          "url": "https://github.com/matthew-rutledge-dev/grokbot-discord-fleet",
+          "source": "GB-1913",
+          "blurb": {
+            "en": "Grok Build/Cursor plugin packaging Discord fleet status and manage MCP servers plus boundary skills (wake bridge lives in a sibling repo).",
+            "zh": "Grok Build/Cursor 插件：打包 Discord 舰队 status/manage MCP 与边界 skills（唤醒桥在独立仓库）。",
+            "ja": "Discord フリートの status/manage MCP と境界 skills をまとめた Grok Build/Cursor プラグイン（起動ブリッジは別リポ）。"
+          }
         }
       ]
     },
@@ -13684,6 +13754,16 @@
             "zh": "自托管智能体工作区：每任务沙箱容器（shell/浏览器/Office·PDF），接任意兼容 OpenAI Responses 的模型——公开定位为 Muse/Dots/Grok Bot 一类替代。",
             "ja": "自ホストのエージェント作業場。タスク毎サンドボックス（shell・ブラウザ・Office/PDF）と任意の OpenAI Responses 互換モデル。Muse / Dots / Grok Bot 系の OSS 代替。"
           }
+        },
+        {
+          "title": "setup-dida-bot — merge WeChat→Dida tasks and wake Grok Bot",
+          "url": "https://github.com/dulk-dev/setup-dida-bot",
+          "source": "GB-1914",
+          "blurb": {
+            "en": "Node daemon that re-merges WeChat-split Dida checklist tasks, claims them with lifecycle tags, and POSTs a webhook to wake a Grok Bot routine.",
+            "zh": "Node 守护进程：合并微信拆开的滴答任务、用生命周期标签认领，再 webhook 唤醒 Grok Bot 例程。",
+            "ja": "WeChat 経由で分裂した Dida タスクを再結合し、ライフサイクルタグでクレームして Grok Bot の webhook を起こす Node デーモン。"
+          }
         }
       ]
     },
@@ -16123,6 +16203,56 @@
             "en": "Feature request: persist each user’s selected phone-app voice as a lasting preference so every new call starts with it.",
             "zh": "功能请求：把手机 App 里选中的语音保存为持久偏好，每次新通话都用该音色开场。",
             "ja": "機能要望。電話アプリで選んだ音声を永続設定にし、毎回の通話をその声で始める。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot agents cannot connect; mobile stuck reconnecting",
+          "url": "https://forum.cursor.com/t/grok-bot-agents-cannot-connect-to-cloud-computers-mobile-stuck-reconnecting/173434",
+          "source": "GB-1915",
+          "blurb": {
+            "en": "Failure report: new-account bots never reach their cloud computers and the mobile app stays on waiting to reconnect.",
+            "zh": "故障报告：新账号下 Bot 连不上云电脑，手机 App 一直停在等待重连。",
+            "ja": "障害報告。新規アカウントの Bot がクラウド PC に繋がらず、モバイルが再接続待ちのまま。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot won't login to Google using 1Password",
+          "url": "https://forum.cursor.com/t/grok-bot-wont-login-to-google-account-using-1password/173423",
+          "source": "GB-1916",
+          "blurb": {
+            "en": "Bug report: Google login popup accepts the username but refuses to fill the 1Password password during Bot browser auth.",
+            "zh": "缺陷报告：Bot 浏览器 Google 登录能填用户名，但拒绝用 1Password 填入密码。",
+            "ja": "不具合報告。Bot ブラウザの Google ログインでユーザー名は入るが 1Password のパスワード入力を拒否。"
+          }
+        },
+        {
+          "title": "Forum: Cloud Agents from Grok Bot spend Team Cloud Credits",
+          "url": "https://forum.cursor.com/t/cloud-agents-by-grokbot-using-team-cloud-credits-instead-of-personal-usage/173419",
+          "source": "GB-1917",
+          "blurb": {
+            "en": "Billing report: after moving to a team org, Grok Bot–launched cloud agents bill Team Cloud Credits instead of personal usage.",
+            "zh": "计费反馈：迁到团队组织后，Grok Bot 拉起的 Cloud Agent 改扣 Team Cloud Credits 而非个人用量。",
+            "ja": "課金報告。チーム組織移行後、Grok Bot 起動の Cloud Agent が個人枠ではなく Team Cloud Credits を消費。"
+          }
+        },
+        {
+          "title": "Forum: Finance/Plaid cannot link a second bank",
+          "url": "https://forum.cursor.com/t/plaid-multiple-banks/173151",
+          "source": "GB-1918",
+          "blurb": {
+            "en": "Bug report: after one successful Plaid link in the Finance plugin, adding a second institution (e.g. Schwab) fails.",
+            "zh": "缺陷报告：Finance 插件成功关联一家银行后，无法再通过 Plaid 添加第二家机构（如 Schwab）。",
+            "ja": "不具合報告。Finance プラグインで 1 行目の Plaid 連携後、2 行目（例: Schwab）を追加できない。"
+          }
+        },
+        {
+          "title": "Forum: feature request — Google Chat connector",
+          "url": "https://forum.cursor.com/t/feature-request-for-grokbot-google-chat-connector/173404",
+          "source": "GB-1919",
+          "blurb": {
+            "en": "Feature request: add a Google Chat connector alongside existing Google Workspace integrations for team messaging.",
+            "zh": "功能请求：在现有 Google Workspace 集成之外增加 Google Chat 连接器，方便团队消息。",
+            "ja": "機能要望。既存の Google Workspace 連携に加え Google Chat コネクタが欲しい。"
           }
         }
       ]
@@ -18893,6 +19023,16 @@
             "en": "Omarchy plugin that puts Muse, ChatGPT Dots, and your Grok Bot roster behind one bar icon, surfacing avatars when an assistant is awaiting your reply.",
             "zh": "Omarchy 插件：把 Muse、ChatGPT Dots 与 Grok Bot 名册收进一个栏图标，助手在等你回复时显示头像。",
             "ja": "Omarchy プラグイン。Muse・ChatGPT Dots・Grok Bot 名簿を 1 アイコンにまとめ、返信待ちでアバターを出す。"
+          }
+        },
+        {
+          "title": "blankspeaker: Grok Bot 0.65.0 notes (server agents + upcoming)",
+          "url": "https://x.com/blankspeaker/status/2105471969810616488",
+          "source": "GB-1908",
+          "blurb": {
+            "en": "Community changelog for 0.65.0: server-resident agents shipped, plus notes on iMessage, MCP apps, accent colors, and team-bot controls still rolling out.",
+            "zh": "社区整理的 0.65.0 更新：已上线服务器侧 agent，并记录 iMessage、MCP 应用、主题色与 Team Bot 权限等未全量能力。",
+            "ja": "0.65.0 のコミュニティ更新メモ。サーバー常駐エージェントが追加され、iMessage・MCP アプリ・アクセント色・Team Bot 管理などは今後。"
           }
         }
       ]
@@ -25929,6 +26069,37 @@
         "en": "Hands-on Grok Bot meetup in Huancayo (host Ignacio Velasquez; forum 173396 / Luma x5jqstsk): less talk, more building—bring a laptop and ship a working app in one afternoon. Free; approval + waitlist; spots_remaining 40; guest_count 0 at evening scan.",
         "zh": "万卡约 Grok Bot 动手局（主办 Ignacio Velasquez；论坛 173396 / Luma x5jqstsk）：少聊天、多构建，自带笔记本一下午做出可用应用。免费；需审批+候补；剩余名额 40；晚间扫描 guest_count 0。",
         "ja": "ワンカヨのハンズオン Grok Bot ミートアップ（主催 Ignacio Velasquez、フォーラム 173396 / Luma x5jqstsk）。話すより作る。ノート PC 持参で半日で動くアプリを出荷。無料、承認+ウェイトリスト、残り枠 40、夕方スキャン時 guest_count 0。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "tlv-20261019",
+      "url": "https://luma.com/ax8q461b",
+      "image": "./assets/events/tlv-20261019-cover.png",
+      "expires": "2026-10-19T20:00:00+03:00",
+      "title": {
+        "en": "Grok Bot Meetup Tel Aviv",
+        "zh": "Grok Bot Meetup 特拉维夫",
+        "ja": "Grok Bot Meetup テルアビブ"
+      },
+      "when": {
+        "en": "Mon 19 Oct 2026, 18:00–20:00 (Asia/Jerusalem, IDT, UTC+3)",
+        "zh": "2026-10-19 周一 18:00–20:00（亚洲/耶路撒冷 IDT，UTC+3）",
+        "ja": "2026-10-19（月）18:00–20:00（Asia/Jerusalem、IDT、UTC+3）"
+      },
+      "where": {
+        "en": "Tel Aviv-Yafo · hosted by Claroty (exact pin after register) · offline",
+        "zh": "特拉维夫 · Claroty 主办场地（报名后可见精确地址）· 线下",
+        "ja": "テルアビブ · Claroty ホスト（登録後に会場ピン）· オフライン"
+      },
+      "body": {
+        "en": "Next Tel Aviv Grok Bot meetup (hosts Elie Steinbock & Vlad Tansky; Luma ax8q461b): Claroty venue; short intros/demos plus talks on verifying agent work. Free; ~144 spots left / guest_count 206 at midday scan. Distinct from expired tlv-20260908.",
+        "zh": "特拉维夫下一场 Grok Bot 聚会（主办 Elie Steinbock、Vlad Tansky；Luma ax8q461b）：Claroty 场地；短分享/演示与智能体验收主题。免费；午间扫描剩约 144 席、guest_count 206。勿与已过期 tlv-20260908 混淆。",
+        "ja": "テルアビブ次回 Grok Bot ミートアップ（主催 Elie Steinbock / Vlad Tansky、Luma ax8q461b）。Claroty 会場で短いデモと検証トーク。無料；昼スキャンで残席約 144・guest_count 206。期限切れの tlv-20260908 とは別。"
       },
       "cta": {
         "en": "Register on Luma",
