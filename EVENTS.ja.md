@@ -234,12 +234,6 @@
 <a id="pei-20261002"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-1wgg"><img src="./assets/events/pei-20261002-cover.png" alt="Grok Bot Meetup Pereira" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Pereira</strong><br />2026-10-02（金）14:00–17:30（America/Bogota）<br />コロンビア・ペレイラ · Universidad Autónoma de las Américas（Av. de las Américas #98-56）— オフライン<br /><br />SpaceXAI ペレイラの Grok Bot / AI ミートアップ。登壇者は近日発表、コーヒー＆スナックあり。初心者歓迎。Luma で登録。<br /><br /><a href="https://luma.com/spacexai-1wgg"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="country-cz"></a>
-### チェコ
-
-<a id="prg-20260930"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-mljb"><img src="./assets/events/prg-20260930-cover.png" alt="Cursor Hackathon プラハ：Forge the Stack" width="300" /></a></td><td valign="top"><strong>Cursor Hackathon プラハ：Forge the Stack</strong><br />2026-09-30（水）12:30–19:00（Europe/Prague）<br />プラハ · SpaceXAI Prague — オフライン<br /><br />SpaceXAI Community のプラハ Cursor/Grok ハッカソン（Forge the Stack）。対面。Luma で登録。<br /><br /><a href="https://luma.com/cursor-mljb"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
 <a id="country-ec"></a>
 ### エクアドル
 

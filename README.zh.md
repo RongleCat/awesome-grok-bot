@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1866-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1881-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -57,7 +57,6 @@
 - **贝宁**（1）：[科托努](./EVENTS.zh.md#coo-20261003)
 - **科特迪瓦**（1）：[阿比让](./EVENTS.zh.md#abj-20261107)
 - **哥伦比亚**（1）：[佩雷拉](./EVENTS.zh.md#pei-20261002)
-- **捷克**（1）：[布拉格](./EVENTS.zh.md#prg-20260930)
 - **厄瓜多尔**（1）：[昆巴亚](./EVENTS.zh.md#cumb-20261003)
 - **希腊**（1）：[雅典](./EVENTS.zh.md#ath-20261001)
 - **爱尔兰**（1）：[都柏林](./EVENTS.zh.md#dub-20261004)
@@ -199,6 +198,7 @@
 - [Skills, Plugins & Marketplaces (Grok Build docs)](https://docs.x.ai/build/features/skills-plugins-marketplaces) - 官方 SpaceXAI Grok Build 文档：安装与发布 skills/plugins/marketplaces；与 Grok Bot 市场安装共用同一打包模型。.
 - [Team Bots (Cursor Help)](https://cursor.com/help/grok-bot/team-bots) - Cursor 官方帮助：Team Bots——把云端 Grok Bot 发布到 Cursor 团队，队友各自与同一共享 Bot 开私密会话。.
 - [Team Bots: AI coworkers that learn from your team](https://x.ai/news/team-bots) - 官方 SpaceXAI 新闻（2026-09-28）：Team Bots——把 Grok Bot 分享给团队，大家在 Slack 或 Grok Bot 里共用同一套技能、插件与凭证（Teams/Enterprise 公开测试）。.
+- [@bot: Grok Bot more powerful for building software (Cursor handoff + GitHub/Origin PRs)](https://x.com/bot/status/2105373767568621895) - 官方 @bot（2026-09-30 ~19:06 UTC / 10-01 ~03:06 上海）：Grok Bot 更擅长做软件——可把编码任务交给 Cursor，用 GitHub/Origin 插件管理 PR，并分享构建过程视频演示。.
 
 ## 教程与上手指南
 
@@ -1076,6 +1076,9 @@
 - [BakLater — private recommendation library plugin for Grok Build](https://github.com/hakantaymaz/baklater-grok-plugin) - BakLater 官方 Grok Build .grok-plugin：经托管 OAuth MCP 保存/搜索私人推荐库（电影、书籍、地点等）。.
 - [MarketNow — MCP trust-layer plugin (incl. Grok Build)](https://github.com/alicelabs-llc/marketnow-agent) - 通用智能体插件：接入 MarketNow 托管 MCP 信任层（凭证校验、域名风险、大型 MCP 注册表），支持 Grok Build、Cursor、Claude Code 等安装路径。.
 - [ClickFunnels — Cursor / Grok Bot Marketplace plugin](https://github.com/clickfunnels2/cursor-plugin) - ClickFunnels 的 Cursor / Grok Bot Marketplace MCP 插件：在已登录工作区内搭建漏斗与页面，并管理联系人、产品、订单与自动化。.
+- [Safari 27 MCP — Grok Bot template (safaridriver)](https://x.ai/bot/8obMM4mRWRLf51EB2n4JV) - 可分享的 Grok Bot 模板：驾驭 Apple Safari 27 的 safaridriver MCP，做电商冒烟、可读 DOM、预 DNS 与持续运维（作者 Shagghie）。.
+- [Grok Bot Orchestrator — description & workspace pack](https://github.com/cuthbertnogood/grok-bot-orchestrator) - 主控 Grok Bot 编排器的现成 Description、首条消息与 workspace 模板：用云电脑文件当真相源、任务开独立频道，压低周用量与聊天上下文。.
+- [Itirium Vision for AV — MCP connector for Grok Bot](https://av.beta.itirium.ai) - 面向 AV 的 Itirium Vision 测试版 MCP（房间设计、RFP、健康检查）：用 Microsoft 登录把 Grok Bot 接上，避免 OAuth 卡死。.
 
 ## 评测与对比
 
@@ -1459,6 +1462,9 @@
 - [foss-bot — open multi-agent team for Claude Code/Codex](https://github.com/dyl-joseph/foss-bot) - 开源的 Grok Bot 风格多 Bot 团队（首席参谋+专家席）面向 Claude Code/Codex，支持跨模型席位与可选每工人 CUA 微虚拟机，不另起应用运行时。.
 - [Codync — open-source Grok Bot / Muse–style messaging agents](https://github.com/leepokai/Codync) - 开源的 Grok Bot / Muse 风格替代：在 iPhone、Mac、Linux 或终端里把 Claude Code、Codex、Cursor、Gemini 等编程代理当 Bot 来聊（Rust 主机）。.
 - [perlica-grokbot — Hermes/Perlica webhook thin client](https://github.com/OttoPrua/perlica-grokbot) - 面向已有 Perlica/Hermes 云端 webhook 调度器的薄 CLI：向 Grok Bot 投递已认证任务，不伪造 SendToAgent，密钥仅来自环境变量。.
+- [gb2gpt — ChatGPT Developer MCP ↔ Grok Bot fleet bridge](https://github.com/EdmundLimBoEn/gb2gpt) - 自托管桥：在 ChatGPT Developer 模式对话里经 MCP 调度你的 Cursor Grok Bot 舰队，可选 routine webhook 与专用中继 Bot（纯标准库 Python）。.
+- [Discalaves — local open-source Grok Bot–style AI employees](https://github.com/discajapon/discalaves) - 本地开源的 Grok Bot 风格替代：每位「员工」有隔离 Debian 桌面（浏览器/终端），可选 OpenClaw 循环与团队交接，GPU 上跑本地模型（已测 Qwen 3.5 9B）。.
+- [Meowbert — self-hosted sandboxed agent workspace](https://github.com/XInTheDark/meowbert-ai-agent) - 自托管智能体工作区：每任务沙箱容器（shell/浏览器/Office·PDF），接任意兼容 OpenAI Responses 的模型——公开定位为 Muse/Dots/Grok Bot 一类替代。.
 
 ## 社区与故障现场
 
@@ -1700,6 +1706,11 @@
 - [Forum: per-site routing through my computer](https://forum.cursor.com/t/feature-request-per-site-routing-through-my-computer/173349) - 功能请求：将「经此电脑路由流量」改为按站点可选，而非全开/全关，以便仅让被拦站点走家里机器出口。.
 - [Forum: Grok Bot desktop unreachable after installing VPN](https://forum.cursor.com/t/hey-guys-the-desctop-from-grok-bot-is-offline-for-2-days-and-i-cant-do-anything-with-it/173388) - 反馈：Bot 自行安装免费 VPN 后云电脑连续两天不可达，请求服务端移除 VPN。.
 - [Forum: Loss of Browser control (desktop-control tool missing)](https://forum.cursor.com/t/loss-of-browser-control/173319) - 反馈：Grok Bot 能截屏但无法点击/键入/浏览，会话里缺少 desktop-control 工具（约自 2026-09-22）。.
+- [Forum: Grok Bot computer will not boot (restore ~117GB loop)](https://forum.cursor.com/t/grok-bot-computer-will-not-boot-restore-keeps-copying-117gb-into-home-box-projects-ticket-t-g14112/173436) - 缺陷报告（工单 T-G14112）：恢复一直往 home/box/Projects 拷约 117GB，导致 Grok Bot 云电脑无法完成启动。.
+- [Forum: Grok Bots missing after overnight training](https://forum.cursor.com/t/grok-bots-missing/173460) - 缺陷报告：一夜训练的 12 个出版向 Grok Bot 之后从名册消失，应用内找不到。.
+- [Forum: tighter OAuth scopes + fixed approval for mutable connector calls](https://forum.cursor.com/t/grok-bot-tighter-oauth-scopes-for-connectors-and-fixed-approval-for-mutable-calls/173450) - 功能请求：允许自选连接器 OAuth 读写范围，并对可变操作强制固定代码审批，而非只靠 Auto Review 模型判断。.
+- [Forum: Asana connector redirect_uri mismatch](https://forum.cursor.com/t/asana-connector/173426) - 缺陷报告：Asana 连接器登录失败，invalid_request：redirect_uri 与应用登记 URL 不匹配。.
+- [Forum: remember chosen voice on Grok Bot phone app](https://forum.cursor.com/t/remember-each-users-chosen-voice-on-the-grok-bot-phone-app/173412) - 功能请求：把手机 App 里选中的语音保存为持久偏好，每次新通话都用该音色开场。.
 
 ## 相关列表
 
@@ -1976,10 +1987,13 @@
 - [HTML Artifacts reference — Grok Bot canvas skill pages](https://github.com/Biggles10-claude/html-artifacts-reference) - Grok Bot html-artifacts 技能的公开参考：GitHub Pages 上的类 Claude Artifacts 单页画布（替代旧版 live-deck 滑动壳）。.
 - [VoiceOS × Grok Bot integration template](https://github.com/Arav-Rithvik-VoiceOS/voiceos-grokbot-integration) - VoiceOS 对接 Grok Bot 的集成模板：含 macOS 钥匙串「Grok Bot Safe Storage」Always Allow 步骤与 MCP 服务端骨架。.
 - [Grok Bot Meetup talk — Open Slide deck](https://github.com/naufaldi/grok-bot-meetup-talk) - Grok Bot Meetup 演讲用 Open Slide 幻灯片（22 页）：含 SpaceXAI/Grok Bot 品牌页、用例分镜与讲者备注。.
+- [Omarchy Agent Notch — live Claude Code & Grok Bot faces](https://github.com/GNSB/omarchy-agent-notch) - Omarchy 动态岛凹槽：实时显示 Claude Code 会话，并可经 stdio MCP 的 report_status 展示 Grok Bot；等待/失败时弹出提醒。.
+- [Omarchy AI Usage — Cursor / Grok Bot / SuperGrok / Claude limits](https://github.com/HurlyDesousa/omarchy-ai-usage) - Omarchy 栏面板：从本机已登录会话读取 Cursor、Grok Bot 周额度、SuperGrok 与 Claude 的用量与重置时间（可选一键续登）。.
+- [Oposse — Omarchy bar for Muse, ChatGPT Dots & Grok Bot](https://github.com/Telep-IO/oposse) - Omarchy 插件：把 Muse、ChatGPT Dots 与 Grok Bot 名册收进一个栏图标，助手在等你回复时显示头像。.
 
 ## 贡献
 
-目前 8 个分类、1866 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1881 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

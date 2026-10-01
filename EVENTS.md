@@ -234,12 +234,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="pei-20261002"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-1wgg"><img src="./assets/events/pei-20261002-cover.png" alt="Grok Bot Pereira Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Pereira Meetup</strong><br />Fri 2 Oct 2026, 14:00–17:30 (America/Bogota)<br />Pereira, Risaralda, Colombia · Universidad Autónoma de las Américas (Av. de las Américas #98-56) — offline<br /><br />SpaceXAI Pereira afternoon on Grok Bot / AI building; talks TBA, coffee & snacks. No prior experience needed. Register on Luma.<br /><br /><a href="https://luma.com/spacexai-1wgg"><strong>Register on Luma →</strong></a></td></tr></table>
 
-<a id="country-cz"></a>
-### Czechia
-
-<a id="prg-20260930"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-mljb"><img src="./assets/events/prg-20260930-cover.png" alt="Cursor Hackathon Prague: Forge the Stack" width="300" /></a></td><td valign="top"><strong>Cursor Hackathon Prague: Forge the Stack</strong><br />Wed 30 Sep 2026, 12:30–19:00 (Europe/Prague)<br />Prague · SpaceXAI for Prague — offline<br /><br />SpaceXAI Community Cursor/Grok hackathon in Prague — Forge the Stack. In-person; register on Luma.<br /><br /><a href="https://luma.com/cursor-mljb"><strong>Register on Luma →</strong></a></td></tr></table>
-
 <a id="country-ec"></a>
 ### Ecuador
 

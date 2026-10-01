@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -1113,6 +1113,16 @@
             "en": "Official SpaceXAI news (2026-09-28): Team Bots—share a Grok Bot with your team so everyone works from the same skills, plugins, and credentials in Slack or Grok Bot (public beta for Teams/Enterprise).",
             "zh": "官方 SpaceXAI 新闻（2026-09-28）：Team Bots——把 Grok Bot 分享给团队，大家在 Slack 或 Grok Bot 里共用同一套技能、插件与凭证（Teams/Enterprise 公开测试）。",
             "ja": "公式 SpaceXAI ニュース（2026-09-28）。Team Bots：スキル・プラグイン・資格情報を共有した Grok Bot をチームで使い、Slack または Grok Bot で同じ文脈で働く（Teams/Enterprise 公開ベータ）。"
+          }
+        },
+        {
+          "title": "@bot: Grok Bot more powerful for building software (Cursor handoff + GitHub/Origin PRs)",
+          "url": "https://x.com/bot/status/2105373767568621895",
+          "source": "GB-1891",
+          "blurb": {
+            "en": "Official @bot (2026-09-30 ~19:06 UTC / Oct 1 ~03:06 Asia/Shanghai): Grok Bot is more powerful for building software—Bots can hand off coding tasks to Cursor, manage PRs with GitHub and Origin plugins, and share video demos of what they build.",
+            "zh": "官方 @bot（2026-09-30 ~19:06 UTC / 10-01 ~03:06 上海）：Grok Bot 更擅长做软件——可把编码任务交给 Cursor，用 GitHub/Origin 插件管理 PR，并分享构建过程视频演示。",
+            "ja": "公式 @bot（2026-09-30 ~19:06 UTC / 10-01 ~03:06 上海）。ソフト開発が強化—コーディングを Cursor にハンドオフ、GitHub/Origin プラグインで PR 管理、構築デモ動画を共有。"
           }
         }
       ]
@@ -9824,6 +9834,36 @@
             "zh": "ClickFunnels 的 Cursor / Grok Bot Marketplace MCP 插件：在已登录工作区内搭建漏斗与页面，并管理联系人、产品、订单与自动化。",
             "ja": "Cursor / Grok Bot Marketplace 向け ClickFunnels MCP プラグイン。ログイン済みワークスペースでファネル/ページ作成と連絡先・商品・注文・自動化を操作。"
           }
+        },
+        {
+          "title": "Safari 27 MCP — Grok Bot template (safaridriver)",
+          "url": "https://x.ai/bot/8obMM4mRWRLf51EB2n4JV",
+          "source": "GB-1892",
+          "blurb": {
+            "en": "Shared Grok Bot template for Apple Safari 27 safaridriver MCP: ecommerce smokes, agent-legible DOM, pre-DNS bake-in, and sustain workflows (by Shagghie).",
+            "zh": "可分享的 Grok Bot 模板：驾驭 Apple Safari 27 的 safaridriver MCP，做电商冒烟、可读 DOM、预 DNS 与持续运维（作者 Shagghie）。",
+            "ja": "共有可能な Grok Bot テンプレート。Apple Safari 27 の safaridriver MCP で EC スモーク、エージェント向け DOM、pre-DNS、運用を担当（Shagghie）。"
+          }
+        },
+        {
+          "title": "Grok Bot Orchestrator — description & workspace pack",
+          "url": "https://github.com/cuthbertnogood/grok-bot-orchestrator",
+          "source": "GB-1893",
+          "blurb": {
+            "en": "Ready Description, first-message, and workspace templates for a master Grok Bot orchestrator that keeps weekly usage and chat context small via file-backed memory and specialist handoffs.",
+            "zh": "主控 Grok Bot 编排器的现成 Description、首条消息与 workspace 模板：用云电脑文件当真相源、任务开独立频道，压低周用量与聊天上下文。",
+            "ja": "マスター Orchestrator 向け Description・初回メッセージ・workspace テンプレ。ファイルを正とし専門 Bot へ渡し、週次 usage とチャット文脈を小さく保つ。"
+          }
+        },
+        {
+          "title": "Itirium Vision for AV — MCP connector for Grok Bot",
+          "url": "https://av.beta.itirium.ai",
+          "source": "GB-1894",
+          "blurb": {
+            "en": "Itirium Vision beta MCP for AV workflows (room design, RFP response, health check): connect Grok Bot with Microsoft sign-in so agents can finish MCP without bouncing at OAuth.",
+            "zh": "面向 AV 的 Itirium Vision 测试版 MCP（房间设计、RFP、健康检查）：用 Microsoft 登录把 Grok Bot 接上，避免 OAuth 卡死。",
+            "ja": "AV 向け Itirium Vision β MCP（ルーム設計・RFP・ヘルスチェック）。Microsoft サインインで Grok Bot を接続し、OAuth で弾かれにくくする。"
+          }
         }
       ]
     },
@@ -13614,6 +13654,36 @@
             "zh": "面向已有 Perlica/Hermes 云端 webhook 调度器的薄 CLI：向 Grok Bot 投递已认证任务，不伪造 SendToAgent，密钥仅来自环境变量。",
             "ja": "既存の Perlica/Hermes クラウド webhook ディスパッチャへ認証付きジョブを POST する薄い CLI。SendToAgent 偽造なし、秘密は環境変数のみ。"
           }
+        },
+        {
+          "title": "gb2gpt — ChatGPT Developer MCP ↔ Grok Bot fleet bridge",
+          "url": "https://github.com/EdmundLimBoEn/gb2gpt",
+          "source": "GB-1895",
+          "blurb": {
+            "en": "Self-hosted bridge so an ordinary ChatGPT Developer-mode conversation can talk to your Cursor Grok Bot fleet via MCP, optional routine webhooks, and a dedicated relay bot (stdlib-only Python).",
+            "zh": "自托管桥：在 ChatGPT Developer 模式对话里经 MCP 调度你的 Cursor Grok Bot 舰队，可选 routine webhook 与专用中继 Bot（纯标准库 Python）。",
+            "ja": "自ホスト橋。ChatGPT Developer モードの会話から MCP 経由で Cursor の Grok Bot 艦隊へ依頼し、任意で routine webhook と中継 Bot（標準ライブラリのみの Python）。"
+          }
+        },
+        {
+          "title": "Discalaves — local open-source Grok Bot–style AI employees",
+          "url": "https://github.com/discajapon/discalaves",
+          "source": "GB-1896",
+          "blurb": {
+            "en": "Local open-source alternative to Grok Bot: AI “employees” each get an isolated Debian desktop (browser/terminal), optional OpenClaw loop, and team handoffs on your GPU (Qwen 3.5 9B tested).",
+            "zh": "本地开源的 Grok Bot 风格替代：每位「员工」有隔离 Debian 桌面（浏览器/终端），可选 OpenClaw 循环与团队交接，GPU 上跑本地模型（已测 Qwen 3.5 9B）。",
+            "ja": "ローカル OSS の Grok Bot 風代替。各「社員」に隔離 Debian デスクトップ（ブラウザ/端末）、任意で OpenClaw、チーム引き継ぎ。GPU 上のローカルモデル（Qwen 3.5 9B 検証）。"
+          }
+        },
+        {
+          "title": "Meowbert — self-hosted sandboxed agent workspace",
+          "url": "https://github.com/XInTheDark/meowbert-ai-agent",
+          "source": "GB-1897",
+          "blurb": {
+            "en": "Self-hosted agent workspace with per-task sandboxed containers (shell, browser, Office/PDF) and any OpenAI-Responses-compatible model—an open alternative named alongside Muse, Dots, and Grok Bot.",
+            "zh": "自托管智能体工作区：每任务沙箱容器（shell/浏览器/Office·PDF），接任意兼容 OpenAI Responses 的模型——公开定位为 Muse/Dots/Grok Bot 一类替代。",
+            "ja": "自ホストのエージェント作業場。タスク毎サンドボックス（shell・ブラウザ・Office/PDF）と任意の OpenAI Responses 互換モデル。Muse / Dots / Grok Bot 系の OSS 代替。"
+          }
         }
       ]
     },
@@ -16003,6 +16073,56 @@
             "en": "Report: Grok Bot can screenshot its desktop but cannot click/type/browse because the desktop-control tool is missing from the session (since ~2026-09-22).",
             "zh": "反馈：Grok Bot 能截屏但无法点击/键入/浏览，会话里缺少 desktop-control 工具（约自 2026-09-22）。",
             "ja": "報告。スクリーンショットはできるが click/type/browse ができず、セッションから desktop-control ツールが欠落（おおむね 2026-09-22 以降）。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot computer will not boot (restore ~117GB loop)",
+          "url": "https://forum.cursor.com/t/grok-bot-computer-will-not-boot-restore-keeps-copying-117gb-into-home-box-projects-ticket-t-g14112/173436",
+          "source": "GB-1901",
+          "blurb": {
+            "en": "Bug report (ticket T-G14112): restore keeps copying ~117GB into home/box/Projects so the Grok Bot cloud computer never finishes booting.",
+            "zh": "缺陷报告（工单 T-G14112）：恢复一直往 home/box/Projects 拷约 117GB，导致 Grok Bot 云电脑无法完成启动。",
+            "ja": "不具合報告（チケット T-G14112）。復元が home/box/Projects へ約 117GB をコピーし続け、クラウドパソコンが起動完了しない。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bots missing after overnight training",
+          "url": "https://forum.cursor.com/t/grok-bots-missing/173460",
+          "source": "GB-1902",
+          "blurb": {
+            "en": "Bug report: twelve publishing-company Grok Bots trained overnight later disappeared from the roster / could not be found in the app.",
+            "zh": "缺陷报告：一夜训练的 12 个出版向 Grok Bot 之后从名册消失，应用内找不到。",
+            "ja": "不具合報告。一晩学習させた出版向け 12 体の Grok Bot が名簿から消え、アプリ内で見つからない。"
+          }
+        },
+        {
+          "title": "Forum: tighter OAuth scopes + fixed approval for mutable connector calls",
+          "url": "https://forum.cursor.com/t/grok-bot-tighter-oauth-scopes-for-connectors-and-fixed-approval-for-mutable-calls/173450",
+          "source": "GB-1903",
+          "blurb": {
+            "en": "Feature request: let users pick connector OAuth scopes (read vs write) and require a fixed in-code approval for mutable calls instead of Auto-review-only gating.",
+            "zh": "功能请求：允许自选连接器 OAuth 读写范围，并对可变操作强制固定代码审批，而非只靠 Auto Review 模型判断。",
+            "ja": "機能要望。コネクタ OAuth の read/write 範囲を選べ、変更系呼び出しは Auto Review 任せではなく固定の承認を必須に。"
+          }
+        },
+        {
+          "title": "Forum: Asana connector redirect_uri mismatch",
+          "url": "https://forum.cursor.com/t/asana-connector/173426",
+          "source": "GB-1904",
+          "blurb": {
+            "en": "Bug report: Asana connector sign-in fails with invalid_request because redirect_uri does not match a valid URL for the app.",
+            "zh": "缺陷报告：Asana 连接器登录失败，invalid_request：redirect_uri 与应用登记 URL 不匹配。",
+            "ja": "不具合報告。Asana コネクタのサインインが invalid_request（redirect_uri 不一致）で失敗。"
+          }
+        },
+        {
+          "title": "Forum: remember chosen voice on Grok Bot phone app",
+          "url": "https://forum.cursor.com/t/remember-each-users-chosen-voice-on-the-grok-bot-phone-app/173412",
+          "source": "GB-1905",
+          "blurb": {
+            "en": "Feature request: persist each user’s selected phone-app voice as a lasting preference so every new call starts with it.",
+            "zh": "功能请求：把手机 App 里选中的语音保存为持久偏好，每次新通话都用该音色开场。",
+            "ja": "機能要望。電話アプリで選んだ音声を永続設定にし、毎回の通話をその声で始める。"
           }
         }
       ]
@@ -18743,6 +18863,36 @@
             "en": "Open Slide deck (22 pages) for a Grok Bot meetup talk, with SpaceXAI/Grok Bot branding, use-case storyboard, and presenter notes.",
             "zh": "Grok Bot Meetup 演讲用 Open Slide 幻灯片（22 页）：含 SpaceXAI/Grok Bot 品牌页、用例分镜与讲者备注。",
             "ja": "Grok Bot ミートアップ向け Open Slide デッキ（22 ページ）。SpaceXAI / Grok Bot ブランディング、ユースケース構成、発表者ノート付き。"
+          }
+        },
+        {
+          "title": "Omarchy Agent Notch — live Claude Code & Grok Bot faces",
+          "url": "https://github.com/GNSB/omarchy-agent-notch",
+          "source": "GB-1898",
+          "blurb": {
+            "en": "Omarchy dynamic-island notch showing live Claude Code sessions and optional Grok Bots via a stdio MCP report_status tool, with alerts when an agent waits or fails.",
+            "zh": "Omarchy 动态岛凹槽：实时显示 Claude Code 会话，并可经 stdio MCP 的 report_status 展示 Grok Bot；等待/失败时弹出提醒。",
+            "ja": "Omarchy のダイナミックアイランド風ノッチ。Claude Code をライブ表示し、stdio MCP の report_status で Grok Bot も任意表示。待機/失敗でアラート。"
+          }
+        },
+        {
+          "title": "Omarchy AI Usage — Cursor / Grok Bot / SuperGrok / Claude limits",
+          "url": "https://github.com/HurlyDesousa/omarchy-ai-usage",
+          "source": "GB-1899",
+          "blurb": {
+            "en": "Omarchy bar panel that shows plan limits and reset times for Cursor, weekly Grok Bot allowance, SuperGrok, and Claude from local sign-ins (opt-in credential renew).",
+            "zh": "Omarchy 栏面板：从本机已登录会话读取 Cursor、Grok Bot 周额度、SuperGrok 与 Claude 的用量与重置时间（可选一键续登）。",
+            "ja": "Omarchy バーパネル。ローカルサインインから Cursor・Grok Bot 週次枠・SuperGrok・Claude の残量とリセット時刻を表示（任意で再認証）。"
+          }
+        },
+        {
+          "title": "Oposse — Omarchy bar for Muse, ChatGPT Dots & Grok Bot",
+          "url": "https://github.com/Telep-IO/oposse",
+          "source": "GB-1900",
+          "blurb": {
+            "en": "Omarchy plugin that puts Muse, ChatGPT Dots, and your Grok Bot roster behind one bar icon, surfacing avatars when an assistant is awaiting your reply.",
+            "zh": "Omarchy 插件：把 Muse、ChatGPT Dots 与 Grok Bot 名册收进一个栏图标，助手在等你回复时显示头像。",
+            "ja": "Omarchy プラグイン。Muse・ChatGPT Dots・Grok Bot 名簿を 1 アイコンにまとめ、返信待ちでアバターを出す。"
           }
         }
       ]

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1866-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1881-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -57,7 +57,6 @@
 - **ベナン**（1）：[コトヌー](./EVENTS.ja.md#coo-20261003)
 - **コートジボワール**（1）：[アビジャン](./EVENTS.ja.md#abj-20261107)
 - **コロンビア**（1）：[ペレイラ](./EVENTS.ja.md#pei-20261002)
-- **チェコ**（1）：[プラハ](./EVENTS.ja.md#prg-20260930)
 - **エクアドル**（1）：[クンバヤ](./EVENTS.ja.md#cumb-20261003)
 - **ギリシャ**（1）：[アテネ](./EVENTS.ja.md#ath-20261001)
 - **アイルランド**（1）：[ダブリン](./EVENTS.ja.md#dub-20261004)
@@ -199,6 +198,7 @@
 - [Skills, Plugins & Marketplaces (Grok Build docs)](https://docs.x.ai/build/features/skills-plugins-marketplaces) - 公式 SpaceXAI Grok Build ドキュメント。skills / plugins / marketplaces の導入と公開。Grok Bot の Marketplace と同じパッケージモデル。
 - [Team Bots (Cursor Help)](https://cursor.com/help/grok-bot/team-bots) - Cursor 公式ヘルプの Team Bots。クラウドの Grok Bot をチームに公開し、各自がその共有ボットとプライベートチャットできます。
 - [Team Bots: AI coworkers that learn from your team](https://x.ai/news/team-bots) - 公式 SpaceXAI ニュース（2026-09-28）。Team Bots：スキル・プラグイン・資格情報を共有した Grok Bot をチームで使い、Slack または Grok Bot で同じ文脈で働く（Teams/Enterprise 公開ベータ）。
+- [@bot: Grok Bot more powerful for building software (Cursor handoff + GitHub/Origin PRs)](https://x.com/bot/status/2105373767568621895) - 公式 @bot（2026-09-30 ~19:06 UTC / 10-01 ~03:06 上海）。ソフト開発が強化—コーディングを Cursor にハンドオフ、GitHub/Origin プラグインで PR 管理、構築デモ動画を共有。
 
 ## チュートリアルとガイド
 
@@ -1076,6 +1076,9 @@
 - [BakLater — private recommendation library plugin for Grok Build](https://github.com/hakantaymaz/baklater-grok-plugin) - BakLater 公式 Grok Build .grok-plugin。ホスト OAuth MCP で映画・本・場所などのプライベート推奨ライブラリを保存・検索。
 - [MarketNow — MCP trust-layer plugin (incl. Grok Build)](https://github.com/alicelabs-llc/marketnow-agent) - MarketNow のホスト MCP 信頼レイヤ（資格情報検証・ドメイン検査・大規模 MCP レジストリ）を足すユニバーサルプラグイン。Grok Build / Cursor / Claude Code などに対応。
 - [ClickFunnels — Cursor / Grok Bot Marketplace plugin](https://github.com/clickfunnels2/cursor-plugin) - Cursor / Grok Bot Marketplace 向け ClickFunnels MCP プラグイン。ログイン済みワークスペースでファネル/ページ作成と連絡先・商品・注文・自動化を操作。
+- [Safari 27 MCP — Grok Bot template (safaridriver)](https://x.ai/bot/8obMM4mRWRLf51EB2n4JV) - 共有可能な Grok Bot テンプレート。Apple Safari 27 の safaridriver MCP で EC スモーク、エージェント向け DOM、pre-DNS、運用を担当（Shagghie）。
+- [Grok Bot Orchestrator — description & workspace pack](https://github.com/cuthbertnogood/grok-bot-orchestrator) - マスター Orchestrator 向け Description・初回メッセージ・workspace テンプレ。ファイルを正とし専門 Bot へ渡し、週次 usage とチャット文脈を小さく保つ。
+- [Itirium Vision for AV — MCP connector for Grok Bot](https://av.beta.itirium.ai) - AV 向け Itirium Vision β MCP（ルーム設計・RFP・ヘルスチェック）。Microsoft サインインで Grok Bot を接続し、OAuth で弾かれにくくする。
 
 ## レビューと比較
 
@@ -1459,6 +1462,9 @@
 - [foss-bot — open multi-agent team for Claude Code/Codex](https://github.com/dyl-joseph/foss-bot) - Claude Code / Codex 向けのオープンな Grok Bot 風マルチエージェント（参謀＋専門 Bot）。クロスモデル席と任意のワーカー別 CUA microVM。新ランタイムなし。
 - [Codync — open-source Grok Bot / Muse–style messaging agents](https://github.com/leepokai/Codync) - Grok Bot / Muse のオープンな 1:1 代替。iPhone・Mac・Linux・端末から Claude Code / Codex / Cursor / Gemini などへ Bot としてメッセージ（Rust ホスト）。
 - [perlica-grokbot — Hermes/Perlica webhook thin client](https://github.com/OttoPrua/perlica-grokbot) - 既存の Perlica/Hermes クラウド webhook ディスパッチャへ認証付きジョブを POST する薄い CLI。SendToAgent 偽造なし、秘密は環境変数のみ。
+- [gb2gpt — ChatGPT Developer MCP ↔ Grok Bot fleet bridge](https://github.com/EdmundLimBoEn/gb2gpt) - 自ホスト橋。ChatGPT Developer モードの会話から MCP 経由で Cursor の Grok Bot 艦隊へ依頼し、任意で routine webhook と中継 Bot（標準ライブラリのみの Python）。
+- [Discalaves — local open-source Grok Bot–style AI employees](https://github.com/discajapon/discalaves) - ローカル OSS の Grok Bot 風代替。各「社員」に隔離 Debian デスクトップ（ブラウザ/端末）、任意で OpenClaw、チーム引き継ぎ。GPU 上のローカルモデル（Qwen 3.5 9B 検証）。
+- [Meowbert — self-hosted sandboxed agent workspace](https://github.com/XInTheDark/meowbert-ai-agent) - 自ホストのエージェント作業場。タスク毎サンドボックス（shell・ブラウザ・Office/PDF）と任意の OpenAI Responses 互換モデル。Muse / Dots / Grok Bot 系の OSS 代替。
 
 ## コミュニティと障害事例
 
@@ -1700,6 +1706,11 @@
 - [Forum: per-site routing through my computer](https://forum.cursor.com/t/feature-request-per-site-routing-through-my-computer/173349) - 機能要望。「このコンピュータ経由で通信」を全か無かではなくサイト単位にし、ブロックされるサイトだけ自宅回線へ。
 - [Forum: Grok Bot desktop unreachable after installing VPN](https://forum.cursor.com/t/hey-guys-the-desctop-from-grok-bot-is-offline-for-2-days-and-i-cant-do-anything-with-it/173388) - 報告。Bot が無料 VPN を入れたあと 2 日間コンピュータに到達できず、サーバー側での VPN 削除を依頼。
 - [Forum: Loss of Browser control (desktop-control tool missing)](https://forum.cursor.com/t/loss-of-browser-control/173319) - 報告。スクリーンショットはできるが click/type/browse ができず、セッションから desktop-control ツールが欠落（おおむね 2026-09-22 以降）。
+- [Forum: Grok Bot computer will not boot (restore ~117GB loop)](https://forum.cursor.com/t/grok-bot-computer-will-not-boot-restore-keeps-copying-117gb-into-home-box-projects-ticket-t-g14112/173436) - 不具合報告（チケット T-G14112）。復元が home/box/Projects へ約 117GB をコピーし続け、クラウドパソコンが起動完了しない。
+- [Forum: Grok Bots missing after overnight training](https://forum.cursor.com/t/grok-bots-missing/173460) - 不具合報告。一晩学習させた出版向け 12 体の Grok Bot が名簿から消え、アプリ内で見つからない。
+- [Forum: tighter OAuth scopes + fixed approval for mutable connector calls](https://forum.cursor.com/t/grok-bot-tighter-oauth-scopes-for-connectors-and-fixed-approval-for-mutable-calls/173450) - 機能要望。コネクタ OAuth の read/write 範囲を選べ、変更系呼び出しは Auto Review 任せではなく固定の承認を必須に。
+- [Forum: Asana connector redirect_uri mismatch](https://forum.cursor.com/t/asana-connector/173426) - 不具合報告。Asana コネクタのサインインが invalid_request（redirect_uri 不一致）で失敗。
+- [Forum: remember chosen voice on Grok Bot phone app](https://forum.cursor.com/t/remember-each-users-chosen-voice-on-the-grok-bot-phone-app/173412) - 機能要望。電話アプリで選んだ音声を永続設定にし、毎回の通話をその声で始める。
 
 ## 関連リスト
 
@@ -1976,10 +1987,13 @@
 - [HTML Artifacts reference — Grok Bot canvas skill pages](https://github.com/Biggles10-claude/html-artifacts-reference) - Grok Bot の html-artifacts スキル向け公開リファレンス。GitHub Pages 上の Claude Artifacts 風単一ページ（旧 live-deck スワイプ UI の代替）。
 - [VoiceOS × Grok Bot integration template](https://github.com/Arav-Rithvik-VoiceOS/voiceos-grokbot-integration) - VoiceOS 向け Grok Bot 統合テンプレート。発話ツールを Grok Bot へルーティングし、macOS キーチェーン「Grok Bot Safe Storage」の Always Allow 手順と MCP サーバ雛形を含む。
 - [Grok Bot Meetup talk — Open Slide deck](https://github.com/naufaldi/grok-bot-meetup-talk) - Grok Bot ミートアップ向け Open Slide デッキ（22 ページ）。SpaceXAI / Grok Bot ブランディング、ユースケース構成、発表者ノート付き。
+- [Omarchy Agent Notch — live Claude Code & Grok Bot faces](https://github.com/GNSB/omarchy-agent-notch) - Omarchy のダイナミックアイランド風ノッチ。Claude Code をライブ表示し、stdio MCP の report_status で Grok Bot も任意表示。待機/失敗でアラート。
+- [Omarchy AI Usage — Cursor / Grok Bot / SuperGrok / Claude limits](https://github.com/HurlyDesousa/omarchy-ai-usage) - Omarchy バーパネル。ローカルサインインから Cursor・Grok Bot 週次枠・SuperGrok・Claude の残量とリセット時刻を表示（任意で再認証）。
+- [Oposse — Omarchy bar for Muse, ChatGPT Dots & Grok Bot](https://github.com/Telep-IO/oposse) - Omarchy プラグイン。Muse・ChatGPT Dots・Grok Bot 名簿を 1 アイコンにまとめ、返信待ちでアバターを出す。
 
 ## 貢献
 
-8 セクションに 1866 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1881 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -234,12 +234,6 @@
 <a id="pei-20261002"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-1wgg"><img src="./assets/events/pei-20261002-cover.png" alt="Grok Bot Meetup 佩雷拉" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 佩雷拉</strong><br />2026-10-02 周五 14:00–17:30（America/Bogota）<br />哥伦比亚佩雷拉 · Universidad Autónoma de las Américas（Av. de las Américas #98-56）— 线下<br /><br />SpaceXAI 佩雷拉 Grok Bot/AI 下午场；嘉宾待定，含咖啡点心。无需经验。Luma 报名。<br /><br /><a href="https://luma.com/spacexai-1wgg"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="country-cz"></a>
-### 捷克
-
-<a id="prg-20260930"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-mljb"><img src="./assets/events/prg-20260930-cover.png" alt="Cursor 布拉格黑客松：Forge the Stack" width="300" /></a></td><td valign="top"><strong>Cursor 布拉格黑客松：Forge the Stack</strong><br />2026-09-30 周三 12:30–19:00（Europe/Prague）<br />布拉格 · SpaceXAI Prague — 线下<br /><br />SpaceXAI Community 布拉格 Cursor/Grok 黑客松（Forge the Stack）。线下；Luma 报名。<br /><br /><a href="https://luma.com/cursor-mljb"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
 <a id="country-ec"></a>
 ### 厄瓜多尔
 

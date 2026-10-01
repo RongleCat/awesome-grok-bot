@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1866-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1881-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -57,7 +57,6 @@
 - **Benin**（1）：[Cotonou](./EVENTS.md#coo-20261003)
 - **Côte d'Ivoire**（1）：[Abidjan](./EVENTS.md#abj-20261107)
 - **Colombia**（1）：[Pereira](./EVENTS.md#pei-20261002)
-- **Czechia**（1）：[Prague](./EVENTS.md#prg-20260930)
 - **Ecuador**（1）：[Cumbayá](./EVENTS.md#cumb-20261003)
 - **Greece**（1）：[Athens](./EVENTS.md#ath-20261001)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
@@ -199,6 +198,7 @@
 - [Skills, Plugins & Marketplaces (Grok Build docs)](https://docs.x.ai/build/features/skills-plugins-marketplaces) - Official SpaceXAI Grok Build docs for installing and publishing skills, plugins, and marketplaces—the same packaging model Grok Bot uses for Marketplace installs.
 - [Team Bots (Cursor Help)](https://cursor.com/help/grok-bot/team-bots) - Official Cursor Help page for Team Bots: publish a cloud Grok Bot to your Cursor team so teammates can each open a private chat with the same shared bot.
 - [Team Bots: AI coworkers that learn from your team](https://x.ai/news/team-bots) - Official SpaceXAI news (2026-09-28): Team Bots—share a Grok Bot with your team so everyone works from the same skills, plugins, and credentials in Slack or Grok Bot (public beta for Teams/Enterprise).
+- [@bot: Grok Bot more powerful for building software (Cursor handoff + GitHub/Origin PRs)](https://x.com/bot/status/2105373767568621895) - Official @bot (2026-09-30 ~19:06 UTC / Oct 1 ~03:06 Asia/Shanghai): Grok Bot is more powerful for building software—Bots can hand off coding tasks to Cursor, manage PRs with GitHub and Origin plugins, and share video demos of what they build.
 
 ## Tutorials & Guides
 
@@ -1076,6 +1076,9 @@
 - [BakLater — private recommendation library plugin for Grok Build](https://github.com/hakantaymaz/baklater-grok-plugin) - Official BakLater .grok-plugin for Grok Build: save and search a private recommendation library (movies, books, places, and more) through BakLater’s hosted OAuth MCP.
 - [MarketNow — MCP trust-layer plugin (incl. Grok Build)](https://github.com/alicelabs-llc/marketnow-agent) - Universal agent plugin that adds MarketNow’s hosted MCP trust layer—credential verify, domain scam checks, and a large MCP registry—with install paths for Grok Build, Cursor, Claude Code, and more.
 - [ClickFunnels — Cursor / Grok Bot Marketplace plugin](https://github.com/clickfunnels2/cursor-plugin) - ClickFunnels MCP plugin for Cursor and the Grok Bot Marketplace: build funnels/pages and manage contacts, products, orders, and automations in the signed-in workspace.
+- [Safari 27 MCP — Grok Bot template (safaridriver)](https://x.ai/bot/8obMM4mRWRLf51EB2n4JV) - Shared Grok Bot template for Apple Safari 27 safaridriver MCP: ecommerce smokes, agent-legible DOM, pre-DNS bake-in, and sustain workflows (by Shagghie).
+- [Grok Bot Orchestrator — description & workspace pack](https://github.com/cuthbertnogood/grok-bot-orchestrator) - Ready Description, first-message, and workspace templates for a master Grok Bot orchestrator that keeps weekly usage and chat context small via file-backed memory and specialist handoffs.
+- [Itirium Vision for AV — MCP connector for Grok Bot](https://av.beta.itirium.ai) - Itirium Vision beta MCP for AV workflows (room design, RFP response, health check): connect Grok Bot with Microsoft sign-in so agents can finish MCP without bouncing at OAuth.
 
 ## Reviews & Comparisons
 
@@ -1459,6 +1462,9 @@
 - [foss-bot — open multi-agent team for Claude Code/Codex](https://github.com/dyl-joseph/foss-bot) - Open-source Grok Bot–style chief-of-staff + specialist bots for Claude Code and Codex, with cross-model seats and optional per-worker CUA microVMs—no new app runtime.
 - [Codync — open-source Grok Bot / Muse–style messaging agents](https://github.com/leepokai/Codync) - Open-source 1:1 alternative to Grok Bot and Muse: message Claude Code, Codex, Cursor, Gemini and other coding agents as bots from iPhone, Mac, Linux, or terminal (Rust host).
 - [perlica-grokbot — Hermes/Perlica webhook thin client](https://github.com/OttoPrua/perlica-grokbot) - Thin command-line client that POSTs authenticated jobs to an existing Perlica/Hermes cloud webhook dispatcher for Grok Bots—no forged SendToAgent, secrets from env only.
+- [gb2gpt — ChatGPT Developer MCP ↔ Grok Bot fleet bridge](https://github.com/EdmundLimBoEn/gb2gpt) - Self-hosted bridge so an ordinary ChatGPT Developer-mode conversation can talk to your Cursor Grok Bot fleet via MCP, optional routine webhooks, and a dedicated relay bot (stdlib-only Python).
+- [Discalaves — local open-source Grok Bot–style AI employees](https://github.com/discajapon/discalaves) - Local open-source alternative to Grok Bot: AI “employees” each get an isolated Debian desktop (browser/terminal), optional OpenClaw loop, and team handoffs on your GPU (Qwen 3.5 9B tested).
+- [Meowbert — self-hosted sandboxed agent workspace](https://github.com/XInTheDark/meowbert-ai-agent) - Self-hosted agent workspace with per-task sandboxed containers (shell, browser, Office/PDF) and any OpenAI-Responses-compatible model—an open alternative named alongside Muse, Dots, and Grok Bot.
 
 ## Community & Failure Modes
 
@@ -1700,6 +1706,11 @@
 - [Forum: per-site routing through my computer](https://forum.cursor.com/t/feature-request-per-site-routing-through-my-computer/173349) - Feature request: make “Route traffic through this computer” per-site instead of all-or-nothing, so only blocked sites leave via the home machine.
 - [Forum: Grok Bot desktop unreachable after installing VPN](https://forum.cursor.com/t/hey-guys-the-desctop-from-grok-bot-is-offline-for-2-days-and-i-cant-do-anything-with-it/173388) - Report: Grok Bot computer stayed unreachable for two days after the bot installed a free VPN client; ask to remove VPN server-side.
 - [Forum: Loss of Browser control (desktop-control tool missing)](https://forum.cursor.com/t/loss-of-browser-control/173319) - Report: Grok Bot can screenshot its desktop but cannot click/type/browse because the desktop-control tool is missing from the session (since ~2026-09-22).
+- [Forum: Grok Bot computer will not boot (restore ~117GB loop)](https://forum.cursor.com/t/grok-bot-computer-will-not-boot-restore-keeps-copying-117gb-into-home-box-projects-ticket-t-g14112/173436) - Bug report (ticket T-G14112): restore keeps copying ~117GB into home/box/Projects so the Grok Bot cloud computer never finishes booting.
+- [Forum: Grok Bots missing after overnight training](https://forum.cursor.com/t/grok-bots-missing/173460) - Bug report: twelve publishing-company Grok Bots trained overnight later disappeared from the roster / could not be found in the app.
+- [Forum: tighter OAuth scopes + fixed approval for mutable connector calls](https://forum.cursor.com/t/grok-bot-tighter-oauth-scopes-for-connectors-and-fixed-approval-for-mutable-calls/173450) - Feature request: let users pick connector OAuth scopes (read vs write) and require a fixed in-code approval for mutable calls instead of Auto-review-only gating.
+- [Forum: Asana connector redirect_uri mismatch](https://forum.cursor.com/t/asana-connector/173426) - Bug report: Asana connector sign-in fails with invalid_request because redirect_uri does not match a valid URL for the app.
+- [Forum: remember chosen voice on Grok Bot phone app](https://forum.cursor.com/t/remember-each-users-chosen-voice-on-the-grok-bot-phone-app/173412) - Feature request: persist each user’s selected phone-app voice as a lasting preference so every new call starts with it.
 
 ## Related Lists
 
@@ -1976,10 +1987,13 @@
 - [HTML Artifacts reference — Grok Bot canvas skill pages](https://github.com/Biggles10-claude/html-artifacts-reference) - Public reference for Grok Bot’s html-artifacts skill: Claude Artifacts–style single-page canvases on GitHub Pages (replaces the old live-deck swipe chrome).
 - [VoiceOS × Grok Bot integration template](https://github.com/Arav-Rithvik-VoiceOS/voiceos-grokbot-integration) - VoiceOS integration template for routing spoken tools to Grok Bot, including the macOS Keychain “Grok Bot Safe Storage” Always Allow setup step and MCP server stubs.
 - [Grok Bot Meetup talk — Open Slide deck](https://github.com/naufaldi/grok-bot-meetup-talk) - Open Slide deck (22 pages) for a Grok Bot meetup talk, with SpaceXAI/Grok Bot branding, use-case storyboard, and presenter notes.
+- [Omarchy Agent Notch — live Claude Code & Grok Bot faces](https://github.com/GNSB/omarchy-agent-notch) - Omarchy dynamic-island notch showing live Claude Code sessions and optional Grok Bots via a stdio MCP report_status tool, with alerts when an agent waits or fails.
+- [Omarchy AI Usage — Cursor / Grok Bot / SuperGrok / Claude limits](https://github.com/HurlyDesousa/omarchy-ai-usage) - Omarchy bar panel that shows plan limits and reset times for Cursor, weekly Grok Bot allowance, SuperGrok, and Claude from local sign-ins (opt-in credential renew).
+- [Oposse — Omarchy bar for Muse, ChatGPT Dots & Grok Bot](https://github.com/Telep-IO/oposse) - Omarchy plugin that puts Muse, ChatGPT Dots, and your Grok Bot roster behind one bar icon, surfacing avatars when an assistant is awaiting your reply.
 
 ## Contributing
 
-1866 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1881 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
