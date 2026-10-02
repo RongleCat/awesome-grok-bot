@@ -2004,6 +2004,15 @@
             "zh": "繁中教程：用 AGENTS.md 提示词让 Grok Bot（或其他 AI）帮你建排程，并核对「自动化」列表确认它真的会跑。",
             "ja": "繁体字ガイド。AGENTS.md のプロンプトで Grok Bot（または他の AI）にルーチンを作らせ、自動化一覧で本当に動くか確認する。"
           }
+        },
+        {
+          "title": "Grok Bot Wiki",
+          "url": "https://www.grokbotwiki.com/guides",
+          "blurb": {
+            "en": "Independent setup and troubleshooting guides covering unresponsive Grok Bots, routines, weekly usage limits, and pricing by plan.",
+            "zh": "独立的 Grok Bot 设置与故障排查指南，涵盖 Bot 无响应、例程、每周使用限额和各套餐价格。",
+            "ja": "Grok Bot の無応答、ルーチン、週ごとの使用上限、プラン別料金を扱う独立した設定・トラブルシューティングガイド。"
+          }
         }
       ]
     },
