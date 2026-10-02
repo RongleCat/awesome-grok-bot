@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1901-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1920-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,12 +38,12 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（4）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261007) · [Macao](./EVENTS.md#mo-20261112)
-- **United States**（12）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Pasadena](./EVENTS.md#pas-20261008) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012)
+- **United States**（13）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Pasadena](./EVENTS.md#pas-20261008) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012) · [Atlanta (Job Night)](./EVENTS.md#atl-20261008)
+- **Brazil**（5）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Curitiba](./EVENTS.md#cwb-20261002) · [Salvador](./EVENTS.md#ssa-20261008) · [Florianópolis](./EVENTS.md#fln-20261016)
 - **Canada**（5）：[Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010) · [Calgary](./EVENTS.md#yyc-20261028) · [Halifax](./EVENTS.md#yhz-20261015)
 - **Germany**（5）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261023) · [Frankfurt](./EVENTS.md#fra-20261120) · [Kassel](./EVENTS.md#kas-20261112)
-- **Brazil**（4）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Salvador](./EVENTS.md#ssa-20261008) · [Florianópolis](./EVENTS.md#fln-20261016)
 - **Indonesia**（4）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003) · [Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
-- **Ecuador**（2）：[Cumbayá](./EVENTS.md#cumb-20261003) · [Ambato](./EVENTS.md#atu-20261029)
+- **Ecuador**（3）：[Cumbayá](./EVENTS.md#cumb-20261003) · [Ambato](./EVENTS.md#atu-20261029) · [Quito](./EVENTS.md#uio-20261021)
 - **Spain**（2）：[Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
 - **Guatemala**（2）：[Guatemala City](./EVENTS.md#gua-20261003) · [Guatemala](./EVENTS.md#gua-20261205)
 - **Italy**（2）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022)
@@ -59,7 +59,6 @@
 - **Benin**（1）：[Cotonou](./EVENTS.md#coo-20261003)
 - **Côte d'Ivoire**（1）：[Abidjan](./EVENTS.md#abj-20261107)
 - **Colombia**（1）：[Pereira](./EVENTS.md#pei-20261002)
-- **Greece**（1）：[Athens](./EVENTS.md#ath-20261001)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
 - **Israel**（1）：[Tel Aviv](./EVENTS.md#tlv-20261019)
 - **Kenya**（1）：[Nairobi (Kenya Workshop)](./EVENTS.md#nbo-20261008)
@@ -203,6 +202,7 @@
 - [@bot: Grok Bot more powerful for building software (Cursor handoff + GitHub/Origin PRs)](https://x.com/bot/status/2105373767568621895) - Official @bot (2026-09-30 ~19:06 UTC / Oct 1 ~03:06 Asia/Shanghai): Grok Bot is more powerful for building software—Bots can hand off coding tasks to Cursor, manage PRs with GitHub and Origin plugins, and share video demos of what they build.
 - [matt palmer: What's new in Grok Bot (Team bots, Finance, Voice)](https://x.com/mattyp/status/2105345158162063493) - Walkthrough video of Team bots, Plaid Finance, and voice-call improvements for Grok Bot.
 - [Elon Musk: New in Grok @Bot](https://x.com/elonmusk/status/2105350300534210708) - Elon amplifies the latest Grok Bot product roundup covering Team bots, Finance, and voice.
+- [@bot: Grok Bot can suggest ways to help without being asked (Primary Bot proactive)](https://x.com/bot/status/2105713240701538538) - Official @bot (2026-10-01 ~17:35 UTC): Grok Bot can now suggest ways to help without you needing to ask—Primary Bot proactively spots work and offers to handle it (suggestions do not burn usage).
 
 ## Tutorials & Guides
 
@@ -480,6 +480,7 @@
 - [Don't Panic — HHGTTG-flavored tea & stretch Grok Bot](https://github.com/tink1010/dont-panic-grokbot) - Hitchhiker’s Guide–flavored Grok Bot (x.ai/bot share) built around KTeaTime/RSIBreak-style tea timers, water/stretch reminders, and uplift menus, with public bot-rules.md.
 - [0xToji: Grok Bot trading agent mints its own meme coin](https://x.com/Yel0_22G/status/2105526443732308021) - Field case: a Grok Bot tasked only to trade memecoins autonomously launched its own token (VOXA) and grew a small stack overnight under a risk-review agent.
 - [poteto: gave my bot my brain — how I fix bugs now](https://x.com/poteto/status/2105576730413134291) - SpaceXAI eng lead shows handing a personal Grok Bot her context so it fixes bugs her way while she sleeps.
+- [mattyp: proactive Grok Bot catches missed Uber after flight change](https://x.com/mattyp/status/2105718647218200587) - mattyp’s Primary Bot example: after a flight change, Grok Bot noticed the Uber reservation was stale and pinged mid-connection (via Starlink) so it could be updated before landing.
 
 ## Skills, Plugins & MCP
 
@@ -1089,6 +1090,15 @@
 - [Oomi for Grok Bot — Cursor plugin (phone/web bridge)](https://github.com/crispcode-io/oomi-cursor-plugin) - Cursor/Grok Bot plugin that connects an existing cloud Bot to Oomi for phone and web chat with auth-link pairing and repair skills.
 - [Agent Handoff Bridge — MCP room across Codex, Dots & Grok Bots](https://github.com/1ststepai/agent-handoff-bridge) - Self-hosted MCP shared room and task queue for supervised handoffs among Codex, OpenAI Dots, and Grok Bot roles with audit checkpoints.
 - [Grok Bot Discord Fleet — manage/status MCP + skills](https://github.com/matthew-rutledge-dev/grokbot-discord-fleet) - Grok Build/Cursor plugin packaging Discord fleet status and manage MCP servers plus boundary skills (wake bridge lives in a sibling repo).
+- [Explainer Bot — Grok Bot template for educational videos (Mike P)](https://x.ai/bot/9ppPlUn9YaDuVx4VAArOR) - Public Grok Bot template (Mike P) that walks you through installing an open-source explainer-video pipeline on a Mac so a topic becomes a finished narrated video.
+- [grok-life — Chief of Staff life setup (Inbox/Calendar/Health bots)](https://github.com/anup-a/grok-life) - npm + shareable Grok Bot Life template: Chief of Staff creates Inbox, Calendar, Health, Bills, Search bots with real routines (distinct from older grok-life VM nodes).
+- [grok-bot-cos — Chief of Staff skills & routines pack](https://github.com/twhit223/grok-bot-cos) - Reusable Grok Bot Chief of Staff pack: portable skills, daily/EoD/Friday routines, conventions, and expected marketplace plugins (MIT).
+- [visual-walkthrough — sequenced diagrams + quiz skill (Grok Bot adapter)](https://github.com/kyletabor/visual-walkthrough) - Portable teaching skill with sequenced diagrams, narration, and a short quiz, plus a thin Grok Bot adapter alongside Claude Code.
+- [Zoho Small Business Operator — Grok Bot template lineup](https://x.ai/bot/jvdlRiNID5653J-EMH1q3) - Draft-first Zoho Grok Bot seat (Begine Fusion): 32 skills across cash, CRM, support, campaigns, contracts, hiring, and weekly briefs, with specialist sibling templates.
+- [etoro-mcp-plugin — live eToro connector for Grok Bot / Cursor](https://github.com/eToro/etoro-mcp-plugin) - Official eToro public MCP plugin package wiring the live eToro connector into Grok Bot and Cursor (marketplace handle etoro-mcp).
+- [Prompt Studio MCP — prompt library for Grok Bot / Cursor](https://github.com/promptalchemy/prompt-studio-mcp) - Hosted Prompt Studio MCP install package: save and fetch prompts from your library inside Grok Bot, Cursor, Claude, and ChatGPT via OAuth.
+- [salesforce-mcp-app — render-only Salesforce cards for Grok Bot](https://github.com/mykkelol/salesforce-mcp-app) - Open-source render-only MCP App that shows Salesforce-like record/change/write cards inside Grok Bot, Dots, and Muse—no credentials or network calls.
+- [next-pr — Grok skill for one draft PR per change](https://github.com/skyhilam/next-pr) - Repo-agnostic Grok skill that opens one draft PR per code/copy/UI change, coding in a background subagent with open-pr/check-pr helpers.
 
 ## Reviews & Comparisons
 
@@ -1477,6 +1487,7 @@
 - [Meowbert — self-hosted sandboxed agent workspace](https://github.com/XInTheDark/meowbert-ai-agent) - Self-hosted agent workspace with per-task sandboxed containers (shell, browser, Office/PDF) and any OpenAI-Responses-compatible model—an open alternative named alongside Muse, Dots, and Grok Bot.
 - [setup-dida-bot — merge WeChat→Dida tasks and wake Grok Bot](https://github.com/dulk-dev/setup-dida-bot) - Node daemon that re-merges WeChat-split Dida checklist tasks, claims them with lifecycle tags, and POSTs a webhook to wake a Grok Bot routine.
 - [grok-coding-observatory — live replay of Grok Bot edits in the browser](https://github.com/Eeliya/grok-coding-observatory) - Local Node tool that watches a git repo and replays each Grok Bot (or other agent) save as a typed diff in the browser.
+- [grok-bot-film-kit — Remotion engine for personalized Bot pitch films](https://github.com/Speediing/grok-bot-film-kit) - Public Remotion engine and pipeline docs for personalized Grok Bot pitch films—no customer assets in-repo; clone and render on a laptop or cloud agent.
 
 ## Community & Failure Modes
 
@@ -1729,6 +1740,11 @@
 - [Forum: Finance/Plaid cannot link a second bank](https://forum.cursor.com/t/plaid-multiple-banks/173151) - Bug report: after one successful Plaid link in the Finance plugin, adding a second institution (e.g. Schwab) fails.
 - [Forum: feature request — Google Chat connector](https://forum.cursor.com/t/feature-request-for-grokbot-google-chat-connector/173404) - Feature request: add a Google Chat connector alongside existing Google Workspace integrations for team messaging.
 - [Forum: Bot Description field missing on Ubuntu desktop (v0.63.0)](https://forum.cursor.com/t/grok-bot-description-field-missing-on-ubuntu-desktop/173483) - Ubuntu 25.10 / Grok Bot 0.63.0 report: Bot settings panel lacks the Description field docs promise, though existing descriptions still answer in chat.
+- [Forum: Grok Bot computer outbound non-HTTPS blocked since Oct 1](https://forum.cursor.com/t/grok-bot-computer-all-outbound-non-https-traffic-blocked-since-oct-1-mysql-ssh-imap-smtp-ftp-time-out/173504) - Report that Grok Bot cloud computers block all outbound non-HTTPS (MySQL, SSH, IMAP/SMTP, FTP time out) since Oct 1, with multiple accounts confirming.
+- [Forum: SAND CONNECT proxy fails on public hostname HTTPS](https://forum.cursor.com/t/on-grok-bot-s-cloud-computer-https-through-the-shared-sand-connect-proxy-127-0-0-1-8791-fastly-prod-xai-1-fails-when-connect-uses-my-public-hostname-but-succeeds-when-connect-uses-that-host-s-literal-public-ip/173542) - Bug: HTTPS via Grok Bot’s shared SAND CONNECT proxy (127.0.0.1:8791) fails when CONNECT uses a public hostname but works with the host’s literal public IP.
+- [Forum: painting issues when switching Grok Bots](https://forum.cursor.com/t/grok-bot-has-weird-painting-issues-when-switching-bots/173549) - UI bug report: switching between Grok Bots leaves weird painting/artifact glitches in the desktop client.
+- [Forum: “Hey Grok” wake-word equivalent request](https://forum.cursor.com/t/hey-grok-equivalent-for-hey-google-or-hey-siri-is-this-even-possible/173550) - Feature ask for a hands-free “Hey Grok” wake word on Grok Bot, analogous to Hey Google / Hey Siri.
+- [Forum: how to share a custom MCP a Bot built with the team](https://forum.cursor.com/t/how-do-i-share-a-custom-mcp-that-one-of-my-bots-has-built-with-the-rest-of-my-team/173538) - Team question on publishing a custom MCP one Grok Bot built so teammates can use it (account-local vs shared listing).
 
 ## Related Lists
 
@@ -2012,10 +2028,12 @@
 - [Open Dots — open-source personal AI agent workspace (Grok Bot alternative)](https://github.com/Anil-matcha/open-dots) - MIT self-hosted agent workspace (chat, connectors, approvals, optional computer use) positioned as an open alternative to Grok Bot and similar products.
 - [Awesome Grok Bot Templates — 3,300+ public bot templates (botsdots.site)](https://github.com/Maimuzamilhu/awesome-grok-bot-templates) - Curated, link-checked list of 3,300+ public x.ai/bot templates by job, with access ratings and a searchable site at botsdots.site.
 - [Openshard — receipts for AI coding agents including Grok Bot](https://github.com/openshard/openshard) - Local receipt/audit trail for what coding agents ran, changed, verified, and cost — including Grok Bot and Grok Build sessions.
+- [approval-box — human decisions back into the same AI session](https://github.com/kitepon/approval-box) - Approval Box lets Claude Code, Codex, Cursor, and Grok agents request decisions on phone/web and inject the answer into the same session without polling.
+- [aiusg — cross-provider usage table including Grok Bot](https://github.com/abnegate/aiusg) - CLI that prints remaining limits and reset times across Claude, Codex, Gemini, Copilot, Grok Build, and Grok Bot accounts in one table.
 
 ## Contributing
 
-1901 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1920 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

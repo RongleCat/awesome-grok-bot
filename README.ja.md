@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1901-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1920-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,12 +38,12 @@
 [イベントの詳細](./EVENTS.ja.md)
 
 - **中国**（4）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017) · [マカオ](./EVENTS.ja.md#mo-20261007) · [マカオ](./EVENTS.ja.md#mo-20261112)
-- **アメリカ**（12）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [オースティン](./EVENTS.ja.md#aus-20261004) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [ワシントンDC](./EVENTS.ja.md#was-20261007) · [パサデナ](./EVENTS.ja.md#pas-20261008) · [アトランタ](./EVENTS.ja.md#atl-20261016) · [シアトル](./EVENTS.ja.md#sea-20261012)
+- **アメリカ**（13）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [オースティン](./EVENTS.ja.md#aus-20261004) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [ワシントンDC](./EVENTS.ja.md#was-20261007) · [パサデナ](./EVENTS.ja.md#pas-20261008) · [アトランタ](./EVENTS.ja.md#atl-20261016) · [シアトル](./EVENTS.ja.md#sea-20261012) · [アトランタ（Job Night）](./EVENTS.ja.md#atl-20261008)
+- **ブラジル**（5）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [クリチバ](./EVENTS.ja.md#cwb-20261002) · [サルバドール](./EVENTS.ja.md#ssa-20261008) · [フロリアノポリス](./EVENTS.ja.md#fln-20261016)
 - **カナダ**（5）：[モントリオール](./EVENTS.ja.md#yul-20260926) · [トロント](./EVENTS.ja.md#yyz-20261026) · [オタワ](./EVENTS.ja.md#yow-20261010) · [カルガリー](./EVENTS.ja.md#yyc-20261028) · [ハリファックス](./EVENTS.ja.md#yhz-20261015)
 - **ドイツ**（5）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015) · [フランクフルト](./EVENTS.ja.md#fra-20261023) · [フランクフルト](./EVENTS.ja.md#fra-20261120) · [カッセル](./EVENTS.ja.md#kas-20261112)
-- **ブラジル**（4）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [サルバドール](./EVENTS.ja.md#ssa-20261008) · [フロリアノポリス](./EVENTS.ja.md#fln-20261016)
 - **インドネシア**（4）：[ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [ジャカルタ](./EVENTS.ja.md#jkt-20261003) · [ジャカルタ](./EVENTS.ja.md#jkt-20261107) · [チャングー / バリ](./EVENTS.ja.md#bli-20261025)
-- **エクアドル**（2）：[クンバヤ](./EVENTS.ja.md#cumb-20261003) · [アンバト](./EVENTS.ja.md#atu-20261029)
+- **エクアドル**（3）：[クンバヤ](./EVENTS.ja.md#cumb-20261003) · [アンバト](./EVENTS.ja.md#atu-20261029) · [キト](./EVENTS.ja.md#uio-20261021)
 - **スペイン**（2）：[アリカンテ](./EVENTS.ja.md#alc-20261107) · [ビルバオ](./EVENTS.ja.md#bil-20261019)
 - **グアテマラ**（2）：[グアテマラシティ](./EVENTS.ja.md#gua-20261003) · [グアテマラ](./EVENTS.ja.md#gua-20261205)
 - **イタリア**（2）：[ローマ](./EVENTS.ja.md#rom-20261023) · [トレヴィーゾ](./EVENTS.ja.md#tvs-20261022)
@@ -59,7 +59,6 @@
 - **ベナン**（1）：[コトヌー](./EVENTS.ja.md#coo-20261003)
 - **コートジボワール**（1）：[アビジャン](./EVENTS.ja.md#abj-20261107)
 - **コロンビア**（1）：[ペレイラ](./EVENTS.ja.md#pei-20261002)
-- **ギリシャ**（1）：[アテネ](./EVENTS.ja.md#ath-20261001)
 - **アイルランド**（1）：[ダブリン](./EVENTS.ja.md#dub-20261004)
 - **イスラエル**（1）：[テルアビブ](./EVENTS.ja.md#tlv-20261019)
 - **ケニア**（1）：[ナイロビ（Kenya Workshop）](./EVENTS.ja.md#nbo-20261008)
@@ -203,6 +202,7 @@
 - [@bot: Grok Bot more powerful for building software (Cursor handoff + GitHub/Origin PRs)](https://x.com/bot/status/2105373767568621895) - 公式 @bot（2026-09-30 ~19:06 UTC / 10-01 ~03:06 上海）。ソフト開発が強化—コーディングを Cursor にハンドオフ、GitHub/Origin プラグインで PR 管理、構築デモ動画を共有。
 - [matt palmer: What's new in Grok Bot (Team bots, Finance, Voice)](https://x.com/mattyp/status/2105345158162063493) - Grok Bot の Team bots・Plaid Finance・通話改善を紹介するウォークスルー動画。
 - [Elon Musk: New in Grok @Bot](https://x.com/elonmusk/status/2105350300534210708) - Elon が Team bots・Finance・音声を含む最新 Grok Bot まとめを拡散。
+- [@bot: Grok Bot can suggest ways to help without being asked (Primary Bot proactive)](https://x.com/bot/status/2105713240701538538) - 公式 @bot（2026-10-01 ~17:35 UTC）。聞かれる前に手伝えることを提案—Primary Bot が仕事を先回りして申し出る（提案は usage にカウントされない）。
 
 ## チュートリアルとガイド
 
@@ -480,6 +480,7 @@
 - [Don't Panic — HHGTTG-flavored tea & stretch Grok Bot](https://github.com/tink1010/dont-panic-grokbot) - 銀河ヒッチハイク・ガイド風 Grok Bot（x.ai/bot 共有）。お茶タイマー、水分/ストレッチ催促、uplift メニューと公開 bot-rules.md。
 - [0xToji: Grok Bot trading agent mints its own meme coin](https://x.com/Yel0_22G/status/2105526443732308021) - 実例。ミーム通貨取引だけを任された Grok Bot が自ら VOXA を発行し、リスク審査エージェント付きで一晩で資金を伸ばした。
 - [poteto: gave my bot my brain — how I fix bugs now](https://x.com/poteto/status/2105576730413134291) - SpaceXAI のエンジニアが個人コンテキストを Grok Bot に渡し、自分流のバグ修正を任せて寝る流れを公開。
+- [mattyp: proactive Grok Bot catches missed Uber after flight change](https://x.com/mattyp/status/2105718647218200587) - mattyp の Primary Bot 例。フライト変更後、古いままの Uber 予約に気づき、乗り継ぎ中（Starlink）に通知して着陸前に直した。
 
 ## スキル、プラグインと MCP
 
@@ -1089,6 +1090,15 @@
 - [Oomi for Grok Bot — Cursor plugin (phone/web bridge)](https://github.com/crispcode-io/oomi-cursor-plugin) - 既存のクラウド Bot を Oomi に接続する Cursor/Grok Bot プラグイン。スマホ/Web 会話、認可リンク、修復スキル付き。
 - [Agent Handoff Bridge — MCP room across Codex, Dots & Grok Bots](https://github.com/1ststepai/agent-handoff-bridge) - Codex・OpenAI Dots・Grok Bot 役割間の監督付きハンドオフ用セルフホスト MCP 共有ルームとタスクキュー。
 - [Grok Bot Discord Fleet — manage/status MCP + skills](https://github.com/matthew-rutledge-dev/grokbot-discord-fleet) - Discord フリートの status/manage MCP と境界 skills をまとめた Grok Build/Cursor プラグイン（起動ブリッジは別リポ）。
+- [Explainer Bot — Grok Bot template for educational videos (Mike P)](https://x.ai/bot/9ppPlUn9YaDuVx4VAArOR) - 共有可能な Grok Bot テンプレ（Mike P）。Mac にオープンソースの解説動画パイプラインを入れ、トピックからナレーション付き動画まで。
+- [grok-life — Chief of Staff life setup (Inbox/Calendar/Health bots)](https://github.com/anup-a/grok-life) - npm と共有 Life テンプレ。Chief of Staff が Inbox/Calendar/Health/Bills/Search などを作り、実ルーチンを付ける（旧 grok-life VM とは別）。
+- [grok-bot-cos — Chief of Staff skills & routines pack](https://github.com/twhit223/grok-bot-cos) - 再利用できる Chief of Staff パック。ポータブル skills、日次/EoD/金曜ルーチン、規約、想定プラグイン（MIT）。
+- [visual-walkthrough — sequenced diagrams + quiz skill (Grok Bot adapter)](https://github.com/kyletabor/visual-walkthrough) - 図解・ナレーション・小テスト付きの教材 skill。Grok Bot 用アダプタ付き（Claude Code にも対応）。
+- [Zoho Small Business Operator — Grok Bot template lineup](https://x.ai/bot/jvdlRiNID5653J-EMH1q3) - Zoho 向け draft-first の Grok Bot 座席（Begine Fusion）。現金・CRM・サポート・キャンペーン・契約・採用・週次など 32 skills。専門テンプレもあり。
+- [etoro-mcp-plugin — live eToro connector for Grok Bot / Cursor](https://github.com/eToro/etoro-mcp-plugin) - eToro 公式の公開 MCP プラグイン。ライブ eToro コネクタを Grok Bot / Cursor に接続（etoro-mcp）。
+- [Prompt Studio MCP — prompt library for Grok Bot / Cursor](https://github.com/promptalchemy/prompt-studio-mcp) - Prompt Studio のホスト型 MCP パッケージ。OAuth で Grok Bot / Cursor / Claude / ChatGPT からプロンプト庫を保存・取得。
+- [salesforce-mcp-app — render-only Salesforce cards for Grok Bot](https://github.com/mykkelol/salesforce-mcp-app) - 描画専用の OSS MCP App。Grok Bot / Dots / Muse 内に Salesforce 風カードを出す。認証情報もネットワークも不要。
+- [next-pr — Grok skill for one draft PR per change](https://github.com/skyhilam/next-pr) - リポジトリ非依存の Grok skill。変更ごとに draft PR を1つ開き、背景サブエージェントで実装。open-pr/check-pr 付き。
 
 ## レビューと比較
 
@@ -1477,6 +1487,7 @@
 - [Meowbert — self-hosted sandboxed agent workspace](https://github.com/XInTheDark/meowbert-ai-agent) - 自ホストのエージェント作業場。タスク毎サンドボックス（shell・ブラウザ・Office/PDF）と任意の OpenAI Responses 互換モデル。Muse / Dots / Grok Bot 系の OSS 代替。
 - [setup-dida-bot — merge WeChat→Dida tasks and wake Grok Bot](https://github.com/dulk-dev/setup-dida-bot) - WeChat 経由で分裂した Dida タスクを再結合し、ライフサイクルタグでクレームして Grok Bot の webhook を起こす Node デーモン。
 - [grok-coding-observatory — live replay of Grok Bot edits in the browser](https://github.com/Eeliya/grok-coding-observatory) - git リポジトリを監視し、Grok Bot 等の保存差分をブラウザでタイピング再生するローカル Node ツール。
+- [grok-bot-film-kit — Remotion engine for personalized Bot pitch films](https://github.com/Speediing/grok-bot-film-kit) - パーソナライズ Grok Bot ピッチ影片向けの公開 Remotion エンジンと手順。顧客素材は含まず、ノートPCやクラウドエージェントでレンダ。
 
 ## コミュニティと障害事例
 
@@ -1729,6 +1740,11 @@
 - [Forum: Finance/Plaid cannot link a second bank](https://forum.cursor.com/t/plaid-multiple-banks/173151) - 不具合報告。Finance プラグインで 1 行目の Plaid 連携後、2 行目（例: Schwab）を追加できない。
 - [Forum: feature request — Google Chat connector](https://forum.cursor.com/t/feature-request-for-grokbot-google-chat-connector/173404) - 機能要望。既存の Google Workspace 連携に加え Google Chat コネクタが欲しい。
 - [Forum: Bot Description field missing on Ubuntu desktop (v0.63.0)](https://forum.cursor.com/t/grok-bot-description-field-missing-on-ubuntu-desktop/173483) - Ubuntu 25.10 / Grok Bot 0.63.0：ドキュメントにある Description 欄が設定パネルに無く、既存説明はチャットでは読めるという報告。
+- [Forum: Grok Bot computer outbound non-HTTPS blocked since Oct 1](https://forum.cursor.com/t/grok-bot-computer-all-outbound-non-https-traffic-blocked-since-oct-1-mysql-ssh-imap-smtp-ftp-time-out/173504) - 10/1 以降、Grok Bot クラウドPCの非 HTTPS 外向き（MySQL/SSH/IMAP/SMTP/FTP）がタイムアウトする報告。複数アカウントで確認。
+- [Forum: SAND CONNECT proxy fails on public hostname HTTPS](https://forum.cursor.com/t/on-grok-bot-s-cloud-computer-https-through-the-shared-sand-connect-proxy-127-0-0-1-8791-fastly-prod-xai-1-fails-when-connect-uses-my-public-hostname-but-succeeds-when-connect-uses-that-host-s-literal-public-ip/173542) - 不具合。共有 SAND CONNECT プロキシ（127.0.0.1:8791）経由 HTTPS で、CONNECT に公開ホスト名を使うと失敗し、リテラル公網 IP だと成功。
+- [Forum: painting issues when switching Grok Bots](https://forum.cursor.com/t/grok-bot-has-weird-painting-issues-when-switching-bots/173549) - UI 不具合。デスクトップで Bot を切り替えると描画の乱れ・アーティファクトが出る。
+- [Forum: “Hey Grok” wake-word equivalent request](https://forum.cursor.com/t/hey-grok-equivalent-for-hey-google-or-hey-siri-is-this-even-possible/173550) - 機能要望。Hey Google / Hey Siri のようなハンズフリー “Hey Grok” ウェイクワード。
+- [Forum: how to share a custom MCP a Bot built with the team](https://forum.cursor.com/t/how-do-i-share-a-custom-mcp-that-one-of-my-bots-has-built-with-the-rest-of-my-team/173538) - チーム向け質問。Bot が作ったカスタム MCP を同僚と共有する公開手順（自分だけ vs 共有掲載）。
 
 ## 関連リスト
 
@@ -2012,10 +2028,12 @@
 - [Open Dots — open-source personal AI agent workspace (Grok Bot alternative)](https://github.com/Anil-matcha/open-dots) - MIT の自ホスト・エージェント作業空間（チャット・コネクタ・承認・任意の computer use）。Grok Bot 等のオープン代替として位置づけ。
 - [Awesome Grok Bot Templates — 3,300+ public bot templates (botsdots.site)](https://github.com/Maimuzamilhu/awesome-grok-bot-templates) - 公開 x.ai/bot テンプレ 3300+ を職種・権限で整理しリンク検証した Awesome リスト。botsdots.site で検索可。
 - [Openshard — receipts for AI coding agents including Grok Bot](https://github.com/openshard/openshard) - コーディングエージェントの実行・差分・検証・コストをローカルに残すレシート。Grok Bot / Grok Build セッションにも対応。
+- [approval-box — human decisions back into the same AI session](https://github.com/kitepon/approval-box) - Approval Box。Claude Code / Codex / Cursor / Grok がスマホ/Web で判断を求め、同じセッションへ回答を差し込む（ポーリング不要）。
+- [aiusg — cross-provider usage table including Grok Bot](https://github.com/abnegate/aiusg) - Claude / Codex / Gemini / Copilot / Grok Build / Grok Bot の残量とリセットを一表で出す CLI。
 
 ## 貢献
 
-8 セクションに 1901 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1920 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

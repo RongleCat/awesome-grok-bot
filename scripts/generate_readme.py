@@ -435,6 +435,7 @@ EVENT_GEO = {
     "khi-20260926": ("pk", "Karachi", "卡拉奇", "カラチ"),
     "tpa-20261114": ("us", "Tampa Bay", "坦帕湾", "タンパベイ"),
     "cwb-20260929": ("br", "Curitiba", "库里蒂巴", "クリチバ"),
+    "cwb-20261002": ("br", "Curitiba", "库里蒂巴", "クリチバ"),
     "ath-20261001": ("gr", "Athens", "雅典", "アテネ"),
     "osl-20261016": ("no", "Oslo", "奥斯陆", "オスロ"),
     "bli-20261025": ("id", "Canggu / Bali", "巴厘岛Canggu", "チャングー / バリ"),
@@ -477,6 +478,8 @@ EVENT_GEO = {
     "atu-20261029": ("ec", "Ambato", "安巴托", "アンバト"),
     "vie-20261031": ("at", "Vienna", "维也纳", "ウィーン"),
     "nbo-20261008": ("ke", "Nairobi (Kenya Workshop)", "内罗毕（肯尼亚工作坊）", "ナイロビ（Kenya Workshop）"),
+    "uio-20261021": ("ec", "Quito", "基多", "キト"),
+    "atl-20261008": ("us", "Atlanta (Job Night)", "亚特兰大（Job Night）", "アトランタ（Job Night）"),
 }
 
 

@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -1143,6 +1143,16 @@
             "en": "Elon amplifies the latest Grok Bot product roundup covering Team bots, Finance, and voice.",
             "zh": "Elon 转发最新 Grok Bot 产品速览，涵盖 Team bots、财务与语音能力。",
             "ja": "Elon が Team bots・Finance・音声を含む最新 Grok Bot まとめを拡散。"
+          }
+        },
+        {
+          "title": "@bot: Grok Bot can suggest ways to help without being asked (Primary Bot proactive)",
+          "url": "https://x.com/bot/status/2105713240701538538",
+          "source": "GB-1926",
+          "blurb": {
+            "en": "Official @bot (2026-10-01 ~17:35 UTC): Grok Bot can now suggest ways to help without you needing to ask—Primary Bot proactively spots work and offers to handle it (suggestions do not burn usage).",
+            "zh": "官方 @bot（2026-10-01 ~17:35 UTC）：Grok Bot 可不待你开口先提出可帮忙的事——Primary Bot 会主动发现可代劳的工作并提议接手（建议本身不计用量）。",
+            "ja": "公式 @bot（2026-10-01 ~17:35 UTC）。聞かれる前に手伝えることを提案—Primary Bot が仕事を先回りして申し出る（提案は usage にカウントされない）。"
           }
         }
       ]
@@ -3873,6 +3883,16 @@
             "en": "SpaceXAI eng lead shows handing a personal Grok Bot her context so it fixes bugs her way while she sleeps.",
             "zh": "SpaceXAI 工程负责人演示把个人上下文交给 Grok Bot，让它按她的方式修 bug，人可以去睡觉。",
             "ja": "SpaceXAI のエンジニアが個人コンテキストを Grok Bot に渡し、自分流のバグ修正を任せて寝る流れを公開。"
+          }
+        },
+        {
+          "title": "mattyp: proactive Grok Bot catches missed Uber after flight change",
+          "url": "https://x.com/mattyp/status/2105718647218200587",
+          "source": "GB-1927",
+          "blurb": {
+            "en": "mattyp’s Primary Bot example: after a flight change, Grok Bot noticed the Uber reservation was stale and pinged mid-connection (via Starlink) so it could be updated before landing.",
+            "zh": "mattyp 的 Primary Bot 案例：改签航班后，Grok Bot 发现 Uber 预约未更新，并在转机途中（Starlink）提醒，落地前改掉预约。",
+            "ja": "mattyp の Primary Bot 例。フライト変更後、古いままの Uber 予約に気づき、乗り継ぎ中（Starlink）に通知して着陸前に直した。"
           }
         }
       ]
@@ -9944,6 +9964,96 @@
             "zh": "Grok Build/Cursor 插件：打包 Discord 舰队 status/manage MCP 与边界 skills（唤醒桥在独立仓库）。",
             "ja": "Discord フリートの status/manage MCP と境界 skills をまとめた Grok Build/Cursor プラグイン（起動ブリッジは別リポ）。"
           }
+        },
+        {
+          "title": "Explainer Bot — Grok Bot template for educational videos (Mike P)",
+          "url": "https://x.ai/bot/9ppPlUn9YaDuVx4VAArOR",
+          "source": "GB-1928",
+          "blurb": {
+            "en": "Public Grok Bot template (Mike P) that walks you through installing an open-source explainer-video pipeline on a Mac so a topic becomes a finished narrated video.",
+            "zh": "可分享的 Grok Bot 模板（Mike P）：一步步在 Mac 上装好开源讲解视频流水线，输入主题即可产出带旁白的成片。",
+            "ja": "共有可能な Grok Bot テンプレ（Mike P）。Mac にオープンソースの解説動画パイプラインを入れ、トピックからナレーション付き動画まで。"
+          }
+        },
+        {
+          "title": "grok-life — Chief of Staff life setup (Inbox/Calendar/Health bots)",
+          "url": "https://github.com/anup-a/grok-life",
+          "source": "GB-1929",
+          "blurb": {
+            "en": "npm + shareable Grok Bot Life template: Chief of Staff creates Inbox, Calendar, Health, Bills, Search bots with real routines (distinct from older grok-life VM nodes).",
+            "zh": "npm 与可分享 Life 模板：Chief of Staff 按需创建收件箱/日历/健康/账单/搜索等 Bot 并挂真实例行（勿与旧版 grok-life VM 节点混淆）。",
+            "ja": "npm と共有 Life テンプレ。Chief of Staff が Inbox/Calendar/Health/Bills/Search などを作り、実ルーチンを付ける（旧 grok-life VM とは別）。"
+          }
+        },
+        {
+          "title": "grok-bot-cos — Chief of Staff skills & routines pack",
+          "url": "https://github.com/twhit223/grok-bot-cos",
+          "source": "GB-1930",
+          "blurb": {
+            "en": "Reusable Grok Bot Chief of Staff pack: portable skills, daily/EoD/Friday routines, conventions, and expected marketplace plugins (MIT).",
+            "zh": "可复用的 Grok Bot 幕僚长包：便携 skills、日更/收工/周五例行、约定与所需 Marketplace 插件（MIT）。",
+            "ja": "再利用できる Chief of Staff パック。ポータブル skills、日次/EoD/金曜ルーチン、規約、想定プラグイン（MIT）。"
+          }
+        },
+        {
+          "title": "visual-walkthrough — sequenced diagrams + quiz skill (Grok Bot adapter)",
+          "url": "https://github.com/kyletabor/visual-walkthrough",
+          "source": "GB-1931",
+          "blurb": {
+            "en": "Portable teaching skill with sequenced diagrams, narration, and a short quiz, plus a thin Grok Bot adapter alongside Claude Code.",
+            "zh": "便携教学 skill：分步示意图、旁白与短测验，并带 Grok Bot 适配层（亦可用于 Claude Code）。",
+            "ja": "図解・ナレーション・小テスト付きの教材 skill。Grok Bot 用アダプタ付き（Claude Code にも対応）。"
+          }
+        },
+        {
+          "title": "Zoho Small Business Operator — Grok Bot template lineup",
+          "url": "https://x.ai/bot/jvdlRiNID5653J-EMH1q3",
+          "source": "GB-1932",
+          "blurb": {
+            "en": "Draft-first Zoho Grok Bot seat (Begine Fusion): 32 skills across cash, CRM, support, campaigns, contracts, hiring, and weekly briefs, with specialist sibling templates.",
+            "zh": "面向 Zoho 的 draft-first Grok Bot 全席模板（Begine Fusion）：现金/CRM/客服/营销/合同/招聘与周报共 32 项 skills，另有专科模板。",
+            "ja": "Zoho 向け draft-first の Grok Bot 座席（Begine Fusion）。現金・CRM・サポート・キャンペーン・契約・採用・週次など 32 skills。専門テンプレもあり。"
+          }
+        },
+        {
+          "title": "etoro-mcp-plugin — live eToro connector for Grok Bot / Cursor",
+          "url": "https://github.com/eToro/etoro-mcp-plugin",
+          "source": "GB-1933",
+          "blurb": {
+            "en": "Official eToro public MCP plugin package wiring the live eToro connector into Grok Bot and Cursor (marketplace handle etoro-mcp).",
+            "zh": "eToro 官方公开 MCP 插件包：把线上 eToro connector 接到 Grok Bot 与 Cursor（marketplace：etoro-mcp）。",
+            "ja": "eToro 公式の公開 MCP プラグイン。ライブ eToro コネクタを Grok Bot / Cursor に接続（etoro-mcp）。"
+          }
+        },
+        {
+          "title": "Prompt Studio MCP — prompt library for Grok Bot / Cursor",
+          "url": "https://github.com/promptalchemy/prompt-studio-mcp",
+          "source": "GB-1934",
+          "blurb": {
+            "en": "Hosted Prompt Studio MCP install package: save and fetch prompts from your library inside Grok Bot, Cursor, Claude, and ChatGPT via OAuth.",
+            "zh": "Prompt Studio 托管 MCP 安装包：在 Grok Bot/Cursor/Claude/ChatGPT 里经 OAuth 保存与取用你的提示词库。",
+            "ja": "Prompt Studio のホスト型 MCP パッケージ。OAuth で Grok Bot / Cursor / Claude / ChatGPT からプロンプト庫を保存・取得。"
+          }
+        },
+        {
+          "title": "salesforce-mcp-app — render-only Salesforce cards for Grok Bot",
+          "url": "https://github.com/mykkelol/salesforce-mcp-app",
+          "source": "GB-1935",
+          "blurb": {
+            "en": "Open-source render-only MCP App that shows Salesforce-like record/change/write cards inside Grok Bot, Dots, and Muse—no credentials or network calls.",
+            "zh": "开源、仅渲染的 MCP App：在 Grok Bot/Dots/Muse 里展示 Salesforce 风格记录/变更/写入卡片，不含凭证、不发网络请求。",
+            "ja": "描画専用の OSS MCP App。Grok Bot / Dots / Muse 内に Salesforce 風カードを出す。認証情報もネットワークも不要。"
+          }
+        },
+        {
+          "title": "next-pr — Grok skill for one draft PR per change",
+          "url": "https://github.com/skyhilam/next-pr",
+          "source": "GB-1936",
+          "blurb": {
+            "en": "Repo-agnostic Grok skill that opens one draft PR per code/copy/UI change, coding in a background subagent with open-pr/check-pr helpers.",
+            "zh": "与具体仓库无关的 Grok skill：每次代码/文案/UI 改动开一个 draft PR，后台子代理写码，并带 open-pr/check-pr 脚本。",
+            "ja": "リポジトリ非依存の Grok skill。変更ごとに draft PR を1つ開き、背景サブエージェントで実装。open-pr/check-pr 付き。"
+          }
         }
       ]
     },
@@ -13784,6 +13894,16 @@
             "zh": "本地 Node 工具：监视 git 仓库，把 Grok Bot（或其他智能体）每次保存以打字动画形式在浏览器回放。",
             "ja": "git リポジトリを監視し、Grok Bot 等の保存差分をブラウザでタイピング再生するローカル Node ツール。"
           }
+        },
+        {
+          "title": "grok-bot-film-kit — Remotion engine for personalized Bot pitch films",
+          "url": "https://github.com/Speediing/grok-bot-film-kit",
+          "source": "GB-1937",
+          "blurb": {
+            "en": "Public Remotion engine and pipeline docs for personalized Grok Bot pitch films—no customer assets in-repo; clone and render on a laptop or cloud agent.",
+            "zh": "公开 Remotion 引擎与流程文档，用于定制 Grok Bot 推介片；仓库不含客户素材，可在笔记本或云代理上克隆渲染。",
+            "ja": "パーソナライズ Grok Bot ピッチ影片向けの公開 Remotion エンジンと手順。顧客素材は含まず、ノートPCやクラウドエージェントでレンダ。"
+          }
         }
       ]
     },
@@ -16283,6 +16403,56 @@
             "en": "Ubuntu 25.10 / Grok Bot 0.63.0 report: Bot settings panel lacks the Description field docs promise, though existing descriptions still answer in chat.",
             "zh": "Ubuntu 25.10 + Grok Bot 0.63.0：Bot 设置面板缺少文档中的 Description 字段，但已有描述仍可在对话中读出。",
             "ja": "Ubuntu 25.10 / Grok Bot 0.63.0：ドキュメントにある Description 欄が設定パネルに無く、既存説明はチャットでは読めるという報告。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot computer outbound non-HTTPS blocked since Oct 1",
+          "url": "https://forum.cursor.com/t/grok-bot-computer-all-outbound-non-https-traffic-blocked-since-oct-1-mysql-ssh-imap-smtp-ftp-time-out/173504",
+          "source": "GB-1940",
+          "blurb": {
+            "en": "Report that Grok Bot cloud computers block all outbound non-HTTPS (MySQL, SSH, IMAP/SMTP, FTP time out) since Oct 1, with multiple accounts confirming.",
+            "zh": "反馈：自 10 月 1 日起 Grok Bot 云电脑出站非 HTTPS（MySQL/SSH/IMAP/SMTP/FTP）全部超时，多账号确认。",
+            "ja": "10/1 以降、Grok Bot クラウドPCの非 HTTPS 外向き（MySQL/SSH/IMAP/SMTP/FTP）がタイムアウトする報告。複数アカウントで確認。"
+          }
+        },
+        {
+          "title": "Forum: SAND CONNECT proxy fails on public hostname HTTPS",
+          "url": "https://forum.cursor.com/t/on-grok-bot-s-cloud-computer-https-through-the-shared-sand-connect-proxy-127-0-0-1-8791-fastly-prod-xai-1-fails-when-connect-uses-my-public-hostname-but-succeeds-when-connect-uses-that-host-s-literal-public-ip/173542",
+          "source": "GB-1941",
+          "blurb": {
+            "en": "Bug: HTTPS via Grok Bot’s shared SAND CONNECT proxy (127.0.0.1:8791) fails when CONNECT uses a public hostname but works with the host’s literal public IP.",
+            "zh": "缺陷：经 Grok Bot 共享 SAND CONNECT 代理（127.0.0.1:8791）做 HTTPS 时，CONNECT 用公网域名失败、改用字面公网 IP 则成功。",
+            "ja": "不具合。共有 SAND CONNECT プロキシ（127.0.0.1:8791）経由 HTTPS で、CONNECT に公開ホスト名を使うと失敗し、リテラル公網 IP だと成功。"
+          }
+        },
+        {
+          "title": "Forum: painting issues when switching Grok Bots",
+          "url": "https://forum.cursor.com/t/grok-bot-has-weird-painting-issues-when-switching-bots/173549",
+          "source": "GB-1942",
+          "blurb": {
+            "en": "UI bug report: switching between Grok Bots leaves weird painting/artifact glitches in the desktop client.",
+            "zh": "界面缺陷：在桌面端切换 Grok Bot 时出现异常重绘/残影伪影。",
+            "ja": "UI 不具合。デスクトップで Bot を切り替えると描画の乱れ・アーティファクトが出る。"
+          }
+        },
+        {
+          "title": "Forum: “Hey Grok” wake-word equivalent request",
+          "url": "https://forum.cursor.com/t/hey-grok-equivalent-for-hey-google-or-hey-siri-is-this-even-possible/173550",
+          "source": "GB-1943",
+          "blurb": {
+            "en": "Feature ask for a hands-free “Hey Grok” wake word on Grok Bot, analogous to Hey Google / Hey Siri.",
+            "zh": "功能请求：希望 Grok Bot 有类似 Hey Google / Hey Siri 的免手动 “Hey Grok” 唤醒词。",
+            "ja": "機能要望。Hey Google / Hey Siri のようなハンズフリー “Hey Grok” ウェイクワード。"
+          }
+        },
+        {
+          "title": "Forum: how to share a custom MCP a Bot built with the team",
+          "url": "https://forum.cursor.com/t/how-do-i-share-a-custom-mcp-that-one-of-my-bots-has-built-with-the-rest-of-my-team/173538",
+          "source": "GB-1944",
+          "blurb": {
+            "en": "Team question on publishing a custom MCP one Grok Bot built so teammates can use it (account-local vs shared listing).",
+            "zh": "团队问答：如何把某个 Grok Bot 自建的自定义 MCP 发布给同事用（仅自己账号 vs 共享上架）。",
+            "ja": "チーム向け質問。Bot が作ったカスタム MCP を同僚と共有する公開手順（自分だけ vs 共有掲載）。"
           }
         }
       ]
@@ -19093,6 +19263,26 @@
             "en": "Local receipt/audit trail for what coding agents ran, changed, verified, and cost — including Grok Bot and Grok Build sessions.",
             "zh": "本地“回执/审计”工具：记录编码智能体跑了什么、改了什么、验证与花费，覆盖 Grok Bot 与 Grok Build。",
             "ja": "コーディングエージェントの実行・差分・検証・コストをローカルに残すレシート。Grok Bot / Grok Build セッションにも対応。"
+          }
+        },
+        {
+          "title": "approval-box — human decisions back into the same AI session",
+          "url": "https://github.com/kitepon/approval-box",
+          "source": "GB-1938",
+          "blurb": {
+            "en": "Approval Box lets Claude Code, Codex, Cursor, and Grok agents request decisions on phone/web and inject the answer into the same session without polling.",
+            "zh": "Approval Box：Claude Code/Codex/Cursor/Grok 等可在手机/网页请求人工决策，答案直接打回同一会话（无需轮询）。",
+            "ja": "Approval Box。Claude Code / Codex / Cursor / Grok がスマホ/Web で判断を求め、同じセッションへ回答を差し込む（ポーリング不要）。"
+          }
+        },
+        {
+          "title": "aiusg — cross-provider usage table including Grok Bot",
+          "url": "https://github.com/abnegate/aiusg",
+          "source": "GB-1939",
+          "blurb": {
+            "en": "CLI that prints remaining limits and reset times across Claude, Codex, Gemini, Copilot, Grok Build, and Grok Bot accounts in one table.",
+            "zh": "命令行一览 Claude/Codex/Gemini/Copilot/Grok Build/Grok Bot 等账号剩余额度与重置时间。",
+            "ja": "Claude / Codex / Gemini / Copilot / Grok Build / Grok Bot の残量とリセットを一表で出す CLI。"
           }
         }
       ]
@@ -23968,7 +24158,7 @@
     },
     {
       "id": "coo-20261003",
-      "url": "https://luma.com/spacexai-fd2l",
+      "url": "https://luma.com/grokbot-benin",
       "image": "./assets/events/coo-20261003-cover.png",
       "expires": "2026-10-03T13:00:00+01:00",
       "title": {
@@ -23987,9 +24177,9 @@
         "ja": "ベナン・ゴドメー（コトヌー都市圏）Bibliothèque Benin Excellence（オフライン）"
       },
       "body": {
-        "en": "SpaceXAI Benin Community workshop in Godomey/Cotonou (host Aina René Régis KIKI; calendar SpaceXAI for Cotonou, Benin). Hands-on: Grok Bot onboarding + AI coding / prompt practices + product building from idea to testable prototype; networking with Benin's tech community. Students, beginner/advanced devs, and AI-curious welcome. Free Standard RSVP (guest_count 0 at scan; registration open). Venue: Bibliothèque Benin Excellence, Godomey. Slug spacexai-fd2l (evt-l3Gjkx4wZqGR6hg); no forum New-event post yet.",
-        "zh": "SpaceXAI Benin Community 在戈多梅/科托努举办的线下 Workshop（主办 Aina René Régis KIKI；日历 SpaceXAI for Cotonou）。上手 Grok Bot、AI coding / prompt、从想法到可测原型的产品构建，并与当地社区交流。学生与开发者皆可。免费报名（扫描时 guest_count 0）。场地：Bibliothèque Benin Excellence。slug spacexai-fd2l；论坛尚无 New event 帖。",
-        "ja": "SpaceXAI Benin Community 主催のゴドメー/コトヌーでのオフライン Workshop（ホスト Aina René Régis KIKI；カレンダー SpaceXAI for Cotonou）。Grok Bot 入門、AI coding / プロンプト、アイデアから試作までのプロダクト構築、ネットワーキング。学生・開発者歓迎。無料RSVP（スキャン時 guest_count 0）。会場：Bibliothèque Benin Excellence。slug spacexai-fd2l；フォーラムの New event 投稿はまだなし。"
+        "en": "SpaceXAI Benin Community workshop in Godomey/Cotonou (host Aina René Régis KIKI). Hands-on Grok Bot onboarding + AI coding/prompt + idea-to-prototype; networking. Free Standard RSVP with approval (guest_count 133 at morning scan). Venue: Bibliothèque Benin Excellence. Luma slug grokbot-benin (evt-l3Gjkx4wZqGR6hg; old spacexai-fd2l dead).",
+        "zh": "SpaceXAI Benin Community 戈多梅/科托努 Workshop（主办 Aina René Régis KIKI）：上手 Grok Bot、AI coding/prompt、从想法到原型，并社区交流。免费需审批（早间扫描 guest_count 133）。场地 Bibliothèque Benin Excellence。Luma slug grokbot-benin（旧 spacexai-fd2l 失效）。",
+        "ja": "SpaceXAI Benin Community のゴドメー/コトヌー Workshop（ホスト Aina René Régis KIKI）。Grok Bot 入門、AI coding/プロンプト、試作まで。無料・承認制（朝スキャン guest_count 133）。会場 Bibliothèque Benin Excellence。slug grokbot-benin（旧 spacexai-fd2l は無効）。"
       },
       "cta": {
         "en": "Register on Luma →",
@@ -24928,19 +25118,19 @@
       }
     },
     {
-      "id": "cwb-20260929",
+      "id": "cwb-20261002",
       "url": "https://luma.com/spacexai-qgll",
-      "image": "./assets/events/cwb-20260929-cover.png",
-      "expires": "2026-09-29T20:30:00-03:00",
+      "image": "./assets/events/cwb-20261002-cover.png",
+      "expires": "2026-10-02T20:30:00-03:00",
       "title": {
         "en": "Grok Bot Build: Everyone can be a CTO now",
         "zh": "Grok Bot Build：人人都能当 CTO",
         "ja": "Grok Bot Build：誰でも CTO になれる"
       },
       "when": {
-        "en": "Tue 29 Sep 2026, 19:00–20:30 (America/Sao_Paulo)",
-        "zh": "2026-09-29 周二 19:00–20:30（America/Sao_Paulo）",
-        "ja": "2026-09-29（火）19:00–20:30（America/Sao_Paulo）"
+        "en": "Fri 2 Oct 2026, 19:00–20:30 (America/Sao_Paulo)",
+        "zh": "2026-10-02 周五 19:00–20:30（America/Sao_Paulo）",
+        "ja": "2026-10-02（金）19:00–20:30（America/Sao_Paulo）"
       },
       "where": {
         "en": "Curitiba, PR · PUCPR Bloco 6 (Escola de Medicina), Prado Velho — offline",
@@ -24948,9 +25138,9 @@
         "ja": "クリチバ · PUCPR Bloco 6（医学部）、Prado Velho — オフライン"
       },
       "body": {
-        "en": "SpaceXAI Curitiba build night: how Grok Bot teams let builders lead bot fleets. Talk + quick hands-on at PUCPR. Register on Luma.",
-        "zh": "SpaceXAI 库里蒂巴 Build：用 Grok Bot 团队当「人机 CTO」。PUCPR 分享+动手。Luma 报名。",
-        "ja": "SpaceXAI クリチバのビルドナイト。Grok Bot チームでリーダーになる話とハンズオン（PUCPR）。Luma で登録。"
+        "en": "SpaceXAI Curitiba build night (rescheduled from 2026-09-29): how Grok Bot teams let builders lead bot fleets. Talk + quick hands-on at PUCPR. Free approval ticket; guest_count 93 at morning scan. Same Luma spacexai-qgll.",
+        "zh": "SpaceXAI 库里蒂巴 Build（自 2026-09-29 改期）：用 Grok Bot 团队当「人机 CTO」。PUCPR 分享+动手。免费需审批；早间扫描 guest_count 93。同一 Luma spacexai-qgll。",
+        "ja": "SpaceXAI クリチバのビルドナイト（2026-09-29 から延期）。Grok Bot チームでリーダーになる話とハンズオン（PUCPR）。無料・承認制。朝スキャン guest_count 93。同じ Luma spacexai-qgll。"
       },
       "cta": {
         "en": "Register on Luma",
@@ -25115,7 +25305,7 @@
     },
     {
       "id": "pei-20261002",
-      "url": "https://luma.com/spacexai-1wgg",
+      "url": "https://luma.com/spacexai-pereira-grokbot",
       "image": "./assets/events/pei-20261002-cover.png",
       "expires": "2026-10-02T17:30:00-05:00",
       "title": {
@@ -25134,9 +25324,9 @@
         "ja": "コロンビア・ペレイラ · Universidad Autónoma de las Américas（Av. de las Américas #98-56）— オフライン"
       },
       "body": {
-        "en": "SpaceXAI Pereira afternoon on Grok Bot / AI building; talks TBA, coffee & snacks. No prior experience needed. Register on Luma.",
-        "zh": "SpaceXAI 佩雷拉 Grok Bot/AI 下午场；嘉宾待定，含咖啡点心。无需经验。Luma 报名。",
-        "ja": "SpaceXAI ペレイラの Grok Bot / AI ミートアップ。登壇者は近日発表、コーヒー＆スナックあり。初心者歓迎。Luma で登録。"
+        "en": "SpaceXAI Pereira afternoon on Grok Bot / AI building at Universidad Autónoma de las Américas; talks TBA, coffee & snacks. Free Standard RSVP (guest_count 68 at morning scan). Luma slug spacexai-pereira-grokbot (old spacexai-1wgg dead).",
+        "zh": "SpaceXAI 佩雷拉 Grok Bot/AI 下午场（Universidad Autónoma de las Américas）；嘉宾待定，含咖啡点心。免费报名（早间扫描 guest_count 68）。Luma slug spacexai-pereira-grokbot（旧 spacexai-1wgg 已失效）。",
+        "ja": "SpaceXAI ペレイラの Grok Bot / AI ミートアップ（Universidad Autónoma de las Américas）。登壇者近日、コーヒー＆スナック。無料RSVP（朝スキャン guest_count 68）。slug spacexai-pereira-grokbot（旧 spacexai-1wgg は無効）。"
       },
       "cta": {
         "en": "Register on Luma",
@@ -26284,6 +26474,68 @@
         "en": "SpaceXAI Kenya hands-on workshop on Grok Bot in Nairobi (host Felix Jumason). Free approval ticket; guest_count 24 at evening scan; forum 173480; Luma spacexai-9apo. Distinct from expired nbo-20260917.",
         "zh": "SpaceXAI 肯尼亚 Grok Bot 实操工作坊（内罗毕，主办 Felix Jumason）。免费需审批；晚间扫描 guest_count 24；论坛 173480；Luma spacexai-9apo。勿与已过期 nbo-20260917 混淆。",
         "ja": "SpaceXAI Kenya の Grok Bot ハンズオン（ナイロビ、主催 Felix Jumason）。無料・承認制。夕スキャン guest_count 24。フォーラム 173480 / Luma spacexai-9apo。期限切れ nbo-20260917 とは別。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "uio-20261021",
+      "url": "https://luma.com/spacexai-7spd",
+      "image": "./assets/events/uio-20261021-cover.png",
+      "expires": "2026-10-21T20:30:00-05:00",
+      "title": {
+        "en": "Grok Bot Quito Meetup",
+        "zh": "Grok Bot Meetup 基多",
+        "ja": "Grok Bot Meetup Quito"
+      },
+      "when": {
+        "en": "Wed 21 Oct 2026, 17:30–20:30 (America/Guayaquil, ECT, UTC-5)",
+        "zh": "2026-10-21 周三 17:30–20:30（America/Guayaquil，ECT，UTC-5）",
+        "ja": "2026-10-21（水）17:30–20:30（America/Guayaquil、ECT、UTC-5）"
+      },
+      "where": {
+        "en": "Quito, Ecuador · offline (exact pin after register)",
+        "zh": "厄瓜多尔基多 · 线下（报名后可见精确地址）",
+        "ja": "エクアドル・キト · オフライン（登録後に会場ピン）"
+      },
+      "body": {
+        "en": "SpaceXAI Quito meetup on Grok Bot. Free Standard RSVP; guest_count 12 at morning scan. Luma spacexai-7spd. Distinct from expired uio-20260924.",
+        "zh": "SpaceXAI 基多 Grok Bot 聚会。免费报名；早间扫描 guest_count 12。Luma spacexai-7spd。勿与已过期 uio-20260924 混淆。",
+        "ja": "SpaceXAI キトの Grok Bot ミートアップ。無料RSVP。朝スキャン guest_count 12。Luma spacexai-7spd。期限切れ uio-20260924 とは別。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "atl-20261008",
+      "url": "https://luma.com/enjt7lt8",
+      "image": "./assets/events/atl-20261008-cover.png",
+      "expires": "2026-10-08T20:00:00-04:00",
+      "title": {
+        "en": "SpaceXAI: GrokBot Job Night (Atlanta)",
+        "zh": "SpaceXAI：GrokBot Job Night（亚特兰大）",
+        "ja": "SpaceXAI: GrokBot Job Night（アトランタ）"
+      },
+      "when": {
+        "en": "Thu 8 Oct 2026, 18:30–20:00 (America/New_York, EDT, UTC-4)",
+        "zh": "2026-10-08 周四 18:30–20:00（America/New_York，EDT，UTC-4）",
+        "ja": "2026-10-08（木）18:30–20:00（America/New_York、EDT、UTC-4）"
+      },
+      "where": {
+        "en": "Atlanta, GA · Klaus Advanced Computing Building (266 Ferst Dr NW) · offline",
+        "zh": "亚特兰大 · Klaus Advanced Computing Building（266 Ferst Dr NW）· 线下",
+        "ja": "アトランタ · Klaus Advanced Computing Building（266 Ferst Dr NW）· オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI GrokBot Job Night in Atlanta (Klaus building). Free approval ticket; guest_count 27 at morning scan. Luma enjt7lt8. Distinct from atl-20261016 KSU engineers meetup.",
+        "zh": "SpaceXAI 亚特兰大 GrokBot Job Night（Klaus 楼）。免费需审批；早间扫描 guest_count 27。Luma enjt7lt8。勿与 atl-20261016 KSU 工程师场混淆。",
+        "ja": "アトランタの SpaceXAI GrokBot Job Night（Klaus 棟）。無料・承認制。朝スキャン guest_count 27。Luma enjt7lt8。atl-20261016 KSU 回とは別。"
       },
       "cta": {
         "en": "Register on Luma",
