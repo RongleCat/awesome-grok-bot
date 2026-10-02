@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1920-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1930-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -50,7 +50,6 @@
 - **日本**（2）：[札幌](./EVENTS.ja.md#spk-20261002) · [東京](./EVENTS.ja.md#tyo-20261011)
 - **カンボジア**（2）：[プノンペン](./EVENTS.ja.md#pnh-20261003) · [シェムリアップ](./EVENTS.ja.md#srp-20261101)
 - **カザフスタン**（2）：[アスタナ](./EVENTS.ja.md#nqz-20261002) · [アルマトイ](./EVENTS.ja.md#ala-20261004)
-- **メキシコ**（2）：[モンテレイ](./EVENTS.ja.md#mty-20261003) · [ビヤエルモサ](./EVENTS.ja.md#vhs-20261001)
 - **アルバニア**（1）：[ティラナ](./EVENTS.ja.md#tia-20261017)
 - **アルゼンチン**（1）：[メンドサ](./EVENTS.ja.md#mdz-20261003)
 - **オーストリア**（1）：[ウィーン](./EVENTS.ja.md#vie-20261031)
@@ -59,11 +58,13 @@
 - **ベナン**（1）：[コトヌー](./EVENTS.ja.md#coo-20261003)
 - **コートジボワール**（1）：[アビジャン](./EVENTS.ja.md#abj-20261107)
 - **コロンビア**（1）：[ペレイラ](./EVENTS.ja.md#pei-20261002)
+- **フィンランド**（1）：[ヘルシンキ](./EVENTS.ja.md#hel-20261027)
 - **アイルランド**（1）：[ダブリン](./EVENTS.ja.md#dub-20261004)
 - **イスラエル**（1）：[テルアビブ](./EVENTS.ja.md#tlv-20261019)
 - **ケニア**（1）：[ナイロビ（Kenya Workshop）](./EVENTS.ja.md#nbo-20261008)
 - **韓国**（1）：[ソウル](./EVENTS.ja.md#sel-20261027)
 - **スリランカ**（1）：[コロンボ](./EVENTS.ja.md#cmb-20261017)
+- **メキシコ**（1）：[モンテレイ](./EVENTS.ja.md#mty-20261003)
 - **ニカラグア**（1）：[マナグア](./EVENTS.ja.md#mga-20261003)
 - **ノルウェー**（1）：[オスロ](./EVENTS.ja.md#osl-20261016)
 - **ニュージーランド**（1）：[オークランド](./EVENTS.ja.md#akl-20261008)
@@ -481,6 +482,9 @@
 - [0xToji: Grok Bot trading agent mints its own meme coin](https://x.com/Yel0_22G/status/2105526443732308021) - 実例。ミーム通貨取引だけを任された Grok Bot が自ら VOXA を発行し、リスク審査エージェント付きで一晩で資金を伸ばした。
 - [poteto: gave my bot my brain — how I fix bugs now](https://x.com/poteto/status/2105576730413134291) - SpaceXAI のエンジニアが個人コンテキストを Grok Bot に渡し、自分流のバグ修正を任せて寝る流れを公開。
 - [mattyp: proactive Grok Bot catches missed Uber after flight change](https://x.com/mattyp/status/2105718647218200587) - mattyp の Primary Bot 例。フライト変更後、古いままの Uber 予約に気づき、乗り継ぎ中（Starlink）に通知して着陸前に直した。
+- [leetcode-clusters — LeetCode map created by Grok Bot](https://github.com/WilliamZhang20/leetcode-clusters) - タグ類似度で全 LeetCode 問題をバブル配置した静的サイト。Grok Bot が作成し GitHub Pages 公開。
+- [personal-news-reader — PIN magazine refreshed by Grok Bot](https://github.com/scapp/personal-news-reader) - GitHub Pages の PIN 付き個人ニュース誌。フィードを Grok Bot がスケジュール更新。
+- [market-indicator — breadth gauge product of Grok Bot](https://github.com/gilsrubin-sys/market-indicator) - 市場の買われ過ぎ/売られ過ぎゲージ。Grok Bot 製と銘打った HTML + data.json ダッシュボード。
 
 ## スキル、プラグインと MCP
 
@@ -1099,6 +1103,7 @@
 - [Prompt Studio MCP — prompt library for Grok Bot / Cursor](https://github.com/promptalchemy/prompt-studio-mcp) - Prompt Studio のホスト型 MCP パッケージ。OAuth で Grok Bot / Cursor / Claude / ChatGPT からプロンプト庫を保存・取得。
 - [salesforce-mcp-app — render-only Salesforce cards for Grok Bot](https://github.com/mykkelol/salesforce-mcp-app) - 描画専用の OSS MCP App。Grok Bot / Dots / Muse 内に Salesforce 風カードを出す。認証情報もネットワークも不要。
 - [next-pr — Grok skill for one draft PR per change](https://github.com/skyhilam/next-pr) - リポジトリ非依存の Grok skill。変更ごとに draft PR を1つ開き、背景サブエージェントで実装。open-pr/check-pr 付き。
+- [grok-bot-dispatch — Cursor skill for Primary / Role staffing](https://github.com/Xuzhen-Li/grok-bot-dispatch) - Cursor skill。Primary 用プロンプトを書き、Project は Unassigned、Role は共有プールで単発タスクを受け持つ。
 
 ## レビューと比較
 
@@ -1488,6 +1493,7 @@
 - [setup-dida-bot — merge WeChat→Dida tasks and wake Grok Bot](https://github.com/dulk-dev/setup-dida-bot) - WeChat 経由で分裂した Dida タスクを再結合し、ライフサイクルタグでクレームして Grok Bot の webhook を起こす Node デーモン。
 - [grok-coding-observatory — live replay of Grok Bot edits in the browser](https://github.com/Eeliya/grok-coding-observatory) - git リポジトリを監視し、Grok Bot 等の保存差分をブラウザでタイピング再生するローカル Node ツール。
 - [grok-bot-film-kit — Remotion engine for personalized Bot pitch films](https://github.com/Speediing/grok-bot-film-kit) - パーソナライズ Grok Bot ピッチ影片向けの公開 Remotion エンジンと手順。顧客素材は含まず、ノートPCやクラウドエージェントでレンダ。
+- [grok-bot-discord-bridge — Discord → sendPrompt wake path](https://github.com/matthew-rutledge-dev/grok-bot-discord-bridge) - 自前ホストの Discord Gateway 橋。sendPrompt で Grok Bot を起こし、コールバックを Discord へ返す（デフォルト拒否の認可）。
 
 ## コミュニティと障害事例
 
@@ -1745,6 +1751,8 @@
 - [Forum: painting issues when switching Grok Bots](https://forum.cursor.com/t/grok-bot-has-weird-painting-issues-when-switching-bots/173549) - UI 不具合。デスクトップで Bot を切り替えると描画の乱れ・アーティファクトが出る。
 - [Forum: “Hey Grok” wake-word equivalent request](https://forum.cursor.com/t/hey-grok-equivalent-for-hey-google-or-hey-siri-is-this-even-possible/173550) - 機能要望。Hey Google / Hey Siri のようなハンズフリー “Hey Grok” ウェイクワード。
 - [Forum: how to share a custom MCP a Bot built with the team](https://forum.cursor.com/t/how-do-i-share-a-custom-mcp-that-one-of-my-bots-has-built-with-the-rest-of-my-team/173538) - チーム向け質問。Bot が作ったカスタム MCP を同僚と共有する公開手順（自分だけ vs 共有掲載）。
+- [Forum: multi-person / speaker-aware voice for Grok Bot](https://forum.cursor.com/t/multi-person-speaker-aware-voice-for-grok-bot-room-scribe-for-live-research-conversation/173569) - 機能要望。多人数/話者分離ボイスで、1対1以外のライブ調査会話を Grok Bot が書記できるように。
+- [Forum: Update needed ~4 times to reach latest computer image](https://forum.cursor.com/t/grok-bot-computer-update-needed-4-consecutive-update-presses-to-reach-latest-image/173562) - 不具合報告。Grok Bot コンピュータ更新後も Update が再提示され、最新イメージ表示まで約4回押す必要。
 
 ## 関連リスト
 
@@ -2030,10 +2038,13 @@
 - [Openshard — receipts for AI coding agents including Grok Bot](https://github.com/openshard/openshard) - コーディングエージェントの実行・差分・検証・コストをローカルに残すレシート。Grok Bot / Grok Build セッションにも対応。
 - [approval-box — human decisions back into the same AI session](https://github.com/kitepon/approval-box) - Approval Box。Claude Code / Codex / Cursor / Grok がスマホ/Web で判断を求め、同じセッションへ回答を差し込む（ポーリング不要）。
 - [aiusg — cross-provider usage table including Grok Bot](https://github.com/abnegate/aiusg) - Claude / Codex / Gemini / Copilot / Grok Build / Grok Bot の残量とリセットを一表で出す CLI。
+- [Erika — GrokBot README banner painter API](https://github.com/Moemu/Erika) - GitHub リポジトリ向けに GrokBot 風バナーを描く API（デモ erika.snowy.moe）。
+- [opendots — open-source OpenAI dots / Grok Bot alternative](https://github.com/milisp/opendots) - Tauri + Axum の個人エージェント作業場。OpenAI dots / Grok Bot のオープン代替（Anil-matcha/open-dots とは別）。
+- [oficina-grok-bots — browser 3D office of four Grok bots](https://github.com/robchvz97/oficina-grok-bots) - ブラウザ Three.js の 3D オフィス。名前付き Grok Bot 4 体と各 Bot 用ペースト文。
 
 ## 貢献
 
-8 セクションに 1920 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1930 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

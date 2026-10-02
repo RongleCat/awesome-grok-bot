@@ -198,15 +198,6 @@
 <a id="ala-20261004"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/vod1qyrk"><img src="./assets/events/ala-20261004-cover.png" alt="Grok Bot Meetup 阿拉木图" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 阿拉木图</strong><br />2026-10-04 周日 14:00–17:00（Asia/Almaty，UTC+5）<br />哈萨克斯坦阿拉木图（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />阿拉木图首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug vod1qyrk）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/vod1qyrk"><strong>在 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="country-mx"></a>
-### 墨西哥
-
-<a id="mty-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/5ohq71b3"><img src="./assets/events/mty-20261003-cover.png" alt="Grok 蒙特雷黑客松" width="300" /></a></td><td valign="top"><strong>Grok 蒙特雷黑客松</strong><br />2026-10-03 周六 10:00–17:00（America/Monterrey）<br />墨西哥蒙特雷 — 线下（详细场地见 Luma）<br /><br />Grok 蒙特雷黑客松（SpaceXAI for Monterrey）：当日构建场，有别于早前 mty-20260910 交流。<br /><br /><a href="https://luma.com/5ohq71b3"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
-<a id="vhs-20261001"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-chzd"><img src="./assets/events/vhs-20261001-cover.png" alt="Grok Bot Meetup 比亚埃尔莫萨（10月）" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 比亚埃尔莫萨（10月）</strong><br />2026-10-01 周四 17:00–21:00（America/Mexico_City，UTC-06:00）<br />墨西哥比亚埃尔莫萨 · 线下<br /><br />官方 SpaceXAI 比亚埃尔莫萨站：面向 Cursor 与 Grok Bot 开发者的线下聚会（10 月版）。<br /><br /><a href="https://luma.com/spacexai-chzd"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
 <a id="country-al"></a>
 ### 阿尔巴尼亚
 
@@ -255,6 +246,12 @@
 <a id="pei-20261002"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-pereira-grokbot"><img src="./assets/events/pei-20261002-cover.png" alt="Grok Bot Meetup 佩雷拉" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 佩雷拉</strong><br />2026-10-02 周五 14:00–17:30（America/Bogota）<br />哥伦比亚佩雷拉 · Universidad Autónoma de las Américas（Av. de las Américas #98-56）— 线下<br /><br />SpaceXAI 佩雷拉 Grok Bot/AI 下午场（Universidad Autónoma de las Américas）；嘉宾待定，含咖啡点心。免费报名（早间扫描 guest_count 68）。Luma slug spacexai-pereira-grokbot（旧 spacexai-1wgg 已失效）。<br /><br /><a href="https://luma.com/spacexai-pereira-grokbot"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
+<a id="country-fi"></a>
+### 芬兰
+
+<a id="hel-20261027"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/aic-fi-10-27"><img src="./assets/events/hel-20261027-cover.png" alt="SpaceXAI Grok Bot：Breakfast & Build（赫尔辛基）" width="300" /></a></td><td valign="top"><strong>SpaceXAI Grok Bot：Breakfast & Build（赫尔辛基）</strong><br />2026-10-27 周二 09:00–11:00（Europe/Helsinki，EET，UTC+2）<br />芬兰赫尔辛基 · Kamppi · 线下（AI Collective Finland）<br /><br />AI Collective × SpaceXAI 赫尔辛基 Grok Bot Breakfast & Build（Kamppi）。Luma aic-fi-10-27；午间扫描 guest_count 0。<br /><br /><a href="https://luma.com/aic-fi-10-27"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-ie"></a>
 ### 爱尔兰
 
@@ -284,6 +281,12 @@
 
 <a id="cmb-20261017"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-cmb"><img src="./assets/events/cmb-20261017-cover.png" alt="Grok Bot Meetup 科伦坡" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 科伦坡</strong><br />2026-10-17 周六 09:30–17:00（Asia/Colombo，UTC+5:30）<br />斯里兰卡科伦坡 · DHPL Auditorium（42 Nawam Mawatha, Colombo 2）— 线下<br /><br />SpaceXAI 科伦坡站：幻灯片介绍、Grok Bot 现场演示、问答与社交（DHPL Auditorium）。Luma 报名。<br /><br /><a href="https://luma.com/grokbot-cmb"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="country-mx"></a>
+### 墨西哥
+
+<a id="mty-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/5ohq71b3"><img src="./assets/events/mty-20261003-cover.png" alt="Grok 蒙特雷黑客松" width="300" /></a></td><td valign="top"><strong>Grok 蒙特雷黑客松</strong><br />2026-10-03 周六 10:00–17:00（America/Monterrey）<br />墨西哥蒙特雷 — 线下（详细场地见 Luma）<br /><br />Grok 蒙特雷黑客松（SpaceXAI for Monterrey）：当日构建场，有别于早前 mty-20260910 交流。<br /><br /><a href="https://luma.com/5ohq71b3"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 <a id="country-ni"></a>
 ### 尼加拉瓜

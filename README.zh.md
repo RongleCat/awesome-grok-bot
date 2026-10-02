@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1920-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1930-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -50,7 +50,6 @@
 - **日本**（2）：[札幌](./EVENTS.zh.md#spk-20261002) · [东京](./EVENTS.zh.md#tyo-20261011)
 - **柬埔寨**（2）：[金边](./EVENTS.zh.md#pnh-20261003) · [暹粒](./EVENTS.zh.md#srp-20261101)
 - **哈萨克斯坦**（2）：[阿斯塔纳](./EVENTS.zh.md#nqz-20261002) · [阿拉木图](./EVENTS.zh.md#ala-20261004)
-- **墨西哥**（2）：[蒙特雷](./EVENTS.zh.md#mty-20261003) · [比亚埃尔莫萨](./EVENTS.zh.md#vhs-20261001)
 - **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20261017)
 - **阿根廷**（1）：[门多萨](./EVENTS.zh.md#mdz-20261003)
 - **奥地利**（1）：[维也纳](./EVENTS.zh.md#vie-20261031)
@@ -59,11 +58,13 @@
 - **贝宁**（1）：[科托努](./EVENTS.zh.md#coo-20261003)
 - **科特迪瓦**（1）：[阿比让](./EVENTS.zh.md#abj-20261107)
 - **哥伦比亚**（1）：[佩雷拉](./EVENTS.zh.md#pei-20261002)
+- **芬兰**（1）：[赫尔辛基](./EVENTS.zh.md#hel-20261027)
 - **爱尔兰**（1）：[都柏林](./EVENTS.zh.md#dub-20261004)
 - **以色列**（1）：[特拉维夫](./EVENTS.zh.md#tlv-20261019)
 - **肯尼亚**（1）：[内罗毕（肯尼亚工作坊）](./EVENTS.zh.md#nbo-20261008)
 - **韩国**（1）：[首尔](./EVENTS.zh.md#sel-20261027)
 - **斯里兰卡**（1）：[科伦坡](./EVENTS.zh.md#cmb-20261017)
+- **墨西哥**（1）：[蒙特雷](./EVENTS.zh.md#mty-20261003)
 - **尼加拉瓜**（1）：[马那瓜](./EVENTS.zh.md#mga-20261003)
 - **挪威**（1）：[奥斯陆](./EVENTS.zh.md#osl-20261016)
 - **新西兰**（1）：[奥克兰](./EVENTS.zh.md#akl-20261008)
@@ -481,6 +482,9 @@
 - [0xToji: Grok Bot trading agent mints its own meme coin](https://x.com/Yel0_22G/status/2105526443732308021) - 实战：只被要求交易 meme 币的 Grok Bot 自主发行 VOXA，并在风控 agent 审核下隔夜把小资金做大。.
 - [poteto: gave my bot my brain — how I fix bugs now](https://x.com/poteto/status/2105576730413134291) - SpaceXAI 工程负责人演示把个人上下文交给 Grok Bot，让它按她的方式修 bug，人可以去睡觉。.
 - [mattyp: proactive Grok Bot catches missed Uber after flight change](https://x.com/mattyp/status/2105718647218200587) - mattyp 的 Primary Bot 案例：改签航班后，Grok Bot 发现 Uber 预约未更新，并在转机途中（Starlink）提醒，落地前改掉预约。.
+- [leetcode-clusters — LeetCode map created by Grok Bot](https://github.com/WilliamZhang20/leetcode-clusters) - 按共享标签排布的全量 LeetCode 气泡图静态站，由 Grok Bot 创建并发布到 GitHub Pages。.
+- [personal-news-reader — PIN magazine refreshed by Grok Bot](https://github.com/scapp/personal-news-reader) - GitHub Pages 上的 PIN 个人杂志站，信息流由 Grok Bot 按日程刷新。.
+- [market-indicator — breadth gauge product of Grok Bot](https://github.com/gilsrubin-sys/market-indicator) - 浏览器端市场宽度超买/超卖仪表盘，自称由 Grok Bot 打造（HTML + data.json）。.
 
 ## 技能、插件与 MCP
 
@@ -1099,6 +1103,7 @@
 - [Prompt Studio MCP — prompt library for Grok Bot / Cursor](https://github.com/promptalchemy/prompt-studio-mcp) - Prompt Studio 托管 MCP 安装包：在 Grok Bot/Cursor/Claude/ChatGPT 里经 OAuth 保存与取用你的提示词库。.
 - [salesforce-mcp-app — render-only Salesforce cards for Grok Bot](https://github.com/mykkelol/salesforce-mcp-app) - 开源、仅渲染的 MCP App：在 Grok Bot/Dots/Muse 里展示 Salesforce 风格记录/变更/写入卡片，不含凭证、不发网络请求。.
 - [next-pr — Grok skill for one draft PR per change](https://github.com/skyhilam/next-pr) - 与具体仓库无关的 Grok skill：每次代码/文案/UI 改动开一个 draft PR，后台子代理写码，并带 open-pr/check-pr 脚本。.
+- [grok-bot-dispatch — Cursor skill for Primary / Role staffing](https://github.com/Xuzhen-Li/grok-bot-dispatch) - Cursor skill：起草 Primary 提示，让 Project 机器人留在 Unassigned，Role 机器人在共享池上接一次性任务。.
 
 ## 评测与对比
 
@@ -1488,6 +1493,7 @@
 - [setup-dida-bot — merge WeChat→Dida tasks and wake Grok Bot](https://github.com/dulk-dev/setup-dida-bot) - Node 守护进程：合并微信拆开的滴答任务、用生命周期标签认领，再 webhook 唤醒 Grok Bot 例程。.
 - [grok-coding-observatory — live replay of Grok Bot edits in the browser](https://github.com/Eeliya/grok-coding-observatory) - 本地 Node 工具：监视 git 仓库，把 Grok Bot（或其他智能体）每次保存以打字动画形式在浏览器回放。.
 - [grok-bot-film-kit — Remotion engine for personalized Bot pitch films](https://github.com/Speediing/grok-bot-film-kit) - 公开 Remotion 引擎与流程文档，用于定制 Grok Bot 推介片；仓库不含客户素材，可在笔记本或云代理上克隆渲染。.
+- [grok-bot-discord-bridge — Discord → sendPrompt wake path](https://github.com/matthew-rutledge-dev/grok-bot-discord-bridge) - 自托管 Discord Gateway 桥：经 sendPrompt 唤醒 Grok Bot，并把智能体回调帖回 Discord（默认拒绝授权模型）。.
 
 ## 社区与故障现场
 
@@ -1745,6 +1751,8 @@
 - [Forum: painting issues when switching Grok Bots](https://forum.cursor.com/t/grok-bot-has-weird-painting-issues-when-switching-bots/173549) - 界面缺陷：在桌面端切换 Grok Bot 时出现异常重绘/残影伪影。.
 - [Forum: “Hey Grok” wake-word equivalent request](https://forum.cursor.com/t/hey-grok-equivalent-for-hey-google-or-hey-siri-is-this-even-possible/173550) - 功能请求：希望 Grok Bot 有类似 Hey Google / Hey Siri 的免手动 “Hey Grok” 唤醒词。.
 - [Forum: how to share a custom MCP a Bot built with the team](https://forum.cursor.com/t/how-do-i-share-a-custom-mcp-that-one-of-my-bots-has-built-with-the-rest-of-my-team/173538) - 团队问答：如何把某个 Grok Bot 自建的自定义 MCP 发布给同事用（仅自己账号 vs 共享上架）。.
+- [Forum: multi-person / speaker-aware voice for Grok Bot](https://forum.cursor.com/t/multi-person-speaker-aware-voice-for-grok-bot-room-scribe-for-live-research-conversation/173569) - 功能请求：多人/说话人感知语音，让 Grok Bot 能在一对一语音之外担任现场调研会议室记录员。.
+- [Forum: Update needed ~4 times to reach latest computer image](https://forum.cursor.com/t/grok-bot-computer-update-needed-4-consecutive-update-presses-to-reach-latest-image/173562) - 缺陷报告：更新 Grok Bot 云电脑后仍反复提示 Update，大约要点四次才显示已是最新镜像。.
 
 ## 相关列表
 
@@ -2030,10 +2038,13 @@
 - [Openshard — receipts for AI coding agents including Grok Bot](https://github.com/openshard/openshard) - 本地“回执/审计”工具：记录编码智能体跑了什么、改了什么、验证与花费，覆盖 Grok Bot 与 Grok Build。.
 - [approval-box — human decisions back into the same AI session](https://github.com/kitepon/approval-box) - Approval Box：Claude Code/Codex/Cursor/Grok 等可在手机/网页请求人工决策，答案直接打回同一会话（无需轮询）。.
 - [aiusg — cross-provider usage table including Grok Bot](https://github.com/abnegate/aiusg) - 命令行一览 Claude/Codex/Gemini/Copilot/Grok Build/Grok Bot 等账号剩余额度与重置时间。.
+- [Erika — GrokBot README banner painter API](https://github.com/Moemu/Erika) - 为 GitHub 仓库绘制 GrokBot 风肖像 Banner 的 API 女仆（演示站 erika.snowy.moe）。.
+- [opendots — open-source OpenAI dots / Grok Bot alternative](https://github.com/milisp/opendots) - Tauri + Axum 个人智能体工作区，定位为开源 OpenAI dots / Grok Bot 替代（不同于 Anil-matcha/open-dots）。.
+- [oficina-grok-bots — browser 3D office of four Grok bots](https://github.com/robchvz97/oficina-grok-bots) - 浏览器 Three.js 三维办公室场景：四台具名 Grok Bot 同框，并附每台可粘贴提示。.
 
 ## 贡献
 
-目前 8 个分类、1920 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1930 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

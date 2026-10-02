@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1920-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1930-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -50,7 +50,6 @@
 - **Japan**（2）：[Sapporo](./EVENTS.md#spk-20261002) · [Tokyo](./EVENTS.md#tyo-20261011)
 - **Cambodia**（2）：[Phnom Penh](./EVENTS.md#pnh-20261003) · [Siem Reap](./EVENTS.md#srp-20261101)
 - **Kazakhstan**（2）：[Astana](./EVENTS.md#nqz-20261002) · [Almaty](./EVENTS.md#ala-20261004)
-- **Mexico**（2）：[Monterrey](./EVENTS.md#mty-20261003) · [Villahermosa](./EVENTS.md#vhs-20261001)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20261017)
 - **Argentina**（1）：[Mendoza](./EVENTS.md#mdz-20261003)
 - **Austria**（1）：[Vienna](./EVENTS.md#vie-20261031)
@@ -59,11 +58,13 @@
 - **Benin**（1）：[Cotonou](./EVENTS.md#coo-20261003)
 - **Côte d'Ivoire**（1）：[Abidjan](./EVENTS.md#abj-20261107)
 - **Colombia**（1）：[Pereira](./EVENTS.md#pei-20261002)
+- **Finland**（1）：[Helsinki](./EVENTS.md#hel-20261027)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
 - **Israel**（1）：[Tel Aviv](./EVENTS.md#tlv-20261019)
 - **Kenya**（1）：[Nairobi (Kenya Workshop)](./EVENTS.md#nbo-20261008)
 - **South Korea**（1）：[Seoul](./EVENTS.md#sel-20261027)
 - **Sri Lanka**（1）：[Colombo](./EVENTS.md#cmb-20261017)
+- **Mexico**（1）：[Monterrey](./EVENTS.md#mty-20261003)
 - **Nicaragua**（1）：[Managua](./EVENTS.md#mga-20261003)
 - **Norway**（1）：[Oslo](./EVENTS.md#osl-20261016)
 - **New Zealand**（1）：[Auckland](./EVENTS.md#akl-20261008)
@@ -481,6 +482,9 @@
 - [0xToji: Grok Bot trading agent mints its own meme coin](https://x.com/Yel0_22G/status/2105526443732308021) - Field case: a Grok Bot tasked only to trade memecoins autonomously launched its own token (VOXA) and grew a small stack overnight under a risk-review agent.
 - [poteto: gave my bot my brain — how I fix bugs now](https://x.com/poteto/status/2105576730413134291) - SpaceXAI eng lead shows handing a personal Grok Bot her context so it fixes bugs her way while she sleeps.
 - [mattyp: proactive Grok Bot catches missed Uber after flight change](https://x.com/mattyp/status/2105718647218200587) - mattyp’s Primary Bot example: after a flight change, Grok Bot noticed the Uber reservation was stale and pinged mid-connection (via Starlink) so it could be updated before landing.
+- [leetcode-clusters — LeetCode map created by Grok Bot](https://github.com/WilliamZhang20/leetcode-clusters) - Interactive bubble map of every LeetCode problem by shared tags—static site created by Grok Bot and published on GitHub Pages.
+- [personal-news-reader — PIN magazine refreshed by Grok Bot](https://github.com/scapp/personal-news-reader) - PIN-gated personal news magazine on GitHub Pages whose feed is refreshed on a schedule by Grok Bot.
+- [market-indicator — breadth gauge product of Grok Bot](https://github.com/gilsrubin-sys/market-indicator) - Browser market-breadth overbought/oversold gauge shipped as a product of Grok Bot (HTML + data.json dashboard).
 
 ## Skills, Plugins & MCP
 
@@ -1099,6 +1103,7 @@
 - [Prompt Studio MCP — prompt library for Grok Bot / Cursor](https://github.com/promptalchemy/prompt-studio-mcp) - Hosted Prompt Studio MCP install package: save and fetch prompts from your library inside Grok Bot, Cursor, Claude, and ChatGPT via OAuth.
 - [salesforce-mcp-app — render-only Salesforce cards for Grok Bot](https://github.com/mykkelol/salesforce-mcp-app) - Open-source render-only MCP App that shows Salesforce-like record/change/write cards inside Grok Bot, Dots, and Muse—no credentials or network calls.
 - [next-pr — Grok skill for one draft PR per change](https://github.com/skyhilam/next-pr) - Repo-agnostic Grok skill that opens one draft PR per code/copy/UI change, coding in a background subagent with open-pr/check-pr helpers.
+- [grok-bot-dispatch — Cursor skill for Primary / Role staffing](https://github.com/Xuzhen-Li/grok-bot-dispatch) - Cursor skill that drafts Primary prompts so Project bots stay Unassigned and Role bots take one-task assignments on a shared pool.
 
 ## Reviews & Comparisons
 
@@ -1488,6 +1493,7 @@
 - [setup-dida-bot — merge WeChat→Dida tasks and wake Grok Bot](https://github.com/dulk-dev/setup-dida-bot) - Node daemon that re-merges WeChat-split Dida checklist tasks, claims them with lifecycle tags, and POSTs a webhook to wake a Grok Bot routine.
 - [grok-coding-observatory — live replay of Grok Bot edits in the browser](https://github.com/Eeliya/grok-coding-observatory) - Local Node tool that watches a git repo and replays each Grok Bot (or other agent) save as a typed diff in the browser.
 - [grok-bot-film-kit — Remotion engine for personalized Bot pitch films](https://github.com/Speediing/grok-bot-film-kit) - Public Remotion engine and pipeline docs for personalized Grok Bot pitch films—no customer assets in-repo; clone and render on a laptop or cloud agent.
+- [grok-bot-discord-bridge — Discord → sendPrompt wake path](https://github.com/matthew-rutledge-dev/grok-bot-discord-bridge) - Self-hosted Discord Gateway bridge that wakes Grok Bot via sendPrompt and posts agent callbacks back to Discord with deny-by-default authz.
 
 ## Community & Failure Modes
 
@@ -1745,6 +1751,8 @@
 - [Forum: painting issues when switching Grok Bots](https://forum.cursor.com/t/grok-bot-has-weird-painting-issues-when-switching-bots/173549) - UI bug report: switching between Grok Bots leaves weird painting/artifact glitches in the desktop client.
 - [Forum: “Hey Grok” wake-word equivalent request](https://forum.cursor.com/t/hey-grok-equivalent-for-hey-google-or-hey-siri-is-this-even-possible/173550) - Feature ask for a hands-free “Hey Grok” wake word on Grok Bot, analogous to Hey Google / Hey Siri.
 - [Forum: how to share a custom MCP a Bot built with the team](https://forum.cursor.com/t/how-do-i-share-a-custom-mcp-that-one-of-my-bots-has-built-with-the-rest-of-my-team/173538) - Team question on publishing a custom MCP one Grok Bot built so teammates can use it (account-local vs shared listing).
+- [Forum: multi-person / speaker-aware voice for Grok Bot](https://forum.cursor.com/t/multi-person-speaker-aware-voice-for-grok-bot-room-scribe-for-live-research-conversation/173569) - Feature ask for room / speaker-aware voice so Grok Bot can scribe live multi-person research conversations beyond one-to-one voice.
+- [Forum: Update needed ~4 times to reach latest computer image](https://forum.cursor.com/t/grok-bot-computer-update-needed-4-consecutive-update-presses-to-reach-latest-image/173562) - Bug report: after updating a Grok Bot computer, Update keeps offering again—about four presses before the image shows current.
 
 ## Related Lists
 
@@ -2030,10 +2038,13 @@
 - [Openshard — receipts for AI coding agents including Grok Bot](https://github.com/openshard/openshard) - Local receipt/audit trail for what coding agents ran, changed, verified, and cost — including Grok Bot and Grok Build sessions.
 - [approval-box — human decisions back into the same AI session](https://github.com/kitepon/approval-box) - Approval Box lets Claude Code, Codex, Cursor, and Grok agents request decisions on phone/web and inject the answer into the same session without polling.
 - [aiusg — cross-provider usage table including Grok Bot](https://github.com/abnegate/aiusg) - CLI that prints remaining limits and reset times across Claude, Codex, Gemini, Copilot, Grok Build, and Grok Bot accounts in one table.
+- [Erika — GrokBot README banner painter API](https://github.com/Moemu/Erika) - API maid that paints GrokBot-style portrait banners for GitHub repos (live demo at erika.snowy.moe).
+- [opendots — open-source OpenAI dots / Grok Bot alternative](https://github.com/milisp/opendots) - Tauri + Axum personal agent workspace positioned as an open-source OpenAI dots and Grok Bot alternative (distinct from Anil-matcha/open-dots).
+- [oficina-grok-bots — browser 3D office of four Grok bots](https://github.com/robchvz97/oficina-grok-bots) - Browser Three.js scene of four named Grok bots in a shared 3D office, with paste-ready prompts per bot.
 
 ## Contributing
 
-1920 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1930 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

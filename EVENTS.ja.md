@@ -198,15 +198,6 @@
 <a id="ala-20261004"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/vod1qyrk"><img src="./assets/events/ala-20261004-cover.png" alt="Grok Bot Meetup アルマトイ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup アルマトイ</strong><br />2026-10-04（日） 14:00–17:00（Asia/Almaty、UTC+5）<br />カザフスタン・アルマトイ（オフライン；Luma は都市レベル、RSVP 後に会場案内）<br /><br />アルマトイ初の Grok Bot オフラインミートアップ（中央アジア＆コーカサス連続）。体験・デモ・交流。Luma 無料RSVP（slug vod1qyrk）。2026-09-18 にページ確認済み。<br /><br /><a href="https://luma.com/vod1qyrk"><strong>Luma で RSVP →</strong></a></td></tr></table>
 
-<a id="country-mx"></a>
-### メキシコ
-
-<a id="mty-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/5ohq71b3"><img src="./assets/events/mty-20261003-cover.png" alt="Grok Monterrey Hackathon" width="300" /></a></td><td valign="top"><strong>Grok Monterrey Hackathon</strong><br />2026-10-03（土）10:00–17:00（America/Monterrey）<br />メキシコ・モンテレイ — オフライン（詳細は Luma）<br /><br />Grok Monterrey Hackathon（SpaceXAI for Monterrey）。以前の mty-20260910 ミートアップとは別の当日ビルド枠。<br /><br /><a href="https://luma.com/5ohq71b3"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="vhs-20261001"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-chzd"><img src="./assets/events/vhs-20261001-cover.png" alt="Grok Bot Meetup ビヤエルモサ（10月）" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ビヤエルモサ（10月）</strong><br />2026-10-01（木）17:00–21:00（America/Mexico_City、UTC-06:00）<br />メキシコ・ビヤエルモサ · オフライン<br /><br />公式 SpaceXAI ビヤエルモサ。Cursor / Grok Bot ビルダー向けオフライン（10月版）。<br /><br /><a href="https://luma.com/spacexai-chzd"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
 <a id="country-al"></a>
 ### アルバニア
 
@@ -255,6 +246,12 @@
 <a id="pei-20261002"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-pereira-grokbot"><img src="./assets/events/pei-20261002-cover.png" alt="Grok Bot Meetup Pereira" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Pereira</strong><br />2026-10-02（金）14:00–17:30（America/Bogota）<br />コロンビア・ペレイラ · Universidad Autónoma de las Américas（Av. de las Américas #98-56）— オフライン<br /><br />SpaceXAI ペレイラの Grok Bot / AI ミートアップ（Universidad Autónoma de las Américas）。登壇者近日、コーヒー＆スナック。無料RSVP（朝スキャン guest_count 68）。slug spacexai-pereira-grokbot（旧 spacexai-1wgg は無効）。<br /><br /><a href="https://luma.com/spacexai-pereira-grokbot"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
+<a id="country-fi"></a>
+### フィンランド
+
+<a id="hel-20261027"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/aic-fi-10-27"><img src="./assets/events/hel-20261027-cover.png" alt="SpaceXAI Grok Bot — Breakfast & Build（ヘルシンキ）" width="300" /></a></td><td valign="top"><strong>SpaceXAI Grok Bot — Breakfast & Build（ヘルシンキ）</strong><br />2026-10-27（火）09:00–11:00（Europe/Helsinki、EET、UTC+2）<br />フィンランド・ヘルシンキ · Kamppi · オフライン（AI Collective Finland）<br /><br />AI Collective × SpaceXAI ヘルシンキの Grok Bot Breakfast & Build（Kamppi）。Luma aic-fi-10-27。昼スキャン guest_count 0。<br /><br /><a href="https://luma.com/aic-fi-10-27"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
 <a id="country-ie"></a>
 ### アイルランド
 
@@ -284,6 +281,12 @@
 
 <a id="cmb-20261017"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-cmb"><img src="./assets/events/cmb-20261017-cover.png" alt="Grok Bot Meetup コロンボ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup コロンボ</strong><br />2026-10-17（土）09:30–17:00（Asia/Colombo、UTC+5:30）<br />スリランカ・コロンボ · DHPL Auditorium（42 Nawam Mawatha, Colombo 2）— オフライン<br /><br />SpaceXAI コロンボ。スライド紹介・Grok Bot ライブデモ・Q&A・交流（DHPL Auditorium）。Luma で登録。<br /><br /><a href="https://luma.com/grokbot-cmb"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<a id="country-mx"></a>
+### メキシコ
+
+<a id="mty-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/5ohq71b3"><img src="./assets/events/mty-20261003-cover.png" alt="Grok Monterrey Hackathon" width="300" /></a></td><td valign="top"><strong>Grok Monterrey Hackathon</strong><br />2026-10-03（土）10:00–17:00（America/Monterrey）<br />メキシコ・モンテレイ — オフライン（詳細は Luma）<br /><br />Grok Monterrey Hackathon（SpaceXAI for Monterrey）。以前の mty-20260910 ミートアップとは別の当日ビルド枠。<br /><br /><a href="https://luma.com/5ohq71b3"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-ni"></a>
 ### ニカラグア

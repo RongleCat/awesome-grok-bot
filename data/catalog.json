@@ -3894,6 +3894,36 @@
             "zh": "mattyp 的 Primary Bot 案例：改签航班后，Grok Bot 发现 Uber 预约未更新，并在转机途中（Starlink）提醒，落地前改掉预约。",
             "ja": "mattyp の Primary Bot 例。フライト変更後、古いままの Uber 予約に気づき、乗り継ぎ中（Starlink）に通知して着陸前に直した。"
           }
+        },
+        {
+          "title": "leetcode-clusters — LeetCode map created by Grok Bot",
+          "url": "https://github.com/WilliamZhang20/leetcode-clusters",
+          "source": "GB-1949",
+          "blurb": {
+            "en": "Interactive bubble map of every LeetCode problem by shared tags—static site created by Grok Bot and published on GitHub Pages.",
+            "zh": "按共享标签排布的全量 LeetCode 气泡图静态站，由 Grok Bot 创建并发布到 GitHub Pages。",
+            "ja": "タグ類似度で全 LeetCode 問題をバブル配置した静的サイト。Grok Bot が作成し GitHub Pages 公開。"
+          }
+        },
+        {
+          "title": "personal-news-reader — PIN magazine refreshed by Grok Bot",
+          "url": "https://github.com/scapp/personal-news-reader",
+          "source": "GB-1950",
+          "blurb": {
+            "en": "PIN-gated personal news magazine on GitHub Pages whose feed is refreshed on a schedule by Grok Bot.",
+            "zh": "GitHub Pages 上的 PIN 个人杂志站，信息流由 Grok Bot 按日程刷新。",
+            "ja": "GitHub Pages の PIN 付き個人ニュース誌。フィードを Grok Bot がスケジュール更新。"
+          }
+        },
+        {
+          "title": "market-indicator — breadth gauge product of Grok Bot",
+          "url": "https://github.com/gilsrubin-sys/market-indicator",
+          "source": "GB-1951",
+          "blurb": {
+            "en": "Browser market-breadth overbought/oversold gauge shipped as a product of Grok Bot (HTML + data.json dashboard).",
+            "zh": "浏览器端市场宽度超买/超卖仪表盘，自称由 Grok Bot 打造（HTML + data.json）。",
+            "ja": "市場の買われ過ぎ/売られ過ぎゲージ。Grok Bot 製と銘打った HTML + data.json ダッシュボード。"
+          }
         }
       ]
     },
@@ -10054,6 +10084,16 @@
             "zh": "与具体仓库无关的 Grok skill：每次代码/文案/UI 改动开一个 draft PR，后台子代理写码，并带 open-pr/check-pr 脚本。",
             "ja": "リポジトリ非依存の Grok skill。変更ごとに draft PR を1つ開き、背景サブエージェントで実装。open-pr/check-pr 付き。"
           }
+        },
+        {
+          "title": "grok-bot-dispatch — Cursor skill for Primary / Role staffing",
+          "url": "https://github.com/Xuzhen-Li/grok-bot-dispatch",
+          "source": "GB-1945",
+          "blurb": {
+            "en": "Cursor skill that drafts Primary prompts so Project bots stay Unassigned and Role bots take one-task assignments on a shared pool.",
+            "zh": "Cursor skill：起草 Primary 提示，让 Project 机器人留在 Unassigned，Role 机器人在共享池上接一次性任务。",
+            "ja": "Cursor skill。Primary 用プロンプトを書き、Project は Unassigned、Role は共有プールで単発タスクを受け持つ。"
+          }
         }
       ]
     },
@@ -13904,6 +13944,16 @@
             "zh": "公开 Remotion 引擎与流程文档，用于定制 Grok Bot 推介片；仓库不含客户素材，可在笔记本或云代理上克隆渲染。",
             "ja": "パーソナライズ Grok Bot ピッチ影片向けの公開 Remotion エンジンと手順。顧客素材は含まず、ノートPCやクラウドエージェントでレンダ。"
           }
+        },
+        {
+          "title": "grok-bot-discord-bridge — Discord → sendPrompt wake path",
+          "url": "https://github.com/matthew-rutledge-dev/grok-bot-discord-bridge",
+          "source": "GB-1946",
+          "blurb": {
+            "en": "Self-hosted Discord Gateway bridge that wakes Grok Bot via sendPrompt and posts agent callbacks back to Discord with deny-by-default authz.",
+            "zh": "自托管 Discord Gateway 桥：经 sendPrompt 唤醒 Grok Bot，并把智能体回调帖回 Discord（默认拒绝授权模型）。",
+            "ja": "自前ホストの Discord Gateway 橋。sendPrompt で Grok Bot を起こし、コールバックを Discord へ返す（デフォルト拒否の認可）。"
+          }
         }
       ]
     },
@@ -16453,6 +16503,26 @@
             "en": "Team question on publishing a custom MCP one Grok Bot built so teammates can use it (account-local vs shared listing).",
             "zh": "团队问答：如何把某个 Grok Bot 自建的自定义 MCP 发布给同事用（仅自己账号 vs 共享上架）。",
             "ja": "チーム向け質問。Bot が作ったカスタム MCP を同僚と共有する公開手順（自分だけ vs 共有掲載）。"
+          }
+        },
+        {
+          "title": "Forum: multi-person / speaker-aware voice for Grok Bot",
+          "url": "https://forum.cursor.com/t/multi-person-speaker-aware-voice-for-grok-bot-room-scribe-for-live-research-conversation/173569",
+          "source": "GB-1953",
+          "blurb": {
+            "en": "Feature ask for room / speaker-aware voice so Grok Bot can scribe live multi-person research conversations beyond one-to-one voice.",
+            "zh": "功能请求：多人/说话人感知语音，让 Grok Bot 能在一对一语音之外担任现场调研会议室记录员。",
+            "ja": "機能要望。多人数/話者分離ボイスで、1対1以外のライブ調査会話を Grok Bot が書記できるように。"
+          }
+        },
+        {
+          "title": "Forum: Update needed ~4 times to reach latest computer image",
+          "url": "https://forum.cursor.com/t/grok-bot-computer-update-needed-4-consecutive-update-presses-to-reach-latest-image/173562",
+          "source": "GB-1954",
+          "blurb": {
+            "en": "Bug report: after updating a Grok Bot computer, Update keeps offering again—about four presses before the image shows current.",
+            "zh": "缺陷报告：更新 Grok Bot 云电脑后仍反复提示 Update，大约要点四次才显示已是最新镜像。",
+            "ja": "不具合報告。Grok Bot コンピュータ更新後も Update が再提示され、最新イメージ表示まで約4回押す必要。"
           }
         }
       ]
@@ -19283,6 +19353,36 @@
             "en": "CLI that prints remaining limits and reset times across Claude, Codex, Gemini, Copilot, Grok Build, and Grok Bot accounts in one table.",
             "zh": "命令行一览 Claude/Codex/Gemini/Copilot/Grok Build/Grok Bot 等账号剩余额度与重置时间。",
             "ja": "Claude / Codex / Gemini / Copilot / Grok Build / Grok Bot の残量とリセットを一表で出す CLI。"
+          }
+        },
+        {
+          "title": "Erika — GrokBot README banner painter API",
+          "url": "https://github.com/Moemu/Erika",
+          "source": "GB-1947",
+          "blurb": {
+            "en": "API maid that paints GrokBot-style portrait banners for GitHub repos (live demo at erika.snowy.moe).",
+            "zh": "为 GitHub 仓库绘制 GrokBot 风肖像 Banner 的 API 女仆（演示站 erika.snowy.moe）。",
+            "ja": "GitHub リポジトリ向けに GrokBot 風バナーを描く API（デモ erika.snowy.moe）。"
+          }
+        },
+        {
+          "title": "opendots — open-source OpenAI dots / Grok Bot alternative",
+          "url": "https://github.com/milisp/opendots",
+          "source": "GB-1948",
+          "blurb": {
+            "en": "Tauri + Axum personal agent workspace positioned as an open-source OpenAI dots and Grok Bot alternative (distinct from Anil-matcha/open-dots).",
+            "zh": "Tauri + Axum 个人智能体工作区，定位为开源 OpenAI dots / Grok Bot 替代（不同于 Anil-matcha/open-dots）。",
+            "ja": "Tauri + Axum の個人エージェント作業場。OpenAI dots / Grok Bot のオープン代替（Anil-matcha/open-dots とは別）。"
+          }
+        },
+        {
+          "title": "oficina-grok-bots — browser 3D office of four Grok bots",
+          "url": "https://github.com/robchvz97/oficina-grok-bots",
+          "source": "GB-1952",
+          "blurb": {
+            "en": "Browser Three.js scene of four named Grok bots in a shared 3D office, with paste-ready prompts per bot.",
+            "zh": "浏览器 Three.js 三维办公室场景：四台具名 Grok Bot 同框，并附每台可粘贴提示。",
+            "ja": "ブラウザ Three.js の 3D オフィス。名前付き Grok Bot 4 体と各 Bot 用ペースト文。"
           }
         }
       ]
@@ -26536,6 +26636,37 @@
         "en": "SpaceXAI GrokBot Job Night in Atlanta (Klaus building). Free approval ticket; guest_count 27 at morning scan. Luma enjt7lt8. Distinct from atl-20261016 KSU engineers meetup.",
         "zh": "SpaceXAI 亚特兰大 GrokBot Job Night（Klaus 楼）。免费需审批；早间扫描 guest_count 27。Luma enjt7lt8。勿与 atl-20261016 KSU 工程师场混淆。",
         "ja": "アトランタの SpaceXAI GrokBot Job Night（Klaus 棟）。無料・承認制。朝スキャン guest_count 27。Luma enjt7lt8。atl-20261016 KSU 回とは別。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "hel-20261027",
+      "url": "https://luma.com/aic-fi-10-27",
+      "image": "./assets/events/hel-20261027-cover.png",
+      "expires": "2026-10-27T11:00:00+02:00",
+      "title": {
+        "en": "SpaceXAI Grok Bot — Breakfast & Build Helsinki",
+        "zh": "SpaceXAI Grok Bot：Breakfast & Build（赫尔辛基）",
+        "ja": "SpaceXAI Grok Bot — Breakfast & Build（ヘルシンキ）"
+      },
+      "when": {
+        "en": "Tue 27 Oct 2026, 09:00–11:00 (Europe/Helsinki, EET, UTC+2)",
+        "zh": "2026-10-27 周二 09:00–11:00（Europe/Helsinki，EET，UTC+2）",
+        "ja": "2026-10-27（火）09:00–11:00（Europe/Helsinki、EET、UTC+2）"
+      },
+      "where": {
+        "en": "Helsinki, Finland · Kamppi · offline (AI Collective Finland)",
+        "zh": "芬兰赫尔辛基 · Kamppi · 线下（AI Collective Finland）",
+        "ja": "フィンランド・ヘルシンキ · Kamppi · オフライン（AI Collective Finland）"
+      },
+      "body": {
+        "en": "AI Collective × SpaceXAI Breakfast & Build on Grok Bot in Helsinki (Kamppi). Luma aic-fi-10-27; guest_count 0 at midday scan.",
+        "zh": "AI Collective × SpaceXAI 赫尔辛基 Grok Bot Breakfast & Build（Kamppi）。Luma aic-fi-10-27；午间扫描 guest_count 0。",
+        "ja": "AI Collective × SpaceXAI ヘルシンキの Grok Bot Breakfast & Build（Kamppi）。Luma aic-fi-10-27。昼スキャン guest_count 0。"
       },
       "cta": {
         "en": "Register on Luma",

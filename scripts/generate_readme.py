@@ -231,6 +231,7 @@ COUNTRY_LABEL = {
     "pk": {"en": "Pakistan", "zh": "巴基斯坦", "ja": "パキスタン"},
     "gr": {"en": "Greece", "zh": "希腊", "ja": "ギリシャ"},
     "no": {"en": "Norway", "zh": "挪威", "ja": "ノルウェー"},
+    "fi": {"en": "Finland", "zh": "芬兰", "ja": "フィンランド"},
     "ci": {"en": "Côte d'Ivoire", "zh": "科特迪瓦", "ja": "コートジボワール"},
     "lk": {"en": "Sri Lanka", "zh": "斯里兰卡", "ja": "スリランカ"},
     "rw": {"en": "Rwanda", "zh": "卢旺达", "ja": "ルワンダ"},
@@ -480,6 +481,7 @@ EVENT_GEO = {
     "nbo-20261008": ("ke", "Nairobi (Kenya Workshop)", "内罗毕（肯尼亚工作坊）", "ナイロビ（Kenya Workshop）"),
     "uio-20261021": ("ec", "Quito", "基多", "キト"),
     "atl-20261008": ("us", "Atlanta (Job Night)", "亚特兰大（Job Night）", "アトランタ（Job Night）"),
+    "hel-20261027": ("fi", "Helsinki", "赫尔辛基", "ヘルシンキ"),
 }
 
 
