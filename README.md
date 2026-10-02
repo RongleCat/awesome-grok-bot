@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1930-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1937-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1104,6 +1104,13 @@
 - [salesforce-mcp-app — render-only Salesforce cards for Grok Bot](https://github.com/mykkelol/salesforce-mcp-app) - Open-source render-only MCP App that shows Salesforce-like record/change/write cards inside Grok Bot, Dots, and Muse—no credentials or network calls.
 - [next-pr — Grok skill for one draft PR per change](https://github.com/skyhilam/next-pr) - Repo-agnostic Grok skill that opens one draft PR per code/copy/UI change, coding in a background subagent with open-pr/check-pr helpers.
 - [grok-bot-dispatch — Cursor skill for Primary / Role staffing](https://github.com/Xuzhen-Li/grok-bot-dispatch) - Cursor skill that drafts Primary prompts so Project bots stay Unassigned and Role bots take one-task assignments on a shared pool.
+- [Fresh Eyes Product Auditor — Grok Bot template (Ev)](https://x.ai/bot/jASNu2J_6nCtKvKf4v_Sd) - Public Grok Bot template that walks your site or app as a brand-new customer, ranks top UX fixes with what it saw, and mocks concrete improvements.
+- [Crypto Buddy — Grok Bot research template (Joe)](https://x.ai/bot/TSgExceGHVJN9U2E4-_23) - Public Grok Bot template: send a crypto ticker and get sourced metrics, a plain-English tape read, a scored research gauge, and five static images—research only, never trade advice.
+- [The Page — Grok Bot change-watch template (Hiten)](https://x.ai/bot/uFRK1GoAsiopBLPY19QCe) - Public Grok Bot template that checks 3–5 public pages once each morning and messages only when the watched detail actually changed.
+- [When It Matters — Grok Bot watch template (Hiten)](https://x.ai/bot/BqrH8_GNQvSYV-gcmJnd8) - Public Grok Bot template that figures out what would change your answer, keeps watch, and messages only when it matters—or finds unfinished stories already in your attention.
+- [grok-bot-supercomputer — persistent Debian/Incus on Bot Computer](https://github.com/woodegg/grok-bot-supercomputer) - Agent playbook to boot persistent Debian and Incus guests under Grok Bot Computer with systemd, supervised services, and workspace-backed recovery after resets.
+- [grok-bot-academy — multi-bot tutoring loop (Profil + profs)](https://github.com/mathDBC/grok-bot-academy) - Prototype Grok Bot tutoring loop: a Profil bot tracks levels while Math/Tux/Sec/Lang prof bots teach, report back, and adapt the next session from a shared profile.
+- [whop-ecom-grok-bots — five Whop store ops templates](https://github.com/colinmcdermott/whop-ecom-grok-bots) - Five paste-ready Grok Bot templates for a physical-goods Whop store—build, migrate, ads, order desk, and customer care—with approval gates before spend or customer contact.
 
 ## Reviews & Comparisons
 
@@ -2044,7 +2051,7 @@
 
 ## Contributing
 
-1930 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1937 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

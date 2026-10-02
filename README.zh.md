@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1930-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1937-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1104,6 +1104,13 @@
 - [salesforce-mcp-app — render-only Salesforce cards for Grok Bot](https://github.com/mykkelol/salesforce-mcp-app) - 开源、仅渲染的 MCP App：在 Grok Bot/Dots/Muse 里展示 Salesforce 风格记录/变更/写入卡片，不含凭证、不发网络请求。.
 - [next-pr — Grok skill for one draft PR per change](https://github.com/skyhilam/next-pr) - 与具体仓库无关的 Grok skill：每次代码/文案/UI 改动开一个 draft PR，后台子代理写码，并带 open-pr/check-pr 脚本。.
 - [grok-bot-dispatch — Cursor skill for Primary / Role staffing](https://github.com/Xuzhen-Li/grok-bot-dispatch) - Cursor skill：起草 Primary 提示，让 Project 机器人留在 Unassigned，Role 机器人在共享池上接一次性任务。.
+- [Fresh Eyes Product Auditor — Grok Bot template (Ev)](https://x.ai/bot/jASNu2J_6nCtKvKf4v_Sd) - 可分享的 Grok Bot 模板：以全新顾客视角走查站点或应用，按所见排序关键 UX 修复并给出可落地改稿。.
+- [Crypto Buddy — Grok Bot research template (Joe)](https://x.ai/bot/TSgExceGHVJN9U2E4-_23) - 可分享的 Grok Bot 模板：输入加密货币代码即可得到有出处指标、白话盘面解读、评分研究仪表与五张静态图；仅研究、不给买卖建议。.
+- [The Page — Grok Bot change-watch template (Hiten)](https://x.ai/bot/uFRK1GoAsiopBLPY19QCe) - 可分享的 Grok Bot 模板：每天早晨检查 3–5 个公开页面，仅在你关心的内容真正变化时发消息。.
+- [When It Matters — Grok Bot watch template (Hiten)](https://x.ai/bot/BqrH8_GNQvSYV-gcmJnd8) - 可分享的 Grok Bot 模板：弄清什么会改变你的判断并持续盯梢，只在真正要紧时提醒；也可从你已关注的线索里找出未完故事。.
+- [grok-bot-supercomputer — persistent Debian/Incus on Bot Computer](https://github.com/woodegg/grok-bot-supercomputer) - 在 Grok Bot 云电脑上启动持久 Debian/Incus 访客的代理手册：systemd、受监督服务，以及基于 /workspace 的重置后恢复。.
+- [grok-bot-academy — multi-bot tutoring loop (Profil + profs)](https://github.com/mathDBC/grok-bot-academy) - Grok Bot 辅导原型：Profil 机器人跟踪水平，Math/Tux/Sec/Lang 教授机器人授课、回写报告，并依据共享档案调整下一节课。.
+- [whop-ecom-grok-bots — five Whop store ops templates](https://github.com/colinmcdermott/whop-ecom-grok-bots) - 面向 Whop 实体商品店的五套可粘贴 Grok Bot 模板（建店、迁移、广告、订单台、客服），花钱或联系客户前需你在对话中批准。.
 
 ## 评测与对比
 
@@ -2044,7 +2051,7 @@
 
 ## 贡献
 
-目前 8 个分类、1930 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1937 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

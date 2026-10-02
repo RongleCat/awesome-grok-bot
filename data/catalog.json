@@ -10094,6 +10094,76 @@
             "zh": "Cursor skill：起草 Primary 提示，让 Project 机器人留在 Unassigned，Role 机器人在共享池上接一次性任务。",
             "ja": "Cursor skill。Primary 用プロンプトを書き、Project は Unassigned、Role は共有プールで単発タスクを受け持つ。"
           }
+        },
+        {
+          "title": "Fresh Eyes Product Auditor — Grok Bot template (Ev)",
+          "url": "https://x.ai/bot/jASNu2J_6nCtKvKf4v_Sd",
+          "source": "GB-1955",
+          "blurb": {
+            "en": "Public Grok Bot template that walks your site or app as a brand-new customer, ranks top UX fixes with what it saw, and mocks concrete improvements.",
+            "zh": "可分享的 Grok Bot 模板：以全新顾客视角走查站点或应用，按所见排序关键 UX 修复并给出可落地改稿。.",
+            "ja": "共有可能な Grok Bot テンプレ。新規顧客としてサイト／アプリを歩き、見た内容で UX 修正を順位付けし具体案をモックする。."
+          }
+        },
+        {
+          "title": "Crypto Buddy — Grok Bot research template (Joe)",
+          "url": "https://x.ai/bot/TSgExceGHVJN9U2E4-_23",
+          "source": "GB-1956",
+          "blurb": {
+            "en": "Public Grok Bot template: send a crypto ticker and get sourced metrics, a plain-English tape read, a scored research gauge, and five static images—research only, never trade advice.",
+            "zh": "可分享的 Grok Bot 模板：输入加密货币代码即可得到有出处指标、白话盘面解读、评分研究仪表与五张静态图；仅研究、不给买卖建议。.",
+            "ja": "共有可能な Grok Bot テンプレ。ティッカーを送ると出典付き指標・平易なテープ読み・スコア付きゲージ・静止画 5 枚。研究のみで売買助言なし。."
+          }
+        },
+        {
+          "title": "The Page — Grok Bot change-watch template (Hiten)",
+          "url": "https://x.ai/bot/uFRK1GoAsiopBLPY19QCe",
+          "source": "GB-1957",
+          "blurb": {
+            "en": "Public Grok Bot template that checks 3–5 public pages once each morning and messages only when the watched detail actually changed.",
+            "zh": "可分享的 Grok Bot 模板：每天早晨检查 3–5 个公开页面，仅在你关心的内容真正变化时发消息。.",
+            "ja": "共有可能な Grok Bot テンプレ。毎朝 3～5 の公開ページを確認し、監視対象が実際に変わったときだけ連絡する。."
+          }
+        },
+        {
+          "title": "When It Matters — Grok Bot watch template (Hiten)",
+          "url": "https://x.ai/bot/BqrH8_GNQvSYV-gcmJnd8",
+          "source": "GB-1958",
+          "blurb": {
+            "en": "Public Grok Bot template that figures out what would change your answer, keeps watch, and messages only when it matters—or finds unfinished stories already in your attention.",
+            "zh": "可分享的 Grok Bot 模板：弄清什么会改变你的判断并持续盯梢，只在真正要紧时提醒；也可从你已关注的线索里找出未完故事。.",
+            "ja": "共有可能な Grok Bot テンプレ。答えが変わる条件を見極め監視し、本当に重要なときだけ連絡。注意下の未完の話も見つけられる。."
+          }
+        },
+        {
+          "title": "grok-bot-supercomputer — persistent Debian/Incus on Bot Computer",
+          "url": "https://github.com/woodegg/grok-bot-supercomputer",
+          "source": "GB-1959",
+          "blurb": {
+            "en": "Agent playbook to boot persistent Debian and Incus guests under Grok Bot Computer with systemd, supervised services, and workspace-backed recovery after resets.",
+            "zh": "在 Grok Bot 云电脑上启动持久 Debian/Incus 访客的代理手册：systemd、受监督服务，以及基于 /workspace 的重置后恢复。.",
+            "ja": "Grok Bot Computer 上で永続 Debian／Incus ゲストを systemd 付きで起動するプレイブック。監視サービスと /workspace 復旧あり。."
+          }
+        },
+        {
+          "title": "grok-bot-academy — multi-bot tutoring loop (Profil + profs)",
+          "url": "https://github.com/mathDBC/grok-bot-academy",
+          "source": "GB-1960",
+          "blurb": {
+            "en": "Prototype Grok Bot tutoring loop: a Profil bot tracks levels while Math/Tux/Sec/Lang prof bots teach, report back, and adapt the next session from a shared profile.",
+            "zh": "Grok Bot 辅导原型：Profil 机器人跟踪水平，Math/Tux/Sec/Lang 教授机器人授课、回写报告，并依据共享档案调整下一节课。.",
+            "ja": "Grok Bot 学習ループの試作。Profil がレベルを管理し、Math／Tux／Sec／Lang の教授 Bot が共有プロファイルで次回を調整する。."
+          }
+        },
+        {
+          "title": "whop-ecom-grok-bots — five Whop store ops templates",
+          "url": "https://github.com/colinmcdermott/whop-ecom-grok-bots",
+          "source": "GB-1961",
+          "blurb": {
+            "en": "Five paste-ready Grok Bot templates for a physical-goods Whop store—build, migrate, ads, order desk, and customer care—with approval gates before spend or customer contact.",
+            "zh": "面向 Whop 实体商品店的五套可粘贴 Grok Bot 模板（建店、迁移、广告、订单台、客服），花钱或联系客户前需你在对话中批准。.",
+            "ja": "Whop の実物販売向け Grok Bot テンプレ 5 種（構築・移行・広告・受注・カスタマーケア）。支出や顧客連絡は承認ゲート付き。."
+          }
         }
       ]
     },

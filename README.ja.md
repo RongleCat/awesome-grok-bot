@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1930-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1937-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1104,6 +1104,13 @@
 - [salesforce-mcp-app — render-only Salesforce cards for Grok Bot](https://github.com/mykkelol/salesforce-mcp-app) - 描画専用の OSS MCP App。Grok Bot / Dots / Muse 内に Salesforce 風カードを出す。認証情報もネットワークも不要。
 - [next-pr — Grok skill for one draft PR per change](https://github.com/skyhilam/next-pr) - リポジトリ非依存の Grok skill。変更ごとに draft PR を1つ開き、背景サブエージェントで実装。open-pr/check-pr 付き。
 - [grok-bot-dispatch — Cursor skill for Primary / Role staffing](https://github.com/Xuzhen-Li/grok-bot-dispatch) - Cursor skill。Primary 用プロンプトを書き、Project は Unassigned、Role は共有プールで単発タスクを受け持つ。
+- [Fresh Eyes Product Auditor — Grok Bot template (Ev)](https://x.ai/bot/jASNu2J_6nCtKvKf4v_Sd) - 共有可能な Grok Bot テンプレ。新規顧客としてサイト／アプリを歩き、見た内容で UX 修正を順位付けし具体案をモックする。
+- [Crypto Buddy — Grok Bot research template (Joe)](https://x.ai/bot/TSgExceGHVJN9U2E4-_23) - 共有可能な Grok Bot テンプレ。ティッカーを送ると出典付き指標・平易なテープ読み・スコア付きゲージ・静止画 5 枚。研究のみで売買助言なし。
+- [The Page — Grok Bot change-watch template (Hiten)](https://x.ai/bot/uFRK1GoAsiopBLPY19QCe) - 共有可能な Grok Bot テンプレ。毎朝 3～5 の公開ページを確認し、監視対象が実際に変わったときだけ連絡する。
+- [When It Matters — Grok Bot watch template (Hiten)](https://x.ai/bot/BqrH8_GNQvSYV-gcmJnd8) - 共有可能な Grok Bot テンプレ。答えが変わる条件を見極め監視し、本当に重要なときだけ連絡。注意下の未完の話も見つけられる。
+- [grok-bot-supercomputer — persistent Debian/Incus on Bot Computer](https://github.com/woodegg/grok-bot-supercomputer) - Grok Bot Computer 上で永続 Debian／Incus ゲストを systemd 付きで起動するプレイブック。監視サービスと /workspace 復旧あり。
+- [grok-bot-academy — multi-bot tutoring loop (Profil + profs)](https://github.com/mathDBC/grok-bot-academy) - Grok Bot 学習ループの試作。Profil がレベルを管理し、Math／Tux／Sec／Lang の教授 Bot が共有プロファイルで次回を調整する。
+- [whop-ecom-grok-bots — five Whop store ops templates](https://github.com/colinmcdermott/whop-ecom-grok-bots) - Whop の実物販売向け Grok Bot テンプレ 5 種（構築・移行・広告・受注・カスタマーケア）。支出や顧客連絡は承認ゲート付き。
 
 ## レビューと比較
 
@@ -2044,7 +2051,7 @@
 
 ## 貢献
 
-8 セクションに 1930 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1937 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
