@@ -3974,6 +3974,26 @@
             "zh": "危地马拉 Meetup 工坊：队长 Bot Lionel 拉起 Di María/Riquelme/Julián，用技能找餐厅线索、演示落地页并起草邮件（不发送）。",
             "ja": "Guatemala Meetup 向け。キャプテン Bot Lionel が Di María／Riquelme／Julián を組み、リード探し・ランディングデモ・メール下書き（送信なし）。"
           }
+        },
+        {
+          "title": "mijn-bots — iPhone PWA for Grok Bot update posts",
+          "url": "https://github.com/michaelhofsteenge-art/mijn-bots",
+          "source": "GB-1993",
+          "blurb": {
+            "en": "Dutch iPhone PWA with one big button per Grok Bot assistant to read the latest (and prior) update posts offline-friendly.",
+            "zh": "荷兰语 iPhone PWA：每个 Grok Bot 助手一颗大按钮，离线友好地阅读最新及历史更新帖。",
+            "ja": "オランダ語 iPhone PWA。Grok Bot 助手ごとに大きなボタンで最新／過去の更新投稿をオフライン寄りに読む。"
+          }
+        },
+        {
+          "title": "falcon-eye — 3D falcon stoop game made by Grok Bot",
+          "url": "https://github.com/frank-otto/falcon-eye",
+          "source": "GB-1994",
+          "blurb": {
+            "en": "Single-file playable three.js peregrine stoop game published as a Grok Bot build artifact (GitHub Pages).",
+            "zh": "单文件可玩 three.js 游隼俯冲击游戏，作为 Grok Bot 构建产物发布（GitHub Pages）。",
+            "ja": "Grok Bot 製の単一 HTML three.js ハヤブサ急降下ゲーム（GitHub Pages 公開）。"
+          }
         }
       ]
     },
@@ -10344,6 +10364,16 @@
             "zh": "LimaCharlie 官方 Cursor/Grok Bot 插件：OAuth 接入托管 MCP，按登录组织权限在对话中跑安全工作流。",
             "ja": "LimaCharlie 公式 Cursor/Grok Bot プラグイン。ホスト MCP へ OAuth し、組織権限の下でセキュリティワークフローを実行。"
           }
+        },
+        {
+          "title": "bot-store-agent-plugin — bot.store marketplace skill for Grok Bot",
+          "url": "https://github.com/Humanleap/bot-store-agent-plugin",
+          "source": "GB-1990",
+          "blurb": {
+            "en": "Grok Bot marketplace skill (.grok-plugin) that finds bot.store templates, compares live listings, and hands off Stripe checkout for a user-chosen bot.",
+            "zh": "带 .grok-plugin 的 Grok Bot 市场技能：检索 bot.store 模板、对比在架商品，并为用户选中的 Bot 交接 Stripe 结账。",
+            "ja": ".grok-plugin 付き Grok Bot スキル。bot.store テンプレ検索・公開一覧の比較・選んだ Bot の Stripe チェックアウト引き渡し。"
+          }
         }
       ]
     },
@@ -14244,6 +14274,16 @@
             "zh": "Windows 配套工具：修补 Grok Desktop（Electron），点关闭时最小化到系统托盘而不是退出 Grok Bot。",
             "ja": "Windows 用。Grok Desktop（Electron）の閉じる操作を終了ではなくシステムトレイ最小化にするパッチ／コンパニオン。"
           }
+        },
+        {
+          "title": "latch-mac-local-exec-self-heal — Grok Bot Mac LaunchAgent healer",
+          "url": "https://github.com/wildcard/latch-mac-local-exec-self-heal",
+          "source": "GB-1991",
+          "blurb": {
+            "en": "macOS LaunchAgent that relaunches Grok Bot when local-exec heartbeats go stale or bootOutcome is not ready (does not see cloud connect).",
+            "zh": "macOS LaunchAgent：在本地执行心跳过期或 bootOutcome 非 ready 时温和重启 Grok Bot（看不到云端连接状态）。",
+            "ja": "macOS LaunchAgent。local-exec 心拍の停滞や bootOutcome 非 ready 時に Grok Bot を穏やかに再起動（クラウド接続は見ない）。"
+          }
         }
       ]
     },
@@ -16863,6 +16903,46 @@
             "en": "Staff clarification: a clean computer reset keeps bots, chats, memories, routines, connectors, and settings; it wipes only box files, installed packages, and browser logins on the cloud PC.",
             "zh": "官方澄清：干净重置云电脑会保留 Bot、聊天、记忆、例程、连接器与设置；只会清掉电脑上的文件、已装软件和浏览器登录态。",
             "ja": "公式の整理：クリーンなコンピュータリセットは Bot・チャット・メモリ・ルーチン・コネクタ・設定を保持し、消えるのはクラウド PC 上のファイル・導入パッケージ・ブラウザログインのみ。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bots failing to respond again",
+          "url": "https://forum.cursor.com/t/grok-bots-failing-to-respond-again/173658",
+          "source": "GB-1995",
+          "blurb": {
+            "en": "Active forum outage thread: multiple users report Grok Bots again failing to respond, with staff investigation and workarounds.",
+            "zh": "论坛故障帖：多名用户再次反馈 Grok Bot 无响应，含官方排查与变通办法。",
+            "ja": "フォーラム障害スレ。複数ユーザーが再び Grok Bot 無応答を報告し、公式調査と回避策あり。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot computer reprovisioned 126GB→16GB full",
+          "url": "https://forum.cursor.com/t/grok-bot-computer-reprovisioned-from-126gb-to-16gb-and-immediately-100-full-ticket-t-g55930/173656",
+          "source": "GB-1996",
+          "blurb": {
+            "en": "Report that a Grok Bot cloud PC was reprovisioned from ~126GB to 16GB and immediately hit 100% disk (ticket T-G55930).",
+            "zh": "反馈 Grok Bot 云电脑从约 126GB 被重新配置成 16GB 并立刻磁盘 100% 满（工单 T-G55930）。",
+            "ja": "Grok Bot クラウド PC が約 126GB から 16GB へ再プロビジョニングされ即ディスク 100%（チケット T-G55930）。"
+          }
+        },
+        {
+          "title": "Forum: Stuck GrokBot — need a runner restart?",
+          "url": "https://forum.cursor.com/t/stuck-grokbot-need-a-runner-restart/173665",
+          "source": "GB-1997",
+          "blurb": {
+            "en": "Single-bot hang while siblings stay fine; asks whether a runner restart is needed for one stuck Grok Bot id.",
+            "zh": "同账号其他 Bot 正常、单只 Bot 卡死；询问是否需要对该 Grok Bot id 做 runner 重启。",
+            "ja": "他 Bot は正常なのに 1 体だけ無応答。該当 Grok Bot id の runner 再起動が必要か問い合わせ。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot Finance (Plaid) verification codes never arrive",
+          "url": "https://forum.cursor.com/t/grok-bot-finance-plaid-bank-verification-codes-never-arrive-two-institutions/173651",
+          "source": "GB-1998",
+          "blurb": {
+            "en": "Plaid bank-link flow inside Grok Bot Finance never delivers verification codes for two institutions.",
+            "zh": "Grok Bot Finance 经 Plaid 绑银行时，两家机构的验证码始终收不到。",
+            "ja": "Grok Bot Finance の Plaid 銀行連携で、2 機関とも認証コードが届かない報告。"
           }
         }
       ]
@@ -19733,6 +19813,16 @@
             "en": "Open-source local messenger swarm powered by Claude Code—an alternative to OpenAI Dots and xAI Grok Bot with per-bot roles, memory, and git worktrees.",
             "zh": "开源本机即时通讯多智能体（Claude Code 驱动），对标 OpenAI Dots 与 xAI Grok Bot：每 Bot 角色/记忆与独立 git worktree。",
             "ja": "Claude Code 駆動のローカルメッセンジャー型スウォーム。OpenAI Dots／xAI Grok Bot 系の代替で、役割・記憶・git worktree 付き。"
+          }
+        },
+        {
+          "title": "Lorca — E2E-encrypted local Grok Bot alternative",
+          "url": "https://github.com/egoist/lorca",
+          "source": "GB-1992",
+          "blurb": {
+            "en": "Open-source Telegram-style local agent workspace (Rust CLI + native apps) with E2E encryption—an alternative to Grok Bot, Muse, and Dots.",
+            "zh": "开源类 Telegram 本机智能体工作区（Rust CLI + 原生客户端），端到端加密，对标 Grok Bot / Muse / Dots。",
+            "ja": "Telegram 風のローカルエージェント作業空間（Rust CLI＋ネイティブ）。E2E 暗号化の Grok Bot／Muse／Dots 代替。"
           }
         }
       ]

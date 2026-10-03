@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1965-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1974-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -47,7 +47,6 @@
 - **Italy**（3）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022) · [Bologna](./EVENTS.md#blq-20261012)
 - **Spain**（2）：[Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
 - **Guatemala**（2）：[Guatemala City](./EVENTS.md#gua-20261003) · [Guatemala](./EVENTS.md#gua-20261205)
-- **Cambodia**（2）：[Phnom Penh](./EVENTS.md#pnh-20261003) · [Siem Reap](./EVENTS.md#srp-20261101)
 - **Mexico**（2）：[Monterrey](./EVENTS.md#mty-20261003) · [Mexico City](./EVENTS.md#cdmx-20261009)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20261017)
 - **Argentina**（1）：[Mendoza](./EVENTS.md#mdz-20261003)
@@ -62,6 +61,7 @@
 - **Israel**（1）：[Tel Aviv](./EVENTS.md#tlv-20261019)
 - **Japan**（1）：[Tokyo](./EVENTS.md#tyo-20261011)
 - **Kenya**（1）：[Nairobi (Kenya Workshop)](./EVENTS.md#nbo-20261008)
+- **Cambodia**（1）：[Siem Reap](./EVENTS.md#srp-20261101)
 - **South Korea**（1）：[Seoul](./EVENTS.md#sel-20261027)
 - **Kazakhstan**（1）：[Almaty](./EVENTS.md#ala-20261004)
 - **Sri Lanka**（1）：[Colombo](./EVENTS.md#cmb-20261017)
@@ -74,7 +74,6 @@
 - **Rwanda**（1）：[Kigali](./EVENTS.md#kgl-20261003)
 - **Trinidad and Tobago**（1）：[Port of Spain](./EVENTS.md#pos-20261030)
 - **Uganda**（1）：[Kampala](./EVENTS.md#kla-20261003)
-- **Vietnam**（1）：[Da Nang](./EVENTS.md#dad-20261003)
 - **Online**（1）：[Online (Goiânia)](./EVENTS.md#gyn-20261017)
 
 ## Contents
@@ -491,6 +490,8 @@
 - [market-indicator — breadth gauge product of Grok Bot](https://github.com/gilsrubin-sys/market-indicator) - Browser market-breadth overbought/oversold gauge shipped as a product of Grok Bot (HTML + data.json dashboard).
 - [grokbot-usage — weekly activity report from Bot box logs](https://github.com/d3ming/grokbot-usage) - Weekly Grok Bot usage report that reads local agent logs on the Bot computer and writes an HTML page plus a five-second text summary (activity proxy, not tokens).
 - [taller-grok-bot — Lionel captain team workshop (leads/landing/email)](https://github.com/valenzmanu/taller-grok-bot) - Guatemala Meetup workshop: captain Bot Lionel spins up Di María/Riquelme/Julián with skills to find restaurant leads, demo a landing, and draft an email (no send).
+- [mijn-bots — iPhone PWA for Grok Bot update posts](https://github.com/michaelhofsteenge-art/mijn-bots) - Dutch iPhone PWA with one big button per Grok Bot assistant to read the latest (and prior) update posts offline-friendly.
+- [falcon-eye — 3D falcon stoop game made by Grok Bot](https://github.com/frank-otto/falcon-eye) - Single-file playable three.js peregrine stoop game published as a Grok Bot build artifact (GitHub Pages).
 
 ## Skills, Plugins & MCP
 
@@ -1130,6 +1131,7 @@
 - [dodo-payments-code — Dodo Payments MCP for Grok Bot](https://github.com/lovinmaxwell/dodo-payments-code) - Cursor/Grok Bot plugin wiring Dodo Payments remote MCP (API Code Mode + Knowledge docs) for payments, subscriptions, refunds, and docs search.
 - [bricksid-cursor-plugin — LEGO scan/collection MCP](https://github.com/lukegabrielactual/bricksid-cursor-plugin) - BricksID marketplace plugin for Cursor/Grok Bot: hosted MCP to identify LEGO minifigs/sets from photos and manage your collection after browser login.
 - [limacharlie-cursor-plugin — LimaCharlie security MCP](https://github.com/refractionPOINT/limacharlie-cursor-plugin) - Official LimaCharlie Cursor/Grok Bot plugin: OAuth to the hosted MCP so the Bot can run security workflows under the signed-in org's permissions.
+- [bot-store-agent-plugin — bot.store marketplace skill for Grok Bot](https://github.com/Humanleap/bot-store-agent-plugin) - Grok Bot marketplace skill (.grok-plugin) that finds bot.store templates, compares live listings, and hands off Stripe checkout for a user-chosen bot.
 
 ## Reviews & Comparisons
 
@@ -1524,6 +1526,7 @@
 - [omartwins — Omarchy multi-account launcher for Grok Bot](https://github.com/lukebest/omartwins) - Omarchy plugin to run Cursor, Grok Bot, Claude Code, Codex, and Grok CLI under separate accounts bound to Hyprland workspaces.
 - [grok-bot-learning — evidence-backed fleet memory for Grok bots](https://github.com/matthiasroder/grok-bot-learning) - Python/SQLite learning runtime for a shared Grok Bot computer: scoped lessons, curator review, human reports, and reversible native-profile deployment.
 - [grok-bot-tray — Windows close-to-tray for Grok Desktop](https://github.com/gmzoztr/grok-bot-tray) - Windows companion that patches Grok Desktop (Electron) so clicking Close minimizes to the system tray instead of quitting the Grok Bot app.
+- [latch-mac-local-exec-self-heal — Grok Bot Mac LaunchAgent healer](https://github.com/wildcard/latch-mac-local-exec-self-heal) - macOS LaunchAgent that relaunches Grok Bot when local-exec heartbeats go stale or bootOutcome is not ready (does not see cloud connect).
 
 ## Community & Failure Modes
 
@@ -1788,6 +1791,10 @@
 - [Grok Bot vs Cursor Projects](https://forum.cursor.com/t/grok-bot-vs-cursor-projects/171375) - Staff mental model: Projects for long-running in-repo work, Grok Bot for multi-app work beyond the repo, Automations for schedule/event triggers—not three overlapping “who codes” layers.
 - [1Password + Vercel Preview Links](https://forum.cursor.com/t/1password-vercel-preview-links/173544) - Staff tip: each *.vercel.app preview is a separate 1Password site; use Vercel Preview Deployment Suffix on your domain with “Fill anywhere on this website,” or store staging logins as Bot secrets.
 - [Grok Bot: Update/Reset stuck on “Backup not ready” / endless “Transferring data”](https://forum.cursor.com/t/grok-bot-update-reset-stuck-on-backup-not-ready-endless-transferring-data/172343) - Staff clarification: a clean computer reset keeps bots, chats, memories, routines, connectors, and settings; it wipes only box files, installed packages, and browser logins on the cloud PC.
+- [Forum: Grok Bots failing to respond again](https://forum.cursor.com/t/grok-bots-failing-to-respond-again/173658) - Active forum outage thread: multiple users report Grok Bots again failing to respond, with staff investigation and workarounds.
+- [Forum: Grok Bot computer reprovisioned 126GB→16GB full](https://forum.cursor.com/t/grok-bot-computer-reprovisioned-from-126gb-to-16gb-and-immediately-100-full-ticket-t-g55930/173656) - Report that a Grok Bot cloud PC was reprovisioned from ~126GB to 16GB and immediately hit 100% disk (ticket T-G55930).
+- [Forum: Stuck GrokBot — need a runner restart?](https://forum.cursor.com/t/stuck-grokbot-need-a-runner-restart/173665) - Single-bot hang while siblings stay fine; asks whether a runner restart is needed for one stuck Grok Bot id.
+- [Forum: Grok Bot Finance (Plaid) verification codes never arrive](https://forum.cursor.com/t/grok-bot-finance-plaid-bank-verification-codes-never-arrive-two-institutions/173651) - Plaid bank-link flow inside Grok Bot Finance never delivers verification codes for two institutions.
 
 ## Related Lists
 
@@ -2077,10 +2084,11 @@
 - [opendots — open-source OpenAI dots / Grok Bot alternative](https://github.com/milisp/opendots) - Tauri + Axum personal agent workspace positioned as an open-source OpenAI dots and Grok Bot alternative (distinct from Anil-matcha/open-dots).
 - [oficina-grok-bots — browser 3D office of four Grok bots](https://github.com/robchvz97/oficina-grok-bots) - Browser Three.js scene of four named Grok bots in a shared 3D office, with paste-ready prompts per bot.
 - [Clawds — local Claude Code swarm (Grok Bot–style)](https://github.com/ClawdsAgent/Clawds) - Open-source local messenger swarm powered by Claude Code—an alternative to OpenAI Dots and xAI Grok Bot with per-bot roles, memory, and git worktrees.
+- [Lorca — E2E-encrypted local Grok Bot alternative](https://github.com/egoist/lorca) - Open-source Telegram-style local agent workspace (Rust CLI + native apps) with E2E encryption—an alternative to Grok Bot, Muse, and Dots.
 
 ## Contributing
 
-1965 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1974 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

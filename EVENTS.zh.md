@@ -171,15 +171,6 @@
 <a id="gua-20261205"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-97mt"><img src="./assets/events/gua-20261205-cover.png" alt="Grok Bot Meetup 危地马拉" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 危地马拉</strong><br />2026-12-05 周六 15:00–20:00（America/Guatemala）<br />危地马拉 · 场地待定（见 Luma/主办方更新）— 线下<br /><br />SpaceXAI 危地马拉线下 Grok Bot 聚会（论坛+Luma 已发）。场地细节见 Luma 报名页。<br /><br /><a href="https://luma.com/spacexai-97mt"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="country-kh"></a>
-### 柬埔寨
-
-<a id="pnh-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-jt05"><img src="./assets/events/pnh-20261003-cover.png" alt="Grok Bot 金边线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 金边线下交流</strong><br />2026-10-03 周六 14:00–16:00（金边 / Bangkok 时区 GMT+7）<br />金边 · Smart Startup Space（Connexion Building, Koh Pich）<br /><br />柬埔寨首场 Grok Bot 线下：演示与交流、现场 credits 试玩（笔记本或手机均可），另有线上嘉宾。与 Smart Startup Space 合办。主办 Taka Kiyone、Luis Romero；免费，需主办审批，约 80 席；新手欢迎。<br /><br /><a href="https://luma.com/spacexai-jt05"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="srp-20261101"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-yvwt"><img src="./assets/events/srp-20261101-cover.png" alt="Grok Bot Meetup 暹粒" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 暹粒</strong><br />2026-11-01 周日 14:00–18:00（暹粒 / 曼谷时区 ICT，UTC+7）<br />柬埔寨暹粒 The Creative House（Street Wat Po）· 线下<br /><br />暹粒首场 Grok Bot 聚会（SpaceXAI 金边日历；主办 Taka Kiyone、Luis Romero 等；论坛 173298 / Luma spacexai-yvwt）。闲聊、演示、交流；候补开启；晚间扫描 guest_count 0。<br /><br /><a href="https://luma.com/spacexai-yvwt"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
 <a id="country-mx"></a>
 ### 墨西哥
 
@@ -267,6 +258,12 @@
 <a id="nbo-20261008"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-9apo"><img src="./assets/events/nbo-20261008-cover.png" alt="Grok Bot 肯尼亚工作坊" width="300" /></a></td><td valign="top"><strong>Grok Bot 肯尼亚工作坊</strong><br />2026-10-08 周三 15:00–18:00（Africa/Nairobi，EAT，UTC+3）<br />内罗毕 · Upper Hill（报名后可见精确地址）· 线下<br /><br />SpaceXAI 肯尼亚 Grok Bot 实操工作坊（内罗毕，主办 Felix Jumason）。免费需审批；晚间扫描 guest_count 24；论坛 173480；Luma spacexai-9apo。勿与已过期 nbo-20260917 混淆。<br /><br /><a href="https://luma.com/spacexai-9apo"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
+<a id="country-kh"></a>
+### 柬埔寨
+
+<a id="srp-20261101"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-yvwt"><img src="./assets/events/srp-20261101-cover.png" alt="Grok Bot Meetup 暹粒" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 暹粒</strong><br />2026-11-01 周日 14:00–18:00（暹粒 / 曼谷时区 ICT，UTC+7）<br />柬埔寨暹粒 The Creative House（Street Wat Po）· 线下<br /><br />暹粒首场 Grok Bot 聚会（SpaceXAI 金边日历；主办 Taka Kiyone、Luis Romero 等；论坛 173298 / Luma spacexai-yvwt）。闲聊、演示、交流；候补开启；晚间扫描 guest_count 0。<br /><br /><a href="https://luma.com/spacexai-yvwt"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-kr"></a>
 ### 韩国
 
@@ -338,12 +335,6 @@
 
 <a id="kla-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-upc4"><img src="./assets/events/kla-20261003-cover.png" alt="Grok Bot 坎帕拉线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 坎帕拉线下交流</strong><br />2026-10-03 周六 14:00–17:00（非洲/内罗毕 EAT，UTC+3；坎帕拉同区）<br />乌干达坎帕拉 · 场地待定（报名后可见）<br /><br />SpaceXAI for Kampala, Uganda, Africa 下午局（主办 Ronnie 3.0）。产品文案：Grok Bot 是 SpaceXAI 带云端 agent、能真干活的 AI 助手（非纯聊天）；入门、实用工作流（规划/运维/日常）、问答；支持 Android/Mac/iOS/Linux；欢迎新手。免费、无需审核；余位 100；扫描时报名 0。Luma 无具体地址（日历城市坎帕拉 UG）。相对 morning discover 新增（早间 unknown-grokish / 社区日历均未见）。<br /><br /><a href="https://luma.com/spacexai-upc4"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
-<a id="country-vn"></a>
-### 越南
-
-<a id="dad-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-80r9"><img src="./assets/events/dad-20261003-cover.png" alt="Grok Bot Meetup 岘港" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 岘港</strong><br />2026-10-03 周六 13:00–16:00（岘港Asia/Ho_Chi_Minh，UTC+7）<br />Vietnam岘港 1710 Cafe & Society, 10 Trần Quý Cáp, Hải Châu, Đà Nẵng 550000, Vietnam（线下）<br /><br />越南岘港 Grok Bot 聚会（主办 Keith Vaughan, Laksh Arora；Frontier Club Da Nang 支持）。13:00–16:00：入场、破冰、SpaceXAI/Cursor 问答、闪电演示、交流。免费开放报名（扫描时剩余约 70）。场地 1710 Cafe & Society。新 slug spacexai-80r9；论坛尚无 New event 帖。<br /><br /><a href="https://luma.com/spacexai-80r9"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="country-online"></a>
 ### 线上

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1965-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1974-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -47,7 +47,6 @@
 - **意大利**（3）：[罗马](./EVENTS.zh.md#rom-20261023) · [特雷维索](./EVENTS.zh.md#tvs-20261022) · [博洛尼亚](./EVENTS.zh.md#blq-20261012)
 - **西班牙**（2）：[阿利坎特](./EVENTS.zh.md#alc-20261107) · [毕尔巴鄂](./EVENTS.zh.md#bil-20261019)
 - **危地马拉**（2）：[危地马拉城](./EVENTS.zh.md#gua-20261003) · [危地马拉](./EVENTS.zh.md#gua-20261205)
-- **柬埔寨**（2）：[金边](./EVENTS.zh.md#pnh-20261003) · [暹粒](./EVENTS.zh.md#srp-20261101)
 - **墨西哥**（2）：[蒙特雷](./EVENTS.zh.md#mty-20261003) · [墨西哥城](./EVENTS.zh.md#cdmx-20261009)
 - **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20261017)
 - **阿根廷**（1）：[门多萨](./EVENTS.zh.md#mdz-20261003)
@@ -62,6 +61,7 @@
 - **以色列**（1）：[特拉维夫](./EVENTS.zh.md#tlv-20261019)
 - **日本**（1）：[东京](./EVENTS.zh.md#tyo-20261011)
 - **肯尼亚**（1）：[内罗毕（肯尼亚工作坊）](./EVENTS.zh.md#nbo-20261008)
+- **柬埔寨**（1）：[暹粒](./EVENTS.zh.md#srp-20261101)
 - **韩国**（1）：[首尔](./EVENTS.zh.md#sel-20261027)
 - **哈萨克斯坦**（1）：[阿拉木图](./EVENTS.zh.md#ala-20261004)
 - **斯里兰卡**（1）：[科伦坡](./EVENTS.zh.md#cmb-20261017)
@@ -74,7 +74,6 @@
 - **卢旺达**（1）：[基加利](./EVENTS.zh.md#kgl-20261003)
 - **特立尼达和多巴哥**（1）：[西班牙港](./EVENTS.zh.md#pos-20261030)
 - **乌干达**（1）：[坎帕拉](./EVENTS.zh.md#kla-20261003)
-- **越南**（1）：[岘港](./EVENTS.zh.md#dad-20261003)
 - **线上**（1）：[线上（戈亚尼亚）](./EVENTS.zh.md#gyn-20261017)
 
 ## 目录
@@ -491,6 +490,8 @@
 - [market-indicator — breadth gauge product of Grok Bot](https://github.com/gilsrubin-sys/market-indicator) - 浏览器端市场宽度超买/超卖仪表盘，自称由 Grok Bot 打造（HTML + data.json）。.
 - [grokbot-usage — weekly activity report from Bot box logs](https://github.com/d3ming/grokbot-usage) - 从 Grok Bot 云电脑本地代理日志生成周报：输出 HTML 与五秒可读摘要（活动量代理指标，非 token/费用）。.
 - [taller-grok-bot — Lionel captain team workshop (leads/landing/email)](https://github.com/valenzmanu/taller-grok-bot) - 危地马拉 Meetup 工坊：队长 Bot Lionel 拉起 Di María/Riquelme/Julián，用技能找餐厅线索、演示落地页并起草邮件（不发送）。.
+- [mijn-bots — iPhone PWA for Grok Bot update posts](https://github.com/michaelhofsteenge-art/mijn-bots) - 荷兰语 iPhone PWA：每个 Grok Bot 助手一颗大按钮，离线友好地阅读最新及历史更新帖。.
+- [falcon-eye — 3D falcon stoop game made by Grok Bot](https://github.com/frank-otto/falcon-eye) - 单文件可玩 three.js 游隼俯冲击游戏，作为 Grok Bot 构建产物发布（GitHub Pages）。.
 
 ## 技能、插件与 MCP
 
@@ -1130,6 +1131,7 @@
 - [dodo-payments-code — Dodo Payments MCP for Grok Bot](https://github.com/lovinmaxwell/dodo-payments-code) - Cursor/Grok Bot 插件：接入 Dodo Payments 远程 MCP（API Code Mode + 文档 Knowledge），可处理支付/订阅/退款与文档检索。.
 - [bricksid-cursor-plugin — LEGO scan/collection MCP](https://github.com/lukegabrielactual/bricksid-cursor-plugin) - BricksID 的 Cursor/Grok Bot 市场插件：托管 MCP 从照片识别乐高人仔/套装，浏览器登录后管理收藏。.
 - [limacharlie-cursor-plugin — LimaCharlie security MCP](https://github.com/refractionPOINT/limacharlie-cursor-plugin) - LimaCharlie 官方 Cursor/Grok Bot 插件：OAuth 接入托管 MCP，按登录组织权限在对话中跑安全工作流。.
+- [bot-store-agent-plugin — bot.store marketplace skill for Grok Bot](https://github.com/Humanleap/bot-store-agent-plugin) - 带 .grok-plugin 的 Grok Bot 市场技能：检索 bot.store 模板、对比在架商品，并为用户选中的 Bot 交接 Stripe 结账。.
 
 ## 评测与对比
 
@@ -1524,6 +1526,7 @@
 - [omartwins — Omarchy multi-account launcher for Grok Bot](https://github.com/lukebest/omartwins) - Omarchy 插件：让 Cursor、Grok Bot、Claude Code、Codex 与 Grok CLI 各自账号绑定到不同 Hyprland 工作区并行运行。.
 - [grok-bot-learning — evidence-backed fleet memory for Grok bots](https://github.com/matthiasroder/grok-bot-learning) - 共享 Grok Bot 云电脑上的 Python/SQLite 学习运行时：作用域课时、策展人审核、人工报告与可回滚的原生配置部署。.
 - [grok-bot-tray — Windows close-to-tray for Grok Desktop](https://github.com/gmzoztr/grok-bot-tray) - Windows 配套工具：修补 Grok Desktop（Electron），点关闭时最小化到系统托盘而不是退出 Grok Bot。.
+- [latch-mac-local-exec-self-heal — Grok Bot Mac LaunchAgent healer](https://github.com/wildcard/latch-mac-local-exec-self-heal) - macOS LaunchAgent：在本地执行心跳过期或 bootOutcome 非 ready 时温和重启 Grok Bot（看不到云端连接状态）。.
 
 ## 社区与故障现场
 
@@ -1788,6 +1791,10 @@
 - [Grok Bot vs Cursor Projects](https://forum.cursor.com/t/grok-bot-vs-cursor-projects/171375) - 官方拆解：Projects 做仓库内长程编排，Grok Bot 做跨应用云电脑任务，Automations 管定时/事件触发——不是三套重复的「谁写代码」。.
 - [1Password + Vercel Preview Links](https://forum.cursor.com/t/1password-vercel-preview-links/173544) - 官方提示：每个 *.vercel.app 预览站在 1Password 里都算独立站点；用自有域名 Preview Deployment Suffix 并设「在此网站任意处填充」，或把测试账号存成 Bot secrets。.
 - [Grok Bot: Update/Reset stuck on “Backup not ready” / endless “Transferring data”](https://forum.cursor.com/t/grok-bot-update-reset-stuck-on-backup-not-ready-endless-transferring-data/172343) - 官方澄清：干净重置云电脑会保留 Bot、聊天、记忆、例程、连接器与设置；只会清掉电脑上的文件、已装软件和浏览器登录态。.
+- [Forum: Grok Bots failing to respond again](https://forum.cursor.com/t/grok-bots-failing-to-respond-again/173658) - 论坛故障帖：多名用户再次反馈 Grok Bot 无响应，含官方排查与变通办法。.
+- [Forum: Grok Bot computer reprovisioned 126GB→16GB full](https://forum.cursor.com/t/grok-bot-computer-reprovisioned-from-126gb-to-16gb-and-immediately-100-full-ticket-t-g55930/173656) - 反馈 Grok Bot 云电脑从约 126GB 被重新配置成 16GB 并立刻磁盘 100% 满（工单 T-G55930）。.
+- [Forum: Stuck GrokBot — need a runner restart?](https://forum.cursor.com/t/stuck-grokbot-need-a-runner-restart/173665) - 同账号其他 Bot 正常、单只 Bot 卡死；询问是否需要对该 Grok Bot id 做 runner 重启。.
+- [Forum: Grok Bot Finance (Plaid) verification codes never arrive](https://forum.cursor.com/t/grok-bot-finance-plaid-bank-verification-codes-never-arrive-two-institutions/173651) - Grok Bot Finance 经 Plaid 绑银行时，两家机构的验证码始终收不到。.
 
 ## 相关列表
 
@@ -2077,10 +2084,11 @@
 - [opendots — open-source OpenAI dots / Grok Bot alternative](https://github.com/milisp/opendots) - Tauri + Axum 个人智能体工作区，定位为开源 OpenAI dots / Grok Bot 替代（不同于 Anil-matcha/open-dots）。.
 - [oficina-grok-bots — browser 3D office of four Grok bots](https://github.com/robchvz97/oficina-grok-bots) - 浏览器 Three.js 三维办公室场景：四台具名 Grok Bot 同框，并附每台可粘贴提示。.
 - [Clawds — local Claude Code swarm (Grok Bot–style)](https://github.com/ClawdsAgent/Clawds) - 开源本机即时通讯多智能体（Claude Code 驱动），对标 OpenAI Dots 与 xAI Grok Bot：每 Bot 角色/记忆与独立 git worktree。.
+- [Lorca — E2E-encrypted local Grok Bot alternative](https://github.com/egoist/lorca) - 开源类 Telegram 本机智能体工作区（Rust CLI + 原生客户端），端到端加密，对标 Grok Bot / Muse / Dots。.
 
 ## 贡献
 
-目前 8 个分类、1965 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、1974 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
