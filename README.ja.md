@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1946-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1965-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -39,8 +39,8 @@
 
 - **中国**（4）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017) · [マカオ](./EVENTS.ja.md#mo-20261007) · [マカオ](./EVENTS.ja.md#mo-20261112)
 - **アメリカ**（13）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [オースティン](./EVENTS.ja.md#aus-20261004) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [ワシントンDC](./EVENTS.ja.md#was-20261007) · [パサデナ](./EVENTS.ja.md#pas-20261008) · [アトランタ](./EVENTS.ja.md#atl-20261016) · [シアトル](./EVENTS.ja.md#sea-20261012) · [アトランタ（Job Night）](./EVENTS.ja.md#atl-20261008)
-- **カナダ**（5）：[モントリオール](./EVENTS.ja.md#yul-20260926) · [トロント](./EVENTS.ja.md#yyz-20261026) · [オタワ](./EVENTS.ja.md#yow-20261010) · [カルガリー](./EVENTS.ja.md#yyc-20261028) · [ハリファックス](./EVENTS.ja.md#yhz-20261015)
-- **ドイツ**（5）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015) · [フランクフルト](./EVENTS.ja.md#fra-20261023) · [フランクフルト](./EVENTS.ja.md#fra-20261120) · [カッセル](./EVENTS.ja.md#kas-20261112)
+- **カナダ**（5）：[モントリオール](./EVENTS.ja.md#yul-20260926) · [トロント](./EVENTS.ja.md#yyz-20261026) · [カルガリー](./EVENTS.ja.md#yyc-20261028) · [ハリファックス](./EVENTS.ja.md#yhz-20261015) · [オタワ](./EVENTS.ja.md#yow-20261017)
+- **ドイツ**（5）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015) · [フランクフルト](./EVENTS.ja.md#fra-20261120) · [カッセル](./EVENTS.ja.md#kas-20261112) · [フランクフルト](./EVENTS.ja.md#fra-20261030)
 - **ブラジル**（4）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [サルバドール](./EVENTS.ja.md#ssa-20261008) · [フロリアノポリス](./EVENTS.ja.md#fln-20261016)
 - **インドネシア**（4）：[ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [ジャカルタ](./EVENTS.ja.md#jkt-20261003) · [ジャカルタ](./EVENTS.ja.md#jkt-20261107) · [チャングー / バリ](./EVENTS.ja.md#bli-20261025)
 - **エクアドル**（3）：[クンバヤ](./EVENTS.ja.md#cumb-20261003) · [アンバト](./EVENTS.ja.md#atu-20261029) · [キト](./EVENTS.ja.md#uio-20261021)
@@ -205,6 +205,8 @@
 - [matt palmer: What's new in Grok Bot (Team bots, Finance, Voice)](https://x.com/mattyp/status/2105345158162063493) - Grok Bot の Team bots・Plaid Finance・通話改善を紹介するウォークスルー動画。
 - [Elon Musk: New in Grok @Bot](https://x.com/elonmusk/status/2105350300534210708) - Elon が Team bots・Finance・音声を含む最新 Grok Bot まとめを拡散。
 - [@bot: Grok Bot can suggest ways to help without being asked (Primary Bot proactive)](https://x.com/bot/status/2105713240701538538) - 公式 @bot（2026-10-01 ~17:35 UTC）。聞かれる前に手伝えることを提案—Primary Bot が仕事を先回りして申し出る（提案は usage にカウントされない）。
+- [Deploy Grok Bot to your organization](https://cursor.com/docs/grok-bot/deployment) - 組織向け Grok Bot デスクトップ展開の公式ドキュメント。sand リリースフィード、MDM/サイレントインストール、Linux リポジトリ、バージョン固定、ホスト側イメージ更新、cursorvm.com 許可リストを解説。
+- [Team Bots](https://docs.x.ai/grok-bot/team-bots) - Team Bots の公式ドキュメント。チーム共有 Bot、チームメモリ、オーナー管理のプラグイン/シークレット/スキル、個人チャットの隔離、Slack アプリ、会話ごとに使うクラウド PC を説明。
 
 ## チュートリアルとガイド
 
@@ -488,6 +490,7 @@
 - [personal-news-reader — PIN magazine refreshed by Grok Bot](https://github.com/scapp/personal-news-reader) - GitHub Pages の PIN 付き個人ニュース誌。フィードを Grok Bot がスケジュール更新。
 - [market-indicator — breadth gauge product of Grok Bot](https://github.com/gilsrubin-sys/market-indicator) - 市場の買われ過ぎ/売られ過ぎゲージ。Grok Bot 製と銘打った HTML + data.json ダッシュボード。
 - [grokbot-usage — weekly activity report from Bot box logs](https://github.com/d3ming/grokbot-usage) - Bot コンピュータ上のローカル代理ログから週次レポート（HTML＋短文）。活動量の代理指標で、トークン／料金ではない。
+- [taller-grok-bot — Lionel captain team workshop (leads/landing/email)](https://github.com/valenzmanu/taller-grok-bot) - Guatemala Meetup 向け。キャプテン Bot Lionel が Di María／Riquelme／Julián を組み、リード探し・ランディングデモ・メール下書き（送信なし）。
 
 ## スキル、プラグインと MCP
 
@@ -1118,6 +1121,15 @@
 - [meta-ads-mcp — Meta Ads marketplace plugin for Grok Bot](https://github.com/leksicon1/meta-ads-mcp) - Cursor/Grok Bot 向け Meta Ads MCP プラグイン。自分の Meta アプリ資格情報でキャンペーン・予算・クリエイティブ・洞察を扱う。
 - [anny grok-plugin — booking system MCP for Grok Bot](https://github.com/anny-co/grok-plugin) - anny 予約システムの Grok Bot/Cursor プラグイン。OAuth MCP で席・会議室・予定を会話しながら設定・運用。
 - [grokbot-economy — scripts-first permanent skill](https://github.com/wesleysimplicio/grokbot-economy) - 常駐 Grok Bot スキル。スクリプト／MCP／API を先に、スクショは最後。多言語 README とチェックリスト付き。
+- [roobook-plugin — RooBook library MCP for Grok Bot](https://github.com/arcmanagement/roobook-plugin) - Grok Bot 向け RooBook プラグイン。OAuth で接続し、蔵書一覧・全文検索・私的メモをホスト MCP 経由で操作。
+- [blindless-plugin — Blindless owner board MCP for Grok Bot](https://github.com/FastFix-SF/blindless-plugin) - Blindless の Cursor/Grok Bot コネクタ。OAuth MCP でタスク・Bot・予定・チーム状況をオーナーボードへ報告。
+- [inboxmcp-cursor — LinkedIn InboxMCP for Cursor/Grok Bot](https://github.com/breakcold/inboxmcp-cursor) - InboxMCP の Cursor/Grok Bot プラグイン。ホスト MCP で LinkedIn 受信箱・プロフィール調査・承認付きアウトリーチ。
+- [agent-use-cases — crowd-sourced GrokBot skills & connectors](https://github.com/vaulpannx/agent-use-cases) - X キャンペーン案から作る GrokBot 向けスキル・コネクタ・ユースケース・ヘルパー集。投稿者クレジット付き。
+- [nopressure-grok-bot-plugin — workplace rehearsal MCP](https://github.com/JetBrains/nopressure-grok-bot-plugin) - JetBrains NoPressure の Grok Bot プラグイン。OAuth MCP で音声ロールプレイを作り、難しい会話後のフィードバックを取得。
+- [zoho-workspace-grok-bot-plugin — Zoho Mail/Calendar MCP](https://github.com/digismiths-club/zoho-workspace-grok-bot-plugin) - Zoho Workspace の Grok Bot/Cursor プラグイン。Connect URL と OAuth で Mail／Calendar／WorkDrive／Cliq の Zoho MCP に接続。
+- [dodo-payments-code — Dodo Payments MCP for Grok Bot](https://github.com/lovinmaxwell/dodo-payments-code) - Dodo Payments のリモート MCP（API Code Mode＋Knowledge）を Cursor/Grok Bot に接続し、決済・購読・返金・ドキュメント検索。
+- [bricksid-cursor-plugin — LEGO scan/collection MCP](https://github.com/lukegabrielactual/bricksid-cursor-plugin) - BricksID の Cursor/Grok Bot プラグイン。ホスト MCP で写真から LEGO ミニフィグ／セットを識別し、ブラウザログイン後にコレクション管理。
+- [limacharlie-cursor-plugin — LimaCharlie security MCP](https://github.com/refractionPOINT/limacharlie-cursor-plugin) - LimaCharlie 公式 Cursor/Grok Bot プラグイン。ホスト MCP へ OAuth し、組織権限の下でセキュリティワークフローを実行。
 
 ## レビューと比較
 
@@ -1509,6 +1521,9 @@
 - [grok-bot-film-kit — Remotion engine for personalized Bot pitch films](https://github.com/Speediing/grok-bot-film-kit) - パーソナライズ Grok Bot ピッチ影片向けの公開 Remotion エンジンと手順。顧客素材は含まず、ノートPCやクラウドエージェントでレンダ。
 - [grok-bot-discord-bridge — Discord → sendPrompt wake path](https://github.com/matthew-rutledge-dev/grok-bot-discord-bridge) - 自前ホストの Discord Gateway 橋。sendPrompt で Grok Bot を起こし、コールバックを Discord へ返す（デフォルト拒否の認可）。
 - [Shipmate — open-source laptop agent (Dots + Grok Bot style)](https://github.com/r28ai/shipmate) - OpenAI Dots / Grok Bot 系のオープンソース本地エージェント。Charter 製、自分のキー、変更前に承認。
+- [omartwins — Omarchy multi-account launcher for Grok Bot](https://github.com/lukebest/omartwins) - Omarchy プラグイン。Cursor／Grok Bot／Claude Code／Codex／Grok CLI を別アカウントで Hyprland ワークスペースに紐づけて起動。
+- [grok-bot-learning — evidence-backed fleet memory for Grok bots](https://github.com/matthiasroder/grok-bot-learning) - 共有 Grok Bot コンピュータ向け学習ランタイム。スコープ付きレッスン、キュレータ審査、報告、可逆なネイティブ設定適用。
+- [grok-bot-tray — Windows close-to-tray for Grok Desktop](https://github.com/gmzoztr/grok-bot-tray) - Windows 用。Grok Desktop（Electron）の閉じる操作を終了ではなくシステムトレイ最小化にするパッチ／コンパニオン。
 
 ## コミュニティと障害事例
 
@@ -1770,6 +1785,9 @@
 - [Forum: Update needed ~4 times to reach latest computer image](https://forum.cursor.com/t/grok-bot-computer-update-needed-4-consecutive-update-presses-to-reach-latest-image/173562) - 不具合報告。Grok Bot コンピュータ更新後も Update が再提示され、最新イメージ表示まで約4回押す必要。
 - [Forum: Bot computer silently restored to Sep 28 snapshot](https://forum.cursor.com/t/grok-bot-computer-silently-restored-to-a-sep-28-snapshot-overnight-3-days-of-box-files-sep-29-oct-1-lost-no-update-reset-pressed/173623) - 障害報告。Grok Bot クラウド機が夜間に再起動し 9/28 スナップショットへ戻り、Update/Reset なしで 9/29–10/1 のファイルが消失。
 - [Forum: Grok Bot Computers stuck in Can't reach state](https://forum.cursor.com/t/grok-bot-computers-stuck-in-cant-reach-state/173607) - 障害報告。複数の Grok Bot コンピュータが Can't reach のまま。スレ内に明確な復旧手順なし。
+- [Grok Bot vs Cursor Projects](https://forum.cursor.com/t/grok-bot-vs-cursor-projects/171375) - 公式の切り分け：Projects はリポジトリ内の長期作業、Grok Bot はリポ外のマルチアプリ作業、Automations はスケジュール/イベント起動——役割の重複ではない。
+- [1Password + Vercel Preview Links](https://forum.cursor.com/t/1password-vercel-preview-links/173544) - 公式 Tips：*.vercel.app の各プレビューは 1Password 上で別サイト扱い。自ドメインの Preview Deployment Suffix と「このサイトのどこでも入力」、またはステージング認証を Bot secrets に。
+- [Grok Bot: Update/Reset stuck on “Backup not ready” / endless “Transferring data”](https://forum.cursor.com/t/grok-bot-update-reset-stuck-on-backup-not-ready-endless-transferring-data/172343) - 公式の整理：クリーンなコンピュータリセットは Bot・チャット・メモリ・ルーチン・コネクタ・設定を保持し、消えるのはクラウド PC 上のファイル・導入パッケージ・ブラウザログインのみ。
 
 ## 関連リスト
 
@@ -2058,10 +2076,11 @@
 - [Erika — GrokBot README banner painter API](https://github.com/Moemu/Erika) - GitHub リポジトリ向けに GrokBot 風バナーを描く API（デモ erika.snowy.moe）。
 - [opendots — open-source OpenAI dots / Grok Bot alternative](https://github.com/milisp/opendots) - Tauri + Axum の個人エージェント作業場。OpenAI dots / Grok Bot のオープン代替（Anil-matcha/open-dots とは別）。
 - [oficina-grok-bots — browser 3D office of four Grok bots](https://github.com/robchvz97/oficina-grok-bots) - ブラウザ Three.js の 3D オフィス。名前付き Grok Bot 4 体と各 Bot 用ペースト文。
+- [Clawds — local Claude Code swarm (Grok Bot–style)](https://github.com/ClawdsAgent/Clawds) - Claude Code 駆動のローカルメッセンジャー型スウォーム。OpenAI Dots／xAI Grok Bot 系の代替で、役割・記憶・git worktree 付き。
 
 ## 貢献
 
-8 セクションに 1946 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 1965 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

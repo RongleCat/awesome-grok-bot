@@ -72,14 +72,14 @@
 <a id="yyz-20261026"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/mj5bmugc"><img src="./assets/events/yyz-20261026-cover.png" alt="Grok Bot Meetup 多伦多（十月）" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 多伦多（十月）</strong><br />2026-10-26 周一 17:30–20:30（多伦多America/Toronto，UTC-4）<br />加拿大多伦多 800 Bay 一带（Luma 模糊地址）（线下）<br /><br />多伦多月度 Grok Bot 聚会十月场（主办 Jia Ming Huang 等；承接已入库 yyz-20260917 九月场）。约 17:30–20:30 于 800 Bay：交流、两位演讲、Q&A、构建；提供餐饮与 Cursor credits。需带电脑；18:15 截止入场。免费报名需审批（扫描时剩余约 400）。新 slug mj5bmugc；勿与 yyz-20260917 混淆。<br /><br /><a href="https://luma.com/mj5bmugc"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
-<a id="yow-20261010"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/phs5tofz"><img src="./assets/events/yow-20261010-cover.png" alt="Grok Bot Meetup 渥太华" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 渥太华</strong><br />2026-10-10 周六 18:00–22:00（America/Toronto，UTC-4）<br />加拿大渥太华 Carleton University Nicol Building, 1125 Colonel By Dr（线下，教室待定）<br /><br />渥太华首场入库 Grok Bot 聚会（Builders Collective Ottawa 等主办）。Carleton University 晚场：Grok Bot 101、演示、展示、积分与交流。免费报名需审批；请带笔记本。新 slug phs5tofz；论坛尚无 New event 帖。<br /><br /><a href="https://luma.com/phs5tofz"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
 <a id="yyc-20261028"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/i9grzzp3"><img src="./assets/events/yyc-20261028-cover.png" alt="Grok Bot Meetup 卡尔加里（10 月）" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 卡尔加里（10 月）</strong><br />2026-10-28 周三 17:30–20:30（卡尔加里 MDT，UTC−6）<br />加拿大卡尔加里 · 场地待定（见 Luma）· 线下<br /><br />卡尔加里月度 Grok Bot Meetup（主办 Simon Loewen、Jia Ming Huang；论坛 173296 / Luma i9grzzp3）。山地时间 17:30–20:30：入场、动手、演示、社交；自带笔记本；候补开启；晚间扫描 guest_count 1。<br /><br /><a href="https://luma.com/i9grzzp3"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 <a id="yhz-20261015"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-halifax"><img src="./assets/events/yhz-20261015-cover.png" alt="Grok Bot Meetup 哈利法克斯" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 哈利法克斯</strong><br />2026-10-15 周三 18:00–20:00（America/Halifax，ADT，UTC-3）<br />加拿大哈利法克斯 · 市中心（报名后可见精确地址）· 线下<br /><br />用例分享 + 一场现场 Grok Bot 实装（主办 Rishabh A / SquareCX）。笔记本可选；Luma 免费报名（slug grok-bot-halifax）。论坛 173477。<br /><br /><a href="https://luma.com/grok-bot-halifax"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="yow-20261017"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/phs5tofz"><img src="./assets/events/yow-20261017-cover.png" alt="Grok Bot Meetup 渥太华" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 渥太华</strong><br />2026-10-17 周六 18:00–22:00（America/Toronto，EDT，UTC-4）<br />加拿大渥太华 Carleton University Nicol Building, 1125 Colonel By Dr — 线下<br /><br />渥太华 Grok Bot（Carleton University；Builders Collective Ottawa 等主办）。晚场演示与交流。免费报名；午间扫描 guest_count 62。与旧 yow-20261010 同 slug phs5tofz（从 10/10 改期到 10/17）。<br /><br /><a href="https://luma.com/phs5tofz"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="country-de"></a>
 ### 德国
@@ -90,14 +90,14 @@
 <a id="str-20261015"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-z2er"><img src="./assets/events/str-20261015-cover.png" alt="Grok Bot Meetup 斯图加特" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 斯图加特</strong><br />2026-10-15 周四 17:30–21:00（Europe/Berlin，UTC+2 / CEST）<br />德国斯图加特 Epplestraße 225/haus 3, 70567 Stuttgart-Möhringen（线下，一楼）<br /><br />斯图加特首场 Grok Bot 聚会（Sachin Agrawal；AI collective Stuttgart / SpaceXAI ambassador）。晚场试玩、演示与社区交流。免费需审批（余 84）。slug spacexai-z2er；论坛 New event 171988。<br /><br /><a href="https://luma.com/spacexai-z2er"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
-<a id="fra-20261023"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/1rv39ekj"><img src="./assets/events/fra-20261023-cover.png" alt="Build with Grokbot — 法兰克福（10/23）" width="300" /></a></td><td valign="top"><strong>Build with Grokbot — 法兰克福（10/23）</strong><br />2026-10-23 周五 14:00–22:30（Europe/Berlin）<br />德国法兰克福 · Motel One Frankfurt-Messe（Europa-Allee 25）— 线下<br /><br />SpaceXAI 法兰克福第二场 Build Day：在 Motel One Messe 用 Grok Bot 交付。Luma 报名。<br /><br /><a href="https://luma.com/1rv39ekj"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
 <a id="fra-20261120"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/l9tfh081"><img src="./assets/events/fra-20261120-cover.png" alt="Build with Grokbot — 法兰克福（11月20日）" width="300" /></a></td><td valign="top"><strong>Build with Grokbot — 法兰克福（11月20日）</strong><br />2026-11-20 周五 14:00–22:30（Europe/Berlin，UTC+1）。<br />德国法兰克福 — Hotel Motel One Frankfurt-Messe（线下）。<br /><br />法兰克福继 9/10 月场次后的下一场 Build with Grokbot（SpaceXAI for Frankfurt；主办 DJ Gangan 等）。Motel One Messe 下午到晚上搭建；候补开放（扫描时 guest_count 3）。slug l9tfh081。<br /><br /><a href="https://luma.com/l9tfh081"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="kas-20261112"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/rx61bqy9"><img src="./assets/events/kas-20261112-cover.png" alt="Grok Bot Meetup 卡塞尔" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 卡塞尔</strong><br />2026-11-12 周四 18:00–22:00（卡塞尔 CET，UTC+1）<br />德国卡塞尔 · 报名后可见场地（Bettenhausen 一带）· 线下<br /><br />卡塞尔首场 Grok Bot 聚会（SpaceXAI for Kassel；主办 Eyad Kelleh、Maurice Pfurr 等；论坛 173331 / Luma rx61bqy9）。闲聊、演示、现场试用额度；需审批+候补；早间扫描 guest_count 2。<br /><br /><a href="https://luma.com/rx61bqy9"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="fra-20261030"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/1rv39ekj"><img src="./assets/events/fra-20261030-cover.png" alt="Build Days w/ GrokBot @ AI Week — 法兰克福（10/30）" width="300" /></a></td><td valign="top"><strong>Build Days w/ GrokBot @ AI Week — 法兰克福（10/30）</strong><br />2026-10-30 周五 09:45–18:15（Europe/Berlin，CET，UTC+1）<br />德国法兰克福 · The Squaire，Am Flughafen 12 — 线下（AI Week × Glassflow）<br /><br />法兰克福 GrokBot Build Day（The Squaire；AI Week × Glassflow / SpaceXAI）：动手交付场，非纯演讲。免费有候补；午间扫描 guest_count 83。与旧 fra-20261023 同 slug 1rv39ekj（从 10/23 改期到 10/30，场地 Motel One→Squaire）。<br /><br /><a href="https://luma.com/1rv39ekj"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 <a id="country-br"></a>
 ### 巴西

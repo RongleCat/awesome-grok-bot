@@ -1154,6 +1154,26 @@
             "zh": "官方 @bot（2026-10-01 ~17:35 UTC）：Grok Bot 可不待你开口先提出可帮忙的事——Primary Bot 会主动发现可代劳的工作并提议接手（建议本身不计用量）。",
             "ja": "公式 @bot（2026-10-01 ~17:35 UTC）。聞かれる前に手伝えることを提案—Primary Bot が仕事を先回りして申し出る（提案は usage にカウントされない）。"
           }
+        },
+        {
+          "title": "Deploy Grok Bot to your organization",
+          "url": "https://cursor.com/docs/grok-bot/deployment",
+          "source": "GB-1971",
+          "blurb": {
+            "en": "Official Cursor docs for IT rollout of the Grok Bot desktop app: sand release feeds, MDM/silent install, Linux apt/yum repos, pinned versions, hosted-computer image updates, and network allowlists for cursorvm.com.",
+            "zh": "Cursor 官方文档：面向组织部署 Grok Bot 桌面端，含 sand 发布源、MDM/静默安装、Linux 包仓库、版本钉扎、托管电脑镜像更新，以及 cursorvm.com 网络放行。",
+            "ja": "組織向け Grok Bot デスクトップ展開の公式ドキュメント。sand リリースフィード、MDM/サイレントインストール、Linux リポジトリ、バージョン固定、ホスト側イメージ更新、cursorvm.com 許可リストを解説。"
+          }
+        },
+        {
+          "title": "Team Bots",
+          "url": "https://docs.x.ai/grok-bot/team-bots",
+          "source": "GB-1972",
+          "blurb": {
+            "en": "SpaceXAI docs for Team Bots: one shared Bot for the whole team with team memory, owner-managed plugins/secrets/skills, per-teammate private chats, Slack app install, and which cloud computer each conversation uses.",
+            "zh": "SpaceXAI 官方 Team Bots 文档：团队共用一台 Bot、团队记忆、所有者管理插件/密钥/技能、每人私聊隔离、Slack 应用接入，以及各会话使用哪台云电脑。",
+            "ja": "Team Bots の公式ドキュメント。チーム共有 Bot、チームメモリ、オーナー管理のプラグイン/シークレット/スキル、個人チャットの隔離、Slack アプリ、会話ごとに使うクラウド PC を説明。"
+          }
         }
       ]
     },
@@ -3943,6 +3963,16 @@
             "en": "Weekly Grok Bot usage report that reads local agent logs on the Bot computer and writes an HTML page plus a five-second text summary (activity proxy, not tokens).",
             "zh": "从 Grok Bot 云电脑本地代理日志生成周报：输出 HTML 与五秒可读摘要（活动量代理指标，非 token/费用）。",
             "ja": "Bot コンピュータ上のローカル代理ログから週次レポート（HTML＋短文）。活動量の代理指標で、トークン／料金ではない。"
+          }
+        },
+        {
+          "title": "taller-grok-bot — Lionel captain team workshop (leads/landing/email)",
+          "url": "https://github.com/valenzmanu/taller-grok-bot",
+          "source": "GB-1976",
+          "blurb": {
+            "en": "Guatemala Meetup workshop: captain Bot Lionel spins up Di María/Riquelme/Julián with skills to find restaurant leads, demo a landing, and draft an email (no send).",
+            "zh": "危地马拉 Meetup 工坊：队长 Bot Lionel 拉起 Di María/Riquelme/Julián，用技能找餐厅线索、演示落地页并起草邮件（不发送）。",
+            "ja": "Guatemala Meetup 向け。キャプテン Bot Lionel が Di María／Riquelme／Julián を組み、リード探し・ランディングデモ・メール下書き（送信なし）。"
           }
         }
       ]
@@ -10224,6 +10254,96 @@
             "zh": "常驻 Grok Bot 技能：优先走脚本/MCP/API、截图垫后，附多语言 README 与检查清单以少烧额度。",
             "ja": "常駐 Grok Bot スキル。スクリプト／MCP／API を先に、スクショは最後。多言語 README とチェックリスト付き。"
           }
+        },
+        {
+          "title": "roobook-plugin — RooBook library MCP for Grok Bot",
+          "url": "https://github.com/arcmanagement/roobook-plugin",
+          "source": "GB-1977",
+          "blurb": {
+            "en": "Grok Bot marketplace plugin that OAuth-connects RooBook so the Bot can list books, full-text search, and save private reading notes via hosted MCP.",
+            "zh": "Grok Bot 市场插件：OAuth 连接 RooBook，经托管 MCP 列出藏书、全文搜索并保存私密读书笔记。",
+            "ja": "Grok Bot 向け RooBook プラグイン。OAuth で接続し、蔵書一覧・全文検索・私的メモをホスト MCP 経由で操作。"
+          }
+        },
+        {
+          "title": "blindless-plugin — Blindless owner board MCP for Grok Bot",
+          "url": "https://github.com/FastFix-SF/blindless-plugin",
+          "source": "GB-1978",
+          "blurb": {
+            "en": "Cursor/Grok Bot marketplace connector for Blindless: OAuth MCP so the Bot reports tasks, bots, schedule, and team status onto the owner's board.",
+            "zh": "Cursor/Grok Bot 市场连接器 Blindless：经 OAuth MCP 把任务、Bot、日程与团队状态报到所有者看板。",
+            "ja": "Blindless の Cursor/Grok Bot コネクタ。OAuth MCP でタスク・Bot・予定・チーム状況をオーナーボードへ報告。"
+          }
+        },
+        {
+          "title": "inboxmcp-cursor — LinkedIn InboxMCP for Cursor/Grok Bot",
+          "url": "https://github.com/breakcold/inboxmcp-cursor",
+          "source": "GB-1980",
+          "blurb": {
+            "en": "InboxMCP Cursor/Grok Bot plugin for LinkedIn inbox, profile research, and user-approved outreach through a hosted MCP connector.",
+            "zh": "InboxMCP 的 Cursor/Grok Bot 插件：经托管 MCP 处理 LinkedIn 收件箱、资料研究与需用户批准的外联。",
+            "ja": "InboxMCP の Cursor/Grok Bot プラグイン。ホスト MCP で LinkedIn 受信箱・プロフィール調査・承認付きアウトリーチ。"
+          }
+        },
+        {
+          "title": "agent-use-cases — crowd-sourced GrokBot skills & connectors",
+          "url": "https://github.com/vaulpannx/agent-use-cases",
+          "source": "GB-1981",
+          "blurb": {
+            "en": "Crowd-sourced skills, connectors, use-case playbooks, and helpers for GrokBot, built from X campaign ideas with credited submitters.",
+            "zh": "面向 GrokBot 的众包技能/连接器/用例手册与小工具，来自 X 征集想法并署名投稿者。",
+            "ja": "X キャンペーン案から作る GrokBot 向けスキル・コネクタ・ユースケース・ヘルパー集。投稿者クレジット付き。"
+          }
+        },
+        {
+          "title": "nopressure-grok-bot-plugin — workplace rehearsal MCP",
+          "url": "https://github.com/JetBrains/nopressure-grok-bot-plugin",
+          "source": "GB-1983",
+          "blurb": {
+            "en": "JetBrains NoPressure marketplace plugin for Grok Bot: OAuth MCP to create voice roleplay simulations and fetch debrief feedback after hard conversations.",
+            "zh": "JetBrains NoPressure 的 Grok Bot 市场插件：经 OAuth MCP 创建语音情景演练，并在艰难对话后拉取复盘反馈。",
+            "ja": "JetBrains NoPressure の Grok Bot プラグイン。OAuth MCP で音声ロールプレイを作り、難しい会話後のフィードバックを取得。"
+          }
+        },
+        {
+          "title": "zoho-workspace-grok-bot-plugin — Zoho Mail/Calendar MCP",
+          "url": "https://github.com/digismiths-club/zoho-workspace-grok-bot-plugin",
+          "source": "GB-1984",
+          "blurb": {
+            "en": "Zoho Workspace marketplace plugin for Grok Bot/Cursor: connect Zoho MCP (Mail, Calendar, WorkDrive, Cliq) via a user-supplied Connect URL and OAuth.",
+            "zh": "Zoho Workspace 的 Grok Bot/Cursor 市场插件：用自备 Connect URL + OAuth 接入 Zoho MCP（邮件/日历/WorkDrive/Cliq）。",
+            "ja": "Zoho Workspace の Grok Bot/Cursor プラグイン。Connect URL と OAuth で Mail／Calendar／WorkDrive／Cliq の Zoho MCP に接続。"
+          }
+        },
+        {
+          "title": "dodo-payments-code — Dodo Payments MCP for Grok Bot",
+          "url": "https://github.com/lovinmaxwell/dodo-payments-code",
+          "source": "GB-1985",
+          "blurb": {
+            "en": "Cursor/Grok Bot plugin wiring Dodo Payments remote MCP (API Code Mode + Knowledge docs) for payments, subscriptions, refunds, and docs search.",
+            "zh": "Cursor/Grok Bot 插件：接入 Dodo Payments 远程 MCP（API Code Mode + 文档 Knowledge），可处理支付/订阅/退款与文档检索。",
+            "ja": "Dodo Payments のリモート MCP（API Code Mode＋Knowledge）を Cursor/Grok Bot に接続し、決済・購読・返金・ドキュメント検索。"
+          }
+        },
+        {
+          "title": "bricksid-cursor-plugin — LEGO scan/collection MCP",
+          "url": "https://github.com/lukegabrielactual/bricksid-cursor-plugin",
+          "source": "GB-1986",
+          "blurb": {
+            "en": "BricksID marketplace plugin for Cursor/Grok Bot: hosted MCP to identify LEGO minifigs/sets from photos and manage your collection after browser login.",
+            "zh": "BricksID 的 Cursor/Grok Bot 市场插件：托管 MCP 从照片识别乐高人仔/套装，浏览器登录后管理收藏。",
+            "ja": "BricksID の Cursor/Grok Bot プラグイン。ホスト MCP で写真から LEGO ミニフィグ／セットを識別し、ブラウザログイン後にコレクション管理。"
+          }
+        },
+        {
+          "title": "limacharlie-cursor-plugin — LimaCharlie security MCP",
+          "url": "https://github.com/refractionPOINT/limacharlie-cursor-plugin",
+          "source": "GB-1987",
+          "blurb": {
+            "en": "Official LimaCharlie Cursor/Grok Bot plugin: OAuth to the hosted MCP so the Bot can run security workflows under the signed-in org's permissions.",
+            "zh": "LimaCharlie 官方 Cursor/Grok Bot 插件：OAuth 接入托管 MCP，按登录组织权限在对话中跑安全工作流。",
+            "ja": "LimaCharlie 公式 Cursor/Grok Bot プラグイン。ホスト MCP へ OAuth し、組織権限の下でセキュリティワークフローを実行。"
+          }
         }
       ]
     },
@@ -14094,6 +14214,36 @@
             "zh": "开源本机代理（对标 OpenAI Dots 与 Grok Bot）：基于 Charter，自带密钥，改动前需批准。",
             "ja": "OpenAI Dots / Grok Bot 系のオープンソース本地エージェント。Charter 製、自分のキー、変更前に承認。"
           }
+        },
+        {
+          "title": "omartwins — Omarchy multi-account launcher for Grok Bot",
+          "url": "https://github.com/lukebest/omartwins",
+          "source": "GB-1979",
+          "blurb": {
+            "en": "Omarchy plugin to run Cursor, Grok Bot, Claude Code, Codex, and Grok CLI under separate accounts bound to Hyprland workspaces.",
+            "zh": "Omarchy 插件：让 Cursor、Grok Bot、Claude Code、Codex 与 Grok CLI 各自账号绑定到不同 Hyprland 工作区并行运行。",
+            "ja": "Omarchy プラグイン。Cursor／Grok Bot／Claude Code／Codex／Grok CLI を別アカウントで Hyprland ワークスペースに紐づけて起動。"
+          }
+        },
+        {
+          "title": "grok-bot-learning — evidence-backed fleet memory for Grok bots",
+          "url": "https://github.com/matthiasroder/grok-bot-learning",
+          "source": "GB-1982",
+          "blurb": {
+            "en": "Python/SQLite learning runtime for a shared Grok Bot computer: scoped lessons, curator review, human reports, and reversible native-profile deployment.",
+            "zh": "共享 Grok Bot 云电脑上的 Python/SQLite 学习运行时：作用域课时、策展人审核、人工报告与可回滚的原生配置部署。",
+            "ja": "共有 Grok Bot コンピュータ向け学習ランタイム。スコープ付きレッスン、キュレータ審査、報告、可逆なネイティブ設定適用。"
+          }
+        },
+        {
+          "title": "grok-bot-tray — Windows close-to-tray for Grok Desktop",
+          "url": "https://github.com/gmzoztr/grok-bot-tray",
+          "source": "GB-1988",
+          "blurb": {
+            "en": "Windows companion that patches Grok Desktop (Electron) so clicking Close minimizes to the system tray instead of quitting the Grok Bot app.",
+            "zh": "Windows 配套工具：修补 Grok Desktop（Electron），点关闭时最小化到系统托盘而不是退出 Grok Bot。",
+            "ja": "Windows 用。Grok Desktop（Electron）の閉じる操作を終了ではなくシステムトレイ最小化にするパッチ／コンパニオン。"
+          }
         }
       ]
     },
@@ -16683,6 +16833,36 @@
             "en": "Failure report: multiple Grok Bot computers stuck showing Can't reach with no recovery path described in-thread.",
             "zh": "故障报告：多台 Grok Bot 云电脑卡在 Can't reach，帖内暂无明确恢复路径。",
             "ja": "障害報告。複数の Grok Bot コンピュータが Can't reach のまま。スレ内に明確な復旧手順なし。"
+          }
+        },
+        {
+          "title": "Grok Bot vs Cursor Projects",
+          "url": "https://forum.cursor.com/t/grok-bot-vs-cursor-projects/171375",
+          "source": "GB-1973",
+          "blurb": {
+            "en": "Staff mental model: Projects for long-running in-repo work, Grok Bot for multi-app work beyond the repo, Automations for schedule/event triggers—not three overlapping “who codes” layers.",
+            "zh": "官方拆解：Projects 做仓库内长程编排，Grok Bot 做跨应用云电脑任务，Automations 管定时/事件触发——不是三套重复的「谁写代码」。",
+            "ja": "公式の切り分け：Projects はリポジトリ内の長期作業、Grok Bot はリポ外のマルチアプリ作業、Automations はスケジュール/イベント起動——役割の重複ではない。"
+          }
+        },
+        {
+          "title": "1Password + Vercel Preview Links",
+          "url": "https://forum.cursor.com/t/1password-vercel-preview-links/173544",
+          "source": "GB-1974",
+          "blurb": {
+            "en": "Staff tip: each *.vercel.app preview is a separate 1Password site; use Vercel Preview Deployment Suffix on your domain with “Fill anywhere on this website,” or store staging logins as Bot secrets.",
+            "zh": "官方提示：每个 *.vercel.app 预览站在 1Password 里都算独立站点；用自有域名 Preview Deployment Suffix 并设「在此网站任意处填充」，或把测试账号存成 Bot secrets。",
+            "ja": "公式 Tips：*.vercel.app の各プレビューは 1Password 上で別サイト扱い。自ドメインの Preview Deployment Suffix と「このサイトのどこでも入力」、またはステージング認証を Bot secrets に。"
+          }
+        },
+        {
+          "title": "Grok Bot: Update/Reset stuck on “Backup not ready” / endless “Transferring data”",
+          "url": "https://forum.cursor.com/t/grok-bot-update-reset-stuck-on-backup-not-ready-endless-transferring-data/172343",
+          "source": "GB-1975",
+          "blurb": {
+            "en": "Staff clarification: a clean computer reset keeps bots, chats, memories, routines, connectors, and settings; it wipes only box files, installed packages, and browser logins on the cloud PC.",
+            "zh": "官方澄清：干净重置云电脑会保留 Bot、聊天、记忆、例程、连接器与设置；只会清掉电脑上的文件、已装软件和浏览器登录态。",
+            "ja": "公式の整理：クリーンなコンピュータリセットは Bot・チャット・メモリ・ルーチン・コネクタ・設定を保持し、消えるのはクラウド PC 上のファイル・導入パッケージ・ブラウザログインのみ。"
           }
         }
       ]
@@ -19543,6 +19723,16 @@
             "en": "Browser Three.js scene of four named Grok bots in a shared 3D office, with paste-ready prompts per bot.",
             "zh": "浏览器 Three.js 三维办公室场景：四台具名 Grok Bot 同框，并附每台可粘贴提示。",
             "ja": "ブラウザ Three.js の 3D オフィス。名前付き Grok Bot 4 体と各 Bot 用ペースト文。"
+          }
+        },
+        {
+          "title": "Clawds — local Claude Code swarm (Grok Bot–style)",
+          "url": "https://github.com/ClawdsAgent/Clawds",
+          "source": "GB-1989",
+          "blurb": {
+            "en": "Open-source local messenger swarm powered by Claude Code—an alternative to OpenAI Dots and xAI Grok Bot with per-bot roles, memory, and git worktrees.",
+            "zh": "开源本机即时通讯多智能体（Claude Code 驱动），对标 OpenAI Dots 与 xAI Grok Bot：每 Bot 角色/记忆与独立 git worktree。",
+            "ja": "Claude Code 駆動のローカルメッセンジャー型スウォーム。OpenAI Dots／xAI Grok Bot 系の代替で、役割・記憶・git worktree 付き。"
           }
         }
       ]
@@ -24542,37 +24732,6 @@
     },
     {
       "title": {
-        "en": "Grok Bot Meetup Ottawa",
-        "zh": "Grok Bot Meetup 渥太华",
-        "ja": "Grok Bot Meetup オタワ"
-      },
-      "body": {
-        "en": "First catalogued Grok Bot meetup in Ottawa (hosts Qurb E Muhammad Syed, Kaan UN, Feyza Gulbent, Builders Collective Ottawa, David Storozhenko). Evening at Carleton University: Grok Bot 101, live demos, builder showcases, credits, networking. Devs/designers/founders/PMs/students welcome — no prior experience. Free RSVP with approval; bring a laptop. Discover slug phs5tofz (evt-B35bqngFNoe8UXB); no forum New-event post yet.",
-        "zh": "渥太华首场入库 Grok Bot 聚会（Builders Collective Ottawa 等主办）。Carleton University 晚场：Grok Bot 101、演示、展示、积分与交流。免费报名需审批；请带笔记本。新 slug phs5tofz；论坛尚无 New event 帖。",
-        "ja": "オタワ初のカタログ掲載 Grok Bot ミートアップ（Builders Collective Ottawa ほか）。Carleton University の夜：紹介・デモ・ショーケース・クレジット・交流。無料・承認制。ノートPC持参。新 slug phs5tofz；フォーラムの New event 投稿はまだなし。"
-      },
-      "image": "./assets/events/yow-20261010-cover.png",
-      "where": {
-        "en": "Nicol Building, Carleton University, 1125 Colonel By Dr, Ottawa, ON K1S 5B6, Canada — offline (room TBA)",
-        "zh": "加拿大渥太华 Carleton University Nicol Building, 1125 Colonel By Dr（线下，教室待定）",
-        "ja": "カナダ・オタワ Carleton University Nicol Building, 1125 Colonel By Dr（オフライン、部屋は後日）"
-      },
-      "expires": "2026-10-10T22:00:00-04:00",
-      "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で登録 →"
-      },
-      "when": {
-        "en": "Sat 10 Oct 2026, 18:00–22:00 (America/Toronto, UTC-4)",
-        "zh": "2026-10-10 周六 18:00–22:00（America/Toronto，UTC-4）",
-        "ja": "2026-10-10（土） 18:00–22:00（America/Toronto、UTC-4）"
-      },
-      "id": "yow-20261010",
-      "url": "https://luma.com/phs5tofz"
-    },
-    {
-      "title": {
         "en": "Grok Bot build night Hangzhou",
         "zh": "Grok Bot 杭州 Build Night",
         "ja": "Grok Bot 杭州ビルドナイト"
@@ -25905,37 +26064,6 @@
       }
     },
     {
-      "id": "fra-20261023",
-      "url": "https://luma.com/1rv39ekj",
-      "image": "./assets/events/fra-20261023-cover.png",
-      "expires": "2026-10-23T22:30:00+02:00",
-      "title": {
-        "en": "Build with Grokbot — Frankfurt (23 Oct)",
-        "zh": "Build with Grokbot — 法兰克福（10/23）",
-        "ja": "Build with Grokbot — フランクフルト（10/23）"
-      },
-      "when": {
-        "en": "Fri 23 Oct 2026, 14:00–22:30 (Europe/Berlin)",
-        "zh": "2026-10-23 周五 14:00–22:30（Europe/Berlin）",
-        "ja": "2026-10-23（金）14:00–22:30（Europe/Berlin）"
-      },
-      "where": {
-        "en": "Frankfurt am Main, Germany · Motel One Frankfurt-Messe (Europa-Allee 25) — offline",
-        "zh": "德国法兰克福 · Motel One Frankfurt-Messe（Europa-Allee 25）— 线下",
-        "ja": "ドイツ・フランクフルト · Motel One Frankfurt-Messe（Europa-Allee 25）— オフライン"
-      },
-      "body": {
-        "en": "Second SpaceXAI Frankfurt Build Day: ship with Grok Bot at Motel One Messe. Register on Luma.",
-        "zh": "SpaceXAI 法兰克福第二场 Build Day：在 Motel One Messe 用 Grok Bot 交付。Luma 报名。",
-        "ja": "SpaceXAI フランクフルト第2回 Build Day。Motel One Messe で Grok Bot 制作。Luma で登録。"
-      },
-      "cta": {
-        "en": "Register on Luma",
-        "zh": "去 Luma 报名",
-        "ja": "Luma で申し込む"
-      }
-    },
-    {
       "id": "was-20260929",
       "url": "https://luma.com/cwzr9s9c",
       "image": "./assets/events/was-20260929-cover.png",
@@ -26987,6 +27115,68 @@
         "en": "Register on Luma",
         "zh": "去 Luma 报名",
         "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "fra-20261030",
+      "url": "https://luma.com/1rv39ekj",
+      "image": "./assets/events/fra-20261030-cover.png",
+      "expires": "2026-10-30T18:15:00+01:00",
+      "title": {
+        "en": "Build Days w/ GrokBot @ AI Week — Frankfurt (30 Oct)",
+        "zh": "Build Days w/ GrokBot @ AI Week — 法兰克福（10/30）",
+        "ja": "Build Days w/ GrokBot @ AI Week — フランクフルト（10/30）"
+      },
+      "when": {
+        "en": "Fri 30 Oct 2026, 09:45–18:15 (Europe/Berlin, CET, UTC+1)",
+        "zh": "2026-10-30 周五 09:45–18:15（Europe/Berlin，CET，UTC+1）",
+        "ja": "2026-10-30（金）09:45–18:15（Europe/Berlin、CET、UTC+1）"
+      },
+      "where": {
+        "en": "Frankfurt am Main, Germany · The Squaire, Am Flughafen 12 — offline (AI Week × Glassflow)",
+        "zh": "德国法兰克福 · The Squaire，Am Flughafen 12 — 线下（AI Week × Glassflow）",
+        "ja": "ドイツ・フランクフルト · The Squaire、Am Flughafen 12 — オフライン（AI Week × Glassflow）"
+      },
+      "body": {
+        "en": "Frankfurt Build Day with GrokBot at The Squaire (AI Week × Glassflow / SpaceXAI). Working session to ship—not a talk track. Free; waitlist; guest_count 83 at midday scan. Same Luma slug 1rv39ekj as former fra-20261023 (rescheduled Oct 23→30, venue Motel One→Squaire). Hosts DJ Gangan, Felix Schiessl, Sabri Guenes, Eyad Kelleh.",
+        "zh": "法兰克福 GrokBot Build Day（The Squaire；AI Week × Glassflow / SpaceXAI）：动手交付场，非纯演讲。免费有候补；午间扫描 guest_count 83。与旧 fra-20261023 同 slug 1rv39ekj（从 10/23 改期到 10/30，场地 Motel One→Squaire）。",
+        "ja": "フランクフルトの GrokBot Build Day（The Squaire；AI Week × Glassflow / SpaceXAI）。トークではなく制作会。無料・ウェイトリスト。昼スキャン guest_count 83。旧 fra-20261023 と同じ slug 1rv39ekj（10/23→10/30、会場 Motel One→Squaire）。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "yow-20261017",
+      "url": "https://luma.com/phs5tofz",
+      "image": "./assets/events/yow-20261017-cover.png",
+      "expires": "2026-10-17T22:00:00-04:00",
+      "title": {
+        "en": "Grok Bot Meetup Ottawa",
+        "zh": "Grok Bot Meetup 渥太华",
+        "ja": "Grok Bot Meetup オタワ"
+      },
+      "when": {
+        "en": "Sat 17 Oct 2026, 18:00–22:00 (America/Toronto, EDT, UTC-4)",
+        "zh": "2026-10-17 周六 18:00–22:00（America/Toronto，EDT，UTC-4）",
+        "ja": "2026-10-17（土）18:00–22:00（America/Toronto、EDT、UTC-4）"
+      },
+      "where": {
+        "en": "Nicol Building, Carleton University, 1125 Colonel By Dr, Ottawa, ON K1S 5B6, Canada — offline",
+        "zh": "加拿大渥太华 Carleton University Nicol Building, 1125 Colonel By Dr — 线下",
+        "ja": "カナダ・オタワ Carleton University Nicol Building, 1125 Colonel By Dr — オフライン"
+      },
+      "body": {
+        "en": "Ottawa Grok Bot meetup at Carleton University (Builders Collective Ottawa; hosts Qurb E Muhammad Syed, Kaan UN, Feyza Gulbent, David Storozhenko). Evening demos/networking. Free RSVP; guest_count 62 at midday scan. Same Luma slug phs5tofz as former yow-20261010 (rescheduled Oct 10→17).",
+        "zh": "渥太华 Grok Bot（Carleton University；Builders Collective Ottawa 等主办）。晚场演示与交流。免费报名；午间扫描 guest_count 62。与旧 yow-20261010 同 slug phs5tofz（从 10/10 改期到 10/17）。",
+        "ja": "オタワの Grok Bot（Carleton University；Builders Collective Ottawa ほか）。夜のデモと交流。無料。昼スキャン guest_count 62。旧 yow-20261010 と同じ slug phs5tofz（10/10→10/17）。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で登録 →"
       }
     }
   ]

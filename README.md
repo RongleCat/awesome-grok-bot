@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1946-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1965-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -39,8 +39,8 @@
 
 - **China**（4）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261007) · [Macao](./EVENTS.md#mo-20261112)
 - **United States**（13）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Pasadena](./EVENTS.md#pas-20261008) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012) · [Atlanta (Job Night)](./EVENTS.md#atl-20261008)
-- **Canada**（5）：[Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010) · [Calgary](./EVENTS.md#yyc-20261028) · [Halifax](./EVENTS.md#yhz-20261015)
-- **Germany**（5）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261023) · [Frankfurt](./EVENTS.md#fra-20261120) · [Kassel](./EVENTS.md#kas-20261112)
+- **Canada**（5）：[Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Calgary](./EVENTS.md#yyc-20261028) · [Halifax](./EVENTS.md#yhz-20261015) · [Ottawa](./EVENTS.md#yow-20261017)
+- **Germany**（5）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261120) · [Kassel](./EVENTS.md#kas-20261112) · [Frankfurt](./EVENTS.md#fra-20261030)
 - **Brazil**（4）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Salvador](./EVENTS.md#ssa-20261008) · [Florianópolis](./EVENTS.md#fln-20261016)
 - **Indonesia**（4）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003) · [Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
 - **Ecuador**（3）：[Cumbayá](./EVENTS.md#cumb-20261003) · [Ambato](./EVENTS.md#atu-20261029) · [Quito](./EVENTS.md#uio-20261021)
@@ -205,6 +205,8 @@
 - [matt palmer: What's new in Grok Bot (Team bots, Finance, Voice)](https://x.com/mattyp/status/2105345158162063493) - Walkthrough video of Team bots, Plaid Finance, and voice-call improvements for Grok Bot.
 - [Elon Musk: New in Grok @Bot](https://x.com/elonmusk/status/2105350300534210708) - Elon amplifies the latest Grok Bot product roundup covering Team bots, Finance, and voice.
 - [@bot: Grok Bot can suggest ways to help without being asked (Primary Bot proactive)](https://x.com/bot/status/2105713240701538538) - Official @bot (2026-10-01 ~17:35 UTC): Grok Bot can now suggest ways to help without you needing to ask—Primary Bot proactively spots work and offers to handle it (suggestions do not burn usage).
+- [Deploy Grok Bot to your organization](https://cursor.com/docs/grok-bot/deployment) - Official Cursor docs for IT rollout of the Grok Bot desktop app: sand release feeds, MDM/silent install, Linux apt/yum repos, pinned versions, hosted-computer image updates, and network allowlists for cursorvm.com.
+- [Team Bots](https://docs.x.ai/grok-bot/team-bots) - SpaceXAI docs for Team Bots: one shared Bot for the whole team with team memory, owner-managed plugins/secrets/skills, per-teammate private chats, Slack app install, and which cloud computer each conversation uses.
 
 ## Tutorials & Guides
 
@@ -488,6 +490,7 @@
 - [personal-news-reader — PIN magazine refreshed by Grok Bot](https://github.com/scapp/personal-news-reader) - PIN-gated personal news magazine on GitHub Pages whose feed is refreshed on a schedule by Grok Bot.
 - [market-indicator — breadth gauge product of Grok Bot](https://github.com/gilsrubin-sys/market-indicator) - Browser market-breadth overbought/oversold gauge shipped as a product of Grok Bot (HTML + data.json dashboard).
 - [grokbot-usage — weekly activity report from Bot box logs](https://github.com/d3ming/grokbot-usage) - Weekly Grok Bot usage report that reads local agent logs on the Bot computer and writes an HTML page plus a five-second text summary (activity proxy, not tokens).
+- [taller-grok-bot — Lionel captain team workshop (leads/landing/email)](https://github.com/valenzmanu/taller-grok-bot) - Guatemala Meetup workshop: captain Bot Lionel spins up Di María/Riquelme/Julián with skills to find restaurant leads, demo a landing, and draft an email (no send).
 
 ## Skills, Plugins & MCP
 
@@ -1118,6 +1121,15 @@
 - [meta-ads-mcp — Meta Ads marketplace plugin for Grok Bot](https://github.com/leksicon1/meta-ads-mcp) - Cursor/Grok Bot marketplace plugin that connects Meta Ads MCP with bring-your-own Meta app credentials for campaigns, budgets, creatives, and insights.
 - [anny grok-plugin — booking system MCP for Grok Bot](https://github.com/anny-co/grok-plugin) - anny Booking System marketplace plugin for Grok Bot/Cursor: OAuth MCP to configure desks, rooms, appointments, and day-to-day booking ops in chat.
 - [grokbot-economy — scripts-first permanent skill](https://github.com/wesleysimplicio/grokbot-economy) - Permanent Grok Bot skill that steers every run toward scripts, MCP, and APIs first and screenshots last, with multilingual READMEs and checklists.
+- [roobook-plugin — RooBook library MCP for Grok Bot](https://github.com/arcmanagement/roobook-plugin) - Grok Bot marketplace plugin that OAuth-connects RooBook so the Bot can list books, full-text search, and save private reading notes via hosted MCP.
+- [blindless-plugin — Blindless owner board MCP for Grok Bot](https://github.com/FastFix-SF/blindless-plugin) - Cursor/Grok Bot marketplace connector for Blindless: OAuth MCP so the Bot reports tasks, bots, schedule, and team status onto the owner's board.
+- [inboxmcp-cursor — LinkedIn InboxMCP for Cursor/Grok Bot](https://github.com/breakcold/inboxmcp-cursor) - InboxMCP Cursor/Grok Bot plugin for LinkedIn inbox, profile research, and user-approved outreach through a hosted MCP connector.
+- [agent-use-cases — crowd-sourced GrokBot skills & connectors](https://github.com/vaulpannx/agent-use-cases) - Crowd-sourced skills, connectors, use-case playbooks, and helpers for GrokBot, built from X campaign ideas with credited submitters.
+- [nopressure-grok-bot-plugin — workplace rehearsal MCP](https://github.com/JetBrains/nopressure-grok-bot-plugin) - JetBrains NoPressure marketplace plugin for Grok Bot: OAuth MCP to create voice roleplay simulations and fetch debrief feedback after hard conversations.
+- [zoho-workspace-grok-bot-plugin — Zoho Mail/Calendar MCP](https://github.com/digismiths-club/zoho-workspace-grok-bot-plugin) - Zoho Workspace marketplace plugin for Grok Bot/Cursor: connect Zoho MCP (Mail, Calendar, WorkDrive, Cliq) via a user-supplied Connect URL and OAuth.
+- [dodo-payments-code — Dodo Payments MCP for Grok Bot](https://github.com/lovinmaxwell/dodo-payments-code) - Cursor/Grok Bot plugin wiring Dodo Payments remote MCP (API Code Mode + Knowledge docs) for payments, subscriptions, refunds, and docs search.
+- [bricksid-cursor-plugin — LEGO scan/collection MCP](https://github.com/lukegabrielactual/bricksid-cursor-plugin) - BricksID marketplace plugin for Cursor/Grok Bot: hosted MCP to identify LEGO minifigs/sets from photos and manage your collection after browser login.
+- [limacharlie-cursor-plugin — LimaCharlie security MCP](https://github.com/refractionPOINT/limacharlie-cursor-plugin) - Official LimaCharlie Cursor/Grok Bot plugin: OAuth to the hosted MCP so the Bot can run security workflows under the signed-in org's permissions.
 
 ## Reviews & Comparisons
 
@@ -1509,6 +1521,9 @@
 - [grok-bot-film-kit — Remotion engine for personalized Bot pitch films](https://github.com/Speediing/grok-bot-film-kit) - Public Remotion engine and pipeline docs for personalized Grok Bot pitch films—no customer assets in-repo; clone and render on a laptop or cloud agent.
 - [grok-bot-discord-bridge — Discord → sendPrompt wake path](https://github.com/matthew-rutledge-dev/grok-bot-discord-bridge) - Self-hosted Discord Gateway bridge that wakes Grok Bot via sendPrompt and posts agent callbacks back to Discord with deny-by-default authz.
 - [Shipmate — open-source laptop agent (Dots + Grok Bot style)](https://github.com/r28ai/shipmate) - Open-source laptop agent inspired by OpenAI Dots and Grok Bot, built on Charter with your own keys and approval before changes.
+- [omartwins — Omarchy multi-account launcher for Grok Bot](https://github.com/lukebest/omartwins) - Omarchy plugin to run Cursor, Grok Bot, Claude Code, Codex, and Grok CLI under separate accounts bound to Hyprland workspaces.
+- [grok-bot-learning — evidence-backed fleet memory for Grok bots](https://github.com/matthiasroder/grok-bot-learning) - Python/SQLite learning runtime for a shared Grok Bot computer: scoped lessons, curator review, human reports, and reversible native-profile deployment.
+- [grok-bot-tray — Windows close-to-tray for Grok Desktop](https://github.com/gmzoztr/grok-bot-tray) - Windows companion that patches Grok Desktop (Electron) so clicking Close minimizes to the system tray instead of quitting the Grok Bot app.
 
 ## Community & Failure Modes
 
@@ -1770,6 +1785,9 @@
 - [Forum: Update needed ~4 times to reach latest computer image](https://forum.cursor.com/t/grok-bot-computer-update-needed-4-consecutive-update-presses-to-reach-latest-image/173562) - Bug report: after updating a Grok Bot computer, Update keeps offering again—about four presses before the image shows current.
 - [Forum: Bot computer silently restored to Sep 28 snapshot](https://forum.cursor.com/t/grok-bot-computer-silently-restored-to-a-sep-28-snapshot-overnight-3-days-of-box-files-sep-29-oct-1-lost-no-update-reset-pressed/173623) - Failure report: Grok Bot cloud computer rebooted overnight and restored a Sep 28 snapshot, wiping Sep 29–Oct 1 box files with no Update/Reset pressed.
 - [Forum: Grok Bot Computers stuck in Can't reach state](https://forum.cursor.com/t/grok-bot-computers-stuck-in-cant-reach-state/173607) - Failure report: multiple Grok Bot computers stuck showing Can't reach with no recovery path described in-thread.
+- [Grok Bot vs Cursor Projects](https://forum.cursor.com/t/grok-bot-vs-cursor-projects/171375) - Staff mental model: Projects for long-running in-repo work, Grok Bot for multi-app work beyond the repo, Automations for schedule/event triggers—not three overlapping “who codes” layers.
+- [1Password + Vercel Preview Links](https://forum.cursor.com/t/1password-vercel-preview-links/173544) - Staff tip: each *.vercel.app preview is a separate 1Password site; use Vercel Preview Deployment Suffix on your domain with “Fill anywhere on this website,” or store staging logins as Bot secrets.
+- [Grok Bot: Update/Reset stuck on “Backup not ready” / endless “Transferring data”](https://forum.cursor.com/t/grok-bot-update-reset-stuck-on-backup-not-ready-endless-transferring-data/172343) - Staff clarification: a clean computer reset keeps bots, chats, memories, routines, connectors, and settings; it wipes only box files, installed packages, and browser logins on the cloud PC.
 
 ## Related Lists
 
@@ -2058,10 +2076,11 @@
 - [Erika — GrokBot README banner painter API](https://github.com/Moemu/Erika) - API maid that paints GrokBot-style portrait banners for GitHub repos (live demo at erika.snowy.moe).
 - [opendots — open-source OpenAI dots / Grok Bot alternative](https://github.com/milisp/opendots) - Tauri + Axum personal agent workspace positioned as an open-source OpenAI dots and Grok Bot alternative (distinct from Anil-matcha/open-dots).
 - [oficina-grok-bots — browser 3D office of four Grok bots](https://github.com/robchvz97/oficina-grok-bots) - Browser Three.js scene of four named Grok bots in a shared 3D office, with paste-ready prompts per bot.
+- [Clawds — local Claude Code swarm (Grok Bot–style)](https://github.com/ClawdsAgent/Clawds) - Open-source local messenger swarm powered by Claude Code—an alternative to OpenAI Dots and xAI Grok Bot with per-bot roles, memory, and git worktrees.
 
 ## Contributing
 
-1946 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1965 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
