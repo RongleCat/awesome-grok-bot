@@ -63,24 +63,6 @@
 <a id="atl-20261008"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/enjt7lt8"><img src="./assets/events/atl-20261008-cover.png" alt="SpaceXAI：GrokBot Job Night（亚特兰大）" width="300" /></a></td><td valign="top"><strong>SpaceXAI：GrokBot Job Night（亚特兰大）</strong><br />2026-10-08 周四 18:30–20:00（America/New_York，EDT，UTC-4）<br />亚特兰大 · Klaus Advanced Computing Building（266 Ferst Dr NW）· 线下<br /><br />SpaceXAI 亚特兰大 GrokBot Job Night（Klaus 楼）。免费需审批；早间扫描 guest_count 27。Luma enjt7lt8。勿与 atl-20261016 KSU 工程师场混淆。<br /><br /><a href="https://luma.com/enjt7lt8"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="country-br"></a>
-### 巴西
-
-<a id="vdc-20261014"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-iutk"><img src="./assets/events/vdc-20261014-cover.png" alt="Grok Bot Meetup 维多利亚·达孔基斯塔" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 维多利亚·达孔基斯塔</strong><br />2026-10-14 周三 19:00–22:00（巴西 Bahia，UTC−3）<br />巴西 Bahia 维多利亚·达孔基斯塔 Hub Conquista（Av. Juracy Magalhães 3405, Boa Vista）（线下）<br /><br />巴西 Bahia 维多利亚·达孔基斯塔线下 Grok Bot 聚会（挂在 SpaceXAI for Salvador 日历；主办 Benjamin Bauer、Sarah Ferreira Reis）。议程：社交、讲座/工坊、Q&A，围绕 Grok Bot。场地 Hub Conquista 有完整地址；免费、无需审批；扫描时 guest_count 1。社区日历新 slug cursor-iutk + 论坛 171709。<br /><br /><a href="https://luma.com/cursor-iutk"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
-<a id="cwb-20261111"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dx23"><img src="./assets/events/cwb-20261111-cover.png" alt="Grok Bot 库里蒂巴创业线下" width="300" /></a></td><td valign="top"><strong>Grok Bot 库里蒂巴创业线下</strong><br />2026-11-11 周三 18:30–21:00（库里蒂巴）<br />库里蒂巴 Rua Marcos Moro 72<br /><br />库里蒂巴创业场：用 Grok Bot 做事、创始人经验，以及智能体时代怎么把想法做出来（嘉宾待定）。需主办审核。<br /><br /><a href="https://luma.com/cursor-dx23"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="cwb-20261002"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-qgll"><img src="./assets/events/cwb-20261002-cover.png" alt="Grok Bot Build：人人都能当 CTO" width="300" /></a></td><td valign="top"><strong>Grok Bot Build：人人都能当 CTO</strong><br />2026-10-02 周五 19:00–20:30（America/Sao_Paulo）<br />巴西库里蒂巴 · PUCPR Bloco 6（医学院），Prado Velho — 线下<br /><br />SpaceXAI 库里蒂巴 Build（自 2026-09-29 改期）：用 Grok Bot 团队当「人机 CTO」。PUCPR 分享+动手。免费需审批；早间扫描 guest_count 93。同一 Luma spacexai-qgll。<br /><br /><a href="https://luma.com/spacexai-qgll"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
-<a id="ssa-20261008"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-psox"><img src="./assets/events/ssa-20261008-cover.png" alt="Grok Bot Meetup 萨尔瓦多（巴西）" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 萨尔瓦多（巴西）</strong><br />2026-10-08 周四 18:00–21:00（America/Bahia）<br />巴西萨尔瓦多（巴伊亚）· UNIFACS Campus Tancredo Neves（Av. Tancredo Neves, 2131）— 线下<br /><br />SpaceXAI 巴西萨尔瓦多 Grok Bot 聚会：社交、分享/工作坊、问答（UNIFACS）。新发布，Luma 报名。<br /><br /><a href="https://luma.com/spacexai-psox"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
-<a id="fln-20261016"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/3t86uc0s"><img src="./assets/events/fln-20261016-cover.png" alt="Grok Bot 弗洛里亚诺波利斯 Building Day" width="300" /></a></td><td valign="top"><strong>Grok Bot 弗洛里亚诺波利斯 Building Day</strong><br />2026-10-16 周五 14:00–22:00（America/Sao_Paulo，UTC-3）。<br />巴西弗洛里亚诺波利斯 — Founder Haus（Jurerê Internacional，线下）。<br /><br />弗洛里亚诺波利斯整下午 Building Day（SpaceXAI for Florianópolis；主办 Alexandre Ferrari / Founder Haus / Christian Rios）。有别于 9/26 Meetup；候补开放（扫描时 guest_count 6）。slug 3t86uc0s。<br /><br /><a href="https://luma.com/3t86uc0s"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
 <a id="country-ca"></a>
 ### 加拿大
 
@@ -117,6 +99,21 @@
 <a id="kas-20261112"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/rx61bqy9"><img src="./assets/events/kas-20261112-cover.png" alt="Grok Bot Meetup 卡塞尔" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 卡塞尔</strong><br />2026-11-12 周四 18:00–22:00（卡塞尔 CET，UTC+1）<br />德国卡塞尔 · 报名后可见场地（Bettenhausen 一带）· 线下<br /><br />卡塞尔首场 Grok Bot 聚会（SpaceXAI for Kassel；主办 Eyad Kelleh、Maurice Pfurr 等；论坛 173331 / Luma rx61bqy9）。闲聊、演示、现场试用额度；需审批+候补；早间扫描 guest_count 2。<br /><br /><a href="https://luma.com/rx61bqy9"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
+<a id="country-br"></a>
+### 巴西
+
+<a id="vdc-20261014"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-iutk"><img src="./assets/events/vdc-20261014-cover.png" alt="Grok Bot Meetup 维多利亚·达孔基斯塔" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 维多利亚·达孔基斯塔</strong><br />2026-10-14 周三 19:00–22:00（巴西 Bahia，UTC−3）<br />巴西 Bahia 维多利亚·达孔基斯塔 Hub Conquista（Av. Juracy Magalhães 3405, Boa Vista）（线下）<br /><br />巴西 Bahia 维多利亚·达孔基斯塔线下 Grok Bot 聚会（挂在 SpaceXAI for Salvador 日历；主办 Benjamin Bauer、Sarah Ferreira Reis）。议程：社交、讲座/工坊、Q&A，围绕 Grok Bot。场地 Hub Conquista 有完整地址；免费、无需审批；扫描时 guest_count 1。社区日历新 slug cursor-iutk + 论坛 171709。<br /><br /><a href="https://luma.com/cursor-iutk"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
+<a id="cwb-20261111"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dx23"><img src="./assets/events/cwb-20261111-cover.png" alt="Grok Bot 库里蒂巴创业线下" width="300" /></a></td><td valign="top"><strong>Grok Bot 库里蒂巴创业线下</strong><br />2026-11-11 周三 18:30–21:00（库里蒂巴）<br />库里蒂巴 Rua Marcos Moro 72<br /><br />库里蒂巴创业场：用 Grok Bot 做事、创始人经验，以及智能体时代怎么把想法做出来（嘉宾待定）。需主办审核。<br /><br /><a href="https://luma.com/cursor-dx23"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="ssa-20261008"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-psox"><img src="./assets/events/ssa-20261008-cover.png" alt="Grok Bot Meetup 萨尔瓦多（巴西）" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 萨尔瓦多（巴西）</strong><br />2026-10-08 周四 18:00–21:00（America/Bahia）<br />巴西萨尔瓦多（巴伊亚）· UNIFACS Campus Tancredo Neves（Av. Tancredo Neves, 2131）— 线下<br /><br />SpaceXAI 巴西萨尔瓦多 Grok Bot 聚会：社交、分享/工作坊、问答（UNIFACS）。新发布，Luma 报名。<br /><br /><a href="https://luma.com/spacexai-psox"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="fln-20261016"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/3t86uc0s"><img src="./assets/events/fln-20261016-cover.png" alt="Grok Bot 弗洛里亚诺波利斯 Building Day" width="300" /></a></td><td valign="top"><strong>Grok Bot 弗洛里亚诺波利斯 Building Day</strong><br />2026-10-16 周五 14:00–22:00（America/Sao_Paulo，UTC-3）。<br />巴西弗洛里亚诺波利斯 — Founder Haus（Jurerê Internacional，线下）。<br /><br />弗洛里亚诺波利斯整下午 Building Day（SpaceXAI for Florianópolis；主办 Alexandre Ferrari / Founder Haus / Christian Rios）。有别于 9/26 Meetup；候补开放（扫描时 guest_count 6）。slug 3t86uc0s。<br /><br /><a href="https://luma.com/3t86uc0s"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
 <a id="country-id"></a>
 ### 印度尼西亚
 
@@ -144,6 +141,18 @@
 <a id="uio-20261021"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-7spd"><img src="./assets/events/uio-20261021-cover.png" alt="Grok Bot Meetup 基多" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 基多</strong><br />2026-10-21 周三 17:30–20:30（America/Guayaquil，ECT，UTC-5）<br />厄瓜多尔基多 · 线下（报名后可见精确地址）<br /><br />SpaceXAI 基多 Grok Bot 聚会。免费报名；早间扫描 guest_count 12。Luma spacexai-7spd。勿与已过期 uio-20260924 混淆。<br /><br /><a href="https://luma.com/spacexai-7spd"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
+<a id="country-it"></a>
+### 意大利
+
+<a id="rom-20261023"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-rome"><img src="./assets/events/rom-20261023-cover.png" alt="Grok Bot Meetup 罗马" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 罗马</strong><br />2026-10-23 周五 10:00–13:00（Europe/Rome）<br />意大利罗马 · Urbe Hub（Largo Dino Frisullo, 00153 Roma RM）— 线下<br /><br />SpaceXAI 罗马站（Urbe Hub）：一起用 Grok Bot 构建与分享。与 Urbe Hub 合办。Luma 报名。<br /><br /><a href="https://luma.com/grok-bot-rome"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="tvs-20261022"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-kk5f"><img src="./assets/events/tvs-20261022-cover.png" alt="Grok Bot Meetup — H-FARM 特雷维索" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup — H-FARM 特雷维索</strong><br />2026-10-22 周四 18:30–21:00（Europe/Rome，CEST，UTC+2）。<br />意大利特雷维索省 Roncade · H-FARM（Via Adriano Olivetti 1，31056）— 线下。<br /><br />威尼托首场 Grok Bot Meetup，场地 H-FARM（SpaceXAI for Padua 日历；主办 Victor Motricala；开场 Diego Pizzocaro / H-FARM AI）。英语晚间：介绍、直播演示、发额度、交流餐饮、动手；必须带笔记本。免费开放报名，启用候补（扫描时 guest_count 2 / 约 128 席）。slug spacexai-kk5f（evt-DQJ18z0yEPgVagi）+ 论坛 173108。<br /><br /><a href="https://luma.com/spacexai-kk5f"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
+<a id="blq-20261012"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-bologna-01"><img src="./assets/events/blq-20261012-cover.png" alt="Grok Bot 博洛尼亚线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 博洛尼亚线下交流</strong><br />2026-10-12 周一 18:00–21:00（Europe/Rome，CEST，UTC+2）<br />意大利博洛尼亚 · Serre dei Giardini Margherita，Via Castiglione 134 — 线下<br /><br />博洛尼亚首场 Grok Bot（Serra Liberty / Kilowatt）：演示+自带电脑动手。免费；早间扫描 guest_count 8。Luma spacexai-bologna-01。<br /><br /><a href="https://luma.com/spacexai-bologna-01"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-es"></a>
 ### 西班牙
 
@@ -162,24 +171,6 @@
 <a id="gua-20261205"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-97mt"><img src="./assets/events/gua-20261205-cover.png" alt="Grok Bot Meetup 危地马拉" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 危地马拉</strong><br />2026-12-05 周六 15:00–20:00（America/Guatemala）<br />危地马拉 · 场地待定（见 Luma/主办方更新）— 线下<br /><br />SpaceXAI 危地马拉线下 Grok Bot 聚会（论坛+Luma 已发）。场地细节见 Luma 报名页。<br /><br /><a href="https://luma.com/spacexai-97mt"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="country-it"></a>
-### 意大利
-
-<a id="rom-20261023"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grok-bot-rome"><img src="./assets/events/rom-20261023-cover.png" alt="Grok Bot Meetup 罗马" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 罗马</strong><br />2026-10-23 周五 10:00–13:00（Europe/Rome）<br />意大利罗马 · Urbe Hub（Largo Dino Frisullo, 00153 Roma RM）— 线下<br /><br />SpaceXAI 罗马站（Urbe Hub）：一起用 Grok Bot 构建与分享。与 Urbe Hub 合办。Luma 报名。<br /><br /><a href="https://luma.com/grok-bot-rome"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
-<a id="tvs-20261022"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-kk5f"><img src="./assets/events/tvs-20261022-cover.png" alt="Grok Bot Meetup — H-FARM 特雷维索" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup — H-FARM 特雷维索</strong><br />2026-10-22 周四 18:30–21:00（Europe/Rome，CEST，UTC+2）。<br />意大利特雷维索省 Roncade · H-FARM（Via Adriano Olivetti 1，31056）— 线下。<br /><br />威尼托首场 Grok Bot Meetup，场地 H-FARM（SpaceXAI for Padua 日历；主办 Victor Motricala；开场 Diego Pizzocaro / H-FARM AI）。英语晚间：介绍、直播演示、发额度、交流餐饮、动手；必须带笔记本。免费开放报名，启用候补（扫描时 guest_count 2 / 约 128 席）。slug spacexai-kk5f（evt-DQJ18z0yEPgVagi）+ 论坛 173108。<br /><br /><a href="https://luma.com/spacexai-kk5f"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
-<a id="country-jp"></a>
-### 日本
-
-<a id="spk-20261002"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/91kju0je"><img src="./assets/events/spk-20261002-cover.png" alt="Grok Bot 札幌线下交流 #2" width="300" /></a></td><td valign="top"><strong>Grok Bot 札幌线下交流 #2</strong><br />2026-10-02 周五 19:00–22:00（札幌）<br />札幌 · 报名通过后可见地址<br /><br />札幌第二场 Grok Bot 线下。免费，需主办审核。<br /><br /><a href="https://luma.com/91kju0je"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
-
-<a id="tyo-20261011"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-hackathon-tokyo"><img src="./assets/events/tyo-20261011-cover.png" alt="Grok Bot 东京黑客松" width="300" /></a></td><td valign="top"><strong>Grok Bot 东京黑客松</strong><br />2026-10-11 周六 10:00–18:00（Asia/Tokyo）<br />日本东京 · 御茶ノ水ソラシティ（千代田区神田骏河台4-6）— 线下<br /><br />SpaceXAI 东京黑客松（御茶ノ水ソラシティ）：全日线下用 Grok Bot 构建。Luma 报名。<br /><br /><a href="https://luma.com/grokbot-hackathon-tokyo"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
 <a id="country-kh"></a>
 ### 柬埔寨
 
@@ -189,14 +180,14 @@
 <a id="srp-20261101"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-yvwt"><img src="./assets/events/srp-20261101-cover.png" alt="Grok Bot Meetup 暹粒" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 暹粒</strong><br />2026-11-01 周日 14:00–18:00（暹粒 / 曼谷时区 ICT，UTC+7）<br />柬埔寨暹粒 The Creative House（Street Wat Po）· 线下<br /><br />暹粒首场 Grok Bot 聚会（SpaceXAI 金边日历；主办 Taka Kiyone、Luis Romero 等；论坛 173298 / Luma spacexai-yvwt）。闲聊、演示、交流；候补开启；晚间扫描 guest_count 0。<br /><br /><a href="https://luma.com/spacexai-yvwt"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="country-kz"></a>
-### 哈萨克斯坦
+<a id="country-mx"></a>
+### 墨西哥
 
-<a id="nqz-20261002"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/t1l3nqrc"><img src="./assets/events/nqz-20261002-cover.png" alt="Grok Bot Meetup 阿斯塔纳" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 阿斯塔纳</strong><br />2026-10-02 周五 14:00–17:00（Asia/Almaty，UTC+5）<br />哈萨克斯坦阿斯塔纳（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />阿斯塔纳首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug t1l3nqrc）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/t1l3nqrc"><strong>在 Luma 报名 →</strong></a></td></tr></table>
+<a id="mty-20261003"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/5ohq71b3"><img src="./assets/events/mty-20261003-cover.png" alt="Grok 蒙特雷黑客松" width="300" /></a></td><td valign="top"><strong>Grok 蒙特雷黑客松</strong><br />2026-10-03 周六 10:00–17:00（America/Monterrey）<br />墨西哥蒙特雷 — 线下（详细场地见 Luma）<br /><br />Grok 蒙特雷黑客松（SpaceXAI for Monterrey）：当日构建场，有别于早前 mty-20260910 交流。<br /><br /><a href="https://luma.com/5ohq71b3"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="ala-20261004"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/vod1qyrk"><img src="./assets/events/ala-20261004-cover.png" alt="Grok Bot Meetup 阿拉木图" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 阿拉木图</strong><br />2026-10-04 周日 14:00–17:00（Asia/Almaty，UTC+5）<br />哈萨克斯坦阿拉木图（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />阿拉木图首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug vod1qyrk）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/vod1qyrk"><strong>在 Luma 报名 →</strong></a></td></tr></table>
+<a id="cdmx-20261009"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-yfrs"><img src="./assets/events/cdmx-20261009-cover.png" alt="Grok Bot 墨西哥城 × SpaceXAI" width="300" /></a></td><td valign="top"><strong>Grok Bot 墨西哥城 × SpaceXAI</strong><br />2026-10-09 周四 10:00–13:00（America/Mexico_City，CST，UTC-6）<br />墨西哥城 · Hipódromo Condesa（报名后 Luma 可见具体场地）— 线下<br /><br />墨西哥城 Grok Bot 回归场（SpaceXAI）：短演示真实用法。免费；早间扫描 guest_count 0。Luma spacexai-yfrs。勿与 cdmx-20260926 混淆。<br /><br /><a href="https://luma.com/spacexai-yfrs"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 <a id="country-al"></a>
 ### 阿尔巴尼亚
@@ -240,17 +231,17 @@
 <a id="abj-20261107"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-2qgv"><img src="./assets/events/abj-20261107-cover.png" alt="Grok Bot Meetup 阿比让" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 阿比让</strong><br />2026-11-07 周六 09:00–17:00（Africa/Abidjan / GMT）<br />科特迪瓦阿比让 · Alto café（Danga Nord，Institut Coeur de Grace 附近）— 线下<br /><br />SpaceXAI 阿比让站（Alto café）：全天随到随建、用 Grok Bot 交流（Café Cursor Abidjan 续场）。轻松咖啡氛围；目前约 11 人。Luma 报名。<br /><br /><a href="https://luma.com/spacexai-2qgv"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="country-co"></a>
-### 哥伦比亚
-
-<a id="pei-20261002"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-pereira-grokbot"><img src="./assets/events/pei-20261002-cover.png" alt="Grok Bot Meetup 佩雷拉" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 佩雷拉</strong><br />2026-10-02 周五 14:00–17:30（America/Bogota）<br />哥伦比亚佩雷拉 · Universidad Autónoma de las Américas（Av. de las Américas #98-56）— 线下<br /><br />SpaceXAI 佩雷拉 Grok Bot/AI 下午场（Universidad Autónoma de las Américas）；嘉宾待定，含咖啡点心。免费报名（早间扫描 guest_count 68）。Luma slug spacexai-pereira-grokbot（旧 spacexai-1wgg 已失效）。<br /><br /><a href="https://luma.com/spacexai-pereira-grokbot"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
 <a id="country-fi"></a>
 ### 芬兰
 
 <a id="hel-20261027"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/aic-fi-10-27"><img src="./assets/events/hel-20261027-cover.png" alt="SpaceXAI Grok Bot：Breakfast & Build（赫尔辛基）" width="300" /></a></td><td valign="top"><strong>SpaceXAI Grok Bot：Breakfast & Build（赫尔辛基）</strong><br />2026-10-27 周二 09:00–11:00（Europe/Helsinki，EET，UTC+2）<br />芬兰赫尔辛基 · Kamppi · 线下（AI Collective Finland）<br /><br />AI Collective × SpaceXAI 赫尔辛基 Grok Bot Breakfast & Build（Kamppi）。Luma aic-fi-10-27；午间扫描 guest_count 0。<br /><br /><a href="https://luma.com/aic-fi-10-27"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
+<a id="country-gh"></a>
+### 加纳
+
+<a id="acc-20261017"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbotaccrabuildersnight"><img src="./assets/events/acc-20261017-cover.png" alt="Grok Bot 阿克拉 Builders Night" width="300" /></a></td><td valign="top"><strong>Grok Bot 阿克拉 Builders Night</strong><br />2026-10-17 周五 15:30–20:00（Africa/Abidjan，GMT，UTC+0）<br />加纳阿克拉 · Adjiringanor / Adenta（报名后 Luma 可见具体场地）— 线下<br /><br />加纳 SpaceXAI 社区首场 Grok Bot Builders Night：给 Bot 派活后边等边做。免费；早间扫描 guest_count 98。Luma grokbotaccrabuildersnight。<br /><br /><a href="https://luma.com/grokbotaccrabuildersnight"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 <a id="country-ie"></a>
 ### 爱尔兰
@@ -264,6 +255,12 @@
 <a id="tlv-20261019"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/ax8q461b"><img src="./assets/events/tlv-20261019-cover.png" alt="Grok Bot Meetup 特拉维夫" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 特拉维夫</strong><br />2026-10-19 周一 18:00–20:00（亚洲/耶路撒冷 IDT，UTC+3）<br />特拉维夫 · Claroty 主办场地（报名后可见精确地址）· 线下<br /><br />特拉维夫下一场 Grok Bot 聚会（主办 Elie Steinbock、Vlad Tansky；Luma ax8q461b）：Claroty 场地；短分享/演示与智能体验收主题。免费；午间扫描剩约 144 席、guest_count 206。勿与已过期 tlv-20260908 混淆。<br /><br /><a href="https://luma.com/ax8q461b"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
+<a id="country-jp"></a>
+### 日本
+
+<a id="tyo-20261011"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-hackathon-tokyo"><img src="./assets/events/tyo-20261011-cover.png" alt="Grok Bot 东京黑客松" width="300" /></a></td><td valign="top"><strong>Grok Bot 东京黑客松</strong><br />2026-10-11 周六 10:00–18:00（Asia/Tokyo）<br />日本东京 · 御茶ノ水ソラシティ（千代田区神田骏河台4-6）— 线下<br /><br />SpaceXAI 东京黑客松（御茶ノ水ソラシティ）：全日线下用 Grok Bot 构建。Luma 报名。<br /><br /><a href="https://luma.com/grokbot-hackathon-tokyo"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-ke"></a>
 ### 肯尼亚
 
@@ -276,17 +273,23 @@
 <a id="sel-20261027"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/6ee6i3v6"><img src="./assets/events/sel-20261027-cover.png" alt="Grok Bot 首尔 Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot 首尔 Meetup</strong><br />2026-10-27 周二 19:00–22:00（Luma 时区 Europe/Amsterdam；首尔首场 Meetup）。<br />韩国首尔 — 线下（Luma 地址暂隐/待公布）。<br /><br />首尔首场 Grok Bot Meetup（主办 Andreas Kruszakin-Liboska + Eric Kim）。晚上一起搭 Bot、看演示；建议带笔记本，现场提供 credits。免费报名（扫描时 guest_count 4）。slug 6ee6i3v6；论坛尚无 New event 帖。<br /><br /><a href="https://luma.com/6ee6i3v6"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
+<a id="country-kz"></a>
+### 哈萨克斯坦
+
+<a id="ala-20261004"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/vod1qyrk"><img src="./assets/events/ala-20261004-cover.png" alt="Grok Bot Meetup 阿拉木图" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 阿拉木图</strong><br />2026-10-04 周日 14:00–17:00（Asia/Almaty，UTC+5）<br />哈萨克斯坦阿拉木图（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />阿拉木图首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug vod1qyrk）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/vod1qyrk"><strong>在 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-lk"></a>
 ### 斯里兰卡
 
 <a id="cmb-20261017"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-cmb"><img src="./assets/events/cmb-20261017-cover.png" alt="Grok Bot Meetup 科伦坡" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 科伦坡</strong><br />2026-10-17 周六 09:30–17:00（Asia/Colombo，UTC+5:30）<br />斯里兰卡科伦坡 · DHPL Auditorium（42 Nawam Mawatha, Colombo 2）— 线下<br /><br />SpaceXAI 科伦坡站：幻灯片介绍、Grok Bot 现场演示、问答与社交（DHPL Auditorium）。Luma 报名。<br /><br /><a href="https://luma.com/grokbot-cmb"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="country-mx"></a>
-### 墨西哥
+<a id="country-ma"></a>
+### 摩洛哥
 
-<a id="mty-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/5ohq71b3"><img src="./assets/events/mty-20261003-cover.png" alt="Grok 蒙特雷黑客松" width="300" /></a></td><td valign="top"><strong>Grok 蒙特雷黑客松</strong><br />2026-10-03 周六 10:00–17:00（America/Monterrey）<br />墨西哥蒙特雷 — 线下（详细场地见 Luma）<br /><br />Grok 蒙特雷黑客松（SpaceXAI for Monterrey）：当日构建场，有别于早前 mty-20260910 交流。<br /><br /><a href="https://luma.com/5ohq71b3"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+<a id="cas-20261017"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-slxi"><img src="./assets/events/cas-20261017-cover.png" alt="Grok Bot 摩洛哥线下交流（卡萨布兰卡）" width="300" /></a></td><td valign="top"><strong>Grok Bot 摩洛哥线下交流（卡萨布兰卡）</strong><br />2026-10-17 周五 11:00–15:00（Africa/Casablanca，UTC+1）<br />摩洛哥卡萨布兰卡 · LA GIRONDE 一带（报名后 Luma 可见具体场地）— 线下<br /><br />SpaceXAI 摩洛哥 Grok Bot（卡萨布兰卡）。免费；早间扫描 guest_count 0。Luma spacexai-slxi。勿与 cas-20260919 混淆。<br /><br /><a href="https://luma.com/spacexai-slxi"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
 <a id="country-ni"></a>
 ### 尼加拉瓜
@@ -324,6 +327,12 @@
 <a id="kgl-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-0k8e"><img src="./assets/events/kgl-20261003-cover.png" alt="Grok Bot Meetup 基加利" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 基加利</strong><br />2026-10-03 周六 17:00–20:00（Africa/Maputo，UTC+02:00）<br />卢旺达基加利 · ALX Rwanda（Deco Center, KG 9 Ave）— 线下<br /><br />基加利 Grok Bot 动手聚会（ALX Rwanda）：介绍、演示与日常工作流。<br /><br /><a href="https://luma.com/spacexai-0k8e"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
+<a id="country-tt"></a>
+### 特立尼达和多巴哥
+
+<a id="pos-20261030"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-box6"><img src="./assets/events/pos-20261030-cover.png" alt="Grok Bot 黑客松 — 西班牙港" width="300" /></a></td><td valign="top"><strong>Grok Bot 黑客松 — 西班牙港</strong><br />2026-10-30 周五 10:00–13:00（AST，UTC-4）<br />特立尼达和多巴哥西班牙港 · CinemaONE IMAX，One Woodbrook Place — 线下<br /><br />西班牙港免费线下 Grok Bot 黑客松：带真实想法下午动手。早间扫描 guest_count 0。Luma spacexai-box6。<br /><br /><a href="https://luma.com/spacexai-box6"><strong>去 Luma 报名 →</strong></a></td></tr></table>
+
 <a id="country-ug"></a>
 ### 乌干达
 
@@ -335,12 +344,6 @@
 
 <a id="dad-20261003"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-80r9"><img src="./assets/events/dad-20261003-cover.png" alt="Grok Bot Meetup 岘港" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 岘港</strong><br />2026-10-03 周六 13:00–16:00（岘港Asia/Ho_Chi_Minh，UTC+7）<br />Vietnam岘港 1710 Cafe & Society, 10 Trần Quý Cáp, Hải Châu, Đà Nẵng 550000, Vietnam（线下）<br /><br />越南岘港 Grok Bot 聚会（主办 Keith Vaughan, Laksh Arora；Frontier Club Da Nang 支持）。13:00–16:00：入场、破冰、SpaceXAI/Cursor 问答、闪电演示、交流。免费开放报名（扫描时剩余约 70）。场地 1710 Cafe & Society。新 slug spacexai-80r9；论坛尚无 New event 帖。<br /><br /><a href="https://luma.com/spacexai-80r9"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
-<a id="country-zm"></a>
-### 赞比亚
-
-<a id="lun-20261002"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-ol65"><img src="./assets/events/lun-20261002-cover.png" alt="Grok Bot 卢萨卡线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 卢萨卡线下交流</strong><br />2026-10-02 周五 09:00–14:00（非洲/马普托 CAT，UTC+2）<br />赞比亚卢萨卡 · 场地待定（报名后可见）<br /><br />SpaceXAI Zambia / SpaceXAI for Lusaka 动手局（主办 Lloyd situmbeko）。产品文案：Grok Bot 是可登录你工具、把活干完的 AI 同事。现场真工具演示（非幻灯）、现场试用积分、开放 build、餐饮 networking。免费，需审核；约 70 席；扫描时报名 0。Luma 活动页无具体地址（日历城市卢萨卡 ZM）。相对 midday discover 新增。<br /><br /><a href="https://luma.com/spacexai-ol65"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="country-online"></a>
 ### 线上

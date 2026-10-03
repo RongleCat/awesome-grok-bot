@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-1937-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-1946-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -39,17 +39,16 @@
 
 - **China**（4）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261007) · [Macao](./EVENTS.md#mo-20261112)
 - **United States**（13）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Austin](./EVENTS.md#aus-20261004) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Pasadena](./EVENTS.md#pas-20261008) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012) · [Atlanta (Job Night)](./EVENTS.md#atl-20261008)
-- **Brazil**（5）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Curitiba](./EVENTS.md#cwb-20261002) · [Salvador](./EVENTS.md#ssa-20261008) · [Florianópolis](./EVENTS.md#fln-20261016)
 - **Canada**（5）：[Montreal](./EVENTS.md#yul-20260926) · [Toronto](./EVENTS.md#yyz-20261026) · [Ottawa](./EVENTS.md#yow-20261010) · [Calgary](./EVENTS.md#yyc-20261028) · [Halifax](./EVENTS.md#yhz-20261015)
 - **Germany**（5）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261023) · [Frankfurt](./EVENTS.md#fra-20261120) · [Kassel](./EVENTS.md#kas-20261112)
+- **Brazil**（4）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Salvador](./EVENTS.md#ssa-20261008) · [Florianópolis](./EVENTS.md#fln-20261016)
 - **Indonesia**（4）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003) · [Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
 - **Ecuador**（3）：[Cumbayá](./EVENTS.md#cumb-20261003) · [Ambato](./EVENTS.md#atu-20261029) · [Quito](./EVENTS.md#uio-20261021)
+- **Italy**（3）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022) · [Bologna](./EVENTS.md#blq-20261012)
 - **Spain**（2）：[Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
 - **Guatemala**（2）：[Guatemala City](./EVENTS.md#gua-20261003) · [Guatemala](./EVENTS.md#gua-20261205)
-- **Italy**（2）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022)
-- **Japan**（2）：[Sapporo](./EVENTS.md#spk-20261002) · [Tokyo](./EVENTS.md#tyo-20261011)
 - **Cambodia**（2）：[Phnom Penh](./EVENTS.md#pnh-20261003) · [Siem Reap](./EVENTS.md#srp-20261101)
-- **Kazakhstan**（2）：[Astana](./EVENTS.md#nqz-20261002) · [Almaty](./EVENTS.md#ala-20261004)
+- **Mexico**（2）：[Monterrey](./EVENTS.md#mty-20261003) · [Mexico City](./EVENTS.md#cdmx-20261009)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20261017)
 - **Argentina**（1）：[Mendoza](./EVENTS.md#mdz-20261003)
 - **Austria**（1）：[Vienna](./EVENTS.md#vie-20261031)
@@ -57,23 +56,25 @@
 - **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20261031)
 - **Benin**（1）：[Cotonou](./EVENTS.md#coo-20261003)
 - **Côte d'Ivoire**（1）：[Abidjan](./EVENTS.md#abj-20261107)
-- **Colombia**（1）：[Pereira](./EVENTS.md#pei-20261002)
 - **Finland**（1）：[Helsinki](./EVENTS.md#hel-20261027)
+- **Ghana**（1）：[Accra](./EVENTS.md#acc-20261017)
 - **Ireland**（1）：[Dublin](./EVENTS.md#dub-20261004)
 - **Israel**（1）：[Tel Aviv](./EVENTS.md#tlv-20261019)
+- **Japan**（1）：[Tokyo](./EVENTS.md#tyo-20261011)
 - **Kenya**（1）：[Nairobi (Kenya Workshop)](./EVENTS.md#nbo-20261008)
 - **South Korea**（1）：[Seoul](./EVENTS.md#sel-20261027)
+- **Kazakhstan**（1）：[Almaty](./EVENTS.md#ala-20261004)
 - **Sri Lanka**（1）：[Colombo](./EVENTS.md#cmb-20261017)
-- **Mexico**（1）：[Monterrey](./EVENTS.md#mty-20261003)
+- **Morocco**（1）：[Casablanca](./EVENTS.md#cas-20261017)
 - **Nicaragua**（1）：[Managua](./EVENTS.md#mga-20261003)
 - **Norway**（1）：[Oslo](./EVENTS.md#osl-20261016)
 - **New Zealand**（1）：[Auckland](./EVENTS.md#akl-20261008)
 - **Peru**（1）：[Huancayo](./EVENTS.md#hyo-20261023)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
 - **Rwanda**（1）：[Kigali](./EVENTS.md#kgl-20261003)
+- **Trinidad and Tobago**（1）：[Port of Spain](./EVENTS.md#pos-20261030)
 - **Uganda**（1）：[Kampala](./EVENTS.md#kla-20261003)
 - **Vietnam**（1）：[Da Nang](./EVENTS.md#dad-20261003)
-- **Zambia**（1）：[Lusaka](./EVENTS.md#lun-20261002)
 - **Online**（1）：[Online (Goiânia)](./EVENTS.md#gyn-20261017)
 
 ## Contents
@@ -291,6 +292,7 @@
 - [AI Maker — seven Grok Bot team you can run from your phone](https://aimaker.substack.com/p/grok-bot-ai-agent-team) - AI Maker / One Shot Show write-up of a seven-Bot cloud team (writer, chief of staff, invoice hunter, SEO, and more) with plugins, routines, and phone access.
 - [Grok Bot 教學｜香港老師版 (HK Traditional Chinese guide)](https://github.com/desmondsir106-droid/grok-bot-hk-guide) - Static Traditional Chinese onboarding site for Hong Kong teachers: five-step start, Cursor/SuperGrok/X Premium paths, plus an AI Manager bot template.
 - [Grok Bot 排程一條龍（繁中）— build and verify routines](https://github.com/zaxardery8011-design/grok-bot-routines-tw) - Traditional Chinese guide that has your Grok Bot (or another AI) build a routine from AGENTS.md prompts, then checks the Automations list to confirm it actually runs.
+- [Grok Bot Wiki — independent setup & troubleshooting field guide](https://www.grokbotwiki.com/guides) - Independent unofficial field guide for Grok Bot setup and troubleshooting—first tasks, skills vs routines, usage limits, pricing by plan, and stuck-computer recovery.
 
 ## Field Cases
 
@@ -485,6 +487,7 @@
 - [leetcode-clusters — LeetCode map created by Grok Bot](https://github.com/WilliamZhang20/leetcode-clusters) - Interactive bubble map of every LeetCode problem by shared tags—static site created by Grok Bot and published on GitHub Pages.
 - [personal-news-reader — PIN magazine refreshed by Grok Bot](https://github.com/scapp/personal-news-reader) - PIN-gated personal news magazine on GitHub Pages whose feed is refreshed on a schedule by Grok Bot.
 - [market-indicator — breadth gauge product of Grok Bot](https://github.com/gilsrubin-sys/market-indicator) - Browser market-breadth overbought/oversold gauge shipped as a product of Grok Bot (HTML + data.json dashboard).
+- [grokbot-usage — weekly activity report from Bot box logs](https://github.com/d3ming/grokbot-usage) - Weekly Grok Bot usage report that reads local agent logs on the Bot computer and writes an HTML page plus a five-second text summary (activity proxy, not tokens).
 
 ## Skills, Plugins & MCP
 
@@ -1111,6 +1114,10 @@
 - [grok-bot-supercomputer — persistent Debian/Incus on Bot Computer](https://github.com/woodegg/grok-bot-supercomputer) - Agent playbook to boot persistent Debian and Incus guests under Grok Bot Computer with systemd, supervised services, and workspace-backed recovery after resets.
 - [grok-bot-academy — multi-bot tutoring loop (Profil + profs)](https://github.com/mathDBC/grok-bot-academy) - Prototype Grok Bot tutoring loop: a Profil bot tracks levels while Math/Tux/Sec/Lang prof bots teach, report back, and adapt the next session from a shared profile.
 - [whop-ecom-grok-bots — five Whop store ops templates](https://github.com/colinmcdermott/whop-ecom-grok-bots) - Five paste-ready Grok Bot templates for a physical-goods Whop store—build, migrate, ads, order desk, and customer care—with approval gates before spend or customer contact.
+- [dimpurr/skills — grok-bot-gateway webhook skill](https://github.com/dimpurr/skills) - skills.sh pack with grok-bot-gateway: callers list/read/message a Grok Bot team over webhook while hosts set up the gateway Bot, routine, and outbox.
+- [meta-ads-mcp — Meta Ads marketplace plugin for Grok Bot](https://github.com/leksicon1/meta-ads-mcp) - Cursor/Grok Bot marketplace plugin that connects Meta Ads MCP with bring-your-own Meta app credentials for campaigns, budgets, creatives, and insights.
+- [anny grok-plugin — booking system MCP for Grok Bot](https://github.com/anny-co/grok-plugin) - anny Booking System marketplace plugin for Grok Bot/Cursor: OAuth MCP to configure desks, rooms, appointments, and day-to-day booking ops in chat.
+- [grokbot-economy — scripts-first permanent skill](https://github.com/wesleysimplicio/grokbot-economy) - Permanent Grok Bot skill that steers every run toward scripts, MCP, and APIs first and screenshots last, with multilingual READMEs and checklists.
 
 ## Reviews & Comparisons
 
@@ -1501,6 +1508,7 @@
 - [grok-coding-observatory — live replay of Grok Bot edits in the browser](https://github.com/Eeliya/grok-coding-observatory) - Local Node tool that watches a git repo and replays each Grok Bot (or other agent) save as a typed diff in the browser.
 - [grok-bot-film-kit — Remotion engine for personalized Bot pitch films](https://github.com/Speediing/grok-bot-film-kit) - Public Remotion engine and pipeline docs for personalized Grok Bot pitch films—no customer assets in-repo; clone and render on a laptop or cloud agent.
 - [grok-bot-discord-bridge — Discord → sendPrompt wake path](https://github.com/matthew-rutledge-dev/grok-bot-discord-bridge) - Self-hosted Discord Gateway bridge that wakes Grok Bot via sendPrompt and posts agent callbacks back to Discord with deny-by-default authz.
+- [Shipmate — open-source laptop agent (Dots + Grok Bot style)](https://github.com/r28ai/shipmate) - Open-source laptop agent inspired by OpenAI Dots and Grok Bot, built on Charter with your own keys and approval before changes.
 
 ## Community & Failure Modes
 
@@ -1760,6 +1768,8 @@
 - [Forum: how to share a custom MCP a Bot built with the team](https://forum.cursor.com/t/how-do-i-share-a-custom-mcp-that-one-of-my-bots-has-built-with-the-rest-of-my-team/173538) - Team question on publishing a custom MCP one Grok Bot built so teammates can use it (account-local vs shared listing).
 - [Forum: multi-person / speaker-aware voice for Grok Bot](https://forum.cursor.com/t/multi-person-speaker-aware-voice-for-grok-bot-room-scribe-for-live-research-conversation/173569) - Feature ask for room / speaker-aware voice so Grok Bot can scribe live multi-person research conversations beyond one-to-one voice.
 - [Forum: Update needed ~4 times to reach latest computer image](https://forum.cursor.com/t/grok-bot-computer-update-needed-4-consecutive-update-presses-to-reach-latest-image/173562) - Bug report: after updating a Grok Bot computer, Update keeps offering again—about four presses before the image shows current.
+- [Forum: Bot computer silently restored to Sep 28 snapshot](https://forum.cursor.com/t/grok-bot-computer-silently-restored-to-a-sep-28-snapshot-overnight-3-days-of-box-files-sep-29-oct-1-lost-no-update-reset-pressed/173623) - Failure report: Grok Bot cloud computer rebooted overnight and restored a Sep 28 snapshot, wiping Sep 29–Oct 1 box files with no Update/Reset pressed.
+- [Forum: Grok Bot Computers stuck in Can't reach state](https://forum.cursor.com/t/grok-bot-computers-stuck-in-cant-reach-state/173607) - Failure report: multiple Grok Bot computers stuck showing Can't reach with no recovery path described in-thread.
 
 ## Related Lists
 
@@ -2051,7 +2061,7 @@
 
 ## Contributing
 
-1937 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+1946 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -2004,6 +2004,16 @@
             "zh": "繁中教程：用 AGENTS.md 提示词让 Grok Bot（或其他 AI）帮你建排程，并核对「自动化」列表确认它真的会跑。",
             "ja": "繁体字ガイド。AGENTS.md のプロンプトで Grok Bot（または他の AI）にルーチンを作らせ、自動化一覧で本当に動くか確認する。"
           }
+        },
+        {
+          "title": "Grok Bot Wiki — independent setup & troubleshooting field guide",
+          "url": "https://www.grokbotwiki.com/guides",
+          "source": "GB-1962",
+          "blurb": {
+            "en": "Independent unofficial field guide for Grok Bot setup and troubleshooting—first tasks, skills vs routines, usage limits, pricing by plan, and stuck-computer recovery.",
+            "zh": "独立非官方 Grok Bot 设置与排障指南：首个任务、技能与例程、用量限额、套餐价格与卡死电脑恢复。",
+            "ja": "非公式の独立ガイド。Grok Bot の初期タスク、スキルとルーチン、利用上限、プラン別料金、固まったコンピュータの復旧。"
+          }
         }
       ]
     },
@@ -3923,6 +3933,16 @@
             "en": "Browser market-breadth overbought/oversold gauge shipped as a product of Grok Bot (HTML + data.json dashboard).",
             "zh": "浏览器端市场宽度超买/超卖仪表盘，自称由 Grok Bot 打造（HTML + data.json）。",
             "ja": "市場の買われ過ぎ/売られ過ぎゲージ。Grok Bot 製と銘打った HTML + data.json ダッシュボード。"
+          }
+        },
+        {
+          "title": "grokbot-usage — weekly activity report from Bot box logs",
+          "url": "https://github.com/d3ming/grokbot-usage",
+          "source": "GB-1967",
+          "blurb": {
+            "en": "Weekly Grok Bot usage report that reads local agent logs on the Bot computer and writes an HTML page plus a five-second text summary (activity proxy, not tokens).",
+            "zh": "从 Grok Bot 云电脑本地代理日志生成周报：输出 HTML 与五秒可读摘要（活动量代理指标，非 token/费用）。",
+            "ja": "Bot コンピュータ上のローカル代理ログから週次レポート（HTML＋短文）。活動量の代理指標で、トークン／料金ではない。"
           }
         }
       ]
@@ -10164,6 +10184,46 @@
             "zh": "面向 Whop 实体商品店的五套可粘贴 Grok Bot 模板（建店、迁移、广告、订单台、客服），花钱或联系客户前需你在对话中批准。.",
             "ja": "Whop の実物販売向け Grok Bot テンプレ 5 種（構築・移行・広告・受注・カスタマーケア）。支出や顧客連絡は承認ゲート付き。."
           }
+        },
+        {
+          "title": "dimpurr/skills — grok-bot-gateway webhook skill",
+          "url": "https://github.com/dimpurr/skills",
+          "source": "GB-1963",
+          "blurb": {
+            "en": "skills.sh pack with grok-bot-gateway: callers list/read/message a Grok Bot team over webhook while hosts set up the gateway Bot, routine, and outbox.",
+            "zh": "skills.sh 技能包 grok-bot-gateway：调用方经 webhook 列出/读取/发信 Grok Bot 团队，托管方负责建网关 Bot、例程与 outbox。",
+            "ja": "skills.sh の grok-bot-gateway。呼び出し側は webhook でチームの一覧・読取・送信、ホスト側はゲートウェイ Bot・ルーチン・outbox を用意。"
+          }
+        },
+        {
+          "title": "meta-ads-mcp — Meta Ads marketplace plugin for Grok Bot",
+          "url": "https://github.com/leksicon1/meta-ads-mcp",
+          "source": "GB-1964",
+          "blurb": {
+            "en": "Cursor/Grok Bot marketplace plugin that connects Meta Ads MCP with bring-your-own Meta app credentials for campaigns, budgets, creatives, and insights.",
+            "zh": "Cursor/Grok Bot 市场插件：自带 Meta 应用凭证接入 Meta Ads MCP，可在对话里看广告系列、预算、创意与洞察。",
+            "ja": "Cursor/Grok Bot 向け Meta Ads MCP プラグイン。自分の Meta アプリ資格情報でキャンペーン・予算・クリエイティブ・洞察を扱う。"
+          }
+        },
+        {
+          "title": "anny grok-plugin — booking system MCP for Grok Bot",
+          "url": "https://github.com/anny-co/grok-plugin",
+          "source": "GB-1965",
+          "blurb": {
+            "en": "anny Booking System marketplace plugin for Grok Bot/Cursor: OAuth MCP to configure desks, rooms, appointments, and day-to-day booking ops in chat.",
+            "zh": "anny 预订系统的 Grok Bot/Cursor 市场插件：经 OAuth MCP 在对话里配置工位/会议室/预约并处理日常预订。",
+            "ja": "anny 予約システムの Grok Bot/Cursor プラグイン。OAuth MCP で席・会議室・予定を会話しながら設定・運用。"
+          }
+        },
+        {
+          "title": "grokbot-economy — scripts-first permanent skill",
+          "url": "https://github.com/wesleysimplicio/grokbot-economy",
+          "source": "GB-1966",
+          "blurb": {
+            "en": "Permanent Grok Bot skill that steers every run toward scripts, MCP, and APIs first and screenshots last, with multilingual READMEs and checklists.",
+            "zh": "常驻 Grok Bot 技能：优先走脚本/MCP/API、截图垫后，附多语言 README 与检查清单以少烧额度。",
+            "ja": "常駐 Grok Bot スキル。スクリプト／MCP／API を先に、スクショは最後。多言語 README とチェックリスト付き。"
+          }
         }
       ]
     },
@@ -14024,6 +14084,16 @@
             "zh": "自托管 Discord Gateway 桥：经 sendPrompt 唤醒 Grok Bot，并把智能体回调帖回 Discord（默认拒绝授权模型）。",
             "ja": "自前ホストの Discord Gateway 橋。sendPrompt で Grok Bot を起こし、コールバックを Discord へ返す（デフォルト拒否の認可）。"
           }
+        },
+        {
+          "title": "Shipmate — open-source laptop agent (Dots + Grok Bot style)",
+          "url": "https://github.com/r28ai/shipmate",
+          "source": "GB-1968",
+          "blurb": {
+            "en": "Open-source laptop agent inspired by OpenAI Dots and Grok Bot, built on Charter with your own keys and approval before changes.",
+            "zh": "开源本机代理（对标 OpenAI Dots 与 Grok Bot）：基于 Charter，自带密钥，改动前需批准。",
+            "ja": "OpenAI Dots / Grok Bot 系のオープンソース本地エージェント。Charter 製、自分のキー、変更前に承認。"
+          }
         }
       ]
     },
@@ -16593,6 +16663,26 @@
             "en": "Bug report: after updating a Grok Bot computer, Update keeps offering again—about four presses before the image shows current.",
             "zh": "缺陷报告：更新 Grok Bot 云电脑后仍反复提示 Update，大约要点四次才显示已是最新镜像。",
             "ja": "不具合報告。Grok Bot コンピュータ更新後も Update が再提示され、最新イメージ表示まで約4回押す必要。"
+          }
+        },
+        {
+          "title": "Forum: Bot computer silently restored to Sep 28 snapshot",
+          "url": "https://forum.cursor.com/t/grok-bot-computer-silently-restored-to-a-sep-28-snapshot-overnight-3-days-of-box-files-sep-29-oct-1-lost-no-update-reset-pressed/173623",
+          "source": "GB-1969",
+          "blurb": {
+            "en": "Failure report: Grok Bot cloud computer rebooted overnight and restored a Sep 28 snapshot, wiping Sep 29–Oct 1 box files with no Update/Reset pressed.",
+            "zh": "故障报告：Grok Bot 云电脑夜间重启并静默恢复到 9 月 28 日快照，未点 Update/Reset 却丢失 9/29–10/1 文件。",
+            "ja": "障害報告。Grok Bot クラウド機が夜間に再起動し 9/28 スナップショットへ戻り、Update/Reset なしで 9/29–10/1 のファイルが消失。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot Computers stuck in Can't reach state",
+          "url": "https://forum.cursor.com/t/grok-bot-computers-stuck-in-cant-reach-state/173607",
+          "source": "GB-1970",
+          "blurb": {
+            "en": "Failure report: multiple Grok Bot computers stuck showing Can't reach with no recovery path described in-thread.",
+            "zh": "故障报告：多台 Grok Bot 云电脑卡在 Can't reach，帖内暂无明确恢复路径。",
+            "ja": "障害報告。複数の Grok Bot コンピュータが Can't reach のまま。スレ内に明確な復旧手順なし。"
           }
         }
       ]
@@ -26737,6 +26827,161 @@
         "en": "AI Collective × SpaceXAI Breakfast & Build on Grok Bot in Helsinki (Kamppi). Luma aic-fi-10-27; guest_count 0 at midday scan.",
         "zh": "AI Collective × SpaceXAI 赫尔辛基 Grok Bot Breakfast & Build（Kamppi）。Luma aic-fi-10-27；午间扫描 guest_count 0。",
         "ja": "AI Collective × SpaceXAI ヘルシンキの Grok Bot Breakfast & Build（Kamppi）。Luma aic-fi-10-27。昼スキャン guest_count 0。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "blq-20261012",
+      "url": "https://luma.com/spacexai-bologna-01",
+      "image": "./assets/events/blq-20261012-cover.png",
+      "expires": "2026-10-12T21:00:00+02:00",
+      "title": {
+        "en": "Grok Bot Meetup Bologna",
+        "zh": "Grok Bot 博洛尼亚线下交流",
+        "ja": "Grok Bot Meetup Bologna"
+      },
+      "when": {
+        "en": "Mon 12 Oct 2026, 18:00–21:00 (Europe/Rome, CEST, UTC+2)",
+        "zh": "2026-10-12 周一 18:00–21:00（Europe/Rome，CEST，UTC+2）",
+        "ja": "2026-10-12（月）18:00–21:00（Europe/Rome、CEST、UTC+2）"
+      },
+      "where": {
+        "en": "Bologna, Italy · Serre dei Giardini Margherita, Via Castiglione 134 — offline",
+        "zh": "意大利博洛尼亚 · Serre dei Giardini Margherita，Via Castiglione 134 — 线下",
+        "ja": "ボローニャ · Serre dei Giardini Margherita、Via Castiglione 134 — オフライン"
+      },
+      "body": {
+        "en": "First Grok Bot Meetup in Bologna (Serra Liberty / Kilowatt). Live demos and laptop builds. Free; guest_count 8 at morning scan. Luma spacexai-bologna-01.",
+        "zh": "博洛尼亚首场 Grok Bot（Serra Liberty / Kilowatt）：演示+自带电脑动手。免费；早间扫描 guest_count 8。Luma spacexai-bologna-01。",
+        "ja": "ボローニャ初の対面（Serra Liberty / Kilowatt）。デモと持ち込みビルド。無料。朝スキャン guest_count 8。Luma spacexai-bologna-01。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "pos-20261030",
+      "url": "https://luma.com/spacexai-box6",
+      "image": "./assets/events/pos-20261030-cover.png",
+      "expires": "2026-10-30T13:00:00-04:00",
+      "title": {
+        "en": "Grok Bot Hackathon — Port of Spain",
+        "zh": "Grok Bot 黑客松 — 西班牙港",
+        "ja": "Grok Bot Hackathon — Port of Spain"
+      },
+      "when": {
+        "en": "Fri 30 Oct 2026, 10:00–13:00 (AST, UTC-4)",
+        "zh": "2026-10-30 周五 10:00–13:00（AST，UTC-4）",
+        "ja": "2026-10-30（金）10:00–13:00（AST、UTC-4）"
+      },
+      "where": {
+        "en": "Port of Spain, Trinidad and Tobago · CinemaONE IMAX, One Woodbrook Place — offline",
+        "zh": "特立尼达和多巴哥西班牙港 · CinemaONE IMAX，One Woodbrook Place — 线下",
+        "ja": "ポートオブスペイン · CinemaONE IMAX、One Woodbrook Place — オフライン"
+      },
+      "body": {
+        "en": "Free in-person Grok Bot hackathon in Port of Spain—bring a real idea and build for an afternoon. guest_count 0 at morning scan. Luma spacexai-box6.",
+        "zh": "西班牙港免费线下 Grok Bot 黑客松：带真实想法下午动手。早间扫描 guest_count 0。Luma spacexai-box6。",
+        "ja": "ポートオブスペインの無料対面ハッカソン。実アイデアを午後ビルド。朝スキャン guest_count 0。Luma spacexai-box6。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "acc-20261017",
+      "url": "https://luma.com/grokbotaccrabuildersnight",
+      "image": "./assets/events/acc-20261017-cover.png",
+      "expires": "2026-10-17T20:00:00+00:00",
+      "title": {
+        "en": "Grok Bot Accra Builders Night",
+        "zh": "Grok Bot 阿克拉 Builders Night",
+        "ja": "Grok Bot Accra Builders Night"
+      },
+      "when": {
+        "en": "Fri 17 Oct 2026, 15:30–20:00 (Africa/Abidjan, GMT, UTC+0)",
+        "zh": "2026-10-17 周五 15:30–20:00（Africa/Abidjan，GMT，UTC+0）",
+        "ja": "2026-10-17（金）15:30–20:00（Africa/Abidjan、GMT、UTC+0）"
+      },
+      "where": {
+        "en": "Accra area, Ghana · Adjiringanor / Adenta Municipality (exact venue on Luma after RSVP) — offline",
+        "zh": "加纳阿克拉 · Adjiringanor / Adenta（报名后 Luma 可见具体场地）— 线下",
+        "ja": "ガーナ・アクラ近郊 · Adjiringanor / Adenta（RSVP 後に会場表示）— オフライン"
+      },
+      "body": {
+        "en": "First SpaceXAI Ghana Community Grok Bot Builders Night—give a bot a job, then build while it works. Free; guest_count 98 at morning scan. Luma grokbotaccrabuildersnight.",
+        "zh": "加纳 SpaceXAI 社区首场 Grok Bot Builders Night：给 Bot 派活后边等边做。免费；早间扫描 guest_count 98。Luma grokbotaccrabuildersnight。",
+        "ja": "SpaceXAI Ghana 初の Builders Night。Bot に仕事を渡しつつ自分もビルド。無料。朝スキャン guest_count 98。Luma grokbotaccrabuildersnight。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "cas-20261017",
+      "url": "https://luma.com/spacexai-slxi",
+      "image": "./assets/events/cas-20261017-cover.png",
+      "expires": "2026-10-17T15:00:00+01:00",
+      "title": {
+        "en": "Grok Bot Morocco Meetup (Casablanca)",
+        "zh": "Grok Bot 摩洛哥线下交流（卡萨布兰卡）",
+        "ja": "Grok Bot Morocco Meetup（カサブランカ）"
+      },
+      "when": {
+        "en": "Fri 17 Oct 2026, 11:00–15:00 (Africa/Casablanca, UTC+1)",
+        "zh": "2026-10-17 周五 11:00–15:00（Africa/Casablanca，UTC+1）",
+        "ja": "2026-10-17（金）11:00–15:00（Africa/Casablanca、UTC+1）"
+      },
+      "where": {
+        "en": "Casablanca, Morocco · LA GIRONDE area (exact venue on Luma after RSVP) — offline",
+        "zh": "摩洛哥卡萨布兰卡 · LA GIRONDE 一带（报名后 Luma 可见具体场地）— 线下",
+        "ja": "カサブランカ · LA GIRONDE 付近（RSVP 後に会場表示）— オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI Grok Bot Morocco Meetup in Casablanca. Free; guest_count 0 at morning scan. Luma spacexai-slxi. Distinct from cas-20260919.",
+        "zh": "SpaceXAI 摩洛哥 Grok Bot（卡萨布兰卡）。免费；早间扫描 guest_count 0。Luma spacexai-slxi。勿与 cas-20260919 混淆。",
+        "ja": "カサブランカの SpaceXAI Grok Bot Meetup。無料。朝スキャン guest_count 0。Luma spacexai-slxi。cas-20260919 とは別。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "cdmx-20261009",
+      "url": "https://luma.com/spacexai-yfrs",
+      "image": "./assets/events/cdmx-20261009-cover.png",
+      "expires": "2026-10-09T13:00:00-06:00",
+      "title": {
+        "en": "Grok Bot CDMX con SpaceXAI",
+        "zh": "Grok Bot 墨西哥城 × SpaceXAI",
+        "ja": "Grok Bot CDMX con SpaceXAI"
+      },
+      "when": {
+        "en": "Thu 9 Oct 2026, 10:00–13:00 (America/Mexico_City, CST, UTC-6)",
+        "zh": "2026-10-09 周四 10:00–13:00（America/Mexico_City，CST，UTC-6）",
+        "ja": "2026-10-09（木）10:00–13:00（America/Mexico_City、CST、UTC-6）"
+      },
+      "where": {
+        "en": "Mexico City · Hipódromo Condesa (exact venue on Luma after RSVP) — offline",
+        "zh": "墨西哥城 · Hipódromo Condesa（报名后 Luma 可见具体场地）— 线下",
+        "ja": "メキシコシティ · Hipódromo Condesa（RSVP 後に会場表示）— オフライン"
+      },
+      "body": {
+        "en": "Return CDMX Grok Bot meetup with SpaceXAI—short demos of real uses. Free; guest_count 0 at morning scan. Luma spacexai-yfrs. Distinct from cdmx-20260926.",
+        "zh": "墨西哥城 Grok Bot 回归场（SpaceXAI）：短演示真实用法。免费；早间扫描 guest_count 0。Luma spacexai-yfrs。勿与 cdmx-20260926 混淆。",
+        "ja": "CDMX の再 Meetup（SpaceXAI）。短いデモ中心。無料。朝スキャン guest_count 0。Luma spacexai-yfrs。cdmx-20260926 とは別。"
       },
       "cta": {
         "en": "Register on Luma",

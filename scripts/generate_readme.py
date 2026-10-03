@@ -235,6 +235,8 @@ COUNTRY_LABEL = {
     "ci": {"en": "Côte d'Ivoire", "zh": "科特迪瓦", "ja": "コートジボワール"},
     "lk": {"en": "Sri Lanka", "zh": "斯里兰卡", "ja": "スリランカ"},
     "rw": {"en": "Rwanda", "zh": "卢旺达", "ja": "ルワンダ"},
+    "gh": {"en": "Ghana", "zh": "加纳", "ja": "ガーナ"},
+    "tt": {"en": "Trinidad and Tobago", "zh": "特立尼达和多巴哥", "ja": "トリニダード・トバゴ"},
     "at": {"en": "Austria", "zh": "奥地利", "ja": "オーストリア"},
     "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
     "other": {"en": "Other", "zh": "其他", "ja": "その他"},
@@ -482,6 +484,11 @@ EVENT_GEO = {
     "uio-20261021": ("ec", "Quito", "基多", "キト"),
     "atl-20261008": ("us", "Atlanta (Job Night)", "亚特兰大（Job Night）", "アトランタ（Job Night）"),
     "hel-20261027": ("fi", "Helsinki", "赫尔辛基", "ヘルシンキ"),
+    "blq-20261012": ("it", "Bologna", "博洛尼亚", "ボローニャ"),
+    "pos-20261030": ("tt", "Port of Spain", "西班牙港", "ポートオブスペイン"),
+    "acc-20261017": ("gh", "Accra", "阿克拉", "アクラ"),
+    "cas-20261017": ("ma", "Casablanca", "卡萨布兰卡", "カサブランカ"),
+    "cdmx-20261009": ("mx", "Mexico City", "墨西哥城", "メキシコシティ"),
 }
 
 
