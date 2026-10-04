@@ -4154,6 +4154,26 @@
             "zh": "实践笔记：用 Grok Bot 跑 satheez.dev 发布链路——插件优先于浏览器、云端 Agent 开 PR，以及公开发布前的硬停止点。",
             "ja": "satheez.dev 公開フローで Grok Bot を使う実践メモ。プラグイン優先、クラウド Agent の PR、公開前のハードストップ。"
           }
+        },
+        {
+          "title": "falconfpga — Atari Falcon FPGA with Grok Bot handoff",
+          "url": "https://github.com/dave-1024/falconfpga",
+          "source": "GB-2045",
+          "blurb": {
+            "en": "Tang Console Atari Falcon FPGA workshop with a documented Grok Bot patch-handoff protocol so chat and Bot never overwrite each other.",
+            "zh": "Tang Console 上的 Atari Falcon FPGA 工坊笔记，附 Grok Bot 补丁交接协议，避免聊天端与 Bot 互相覆盖。",
+            "ja": "Tang Console 向け Atari Falcon FPGA 作業ログ。Grok Bot のパッチ受け渡し手順を文書化し、チャットと Bot の衝突を防ぐ。"
+          }
+        },
+        {
+          "title": "GrokD4M — HurlingWiki built with Grok Bot + D4M",
+          "url": "https://github.com/Sliothar1/GrokD4M",
+          "source": "GB-2046",
+          "blurb": {
+            "en": "Kid-friendly Galway hurling knowledge site (MIT D4M-style associative arrays) built as a Grok Bot project handoff.",
+            "zh": "面向儿童的戈尔韦 hurling 知识站（MIT D4M 风格关联数组），作为 Grok Bot 项目交接仓库维护。",
+            "ja": "子供向けゴールウェイ hurling 知識サイト（MIT D4M 風連想配列）。Grok Bot プロジェクトのハンドオフ用リポ。"
+          }
         }
       ]
     },
@@ -17354,6 +17374,36 @@
             "zh": "macOS/iPhone Grok Bot 0.66.0：连续 8 天每条跟进消息延迟 24–26 分钟；工单 T-G23547 仅有 Sam AI 客服回复。",
             "ja": "macOS/iPhone の Grok Bot 0.66.0。8日間、追従メッセージが毎回 24–26 分遅延。チケット T-G23547 は Sam AI サポートのみ応答。"
           }
+        },
+        {
+          "title": "Forum: add voice replies (TTS) for Grok Bot",
+          "url": "https://forum.cursor.com/t/grok-bot-add-voice-replies-text-to-speech-so-i-can-listen-instead-of-read/173693",
+          "source": "GB-2048",
+          "blurb": {
+            "en": "Feature request: optional text-to-speech so Grok Bot can read replies aloud with on/off and voice choice (including webhook wakeups).",
+            "zh": "功能请求：可选 TTS，让 Grok Bot 朗读回复（开关与音色选择，含 webhook 唤醒消息）。",
+            "ja": "機能要望。Grok Bot の返信を TTS で読み上げ（ON/OFF・声の選択、webhook 起床メッセージ含む）。"
+          }
+        },
+        {
+          "title": "Forum: New event — Grok Bot Zarzal Meetup (17 Oct)",
+          "url": "https://forum.cursor.com/t/new-event-grok-bot-zarzal-meetup/173707",
+          "source": "GB-2049",
+          "blurb": {
+            "en": "Cursor forum event post for the 17 Oct 2026 Grok Bot meetup in Zarzal, Colombia (Luma spacexai-zarzal).",
+            "zh": "论坛活动帖：2026-10-17 哥伦比亚 Zarzal 的 Grok Bot Meetup（Luma spacexai-zarzal）。",
+            "ja": "フォーラム告知。2026-10-17 コロンビア・Zarzal の Grok Bot Meetup（Luma spacexai-zarzal）。"
+          }
+        },
+        {
+          "title": "Forum: New event — Grok Hackathon at the Museum (Pavia)",
+          "url": "https://forum.cursor.com/t/new-event-grok-hackathon-at-the-museum/173708",
+          "source": "GB-2050",
+          "blurb": {
+            "en": "Cursor forum event post for the 5 Nov 2026 Grok Hackathon at Ctrl+Alt Museum in Pavia (Luma spacexai-z1ys).",
+            "zh": "论坛活动帖：2026-11-05 意大利帕维亚 Ctrl+Alt 博物馆 Grok Hackathon（Luma spacexai-z1ys）。",
+            "ja": "フォーラム告知。2026-11-05 パヴィア Ctrl+Alt Museum の Grok Hackathon（Luma spacexai-z1ys）。"
+          }
         }
       ]
     },
@@ -20283,6 +20333,16 @@
             "en": "Open-source self-hosted AI agent workspace positioned as an alternative to OpenAI Dots, Meta Muse, and Grok Bot, with desktop/runtime packages.",
             "zh": "开源可自托管的 AI 智能体工作区，定位为 OpenAI Dots、Meta Muse 与 Grok Bot 的替代方案（含桌面/运行时包）。",
             "ja": "OpenAI Dots / Meta Muse / Grok Bot の代替を掲げる自ホスト型エージェント作業空間（デスクトップ／ランタイム同梱）。"
+          }
+        },
+        {
+          "title": "Noodle — multi-agent messenger alternative to Grok Bot",
+          "url": "https://github.com/pdparchitect/noodle",
+          "source": "GB-2047",
+          "blurb": {
+            "en": "macOS/iPhone multi-agent messenger with shared computers/browsers; README compares Noodle directly to Grok Bot and Muse.",
+            "zh": "macOS/iPhone 多智能体信使（共享电脑/浏览器）；README 直接对比 Noodle 与 Grok Bot、Muse。",
+            "ja": "macOS/iPhone のマルチエージェントメッセンジャー。README で Grok Bot / Muse と直接比較。"
           }
         }
       ]
@@ -27784,6 +27844,68 @@
         "en": "SpaceXAI calendar CXO Experience in Stockholm at Wisdome. Waitlist-enabled public Luma event (slug spacexai-dt0z / evt-8ReK7vGiGcyk3jk). Midday scan: new vs catalog.",
         "zh": "SpaceXAI 日历斯德哥尔摩 CXO Experience（Wisdome）。公开 Luma 活动有候补（slug spacexai-dt0z）。午间扫描相对目录为新增。",
         "ja": "SpaceXAI カレンダーのストックホルム CXO Experience（Wisdome）。ウェイトリストあり（slug spacexai-dt0z）。昼スキャンでカタログ未収録。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "zar-20261017",
+      "url": "https://luma.com/spacexai-zarzal",
+      "image": "./assets/events/zar-20261017-cover.png",
+      "expires": "2026-10-17T16:30:00-05:00",
+      "title": {
+        "en": "Grok Bot Zarzal Meetup",
+        "zh": "Grok Bot Meetup Zarzal",
+        "ja": "Grok Bot Meetup Zarzal"
+      },
+      "when": {
+        "en": "Sat 17 Oct 2026, 14:00–16:30 (America/Bogota, COT, UTC-5)",
+        "zh": "2026-10-17 周六 14:00–16:30（America/Bogota，COT，UTC-5）",
+        "ja": "2026-10-17（土）14:00–16:30（America/Bogota、COT、UTC-5）"
+      },
+      "where": {
+        "en": "Zarzal, Colombia · Universidad del Valle Sede Zarzal — Campus \"Bolivar\", Cl. 14 #7-134 — offline",
+        "zh": "哥伦比亚 Zarzal · Universidad del Valle Sede Zarzal — Campus \"Bolivar\"，Cl. 14 #7-134 — 线下",
+        "ja": "コロンビア・Zarzal · Universidad del Valle Sede Zarzal — Campus \"Bolivar\"、Cl. 14 #7-134 — オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI for Pereira calendar meetup in Zarzal (Valle del Cauca): afternoon of ideas, AI, Grok, and building. Free; ~60 spots; forum 173707; slug spacexai-zarzal (evt-S8NHkYmS6gcfEAv).",
+        "zh": "SpaceXAI for Pereira 日历在 Zarzal（考卡山谷）的下午 Meetup：想法、AI、Grok 与动手。免费约 60 席；论坛 173707；slug spacexai-zarzal。",
+        "ja": "SpaceXAI for Pereira カレンダーの Zarzal Meetup。アイデア・AI・Grok・構築の午後。無料・約 60 席。forum 173707。slug spacexai-zarzal。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "pav-20261105",
+      "url": "https://luma.com/spacexai-z1ys",
+      "image": "./assets/events/pav-20261105-cover.png",
+      "expires": "2026-11-05T23:30:00+01:00",
+      "title": {
+        "en": "Grok Hackathon at the Museum (Pavia)",
+        "zh": "博物馆 Grok Hackathon（帕维亚）",
+        "ja": "Grok Hackathon at the Museum（パヴィア）"
+      },
+      "when": {
+        "en": "Thu 5 Nov 2026, 10:00–23:30 (Europe/Rome, CET, UTC+1)",
+        "zh": "2026-11-05 周四 10:00–23:30（Europe/Rome，CET，UTC+1）",
+        "ja": "2026-11-05（木）10:00–23:30（Europe/Rome、CET、UTC+1）"
+      },
+      "where": {
+        "en": "Pavia, Italy · Ctrl+Alt Museum (comPVter), Via Riviera 39 — offline",
+        "zh": "意大利帕维亚 · Ctrl+Alt Museum（comPVter），Via Riviera 39 — 线下",
+        "ja": "イタリア・パヴィア · Ctrl+Alt Museum（comPVter）、Via Riviera 39 — オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI-linked day hackathon at the retro computing museum in Pavia (follow-on vibe from Milano Café Cursor nights). Free with host approval; forum 173708; slug spacexai-z1ys.",
+        "zh": "帕维亚复古计算博物馆全日 Hackathon（延续米兰 Café Cursor 氛围）。免费需主办审核；论坛 173708；slug spacexai-z1ys。",
+        "ja": "パヴィアのレトロコンピューティング博物館での全日ハッカソン（ミラノ Café Cursor の流れ）。主催承認あり無料。forum 173708。slug spacexai-z1ys。"
       },
       "cta": {
         "en": "Register on Luma →",

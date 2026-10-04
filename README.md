@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2020-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2026-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -42,16 +42,17 @@
 - **Germany**（5）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261120) · [Kassel](./EVENTS.md#kas-20261112) · [Frankfurt](./EVENTS.md#fra-20261030)
 - **Brazil**（4）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Salvador](./EVENTS.md#ssa-20261008) · [Florianópolis](./EVENTS.md#fln-20261016)
 - **Canada**（4）：[Toronto](./EVENTS.md#yyz-20261026) · [Calgary](./EVENTS.md#yyc-20261028) · [Halifax](./EVENTS.md#yhz-20261015) · [Ottawa](./EVENTS.md#yow-20261017)
-- **Indonesia**（4）：[Jimbaran / Bali (Udayana)](./EVENTS.md#bliw-20261004) · [Jakarta](./EVENTS.md#jkt-20261003) · [Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
-- **Italy**（3）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022) · [Bologna](./EVENTS.md#blq-20261012)
+- **Italy**（4）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022) · [Bologna](./EVENTS.md#blq-20261012) · [Pavia](./EVENTS.md#pav-20261105)
 - **Ecuador**（2）：[Ambato](./EVENTS.md#atu-20261029) · [Quito](./EVENTS.md#uio-20261021)
 - **Spain**（2）：[Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
+- **Indonesia**（2）：[Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
 - **South Korea**（2）：[Seoul](./EVENTS.md#sel-20261027) · [Seoul (13 Oct)](./EVENTS.md#sel-20261013)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20261017)
 - **Austria**（1）：[Vienna](./EVENTS.md#vie-20261031)
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
 - **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20261031)
 - **Côte d'Ivoire**（1）：[Abidjan](./EVENTS.md#abj-20261107)
+- **Colombia**（1）：[Zarzal](./EVENTS.md#zar-20261017)
 - **Finland**（1）：[Helsinki](./EVENTS.md#hel-20261027)
 - **Ghana**（1）：[Accra](./EVENTS.md#acc-20261017)
 - **Guatemala**（1）：[Guatemala](./EVENTS.md#gua-20261205)
@@ -504,6 +505,8 @@
 - [vitalitychems-dot/z — Tessera Grok Bot handoff index](https://github.com/vitalitychems-dot/z) - Single handoff entrypoint that points a Grok Bot at WALK.md plus the Tessera repository index (no secrets) for continuing Father/Tessera work.
 - [Compile London: Jet Semrick workshop notes via Grok Bot](https://emrecavunt.com/blog/grok-bot-jet-semrick-compile-london) - Case write-up of using Grok Bot at Compile London: speech-to-text Notion notes plus separate bots for deck, blog, social, and editorial review.
 - [satheez.dev: Grok Bot as desktop publishing teammate](https://satheez.dev/writing/grok-bot-desktop-assistant/) - Practitioner notes on running Grok Bot for satheez.dev publish paths—plugins vs browser, cloud-agent PRs, and hard stops before public posts.
+- [falconfpga — Atari Falcon FPGA with Grok Bot handoff](https://github.com/dave-1024/falconfpga) - Tang Console Atari Falcon FPGA workshop with a documented Grok Bot patch-handoff protocol so chat and Bot never overwrite each other.
+- [GrokD4M — HurlingWiki built with Grok Bot + D4M](https://github.com/Sliothar1/GrokD4M) - Kid-friendly Galway hurling knowledge site (MIT D4M-style associative arrays) built as a Grok Bot project handoff.
 
 ## Skills, Plugins & MCP
 
@@ -1832,6 +1835,9 @@
 - [Forum: scheduled routines fail with "Activity task failed"](https://forum.cursor.com/t/grok-bot-scheduled-routines-fail-with-activity-task-failed-no-reason-shown/173672) - Bug report: three scheduled Grok Bot routines failed with only "Activity task failed" and no reason, while a manual rerun on the same healthy box succeeded.
 - [Forum: Android Conversation Mode voice settings always revert](https://forum.cursor.com/t/on-mobile-android-voice-settings-in-conversation-mode-always-revert-back-to-default/173646) - Android Grok Bot bug: Conversation Mode voice/speed always snap back to defaults (e.g. Liora 1x) instead of keeping the user’s choice.
 - [Forum: messages delayed 24–26 minutes for 8 days (T-G23547)](https://forum.cursor.com/t/grok-bot-messages-delayed-24-26-minutes-for-8-days-ticket-t-g23547-email-only-answered-by-sam/173700) - macOS/iPhone Grok Bot 0.66.0 report: every follow-up arrives 24–26 minutes late for eight days; ticket T-G23547 stays answered only by Sam AI support.
+- [Forum: add voice replies (TTS) for Grok Bot](https://forum.cursor.com/t/grok-bot-add-voice-replies-text-to-speech-so-i-can-listen-instead-of-read/173693) - Feature request: optional text-to-speech so Grok Bot can read replies aloud with on/off and voice choice (including webhook wakeups).
+- [Forum: New event — Grok Bot Zarzal Meetup (17 Oct)](https://forum.cursor.com/t/new-event-grok-bot-zarzal-meetup/173707) - Cursor forum event post for the 17 Oct 2026 Grok Bot meetup in Zarzal, Colombia (Luma spacexai-zarzal).
+- [Forum: New event — Grok Hackathon at the Museum (Pavia)](https://forum.cursor.com/t/new-event-grok-hackathon-at-the-museum/173708) - Cursor forum event post for the 5 Nov 2026 Grok Hackathon at Ctrl+Alt Museum in Pavia (Luma spacexai-z1ys).
 
 ## Related Lists
 
@@ -2127,10 +2133,11 @@
 - [usage-reset-petition — Friday 4:45pm NY Grok Bot reset ask](https://github.com/Pitchfork-and-Torch/usage-reset-petition) - Public petition site asking that Grok Bot weekly usage reset every Friday 4:45pm New York time, with X-handle proof-of-post verification.
 - [paseo-bots — Paseo personal bots (Grok Bot–like)](https://github.com/oliexe/paseo-bots) - Personal bots for the Paseo host, framed like Grok Bot / Hermes bots: per-bot instructions, model, memory, skills, and tools in isolated workspaces.
 - [Poka-Bot — self-hosted alternative to Grok Bot](https://github.com/xAmirHamza77/Poka-Bot) - Open-source self-hosted AI agent workspace positioned as an alternative to OpenAI Dots, Meta Muse, and Grok Bot, with desktop/runtime packages.
+- [Noodle — multi-agent messenger alternative to Grok Bot](https://github.com/pdparchitect/noodle) - macOS/iPhone multi-agent messenger with shared computers/browsers; README compares Noodle directly to Grok Bot and Muse.
 
 ## Contributing
 
-2020 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2026 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

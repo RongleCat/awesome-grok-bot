@@ -111,21 +111,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="yow-20261017"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/phs5tofz"><img src="./assets/events/yow-20261017-cover.png" alt="Grok Bot Meetup Ottawa" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Ottawa</strong><br />Sat 17 Oct 2026, 18:00–22:00 (America/Toronto, EDT, UTC-4)<br />Nicol Building, Carleton University, 1125 Colonel By Dr, Ottawa, ON K1S 5B6, Canada — offline<br /><br />Ottawa Grok Bot meetup at Carleton University (Builders Collective Ottawa; hosts Qurb E Muhammad Syed, Kaan UN, Feyza Gulbent, David Storozhenko). Evening demos/networking. Free RSVP; guest_count 62 at midday scan. Same Luma slug phs5tofz as former yow-20261010 (rescheduled Oct 10→17).<br /><br /><a href="https://luma.com/phs5tofz"><strong>Register on Luma → →</strong></a></td></tr></table>
 
-<a id="country-id"></a>
-### Indonesia
-
-<a id="bliw-20261004"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/lkmh86ad"><img src="./assets/events/bliw-20261004-cover.png" alt="Grokbot Workshop Bali (Udayana)" width="300" /></a></td><td valign="top"><strong>Grokbot Workshop Bali (Udayana)</strong><br />Sun 4 Oct 2026, 11:00–14:00 (WITA)<br />Jimbaran / Badung, Bali · Udayana University, Jl. Raya Kampus Unud<br /><br />Campus Grok Bot workshop for students/devs/founders in Indonesia. Distinct from Sep 15 BukitHub meetup (bli-20260915). Forum 170448; waitlist/approval.<br /><br /><a href="https://luma.com/lkmh86ad"><strong>Register on Luma → →</strong></a></td></tr></table>
-
-<a id="jkt-20261003"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zb6b"><img src="./assets/events/jkt-20261003-cover.png" alt="Grok Bot Meetup Jakarta" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Jakarta</strong><br />Sat 3 Oct 2026 10:00 – Sun 4 Oct 2026 13:00 (Asia/Jakarta, WIB)<br />Jakarta, Indonesia · venue listed as Jakarta (SpaceXAI for Jakarta calendar)<br /><br />Official-style Grok Bot Meetup Jakarta (SpaceXAI for Jakarta): community case studies, how to use Personal Agents, how Ambassadors use Grok Bot, Q&A, networking. Host Naufaldi; free; host approval; ~100 spots; guest_count 0 at scan. Offline; HTML EventScheduled; API_OK (evt-1VwgjzY1wKKanAs). Distinct from nearby Bandung (bdg-20260919) / Tangerang (tgr-20260911) End time updated to Sun 4 Oct 2026 13:00 WIB (+1 day).<br /><br /><a href="https://luma.com/spacexai-zb6b"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
-
-<a id="jkt-20261107"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/d4b0eg4v"><img src="./assets/events/jkt-20261107-cover.png" alt="SpaceXAI Hackathon Indonesia" width="300" /></a></td><td valign="top"><strong>SpaceXAI Hackathon Indonesia</strong><br />Sat 7 Nov 2026, 07:00–20:00 (Asia/Jakarta)<br />Jakarta, Indonesia — offline hackathon (exact venue on Luma)<br /><br />SpaceXAI Hackathon Indonesia in Jakarta — multi-day offline build around Grok Bot / SpaceXAI Community.<br /><br /><a href="https://luma.com/d4b0eg4v"><strong>Register on Luma →</strong></a></td></tr></table>
-
-<a id="bli-20261025"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/ubpln69o"><img src="./assets/events/bli-20261025-cover.jpg" alt="Grok Bot Meetup Bali" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Bali</strong><br />Sun 25 Oct 2026, 13:00–16:00 (Asia/Makassar)<br />Canggu / Badung, Bali · address after register — offline<br /><br />SpaceXAI Bali Grok Bot meetup in Canggu: workflows, credits, food/drinks. Designers, PMs, founders, beginners welcome. Register on Luma.<br /><br /><a href="https://luma.com/ubpln69o"><strong>Register on Luma →</strong></a></td></tr></table>
-
 <a id="country-it"></a>
 ### Italy
 
@@ -137,6 +122,9 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="blq-20261012"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-bologna-01"><img src="./assets/events/blq-20261012-cover.png" alt="Grok Bot Meetup Bologna" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Bologna</strong><br />Mon 12 Oct 2026, 18:00–21:00 (Europe/Rome, CEST, UTC+2)<br />Bologna, Italy · Serre dei Giardini Margherita, Via Castiglione 134 — offline<br /><br />First Grok Bot Meetup in Bologna (Serra Liberty / Kilowatt). Live demos and laptop builds. Free; guest_count 8 at morning scan. Luma spacexai-bologna-01.<br /><br /><a href="https://luma.com/spacexai-bologna-01"><strong>Register on Luma →</strong></a></td></tr></table>
+
+<a id="pav-20261105"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-z1ys"><img src="./assets/events/pav-20261105-cover.png" alt="Grok Hackathon at the Museum (Pavia)" width="300" /></a></td><td valign="top"><strong>Grok Hackathon at the Museum (Pavia)</strong><br />Thu 5 Nov 2026, 10:00–23:30 (Europe/Rome, CET, UTC+1)<br />Pavia, Italy · Ctrl+Alt Museum (comPVter), Via Riviera 39 — offline<br /><br />SpaceXAI-linked day hackathon at the retro computing museum in Pavia (follow-on vibe from Milano Café Cursor nights). Free with host approval; forum 173708; slug spacexai-z1ys.<br /><br /><a href="https://luma.com/spacexai-z1ys"><strong>Register on Luma → →</strong></a></td></tr></table>
 
 <a id="country-ec"></a>
 ### Ecuador
@@ -155,6 +143,15 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="bil-20261019"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-euskadi"><img src="./assets/events/bil-20261019-cover.png" alt="Grok Bot Bilbao meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Bilbao meetup</strong><br />Mon 19 Oct 2026, 18:00–21:30 (Europe/Madrid)<br />Bilbao, Spain · La Perrera Espazioa (Sabino Arana Etorbidea, 50) — offline<br /><br />SpaceXAI for Bilbao meetup at La Perrera Espazioa: meet builders and share with Grok Bot. Free registration on Luma.<br /><br /><a href="https://luma.com/spacexai-euskadi"><strong>Register on Luma →</strong></a></td></tr></table>
+
+<a id="country-id"></a>
+### Indonesia
+
+<a id="jkt-20261107"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/d4b0eg4v"><img src="./assets/events/jkt-20261107-cover.png" alt="SpaceXAI Hackathon Indonesia" width="300" /></a></td><td valign="top"><strong>SpaceXAI Hackathon Indonesia</strong><br />Sat 7 Nov 2026, 07:00–20:00 (Asia/Jakarta)<br />Jakarta, Indonesia — offline hackathon (exact venue on Luma)<br /><br />SpaceXAI Hackathon Indonesia in Jakarta — multi-day offline build around Grok Bot / SpaceXAI Community.<br /><br /><a href="https://luma.com/d4b0eg4v"><strong>Register on Luma →</strong></a></td></tr></table>
+
+<a id="bli-20261025"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/ubpln69o"><img src="./assets/events/bli-20261025-cover.jpg" alt="Grok Bot Meetup Bali" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Bali</strong><br />Sun 25 Oct 2026, 13:00–16:00 (Asia/Makassar)<br />Canggu / Badung, Bali · address after register — offline<br /><br />SpaceXAI Bali Grok Bot meetup in Canggu: workflows, credits, food/drinks. Designers, PMs, founders, beginners welcome. Register on Luma.<br /><br /><a href="https://luma.com/ubpln69o"><strong>Register on Luma →</strong></a></td></tr></table>
 
 <a id="country-kr"></a>
 ### South Korea
@@ -194,6 +191,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="abj-20261107"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-2qgv"><img src="./assets/events/abj-20261107-cover.png" alt="Grok Bot Meetup Abidjan" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Abidjan</strong><br />Sat 7 Nov 2026, 09:00–17:00 (Africa/Abidjan / GMT)<br />Abidjan, Côte d'Ivoire · Alto café (near Institut Coeur de Grace, Danga Nord) — offline<br /><br />SpaceXAI for Abidjan meetup at Alto café: drop-in day to build and share with Grok Bot (follow-up to Café Cursor Abidjan). Free coffee vibe; ~11 guests. Register on Luma.<br /><br /><a href="https://luma.com/spacexai-2qgv"><strong>Register on Luma →</strong></a></td></tr></table>
+
+<a id="country-co"></a>
+### Colombia
+
+<a id="zar-20261017"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zarzal"><img src="./assets/events/zar-20261017-cover.png" alt="Grok Bot Zarzal Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Zarzal Meetup</strong><br />Sat 17 Oct 2026, 14:00–16:30 (America/Bogota, COT, UTC-5)<br />Zarzal, Colombia · Universidad del Valle Sede Zarzal — Campus "Bolivar", Cl. 14 #7-134 — offline<br /><br />SpaceXAI for Pereira calendar meetup in Zarzal (Valle del Cauca): afternoon of ideas, AI, Grok, and building. Free; ~60 spots; forum 173707; slug spacexai-zarzal (evt-S8NHkYmS6gcfEAv).<br /><br /><a href="https://luma.com/spacexai-zarzal"><strong>Register on Luma → →</strong></a></td></tr></table>
 
 <a id="country-fi"></a>
 ### Finland

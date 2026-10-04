@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2020-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2026-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -42,16 +42,17 @@
 - **ドイツ**（5）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015) · [フランクフルト](./EVENTS.ja.md#fra-20261120) · [カッセル](./EVENTS.ja.md#kas-20261112) · [フランクフルト](./EVENTS.ja.md#fra-20261030)
 - **ブラジル**（4）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [サルバドール](./EVENTS.ja.md#ssa-20261008) · [フロリアノポリス](./EVENTS.ja.md#fln-20261016)
 - **カナダ**（4）：[トロント](./EVENTS.ja.md#yyz-20261026) · [カルガリー](./EVENTS.ja.md#yyc-20261028) · [ハリファックス](./EVENTS.ja.md#yhz-20261015) · [オタワ](./EVENTS.ja.md#yow-20261017)
-- **インドネシア**（4）：[ジンバラン / バリ（Udayana）](./EVENTS.ja.md#bliw-20261004) · [ジャカルタ](./EVENTS.ja.md#jkt-20261003) · [ジャカルタ](./EVENTS.ja.md#jkt-20261107) · [チャングー / バリ](./EVENTS.ja.md#bli-20261025)
-- **イタリア**（3）：[ローマ](./EVENTS.ja.md#rom-20261023) · [トレヴィーゾ](./EVENTS.ja.md#tvs-20261022) · [ボローニャ](./EVENTS.ja.md#blq-20261012)
+- **イタリア**（4）：[ローマ](./EVENTS.ja.md#rom-20261023) · [トレヴィーゾ](./EVENTS.ja.md#tvs-20261022) · [ボローニャ](./EVENTS.ja.md#blq-20261012) · [パヴィア](./EVENTS.ja.md#pav-20261105)
 - **エクアドル**（2）：[アンバト](./EVENTS.ja.md#atu-20261029) · [キト](./EVENTS.ja.md#uio-20261021)
 - **スペイン**（2）：[アリカンテ](./EVENTS.ja.md#alc-20261107) · [ビルバオ](./EVENTS.ja.md#bil-20261019)
+- **インドネシア**（2）：[ジャカルタ](./EVENTS.ja.md#jkt-20261107) · [チャングー / バリ](./EVENTS.ja.md#bli-20261025)
 - **韓国**（2）：[ソウル](./EVENTS.ja.md#sel-20261027) · [ソウル（10/13）](./EVENTS.ja.md#sel-20261013)
 - **アルバニア**（1）：[ティラナ](./EVENTS.ja.md#tia-20261017)
 - **オーストリア**（1）：[ウィーン](./EVENTS.ja.md#vie-20261031)
 - **オーストラリア**（1）：[シドニー](./EVENTS.ja.md#syd-20261007)
 - **バングラデシュ**（1）：[ダッカ](./EVENTS.ja.md#dac-20261031)
 - **コートジボワール**（1）：[アビジャン](./EVENTS.ja.md#abj-20261107)
+- **コロンビア**（1）：[サルサル](./EVENTS.ja.md#zar-20261017)
 - **フィンランド**（1）：[ヘルシンキ](./EVENTS.ja.md#hel-20261027)
 - **ガーナ**（1）：[アクラ](./EVENTS.ja.md#acc-20261017)
 - **グアテマラ**（1）：[グアテマラ](./EVENTS.ja.md#gua-20261205)
@@ -504,6 +505,8 @@
 - [vitalitychems-dot/z — Tessera Grok Bot handoff index](https://github.com/vitalitychems-dot/z) - Grok Bot 向け単一ハンドオフ入口。WALK.md と Tessera リポジトリ索引（秘密なし）へ案内し作業を継続。
 - [Compile London: Jet Semrick workshop notes via Grok Bot](https://emrecavunt.com/blog/grok-bot-jet-semrick-compile-london) - Compile London での実例。Grok Bot で音声メモを Notion へ保存し、資料・ブログ・SNS・編集レビュー用 Bot を分担。
 - [satheez.dev: Grok Bot as desktop publishing teammate](https://satheez.dev/writing/grok-bot-desktop-assistant/) - satheez.dev 公開フローで Grok Bot を使う実践メモ。プラグイン優先、クラウド Agent の PR、公開前のハードストップ。
+- [falconfpga — Atari Falcon FPGA with Grok Bot handoff](https://github.com/dave-1024/falconfpga) - Tang Console 向け Atari Falcon FPGA 作業ログ。Grok Bot のパッチ受け渡し手順を文書化し、チャットと Bot の衝突を防ぐ。
+- [GrokD4M — HurlingWiki built with Grok Bot + D4M](https://github.com/Sliothar1/GrokD4M) - 子供向けゴールウェイ hurling 知識サイト（MIT D4M 風連想配列）。Grok Bot プロジェクトのハンドオフ用リポ。
 
 ## スキル、プラグインと MCP
 
@@ -1832,6 +1835,9 @@
 - [Forum: scheduled routines fail with "Activity task failed"](https://forum.cursor.com/t/grok-bot-scheduled-routines-fail-with-activity-task-failed-no-reason-shown/173672) - 障害報告。3 件の定期ルーチンが理由なしの "Activity task failed" のみで失敗し、同じ健全な箱での手動再実行は成功。
 - [Forum: Android Conversation Mode voice settings always revert](https://forum.cursor.com/t/on-mobile-android-voice-settings-in-conversation-mode-always-revert-back-to-default/173646) - Android Grok Bot。Conversation Mode の音声/速度が毎回デフォルト（例: Liora 1x）に戻り、設定が保持されない。
 - [Forum: messages delayed 24–26 minutes for 8 days (T-G23547)](https://forum.cursor.com/t/grok-bot-messages-delayed-24-26-minutes-for-8-days-ticket-t-g23547-email-only-answered-by-sam/173700) - macOS/iPhone の Grok Bot 0.66.0。8日間、追従メッセージが毎回 24–26 分遅延。チケット T-G23547 は Sam AI サポートのみ応答。
+- [Forum: add voice replies (TTS) for Grok Bot](https://forum.cursor.com/t/grok-bot-add-voice-replies-text-to-speech-so-i-can-listen-instead-of-read/173693) - 機能要望。Grok Bot の返信を TTS で読み上げ（ON/OFF・声の選択、webhook 起床メッセージ含む）。
+- [Forum: New event — Grok Bot Zarzal Meetup (17 Oct)](https://forum.cursor.com/t/new-event-grok-bot-zarzal-meetup/173707) - フォーラム告知。2026-10-17 コロンビア・Zarzal の Grok Bot Meetup（Luma spacexai-zarzal）。
+- [Forum: New event — Grok Hackathon at the Museum (Pavia)](https://forum.cursor.com/t/new-event-grok-hackathon-at-the-museum/173708) - フォーラム告知。2026-11-05 パヴィア Ctrl+Alt Museum の Grok Hackathon（Luma spacexai-z1ys）。
 
 ## 関連リスト
 
@@ -2127,10 +2133,11 @@
 - [usage-reset-petition — Friday 4:45pm NY Grok Bot reset ask](https://github.com/Pitchfork-and-Torch/usage-reset-petition) - Grok Bot の週次利用枠を毎週金曜 16:45（ニューヨーク）にリセットしてほしい公開請願。X 投稿検証付き。
 - [paseo-bots — Paseo personal bots (Grok Bot–like)](https://github.com/oliexe/paseo-bots) - Paseo 上の個人 Bot。Grok Bot / Hermes 風に、指示・モデル・記憶・スキル・ツールを Bot ごとに分離。
 - [Poka-Bot — self-hosted alternative to Grok Bot](https://github.com/xAmirHamza77/Poka-Bot) - OpenAI Dots / Meta Muse / Grok Bot の代替を掲げる自ホスト型エージェント作業空間（デスクトップ／ランタイム同梱）。
+- [Noodle — multi-agent messenger alternative to Grok Bot](https://github.com/pdparchitect/noodle) - macOS/iPhone のマルチエージェントメッセンジャー。README で Grok Bot / Muse と直接比較。
 
 ## 貢献
 
-8 セクションに 2020 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2026 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

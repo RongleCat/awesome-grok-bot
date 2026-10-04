@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2020-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2026-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -42,16 +42,17 @@
 - **德国**（5）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20261120) · [卡塞尔](./EVENTS.zh.md#kas-20261112) · [法兰克福](./EVENTS.zh.md#fra-20261030)
 - **巴西**（4）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20261016)
 - **加拿大**（4）：[多伦多](./EVENTS.zh.md#yyz-20261026) · [卡尔加里](./EVENTS.zh.md#yyc-20261028) · [哈利法克斯](./EVENTS.zh.md#yhz-20261015) · [渥太华](./EVENTS.zh.md#yow-20261017)
-- **印度尼西亚**（4）：[巴厘岛金巴兰（乌达亚纳）](./EVENTS.zh.md#bliw-20261004) · [雅加达](./EVENTS.zh.md#jkt-20261003) · [雅加达](./EVENTS.zh.md#jkt-20261107) · [巴厘岛Canggu](./EVENTS.zh.md#bli-20261025)
-- **意大利**（3）：[罗马](./EVENTS.zh.md#rom-20261023) · [特雷维索](./EVENTS.zh.md#tvs-20261022) · [博洛尼亚](./EVENTS.zh.md#blq-20261012)
+- **意大利**（4）：[罗马](./EVENTS.zh.md#rom-20261023) · [特雷维索](./EVENTS.zh.md#tvs-20261022) · [博洛尼亚](./EVENTS.zh.md#blq-20261012) · [帕维亚](./EVENTS.zh.md#pav-20261105)
 - **厄瓜多尔**（2）：[安巴托](./EVENTS.zh.md#atu-20261029) · [基多](./EVENTS.zh.md#uio-20261021)
 - **西班牙**（2）：[阿利坎特](./EVENTS.zh.md#alc-20261107) · [毕尔巴鄂](./EVENTS.zh.md#bil-20261019)
+- **印度尼西亚**（2）：[雅加达](./EVENTS.zh.md#jkt-20261107) · [巴厘岛Canggu](./EVENTS.zh.md#bli-20261025)
 - **韩国**（2）：[首尔](./EVENTS.zh.md#sel-20261027) · [首尔（10/13）](./EVENTS.zh.md#sel-20261013)
 - **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20261017)
 - **奥地利**（1）：[维也纳](./EVENTS.zh.md#vie-20261031)
 - **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
 - **孟加拉国**（1）：[达卡](./EVENTS.zh.md#dac-20261031)
 - **科特迪瓦**（1）：[阿比让](./EVENTS.zh.md#abj-20261107)
+- **哥伦比亚**（1）：[萨尔萨尔](./EVENTS.zh.md#zar-20261017)
 - **芬兰**（1）：[赫尔辛基](./EVENTS.zh.md#hel-20261027)
 - **加纳**（1）：[阿克拉](./EVENTS.zh.md#acc-20261017)
 - **危地马拉**（1）：[危地马拉](./EVENTS.zh.md#gua-20261205)
@@ -504,6 +505,8 @@
 - [vitalitychems-dot/z — Tessera Grok Bot handoff index](https://github.com/vitalitychems-dot/z) - 给 Grok Bot 的单一交接入口：指向 WALK.md 与 Tessera 仓库索引（无密钥），便于续跑 Father/Tessera 工作。.
 - [Compile London: Jet Semrick workshop notes via Grok Bot](https://emrecavunt.com/blog/grok-bot-jet-semrick-compile-london) - Compile London 现场案例：用 Grok Bot 语音转写记入 Notion，并分派演示文稿/博客/社交/审稿等独立 Bot。.
 - [satheez.dev: Grok Bot as desktop publishing teammate](https://satheez.dev/writing/grok-bot-desktop-assistant/) - 实践笔记：用 Grok Bot 跑 satheez.dev 发布链路——插件优先于浏览器、云端 Agent 开 PR，以及公开发布前的硬停止点。.
+- [falconfpga — Atari Falcon FPGA with Grok Bot handoff](https://github.com/dave-1024/falconfpga) - Tang Console 上的 Atari Falcon FPGA 工坊笔记，附 Grok Bot 补丁交接协议，避免聊天端与 Bot 互相覆盖。.
+- [GrokD4M — HurlingWiki built with Grok Bot + D4M](https://github.com/Sliothar1/GrokD4M) - 面向儿童的戈尔韦 hurling 知识站（MIT D4M 风格关联数组），作为 Grok Bot 项目交接仓库维护。.
 
 ## 技能、插件与 MCP
 
@@ -1832,6 +1835,9 @@
 - [Forum: scheduled routines fail with "Activity task failed"](https://forum.cursor.com/t/grok-bot-scheduled-routines-fail-with-activity-task-failed-no-reason-shown/173672) - 故障报告：三个 Grok Bot 定时例程仅报 “Activity task failed”、无原因说明；同台健康云电脑上手动重跑却成功。.
 - [Forum: Android Conversation Mode voice settings always revert](https://forum.cursor.com/t/on-mobile-android-voice-settings-in-conversation-mode-always-revert-back-to-default/173646) - Android Grok Bot 反馈：Conversation Mode 的语音与语速每次都会回到默认（如 Liora 1x），无法记住用户选择。.
 - [Forum: messages delayed 24–26 minutes for 8 days (T-G23547)](https://forum.cursor.com/t/grok-bot-messages-delayed-24-26-minutes-for-8-days-ticket-t-g23547-email-only-answered-by-sam/173700) - macOS/iPhone Grok Bot 0.66.0：连续 8 天每条跟进消息延迟 24–26 分钟；工单 T-G23547 仅有 Sam AI 客服回复。.
+- [Forum: add voice replies (TTS) for Grok Bot](https://forum.cursor.com/t/grok-bot-add-voice-replies-text-to-speech-so-i-can-listen-instead-of-read/173693) - 功能请求：可选 TTS，让 Grok Bot 朗读回复（开关与音色选择，含 webhook 唤醒消息）。.
+- [Forum: New event — Grok Bot Zarzal Meetup (17 Oct)](https://forum.cursor.com/t/new-event-grok-bot-zarzal-meetup/173707) - 论坛活动帖：2026-10-17 哥伦比亚 Zarzal 的 Grok Bot Meetup（Luma spacexai-zarzal）。.
+- [Forum: New event — Grok Hackathon at the Museum (Pavia)](https://forum.cursor.com/t/new-event-grok-hackathon-at-the-museum/173708) - 论坛活动帖：2026-11-05 意大利帕维亚 Ctrl+Alt 博物馆 Grok Hackathon（Luma spacexai-z1ys）。.
 
 ## 相关列表
 
@@ -2127,10 +2133,11 @@
 - [usage-reset-petition — Friday 4:45pm NY Grok Bot reset ask](https://github.com/Pitchfork-and-Torch/usage-reset-petition) - 公开请愿站：请求 Grok Bot 周用量在每周五纽约时间 16:45 重置，并用 X 发帖验证签名。.
 - [paseo-bots — Paseo personal bots (Grok Bot–like)](https://github.com/oliexe/paseo-bots) - Paseo 宿主上的个人 Bot，定位类似 Grok Bot / Hermes：每 Bot 独立指令、模型、记忆、技能与工具工作区。.
 - [Poka-Bot — self-hosted alternative to Grok Bot](https://github.com/xAmirHamza77/Poka-Bot) - 开源可自托管的 AI 智能体工作区，定位为 OpenAI Dots、Meta Muse 与 Grok Bot 的替代方案（含桌面/运行时包）。.
+- [Noodle — multi-agent messenger alternative to Grok Bot](https://github.com/pdparchitect/noodle) - macOS/iPhone 多智能体信使（共享电脑/浏览器）；README 直接对比 Noodle 与 Grok Bot、Muse。.
 
 ## 贡献
 
-目前 8 个分类、2020 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2026 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
