@@ -156,6 +156,15 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="bil-20261019"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-euskadi"><img src="./assets/events/bil-20261019-cover.png" alt="Grok Bot Bilbao meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Bilbao meetup</strong><br />Mon 19 Oct 2026, 18:00–21:30 (Europe/Madrid)<br />Bilbao, Spain · La Perrera Espazioa (Sabino Arana Etorbidea, 50) — offline<br /><br />SpaceXAI for Bilbao meetup at La Perrera Espazioa: meet builders and share with Grok Bot. Free registration on Luma.<br /><br /><a href="https://luma.com/spacexai-euskadi"><strong>Register on Luma →</strong></a></td></tr></table>
 
+<a id="country-kr"></a>
+### South Korea
+
+<a id="sel-20261027"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/6ee6i3v6"><img src="./assets/events/sel-20261027-cover.png" alt="Grok Bot Meetup Seoul" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Seoul</strong><br />Tue 27 Oct 2026, 19:00–22:00 (Europe/Amsterdam on Luma; first Seoul meetup).<br />Seoul, South Korea — offline (exact address TBA / obfuscated on Luma).<br /><br />First Grok Bot meetup in Seoul (hosts Andreas Kruszakin-Liboska + Eric Kim; personal calendar). Evening of building Bots and demos; laptop recommended; credits provided. Free RSVP (guest_count 4 at scan). Slug 6ee6i3v6 (evt-E1UoQfncUbg2JSK); no forum New-event post yet.<br /><br /><a href="https://luma.com/6ee6i3v6"><strong>Register on Luma → →</strong></a></td></tr></table>
+
+<a id="sel-20261013"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/3leebkxk"><img src="./assets/events/sel-20261013-cover.png" alt="Grok Bot Meetup Seoul (13 Oct)" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Seoul (13 Oct)</strong><br />Tue 13 Oct 2026, 18:00–22:00 (Asia/Seoul, KST, UTC+9)<br />Seoul, South Korea · Grove1219, 12-19 Seoulsup 4-gil, Seongdong-gu — offline<br /><br />Second Seoul Grok Bot meetup (distinct from sel-20261027 / slug 6ee6i3v6). Hosts include Jey Shim and others on a personal Luma calendar. Address: Grove1219, Seongdong-gu. Free RSVP; slug 3leebkxk (evt-dqR2wlOYLx6Jh4m).<br /><br /><a href="https://luma.com/3leebkxk"><strong>Register on Luma → →</strong></a></td></tr></table>
+
 <a id="country-al"></a>
 ### Albania
 
@@ -234,12 +243,6 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 <a id="srp-20261101"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-yvwt"><img src="./assets/events/srp-20261101-cover.png" alt="Grok Bot Siem Reap Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot Siem Reap Meetup</strong><br />Sun 1 Nov 2026, 14:00–18:00 (Asia/Bangkok / ICT, UTC+7)<br />The Creative House, Street Wat Po, Krong Siem Reap 17251, Cambodia · offline<br /><br />First-ever Siem Reap Grok Bot meetup (SpaceXAI Phnom Penh calendar; hosts Taka Kiyone, Luis Romero et al.; forum 173298 / Luma spacexai-yvwt). Hang out, demos, swap ideas; waitlist on; guest_count 0 at evening scan.<br /><br /><a href="https://luma.com/spacexai-yvwt"><strong>Register on Luma →</strong></a></td></tr></table>
 
-<a id="country-kr"></a>
-### South Korea
-
-<a id="sel-20261027"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/6ee6i3v6"><img src="./assets/events/sel-20261027-cover.png" alt="Grok Bot Meetup Seoul" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Seoul</strong><br />Tue 27 Oct 2026, 19:00–22:00 (Europe/Amsterdam on Luma; first Seoul meetup).<br />Seoul, South Korea — offline (exact address TBA / obfuscated on Luma).<br /><br />First Grok Bot meetup in Seoul (hosts Andreas Kruszakin-Liboska + Eric Kim; personal calendar). Evening of building Bots and demos; laptop recommended; credits provided. Free RSVP (guest_count 4 at scan). Slug 6ee6i3v6 (evt-E1UoQfncUbg2JSK); no forum New-event post yet.<br /><br /><a href="https://luma.com/6ee6i3v6"><strong>Register on Luma → →</strong></a></td></tr></table>
-
 <a id="country-kz"></a>
 ### Kazakhstan
 
@@ -287,6 +290,12 @@ Posters, venues, and how to register. The README groups cities by country; tap a
 
 <a id="ceb-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot Meetup Cebu" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cebu</strong><br />Sat 10 Oct 2026, 09:00–11:30 (Asia/Manila / PHT)<br />Zero-Ten Park Cebu Mandaue, Mandaue, Central Visayas, Philippines — offline<br /><br />In-person Grok Bot meetup in Cebu (rescheduled to Sat 10 Oct 2026). Host approval required.<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>Apply on Luma (host approval) →</strong></a></td></tr></table>
+
+<a id="country-se"></a>
+### Sweden
+
+<a id="sto-20261014"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-dt0z"><img src="./assets/events/sto-20261014-cover.png" alt="SpaceXAI | CXO Experience Stockholm" width="300" /></a></td><td valign="top"><strong>SpaceXAI | CXO Experience Stockholm</strong><br />Tue 14 Oct 2026, 08:30–13:30 (Europe/Stockholm, CEST, UTC+2)<br />Stockholm, Sweden · Wisdome Stockholm, Museivägen 7 — offline<br /><br />SpaceXAI calendar CXO Experience in Stockholm at Wisdome. Waitlist-enabled public Luma event (slug spacexai-dt0z / evt-8ReK7vGiGcyk3jk). Midday scan: new vs catalog.<br /><br /><a href="https://luma.com/spacexai-dt0z"><strong>Register on Luma → →</strong></a></td></tr></table>
 
 <a id="country-tt"></a>
 ### Trinidad and Tobago

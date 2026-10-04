@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2006-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2020-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -46,6 +46,7 @@
 - **イタリア**（3）：[ローマ](./EVENTS.ja.md#rom-20261023) · [トレヴィーゾ](./EVENTS.ja.md#tvs-20261022) · [ボローニャ](./EVENTS.ja.md#blq-20261012)
 - **エクアドル**（2）：[アンバト](./EVENTS.ja.md#atu-20261029) · [キト](./EVENTS.ja.md#uio-20261021)
 - **スペイン**（2）：[アリカンテ](./EVENTS.ja.md#alc-20261107) · [ビルバオ](./EVENTS.ja.md#bil-20261019)
+- **韓国**（2）：[ソウル](./EVENTS.ja.md#sel-20261027) · [ソウル（10/13）](./EVENTS.ja.md#sel-20261013)
 - **アルバニア**（1）：[ティラナ](./EVENTS.ja.md#tia-20261017)
 - **オーストリア**（1）：[ウィーン](./EVENTS.ja.md#vie-20261031)
 - **オーストラリア**（1）：[シドニー](./EVENTS.ja.md#syd-20261007)
@@ -59,7 +60,6 @@
 - **日本**（1）：[東京](./EVENTS.ja.md#tyo-20261011)
 - **ケニア**（1）：[ナイロビ（Kenya Workshop）](./EVENTS.ja.md#nbo-20261008)
 - **カンボジア**（1）：[シェムリアップ](./EVENTS.ja.md#srp-20261101)
-- **韓国**（1）：[ソウル](./EVENTS.ja.md#sel-20261027)
 - **カザフスタン**（1）：[アルマトイ](./EVENTS.ja.md#ala-20261004)
 - **スリランカ**（1）：[コロンボ](./EVENTS.ja.md#cmb-20261017)
 - **モロッコ**（1）：[カサブランカ](./EVENTS.ja.md#cas-20261017)
@@ -68,6 +68,7 @@
 - **ニュージーランド**（1）：[オークランド](./EVENTS.ja.md#akl-20261008)
 - **ペルー**（1）：[ワンカヨ](./EVENTS.ja.md#hyo-20261023)
 - **フィリピン**（1）：[セブ](./EVENTS.ja.md#ceb-20260919)
+- **スウェーデン**（1）：[ストックホルム](./EVENTS.ja.md#sto-20261014)
 - **トリニダード・トバゴ**（1）：[ポートオブスペイン](./EVENTS.ja.md#pos-20261030)
 - **オンライン**（1）：[オンライン（ゴイアニア）](./EVENTS.ja.md#gyn-20261017)
 
@@ -294,6 +295,7 @@
 - [What Can Grok Bot Do, and What Does It Cost in 2026? (Work Insiders)](https://workinsiders.com/what-can-grok-bot-do/) - 2026-10-01 の平易ガイド。Grok Bot のできること、Cursor Pro 起算の料金表、トライアル上限、安全に任せられない境界。
 - [Grok Bot: The Complete Guide to Always-On AI Agents (2026)](https://aiforordinarypeople.com/grok-bot-ai-agents-guide/) - 2026-09-19 の独立ガイド。クラウド PC、スキル/ルーチン、料金、中小向けワークフロー、共有コンピュータの注意点。
 - [Maven workshop: Build a Team of AI Agents with Grok Bot](https://maven.com/p/73cfaa/build-a-team-of-ai-agents-for-real-work-with-grok-bot) - Maven ライブ講座（予定 2026-10-06）。最初の Bot、デモで教えるスキル/ルーチン、複数 Bot の引き継ぎを実地で学ぶ。
+- [Learn Cursor: How to Set Up Grok Bot for Your First Task](https://www.learncursor.dev/learn/cursor-agents/grok-bot-setup) - 独立系 Learn Cursor ガイド。プラン／プライバシー確認、アプリ導入、狭い職務の Bot 作成、レビュー点付きの読み取り専用初タスク。
 
 ## 実地事例
 
@@ -497,6 +499,11 @@
 - [grok-bot-intrusion-detection-team — 8-agent Windows IDS](https://github.com/ritvikindupuri/grok-bot-intrusion-detection-team) - 8体の Grok Bot チーム。Windows PC の侵入兆候を監視し日次差分を報告、修復は所有者承認後のみ行います。
 - [eyeskull2220/grokbot — SovereignForge Floor OS handoff](https://github.com/eyeskull2220/grokbot) - Grok Bot CEO と6席 Floor 向けオペレーター机/ハンドオフ一式（鍵や取引所セッションはリポジトリ外）。
 - [boydt/morning-brief — Grok Bot–written daily brief site](https://github.com/boydt/morning-brief) - Grok Bot 助手 April が書く静的モーニングブリーフ。追問用 grokbot:// ディープリンクと公開データ同期付き。
+- [automated-db2-install-grokbot — Db2 lab menu for Bot](https://github.com/raganor-tech/automated-db2-install-grokbot) - WSL2/AlmaLinux 9 上の Db2 11.5.9 ラボ手順とメニュー脚本。BOT-INSTRUCTIONS.md で Grok Bot が安全に導入・スモークテスト可能。
+- [immortalwrt-jdcloud-cs-07 — firmware built by Grok Bot](https://github.com/pengyuw96/immortalwrt-jdcloud-cs-07) - JDCloud RE-CS-07（qualcommax/ipq60xx）向け ImmortalWrt SNAPSHOT。2026-10-04 に Grok Bot がコンパイルしたと明記。
+- [vitalitychems-dot/z — Tessera Grok Bot handoff index](https://github.com/vitalitychems-dot/z) - Grok Bot 向け単一ハンドオフ入口。WALK.md と Tessera リポジトリ索引（秘密なし）へ案内し作業を継続。
+- [Compile London: Jet Semrick workshop notes via Grok Bot](https://emrecavunt.com/blog/grok-bot-jet-semrick-compile-london) - Compile London での実例。Grok Bot で音声メモを Notion へ保存し、資料・ブログ・SNS・編集レビュー用 Bot を分担。
+- [satheez.dev: Grok Bot as desktop publishing teammate](https://satheez.dev/writing/grok-bot-desktop-assistant/) - satheez.dev 公開フローで Grok Bot を使う実践メモ。プラグイン優先、クラウド Agent の PR、公開前のハードストップ。
 
 ## スキル、プラグインと MCP
 
@@ -1145,6 +1152,7 @@
 - [mcpserver-grok-bot-plugin — cloud-instance McpServer fork](https://github.com/sharpninja/mcpserver-grok-bot-plugin) - Grok Bot クラウド向け mcpserver-grok-plugin フォーク。.grok-plugin フックで TODO・セッションログ・計画同期・GraphRAG 継続を提供します。
 - [ocnexus-mcp — OCNexus subscriber MCP wrapper for Grok Bot](https://github.com/LumenIQ-LLC/ocnexus-mcp) - Cursor/Grok Bot 向け OCNexus 購読 MCP の薄い公開ラッパ（Starter/Pro 必須・リポジトリに秘密なし）。
 - [Deploy-Forward/plugins — Convoy & Worklanes marketplace (incl. Grok)](https://github.com/Deploy-Forward/plugins) - Deploy Forward のマーケットプレイス。Convoy と Worklanes を Claude/Codex/Cursor/.grok に入れ、共有同期ツールも同梱します。
+- [devin-thomas/skills — portable agent skills (incl. Grok Bot)](https://github.com/devin-thomas/skills) - アイデア整形と有界ビルド向けの移植可能スキル。Codex / Claude Code / Cursor / Antigravity / Grok Bot / Grok CLI のホスト注記付き。
 
 ## レビューと比較
 
@@ -1165,13 +1173,14 @@
 - [Engadget — SpaceXAI Grok Bot early beta: how to try it](https://www.engadget.com/2259931/spacexai-grok-bot-early-beta-how-to-try/) - Engadget 2026-09-20 の Grok Bot 早期ベータ解説。対象の SuperGrok/Cursor プラン、チャットや Grok Build との違い、アプリ入手先。
 - [Windows Mode — OpenAI Dots vs Grok Bot (DevDay 2026)](https://www.windowsmode.com/openai-dots-always-on-agent) - Windows Mode の解説。OpenAI DevDay の dots（ChatGPT 常駐エージェント）と Grok Bot を比較——クラウド PC、複数 Bot、プラン、Windows セットアップ。
 - [How Autonomous Is Grok Bot Really? (IntroChek)](https://introchek.com/how-autonomous-is-grok-bot-really/) - 2026-09-28 分析。共有 PC・承認・2FA 引き継ぎ・サイト摩擦・ワークフロー単位コストから見た Grok Bot 自律性の限界。
+- [BuzzRAG: Grok Bot Review — AI Agents for Business Automation](https://buzzrag.com/article/grok-bot-review-ai-agents-business-automation) - Grok Bot ライブ実況レビュー。Luma 運営、Vercel ダッシュボード委任、デモ教示スキル、業務自動化向け Ultra 価格の初期メモ。
 
 ## オープンソースの代替
 
 - [Grok Bot event bridge — JSONL queue + webhook wake](https://github.com/tqd118/grok-bot-event-bridge) - 個人向けイベント駆動ブリッジ。同僚ボットがローカル JSONL キューへ追記し、webhook routine で Helper Grok Bot を起こすため、着信 HTTP や忙しいポーリングは不要です。
 - [Grok Bot SDLC portable — host-agnostic bot definition pack](https://github.com/dsickles/grok-bot-sdlc-portable) - バックログからドキュメントまでの SDLC 向け 7 つのクラウド Grok Bot 役割を公開 Markdown でまとめたパック。個人オーバーレイは git 外に置き、ホスト間で持ち運べます。
 - [BOTELLIGENCE — Grok Bot fleet control-center kit](https://github.com/vsgellon/botelligence-control-center) - 標準ライブラリのみのインストール可能な Python コックピット。非公開 Grok Bot フリートのヘルス・自己報告・安全アラートを表示し、最適化/一時停止/ロールバックを管理ボットの webhook に転送します。
-- [CodeCaps — macOS menu bar quotas including Grok Bot](https://github.com/jaywedgeworth22/CodeCaps) - オープンソースの macOS メニューバーアプリ。サインイン済みの Grok Bot や他 AI CLI の利用枠を表示し、任意の collector で Mac 間共有もできます。
+- [CodeCaps — macOS menu bar quotas including Grok Bot](https://github.com/Simple-With-Us/CodeCaps) - オープンソースの macOS メニューバーアプリ。サインイン済みの Grok Bot や他 AI CLI の利用枠を表示し、任意の collector で Mac 間共有もできます。
 - [Commander's Intent — Chief of Staff Grok Bot fleet template](https://github.com/shagghiesuperstar/commanders-intent) - 自己完結型の Grok Bot「参謀（Chief of Staff）」テンプレ（ペルソナ・ルーチン・スキル・フリート構成）。共有ミッションとガードレールで先回り・自己修復型の多エージェント運用向け。
 - [GrokBot Office — workforce control layer for a small GrokBot core](https://github.com/M4G3LL4N0/grokbot-office) - 公開リファレンスの制御層。小さな常駐 GrokBot 監督コアが AgentOS 経由で外部の弾力ワーカーを調整する。
 - [grokbot-mcp-bridge — secure MCP bridge to a Grok Bot webhook](https://github.com/kinopeee/grokbot-mcp-bridge) - Fly.io 向け MCP ブリッジ。Webhook URL や API キーを見せずに Poke から Cursor 自動化経由で Grok Bot を呼べる。
@@ -1547,6 +1556,9 @@
 - [EMET — enduring multi-agent memory MCP for Grok Bot teams](https://github.com/dreamforgestudiollc/EMET) - EMET 記憶 MCP。ISO 風レコード制御と書き込み後検証で、Grok Bot チームなどが層化永続メモリを共有します。
 - [satiricalguru/OpenBot — local AI teammates + video brain](https://github.com/satiricalguru/OpenBot) - Grok Bot/Dots/Muse 系の無料 OSS デスクトップ代替。自前コンピュータ付きローカル AI チームと動画理解脳（Ollama）を提供します。
 - [PrisacariuRobert/openbot — Mac AI teammates (Mail/Calendar/Notes)](https://github.com/PrisacariuRobert/openbot) - OpenAI Dots・Grok Bot・Siri AI 代替を謳う Mac 向け OSS AI チーム。Mail/Calendar/Notes で承認ゲート付きに動きます。
+- [Agents-Slack-Bridge — Muse/Grok Bot/Hermes/DOTS in Slack](https://github.com/Ares-X/Agents-Slack-Bridge) - Muse / Grok Bot / Hermes / ChatGPT DOTS を Slack で協働させるブリッジ。Grok Bot は Socket Mode と agent_wake。
+- [grokbuddy — WorkBuddy × Grok Bot collaboration hub](https://github.com/amir-hasan666/grokbuddy) - WorkBuddy と Grok Bot Reviewer を繋ぐ監査可能な協働ハブ。Hub DB を SoT にし、ルーチン／手動セットアップ手順あり。
+- [BotFleet — OpenMausBot fork with iPhone companion](https://github.com/Simple-With-Us/BotFleet) - OpenMausBot の友好フォーク。Mac 上で Claude/Codex/Grok CLI などのエンジンを協調し、iPhone コンパニオン付き。
 
 ## コミュニティと障害事例
 
@@ -1819,6 +1831,7 @@
 - [Forum: Gmail send arrives with broken "--null" MIME boundary](https://forum.cursor.com/t/grok-bot-gmail-send-emails-arrive-with-broken-null-mime-boundary/173684) - 障害報告。Grok Bot の Gmail コネクタ送信で "--null" MIME 境界が壊れ、厳格な受信側に生 multipart が見える。
 - [Forum: scheduled routines fail with "Activity task failed"](https://forum.cursor.com/t/grok-bot-scheduled-routines-fail-with-activity-task-failed-no-reason-shown/173672) - 障害報告。3 件の定期ルーチンが理由なしの "Activity task failed" のみで失敗し、同じ健全な箱での手動再実行は成功。
 - [Forum: Android Conversation Mode voice settings always revert](https://forum.cursor.com/t/on-mobile-android-voice-settings-in-conversation-mode-always-revert-back-to-default/173646) - Android Grok Bot。Conversation Mode の音声/速度が毎回デフォルト（例: Liora 1x）に戻り、設定が保持されない。
+- [Forum: messages delayed 24–26 minutes for 8 days (T-G23547)](https://forum.cursor.com/t/grok-bot-messages-delayed-24-26-minutes-for-8-days-ticket-t-g23547-email-only-answered-by-sam/173700) - macOS/iPhone の Grok Bot 0.66.0。8日間、追従メッセージが毎回 24–26 分遅延。チケット T-G23547 は Sam AI サポートのみ応答。
 
 ## 関連リスト
 
@@ -2112,10 +2125,12 @@
 - [HuiAnnn/ai-quota — macOS menu-bar multi-app quota panel](https://github.com/HuiAnnn/ai-quota) - macOS メニューバーの利用枠パネル。Codex・Grok Bot・Manus・Cue・Muse の残量とリセット時刻を並べて表示します。
 - [ai-constitution — shared Codex/Cursor/Grok Bot work system](https://github.com/thierry-gilgen-ict/ai-constitution) - Codex・Cursor・xAI Grok Bot 向けの共有指示・プロジェクト設計・Bot オンボーディング一式（可逆なローカルセットアップ付き）。
 - [usage-reset-petition — Friday 4:45pm NY Grok Bot reset ask](https://github.com/Pitchfork-and-Torch/usage-reset-petition) - Grok Bot の週次利用枠を毎週金曜 16:45（ニューヨーク）にリセットしてほしい公開請願。X 投稿検証付き。
+- [paseo-bots — Paseo personal bots (Grok Bot–like)](https://github.com/oliexe/paseo-bots) - Paseo 上の個人 Bot。Grok Bot / Hermes 風に、指示・モデル・記憶・スキル・ツールを Bot ごとに分離。
+- [Poka-Bot — self-hosted alternative to Grok Bot](https://github.com/xAmirHamza77/Poka-Bot) - OpenAI Dots / Meta Muse / Grok Bot の代替を掲げる自ホスト型エージェント作業空間（デスクトップ／ランタイム同梱）。
 
 ## 貢献
 
-8 セクションに 2006 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2020 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

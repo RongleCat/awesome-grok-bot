@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2006-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2020-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -46,6 +46,7 @@
 - **Italy**（3）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022) · [Bologna](./EVENTS.md#blq-20261012)
 - **Ecuador**（2）：[Ambato](./EVENTS.md#atu-20261029) · [Quito](./EVENTS.md#uio-20261021)
 - **Spain**（2）：[Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
+- **South Korea**（2）：[Seoul](./EVENTS.md#sel-20261027) · [Seoul (13 Oct)](./EVENTS.md#sel-20261013)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20261017)
 - **Austria**（1）：[Vienna](./EVENTS.md#vie-20261031)
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
@@ -59,7 +60,6 @@
 - **Japan**（1）：[Tokyo](./EVENTS.md#tyo-20261011)
 - **Kenya**（1）：[Nairobi (Kenya Workshop)](./EVENTS.md#nbo-20261008)
 - **Cambodia**（1）：[Siem Reap](./EVENTS.md#srp-20261101)
-- **South Korea**（1）：[Seoul](./EVENTS.md#sel-20261027)
 - **Kazakhstan**（1）：[Almaty](./EVENTS.md#ala-20261004)
 - **Sri Lanka**（1）：[Colombo](./EVENTS.md#cmb-20261017)
 - **Morocco**（1）：[Casablanca](./EVENTS.md#cas-20261017)
@@ -68,6 +68,7 @@
 - **New Zealand**（1）：[Auckland](./EVENTS.md#akl-20261008)
 - **Peru**（1）：[Huancayo](./EVENTS.md#hyo-20261023)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
+- **Sweden**（1）：[Stockholm](./EVENTS.md#sto-20261014)
 - **Trinidad and Tobago**（1）：[Port of Spain](./EVENTS.md#pos-20261030)
 - **Online**（1）：[Online (Goiânia)](./EVENTS.md#gyn-20261017)
 
@@ -294,6 +295,7 @@
 - [What Can Grok Bot Do, and What Does It Cost in 2026? (Work Insiders)](https://workinsiders.com/what-can-grok-bot-do/) - Oct 1, 2026 plain-English guide to Grok Bot capabilities, plan matrix from Cursor Pro upward, trial limits, and what it cannot do safely.
 - [Grok Bot: The Complete Guide to Always-On AI Agents (2026)](https://aiforordinarypeople.com/grok-bot-ai-agents-guide/) - Sep 19, 2026 independent setup guide covering cloud computer, skills/routines, pricing, small-business workflows, and shared-computer security caveats.
 - [Maven workshop: Build a Team of AI Agents with Grok Bot](https://maven.com/p/73cfaa/build-a-team-of-ai-agents-for-real-work-with-grok-bot) - Live Maven workshop (scheduled 2026-10-06) on briefing Grok Bot teams: first Bot, teach-by-demo skills/routines, and multi-bot handoffs.
+- [Learn Cursor: How to Set Up Grok Bot for Your First Task](https://www.learncursor.dev/learn/cursor-agents/grok-bot-setup) - Independent Learn Cursor guide: confirm plan/privacy, install the app, create a narrow-job Bot, and craft a read-only first task with a clear review point.
 
 ## Field Cases
 
@@ -497,6 +499,11 @@
 - [grok-bot-intrusion-detection-team — 8-agent Windows IDS](https://github.com/ritvikindupuri/grok-bot-intrusion-detection-team) - Eight-agent Grok Bot team that watches a Windows PC for intrusion signals, reports daily deltas, and only remediates after owner approval.
 - [eyeskull2220/grokbot — SovereignForge Floor OS handoff](https://github.com/eyeskull2220/grokbot) - Operator-desk / Floor OS handoff pack for a Grok Bot CEO and six-seat group (no keys or exchange sessions in-repo; trading stays elsewhere).
 - [boydt/morning-brief — Grok Bot–written daily brief site](https://github.com/boydt/morning-brief) - Static morning-brief site filled by a Grok Bot assistant (April) with grokbot:// deep links for follow-up questions and public data sync.
+- [automated-db2-install-grokbot — Db2 lab menu for Bot](https://github.com/raganor-tech/automated-db2-install-grokbot) - Lab write-up and menu script for Db2 11.5.9 on WSL2/AlmaLinux 9, with BOT-INSTRUCTIONS.md so a Grok Bot can drive the install/smoke-test steps safely.
+- [immortalwrt-jdcloud-cs-07 — firmware built by Grok Bot](https://github.com/pengyuw96/immortalwrt-jdcloud-cs-07) - ImmortalWrt SNAPSHOT image for JDCloud RE-CS-07 (qualcommax/ipq60xx), explicitly tagged as compiled by Grok Bot on 2026-10-04.
+- [vitalitychems-dot/z — Tessera Grok Bot handoff index](https://github.com/vitalitychems-dot/z) - Single handoff entrypoint that points a Grok Bot at WALK.md plus the Tessera repository index (no secrets) for continuing Father/Tessera work.
+- [Compile London: Jet Semrick workshop notes via Grok Bot](https://emrecavunt.com/blog/grok-bot-jet-semrick-compile-london) - Case write-up of using Grok Bot at Compile London: speech-to-text Notion notes plus separate bots for deck, blog, social, and editorial review.
+- [satheez.dev: Grok Bot as desktop publishing teammate](https://satheez.dev/writing/grok-bot-desktop-assistant/) - Practitioner notes on running Grok Bot for satheez.dev publish paths—plugins vs browser, cloud-agent PRs, and hard stops before public posts.
 
 ## Skills, Plugins & MCP
 
@@ -1145,6 +1152,7 @@
 - [mcpserver-grok-bot-plugin — cloud-instance McpServer fork](https://github.com/sharpninja/mcpserver-grok-bot-plugin) - Grok Bot cloud-instance fork of mcpserver-grok-plugin with .grok-plugin hooks for TODO, session logging, plan sync, and GraphRAG continuity.
 - [ocnexus-mcp — OCNexus subscriber MCP wrapper for Grok Bot](https://github.com/LumenIQ-LLC/ocnexus-mcp) - Thin public Cursor/Grok Bot packaging wrapper for the hosted OCNexus subscriber MCP (Starter/Pro required; no secrets in-repo).
 - [Deploy-Forward/plugins — Convoy & Worklanes marketplace (incl. Grok)](https://github.com/Deploy-Forward/plugins) - Deploy Forward marketplace that installs Convoy and Worklanes into Claude/Codex/Cursor/.grok harness folders with shared sync tooling.
+- [devin-thomas/skills — portable agent skills (incl. Grok Bot)](https://github.com/devin-thomas/skills) - Portable agent skills for shaping ideas and bounded builds, with host notes covering Codex, Claude Code, Cursor, Antigravity, Grok Bot, and Grok CLI.
 
 ## Reviews & Comparisons
 
@@ -1165,13 +1173,14 @@
 - [Engadget — SpaceXAI Grok Bot early beta: how to try it](https://www.engadget.com/2259931/spacexai-grok-bot-early-beta-how-to-try/) - Engadget Sep 20, 2026 explainer on Grok Bot early beta: eligible SuperGrok/Cursor plans, Bot vs chat vs Build, and where to download the apps.
 - [Windows Mode — OpenAI Dots vs Grok Bot (DevDay 2026)](https://www.windowsmode.com/openai-dots-always-on-agent) - Windows Mode explainer comparing OpenAI’s DevDay dots always-on ChatGPT agents to Grok Bot—cloud computer, multi-bot teams, plans, and Windows setup.
 - [How Autonomous Is Grok Bot Really? (IntroChek)](https://introchek.com/how-autonomous-is-grok-bot-really/) - Sep 28, 2026 analysis of Grok Bot autonomy limits: shared computer, approvals, 2FA handoffs, website friction, and cost-per-workflow thinking.
+- [BuzzRAG: Grok Bot Review — AI Agents for Business Automation](https://buzzrag.com/article/grok-bot-review-ai-agents-business-automation) - Review of a live Grok Bot stream: Luma guest ops, Vercel dashboard handoff, teach-by-demo skills, and early Ultra pricing notes for business automation.
 
 ## Open-Source Alternatives
 
 - [Grok Bot event bridge — JSONL queue + webhook wake](https://github.com/tqd118/grok-bot-event-bridge) - Personal event-driven bridge that lets a colleague bot append to a local JSONL queue and wake a Helper Grok Bot via webhook routine without inbound HTTP or busy polling.
 - [Grok Bot SDLC portable — host-agnostic bot definition pack](https://github.com/dsickles/grok-bot-sdlc-portable) - Public markdown pack of seven cloud Grok Bot roles for an SDLC pipeline (backlog through docs), with personal overlays kept out of git so jobs stay portable across hosts.
 - [BOTELLIGENCE — Grok Bot fleet control-center kit](https://github.com/vsgellon/botelligence-control-center) - Installable stdlib-only Python cockpit for a private Grok Bot fleet, showing health, self-reports, and safety alerts while forwarding optimize/pause/rollback actions to a managing bot webhook.
-- [CodeCaps — macOS menu bar quotas including Grok Bot](https://github.com/jaywedgeworth22/CodeCaps) - Open-source macOS menu bar app that reads signed-in plan usage/quota windows for Grok Bot and other AI CLIs, with an optional collector for sharing readings across Macs.
+- [CodeCaps — macOS menu bar quotas including Grok Bot](https://github.com/Simple-With-Us/CodeCaps) - Open-source macOS menu bar app that reads signed-in plan usage/quota windows for Grok Bot and other AI CLIs, with an optional collector for sharing readings across Macs.
 - [Commander's Intent — Chief of Staff Grok Bot fleet template](https://github.com/shagghiesuperstar/commanders-intent) - Self-contained Chief of Staff Grok Bot template (persona, routines, skills, fleet layout) for a proactive, self-healing multi-agent setup with shared mission guardrails.
 - [GrokBot Office — workforce control layer for a small GrokBot core](https://github.com/M4G3LL4N0/grokbot-office) - Public reference control layer so a small persistent GrokBot supervisor core coordinates an external elastic workforce via AgentOS.
 - [grokbot-mcp-bridge — secure MCP bridge to a Grok Bot webhook](https://github.com/kinopeee/grokbot-mcp-bridge) - Fly.io-ready MCP bridge that lets Poke call a Cursor automation webhook for Grok Bot without exposing the webhook URL or API key.
@@ -1547,6 +1556,9 @@
 - [EMET — enduring multi-agent memory MCP for Grok Bot teams](https://github.com/dreamforgestudiollc/EMET) - EMET memory MCP with ISO-style record control and verify-after-write, built so Grok Bot teams and other agents share durable layered memory.
 - [satiricalguru/OpenBot — local AI teammates + video brain](https://github.com/satiricalguru/OpenBot) - Free open-source desktop alternative to Grok Bot/Dots/Muse: local AI teammates with their own computers plus a video transcription brain via Ollama.
 - [PrisacariuRobert/openbot — Mac AI teammates (Mail/Calendar/Notes)](https://github.com/PrisacariuRobert/openbot) - Open-source Mac AI teammate team positioned as an alternative to OpenAI Dots, Grok Bot, and Siri AI, working in Mail/Calendar/Notes with approval gates.
+- [Agents-Slack-Bridge — Muse/Grok Bot/Hermes/DOTS in Slack](https://github.com/Ares-X/Agents-Slack-Bridge) - Open Slack bridge so Muse, Grok Bot, Hermes, and ChatGPT DOTS can share task context and collaborate in one workspace (Socket Mode + agent_wake for Grok Bot).
+- [grokbuddy — WorkBuddy × Grok Bot collaboration hub](https://github.com/amir-hasan666/grokbuddy) - Auditable multi-party collaboration hub pairing WorkBuddy with a Grok Bot Reviewer path (Hub DB as source of truth, routines/manual setup docs).
+- [BotFleet — OpenMausBot fork with iPhone companion](https://github.com/Simple-With-Us/BotFleet) - Friendly OpenMausBot fork that coordinates configurable bot engines on your Mac (Claude/Codex/Grok CLIs) with an iPhone companion app.
 
 ## Community & Failure Modes
 
@@ -1819,6 +1831,7 @@
 - [Forum: Gmail send arrives with broken "--null" MIME boundary](https://forum.cursor.com/t/grok-bot-gmail-send-emails-arrive-with-broken-null-mime-boundary/173684) - Bug report: Grok Bot Gmail connector sends leave a broken "--null" MIME boundary so strict recipients see raw multipart text.
 - [Forum: scheduled routines fail with "Activity task failed"](https://forum.cursor.com/t/grok-bot-scheduled-routines-fail-with-activity-task-failed-no-reason-shown/173672) - Bug report: three scheduled Grok Bot routines failed with only "Activity task failed" and no reason, while a manual rerun on the same healthy box succeeded.
 - [Forum: Android Conversation Mode voice settings always revert](https://forum.cursor.com/t/on-mobile-android-voice-settings-in-conversation-mode-always-revert-back-to-default/173646) - Android Grok Bot bug: Conversation Mode voice/speed always snap back to defaults (e.g. Liora 1x) instead of keeping the user’s choice.
+- [Forum: messages delayed 24–26 minutes for 8 days (T-G23547)](https://forum.cursor.com/t/grok-bot-messages-delayed-24-26-minutes-for-8-days-ticket-t-g23547-email-only-answered-by-sam/173700) - macOS/iPhone Grok Bot 0.66.0 report: every follow-up arrives 24–26 minutes late for eight days; ticket T-G23547 stays answered only by Sam AI support.
 
 ## Related Lists
 
@@ -2112,10 +2125,12 @@
 - [HuiAnnn/ai-quota — macOS menu-bar multi-app quota panel](https://github.com/HuiAnnn/ai-quota) - Native macOS menu-bar panel that shows remaining quota and reset times for Codex, Grok Bot, Manus, Cue, and Muse side by side.
 - [ai-constitution — shared Codex/Cursor/Grok Bot work system](https://github.com/thierry-gilgen-ict/ai-constitution) - Shared instructions, project architectures, and a Bot onboarding bundle for Codex, Cursor, and xAI Grok Bots with reversible local setup.
 - [usage-reset-petition — Friday 4:45pm NY Grok Bot reset ask](https://github.com/Pitchfork-and-Torch/usage-reset-petition) - Public petition site asking that Grok Bot weekly usage reset every Friday 4:45pm New York time, with X-handle proof-of-post verification.
+- [paseo-bots — Paseo personal bots (Grok Bot–like)](https://github.com/oliexe/paseo-bots) - Personal bots for the Paseo host, framed like Grok Bot / Hermes bots: per-bot instructions, model, memory, skills, and tools in isolated workspaces.
+- [Poka-Bot — self-hosted alternative to Grok Bot](https://github.com/xAmirHamza77/Poka-Bot) - Open-source self-hosted AI agent workspace positioned as an alternative to OpenAI Dots, Meta Muse, and Grok Bot, with desktop/runtime packages.
 
 ## Contributing
 
-2006 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2020 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

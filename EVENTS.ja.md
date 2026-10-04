@@ -156,6 +156,15 @@
 <a id="bil-20261019"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-euskadi"><img src="./assets/events/bil-20261019-cover.png" alt="Grok Bot Meetup ビルバオ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ビルバオ</strong><br />2026-10-19（月）18:00–21:30（Europe/Madrid）<br />スペイン・ビルバオ · La Perrera Espazioa（Sabino Arana Etorbidea, 50）— オフライン<br /><br />SpaceXAI ビルバオ（La Perrera Espazioa）のミートアップ。Grok Bot で作り共有。Luma で無料登録。<br /><br /><a href="https://luma.com/spacexai-euskadi"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
+<a id="country-kr"></a>
+### 韓国
+
+<a id="sel-20261027"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/6ee6i3v6"><img src="./assets/events/sel-20261027-cover.png" alt="Grok Bot ソウル Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot ソウル Meetup</strong><br />2026-10-27（火）19:00–22:00（Luma 上 Europe/Amsterdam；ソウル初 Meetup）。<br />韓国・ソウル — オフライン（Luma 上は住所非公開/後日案内）。<br /><br />ソウル初の Grok Bot Meetup（ホスト Andreas Kruszakin-Liboska + Eric Kim）。ボット作成とデモの夜会。ノート PC 推奨、クレジット提供。無料 RSVP（スキャン時 guest_count 4）。slug 6ee6i3v6；フォーラムの New event は未確認。<br /><br /><a href="https://luma.com/6ee6i3v6"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
+<a id="sel-20261013"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/3leebkxk"><img src="./assets/events/sel-20261013-cover.png" alt="Grok Bot Meetup ソウル（10/13）" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ソウル（10/13）</strong><br />2026-10-13（火）18:00–22:00（Asia/Seoul、KST、UTC+9）<br />韓国・ソウル · 그로브1219、城東区 Seoulsup 4-gil 12-19 — オフライン<br /><br />ソウル 2 回目の Grok Bot Meetup（sel-20261027 / 6ee6i3v6 とは別）。個人 Luma カレンダー、Jey Shim ら主催。会場 Grove1219。無料 RSVP。slug 3leebkxk。<br /><br /><a href="https://luma.com/3leebkxk"><strong>Luma で申し込む → →</strong></a></td></tr></table>
+
 <a id="country-al"></a>
 ### アルバニア
 
@@ -234,12 +243,6 @@
 <a id="srp-20261101"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-yvwt"><img src="./assets/events/srp-20261101-cover.png" alt="Grok Bot Meetup シェムリアップ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup シェムリアップ</strong><br />2026-11-01（日）14:00–18:00（Asia/Bangkok、ICT、UTC+7）<br />カンボジア・シェムリアップ The Creative House（Street Wat Po）· オフライン<br /><br />シェムリアップ初の Grok Bot ミートアップ（SpaceXAI プノンペン暦、主催 Taka Kiyone / Luis Romero ほか、フォーラム 173298 / Luma spacexai-yvwt）。交流・デモ。ウェイトリストあり。夕方スキャン時 guest_count 0。<br /><br /><a href="https://luma.com/spacexai-yvwt"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="country-kr"></a>
-### 韓国
-
-<a id="sel-20261027"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/6ee6i3v6"><img src="./assets/events/sel-20261027-cover.png" alt="Grok Bot ソウル Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot ソウル Meetup</strong><br />2026-10-27（火）19:00–22:00（Luma 上 Europe/Amsterdam；ソウル初 Meetup）。<br />韓国・ソウル — オフライン（Luma 上は住所非公開/後日案内）。<br /><br />ソウル初の Grok Bot Meetup（ホスト Andreas Kruszakin-Liboska + Eric Kim）。ボット作成とデモの夜会。ノート PC 推奨、クレジット提供。無料 RSVP（スキャン時 guest_count 4）。slug 6ee6i3v6；フォーラムの New event は未確認。<br /><br /><a href="https://luma.com/6ee6i3v6"><strong>Luma で申し込む → →</strong></a></td></tr></table>
-
 <a id="country-kz"></a>
 ### カザフスタン
 
@@ -287,6 +290,12 @@
 
 <a id="ceb-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot Meetup Cebu" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cebu</strong><br />2026-10-10（土）09:00–11:30（Asia/Manila / PHT）<br />フィリピン・マンダウエ Zero-Ten Park Cebu Mandaue（オフライン）<br /><br />セブの対面 Grok Bot（2026-10-10（土）に変更）。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
+
+<a id="country-se"></a>
+### スウェーデン
+
+<a id="sto-20261014"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-dt0z"><img src="./assets/events/sto-20261014-cover.png" alt="SpaceXAI | CXO Experience ストックホルム" width="300" /></a></td><td valign="top"><strong>SpaceXAI | CXO Experience ストックホルム</strong><br />2026-10-14（火）08:30–13:30（Europe/Stockholm、CEST、UTC+2）<br />スウェーデン・ストックホルム · Wisdome Stockholm、Museivägen 7 — オフライン<br /><br />SpaceXAI カレンダーのストックホルム CXO Experience（Wisdome）。ウェイトリストあり（slug spacexai-dt0z）。昼スキャンでカタログ未収録。<br /><br /><a href="https://luma.com/spacexai-dt0z"><strong>Luma で申し込む → →</strong></a></td></tr></table>
 
 <a id="country-tt"></a>
 ### トリニダード・トバゴ

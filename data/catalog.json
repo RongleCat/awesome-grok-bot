@@ -2084,6 +2084,16 @@
             "zh": "Maven 直播课（排期 2026-10-06）：如何给 Grok Bot 团队下任务——首个 Bot、演示教学技能/例程，以及多 Bot 交接。",
             "ja": "Maven ライブ講座（予定 2026-10-06）。最初の Bot、デモで教えるスキル/ルーチン、複数 Bot の引き継ぎを実地で学ぶ。"
           }
+        },
+        {
+          "title": "Learn Cursor: How to Set Up Grok Bot for Your First Task",
+          "url": "https://www.learncursor.dev/learn/cursor-agents/grok-bot-setup",
+          "source": "GB-2043",
+          "blurb": {
+            "en": "Independent Learn Cursor guide: confirm plan/privacy, install the app, create a narrow-job Bot, and craft a read-only first task with a clear review point.",
+            "zh": "独立 Learn Cursor 指南：确认套餐与隐私设置、安装应用、创建窄职责 Bot，并设计带审阅点的只读首任务。",
+            "ja": "独立系 Learn Cursor ガイド。プラン／プライバシー確認、アプリ導入、狭い職務の Bot 作成、レビュー点付きの読み取り専用初タスク。"
+          }
         }
       ]
     },
@@ -4093,6 +4103,56 @@
             "en": "Static morning-brief site filled by a Grok Bot assistant (April) with grokbot:// deep links for follow-up questions and public data sync.",
             "zh": "由 Grok Bot 助手 April 填充的静态早报站，含 grokbot:// 深链追问与公开数据同步。",
             "ja": "Grok Bot 助手 April が書く静的モーニングブリーフ。追問用 grokbot:// ディープリンクと公開データ同期付き。"
+          }
+        },
+        {
+          "title": "automated-db2-install-grokbot — Db2 lab menu for Bot",
+          "url": "https://github.com/raganor-tech/automated-db2-install-grokbot",
+          "source": "GB-2035",
+          "blurb": {
+            "en": "Lab write-up and menu script for Db2 11.5.9 on WSL2/AlmaLinux 9, with BOT-INSTRUCTIONS.md so a Grok Bot can drive the install/smoke-test steps safely.",
+            "zh": "WSL2/AlmaLinux 9 上 Db2 11.5.9 实验笔记与菜单脚本，附 BOT-INSTRUCTIONS.md 让 Grok Bot 安全驱动安装与冒烟测试。",
+            "ja": "WSL2/AlmaLinux 9 上の Db2 11.5.9 ラボ手順とメニュー脚本。BOT-INSTRUCTIONS.md で Grok Bot が安全に導入・スモークテスト可能。"
+          }
+        },
+        {
+          "title": "immortalwrt-jdcloud-cs-07 — firmware built by Grok Bot",
+          "url": "https://github.com/pengyuw96/immortalwrt-jdcloud-cs-07",
+          "source": "GB-2036",
+          "blurb": {
+            "en": "ImmortalWrt SNAPSHOT image for JDCloud RE-CS-07 (qualcommax/ipq60xx), explicitly tagged as compiled by Grok Bot on 2026-10-04.",
+            "zh": "京东云 RE-CS-07（qualcommax/ipq60xx）的 ImmortalWrt SNAPSHOT 固件，README 标明 2026-10-04 由 Grok Bot 编译。",
+            "ja": "JDCloud RE-CS-07（qualcommax/ipq60xx）向け ImmortalWrt SNAPSHOT。2026-10-04 に Grok Bot がコンパイルしたと明記。"
+          }
+        },
+        {
+          "title": "vitalitychems-dot/z — Tessera Grok Bot handoff index",
+          "url": "https://github.com/vitalitychems-dot/z",
+          "source": "GB-2037",
+          "blurb": {
+            "en": "Single handoff entrypoint that points a Grok Bot at WALK.md plus the Tessera repository index (no secrets) for continuing Father/Tessera work.",
+            "zh": "给 Grok Bot 的单一交接入口：指向 WALK.md 与 Tessera 仓库索引（无密钥），便于续跑 Father/Tessera 工作。",
+            "ja": "Grok Bot 向け単一ハンドオフ入口。WALK.md と Tessera リポジトリ索引（秘密なし）へ案内し作業を継続。"
+          }
+        },
+        {
+          "title": "Compile London: Jet Semrick workshop notes via Grok Bot",
+          "url": "https://emrecavunt.com/blog/grok-bot-jet-semrick-compile-london",
+          "source": "GB-2038",
+          "blurb": {
+            "en": "Case write-up of using Grok Bot at Compile London: speech-to-text Notion notes plus separate bots for deck, blog, social, and editorial review.",
+            "zh": "Compile London 现场案例：用 Grok Bot 语音转写记入 Notion，并分派演示文稿/博客/社交/审稿等独立 Bot。",
+            "ja": "Compile London での実例。Grok Bot で音声メモを Notion へ保存し、資料・ブログ・SNS・編集レビュー用 Bot を分担。"
+          }
+        },
+        {
+          "title": "satheez.dev: Grok Bot as desktop publishing teammate",
+          "url": "https://satheez.dev/writing/grok-bot-desktop-assistant/",
+          "source": "GB-2039",
+          "blurb": {
+            "en": "Practitioner notes on running Grok Bot for satheez.dev publish paths—plugins vs browser, cloud-agent PRs, and hard stops before public posts.",
+            "zh": "实践笔记：用 Grok Bot 跑 satheez.dev 发布链路——插件优先于浏览器、云端 Agent 开 PR，以及公开发布前的硬停止点。",
+            "ja": "satheez.dev 公開フローで Grok Bot を使う実践メモ。プラグイン優先、クラウド Agent の PR、公開前のハードストップ。"
           }
         }
       ]
@@ -10554,6 +10614,16 @@
             "zh": "Deploy Forward 市场仓库：把 Convoy 与 Worklanes 装进 Claude/Codex/Cursor/.grok 目录，并带共享同步工具。",
             "ja": "Deploy Forward のマーケットプレイス。Convoy と Worklanes を Claude/Codex/Cursor/.grok に入れ、共有同期ツールも同梱します。"
           }
+        },
+        {
+          "title": "devin-thomas/skills — portable agent skills (incl. Grok Bot)",
+          "url": "https://github.com/devin-thomas/skills",
+          "source": "GB-2031",
+          "blurb": {
+            "en": "Portable agent skills for shaping ideas and bounded builds, with host notes covering Codex, Claude Code, Cursor, Antigravity, Grok Bot, and Grok CLI.",
+            "zh": "可移植的智能体技能包（构思与有界交付），主机兼容说明覆盖 Codex、Claude Code、Cursor、Antigravity、Grok Bot 与 Grok CLI。",
+            "ja": "アイデア整形と有界ビルド向けの移植可能スキル。Codex / Claude Code / Cursor / Antigravity / Grok Bot / Grok CLI のホスト注記付き。"
+          }
         }
       ]
     },
@@ -10734,6 +10804,16 @@
             "zh": "2026-09-28 分析文：Grok Bot 自主性边界——共享电脑、审批、2FA 交接、网站反自动化摩擦，以及按工作流算成本。",
             "ja": "2026-09-28 分析。共有 PC・承認・2FA 引き継ぎ・サイト摩擦・ワークフロー単位コストから見た Grok Bot 自律性の限界。"
           }
+        },
+        {
+          "title": "BuzzRAG: Grok Bot Review — AI Agents for Business Automation",
+          "url": "https://buzzrag.com/article/grok-bot-review-ai-agents-business-automation",
+          "source": "GB-2044",
+          "blurb": {
+            "en": "Review of a live Grok Bot stream: Luma guest ops, Vercel dashboard handoff, teach-by-demo skills, and early Ultra pricing notes for business automation.",
+            "zh": "评测一篇 Grok Bot 直播实录：Luma 嘉宾运营、Vercel 看板交接、示教技能，以及面向业务自动化的早期 Ultra 定价观察。",
+            "ja": "Grok Bot ライブ実況レビュー。Luma 運営、Vercel ダッシュボード委任、デモ教示スキル、業務自動化向け Ultra 価格の初期メモ。"
+          }
         }
       ]
     },
@@ -10777,7 +10857,7 @@
         },
         {
           "title": "CodeCaps — macOS menu bar quotas including Grok Bot",
-          "url": "https://github.com/jaywedgeworth22/CodeCaps",
+          "url": "https://github.com/Simple-With-Us/CodeCaps",
           "source": "GB-1836",
           "blurb": {
             "en": "Open-source macOS menu bar app that reads signed-in plan usage/quota windows for Grok Bot and other AI CLIs, with an optional collector for sharing readings across Macs.",
@@ -14534,6 +14614,36 @@
             "zh": "开源 Mac AI 队友团队，定位替代 OpenAI Dots、Grok Bot 与 Siri AI，在邮件/日历/备忘录中工作并需确认。",
             "ja": "OpenAI Dots・Grok Bot・Siri AI 代替を謳う Mac 向け OSS AI チーム。Mail/Calendar/Notes で承認ゲート付きに動きます。"
           }
+        },
+        {
+          "title": "Agents-Slack-Bridge — Muse/Grok Bot/Hermes/DOTS in Slack",
+          "url": "https://github.com/Ares-X/Agents-Slack-Bridge",
+          "source": "GB-2032",
+          "blurb": {
+            "en": "Open Slack bridge so Muse, Grok Bot, Hermes, and ChatGPT DOTS can share task context and collaborate in one workspace (Socket Mode + agent_wake for Grok Bot).",
+            "zh": "开源 Slack 桥：让 Muse、Grok Bot、Hermes 与 ChatGPT DOTS 在同一工作区共享任务上下文协作（Grok Bot 走 Socket Mode + agent_wake）。",
+            "ja": "Muse / Grok Bot / Hermes / ChatGPT DOTS を Slack で協働させるブリッジ。Grok Bot は Socket Mode と agent_wake。"
+          }
+        },
+        {
+          "title": "grokbuddy — WorkBuddy × Grok Bot collaboration hub",
+          "url": "https://github.com/amir-hasan666/grokbuddy",
+          "source": "GB-2033",
+          "blurb": {
+            "en": "Auditable multi-party collaboration hub pairing WorkBuddy with a Grok Bot Reviewer path (Hub DB as source of truth, routines/manual setup docs).",
+            "zh": "可审计的多方协作中枢：WorkBuddy 与 Grok Bot Reviewer 路径对接（Hub DB 为事实源，含例程/人工配置手册）。",
+            "ja": "WorkBuddy と Grok Bot Reviewer を繋ぐ監査可能な協働ハブ。Hub DB を SoT にし、ルーチン／手動セットアップ手順あり。"
+          }
+        },
+        {
+          "title": "BotFleet — OpenMausBot fork with iPhone companion",
+          "url": "https://github.com/Simple-With-Us/BotFleet",
+          "source": "GB-2034",
+          "blurb": {
+            "en": "Friendly OpenMausBot fork that coordinates configurable bot engines on your Mac (Claude/Codex/Grok CLIs) with an iPhone companion app.",
+            "zh": "OpenMausBot 友好分支：在 Mac 上协调可配置 bot 引擎（Claude/Codex/Grok CLI），并带 iPhone 伴侣应用。",
+            "ja": "OpenMausBot の友好フォーク。Mac 上で Claude/Codex/Grok CLI などのエンジンを協調し、iPhone コンパニオン付き。"
+          }
         }
       ]
     },
@@ -17233,6 +17343,16 @@
             "en": "Android Grok Bot bug: Conversation Mode voice/speed always snap back to defaults (e.g. Liora 1x) instead of keeping the user’s choice.",
             "zh": "Android Grok Bot 反馈：Conversation Mode 的语音与语速每次都会回到默认（如 Liora 1x），无法记住用户选择。",
             "ja": "Android Grok Bot。Conversation Mode の音声/速度が毎回デフォルト（例: Liora 1x）に戻り、設定が保持されない。"
+          }
+        },
+        {
+          "title": "Forum: messages delayed 24–26 minutes for 8 days (T-G23547)",
+          "url": "https://forum.cursor.com/t/grok-bot-messages-delayed-24-26-minutes-for-8-days-ticket-t-g23547-email-only-answered-by-sam/173700",
+          "source": "GB-2042",
+          "blurb": {
+            "en": "macOS/iPhone Grok Bot 0.66.0 report: every follow-up arrives 24–26 minutes late for eight days; ticket T-G23547 stays answered only by Sam AI support.",
+            "zh": "macOS/iPhone Grok Bot 0.66.0：连续 8 天每条跟进消息延迟 24–26 分钟；工单 T-G23547 仅有 Sam AI 客服回复。",
+            "ja": "macOS/iPhone の Grok Bot 0.66.0。8日間、追従メッセージが毎回 24–26 分遅延。チケット T-G23547 は Sam AI サポートのみ応答。"
           }
         }
       ]
@@ -20143,6 +20263,26 @@
             "en": "Public petition site asking that Grok Bot weekly usage reset every Friday 4:45pm New York time, with X-handle proof-of-post verification.",
             "zh": "公开请愿站：请求 Grok Bot 周用量在每周五纽约时间 16:45 重置，并用 X 发帖验证签名。",
             "ja": "Grok Bot の週次利用枠を毎週金曜 16:45（ニューヨーク）にリセットしてほしい公開請願。X 投稿検証付き。"
+          }
+        },
+        {
+          "title": "paseo-bots — Paseo personal bots (Grok Bot–like)",
+          "url": "https://github.com/oliexe/paseo-bots",
+          "source": "GB-2040",
+          "blurb": {
+            "en": "Personal bots for the Paseo host, framed like Grok Bot / Hermes bots: per-bot instructions, model, memory, skills, and tools in isolated workspaces.",
+            "zh": "Paseo 宿主上的个人 Bot，定位类似 Grok Bot / Hermes：每 Bot 独立指令、模型、记忆、技能与工具工作区。",
+            "ja": "Paseo 上の個人 Bot。Grok Bot / Hermes 風に、指示・モデル・記憶・スキル・ツールを Bot ごとに分離。"
+          }
+        },
+        {
+          "title": "Poka-Bot — self-hosted alternative to Grok Bot",
+          "url": "https://github.com/xAmirHamza77/Poka-Bot",
+          "source": "GB-2041",
+          "blurb": {
+            "en": "Open-source self-hosted AI agent workspace positioned as an alternative to OpenAI Dots, Meta Muse, and Grok Bot, with desktop/runtime packages.",
+            "zh": "开源可自托管的 AI 智能体工作区，定位为 OpenAI Dots、Meta Muse 与 Grok Bot 的替代方案（含桌面/运行时包）。",
+            "ja": "OpenAI Dots / Meta Muse / Grok Bot の代替を掲げる自ホスト型エージェント作業空間（デスクトップ／ランタイム同梱）。"
           }
         }
       ]
@@ -27587,6 +27727,68 @@
         "en": "Register on Luma →",
         "zh": "去 Luma 报名 →",
         "ja": "Luma で登録 →"
+      }
+    },
+    {
+      "id": "sel-20261013",
+      "url": "https://luma.com/3leebkxk",
+      "image": "./assets/events/sel-20261013-cover.png",
+      "expires": "2026-10-13T22:00:00+09:00",
+      "title": {
+        "en": "Grok Bot Meetup Seoul (13 Oct)",
+        "zh": "Grok Bot Meetup 首尔（10/13）",
+        "ja": "Grok Bot Meetup ソウル（10/13）"
+      },
+      "when": {
+        "en": "Tue 13 Oct 2026, 18:00–22:00 (Asia/Seoul, KST, UTC+9)",
+        "zh": "2026-10-13 周二 18:00–22:00（Asia/Seoul，KST，UTC+9）",
+        "ja": "2026-10-13（火）18:00–22:00（Asia/Seoul、KST、UTC+9）"
+      },
+      "where": {
+        "en": "Seoul, South Korea · Grove1219, 12-19 Seoulsup 4-gil, Seongdong-gu — offline",
+        "zh": "韩国首尔 · 그로브1219，城东区 Seoulsup 4-gil 12-19 — 线下",
+        "ja": "韓国・ソウル · 그로브1219、城東区 Seoulsup 4-gil 12-19 — オフライン"
+      },
+      "body": {
+        "en": "Second Seoul Grok Bot meetup (distinct from sel-20261027 / slug 6ee6i3v6). Hosts include Jey Shim and others on a personal Luma calendar. Address: Grove1219, Seongdong-gu. Free RSVP; slug 3leebkxk (evt-dqR2wlOYLx6Jh4m).",
+        "zh": "首尔第二场 Grok Bot Meetup（有别于 sel-20261027 / slug 6ee6i3v6）。个人 Luma 日历，主办含 Jey Shim 等。地址 Grove1219（城东区）。免费报名；slug 3leebkxk。",
+        "ja": "ソウル 2 回目の Grok Bot Meetup（sel-20261027 / 6ee6i3v6 とは別）。個人 Luma カレンダー、Jey Shim ら主催。会場 Grove1219。無料 RSVP。slug 3leebkxk。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
+      }
+    },
+    {
+      "id": "sto-20261014",
+      "url": "https://luma.com/spacexai-dt0z",
+      "image": "./assets/events/sto-20261014-cover.png",
+      "expires": "2026-10-14T13:30:00+02:00",
+      "title": {
+        "en": "SpaceXAI | CXO Experience Stockholm",
+        "zh": "SpaceXAI | CXO Experience 斯德哥尔摩",
+        "ja": "SpaceXAI | CXO Experience ストックホルム"
+      },
+      "when": {
+        "en": "Tue 14 Oct 2026, 08:30–13:30 (Europe/Stockholm, CEST, UTC+2)",
+        "zh": "2026-10-14 周二 08:30–13:30（Europe/Stockholm，CEST，UTC+2）",
+        "ja": "2026-10-14（火）08:30–13:30（Europe/Stockholm、CEST、UTC+2）"
+      },
+      "where": {
+        "en": "Stockholm, Sweden · Wisdome Stockholm, Museivägen 7 — offline",
+        "zh": "瑞典斯德哥尔摩 · Wisdome Stockholm，Museivägen 7 — 线下",
+        "ja": "スウェーデン・ストックホルム · Wisdome Stockholm、Museivägen 7 — オフライン"
+      },
+      "body": {
+        "en": "SpaceXAI calendar CXO Experience in Stockholm at Wisdome. Waitlist-enabled public Luma event (slug spacexai-dt0z / evt-8ReK7vGiGcyk3jk). Midday scan: new vs catalog.",
+        "zh": "SpaceXAI 日历斯德哥尔摩 CXO Experience（Wisdome）。公开 Luma 活动有候补（slug spacexai-dt0z）。午间扫描相对目录为新增。",
+        "ja": "SpaceXAI カレンダーのストックホルム CXO Experience（Wisdome）。ウェイトリストあり（slug spacexai-dt0z）。昼スキャンでカタログ未収録。"
+      },
+      "cta": {
+        "en": "Register on Luma →",
+        "zh": "去 Luma 报名 →",
+        "ja": "Luma で申し込む →"
       }
     }
   ]

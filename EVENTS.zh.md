@@ -156,6 +156,15 @@
 <a id="bil-20261019"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-euskadi"><img src="./assets/events/bil-20261019-cover.png" alt="Grok Bot Meetup 毕尔巴鄂" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 毕尔巴鄂</strong><br />2026-10-19 周一 18:00–21:30（Europe/Madrid）<br />西班牙毕尔巴鄂 · La Perrera Espazioa（Sabino Arana Etorbidea, 50）— 线下<br /><br />SpaceXAI 毕尔巴鄂站（La Perrera Espazioa）：见面交流并用 Grok Bot 构建分享。Luma 免费报名。<br /><br /><a href="https://luma.com/spacexai-euskadi"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
+<a id="country-kr"></a>
+### 韩国
+
+<a id="sel-20261027"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/6ee6i3v6"><img src="./assets/events/sel-20261027-cover.png" alt="Grok Bot 首尔 Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot 首尔 Meetup</strong><br />2026-10-27 周二 19:00–22:00（Luma 时区 Europe/Amsterdam；首尔首场 Meetup）。<br />韩国首尔 — 线下（Luma 地址暂隐/待公布）。<br /><br />首尔首场 Grok Bot Meetup（主办 Andreas Kruszakin-Liboska + Eric Kim）。晚上一起搭 Bot、看演示；建议带笔记本，现场提供 credits。免费报名（扫描时 guest_count 4）。slug 6ee6i3v6；论坛尚无 New event 帖。<br /><br /><a href="https://luma.com/6ee6i3v6"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
+<a id="sel-20261013"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/3leebkxk"><img src="./assets/events/sel-20261013-cover.png" alt="Grok Bot Meetup 首尔（10/13）" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 首尔（10/13）</strong><br />2026-10-13 周二 18:00–22:00（Asia/Seoul，KST，UTC+9）<br />韩国首尔 · 그로브1219，城东区 Seoulsup 4-gil 12-19 — 线下<br /><br />首尔第二场 Grok Bot Meetup（有别于 sel-20261027 / slug 6ee6i3v6）。个人 Luma 日历，主办含 Jey Shim 等。地址 Grove1219（城东区）。免费报名；slug 3leebkxk。<br /><br /><a href="https://luma.com/3leebkxk"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
+
 <a id="country-al"></a>
 ### 阿尔巴尼亚
 
@@ -234,12 +243,6 @@
 <a id="srp-20261101"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-yvwt"><img src="./assets/events/srp-20261101-cover.png" alt="Grok Bot Meetup 暹粒" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 暹粒</strong><br />2026-11-01 周日 14:00–18:00（暹粒 / 曼谷时区 ICT，UTC+7）<br />柬埔寨暹粒 The Creative House（Street Wat Po）· 线下<br /><br />暹粒首场 Grok Bot 聚会（SpaceXAI 金边日历；主办 Taka Kiyone、Luis Romero 等；论坛 173298 / Luma spacexai-yvwt）。闲聊、演示、交流；候补开启；晚间扫描 guest_count 0。<br /><br /><a href="https://luma.com/spacexai-yvwt"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="country-kr"></a>
-### 韩国
-
-<a id="sel-20261027"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/6ee6i3v6"><img src="./assets/events/sel-20261027-cover.png" alt="Grok Bot 首尔 Meetup" width="300" /></a></td><td valign="top"><strong>Grok Bot 首尔 Meetup</strong><br />2026-10-27 周二 19:00–22:00（Luma 时区 Europe/Amsterdam；首尔首场 Meetup）。<br />韩国首尔 — 线下（Luma 地址暂隐/待公布）。<br /><br />首尔首场 Grok Bot Meetup（主办 Andreas Kruszakin-Liboska + Eric Kim）。晚上一起搭 Bot、看演示；建议带笔记本，现场提供 credits。免费报名（扫描时 guest_count 4）。slug 6ee6i3v6；论坛尚无 New event 帖。<br /><br /><a href="https://luma.com/6ee6i3v6"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
-
 <a id="country-kz"></a>
 ### 哈萨克斯坦
 
@@ -287,6 +290,12 @@
 
 <a id="ceb-20260919"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-dyb8"><img src="./assets/events/ceb-20260919-cover.png" alt="Grok Bot 宿务线下交流" width="300" /></a></td><td valign="top"><strong>Grok Bot 宿务线下交流</strong><br />2026-10-10 周六 09:00–11:30（Asia/Manila / PHT）<br />菲律宾中央维萨亚斯 曼达韦 Zero-Ten Park Cebu Mandaue（线下）<br /><br />宿务线下 Grok Bot（改期至 2026-10-10 周六）。需主办审核。<br /><br /><a href="https://luma.com/cursor-dyb8"><strong>去 Luma 报名（需审核） →</strong></a></td></tr></table>
+
+<a id="country-se"></a>
+### 瑞典
+
+<a id="sto-20261014"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-dt0z"><img src="./assets/events/sto-20261014-cover.png" alt="SpaceXAI | CXO Experience 斯德哥尔摩" width="300" /></a></td><td valign="top"><strong>SpaceXAI | CXO Experience 斯德哥尔摩</strong><br />2026-10-14 周二 08:30–13:30（Europe/Stockholm，CEST，UTC+2）<br />瑞典斯德哥尔摩 · Wisdome Stockholm，Museivägen 7 — 线下<br /><br />SpaceXAI 日历斯德哥尔摩 CXO Experience（Wisdome）。公开 Luma 活动有候补（slug spacexai-dt0z）。午间扫描相对目录为新增。<br /><br /><a href="https://luma.com/spacexai-dt0z"><strong>去 Luma 报名 → →</strong></a></td></tr></table>
 
 <a id="country-tt"></a>
 ### 特立尼达和多巴哥

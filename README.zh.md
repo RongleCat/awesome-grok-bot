@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2006-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2020-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -46,6 +46,7 @@
 - **意大利**（3）：[罗马](./EVENTS.zh.md#rom-20261023) · [特雷维索](./EVENTS.zh.md#tvs-20261022) · [博洛尼亚](./EVENTS.zh.md#blq-20261012)
 - **厄瓜多尔**（2）：[安巴托](./EVENTS.zh.md#atu-20261029) · [基多](./EVENTS.zh.md#uio-20261021)
 - **西班牙**（2）：[阿利坎特](./EVENTS.zh.md#alc-20261107) · [毕尔巴鄂](./EVENTS.zh.md#bil-20261019)
+- **韩国**（2）：[首尔](./EVENTS.zh.md#sel-20261027) · [首尔（10/13）](./EVENTS.zh.md#sel-20261013)
 - **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20261017)
 - **奥地利**（1）：[维也纳](./EVENTS.zh.md#vie-20261031)
 - **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
@@ -59,7 +60,6 @@
 - **日本**（1）：[东京](./EVENTS.zh.md#tyo-20261011)
 - **肯尼亚**（1）：[内罗毕（肯尼亚工作坊）](./EVENTS.zh.md#nbo-20261008)
 - **柬埔寨**（1）：[暹粒](./EVENTS.zh.md#srp-20261101)
-- **韩国**（1）：[首尔](./EVENTS.zh.md#sel-20261027)
 - **哈萨克斯坦**（1）：[阿拉木图](./EVENTS.zh.md#ala-20261004)
 - **斯里兰卡**（1）：[科伦坡](./EVENTS.zh.md#cmb-20261017)
 - **摩洛哥**（1）：[卡萨布兰卡](./EVENTS.zh.md#cas-20261017)
@@ -68,6 +68,7 @@
 - **新西兰**（1）：[奥克兰](./EVENTS.zh.md#akl-20261008)
 - **秘鲁**（1）：[万卡约](./EVENTS.zh.md#hyo-20261023)
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
+- **瑞典**（1）：[斯德哥尔摩](./EVENTS.zh.md#sto-20261014)
 - **特立尼达和多巴哥**（1）：[西班牙港](./EVENTS.zh.md#pos-20261030)
 - **线上**（1）：[线上（戈亚尼亚）](./EVENTS.zh.md#gyn-20261017)
 
@@ -294,6 +295,7 @@
 - [What Can Grok Bot Do, and What Does It Cost in 2026? (Work Insiders)](https://workinsiders.com/what-can-grok-bot-do/) - 2026-10-01 通俗指南：Grok Bot 能做什么、从 Cursor Pro 起的套餐矩阵、试用额度，以及不该放手的边界。.
 - [Grok Bot: The Complete Guide to Always-On AI Agents (2026)](https://aiforordinarypeople.com/grok-bot-ai-agents-guide/) - 2026-09-19 独立上手长文：云电脑、技能/例程、定价、小生意工作流，以及多 Bot 共享电脑的安全注意点。.
 - [Maven workshop: Build a Team of AI Agents with Grok Bot](https://maven.com/p/73cfaa/build-a-team-of-ai-agents-for-real-work-with-grok-bot) - Maven 直播课（排期 2026-10-06）：如何给 Grok Bot 团队下任务——首个 Bot、演示教学技能/例程，以及多 Bot 交接。.
+- [Learn Cursor: How to Set Up Grok Bot for Your First Task](https://www.learncursor.dev/learn/cursor-agents/grok-bot-setup) - 独立 Learn Cursor 指南：确认套餐与隐私设置、安装应用、创建窄职责 Bot，并设计带审阅点的只读首任务。.
 
 ## 真实使用案例
 
@@ -497,6 +499,11 @@
 - [grok-bot-intrusion-detection-team — 8-agent Windows IDS](https://github.com/ritvikindupuri/grok-bot-intrusion-detection-team) - 八代理 Grok Bot 团队：盯 Windows PC 入侵迹象、日报增量，且仅在主人批准后修复。.
 - [eyeskull2220/grokbot — SovereignForge Floor OS handoff](https://github.com/eyeskull2220/grokbot) - 给 Grok Bot CEO 与六席 Floor 组的操作台/交接包（仓库不含密钥与交易所会话；交易在别处）。.
 - [boydt/morning-brief — Grok Bot–written daily brief site](https://github.com/boydt/morning-brief) - 由 Grok Bot 助手 April 填充的静态早报站，含 grokbot:// 深链追问与公开数据同步。.
+- [automated-db2-install-grokbot — Db2 lab menu for Bot](https://github.com/raganor-tech/automated-db2-install-grokbot) - WSL2/AlmaLinux 9 上 Db2 11.5.9 实验笔记与菜单脚本，附 BOT-INSTRUCTIONS.md 让 Grok Bot 安全驱动安装与冒烟测试。.
+- [immortalwrt-jdcloud-cs-07 — firmware built by Grok Bot](https://github.com/pengyuw96/immortalwrt-jdcloud-cs-07) - 京东云 RE-CS-07（qualcommax/ipq60xx）的 ImmortalWrt SNAPSHOT 固件，README 标明 2026-10-04 由 Grok Bot 编译。.
+- [vitalitychems-dot/z — Tessera Grok Bot handoff index](https://github.com/vitalitychems-dot/z) - 给 Grok Bot 的单一交接入口：指向 WALK.md 与 Tessera 仓库索引（无密钥），便于续跑 Father/Tessera 工作。.
+- [Compile London: Jet Semrick workshop notes via Grok Bot](https://emrecavunt.com/blog/grok-bot-jet-semrick-compile-london) - Compile London 现场案例：用 Grok Bot 语音转写记入 Notion，并分派演示文稿/博客/社交/审稿等独立 Bot。.
+- [satheez.dev: Grok Bot as desktop publishing teammate](https://satheez.dev/writing/grok-bot-desktop-assistant/) - 实践笔记：用 Grok Bot 跑 satheez.dev 发布链路——插件优先于浏览器、云端 Agent 开 PR，以及公开发布前的硬停止点。.
 
 ## 技能、插件与 MCP
 
@@ -1145,6 +1152,7 @@
 - [mcpserver-grok-bot-plugin — cloud-instance McpServer fork](https://github.com/sharpninja/mcpserver-grok-bot-plugin) - 面向 Grok Bot 云实例的 mcpserver-grok-plugin 分支：带 .grok-plugin 钩子做 TODO、会话日志、计划同步与 GraphRAG 连续性。.
 - [ocnexus-mcp — OCNexus subscriber MCP wrapper for Grok Bot](https://github.com/LumenIQ-LLC/ocnexus-mcp) - 面向 Cursor/Grok Bot 的 OCNexus 订阅 MCP 公开薄封装（需 Starter/Pro；仓库不含密钥）。.
 - [Deploy-Forward/plugins — Convoy & Worklanes marketplace (incl. Grok)](https://github.com/Deploy-Forward/plugins) - Deploy Forward 市场仓库：把 Convoy 与 Worklanes 装进 Claude/Codex/Cursor/.grok 目录，并带共享同步工具。.
+- [devin-thomas/skills — portable agent skills (incl. Grok Bot)](https://github.com/devin-thomas/skills) - 可移植的智能体技能包（构思与有界交付），主机兼容说明覆盖 Codex、Claude Code、Cursor、Antigravity、Grok Bot 与 Grok CLI。.
 
 ## 评测与对比
 
@@ -1165,13 +1173,14 @@
 - [Engadget — SpaceXAI Grok Bot early beta: how to try it](https://www.engadget.com/2259931/spacexai-grok-bot-early-beta-how-to-try/) - Engadget 2026-09-20 介绍 Grok Bot 早期 beta：可用的 SuperGrok/Cursor 套餐、与普通对话/Grok Build 的区别，以及各端下载入口。.
 - [Windows Mode — OpenAI Dots vs Grok Bot (DevDay 2026)](https://www.windowsmode.com/openai-dots-always-on-agent) - Windows Mode 长文：对照 OpenAI DevDay 的 dots（ChatGPT 常驻智能体）与 Grok Bot——云电脑、多 Bot 协作、套餐与 Windows 上手。.
 - [How Autonomous Is Grok Bot Really? (IntroChek)](https://introchek.com/how-autonomous-is-grok-bot-really/) - 2026-09-28 分析文：Grok Bot 自主性边界——共享电脑、审批、2FA 交接、网站反自动化摩擦，以及按工作流算成本。.
+- [BuzzRAG: Grok Bot Review — AI Agents for Business Automation](https://buzzrag.com/article/grok-bot-review-ai-agents-business-automation) - 评测一篇 Grok Bot 直播实录：Luma 嘉宾运营、Vercel 看板交接、示教技能，以及面向业务自动化的早期 Ultra 定价观察。.
 
 ## 开源替代
 
 - [Grok Bot event bridge — JSONL queue + webhook wake](https://github.com/tqd118/grok-bot-event-bridge) - 个人事件驱动桥：同事机器人写入本机 JSONL 队列，经 webhook routine 唤醒 Helper Grok Bot，无需入站 HTTP 或忙轮询。.
 - [Grok Bot SDLC portable — host-agnostic bot definition pack](https://github.com/dsickles/grok-bot-sdlc-portable) - 七个云端 Grok Bot 角色的公开 Markdown 包，覆盖从 backlog 到文档的 SDLC 流水线；个人覆盖层不进 git，便于跨主机迁移。.
 - [BOTELLIGENCE — Grok Bot fleet control-center kit](https://github.com/vsgellon/botelligence-control-center) - 仅标准库的可安装 Python 驾驶舱：监控私有 Grok Bot 舰队健康、自报告与安全告警，并把优化/暂停/回滚请求转发到管理机器人 webhook。.
-- [CodeCaps — macOS menu bar quotas including Grok Bot](https://github.com/jaywedgeworth22/CodeCaps) - 开源 macOS 菜单栏应用：读取本机已登录的 Grok Bot 与其他 AI CLI 套餐用量/额度窗口，并可选通过 collector 在多台 Mac 间共享读数。.
+- [CodeCaps — macOS menu bar quotas including Grok Bot](https://github.com/Simple-With-Us/CodeCaps) - 开源 macOS 菜单栏应用：读取本机已登录的 Grok Bot 与其他 AI CLI 套餐用量/额度窗口，并可选通过 collector 在多台 Mac 间共享读数。.
 - [Commander's Intent — Chief of Staff Grok Bot fleet template](https://github.com/shagghiesuperstar/commanders-intent) - 自包含的 Grok Bot「参谋长」模板（人设、例行任务、技能、舰队布局），用共享使命与护栏驱动主动、可自愈的多智能体编排。.
 - [GrokBot Office — workforce control layer for a small GrokBot core](https://github.com/M4G3LL4N0/grokbot-office) - 公开参考的控制层：用精简持久的 GrokBot 督导核心，经 AgentOS 调度外部弹性劳动力。.
 - [grokbot-mcp-bridge — secure MCP bridge to a Grok Bot webhook](https://github.com/kinopeee/grokbot-mcp-bridge) - 可部署到 Fly.io 的 MCP 桥：让 Poke 调用 Cursor 自动化 webhook 驱动 Grok Bot，且不暴露 URL/密钥。.
@@ -1547,6 +1556,9 @@
 - [EMET — enduring multi-agent memory MCP for Grok Bot teams](https://github.com/dreamforgestudiollc/EMET) - EMET 记忆 MCP：ISO 风格记录控制与写后校验，让 Grok Bot 团队与其他代理共享分层持久记忆。.
 - [satiricalguru/OpenBot — local AI teammates + video brain](https://github.com/satiricalguru/OpenBot) - 免费开源桌面替代（对标 Grok Bot/Dots/Muse）：本地 AI 队友自带电脑，并含视频转写大脑（Ollama）。.
 - [PrisacariuRobert/openbot — Mac AI teammates (Mail/Calendar/Notes)](https://github.com/PrisacariuRobert/openbot) - 开源 Mac AI 队友团队，定位替代 OpenAI Dots、Grok Bot 与 Siri AI，在邮件/日历/备忘录中工作并需确认。.
+- [Agents-Slack-Bridge — Muse/Grok Bot/Hermes/DOTS in Slack](https://github.com/Ares-X/Agents-Slack-Bridge) - 开源 Slack 桥：让 Muse、Grok Bot、Hermes 与 ChatGPT DOTS 在同一工作区共享任务上下文协作（Grok Bot 走 Socket Mode + agent_wake）。.
+- [grokbuddy — WorkBuddy × Grok Bot collaboration hub](https://github.com/amir-hasan666/grokbuddy) - 可审计的多方协作中枢：WorkBuddy 与 Grok Bot Reviewer 路径对接（Hub DB 为事实源，含例程/人工配置手册）。.
+- [BotFleet — OpenMausBot fork with iPhone companion](https://github.com/Simple-With-Us/BotFleet) - OpenMausBot 友好分支：在 Mac 上协调可配置 bot 引擎（Claude/Codex/Grok CLI），并带 iPhone 伴侣应用。.
 
 ## 社区与故障现场
 
@@ -1819,6 +1831,7 @@
 - [Forum: Gmail send arrives with broken "--null" MIME boundary](https://forum.cursor.com/t/grok-bot-gmail-send-emails-arrive-with-broken-null-mime-boundary/173684) - 故障报告：Grok Bot 经 Gmail 连接器发出的邮件带损坏的 “--null” MIME 边界，严格收件端会看到原始 multipart 文本。.
 - [Forum: scheduled routines fail with "Activity task failed"](https://forum.cursor.com/t/grok-bot-scheduled-routines-fail-with-activity-task-failed-no-reason-shown/173672) - 故障报告：三个 Grok Bot 定时例程仅报 “Activity task failed”、无原因说明；同台健康云电脑上手动重跑却成功。.
 - [Forum: Android Conversation Mode voice settings always revert](https://forum.cursor.com/t/on-mobile-android-voice-settings-in-conversation-mode-always-revert-back-to-default/173646) - Android Grok Bot 反馈：Conversation Mode 的语音与语速每次都会回到默认（如 Liora 1x），无法记住用户选择。.
+- [Forum: messages delayed 24–26 minutes for 8 days (T-G23547)](https://forum.cursor.com/t/grok-bot-messages-delayed-24-26-minutes-for-8-days-ticket-t-g23547-email-only-answered-by-sam/173700) - macOS/iPhone Grok Bot 0.66.0：连续 8 天每条跟进消息延迟 24–26 分钟；工单 T-G23547 仅有 Sam AI 客服回复。.
 
 ## 相关列表
 
@@ -2112,10 +2125,12 @@
 - [HuiAnnn/ai-quota — macOS menu-bar multi-app quota panel](https://github.com/HuiAnnn/ai-quota) - 原生 macOS 菜单栏面板：并排查看 Codex、Grok Bot、Manus、Cue、Muse 剩余额度与重置时间。.
 - [ai-constitution — shared Codex/Cursor/Grok Bot work system](https://github.com/thierry-gilgen-ict/ai-constitution) - 面向 Codex、Cursor 与 xAI Grok Bot 的共享指令、项目架构与 Bot 入职包，支持可逆本地安装。.
 - [usage-reset-petition — Friday 4:45pm NY Grok Bot reset ask](https://github.com/Pitchfork-and-Torch/usage-reset-petition) - 公开请愿站：请求 Grok Bot 周用量在每周五纽约时间 16:45 重置，并用 X 发帖验证签名。.
+- [paseo-bots — Paseo personal bots (Grok Bot–like)](https://github.com/oliexe/paseo-bots) - Paseo 宿主上的个人 Bot，定位类似 Grok Bot / Hermes：每 Bot 独立指令、模型、记忆、技能与工具工作区。.
+- [Poka-Bot — self-hosted alternative to Grok Bot](https://github.com/xAmirHamza77/Poka-Bot) - 开源可自托管的 AI 智能体工作区，定位为 OpenAI Dots、Meta Muse 与 Grok Bot 的替代方案（含桌面/运行时包）。.
 
 ## 贡献
 
-目前 8 个分类、2006 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2020 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
