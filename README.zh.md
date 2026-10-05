@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2051-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2054-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1580,6 +1580,7 @@
 - [BotFleet — OpenMausBot fork with iPhone companion](https://github.com/Simple-With-Us/BotFleet) - OpenMausBot 友好分支：在 Mac 上协调可配置 bot 引擎（Claude/Codex/Grok CLI），并带 iPhone 伴侣应用。.
 - [Grok Codex Gateway — let Grok Bot run Codex locally](https://github.com/GMusliaj/grok-codex-gateway) - 运行在 Mac 本地回环的 MCP 网关：让 Grok Bot 对话发现符合条件的项目、启动只读或可编辑的 Codex CLI 任务，并把结果与追问带回 Bot。.
 - [grok-bot-usage — local Grok Bot usage dashboard](https://github.com/Amine-cnslt/grok-bot-usage) - 在自己电脑上运行的小型 Python 服务：用 Cursor 登录后，在仅限本机访问的面板上显示各 Bot 的 Grok Bot token 用量。.
+- [Grokbot Widget — floating macOS companion for your Grok Bot](https://github.com/imranbarbhuiya/grokbot-widget) - MIT 开源的 macOS 原型：把你现有的 Grok Bot 变成可拖动的桌面悬浮角色，点开即聊天面板，通过官方 BDK 连接，并自动读取本地缓存里的 Bot 头像。.
 
 ## 社区与故障现场
 
@@ -1859,6 +1860,8 @@
 - [Forum: desktop take-over stuck on "connecting" and Screenshot blocked under high load on a shared box](https://forum.cursor.com/t/desktop-take-over-stuck-on-connecting-screenshot-blocked-by-credential-fill-guard-during-high-cpu-load-on-a-shared-box/173731) - 带日志的 Bug 报告：多个 agent 共用的电脑上，闲置 Chrome 渲染进程把负载推到 70–80，一个 agent 的接管卡在 connecting、截图被凭据填充防护拦下，box-doctor 超时。.
 - [Forum: Grok Bot group chats should return generated PDFs and images as native attachments](https://forum.cursor.com/t/grok-bot-group-chats-return-generated-pdf-and-image-files-as-native-attachments/173730) - 功能请求：在 macOS 群聊（Meal Concierge Bot）中，希望有官方支持的方式把生成的 PDF 与图片作为可下载附件返回，而不是只给文件路径。.
 - [Forum: Grok Bot 0.66.0 macOS local-exec daemon gets SIGTERM on a locked Mac and never returns](https://forum.cursor.com/t/grok-bot-0-66-0-macos-local-exec-daemon-gets-sigterm-on-an-unattended-locked-mac-and-is-not-restored-when-the-bot-needs-the-machine/173728) - 在常开但锁屏无人值守的 Mac 上，local-exec 守护进程收到 SIGTERM 正常退出后不再重启；聊天正常，但需要本机的任务全部失败，直到完全重启应用。.
+- [Forum: Chrome on the Grok Bot computer times out on every site while the egress proxy hangs](https://forum.cursor.com/t/grok-bot-computer-chrome-err-timed-out-on-every-site-update-says-up-to-date-reset-didnt-help/173750) - 故障报告（0.66.0）：box-doctor 全部通过、直接请求也返回 200，但 Chrome 被强制走本机 127.0.0.1:8791 出口隧道，所有网页都 ERR_TIMED_OUT；更新和重置电脑都无效。.
+- [Forum: browser snapshot exposes a password filled by the Secure Form in plain text](https://forum.cursor.com/t/grok-bot-browser-snapshot-shows-a-password-filled-by-the-secure-form-requestuserform-in-plain-text/173748) - 安全类故障报告：聊天内安全表单把 GitHub 账号密码填进 Bot 电脑的浏览器后，浏览器子代理拍的无障碍快照里密码明文可见，进入了工具输出和会话记录。.
 
 ## 相关列表
 
@@ -2160,7 +2163,7 @@
 
 ## 贡献
 
-目前 8 个分类、2051 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2054 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

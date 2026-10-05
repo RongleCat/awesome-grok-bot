@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2051-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2054-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1580,6 +1580,7 @@
 - [BotFleet — OpenMausBot fork with iPhone companion](https://github.com/Simple-With-Us/BotFleet) - Friendly OpenMausBot fork that coordinates configurable bot engines on your Mac (Claude/Codex/Grok CLIs) with an iPhone companion app.
 - [Grok Codex Gateway — let Grok Bot run Codex locally](https://github.com/GMusliaj/grok-codex-gateway) - Loopback MCP gateway on your Mac that lets a Grok Bot conversation find eligible projects, start read-only or editing Codex CLI jobs, and bring results and follow-ups back to the Bot.
 - [grok-bot-usage — local Grok Bot usage dashboard](https://github.com/Amine-cnslt/grok-bot-usage) - Small Python server you run on your own computer that signs in with Cursor and shows your bots' Grok Bot token usage on a localhost-only dashboard.
+- [Grokbot Widget — floating macOS companion for your Grok Bot](https://github.com/imranbarbhuiya/grokbot-widget) - MIT macOS prototype that puts your existing Grok Bot on screen as a draggable floating character with an expandable chat panel, connected through the official BDK and using the bot's own avatar from the local cache.
 
 ## Community & Failure Modes
 
@@ -1859,6 +1860,8 @@
 - [Forum: desktop take-over stuck on "connecting" and Screenshot blocked under high load on a shared box](https://forum.cursor.com/t/desktop-take-over-stuck-on-connecting-screenshot-blocked-by-credential-fill-guard-during-high-cpu-load-on-a-shared-box/173731) - Bug report with logs: on a box shared by several agents, idle Chrome renderers drove load to 70–80, one agent's take-over hung, Screenshot failed the credential-fill guard, and box-doctor timed out.
 - [Forum: Grok Bot group chats should return generated PDFs and images as native attachments](https://forum.cursor.com/t/grok-bot-group-chats-return-generated-pdf-and-image-files-as-native-attachments/173730) - Feature request from a macOS group-chat setup (a Meal Concierge bot) asking for a supported way to deliver generated PDF and image files as downloadable attachments instead of file paths.
 - [Forum: Grok Bot 0.66.0 macOS local-exec daemon gets SIGTERM on a locked Mac and never returns](https://forum.cursor.com/t/grok-bot-0-66-0-macos-local-exec-daemon-gets-sigterm-on-an-unattended-locked-mac-and-is-not-restored-when-the-bot-needs-the-machine/173728) - On an always-on but locked, unattended Mac, the local-exec daemon logs a clean SIGTERM and is not restarted, so chat works but every task needing the Mac fails until a full relaunch.
+- [Forum: Chrome on the Grok Bot computer times out on every site while the egress proxy hangs](https://forum.cursor.com/t/grok-bot-computer-chrome-err-timed-out-on-every-site-update-says-up-to-date-reset-didnt-help/173750) - Bug report (0.66.0): box-doctor passes and direct requests return 200, but Chrome is forced through the local egress tunnel at 127.0.0.1:8791 and every page ends in ERR_TIMED_OUT; Update and Reset did not help.
+- [Forum: browser snapshot exposes a password filled by the Secure Form in plain text](https://forum.cursor.com/t/grok-bot-browser-snapshot-shows-a-password-filled-by-the-secure-form-requestuserform-in-plain-text/173748) - Security bug report: after the in-chat Secure Form filled a GitHub login on the Bot's computer, the browser subagent's accessibility snapshot showed the password value unmasked, so it landed in tool output and the transcript.
 
 ## Related Lists
 
@@ -2160,7 +2163,7 @@
 
 ## Contributing
 
-2051 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2054 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2051-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2054-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1580,6 +1580,7 @@
 - [BotFleet — OpenMausBot fork with iPhone companion](https://github.com/Simple-With-Us/BotFleet) - OpenMausBot の友好フォーク。Mac 上で Claude/Codex/Grok CLI などのエンジンを協調し、iPhone コンパニオン付き。
 - [Grok Codex Gateway — let Grok Bot run Codex locally](https://github.com/GMusliaj/grok-codex-gateway) - Mac 上のループバック MCP ゲートウェイ。Grok Bot の会話から対象プロジェクトを見つけ、読み取り専用/編集可の Codex CLI ジョブを起動し、結果と追質問を Bot に戻す。
 - [grok-bot-usage — local Grok Bot usage dashboard](https://github.com/Amine-cnslt/grok-bot-usage) - 自分の PC で動かす小さな Python サーバー。Cursor でサインインし、各 Bot の Grok Bot トークン使用量を localhost 限定のダッシュボードに表示。
+- [Grokbot Widget — floating macOS companion for your Grok Bot](https://github.com/imranbarbhuiya/grokbot-widget) - MIT ライセンスの macOS プロトタイプ。既存の Grok Bot をドラッグ可能なフローティングキャラとして画面に置き、展開式チャットパネルで会話。公式 BDK で接続し、ローカルキャッシュの Bot アバターを使用。
 
 ## コミュニティと障害事例
 
@@ -1859,6 +1860,8 @@
 - [Forum: desktop take-over stuck on "connecting" and Screenshot blocked under high load on a shared box](https://forum.cursor.com/t/desktop-take-over-stuck-on-connecting-screenshot-blocked-by-credential-fill-guard-during-high-cpu-load-on-a-shared-box/173731) - ログ付きバグ報告。複数エージェント共有のマシンでアイドルの Chrome レンダラーが負荷 70–80 に、1体のテイクオーバーが停止、Screenshot が資格情報ガードで失敗、box-doctor もタイムアウト。
 - [Forum: Grok Bot group chats should return generated PDFs and images as native attachments](https://forum.cursor.com/t/grok-bot-group-chats-return-generated-pdf-and-image-files-as-native-attachments/173730) - 機能要望：macOS のグループチャット（Meal Concierge Bot）で、生成した PDF や画像をファイルパスではなくダウンロード可能な添付として返す公式手段がほしい。
 - [Forum: Grok Bot 0.66.0 macOS local-exec daemon gets SIGTERM on a locked Mac and never returns](https://forum.cursor.com/t/grok-bot-0-66-0-macos-local-exec-daemon-gets-sigterm-on-an-unattended-locked-mac-and-is-not-restored-when-the-bot-needs-the-machine/173728) - 常時稼働だがロック中で無人の Mac で、local-exec デーモンが SIGTERM で終了し再起動されない。チャットは動くが Mac を使う作業はアプリを完全再起動するまで失敗。
+- [Forum: Chrome on the Grok Bot computer times out on every site while the egress proxy hangs](https://forum.cursor.com/t/grok-bot-computer-chrome-err-timed-out-on-every-site-update-says-up-to-date-reset-didnt-help/173750) - 不具合報告（0.66.0）：box-doctor は全項目合格、直接リクエストも 200 なのに、Chrome は 127.0.0.1:8791 の出口トンネル経由を強制され全ページが ERR_TIMED_OUT。更新もリセットも効果なし。
+- [Forum: browser snapshot exposes a password filled by the Secure Form in plain text](https://forum.cursor.com/t/grok-bot-browser-snapshot-shows-a-password-filled-by-the-secure-form-requestuserform-in-plain-text/173748) - セキュリティ不具合報告：チャット内の Secure Form で Bot の PC のブラウザに GitHub ログインを入力した後、ブラウザサブエージェントのアクセシビリティスナップショットにパスワードが平文で表示され、ツール出力と記録に残った。
 
 ## 関連リスト
 
@@ -2160,7 +2163,7 @@
 
 ## 貢献
 
-8 セクションに 2051 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2054 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

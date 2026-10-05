@@ -14864,6 +14864,16 @@
             "zh": "在自己电脑上运行的小型 Python 服务：用 Cursor 登录后，在仅限本机访问的面板上显示各 Bot 的 Grok Bot token 用量。",
             "ja": "自分の PC で動かす小さな Python サーバー。Cursor でサインインし、各 Bot の Grok Bot トークン使用量を localhost 限定のダッシュボードに表示。"
           }
+        },
+        {
+          "title": "Grokbot Widget — floating macOS companion for your Grok Bot",
+          "url": "https://github.com/imranbarbhuiya/grokbot-widget",
+          "source": "GB-2076",
+          "blurb": {
+            "en": "MIT macOS prototype that puts your existing Grok Bot on screen as a draggable floating character with an expandable chat panel, connected through the official BDK and using the bot's own avatar from the local cache.",
+            "zh": "MIT 开源的 macOS 原型：把你现有的 Grok Bot 变成可拖动的桌面悬浮角色，点开即聊天面板，通过官方 BDK 连接，并自动读取本地缓存里的 Bot 头像。",
+            "ja": "MIT ライセンスの macOS プロトタイプ。既存の Grok Bot をドラッグ可能なフローティングキャラとして画面に置き、展開式チャットパネルで会話。公式 BDK で接続し、ローカルキャッシュの Bot アバターを使用。"
+          }
         }
       ]
     },
@@ -17633,6 +17643,26 @@
             "en": "On an always-on but locked, unattended Mac, the local-exec daemon logs a clean SIGTERM and is not restarted, so chat works but every task needing the Mac fails until a full relaunch.",
             "zh": "在常开但锁屏无人值守的 Mac 上，local-exec 守护进程收到 SIGTERM 正常退出后不再重启；聊天正常，但需要本机的任务全部失败，直到完全重启应用。",
             "ja": "常時稼働だがロック中で無人の Mac で、local-exec デーモンが SIGTERM で終了し再起動されない。チャットは動くが Mac を使う作業はアプリを完全再起動するまで失敗。"
+          }
+        },
+        {
+          "title": "Forum: Chrome on the Grok Bot computer times out on every site while the egress proxy hangs",
+          "url": "https://forum.cursor.com/t/grok-bot-computer-chrome-err-timed-out-on-every-site-update-says-up-to-date-reset-didnt-help/173750",
+          "source": "GB-2077",
+          "blurb": {
+            "en": "Bug report (0.66.0): box-doctor passes and direct requests return 200, but Chrome is forced through the local egress tunnel at 127.0.0.1:8791 and every page ends in ERR_TIMED_OUT; Update and Reset did not help.",
+            "zh": "故障报告（0.66.0）：box-doctor 全部通过、直接请求也返回 200，但 Chrome 被强制走本机 127.0.0.1:8791 出口隧道，所有网页都 ERR_TIMED_OUT；更新和重置电脑都无效。",
+            "ja": "不具合報告（0.66.0）：box-doctor は全項目合格、直接リクエストも 200 なのに、Chrome は 127.0.0.1:8791 の出口トンネル経由を強制され全ページが ERR_TIMED_OUT。更新もリセットも効果なし。"
+          }
+        },
+        {
+          "title": "Forum: browser snapshot exposes a password filled by the Secure Form in plain text",
+          "url": "https://forum.cursor.com/t/grok-bot-browser-snapshot-shows-a-password-filled-by-the-secure-form-requestuserform-in-plain-text/173748",
+          "source": "GB-2078",
+          "blurb": {
+            "en": "Security bug report: after the in-chat Secure Form filled a GitHub login on the Bot's computer, the browser subagent's accessibility snapshot showed the password value unmasked, so it landed in tool output and the transcript.",
+            "zh": "安全类故障报告：聊天内安全表单把 GitHub 账号密码填进 Bot 电脑的浏览器后，浏览器子代理拍的无障碍快照里密码明文可见，进入了工具输出和会话记录。",
+            "ja": "セキュリティ不具合報告：チャット内の Secure Form で Bot の PC のブラウザに GitHub ログインを入力した後、ブラウザサブエージェントのアクセシビリティスナップショットにパスワードが平文で表示され、ツール出力と記録に残った。"
           }
         }
       ]
