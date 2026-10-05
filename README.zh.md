@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2054-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2061-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1170,6 +1170,10 @@
 - [inboxmcp — read-only IMAP email for your agent](https://github.com/zhlei07/inboxmcp) - 托管的只读 IMAP MCP（支持 Gmail、iCloud、QQ、163、飞书等）；Grok Bot 集成通过 webhook 触发的 Grok 例程逐封推送新邮件，并附简短设置视频。.
 - [pdnexa PDF — Cursor and Grok Bot plugin](https://github.com/ShanthanPulugujja/pdnexa-mcp) - pdnexa PDF MCP 的免费 Cursor / Grok Bot 插件：合并、拆分、抽页、旋转与压缩 PDF，带配额与任务状态工具，下载链接短时有效。.
 - [Things Bridge for Grok — Things 3 skill and macOS helper](https://github.com/mcassano/things-bridge-grok) - Grok Bot 技能加本地 macOS 助手，可分诊、搜索并更新 Things 3；每次修改都需预览、聊天内批准并在原生确认框中点击。.
+- [Newrise CRM plugin for Grok Bot / Cursor (remote MCP + skill)](https://github.com/kennethmelvej/newrise-cursor-plugin) - Newrise CRM 官方插件：用 Bearer token 把 Grok Bot 和 Cursor 接到它的托管 MCP 服务器，并附带 newrise 技能，让 Bot 能查联系人、写笔记、管理任务和项目、开关计时器。.
+- [Xro 8.5 plugin for Grok Build (web search with citations)](https://github.com/ULTRAXAS/xro-8-5) - 轻量 .grok-plugin 封装：让 Grok Build 连上 ULTRAXAS 公开的托管 MCP，提供带引用的实时网页搜索和 Xro 对话，可从 xAI 插件市场安装，也可用 grok mcp add 手动添加。.
+- [maven-mcp — Maven dependency intelligence plugin (Grok Build / Cursor / Claude Code)](https://github.com/kirich1409/maven-mcp) - MIT 开源插件，内置零依赖的 Python MCP 服务器，通过 .mcp.json 接入 Grok Build、mcp.json 接入 Cursor，让智能体查询 Maven 构件版本、扫描 Gradle/Maven 项目里过时或有漏洞的依赖，并拉取更新日志。.
+- [agent-notify — let Grok Bot email you when something needs attention](https://github.com/CyrisXD/agent-notify) - MIT 开源的一键部署 Cloudflare Worker，跑在你自己的免费账号上，生成一个私密 MCP 地址，在 Grok Bot 里添加为自定义连接器并配合技能后，Bot 就能在有新线索、任务失败或报告完成时只给你本人发邮件。.
 
 ## 评测与对比
 
@@ -1862,6 +1866,8 @@
 - [Forum: Grok Bot 0.66.0 macOS local-exec daemon gets SIGTERM on a locked Mac and never returns](https://forum.cursor.com/t/grok-bot-0-66-0-macos-local-exec-daemon-gets-sigterm-on-an-unattended-locked-mac-and-is-not-restored-when-the-bot-needs-the-machine/173728) - 在常开但锁屏无人值守的 Mac 上，local-exec 守护进程收到 SIGTERM 正常退出后不再重启；聊天正常，但需要本机的任务全部失败，直到完全重启应用。.
 - [Forum: Chrome on the Grok Bot computer times out on every site while the egress proxy hangs](https://forum.cursor.com/t/grok-bot-computer-chrome-err-timed-out-on-every-site-update-says-up-to-date-reset-didnt-help/173750) - 故障报告（0.66.0）：box-doctor 全部通过、直接请求也返回 200，但 Chrome 被强制走本机 127.0.0.1:8791 出口隧道，所有网页都 ERR_TIMED_OUT；更新和重置电脑都无效。.
 - [Forum: browser snapshot exposes a password filled by the Secure Form in plain text](https://forum.cursor.com/t/grok-bot-browser-snapshot-shows-a-password-filled-by-the-secure-form-requestuserform-in-plain-text/173748) - 安全类故障报告：聊天内安全表单把 GitHub 账号密码填进 Bot 电脑的浏览器后，浏览器子代理拍的无障碍快照里密码明文可见，进入了工具输出和会话记录。.
+- [Forum: Grok Bot computer auto-recreated from an incomplete copy, recent data missing](https://forum.cursor.com/t/grok-bot-was-reprovisioned-to-a-new-context-but-recent-data-from-the-previous-computer-was-not-carried-over/173771) - 故障报告：从 9 月 17 日一直运行的常驻电脑在 10 月 5 日未经更新、恢复或重置就被重建，新旧两个环境并行了一段时间，新环境缺了最近的文件；官方确认是一次没跑完的自动重建，建议别点更新、恢复或重置，并趁旧端点还能连上先备份数据。.
+- [Forum request: show a connection status indicator in Grok Bot](https://forum.cursor.com/t/add-a-connection-status-indicator-to-grok-bot/173758) - 功能请求：一位 Windows 和 iPhone 用户的 Bot 频繁掉线、远程电脑显示不可达、多设备状态不同步，希望界面里加一个清楚的连接状态指示。.
 
 ## 相关列表
 
@@ -2160,10 +2166,11 @@
 - [Noodle — multi-agent messenger alternative to Grok Bot](https://github.com/pdparchitect/noodle) - macOS/iPhone 多智能体信使（共享电脑/浏览器）；README 直接对比 Noodle 与 Grok Bot、Muse。.
 - [OpenGrokBot — Windows always-on AI teammates (independent)](https://github.com/Crepald-01/OpenGrokBot) - 受常驻 AI 队友理念启发的独立 Windows 应用（MIT）：具名 Bot 共用一台带 Chromium 与终端的持久电脑，后台运行例程，可接 Anthropic 或 OpenAI 兼容模型。.
 - [Tech Dev Notes — Grok Bot Desktop Extra release tracker](https://techdevnotes.com/releases/grok-bot-desktop-extra) - 第三方追踪页：每天多次记录 Grok Bot 桌面版 macOS/Windows 内测预发布，并附逐版本简短变更说明（如 10 月 4 日的 0.68.0-pre 系列）。.
+- [Agent Brief — Korean news curation for Grok Bot, Dots and Muse](https://github.com/nalm/agent-brief) - 无依赖的 Node MVP：抓取、分类、去重并翻译 Grok Bot、OpenAI Dots 和 Meta Muse 的新闻，做成纯韩语公开简报，带失败时的样例回退，并附 Cloudflare 快速隧道公开发布的做法。.
 
 ## 贡献
 
-目前 8 个分类、2054 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2061 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

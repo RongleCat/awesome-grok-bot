@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2054-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2061-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1170,6 +1170,10 @@
 - [inboxmcp — read-only IMAP email for your agent](https://github.com/zhlei07/inboxmcp) - Hosted read-only IMAP MCP (Gmail, iCloud, QQ, 163, Feishu and more) whose Grok Bot integration delivers each new email to a webhook-triggered Grok routine, with a short setup video.
 - [pdnexa PDF — Cursor and Grok Bot plugin](https://github.com/ShanthanPulugujja/pdnexa-mcp) - Free Cursor and Grok Bot plugin for the pdnexa PDF MCP server: merge, split, extract, rotate, and compress PDFs, with quota and job-status tools and short-lived download links.
 - [Things Bridge for Grok — Things 3 skill and macOS helper](https://github.com/mcassano/things-bridge-grok) - Grok Bot skill plus a local macOS helper to triage, search, and update Things 3, where every change needs a preview, chat approval, and a native confirmation click.
+- [Newrise CRM plugin for Grok Bot / Cursor (remote MCP + skill)](https://github.com/kennethmelvej/newrise-cursor-plugin) - Official plugin for the Newrise CRM that connects Grok Bot and Cursor to its hosted MCP server with a Bearer token, plus a newrise skill, so the Bot can look up contacts, write notes, manage tasks and projects, and run timers.
+- [Xro 8.5 plugin for Grok Build (web search with citations)](https://github.com/ULTRAXAS/xro-8-5) - Thin .grok-plugin wrapper that points Grok Build at ULTRAXAS's public hosted MCP for live web search with citations and Xro chat, installable from the xAI plugin marketplace or with grok mcp add.
+- [maven-mcp — Maven dependency intelligence plugin (Grok Build / Cursor / Claude Code)](https://github.com/kirich1409/maven-mcp) - MIT plugin bundling a zero-dependency Python MCP server that registers via .mcp.json for Grok Build and mcp.json for Cursor, letting the agent look up Maven artifact versions, scan Gradle and Maven projects for outdated or vulnerable dependencies, and fetch changelogs.
+- [agent-notify — let Grok Bot email you when something needs attention](https://github.com/CyrisXD/agent-notify) - MIT one-click Cloudflare Worker on your own free account that exposes a secret MCP URL you add to Grok Bot as a custom connector, plus a skill, so the Bot can email only you about new leads, failed jobs, or finished reports.
 
 ## Reviews & Comparisons
 
@@ -1862,6 +1866,8 @@
 - [Forum: Grok Bot 0.66.0 macOS local-exec daemon gets SIGTERM on a locked Mac and never returns](https://forum.cursor.com/t/grok-bot-0-66-0-macos-local-exec-daemon-gets-sigterm-on-an-unattended-locked-mac-and-is-not-restored-when-the-bot-needs-the-machine/173728) - On an always-on but locked, unattended Mac, the local-exec daemon logs a clean SIGTERM and is not restarted, so chat works but every task needing the Mac fails until a full relaunch.
 - [Forum: Chrome on the Grok Bot computer times out on every site while the egress proxy hangs](https://forum.cursor.com/t/grok-bot-computer-chrome-err-timed-out-on-every-site-update-says-up-to-date-reset-didnt-help/173750) - Bug report (0.66.0): box-doctor passes and direct requests return 200, but Chrome is forced through the local egress tunnel at 127.0.0.1:8791 and every page ends in ERR_TIMED_OUT; Update and Reset did not help.
 - [Forum: browser snapshot exposes a password filled by the Secure Form in plain text](https://forum.cursor.com/t/grok-bot-browser-snapshot-shows-a-password-filled-by-the-secure-form-requestuserform-in-plain-text/173748) - Security bug report: after the in-chat Secure Form filled a GitHub login on the Bot's computer, the browser subagent's accessibility snapshot showed the password value unmasked, so it landed in tool output and the transcript.
+- [Forum: Grok Bot computer auto-recreated from an incomplete copy, recent data missing](https://forum.cursor.com/t/grok-bot-was-reprovisioned-to-a-new-context-but-recent-data-from-the-previous-computer-was-not-carried-over/173771) - Bug report: a persistent computer running since Sep 17 was recreated on Oct 5 without Update, Recover or Reset, the old and new contexts ran side by side, and the new one lacked recent files; staff confirmed an unfinished automatic recreate and advised not to press Update, Recover or Reset and to back up from the old endpoint while reachable.
+- [Forum request: show a connection status indicator in Grok Bot](https://forum.cursor.com/t/add-a-connection-status-indicator-to-grok-bot/173758) - Feature request from a Windows and iPhone user whose Bots keep dropping connection, showing the remote computer as unreachable and leaving device status out of sync, asking for a clear connection status indicator in the UI.
 
 ## Related Lists
 
@@ -2160,10 +2166,11 @@
 - [Noodle — multi-agent messenger alternative to Grok Bot](https://github.com/pdparchitect/noodle) - macOS/iPhone multi-agent messenger with shared computers/browsers; README compares Noodle directly to Grok Bot and Muse.
 - [OpenGrokBot — Windows always-on AI teammates (independent)](https://github.com/Crepald-01/OpenGrokBot) - Independent MIT-licensed Windows app inspired by always-on teammates: named Bots share one persistent Chromium-and-terminal computer, run routines in the background, and use Anthropic or OpenAI-compatible models.
 - [Tech Dev Notes — Grok Bot Desktop Extra release tracker](https://techdevnotes.com/releases/grok-bot-desktop-extra) - Third-party tracker logging Grok Bot desktop dogfood pre-releases for macOS and Windows several times a day, with short per-build change notes (e.g. 0.68.0-pre builds on Oct 4).
+- [Agent Brief — Korean news curation for Grok Bot, Dots and Muse](https://github.com/nalm/agent-brief) - Dependency-free Node MVP that collects, classifies, dedupes and translates news about Grok Bot, OpenAI Dots and Meta Muse into a Korean-only public digest, with sample fallback and a Cloudflare quick-tunnel recipe for publishing it.
 
 ## Contributing
 
-2054 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2061 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

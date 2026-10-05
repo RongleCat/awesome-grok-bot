@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2054-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2061-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1170,6 +1170,10 @@
 - [inboxmcp — read-only IMAP email for your agent](https://github.com/zhlei07/inboxmcp) - ホスト型の読み取り専用 IMAP MCP（Gmail・iCloud・QQ・163・Feishu など）。Grok Bot 連携では Webhook トリガーの Grok ルーチンへ新着メールを1通ずつ配信、設定動画付き。
 - [pdnexa PDF — Cursor and Grok Bot plugin](https://github.com/ShanthanPulugujja/pdnexa-mcp) - pdnexa PDF MCP 用の無料 Cursor / Grok Bot プラグイン。PDF の結合・分割・抽出・回転・圧縮、クォータとジョブ状態ツール、短時間有効のダウンロードリンク。
 - [Things Bridge for Grok — Things 3 skill and macOS helper](https://github.com/mcassano/things-bridge-grok) - Things 3 のトリアージ・検索・更新を行う Grok Bot スキルとローカル macOS ヘルパー。変更はプレビュー、チャット承認、ネイティブ確認ダイアログのクリックが必須。
+- [Newrise CRM plugin for Grok Bot / Cursor (remote MCP + skill)](https://github.com/kennethmelvej/newrise-cursor-plugin) - Newrise CRM の公式プラグイン。Bearer トークンで Grok Bot と Cursor をホスト型 MCP サーバーに接続し、newrise スキルも同梱。連絡先の検索、メモ作成、タスク・プロジェクト管理、タイマー操作が可能。
+- [Xro 8.5 plugin for Grok Build (web search with citations)](https://github.com/ULTRAXAS/xro-8-5) - 軽量な .grok-plugin ラッパー。Grok Build を ULTRAXAS の公開ホスト型 MCP につなぎ、引用付きのライブ Web 検索と Xro チャットを提供。xAI プラグインマーケットか grok mcp add で導入できる。
+- [maven-mcp — Maven dependency intelligence plugin (Grok Build / Cursor / Claude Code)](https://github.com/kirich1409/maven-mcp) - MIT ライセンスのプラグイン。依存ゼロの Python MCP サーバーを同梱し、Grok Build には .mcp.json、Cursor には mcp.json で登録。Maven アーティファクトのバージョン照会、Gradle/Maven プロジェクトの古い・脆弱な依存のスキャン、変更履歴の取得ができる。
+- [agent-notify — let Grok Bot email you when something needs attention](https://github.com/CyrisXD/agent-notify) - MIT ライセンスのワンクリック Cloudflare Worker。自分の無料アカウント上で動き、秘密の MCP URL を Grok Bot のカスタムコネクタとして追加し、スキルと組み合わせると、新規リードや失敗したジョブ、完成したレポートを本人だけにメール通知できる。
 
 ## レビューと比較
 
@@ -1862,6 +1866,8 @@
 - [Forum: Grok Bot 0.66.0 macOS local-exec daemon gets SIGTERM on a locked Mac and never returns](https://forum.cursor.com/t/grok-bot-0-66-0-macos-local-exec-daemon-gets-sigterm-on-an-unattended-locked-mac-and-is-not-restored-when-the-bot-needs-the-machine/173728) - 常時稼働だがロック中で無人の Mac で、local-exec デーモンが SIGTERM で終了し再起動されない。チャットは動くが Mac を使う作業はアプリを完全再起動するまで失敗。
 - [Forum: Chrome on the Grok Bot computer times out on every site while the egress proxy hangs](https://forum.cursor.com/t/grok-bot-computer-chrome-err-timed-out-on-every-site-update-says-up-to-date-reset-didnt-help/173750) - 不具合報告（0.66.0）：box-doctor は全項目合格、直接リクエストも 200 なのに、Chrome は 127.0.0.1:8791 の出口トンネル経由を強制され全ページが ERR_TIMED_OUT。更新もリセットも効果なし。
 - [Forum: browser snapshot exposes a password filled by the Secure Form in plain text](https://forum.cursor.com/t/grok-bot-browser-snapshot-shows-a-password-filled-by-the-secure-form-requestuserform-in-plain-text/173748) - セキュリティ不具合報告：チャット内の Secure Form で Bot の PC のブラウザに GitHub ログインを入力した後、ブラウザサブエージェントのアクセシビリティスナップショットにパスワードが平文で表示され、ツール出力と記録に残った。
+- [Forum: Grok Bot computer auto-recreated from an incomplete copy, recent data missing](https://forum.cursor.com/t/grok-bot-was-reprovisioned-to-a-new-context-but-recent-data-from-the-previous-computer-was-not-carried-over/173771) - 不具合報告：9 月 17 日から稼働していた常駐 PC が、更新・復旧・リセットなしで 10 月 5 日に再作成され、新旧の環境がしばらく並行し、新しい方に最近のファイルがなかった。スタッフは未完了の自動再作成と認め、更新・復旧・リセットを押さず、旧エンドポイントに届くうちにバックアップするよう案内。
+- [Forum request: show a connection status indicator in Grok Bot](https://forum.cursor.com/t/add-a-connection-status-indicator-to-grok-bot/173758) - 機能リクエスト：Windows と iPhone で Bot の接続が頻繁に切れ、リモート PC が到達不能と表示され、端末間の状態も同期しないため、UI に分かりやすい接続状態インジケーターを求める投稿。
 
 ## 関連リスト
 
@@ -2160,10 +2166,11 @@
 - [Noodle — multi-agent messenger alternative to Grok Bot](https://github.com/pdparchitect/noodle) - macOS/iPhone のマルチエージェントメッセンジャー。README で Grok Bot / Muse と直接比較。
 - [OpenGrokBot — Windows always-on AI teammates (independent)](https://github.com/Crepald-01/OpenGrokBot) - 常駐 AI チームメイトの発想に着想を得た独立系 Windows アプリ（MIT）。名前付き Bot が Chromium と端末を備えた1台の永続 PC を共有し、ルーチンをバックグラウンド実行、Anthropic / OpenAI 互換モデル対応。
 - [Tech Dev Notes — Grok Bot Desktop Extra release tracker](https://techdevnotes.com/releases/grok-bot-desktop-extra) - Grok Bot デスクトップの macOS/Windows ドッグフード版プレリリースを1日数回記録するサードパーティのトラッカー。ビルドごとの短い変更メモ付き（例：10/4 の 0.68.0-pre）。
+- [Agent Brief — Korean news curation for Grok Bot, Dots and Muse](https://github.com/nalm/agent-brief) - 依存なしの Node MVP。Grok Bot、OpenAI Dots、Meta Muse のニュースを収集・分類・重複排除・翻訳して韓国語のみの公開ダイジェストにまとめ、失敗時のサンプルフォールバックと Cloudflare クイックトンネルでの公開手順付き。
 
 ## 貢献
 
-8 セクションに 2054 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2061 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

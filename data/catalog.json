@@ -10804,6 +10804,46 @@
             "zh": "Grok Bot 技能加本地 macOS 助手，可分诊、搜索并更新 Things 3；每次修改都需预览、聊天内批准并在原生确认框中点击。",
             "ja": "Things 3 のトリアージ・検索・更新を行う Grok Bot スキルとローカル macOS ヘルパー。変更はプレビュー、チャット承認、ネイティブ確認ダイアログのクリックが必須。"
           }
+        },
+        {
+          "title": "Newrise CRM plugin for Grok Bot / Cursor (remote MCP + skill)",
+          "url": "https://github.com/kennethmelvej/newrise-cursor-plugin",
+          "source": "GB-2079",
+          "blurb": {
+            "en": "Official plugin for the Newrise CRM that connects Grok Bot and Cursor to its hosted MCP server with a Bearer token, plus a newrise skill, so the Bot can look up contacts, write notes, manage tasks and projects, and run timers.",
+            "zh": "Newrise CRM 官方插件：用 Bearer token 把 Grok Bot 和 Cursor 接到它的托管 MCP 服务器，并附带 newrise 技能，让 Bot 能查联系人、写笔记、管理任务和项目、开关计时器。",
+            "ja": "Newrise CRM の公式プラグイン。Bearer トークンで Grok Bot と Cursor をホスト型 MCP サーバーに接続し、newrise スキルも同梱。連絡先の検索、メモ作成、タスク・プロジェクト管理、タイマー操作が可能。"
+          }
+        },
+        {
+          "title": "Xro 8.5 plugin for Grok Build (web search with citations)",
+          "url": "https://github.com/ULTRAXAS/xro-8-5",
+          "source": "GB-2080",
+          "blurb": {
+            "en": "Thin .grok-plugin wrapper that points Grok Build at ULTRAXAS's public hosted MCP for live web search with citations and Xro chat, installable from the xAI plugin marketplace or with grok mcp add.",
+            "zh": "轻量 .grok-plugin 封装：让 Grok Build 连上 ULTRAXAS 公开的托管 MCP，提供带引用的实时网页搜索和 Xro 对话，可从 xAI 插件市场安装，也可用 grok mcp add 手动添加。",
+            "ja": "軽量な .grok-plugin ラッパー。Grok Build を ULTRAXAS の公開ホスト型 MCP につなぎ、引用付きのライブ Web 検索と Xro チャットを提供。xAI プラグインマーケットか grok mcp add で導入できる。"
+          }
+        },
+        {
+          "title": "maven-mcp — Maven dependency intelligence plugin (Grok Build / Cursor / Claude Code)",
+          "url": "https://github.com/kirich1409/maven-mcp",
+          "source": "GB-2081",
+          "blurb": {
+            "en": "MIT plugin bundling a zero-dependency Python MCP server that registers via .mcp.json for Grok Build and mcp.json for Cursor, letting the agent look up Maven artifact versions, scan Gradle and Maven projects for outdated or vulnerable dependencies, and fetch changelogs.",
+            "zh": "MIT 开源插件，内置零依赖的 Python MCP 服务器，通过 .mcp.json 接入 Grok Build、mcp.json 接入 Cursor，让智能体查询 Maven 构件版本、扫描 Gradle/Maven 项目里过时或有漏洞的依赖，并拉取更新日志。",
+            "ja": "MIT ライセンスのプラグイン。依存ゼロの Python MCP サーバーを同梱し、Grok Build には .mcp.json、Cursor には mcp.json で登録。Maven アーティファクトのバージョン照会、Gradle/Maven プロジェクトの古い・脆弱な依存のスキャン、変更履歴の取得ができる。"
+          }
+        },
+        {
+          "title": "agent-notify — let Grok Bot email you when something needs attention",
+          "url": "https://github.com/CyrisXD/agent-notify",
+          "source": "GB-2082",
+          "blurb": {
+            "en": "MIT one-click Cloudflare Worker on your own free account that exposes a secret MCP URL you add to Grok Bot as a custom connector, plus a skill, so the Bot can email only you about new leads, failed jobs, or finished reports.",
+            "zh": "MIT 开源的一键部署 Cloudflare Worker，跑在你自己的免费账号上，生成一个私密 MCP 地址，在 Grok Bot 里添加为自定义连接器并配合技能后，Bot 就能在有新线索、任务失败或报告完成时只给你本人发邮件。",
+            "ja": "MIT ライセンスのワンクリック Cloudflare Worker。自分の無料アカウント上で動き、秘密の MCP URL を Grok Bot のカスタムコネクタとして追加し、スキルと組み合わせると、新規リードや失敗したジョブ、完成したレポートを本人だけにメール通知できる。"
+          }
         }
       ]
     },
@@ -17664,6 +17704,26 @@
             "zh": "安全类故障报告：聊天内安全表单把 GitHub 账号密码填进 Bot 电脑的浏览器后，浏览器子代理拍的无障碍快照里密码明文可见，进入了工具输出和会话记录。",
             "ja": "セキュリティ不具合報告：チャット内の Secure Form で Bot の PC のブラウザに GitHub ログインを入力した後、ブラウザサブエージェントのアクセシビリティスナップショットにパスワードが平文で表示され、ツール出力と記録に残った。"
           }
+        },
+        {
+          "title": "Forum: Grok Bot computer auto-recreated from an incomplete copy, recent data missing",
+          "url": "https://forum.cursor.com/t/grok-bot-was-reprovisioned-to-a-new-context-but-recent-data-from-the-previous-computer-was-not-carried-over/173771",
+          "source": "GB-2084",
+          "blurb": {
+            "en": "Bug report: a persistent computer running since Sep 17 was recreated on Oct 5 without Update, Recover or Reset, the old and new contexts ran side by side, and the new one lacked recent files; staff confirmed an unfinished automatic recreate and advised not to press Update, Recover or Reset and to back up from the old endpoint while reachable.",
+            "zh": "故障报告：从 9 月 17 日一直运行的常驻电脑在 10 月 5 日未经更新、恢复或重置就被重建，新旧两个环境并行了一段时间，新环境缺了最近的文件；官方确认是一次没跑完的自动重建，建议别点更新、恢复或重置，并趁旧端点还能连上先备份数据。",
+            "ja": "不具合報告：9 月 17 日から稼働していた常駐 PC が、更新・復旧・リセットなしで 10 月 5 日に再作成され、新旧の環境がしばらく並行し、新しい方に最近のファイルがなかった。スタッフは未完了の自動再作成と認め、更新・復旧・リセットを押さず、旧エンドポイントに届くうちにバックアップするよう案内。"
+          }
+        },
+        {
+          "title": "Forum request: show a connection status indicator in Grok Bot",
+          "url": "https://forum.cursor.com/t/add-a-connection-status-indicator-to-grok-bot/173758",
+          "source": "GB-2085",
+          "blurb": {
+            "en": "Feature request from a Windows and iPhone user whose Bots keep dropping connection, showing the remote computer as unreachable and leaving device status out of sync, asking for a clear connection status indicator in the UI.",
+            "zh": "功能请求：一位 Windows 和 iPhone 用户的 Bot 频繁掉线、远程电脑显示不可达、多设备状态不同步，希望界面里加一个清楚的连接状态指示。",
+            "ja": "機能リクエスト：Windows と iPhone で Bot の接続が頻繁に切れ、リモート PC が到達不能と表示され、端末間の状態も同期しないため、UI に分かりやすい接続状態インジケーターを求める投稿。"
+          }
         }
       ]
     },
@@ -20623,6 +20683,16 @@
             "en": "Third-party tracker logging Grok Bot desktop dogfood pre-releases for macOS and Windows several times a day, with short per-build change notes (e.g. 0.68.0-pre builds on Oct 4).",
             "zh": "第三方追踪页：每天多次记录 Grok Bot 桌面版 macOS/Windows 内测预发布，并附逐版本简短变更说明（如 10 月 4 日的 0.68.0-pre 系列）。",
             "ja": "Grok Bot デスクトップの macOS/Windows ドッグフード版プレリリースを1日数回記録するサードパーティのトラッカー。ビルドごとの短い変更メモ付き（例：10/4 の 0.68.0-pre）。"
+          }
+        },
+        {
+          "title": "Agent Brief — Korean news curation for Grok Bot, Dots and Muse",
+          "url": "https://github.com/nalm/agent-brief",
+          "source": "GB-2083",
+          "blurb": {
+            "en": "Dependency-free Node MVP that collects, classifies, dedupes and translates news about Grok Bot, OpenAI Dots and Meta Muse into a Korean-only public digest, with sample fallback and a Cloudflare quick-tunnel recipe for publishing it.",
+            "zh": "无依赖的 Node MVP：抓取、分类、去重并翻译 Grok Bot、OpenAI Dots 和 Meta Muse 的新闻，做成纯韩语公开简报，带失败时的样例回退，并附 Cloudflare 快速隧道公开发布的做法。",
+            "ja": "依存なしの Node MVP。Grok Bot、OpenAI Dots、Meta Muse のニュースを収集・分類・重複排除・翻訳して韓国語のみの公開ダイジェストにまとめ、失敗時のサンプルフォールバックと Cloudflare クイックトンネルでの公開手順付き。"
           }
         }
       ]
