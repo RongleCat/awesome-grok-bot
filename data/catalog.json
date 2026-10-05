@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -1174,6 +1174,96 @@
             "zh": "SpaceXAI 官方 Team Bots 文档：团队共用一台 Bot、团队记忆、所有者管理插件/密钥/技能、每人私聊隔离、Slack 应用接入，以及各会话使用哪台云电脑。",
             "ja": "Team Bots の公式ドキュメント。チーム共有 Bot、チームメモリ、オーナー管理のプラグイン/シークレット/スキル、個人チャットの隔離、Slack アプリ、会話ごとに使うクラウド PC を説明。"
           }
+        },
+        {
+          "title": "Grok Bot Changelog (x.ai)",
+          "url": "https://x.ai/changelog/bot",
+          "source": "GB-2051",
+          "blurb": {
+            "en": "Official per-release Grok Bot changelog with RSS: v0.66.0 (Oct 2) adds a starred Main Bot that checks in and coordinates your other Bots, plus Team Bot voice chat, managers, and automatic updates in v0.64–0.65.",
+            "zh": "官方 Grok Bot 逐版本更新日志（带 RSS）：v0.66.0（10 月 2 日）新增星标 Main Bot 主动签到并协调其他 Bot，v0.64–0.65 带来 Team Bot 语音、管理员与自动更新。",
+            "ja": "公式の Grok Bot リリースごとの変更履歴（RSS 付き）。v0.66.0（10/2）で星付き Main Bot が他の Bot を調整、v0.64–0.65 で Team Bot 音声・マネージャー・自動更新。"
+          }
+        },
+        {
+          "title": "Grok Bot for Work (official guide)",
+          "url": "https://x.ai/bot/guides/grok-bot-for-work",
+          "source": "GB-2052",
+          "blurb": {
+            "en": "Official guide (2026-09-24): four bots that changed one employee's output — Inbox Manager, Calendar EA, Intel Scout, and Bot Boss as the single front door.",
+            "zh": "官方指南（2026-09-24）：改变一位员工产出的四个 Bot——收件箱管家、日程助理、情报侦察兵，以及作为唯一入口的 Bot Boss。",
+            "ja": "公式ガイド（2026-09-24）：Inbox Manager・Calendar EA・Intel Scout と、窓口役の Bot Boss という仕事を変えた4つの Bot。"
+          }
+        },
+        {
+          "title": "Grok Bot for Marketing (official guide)",
+          "url": "https://x.ai/bot/guides/grok-bot-for-marketing",
+          "source": "GB-2053",
+          "blurb": {
+            "en": "Official guide (2026-09-24): six marketing bots that research competitors, draft positioning in Google Docs, build Google Ads shells, and open PRs on the marketing site.",
+            "zh": "官方指南（2026-09-24）：六个营销 Bot 负责竞品调研、在 Google Docs 起草定位、搭建 Google Ads 广告框架，并给营销站提 PR。",
+            "ja": "公式ガイド（2026-09-24）：競合調査、Google Docs でのポジショニング草案、Google Ads の雛形作成、マーケサイトへの PR までこなす6つのマーケ Bot。"
+          }
+        },
+        {
+          "title": "Grok Bot for Post-Sales (official guide)",
+          "url": "https://x.ai/bot/guides/grok-bot-for-post-sales",
+          "source": "GB-2054",
+          "blurb": {
+            "en": "Official guide (2026-09-24): running post-sales through one chief-of-staff bot that manages account specialists and routines that prep calls and keep customer promises from slipping.",
+            "zh": "官方指南（2026-09-24）：售后由一个“幕僚长”Bot 统管客户专员 Bot 与例程，提前备好通话材料，避免对客户的承诺遗漏。",
+            "ja": "公式ガイド（2026-09-24）：チーフ・オブ・スタッフ Bot 1体がアカウント担当 Bot とルーチンを束ね、通話準備と顧客との約束漏れ防止を担うポストセールス運用。"
+          }
+        },
+        {
+          "title": "Grok Bot for Recruiting (official guide)",
+          "url": "https://x.ai/bot/guides/grok-bot-for-recruiting",
+          "source": "GB-2055",
+          "blurb": {
+            "en": "Official guide (2026-09-24): how SpaceXAI's recruiting team uses Grok Bot for interview prep, scorecards, sourcing, and loop analysis across the ATS, including voice-mode requests on the go.",
+            "zh": "官方指南（2026-09-24）：SpaceXAI 招聘团队如何用 Grok Bot 做面试准备、评分卡、寻访与 ATS 全流程面试分析，路上也能用语音下指令。",
+            "ja": "公式ガイド（2026-09-24）：SpaceXAI 採用チームが Grok Bot で面接準備、スコアカード、ソーシング、ATS 横断の選考分析を行う方法（移動中の音声依頼も）。"
+          }
+        },
+        {
+          "title": "Grok Bot for SDRs (official guide)",
+          "url": "https://x.ai/bot/guides/grok-bot-for-sdrs",
+          "source": "GB-2056",
+          "blurb": {
+            "en": "Official guide (2026-09-24): an SDR's outbound loop across Cursor and Grok Bot — research packets, CLEAR vs FLAG intake, and bots that stage Nooks and LinkedIn work the human still sends.",
+            "zh": "官方指南（2026-09-24）：SDR 在 Cursor 与 Grok Bot 间跑外呼流程——调研包、CLEAR/FLAG 分流，以及由 Bot 在 Nooks 与 LinkedIn 备好、由人最终发送的工作。",
+            "ja": "公式ガイド（2026-09-24）：Cursor と Grok Bot をまたぐ SDR のアウトバウンド。リサーチパケット、CLEAR/FLAG 振り分け、人が最終送信する Nooks・LinkedIn 作業を Bot が準備。"
+          }
+        },
+        {
+          "title": "Grok Bot for Legal Ops (official guide)",
+          "url": "https://x.ai/bot/guides/grok-bot-for-legal-ops",
+          "source": "GB-2057",
+          "blurb": {
+            "en": "Official guide (2026-09-24): Legal Ops uses Grok Bot for counsel 1:1 prep and writeback, Slack triage, Legal Review trackers, contract workflows, and draft-then-human-send review.",
+            "zh": "官方指南（2026-09-24）：法务运营用 Grok Bot 准备律师 1:1 并回写、做 Slack 分诊、维护法务评审追踪表与合同流程，所有外发均先起草再由人发送。",
+            "ja": "公式ガイド（2026-09-24）：Legal Ops が Grok Bot で弁護士 1:1 準備と書き戻し、Slack トリアージ、Legal Review トラッカー、契約ワークフロー、下書き→人が送信のレビューを運用。"
+          }
+        },
+        {
+          "title": "Cursor Admin API — Grok Bot endpoints",
+          "url": "https://cursor.com/docs/account/teams/admin-api#grok-bot",
+          "source": "GB-2058",
+          "blurb": {
+            "en": "Cursor docs for the team Admin API's Grok Bot routes: enable or disable Grok Bot, read capabilities, and manage Enforce Auto-Review, group access, network policy, team rules, and setup scripts.",
+            "zh": "Cursor 团队 Admin API 的 Grok Bot 接口文档：启用/停用 Grok Bot、读取能力，并管理强制 Auto-Review、组访问、网络策略、团队规则与初始化脚本。",
+            "ja": "Cursor チーム Admin API の Grok Bot エンドポイント。Grok Bot の有効化/無効化、機能取得、Auto-Review 強制、グループアクセス、ネットワークポリシー、チームルール、セットアップスクリプトを管理。"
+          }
+        },
+        {
+          "title": "Cursor Organization API — Grok Bot computers",
+          "url": "https://cursor.com/docs/account/organizations/organization-admin-api#grok-bot-computers",
+          "source": "GB-2059",
+          "blurb": {
+            "en": "Enterprise-only Organization API routes (admin:* key) to recreate, terminate, or delete members' hosted Grok Bot computers in batches and poll each operation's per-member results.",
+            "zh": "仅限 Enterprise 的组织 API（需 admin:* 密钥）：批量重建、终止或删除成员托管的 Grok Bot 电脑，并轮询每个操作的逐成员结果。",
+            "ja": "Enterprise 限定の Organization API（admin:* キー）。メンバーのホスト型 Grok Bot コンピューターを一括で再作成・停止・削除し、操作ごとのメンバー別結果をポーリング。"
+          }
         }
       ]
     },
@@ -2093,6 +2183,26 @@
             "en": "Independent Learn Cursor guide: confirm plan/privacy, install the app, create a narrow-job Bot, and craft a read-only first task with a clear review point.",
             "zh": "独立 Learn Cursor 指南：确认套餐与隐私设置、安装应用、创建窄职责 Bot，并设计带审阅点的只读首任务。",
             "ja": "独立系 Learn Cursor ガイド。プラン／プライバシー確認、アプリ導入、狭い職務の Bot 作成、レビュー点付きの読み取り専用初タスク。"
+          }
+        },
+        {
+          "title": "The Agent Roster Playbook — 11 steps from the Grok Bot team's workflow",
+          "url": "https://github.com/DevvGwardo/agent-roster-playbook",
+          "source": "GB-2060",
+          "blurb": {
+            "en": "Condensed, credited reference of an article on how SpaceXAI and Cursor teams run narrow Grok Bot rosters: editable profiles, three-layer memory, watcher lanes, skill chaining, and bot-to-bot handoffs.",
+            "zh": "对一篇文章的精简整理（注明出处）：SpaceXAI 与 Cursor 团队如何运营窄职责 Grok Bot 阵容——可编辑档案、三层记忆、监视通道、技能串联与 Bot 间交接。",
+            "ja": "SpaceXAI と Cursor チームが狭い役割の Grok Bot 群をどう回すかを、出典付きで要約したリファレンス。編集可能なプロフィール、3層メモリ、監視レーン、スキル連鎖、Bot 間引き継ぎ。"
+          }
+        },
+        {
+          "title": "grokbot.guru — practical Grok Bot how-tos, templates, and news",
+          "url": "https://grokbot.guru/",
+          "source": "GB-2061",
+          "blurb": {
+            "en": "Independent Grok Bot site with beginner and advanced how-tos, copyable bot templates (sales, marketing, personal), a toolkit shelf, and a news and trending desk.",
+            "zh": "独立的 Grok Bot 实用站点：入门与进阶教程、可复制的 Bot 模板（销售/营销/个人）、工具箱汇总，以及新闻与热点栏目。",
+            "ja": "独立系の Grok Bot 実用サイト。初級・上級のハウツー、コピーできる Bot テンプレート（営業・マーケ・個人）、ツールキット一覧、ニュース/トレンド欄。"
           }
         }
       ]
@@ -4173,6 +4283,16 @@
             "en": "Kid-friendly Galway hurling knowledge site (MIT D4M-style associative arrays) built as a Grok Bot project handoff.",
             "zh": "面向儿童的戈尔韦 hurling 知识站（MIT D4M 风格关联数组），作为 Grok Bot 项目交接仓库维护。",
             "ja": "子供向けゴールウェイ hurling 知識サイト（MIT D4M 風連想配列）。Grok Bot プロジェクトのハンドオフ用リポ。"
+          }
+        },
+        {
+          "title": "Visa Bulletin Push — visa priority-date alerts to a Grok Bot routine",
+          "url": "https://github.com/jt-wang/visa-bulletin-push",
+          "source": "GB-2068",
+          "blurb": {
+            "en": "Free US Visa Bulletin alerts for China and India EB-1/2/3 that push to a webhook-triggered Grok Bot routine (or ChatGPT and other agents) with one-sentence setup and an immediate test alert.",
+            "zh": "免费美国签证排期推送（中国/印度 EB-1/2/3）：推送到 webhook 触发的 Grok Bot 例程（也支持 ChatGPT 等），一句话完成设置并立即发送测试提醒。",
+            "ja": "中国・インドの EB-1/2/3 向け無料の米国ビザ・ブリテン通知。Webhook トリガーの Grok Bot ルーチン（ChatGPT なども可）へ配信し、一文で設定、すぐテスト通知。"
           }
         }
       ]
@@ -10644,6 +10764,46 @@
             "zh": "可移植的智能体技能包（构思与有界交付），主机兼容说明覆盖 Codex、Claude Code、Cursor、Antigravity、Grok Bot 与 Grok CLI。",
             "ja": "アイデア整形と有界ビルド向けの移植可能スキル。Codex / Claude Code / Cursor / Antigravity / Grok Bot / Grok CLI のホスト注記付き。"
           }
+        },
+        {
+          "title": "crosswalk — shared inbox, notes, and crosswalks MCP",
+          "url": "https://github.com/jekajeka2/crosswalk-plugin",
+          "source": "GB-2062",
+          "blurb": {
+            "en": "Remote MCP plugin with an AI-readable inbox, notes and calendar, and shared crosswalk spaces; README gives a Grok Bot install path so Grok Bot, Claude, Codex, and Cursor agents can read and write the same space.",
+            "zh": "远程 MCP 插件：AI 可读的收件箱、笔记与日历，以及共享的 crosswalk 空间；README 提供 Grok Bot 安装方式，让 Grok Bot、Claude、Codex、Cursor 读写同一空间。",
+            "ja": "AI が読めるインボックス、ノートとカレンダー、共有 crosswalk スペースを提供するリモート MCP。README に Grok Bot の導入手順があり、Grok Bot・Claude・Codex・Cursor が同じ場を読み書き。"
+          }
+        },
+        {
+          "title": "inboxmcp — read-only IMAP email for your agent",
+          "url": "https://github.com/zhlei07/inboxmcp",
+          "source": "GB-2063",
+          "blurb": {
+            "en": "Hosted read-only IMAP MCP (Gmail, iCloud, QQ, 163, Feishu and more) whose Grok Bot integration delivers each new email to a webhook-triggered Grok routine, with a short setup video.",
+            "zh": "托管的只读 IMAP MCP（支持 Gmail、iCloud、QQ、163、飞书等）；Grok Bot 集成通过 webhook 触发的 Grok 例程逐封推送新邮件，并附简短设置视频。",
+            "ja": "ホスト型の読み取り専用 IMAP MCP（Gmail・iCloud・QQ・163・Feishu など）。Grok Bot 連携では Webhook トリガーの Grok ルーチンへ新着メールを1通ずつ配信、設定動画付き。"
+          }
+        },
+        {
+          "title": "pdnexa PDF — Cursor and Grok Bot plugin",
+          "url": "https://github.com/ShanthanPulugujja/pdnexa-mcp",
+          "source": "GB-2064",
+          "blurb": {
+            "en": "Free Cursor and Grok Bot plugin for the pdnexa PDF MCP server: merge, split, extract, rotate, and compress PDFs, with quota and job-status tools and short-lived download links.",
+            "zh": "pdnexa PDF MCP 的免费 Cursor / Grok Bot 插件：合并、拆分、抽页、旋转与压缩 PDF，带配额与任务状态工具，下载链接短时有效。",
+            "ja": "pdnexa PDF MCP 用の無料 Cursor / Grok Bot プラグイン。PDF の結合・分割・抽出・回転・圧縮、クォータとジョブ状態ツール、短時間有効のダウンロードリンク。"
+          }
+        },
+        {
+          "title": "Things Bridge for Grok — Things 3 skill and macOS helper",
+          "url": "https://github.com/mcassano/things-bridge-grok",
+          "source": "GB-2065",
+          "blurb": {
+            "en": "Grok Bot skill plus a local macOS helper to triage, search, and update Things 3, where every change needs a preview, chat approval, and a native confirmation click.",
+            "zh": "Grok Bot 技能加本地 macOS 助手，可分诊、搜索并更新 Things 3；每次修改都需预览、聊天内批准并在原生确认框中点击。",
+            "ja": "Things 3 のトリアージ・検索・更新を行う Grok Bot スキルとローカル macOS ヘルパー。変更はプレビュー、チャット承認、ネイティブ確認ダイアログのクリックが必須。"
+          }
         }
       ]
     },
@@ -10833,6 +10993,26 @@
             "en": "Review of a live Grok Bot stream: Luma guest ops, Vercel dashboard handoff, teach-by-demo skills, and early Ultra pricing notes for business automation.",
             "zh": "评测一篇 Grok Bot 直播实录：Luma 嘉宾运营、Vercel 看板交接、示教技能，以及面向业务自动化的早期 Ultra 定价观察。",
             "ja": "Grok Bot ライブ実況レビュー。Luma 運営、Vercel ダッシュボード委任、デモ教示スキル、業務自動化向け Ultra 価格の初期メモ。"
+          }
+        },
+        {
+          "title": "Build Fast with AI: Grok Bot Review — AI Teammates, Pricing & Is It Worth It?",
+          "url": "https://blog.buildfastwithai.com/grok-bot-review-ai-teammates-pricing-is-it-worth-it-2026",
+          "source": "GB-2069",
+          "blurb": {
+            "en": "Independent review covering how named Bots on persistent cloud computers work, plan eligibility and pricing, the Sep 3 enterprise release, and when the product is worth adopting.",
+            "zh": "独立评测：讲解常驻云电脑上的具名 Bot 如何工作、可用套餐与定价、9 月 3 日企业版发布，以及何时值得采用。",
+            "ja": "独立レビュー。常駐クラウド PC 上の名前付き Bot の仕組み、対象プランと価格、9/3 のエンタープライズ版、導入する価値がある場面を解説。"
+          }
+        },
+        {
+          "title": "grokbot.guru: Grok Bot's new Primary Bot offers to do work before you ask",
+          "url": "https://grokbot.guru/primary-bot-proactive-suggestions/",
+          "source": "GB-2070",
+          "blurb": {
+            "en": "News write-up (Oct 2) on the Primary Bot rollout: one Bot spots work it can take off your plate, suggestions don't count against usage, and docs had not yet caught up.",
+            "zh": "新闻报道（10 月 2 日）：Primary Bot 上线——一个 Bot 主动发现可代劳的工作，建议本身不计用量，当时文档尚未跟进。",
+            "ja": "ニュース記事（10/2）：Primary Bot の展開。1体の Bot が引き受けられる仕事を見つけて提案し、提案自体は使用量に含まれず、ドキュメントは未対応だった。"
           }
         }
       ]
@@ -14664,6 +14844,26 @@
             "zh": "OpenMausBot 友好分支：在 Mac 上协调可配置 bot 引擎（Claude/Codex/Grok CLI），并带 iPhone 伴侣应用。",
             "ja": "OpenMausBot の友好フォーク。Mac 上で Claude/Codex/Grok CLI などのエンジンを協調し、iPhone コンパニオン付き。"
           }
+        },
+        {
+          "title": "Grok Codex Gateway — let Grok Bot run Codex locally",
+          "url": "https://github.com/GMusliaj/grok-codex-gateway",
+          "source": "GB-2066",
+          "blurb": {
+            "en": "Loopback MCP gateway on your Mac that lets a Grok Bot conversation find eligible projects, start read-only or editing Codex CLI jobs, and bring results and follow-ups back to the Bot.",
+            "zh": "运行在 Mac 本地回环的 MCP 网关：让 Grok Bot 对话发现符合条件的项目、启动只读或可编辑的 Codex CLI 任务，并把结果与追问带回 Bot。",
+            "ja": "Mac 上のループバック MCP ゲートウェイ。Grok Bot の会話から対象プロジェクトを見つけ、読み取り専用/編集可の Codex CLI ジョブを起動し、結果と追質問を Bot に戻す。"
+          }
+        },
+        {
+          "title": "grok-bot-usage — local Grok Bot usage dashboard",
+          "url": "https://github.com/Amine-cnslt/grok-bot-usage",
+          "source": "GB-2067",
+          "blurb": {
+            "en": "Small Python server you run on your own computer that signs in with Cursor and shows your bots' Grok Bot token usage on a localhost-only dashboard.",
+            "zh": "在自己电脑上运行的小型 Python 服务：用 Cursor 登录后，在仅限本机访问的面板上显示各 Bot 的 Grok Bot token 用量。",
+            "ja": "自分の PC で動かす小さな Python サーバー。Cursor でサインインし、各 Bot の Grok Bot トークン使用量を localhost 限定のダッシュボードに表示。"
+          }
         }
       ]
     },
@@ -17403,6 +17603,36 @@
             "en": "Cursor forum event post for the 5 Nov 2026 Grok Hackathon at Ctrl+Alt Museum in Pavia (Luma spacexai-z1ys).",
             "zh": "论坛活动帖：2026-11-05 意大利帕维亚 Ctrl+Alt 博物馆 Grok Hackathon（Luma spacexai-z1ys）。",
             "ja": "フォーラム告知。2026-11-05 パヴィア Ctrl+Alt Museum の Grok Hackathon（Luma spacexai-z1ys）。"
+          }
+        },
+        {
+          "title": "Forum: desktop take-over stuck on \"connecting\" and Screenshot blocked under high load on a shared box",
+          "url": "https://forum.cursor.com/t/desktop-take-over-stuck-on-connecting-screenshot-blocked-by-credential-fill-guard-during-high-cpu-load-on-a-shared-box/173731",
+          "source": "GB-2071",
+          "blurb": {
+            "en": "Bug report with logs: on a box shared by several agents, idle Chrome renderers drove load to 70–80, one agent's take-over hung, Screenshot failed the credential-fill guard, and box-doctor timed out.",
+            "zh": "带日志的 Bug 报告：多个 agent 共用的电脑上，闲置 Chrome 渲染进程把负载推到 70–80，一个 agent 的接管卡在 connecting、截图被凭据填充防护拦下，box-doctor 超时。",
+            "ja": "ログ付きバグ報告。複数エージェント共有のマシンでアイドルの Chrome レンダラーが負荷 70–80 に、1体のテイクオーバーが停止、Screenshot が資格情報ガードで失敗、box-doctor もタイムアウト。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot group chats should return generated PDFs and images as native attachments",
+          "url": "https://forum.cursor.com/t/grok-bot-group-chats-return-generated-pdf-and-image-files-as-native-attachments/173730",
+          "source": "GB-2072",
+          "blurb": {
+            "en": "Feature request from a macOS group-chat setup (a Meal Concierge bot) asking for a supported way to deliver generated PDF and image files as downloadable attachments instead of file paths.",
+            "zh": "功能请求：在 macOS 群聊（Meal Concierge Bot）中，希望有官方支持的方式把生成的 PDF 与图片作为可下载附件返回，而不是只给文件路径。",
+            "ja": "機能要望：macOS のグループチャット（Meal Concierge Bot）で、生成した PDF や画像をファイルパスではなくダウンロード可能な添付として返す公式手段がほしい。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot 0.66.0 macOS local-exec daemon gets SIGTERM on a locked Mac and never returns",
+          "url": "https://forum.cursor.com/t/grok-bot-0-66-0-macos-local-exec-daemon-gets-sigterm-on-an-unattended-locked-mac-and-is-not-restored-when-the-bot-needs-the-machine/173728",
+          "source": "GB-2073",
+          "blurb": {
+            "en": "On an always-on but locked, unattended Mac, the local-exec daemon logs a clean SIGTERM and is not restarted, so chat works but every task needing the Mac fails until a full relaunch.",
+            "zh": "在常开但锁屏无人值守的 Mac 上，local-exec 守护进程收到 SIGTERM 正常退出后不再重启；聊天正常，但需要本机的任务全部失败，直到完全重启应用。",
+            "ja": "常時稼働だがロック中で無人の Mac で、local-exec デーモンが SIGTERM で終了し再起動されない。チャットは動くが Mac を使う作業はアプリを完全再起動するまで失敗。"
           }
         }
       ]
@@ -20343,6 +20573,26 @@
             "en": "macOS/iPhone multi-agent messenger with shared computers/browsers; README compares Noodle directly to Grok Bot and Muse.",
             "zh": "macOS/iPhone 多智能体信使（共享电脑/浏览器）；README 直接对比 Noodle 与 Grok Bot、Muse。",
             "ja": "macOS/iPhone のマルチエージェントメッセンジャー。README で Grok Bot / Muse と直接比較。"
+          }
+        },
+        {
+          "title": "OpenGrokBot — Windows always-on AI teammates (independent)",
+          "url": "https://github.com/Crepald-01/OpenGrokBot",
+          "source": "GB-2074",
+          "blurb": {
+            "en": "Independent MIT-licensed Windows app inspired by always-on teammates: named Bots share one persistent Chromium-and-terminal computer, run routines in the background, and use Anthropic or OpenAI-compatible models.",
+            "zh": "受常驻 AI 队友理念启发的独立 Windows 应用（MIT）：具名 Bot 共用一台带 Chromium 与终端的持久电脑，后台运行例程，可接 Anthropic 或 OpenAI 兼容模型。",
+            "ja": "常駐 AI チームメイトの発想に着想を得た独立系 Windows アプリ（MIT）。名前付き Bot が Chromium と端末を備えた1台の永続 PC を共有し、ルーチンをバックグラウンド実行、Anthropic / OpenAI 互換モデル対応。"
+          }
+        },
+        {
+          "title": "Tech Dev Notes — Grok Bot Desktop Extra release tracker",
+          "url": "https://techdevnotes.com/releases/grok-bot-desktop-extra",
+          "source": "GB-2075",
+          "blurb": {
+            "en": "Third-party tracker logging Grok Bot desktop dogfood pre-releases for macOS and Windows several times a day, with short per-build change notes (e.g. 0.68.0-pre builds on Oct 4).",
+            "zh": "第三方追踪页：每天多次记录 Grok Bot 桌面版 macOS/Windows 内测预发布，并附逐版本简短变更说明（如 10 月 4 日的 0.68.0-pre 系列）。",
+            "ja": "Grok Bot デスクトップの macOS/Windows ドッグフード版プレリリースを1日数回記録するサードパーティのトラッカー。ビルドごとの短い変更メモ付き（例：10/4 の 0.68.0-pre）。"
           }
         }
       ]

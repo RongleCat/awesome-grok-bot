@@ -33,9 +33,6 @@
 <a id="bos-20261009"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zk6r"><img src="./assets/events/bos-20261009-cover.png" alt="Grok Bot Boston Hackathon" width="300" /></a></td><td valign="top"><strong>Grok Bot Boston Hackathon</strong><br />2026-10-09（金）09:00–15:00（America/New_York）<br />ボストン／ケンブリッジ · CambridgeSide — オフラインハッカソン<br /><br />ケンブリッジサイドの Grok Bot Boston Hackathon。対面で Grok Bot チームメイトとビルド。SpaceXAI Community 掲載。<br /><br /><a href="https://luma.com/spacexai-zk6r"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="aus-20261004"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/GrokBotClass"><img src="./assets/events/aus-20261004-cover.png" alt="Grok Bot マスタークラス：ミニ会社を Grok Bot で作る" width="300" /></a></td><td valign="top"><strong>Grok Bot マスタークラス：ミニ会社を Grok Bot で作る</strong><br />2026-10-04（日）13:00–16:00（America/Chicago）<br />オースティン · Antler VC, 800 Brazos St #340, Austin, TX 78701, USA — オフライン<br /><br />オースティン AI Implementation Club のマスタークラス。Antler VC で Grok Bot を使いミニ会社を構築。Luma で登録。<br /><br /><a href="https://luma.com/GrokBotClass"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
 <a id="phl-20261027"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-c2mq"><img src="./assets/events/phl-20261027-cover.jpg" alt="Cursor Meetup フィラデルフィア — 10月" width="300" /></a></td><td valign="top"><strong>Cursor Meetup フィラデルフィア — 10月</strong><br />2026-10-27（火）18:00–20:30（America/New_York）<br />フィラデルフィア · SpaceXAI Philadelphia — オフライン<br /><br />SpaceXAI Community のフィラデルフィア 10 月 Cursor/Grok ミートアップ（9/29 に続く回）。Luma で登録。<br /><br /><a href="https://luma.com/cursor-c2mq"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
@@ -216,12 +213,6 @@
 <a id="gua-20261205"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-97mt"><img src="./assets/events/gua-20261205-cover.png" alt="Grok Bot Meetup グアテマラ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup グアテマラ</strong><br />2026-12-05（土）15:00–20:00（America/Guatemala）<br />グアテマラ · 会場 TBD（Luma / 主催更新を参照）— オフライン<br /><br />SpaceXAI グアテマラのオフライン Grok Bot ミートアップ（フォーラム+Luma）。会場は Luma で確認。<br /><br /><a href="https://luma.com/spacexai-97mt"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="country-ie"></a>
-### アイルランド
-
-<a id="dub-20261004"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-dublin"><img src="./assets/events/dub-20261004-cover.png" alt="Grok Bot Dublin Builder Day" width="300" /></a></td><td valign="top"><strong>Grok Bot Dublin Builder Day</strong><br />2026-10-04（日）11:00–17:30（Europe/Dublin、IST）<br />アイルランド・ダブリン · Baseline（61 Thomas St、Dublin AI Week × Bronto）<br /><br />ダブリン終日 Grok Bot ビルドデイ（SpaceXAI for Dublin、Dublin AI Week の一環、Bronto 提携）。ライブデモ、ボット／ワークフロー構築、昼食、ライトニングデモ。事前に x.ai/bot を導入。主催 Sanat Thukral & Manoj。無料・承認制・約 96 席・ウェイトリストあり。<br /><br /><a href="https://luma.com/grokbot-dublin"><strong>申し込む →</strong></a></td></tr></table>
-
 <a id="country-il"></a>
 ### イスラエル
 
@@ -245,12 +236,6 @@
 
 <a id="srp-20261101"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-yvwt"><img src="./assets/events/srp-20261101-cover.png" alt="Grok Bot Meetup シェムリアップ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup シェムリアップ</strong><br />2026-11-01（日）14:00–18:00（Asia/Bangkok、ICT、UTC+7）<br />カンボジア・シェムリアップ The Creative House（Street Wat Po）· オフライン<br /><br />シェムリアップ初の Grok Bot ミートアップ（SpaceXAI プノンペン暦、主催 Taka Kiyone / Luis Romero ほか、フォーラム 173298 / Luma spacexai-yvwt）。交流・デモ。ウェイトリストあり。夕方スキャン時 guest_count 0。<br /><br /><a href="https://luma.com/spacexai-yvwt"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="country-kz"></a>
-### カザフスタン
-
-<a id="ala-20261004"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/vod1qyrk"><img src="./assets/events/ala-20261004-cover.png" alt="Grok Bot Meetup アルマトイ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup アルマトイ</strong><br />2026-10-04（日） 14:00–17:00（Asia/Almaty、UTC+5）<br />カザフスタン・アルマトイ（オフライン；Luma は都市レベル、RSVP 後に会場案内）<br /><br />アルマトイ初の Grok Bot オフラインミートアップ（中央アジア＆コーカサス連続）。体験・デモ・交流。Luma 無料RSVP（slug vod1qyrk）。2026-09-18 にページ確認済み。<br /><br /><a href="https://luma.com/vod1qyrk"><strong>Luma で RSVP →</strong></a></td></tr></table>
 
 <a id="country-lk"></a>
 ### スリランカ

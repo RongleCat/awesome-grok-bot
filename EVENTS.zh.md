@@ -33,9 +33,6 @@
 <a id="bos-20261009"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zk6r"><img src="./assets/events/bos-20261009-cover.png" alt="Grok Bot 波士顿黑客松" width="300" /></a></td><td valign="top"><strong>Grok Bot 波士顿黑客松</strong><br />2026-10-09 周五 09:00–15:00（America/New_York）<br />波士顿／剑桥 · CambridgeSide — 线下黑客松<br /><br />波士顿 Grok Bot 黑客松（CambridgeSide）：线下用 Grok Bot 队友一起做。SpaceXAI Community 挂牌。<br /><br /><a href="https://luma.com/spacexai-zk6r"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="aus-20261004"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/GrokBotClass"><img src="./assets/events/aus-20261004-cover.png" alt="Grok Bot 大师课：用 Grok Bot 搭迷你公司" width="300" /></a></td><td valign="top"><strong>Grok Bot 大师课：用 Grok Bot 搭迷你公司</strong><br />2026-10-04 周日 13:00–16:00（America/Chicago）<br />奥斯汀 · Antler VC, 800 Brazos St #340, Austin, TX 78701, USA — 线下<br /><br />奥斯汀 AI Implementation Club 大师课：在 Antler VC 用 Grok Bot 搭迷你公司。Luma 报名。<br /><br /><a href="https://luma.com/GrokBotClass"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
 <a id="phl-20261027"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-c2mq"><img src="./assets/events/phl-20261027-cover.jpg" alt="Cursor Meetup 费城 — 十月场" width="300" /></a></td><td valign="top"><strong>Cursor Meetup 费城 — 十月场</strong><br />2026-10-27 周二 18:00–20:30（America/New_York）<br />费城 · SpaceXAI Philadelphia — 线下<br /><br />SpaceXAI Community 费城十月 Cursor/Grok 局（接 9/29 Grok Bot Meetup）。Luma 报名。<br /><br /><a href="https://luma.com/cursor-c2mq"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
@@ -216,12 +213,6 @@
 <a id="gua-20261205"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-97mt"><img src="./assets/events/gua-20261205-cover.png" alt="Grok Bot Meetup 危地马拉" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 危地马拉</strong><br />2026-12-05 周六 15:00–20:00（America/Guatemala）<br />危地马拉 · 场地待定（见 Luma/主办方更新）— 线下<br /><br />SpaceXAI 危地马拉线下 Grok Bot 聚会（论坛+Luma 已发）。场地细节见 Luma 报名页。<br /><br /><a href="https://luma.com/spacexai-97mt"><strong>去 Luma 报名 →</strong></a></td></tr></table>
 
-<a id="country-ie"></a>
-### 爱尔兰
-
-<a id="dub-20261004"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/grokbot-dublin"><img src="./assets/events/dub-20261004-cover.png" alt="Grok Bot 都柏林 Builder Day" width="300" /></a></td><td valign="top"><strong>Grok Bot 都柏林 Builder Day</strong><br />2026-10-04 周日 11:00–17:30（都柏林 IST）<br />爱尔兰都柏林 · Baseline（61 Thomas St；Dublin AI Week × Bronto）<br /><br />都柏林全天 Grok Bot 共建（SpaceXAI for Dublin，属 Dublin AI Week，合作方 Bronto）：现场 demo、搭 bot/工作流/agent、午餐、闪电分享。请预先下载 x.ai/bot。主办 Sanat Thukral、Manoj；免费需审核；约 96 席，有候补。<br /><br /><a href="https://luma.com/grokbot-dublin"><strong>报名 →</strong></a></td></tr></table>
-
 <a id="country-il"></a>
 ### 以色列
 
@@ -245,12 +236,6 @@
 
 <a id="srp-20261101"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-yvwt"><img src="./assets/events/srp-20261101-cover.png" alt="Grok Bot Meetup 暹粒" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 暹粒</strong><br />2026-11-01 周日 14:00–18:00（暹粒 / 曼谷时区 ICT，UTC+7）<br />柬埔寨暹粒 The Creative House（Street Wat Po）· 线下<br /><br />暹粒首场 Grok Bot 聚会（SpaceXAI 金边日历；主办 Taka Kiyone、Luis Romero 等；论坛 173298 / Luma spacexai-yvwt）。闲聊、演示、交流；候补开启；晚间扫描 guest_count 0。<br /><br /><a href="https://luma.com/spacexai-yvwt"><strong>去 Luma 报名 →</strong></a></td></tr></table>
-
-<a id="country-kz"></a>
-### 哈萨克斯坦
-
-<a id="ala-20261004"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/vod1qyrk"><img src="./assets/events/ala-20261004-cover.png" alt="Grok Bot Meetup 阿拉木图" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup 阿拉木图</strong><br />2026-10-04 周日 14:00–17:00（Asia/Almaty，UTC+5）<br />哈萨克斯坦阿拉木图（线下；Luma 仅到城市级，报名后告知具体场地）<br /><br />阿拉木图首场 Grok Bot 线下聚会，属中亚与高加索系列。试玩、演示与交流。Luma 免费报名（slug vod1qyrk）。2026-09-18 已打开页面核实。<br /><br /><a href="https://luma.com/vod1qyrk"><strong>在 Luma 报名 →</strong></a></td></tr></table>
 
 <a id="country-lk"></a>
 ### 斯里兰卡
