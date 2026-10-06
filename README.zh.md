@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2088-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2090-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -45,19 +45,24 @@
 - **意大利**（4）：[罗马](./EVENTS.zh.md#rom-20261023) · [特雷维索](./EVENTS.zh.md#tvs-20261022) · [博洛尼亚](./EVENTS.zh.md#blq-20261012) · [帕维亚](./EVENTS.zh.md#pav-20261105)
 - **厄瓜多尔**（2）：[安巴托](./EVENTS.zh.md#atu-20261029) · [基多](./EVENTS.zh.md#uio-20261021)
 - **西班牙**（2）：[阿利坎特](./EVENTS.zh.md#alc-20261107) · [毕尔巴鄂](./EVENTS.zh.md#bil-20261019)
+- **英国**（2）：[伦敦 Hackathon](./EVENTS.zh.md#ldn-20261022) · [奥姆斯柯克（西北）](./EVENTS.zh.md#ork-20261024)
+- **危地马拉**（2）：[危地马拉](./EVENTS.zh.md#gua-20261205) · [危地马拉城（Build & Pitch）](./EVENTS.zh.md#gua-20261121)
 - **印度尼西亚**（2）：[雅加达](./EVENTS.zh.md#jkt-20261107) · [巴厘岛Canggu](./EVENTS.zh.md#bli-20261025)
+- **日本**（2）：[东京](./EVENTS.zh.md#tyo-20261011) · [川崎（神奈川）](./EVENTS.zh.md#kaw-20261104)
 - **韩国**（2）：[首尔](./EVENTS.zh.md#sel-20261027) · [首尔（10/13）](./EVENTS.zh.md#sel-20261013)
+- **秘鲁**（2）：[万卡约](./EVENTS.zh.md#hyo-20261023) · [利马（10/17）](./EVENTS.zh.md#lim-20261017)
+- **多哥**（2）：[洛美工作坊](./EVENTS.zh.md#lfw-20261017) · [洛美构建日](./EVENTS.zh.md#lfw-20261114)
 - **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20261017)
 - **奥地利**（1）：[维也纳](./EVENTS.zh.md#vie-20261031)
 - **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
 - **孟加拉国**（1）：[达卡](./EVENTS.zh.md#dac-20261031)
+- **保加利亚**（1）：[索非亚](./EVENTS.zh.md#sof-20261030)
 - **科特迪瓦**（1）：[阿比让](./EVENTS.zh.md#abj-20261107)
 - **哥伦比亚**（1）：[萨尔萨尔](./EVENTS.zh.md#zar-20261017)
+- **埃塞俄比亚**（1）：[吉马](./EVENTS.zh.md#jim-20261115)
 - **芬兰**（1）：[赫尔辛基](./EVENTS.zh.md#hel-20261027)
 - **加纳**（1）：[阿克拉](./EVENTS.zh.md#acc-20261017)
-- **危地马拉**（1）：[危地马拉](./EVENTS.zh.md#gua-20261205)
 - **以色列**（1）：[特拉维夫](./EVENTS.zh.md#tlv-20261019)
-- **日本**（1）：[东京](./EVENTS.zh.md#tyo-20261011)
 - **肯尼亚**（1）：[内罗毕（肯尼亚工作坊）](./EVENTS.zh.md#nbo-20261008)
 - **柬埔寨**（1）：[暹粒](./EVENTS.zh.md#srp-20261101)
 - **斯里兰卡**（1）：[科伦坡](./EVENTS.zh.md#cmb-20261017)
@@ -65,7 +70,6 @@
 - **墨西哥**（1）：[墨西哥城](./EVENTS.zh.md#cdmx-20261009)
 - **挪威**（1）：[奥斯陆](./EVENTS.zh.md#osl-20261016)
 - **新西兰**（1）：[奥克兰](./EVENTS.zh.md#akl-20261008)
-- **秘鲁**（1）：[万卡约](./EVENTS.zh.md#hyo-20261023)
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
 - **瑞典**（1）：[斯德哥尔摩](./EVENTS.zh.md#sto-20261014)
 - **特立尼达和多巴哥**（1）：[西班牙港](./EVENTS.zh.md#pos-20261030)
@@ -1185,6 +1189,7 @@
 - [Grok Minion — a Despicable Me-themed Grok Bot team pack](https://github.com/jaredtrichard/grok-minion) - 可安装的 Grok Bot 团队包：Kevin 当你的主 Bot 负责分派，每个领域一个小黄人，Dr. Nefario 记录你的工作习惯，繁重任务交给 Cursor 云端智能体完成并由另一个智能体独立复核；默认只出草稿，任何发送都要你点头。.
 - [Hardline plugin — call summaries, tasks and messaging for Grok Bot](https://github.com/BuiltEcho/hardline-cursor-plugin) - MIT 许可的 Cursor 与 Grok Bot 连接包，接入 Hardline 走 OAuth 的远程 MCP 服务器，让智能体读取项目上下文、通话摘要和采集内容，管理任务和联系人，并发送短信/彩信；Grok Bot 沿用团队的连接器策略，该包尚未通过 Cursor 插件市场审核。.
 - [The Librarian — Grok Bot template for contracts, policies and renewals](https://github.com/komalamee/Grokbot-Docs-Librarian) - Grok Bot 模板 The Librarian（v0.2.4，2026 年 10 月 1 日发布）的公开源码：直接从邮件里归档合同、保单和其他长文档，整理分类、跟踪续约并回答相关问题；包含四个技能、三个默认关闭的例程，以及构建和隐私数据扫描脚本。.
+- [Beowulf Standup — public guide for the Beowulf Grok Bot template](https://github.com/shinarugrok-a11y/Beowulf-Standup) - Grok Bot 分享模板 Beowulf 的公开上手指南（PDF 加 README，GPL-3.0）：Beowulf 帮你规划、构建、检查、调研和运维，指南写了首次设置步骤、只有手打的 yes 才能放行花钱、代发、密钥、删除和公开发帖的规则，以及每个正式任务前先写 Act as / Request / Terms 简报的做法。.
 
 ## 评测与对比
 
@@ -1602,6 +1607,7 @@
 - [Penny DOGE — weekly Grok Bot fleet usage scan with no AI in the crons](https://github.com/bowiehole/penny-doge) - Penny DOGE 这个 Grok Bot 模板的公开扫描脚本：每周用纯 bash 和 Python 读取本机的 Bot 聊天、例程运行和 CLI 会话，估算花费，标出浪费的例程和闲置的 Bot，只在值得汇报时才唤醒 webhook 例程。.
 - [cli-anything-grokbot — drive the Grok Bot desktop app from the command line](https://github.com/ilovebamboo/cli-anything-grokbot) - 参考 CLI-Anything 方法论做的实验性 Apache-2.0 命令行工具：通过只监听本机回环地址的调试连接操作 macOS 版 Grok Bot 桌面应用，可列出和读取会话、发送消息（默认只预演）、等待回复，以及创建、修改、删除个人 Bot；依赖应用内部接口（适配基线 0.66.0），应用升级后可能失效。.
 - [Grok Bot G2 — talk to your Grok Bots from Even Realities G2 glasses](https://github.com/SergioAppen/grokbot-g2) - 自托管的原型项目，把 Grok Bot 搬到 Even Realities G2 智能眼镜上：在你自己电脑上跑一个小型中继，通过 Cursor 官方的 @cursor/bdk Grok Bot 扩展连到 Bot，眼镜 HUD 和手机上都有会话列表，按住说话的语音用 ElevenLabs Scribe 或本地 whisper.cpp 转写，回复逐条推送显示。.
+- [grokbot-telemetry — living documentation of what a Grok Bot runs on its box](https://github.com/owenservera/grokbot-telemetry) - 一位用户让自己的 Grok Bot 把电脑上的观测笔记镜像到这个仓库：包含电脑、桌面、连接器和命令行工具的架构图，实时命令行工具清单、进程映射、按日期的会话记录，以及会脱敏密钥的 shell 采集脚本，另有一个常驻循环每五分钟刷新并推送一次，电脑重启后需重新启动。.
 
 ## 社区与故障现场
 
@@ -2197,7 +2203,7 @@
 
 ## 贡献
 
-目前 8 个分类、2088 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2090 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

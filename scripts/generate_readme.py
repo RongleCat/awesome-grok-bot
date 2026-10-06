@@ -239,6 +239,8 @@ COUNTRY_LABEL = {
     "gh": {"en": "Ghana", "zh": "加纳", "ja": "ガーナ"},
     "tt": {"en": "Trinidad and Tobago", "zh": "特立尼达和多巴哥", "ja": "トリニダード・トバゴ"},
     "at": {"en": "Austria", "zh": "奥地利", "ja": "オーストリア"},
+    "et": {"en": "Ethiopia", "zh": "埃塞俄比亚", "ja": "エチオピア"},
+    "bg": {"en": "Bulgaria", "zh": "保加利亚", "ja": "ブルガリア"},
     "online": {"en": "Online", "zh": "线上", "ja": "オンライン"},
     "other": {"en": "Other", "zh": "其他", "ja": "その他"},
 }
@@ -496,6 +498,15 @@ EVENT_GEO = {
     "sto-20261014": ("se", "Stockholm", "斯德哥尔摩", "ストックホルム"),
     "zar-20261017": ("co", "Zarzal", "萨尔萨尔", "サルサル"),
     "pav-20261105": ("it", "Pavia", "帕维亚", "パヴィア"),
+    "lim-20261017": ("pe", "Lima (17 Oct)", "利马（10/17）", "リマ（10/17）"),
+    "lfw-20261017": ("tg", "Lomé workshop", "洛美工作坊", "ロメ（ワークショップ）"),
+    "ldn-20261022": ("gb", "London hackathon", "伦敦 Hackathon", "ロンドン（ハッカソン）"),
+    "ork-20261024": ("gb", "Ormskirk (NorthWest)", "奥姆斯柯克（西北）", "オームスカーク"),
+    "sof-20261030": ("bg", "Sofia", "索非亚", "ソフィア"),
+    "kaw-20261104": ("jp", "Kawasaki (Kanagawa)", "川崎（神奈川）", "川崎（神奈川）"),
+    "lfw-20261114": ("tg", "Lomé build day", "洛美构建日", "ロメ（ビルドデー）"),
+    "jim-20261115": ("et", "Jimma", "吉马", "ジンマ"),
+    "gua-20261121": ("gt", "Guatemala City (Build & Pitch)", "危地马拉城（Build & Pitch）", "グアテマラシティ（Build & Pitch）"),
 }
 
 

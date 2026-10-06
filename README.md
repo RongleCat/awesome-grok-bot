@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2088-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2090-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -45,19 +45,24 @@
 - **Italy**（4）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022) · [Bologna](./EVENTS.md#blq-20261012) · [Pavia](./EVENTS.md#pav-20261105)
 - **Ecuador**（2）：[Ambato](./EVENTS.md#atu-20261029) · [Quito](./EVENTS.md#uio-20261021)
 - **Spain**（2）：[Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
+- **United Kingdom**（2）：[London hackathon](./EVENTS.md#ldn-20261022) · [Ormskirk (NorthWest)](./EVENTS.md#ork-20261024)
+- **Guatemala**（2）：[Guatemala](./EVENTS.md#gua-20261205) · [Guatemala City (Build & Pitch)](./EVENTS.md#gua-20261121)
 - **Indonesia**（2）：[Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
+- **Japan**（2）：[Tokyo](./EVENTS.md#tyo-20261011) · [Kawasaki (Kanagawa)](./EVENTS.md#kaw-20261104)
 - **South Korea**（2）：[Seoul](./EVENTS.md#sel-20261027) · [Seoul (13 Oct)](./EVENTS.md#sel-20261013)
+- **Peru**（2）：[Huancayo](./EVENTS.md#hyo-20261023) · [Lima (17 Oct)](./EVENTS.md#lim-20261017)
+- **Togo**（2）：[Lomé workshop](./EVENTS.md#lfw-20261017) · [Lomé build day](./EVENTS.md#lfw-20261114)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20261017)
 - **Austria**（1）：[Vienna](./EVENTS.md#vie-20261031)
 - **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
 - **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20261031)
+- **Bulgaria**（1）：[Sofia](./EVENTS.md#sof-20261030)
 - **Côte d'Ivoire**（1）：[Abidjan](./EVENTS.md#abj-20261107)
 - **Colombia**（1）：[Zarzal](./EVENTS.md#zar-20261017)
+- **Ethiopia**（1）：[Jimma](./EVENTS.md#jim-20261115)
 - **Finland**（1）：[Helsinki](./EVENTS.md#hel-20261027)
 - **Ghana**（1）：[Accra](./EVENTS.md#acc-20261017)
-- **Guatemala**（1）：[Guatemala](./EVENTS.md#gua-20261205)
 - **Israel**（1）：[Tel Aviv](./EVENTS.md#tlv-20261019)
-- **Japan**（1）：[Tokyo](./EVENTS.md#tyo-20261011)
 - **Kenya**（1）：[Nairobi (Kenya Workshop)](./EVENTS.md#nbo-20261008)
 - **Cambodia**（1）：[Siem Reap](./EVENTS.md#srp-20261101)
 - **Sri Lanka**（1）：[Colombo](./EVENTS.md#cmb-20261017)
@@ -65,7 +70,6 @@
 - **Mexico**（1）：[Mexico City](./EVENTS.md#cdmx-20261009)
 - **Norway**（1）：[Oslo](./EVENTS.md#osl-20261016)
 - **New Zealand**（1）：[Auckland](./EVENTS.md#akl-20261008)
-- **Peru**（1）：[Huancayo](./EVENTS.md#hyo-20261023)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
 - **Sweden**（1）：[Stockholm](./EVENTS.md#sto-20261014)
 - **Trinidad and Tobago**（1）：[Port of Spain](./EVENTS.md#pos-20261030)
@@ -1185,6 +1189,7 @@
 - [Grok Minion — a Despicable Me-themed Grok Bot team pack](https://github.com/jaredtrichard/grok-minion) - Installable Grok Bot pack where Kevin becomes your Primary Bot and routes work to one minion per area, Dr. Nefario keeps a profile of how you work, and Cursor cloud agents do and independently review the heavy work, with drafts by default and a yes for every send.
 - [Hardline plugin — call summaries, tasks and messaging for Grok Bot](https://github.com/BuiltEcho/hardline-cursor-plugin) - MIT-licensed connection package for Cursor and Grok Bot that adds Hardline's OAuth remote MCP server, so the agent can read project context, call summaries and captures, manage tasks and contacts, and send SMS/MMS; Grok Bot follows the team's connector policy, and the package has not yet passed Cursor marketplace review.
 - [The Librarian — Grok Bot template for contracts, policies and renewals](https://github.com/komalamee/Grokbot-Docs-Librarian) - Public source of The Librarian Grok Bot template (v0.2.4, published 1 Oct 2026), which files contracts, policies and other long documents straight from your email, keeps them organised, tracks renewals and answers questions about them, with four skills, three routines shipped switched off, and build and private-data scan scripts.
+- [Beowulf Standup — public guide for the Beowulf Grok Bot template](https://github.com/shinarugrok-a11y/Beowulf-Standup) - GPL-3.0 public standup guide (PDF plus README) for Beowulf, a Grok Bot share template that plans, builds, checks, researches and operates for you, with first-run setup steps, a rule that only a typed yes unlocks money, sends, secrets, deletes or public posts, and an Act as / Request / Terms brief before every real task.
 
 ## Reviews & Comparisons
 
@@ -1602,6 +1607,7 @@
 - [Penny DOGE — weekly Grok Bot fleet usage scan with no AI in the crons](https://github.com/bowiehole/penny-doge) - Public scanner tree for the Penny DOGE Grok Bot template that reads local bot chats, routine runs and CLI sessions with plain bash and Python each week, estimates spend, flags wasteful routines and idle bots, and only wakes a webhook routine when something is worth reporting.
 - [cli-anything-grokbot — drive the Grok Bot desktop app from the command line](https://github.com/ilovebamboo/cli-anything-grokbot) - Experimental Apache-2.0 CLI built with the CLI-Anything approach that lets a local agent control the macOS Grok Bot desktop app over a loopback-only debug connection to list and read chats, send messages (dry run by default), wait for replies, and create, edit or delete personal Bots; it relies on the app's internal interfaces (baseline 0.66.0) and may break after updates.
 - [Grok Bot G2 — talk to your Grok Bots from Even Realities G2 glasses](https://github.com/SergioAppen/grokbot-g2) - Self-hosted prototype that puts your Grok Bots on Even Realities G2 smart glasses: a small relay on your own computer reaches the Bots through Cursor's official @cursor/bdk Grok Bot extension, with a conversation list on the HUD and phone, push-to-talk voice transcribed by ElevenLabs Scribe or local whisper.cpp, and replies streamed one message at a time.
+- [grokbot-telemetry — living documentation of what a Grok Bot runs on its box](https://github.com/owenservera/grokbot-telemetry) - A user's Grok Bot keeps this repo as a mirror of its own box notes, with an architecture map of box, desktop, connectors and CLIs, a live CLI inventory, process maps, dated session logs and shell collectors that redact secrets, plus an always-on loop that refreshes and pushes them every five minutes until the box restarts.
 
 ## Community & Failure Modes
 
@@ -2197,7 +2203,7 @@
 
 ## Contributing
 
-2088 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2090 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

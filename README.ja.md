@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2088-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2090-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -45,19 +45,24 @@
 - **イタリア**（4）：[ローマ](./EVENTS.ja.md#rom-20261023) · [トレヴィーゾ](./EVENTS.ja.md#tvs-20261022) · [ボローニャ](./EVENTS.ja.md#blq-20261012) · [パヴィア](./EVENTS.ja.md#pav-20261105)
 - **エクアドル**（2）：[アンバト](./EVENTS.ja.md#atu-20261029) · [キト](./EVENTS.ja.md#uio-20261021)
 - **スペイン**（2）：[アリカンテ](./EVENTS.ja.md#alc-20261107) · [ビルバオ](./EVENTS.ja.md#bil-20261019)
+- **イギリス**（2）：[ロンドン（ハッカソン）](./EVENTS.ja.md#ldn-20261022) · [オームスカーク](./EVENTS.ja.md#ork-20261024)
+- **グアテマラ**（2）：[グアテマラ](./EVENTS.ja.md#gua-20261205) · [グアテマラシティ（Build & Pitch）](./EVENTS.ja.md#gua-20261121)
 - **インドネシア**（2）：[ジャカルタ](./EVENTS.ja.md#jkt-20261107) · [チャングー / バリ](./EVENTS.ja.md#bli-20261025)
+- **日本**（2）：[東京](./EVENTS.ja.md#tyo-20261011) · [川崎（神奈川）](./EVENTS.ja.md#kaw-20261104)
 - **韓国**（2）：[ソウル](./EVENTS.ja.md#sel-20261027) · [ソウル（10/13）](./EVENTS.ja.md#sel-20261013)
+- **ペルー**（2）：[ワンカヨ](./EVENTS.ja.md#hyo-20261023) · [リマ（10/17）](./EVENTS.ja.md#lim-20261017)
+- **トーゴ**（2）：[ロメ（ワークショップ）](./EVENTS.ja.md#lfw-20261017) · [ロメ（ビルドデー）](./EVENTS.ja.md#lfw-20261114)
 - **アルバニア**（1）：[ティラナ](./EVENTS.ja.md#tia-20261017)
 - **オーストリア**（1）：[ウィーン](./EVENTS.ja.md#vie-20261031)
 - **オーストラリア**（1）：[シドニー](./EVENTS.ja.md#syd-20261007)
 - **バングラデシュ**（1）：[ダッカ](./EVENTS.ja.md#dac-20261031)
+- **ブルガリア**（1）：[ソフィア](./EVENTS.ja.md#sof-20261030)
 - **コートジボワール**（1）：[アビジャン](./EVENTS.ja.md#abj-20261107)
 - **コロンビア**（1）：[サルサル](./EVENTS.ja.md#zar-20261017)
+- **エチオピア**（1）：[ジンマ](./EVENTS.ja.md#jim-20261115)
 - **フィンランド**（1）：[ヘルシンキ](./EVENTS.ja.md#hel-20261027)
 - **ガーナ**（1）：[アクラ](./EVENTS.ja.md#acc-20261017)
-- **グアテマラ**（1）：[グアテマラ](./EVENTS.ja.md#gua-20261205)
 - **イスラエル**（1）：[テルアビブ](./EVENTS.ja.md#tlv-20261019)
-- **日本**（1）：[東京](./EVENTS.ja.md#tyo-20261011)
 - **ケニア**（1）：[ナイロビ（Kenya Workshop）](./EVENTS.ja.md#nbo-20261008)
 - **カンボジア**（1）：[シェムリアップ](./EVENTS.ja.md#srp-20261101)
 - **スリランカ**（1）：[コロンボ](./EVENTS.ja.md#cmb-20261017)
@@ -65,7 +70,6 @@
 - **メキシコ**（1）：[メキシコシティ](./EVENTS.ja.md#cdmx-20261009)
 - **ノルウェー**（1）：[オスロ](./EVENTS.ja.md#osl-20261016)
 - **ニュージーランド**（1）：[オークランド](./EVENTS.ja.md#akl-20261008)
-- **ペルー**（1）：[ワンカヨ](./EVENTS.ja.md#hyo-20261023)
 - **フィリピン**（1）：[セブ](./EVENTS.ja.md#ceb-20260919)
 - **スウェーデン**（1）：[ストックホルム](./EVENTS.ja.md#sto-20261014)
 - **トリニダード・トバゴ**（1）：[ポートオブスペイン](./EVENTS.ja.md#pos-20261030)
@@ -1185,6 +1189,7 @@
 - [Grok Minion — a Despicable Me-themed Grok Bot team pack](https://github.com/jaredtrichard/grok-minion) - インストール型の Grok Bot チームパック。Kevin がプライマリ Bot として分野ごとのミニオンに仕事を振り、Dr. Nefario が働き方のプロフィールを管理、重い作業は Cursor クラウドエージェントが実行し別のエージェントが独立レビュー。既定は下書きで、送信には必ず承認が要る。
 - [Hardline plugin — call summaries, tasks and messaging for Grok Bot](https://github.com/BuiltEcho/hardline-cursor-plugin) - Cursor と Grok Bot 向けの MIT ライセンスの接続パッケージ。OAuth 付きの Hardline リモート MCP サーバーを追加し、プロジェクト文脈・通話要約・キャプチャの参照、タスクと連絡先の管理、SMS/MMS 送信ができる。Grok Bot はチームのコネクタポリシーに従い、Cursor Marketplace の審査はまだ済んでいない。
 - [The Librarian — Grok Bot template for contracts, policies and renewals](https://github.com/komalamee/Grokbot-Docs-Librarian) - Grok Bot テンプレート The Librarian（v0.2.4、2026 年 10 月 1 日公開）の公開ソース。契約書や保険証券などの長い文書をメールから直接整理・保管し、更新期限を追跡し、内容についての質問に答える。スキル 4 つ、既定でオフのルーチン 3 つ、ビルドと個人情報スキャンのスクリプト付き。
+- [Beowulf Standup — public guide for the Beowulf Grok Bot template](https://github.com/shinarugrok-a11y/Beowulf-Standup) - Grok Bot の共有テンプレート Beowulf の公開ガイド（PDF と README、GPL-3.0）。Beowulf は計画・構築・確認・調査・運用を担い、ガイドには初回セットアップ手順、お金・送信・シークレット・削除・公開投稿は手入力の yes でのみ許可するルール、本番タスク前に Act as / Request / Terms のブリーフを書く流れがまとめられている。
 
 ## レビューと比較
 
@@ -1602,6 +1607,7 @@
 - [Penny DOGE — weekly Grok Bot fleet usage scan with no AI in the crons](https://github.com/bowiehole/penny-doge) - Grok Bot テンプレート Penny DOGE の公開スキャナー。毎週、素の bash と Python でローカルの Bot チャット、ルーチン実行、CLI セッションを読み、費用を見積もり、無駄なルーチンや放置 Bot を指摘し、報告に値するときだけ Webhook ルーチンを起こす。
 - [cli-anything-grokbot — drive the Grok Bot desktop app from the command line](https://github.com/ilovebamboo/cli-anything-grokbot) - CLI-Anything の手法で作られた実験的な Apache-2.0 の CLI。ループバック限定のデバッグ接続で macOS 版 Grok Bot デスクトップアプリを操作し、チャットの一覧・読み取り、メッセージ送信（既定はドライラン）、返信待ち、個人 Bot の作成・編集・削除ができる。アプリ内部のインターフェース（基準 0.66.0）に依存するため、更新で動かなくなる可能性がある。
 - [Grok Bot G2 — talk to your Grok Bots from Even Realities G2 glasses](https://github.com/SergioAppen/grokbot-g2) - Grok Bot を Even Realities G2 スマートグラスで使うセルフホストのプロトタイプ。自分の PC 上の小さなリレーが Cursor 公式の @cursor/bdk Grok Bot 拡張経由で Bot とつながり、HUD とスマホに会話一覧を表示、プッシュトゥトークの音声は ElevenLabs Scribe かローカルの whisper.cpp で文字起こしし、返信は 1 通ずつストリーミング表示される。
+- [grokbot-telemetry — living documentation of what a Grok Bot runs on its box](https://github.com/owenservera/grokbot-telemetry) - あるユーザーの Grok Bot が、自分のボックスの観測メモをミラーしているリポジトリ。ボックス・デスクトップ・コネクタ・CLI のアーキテクチャ図、CLI の一覧、プロセスマップ、日付ごとのセッション記録、シークレットを伏せるシェルのコレクターを含み、常駐ループが 5 分ごとに更新してプッシュする（ボックス再起動後は再起動が必要）。
 
 ## コミュニティと障害事例
 
@@ -2197,7 +2203,7 @@
 
 ## 貢献
 
-8 セクションに 2088 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2090 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -10954,6 +10954,16 @@
             "zh": "Grok Bot 模板 The Librarian（v0.2.4，2026 年 10 月 1 日发布）的公开源码：直接从邮件里归档合同、保单和其他长文档，整理分类、跟踪续约并回答相关问题；包含四个技能、三个默认关闭的例程，以及构建和隐私数据扫描脚本。",
             "ja": "Grok Bot テンプレート The Librarian（v0.2.4、2026 年 10 月 1 日公開）の公開ソース。契約書や保険証券などの長い文書をメールから直接整理・保管し、更新期限を追跡し、内容についての質問に答える。スキル 4 つ、既定でオフのルーチン 3 つ、ビルドと個人情報スキャンのスクリプト付き。"
           }
+        },
+        {
+          "title": "Beowulf Standup — public guide for the Beowulf Grok Bot template",
+          "url": "https://github.com/shinarugrok-a11y/Beowulf-Standup",
+          "source": "GB-2113",
+          "blurb": {
+            "en": "GPL-3.0 public standup guide (PDF plus README) for Beowulf, a Grok Bot share template that plans, builds, checks, researches and operates for you, with first-run setup steps, a rule that only a typed yes unlocks money, sends, secrets, deletes or public posts, and an Act as / Request / Terms brief before every real task.",
+            "zh": "Grok Bot 分享模板 Beowulf 的公开上手指南（PDF 加 README，GPL-3.0）：Beowulf 帮你规划、构建、检查、调研和运维，指南写了首次设置步骤、只有手打的 yes 才能放行花钱、代发、密钥、删除和公开发帖的规则，以及每个正式任务前先写 Act as / Request / Terms 简报的做法。",
+            "ja": "Grok Bot の共有テンプレート Beowulf の公開ガイド（PDF と README、GPL-3.0）。Beowulf は計画・構築・確認・調査・運用を担い、ガイドには初回セットアップ手順、お金・送信・シークレット・削除・公開投稿は手入力の yes でのみ許可するルール、本番タスク前に Act as / Request / Terms のブリーフを書く流れがまとめられている。"
+          }
         }
       ]
     },
@@ -15083,6 +15093,16 @@
             "en": "Self-hosted prototype that puts your Grok Bots on Even Realities G2 smart glasses: a small relay on your own computer reaches the Bots through Cursor's official @cursor/bdk Grok Bot extension, with a conversation list on the HUD and phone, push-to-talk voice transcribed by ElevenLabs Scribe or local whisper.cpp, and replies streamed one message at a time.",
             "zh": "自托管的原型项目，把 Grok Bot 搬到 Even Realities G2 智能眼镜上：在你自己电脑上跑一个小型中继，通过 Cursor 官方的 @cursor/bdk Grok Bot 扩展连到 Bot，眼镜 HUD 和手机上都有会话列表，按住说话的语音用 ElevenLabs Scribe 或本地 whisper.cpp 转写，回复逐条推送显示。",
             "ja": "Grok Bot を Even Realities G2 スマートグラスで使うセルフホストのプロトタイプ。自分の PC 上の小さなリレーが Cursor 公式の @cursor/bdk Grok Bot 拡張経由で Bot とつながり、HUD とスマホに会話一覧を表示、プッシュトゥトークの音声は ElevenLabs Scribe かローカルの whisper.cpp で文字起こしし、返信は 1 通ずつストリーミング表示される。"
+          }
+        },
+        {
+          "title": "grokbot-telemetry — living documentation of what a Grok Bot runs on its box",
+          "url": "https://github.com/owenservera/grokbot-telemetry",
+          "source": "GB-2114",
+          "blurb": {
+            "en": "A user's Grok Bot keeps this repo as a mirror of its own box notes, with an architecture map of box, desktop, connectors and CLIs, a live CLI inventory, process maps, dated session logs and shell collectors that redact secrets, plus an always-on loop that refreshes and pushes them every five minutes until the box restarts.",
+            "zh": "一位用户让自己的 Grok Bot 把电脑上的观测笔记镜像到这个仓库：包含电脑、桌面、连接器和命令行工具的架构图，实时命令行工具清单、进程映射、按日期的会话记录，以及会脱敏密钥的 shell 采集脚本，另有一个常驻循环每五分钟刷新并推送一次，电脑重启后需重新启动。",
+            "ja": "あるユーザーの Grok Bot が、自分のボックスの観測メモをミラーしているリポジトリ。ボックス・デスクトップ・コネクタ・CLI のアーキテクチャ図、CLI の一覧、プロセスマップ、日付ごとのセッション記録、シークレットを伏せるシェルのコレクターを含み、常駐ループが 5 分ごとに更新してプッシュする（ボックス再起動後は再起動が必要）。"
           }
         }
       ]
@@ -20995,9 +21015,9 @@
         "ja": "バルセロナ初の Grok Bot Meetup（SpaceXAI for Barcelona；主催 Marc Nebot I Moyano、Walter Troiani）。スペイン語の実践ワークショップ：18:00 受付・クレジット、18:15 紹介、18:30 短デモ、19:00 ビルド、19:45 Q&A。ノートPC/スマホ持参、クレジット現場配布、事前インストール不要。会場は Carrer de Llull（Poblenou L4 近く、詳細後日）。承認制；スキャン時 guest_count 7。満席時のみ配信。コミュニティ暦の新 slug 802d0upt + フォーラム 171706。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -21026,9 +21046,9 @@
         "ja": "バイーア州ヴィトーリア・ダ・コンキスタのオフライン Grok Bot ミートアップ（SpaceXAI for Salvador カレンダー掲載；主催 Benjamin Bauer、Sarah Ferreira Reis）。ネットワーキング・トーク/ワークショップ・Q&A。会場 Hub Conquista（住所あり）。無料・承認不要；スキャン時 guest_count 1。コミュニティ暦の新 slug cursor-iutk + フォーラム 171709。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -22824,9 +22844,9 @@
         "ja": "Chaffey College（Rancho Library Room 333）。クラウドパソコン付き Grok Bot で制作。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -22855,9 +22875,9 @@
         "ja": "ロチェスター RIT AI Club × SpaceXAI。学生主催で Grok Bot を試すビルドナイト。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -22886,9 +22906,9 @@
         "ja": "Cal Poly CIE Hatchery × SpaceXAI。ツールに接続し専用パソコンを持つ Grok Bot のデモのあと、自由制作と共有。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -22917,9 +22937,9 @@
         "ja": "UCSB 学生向け。SpaceXAI の Grok Bot ライブデモのあと共同制作。専攻不問、初心者歓迎。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -22948,9 +22968,9 @@
         "ja": "デラウェア大学のハンズオン。Grok Bot と Cursor で AI・プロダクト・デザイン・起業寄りに制作。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -22979,9 +22999,9 @@
         "ja": "UC Davis × SpaceXAI。Grok Bot のエージェント基盤（Gmail など接続）で一緒に作る夜。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23010,9 +23030,9 @@
         "ja": "ミシガン大の Grok Bot Build Night。ライブ配信デモのあとカジュアル制作。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23041,9 +23061,9 @@
         "ja": "ゲインズビル UF × SASE の Grok Bot ビルドナイト。デモとハンズオン。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23072,9 +23092,9 @@
         "ja": "Texas A&M tidalTAMU（BLOC 150）。SpaceXAI の Grok Bot で制作する夜。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23103,9 +23123,9 @@
         "ja": "TX Luminescence × SpaceXAI。ライブデモのあと制作・共有。経験不問。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23134,9 +23154,9 @@
         "ja": "Johns Hopkins HopAI × SpaceXAI の Grok Bot ビルドナイト。デモのあと学生同士で制作。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23165,9 +23185,9 @@
         "ja": "SpaceXAI × HackPrinceton。専用パソコンを持つ always-on の Grok Bot デモのあと制作・交流。Cursor Pro 1ヶ月（Grok Bot 含む）。学生向け。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23258,9 +23278,9 @@
         "ja": "CMU の Grok Bot ナイト。ライブデモのあと自由制作・交流。学部〜博士。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23289,9 +23309,9 @@
         "ja": "Purdue Boiler Blockchain × SpaceXAI。ライブデモのあと制作。Cursor Pro と Grok Bot を1ヶ月。未経験・非会員歓迎。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23351,9 +23371,9 @@
         "ja": "Harvard × SpaceXAI。ライブデモのあと制作。ピザ＆タピオカ。Cursor Pro と Grok Bot を1ヶ月。未経験歓迎。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23382,9 +23402,9 @@
         "ja": "UCR の Grok Bot Build Night。制作とデモ。場所は登録後。ノート PC 持参。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23413,9 +23433,9 @@
         "ja": "ロンドン初の Grok Bot。夕方コーワークと地元パワーユーザーデモ（SpaceXAI フィールドエンジニア）、ノート PC とクレジット。無料登録。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23444,9 +23464,9 @@
         "ja": "アムステルダム初の Grok Bot。夕方コーワークと地元パワーユーザーデモ、ノート PC 持参でクレジット。無料登録。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23537,9 +23557,9 @@
         "ja": "5Cs（Claremont Colleges）の Grok Bot Build Night。SpaceXAI Education カレンダーの学生オフライン。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23568,9 +23588,9 @@
         "ja": "SpaceXAI × MSJC の Grok Bot ナイト。ライブデモのあと制作。参加者に Cursor Pro（Grok Bot 含む）1 ヶ月。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23599,9 +23619,9 @@
         "ja": "SpaceXAI × Miami University。Grok Bot デモのあと自由制作・交流。Cursor Pro（Grok Bot 含む）1 ヶ月。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23630,9 +23650,9 @@
         "ja": "Temple の Grok Bot ナイト。ライブデモのあと制作。Penn Labs（phl）とは別イベント。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23661,9 +23681,9 @@
         "ja": "UNC Chapel Hill の Grok Bot Build Night。ライブデモのあと制作。Cursor Pro（Grok Bot 含む）1 ヶ月。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23692,9 +23712,9 @@
         "ja": "タンゲランの Grok Bot ワークショップ。デモとハンズオン。ノート PC / iPhone、x.ai/bot 事前 DL。承認制。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23723,9 +23743,9 @@
         "ja": "Cartago のオフライン。Cursor / SpaceXAI と Grok Bot の実例、スピーカー 5 名。商工会議所。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23754,9 +23774,9 @@
         "ja": "SJSU（San José State University）の Grok Bot Build Night。SpaceXAI Education カレンダーの学生オフライン。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23785,9 +23805,9 @@
         "ja": "SpaceX AI @ USC の Grokbot Build Night。SpaceXAI Education カレンダーの学生オフライン。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23816,9 +23836,9 @@
         "ja": "マルタ初の SpaceXAI Grok Bot Meetup。デモ、Bot/エージェント体験、交流。無料、残席約 31。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23847,9 +23867,9 @@
         "ja": "SpaceXAI @ Babson College の Grokbot Build Night。Coleman Hall で 2 時間オフライン。無料、残席約 20。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23878,9 +23898,9 @@
         "ja": "Rutgers 学生向け Grok Bot ビルドナイト。インターン応募自動化やクラブ運営など。無料オフライン（Arihant Deva）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23909,9 +23929,9 @@
         "ja": "DePauw × SpaceXAI のビルドナイト。デモ後にハンズオン。無料・承認制（Hanje Unesaki）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23940,9 +23960,9 @@
         "ja": "Livingstone College の SpaceXAI Grok Bot ビルドナイト。無料学生向け（Johnson Ameyaw）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -23971,9 +23991,9 @@
         "ja": "Ikon Coffee の午前ポップアップ。Matt Palmer と交流、Grok Bot 体験、credits と無料月。承認制（Sarah Goomar / Matt Palmer）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24002,9 +24022,9 @@
         "ja": "Hawaii Tech Week の午前。Grok Bot エージェントで cowork / ship。無料・満席/ウェイトリスト（Hawaii Tech Week / Ray Fernando）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24033,9 +24053,9 @@
         "ja": "Ahmedabad のハンズオン。Grok Bot を実ツールと使う AI チームメイト体験。無料・残席約 29・承認制（Aakash）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24064,9 +24084,9 @@
         "ja": "Uluwatu 初の Grok Bot Meetup。体験・デモ・交流。無料 30 席・承認制（forum 170338）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24095,9 +24115,9 @@
         "ja": "The Howard での公式 Grok Bot 入門。独自コンピュータを持つ AI チームメイト。無料・残席約 146。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24126,9 +24146,9 @@
         "ja": "エンジニア向け公式 Grok Bot ワークショップ（The Howard）。無料・残席約 145。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24157,9 +24177,9 @@
         "ja": "Sales Engineering 向け公式セッション（The Howard）。無料・残席約 146（Jenna Nanpei / Kathryn Trainor）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24188,9 +24208,9 @@
         "ja": "SDR 向け公式ワークショップ（The Howard）。無料・残席約 147（Jenna Nanpei）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24219,9 +24239,9 @@
         "ja": "Marketing Ops 向け公式セッション（The Howard）。無料・残席約 146（Jenna Nanpei）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24250,9 +24270,9 @@
         "ja": "Post-Sales 向け公式ワークショップ（The Howard）。無料・残席約 148（Jenna Nanpei）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24281,9 +24301,9 @@
         "ja": "Marketing 向け公式セッション（The Howard）。無料・残席約 148（Jenna Nanpei / Kathryn Trainor）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24312,9 +24332,9 @@
         "ja": "UTEP 学生向け Grok Bot ビルドナイト。インターン応募自動化やクラブ運営など。デモ後に制作・交流。無料オフライン（Nan Jiang）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24343,9 +24363,9 @@
         "ja": "East Texas A&M（Commerce）の学生向け Grok Bot Build Night。対面。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24374,9 +24394,9 @@
         "ja": "ポルト公式 Grok Bot Meetup。ビルダー向け対面。Luma 承認制（関心約 19）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24405,9 +24425,9 @@
         "ja": "ベルギー初の Grok Bot Meetup。デモと交流。forum 170453・承認制。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24436,9 +24456,9 @@
         "ja": "フロリアノポリス初の Grok Bot Meetup。デモと交流。forum 170449・関心約 25・承認制。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24467,9 +24487,9 @@
         "ja": "インドネシア向けキャンパス Workshop。9/15 BukitHub（bli-20260915）とは別。forum 170448・承認制。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24498,9 +24518,9 @@
         "ja": "上海の対面 Grok Bot。アイスブレイクと Workshop。承認制。forum 170454。Luma API 時刻は誤り気味 → 14:00–17:00 +08 を採用。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24560,9 +24580,9 @@
         "ja": "PM 向け公式 Grok Bot ワークショップ（The Howard / Kevin Niparko）。無料・残席約 143（Jenna Nanpei）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -24591,9 +24611,9 @@
         "ja": "ファウンダー向け公式セッション（The Howard / Shub Gaur）。無料・残席約 144（Jenna Nanpei）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -25366,9 +25386,9 @@
         "ja": "SpaceXAI for Atlanta のイントロMeetup。退勤後デモ中心：Grok Bot概要・ウォークスルー・ライブデモ・Q&A／オープンマイク・飲食・無料駐車。主催 Raj Poloju & Sreyas Gentela。無料・承認不要。ノートPC任意。スキャン時 0 名。Forum 171336。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -25397,7 +25417,7 @@
         "ja": "ボーパール初の Grok Bot ハンズオン。SpaceXAI のワークコンパニオンがツールにログインして実タスクを完了。交流・入門WS・ハンズオン・Q&A・クレジット。主催 Mohneesh Gupta。無料・承認制・約100席。充電済みノートPCとホットスポット持参。スキャン時 0 名。"
       },
       "cta": {
-        "en": "Register on Luma (host approval) →",
+        "en": "Register on Luma (host approval)",
         "zh": "去 Luma 报名（需审核）→",
         "ja": "Luma で申し込む（主催者承認）→"
       }
@@ -25428,7 +25448,7 @@
         "ja": "ヴィディシャー初の Grok Bot ハンズオン。SpaceXAI のワークコンパニオンがツールにログインして実タスクを完了。交流・入門WS・ハンズオン・Q&A・クレジット。主催 Mohneesh Gupta。無料・承認制・約100席。充電済みノートPCとホットスポット持参。スキャン時 0 名。"
       },
       "cta": {
-        "en": "Register on Luma (host approval) →",
+        "en": "Register on Luma (host approval)",
         "zh": "去 Luma 报名（需审核）→",
         "ja": "Luma で申し込む（主催者承認）→"
       }
@@ -25459,7 +25479,7 @@
         "ja": "デリーの Grok Bot ハンズオン交流会。SpaceXAI のワークコンパニオンがツールにログインして実タスクを完了。交流・入門WS・ハンズオン・Q&A・クレジット。主催 Knowvy Technologies。無料・承認制・約100席。住所は登録後公開。充電済みノートPCとホットスポット持参。スキャン時 0 名。"
       },
       "cta": {
-        "en": "Register on Luma (host approval) →",
+        "en": "Register on Luma (host approval)",
         "zh": "去 Luma 报名（需审核）→",
         "ja": "Luma で申し込む（主催者承認）→"
       }
@@ -25490,7 +25510,7 @@
         "ja": "ジャバルプルの Grok Bot ハンズオン。SpaceXAI のワークコンパニオンがツールにログインして実タスクを完了。交流・入門WS・ハンズオン・Q&A・クレジット。主催 Knowvy Technologies。無料・承認制・約100席。充電済みノートPCとホットスポット持参。スキャン時 0 名。"
       },
       "cta": {
-        "en": "Register on Luma (host approval) →",
+        "en": "Register on Luma (host approval)",
         "zh": "去 Luma 报名（需审核）→",
         "ja": "Luma で申し込む（主催者承認）→"
       }
@@ -25521,9 +25541,9 @@
         "ja": "SpaceXAI Zambia / SpaceXAI for Lusaka のハンズオンMeetup（主催 Lloyd situmbeko）。Grok Bot はツールにログインして実作業を完了する AI 同僚、という製品コピー。ライブデモ・クレジット・オープンビルド・飲食ネットワーキング。無料・承認制・約70席。スキャン時 0 名。会場は登録後。midday discover 比で新規。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -25583,9 +25603,9 @@
         "ja": "SpaceXAI for Kampala, Uganda, Africa の午後Meetup（主催 Ronnie 3.0）。Grok Bot は実作業ができるクラウドエージェント付き AI アシスタント（チャットだけではない）、という製品コピー。始め方・実務ワークフロー・Q&A。Android/Mac/iOS/Linux 対応・初心者歓迎。無料・承認不要・残席100・スキャン時0名。会場は登録後。morning discover / community cal に無く新規。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -25614,9 +25634,9 @@
         "ja": "SpaceXAI Community の Marketing 向け Grok Bot ビルドナイト（主催 Sunita Rao；forum 171543）。17:00 開場・概要・Grace Clarke / SpaceXAI Marketing デモ・Q&A・Free Grok Bot credits 付きビルド・参加者デモ。オフライン無料。スキャン時 guest_count 0。slug grokbotmarketing-nyc（forum の spacexai-by4y と同一）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -25645,9 +25665,9 @@
         "ja": "SpaceXAI for Macau コミュニティの珠海 Grok Bot ミートアップ（主催 John Ku / Skyline Incubator）。講義でもワークショップでもなく、Grok Bot の使い方や AI プロジェクトを気軽に共有。無料・人数限定・スキャン時 1 名。日英中の案内あり。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -25676,9 +25696,9 @@
         "ja": "SpaceXAI Community の Design 向けビルドナイト（主催 Sunita Rao；forum 171544）。17:00–20:30。オフライン無料。ローカル日 9/22（UTC 開始 9/23 00:00）。slug grokbotdesign-la（= spacexai-o5ji）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -25707,9 +25727,9 @@
         "ja": "SpaceXAI Community の Engineering 向けビルドナイト（主催 Sunita Rao；forum 171546）。太平洋時間 17:00–20:30。オフライン無料。ローカル日 9/24。slug grokbotengineering-seattle（= spacexai-xn5j）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -25738,9 +25758,9 @@
         "ja": "SpaceXAI Community の Product 向けビルドナイト（主催 Sunita Rao；forum 171547）。Howard の sfpm-20260915（9/15）とは別。17:00–20:30。ローカル日 9/29。slug grokbotproduct-sf（= spacexai-81pf）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -25769,9 +25789,9 @@
         "ja": "SpaceXAI Community の Recruiting 向けビルドナイト（主催 Sunita Rao；forum 171548）。シカゴ時間 17:00–20:30。オフライン無料。初のシカゴ枠。slug grokbotrecruiting-chicago（= spacexai-k0po）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -25792,9 +25812,9 @@
         "ja": "AI in Austin（主催 Ryan Kohler）のオフライン作業会。創業者・オペレーター・GTM 向けに「デモではなく業務に Grok Bot」。CDT 18:30 開場→18:45 マルチエージェントデモ→19:05 ビルド→20:00 共有→20:30 終了。会場は承認後通知。スキャン時 guest_count 0。隔夜の新 slug jzlxzq14。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       },
       "when": {
         "en": "Wed 16 Sep 2026, 18:30–20:30 (America/Chicago / CDT, UTC−5)",
@@ -25831,9 +25851,9 @@
         "ja": "グリーンビル初のカタログ掲載 Grok Bot ミートアップ（主催 Brad Shannon；個人 Luma カレンダー）。アジェンダ：入場〜紹介〜ライブデモ〜Q&A〜ビルド。ノートPC持参、https://x.ai/bot を事前DL推奨。無料RSVP（スキャン時残り約66、guest_count 9）。会場は後日更新。新 discover slug utdchtxv；フォーラムの New event 投稿はまだなし。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -25862,9 +25882,9 @@
         "ja": "SpaceXAI Benin Community のゴドメー/コトヌー Workshop（ホスト Aina René Régis KIKI）。Grok Bot 入門、AI coding/プロンプト、試作まで。無料・承認制（朝スキャン guest_count 133）。会場 Bibliothèque Benin Excellence。slug grokbot-benin（旧 spacexai-fd2l は無効）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -25875,9 +25895,9 @@
       },
       "url": "https://luma.com/spacexai-gc1m",
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で登録 →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で登録"
       },
       "image": "./assets/events/vvi-20260926-cover.png",
       "expires": "2026-09-26T12:00:00-04:00",
@@ -25906,9 +25926,9 @@
       },
       "url": "https://luma.com/spacexai-80r9",
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で登録 →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で登録"
       },
       "image": "./assets/events/dad-20261003-cover.png",
       "expires": "2026-10-03T16:00:00+07:00",
@@ -25937,9 +25957,9 @@
       },
       "url": "https://luma.com/mj5bmugc",
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で登録 →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で登録"
       },
       "image": "./assets/events/yyz-20261026-cover.png",
       "expires": "2026-10-26T20:30:00-04:00",
@@ -25979,9 +25999,9 @@
       },
       "expires": "2026-09-18T22:00:00+08:00",
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で登録 →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で登録"
       },
       "when": {
         "en": "Fri 18 Sep 2026, 19:00–22:00 (Asia/Shanghai, UTC+8)",
@@ -26012,9 +26032,9 @@
         "ja": "Grok Bot Meetup ホーチミン"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で登録 →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で登録"
       },
       "where": {
         "en": "Ho Chi Minh City, Vietnam — offline (exact venue city-level on Luma / shared after RSVP)",
@@ -26043,9 +26063,9 @@
         "ja": "Grok Bot Meetup シュトゥットガルト"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で登録 →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で登録"
       },
       "where": {
         "en": "Epplestraße 225/haus 3, 70567 Stuttgart-Möhringen, Germany — offline (first floor)",
@@ -27567,9 +27587,9 @@
         "ja": "ソウル初の Grok Bot Meetup（ホスト Andreas Kruszakin-Liboska + Eric Kim）。ボット作成とデモの夜会。ノート PC 推奨、クレジット提供。無料 RSVP（スキャン時 guest_count 4）。slug 6ee6i3v6；フォーラムの New event は未確認。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -27598,9 +27618,9 @@
         "ja": "マナグア初の Grok Bot Meetup（SpaceXAI for Managua；ホスト Leandro Gomez + Carlos Amador）。La Sur Coworking の午前ビルド会。無料・ウェイトリストあり（スキャン時 guest_count 10）。slug cursor-cxtt。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -27629,9 +27649,9 @@
         "ja": "フロリアノポリスの Building Day（SpaceXAI for Florianópolis；ホスト Alexandre Ferrari / Founder Haus / Christian Rios）。9/26 Meetup とは別。ウェイトリストあり（スキャン時 guest_count 6）。slug 3t86uc0s。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -27660,9 +27680,9 @@
         "ja": "フランクフルトの Build with Grokbot（9/10月に続く回；SpaceXAI for Frankfurt；ホスト DJ Gangan ほか）。Motel One Messe で午後〜夜のビルド。ウェイトリストあり（スキャン時 guest_count 3）。slug l9tfh081。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -27691,9 +27711,9 @@
         "ja": "ヴェネト初の Grok Bot Meetup（会場 H-FARM；SpaceXAI for Padua 暦；ホスト Victor Motricala；開会 Diego Pizzocaro / H-FARM AI）。英語の夜：紹介・ライブデモ・クレジット・交流飲食・ハンズオン。ノートPC必須。無料・先着、ウェイトリストあり（スキャン時 guest_count 2 / 約128席）。slug spacexai-kk5f（evt-DQJ18z0yEPgVagi）+ フォーラム 173108。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -28404,9 +28424,9 @@
         "ja": "オタワの Grok Bot（Carleton University；Builders Collective Ottawa ほか）。夜のデモと交流。無料。昼スキャン guest_count 62。旧 yow-20261010 と同じ slug phs5tofz（10/10→10/17）。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で登録 →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で登録"
       }
     },
     {
@@ -28435,9 +28455,9 @@
         "ja": "ソウル 2 回目の Grok Bot Meetup（sel-20261027 / 6ee6i3v6 とは別）。個人 Luma カレンダー、Jey Shim ら主催。会場 Grove1219。無料 RSVP。slug 3leebkxk。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -28466,9 +28486,9 @@
         "ja": "SpaceXAI カレンダーのストックホルム CXO Experience（Wisdome）。ウェイトリストあり（slug spacexai-dt0z）。昼スキャンでカタログ未収録。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -28497,9 +28517,9 @@
         "ja": "SpaceXAI for Pereira カレンダーの Zarzal Meetup。アイデア・AI・Grok・構築の午後。無料・約 60 席。forum 173707。slug spacexai-zarzal。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     },
     {
@@ -28528,9 +28548,288 @@
         "ja": "パヴィアのレトロコンピューティング博物館での全日ハッカソン（ミラノ Café Cursor の流れ）。主催承認あり無料。forum 173708。slug spacexai-z1ys。"
       },
       "cta": {
-        "en": "Register on Luma →",
-        "zh": "去 Luma 报名 →",
-        "ja": "Luma で申し込む →"
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "lim-20261017",
+      "url": "https://luma.com/7q78rrm9",
+      "image": "./assets/events/lim-20261017-cover.png",
+      "expires": "2026-10-17T11:30:00-05:00",
+      "title": {
+        "en": "Grok Bot Lima: for builders",
+        "zh": "Grok Bot 利马：面向 builder",
+        "ja": "Grok Bot Lima: for builders（リマ）"
+      },
+      "when": {
+        "en": "Sat 17 Oct 2026, 10:00–11:30 (America/Lima, PET, UTC−5)",
+        "zh": "2026-10-17 周六 10:00–11:30（America/Lima，PET，UTC−5）",
+        "ja": "2026-10-17（土）10:00–11:30（America/Lima、PET、UTC−5）"
+      },
+      "where": {
+        "en": "Lima, Peru · UPCH Sede La Molina, Jr. José Antonio 310, La Molina — offline",
+        "zh": "秘鲁利马 · UPCH La Molina 校区，Jr. José Antonio 310 — 线下",
+        "ja": "ペルー・リマ · UPCH Sede La Molina、Jr. José Antonio 310 — オフライン"
+      },
+      "body": {
+        "en": "Spanish-language Grokbot session: basics to new capabilities, a real project built with Grok Bot, starter credits and Q&A; no experience needed. Free with host approval; forum 173848; slug 7q78rrm9.",
+        "zh": "西语 Grokbot 入门场：从基础讲到新能力，展示一个用 Grok Bot 做的真实项目，发入门额度并有问答，无需经验。免费需主办审核；论坛 173848；slug 7q78rrm9。",
+        "ja": "スペイン語の Grokbot セッション。基本から新機能、Grok Bot で作った実例、スターター用クレジット、Q&A。経験不要。無料・主催承認制。forum 173848。slug 7q78rrm9。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "lfw-20261017",
+      "url": "https://luma.com/spacexai-kdvf",
+      "image": "./assets/events/lfw-20261017-cover.png",
+      "expires": "2026-10-17T18:00:00+00:00",
+      "title": {
+        "en": "Grok Bot Workshop Lomé",
+        "zh": "Grok Bot 工作坊 洛美",
+        "ja": "Grok Bot Workshop Lomé（ロメ）"
+      },
+      "when": {
+        "en": "Sat 17 Oct 2026, 15:00–18:00 (Africa/Lome, GMT, UTC+0)",
+        "zh": "2026-10-17 周六 15:00–18:00（Africa/Lome，GMT，UTC+0）",
+        "ja": "2026-10-17（土）15:00–18:00（Africa/Lome、GMT、UTC+0）"
+      },
+      "where": {
+        "en": "Lomé, Togo · Lomé Business School (LBS), 96 Jean-Paul 2 — offline",
+        "zh": "多哥洛美 · Lomé Business School（LBS），96 Jean-Paul 2 — 线下",
+        "ja": "トーゴ・ロメ · Lomé Business School（LBS）、96 Jean-Paul 2 — オフライン"
+      },
+      "body": {
+        "en": "Three-hour French-language hands-on workshop with the ACULPA association on Grok Bot's latest updates, live demos and setting up your own bot; bring a laptop. Free RSVP; forum 173847; slug spacexai-kdvf.",
+        "zh": "与 ACULPA 协会合办的三小时法语实操工作坊：讲 Grok Bot 最新更新、现场演示并动手搭自己的 bot，请带电脑。免费报名；论坛 173847；slug spacexai-kdvf。",
+        "ja": "ACULPA と共催の 3 時間のフランス語ハンズオン。Grok Bot の最新アップデート、ライブデモ、自分の bot のセットアップ。PC 持参。無料 RSVP。forum 173847。slug spacexai-kdvf。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "ldn-20261022",
+      "url": "https://luma.com/eveur09a",
+      "image": "./assets/events/ldn-20261022-cover.png",
+      "expires": "2026-10-22T22:30:00+01:00",
+      "title": {
+        "en": "Grok Bot Community Engineering London Hackathon",
+        "zh": "Grok Bot 社区工程伦敦 Hackathon",
+        "ja": "Grok Bot Community Engineering London Hackathon（ロンドン）"
+      },
+      "when": {
+        "en": "Thu 22 Oct 2026, 18:00–22:30 (Europe/London, BST, UTC+1)",
+        "zh": "2026-10-22 周四 18:00–22:30（Europe/London，BST，UTC+1）",
+        "ja": "2026-10-22（木）18:00–22:30（Europe/London、BST、UTC+1）"
+      },
+      "where": {
+        "en": "London, UK · venue shared after approval — offline",
+        "zh": "英国伦敦 · 审核通过后公布场地 — 线下",
+        "ja": "イギリス・ロンドン · 会場は承認後に案内 — オフライン"
+      },
+      "body": {
+        "en": "Evening hackathon for community engineers, DevRels and organisers: Grok Bot holds the context (Slack, Discord, inbox, calendar, Luma, CRM) and Cursor turns it into community tooling, with live demos. Free with host approval; forum 173849; slug eveur09a.",
+        "zh": "面向社区工程师、DevRel 和组织者的晚间 Hackathon：Grok Bot 掌握 Slack、Discord、邮箱、日历、Luma、CRM 等上下文，Cursor 把它做成社区工具，现场演示。免费需主办审核；论坛 173849；slug eveur09a。",
+        "ja": "コミュニティエンジニア、DevRel、運営者向けの夜のハッカソン。Grok Bot が Slack・Discord・受信箱・カレンダー・Luma・CRM の文脈を持ち、Cursor がコミュニティツールに仕上げる。ライブデモあり。無料・主催承認制。forum 173849。slug eveur09a。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "ork-20261024",
+      "url": "https://luma.com/cursor-i0ov",
+      "image": "./assets/events/ork-20261024-cover.png",
+      "expires": "2026-10-24T15:00:00+01:00",
+      "title": {
+        "en": "Grok Bot Build NorthWest (Ormskirk)",
+        "zh": "Grok Bot Build NorthWest（奥姆斯柯克）",
+        "ja": "Grok Bot Build NorthWest（オームスカーク）"
+      },
+      "when": {
+        "en": "Sat 24 Oct 2026, 11:00–15:00 (Europe/London, BST, UTC+1)",
+        "zh": "2026-10-24 周六 11:00–15:00（Europe/London，BST，UTC+1）",
+        "ja": "2026-10-24（土）11:00–15:00（Europe/London、BST、UTC+1）"
+      },
+      "where": {
+        "en": "Ormskirk, UK · Edge Hill University, St Helens Rd, L39 4QP — offline",
+        "zh": "英国奥姆斯柯克 · Edge Hill University，St Helens Rd，L39 4QP — 线下",
+        "ja": "イギリス・オームスカーク · Edge Hill University、St Helens Rd、L39 4QP — オフライン"
+      },
+      "body": {
+        "en": "Build day for Grok Bot builders in North West England at Edge Hill University: team up, learn and build with Grok Bot and Cursor; all levels welcome. Free with host approval; forum 173850; slug cursor-i0ov.",
+        "zh": "英格兰西北部 Grok Bot 构建日，在 Edge Hill University：组队、学习并用 Grok Bot 和 Cursor 动手做，欢迎各种水平。免费需主办审核；论坛 173850；slug cursor-i0ov。",
+        "ja": "イングランド北西部の Grok Bot ビルドデー（Edge Hill University）。チームを組み、Grok Bot と Cursor で学びながら作る。レベル不問。無料・主催承認制。forum 173850。slug cursor-i0ov。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "sof-20261030",
+      "url": "https://luma.com/grok-bot-sofia",
+      "image": "./assets/events/sof-20261030-cover.png",
+      "expires": "2026-10-30T17:00:00+02:00",
+      "title": {
+        "en": "Grok Bot Meetup Sofia",
+        "zh": "Grok Bot Meetup 索非亚",
+        "ja": "Grok Bot Meetup ソフィア"
+      },
+      "when": {
+        "en": "Fri 30 Oct 2026, 15:00–17:00 (Europe/Sofia, EET, UTC+2)",
+        "zh": "2026-10-30 周五 15:00–17:00（Europe/Sofia，EET，UTC+2）",
+        "ja": "2026-10-30（金）15:00–17:00（Europe/Sofia、EET、UTC+2）"
+      },
+      "where": {
+        "en": "Sofia, Bulgaria · Bulgarian Army Stadium, Borisova Gradina, bul. Dragan Tsankov 3 — offline",
+        "zh": "保加利亚索非亚 · 保加利亚陆军体育场（Borisova Gradina），bul. Dragan Tsankov 3 — 线下",
+        "ja": "ブルガリア・ソフィア · ブルガリア陸軍スタジアム（Borisova Gradina）、bul. Dragan Tsankov 3 — オフライン"
+      },
+      "body": {
+        "en": "Two-hour hands-on Build with Grok workshop with StartUp Bulgaria Crossroads, led by SpaceXAI ambassadors Kristiyan Velkov and Niccolò Mascaro; bring a laptop, places limited. Free RSVP; forum 173851; slug grok-bot-sofia.",
+        "zh": "与 StartUp Bulgaria Crossroads 合办的两小时 Build with Grok 实操工作坊，由 SpaceXAI 大使 Kristiyan Velkov 和 Niccolò Mascaro 带领；请带电脑，名额有限。免费报名；论坛 173851；slug grok-bot-sofia。",
+        "ja": "StartUp Bulgaria Crossroads と共催の 2 時間のハンズオン「Build with Grok」。SpaceXAI アンバサダーの Kristiyan Velkov と Niccolò Mascaro が担当。PC 持参、定員あり。無料 RSVP。forum 173851。slug grok-bot-sofia。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "kaw-20261104",
+      "url": "https://luma.com/spacexai-kanagawa-meetup-2",
+      "image": "./assets/events/kaw-20261104-cover.png",
+      "expires": "2026-11-04T21:00:00+09:00",
+      "title": {
+        "en": "Grok Bot Kanagawa Meetup (Kawasaki)",
+        "zh": "Grok Bot 神奈川 Meetup（川崎）",
+        "ja": "Grok Bot Kanagawa Meetup（川崎）"
+      },
+      "when": {
+        "en": "Wed 4 Nov 2026, 18:30–21:00 (Asia/Tokyo, JST, UTC+9)",
+        "zh": "2026-11-04 周三 18:30–21:00（Asia/Tokyo，JST，UTC+9）",
+        "ja": "2026-11-04（水）18:30–21:00（Asia/Tokyo、JST、UTC+9）"
+      },
+      "where": {
+        "en": "Kawasaki, Japan · Uvance Innovation Studio, JR Kawasaki Tower 26F, 1-5 Omiya-cho, Saiwai-ku — offline",
+        "zh": "日本川崎 · Uvance Innovation Studio，JR 川崎塔 26 层（幸区大宫町 1-5）— 线下",
+        "ja": "日本・川崎 · Uvance Innovation Studio、JR川崎タワー26階（幸区大宮町1-5）— オフライン"
+      },
+      "body": {
+        "en": "Hands-on meetup where everyone builds bots together and shares them in two rounds, followed by drinks; meant for people already on an eligible Grok Bot plan. Free with host approval; forum 173852; slug spacexai-kanagawa-meetup-2.",
+        "zh": "大家一起动手做 Bot、分两轮分享成果，最后有交流会（只供饮料）；面向已订阅对应 Grok Bot 套餐的人。免费需主办审核；论坛 173852；slug spacexai-kanagawa-meetup-2。",
+        "ja": "みんなでワイワイ Bot を作り、2 回に分けて成果を共有する体験型ミートアップ。最後に懇親会（飲料のみ）。対象プラン契約者向け。無料・主催承認制。forum 173852。slug spacexai-kanagawa-meetup-2。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "lfw-20261114",
+      "url": "https://luma.com/syepftk0",
+      "image": "./assets/events/lfw-20261114-cover.png",
+      "expires": "2026-11-14T17:00:00+00:00",
+      "title": {
+        "en": "Grok Bot Build Day Lomé",
+        "zh": "Grok Bot 构建日 洛美",
+        "ja": "Grok Bot Build Day Lomé（ロメ）"
+      },
+      "when": {
+        "en": "Sat 14 Nov 2026, 09:00–17:00 (Africa/Lome, GMT, UTC+0)",
+        "zh": "2026-11-14 周六 09:00–17:00（Africa/Lome，GMT，UTC+0）",
+        "ja": "2026-11-14（土）09:00–17:00（Africa/Lome、GMT、UTC+0）"
+      },
+      "where": {
+        "en": "Lomé, Togo · Lomé Business School (LBS), 96 Jean-Paul 2 — offline",
+        "zh": "多哥洛美 · Lomé Business School（LBS），96 Jean-Paul 2 — 线下",
+        "ja": "トーゴ・ロメ · Lomé Business School（LBS）、96 Jean-Paul 2 — オフライン"
+      },
+      "body": {
+        "en": "French-language one-day hackathon: a Grok Bot intro, team forming, a day of building your bot or tool, demos in front of a jury and networking; no experience needed. Free RSVP; forum 173853; slug syepftk0.",
+        "zh": "法语一日 Hackathon：介绍 Grok Bot、组队、用一整天做出你的 bot 或工具，向评委演示并交流，无需经验。免费报名；论坛 173853；slug syepftk0。",
+        "ja": "フランス語の 1 日ハッカソン。Grok Bot 紹介、チーム結成、bot やツールづくり、審査員へのデモ、交流。経験不要。無料 RSVP。forum 173853。slug syepftk0。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "jim-20261115",
+      "url": "https://luma.com/spacexai-yijh",
+      "image": "./assets/events/jim-20261115-cover.png",
+      "expires": "2026-11-15T11:00:00+03:00",
+      "title": {
+        "en": "Grok Bot Hackathon Jimma",
+        "zh": "Grok Bot Hackathon 吉马",
+        "ja": "Grok Bot Hackathon ジンマ"
+      },
+      "when": {
+        "en": "Sat 14 Nov 08:00 – Sun 15 Nov 11:00, 2026 (Africa/Addis_Ababa, EAT, UTC+3)",
+        "zh": "2026-11-14 周六 08:00 至 11-15 周日 11:00（Africa/Addis_Ababa，EAT，UTC+3）",
+        "ja": "2026-11-14（土）08:00〜11-15（日）11:00（Africa/Addis_Ababa、EAT、UTC+3）"
+      },
+      "where": {
+        "en": "Jimma, Ethiopia · Jimma University — offline",
+        "zh": "埃塞俄比亚吉马 · 吉马大学 — 线下",
+        "ja": "エチオピア・ジンマ · ジンマ大学 — オフライン"
+      },
+      "body": {
+        "en": "Overnight Grok Bot hackathon at Jimma University from the SpaceXAI Addis Ababa calendar, hosted by natnael Eskinder and Alpha Lencho. Free RSVP; forum 173854; slug spacexai-yijh.",
+        "zh": "SpaceXAI 亚的斯亚贝巴日历发布、在吉马大学举办的通宵 Grok Bot Hackathon，主办 natnael Eskinder 和 Alpha Lencho。免费报名；论坛 173854；slug spacexai-yijh。",
+        "ja": "SpaceXAI アディスアベバのカレンダーによる、ジンマ大学での泊まり込み Grok Bot ハッカソン。主催 natnael Eskinder、Alpha Lencho。無料 RSVP。forum 173854。slug spacexai-yijh。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "gua-20261121",
+      "url": "https://luma.com/c398wllp",
+      "image": "./assets/events/gua-20261121-cover.png",
+      "expires": "2026-11-21T15:00:00-06:00",
+      "title": {
+        "en": "Grok Bot Guatemala: Build & Pitch",
+        "zh": "Grok Bot 危地马拉：Build & Pitch",
+        "ja": "Grok Bot Guatemala: Build & Pitch（グアテマラ）"
+      },
+      "when": {
+        "en": "Sat 21 Nov 2026, 08:00–15:00 (America/Guatemala, CST, UTC−6)",
+        "zh": "2026-11-21 周六 08:00–15:00（America/Guatemala，CST，UTC−6）",
+        "ja": "2026-11-21（土）08:00–15:00（America/Guatemala、CST、UTC−6）"
+      },
+      "where": {
+        "en": "Guatemala City · Universidad del Valle de Guatemala (exact address after RSVP) — offline",
+        "zh": "危地马拉城 · 危地马拉谷大学（报名后公布具体地址）— 线下",
+        "ja": "グアテマラシティ · Universidad del Valle de Guatemala（詳細住所は登録後）— オフライン"
+      },
+      "body": {
+        "en": "Spanish-language build-and-pitch morning: four straight hours building with Grok Bot solo or in a team, then a short pitch and direct feedback. Free RSVP; forum 173855; slug c398wllp.",
+        "zh": "西语 Build & Pitch：连续四小时用 Grok Bot 单人或组队开发，再做简短路演并获得现场反馈。免费报名；论坛 173855；slug c398wllp。",
+        "ja": "スペイン語のビルド＆ピッチ。Grok Bot で 4 時間続けて個人またはチームで開発し、短いピッチと直接のフィードバック。無料 RSVP。forum 173855。slug c398wllp。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
       }
     }
   ]
