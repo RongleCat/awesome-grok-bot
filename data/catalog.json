@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -4293,6 +4293,36 @@
             "en": "Free US Visa Bulletin alerts for China and India EB-1/2/3 that push to a webhook-triggered Grok Bot routine (or ChatGPT and other agents) with one-sentence setup and an immediate test alert.",
             "zh": "免费美国签证排期推送（中国/印度 EB-1/2/3）：推送到 webhook 触发的 Grok Bot 例程（也支持 ChatGPT 等），一句话完成设置并立即发送测试提醒。",
             "ja": "中国・インドの EB-1/2/3 向け無料の米国ビザ・ブリテン通知。Webhook トリガーの Grok Bot ルーチン（ChatGPT なども可）へ配信し、一文で設定、すぐテスト通知。"
+          }
+        },
+        {
+          "title": "Tesla Ready — a Grok Bot that warms up your Tesla",
+          "url": "https://github.com/acupofcode2/tesla-ready-grok-bot",
+          "source": "GB-2094",
+          "blurb": {
+            "en": "Public skills behind the free Tesla Ready Grok Bot template, which pre-heats or cools the cabin from your calendar and traffic using only Tesla's official Fleet API, with keys and tokens kept on the owner's Grok Bot computer.",
+            "zh": "免费 Grok Bot 模板 Tesla Ready 背后的公开技能：根据日历和路况提前给特斯拉车内加热或降温，只走特斯拉官方 Fleet API，密钥和 token 都只留在车主自己的 Grok Bot 电脑上。",
+            "ja": "無料の Grok Bot テンプレート Tesla Ready の公開スキル。カレンダーと交通状況に合わせて Tesla の車内を事前に暖房・冷房し、Tesla 公式 Fleet API だけを使い、鍵とトークンは所有者の Grok Bot の PC にだけ置く。"
+          }
+        },
+        {
+          "title": "photo-trace — phone photo of an error to root cause (Dublin Builder Day)",
+          "url": "https://github.com/henry-da-lab/photo-trace",
+          "source": "GB-2095",
+          "blurb": {
+            "en": "Built with Grok Bot and Bronto at Grok Bot Dublin Builder Day on 4 Oct 2026: snap an error on your phone and the laptop shows the matching Bronto log search, one root cause and one fix command that only runs after a human approves.",
+            "zh": "2026 年 10 月 4 日 Grok Bot 都柏林 Builder Day 上用 Grok Bot 和 Bronto 做的作品：手机拍下报错，笔记本上就显示对应的 Bronto 日志检索、一条根因和一条修复命令，命令要人确认后才执行。",
+            "ja": "2026 年 10 月 4 日の Grok Bot Dublin Builder Day で Grok Bot と Bronto を使って作られた作品。スマホでエラーを撮ると、ノート PC に該当する Bronto のログ検索、原因 1 つ、修正コマンド 1 つが表示され、実行は人の承認後のみ。"
+          }
+        },
+        {
+          "title": "NetProjects: how we run our sites with about 30 Grok Bot agents",
+          "url": "https://netprojects.com/insights/how-we-run-netprojects-with-ai-agents",
+          "source": "GB-2096",
+          "blurb": {
+            "en": "Internet Projects Ltd explains running about 30 single-job agents on Grok Bot, led by a Chief of Staff, with drafts by default, a human yes for production, code handed to Cursor through reviewed pull requests, and the early September issues it reported to support.",
+            "zh": "Internet Projects Ltd 分享他们在 Grok Bot 上跑约 30 个各管一摊的智能体：由一个 Chief of Staff 统筹，默认只出草稿，上生产要人点头，代码活交给 Cursor 走经过审核的 PR，并列出了 9 月初期向官方支持报告过的问题。",
+            "ja": "Internet Projects Ltd が、Chief of Staff が統括する単一職務のエージェント約 30 体を Grok Bot で運用する方法を紹介。既定は下書き、本番は人の承認、コードはレビュー付きプルリクエストで Cursor に任せ、9 月の初期トラブルとサポートへの報告も記載。"
           }
         }
       ]
@@ -10844,6 +10874,66 @@
             "zh": "MIT 开源的一键部署 Cloudflare Worker，跑在你自己的免费账号上，生成一个私密 MCP 地址，在 Grok Bot 里添加为自定义连接器并配合技能后，Bot 就能在有新线索、任务失败或报告完成时只给你本人发邮件。",
             "ja": "MIT ライセンスのワンクリック Cloudflare Worker。自分の無料アカウント上で動き、秘密の MCP URL を Grok Bot のカスタムコネクタとして追加し、スキルと組み合わせると、新規リードや失敗したジョブ、完成したレポートを本人だけにメール通知できる。"
           }
+        },
+        {
+          "title": "Horizon plugin — ask Horizon's Superconsultant from Grok Bot",
+          "url": "https://github.com/horizonhub-app/horizon-plugin",
+          "source": "GB-2086",
+          "blurb": {
+            "en": "MIT plugin with one OAuth-protected remote MCP declaration that works in Grok Bot and Cursor through the Cursor Marketplace and in Grok Build, letting the agent ask Horizon's Superconsultant about your company's processes, findings and initiatives.",
+            "zh": "MIT 开源插件，只声明一个走 OAuth 的远程 MCP，可经 Cursor 插件市场在 Grok Bot 和 Cursor 里用，也支持 Grok Build，让智能体向 Horizon 的 Superconsultant 询问你公司的流程、发现和改进计划。",
+            "ja": "MIT ライセンスのプラグイン。OAuth 付きリモート MCP を 1 つ宣言するだけで、Cursor Marketplace 経由で Grok Bot と Cursor、さらに Grok Build でも使え、Horizon の Superconsultant に自社のプロセスや所見、施策を質問できる。"
+          }
+        },
+        {
+          "title": "Konektor — ad, lead and WhatsApp tracking data for Grok Bot (preview)",
+          "url": "https://github.com/Growth-Circle/konektor-plugin",
+          "source": "GB-2087",
+          "blurb": {
+            "en": "MIT read-only remote MCP plugin from GROW that you add to Grok Bot as a custom Remote HTTPS server with OAuth, so the Bot can report Konektor lead funnels, campaign results, ad spend and conversion delivery; marketplace approval is still pending.",
+            "zh": "GROW 出品的 MIT 只读远程 MCP 插件：在 Grok Bot 里添加为自定义 Remote HTTPS 服务器并走 OAuth 授权后，Bot 就能汇报 Konektor 的线索漏斗、广告活动效果、投放花费和转化回传状态；插件市场上架仍在审核中。",
+            "ja": "GROW による MIT の読み取り専用リモート MCP プラグイン。Grok Bot にカスタム Remote HTTPS サーバーとして OAuth で追加すると、Konektor のリードファネル、キャンペーン成果、広告費、コンバージョン送信状況をレポートできる。マーケット掲載は審査待ち。"
+          }
+        },
+        {
+          "title": "MonstarX plugin — ship full-stack apps from Grok Bot and Cursor",
+          "url": "https://github.com/monstarx-tech/monstarx-cursor-plugin",
+          "source": "GB-2088",
+          "blurb": {
+            "en": "MIT Cursor Marketplace plugin that connects Grok Bot and Cursor to MonstarX's hosted MCP, so the agent can push, build, preview and publish full-stack apps with a built-in backend, admin panel and REST APIs.",
+            "zh": "MIT 开源的 Cursor 插件市场插件，把 Grok Bot 和 Cursor 接到 MonstarX 的托管 MCP，让智能体推送、构建、预览并发布自带后端、管理后台和 REST API 的全栈应用。",
+            "ja": "MIT ライセンスの Cursor Marketplace プラグイン。Grok Bot と Cursor を MonstarX のホスト型 MCP につなぎ、バックエンド・管理画面・REST API 付きのフルスタックアプリをプッシュ、ビルド、プレビュー、公開できる。"
+          }
+        },
+        {
+          "title": "agent-recorder-mcp — record what Grok Bot does on its computer",
+          "url": "https://github.com/nuwainfo/agent-recorder-mcp",
+          "source": "GB-2089",
+          "blurb": {
+            "en": "Local MCP server plus skill that records the Grok Bot computer's X11 display with ffmpeg during browser and computer-use work, then hands back a FastFileLink, Google Drive or local replay link instead of the video.",
+            "zh": "本地 MCP 服务器加技能：在浏览器和电脑操作期间用 ffmpeg 录下 Grok Bot 电脑的 X11 画面，结束后返回 FastFileLink、Google Drive 或本地回放链接，而不是把视频塞给模型。",
+            "ja": "ローカル MCP サーバーとスキル。ブラウザや PC 操作の間、Grok Bot の PC の X11 画面を ffmpeg で録画し、動画そのものではなく FastFileLink、Google Drive、ローカルの再生リンクを返す。"
+          }
+        },
+        {
+          "title": "Watchtower — read-only security officer for your Grok Bot roster",
+          "url": "https://github.com/ken-aisec/grokbot-watchtower",
+          "source": "GB-2090",
+          "blurb": {
+            "en": "Apache-2.0 skill pack for the shared Grok Bot computer that vets templates before install, scores your setup 0–100 across skills, MCP configs, browser sessions and credentials, polls every Bot for risky routines and memories, and sends a weekly threat brief.",
+            "zh": "Apache-2.0 开源技能包，针对多个 Grok Bot 共用一台电脑的情况：安装模板前先审查，按技能、MCP 配置、浏览器登录态和凭据给整体打 0–100 分，逐个询问各 Bot 排查危险例程和记忆，并每周发威胁简报。",
+            "ja": "Apache-2.0 のスキルパック。複数の Grok Bot が 1 台の PC を共有する前提で、テンプレートを導入前に審査し、スキル・MCP 設定・ブラウザのログイン・認証情報を 0〜100 で採点、各 Bot に危険なルーチンや記憶を問い合わせ、週次の脅威レポートを送る。"
+          }
+        },
+        {
+          "title": "Grok Minion — a Despicable Me-themed Grok Bot team pack",
+          "url": "https://github.com/jaredtrichard/grok-minion",
+          "source": "GB-2091",
+          "blurb": {
+            "en": "Installable Grok Bot pack where Kevin becomes your Primary Bot and routes work to one minion per area, Dr. Nefario keeps a profile of how you work, and Cursor cloud agents do and independently review the heavy work, with drafts by default and a yes for every send.",
+            "zh": "可安装的 Grok Bot 团队包：Kevin 当你的主 Bot 负责分派，每个领域一个小黄人，Dr. Nefario 记录你的工作习惯，繁重任务交给 Cursor 云端智能体完成并由另一个智能体独立复核；默认只出草稿，任何发送都要你点头。",
+            "ja": "インストール型の Grok Bot チームパック。Kevin がプライマリ Bot として分野ごとのミニオンに仕事を振り、Dr. Nefario が働き方のプロフィールを管理、重い作業は Cursor クラウドエージェントが実行し別のエージェントが独立レビュー。既定は下書きで、送信には必ず承認が要る。"
+          }
         }
       ]
     },
@@ -14914,6 +15004,26 @@
             "zh": "MIT 开源的 macOS 原型：把你现有的 Grok Bot 变成可拖动的桌面悬浮角色，点开即聊天面板，通过官方 BDK 连接，并自动读取本地缓存里的 Bot 头像。",
             "ja": "MIT ライセンスの macOS プロトタイプ。既存の Grok Bot をドラッグ可能なフローティングキャラとして画面に置き、展開式チャットパネルで会話。公式 BDK で接続し、ローカルキャッシュの Bot アバターを使用。"
           }
+        },
+        {
+          "title": "grokbot-wechat — use WeChat as a chat entry for Grok Bot",
+          "url": "https://github.com/psylch/grokbot-wechat",
+          "source": "GB-2092",
+          "blurb": {
+            "en": "MIT Python bridge that long-polls Tencent's official WeChat ClawBot (iLink) and batches text, voice, images and files into a Grok Bot webhook routine, with a send script for replies, an outbox for queued pushes, keep-alive nudges and a watchdog.",
+            "zh": "MIT 开源的 Python 桥接：长轮询腾讯官方微信 ClawBot（iLink 协议），把文字、语音、图片和文件打包推给 Grok Bot 的 Webhook 例程，配有回复脚本、推送失败排队的发件箱、保活提醒和看门狗。",
+            "ja": "MIT ライセンスの Python ブリッジ。Tencent 公式の WeChat ClawBot（iLink）をロングポーリングし、テキスト・音声・画像・ファイルをまとめて Grok Bot の Webhook ルーチンへ送る。返信スクリプト、未送信キュー、キープアライブ通知、ウォッチドッグ付き。"
+          }
+        },
+        {
+          "title": "Penny DOGE — weekly Grok Bot fleet usage scan with no AI in the crons",
+          "url": "https://github.com/bowiehole/penny-doge",
+          "source": "GB-2093",
+          "blurb": {
+            "en": "Public scanner tree for the Penny DOGE Grok Bot template that reads local bot chats, routine runs and CLI sessions with plain bash and Python each week, estimates spend, flags wasteful routines and idle bots, and only wakes a webhook routine when something is worth reporting.",
+            "zh": "Penny DOGE 这个 Grok Bot 模板的公开扫描脚本：每周用纯 bash 和 Python 读取本机的 Bot 聊天、例程运行和 CLI 会话，估算花费，标出浪费的例程和闲置的 Bot，只在值得汇报时才唤醒 webhook 例程。",
+            "ja": "Grok Bot テンプレート Penny DOGE の公開スキャナー。毎週、素の bash と Python でローカルの Bot チャット、ルーチン実行、CLI セッションを読み、費用を見積もり、無駄なルーチンや放置 Bot を指摘し、報告に値するときだけ Webhook ルーチンを起こす。"
+          }
         }
       ]
     },
@@ -17723,6 +17833,76 @@
             "en": "Feature request from a Windows and iPhone user whose Bots keep dropping connection, showing the remote computer as unreachable and leaving device status out of sync, asking for a clear connection status indicator in the UI.",
             "zh": "功能请求：一位 Windows 和 iPhone 用户的 Bot 频繁掉线、远程电脑显示不可达、多设备状态不同步，希望界面里加一个清楚的连接状态指示。",
             "ja": "機能リクエスト：Windows と iPhone で Bot の接続が頻繁に切れ、リモート PC が到達不能と表示され、端末間の状態も同期しないため、UI に分かりやすい接続状態インジケーターを求める投稿。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot iOS often opens a bot to a blank conversation",
+          "url": "https://forum.cursor.com/t/grok-bot-ios-opening-a-bot-often-shows-a-completely-blank-conversation-only-force-quitting-and-reopening-the-app-fixes-it/173776",
+          "source": "GB-2099",
+          "blurb": {
+            "en": "Bug report: tapping a bot on iOS often shows no messages or loading indicator until the app is force-quit; staff said the conversation does reach the app but isn't drawn on screen, and passed it to the team.",
+            "zh": "故障报告：iOS 上点开 Bot 经常是空白对话，没有消息也没有加载提示，只能强退应用；官方说对话其实已传到应用，只是没画到屏幕上，已转给团队。",
+            "ja": "不具合報告：iOS で Bot を開くと、メッセージも読み込み表示もない空の会話になることが多く、アプリを強制終了するしかない。スタッフは会話はアプリに届いているが描画されていないと説明し、チームに共有。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot's 1Password vault stuck at a stale item count",
+          "url": "https://forum.cursor.com/t/grok-bot-1password-vault-item-count-stuck-after-edits-stale-sync/173781",
+          "source": "GB-2100",
+          "blurb": {
+            "en": "Bug report: new logins and website edits in the Shared with Grok Bot vault never reach the Bot, which keeps reporting the same item count for days; staff confirmed a tracked issue and suggested trimming the vault to a few dozen items.",
+            "zh": "故障报告：在“Shared with Grok Bot”保险库里新增的登录项和改过的网址一直同步不到 Bot，条目数连续几天不变；官方确认是已在跟踪的问题，建议把保险库精简到几十条。",
+            "ja": "不具合報告：「Shared with Grok Bot」保管庫に追加したログインやサイトの編集が Bot に反映されず、項目数が何日も変わらない。スタッフは追跡中の問題と認め、保管庫を数十件程度に絞るよう提案。"
+          }
+        },
+        {
+          "title": "Forum: computer stuck on \"Starting desktop\" and mobile shows \"Send after reconnect\"",
+          "url": "https://forum.cursor.com/t/grok-bots-computer-is-stuck-on-starting-desktop-with-cant-reach-grok-bots-screen-attachments-wont-download-and-the-mobile-app-shows-send-after-reconnect-with-no-response/173788",
+          "source": "GB-2101",
+          "blurb": {
+            "en": "Multi-user report from Oct 5: after an update and self-recovery the computer tab sat on \"Can't reach Grok Bot's screen\", attachments wouldn't download, and Mac, Android and iOS apps queued messages as Send after reconnect, while voice mode and Grok Bot inside the Grok app still worked.",
+            "zh": "10 月 5 日多名用户反馈：电脑更新并自动恢复后，电脑页一直卡在“无法连接 Grok Bot 的屏幕”，附件下载不了，Mac、Android 和 iOS 应用发消息都显示“重连后发送”；语音模式和 Grok 应用里的 Grok Bot 仍能用。",
+            "ja": "10 月 5 日の複数ユーザー報告：更新と自動復旧の後、PC タブが「Grok Bot の画面に接続できません」のまま、添付もダウンロードできず、Mac・Android・iOS アプリでは送信が「再接続後に送信」で止まった。音声モードと Grok アプリ内の Grok Bot は動作。"
+          }
+        },
+        {
+          "title": "Forum: Windows full-screen computer view has no way back to chat",
+          "url": "https://forum.cursor.com/t/windows-full-agent-computer-view-has-no-way-back-to-chat/173791",
+          "source": "GB-2102",
+          "blurb": {
+            "en": "Bug report: on Windows with a right-to-left UI language such as Hebrew, the full-screen computer view hides its exit button behind the window controls; staff's workaround is switching the app language to English.",
+            "zh": "故障报告：Windows 版界面用希伯来语等从右到左的语言时，全屏电脑视图的退出按钮被窗口按钮挡住，回不到聊天；官方给的临时办法是把应用语言切成英文。",
+            "ja": "不具合報告：Windows でヘブライ語など右から左の UI 言語を使うと、全画面の PC ビューの終了ボタンがウィンドウのボタンに隠れてチャットに戻れない。スタッフの回避策はアプリの言語を英語に切り替えること。"
+          }
+        },
+        {
+          "title": "Forum request: CarPlay support for Grok Bot",
+          "url": "https://forum.cursor.com/t/add-carplay-support-for-grok-bot/173797",
+          "source": "GB-2103",
+          "blurb": {
+            "en": "Feature request for a CarPlay app; staff said there is none yet and pointed to the built-in voice chat in the phone app, which keeps running with the phone locked and has mute and hang-up on the Lock Screen.",
+            "zh": "功能请求：希望出 CarPlay 应用；官方说暂时没有，并推荐手机应用自带的语音聊天，锁屏后仍能继续对话，锁屏界面可静音或挂断。",
+            "ja": "機能リクエスト：CarPlay アプリの要望。スタッフはまだないとし、スマホアプリ内蔵の音声チャットを案内。画面ロック中も会話が続き、ロック画面からミュートや終了ができる。"
+          }
+        },
+        {
+          "title": "Forum: Bot instructions missing from the macOS desktop details pane",
+          "url": "https://forum.cursor.com/t/grok-bot-macos-unable-to-see-or-edit-bot-instructions-or-skills-on-desktop/173803",
+          "source": "GB-2104",
+          "blurb": {
+            "en": "Report that the redesigned desktop details pane for personal Bots shows only Routines; staff confirmed the Instructions field was left out of the new layout and is tracked, and noted skills are still editable from Marketplace with Cmd+Shift+M.",
+            "zh": "反馈：个人 Bot 的桌面版详情面板改版后只剩例程；官方确认新布局漏掉了指令字段，已在跟踪，并说明技能仍可在插件市场（Cmd+Shift+M）里编辑。",
+            "ja": "報告：個人 Bot のデスクトップ版詳細パネルが刷新後ルーチンしか表示しない。スタッフは新レイアウトで指示欄が抜けたと認めて追跡中とし、スキルは Marketplace（Cmd+Shift+M）から引き続き編集できると案内。"
+          }
+        },
+        {
+          "title": "Forum request: landscape mode for the Grok Bot computer on mobile",
+          "url": "https://forum.cursor.com/t/show-grok-bot-computer-in-landscape-mode-on-mobile/173806",
+          "source": "GB-2105",
+          "blurb": {
+            "en": "Feature request for landscape viewing of a Bot's computer on Android; staff said phones are portrait-only for now and landscape is on the radar, and suggested pinch-zooming up to 4x and two-finger panning meanwhile.",
+            "zh": "功能请求：希望在 Android 上横屏查看 Bot 的电脑；官方说手机端目前只支持竖屏，横屏已在计划中，暂时可以双指放大到 4 倍并拖动查看。",
+            "ja": "機能リクエスト：Android で Bot の PC を横画面で見たい。スタッフはスマホは現在縦のみで横対応は検討中とし、当面はピンチで最大 4 倍まで拡大し 2 本指で移動するよう案内。"
           }
         }
       ]
@@ -20693,6 +20873,26 @@
             "en": "Dependency-free Node MVP that collects, classifies, dedupes and translates news about Grok Bot, OpenAI Dots and Meta Muse into a Korean-only public digest, with sample fallback and a Cloudflare quick-tunnel recipe for publishing it.",
             "zh": "无依赖的 Node MVP：抓取、分类、去重并翻译 Grok Bot、OpenAI Dots 和 Meta Muse 的新闻，做成纯韩语公开简报，带失败时的样例回退，并附 Cloudflare 快速隧道公开发布的做法。",
             "ja": "依存なしの Node MVP。Grok Bot、OpenAI Dots、Meta Muse のニュースを収集・分類・重複排除・翻訳して韓国語のみの公開ダイジェストにまとめ、失敗時のサンプルフォールバックと Cloudflare クイックトンネルでの公開手順付き。"
+          }
+        },
+        {
+          "title": "Grokked Bot — open-source AI teammate on your own Linux box",
+          "url": "https://github.com/alnutile/grokked-bot",
+          "source": "GB-2097",
+          "blurb": {
+            "en": "Independent project inspired by Grok Bot and Claude Cowork that gives each bot its own container desktop with a logged-in browser and shell on hardware you own, a Tauri app to watch and take control, and any model through OpenRouter.",
+            "zh": "受 Grok Bot 和 Claude Cowork 启发的独立项目：在你自己的硬件上给每个 Bot 一个容器桌面，带保持登录的浏览器和终端，用 Tauri 应用观看并随时接管，模型通过 OpenRouter 任选。",
+            "ja": "Grok Bot と Claude Cowork に触発された独立プロジェクト。自前のハードウェア上で各 Bot にログイン状態を保つブラウザとシェル付きのコンテナデスクトップを与え、Tauri アプリで見守り・操作を奪え、モデルは OpenRouter で自由に選べる。"
+          }
+        },
+        {
+          "title": "nano-agents — self-hosted Grok Bot-style teammates (independent)",
+          "url": "https://github.com/shoodoow/nano-agents",
+          "source": "GB-2098",
+          "blurb": {
+            "en": "MIT self-hosted, work-in-progress take on a Grok Bot-style setup: chat from a phone app, agents with memory, routines, skills and MCP tools, workers, and a Linux desktop you can watch, using your own OpenAI, Anthropic or xAI keys.",
+            "zh": "MIT 开源、仍在开发中的自托管方案，仿 Grok Bot 的玩法：手机 App 聊天，智能体带记忆、例程、技能和 MCP 工具，能派工作进程，还有可旁观的 Linux 桌面，模型用你自己的 OpenAI、Anthropic 或 xAI 密钥。",
+            "ja": "MIT ライセンスで開発中のセルフホスト版 Grok Bot 風環境。スマホアプリでチャットし、エージェントは記憶・ルーチン・スキル・MCP ツール・ワーカーを持ち、見守れる Linux デスクトップも備える。モデルは自分の OpenAI、Anthropic、xAI キーを使う。"
           }
         }
       ]

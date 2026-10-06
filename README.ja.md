@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2061-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2081-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -517,6 +517,9 @@
 - [falconfpga — Atari Falcon FPGA with Grok Bot handoff](https://github.com/dave-1024/falconfpga) - Tang Console 向け Atari Falcon FPGA 作業ログ。Grok Bot のパッチ受け渡し手順を文書化し、チャットと Bot の衝突を防ぐ。
 - [GrokD4M — HurlingWiki built with Grok Bot + D4M](https://github.com/Sliothar1/GrokD4M) - 子供向けゴールウェイ hurling 知識サイト（MIT D4M 風連想配列）。Grok Bot プロジェクトのハンドオフ用リポ。
 - [Visa Bulletin Push — visa priority-date alerts to a Grok Bot routine](https://github.com/jt-wang/visa-bulletin-push) - 中国・インドの EB-1/2/3 向け無料の米国ビザ・ブリテン通知。Webhook トリガーの Grok Bot ルーチン（ChatGPT なども可）へ配信し、一文で設定、すぐテスト通知。
+- [Tesla Ready — a Grok Bot that warms up your Tesla](https://github.com/acupofcode2/tesla-ready-grok-bot) - 無料の Grok Bot テンプレート Tesla Ready の公開スキル。カレンダーと交通状況に合わせて Tesla の車内を事前に暖房・冷房し、Tesla 公式 Fleet API だけを使い、鍵とトークンは所有者の Grok Bot の PC にだけ置く。
+- [photo-trace — phone photo of an error to root cause (Dublin Builder Day)](https://github.com/henry-da-lab/photo-trace) - 2026 年 10 月 4 日の Grok Bot Dublin Builder Day で Grok Bot と Bronto を使って作られた作品。スマホでエラーを撮ると、ノート PC に該当する Bronto のログ検索、原因 1 つ、修正コマンド 1 つが表示され、実行は人の承認後のみ。
+- [NetProjects: how we run our sites with about 30 Grok Bot agents](https://netprojects.com/insights/how-we-run-netprojects-with-ai-agents) - Internet Projects Ltd が、Chief of Staff が統括する単一職務のエージェント約 30 体を Grok Bot で運用する方法を紹介。既定は下書き、本番は人の承認、コードはレビュー付きプルリクエストで Cursor に任せ、9 月の初期トラブルとサポートへの報告も記載。
 
 ## スキル、プラグインと MCP
 
@@ -1174,6 +1177,12 @@
 - [Xro 8.5 plugin for Grok Build (web search with citations)](https://github.com/ULTRAXAS/xro-8-5) - 軽量な .grok-plugin ラッパー。Grok Build を ULTRAXAS の公開ホスト型 MCP につなぎ、引用付きのライブ Web 検索と Xro チャットを提供。xAI プラグインマーケットか grok mcp add で導入できる。
 - [maven-mcp — Maven dependency intelligence plugin (Grok Build / Cursor / Claude Code)](https://github.com/kirich1409/maven-mcp) - MIT ライセンスのプラグイン。依存ゼロの Python MCP サーバーを同梱し、Grok Build には .mcp.json、Cursor には mcp.json で登録。Maven アーティファクトのバージョン照会、Gradle/Maven プロジェクトの古い・脆弱な依存のスキャン、変更履歴の取得ができる。
 - [agent-notify — let Grok Bot email you when something needs attention](https://github.com/CyrisXD/agent-notify) - MIT ライセンスのワンクリック Cloudflare Worker。自分の無料アカウント上で動き、秘密の MCP URL を Grok Bot のカスタムコネクタとして追加し、スキルと組み合わせると、新規リードや失敗したジョブ、完成したレポートを本人だけにメール通知できる。
+- [Horizon plugin — ask Horizon's Superconsultant from Grok Bot](https://github.com/horizonhub-app/horizon-plugin) - MIT ライセンスのプラグイン。OAuth 付きリモート MCP を 1 つ宣言するだけで、Cursor Marketplace 経由で Grok Bot と Cursor、さらに Grok Build でも使え、Horizon の Superconsultant に自社のプロセスや所見、施策を質問できる。
+- [Konektor — ad, lead and WhatsApp tracking data for Grok Bot (preview)](https://github.com/Growth-Circle/konektor-plugin) - GROW による MIT の読み取り専用リモート MCP プラグイン。Grok Bot にカスタム Remote HTTPS サーバーとして OAuth で追加すると、Konektor のリードファネル、キャンペーン成果、広告費、コンバージョン送信状況をレポートできる。マーケット掲載は審査待ち。
+- [MonstarX plugin — ship full-stack apps from Grok Bot and Cursor](https://github.com/monstarx-tech/monstarx-cursor-plugin) - MIT ライセンスの Cursor Marketplace プラグイン。Grok Bot と Cursor を MonstarX のホスト型 MCP につなぎ、バックエンド・管理画面・REST API 付きのフルスタックアプリをプッシュ、ビルド、プレビュー、公開できる。
+- [agent-recorder-mcp — record what Grok Bot does on its computer](https://github.com/nuwainfo/agent-recorder-mcp) - ローカル MCP サーバーとスキル。ブラウザや PC 操作の間、Grok Bot の PC の X11 画面を ffmpeg で録画し、動画そのものではなく FastFileLink、Google Drive、ローカルの再生リンクを返す。
+- [Watchtower — read-only security officer for your Grok Bot roster](https://github.com/ken-aisec/grokbot-watchtower) - Apache-2.0 のスキルパック。複数の Grok Bot が 1 台の PC を共有する前提で、テンプレートを導入前に審査し、スキル・MCP 設定・ブラウザのログイン・認証情報を 0〜100 で採点、各 Bot に危険なルーチンや記憶を問い合わせ、週次の脅威レポートを送る。
+- [Grok Minion — a Despicable Me-themed Grok Bot team pack](https://github.com/jaredtrichard/grok-minion) - インストール型の Grok Bot チームパック。Kevin がプライマリ Bot として分野ごとのミニオンに仕事を振り、Dr. Nefario が働き方のプロフィールを管理、重い作業は Cursor クラウドエージェントが実行し別のエージェントが独立レビュー。既定は下書きで、送信には必ず承認が要る。
 
 ## レビューと比較
 
@@ -1585,6 +1594,8 @@
 - [Grok Codex Gateway — let Grok Bot run Codex locally](https://github.com/GMusliaj/grok-codex-gateway) - Mac 上のループバック MCP ゲートウェイ。Grok Bot の会話から対象プロジェクトを見つけ、読み取り専用/編集可の Codex CLI ジョブを起動し、結果と追質問を Bot に戻す。
 - [grok-bot-usage — local Grok Bot usage dashboard](https://github.com/Amine-cnslt/grok-bot-usage) - 自分の PC で動かす小さな Python サーバー。Cursor でサインインし、各 Bot の Grok Bot トークン使用量を localhost 限定のダッシュボードに表示。
 - [Grokbot Widget — floating macOS companion for your Grok Bot](https://github.com/imranbarbhuiya/grokbot-widget) - MIT ライセンスの macOS プロトタイプ。既存の Grok Bot をドラッグ可能なフローティングキャラとして画面に置き、展開式チャットパネルで会話。公式 BDK で接続し、ローカルキャッシュの Bot アバターを使用。
+- [grokbot-wechat — use WeChat as a chat entry for Grok Bot](https://github.com/psylch/grokbot-wechat) - MIT ライセンスの Python ブリッジ。Tencent 公式の WeChat ClawBot（iLink）をロングポーリングし、テキスト・音声・画像・ファイルをまとめて Grok Bot の Webhook ルーチンへ送る。返信スクリプト、未送信キュー、キープアライブ通知、ウォッチドッグ付き。
+- [Penny DOGE — weekly Grok Bot fleet usage scan with no AI in the crons](https://github.com/bowiehole/penny-doge) - Grok Bot テンプレート Penny DOGE の公開スキャナー。毎週、素の bash と Python でローカルの Bot チャット、ルーチン実行、CLI セッションを読み、費用を見積もり、無駄なルーチンや放置 Bot を指摘し、報告に値するときだけ Webhook ルーチンを起こす。
 
 ## コミュニティと障害事例
 
@@ -1868,6 +1879,13 @@
 - [Forum: browser snapshot exposes a password filled by the Secure Form in plain text](https://forum.cursor.com/t/grok-bot-browser-snapshot-shows-a-password-filled-by-the-secure-form-requestuserform-in-plain-text/173748) - セキュリティ不具合報告：チャット内の Secure Form で Bot の PC のブラウザに GitHub ログインを入力した後、ブラウザサブエージェントのアクセシビリティスナップショットにパスワードが平文で表示され、ツール出力と記録に残った。
 - [Forum: Grok Bot computer auto-recreated from an incomplete copy, recent data missing](https://forum.cursor.com/t/grok-bot-was-reprovisioned-to-a-new-context-but-recent-data-from-the-previous-computer-was-not-carried-over/173771) - 不具合報告：9 月 17 日から稼働していた常駐 PC が、更新・復旧・リセットなしで 10 月 5 日に再作成され、新旧の環境がしばらく並行し、新しい方に最近のファイルがなかった。スタッフは未完了の自動再作成と認め、更新・復旧・リセットを押さず、旧エンドポイントに届くうちにバックアップするよう案内。
 - [Forum request: show a connection status indicator in Grok Bot](https://forum.cursor.com/t/add-a-connection-status-indicator-to-grok-bot/173758) - 機能リクエスト：Windows と iPhone で Bot の接続が頻繁に切れ、リモート PC が到達不能と表示され、端末間の状態も同期しないため、UI に分かりやすい接続状態インジケーターを求める投稿。
+- [Forum: Grok Bot iOS often opens a bot to a blank conversation](https://forum.cursor.com/t/grok-bot-ios-opening-a-bot-often-shows-a-completely-blank-conversation-only-force-quitting-and-reopening-the-app-fixes-it/173776) - 不具合報告：iOS で Bot を開くと、メッセージも読み込み表示もない空の会話になることが多く、アプリを強制終了するしかない。スタッフは会話はアプリに届いているが描画されていないと説明し、チームに共有。
+- [Forum: Grok Bot's 1Password vault stuck at a stale item count](https://forum.cursor.com/t/grok-bot-1password-vault-item-count-stuck-after-edits-stale-sync/173781) - 不具合報告：「Shared with Grok Bot」保管庫に追加したログインやサイトの編集が Bot に反映されず、項目数が何日も変わらない。スタッフは追跡中の問題と認め、保管庫を数十件程度に絞るよう提案。
+- [Forum: computer stuck on "Starting desktop" and mobile shows "Send after reconnect"](https://forum.cursor.com/t/grok-bots-computer-is-stuck-on-starting-desktop-with-cant-reach-grok-bots-screen-attachments-wont-download-and-the-mobile-app-shows-send-after-reconnect-with-no-response/173788) - 10 月 5 日の複数ユーザー報告：更新と自動復旧の後、PC タブが「Grok Bot の画面に接続できません」のまま、添付もダウンロードできず、Mac・Android・iOS アプリでは送信が「再接続後に送信」で止まった。音声モードと Grok アプリ内の Grok Bot は動作。
+- [Forum: Windows full-screen computer view has no way back to chat](https://forum.cursor.com/t/windows-full-agent-computer-view-has-no-way-back-to-chat/173791) - 不具合報告：Windows でヘブライ語など右から左の UI 言語を使うと、全画面の PC ビューの終了ボタンがウィンドウのボタンに隠れてチャットに戻れない。スタッフの回避策はアプリの言語を英語に切り替えること。
+- [Forum request: CarPlay support for Grok Bot](https://forum.cursor.com/t/add-carplay-support-for-grok-bot/173797) - 機能リクエスト：CarPlay アプリの要望。スタッフはまだないとし、スマホアプリ内蔵の音声チャットを案内。画面ロック中も会話が続き、ロック画面からミュートや終了ができる。
+- [Forum: Bot instructions missing from the macOS desktop details pane](https://forum.cursor.com/t/grok-bot-macos-unable-to-see-or-edit-bot-instructions-or-skills-on-desktop/173803) - 報告：個人 Bot のデスクトップ版詳細パネルが刷新後ルーチンしか表示しない。スタッフは新レイアウトで指示欄が抜けたと認めて追跡中とし、スキルは Marketplace（Cmd+Shift+M）から引き続き編集できると案内。
+- [Forum request: landscape mode for the Grok Bot computer on mobile](https://forum.cursor.com/t/show-grok-bot-computer-in-landscape-mode-on-mobile/173806) - 機能リクエスト：Android で Bot の PC を横画面で見たい。スタッフはスマホは現在縦のみで横対応は検討中とし、当面はピンチで最大 4 倍まで拡大し 2 本指で移動するよう案内。
 
 ## 関連リスト
 
@@ -2167,10 +2185,12 @@
 - [OpenGrokBot — Windows always-on AI teammates (independent)](https://github.com/Crepald-01/OpenGrokBot) - 常駐 AI チームメイトの発想に着想を得た独立系 Windows アプリ（MIT）。名前付き Bot が Chromium と端末を備えた1台の永続 PC を共有し、ルーチンをバックグラウンド実行、Anthropic / OpenAI 互換モデル対応。
 - [Tech Dev Notes — Grok Bot Desktop Extra release tracker](https://techdevnotes.com/releases/grok-bot-desktop-extra) - Grok Bot デスクトップの macOS/Windows ドッグフード版プレリリースを1日数回記録するサードパーティのトラッカー。ビルドごとの短い変更メモ付き（例：10/4 の 0.68.0-pre）。
 - [Agent Brief — Korean news curation for Grok Bot, Dots and Muse](https://github.com/nalm/agent-brief) - 依存なしの Node MVP。Grok Bot、OpenAI Dots、Meta Muse のニュースを収集・分類・重複排除・翻訳して韓国語のみの公開ダイジェストにまとめ、失敗時のサンプルフォールバックと Cloudflare クイックトンネルでの公開手順付き。
+- [Grokked Bot — open-source AI teammate on your own Linux box](https://github.com/alnutile/grokked-bot) - Grok Bot と Claude Cowork に触発された独立プロジェクト。自前のハードウェア上で各 Bot にログイン状態を保つブラウザとシェル付きのコンテナデスクトップを与え、Tauri アプリで見守り・操作を奪え、モデルは OpenRouter で自由に選べる。
+- [nano-agents — self-hosted Grok Bot-style teammates (independent)](https://github.com/shoodoow/nano-agents) - MIT ライセンスで開発中のセルフホスト版 Grok Bot 風環境。スマホアプリでチャットし、エージェントは記憶・ルーチン・スキル・MCP ツール・ワーカーを持ち、見守れる Linux デスクトップも備える。モデルは自分の OpenAI、Anthropic、xAI キーを使う。
 
 ## 貢献
 
-8 セクションに 2061 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2081 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
