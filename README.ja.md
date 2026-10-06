@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2081-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2088-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1183,6 +1183,8 @@
 - [agent-recorder-mcp — record what Grok Bot does on its computer](https://github.com/nuwainfo/agent-recorder-mcp) - ローカル MCP サーバーとスキル。ブラウザや PC 操作の間、Grok Bot の PC の X11 画面を ffmpeg で録画し、動画そのものではなく FastFileLink、Google Drive、ローカルの再生リンクを返す。
 - [Watchtower — read-only security officer for your Grok Bot roster](https://github.com/ken-aisec/grokbot-watchtower) - Apache-2.0 のスキルパック。複数の Grok Bot が 1 台の PC を共有する前提で、テンプレートを導入前に審査し、スキル・MCP 設定・ブラウザのログイン・認証情報を 0〜100 で採点、各 Bot に危険なルーチンや記憶を問い合わせ、週次の脅威レポートを送る。
 - [Grok Minion — a Despicable Me-themed Grok Bot team pack](https://github.com/jaredtrichard/grok-minion) - インストール型の Grok Bot チームパック。Kevin がプライマリ Bot として分野ごとのミニオンに仕事を振り、Dr. Nefario が働き方のプロフィールを管理、重い作業は Cursor クラウドエージェントが実行し別のエージェントが独立レビュー。既定は下書きで、送信には必ず承認が要る。
+- [Hardline plugin — call summaries, tasks and messaging for Grok Bot](https://github.com/BuiltEcho/hardline-cursor-plugin) - Cursor と Grok Bot 向けの MIT ライセンスの接続パッケージ。OAuth 付きの Hardline リモート MCP サーバーを追加し、プロジェクト文脈・通話要約・キャプチャの参照、タスクと連絡先の管理、SMS/MMS 送信ができる。Grok Bot はチームのコネクタポリシーに従い、Cursor Marketplace の審査はまだ済んでいない。
+- [The Librarian — Grok Bot template for contracts, policies and renewals](https://github.com/komalamee/Grokbot-Docs-Librarian) - Grok Bot テンプレート The Librarian（v0.2.4、2026 年 10 月 1 日公開）の公開ソース。契約書や保険証券などの長い文書をメールから直接整理・保管し、更新期限を追跡し、内容についての質問に答える。スキル 4 つ、既定でオフのルーチン 3 つ、ビルドと個人情報スキャンのスクリプト付き。
 
 ## レビューと比較
 
@@ -1206,6 +1208,8 @@
 - [BuzzRAG: Grok Bot Review — AI Agents for Business Automation](https://buzzrag.com/article/grok-bot-review-ai-agents-business-automation) - Grok Bot ライブ実況レビュー。Luma 運営、Vercel ダッシュボード委任、デモ教示スキル、業務自動化向け Ultra 価格の初期メモ。
 - [Build Fast with AI: Grok Bot Review — AI Teammates, Pricing & Is It Worth It?](https://blog.buildfastwithai.com/grok-bot-review-ai-teammates-pricing-is-it-worth-it-2026) - 独立レビュー。常駐クラウド PC 上の名前付き Bot の仕組み、対象プランと価格、9/3 のエンタープライズ版、導入する価値がある場面を解説。
 - [grokbot.guru: Grok Bot's new Primary Bot offers to do work before you ask](https://grokbot.guru/primary-bot-proactive-suggestions/) - ニュース記事（10/2）：Primary Bot の展開。1体の Bot が引き受けられる仕事を見つけて提案し、提案自体は使用量に含まれず、ドキュメントは未対応だった。
+- [Top5Apps: Grok Bot review (Oct 2026)](https://top5apps.ai/best-ai-apps/best-personal-ai-agents/grok-bot/) - 2026 年 10 月 5 日更新のレビュー。Grok Bot を 4.4/5 と評価し、定型業務の引き継ぎに最適とする。名前と記憶を持つ Bot、コネクタ、ルーチンを高く評価する一方、全 Bot が 1 台の PC を共有する点、無料枠がない点、Main Bot がまだ文書化されていない点を指摘。
+- [Progressive Robot: Primary Bot and Grok 4.7 explained](https://www.progressiverobot.com/2026/10/02/primary-bot-grok-4-7-base-model-proactive-grok-bot/) - 2026 年 10 月 2 日の分析記事。仕事を引き受けると自ら申し出て他の Bot にタスクを振る新しい Primary Bot について、「提案は利用量にカウントされない」が何を意味し何を意味しないかを整理し、同じ晩に Grok 4.7 が Grok アプリに来たことや、有効化前のチェックリストも紹介。
 
 ## オープンソースの代替
 
@@ -1596,6 +1600,8 @@
 - [Grokbot Widget — floating macOS companion for your Grok Bot](https://github.com/imranbarbhuiya/grokbot-widget) - MIT ライセンスの macOS プロトタイプ。既存の Grok Bot をドラッグ可能なフローティングキャラとして画面に置き、展開式チャットパネルで会話。公式 BDK で接続し、ローカルキャッシュの Bot アバターを使用。
 - [grokbot-wechat — use WeChat as a chat entry for Grok Bot](https://github.com/psylch/grokbot-wechat) - MIT ライセンスの Python ブリッジ。Tencent 公式の WeChat ClawBot（iLink）をロングポーリングし、テキスト・音声・画像・ファイルをまとめて Grok Bot の Webhook ルーチンへ送る。返信スクリプト、未送信キュー、キープアライブ通知、ウォッチドッグ付き。
 - [Penny DOGE — weekly Grok Bot fleet usage scan with no AI in the crons](https://github.com/bowiehole/penny-doge) - Grok Bot テンプレート Penny DOGE の公開スキャナー。毎週、素の bash と Python でローカルの Bot チャット、ルーチン実行、CLI セッションを読み、費用を見積もり、無駄なルーチンや放置 Bot を指摘し、報告に値するときだけ Webhook ルーチンを起こす。
+- [cli-anything-grokbot — drive the Grok Bot desktop app from the command line](https://github.com/ilovebamboo/cli-anything-grokbot) - CLI-Anything の手法で作られた実験的な Apache-2.0 の CLI。ループバック限定のデバッグ接続で macOS 版 Grok Bot デスクトップアプリを操作し、チャットの一覧・読み取り、メッセージ送信（既定はドライラン）、返信待ち、個人 Bot の作成・編集・削除ができる。アプリ内部のインターフェース（基準 0.66.0）に依存するため、更新で動かなくなる可能性がある。
+- [Grok Bot G2 — talk to your Grok Bots from Even Realities G2 glasses](https://github.com/SergioAppen/grokbot-g2) - Grok Bot を Even Realities G2 スマートグラスで使うセルフホストのプロトタイプ。自分の PC 上の小さなリレーが Cursor 公式の @cursor/bdk Grok Bot 拡張経由で Bot とつながり、HUD とスマホに会話一覧を表示、プッシュトゥトークの音声は ElevenLabs Scribe かローカルの whisper.cpp で文字起こしし、返信は 1 通ずつストリーミング表示される。
 
 ## コミュニティと障害事例
 
@@ -2187,10 +2193,11 @@
 - [Agent Brief — Korean news curation for Grok Bot, Dots and Muse](https://github.com/nalm/agent-brief) - 依存なしの Node MVP。Grok Bot、OpenAI Dots、Meta Muse のニュースを収集・分類・重複排除・翻訳して韓国語のみの公開ダイジェストにまとめ、失敗時のサンプルフォールバックと Cloudflare クイックトンネルでの公開手順付き。
 - [Grokked Bot — open-source AI teammate on your own Linux box](https://github.com/alnutile/grokked-bot) - Grok Bot と Claude Cowork に触発された独立プロジェクト。自前のハードウェア上で各 Bot にログイン状態を保つブラウザとシェル付きのコンテナデスクトップを与え、Tauri アプリで見守り・操作を奪え、モデルは OpenRouter で自由に選べる。
 - [nano-agents — self-hosted Grok Bot-style teammates (independent)](https://github.com/shoodoow/nano-agents) - MIT ライセンスで開発中のセルフホスト版 Grok Bot 風環境。スマホアプリでチャットし、エージェントは記憶・ルーチン・スキル・MCP ツール・ワーカーを持ち、見守れる Linux デスクトップも備える。モデルは自分の OpenAI、Anthropic、xAI キーを使う。
+- [DeepSeekBot (BotHarness) — open-source GrokBot alternative for DeepSeek Harness](https://github.com/BotHarness/BotHarness) - DeepSeek Harness 用の npm プラグインとして導入する MIT プロジェクトで、オープンソースの GrokBot 代替を名乗る。PersonaBot ごとに人格、閲覧できる Git ベースの記憶、グループチャット、タスク委任、Feishu/Lark・Slack・Discord・WeChat 上の独自アカウントを持ち、Docker の共有デスクトップでの PC 操作も選べる。
 
 ## 貢献
 
-8 セクションに 2081 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2088 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

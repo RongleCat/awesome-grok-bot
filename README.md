@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2081-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2088-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1183,6 +1183,8 @@
 - [agent-recorder-mcp — record what Grok Bot does on its computer](https://github.com/nuwainfo/agent-recorder-mcp) - Local MCP server plus skill that records the Grok Bot computer's X11 display with ffmpeg during browser and computer-use work, then hands back a FastFileLink, Google Drive or local replay link instead of the video.
 - [Watchtower — read-only security officer for your Grok Bot roster](https://github.com/ken-aisec/grokbot-watchtower) - Apache-2.0 skill pack for the shared Grok Bot computer that vets templates before install, scores your setup 0–100 across skills, MCP configs, browser sessions and credentials, polls every Bot for risky routines and memories, and sends a weekly threat brief.
 - [Grok Minion — a Despicable Me-themed Grok Bot team pack](https://github.com/jaredtrichard/grok-minion) - Installable Grok Bot pack where Kevin becomes your Primary Bot and routes work to one minion per area, Dr. Nefario keeps a profile of how you work, and Cursor cloud agents do and independently review the heavy work, with drafts by default and a yes for every send.
+- [Hardline plugin — call summaries, tasks and messaging for Grok Bot](https://github.com/BuiltEcho/hardline-cursor-plugin) - MIT-licensed connection package for Cursor and Grok Bot that adds Hardline's OAuth remote MCP server, so the agent can read project context, call summaries and captures, manage tasks and contacts, and send SMS/MMS; Grok Bot follows the team's connector policy, and the package has not yet passed Cursor marketplace review.
+- [The Librarian — Grok Bot template for contracts, policies and renewals](https://github.com/komalamee/Grokbot-Docs-Librarian) - Public source of The Librarian Grok Bot template (v0.2.4, published 1 Oct 2026), which files contracts, policies and other long documents straight from your email, keeps them organised, tracks renewals and answers questions about them, with four skills, three routines shipped switched off, and build and private-data scan scripts.
 
 ## Reviews & Comparisons
 
@@ -1206,6 +1208,8 @@
 - [BuzzRAG: Grok Bot Review — AI Agents for Business Automation](https://buzzrag.com/article/grok-bot-review-ai-agents-business-automation) - Review of a live Grok Bot stream: Luma guest ops, Vercel dashboard handoff, teach-by-demo skills, and early Ultra pricing notes for business automation.
 - [Build Fast with AI: Grok Bot Review — AI Teammates, Pricing & Is It Worth It?](https://blog.buildfastwithai.com/grok-bot-review-ai-teammates-pricing-is-it-worth-it-2026) - Independent review covering how named Bots on persistent cloud computers work, plan eligibility and pricing, the Sep 3 enterprise release, and when the product is worth adopting.
 - [grokbot.guru: Grok Bot's new Primary Bot offers to do work before you ask](https://grokbot.guru/primary-bot-proactive-suggestions/) - News write-up (Oct 2) on the Primary Bot rollout: one Bot spots work it can take off your plate, suggestions don't count against usage, and docs had not yet caught up.
+- [Top5Apps: Grok Bot review (Oct 2026)](https://top5apps.ai/best-ai-apps/best-personal-ai-agents/grok-bot/) - Review last updated on 5 Oct 2026 that rates Grok Bot 4.4/5 and best for recurring work handoffs, praising persistent named Bots, connectors and routines, while flagging the one computer shared by all Bots, the lack of a free tier and the still-undocumented Main Bot.
+- [Progressive Robot: Primary Bot and Grok 4.7 explained](https://www.progressiverobot.com/2026/10/02/primary-bot-grok-4-7-base-model-proactive-grok-bot/) - Analysis from 2 Oct 2026 of the new Primary Bot, which offers to take work off your plate and routes tasks to your other Bots, covering what "suggestions don't count against your usage" does and does not say, Grok 4.7 reaching the Grok apps the same evening, and a checklist before switching it on.
 
 ## Open-Source Alternatives
 
@@ -1596,6 +1600,8 @@
 - [Grokbot Widget — floating macOS companion for your Grok Bot](https://github.com/imranbarbhuiya/grokbot-widget) - MIT macOS prototype that puts your existing Grok Bot on screen as a draggable floating character with an expandable chat panel, connected through the official BDK and using the bot's own avatar from the local cache.
 - [grokbot-wechat — use WeChat as a chat entry for Grok Bot](https://github.com/psylch/grokbot-wechat) - MIT Python bridge that long-polls Tencent's official WeChat ClawBot (iLink) and batches text, voice, images and files into a Grok Bot webhook routine, with a send script for replies, an outbox for queued pushes, keep-alive nudges and a watchdog.
 - [Penny DOGE — weekly Grok Bot fleet usage scan with no AI in the crons](https://github.com/bowiehole/penny-doge) - Public scanner tree for the Penny DOGE Grok Bot template that reads local bot chats, routine runs and CLI sessions with plain bash and Python each week, estimates spend, flags wasteful routines and idle bots, and only wakes a webhook routine when something is worth reporting.
+- [cli-anything-grokbot — drive the Grok Bot desktop app from the command line](https://github.com/ilovebamboo/cli-anything-grokbot) - Experimental Apache-2.0 CLI built with the CLI-Anything approach that lets a local agent control the macOS Grok Bot desktop app over a loopback-only debug connection to list and read chats, send messages (dry run by default), wait for replies, and create, edit or delete personal Bots; it relies on the app's internal interfaces (baseline 0.66.0) and may break after updates.
+- [Grok Bot G2 — talk to your Grok Bots from Even Realities G2 glasses](https://github.com/SergioAppen/grokbot-g2) - Self-hosted prototype that puts your Grok Bots on Even Realities G2 smart glasses: a small relay on your own computer reaches the Bots through Cursor's official @cursor/bdk Grok Bot extension, with a conversation list on the HUD and phone, push-to-talk voice transcribed by ElevenLabs Scribe or local whisper.cpp, and replies streamed one message at a time.
 
 ## Community & Failure Modes
 
@@ -2187,10 +2193,11 @@
 - [Agent Brief — Korean news curation for Grok Bot, Dots and Muse](https://github.com/nalm/agent-brief) - Dependency-free Node MVP that collects, classifies, dedupes and translates news about Grok Bot, OpenAI Dots and Meta Muse into a Korean-only public digest, with sample fallback and a Cloudflare quick-tunnel recipe for publishing it.
 - [Grokked Bot — open-source AI teammate on your own Linux box](https://github.com/alnutile/grokked-bot) - Independent project inspired by Grok Bot and Claude Cowork that gives each bot its own container desktop with a logged-in browser and shell on hardware you own, a Tauri app to watch and take control, and any model through OpenRouter.
 - [nano-agents — self-hosted Grok Bot-style teammates (independent)](https://github.com/shoodoow/nano-agents) - MIT self-hosted, work-in-progress take on a Grok Bot-style setup: chat from a phone app, agents with memory, routines, skills and MCP tools, workers, and a Linux desktop you can watch, using your own OpenAI, Anthropic or xAI keys.
+- [DeepSeekBot (BotHarness) — open-source GrokBot alternative for DeepSeek Harness](https://github.com/BotHarness/BotHarness) - MIT project that installs as an npm plugin for DeepSeek Harness and calls itself an open-source GrokBot alternative, giving PersonaBots their own persona, Git-backed memory you can browse, group chats, delegated assignments, their own identities on Feishu/Lark, Slack, Discord and WeChat, and optional computer use on a shared Docker desktop.
 
 ## Contributing
 
-2081 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2088 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

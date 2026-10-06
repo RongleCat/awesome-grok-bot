@@ -10934,6 +10934,26 @@
             "zh": "可安装的 Grok Bot 团队包：Kevin 当你的主 Bot 负责分派，每个领域一个小黄人，Dr. Nefario 记录你的工作习惯，繁重任务交给 Cursor 云端智能体完成并由另一个智能体独立复核；默认只出草稿，任何发送都要你点头。",
             "ja": "インストール型の Grok Bot チームパック。Kevin がプライマリ Bot として分野ごとのミニオンに仕事を振り、Dr. Nefario が働き方のプロフィールを管理、重い作業は Cursor クラウドエージェントが実行し別のエージェントが独立レビュー。既定は下書きで、送信には必ず承認が要る。"
           }
+        },
+        {
+          "title": "Hardline plugin — call summaries, tasks and messaging for Grok Bot",
+          "url": "https://github.com/BuiltEcho/hardline-cursor-plugin",
+          "source": "GB-2106",
+          "blurb": {
+            "en": "MIT-licensed connection package for Cursor and Grok Bot that adds Hardline's OAuth remote MCP server, so the agent can read project context, call summaries and captures, manage tasks and contacts, and send SMS/MMS; Grok Bot follows the team's connector policy, and the package has not yet passed Cursor marketplace review.",
+            "zh": "MIT 许可的 Cursor 与 Grok Bot 连接包，接入 Hardline 走 OAuth 的远程 MCP 服务器，让智能体读取项目上下文、通话摘要和采集内容，管理任务和联系人，并发送短信/彩信；Grok Bot 沿用团队的连接器策略，该包尚未通过 Cursor 插件市场审核。",
+            "ja": "Cursor と Grok Bot 向けの MIT ライセンスの接続パッケージ。OAuth 付きの Hardline リモート MCP サーバーを追加し、プロジェクト文脈・通話要約・キャプチャの参照、タスクと連絡先の管理、SMS/MMS 送信ができる。Grok Bot はチームのコネクタポリシーに従い、Cursor Marketplace の審査はまだ済んでいない。"
+          }
+        },
+        {
+          "title": "The Librarian — Grok Bot template for contracts, policies and renewals",
+          "url": "https://github.com/komalamee/Grokbot-Docs-Librarian",
+          "source": "GB-2107",
+          "blurb": {
+            "en": "Public source of The Librarian Grok Bot template (v0.2.4, published 1 Oct 2026), which files contracts, policies and other long documents straight from your email, keeps them organised, tracks renewals and answers questions about them, with four skills, three routines shipped switched off, and build and private-data scan scripts.",
+            "zh": "Grok Bot 模板 The Librarian（v0.2.4，2026 年 10 月 1 日发布）的公开源码：直接从邮件里归档合同、保单和其他长文档，整理分类、跟踪续约并回答相关问题；包含四个技能、三个默认关闭的例程，以及构建和隐私数据扫描脚本。",
+            "ja": "Grok Bot テンプレート The Librarian（v0.2.4、2026 年 10 月 1 日公開）の公開ソース。契約書や保険証券などの長い文書をメールから直接整理・保管し、更新期限を追跡し、内容についての質問に答える。スキル 4 つ、既定でオフのルーチン 3 つ、ビルドと個人情報スキャンのスクリプト付き。"
+          }
         }
       ]
     },
@@ -11143,6 +11163,26 @@
             "en": "News write-up (Oct 2) on the Primary Bot rollout: one Bot spots work it can take off your plate, suggestions don't count against usage, and docs had not yet caught up.",
             "zh": "新闻报道（10 月 2 日）：Primary Bot 上线——一个 Bot 主动发现可代劳的工作，建议本身不计用量，当时文档尚未跟进。",
             "ja": "ニュース記事（10/2）：Primary Bot の展開。1体の Bot が引き受けられる仕事を見つけて提案し、提案自体は使用量に含まれず、ドキュメントは未対応だった。"
+          }
+        },
+        {
+          "title": "Top5Apps: Grok Bot review (Oct 2026)",
+          "url": "https://top5apps.ai/best-ai-apps/best-personal-ai-agents/grok-bot/",
+          "source": "GB-2110",
+          "blurb": {
+            "en": "Review last updated on 5 Oct 2026 that rates Grok Bot 4.4/5 and best for recurring work handoffs, praising persistent named Bots, connectors and routines, while flagging the one computer shared by all Bots, the lack of a free tier and the still-undocumented Main Bot.",
+            "zh": "2026 年 10 月 5 日更新的评测，给 Grok Bot 打 4.4/5 分，认为最适合交接重复性工作；肯定了有名字、能长期记忆的 Bot 以及连接器和例程，同时指出所有 Bot 共用一台电脑、没有免费档、主 Bot 尚无文档等问题。",
+            "ja": "2026 年 10 月 5 日更新のレビュー。Grok Bot を 4.4/5 と評価し、定型業務の引き継ぎに最適とする。名前と記憶を持つ Bot、コネクタ、ルーチンを高く評価する一方、全 Bot が 1 台の PC を共有する点、無料枠がない点、Main Bot がまだ文書化されていない点を指摘。"
+          }
+        },
+        {
+          "title": "Progressive Robot: Primary Bot and Grok 4.7 explained",
+          "url": "https://www.progressiverobot.com/2026/10/02/primary-bot-grok-4-7-base-model-proactive-grok-bot/",
+          "source": "GB-2111",
+          "blurb": {
+            "en": "Analysis from 2 Oct 2026 of the new Primary Bot, which offers to take work off your plate and routes tasks to your other Bots, covering what \"suggestions don't count against your usage\" does and does not say, Grok 4.7 reaching the Grok apps the same evening, and a checklist before switching it on.",
+            "zh": "2026 年 10 月 2 日的分析文章，介绍新的主 Bot（Primary Bot）如何主动提出接手工作并把任务分派给其他 Bot，拆解“建议不计入用量”这句话说了什么、没说什么，提到同晚 Grok 4.7 上线 Grok 应用，并给出启用前的检查清单。",
+            "ja": "2026 年 10 月 2 日の分析記事。仕事を引き受けると自ら申し出て他の Bot にタスクを振る新しい Primary Bot について、「提案は利用量にカウントされない」が何を意味し何を意味しないかを整理し、同じ晩に Grok 4.7 が Grok アプリに来たことや、有効化前のチェックリストも紹介。"
           }
         }
       ]
@@ -15023,6 +15063,26 @@
             "en": "Public scanner tree for the Penny DOGE Grok Bot template that reads local bot chats, routine runs and CLI sessions with plain bash and Python each week, estimates spend, flags wasteful routines and idle bots, and only wakes a webhook routine when something is worth reporting.",
             "zh": "Penny DOGE 这个 Grok Bot 模板的公开扫描脚本：每周用纯 bash 和 Python 读取本机的 Bot 聊天、例程运行和 CLI 会话，估算花费，标出浪费的例程和闲置的 Bot，只在值得汇报时才唤醒 webhook 例程。",
             "ja": "Grok Bot テンプレート Penny DOGE の公開スキャナー。毎週、素の bash と Python でローカルの Bot チャット、ルーチン実行、CLI セッションを読み、費用を見積もり、無駄なルーチンや放置 Bot を指摘し、報告に値するときだけ Webhook ルーチンを起こす。"
+          }
+        },
+        {
+          "title": "cli-anything-grokbot — drive the Grok Bot desktop app from the command line",
+          "url": "https://github.com/ilovebamboo/cli-anything-grokbot",
+          "source": "GB-2108",
+          "blurb": {
+            "en": "Experimental Apache-2.0 CLI built with the CLI-Anything approach that lets a local agent control the macOS Grok Bot desktop app over a loopback-only debug connection to list and read chats, send messages (dry run by default), wait for replies, and create, edit or delete personal Bots; it relies on the app's internal interfaces (baseline 0.66.0) and may break after updates.",
+            "zh": "参考 CLI-Anything 方法论做的实验性 Apache-2.0 命令行工具：通过只监听本机回环地址的调试连接操作 macOS 版 Grok Bot 桌面应用，可列出和读取会话、发送消息（默认只预演）、等待回复，以及创建、修改、删除个人 Bot；依赖应用内部接口（适配基线 0.66.0），应用升级后可能失效。",
+            "ja": "CLI-Anything の手法で作られた実験的な Apache-2.0 の CLI。ループバック限定のデバッグ接続で macOS 版 Grok Bot デスクトップアプリを操作し、チャットの一覧・読み取り、メッセージ送信（既定はドライラン）、返信待ち、個人 Bot の作成・編集・削除ができる。アプリ内部のインターフェース（基準 0.66.0）に依存するため、更新で動かなくなる可能性がある。"
+          }
+        },
+        {
+          "title": "Grok Bot G2 — talk to your Grok Bots from Even Realities G2 glasses",
+          "url": "https://github.com/SergioAppen/grokbot-g2",
+          "source": "GB-2109",
+          "blurb": {
+            "en": "Self-hosted prototype that puts your Grok Bots on Even Realities G2 smart glasses: a small relay on your own computer reaches the Bots through Cursor's official @cursor/bdk Grok Bot extension, with a conversation list on the HUD and phone, push-to-talk voice transcribed by ElevenLabs Scribe or local whisper.cpp, and replies streamed one message at a time.",
+            "zh": "自托管的原型项目，把 Grok Bot 搬到 Even Realities G2 智能眼镜上：在你自己电脑上跑一个小型中继，通过 Cursor 官方的 @cursor/bdk Grok Bot 扩展连到 Bot，眼镜 HUD 和手机上都有会话列表，按住说话的语音用 ElevenLabs Scribe 或本地 whisper.cpp 转写，回复逐条推送显示。",
+            "ja": "Grok Bot を Even Realities G2 スマートグラスで使うセルフホストのプロトタイプ。自分の PC 上の小さなリレーが Cursor 公式の @cursor/bdk Grok Bot 拡張経由で Bot とつながり、HUD とスマホに会話一覧を表示、プッシュトゥトークの音声は ElevenLabs Scribe かローカルの whisper.cpp で文字起こしし、返信は 1 通ずつストリーミング表示される。"
           }
         }
       ]
@@ -20893,6 +20953,16 @@
             "en": "MIT self-hosted, work-in-progress take on a Grok Bot-style setup: chat from a phone app, agents with memory, routines, skills and MCP tools, workers, and a Linux desktop you can watch, using your own OpenAI, Anthropic or xAI keys.",
             "zh": "MIT 开源、仍在开发中的自托管方案，仿 Grok Bot 的玩法：手机 App 聊天，智能体带记忆、例程、技能和 MCP 工具，能派工作进程，还有可旁观的 Linux 桌面，模型用你自己的 OpenAI、Anthropic 或 xAI 密钥。",
             "ja": "MIT ライセンスで開発中のセルフホスト版 Grok Bot 風環境。スマホアプリでチャットし、エージェントは記憶・ルーチン・スキル・MCP ツール・ワーカーを持ち、見守れる Linux デスクトップも備える。モデルは自分の OpenAI、Anthropic、xAI キーを使う。"
+          }
+        },
+        {
+          "title": "DeepSeekBot (BotHarness) — open-source GrokBot alternative for DeepSeek Harness",
+          "url": "https://github.com/BotHarness/BotHarness",
+          "source": "GB-2112",
+          "blurb": {
+            "en": "MIT project that installs as an npm plugin for DeepSeek Harness and calls itself an open-source GrokBot alternative, giving PersonaBots their own persona, Git-backed memory you can browse, group chats, delegated assignments, their own identities on Feishu/Lark, Slack, Discord and WeChat, and optional computer use on a shared Docker desktop.",
+            "zh": "MIT 开源项目，以 npm 插件形式装进 DeepSeek Harness，自称开源的 GrokBot 平替：每个 PersonaBot 有自己的人格、可在侧栏浏览的 Git 记忆、群聊协作和任务委派，能以自己的身份接入飞书/Lark、Slack、Discord 和微信，还可选在 Docker 共享桌面上操作电脑。",
+            "ja": "DeepSeek Harness 用の npm プラグインとして導入する MIT プロジェクトで、オープンソースの GrokBot 代替を名乗る。PersonaBot ごとに人格、閲覧できる Git ベースの記憶、グループチャット、タスク委任、Feishu/Lark・Slack・Discord・WeChat 上の独自アカウントを持ち、Docker の共有デスクトップでの PC 操作も選べる。"
           }
         }
       ]

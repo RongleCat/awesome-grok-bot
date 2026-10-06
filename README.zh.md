@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2081-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2088-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1183,6 +1183,8 @@
 - [agent-recorder-mcp — record what Grok Bot does on its computer](https://github.com/nuwainfo/agent-recorder-mcp) - 本地 MCP 服务器加技能：在浏览器和电脑操作期间用 ffmpeg 录下 Grok Bot 电脑的 X11 画面，结束后返回 FastFileLink、Google Drive 或本地回放链接，而不是把视频塞给模型。.
 - [Watchtower — read-only security officer for your Grok Bot roster](https://github.com/ken-aisec/grokbot-watchtower) - Apache-2.0 开源技能包，针对多个 Grok Bot 共用一台电脑的情况：安装模板前先审查，按技能、MCP 配置、浏览器登录态和凭据给整体打 0–100 分，逐个询问各 Bot 排查危险例程和记忆，并每周发威胁简报。.
 - [Grok Minion — a Despicable Me-themed Grok Bot team pack](https://github.com/jaredtrichard/grok-minion) - 可安装的 Grok Bot 团队包：Kevin 当你的主 Bot 负责分派，每个领域一个小黄人，Dr. Nefario 记录你的工作习惯，繁重任务交给 Cursor 云端智能体完成并由另一个智能体独立复核；默认只出草稿，任何发送都要你点头。.
+- [Hardline plugin — call summaries, tasks and messaging for Grok Bot](https://github.com/BuiltEcho/hardline-cursor-plugin) - MIT 许可的 Cursor 与 Grok Bot 连接包，接入 Hardline 走 OAuth 的远程 MCP 服务器，让智能体读取项目上下文、通话摘要和采集内容，管理任务和联系人，并发送短信/彩信；Grok Bot 沿用团队的连接器策略，该包尚未通过 Cursor 插件市场审核。.
+- [The Librarian — Grok Bot template for contracts, policies and renewals](https://github.com/komalamee/Grokbot-Docs-Librarian) - Grok Bot 模板 The Librarian（v0.2.4，2026 年 10 月 1 日发布）的公开源码：直接从邮件里归档合同、保单和其他长文档，整理分类、跟踪续约并回答相关问题；包含四个技能、三个默认关闭的例程，以及构建和隐私数据扫描脚本。.
 
 ## 评测与对比
 
@@ -1206,6 +1208,8 @@
 - [BuzzRAG: Grok Bot Review — AI Agents for Business Automation](https://buzzrag.com/article/grok-bot-review-ai-agents-business-automation) - 评测一篇 Grok Bot 直播实录：Luma 嘉宾运营、Vercel 看板交接、示教技能，以及面向业务自动化的早期 Ultra 定价观察。.
 - [Build Fast with AI: Grok Bot Review — AI Teammates, Pricing & Is It Worth It?](https://blog.buildfastwithai.com/grok-bot-review-ai-teammates-pricing-is-it-worth-it-2026) - 独立评测：讲解常驻云电脑上的具名 Bot 如何工作、可用套餐与定价、9 月 3 日企业版发布，以及何时值得采用。.
 - [grokbot.guru: Grok Bot's new Primary Bot offers to do work before you ask](https://grokbot.guru/primary-bot-proactive-suggestions/) - 新闻报道（10 月 2 日）：Primary Bot 上线——一个 Bot 主动发现可代劳的工作，建议本身不计用量，当时文档尚未跟进。.
+- [Top5Apps: Grok Bot review (Oct 2026)](https://top5apps.ai/best-ai-apps/best-personal-ai-agents/grok-bot/) - 2026 年 10 月 5 日更新的评测，给 Grok Bot 打 4.4/5 分，认为最适合交接重复性工作；肯定了有名字、能长期记忆的 Bot 以及连接器和例程，同时指出所有 Bot 共用一台电脑、没有免费档、主 Bot 尚无文档等问题。.
+- [Progressive Robot: Primary Bot and Grok 4.7 explained](https://www.progressiverobot.com/2026/10/02/primary-bot-grok-4-7-base-model-proactive-grok-bot/) - 2026 年 10 月 2 日的分析文章，介绍新的主 Bot（Primary Bot）如何主动提出接手工作并把任务分派给其他 Bot，拆解“建议不计入用量”这句话说了什么、没说什么，提到同晚 Grok 4.7 上线 Grok 应用，并给出启用前的检查清单。.
 
 ## 开源替代
 
@@ -1596,6 +1600,8 @@
 - [Grokbot Widget — floating macOS companion for your Grok Bot](https://github.com/imranbarbhuiya/grokbot-widget) - MIT 开源的 macOS 原型：把你现有的 Grok Bot 变成可拖动的桌面悬浮角色，点开即聊天面板，通过官方 BDK 连接，并自动读取本地缓存里的 Bot 头像。.
 - [grokbot-wechat — use WeChat as a chat entry for Grok Bot](https://github.com/psylch/grokbot-wechat) - MIT 开源的 Python 桥接：长轮询腾讯官方微信 ClawBot（iLink 协议），把文字、语音、图片和文件打包推给 Grok Bot 的 Webhook 例程，配有回复脚本、推送失败排队的发件箱、保活提醒和看门狗。.
 - [Penny DOGE — weekly Grok Bot fleet usage scan with no AI in the crons](https://github.com/bowiehole/penny-doge) - Penny DOGE 这个 Grok Bot 模板的公开扫描脚本：每周用纯 bash 和 Python 读取本机的 Bot 聊天、例程运行和 CLI 会话，估算花费，标出浪费的例程和闲置的 Bot，只在值得汇报时才唤醒 webhook 例程。.
+- [cli-anything-grokbot — drive the Grok Bot desktop app from the command line](https://github.com/ilovebamboo/cli-anything-grokbot) - 参考 CLI-Anything 方法论做的实验性 Apache-2.0 命令行工具：通过只监听本机回环地址的调试连接操作 macOS 版 Grok Bot 桌面应用，可列出和读取会话、发送消息（默认只预演）、等待回复，以及创建、修改、删除个人 Bot；依赖应用内部接口（适配基线 0.66.0），应用升级后可能失效。.
+- [Grok Bot G2 — talk to your Grok Bots from Even Realities G2 glasses](https://github.com/SergioAppen/grokbot-g2) - 自托管的原型项目，把 Grok Bot 搬到 Even Realities G2 智能眼镜上：在你自己电脑上跑一个小型中继，通过 Cursor 官方的 @cursor/bdk Grok Bot 扩展连到 Bot，眼镜 HUD 和手机上都有会话列表，按住说话的语音用 ElevenLabs Scribe 或本地 whisper.cpp 转写，回复逐条推送显示。.
 
 ## 社区与故障现场
 
@@ -2187,10 +2193,11 @@
 - [Agent Brief — Korean news curation for Grok Bot, Dots and Muse](https://github.com/nalm/agent-brief) - 无依赖的 Node MVP：抓取、分类、去重并翻译 Grok Bot、OpenAI Dots 和 Meta Muse 的新闻，做成纯韩语公开简报，带失败时的样例回退，并附 Cloudflare 快速隧道公开发布的做法。.
 - [Grokked Bot — open-source AI teammate on your own Linux box](https://github.com/alnutile/grokked-bot) - 受 Grok Bot 和 Claude Cowork 启发的独立项目：在你自己的硬件上给每个 Bot 一个容器桌面，带保持登录的浏览器和终端，用 Tauri 应用观看并随时接管，模型通过 OpenRouter 任选。.
 - [nano-agents — self-hosted Grok Bot-style teammates (independent)](https://github.com/shoodoow/nano-agents) - MIT 开源、仍在开发中的自托管方案，仿 Grok Bot 的玩法：手机 App 聊天，智能体带记忆、例程、技能和 MCP 工具，能派工作进程，还有可旁观的 Linux 桌面，模型用你自己的 OpenAI、Anthropic 或 xAI 密钥。.
+- [DeepSeekBot (BotHarness) — open-source GrokBot alternative for DeepSeek Harness](https://github.com/BotHarness/BotHarness) - MIT 开源项目，以 npm 插件形式装进 DeepSeek Harness，自称开源的 GrokBot 平替：每个 PersonaBot 有自己的人格、可在侧栏浏览的 Git 记忆、群聊协作和任务委派，能以自己的身份接入飞书/Lark、Slack、Discord 和微信，还可选在 Docker 共享桌面上操作电脑。.
 
 ## 贡献
 
-目前 8 个分类、2081 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2088 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
