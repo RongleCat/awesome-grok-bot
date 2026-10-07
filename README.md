@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2104-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2105-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1909,6 +1909,7 @@
 - [Forum: Bot Computer DNS at 198.18.0.53 timing out](https://forum.cursor.com/t/grok-bot-computer-dns-dead-198-18-0-53-times-out-update-unavailable-files-arent-ready/173903) - Report that a Bot Computer's built-in resolver at 198.18.0.53 timed out on every lookup from 5 Oct 2026, so web, pip and GitHub CLI failed while connectors still worked and Update said files were not ready; the user's chief-of-staff Bot patched DNS as a stopgap, and staff restored and updated the box the next day.
 - [Forum: webhook URL hidden on Linux 0.68.1 and how to find it](https://forum.cursor.com/t/grok-bot-webhooks-dont-appear-on-desktop-linux-version/173891) - Report that on the 0.68.1 Linux desktop app a webhook routine's details offer only Resume and Edit; staff confirmed clicking a routine in the Details list no longer opens its own page, where the POST URL, key and Authorization header live, flagged it, and suggested clicking the routine chip in the chat or asking the Bot for the link.
 - [Forum: chat looked frozen after the Bot's computer restarted](https://forum.cursor.com/t/my-grok-bot-seems-to-be-stuck/173860) - Report of a Bot that seemed not to answer; staff found it had replied to each message within about a minute, but the chat window stopped showing new messages for a while after the computer restarted several times, and advised switching Bots or reopening the app rather than using Update or Reset, which can make the gap longer.
+- [Forum: request for usage broken down by Bot and category, readable by Bots](https://forum.cursor.com/t/breakdown-in-the-app-by-bot-and-category-and-the-same-data-available-to-bots/173936) - Feature request from someone running a team of Bots for a family office: split the single weekly usage percentage by Bot, by kind of work and by routine, with a daily trend and a pace marker, and give Bots read access to the same numbers so they can trim costly routines, run optional work only when there is headroom before the reset and protect daily essentials.
 
 ## Related Lists
 
@@ -2217,7 +2218,7 @@
 
 ## Contributing
 
-2104 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2105 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2104-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2105-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1909,6 +1909,7 @@
 - [Forum: Bot Computer DNS at 198.18.0.53 timing out](https://forum.cursor.com/t/grok-bot-computer-dns-dead-198-18-0-53-times-out-update-unavailable-files-arent-ready/173903) - 反馈：从 2026 年 10 月 5 日起，Bot 电脑内置的 198.18.0.53 解析器每次查询都超时，网页、pip、GitHub CLI 全部失败，连接器仍可用，更新提示文件未就绪；用户让自己的幕僚长 Bot 临时改了 DNS 应急，次日官方修复并更新了电脑。.
 - [Forum: webhook URL hidden on Linux 0.68.1 and how to find it](https://forum.cursor.com/t/grok-bot-webhooks-dont-appear-on-desktop-linux-version/173891) - 反馈：Linux 桌面版 0.68.1 中 Webhook 例程的详情只有恢复和编辑；官方确认目前在详情列表点击例程不会再打开它自己的页面（POST 地址、密钥和 Authorization 头都在那里），已转给团队，并建议点聊天里的例程标签，或直接让 Bot 发链接。.
 - [Forum: chat looked frozen after the Bot's computer restarted](https://forum.cursor.com/t/my-grok-bot-seems-to-be-stuck/173860) - 反馈：Bot 看起来不回复；官方查明它其实每条消息都在约一分钟内回了，只是电脑多次重启后聊天窗口有一阵没显示新消息；建议切换到别的 Bot 再切回来或重开应用，不要用更新或重置，那样反而可能拉长空窗。.
+- [Forum: request for usage broken down by Bot and category, readable by Bots](https://forum.cursor.com/t/breakdown-in-the-app-by-bot-and-category-and-the-same-data-available-to-bots/173936) - 功能请求：一位为家族办公室跑一队 Bot 的用户希望把单一的每周用量百分比按 Bot、按工作类型、按例程拆开，加上每日趋势和匀速参考线，并让 Bot 也能读到这些数据，好让它们自己精简费额度的例程、在重置前有余量时才跑可选任务，并优先保住每日必做的事。.
 
 ## 相关列表
 
@@ -2217,7 +2218,7 @@
 
 ## 贡献
 
-目前 8 个分类、2104 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2105 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

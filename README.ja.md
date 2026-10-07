@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2104-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2105-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1909,6 +1909,7 @@
 - [Forum: Bot Computer DNS at 198.18.0.53 timing out](https://forum.cursor.com/t/grok-bot-computer-dns-dead-198-18-0-53-times-out-update-unavailable-files-arent-ready/173903) - 報告：2026 年 10 月 5 日から Bot の PC 内蔵リゾルバー 198.18.0.53 がすべてタイムアウトし、Web・pip・GitHub CLI が失敗、コネクタは動作し、更新は「ファイルの準備ができていない」と表示。ユーザーは参謀役の Bot に DNS を一時修正させ、翌日スタッフが PC を復旧・更新した。
 - [Forum: webhook URL hidden on Linux 0.68.1 and how to find it](https://forum.cursor.com/t/grok-bot-webhooks-dont-appear-on-desktop-linux-version/173891) - 報告：Linux デスクトップ版 0.68.1 で Webhook ルーチンの詳細に再開と編集しかない。スタッフは詳細一覧でルーチンをクリックしても専用ページ（POST URL、キー、Authorization ヘッダーがある）が開かなくなったと認めてチームに伝え、チャット内のルーチンチップを押すか Bot にリンクを頼むよう案内。
 - [Forum: chat looked frozen after the Bot's computer restarted](https://forum.cursor.com/t/my-grok-bot-seems-to-be-stuck/173860) - 報告：Bot が返事をしないように見えた。スタッフは各メッセージに約 1 分以内で返信していたが、PC が何度か再起動した後しばらくチャット画面が新着を表示しなかったと判明。更新やリセットは空白を長引かせることがあるので、別の Bot に切り替えて戻るかアプリを開き直すよう案内。
+- [Forum: request for usage broken down by Bot and category, readable by Bots](https://forum.cursor.com/t/breakdown-in-the-app-by-bot-and-category-and-the-same-data-available-to-bots/173936) - 機能リクエスト：ファミリーオフィス向けに Bot のチームを運用するユーザーが、週 1 つの使用率表示を Bot 別・作業の種類別・ルーチン別に分け、日ごとの推移とペース目安を付け、同じ数値を Bot にも読ませてほしいと提案。高くつくルーチンの整理、リセット前に余裕があるときだけ任意の作業を回す運用、毎日の必須作業の確保に使うため。
 
 ## 関連リスト
 
@@ -2217,7 +2218,7 @@
 
 ## 貢献
 
-8 セクションに 2104 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2105 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
