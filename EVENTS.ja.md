@@ -60,6 +60,12 @@
 <a id="atl-20261008"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/enjt7lt8"><img src="./assets/events/atl-20261008-cover.png" alt="SpaceXAI: GrokBot Job Night（アトランタ）" width="300" /></a></td><td valign="top"><strong>SpaceXAI: GrokBot Job Night（アトランタ）</strong><br />2026-10-08（木）18:30–20:00（America/New_York、EDT、UTC-4）<br />アトランタ · Klaus Advanced Computing Building（266 Ferst Dr NW）· オフライン<br /><br />アトランタの SpaceXAI GrokBot Job Night（Klaus 棟）。無料・承認制。朝スキャン guest_count 27。Luma enjt7lt8。atl-20261016 KSU 回とは別。<br /><br /><a href="https://luma.com/enjt7lt8"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
+<a id="chi-20261016"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-y33x"><img src="./assets/events/chi-20261016-cover.png" alt="Grok Bot Meetup シカゴ" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup シカゴ</strong><br />2026-10-16（金）17:30–20:30（America/Chicago、CDT、UTC−5）<br />シカゴ · Spaces Fulton Market（159 N Sangamon St）— オフライン<br /><br />ペアで作る夜：到着時に初対面の人と組み、約 1.5 時間で Cursor を使って Grok Bot を作り、各チーム 3 分発表して全員で投票。17:30 開場、18:00 からビルド。ノート PC 持参、1 階の警備で Luma の招待を提示。無料。主催 Krystian Gebis。forum 173946。slug spacexai-y33x。<br /><br /><a href="https://luma.com/spacexai-y33x"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<a id="ind-20261112"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/cudopyt3"><img src="./assets/events/ind-20261112-cover.png" alt="Grok Bot Meetup インディアナポリス" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup インディアナポリス</strong><br />2026-11-12（木）18:00–20:00（America/Indiana/Indianapolis、EST、UTC−5）<br />インディアナ州フィッシャーズ（インディアナポリス近郊）· Launch Fishers（12175 Visionary Way）— オフライン<br /><br />インディアナポリスのビルダーと事業者向け初の Grok Bot ミートアップ。紹介、ライブデモ、Q&A の後、ビルドタイム（ノート PC とアイデア持参）と参加者デモ。動く Bot を持ち帰るのが目標。経験不要。無料。主催 Jacob Thifault。forum 173949。slug cudopyt3。<br /><br /><a href="https://luma.com/cudopyt3"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
 <a id="country-de"></a>
 ### ドイツ
 
@@ -77,6 +83,9 @@
 
 <a id="fra-20261030"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/1rv39ekj"><img src="./assets/events/fra-20261030-cover.png" alt="Build Days w/ GrokBot @ AI Week — フランクフルト（10/30）" width="300" /></a></td><td valign="top"><strong>Build Days w/ GrokBot @ AI Week — フランクフルト（10/30）</strong><br />2026-10-30（金）09:45–18:15（Europe/Berlin、CET、UTC+1）<br />ドイツ・フランクフルト · The Squaire、Am Flughafen 12 — オフライン（AI Week × Glassflow）<br /><br />フランクフルトの GrokBot Build Day（The Squaire；AI Week × Glassflow / SpaceXAI）。トークではなく制作会。無料・ウェイトリスト。昼スキャン guest_count 83。旧 fra-20261023 と同じ slug 1rv39ekj（10/23→10/30、会場 Motel One→Squaire）。<br /><br /><a href="https://luma.com/1rv39ekj"><strong>Luma で申し込む →</strong></a></td></tr></table>
+
+<a id="ham-20261028"></a>
+<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-76rs"><img src="./assets/events/ham-20261028-cover.png" alt="Grok Bot Meetup ハンブルク #1" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup ハンブルク #1</strong><br />2026-10-28（水）18:00–22:00（Europe/Berlin、CET、UTC+1）<br />ドイツ・ハンブルク · House of AI Hamburg（Hongkongstraße 2）— オフライン<br /><br />ハンブルク初の Grok Bot ミートアップ。ピザと簡単な紹介の後、コミュニティトークと Bot デモ、Q&A、セットアップ比べ。登壇者は登録フォームで募集中で、未完成のデモも歓迎。無料。主催 Alexander Zakharov と AI BEAVERS。forum 173947。slug spacexai-76rs。<br /><br /><a href="https://luma.com/spacexai-76rs"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="country-br"></a>
 ### ブラジル
@@ -215,12 +224,6 @@
 
 <a id="vie-20261031"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-build-day-vienna"><img src="./assets/events/vie-20261031-cover.png" alt="Grok Bot Vienna Build Day" width="300" /></a></td><td valign="top"><strong>Grok Bot Vienna Build Day</strong><br />2026-10-31（土）13:00–18:00（Europe/Vienna、CET、UTC+1）<br />ウィーン · Roßau · Flinn ホスト（登録後に会場ピン）· オフライン<br /><br />SpaceXAI スポンサーの Vienna Build Day（会場 Flinn、主催 Abdul Basit Banbhan）。デモ・学習・交流。無料・承認制。フォーラム 173479。<br /><br /><a href="https://luma.com/spacexai-build-day-vienna"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="country-au"></a>
-### オーストラリア
-
-<a id="syd-20261007"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-d70v"><img src="./assets/events/syd-20261007-cover.png" alt="Grok Bot Meetup Sydney" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Sydney</strong><br />2026-10-07（水）17:30–21:00（AEDT）<br />シドニー · 登録後に住所を表示<br /><br />8 月開催の次、公式 Cursor Sydney の Grok Bot ナイト。主催者承認が必要。<br /><br /><a href="https://luma.com/cursor-d70v"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
 <a id="country-bd"></a>
 ### バングラデシュ

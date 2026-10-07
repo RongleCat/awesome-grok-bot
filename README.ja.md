@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2105-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2108-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,8 +38,8 @@
 [イベントの詳細](./EVENTS.ja.md)
 
 - **中国**（4）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017) · [マカオ](./EVENTS.ja.md#mo-20261007) · [マカオ](./EVENTS.ja.md#mo-20261112)
-- **アメリカ**（12）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [ワシントンDC](./EVENTS.ja.md#was-20261007) · [パサデナ](./EVENTS.ja.md#pas-20261008) · [アトランタ](./EVENTS.ja.md#atl-20261016) · [シアトル](./EVENTS.ja.md#sea-20261012) · [アトランタ（Job Night）](./EVENTS.ja.md#atl-20261008)
-- **ドイツ**（5）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015) · [フランクフルト](./EVENTS.ja.md#fra-20261120) · [カッセル](./EVENTS.ja.md#kas-20261112) · [フランクフルト](./EVENTS.ja.md#fra-20261030)
+- **アメリカ**（14）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [ワシントンDC](./EVENTS.ja.md#was-20261007) · [パサデナ](./EVENTS.ja.md#pas-20261008) · [アトランタ](./EVENTS.ja.md#atl-20261016) · [シアトル](./EVENTS.ja.md#sea-20261012) · [アトランタ（Job Night）](./EVENTS.ja.md#atl-20261008) · [シカゴ（ペアビルド）](./EVENTS.ja.md#chi-20261016) · [インディアナポリス（フィッシャーズ）](./EVENTS.ja.md#ind-20261112)
+- **ドイツ**（6）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015) · [フランクフルト](./EVENTS.ja.md#fra-20261120) · [カッセル](./EVENTS.ja.md#kas-20261112) · [フランクフルト](./EVENTS.ja.md#fra-20261030) · [ハンブルク](./EVENTS.ja.md#ham-20261028)
 - **ブラジル**（4）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [サルバドール](./EVENTS.ja.md#ssa-20261008) · [フロリアノポリス](./EVENTS.ja.md#fln-20261016)
 - **カナダ**（4）：[トロント](./EVENTS.ja.md#yyz-20261026) · [カルガリー](./EVENTS.ja.md#yyc-20261028) · [ハリファックス](./EVENTS.ja.md#yhz-20261015) · [オタワ](./EVENTS.ja.md#yow-20261017)
 - **イタリア**（4）：[ローマ](./EVENTS.ja.md#rom-20261023) · [トレヴィーゾ](./EVENTS.ja.md#tvs-20261022) · [ボローニャ](./EVENTS.ja.md#blq-20261012) · [パヴィア](./EVENTS.ja.md#pav-20261105)
@@ -54,7 +54,6 @@
 - **トーゴ**（2）：[ロメ（ワークショップ）](./EVENTS.ja.md#lfw-20261017) · [ロメ（ビルドデー）](./EVENTS.ja.md#lfw-20261114)
 - **アルバニア**（1）：[ティラナ](./EVENTS.ja.md#tia-20261017)
 - **オーストリア**（1）：[ウィーン](./EVENTS.ja.md#vie-20261031)
-- **オーストラリア**（1）：[シドニー](./EVENTS.ja.md#syd-20261007)
 - **バングラデシュ**（1）：[ダッカ](./EVENTS.ja.md#dac-20261031)
 - **ブルガリア**（1）：[ソフィア](./EVENTS.ja.md#sof-20261030)
 - **コートジボワール**（1）：[アビジャン](./EVENTS.ja.md#abj-20261107)
@@ -1910,6 +1909,9 @@
 - [Forum: webhook URL hidden on Linux 0.68.1 and how to find it](https://forum.cursor.com/t/grok-bot-webhooks-dont-appear-on-desktop-linux-version/173891) - 報告：Linux デスクトップ版 0.68.1 で Webhook ルーチンの詳細に再開と編集しかない。スタッフは詳細一覧でルーチンをクリックしても専用ページ（POST URL、キー、Authorization ヘッダーがある）が開かなくなったと認めてチームに伝え、チャット内のルーチンチップを押すか Bot にリンクを頼むよう案内。
 - [Forum: chat looked frozen after the Bot's computer restarted](https://forum.cursor.com/t/my-grok-bot-seems-to-be-stuck/173860) - 報告：Bot が返事をしないように見えた。スタッフは各メッセージに約 1 分以内で返信していたが、PC が何度か再起動した後しばらくチャット画面が新着を表示しなかったと判明。更新やリセットは空白を長引かせることがあるので、別の Bot に切り替えて戻るかアプリを開き直すよう案内。
 - [Forum: request for usage broken down by Bot and category, readable by Bots](https://forum.cursor.com/t/breakdown-in-the-app-by-bot-and-category-and-the-same-data-available-to-bots/173936) - 機能リクエスト：ファミリーオフィス向けに Bot のチームを運用するユーザーが、週 1 つの使用率表示を Bot 別・作業の種類別・ルーチン別に分け、日ごとの推移とペース目安を付け、同じ数値を Bot にも読ませてほしいと提案。高くつくルーチンの整理、リセット前に余裕があるときだけ任意の作業を回す運用、毎日の必須作業の確保に使うため。
+- [Forum: Grok Bot computer wedged since Oct 5, Shell hangs and Update/Reset don't help](https://forum.cursor.com/t/grok-bot-shared-computer-fully-wedged-since-2026-10-05-shell-dead-update-recover-reset-all-fail-please-reprovision/173881) - 不具合スレッド：あるユーザーの Grok Bot 共有コンピューターで 10 月 5 日以降すべての Shell 呼び出しが固まり、デスクトップだけは表示される。スタッフは Bot・ファイル・ログインは無事で、新しいプロセスを起動する操作が止まり新しいコンピューターでも再発すると説明。Reset・Recover・Update は控えるよう求め、Bot が最近 ~/.bashrc・~/.bash_profile・~/.profile を変更していないか（Shell ではなくファイルツールで確認）を尋ねている。
+- [Forum: Grok Bot 0.68.1 can't reach the computer, delete fails and Update does nothing](https://forum.cursor.com/t/grok-bot-0-68-1-macos-cant-reach-computer-delete-fails-update-does-nothing/173950) - 不具合報告（macOS 0.68.1）：Computer タブに Bot の画面に接続できないと表示され、Bot の削除は接続エラーで失敗し、Update Grok Bot's Computer も進まない。スタッフはネットワークは正常で、Bot のコンピューターが最初の起動を終えていないと説明。既知のサービス側の問題で、チャットは使えるが Update・Reset・再インストール・再ログインは効かないとしている。
+- [Forum: every browser action fails with a credential-check error](https://forum.cursor.com/t/my-browser-blocks-every-action-with-a-credential-check-error/173944) - 不具合報告：ページを開く・スクリーンショットを撮るといったブラウザ操作がすべて「The box could not confirm that no saved credential is being filled into its browser」で失敗する。スタッフはこのメッセージは誤解を招くもので、実際の原因は Bot のコンピューターが初回起動を終えていないことだと説明。運営側で追跡中で、この状態では Update や Reset も通らないという。
 
 ## 関連リスト
 
@@ -2218,7 +2220,7 @@
 
 ## 貢献
 
-8 セクションに 2105 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2108 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

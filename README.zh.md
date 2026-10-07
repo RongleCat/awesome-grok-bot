@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2105-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2108-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,8 +38,8 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（4）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [澳门](./EVENTS.zh.md#mo-20261007) · [澳门](./EVENTS.zh.md#mo-20261112)
-- **美国**（12）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012) · [亚特兰大（Job Night）](./EVENTS.zh.md#atl-20261008)
-- **德国**（5）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20261120) · [卡塞尔](./EVENTS.zh.md#kas-20261112) · [法兰克福](./EVENTS.zh.md#fra-20261030)
+- **美国**（14）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012) · [亚特兰大（Job Night）](./EVENTS.zh.md#atl-20261008) · [芝加哥（配对共建）](./EVENTS.zh.md#chi-20261016) · [印第安纳波利斯（Fishers）](./EVENTS.zh.md#ind-20261112)
+- **德国**（6）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20261120) · [卡塞尔](./EVENTS.zh.md#kas-20261112) · [法兰克福](./EVENTS.zh.md#fra-20261030) · [汉堡](./EVENTS.zh.md#ham-20261028)
 - **巴西**（4）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20261016)
 - **加拿大**（4）：[多伦多](./EVENTS.zh.md#yyz-20261026) · [卡尔加里](./EVENTS.zh.md#yyc-20261028) · [哈利法克斯](./EVENTS.zh.md#yhz-20261015) · [渥太华](./EVENTS.zh.md#yow-20261017)
 - **意大利**（4）：[罗马](./EVENTS.zh.md#rom-20261023) · [特雷维索](./EVENTS.zh.md#tvs-20261022) · [博洛尼亚](./EVENTS.zh.md#blq-20261012) · [帕维亚](./EVENTS.zh.md#pav-20261105)
@@ -54,7 +54,6 @@
 - **多哥**（2）：[洛美工作坊](./EVENTS.zh.md#lfw-20261017) · [洛美构建日](./EVENTS.zh.md#lfw-20261114)
 - **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20261017)
 - **奥地利**（1）：[维也纳](./EVENTS.zh.md#vie-20261031)
-- **澳大利亚**（1）：[悉尼](./EVENTS.zh.md#syd-20261007)
 - **孟加拉国**（1）：[达卡](./EVENTS.zh.md#dac-20261031)
 - **保加利亚**（1）：[索非亚](./EVENTS.zh.md#sof-20261030)
 - **科特迪瓦**（1）：[阿比让](./EVENTS.zh.md#abj-20261107)
@@ -1910,6 +1909,9 @@
 - [Forum: webhook URL hidden on Linux 0.68.1 and how to find it](https://forum.cursor.com/t/grok-bot-webhooks-dont-appear-on-desktop-linux-version/173891) - 反馈：Linux 桌面版 0.68.1 中 Webhook 例程的详情只有恢复和编辑；官方确认目前在详情列表点击例程不会再打开它自己的页面（POST 地址、密钥和 Authorization 头都在那里），已转给团队，并建议点聊天里的例程标签，或直接让 Bot 发链接。.
 - [Forum: chat looked frozen after the Bot's computer restarted](https://forum.cursor.com/t/my-grok-bot-seems-to-be-stuck/173860) - 反馈：Bot 看起来不回复；官方查明它其实每条消息都在约一分钟内回了，只是电脑多次重启后聊天窗口有一阵没显示新消息；建议切换到别的 Bot 再切回来或重开应用，不要用更新或重置，那样反而可能拉长空窗。.
 - [Forum: request for usage broken down by Bot and category, readable by Bots](https://forum.cursor.com/t/breakdown-in-the-app-by-bot-and-category-and-the-same-data-available-to-bots/173936) - 功能请求：一位为家族办公室跑一队 Bot 的用户希望把单一的每周用量百分比按 Bot、按工作类型、按例程拆开，加上每日趋势和匀速参考线，并让 Bot 也能读到这些数据，好让它们自己精简费额度的例程、在重置前有余量时才跑可选任务，并优先保住每日必做的事。.
+- [Forum: Grok Bot computer wedged since Oct 5, Shell hangs and Update/Reset don't help](https://forum.cursor.com/t/grok-bot-shared-computer-fully-wedged-since-2026-10-05-shell-dead-update-recover-reset-all-fail-please-reprovision/173881) - 故障帖：一位用户的 Grok Bot 共享电脑从 10 月 5 日起所有 Shell 调用都卡死，桌面仍能显示；官方回复说 Bot、文件和登录都还在，问题是凡是要启动新进程的操作都会卡住，而且换一台新电脑也会复现，请先别点 Reset、Recover 和 Update，并询问是否有 Bot 最近改过 ~/.bashrc、~/.bash_profile 或 ~/.profile（让 Bot 用文件工具查看，别用 Shell）。.
+- [Forum: Grok Bot 0.68.1 can't reach the computer, delete fails and Update does nothing](https://forum.cursor.com/t/grok-bot-0-68-1-macos-cant-reach-computer-delete-fails-update-does-nothing/173950) - 故障报告（macOS 0.68.1）：Computer 页显示无法连接 Bot 的屏幕，删除 Bot 报连接错误，Update Grok Bot's Computer 也没有进度；官方说网络没问题，是 Bot 的电脑首次启动没完成，属于已在跟踪的服务端问题，聊天仍可用，点 Update、Reset、重装或退出登录都没用。.
+- [Forum: every browser action fails with a credential-check error](https://forum.cursor.com/t/my-browser-blocks-every-action-with-a-credential-check-error/173944) - 故障报告：浏览器的所有操作（连打开网页、截图都算）都报“The box could not confirm that no saved credential is being filled into its browser”；官方说这条提示有误导性，真正原因是 Bot 的电脑没完成首次启动，问题在官方那边且正在跟踪，这种状态下点 Update 或 Reset 也没用。.
 
 ## 相关列表
 
@@ -2218,7 +2220,7 @@
 
 ## 贡献
 
-目前 8 个分类、2105 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2108 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

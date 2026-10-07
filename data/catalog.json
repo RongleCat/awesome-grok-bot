@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -18104,6 +18104,36 @@
             "zh": "功能请求：一位为家族办公室跑一队 Bot 的用户希望把单一的每周用量百分比按 Bot、按工作类型、按例程拆开，加上每日趋势和匀速参考线，并让 Bot 也能读到这些数据，好让它们自己精简费额度的例程、在重置前有余量时才跑可选任务，并优先保住每日必做的事。",
             "ja": "機能リクエスト：ファミリーオフィス向けに Bot のチームを運用するユーザーが、週 1 つの使用率表示を Bot 別・作業の種類別・ルーチン別に分け、日ごとの推移とペース目安を付け、同じ数値を Bot にも読ませてほしいと提案。高くつくルーチンの整理、リセット前に余裕があるときだけ任意の作業を回す運用、毎日の必須作業の確保に使うため。"
           }
+        },
+        {
+          "title": "Forum: Grok Bot computer wedged since Oct 5, Shell hangs and Update/Reset don't help",
+          "url": "https://forum.cursor.com/t/grok-bot-shared-computer-fully-wedged-since-2026-10-05-shell-dead-update-recover-reset-all-fail-please-reprovision/173881",
+          "source": "GB-2130",
+          "blurb": {
+            "en": "Bug thread where every Shell call on a user's shared Grok Bot computer has hung since Oct 5 while the desktop still renders; staff say Bots, files and logins are intact, that anything starting a new process gets stuck and comes back on each fresh computer, ask users to hold off on Reset, Recover and Update, and ask whether a Bot recently edited ~/.bashrc, ~/.bash_profile or ~/.profile (check with file tools, not Shell).",
+            "zh": "故障帖：一位用户的 Grok Bot 共享电脑从 10 月 5 日起所有 Shell 调用都卡死，桌面仍能显示；官方回复说 Bot、文件和登录都还在，问题是凡是要启动新进程的操作都会卡住，而且换一台新电脑也会复现，请先别点 Reset、Recover 和 Update，并询问是否有 Bot 最近改过 ~/.bashrc、~/.bash_profile 或 ~/.profile（让 Bot 用文件工具查看，别用 Shell）。",
+            "ja": "不具合スレッド：あるユーザーの Grok Bot 共有コンピューターで 10 月 5 日以降すべての Shell 呼び出しが固まり、デスクトップだけは表示される。スタッフは Bot・ファイル・ログインは無事で、新しいプロセスを起動する操作が止まり新しいコンピューターでも再発すると説明。Reset・Recover・Update は控えるよう求め、Bot が最近 ~/.bashrc・~/.bash_profile・~/.profile を変更していないか（Shell ではなくファイルツールで確認）を尋ねている。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot 0.68.1 can't reach the computer, delete fails and Update does nothing",
+          "url": "https://forum.cursor.com/t/grok-bot-0-68-1-macos-cant-reach-computer-delete-fails-update-does-nothing/173950",
+          "source": "GB-2131",
+          "blurb": {
+            "en": "Bug report from macOS 0.68.1 where the Computer tab shows \"Can't reach\" the Bot's screen, deleting the Bot fails with a connection error and Update Grok Bot's Computer shows no progress; staff say the network is fine and the Bot's computer never finished its very first startup, call it a known service-side issue, and say chat still works while Update, Reset, reinstalling or signing out won't help.",
+            "zh": "故障报告（macOS 0.68.1）：Computer 页显示无法连接 Bot 的屏幕，删除 Bot 报连接错误，Update Grok Bot's Computer 也没有进度；官方说网络没问题，是 Bot 的电脑首次启动没完成，属于已在跟踪的服务端问题，聊天仍可用，点 Update、Reset、重装或退出登录都没用。",
+            "ja": "不具合報告（macOS 0.68.1）：Computer タブに Bot の画面に接続できないと表示され、Bot の削除は接続エラーで失敗し、Update Grok Bot's Computer も進まない。スタッフはネットワークは正常で、Bot のコンピューターが最初の起動を終えていないと説明。既知のサービス側の問題で、チャットは使えるが Update・Reset・再インストール・再ログインは効かないとしている。"
+          }
+        },
+        {
+          "title": "Forum: every browser action fails with a credential-check error",
+          "url": "https://forum.cursor.com/t/my-browser-blocks-every-action-with-a-credential-check-error/173944",
+          "source": "GB-2132",
+          "blurb": {
+            "en": "Bug report where every browser action, even opening a page or taking a screenshot, fails with \"The box could not confirm that no saved credential is being filled into its browser\"; staff say the message is misleading, the real cause is that the Bot's computer didn't finish its initial startup, it is being tracked on their side, and Update or Reset won't get through in that state.",
+            "zh": "故障报告：浏览器的所有操作（连打开网页、截图都算）都报“The box could not confirm that no saved credential is being filled into its browser”；官方说这条提示有误导性，真正原因是 Bot 的电脑没完成首次启动，问题在官方那边且正在跟踪，这种状态下点 Update 或 Reset 也没用。",
+            "ja": "不具合報告：ページを開く・スクリーンショットを撮るといったブラウザ操作がすべて「The box could not confirm that no saved credential is being filled into its browser」で失敗する。スタッフはこのメッセージは誤解を招くもので、実際の原因は Bot のコンピューターが初回起動を終えていないことだと説明。運営側で追跡中で、この状態では Update や Reset も通らないという。"
+          }
         }
       ]
     },
@@ -28975,6 +29005,99 @@
         "en": "Spanish-language build-and-pitch morning: four straight hours building with Grok Bot solo or in a team, then a short pitch and direct feedback. Free RSVP; forum 173855; slug c398wllp.",
         "zh": "西语 Build & Pitch：连续四小时用 Grok Bot 单人或组队开发，再做简短路演并获得现场反馈。免费报名；论坛 173855；slug c398wllp。",
         "ja": "スペイン語のビルド＆ピッチ。Grok Bot で 4 時間続けて個人またはチームで開発し、短いピッチと直接のフィードバック。無料 RSVP。forum 173855。slug c398wllp。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "chi-20261016",
+      "url": "https://luma.com/spacexai-y33x",
+      "image": "./assets/events/chi-20261016-cover.png",
+      "expires": "2026-10-16T20:30:00-05:00",
+      "title": {
+        "en": "Grok Bot Meetup Chicago",
+        "zh": "Grok Bot Meetup 芝加哥",
+        "ja": "Grok Bot Meetup シカゴ"
+      },
+      "when": {
+        "en": "Fri 16 Oct 2026, 17:30–20:30 (America/Chicago, CDT, UTC−5)",
+        "zh": "2026-10-16 周五 17:30–20:30（America/Chicago，CDT，UTC−5）",
+        "ja": "2026-10-16（金）17:30–20:30（America/Chicago、CDT、UTC−5）"
+      },
+      "where": {
+        "en": "Chicago, IL · Spaces Fulton Market, 159 N Sangamon St — offline",
+        "zh": "美国芝加哥 · Spaces Fulton Market（159 N Sangamon St）— 线下",
+        "ja": "シカゴ · Spaces Fulton Market（159 N Sangamon St）— オフライン"
+      },
+      "body": {
+        "en": "Pair-build night: you're matched with a stranger on arrival and get about 1.5 hours to build a Grok Bot with Cursor, then every team presents for 3 minutes and the room votes. Doors 17:30, building from 18:00; bring a laptop and show your Luma invite at security. Free; host Krystian Gebis; forum 173946; slug spacexai-y33x.",
+        "zh": "配对共建夜：到场随机和陌生人组队，用 Cursor 花约 1.5 小时做一个 Grok Bot，每队展示 3 分钟后全场投票。17:30 开门，18:00 开始搭建；带电脑，楼下保安处需出示 Luma 邀请。免费；主办 Krystian Gebis；论坛 173946；slug spacexai-y33x。",
+        "ja": "ペアで作る夜：到着時に初対面の人と組み、約 1.5 時間で Cursor を使って Grok Bot を作り、各チーム 3 分発表して全員で投票。17:30 開場、18:00 からビルド。ノート PC 持参、1 階の警備で Luma の招待を提示。無料。主催 Krystian Gebis。forum 173946。slug spacexai-y33x。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "ham-20261028",
+      "url": "https://luma.com/spacexai-76rs",
+      "image": "./assets/events/ham-20261028-cover.png",
+      "expires": "2026-10-28T22:00:00+01:00",
+      "title": {
+        "en": "Grok Bot Meetup Hamburg #1",
+        "zh": "Grok Bot Meetup 汉堡 #1",
+        "ja": "Grok Bot Meetup ハンブルク #1"
+      },
+      "when": {
+        "en": "Wed 28 Oct 2026, 18:00–22:00 (Europe/Berlin, CET, UTC+1)",
+        "zh": "2026-10-28 周三 18:00–22:00（Europe/Berlin，CET，UTC+1）",
+        "ja": "2026-10-28（水）18:00–22:00（Europe/Berlin、CET、UTC+1）"
+      },
+      "where": {
+        "en": "Hamburg, Germany · House of AI Hamburg, Hongkongstraße 2 — offline",
+        "zh": "德国汉堡 · House of AI Hamburg（Hongkongstraße 2）— 线下",
+        "ja": "ドイツ・ハンブルク · House of AI Hamburg（Hongkongstraße 2）— オフライン"
+      },
+      "body": {
+        "en": "Hamburg's first Grok Bot meetup: pizza and a quick intro, then community talks and Bot demos, Q&A and comparing setups. Speakers are being collected via the registration form, and rough demos are welcome. Free; hosts Alexander Zakharov and AI BEAVERS; forum 173947; slug spacexai-76rs.",
+        "zh": "汉堡首场 Grok Bot 聚会：先吃披萨、简短介绍，然后是社区分享和 Bot 演示、问答和互相对比配置。正在通过报名表征集分享人，粗糙的演示也欢迎。免费；主办 Alexander Zakharov 和 AI BEAVERS；论坛 173947；slug spacexai-76rs。",
+        "ja": "ハンブルク初の Grok Bot ミートアップ。ピザと簡単な紹介の後、コミュニティトークと Bot デモ、Q&A、セットアップ比べ。登壇者は登録フォームで募集中で、未完成のデモも歓迎。無料。主催 Alexander Zakharov と AI BEAVERS。forum 173947。slug spacexai-76rs。"
+      },
+      "cta": {
+        "en": "Register on Luma",
+        "zh": "去 Luma 报名",
+        "ja": "Luma で申し込む"
+      }
+    },
+    {
+      "id": "ind-20261112",
+      "url": "https://luma.com/cudopyt3",
+      "image": "./assets/events/ind-20261112-cover.png",
+      "expires": "2026-11-12T20:00:00-05:00",
+      "title": {
+        "en": "Grok Bot Meetup Indianapolis",
+        "zh": "Grok Bot Meetup 印第安纳波利斯",
+        "ja": "Grok Bot Meetup インディアナポリス"
+      },
+      "when": {
+        "en": "Thu 12 Nov 2026, 18:00–20:00 (America/Indiana/Indianapolis, EST, UTC−5)",
+        "zh": "2026-11-12 周四 18:00–20:00（America/Indiana/Indianapolis，EST，UTC−5）",
+        "ja": "2026-11-12（木）18:00–20:00（America/Indiana/Indianapolis、EST、UTC−5）"
+      },
+      "where": {
+        "en": "Fishers, IN (Indianapolis area) · Launch Fishers, 12175 Visionary Way — offline",
+        "zh": "美国印第安纳州 Fishers（印第安纳波利斯周边）· Launch Fishers（12175 Visionary Way）— 线下",
+        "ja": "インディアナ州フィッシャーズ（インディアナポリス近郊）· Launch Fishers（12175 Visionary Way）— オフライン"
+      },
+      "body": {
+        "en": "First Grok Bot meetup for Indy builders and business owners: intro, live demos, Q&A, then build time (bring a laptop and an idea) and attendee demos, aiming to leave with a working Bot. No experience needed. Free; host Jacob Thifault; forum 173949; slug cudopyt3.",
+        "zh": "面向印第安纳波利斯开发者和企业主的首场 Grok Bot 聚会：介绍、现场演示、问答，然后动手搭建（带电脑和想法）并由参会者展示，目标是带走一个能干活的 Bot。无需经验。免费；主办 Jacob Thifault；论坛 173949；slug cudopyt3。",
+        "ja": "インディアナポリスのビルダーと事業者向け初の Grok Bot ミートアップ。紹介、ライブデモ、Q&A の後、ビルドタイム（ノート PC とアイデア持参）と参加者デモ。動く Bot を持ち帰るのが目標。経験不要。無料。主催 Jacob Thifault。forum 173949。slug cudopyt3。"
       },
       "cta": {
         "en": "Register on Luma",

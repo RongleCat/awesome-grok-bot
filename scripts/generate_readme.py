@@ -507,6 +507,9 @@ EVENT_GEO = {
     "lfw-20261114": ("tg", "Lomé build day", "洛美构建日", "ロメ（ビルドデー）"),
     "jim-20261115": ("et", "Jimma", "吉马", "ジンマ"),
     "gua-20261121": ("gt", "Guatemala City (Build & Pitch)", "危地马拉城（Build & Pitch）", "グアテマラシティ（Build & Pitch）"),
+    "chi-20261016": ("us", "Chicago (pair build)", "芝加哥（配对共建）", "シカゴ（ペアビルド）"),
+    "ham-20261028": ("de", "Hamburg", "汉堡", "ハンブルク"),
+    "ind-20261112": ("us", "Indianapolis (Fishers)", "印第安纳波利斯（Fishers）", "インディアナポリス（フィッシャーズ）"),
 }
 
 

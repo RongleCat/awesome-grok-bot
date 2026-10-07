@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2105-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2108-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,8 +38,8 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（4）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261007) · [Macao](./EVENTS.md#mo-20261112)
-- **United States**（12）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Pasadena](./EVENTS.md#pas-20261008) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012) · [Atlanta (Job Night)](./EVENTS.md#atl-20261008)
-- **Germany**（5）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261120) · [Kassel](./EVENTS.md#kas-20261112) · [Frankfurt](./EVENTS.md#fra-20261030)
+- **United States**（14）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Washington, DC](./EVENTS.md#was-20261007) · [Pasadena](./EVENTS.md#pas-20261008) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012) · [Atlanta (Job Night)](./EVENTS.md#atl-20261008) · [Chicago (pair build)](./EVENTS.md#chi-20261016) · [Indianapolis (Fishers)](./EVENTS.md#ind-20261112)
+- **Germany**（6）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261120) · [Kassel](./EVENTS.md#kas-20261112) · [Frankfurt](./EVENTS.md#fra-20261030) · [Hamburg](./EVENTS.md#ham-20261028)
 - **Brazil**（4）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Salvador](./EVENTS.md#ssa-20261008) · [Florianópolis](./EVENTS.md#fln-20261016)
 - **Canada**（4）：[Toronto](./EVENTS.md#yyz-20261026) · [Calgary](./EVENTS.md#yyc-20261028) · [Halifax](./EVENTS.md#yhz-20261015) · [Ottawa](./EVENTS.md#yow-20261017)
 - **Italy**（4）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022) · [Bologna](./EVENTS.md#blq-20261012) · [Pavia](./EVENTS.md#pav-20261105)
@@ -54,7 +54,6 @@
 - **Togo**（2）：[Lomé workshop](./EVENTS.md#lfw-20261017) · [Lomé build day](./EVENTS.md#lfw-20261114)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20261017)
 - **Austria**（1）：[Vienna](./EVENTS.md#vie-20261031)
-- **Australia**（1）：[Sydney](./EVENTS.md#syd-20261007)
 - **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20261031)
 - **Bulgaria**（1）：[Sofia](./EVENTS.md#sof-20261030)
 - **Côte d'Ivoire**（1）：[Abidjan](./EVENTS.md#abj-20261107)
@@ -1910,6 +1909,9 @@
 - [Forum: webhook URL hidden on Linux 0.68.1 and how to find it](https://forum.cursor.com/t/grok-bot-webhooks-dont-appear-on-desktop-linux-version/173891) - Report that on the 0.68.1 Linux desktop app a webhook routine's details offer only Resume and Edit; staff confirmed clicking a routine in the Details list no longer opens its own page, where the POST URL, key and Authorization header live, flagged it, and suggested clicking the routine chip in the chat or asking the Bot for the link.
 - [Forum: chat looked frozen after the Bot's computer restarted](https://forum.cursor.com/t/my-grok-bot-seems-to-be-stuck/173860) - Report of a Bot that seemed not to answer; staff found it had replied to each message within about a minute, but the chat window stopped showing new messages for a while after the computer restarted several times, and advised switching Bots or reopening the app rather than using Update or Reset, which can make the gap longer.
 - [Forum: request for usage broken down by Bot and category, readable by Bots](https://forum.cursor.com/t/breakdown-in-the-app-by-bot-and-category-and-the-same-data-available-to-bots/173936) - Feature request from someone running a team of Bots for a family office: split the single weekly usage percentage by Bot, by kind of work and by routine, with a daily trend and a pace marker, and give Bots read access to the same numbers so they can trim costly routines, run optional work only when there is headroom before the reset and protect daily essentials.
+- [Forum: Grok Bot computer wedged since Oct 5, Shell hangs and Update/Reset don't help](https://forum.cursor.com/t/grok-bot-shared-computer-fully-wedged-since-2026-10-05-shell-dead-update-recover-reset-all-fail-please-reprovision/173881) - Bug thread where every Shell call on a user's shared Grok Bot computer has hung since Oct 5 while the desktop still renders; staff say Bots, files and logins are intact, that anything starting a new process gets stuck and comes back on each fresh computer, ask users to hold off on Reset, Recover and Update, and ask whether a Bot recently edited ~/.bashrc, ~/.bash_profile or ~/.profile (check with file tools, not Shell).
+- [Forum: Grok Bot 0.68.1 can't reach the computer, delete fails and Update does nothing](https://forum.cursor.com/t/grok-bot-0-68-1-macos-cant-reach-computer-delete-fails-update-does-nothing/173950) - Bug report from macOS 0.68.1 where the Computer tab shows "Can't reach" the Bot's screen, deleting the Bot fails with a connection error and Update Grok Bot's Computer shows no progress; staff say the network is fine and the Bot's computer never finished its very first startup, call it a known service-side issue, and say chat still works while Update, Reset, reinstalling or signing out won't help.
+- [Forum: every browser action fails with a credential-check error](https://forum.cursor.com/t/my-browser-blocks-every-action-with-a-credential-check-error/173944) - Bug report where every browser action, even opening a page or taking a screenshot, fails with "The box could not confirm that no saved credential is being filled into its browser"; staff say the message is misleading, the real cause is that the Bot's computer didn't finish its initial startup, it is being tracked on their side, and Update or Reset won't get through in that state.
 
 ## Related Lists
 
@@ -2218,7 +2220,7 @@
 
 ## Contributing
 
-2105 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2108 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
