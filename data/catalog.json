@@ -2204,6 +2204,16 @@
             "zh": "独立的 Grok Bot 实用站点：入门与进阶教程、可复制的 Bot 模板（销售/营销/个人）、工具箱汇总，以及新闻与热点栏目。",
             "ja": "独立系の Grok Bot 実用サイト。初級・上級のハウツー、コピーできる Bot テンプレート（営業・マーケ・個人）、ツールキット一覧、ニュース/トレンド欄。"
           }
+        },
+        {
+          "title": "Guía en español: a 4-Bot sales team with Grok Bot (Guatemala meetup workshop)",
+          "url": "https://github.com/valenzmanu/guia-grok-bot",
+          "source": "GB-2115",
+          "blurb": {
+            "en": "Spanish-language CC BY 4.0 guide from Manuel Valenzuela's workshop at the Grok Bot Guatemala Meetup (UFM, 3 Oct 2026), with descriptions and prompts for four Bots (Scout, Analyst, Builder, SDR) that find local businesses without a website, score them, build a demo landing page and draft outreach that is never sent, plus a one-Bot credit-saving plan, ethics rules and a troubleshooting table.",
+            "zh": "Manuel Valenzuela 在 Grok Bot 危地马拉 Meetup（UFM，2026 年 10 月 3 日）工作坊整理的西班牙语指南（CC BY 4.0）：给出 Scout、Analista、Builder、SDR 四个 Bot 的描述和提示词，找出没有官网的本地商家、打分、做演示落地页并起草从不发送的开发信，另附只用一个 Bot 的省额度方案、伦理规则和故障处理表。",
+            "ja": "Manuel Valenzuela が Grok Bot Guatemala Meetup（UFM、2026 年 10 月 3 日）のワークショップをまとめたスペイン語ガイド（CC BY 4.0）。Scout・Analista・Builder・SDR の 4 つの Bot の説明とプロンプトで、Web サイトのない地元店舗を探し、採点し、デモ用ランディングページを作り、送信しない営業文を下書きする。1 Bot だけの節約プラン、倫理ルール、トラブル対応表付き。"
+          }
         }
       ]
     },
@@ -4323,6 +4333,16 @@
             "en": "Internet Projects Ltd explains running about 30 single-job agents on Grok Bot, led by a Chief of Staff, with drafts by default, a human yes for production, code handed to Cursor through reviewed pull requests, and the early September issues it reported to support.",
             "zh": "Internet Projects Ltd 分享他们在 Grok Bot 上跑约 30 个各管一摊的智能体：由一个 Chief of Staff 统筹，默认只出草稿，上生产要人点头，代码活交给 Cursor 走经过审核的 PR，并列出了 9 月初期向官方支持报告过的问题。",
             "ja": "Internet Projects Ltd が、Chief of Staff が統括する単一職務のエージェント約 30 体を Grok Bot で運用する方法を紹介。既定は下書き、本番は人の承認、コードはレビュー付きプルリクエストで Cursor に任せ、9 月の初期トラブルとサポートへの報告も記載。"
+          }
+        },
+        {
+          "title": "Frostwell Cakes — a Next.js cake shop built by Grok Bot from GitHub issues",
+          "url": "https://github.com/dev-repos/nextjs-cake-shop-grok-bot",
+          "source": "GB-2116",
+          "blurb": {
+            "en": "MIT demo for an AI system design tutorial: a mobile-first Next.js custom-cake shop that Grok Bot built from GitHub issues while being driven from a phone, deployed to Vercel, with orders carried in HMAC-signed links instead of a database, Accept and Decline emails to the bakery, and a stubbed PayPal invoice step.",
+            "zh": "AI 系统设计教程的 MIT 演示项目：一个移动优先的 Next.js 定制蛋糕店，由 Grok Bot 照着 GitHub issue 搭建、全程在手机上指挥，部署在 Vercel；订单不用数据库，而是放在 HMAC 签名链接里，给店家发接单/拒单邮件，PayPal 开票步骤为占位实现。",
+            "ja": "AI システム設計チュートリアル用の MIT デモ。スマホから指示しながら Grok Bot が GitHub の Issue をもとに作ったモバイル優先の Next.js オーダーケーキ店で、Vercel にデプロイ。注文はデータベースではなく HMAC 署名付きリンクで運び、店側に受注/辞退メールを送り、PayPal 請求はスタブ。"
           }
         }
       ]
@@ -10964,6 +10984,26 @@
             "zh": "Grok Bot 分享模板 Beowulf 的公开上手指南（PDF 加 README，GPL-3.0）：Beowulf 帮你规划、构建、检查、调研和运维，指南写了首次设置步骤、只有手打的 yes 才能放行花钱、代发、密钥、删除和公开发帖的规则，以及每个正式任务前先写 Act as / Request / Terms 简报的做法。",
             "ja": "Grok Bot の共有テンプレート Beowulf の公開ガイド（PDF と README、GPL-3.0）。Beowulf は計画・構築・確認・調査・運用を担い、ガイドには初回セットアップ手順、お金・送信・シークレット・削除・公開投稿は手入力の yes でのみ許可するルール、本番タスク前に Act as / Request / Terms のブリーフを書く流れがまとめられている。"
           }
+        },
+        {
+          "title": "Roblox Compact MCP — let Grok Bot work in Roblox Studio with small answers",
+          "url": "https://github.com/Crazy-Or-Something/roblox-compact-mcp",
+          "source": "GB-2117",
+          "blurb": {
+            "en": "MIT local MCP server plus Studio plugin, written so Grok Bot can query and edit Roblox Studio without flooding its context: count-only and scoped searches, batched edits with one Undo per batch, guarded script writes, and Play and runtime Luau through Roblox's official Studio MCP, reachable from the cloud computer over a tunnel with a Bearer token.",
+            "zh": "MIT 开源的本地 MCP 服务器加 Studio 插件，目的是让 Grok Bot 查询和修改 Roblox Studio 时不撑爆上下文：支持只返回计数的查询和限定范围搜索、批量编辑且每批一次撤销、先校验旧源码的脚本写入，并通过 Roblox 官方 Studio MCP 运行 Play 和 Luau；云电脑可经隧道加 Bearer 令牌连回本机。",
+            "ja": "Grok Bot がコンテキストを溢れさせずに Roblox Studio を検索・編集できるようにする MIT のローカル MCP サーバーと Studio プラグイン。件数だけ返すクエリや範囲指定検索、1 バッチ 1 回の Undo でまとめて編集、旧ソースを確認してからのスクリプト書き込み、Roblox 公式 Studio MCP 経由の Play と Luau 実行に対応。クラウド PC からはトンネルと Bearer トークンで接続する。"
+          }
+        },
+        {
+          "title": "grokbot-jev-skills — ten skills that hand small decisions to Jev",
+          "url": "https://github.com/fal3/grokbot-jev-skills",
+          "source": "GB-2118",
+          "blurb": {
+            "en": "MIT pack of ten Grok Bot skills that pass an agent's small typed decisions (which search results to read, mailbox sorting, support triage, whether a routine should wake you, which passages carry prompt injection) to TypeSafe's Jev model via its CLI, with an installer that pins the upstream commit, a fail-open answer for every skill, and notes on what data leaves the machine.",
+            "zh": "MIT 开源的 10 个 Grok Bot 技能，把智能体的小型结构化判断（该读哪些搜索结果、邮件分类、客服分诊、例程要不要叫醒你、哪些段落含提示注入）交给 TypeSafe 的 Jev 模型的命令行处理；安装脚本固定上游提交版本，每个技能都写明 Jev 不可用时的默认答案，以及哪些数据会离开本机。",
+            "ja": "エージェントの小さな型付き判断（どの検索結果を読むか、メール仕分け、サポートのトリアージ、ルーチンが通知すべきか、どの文章にプロンプトインジェクションがあるか）を TypeSafe の Jev モデルの CLI に任せる MIT の Grok Bot スキル 10 本。インストーラーは上流コミットを固定し、各スキルに Jev が使えないときの既定の答えと、端末外に出るデータの説明がある。"
+          }
         }
       ]
     },
@@ -15104,6 +15144,26 @@
             "zh": "一位用户让自己的 Grok Bot 把电脑上的观测笔记镜像到这个仓库：包含电脑、桌面、连接器和命令行工具的架构图，实时命令行工具清单、进程映射、按日期的会话记录，以及会脱敏密钥的 shell 采集脚本，另有一个常驻循环每五分钟刷新并推送一次，电脑重启后需重新启动。",
             "ja": "あるユーザーの Grok Bot が、自分のボックスの観測メモをミラーしているリポジトリ。ボックス・デスクトップ・コネクタ・CLI のアーキテクチャ図、CLI の一覧、プロセスマップ、日付ごとのセッション記録、シークレットを伏せるシェルのコレクターを含み、常駐ループが 5 分ごとに更新してプッシュする（ボックス再起動後は再起動が必要）。"
           }
+        },
+        {
+          "title": "grok-bot-fedora — build a Fedora RPM from the Grok Bot .deb",
+          "url": "https://github.com/FALCONFOX64/grok-bot-fedora",
+          "source": "GB-2119",
+          "blurb": {
+            "en": "Small build script that repackages the official Grok Bot Debian package (tested with 0.66.0) as an RPM for dnf on Fedora, keeping the program files unchanged, adding the grok-bot command, desktop entry and icons, and mapping dependencies; it adds no update repository, so each new version means rebuilding from the newer .deb.",
+            "zh": "小巧的构建脚本，把官方 Grok Bot 的 Debian 安装包（在 0.66.0 上测试）重新打包成 Fedora 可用 dnf 安装的 RPM：程序文件原样保留，补上 grok-bot 命令、桌面入口和图标并映射依赖；不添加更新源，新版本需要用新的 .deb 重新构建。",
+            "ja": "公式 Grok Bot の Debian パッケージ（0.66.0 で検証）を Fedora の dnf 用 RPM に作り直す小さなビルドスクリプト。プログラムファイルはそのままに、grok-bot コマンド、デスクトップエントリ、アイコンを加え依存関係を対応付ける。更新用リポジトリは追加しないので、新版は新しい .deb から再ビルドが必要。"
+          }
+        },
+        {
+          "title": "grok-bot-tray — keep Grok Bot running with a Linux tray icon",
+          "url": "https://github.com/yelenkovsky/grok-bot-tray",
+          "source": "GB-2120",
+          "blurb": {
+            "en": "Scripts for the Linux desktop app, which quits when its window closes and has no tray icon: a systemd user service starts Grok Bot at login and restarts it if the window is closed, a StatusNotifier tray icon shows, hides or quits it, and an optional Hyprland rule parks the window on a hidden scratchpad.",
+            "zh": "针对 Linux 桌面版关窗即退出、没有托盘图标的问题写的脚本：systemd 用户服务在登录时启动 Grok Bot，窗口被关掉就重新拉起；StatusNotifier 托盘图标可显示、隐藏或退出应用；还可选用 Hyprland 规则把窗口停到隐藏的草稿工作区。",
+            "ja": "ウィンドウを閉じると終了しトレイアイコンもない Linux デスクトップ版向けのスクリプト。systemd ユーザーサービスがログイン時に Grok Bot を起動しウィンドウを閉じても再起動、StatusNotifier のトレイアイコンで表示・非表示・終了ができ、Hyprland ルールでウィンドウを隠しスクラッチパッドに置くこともできる。"
+          }
         }
       ]
     },
@@ -17983,6 +18043,56 @@
             "en": "Feature request for landscape viewing of a Bot's computer on Android; staff said phones are portrait-only for now and landscape is on the radar, and suggested pinch-zooming up to 4x and two-finger panning meanwhile.",
             "zh": "功能请求：希望在 Android 上横屏查看 Bot 的电脑；官方说手机端目前只支持竖屏，横屏已在计划中，暂时可以双指放大到 4 倍并拖动查看。",
             "ja": "機能リクエスト：Android で Bot の PC を横画面で見たい。スタッフはスマホは現在縦のみで横対応は検討中とし、当面はピンチで最大 4 倍まで拡大し 2 本指で移動するよう案内。"
+          }
+        },
+        {
+          "title": "Forum: Bot Computers lost network on 6 Oct 2026",
+          "url": "https://forum.cursor.com/t/grok-bot-not-connecting-to-computer/173873",
+          "source": "GB-2124",
+          "blurb": {
+            "en": "Report from 6 Oct 2026 of a Bot Computer showing as unavailable with \"Update unavailable, files are not ready\"; staff called it a known issue where some computers temporarily lost their network connection, explained that Update cannot run while offline, and said Reset rebuilds the computer from the last snapshot taken before it went offline.",
+            "zh": "2026 年 10 月 6 日的反馈：Bot 电脑显示不可用，更新时提示文件尚未就绪；官方称这是已知问题，部分电脑暂时断网，断网期间无法更新，并说明重置会用断网前最后一次快照重建电脑。",
+            "ja": "2026 年 10 月 6 日の報告：Bot の PC が利用不可になり、更新では「ファイルの準備ができていない」と表示。スタッフは一部の PC が一時的にネットワーク接続を失った既知の問題とし、オフライン中は更新できず、リセットはオフライン前の最後のスナップショットから PC を再構築すると説明。"
+          }
+        },
+        {
+          "title": "Forum: \"Bot failed to respond\" on every Bot during a short outage",
+          "url": "https://forum.cursor.com/t/grok-bot-failed-to-respond-on-every-bot-after-reset-recover-computer/173919",
+          "source": "GB-2125",
+          "blurb": {
+            "en": "Thread from the evening of 6 Oct 2026 where every message to every Bot failed on desktop and Android even after a computer reset; staff confirmed within about an hour that it was resolved, that no reset or reinstall was needed, and that resending a failed message is enough.",
+            "zh": "2026 年 10 月 6 日晚的帖子：桌面版和 Android 上发给所有 Bot 的消息都失败，重置电脑也没用；官方约一小时内确认已修复，不需要重置或重装，失败的消息重新发送即可。",
+            "ja": "2026 年 10 月 6 日夜のスレッド。デスクトップと Android で全 Bot へのメッセージが失敗し、PC をリセットしても直らなかった。スタッフは約 1 時間で解消を確認し、リセットや再インストールは不要で、失敗したメッセージは再送すればよいと案内。"
+          }
+        },
+        {
+          "title": "Forum: Bot Computer DNS at 198.18.0.53 timing out",
+          "url": "https://forum.cursor.com/t/grok-bot-computer-dns-dead-198-18-0-53-times-out-update-unavailable-files-arent-ready/173903",
+          "source": "GB-2126",
+          "blurb": {
+            "en": "Report that a Bot Computer's built-in resolver at 198.18.0.53 timed out on every lookup from 5 Oct 2026, so web, pip and GitHub CLI failed while connectors still worked and Update said files were not ready; the user's chief-of-staff Bot patched DNS as a stopgap, and staff restored and updated the box the next day.",
+            "zh": "反馈：从 2026 年 10 月 5 日起，Bot 电脑内置的 198.18.0.53 解析器每次查询都超时，网页、pip、GitHub CLI 全部失败，连接器仍可用，更新提示文件未就绪；用户让自己的幕僚长 Bot 临时改了 DNS 应急，次日官方修复并更新了电脑。",
+            "ja": "報告：2026 年 10 月 5 日から Bot の PC 内蔵リゾルバー 198.18.0.53 がすべてタイムアウトし、Web・pip・GitHub CLI が失敗、コネクタは動作し、更新は「ファイルの準備ができていない」と表示。ユーザーは参謀役の Bot に DNS を一時修正させ、翌日スタッフが PC を復旧・更新した。"
+          }
+        },
+        {
+          "title": "Forum: webhook URL hidden on Linux 0.68.1 and how to find it",
+          "url": "https://forum.cursor.com/t/grok-bot-webhooks-dont-appear-on-desktop-linux-version/173891",
+          "source": "GB-2127",
+          "blurb": {
+            "en": "Report that on the 0.68.1 Linux desktop app a webhook routine's details offer only Resume and Edit; staff confirmed clicking a routine in the Details list no longer opens its own page, where the POST URL, key and Authorization header live, flagged it, and suggested clicking the routine chip in the chat or asking the Bot for the link.",
+            "zh": "反馈：Linux 桌面版 0.68.1 中 Webhook 例程的详情只有恢复和编辑；官方确认目前在详情列表点击例程不会再打开它自己的页面（POST 地址、密钥和 Authorization 头都在那里），已转给团队，并建议点聊天里的例程标签，或直接让 Bot 发链接。",
+            "ja": "報告：Linux デスクトップ版 0.68.1 で Webhook ルーチンの詳細に再開と編集しかない。スタッフは詳細一覧でルーチンをクリックしても専用ページ（POST URL、キー、Authorization ヘッダーがある）が開かなくなったと認めてチームに伝え、チャット内のルーチンチップを押すか Bot にリンクを頼むよう案内。"
+          }
+        },
+        {
+          "title": "Forum: chat looked frozen after the Bot's computer restarted",
+          "url": "https://forum.cursor.com/t/my-grok-bot-seems-to-be-stuck/173860",
+          "source": "GB-2128",
+          "blurb": {
+            "en": "Report of a Bot that seemed not to answer; staff found it had replied to each message within about a minute, but the chat window stopped showing new messages for a while after the computer restarted several times, and advised switching Bots or reopening the app rather than using Update or Reset, which can make the gap longer.",
+            "zh": "反馈：Bot 看起来不回复；官方查明它其实每条消息都在约一分钟内回了，只是电脑多次重启后聊天窗口有一阵没显示新消息；建议切换到别的 Bot 再切回来或重开应用，不要用更新或重置，那样反而可能拉长空窗。",
+            "ja": "報告：Bot が返事をしないように見えた。スタッフは各メッセージに約 1 分以内で返信していたが、PC が何度か再起動した後しばらくチャット画面が新着を表示しなかったと判明。更新やリセットは空白を長引かせることがあるので、別の Bot に切り替えて戻るかアプリを開き直すよう案内。"
           }
         }
       ]
@@ -20983,6 +21093,36 @@
             "en": "MIT project that installs as an npm plugin for DeepSeek Harness and calls itself an open-source GrokBot alternative, giving PersonaBots their own persona, Git-backed memory you can browse, group chats, delegated assignments, their own identities on Feishu/Lark, Slack, Discord and WeChat, and optional computer use on a shared Docker desktop.",
             "zh": "MIT 开源项目，以 npm 插件形式装进 DeepSeek Harness，自称开源的 GrokBot 平替：每个 PersonaBot 有自己的人格、可在侧栏浏览的 Git 记忆、群聊协作和任务委派，能以自己的身份接入飞书/Lark、Slack、Discord 和微信，还可选在 Docker 共享桌面上操作电脑。",
             "ja": "DeepSeek Harness 用の npm プラグインとして導入する MIT プロジェクトで、オープンソースの GrokBot 代替を名乗る。PersonaBot ごとに人格、閲覧できる Git ベースの記憶、グループチャット、タスク委任、Feishu/Lark・Slack・Discord・WeChat 上の独自アカウントを持ち、Docker の共有デスクトップでの PC 操作も選べる。"
+          }
+        },
+        {
+          "title": "Novra: taking the Grok Bot mascot outside the app (concept)",
+          "url": "https://www.novra.design/case-studies/grokbot",
+          "source": "GB-2121",
+          "blurb": {
+            "en": "Self-initiated concept case study by the London studio Novra, not commissioned by or affiliated with xAI, that turns the Grok Bot mascot into a playable Rive character across the Mac notch, iPhone widgets, a Lock Screen Live Activity and the app, showing which Bot needs you while the others collapse to a face and one line.",
+            "zh": "伦敦设计工作室 Novra 自发做的概念案例（非 xAI 委托、与其无关）：把 Grok Bot 吉祥物做成可交互的 Rive 角色，延伸到 Mac 刘海、iPhone 小组件、锁屏实时活动和应用本身，突出哪个 Bot 需要你处理，其余 Bot 收缩成一张脸加一行状态。",
+            "ja": "ロンドンのスタジオ Novra が自主制作したコンセプト事例（xAI の依頼・提携ではない）。Grok Bot のマスコットを操作できる Rive キャラクターにし、Mac のノッチ、iPhone ウィジェット、ロック画面のライブアクティビティ、アプリ本体へ展開。対応が必要な Bot を目立たせ、他は顔と 1 行に縮める。"
+          }
+        },
+        {
+          "title": "Nest — open-source colony of always-on agents for a one-person content business",
+          "url": "https://github.com/arjav1181/nest",
+          "source": "GB-2122",
+          "blurb": {
+            "en": "MIT, local-first beta that calls itself an open-source answer to Grok Bot: a Next.js web app and FastAPI control plane for a team of persistent agents (researcher, writer, editor, clipper, publisher, analyst, bookkeeper) with an approvals inbox for risky actions, running on Hermes Agent when installed and a demo loop otherwise.",
+            "zh": "MIT 开源、本地优先的测试版项目，自称 Grok Bot 的开源替代：Next.js 网页加 FastAPI 控制面，管理一队常驻智能体（研究、写作、编辑、剪辑、发布、分析、记账），高风险操作都进审批收件箱；装了 Hermes Agent 就用它运行，否则跑演示循环。",
+            "ja": "Grok Bot のオープンソース版を名乗る MIT・ローカルファーストのベータ。Next.js の Web アプリと FastAPI のコントロールプレーンで常駐エージェントのチーム（リサーチ、執筆、編集、クリップ、公開、分析、経理）を動かし、危険な操作は承認受信箱を通す。Hermes Agent があればそれで動き、なければデモループ。"
+          }
+        },
+        {
+          "title": "Rare Tomato — one shared rule list for Grok Bot and other agents over MCP",
+          "url": "https://github.com/liajomartinez/rare-tomato",
+          "source": "GB-2123",
+          "blurb": {
+            "en": "Early, work-in-progress Apache-2.0 app that keeps one master list of your rules and preferences and serves it over MCP to agents such as Claude, ChatGPT, Grok Bot and Muse, turning thumbs-down feedback into drafted rules and letting connected agents log what they did.",
+            "zh": "早期、仍在开发中的 Apache-2.0 应用：把你的规则和偏好集中成一份总清单，通过 MCP 提供给 Claude、ChatGPT、Grok Bot、Muse 等智能体；点踩反馈会被起草成新规则，接入的智能体还能记录自己做了什么。",
+            "ja": "開発初期の Apache-2.0 アプリ。ルールと好みを 1 つのマスターリストにまとめ、MCP で Claude、ChatGPT、Grok Bot、Muse などのエージェントに提供する。低評価のフィードバックからルール案を作り、接続したエージェントは自分の作業を記録できる。"
           }
         }
       ]

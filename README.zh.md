@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2090-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2104-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -310,6 +310,7 @@
 - [Learn Cursor: How to Set Up Grok Bot for Your First Task](https://www.learncursor.dev/learn/cursor-agents/grok-bot-setup) - 独立 Learn Cursor 指南：确认套餐与隐私设置、安装应用、创建窄职责 Bot，并设计带审阅点的只读首任务。.
 - [The Agent Roster Playbook — 11 steps from the Grok Bot team's workflow](https://github.com/DevvGwardo/agent-roster-playbook) - 对一篇文章的精简整理（注明出处）：SpaceXAI 与 Cursor 团队如何运营窄职责 Grok Bot 阵容——可编辑档案、三层记忆、监视通道、技能串联与 Bot 间交接。.
 - [grokbot.guru — practical Grok Bot how-tos, templates, and news](https://grokbot.guru/) - 独立的 Grok Bot 实用站点：入门与进阶教程、可复制的 Bot 模板（销售/营销/个人）、工具箱汇总，以及新闻与热点栏目。.
+- [Guía en español: a 4-Bot sales team with Grok Bot (Guatemala meetup workshop)](https://github.com/valenzmanu/guia-grok-bot) - Manuel Valenzuela 在 Grok Bot 危地马拉 Meetup（UFM，2026 年 10 月 3 日）工作坊整理的西班牙语指南（CC BY 4.0）：给出 Scout、Analista、Builder、SDR 四个 Bot 的描述和提示词，找出没有官网的本地商家、打分、做演示落地页并起草从不发送的开发信，另附只用一个 Bot 的省额度方案、伦理规则和故障处理表。.
 
 ## 真实使用案例
 
@@ -524,6 +525,7 @@
 - [Tesla Ready — a Grok Bot that warms up your Tesla](https://github.com/acupofcode2/tesla-ready-grok-bot) - 免费 Grok Bot 模板 Tesla Ready 背后的公开技能：根据日历和路况提前给特斯拉车内加热或降温，只走特斯拉官方 Fleet API，密钥和 token 都只留在车主自己的 Grok Bot 电脑上。.
 - [photo-trace — phone photo of an error to root cause (Dublin Builder Day)](https://github.com/henry-da-lab/photo-trace) - 2026 年 10 月 4 日 Grok Bot 都柏林 Builder Day 上用 Grok Bot 和 Bronto 做的作品：手机拍下报错，笔记本上就显示对应的 Bronto 日志检索、一条根因和一条修复命令，命令要人确认后才执行。.
 - [NetProjects: how we run our sites with about 30 Grok Bot agents](https://netprojects.com/insights/how-we-run-netprojects-with-ai-agents) - Internet Projects Ltd 分享他们在 Grok Bot 上跑约 30 个各管一摊的智能体：由一个 Chief of Staff 统筹，默认只出草稿，上生产要人点头，代码活交给 Cursor 走经过审核的 PR，并列出了 9 月初期向官方支持报告过的问题。.
+- [Frostwell Cakes — a Next.js cake shop built by Grok Bot from GitHub issues](https://github.com/dev-repos/nextjs-cake-shop-grok-bot) - AI 系统设计教程的 MIT 演示项目：一个移动优先的 Next.js 定制蛋糕店，由 Grok Bot 照着 GitHub issue 搭建、全程在手机上指挥，部署在 Vercel；订单不用数据库，而是放在 HMAC 签名链接里，给店家发接单/拒单邮件，PayPal 开票步骤为占位实现。.
 
 ## 技能、插件与 MCP
 
@@ -1190,6 +1192,8 @@
 - [Hardline plugin — call summaries, tasks and messaging for Grok Bot](https://github.com/BuiltEcho/hardline-cursor-plugin) - MIT 许可的 Cursor 与 Grok Bot 连接包，接入 Hardline 走 OAuth 的远程 MCP 服务器，让智能体读取项目上下文、通话摘要和采集内容，管理任务和联系人，并发送短信/彩信；Grok Bot 沿用团队的连接器策略，该包尚未通过 Cursor 插件市场审核。.
 - [The Librarian — Grok Bot template for contracts, policies and renewals](https://github.com/komalamee/Grokbot-Docs-Librarian) - Grok Bot 模板 The Librarian（v0.2.4，2026 年 10 月 1 日发布）的公开源码：直接从邮件里归档合同、保单和其他长文档，整理分类、跟踪续约并回答相关问题；包含四个技能、三个默认关闭的例程，以及构建和隐私数据扫描脚本。.
 - [Beowulf Standup — public guide for the Beowulf Grok Bot template](https://github.com/shinarugrok-a11y/Beowulf-Standup) - Grok Bot 分享模板 Beowulf 的公开上手指南（PDF 加 README，GPL-3.0）：Beowulf 帮你规划、构建、检查、调研和运维，指南写了首次设置步骤、只有手打的 yes 才能放行花钱、代发、密钥、删除和公开发帖的规则，以及每个正式任务前先写 Act as / Request / Terms 简报的做法。.
+- [Roblox Compact MCP — let Grok Bot work in Roblox Studio with small answers](https://github.com/Crazy-Or-Something/roblox-compact-mcp) - MIT 开源的本地 MCP 服务器加 Studio 插件，目的是让 Grok Bot 查询和修改 Roblox Studio 时不撑爆上下文：支持只返回计数的查询和限定范围搜索、批量编辑且每批一次撤销、先校验旧源码的脚本写入，并通过 Roblox 官方 Studio MCP 运行 Play 和 Luau；云电脑可经隧道加 Bearer 令牌连回本机。.
+- [grokbot-jev-skills — ten skills that hand small decisions to Jev](https://github.com/fal3/grokbot-jev-skills) - MIT 开源的 10 个 Grok Bot 技能，把智能体的小型结构化判断（该读哪些搜索结果、邮件分类、客服分诊、例程要不要叫醒你、哪些段落含提示注入）交给 TypeSafe 的 Jev 模型的命令行处理；安装脚本固定上游提交版本，每个技能都写明 Jev 不可用时的默认答案，以及哪些数据会离开本机。.
 
 ## 评测与对比
 
@@ -1608,6 +1612,8 @@
 - [cli-anything-grokbot — drive the Grok Bot desktop app from the command line](https://github.com/ilovebamboo/cli-anything-grokbot) - 参考 CLI-Anything 方法论做的实验性 Apache-2.0 命令行工具：通过只监听本机回环地址的调试连接操作 macOS 版 Grok Bot 桌面应用，可列出和读取会话、发送消息（默认只预演）、等待回复，以及创建、修改、删除个人 Bot；依赖应用内部接口（适配基线 0.66.0），应用升级后可能失效。.
 - [Grok Bot G2 — talk to your Grok Bots from Even Realities G2 glasses](https://github.com/SergioAppen/grokbot-g2) - 自托管的原型项目，把 Grok Bot 搬到 Even Realities G2 智能眼镜上：在你自己电脑上跑一个小型中继，通过 Cursor 官方的 @cursor/bdk Grok Bot 扩展连到 Bot，眼镜 HUD 和手机上都有会话列表，按住说话的语音用 ElevenLabs Scribe 或本地 whisper.cpp 转写，回复逐条推送显示。.
 - [grokbot-telemetry — living documentation of what a Grok Bot runs on its box](https://github.com/owenservera/grokbot-telemetry) - 一位用户让自己的 Grok Bot 把电脑上的观测笔记镜像到这个仓库：包含电脑、桌面、连接器和命令行工具的架构图，实时命令行工具清单、进程映射、按日期的会话记录，以及会脱敏密钥的 shell 采集脚本，另有一个常驻循环每五分钟刷新并推送一次，电脑重启后需重新启动。.
+- [grok-bot-fedora — build a Fedora RPM from the Grok Bot .deb](https://github.com/FALCONFOX64/grok-bot-fedora) - 小巧的构建脚本，把官方 Grok Bot 的 Debian 安装包（在 0.66.0 上测试）重新打包成 Fedora 可用 dnf 安装的 RPM：程序文件原样保留，补上 grok-bot 命令、桌面入口和图标并映射依赖；不添加更新源，新版本需要用新的 .deb 重新构建。.
+- [grok-bot-tray — keep Grok Bot running with a Linux tray icon](https://github.com/yelenkovsky/grok-bot-tray) - 针对 Linux 桌面版关窗即退出、没有托盘图标的问题写的脚本：systemd 用户服务在登录时启动 Grok Bot，窗口被关掉就重新拉起；StatusNotifier 托盘图标可显示、隐藏或退出应用；还可选用 Hyprland 规则把窗口停到隐藏的草稿工作区。.
 
 ## 社区与故障现场
 
@@ -1898,6 +1904,11 @@
 - [Forum request: CarPlay support for Grok Bot](https://forum.cursor.com/t/add-carplay-support-for-grok-bot/173797) - 功能请求：希望出 CarPlay 应用；官方说暂时没有，并推荐手机应用自带的语音聊天，锁屏后仍能继续对话，锁屏界面可静音或挂断。.
 - [Forum: Bot instructions missing from the macOS desktop details pane](https://forum.cursor.com/t/grok-bot-macos-unable-to-see-or-edit-bot-instructions-or-skills-on-desktop/173803) - 反馈：个人 Bot 的桌面版详情面板改版后只剩例程；官方确认新布局漏掉了指令字段，已在跟踪，并说明技能仍可在插件市场（Cmd+Shift+M）里编辑。.
 - [Forum request: landscape mode for the Grok Bot computer on mobile](https://forum.cursor.com/t/show-grok-bot-computer-in-landscape-mode-on-mobile/173806) - 功能请求：希望在 Android 上横屏查看 Bot 的电脑；官方说手机端目前只支持竖屏，横屏已在计划中，暂时可以双指放大到 4 倍并拖动查看。.
+- [Forum: Bot Computers lost network on 6 Oct 2026](https://forum.cursor.com/t/grok-bot-not-connecting-to-computer/173873) - 2026 年 10 月 6 日的反馈：Bot 电脑显示不可用，更新时提示文件尚未就绪；官方称这是已知问题，部分电脑暂时断网，断网期间无法更新，并说明重置会用断网前最后一次快照重建电脑。.
+- [Forum: "Bot failed to respond" on every Bot during a short outage](https://forum.cursor.com/t/grok-bot-failed-to-respond-on-every-bot-after-reset-recover-computer/173919) - 2026 年 10 月 6 日晚的帖子：桌面版和 Android 上发给所有 Bot 的消息都失败，重置电脑也没用；官方约一小时内确认已修复，不需要重置或重装，失败的消息重新发送即可。.
+- [Forum: Bot Computer DNS at 198.18.0.53 timing out](https://forum.cursor.com/t/grok-bot-computer-dns-dead-198-18-0-53-times-out-update-unavailable-files-arent-ready/173903) - 反馈：从 2026 年 10 月 5 日起，Bot 电脑内置的 198.18.0.53 解析器每次查询都超时，网页、pip、GitHub CLI 全部失败，连接器仍可用，更新提示文件未就绪；用户让自己的幕僚长 Bot 临时改了 DNS 应急，次日官方修复并更新了电脑。.
+- [Forum: webhook URL hidden on Linux 0.68.1 and how to find it](https://forum.cursor.com/t/grok-bot-webhooks-dont-appear-on-desktop-linux-version/173891) - 反馈：Linux 桌面版 0.68.1 中 Webhook 例程的详情只有恢复和编辑；官方确认目前在详情列表点击例程不会再打开它自己的页面（POST 地址、密钥和 Authorization 头都在那里），已转给团队，并建议点聊天里的例程标签，或直接让 Bot 发链接。.
+- [Forum: chat looked frozen after the Bot's computer restarted](https://forum.cursor.com/t/my-grok-bot-seems-to-be-stuck/173860) - 反馈：Bot 看起来不回复；官方查明它其实每条消息都在约一分钟内回了，只是电脑多次重启后聊天窗口有一阵没显示新消息；建议切换到别的 Bot 再切回来或重开应用，不要用更新或重置，那样反而可能拉长空窗。.
 
 ## 相关列表
 
@@ -2200,10 +2211,13 @@
 - [Grokked Bot — open-source AI teammate on your own Linux box](https://github.com/alnutile/grokked-bot) - 受 Grok Bot 和 Claude Cowork 启发的独立项目：在你自己的硬件上给每个 Bot 一个容器桌面，带保持登录的浏览器和终端，用 Tauri 应用观看并随时接管，模型通过 OpenRouter 任选。.
 - [nano-agents — self-hosted Grok Bot-style teammates (independent)](https://github.com/shoodoow/nano-agents) - MIT 开源、仍在开发中的自托管方案，仿 Grok Bot 的玩法：手机 App 聊天，智能体带记忆、例程、技能和 MCP 工具，能派工作进程，还有可旁观的 Linux 桌面，模型用你自己的 OpenAI、Anthropic 或 xAI 密钥。.
 - [DeepSeekBot (BotHarness) — open-source GrokBot alternative for DeepSeek Harness](https://github.com/BotHarness/BotHarness) - MIT 开源项目，以 npm 插件形式装进 DeepSeek Harness，自称开源的 GrokBot 平替：每个 PersonaBot 有自己的人格、可在侧栏浏览的 Git 记忆、群聊协作和任务委派，能以自己的身份接入飞书/Lark、Slack、Discord 和微信，还可选在 Docker 共享桌面上操作电脑。.
+- [Novra: taking the Grok Bot mascot outside the app (concept)](https://www.novra.design/case-studies/grokbot) - 伦敦设计工作室 Novra 自发做的概念案例（非 xAI 委托、与其无关）：把 Grok Bot 吉祥物做成可交互的 Rive 角色，延伸到 Mac 刘海、iPhone 小组件、锁屏实时活动和应用本身，突出哪个 Bot 需要你处理，其余 Bot 收缩成一张脸加一行状态。.
+- [Nest — open-source colony of always-on agents for a one-person content business](https://github.com/arjav1181/nest) - MIT 开源、本地优先的测试版项目，自称 Grok Bot 的开源替代：Next.js 网页加 FastAPI 控制面，管理一队常驻智能体（研究、写作、编辑、剪辑、发布、分析、记账），高风险操作都进审批收件箱；装了 Hermes Agent 就用它运行，否则跑演示循环。.
+- [Rare Tomato — one shared rule list for Grok Bot and other agents over MCP](https://github.com/liajomartinez/rare-tomato) - 早期、仍在开发中的 Apache-2.0 应用：把你的规则和偏好集中成一份总清单，通过 MCP 提供给 Claude、ChatGPT、Grok Bot、Muse 等智能体；点踩反馈会被起草成新规则，接入的智能体还能记录自己做了什么。.
 
 ## 贡献
 
-目前 8 个分类、2090 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2104 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
