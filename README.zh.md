@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2122-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2131-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,24 +38,25 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（3）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [澳门](./EVENTS.zh.md#mo-20261112)
-- **美国**（13）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012) · [亚特兰大（Job Night）](./EVENTS.zh.md#atl-20261008) · [芝加哥（配对共建）](./EVENTS.zh.md#chi-20261016) · [印第安纳波利斯（Fishers）](./EVENTS.zh.md#ind-20261112)
+- **美国**（16）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012) · [亚特兰大（Job Night）](./EVENTS.zh.md#atl-20261008) · [芝加哥（配对共建）](./EVENTS.zh.md#chi-20261016) · [印第安纳波利斯（Fishers）](./EVENTS.zh.md#ind-20261112) · [奥斯汀 Hackathon](./EVENTS.zh.md#aus-20261019) · [纽约（创业工作坊）](./EVENTS.zh.md#nyc-20261105) · [查塔努加](./EVENTS.zh.md#cha-20261216)
 - **德国**（6）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20261120) · [卡塞尔](./EVENTS.zh.md#kas-20261112) · [法兰克福](./EVENTS.zh.md#fra-20261030) · [汉堡](./EVENTS.zh.md#ham-20261028)
 - **巴西**（4）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20261016)
 - **加拿大**（4）：[多伦多](./EVENTS.zh.md#yyz-20261026) · [卡尔加里](./EVENTS.zh.md#yyc-20261028) · [哈利法克斯](./EVENTS.zh.md#yhz-20261015) · [渥太华](./EVENTS.zh.md#yow-20261017)
 - **意大利**（4）：[罗马](./EVENTS.zh.md#rom-20261023) · [特雷维索](./EVENTS.zh.md#tvs-20261022) · [博洛尼亚](./EVENTS.zh.md#blq-20261012) · [帕维亚](./EVENTS.zh.md#pav-20261105)
+- **韩国**（3）：[首尔](./EVENTS.zh.md#sel-20261027) · [首尔（10/13）](./EVENTS.zh.md#sel-20261013) · [首尔 Hackathon #4](./EVENTS.zh.md#sel-20261024)
 - **厄瓜多尔**（2）：[安巴托](./EVENTS.zh.md#atu-20261029) · [基多](./EVENTS.zh.md#uio-20261021)
 - **西班牙**（2）：[阿利坎特](./EVENTS.zh.md#alc-20261107) · [毕尔巴鄂](./EVENTS.zh.md#bil-20261019)
 - **英国**（2）：[伦敦 Hackathon](./EVENTS.zh.md#ldn-20261022) · [奥姆斯柯克（西北）](./EVENTS.zh.md#ork-20261024)
 - **危地马拉**（2）：[危地马拉](./EVENTS.zh.md#gua-20261205) · [危地马拉城（Build & Pitch）](./EVENTS.zh.md#gua-20261121)
 - **印度尼西亚**（2）：[雅加达](./EVENTS.zh.md#jkt-20261107) · [巴厘岛Canggu](./EVENTS.zh.md#bli-20261025)
 - **日本**（2）：[东京](./EVENTS.zh.md#tyo-20261011) · [川崎（神奈川）](./EVENTS.zh.md#kaw-20261104)
-- **韩国**（2）：[首尔](./EVENTS.zh.md#sel-20261027) · [首尔（10/13）](./EVENTS.zh.md#sel-20261013)
 - **秘鲁**（2）：[万卡约](./EVENTS.zh.md#hyo-20261023) · [利马（10/17）](./EVENTS.zh.md#lim-20261017)
 - **多哥**（2）：[洛美工作坊](./EVENTS.zh.md#lfw-20261017) · [洛美构建日](./EVENTS.zh.md#lfw-20261114)
 - **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20261017)
 - **奥地利**（1）：[维也纳](./EVENTS.zh.md#vie-20261031)
 - **孟加拉国**（1）：[达卡](./EVENTS.zh.md#dac-20261031)
 - **保加利亚**（1）：[索非亚](./EVENTS.zh.md#sof-20261030)
+- **玻利维亚**（1）：[圣克鲁斯（AI 安全日）](./EVENTS.zh.md#vvi-20261024)
 - **科特迪瓦**（1）：[阿比让](./EVENTS.zh.md#abj-20261107)
 - **哥伦比亚**（1）：[萨尔萨尔](./EVENTS.zh.md#zar-20261017)
 - **埃塞俄比亚**（1）：[吉马](./EVENTS.zh.md#jim-20261115)
@@ -72,7 +73,8 @@
 - **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
 - **瑞典**（1）：[斯德哥尔摩](./EVENTS.zh.md#sto-20261014)
 - **特立尼达和多巴哥**（1）：[西班牙港](./EVENTS.zh.md#pos-20261030)
-- **线上**（1）：[线上（戈亚尼亚）](./EVENTS.zh.md#gyn-20261017)
+- **赞比亚**（1）：[卢萨卡（第 2 场）](./EVENTS.zh.md#lun-20261031)
+- **线上**（6）：[线上（戈亚尼亚）](./EVENTS.zh.md#gyn-20261017) · [新功能讲解](./EVENTS.zh.md#wng-20261008) · [201 进阶课](./EVENTS.zh.md#g201-20261009) · [销售专场](./EVENTS.zh.md#sales-20261013) · [Grok Bot + Cursor 专场](./EVENTS.zh.md#scs-20261015) · [金融服务专场](./EVENTS.zh.md#fin-20261020)
 
 ## 目录
 
@@ -213,6 +215,7 @@
 - [Grok Bot for Legal Ops (official guide)](https://x.ai/bot/guides/grok-bot-for-legal-ops) - 官方指南（2026-09-24）：法务运营用 Grok Bot 准备律师 1:1 并回写、做 Slack 分诊、维护法务评审追踪表与合同流程，所有外发均先起草再由人发送。.
 - [Cursor Admin API — Grok Bot endpoints](https://cursor.com/docs/account/teams/admin-api#grok-bot) - Cursor 团队 Admin API 的 Grok Bot 接口文档：启用/停用 Grok Bot、读取能力，并管理强制 Auto-Review、组访问、网络策略、团队规则与初始化脚本。.
 - [Cursor Organization API — Grok Bot computers](https://cursor.com/docs/account/organizations/organization-admin-api#grok-bot-computers) - 仅限 Enterprise 的组织 API（需 admin:* 密钥）：批量重建、终止或删除成员托管的 Grok Bot 电脑，并轮询每个操作的逐成员结果。.
+- [Which AI models power Grok Bot? (Cursor Help)](https://cursor.com/help/grok-bot/models) - Cursor 官方帮助页：Grok Bot 每次请求自行选择后端模型（xAI 自家模型或子处理方名单上的第三方模型），不显示模型名、也没有模型选择器，用量一律记为 Grok Bot 用量；用到 Opus 5.5 不会更快消耗额度，团队在 Cursor 设的模型白名单也管不到 Grok Bot。.
 
 ## 教程与上手指南
 
@@ -527,6 +530,7 @@
 - [Frostwell Cakes — a Next.js cake shop built by Grok Bot from GitHub issues](https://github.com/dev-repos/nextjs-cake-shop-grok-bot) - AI 系统设计教程的 MIT 演示项目：一个移动优先的 Next.js 定制蛋糕店，由 Grok Bot 照着 GitHub issue 搭建、全程在手机上指挥，部署在 Vercel；订单不用数据库，而是放在 HMAC 签名链接里，给店家发接单/拒单邮件，PayPal 开票步骤为占位实现。.
 - [The 2026 Nobel Prizes explained by a team of Grok Bots](https://github.com/az9713/grokbots-nobel-2026-explainers) - 由一支有名有姓的智能体团队（研究、领域写手、插画、前端、测试、发布，由 Chief GrokBot 统筹）做的三个交互式单页解读，分别讲 2026 年诺贝尔物理、医学和化学奖；每个目录都保留研究资料、叙事稿和测试报告，化学篇还附完整团队对话记录。.
 - [Gefühls-Journal — an encrypted mood-journal PWA built entirely by a Grok Bot team](https://github.com/Oliver19xx/gefuehlsjournal) - 德语离线心情日记应用，规划、需求清单、设计、代码、测试和部署全部出自一支 Grok Bot 团队（产品负责人、UX、UI、测试、开发），人只给方向；用情绪轮和写作提示引导记录，每条日记都以 AES-256-GCM 加密存在本机，可另设 PIN。.
+- [Agent City — a 3D city of one user's Grok Bot assistants and their real work](https://github.com/brandocalricia/agent-city) - 公开的 three.js 三维城市（已部署到 GitHub Pages）：一位用户的 AI 助手和 Scout、Librarian、Council、Auditor 等 15 个工作角色在里面展示真实的例程、已存技能、发现和活动日志；由 Grok Bot 每天约三次迭代扩建，还给 Grok Build 提供审阅并落地的建议流，私人邮件和日程笔记只留在本地副本。.
 
 ## 技能、插件与 MCP
 
@@ -1200,6 +1204,12 @@
 - [Kite — let Grok Bot draw design files your team can edit](https://github.com/itsloukman/kite-agent-plugins) - Kite 的 MIT 插件。Kite 是为智能体打造的设计工具，插件加入其托管 MCP 服务器和设计技能，让 Grok Bot（从 Cursor Marketplace 安装）、Claude Code 或 Codex 把横幅、社媒图、广告、Logo 和界面画进团队可打开、编辑和评论的 Kite 文件；用浏览器登录，不用复制 API 密钥。.
 - [Sânziana Bot — Grok Bot template for story-driven artists on X](https://github.com/CaliXVibe/sanziana-bot) - 公开的 Grok Bot 模板，取材自暗黑奇幻画师 YONNEY 的运营打法：提供人设、模式、规则和示例文件，让一个 Bot 在 X 上起草社区回复、章节发布帖和原创帖，所有内容在主人明确同意前只停留在草稿，并向幕僚长 Bot 汇报。.
 - [Star Watch — Grok Bot sky guide with twice-daily briefings](https://github.com/anthonygenovese/star-watch) - 个人观星向导的 Grok Bot 模板：包含一条风格记忆、两个例程和一段上手欢迎对话，每天黎明前和傍晚发送可朗读的简短播报，最关心的天体排在最前，位置靠计算、云量用真实预报，不靠猜。.
+- [Roll Call — a check-in and task log for all your Bots](https://github.com/andrewtvano-art/roll-call-plugin) - 面向 Grok Bot 和 Cursor 的 MIT 插件：通过 OAuth（无需 API 密钥）接入 Roll Call 托管的 MCP 服务器，并附一条常开规则，让每个 Bot 在每次例程开始时签到、每完成（或卡住、失败）一项任务就上报，从而在一处看清谁跑了、谁迟到或卡住，并每周备份 Bot 配置。.
+- [JustGains connector — workouts and food logging for Grok Bot](https://github.com/JustGains/justgains-connector) - JustGains 官方的 MIT 连接器，面向 Grok Bot 和 Cursor：指向其托管 MCP 服务器，用 OAuth PKCE 登录，让 Bot 能在你的 JustGains 账号里编排并保存训练计划、读取训练记录和进步情况、记录饮食；Marketplace 上架仍在审核，自带的校验脚本只检查公开连接、不写入数据。.
+- [Adspirer Search Ads — Google and Microsoft search campaigns from Grok Bot](https://github.com/Adspirer/adspirer-search-ads-cursor-plugin) - Adspirer 的 MIT 插件，面向 Cursor 和 Grok Bot：接入其托管的搜索广告 MCP 服务器（浏览器 OAuth），附 16 个技能，覆盖关键词和竞品广告调研、转化追踪审计、浪费花费排查，以及经批准后创建、默认暂停的 Google Ads 或 Microsoft Advertising 广告系列；这是新包，尚未在 Marketplace 上架。.
+- [Adspirer Social Ads — Meta and TikTok ads from Grok Bot](https://github.com/Adspirer/adspirer-social-ads-cursor-plugin) - Adspirer 的姊妹 MIT 插件，面向 Cursor 和 Grok Bot：通过浏览器 OAuth 接入其托管的社媒广告 MCP 服务器，附 12 个技能，用来分析 Meta 和 TikTok 广告表现、发现素材疲劳和转化问题，并且只在你批准后创建或优化广告系列；同样是新包，等待 Marketplace 上架。.
+- [FeedbackPulse plugin — HR survey and review answers for Grok Bot](https://github.com/FeedbackPulseApp/feedbackpulse-plugin) - FeedbackPulse 的 MIT 插件：可从 Cursor Marketplace 安装到 Cursor 和 Grok Bot（也附 Grok Build 和 Claude Code 清单），打包其托管 MCP 服务器、19 个工具和若干技能，让通过 OAuth 登录的 Bot 以你的角色权限读取员工调研结果、eNPS、绩效评估进度和表彰记录。.
+- [ostack — pstack fork with a Grok Bot to Claude Code bridge](https://github.com/hugo-hsi-dev/ostack) - poteto 的 pstack 技能包的 MIT 分支，支持 Cursor、Claude Code、Codex 和 skills.sh：改了各模式的名字，并新增 claude-bridge 技能，让 Grok Bot 把任务发给一个 Claude Code 例程，Claude 再把结果 POST 到 Bot 的 Webhook 例程，把答案带回来。.
 
 ## 评测与对比
 
@@ -1623,6 +1633,7 @@
 - [Bot Bridge — let Grok Bots on different accounts message each other](https://github.com/aupchurch167/GrokBotBuddies) - 自托管的转接台（Node、Hono、Postgres），让不同账号下的 Grok Bot 互发消息：每个 Bot 有自己的 API 密钥和带 6 个消息工具的远程 MCP 连接器，管理员决定哪些 Bot 之间可以通话，新消息到达时向收件方的 Grok Bot Webhook 例程发一个不含内容的门铃请求。.
 - [grokbot-telegram-bridge — Telegram messages that wake Grok Bot through a webhook routine](https://github.com/mia-oc/grokbot-telegram-bridge) - MIT 开源的 Node 服务，包含本地 Telegram Webhook 监听、磁盘队列和 stdio MCP 服务器：每条新 Telegram 消息都通过 Webhook 例程叫醒 Grok Bot，而不是靠定时轮询；Bot 先用一条可编辑的进度消息同步它在应用里的状态，再发出最终回复。.
 - [Agent Thread Bridge — link a Grok Bot chat to a specific Claude Code, Codex or Gemini thread](https://github.com/JonSnowInfinity/agent-thread-bridge) - MIT 开源的路由器加命令行：把一个智能体上的某段现有对话与另一个智能体上的某段对话绑定并互传消息，只走官方通道；Grok Bot 一侧用它自己运行的本地邮箱和 MCP，Claude Code、Cursor、Codex、Gemini 和 Antigravity 用官方 CLI 或 app server，另有项目总览和按需审计。.
+- [grokbot-bridge-plugin — connect Grok Bots to your web app over signed webhooks](https://github.com/imbavirus/grokbot-bridge-plugin) - MIT 开源、零依赖的 Node 命令行工具，外加一段可直接粘贴的设置提示词：Grok Bot 在自己的 Shell 里运行它，新建一个 Webhook 例程，用共享密钥向应用登记，拿到专属令牌和 @handle，之后与应用以及应用托管的群聊房间里的其他 Bot 互发 HMAC 签名消息；完整 HTTP 协议都写在文档里。.
 
 ## 社区与故障现场
 
@@ -2234,7 +2245,7 @@
 
 ## 贡献
 
-目前 8 个分类、2122 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2131 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

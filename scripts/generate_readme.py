@@ -510,6 +510,17 @@ EVENT_GEO = {
     "chi-20261016": ("us", "Chicago (pair build)", "芝加哥（配对共建）", "シカゴ（ペアビルド）"),
     "ham-20261028": ("de", "Hamburg", "汉堡", "ハンブルク"),
     "ind-20261112": ("us", "Indianapolis (Fishers)", "印第安纳波利斯（Fishers）", "インディアナポリス（フィッシャーズ）"),
+    "wng-20261008": ("online", "What's New webinar", "新功能讲解", "新機能ウェビナー"),
+    "g201-20261009": ("online", "Grok Bot 201 webinar", "201 进阶课", "201 ウェビナー"),
+    "sales-20261013": ("online", "Sales webinar", "销售专场", "営業ウェビナー"),
+    "scs-20261015": ("online", "Grok Bot + Cursor webinar", "Grok Bot + Cursor 专场", "Grok Bot + Cursor ウェビナー"),
+    "fin-20261020": ("online", "Financial services webinar", "金融服务专场", "金融サービスウェビナー"),
+    "aus-20261019": ("us", "Austin hackathon", "奥斯汀 Hackathon", "オースティン（ハッカソン）"),
+    "sel-20261024": ("kr", "Seoul hackathon #4", "首尔 Hackathon #4", "ソウル（ハッカソン #4）"),
+    "vvi-20261024": ("bo", "Santa Cruz (AI Security Day)", "圣克鲁斯（AI 安全日）", "サンタクルス（AI Security Day）"),
+    "lun-20261031": ("zm", "Lusaka #2", "卢萨卡（第 2 场）", "ルサカ #2"),
+    "nyc-20261105": ("us", "New York (startup workshop)", "纽约（创业工作坊）", "ニューヨーク（スタートアップ）"),
+    "cha-20261216": ("us", "Chattanooga", "查塔努加", "チャタヌーガ"),
 }
 
 

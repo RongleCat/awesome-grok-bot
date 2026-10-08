@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2122-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2131-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,24 +38,25 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261112)
-- **United States**（13）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Pasadena](./EVENTS.md#pas-20261008) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012) · [Atlanta (Job Night)](./EVENTS.md#atl-20261008) · [Chicago (pair build)](./EVENTS.md#chi-20261016) · [Indianapolis (Fishers)](./EVENTS.md#ind-20261112)
+- **United States**（16）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Pasadena](./EVENTS.md#pas-20261008) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012) · [Atlanta (Job Night)](./EVENTS.md#atl-20261008) · [Chicago (pair build)](./EVENTS.md#chi-20261016) · [Indianapolis (Fishers)](./EVENTS.md#ind-20261112) · [Austin hackathon](./EVENTS.md#aus-20261019) · [New York (startup workshop)](./EVENTS.md#nyc-20261105) · [Chattanooga](./EVENTS.md#cha-20261216)
 - **Germany**（6）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261120) · [Kassel](./EVENTS.md#kas-20261112) · [Frankfurt](./EVENTS.md#fra-20261030) · [Hamburg](./EVENTS.md#ham-20261028)
 - **Brazil**（4）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Salvador](./EVENTS.md#ssa-20261008) · [Florianópolis](./EVENTS.md#fln-20261016)
 - **Canada**（4）：[Toronto](./EVENTS.md#yyz-20261026) · [Calgary](./EVENTS.md#yyc-20261028) · [Halifax](./EVENTS.md#yhz-20261015) · [Ottawa](./EVENTS.md#yow-20261017)
 - **Italy**（4）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022) · [Bologna](./EVENTS.md#blq-20261012) · [Pavia](./EVENTS.md#pav-20261105)
+- **South Korea**（3）：[Seoul](./EVENTS.md#sel-20261027) · [Seoul (13 Oct)](./EVENTS.md#sel-20261013) · [Seoul hackathon #4](./EVENTS.md#sel-20261024)
 - **Ecuador**（2）：[Ambato](./EVENTS.md#atu-20261029) · [Quito](./EVENTS.md#uio-20261021)
 - **Spain**（2）：[Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
 - **United Kingdom**（2）：[London hackathon](./EVENTS.md#ldn-20261022) · [Ormskirk (NorthWest)](./EVENTS.md#ork-20261024)
 - **Guatemala**（2）：[Guatemala](./EVENTS.md#gua-20261205) · [Guatemala City (Build & Pitch)](./EVENTS.md#gua-20261121)
 - **Indonesia**（2）：[Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
 - **Japan**（2）：[Tokyo](./EVENTS.md#tyo-20261011) · [Kawasaki (Kanagawa)](./EVENTS.md#kaw-20261104)
-- **South Korea**（2）：[Seoul](./EVENTS.md#sel-20261027) · [Seoul (13 Oct)](./EVENTS.md#sel-20261013)
 - **Peru**（2）：[Huancayo](./EVENTS.md#hyo-20261023) · [Lima (17 Oct)](./EVENTS.md#lim-20261017)
 - **Togo**（2）：[Lomé workshop](./EVENTS.md#lfw-20261017) · [Lomé build day](./EVENTS.md#lfw-20261114)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20261017)
 - **Austria**（1）：[Vienna](./EVENTS.md#vie-20261031)
 - **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20261031)
 - **Bulgaria**（1）：[Sofia](./EVENTS.md#sof-20261030)
+- **Bolivia**（1）：[Santa Cruz (AI Security Day)](./EVENTS.md#vvi-20261024)
 - **Côte d'Ivoire**（1）：[Abidjan](./EVENTS.md#abj-20261107)
 - **Colombia**（1）：[Zarzal](./EVENTS.md#zar-20261017)
 - **Ethiopia**（1）：[Jimma](./EVENTS.md#jim-20261115)
@@ -72,7 +73,8 @@
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
 - **Sweden**（1）：[Stockholm](./EVENTS.md#sto-20261014)
 - **Trinidad and Tobago**（1）：[Port of Spain](./EVENTS.md#pos-20261030)
-- **Online**（1）：[Online (Goiânia)](./EVENTS.md#gyn-20261017)
+- **Zambia**（1）：[Lusaka #2](./EVENTS.md#lun-20261031)
+- **Online**（6）：[Online (Goiânia)](./EVENTS.md#gyn-20261017) · [What's New webinar](./EVENTS.md#wng-20261008) · [Grok Bot 201 webinar](./EVENTS.md#g201-20261009) · [Sales webinar](./EVENTS.md#sales-20261013) · [Grok Bot + Cursor webinar](./EVENTS.md#scs-20261015) · [Financial services webinar](./EVENTS.md#fin-20261020)
 
 ## Contents
 
@@ -213,6 +215,7 @@
 - [Grok Bot for Legal Ops (official guide)](https://x.ai/bot/guides/grok-bot-for-legal-ops) - Official guide (2026-09-24): Legal Ops uses Grok Bot for counsel 1:1 prep and writeback, Slack triage, Legal Review trackers, contract workflows, and draft-then-human-send review.
 - [Cursor Admin API — Grok Bot endpoints](https://cursor.com/docs/account/teams/admin-api#grok-bot) - Cursor docs for the team Admin API's Grok Bot routes: enable or disable Grok Bot, read capabilities, and manage Enforce Auto-Review, group access, network policy, team rules, and setup scripts.
 - [Cursor Organization API — Grok Bot computers](https://cursor.com/docs/account/organizations/organization-admin-api#grok-bot-computers) - Enterprise-only Organization API routes (admin:* key) to recreate, terminate, or delete members' hosted Grok Bot computers in batches and poll each operation's per-member results.
+- [Which AI models power Grok Bot? (Cursor Help)](https://cursor.com/help/grok-bot/models) - Official Cursor Help page explaining that Grok Bot picks the backend model per request (a first-party xAI model or a third-party one from the sub-processor list), shows no model name or picker, bills it all as Grok Bot usage, says routing to Opus 5.5 does not burn limits faster, and is not governed by a team's Cursor model allowlist.
 
 ## Tutorials & Guides
 
@@ -527,6 +530,7 @@
 - [Frostwell Cakes — a Next.js cake shop built by Grok Bot from GitHub issues](https://github.com/dev-repos/nextjs-cake-shop-grok-bot) - MIT demo for an AI system design tutorial: a mobile-first Next.js custom-cake shop that Grok Bot built from GitHub issues while being driven from a phone, deployed to Vercel, with orders carried in HMAC-signed links instead of a database, Accept and Decline emails to the bakery, and a stubbed PayPal invoice step.
 - [The 2026 Nobel Prizes explained by a team of Grok Bots](https://github.com/az9713/grokbots-nobel-2026-explainers) - Three interactive single-page explainers of the 2026 Physics, Medicine and Chemistry prizes built by a named agent team (researcher, domain writer, illustrator, frontend, tester and publisher, orchestrated by a Chief GrokBot), each folder keeping the research dossier, narrative, QA report and, for chemistry, the full team transcript.
 - [Gefühls-Journal — an encrypted mood-journal PWA built entirely by a Grok Bot team](https://github.com/Oliver19xx/gefuehlsjournal) - German offline journaling app whose planning, backlog, design, code, tests and deployment came from a team of Grok Bots (product owner, UX, UI, tester and developer) with only direction from a human; it uses a feelings wheel and writing prompts and keeps every entry AES-256-GCM encrypted on the device, optionally behind a PIN.
+- [Agent City — a 3D city of one user's Grok Bot assistants and their real work](https://github.com/brandocalricia/agent-city) - Public three.js city (live on GitHub Pages) where one user's AI assistants and 15 working roles such as Scout, Librarian, Council and Auditor show their real routines, saved skills, finds and activity log, grown by a Grok Bot about three sessions a day, with a review-and-apply feed for Grok Build and private email and calendar notes kept to the local copy.
 
 ## Skills, Plugins & MCP
 
@@ -1200,6 +1204,12 @@
 - [Kite — let Grok Bot draw design files your team can edit](https://github.com/itsloukman/kite-agent-plugins) - MIT plugin for Kite, a design tool built for agents, that adds its hosted MCP server and design skill so Grok Bot (installed from the Cursor Marketplace), Claude Code or Codex can draw banners, social posts, ads, logos and screens into Kite files your team opens, edits and comments on, with browser sign-in instead of an API key.
 - [Sânziana Bot — Grok Bot template for story-driven artists on X](https://github.com/CaliXVibe/sanziana-bot) - Public Grok Bot template built from dark-fantasy artist YONNEY's playbook, with persona, mode, rule and example files for one Bot that drafts community replies, chapter-drop posts and original posts on X, keeps everything draft-only until the owner says yes, and reports to a chief-of-staff Bot.
 - [Star Watch — Grok Bot sky guide with twice-daily briefings](https://github.com/anthonygenovese/star-watch) - Grok Bot template for a personal sky guide, with a style memory, two saved routines and a getting-started welcome chat, that sends short read-aloud briefings before dawn and in the evening, putting your favourite object first and using computed positions and a real cloud forecast instead of guesses.
+- [Roll Call — a check-in and task log for all your Bots](https://github.com/andrewtvano-art/roll-call-plugin) - MIT plugin for Grok Bot and Cursor that connects to Roll Call's hosted MCP server over OAuth (no API key) with an always-on rule, so every Bot checks in at the start of each routine run and reports every finished, blocked or failed task, giving one record of who ran, who's late or stuck, plus weekly setup backups.
+- [JustGains connector — workouts and food logging for Grok Bot](https://github.com/JustGains/justgains-connector) - JustGains' official MIT connector for Grok Bot and Cursor that points at its hosted MCP server with OAuth PKCE sign-in, so a Bot can build and save workouts, read training history and progress, and log meals in your JustGains account; the Marketplace listing is still under review, and a verify script checks the public connection without writing data.
+- [Adspirer Search Ads — Google and Microsoft search campaigns from Grok Bot](https://github.com/Adspirer/adspirer-search-ads-cursor-plugin) - Adspirer's MIT plugin for Cursor and Grok Bot that adds its hosted search-ads MCP server (browser OAuth) and 16 skills for keyword and competitor-ad research, conversion-tracking audits, wasted-spend reviews and approved Google Ads or Microsoft Advertising campaigns that start paused; it is a new package not yet published on the Marketplace.
+- [Adspirer Social Ads — Meta and TikTok ads from Grok Bot](https://github.com/Adspirer/adspirer-social-ads-cursor-plugin) - Companion MIT plugin from Adspirer for Cursor and Grok Bot that connects its hosted social-ads MCP server over browser OAuth with 12 skills to analyze Meta and TikTok ad performance, spot creative fatigue and conversion problems, and create or tune campaigns only with your approval; also a new package pending Marketplace publication.
+- [FeedbackPulse plugin — HR survey and review answers for Grok Bot](https://github.com/FeedbackPulseApp/feedbackpulse-plugin) - MIT plugin from FeedbackPulse that installs from the Cursor Marketplace into Cursor and Grok Bot (with Grok Build and Claude Code manifests too) and bundles its hosted MCP server, 19 tools and skills, so a Bot signed in through OAuth can read employee survey results, eNPS, performance-review progress and recognition with the same access as your role.
+- [ostack — pstack fork with a Grok Bot to Claude Code bridge](https://github.com/hugo-hsi-dev/ostack) - MIT fork of poteto's pstack skill pack for Cursor, Claude Code, Codex and skills.sh that renames its modes and adds a claude-bridge skill, so a Grok Bot can fire a task at a Claude Code routine and get the answer back when Claude posts it to the Bot's webhook routine.
 
 ## Reviews & Comparisons
 
@@ -1623,6 +1633,7 @@
 - [Bot Bridge — let Grok Bots on different accounts message each other](https://github.com/aupchurch167/GrokBotBuddies) - Self-hosted switchboard (Node, Hono, Postgres) for Grok Bots on separate accounts: each Bot gets its own API key and a remote MCP connector with six messaging tools, an admin approves which pairs may talk, and a new message rings the recipient's Grok Bot webhook routine with a content-free doorbell POST.
 - [grokbot-telegram-bridge — Telegram messages that wake Grok Bot through a webhook routine](https://github.com/mia-oc/grokbot-telegram-bridge) - MIT Node service with a local Telegram webhook listener, an on-disk spool and a stdio MCP server, so each new Telegram message wakes Grok Bot through a webhook routine instead of a cron poll, and the Bot replies with an editable progress message that mirrors its in-app status before posting the final answer.
 - [Agent Thread Bridge — link a Grok Bot chat to a specific Claude Code, Codex or Gemini thread](https://github.com/JonSnowInfinity/agent-thread-bridge) - MIT router and CLI that links one existing conversation on one agent to one on another and passes messages between them through official routes only, using a local mailbox and MCP the Bot itself runs for Grok Bot and the official CLIs or app server for Claude Code, Cursor, Codex, Gemini and Antigravity, with project overviews and on-demand audits.
+- [grokbot-bridge-plugin — connect Grok Bots to your web app over signed webhooks](https://github.com/imbavirus/grokbot-bridge-plugin) - MIT zero-dependency Node CLI plus a paste-in setup prompt that a Grok Bot runs from its own Shell to create a webhook routine, enroll with an app using a shared secret, receive its own token and @handle, and then exchange HMAC-signed messages with the app and other Bots in app-hosted group rooms, with the full HTTP protocol documented.
 
 ## Community & Failure Modes
 
@@ -2234,7 +2245,7 @@
 
 ## Contributing
 
-2122 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2131 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
