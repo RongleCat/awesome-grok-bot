@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -1180,9 +1180,9 @@
           "url": "https://x.ai/changelog/bot",
           "source": "GB-2051",
           "blurb": {
-            "en": "Official per-release Grok Bot changelog with RSS: v0.66.0 (Oct 2) adds a starred Main Bot that checks in and coordinates your other Bots, plus Team Bot voice chat, managers, and automatic updates in v0.64–0.65.",
-            "zh": "官方 Grok Bot 逐版本更新日志（带 RSS）：v0.66.0（10 月 2 日）新增星标 Main Bot 主动签到并协调其他 Bot，v0.64–0.65 带来 Team Bot 语音、管理员与自动更新。",
-            "ja": "公式の Grok Bot リリースごとの変更履歴（RSS 付き）。v0.66.0（10/2）で星付き Main Bot が他の Bot を調整、v0.64–0.65 で Team Bot 音声・マネージャー・自動更新。"
+            "en": "Official per-release Grok Bot changelog with RSS: v0.68.1 (Oct 7) adds slide decks delivered as PowerPoint or Google Slides, Bot-colored 1:1 chats, formatted emails and a 1920 × 1200 Bot screen, after Connect Apps (v0.67.0) and new languages plus computer removal (v0.68.0).",
+            "zh": "官方 Grok Bot 逐版本更新日志（带 RSS）：v0.68.1（10 月 7 日）新增可交付 PowerPoint 或 Google Slides 的幻灯片、按 Bot 配色的单聊、格式化邮件和 1920 × 1200 的 Bot 屏幕；此前 v0.67.0 推出 Connect Apps，v0.68.0 新增多种语言并可移除电脑。",
+            "ja": "公式の Grok Bot リリースごとの変更履歴（RSS 付き）。v0.68.1（10/7）で PowerPoint や Google スライドで渡せるスライド作成、Bot ごとの色の 1:1 チャット、書式付きメール、1920 × 1200 の Bot 画面を追加。v0.67.0 で Connect Apps、v0.68.0 で新言語と PC の削除に対応。"
           }
         },
         {
@@ -4343,6 +4343,26 @@
             "en": "MIT demo for an AI system design tutorial: a mobile-first Next.js custom-cake shop that Grok Bot built from GitHub issues while being driven from a phone, deployed to Vercel, with orders carried in HMAC-signed links instead of a database, Accept and Decline emails to the bakery, and a stubbed PayPal invoice step.",
             "zh": "AI 系统设计教程的 MIT 演示项目：一个移动优先的 Next.js 定制蛋糕店，由 Grok Bot 照着 GitHub issue 搭建、全程在手机上指挥，部署在 Vercel；订单不用数据库，而是放在 HMAC 签名链接里，给店家发接单/拒单邮件，PayPal 开票步骤为占位实现。",
             "ja": "AI システム設計チュートリアル用の MIT デモ。スマホから指示しながら Grok Bot が GitHub の Issue をもとに作ったモバイル優先の Next.js オーダーケーキ店で、Vercel にデプロイ。注文はデータベースではなく HMAC 署名付きリンクで運び、店側に受注/辞退メールを送り、PayPal 請求はスタブ。"
+          }
+        },
+        {
+          "title": "The 2026 Nobel Prizes explained by a team of Grok Bots",
+          "url": "https://github.com/az9713/grokbots-nobel-2026-explainers",
+          "source": "GB-2138",
+          "blurb": {
+            "en": "Three interactive single-page explainers of the 2026 Physics, Medicine and Chemistry prizes built by a named agent team (researcher, domain writer, illustrator, frontend, tester and publisher, orchestrated by a Chief GrokBot), each folder keeping the research dossier, narrative, QA report and, for chemistry, the full team transcript.",
+            "zh": "由一支有名有姓的智能体团队（研究、领域写手、插画、前端、测试、发布，由 Chief GrokBot 统筹）做的三个交互式单页解读，分别讲 2026 年诺贝尔物理、医学和化学奖；每个目录都保留研究资料、叙事稿和测试报告，化学篇还附完整团队对话记录。",
+            "ja": "名前付きのエージェントチーム（リサーチ、分野ライター、イラスト、フロントエンド、テスター、公開担当を Chief GrokBot が統括）が作った、2026 年ノーベル物理学・医学・化学賞のインタラクティブな 1 ページ解説 3 本。各フォルダに調査資料、ナレーション、QA レポートがあり、化学編はチーム全体の対話記録付き。"
+          }
+        },
+        {
+          "title": "Gefühls-Journal — an encrypted mood-journal PWA built entirely by a Grok Bot team",
+          "url": "https://github.com/Oliver19xx/gefuehlsjournal",
+          "source": "GB-2139",
+          "blurb": {
+            "en": "German offline journaling app whose planning, backlog, design, code, tests and deployment came from a team of Grok Bots (product owner, UX, UI, tester and developer) with only direction from a human; it uses a feelings wheel and writing prompts and keeps every entry AES-256-GCM encrypted on the device, optionally behind a PIN.",
+            "zh": "德语离线心情日记应用，规划、需求清单、设计、代码、测试和部署全部出自一支 Grok Bot 团队（产品负责人、UX、UI、测试、开发），人只给方向；用情绪轮和写作提示引导记录，每条日记都以 AES-256-GCM 加密存在本机，可另设 PIN。",
+            "ja": "ドイツ語のオフライン感情ジャーナルアプリ。企画、バックログ、デザイン、コード、テスト、デプロイはすべて Grok Bot のチーム（プロダクトオーナー、UX、UI、テスター、開発）が担い、人は方向づけだけ。感情の輪と書き出しのヒントで記録を促し、各エントリーは端末内で AES-256-GCM 暗号化、PIN も設定できる。"
           }
         }
       ]
@@ -11004,6 +11024,56 @@
             "zh": "MIT 开源的 10 个 Grok Bot 技能，把智能体的小型结构化判断（该读哪些搜索结果、邮件分类、客服分诊、例程要不要叫醒你、哪些段落含提示注入）交给 TypeSafe 的 Jev 模型的命令行处理；安装脚本固定上游提交版本，每个技能都写明 Jev 不可用时的默认答案，以及哪些数据会离开本机。",
             "ja": "エージェントの小さな型付き判断（どの検索結果を読むか、メール仕分け、サポートのトリアージ、ルーチンが通知すべきか、どの文章にプロンプトインジェクションがあるか）を TypeSafe の Jev モデルの CLI に任せる MIT の Grok Bot スキル 10 本。インストーラーは上流コミットを固定し、各スキルに Jev が使えないときの既定の答えと、端末外に出るデータの説明がある。"
           }
+        },
+        {
+          "title": "Streak CRM plugin for Cursor and Grok Bot",
+          "url": "https://github.com/StreakYC/streak-grok-plugin",
+          "source": "GB-2133",
+          "blurb": {
+            "en": "Streak's own Cursor-format plugin that connects Cursor and Grok Bot to its hosted MCP server at api.streak.com over OAuth, so a Bot can search and update pipelines, deals, contacts, organizations, tasks and timeline activity in the Gmail-based CRM; needs a Pro, Pro+ or Enterprise plan and ships no keys or scripts.",
+            "zh": "Streak 官方的 Cursor 格式插件：通过 OAuth 把 Cursor 和 Grok Bot 接到 api.streak.com 上的托管 MCP 服务器，让 Bot 能搜索和修改这个内置于 Gmail 的 CRM 里的管道、交易、联系人、组织、任务和时间线；需要 Pro、Pro+ 或企业版，插件里不带密钥或脚本。",
+            "ja": "Streak 公式の Cursor 形式プラグイン。OAuth で Cursor と Grok Bot を api.streak.com のホスト型 MCP サーバーにつなぎ、Gmail 内蔵 CRM のパイプライン、商談、連絡先、組織、タスク、タイムラインを Bot が検索・更新できる。Pro・Pro+・Enterprise プランが必要で、キーやスクリプトは含まない。"
+          }
+        },
+        {
+          "title": "Mux agent plugin — video, live streams and Mux Data for Grok Bot",
+          "url": "https://github.com/muxinc/mux-agent-plugin",
+          "source": "GB-2134",
+          "blurb": {
+            "en": "MIT plugin from Mux that packages its hosted MCP server (mcp.mux.com, OAuth, no token in the plugin) with skills for video assets, uploads, live streams, Mux Data and Robots, with side-by-side manifests for Cursor and Grok Bot, Claude Code, Codex and Muse.",
+            "zh": "Mux 官方 MIT 插件：打包其托管 MCP 服务器（mcp.mux.com，OAuth 登录，插件里不放令牌）以及视频资源、上传、直播、Mux Data 和 Robots 等技能，同一个包里并排提供 Cursor/Grok Bot、Claude Code、Codex 和 Muse 的清单。",
+            "ja": "Mux 公式の MIT プラグイン。ホスト型 MCP サーバー（mcp.mux.com、OAuth、プラグインにトークンなし）と、動画アセット、アップロード、ライブ配信、Mux Data、Robots のスキルをまとめ、Cursor/Grok Bot、Claude Code、Codex、Muse 向けのマニフェストを並べて収録。"
+          }
+        },
+        {
+          "title": "Kite — let Grok Bot draw design files your team can edit",
+          "url": "https://github.com/itsloukman/kite-agent-plugins",
+          "source": "GB-2135",
+          "blurb": {
+            "en": "MIT plugin for Kite, a design tool built for agents, that adds its hosted MCP server and design skill so Grok Bot (installed from the Cursor Marketplace), Claude Code or Codex can draw banners, social posts, ads, logos and screens into Kite files your team opens, edits and comments on, with browser sign-in instead of an API key.",
+            "zh": "Kite 的 MIT 插件。Kite 是为智能体打造的设计工具，插件加入其托管 MCP 服务器和设计技能，让 Grok Bot（从 Cursor Marketplace 安装）、Claude Code 或 Codex 把横幅、社媒图、广告、Logo 和界面画进团队可打开、编辑和评论的 Kite 文件；用浏览器登录，不用复制 API 密钥。",
+            "ja": "エージェント向けデザインツール Kite の MIT プラグイン。ホスト型 MCP サーバーとデザインスキルを追加し、Grok Bot（Cursor Marketplace からインストール）、Claude Code、Codex がバナー、SNS 投稿、広告、ロゴ、画面をチームが開いて編集・コメントできる Kite ファイルに描ける。API キーではなくブラウザでサインイン。"
+          }
+        },
+        {
+          "title": "Sânziana Bot — Grok Bot template for story-driven artists on X",
+          "url": "https://github.com/CaliXVibe/sanziana-bot",
+          "source": "GB-2136",
+          "blurb": {
+            "en": "Public Grok Bot template built from dark-fantasy artist YONNEY's playbook, with persona, mode, rule and example files for one Bot that drafts community replies, chapter-drop posts and original posts on X, keeps everything draft-only until the owner says yes, and reports to a chief-of-staff Bot.",
+            "zh": "公开的 Grok Bot 模板，取材自暗黑奇幻画师 YONNEY 的运营打法：提供人设、模式、规则和示例文件，让一个 Bot 在 X 上起草社区回复、章节发布帖和原创帖，所有内容在主人明确同意前只停留在草稿，并向幕僚长 Bot 汇报。",
+            "ja": "ダークファンタジー作家 YONNEY の運用手法をもとにした公開 Grok Bot テンプレート。ペルソナ、モード、ルール、例のファイルで、1 つの Bot が X でコミュニティ返信、章公開の投稿、オリジナル投稿を下書きし、オーナーが了承するまで下書きのまま、参謀役 Bot に報告する。"
+          }
+        },
+        {
+          "title": "Star Watch — Grok Bot sky guide with twice-daily briefings",
+          "url": "https://github.com/anthonygenovese/star-watch",
+          "source": "GB-2137",
+          "blurb": {
+            "en": "Grok Bot template for a personal sky guide, with a style memory, two saved routines and a getting-started welcome chat, that sends short read-aloud briefings before dawn and in the evening, putting your favourite object first and using computed positions and a real cloud forecast instead of guesses.",
+            "zh": "个人观星向导的 Grok Bot 模板：包含一条风格记忆、两个例程和一段上手欢迎对话，每天黎明前和傍晚发送可朗读的简短播报，最关心的天体排在最前，位置靠计算、云量用真实预报，不靠猜。",
+            "ja": "個人用の星空ガイドを作る Grok Bot テンプレート。スタイルのメモリ、2 つのルーチン、初日のウェルカムチャットを収録し、夜明け前と夕方に読み上げ用の短い案内を送る。一番好きな天体を最初に置き、位置は計算、雲量は実際の予報を使い推測しない。"
+          }
         }
       ]
     },
@@ -15164,6 +15234,36 @@
             "zh": "针对 Linux 桌面版关窗即退出、没有托盘图标的问题写的脚本：systemd 用户服务在登录时启动 Grok Bot，窗口被关掉就重新拉起；StatusNotifier 托盘图标可显示、隐藏或退出应用；还可选用 Hyprland 规则把窗口停到隐藏的草稿工作区。",
             "ja": "ウィンドウを閉じると終了しトレイアイコンもない Linux デスクトップ版向けのスクリプト。systemd ユーザーサービスがログイン時に Grok Bot を起動しウィンドウを閉じても再起動、StatusNotifier のトレイアイコンで表示・非表示・終了ができ、Hyprland ルールでウィンドウを隠しスクラッチパッドに置くこともできる。"
           }
+        },
+        {
+          "title": "Bot Bridge — let Grok Bots on different accounts message each other",
+          "url": "https://github.com/aupchurch167/GrokBotBuddies",
+          "source": "GB-2140",
+          "blurb": {
+            "en": "Self-hosted switchboard (Node, Hono, Postgres) for Grok Bots on separate accounts: each Bot gets its own API key and a remote MCP connector with six messaging tools, an admin approves which pairs may talk, and a new message rings the recipient's Grok Bot webhook routine with a content-free doorbell POST.",
+            "zh": "自托管的转接台（Node、Hono、Postgres），让不同账号下的 Grok Bot 互发消息：每个 Bot 有自己的 API 密钥和带 6 个消息工具的远程 MCP 连接器，管理员决定哪些 Bot 之间可以通话，新消息到达时向收件方的 Grok Bot Webhook 例程发一个不含内容的门铃请求。",
+            "ja": "別アカウントの Grok Bot 同士をメッセージでつなぐセルフホスト型の交換台（Node、Hono、Postgres）。各 Bot に専用 API キーと 6 つのメッセージツールを持つリモート MCP コネクタを与え、どのペアが話せるかは管理者が承認。新着時は受信側の Grok Bot Webhook ルーチンに内容なしのドアベル POST を送る。"
+          }
+        },
+        {
+          "title": "grokbot-telegram-bridge — Telegram messages that wake Grok Bot through a webhook routine",
+          "url": "https://github.com/mia-oc/grokbot-telegram-bridge",
+          "source": "GB-2141",
+          "blurb": {
+            "en": "MIT Node service with a local Telegram webhook listener, an on-disk spool and a stdio MCP server, so each new Telegram message wakes Grok Bot through a webhook routine instead of a cron poll, and the Bot replies with an editable progress message that mirrors its in-app status before posting the final answer.",
+            "zh": "MIT 开源的 Node 服务，包含本地 Telegram Webhook 监听、磁盘队列和 stdio MCP 服务器：每条新 Telegram 消息都通过 Webhook 例程叫醒 Grok Bot，而不是靠定时轮询；Bot 先用一条可编辑的进度消息同步它在应用里的状态，再发出最终回复。",
+            "ja": "MIT の Node サービス。ローカルの Telegram Webhook リスナー、ディスク上のスプール、stdio MCP サーバーを備え、新しい Telegram メッセージごとに cron ポーリングではなく Webhook ルーチンで Grok Bot を起こす。Bot はアプリ内の状況表示と同じ文言の編集可能な進捗メッセージを出してから最終回答を送る。"
+          }
+        },
+        {
+          "title": "Agent Thread Bridge — link a Grok Bot chat to a specific Claude Code, Codex or Gemini thread",
+          "url": "https://github.com/JonSnowInfinity/agent-thread-bridge",
+          "source": "GB-2142",
+          "blurb": {
+            "en": "MIT router and CLI that links one existing conversation on one agent to one on another and passes messages between them through official routes only, using a local mailbox and MCP the Bot itself runs for Grok Bot and the official CLIs or app server for Claude Code, Cursor, Codex, Gemini and Antigravity, with project overviews and on-demand audits.",
+            "zh": "MIT 开源的路由器加命令行：把一个智能体上的某段现有对话与另一个智能体上的某段对话绑定并互传消息，只走官方通道；Grok Bot 一侧用它自己运行的本地邮箱和 MCP，Claude Code、Cursor、Codex、Gemini 和 Antigravity 用官方 CLI 或 app server，另有项目总览和按需审计。",
+            "ja": "あるエージェントの既存の会話 1 つを別のエージェントの会話 1 つに結び、公式経路だけでメッセージを中継する MIT のルーターと CLI。Grok Bot 側は Bot 自身が動かすローカルのメールボックスと MCP、Claude Code・Cursor・Codex・Gemini・Antigravity は公式 CLI や app server を使い、プロジェクト概要とオンデマンド監査も備える。"
+          }
         }
       ]
     },
@@ -18133,6 +18233,36 @@
             "en": "Bug report where every browser action, even opening a page or taking a screenshot, fails with \"The box could not confirm that no saved credential is being filled into its browser\"; staff say the message is misleading, the real cause is that the Bot's computer didn't finish its initial startup, it is being tracked on their side, and Update or Reset won't get through in that state.",
             "zh": "故障报告：浏览器的所有操作（连打开网页、截图都算）都报“The box could not confirm that no saved credential is being filled into its browser”；官方说这条提示有误导性，真正原因是 Bot 的电脑没完成首次启动，问题在官方那边且正在跟踪，这种状态下点 Update 或 Reset 也没用。",
             "ja": "不具合報告：ページを開く・スクリーンショットを撮るといったブラウザ操作がすべて「The box could not confirm that no saved credential is being filled into its browser」で失敗する。スタッフはこのメッセージは誤解を招くもので、実際の原因は Bot のコンピューターが初回起動を終えていないことだと説明。運営側で追跡中で、この状態では Update や Reset も通らないという。"
+          }
+        },
+        {
+          "title": "Forum: Grok Bot computers slowed by host load on 7 Oct 2026",
+          "url": "https://forum.cursor.com/t/grok-bot-computer-very-slow-high-cpu-steal-and-i-o-stalls-wh/173995",
+          "source": "GB-2144",
+          "blurb": {
+            "en": "Report of an idle Bot Computer with load averages of 35 to 70, CPU steal up to 36% and I/O stalls that Update did not fix; staff confirmed it was not caused by anything on the computer and that since about 7 a.m. CT on 7 Oct 2026 many Grok Bot computers had been slowed by load on the underlying hosts, with the team working on it.",
+            "zh": "反馈：Bot 电脑闲置时负载高达 35 到 70、CPU steal 最高 36%、I/O 卡顿，更新电脑也没解决；官方确认不是电脑里的程序导致，2026 年 10 月 7 日美国中部时间早上 7 点左右起，许多 Grok Bot 电脑因底层宿主机负载而变慢，团队正在处理。",
+            "ja": "報告：アイドル中の Bot の PC でロードアベレージ 35〜70、CPU steal 最大 36%、I/O の停滞が起き、更新でも直らなかった。スタッフは PC 内の原因ではなく、2026 年 10 月 7 日の米中部時間午前 7 時ごろから多くの Grok Bot の PC が基盤ホストの負荷で遅くなっており、対応中と確認。"
+          }
+        },
+        {
+          "title": "Forum: chat pane turns black after switching chats",
+          "url": "https://forum.cursor.com/t/grok-bot-chat-pane-goes-black-after-switching-chats-until-in/174005",
+          "source": "GB-2145",
+          "blurb": {
+            "en": "Bug report with a recording of the Grok Bot chat area going black after switching chats in the sidebar while the header and composer stay visible; staff confirmed the behavior, said the team is tracking it, and suggested Ctrl+A, scrolling or switching chats again to force a redraw for now.",
+            "zh": "带录屏的问题反馈：在侧栏切换聊天后，Grok Bot 的聊天区域变黑，而标题栏和输入框还在；官方确认了这一现象并表示团队在跟进，临时可按 Ctrl+A、滚动或再切换一次聊天来强制重绘。",
+            "ja": "録画付きの不具合報告：サイドバーでチャットを切り替えると、ヘッダーと入力欄は残ったまま Grok Bot のチャット領域が黒くなる。スタッフは現象を確認してチームで追跡中とし、当面は Ctrl+A、スクロール、もう一度チャットを切り替えると再描画されると案内。"
+          }
+        },
+        {
+          "title": "Forum: request to change the login email on a Cursor / Grok Bot account",
+          "url": "https://forum.cursor.com/t/please-let-us-change-the-email-on-our-cursor-grok-bot-accoun/174007",
+          "source": "GB-2146",
+          "blurb": {
+            "en": "Feature request from a graduate who signed up with a university address that may be shut off: there is currently no way, even through support, to change the login email, and the only workaround of deleting the account and starting over would lose chat history, settings and every Grok Bot with its memory and routines.",
+            "zh": "功能请求：一位毕业生用随时可能被停用的学校邮箱注册，目前连客服也无法更改登录邮箱；唯一办法是删号重来，但会丢掉聊天记录、设置，以及所有 Grok Bot 和它们的记忆、例程。",
+            "ja": "機能リクエスト：停止されるかもしれない大学のアドレスで登録した卒業生から。現在はサポート経由でもログインメールを変更できず、唯一の回避策であるアカウント削除と作り直しでは、チャット履歴、設定、そしてメモリやルーチンを含むすべての Grok Bot を失ってしまう。"
           }
         }
       ]
@@ -21163,6 +21293,16 @@
             "en": "Early, work-in-progress Apache-2.0 app that keeps one master list of your rules and preferences and serves it over MCP to agents such as Claude, ChatGPT, Grok Bot and Muse, turning thumbs-down feedback into drafted rules and letting connected agents log what they did.",
             "zh": "早期、仍在开发中的 Apache-2.0 应用：把你的规则和偏好集中成一份总清单，通过 MCP 提供给 Claude、ChatGPT、Grok Bot、Muse 等智能体；点踩反馈会被起草成新规则，接入的智能体还能记录自己做了什么。",
             "ja": "開発初期の Apache-2.0 アプリ。ルールと好みを 1 つのマスターリストにまとめ、MCP で Claude、ChatGPT、Grok Bot、Muse などのエージェントに提供する。低評価のフィードバックからルール案を作り、接続したエージェントは自分の作業を記録できる。"
+          }
+        },
+        {
+          "title": "Grok Bot Wiki extension for Gemini CLI",
+          "url": "https://github.com/SeleemS/grokbotwiki-gemini-extension",
+          "source": "GB-2143",
+          "blurb": {
+            "en": "MIT Gemini CLI extension for the independent Grok Bot Wiki that connects its read-only MCP service and adds commands to find community Bot templates and look up source-linked troubleshooting guides, without running a Bot or touching an account, and notes that template listings are not tested Bot runs.",
+            "zh": "独立站 Grok Bot Wiki 的 Gemini CLI 扩展（MIT）：接入其只读 MCP 服务，新增查找社区 Bot 模板和查询带来源链接的故障排查指南的命令，不会运行 Bot 或改动账号，并说明模板列表并非经过实测的 Bot 运行结果。",
+            "ja": "独立サイト Grok Bot Wiki 用の Gemini CLI 拡張（MIT）。読み取り専用の MCP サービスにつなぎ、コミュニティの Bot テンプレート検索と出典付きトラブルシューティングガイドの参照コマンドを追加する。Bot を動かしたりアカウントを変えたりせず、テンプレート一覧は実際に試した結果ではないと明記。"
           }
         }
       ]

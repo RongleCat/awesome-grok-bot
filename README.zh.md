@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2108-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2122-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,8 +37,8 @@
 
 [全部活动介绍](./EVENTS.zh.md)
 
-- **中国**（4）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [澳门](./EVENTS.zh.md#mo-20261007) · [澳门](./EVENTS.zh.md#mo-20261112)
-- **美国**（14）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [华盛顿特区](./EVENTS.zh.md#was-20261007) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012) · [亚特兰大（Job Night）](./EVENTS.zh.md#atl-20261008) · [芝加哥（配对共建）](./EVENTS.zh.md#chi-20261016) · [印第安纳波利斯（Fishers）](./EVENTS.zh.md#ind-20261112)
+- **中国**（3）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [澳门](./EVENTS.zh.md#mo-20261112)
+- **美国**（13）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [格林维尔](./EVENTS.zh.md#gsp-20261008) · [波士顿](./EVENTS.zh.md#bos-20261009) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [帕萨迪纳](./EVENTS.zh.md#pas-20261008) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012) · [亚特兰大（Job Night）](./EVENTS.zh.md#atl-20261008) · [芝加哥（配对共建）](./EVENTS.zh.md#chi-20261016) · [印第安纳波利斯（Fishers）](./EVENTS.zh.md#ind-20261112)
 - **德国**（6）：[科隆](./EVENTS.zh.md#cgn-20261009) · [斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20261120) · [卡塞尔](./EVENTS.zh.md#kas-20261112) · [法兰克福](./EVENTS.zh.md#fra-20261030) · [汉堡](./EVENTS.zh.md#ham-20261028)
 - **巴西**（4）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [萨尔瓦多](./EVENTS.zh.md#ssa-20261008) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20261016)
 - **加拿大**（4）：[多伦多](./EVENTS.zh.md#yyz-20261026) · [卡尔加里](./EVENTS.zh.md#yyc-20261028) · [哈利法克斯](./EVENTS.zh.md#yhz-20261015) · [渥太华](./EVENTS.zh.md#yow-20261017)
@@ -204,7 +204,7 @@
 - [@bot: Grok Bot can suggest ways to help without being asked (Primary Bot proactive)](https://x.com/bot/status/2105713240701538538) - 官方 @bot（2026-10-01 ~17:35 UTC）：Grok Bot 可不待你开口先提出可帮忙的事——Primary Bot 会主动发现可代劳的工作并提议接手（建议本身不计用量）。.
 - [Deploy Grok Bot to your organization](https://cursor.com/docs/grok-bot/deployment) - Cursor 官方文档：面向组织部署 Grok Bot 桌面端，含 sand 发布源、MDM/静默安装、Linux 包仓库、版本钉扎、托管电脑镜像更新，以及 cursorvm.com 网络放行。.
 - [Team Bots](https://docs.x.ai/grok-bot/team-bots) - SpaceXAI 官方 Team Bots 文档：团队共用一台 Bot、团队记忆、所有者管理插件/密钥/技能、每人私聊隔离、Slack 应用接入，以及各会话使用哪台云电脑。.
-- [Grok Bot Changelog (x.ai)](https://x.ai/changelog/bot) - 官方 Grok Bot 逐版本更新日志（带 RSS）：v0.66.0（10 月 2 日）新增星标 Main Bot 主动签到并协调其他 Bot，v0.64–0.65 带来 Team Bot 语音、管理员与自动更新。.
+- [Grok Bot Changelog (x.ai)](https://x.ai/changelog/bot) - 官方 Grok Bot 逐版本更新日志（带 RSS）：v0.68.1（10 月 7 日）新增可交付 PowerPoint 或 Google Slides 的幻灯片、按 Bot 配色的单聊、格式化邮件和 1920 × 1200 的 Bot 屏幕；此前 v0.67.0 推出 Connect Apps，v0.68.0 新增多种语言并可移除电脑。.
 - [Grok Bot for Work (official guide)](https://x.ai/bot/guides/grok-bot-for-work) - 官方指南（2026-09-24）：改变一位员工产出的四个 Bot——收件箱管家、日程助理、情报侦察兵，以及作为唯一入口的 Bot Boss。.
 - [Grok Bot for Marketing (official guide)](https://x.ai/bot/guides/grok-bot-for-marketing) - 官方指南（2026-09-24）：六个营销 Bot 负责竞品调研、在 Google Docs 起草定位、搭建 Google Ads 广告框架，并给营销站提 PR。.
 - [Grok Bot for Post-Sales (official guide)](https://x.ai/bot/guides/grok-bot-for-post-sales) - 官方指南（2026-09-24）：售后由一个“幕僚长”Bot 统管客户专员 Bot 与例程，提前备好通话材料，避免对客户的承诺遗漏。.
@@ -525,6 +525,8 @@
 - [photo-trace — phone photo of an error to root cause (Dublin Builder Day)](https://github.com/henry-da-lab/photo-trace) - 2026 年 10 月 4 日 Grok Bot 都柏林 Builder Day 上用 Grok Bot 和 Bronto 做的作品：手机拍下报错，笔记本上就显示对应的 Bronto 日志检索、一条根因和一条修复命令，命令要人确认后才执行。.
 - [NetProjects: how we run our sites with about 30 Grok Bot agents](https://netprojects.com/insights/how-we-run-netprojects-with-ai-agents) - Internet Projects Ltd 分享他们在 Grok Bot 上跑约 30 个各管一摊的智能体：由一个 Chief of Staff 统筹，默认只出草稿，上生产要人点头，代码活交给 Cursor 走经过审核的 PR，并列出了 9 月初期向官方支持报告过的问题。.
 - [Frostwell Cakes — a Next.js cake shop built by Grok Bot from GitHub issues](https://github.com/dev-repos/nextjs-cake-shop-grok-bot) - AI 系统设计教程的 MIT 演示项目：一个移动优先的 Next.js 定制蛋糕店，由 Grok Bot 照着 GitHub issue 搭建、全程在手机上指挥，部署在 Vercel；订单不用数据库，而是放在 HMAC 签名链接里，给店家发接单/拒单邮件，PayPal 开票步骤为占位实现。.
+- [The 2026 Nobel Prizes explained by a team of Grok Bots](https://github.com/az9713/grokbots-nobel-2026-explainers) - 由一支有名有姓的智能体团队（研究、领域写手、插画、前端、测试、发布，由 Chief GrokBot 统筹）做的三个交互式单页解读，分别讲 2026 年诺贝尔物理、医学和化学奖；每个目录都保留研究资料、叙事稿和测试报告，化学篇还附完整团队对话记录。.
+- [Gefühls-Journal — an encrypted mood-journal PWA built entirely by a Grok Bot team](https://github.com/Oliver19xx/gefuehlsjournal) - 德语离线心情日记应用，规划、需求清单、设计、代码、测试和部署全部出自一支 Grok Bot 团队（产品负责人、UX、UI、测试、开发），人只给方向；用情绪轮和写作提示引导记录，每条日记都以 AES-256-GCM 加密存在本机，可另设 PIN。.
 
 ## 技能、插件与 MCP
 
@@ -1193,6 +1195,11 @@
 - [Beowulf Standup — public guide for the Beowulf Grok Bot template](https://github.com/shinarugrok-a11y/Beowulf-Standup) - Grok Bot 分享模板 Beowulf 的公开上手指南（PDF 加 README，GPL-3.0）：Beowulf 帮你规划、构建、检查、调研和运维，指南写了首次设置步骤、只有手打的 yes 才能放行花钱、代发、密钥、删除和公开发帖的规则，以及每个正式任务前先写 Act as / Request / Terms 简报的做法。.
 - [Roblox Compact MCP — let Grok Bot work in Roblox Studio with small answers](https://github.com/Crazy-Or-Something/roblox-compact-mcp) - MIT 开源的本地 MCP 服务器加 Studio 插件，目的是让 Grok Bot 查询和修改 Roblox Studio 时不撑爆上下文：支持只返回计数的查询和限定范围搜索、批量编辑且每批一次撤销、先校验旧源码的脚本写入，并通过 Roblox 官方 Studio MCP 运行 Play 和 Luau；云电脑可经隧道加 Bearer 令牌连回本机。.
 - [grokbot-jev-skills — ten skills that hand small decisions to Jev](https://github.com/fal3/grokbot-jev-skills) - MIT 开源的 10 个 Grok Bot 技能，把智能体的小型结构化判断（该读哪些搜索结果、邮件分类、客服分诊、例程要不要叫醒你、哪些段落含提示注入）交给 TypeSafe 的 Jev 模型的命令行处理；安装脚本固定上游提交版本，每个技能都写明 Jev 不可用时的默认答案，以及哪些数据会离开本机。.
+- [Streak CRM plugin for Cursor and Grok Bot](https://github.com/StreakYC/streak-grok-plugin) - Streak 官方的 Cursor 格式插件：通过 OAuth 把 Cursor 和 Grok Bot 接到 api.streak.com 上的托管 MCP 服务器，让 Bot 能搜索和修改这个内置于 Gmail 的 CRM 里的管道、交易、联系人、组织、任务和时间线；需要 Pro、Pro+ 或企业版，插件里不带密钥或脚本。.
+- [Mux agent plugin — video, live streams and Mux Data for Grok Bot](https://github.com/muxinc/mux-agent-plugin) - Mux 官方 MIT 插件：打包其托管 MCP 服务器（mcp.mux.com，OAuth 登录，插件里不放令牌）以及视频资源、上传、直播、Mux Data 和 Robots 等技能，同一个包里并排提供 Cursor/Grok Bot、Claude Code、Codex 和 Muse 的清单。.
+- [Kite — let Grok Bot draw design files your team can edit](https://github.com/itsloukman/kite-agent-plugins) - Kite 的 MIT 插件。Kite 是为智能体打造的设计工具，插件加入其托管 MCP 服务器和设计技能，让 Grok Bot（从 Cursor Marketplace 安装）、Claude Code 或 Codex 把横幅、社媒图、广告、Logo 和界面画进团队可打开、编辑和评论的 Kite 文件；用浏览器登录，不用复制 API 密钥。.
+- [Sânziana Bot — Grok Bot template for story-driven artists on X](https://github.com/CaliXVibe/sanziana-bot) - 公开的 Grok Bot 模板，取材自暗黑奇幻画师 YONNEY 的运营打法：提供人设、模式、规则和示例文件，让一个 Bot 在 X 上起草社区回复、章节发布帖和原创帖，所有内容在主人明确同意前只停留在草稿，并向幕僚长 Bot 汇报。.
+- [Star Watch — Grok Bot sky guide with twice-daily briefings](https://github.com/anthonygenovese/star-watch) - 个人观星向导的 Grok Bot 模板：包含一条风格记忆、两个例程和一段上手欢迎对话，每天黎明前和傍晚发送可朗读的简短播报，最关心的天体排在最前，位置靠计算、云量用真实预报，不靠猜。.
 
 ## 评测与对比
 
@@ -1613,6 +1620,9 @@
 - [grokbot-telemetry — living documentation of what a Grok Bot runs on its box](https://github.com/owenservera/grokbot-telemetry) - 一位用户让自己的 Grok Bot 把电脑上的观测笔记镜像到这个仓库：包含电脑、桌面、连接器和命令行工具的架构图，实时命令行工具清单、进程映射、按日期的会话记录，以及会脱敏密钥的 shell 采集脚本，另有一个常驻循环每五分钟刷新并推送一次，电脑重启后需重新启动。.
 - [grok-bot-fedora — build a Fedora RPM from the Grok Bot .deb](https://github.com/FALCONFOX64/grok-bot-fedora) - 小巧的构建脚本，把官方 Grok Bot 的 Debian 安装包（在 0.66.0 上测试）重新打包成 Fedora 可用 dnf 安装的 RPM：程序文件原样保留，补上 grok-bot 命令、桌面入口和图标并映射依赖；不添加更新源，新版本需要用新的 .deb 重新构建。.
 - [grok-bot-tray — keep Grok Bot running with a Linux tray icon](https://github.com/yelenkovsky/grok-bot-tray) - 针对 Linux 桌面版关窗即退出、没有托盘图标的问题写的脚本：systemd 用户服务在登录时启动 Grok Bot，窗口被关掉就重新拉起；StatusNotifier 托盘图标可显示、隐藏或退出应用；还可选用 Hyprland 规则把窗口停到隐藏的草稿工作区。.
+- [Bot Bridge — let Grok Bots on different accounts message each other](https://github.com/aupchurch167/GrokBotBuddies) - 自托管的转接台（Node、Hono、Postgres），让不同账号下的 Grok Bot 互发消息：每个 Bot 有自己的 API 密钥和带 6 个消息工具的远程 MCP 连接器，管理员决定哪些 Bot 之间可以通话，新消息到达时向收件方的 Grok Bot Webhook 例程发一个不含内容的门铃请求。.
+- [grokbot-telegram-bridge — Telegram messages that wake Grok Bot through a webhook routine](https://github.com/mia-oc/grokbot-telegram-bridge) - MIT 开源的 Node 服务，包含本地 Telegram Webhook 监听、磁盘队列和 stdio MCP 服务器：每条新 Telegram 消息都通过 Webhook 例程叫醒 Grok Bot，而不是靠定时轮询；Bot 先用一条可编辑的进度消息同步它在应用里的状态，再发出最终回复。.
+- [Agent Thread Bridge — link a Grok Bot chat to a specific Claude Code, Codex or Gemini thread](https://github.com/JonSnowInfinity/agent-thread-bridge) - MIT 开源的路由器加命令行：把一个智能体上的某段现有对话与另一个智能体上的某段对话绑定并互传消息，只走官方通道；Grok Bot 一侧用它自己运行的本地邮箱和 MCP，Claude Code、Cursor、Codex、Gemini 和 Antigravity 用官方 CLI 或 app server，另有项目总览和按需审计。.
 
 ## 社区与故障现场
 
@@ -1912,6 +1922,9 @@
 - [Forum: Grok Bot computer wedged since Oct 5, Shell hangs and Update/Reset don't help](https://forum.cursor.com/t/grok-bot-shared-computer-fully-wedged-since-2026-10-05-shell-dead-update-recover-reset-all-fail-please-reprovision/173881) - 故障帖：一位用户的 Grok Bot 共享电脑从 10 月 5 日起所有 Shell 调用都卡死，桌面仍能显示；官方回复说 Bot、文件和登录都还在，问题是凡是要启动新进程的操作都会卡住，而且换一台新电脑也会复现，请先别点 Reset、Recover 和 Update，并询问是否有 Bot 最近改过 ~/.bashrc、~/.bash_profile 或 ~/.profile（让 Bot 用文件工具查看，别用 Shell）。.
 - [Forum: Grok Bot 0.68.1 can't reach the computer, delete fails and Update does nothing](https://forum.cursor.com/t/grok-bot-0-68-1-macos-cant-reach-computer-delete-fails-update-does-nothing/173950) - 故障报告（macOS 0.68.1）：Computer 页显示无法连接 Bot 的屏幕，删除 Bot 报连接错误，Update Grok Bot's Computer 也没有进度；官方说网络没问题，是 Bot 的电脑首次启动没完成，属于已在跟踪的服务端问题，聊天仍可用，点 Update、Reset、重装或退出登录都没用。.
 - [Forum: every browser action fails with a credential-check error](https://forum.cursor.com/t/my-browser-blocks-every-action-with-a-credential-check-error/173944) - 故障报告：浏览器的所有操作（连打开网页、截图都算）都报“The box could not confirm that no saved credential is being filled into its browser”；官方说这条提示有误导性，真正原因是 Bot 的电脑没完成首次启动，问题在官方那边且正在跟踪，这种状态下点 Update 或 Reset 也没用。.
+- [Forum: Grok Bot computers slowed by host load on 7 Oct 2026](https://forum.cursor.com/t/grok-bot-computer-very-slow-high-cpu-steal-and-i-o-stalls-wh/173995) - 反馈：Bot 电脑闲置时负载高达 35 到 70、CPU steal 最高 36%、I/O 卡顿，更新电脑也没解决；官方确认不是电脑里的程序导致，2026 年 10 月 7 日美国中部时间早上 7 点左右起，许多 Grok Bot 电脑因底层宿主机负载而变慢，团队正在处理。.
+- [Forum: chat pane turns black after switching chats](https://forum.cursor.com/t/grok-bot-chat-pane-goes-black-after-switching-chats-until-in/174005) - 带录屏的问题反馈：在侧栏切换聊天后，Grok Bot 的聊天区域变黑，而标题栏和输入框还在；官方确认了这一现象并表示团队在跟进，临时可按 Ctrl+A、滚动或再切换一次聊天来强制重绘。.
+- [Forum: request to change the login email on a Cursor / Grok Bot account](https://forum.cursor.com/t/please-let-us-change-the-email-on-our-cursor-grok-bot-accoun/174007) - 功能请求：一位毕业生用随时可能被停用的学校邮箱注册，目前连客服也无法更改登录邮箱；唯一办法是删号重来，但会丢掉聊天记录、设置，以及所有 Grok Bot 和它们的记忆、例程。.
 
 ## 相关列表
 
@@ -2217,10 +2230,11 @@
 - [Novra: taking the Grok Bot mascot outside the app (concept)](https://www.novra.design/case-studies/grokbot) - 伦敦设计工作室 Novra 自发做的概念案例（非 xAI 委托、与其无关）：把 Grok Bot 吉祥物做成可交互的 Rive 角色，延伸到 Mac 刘海、iPhone 小组件、锁屏实时活动和应用本身，突出哪个 Bot 需要你处理，其余 Bot 收缩成一张脸加一行状态。.
 - [Nest — open-source colony of always-on agents for a one-person content business](https://github.com/arjav1181/nest) - MIT 开源、本地优先的测试版项目，自称 Grok Bot 的开源替代：Next.js 网页加 FastAPI 控制面，管理一队常驻智能体（研究、写作、编辑、剪辑、发布、分析、记账），高风险操作都进审批收件箱；装了 Hermes Agent 就用它运行，否则跑演示循环。.
 - [Rare Tomato — one shared rule list for Grok Bot and other agents over MCP](https://github.com/liajomartinez/rare-tomato) - 早期、仍在开发中的 Apache-2.0 应用：把你的规则和偏好集中成一份总清单，通过 MCP 提供给 Claude、ChatGPT、Grok Bot、Muse 等智能体；点踩反馈会被起草成新规则，接入的智能体还能记录自己做了什么。.
+- [Grok Bot Wiki extension for Gemini CLI](https://github.com/SeleemS/grokbotwiki-gemini-extension) - 独立站 Grok Bot Wiki 的 Gemini CLI 扩展（MIT）：接入其只读 MCP 服务，新增查找社区 Bot 模板和查询带来源链接的故障排查指南的命令，不会运行 Bot 或改动账号，并说明模板列表并非经过实测的 Bot 运行结果。.
 
 ## 贡献
 
-目前 8 个分类、2108 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2122 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
