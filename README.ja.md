@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2131-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2162-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,11 +38,11 @@
 [イベントの詳細](./EVENTS.ja.md)
 
 - **中国**（3）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017) · [マカオ](./EVENTS.ja.md#mo-20261112)
-- **アメリカ**（16）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [グリーンビル](./EVENTS.ja.md#gsp-20261008) · [ボストン](./EVENTS.ja.md#bos-20261009) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [パサデナ](./EVENTS.ja.md#pas-20261008) · [アトランタ](./EVENTS.ja.md#atl-20261016) · [シアトル](./EVENTS.ja.md#sea-20261012) · [アトランタ（Job Night）](./EVENTS.ja.md#atl-20261008) · [シカゴ（ペアビルド）](./EVENTS.ja.md#chi-20261016) · [インディアナポリス（フィッシャーズ）](./EVENTS.ja.md#ind-20261112) · [オースティン（ハッカソン）](./EVENTS.ja.md#aus-20261019) · [ニューヨーク（スタートアップ）](./EVENTS.ja.md#nyc-20261105) · [チャタヌーガ](./EVENTS.ja.md#cha-20261216)
+- **アメリカ**（14）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [ボストン](./EVENTS.ja.md#bos-20261009) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [アトランタ](./EVENTS.ja.md#atl-20261016) · [シアトル](./EVENTS.ja.md#sea-20261012) · [シカゴ（ペアビルド）](./EVENTS.ja.md#chi-20261016) · [インディアナポリス（フィッシャーズ）](./EVENTS.ja.md#ind-20261112) · [オースティン（ハッカソン）](./EVENTS.ja.md#aus-20261019) · [ニューヨーク（スタートアップ）](./EVENTS.ja.md#nyc-20261105) · [チャタヌーガ](./EVENTS.ja.md#cha-20261216) · [アーバナ（UIUC ワークショップ）](./EVENTS.ja.md#urb-20261009)
 - **ドイツ**（6）：[ケルン](./EVENTS.ja.md#cgn-20261009) · [シュトゥットガルト](./EVENTS.ja.md#str-20261015) · [フランクフルト](./EVENTS.ja.md#fra-20261120) · [カッセル](./EVENTS.ja.md#kas-20261112) · [フランクフルト](./EVENTS.ja.md#fra-20261030) · [ハンブルク](./EVENTS.ja.md#ham-20261028)
-- **ブラジル**（4）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [サルバドール](./EVENTS.ja.md#ssa-20261008) · [フロリアノポリス](./EVENTS.ja.md#fln-20261016)
 - **カナダ**（4）：[トロント](./EVENTS.ja.md#yyz-20261026) · [カルガリー](./EVENTS.ja.md#yyc-20261028) · [ハリファックス](./EVENTS.ja.md#yhz-20261015) · [オタワ](./EVENTS.ja.md#yow-20261017)
 - **イタリア**（4）：[ローマ](./EVENTS.ja.md#rom-20261023) · [トレヴィーゾ](./EVENTS.ja.md#tvs-20261022) · [ボローニャ](./EVENTS.ja.md#blq-20261012) · [パヴィア](./EVENTS.ja.md#pav-20261105)
+- **ブラジル**（3）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [フロリアノポリス](./EVENTS.ja.md#fln-20261016)
 - **韓国**（3）：[ソウル](./EVENTS.ja.md#sel-20261027) · [ソウル（10/13）](./EVENTS.ja.md#sel-20261013) · [ソウル（ハッカソン #4）](./EVENTS.ja.md#sel-20261024)
 - **エクアドル**（2）：[アンバト](./EVENTS.ja.md#atu-20261029) · [キト](./EVENTS.ja.md#uio-20261021)
 - **スペイン**（2）：[アリカンテ](./EVENTS.ja.md#alc-20261107) · [ビルバオ](./EVENTS.ja.md#bil-20261019)
@@ -53,6 +53,7 @@
 - **ペルー**（2）：[ワンカヨ](./EVENTS.ja.md#hyo-20261023) · [リマ（10/17）](./EVENTS.ja.md#lim-20261017)
 - **トーゴ**（2）：[ロメ（ワークショップ）](./EVENTS.ja.md#lfw-20261017) · [ロメ（ビルドデー）](./EVENTS.ja.md#lfw-20261114)
 - **アルバニア**（1）：[ティラナ](./EVENTS.ja.md#tia-20261017)
+- **アルゼンチン**（1）：[バリローチェ（1 周年）](./EVENTS.ja.md#brc-20261128)
 - **オーストリア**（1）：[ウィーン](./EVENTS.ja.md#vie-20261031)
 - **バングラデシュ**（1）：[ダッカ](./EVENTS.ja.md#dac-20261031)
 - **ブルガリア**（1）：[ソフィア](./EVENTS.ja.md#sof-20261030)
@@ -63,18 +64,17 @@
 - **フィンランド**（1）：[ヘルシンキ](./EVENTS.ja.md#hel-20261027)
 - **ガーナ**（1）：[アクラ](./EVENTS.ja.md#acc-20261017)
 - **イスラエル**（1）：[テルアビブ](./EVENTS.ja.md#tlv-20261019)
-- **ケニア**（1）：[ナイロビ（Kenya Workshop）](./EVENTS.ja.md#nbo-20261008)
 - **カンボジア**（1）：[シェムリアップ](./EVENTS.ja.md#srp-20261101)
 - **スリランカ**（1）：[コロンボ](./EVENTS.ja.md#cmb-20261017)
 - **モロッコ**（1）：[カサブランカ](./EVENTS.ja.md#cas-20261017)
 - **メキシコ**（1）：[メキシコシティ](./EVENTS.ja.md#cdmx-20261009)
 - **ノルウェー**（1）：[オスロ](./EVENTS.ja.md#osl-20261016)
-- **ニュージーランド**（1）：[オークランド](./EVENTS.ja.md#akl-20261008)
 - **フィリピン**（1）：[セブ](./EVENTS.ja.md#ceb-20260919)
 - **スウェーデン**（1）：[ストックホルム](./EVENTS.ja.md#sto-20261014)
+- **エルサルバドル**（1）：[サンサルバドル（ワークショップ）](./EVENTS.ja.md#sal-20261017)
 - **トリニダード・トバゴ**（1）：[ポートオブスペイン](./EVENTS.ja.md#pos-20261030)
 - **ザンビア**（1）：[ルサカ #2](./EVENTS.ja.md#lun-20261031)
-- **オンライン**（6）：[オンライン（ゴイアニア）](./EVENTS.ja.md#gyn-20261017) · [新機能ウェビナー](./EVENTS.ja.md#wng-20261008) · [201 ウェビナー](./EVENTS.ja.md#g201-20261009) · [営業ウェビナー](./EVENTS.ja.md#sales-20261013) · [Grok Bot + Cursor ウェビナー](./EVENTS.ja.md#scs-20261015) · [金融サービスウェビナー](./EVENTS.ja.md#fin-20261020)
+- **オンライン**（7）：[オンライン（ゴイアニア）](./EVENTS.ja.md#gyn-20261017) · [201 ウェビナー](./EVENTS.ja.md#g201-20261009) · [営業ウェビナー](./EVENTS.ja.md#sales-20261013) · [Grok Bot + Cursor ウェビナー](./EVENTS.ja.md#scs-20261015) · [金融サービスウェビナー](./EVENTS.ja.md#fin-20261020) · [管理者ウェビナー](./EVENTS.ja.md#adm-20261021) · [新機能ウェビナー（10/30）](./EVENTS.ja.md#wng-20261030)
 
 ## 目次
 
@@ -216,6 +216,8 @@
 - [Cursor Admin API — Grok Bot endpoints](https://cursor.com/docs/account/teams/admin-api#grok-bot) - Cursor チーム Admin API の Grok Bot エンドポイント。Grok Bot の有効化/無効化、機能取得、Auto-Review 強制、グループアクセス、ネットワークポリシー、チームルール、セットアップスクリプトを管理。
 - [Cursor Organization API — Grok Bot computers](https://cursor.com/docs/account/organizations/organization-admin-api#grok-bot-computers) - Enterprise 限定の Organization API（admin:* キー）。メンバーのホスト型 Grok Bot コンピューターを一括で再作成・停止・削除し、操作ごとのメンバー別結果をポーリング。
 - [Which AI models power Grok Bot? (Cursor Help)](https://cursor.com/help/grok-bot/models) - Cursor 公式ヘルプ。Grok Bot はリクエストごとにバックエンドのモデル（xAI のファーストパーティか、サブプロセッサー一覧にある他社モデル）を選び、モデル名の表示や選択はなく、利用はすべて Grok Bot 利用として記録される。Opus 5.5 に回っても上限の消費は速くならず、チームの Cursor モデル許可リストも Grok Bot には適用されない。
+- [Grok Bot for Performance Marketing (official guide)](https://x.ai/bot/guides/grok-bot-for-performance-marketing) - 公式ガイド（2026-10-05）：Grok Bot の有料広告担当者が、需要調査、予算とチャネル配分、コンバージョン計測、レポートまで Bot のチームで自社の広告プログラムを立ち上げた方法を紹介。Fuse・Tally・Leadsworth・Iris の 4 つの Bot のテンプレート付き。
+- [Grok Bot for Founder-Led Sales (official guide)](https://x.ai/bot/guides/grok-bot-for-founder-led-sales) - 公式ガイド（2026-10-06）：Grok for Startups プログラムの Simon Lackowski が、チーフ・オブ・スタッフ Bot、4 つのフォルダに分けた 8 つの専門 Bot、一時停止状態の 16 のルーチンからなる Founder Mode パックを紹介。ICP 調査、デザインパートナーへのアプローチ、商談準備、最初のプレイブック、パイプライン予測までをカバー。
 
 ## チュートリアルとガイド
 
@@ -531,6 +533,12 @@
 - [The 2026 Nobel Prizes explained by a team of Grok Bots](https://github.com/az9713/grokbots-nobel-2026-explainers) - 名前付きのエージェントチーム（リサーチ、分野ライター、イラスト、フロントエンド、テスター、公開担当を Chief GrokBot が統括）が作った、2026 年ノーベル物理学・医学・化学賞のインタラクティブな 1 ページ解説 3 本。各フォルダに調査資料、ナレーション、QA レポートがあり、化学編はチーム全体の対話記録付き。
 - [Gefühls-Journal — an encrypted mood-journal PWA built entirely by a Grok Bot team](https://github.com/Oliver19xx/gefuehlsjournal) - ドイツ語のオフライン感情ジャーナルアプリ。企画、バックログ、デザイン、コード、テスト、デプロイはすべて Grok Bot のチーム（プロダクトオーナー、UX、UI、テスター、開発）が担い、人は方向づけだけ。感情の輪と書き出しのヒントで記録を促し、各エントリーは端末内で AES-256-GCM 暗号化、PIN も設定できる。
 - [Agent City — a 3D city of one user's Grok Bot assistants and their real work](https://github.com/brandocalricia/agent-city) - 公開の three.js 製 3D シティ（GitHub Pages で公開）。あるユーザーの AI アシスタントと、Scout、Librarian、Council、Auditor など 15 の役割が、実際のルーチン、保存したスキル、発見、活動ログを見せる。Grok Bot が 1 日約 3 回のセッションで育て、Grok Build 向けのレビュー・適用フィードもあり、個人のメールと予定のメモはローカル版だけに残る。
+- [Grok Bot Showroom — WebGL toys built with Grok Bot](https://github.com/TheDreamersTop/grok-bot-showroom) - 繁体字中国語と英語のショールームリポジトリ。Grok Bot と一緒に作ったプロジェクトを日付付きフォルダごとに収め、それぞれ README、制作レポート、GitHub Pages のライブデモがある。26 万粒子の WebGL2 製「星の鍛冶場」や、自分で影を描き直せる真鍮ロッドの影彫刻から始まっている。
+- [grokbot-home — move a whole Grok Bot fleet to a new account](https://github.com/ZMGID/grokbot-home) - Grok Bot のアカウントを乗り換えるための、あるユーザーの公開「ホーム」リポジトリ。新アカウントの Bot が BOOTSTRAP.md を読み、パスフレーズを尋ねて Composio キーを復号し、ツールを入れたうえで、保存したプロフィール・メモリ・ルーチンから CreateAgent で他の Bot を全部作り直し、学んだことを書き戻す。
+- [Tavern — tabletop RPG in a group chat with three Grok Bots](https://github.com/anselmcmakin/tavern) - グループチャットで TRPG を遊ぶベータ版 Grok Bot テンプレート。DM Bot が進行し、Cast Bot が NPC と敵を演じ、Party Bot が人間と並んで AI ヒーローを担当。エンジンは DM がチェックサム付きリリースから自分で導入する。
+- [Prime Directive — a two-Bot coding team where only you merge](https://github.com/smfworks/prime-directive) - Builder Prime と Gatekeeper Prime の 2 つの共有 Grok Bot テンプレートとプレイブック。1 体が作り、もう 1 体がレビューし、人間の承認なしには何もマージしないコーディングチーム。セットアップと仕組みのガイド付き。
+- [Next Mission — Grok Bot template files for U.S. military transition](https://github.com/gabe-mobius/next-mission) - 退役・除隊を控えた米軍人を支える Next Mission Grok Bot テンプレートの共有ファイル。除隊までの残り期間別に出典付きでまとめたチェックリスト、州の退役軍人給付、出典チェックと個人の期限リストを作るスクリプトを収録。
+- [AI in Action for Medical Affairs — workshop site for using Grok Bot](https://github.com/Open-Medical-Affairs/AI-in-Action-Website) - AI in Action for Medical Affairs ワークショップ（2026-10-13〜14、フィラデルフィア）の公式サイト。無料の Open Medical Affairs ライブラリを Grok Bot などの個人エージェントに渡し、成果物を確認する方法を平易に解説。
 
 ## スキル、プラグインと MCP
 
@@ -1210,6 +1218,15 @@
 - [Adspirer Social Ads — Meta and TikTok ads from Grok Bot](https://github.com/Adspirer/adspirer-social-ads-cursor-plugin) - Adspirer の姉妹版 MIT プラグイン（Cursor・Grok Bot 向け）。ホスト型のソーシャル広告 MCP サーバーにブラウザ OAuth でつなぎ、12 のスキルで Meta と TikTok の広告成果を分析し、クリエイティブ疲れやコンバージョンの問題を見つけ、承認を得たときだけキャンペーンを作成・調整する。こちらも Marketplace 公開待ちの新パッケージ。
 - [FeedbackPulse plugin — HR survey and review answers for Grok Bot](https://github.com/FeedbackPulseApp/feedbackpulse-plugin) - FeedbackPulse の MIT プラグイン。Cursor Marketplace から Cursor と Grok Bot に入れられ（Grok Build と Claude Code のマニフェストも同梱）、ホスト型 MCP サーバー、19 のツール、スキルをまとめる。OAuth でサインインした Bot が、自分のロールと同じ権限で従業員サーベイの結果、eNPS、評価の進捗、称賛を読める。
 - [ostack — pstack fork with a Grok Bot to Claude Code bridge](https://github.com/hugo-hsi-dev/ostack) - poteto の pstack スキルパックの MIT フォーク（Cursor、Claude Code、Codex、skills.sh 対応）。モード名を変え、claude-bridge スキルを追加。Grok Bot が Claude Code のルーチンにタスクを送り、Claude が Bot の Webhook ルーチンに結果を POST して答えが戻る。
+- [Roberto plugin — report Bot work and ask for approvals in Roberto](https://github.com/RobertoAgent/roberto-agent-plugins) - パーソナル AI エージェント Roberto 公式の Apache-2.0 プラグイン集。Grok Bot 向けの Cursor Marketplace パッケージは、ホスト型 MCP サーバーを OAuth でつなぎ、roberto-inbox ルーチンスキルを追加する。Bot が作業を報告し、本人への質問や承認依頼を Roberto で答えてもらい、Roberto のルームからのメッセージに返信できる。
+- [LinkMCP — your LinkedIn account as tools for Grok Bot](https://github.com/linkmcp-io/linkmcp-cursor-plugin) - 設定ファイルだけの MIT プラグインで、Grok Bot の Marketplace から入れられる。LinkMCP のホスト型 LinkedIn MCP サーバーをブラウザのサインインでつなぎ、Bot が人や企業の調査、LinkedIn や Sales Navigator の検索、メッセージの読み書き、投稿やリアクション、招待の管理、勤務先メールの検索をできるようにする。7 日間の無料トライアルあり。
+- [JevGB — cheap task routing for Grok Bot with Grok Build handoffs](https://github.com/SuperfastSimon/jevgb) - grok-bot-jev を拡張した非公式の MIT Python CLI。Grok Bot が高コストな手順の前に呼び出し、Grok Build への簡潔な引き継ぎ、キャッシュ再利用、重複呼び出しのスキップ、リトライ停止、調査の上限設定などの動作を選ぶ。オフラインのルール分類器で動き、トークン台帳とローカルダッシュボードで正味の節約を正直に示す。
+- [Synorb plugin — source-cited world context for Grok Bot](https://github.com/Synorb/synorb-cursor-plugin) - Cursor と Grok Bot 向けプラグイン。Synorb のホスト型 MCP サーバーに接続し、組織・人物・データセットに関する構造化 Streams の検索、出典 URL 付き Manifests の取得、追跡用 Beacons の保存（保存時はユーザー承認）ができる。
+- [freddy plugin — ask Grok Bot about your own wearable and health data](https://github.com/reThrive-Labs/freddy-plugin) - Cursor と Grok Bot 向けプラグイン。ホスト型 freddy MCP サーバーと、健康アプリやウェアラブルの接続・週次ヘルスレビュー・長期トレンドの 3 スキルを追加。OAuth でサインインし API キー不要。
+- [Salespeak Company Context plugin — answers about your own company](https://github.com/salespeak-ai/company-context-plugin) - Cursor と Grok Bot 向けプラグイン。Salespeak に記録された資料から自社の製品・価格・セキュリティ・顧客について Bot が回答し、出典を添付。資料が食い違う場合は両方を示して選ばせる。
+- [Gable plugin — real-estate listings, buyers and offers for Grok Bot](https://github.com/getgable/gable-cursor-plugin) - Cursor と Grok Bot 向けプラグイン。Gable のリモート MCP サーバーに接続し、不動産エージェントの物件・買い手の参照と更新、内見とフィードバックの記録、オファーと条件の登録、タスク完了を Bot が行える。
+- [ofershap/grok-bot-skills — community library of one-file skills](https://github.com/ofershap/grok-bot-skills) - Grok Bot 向けにすぐ入れられる Agent Skills 約 18 個を集めたコミュニティライブラリ。各スキルは SKILL.md 1 つのフォルダで、オープンな Agent Skills 形式。追加用の貢献ガイド付き。
+- [Sato Agent — give a Grok Bot its own onchain wallet](https://github.com/satohubai/sato-agent) - Grok Bot が BOT.md の指示に従って自分のコンピュータに入れるキット。Base または Solana のウォレット作成、x402 での API 支払い、ERC-8004 アイデンティティ登録、オーナーが決めた上限内での USDC 送金ができる。
 
 ## レビューと比較
 
@@ -1235,6 +1252,7 @@
 - [grokbot.guru: Grok Bot's new Primary Bot offers to do work before you ask](https://grokbot.guru/primary-bot-proactive-suggestions/) - ニュース記事（10/2）：Primary Bot の展開。1体の Bot が引き受けられる仕事を見つけて提案し、提案自体は使用量に含まれず、ドキュメントは未対応だった。
 - [Top5Apps: Grok Bot review (Oct 2026)](https://top5apps.ai/best-ai-apps/best-personal-ai-agents/grok-bot/) - 2026 年 10 月 5 日更新のレビュー。Grok Bot を 4.4/5 と評価し、定型業務の引き継ぎに最適とする。名前と記憶を持つ Bot、コネクタ、ルーチンを高く評価する一方、全 Bot が 1 台の PC を共有する点、無料枠がない点、Main Bot がまだ文書化されていない点を指摘。
 - [Progressive Robot: Primary Bot and Grok 4.7 explained](https://www.progressiverobot.com/2026/10/02/primary-bot-grok-4-7-base-model-proactive-grok-bot/) - 2026 年 10 月 2 日の分析記事。仕事を引き受けると自ら申し出て他の Bot にタスクを振る新しい Primary Bot について、「提案は利用量にカウントされない」が何を意味し何を意味しないかを整理し、同じ晩に Grok 4.7 が Grok アプリに来たことや、有効化前のチェックリストも紹介。
+- [The Next Web: Grok Bot will also use Claude, Midjourney and Suno models](https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk) - ニュース記事（2026-10-07）：Grok Bot がタスクごとに Claude Opus 5.5、Midjourney、Suno を含む最適なバックエンドモデルを使うというイーロン・マスクの投稿を報道。前日の Grok の接続障害、共有できる Team Bot、Meta の Muse など競合の動きにも触れている。
 
 ## オープンソースの代替
 
@@ -1634,6 +1652,10 @@
 - [grokbot-telegram-bridge — Telegram messages that wake Grok Bot through a webhook routine](https://github.com/mia-oc/grokbot-telegram-bridge) - MIT の Node サービス。ローカルの Telegram Webhook リスナー、ディスク上のスプール、stdio MCP サーバーを備え、新しい Telegram メッセージごとに cron ポーリングではなく Webhook ルーチンで Grok Bot を起こす。Bot はアプリ内の状況表示と同じ文言の編集可能な進捗メッセージを出してから最終回答を送る。
 - [Agent Thread Bridge — link a Grok Bot chat to a specific Claude Code, Codex or Gemini thread](https://github.com/JonSnowInfinity/agent-thread-bridge) - あるエージェントの既存の会話 1 つを別のエージェントの会話 1 つに結び、公式経路だけでメッセージを中継する MIT のルーターと CLI。Grok Bot 側は Bot 自身が動かすローカルのメールボックスと MCP、Claude Code・Cursor・Codex・Gemini・Antigravity は公式 CLI や app server を使い、プロジェクト概要とオンデマンド監査も備える。
 - [grokbot-bridge-plugin — connect Grok Bots to your web app over signed webhooks](https://github.com/imbavirus/grokbot-bridge-plugin) - MIT の依存なし Node CLI と、貼り付けるだけの設定プロンプト。Grok Bot が自分の Shell で実行し、Webhook ルーチンを作り、共有シークレットでアプリに登録して専用トークンと @handle を受け取り、アプリやアプリ側のグループルームにいる他の Bot と HMAC 署名付きメッセージをやり取りする。HTTP プロトコルは全部文書化されている。
+- [jexmarc/grokbot-telegram — connect a Grok Bot to Telegram](https://github.com/jexmarc/grokbot-telegram) - Grok Bot を Telegram の個別チャットとグループのメンションにつなぐセルフホスト型ブリッジ。Cloudflare Workers・Vercel・Node にデプロイでき、貼り付け用プロンプトと Bot 自身が手順通りに進める設定スキル付き。
+- [grokbot-desk — local approval windows for Grok Bot decisions](https://github.com/realspqrk/grokbot-desk) - Bot が判断を求めるときにローカルで承認ウィンドウを開く Python デスクトップツール。Bot が JSON を送り、UI で確認し、結果を JSON で返す。Grok Bot 向けに最適化、Windows 優先で macOS は実験的。
+- [grok-cursor-link — let Grok Bot see what you are doing in Cursor](https://github.com/ZAKOVAI/grok-cursor-link) - ローカルの Cursor フックと小さな CLI。Mac のシェル権限を持つ Grok Bot が、Cursor で作業中の内容（アクティブなチャット、プロジェクト、エージェントの状態、直近のやり取り）をコピペなしで確認できる。
+- [Grok Bot Daily — open-source weekday digest](https://github.com/andepants/grokbot-daily) - 公開 X 投稿から Grok Bot で作られた面白いものを平日ごとにまとめるオープンソースの Next.js サイト兼ニュースレター。アーカイブ、RSS、ダブルオプトインのメール登録付き。
 
 ## コミュニティと障害事例
 
@@ -1936,6 +1958,15 @@
 - [Forum: Grok Bot computers slowed by host load on 7 Oct 2026](https://forum.cursor.com/t/grok-bot-computer-very-slow-high-cpu-steal-and-i-o-stalls-wh/173995) - 報告：アイドル中の Bot の PC でロードアベレージ 35〜70、CPU steal 最大 36%、I/O の停滞が起き、更新でも直らなかった。スタッフは PC 内の原因ではなく、2026 年 10 月 7 日の米中部時間午前 7 時ごろから多くの Grok Bot の PC が基盤ホストの負荷で遅くなっており、対応中と確認。
 - [Forum: chat pane turns black after switching chats](https://forum.cursor.com/t/grok-bot-chat-pane-goes-black-after-switching-chats-until-in/174005) - 録画付きの不具合報告：サイドバーでチャットを切り替えると、ヘッダーと入力欄は残ったまま Grok Bot のチャット領域が黒くなる。スタッフは現象を確認してチームで追跡中とし、当面は Ctrl+A、スクロール、もう一度チャットを切り替えると再描画されると案内。
 - [Forum: request to change the login email on a Cursor / Grok Bot account](https://forum.cursor.com/t/please-let-us-change-the-email-on-our-cursor-grok-bot-accoun/174007) - 機能リクエスト：停止されるかもしれない大学のアドレスで登録した卒業生から。現在はサポート経由でもログインメールを変更できず、唯一の回避策であるアカウント削除と作り直しでは、チャット履歴、設定、そしてメモリやルーチンを含むすべての Grok Bot を失ってしまう。
+- [Forum: Bots failed to respond and Reset failed on 8 Oct 2026](https://forum.cursor.com/t/grok-bot-reset-failed-computer-stuck-in-a-partial-state/174033) - スレッド：2026 年 10 月 8 日、0.68.1 の複数のユーザーで「Bot failed to respond」が出て、リセットも「Reset failed … may be in a partial state」で失敗。スタッフは Bot が返信しなくなったサーバー側の問題は同日に修正済み、リセットのエラーは別の短いサーバー障害で既に解消しており、リセットは不要と回答。
+- [Forum: "can't reach your computer" after the trial ended](https://forum.cursor.com/t/grok-bot-completely-unusable-recovery-and-reset-both-fail/174022) - 報告：macOS の Grok Bot が PC に接続できないと表示し、Recover も Reset も失敗。スタッフは、アカウントの 1 週間のトライアルが終わっていたためリクエストが開始前に拒否され、PC には何も変更がないと説明。接続エラー画面は誤解を招くとして追跡中で、Grok Bot を含むプランを選ぶか SuperGrok を連携するよう案内。
+- [Forum: Grok Bot's own host process filling the computer's memory](https://forum.cursor.com/t/memory-bleeding/174021) - 報告：Bot の PC でアプリ自身のホストプロセスが 10 月 7 日から 16 GB 中約 15 GB のメモリを占有し、コマンドが強制終了や停止し、更新は最新と表示。スタッフは確認し、数分前に保存されたスナップショットから戻せるリセットが解決策だと説明。新しい PC でも再発したためリークをチームに報告した。
+- [Forum: request to let Grok Bot use your local computer's screen](https://forum.cursor.com/t/local-computer-use-for-grok-bots/174043) - 機能リクエスト：Grok Bot がユーザー自身の Mac の画面を見てクリックや入力をできるようにしてほしい。スタッフは、現在画面操作は Bot のクラウド PC 上だけで、接続した Mac では承認のうえでコマンド実行とファイル移動ができると説明し、どのアプリやサインイン済みサイトを操作させたいかを尋ねた。
+- [Forum: request to export full chat transcripts](https://forum.cursor.com/t/export-chat-transcripts-in-the-app-and-from-the-bot-itself/174063) - 機能リクエスト：チャットを一字一句 Markdown や JSON で書き出したい。アプリのボタンで 1 つのチャットや期間を指定して保存するほか、Bot 自身が自分の PC のファイルに書き出してルーチンでバックアップできるようにしてほしい。今は Bot に履歴を読ませて写させるしかなく、トークンを多く使う。
+- [Forum: scheduled routines failed for everyone on 8 Oct 2026](https://forum.cursor.com/t/all-grok-bot-routines-failed-to-run/174125) - 2026-10-08 英国時間の昼頃から全てのスケジュール済みルーチンが遅延または Failed になったという多数の報告スレッド。運営は Grok Bot 側の高負荷が原因で、英国時間 21:00 頃から再び保留中、Bot への直接メッセージは影響なしと説明。
+- [Forum: one Bot stuck on "failed to respond" because of its chat history](https://forum.cursor.com/t/grok-bot-primary-bot-silent-bot-failed-to-respond-since-oct-8-other-bots-ok-restart-this-bots-runner-only-do-not-reset/174138) - 同じコンピュータの他の Bot は動くのにプライマリ Bot だけ返信しなくなった報告。運営によると、その Bot の会話履歴にあるセキュリティ関連の内容をモデル提供元の安全フィルタが検知し、履歴付きの返信が毎回拒否されていた。
+- [Forum: Bots sending a bare "." in 1:1 and team chats](https://forum.cursor.com/t/grok-bots-keep-typing-single-in-chat/174148) - Bot が通常の返信とは別に「.」だけを投稿するバグ報告（2026-10-09）。運営は本来黙るべき場面で Bot が送っており、グループチャットでは他の Bot を連鎖的に反応させると確認し、チームに報告。
+- [Forum: remote MCP header missing on reused sessions (HTTP 400)](https://forum.cursor.com/t/grok-bot-remote-mcp-requests-omit-mcp-protocol-version-on-reused-sessions-causing-empty-http-400/174114) - Grok Bot がリモート MCP セッションを再利用すると MCP-Protocol-Version ヘッダーを付けず、厳格なサーバーが空の HTTP 400 を返すという再現手順付きの開発者報告。運営が確認し、提案された修正をチームに共有。
 
 ## 関連リスト
 
@@ -2245,7 +2276,7 @@
 
 ## 貢献
 
-8 セクションに 2131 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2162 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

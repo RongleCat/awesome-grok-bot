@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2131-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2162-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,11 +38,11 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261112)
-- **United States**（16）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Greenville](./EVENTS.md#gsp-20261008) · [Boston](./EVENTS.md#bos-20261009) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Pasadena](./EVENTS.md#pas-20261008) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012) · [Atlanta (Job Night)](./EVENTS.md#atl-20261008) · [Chicago (pair build)](./EVENTS.md#chi-20261016) · [Indianapolis (Fishers)](./EVENTS.md#ind-20261112) · [Austin hackathon](./EVENTS.md#aus-20261019) · [New York (startup workshop)](./EVENTS.md#nyc-20261105) · [Chattanooga](./EVENTS.md#cha-20261216)
+- **United States**（14）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Boston](./EVENTS.md#bos-20261009) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012) · [Chicago (pair build)](./EVENTS.md#chi-20261016) · [Indianapolis (Fishers)](./EVENTS.md#ind-20261112) · [Austin hackathon](./EVENTS.md#aus-20261019) · [New York (startup workshop)](./EVENTS.md#nyc-20261105) · [Chattanooga](./EVENTS.md#cha-20261216) · [Urbana (UIUC workshop)](./EVENTS.md#urb-20261009)
 - **Germany**（6）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261120) · [Kassel](./EVENTS.md#kas-20261112) · [Frankfurt](./EVENTS.md#fra-20261030) · [Hamburg](./EVENTS.md#ham-20261028)
-- **Brazil**（4）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Salvador](./EVENTS.md#ssa-20261008) · [Florianópolis](./EVENTS.md#fln-20261016)
 - **Canada**（4）：[Toronto](./EVENTS.md#yyz-20261026) · [Calgary](./EVENTS.md#yyc-20261028) · [Halifax](./EVENTS.md#yhz-20261015) · [Ottawa](./EVENTS.md#yow-20261017)
 - **Italy**（4）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022) · [Bologna](./EVENTS.md#blq-20261012) · [Pavia](./EVENTS.md#pav-20261105)
+- **Brazil**（3）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20261016)
 - **South Korea**（3）：[Seoul](./EVENTS.md#sel-20261027) · [Seoul (13 Oct)](./EVENTS.md#sel-20261013) · [Seoul hackathon #4](./EVENTS.md#sel-20261024)
 - **Ecuador**（2）：[Ambato](./EVENTS.md#atu-20261029) · [Quito](./EVENTS.md#uio-20261021)
 - **Spain**（2）：[Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
@@ -53,6 +53,7 @@
 - **Peru**（2）：[Huancayo](./EVENTS.md#hyo-20261023) · [Lima (17 Oct)](./EVENTS.md#lim-20261017)
 - **Togo**（2）：[Lomé workshop](./EVENTS.md#lfw-20261017) · [Lomé build day](./EVENTS.md#lfw-20261114)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20261017)
+- **Argentina**（1）：[Bariloche (1st anniversary)](./EVENTS.md#brc-20261128)
 - **Austria**（1）：[Vienna](./EVENTS.md#vie-20261031)
 - **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20261031)
 - **Bulgaria**（1）：[Sofia](./EVENTS.md#sof-20261030)
@@ -63,18 +64,17 @@
 - **Finland**（1）：[Helsinki](./EVENTS.md#hel-20261027)
 - **Ghana**（1）：[Accra](./EVENTS.md#acc-20261017)
 - **Israel**（1）：[Tel Aviv](./EVENTS.md#tlv-20261019)
-- **Kenya**（1）：[Nairobi (Kenya Workshop)](./EVENTS.md#nbo-20261008)
 - **Cambodia**（1）：[Siem Reap](./EVENTS.md#srp-20261101)
 - **Sri Lanka**（1）：[Colombo](./EVENTS.md#cmb-20261017)
 - **Morocco**（1）：[Casablanca](./EVENTS.md#cas-20261017)
 - **Mexico**（1）：[Mexico City](./EVENTS.md#cdmx-20261009)
 - **Norway**（1）：[Oslo](./EVENTS.md#osl-20261016)
-- **New Zealand**（1）：[Auckland](./EVENTS.md#akl-20261008)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
 - **Sweden**（1）：[Stockholm](./EVENTS.md#sto-20261014)
+- **El Salvador**（1）：[San Salvador workshop](./EVENTS.md#sal-20261017)
 - **Trinidad and Tobago**（1）：[Port of Spain](./EVENTS.md#pos-20261030)
 - **Zambia**（1）：[Lusaka #2](./EVENTS.md#lun-20261031)
-- **Online**（6）：[Online (Goiânia)](./EVENTS.md#gyn-20261017) · [What's New webinar](./EVENTS.md#wng-20261008) · [Grok Bot 201 webinar](./EVENTS.md#g201-20261009) · [Sales webinar](./EVENTS.md#sales-20261013) · [Grok Bot + Cursor webinar](./EVENTS.md#scs-20261015) · [Financial services webinar](./EVENTS.md#fin-20261020)
+- **Online**（7）：[Online (Goiânia)](./EVENTS.md#gyn-20261017) · [Grok Bot 201 webinar](./EVENTS.md#g201-20261009) · [Sales webinar](./EVENTS.md#sales-20261013) · [Grok Bot + Cursor webinar](./EVENTS.md#scs-20261015) · [Financial services webinar](./EVENTS.md#fin-20261020) · [Admins webinar](./EVENTS.md#adm-20261021) · [What's New webinar (Oct 30)](./EVENTS.md#wng-20261030)
 
 ## Contents
 
@@ -216,6 +216,8 @@
 - [Cursor Admin API — Grok Bot endpoints](https://cursor.com/docs/account/teams/admin-api#grok-bot) - Cursor docs for the team Admin API's Grok Bot routes: enable or disable Grok Bot, read capabilities, and manage Enforce Auto-Review, group access, network policy, team rules, and setup scripts.
 - [Cursor Organization API — Grok Bot computers](https://cursor.com/docs/account/organizations/organization-admin-api#grok-bot-computers) - Enterprise-only Organization API routes (admin:* key) to recreate, terminate, or delete members' hosted Grok Bot computers in batches and poll each operation's per-member results.
 - [Which AI models power Grok Bot? (Cursor Help)](https://cursor.com/help/grok-bot/models) - Official Cursor Help page explaining that Grok Bot picks the backend model per request (a first-party xAI model or a third-party one from the sub-processor list), shows no model name or picker, bills it all as Grok Bot usage, says routing to Opus 5.5 does not burn limits faster, and is not governed by a team's Cursor model allowlist.
+- [Grok Bot for Performance Marketing (official guide)](https://x.ai/bot/guides/grok-bot-for-performance-marketing) - Official guide (2026-10-05) from the person running paid media for Grok Bot on how a team of Bots stood up the product's own ad program, from demand research, budget and channel mix to conversion tracking and reporting, with templates for its four bots Fuse, Tally, Leadsworth and Iris.
+- [Grok Bot for Founder-Led Sales (official guide)](https://x.ai/bot/guides/grok-bot-for-founder-led-sales) - Official guide (2026-10-06) by Simon Lackowski of the Grok for Startups program introducing Founder Mode, a setup pack with a chief-of-staff Bot, eight specialist Bots in four folders and 16 paused routines that covers ICP research, design-partner outreach, call prep, a first playbook and pipeline forecasting.
 
 ## Tutorials & Guides
 
@@ -531,6 +533,12 @@
 - [The 2026 Nobel Prizes explained by a team of Grok Bots](https://github.com/az9713/grokbots-nobel-2026-explainers) - Three interactive single-page explainers of the 2026 Physics, Medicine and Chemistry prizes built by a named agent team (researcher, domain writer, illustrator, frontend, tester and publisher, orchestrated by a Chief GrokBot), each folder keeping the research dossier, narrative, QA report and, for chemistry, the full team transcript.
 - [Gefühls-Journal — an encrypted mood-journal PWA built entirely by a Grok Bot team](https://github.com/Oliver19xx/gefuehlsjournal) - German offline journaling app whose planning, backlog, design, code, tests and deployment came from a team of Grok Bots (product owner, UX, UI, tester and developer) with only direction from a human; it uses a feelings wheel and writing prompts and keeps every entry AES-256-GCM encrypted on the device, optionally behind a PIN.
 - [Agent City — a 3D city of one user's Grok Bot assistants and their real work](https://github.com/brandocalricia/agent-city) - Public three.js city (live on GitHub Pages) where one user's AI assistants and 15 working roles such as Scout, Librarian, Council and Auditor show their real routines, saved skills, finds and activity log, grown by a Grok Bot about three sessions a day, with a review-and-apply feed for Grok Build and private email and calendar notes kept to the local copy.
+- [Grok Bot Showroom — WebGL toys built with Grok Bot](https://github.com/TheDreamersTop/grok-bot-showroom) - Bilingual (Traditional Chinese and English) showroom repo with one dated folder per project built together with Grok Bot, each with its own README, build reports and a live GitHub Pages demo, starting with a 262k-particle WebGL2 stellar forge and a brass-rod shadow sculpture you can redraw.
+- [grokbot-home — move a whole Grok Bot fleet to a new account](https://github.com/ZMGID/grokbot-home) - One user's public "home" repo for switching Grok Bot accounts: a Bot on the new account reads BOOTSTRAP.md, asks for a passphrase to decrypt the Composio key, installs tools, then recreates every other Bot from saved profiles, memories and routines with CreateAgent and writes what it learned back.
+- [Tavern — tabletop RPG in a group chat with three Grok Bots](https://github.com/anselmcmakin/tavern) - Beta Grok Bot template for playing a tabletop RPG in a group chat, where a DM Bot runs the game, a Cast Bot voices NPCs and foes and a Party Bot plays AI heroes alongside the humans; the DM installs the engine from a checksummed release itself.
+- [Prime Directive — a two-Bot coding team where only you merge](https://github.com/smfworks/prime-directive) - Playbook and two shared Grok Bot templates, Builder Prime and Gatekeeper Prime, for a coding team in which one Bot builds, the other reviews and nothing merges without the human's approval, with setup and how-it-works guides.
+- [Next Mission — Grok Bot template files for U.S. military transition](https://github.com/gabe-mobius/next-mission) - Shared files for the Next Mission Grok Bot template that helps U.S. service members who are retiring or separating, including a sourced master checklist by time to separation, state veteran benefits and scripts that check sourcing and build a personal deadline list.
+- [AI in Action for Medical Affairs — workshop site for using Grok Bot](https://github.com/Open-Medical-Affairs/AI-in-Action-Website) - Companion website for the AI in Action for Medical Affairs workshop (13–14 Oct 2026, Philadelphia) that explains in plain words how attendees can hand the free Open Medical Affairs libraries to a personal agent such as Grok Bot and review what it makes.
 
 ## Skills, Plugins & MCP
 
@@ -1210,6 +1218,15 @@
 - [Adspirer Social Ads — Meta and TikTok ads from Grok Bot](https://github.com/Adspirer/adspirer-social-ads-cursor-plugin) - Companion MIT plugin from Adspirer for Cursor and Grok Bot that connects its hosted social-ads MCP server over browser OAuth with 12 skills to analyze Meta and TikTok ad performance, spot creative fatigue and conversion problems, and create or tune campaigns only with your approval; also a new package pending Marketplace publication.
 - [FeedbackPulse plugin — HR survey and review answers for Grok Bot](https://github.com/FeedbackPulseApp/feedbackpulse-plugin) - MIT plugin from FeedbackPulse that installs from the Cursor Marketplace into Cursor and Grok Bot (with Grok Build and Claude Code manifests too) and bundles its hosted MCP server, 19 tools and skills, so a Bot signed in through OAuth can read employee survey results, eNPS, performance-review progress and recognition with the same access as your role.
 - [ostack — pstack fork with a Grok Bot to Claude Code bridge](https://github.com/hugo-hsi-dev/ostack) - MIT fork of poteto's pstack skill pack for Cursor, Claude Code, Codex and skills.sh that renames its modes and adds a claude-bridge skill, so a Grok Bot can fire a task at a Claude Code routine and get the answer back when Claude posts it to the Bot's webhook routine.
+- [Roberto plugin — report Bot work and ask for approvals in Roberto](https://github.com/RobertoAgent/roberto-agent-plugins) - Apache-2.0 plugins from Roberto, a personal AI agent, including a Cursor Marketplace package for Grok Bot that adds its hosted MCP server over OAuth and a roberto-inbox routine skill, so a Bot can report its work, ask the person questions and approvals answered in Roberto, and reply to messages from a Roberto room.
+- [LinkMCP — your LinkedIn account as tools for Grok Bot](https://github.com/linkmcp-io/linkmcp-cursor-plugin) - Configuration-only MIT plugin, installable from the Grok Bot Marketplace, that adds LinkMCP's hosted LinkedIn MCP server with browser sign-in so a Bot can research people and companies, search LinkedIn and Sales Navigator, read and answer messages, post and react, manage invitations and find work emails, with a 7-day free trial.
+- [JevGB — cheap task routing for Grok Bot with Grok Build handoffs](https://github.com/SuperfastSimon/jevgb) - Unofficial MIT Python CLI extended from grok-bot-jev that a Grok Bot calls before costly steps to pick an action such as a compact Grok Build handoff, cache reuse, duplicate-call skip, retry stop or capped research, works offline with a rule classifier, and logs a token ledger with a local dashboard that reports net savings honestly.
+- [Synorb plugin — source-cited world context for Grok Bot](https://github.com/Synorb/synorb-cursor-plugin) - Plugin for Cursor and Grok Bot that connects Synorb's hosted MCP server, so a Bot can search structured Streams about organizations, people and datasets, pull Manifests with source URLs and save Beacons to track them, with user approval before saving.
+- [freddy plugin — ask Grok Bot about your own wearable and health data](https://github.com/reThrive-Labs/freddy-plugin) - Plugin for Cursor and Grok Bot that adds the hosted freddy MCP server and three skills for connecting a health app or wearable, a weekly health review and long-term trends, signed in with OAuth and no API key.
+- [Salespeak Company Context plugin — answers about your own company](https://github.com/salespeak-ai/company-context-plugin) - Plugin for Cursor and Grok Bot that lets a Bot answer questions about your own company's product, pricing, security and customers from records kept in Salespeak, attaching the sources and asking you to choose when they disagree.
+- [Gable plugin — real-estate listings, buyers and offers for Grok Bot](https://github.com/getgable/gable-cursor-plugin) - Plugin for Cursor and Grok Bot that connects Gable's remote MCP server so a Bot can look up and update listings and buyers, log showings and feedback, record offers and conditions and complete tasks for a real-estate agent.
+- [ofershap/grok-bot-skills — community library of one-file skills](https://github.com/ofershap/grok-bot-skills) - Community library of about 18 ready-to-install Agent Skills for Grok Bots, each a single SKILL.md folder in the open Agent Skills format, with contribution guidelines for adding more.
+- [Sato Agent — give a Grok Bot its own onchain wallet](https://github.com/satohubai/sato-agent) - Kit a Grok Bot installs on its own computer from a BOT.md prompt to get a Base or Solana wallet, pay for APIs with x402, register an ERC-8004 identity and send USDC within spending limits its owner sets.
 
 ## Reviews & Comparisons
 
@@ -1235,6 +1252,7 @@
 - [grokbot.guru: Grok Bot's new Primary Bot offers to do work before you ask](https://grokbot.guru/primary-bot-proactive-suggestions/) - News write-up (Oct 2) on the Primary Bot rollout: one Bot spots work it can take off your plate, suggestions don't count against usage, and docs had not yet caught up.
 - [Top5Apps: Grok Bot review (Oct 2026)](https://top5apps.ai/best-ai-apps/best-personal-ai-agents/grok-bot/) - Review last updated on 5 Oct 2026 that rates Grok Bot 4.4/5 and best for recurring work handoffs, praising persistent named Bots, connectors and routines, while flagging the one computer shared by all Bots, the lack of a free tier and the still-undocumented Main Bot.
 - [Progressive Robot: Primary Bot and Grok 4.7 explained](https://www.progressiverobot.com/2026/10/02/primary-bot-grok-4-7-base-model-proactive-grok-bot/) - Analysis from 2 Oct 2026 of the new Primary Bot, which offers to take work off your plate and routes tasks to your other Bots, covering what "suggestions don't count against your usage" does and does not say, Grok 4.7 reaching the Grok apps the same evening, and a checklist before switching it on.
+- [The Next Web: Grok Bot will also use Claude, Midjourney and Suno models](https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk) - News report (2026-10-07) on Elon Musk's post that Grok Bot will pick the best backend model for each task, including Claude Opus 5.5, Midjourney and Suno, with context on the previous day's Grok access problems, shared Team Bots and rival agents such as Meta's Muse.
 
 ## Open-Source Alternatives
 
@@ -1634,6 +1652,10 @@
 - [grokbot-telegram-bridge — Telegram messages that wake Grok Bot through a webhook routine](https://github.com/mia-oc/grokbot-telegram-bridge) - MIT Node service with a local Telegram webhook listener, an on-disk spool and a stdio MCP server, so each new Telegram message wakes Grok Bot through a webhook routine instead of a cron poll, and the Bot replies with an editable progress message that mirrors its in-app status before posting the final answer.
 - [Agent Thread Bridge — link a Grok Bot chat to a specific Claude Code, Codex or Gemini thread](https://github.com/JonSnowInfinity/agent-thread-bridge) - MIT router and CLI that links one existing conversation on one agent to one on another and passes messages between them through official routes only, using a local mailbox and MCP the Bot itself runs for Grok Bot and the official CLIs or app server for Claude Code, Cursor, Codex, Gemini and Antigravity, with project overviews and on-demand audits.
 - [grokbot-bridge-plugin — connect Grok Bots to your web app over signed webhooks](https://github.com/imbavirus/grokbot-bridge-plugin) - MIT zero-dependency Node CLI plus a paste-in setup prompt that a Grok Bot runs from its own Shell to create a webhook routine, enroll with an app using a shared secret, receive its own token and @handle, and then exchange HMAC-signed messages with the app and other Bots in app-hosted group rooms, with the full HTTP protocol documented.
+- [jexmarc/grokbot-telegram — connect a Grok Bot to Telegram](https://github.com/jexmarc/grokbot-telegram) - Self-hosted bridge that connects a Grok Bot to Telegram direct chats and group mentions, deployable to Cloudflare Workers, Vercel or Node, with a paste-in prompt and a step-by-step setup skill the Bot follows itself.
+- [grokbot-desk — local approval windows for Grok Bot decisions](https://github.com/realspqrk/grokbot-desk) - Python desktop tool that pops up a local human-in-the-loop window when a Bot needs your decision: the Bot sends JSON, you review it in a calm UI, and the Bot reads your answer back as JSON; optimized for Grok Bot, Windows first with experimental macOS.
+- [grok-cursor-link — let Grok Bot see what you are doing in Cursor](https://github.com/ZAKOVAI/grok-cursor-link) - Local Cursor hooks plus a small CLI that let a Grok Bot with shell access to your Mac ask what you are working on in Cursor and see the active chat, project, agent status and last few turns without copy-paste.
+- [Grok Bot Daily — open-source weekday digest](https://github.com/andepants/grokbot-daily) - Open-source Next.js site and newsletter that collects a weekday digest of the most interesting things people build with Grok Bot from public X posts, with an archive, RSS feed and double opt-in email signup.
 
 ## Community & Failure Modes
 
@@ -1936,6 +1958,15 @@
 - [Forum: Grok Bot computers slowed by host load on 7 Oct 2026](https://forum.cursor.com/t/grok-bot-computer-very-slow-high-cpu-steal-and-i-o-stalls-wh/173995) - Report of an idle Bot Computer with load averages of 35 to 70, CPU steal up to 36% and I/O stalls that Update did not fix; staff confirmed it was not caused by anything on the computer and that since about 7 a.m. CT on 7 Oct 2026 many Grok Bot computers had been slowed by load on the underlying hosts, with the team working on it.
 - [Forum: chat pane turns black after switching chats](https://forum.cursor.com/t/grok-bot-chat-pane-goes-black-after-switching-chats-until-in/174005) - Bug report with a recording of the Grok Bot chat area going black after switching chats in the sidebar while the header and composer stay visible; staff confirmed the behavior, said the team is tracking it, and suggested Ctrl+A, scrolling or switching chats again to force a redraw for now.
 - [Forum: request to change the login email on a Cursor / Grok Bot account](https://forum.cursor.com/t/please-let-us-change-the-email-on-our-cursor-grok-bot-accoun/174007) - Feature request from a graduate who signed up with a university address that may be shut off: there is currently no way, even through support, to change the login email, and the only workaround of deleting the account and starting over would lose chat history, settings and every Grok Bot with its memory and routines.
+- [Forum: Bots failed to respond and Reset failed on 8 Oct 2026](https://forum.cursor.com/t/grok-bot-reset-failed-computer-stuck-in-a-partial-state/174033) - Thread where several users on 0.68.1 saw "Bot failed to respond" and then "Reset failed … may be in a partial state" on 8 Oct 2026; staff confirmed a server-side issue that stopped Bots replying was fixed the same day, that the reset error came from a separate brief server problem that has also cleared, and that no reset is needed.
+- [Forum: "can't reach your computer" after the trial ended](https://forum.cursor.com/t/grok-bot-completely-unusable-recovery-and-reset-both-fail/174022) - Report of Grok Bot on macOS saying it cannot reach the computer while Recover and Reset both fail; staff explained the account's one-week trial had ended, so requests were rejected before they started and nothing on the computer changed, called the connection error screen misleading and tracked, and pointed to choosing a plan or linking SuperGrok.
+- [Forum: Grok Bot's own host process filling the computer's memory](https://forum.cursor.com/t/memory-bleeding/174021) - Report that the app's host process on a Bot Computer held about 15 GB of 16 GB RAM from 7 Oct, so commands were killed or hung and Update said it was current; staff confirmed it, said Reset is the way out because it restores the last snapshot saved minutes before, and passed the leak to the team as it recurred on a fresh computer.
+- [Forum: request to let Grok Bot use your local computer's screen](https://forum.cursor.com/t/local-computer-use-for-grok-bots/174043) - Feature request for Grok Bot to see, click and type on the user's own Mac; staff replied that screen work currently happens only on the Bot's cloud computer, that on a connected Mac it can run commands and move files with approval, and asked which apps and signed-in sites people would want it to drive.
+- [Forum: request to export full chat transcripts](https://forum.cursor.com/t/export-chat-transcripts-in-the-app-and-from-the-bot-itself/174063) - Feature request for word-for-word chat export as Markdown or JSON, both from an app button for one chat or a date range and by the Bot itself to a file on its computer so backups can run as a routine, since having a Bot read and copy its history today uses many tokens.
+- [Forum: scheduled routines failed for everyone on 8 Oct 2026](https://forum.cursor.com/t/all-grok-bot-routines-failed-to-run/174125) - Thread with many users reporting that every scheduled routine was delayed or marked Failed from midday UK time on 8 Oct 2026; staff said it was very high load on Grok Bot's side, that routines were held back again after about 21:00 UK time, and that direct messages still worked.
+- [Forum: one Bot stuck on "failed to respond" because of its chat history](https://forum.cursor.com/t/grok-bot-primary-bot-silent-bot-failed-to-respond-since-oct-8-other-bots-ok-restart-this-bots-runner-only-do-not-reset/174138) - Report of a primary Bot that stopped replying while other Bots on the same computer worked; staff found the model provider's safety filter was flagging security-related content in that Bot's conversation history, so every reply sent with that history was refused.
+- [Forum: Bots sending a bare "." in 1:1 and team chats](https://forum.cursor.com/t/grok-bots-keep-typing-single-in-chat/174148) - Bug report (9 Oct 2026) that Bots post a single "." alongside normal replies; staff confirmed Bots were sending it when they should stay quiet, which sets off other Bots in group chats, and flagged it to the team.
+- [Forum: remote MCP header missing on reused sessions (HTTP 400)](https://forum.cursor.com/t/grok-bot-remote-mcp-requests-omit-mcp-protocol-version-on-reused-sessions-causing-empty-http-400/174114) - Developer report with a runnable reproduction that Grok Bot drops the MCP-Protocol-Version header when it reuses a remote MCP session, so strict servers return an empty HTTP 400; staff confirmed it and flagged the suggested fix.
 
 ## Related Lists
 
@@ -2245,7 +2276,7 @@
 
 ## Contributing
 
-2131 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2162 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
