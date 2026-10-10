@@ -24,9 +24,6 @@
 <a id="pgh-20261013"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/6lx5t8ru"><img src="./assets/events/pgh-20261013-cover.png" alt="Grok Bot Meetup Pittsburgh" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Pittsburgh</strong><br />2026-10-13（火）18:30–20:30（EDT）<br />ピッツバーグ · Oakland / Lawrenceville（登録後に住所を表示）<br /><br />ピッツバーグ初のシティ向け対面ミートアップ（キャンパス限定ではない）。短いデモの後にビルド／セットアップ共有。学生・社会人歓迎。主催 Micah Smith。無料・先着約30席。<br /><br /><a href="https://luma.com/6lx5t8ru"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="bos-20261009"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-zk6r"><img src="./assets/events/bos-20261009-cover.png" alt="Grok Bot Boston Hackathon" width="300" /></a></td><td valign="top"><strong>Grok Bot Boston Hackathon</strong><br />2026-10-09（金）09:00–15:00（America/New_York）<br />ボストン／ケンブリッジ · CambridgeSide — オフラインハッカソン<br /><br />ケンブリッジサイドの Grok Bot Boston Hackathon。対面で Grok Bot チームメイトとビルド。SpaceXAI Community 掲載。<br /><br /><a href="https://luma.com/spacexai-zk6r"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
 <a id="phl-20261027"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/cursor-c2mq"><img src="./assets/events/phl-20261027-cover.jpg" alt="Cursor Meetup フィラデルフィア — 10月" width="300" /></a></td><td valign="top"><strong>Cursor Meetup フィラデルフィア — 10月</strong><br />2026-10-27（火）18:00–20:30（America/New_York）<br />フィラデルフィア · SpaceXAI Philadelphia — オフライン<br /><br />SpaceXAI Community のフィラデルフィア 10 月 Cursor/Grok ミートアップ（9/29 に続く回）。Luma で登録。<br /><br /><a href="https://luma.com/cursor-c2mq"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
@@ -65,9 +62,6 @@
 
 <a id="country-de"></a>
 ### ドイツ
-
-<a id="cgn-20261009"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-cologne-meetup1"><img src="./assets/events/cgn-20261009-cover.png" alt="Grok Bot Meetup Cologne" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup Cologne</strong><br />2026-10-09（金）18:00–21:00（CEST）<br />ケルン（登録後に住所公開）<br /><br />ケルンの Grok Bot ミートアップ。交流・トーク／ワークショップ・実タスクでハンズオン（Windows／Mac ノートまたは iPhone、x.ai/bot を事前DL）。18:00 受付→18:30 デモ＆ハンズオン→20:00 雑談。追加スピーカー歓迎。主催 Emmanuel Ketcha、Eyad Kelleh、Babajide Mayowa Moibi、Teoman Köse。無料・承認制・約50席。<br /><br /><a href="https://luma.com/spacexai-cologne-meetup1"><strong>Luma で申し込む（主催者承認） →</strong></a></td></tr></table>
 
 <a id="str-20261015"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-z2er"><img src="./assets/events/str-20261015-cover.png" alt="Grok Bot Meetup シュトゥットガルト" width="300" /></a></td><td valign="top"><strong>Grok Bot Meetup シュトゥットガルト</strong><br />2026-10-15（木） 17:30–21:00（Europe/Berlin、UTC+2 / CEST）<br />ドイツ・シュトゥットガルト Epplestraße 225/haus 3, 70567 Stuttgart-Möhringen（オフライン、1階）<br /><br />シュトゥットガルト初の Grok Bot ミートアップ（Sachin Agrawal；AI collective Stuttgart / SpaceXAI ambassador）。夜の体験・デモ・交流。無料・承認制（残 84）。slug spacexai-z2er；フォーラム 171988。<br /><br /><a href="https://luma.com/spacexai-z2er"><strong>Luma で登録 →</strong></a></td></tr></table>
@@ -300,12 +294,6 @@
 <a id="cas-20261017"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-slxi"><img src="./assets/events/cas-20261017-cover.png" alt="Grok Bot Morocco Meetup（カサブランカ）" width="300" /></a></td><td valign="top"><strong>Grok Bot Morocco Meetup（カサブランカ）</strong><br />2026-10-17（金）11:00–15:00（Africa/Casablanca、UTC+1）<br />カサブランカ · LA GIRONDE 付近（RSVP 後に会場表示）— オフライン<br /><br />カサブランカの SpaceXAI Grok Bot Meetup。無料。朝スキャン guest_count 0。Luma spacexai-slxi。cas-20260919 とは別。<br /><br /><a href="https://luma.com/spacexai-slxi"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
-<a id="country-mx"></a>
-### メキシコ
-
-<a id="cdmx-20261009"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/spacexai-yfrs"><img src="./assets/events/cdmx-20261009-cover.png" alt="Grok Bot CDMX con SpaceXAI" width="300" /></a></td><td valign="top"><strong>Grok Bot CDMX con SpaceXAI</strong><br />2026-10-09（木）10:00–13:00（America/Mexico_City、CST、UTC-6）<br />メキシコシティ · Hipódromo Condesa（RSVP 後に会場表示）— オフライン<br /><br />CDMX の再 Meetup（SpaceXAI）。短いデモ中心。無料。朝スキャン guest_count 0。Luma spacexai-yfrs。cdmx-20260926 とは別。<br /><br /><a href="https://luma.com/spacexai-yfrs"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
 <a id="country-no"></a>
 ### ノルウェー
 
@@ -347,9 +335,6 @@
 
 <a id="gyn-20261017"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/y22dqtvt"><img src="./assets/events/gyn-20261017-cover.png" alt="Build with Grok Bot（オンライン）" width="300" /></a></td><td valign="top"><strong>Build with Grok Bot（オンライン）</strong><br />2026-10-17（土）10:00–12:00（America/Sao_Paulo）<br />オンライン — 開始前にリンク共有（ゴイアニア枠）<br /><br />Build with Grok Bot オンライン回（America/Sao_Paulo 掲載）。開始前にリンク共有。Luma 無料登録。<br /><br /><a href="https://luma.com/y22dqtvt"><strong>Luma で申し込む →</strong></a></td></tr></table>
-
-<a id="g201-20261009"></a>
-<table><tr><td width="320" valign="top"><a href="https://luma.com/oeurv6gf"><img src="./assets/events/g201-20261009-cover.png" alt="Grok Bot 201（ウェビナー）" width="300" /></a></td><td valign="top"><strong>Grok Bot 201（ウェビナー）</strong><br />2026-10-09（金）10:00–11:00（PDT、UTC−7）<br />Zoom · 無料 · 登録者に録画を送付<br /><br />既に Grok Bot を使っている人向け。SpaceXAI のシニアフィールドエンジニア Joseph Yang が、一度やって見せて Bot にスキルを覚えさせる方法、Slack メッセージやメールで自動的に動き出させる方法、最大 6 つの Bot を 1 つのスレッドに入れる方法、Bot をテンプレートとして共有する方法を紹介。<br /><br /><a href="https://luma.com/oeurv6gf"><strong>Luma で申し込む →</strong></a></td></tr></table>
 
 <a id="sales-20261013"></a>
 <table><tr><td width="320" valign="top"><a href="https://luma.com/5um2vpnc"><img src="./assets/events/sales-20261013-cover.png" alt="Grok Bot for Sales：1 か月でパイプライン 140% 増（ウェビナー）" width="300" /></a></td><td valign="top"><strong>Grok Bot for Sales：1 か月でパイプライン 140% 増（ウェビナー）</strong><br />2026-10-13（火）11:00–12:00（PDT、UTC−7）<br />Zoom · 無料 · 登録者に録画を送付<br /><br />SpaceXAI の Krista Letz と映像制作会社 Above the Line の創業者 Kevin Luke が、1 か月でパイプライン 140% 増・11 件のイベント受注を支えた Bot を紹介。見込み客調査、定期的なリード探しとメール下書き、RFP を 30 秒で詳細見積もりにする Bot。<br /><br /><a href="https://luma.com/5um2vpnc"><strong>Luma で申し込む →</strong></a></td></tr></table>

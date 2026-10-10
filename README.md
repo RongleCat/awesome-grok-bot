@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2162-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,8 +38,8 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261112)
-- **United States**（14）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Boston](./EVENTS.md#bos-20261009) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012) · [Chicago (pair build)](./EVENTS.md#chi-20261016) · [Indianapolis (Fishers)](./EVENTS.md#ind-20261112) · [Austin hackathon](./EVENTS.md#aus-20261019) · [New York (startup workshop)](./EVENTS.md#nyc-20261105) · [Chattanooga](./EVENTS.md#cha-20261216) · [Urbana (UIUC workshop)](./EVENTS.md#urb-20261009)
-- **Germany**（6）：[Cologne](./EVENTS.md#cgn-20261009) · [Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261120) · [Kassel](./EVENTS.md#kas-20261112) · [Frankfurt](./EVENTS.md#fra-20261030) · [Hamburg](./EVENTS.md#ham-20261028)
+- **United States**（13）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012) · [Chicago (pair build)](./EVENTS.md#chi-20261016) · [Indianapolis (Fishers)](./EVENTS.md#ind-20261112) · [Austin hackathon](./EVENTS.md#aus-20261019) · [New York (startup workshop)](./EVENTS.md#nyc-20261105) · [Chattanooga](./EVENTS.md#cha-20261216) · [Urbana (UIUC workshop)](./EVENTS.md#urb-20261009)
+- **Germany**（5）：[Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261120) · [Kassel](./EVENTS.md#kas-20261112) · [Frankfurt](./EVENTS.md#fra-20261030) · [Hamburg](./EVENTS.md#ham-20261028)
 - **Canada**（4）：[Toronto](./EVENTS.md#yyz-20261026) · [Calgary](./EVENTS.md#yyc-20261028) · [Halifax](./EVENTS.md#yhz-20261015) · [Ottawa](./EVENTS.md#yow-20261017)
 - **Italy**（4）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022) · [Bologna](./EVENTS.md#blq-20261012) · [Pavia](./EVENTS.md#pav-20261105)
 - **Brazil**（3）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20261016)
@@ -67,14 +67,13 @@
 - **Cambodia**（1）：[Siem Reap](./EVENTS.md#srp-20261101)
 - **Sri Lanka**（1）：[Colombo](./EVENTS.md#cmb-20261017)
 - **Morocco**（1）：[Casablanca](./EVENTS.md#cas-20261017)
-- **Mexico**（1）：[Mexico City](./EVENTS.md#cdmx-20261009)
 - **Norway**（1）：[Oslo](./EVENTS.md#osl-20261016)
 - **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
 - **Sweden**（1）：[Stockholm](./EVENTS.md#sto-20261014)
 - **El Salvador**（1）：[San Salvador workshop](./EVENTS.md#sal-20261017)
 - **Trinidad and Tobago**（1）：[Port of Spain](./EVENTS.md#pos-20261030)
 - **Zambia**（1）：[Lusaka #2](./EVENTS.md#lun-20261031)
-- **Online**（7）：[Online (Goiânia)](./EVENTS.md#gyn-20261017) · [Grok Bot 201 webinar](./EVENTS.md#g201-20261009) · [Sales webinar](./EVENTS.md#sales-20261013) · [Grok Bot + Cursor webinar](./EVENTS.md#scs-20261015) · [Financial services webinar](./EVENTS.md#fin-20261020) · [Admins webinar](./EVENTS.md#adm-20261021) · [What's New webinar (Oct 30)](./EVENTS.md#wng-20261030)
+- **Online**（6）：[Online (Goiânia)](./EVENTS.md#gyn-20261017) · [Sales webinar](./EVENTS.md#sales-20261013) · [Grok Bot + Cursor webinar](./EVENTS.md#scs-20261015) · [Financial services webinar](./EVENTS.md#fin-20261020) · [Admins webinar](./EVENTS.md#adm-20261021) · [What's New webinar (Oct 30)](./EVENTS.md#wng-20261030)
 
 ## Contents
 
@@ -218,6 +217,7 @@
 - [Which AI models power Grok Bot? (Cursor Help)](https://cursor.com/help/grok-bot/models) - Official Cursor Help page explaining that Grok Bot picks the backend model per request (a first-party xAI model or a third-party one from the sub-processor list), shows no model name or picker, bills it all as Grok Bot usage, says routing to Opus 5.5 does not burn limits faster, and is not governed by a team's Cursor model allowlist.
 - [Grok Bot for Performance Marketing (official guide)](https://x.ai/bot/guides/grok-bot-for-performance-marketing) - Official guide (2026-10-05) from the person running paid media for Grok Bot on how a team of Bots stood up the product's own ad program, from demand research, budget and channel mix to conversion tracking and reporting, with templates for its four bots Fuse, Tally, Leadsworth and Iris.
 - [Grok Bot for Founder-Led Sales (official guide)](https://x.ai/bot/guides/grok-bot-for-founder-led-sales) - Official guide (2026-10-06) by Simon Lackowski of the Grok for Startups program introducing Founder Mode, a setup pack with a chief-of-staff Bot, eight specialist Bots in four folders and 16 paused routines that covers ICP research, design-partner outreach, call prep, a first playbook and pipeline forecasting.
+- [Grok Bot now has its own email (@bot)](https://x.com/bot/status/2108609764766908772) - Official @bot announcement (2026-10-09): each Grok Bot can claim a @mail.grokbot.com inbox to sign up for services, contact businesses, or schedule time; ask your Bot or tag @bot on X, and team admins must enable it for their team.
 
 ## Tutorials & Guides
 
@@ -1227,6 +1227,11 @@
 - [Gable plugin — real-estate listings, buyers and offers for Grok Bot](https://github.com/getgable/gable-cursor-plugin) - Plugin for Cursor and Grok Bot that connects Gable's remote MCP server so a Bot can look up and update listings and buyers, log showings and feedback, record offers and conditions and complete tasks for a real-estate agent.
 - [ofershap/grok-bot-skills — community library of one-file skills](https://github.com/ofershap/grok-bot-skills) - Community library of about 18 ready-to-install Agent Skills for Grok Bots, each a single SKILL.md folder in the open Agent Skills format, with contribution guidelines for adding more.
 - [Sato Agent — give a Grok Bot its own onchain wallet](https://github.com/satohubai/sato-agent) - Kit a Grok Bot installs on its own computer from a BOT.md prompt to get a Base or Solana wallet, pay for APIs with x402, register an ERC-8004 identity and send USDC within spending limits its owner sets.
+- [SMF Works Grok Bot templates (Michael Gannotti)](https://github.com/smfworks/grok-bot-templates) - Catalog of published Grok Bot marketplace templates by Michael Gannotti / SMF Works (claim checker, AI daily radar, chief of staff, Builder/Gatekeeper Prime, first-week coach and more) with one-click Add links last verified logged-out on 9 Oct 2026.
+- [Outfield CRM plugin for Cursor / Grok Bot](https://github.com/outfieldco/outfield-plugin) - Official Outfield CRM MCP connector package for Cursor (Grok Bot marketplace verification pending) so a Bot can search accounts and people, review deals and goals, and log activity over OAuth Streamable HTTP with no pasted API key.
+- [Alexa agent bridge — talk to Grok Bot via Echo](https://github.com/eddielutte/alexa-agent-bridge) - Private Alexa skill your agent installs itself so you can ask questions on an Amazon Echo and hear the answer spoken back; end-to-end tested with Grok Bot in the UK, with signed releases and a setup skill.
+- [t3-lab-grok — delegate from Grok Bot to T3 Nightly](https://github.com/Ranvier-Technologies/t3-lab-grok) - Cursor plugin / MCP facade that keeps the parent chat in Cursor Agent, Grok Bot or Codex while launching durable work into official T3 Code Nightly environments, with verified checkouts and text-first status (not an official T3 product).
+- [universal-video-skills — model-agnostic video pack](https://github.com/svenkatreddy/universal-video-skills) - Vendor-neutral Agent Skills pack for video work (prompt craft, direction, storyboards, character consistency, dialogue/audio, assembly, adapters, QA) that installs into Grok Bot and other Agent Skills clients without locking to one generator.
 
 ## Reviews & Comparisons
 
@@ -1253,6 +1258,7 @@
 - [Top5Apps: Grok Bot review (Oct 2026)](https://top5apps.ai/best-ai-apps/best-personal-ai-agents/grok-bot/) - Review last updated on 5 Oct 2026 that rates Grok Bot 4.4/5 and best for recurring work handoffs, praising persistent named Bots, connectors and routines, while flagging the one computer shared by all Bots, the lack of a free tier and the still-undocumented Main Bot.
 - [Progressive Robot: Primary Bot and Grok 4.7 explained](https://www.progressiverobot.com/2026/10/02/primary-bot-grok-4-7-base-model-proactive-grok-bot/) - Analysis from 2 Oct 2026 of the new Primary Bot, which offers to take work off your plate and routes tasks to your other Bots, covering what "suggestions don't count against your usage" does and does not say, Grok 4.7 reaching the Grok apps the same evening, and a checklist before switching it on.
 - [The Next Web: Grok Bot will also use Claude, Midjourney and Suno models](https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk) - News report (2026-10-07) on Elon Musk's post that Grok Bot will pick the best backend model for each task, including Claude Opus 5.5, Midjourney and Suno, with context on the previous day's Grok access problems, shared Team Bots and rival agents such as Meta's Muse.
+- [9to5Mac: how to claim your Grok Bot email address](https://9to5mac.com/2026/10/09/grok-bot-just-got-its-own-email-address-heres-how-to-claim-yours/) - 9to5Mac walkthrough of SpaceXAI's Oct 9 rollout of per-Bot @mail.grokbot.com inboxes, including asking the Bot to claim a custom name and using it to sign up for services or schedule meetings.
 
 ## Open-Source Alternatives
 
@@ -1656,6 +1662,11 @@
 - [grokbot-desk — local approval windows for Grok Bot decisions](https://github.com/realspqrk/grokbot-desk) - Python desktop tool that pops up a local human-in-the-loop window when a Bot needs your decision: the Bot sends JSON, you review it in a calm UI, and the Bot reads your answer back as JSON; optimized for Grok Bot, Windows first with experimental macOS.
 - [grok-cursor-link — let Grok Bot see what you are doing in Cursor](https://github.com/ZAKOVAI/grok-cursor-link) - Local Cursor hooks plus a small CLI that let a Grok Bot with shell access to your Mac ask what you are working on in Cursor and see the active chat, project, agent status and last few turns without copy-paste.
 - [Grok Bot Daily — open-source weekday digest](https://github.com/andepants/grokbot-daily) - Open-source Next.js site and newsletter that collects a weekday digest of the most interesting things people build with Grok Bot from public X posts, with an archive, RSS feed and double opt-in email signup.
+- [grokbot-agent-bots — coding-agent crew for Grok Bot](https://github.com/reichenbach/grokbot-agent-bots) - Setup that lets a lead Grok Bot spin up teammate Bots for Claude Code, Codex, Gemini or local CLIs on your own machines: they branch, code and report back while you stay the approval gate for push, merge and deploys.
+- [omarchy-grokbot-usage — Omarchy bar quota widget](https://github.com/songlairui/omarchy-grokbot-usage) - Omarchy (Quickshell) bar widget that shows Grok Bot weekly remaining quota with pace colours plus a popup of remaining-vs-pace charts for Grok Bot and Cursor included usage.
+- [calico — desktop kit for grokbot-buddy ESP32 panel](https://github.com/newtosh/calico) - Linux-first Electron companion, ESP32-S3 firmware and Grok Bot webhook kit for the grokbot-buddy desk panel that shows what your agents are doing, with tray app, USB/BLE setup and signed AppImage releases.
+- [spum-pipeline — agent orchestration for Cursor / Grok Bots](https://github.com/Spumcake/spum-pipeline) - Cursor agents, rules and skills that take a software idea from a short brief through specification, design and incremental implementation with a coordinator that splits work into small owned tasks, usable from Cursor IDE and Grok Bots.
+- [freetoken-bots — OpenCode Free models on Grok Bot box](https://github.com/derekwalldevin-wen/freetoken-bots) - Scripts and docs to run OpenCode Free zero-price models on a Grok Bot cloud computer (local opencode serve, daily radar scan, assistant diversion) without auto-switching to paid models.
 
 ## Community & Failure Modes
 
@@ -1967,6 +1978,12 @@
 - [Forum: one Bot stuck on "failed to respond" because of its chat history](https://forum.cursor.com/t/grok-bot-primary-bot-silent-bot-failed-to-respond-since-oct-8-other-bots-ok-restart-this-bots-runner-only-do-not-reset/174138) - Report of a primary Bot that stopped replying while other Bots on the same computer worked; staff found the model provider's safety filter was flagging security-related content in that Bot's conversation history, so every reply sent with that history was refused.
 - [Forum: Bots sending a bare "." in 1:1 and team chats](https://forum.cursor.com/t/grok-bots-keep-typing-single-in-chat/174148) - Bug report (9 Oct 2026) that Bots post a single "." alongside normal replies; staff confirmed Bots were sending it when they should stay quiet, which sets off other Bots in group chats, and flagged it to the team.
 - [Forum: remote MCP header missing on reused sessions (HTTP 400)](https://forum.cursor.com/t/grok-bot-remote-mcp-requests-omit-mcp-protocol-version-on-reused-sessions-causing-empty-http-400/174114) - Developer report with a runnable reproduction that Grok Bot drops the MCP-Protocol-Version header when it reuses a remote MCP session, so strict servers return an empty HTTP 400; staff confirmed it and flagged the suggested fix.
+- [Forum: UpdateRoutine rejects email trigger on claimed inbox](https://forum.cursor.com/t/grok-bot-updateroutine-rejects-email-trigger-even-with-valid-inbox-address/174234) - Report that ClaimEmailInbox succeeds for a @mail.grokbot.com address but UpdateRoutine with an email trigger on that inbox fails validation with “Not a valid trigger,” blocking email-triggered routines on the new Bot mail feature.
+- [Forum: macOS local computer stays disconnected until app focused](https://forum.cursor.com/t/grok-bot-0-68-1-macos-mac-shows-disconnected-while-awake-and-in-use-local-computer-doesnt-reconnect-until-app-is-focused/174223) - Bug on Grok Bot 0.68.1 (macOS) where the Mac computer link shows disconnected for long stretches while the machine is awake and in use; Shell from Bots fails until the Grok Bot app is focused, and staff called it a known resource-saving issue under investigation.
+- [Forum: Enterprise — can admins block members creating bots?](https://forum.cursor.com/t/grok-bot-enterprise-can-admins-prevent-users-from-creating-their-own-bots/174226) - Enterprise evaluation question asking whether admins can stop members from creating their own bots and only allow published Team Bots; no built-in setting was found in the docs the asker checked.
+- [Forum: bots error out on scientific literature review](https://forum.cursor.com/t/grok-bot-bots-error-out-and-stop-responding-whenever-i-ask-for-a-scientific-literature-review-reset-didnt-help/174218) - Bug report that asking any Bot for a scientific literature review causes errors and a stop responding state across the original Bot, replacements and the primary Bot; Reset did not help.
+- [Forum: no way to view or export shared user memory](https://forum.cursor.com/t/grok-bot-no-way-to-view-or-export-shared-user-memory-unlike-grok-chats-memory-md/174198) - Feature request for a way to view or export Grok Bot's shared user memory (facts every Bot can read/write) the way Grok Chat exposes MEMORY.md; staff merged related posts into a desktop+iOS Memory Management thread.
+- [Forum: computer stuck starting up after Oct 8; Reset blocked](https://forum.cursor.com/t/grok-bot-computer-stuck-starting-up-update-reset-blocked-please-recover-server-side/174158) - Report that a Grok Bot computer stayed on “still starting up” from the evening of 8 Oct 2026 so every Shell/file/browser call failed, while Update/Reset stayed blocked and the user asked for server-side recovery.
 
 ## Related Lists
 
@@ -2273,10 +2290,13 @@
 - [Nest — open-source colony of always-on agents for a one-person content business](https://github.com/arjav1181/nest) - MIT, local-first beta that calls itself an open-source answer to Grok Bot: a Next.js web app and FastAPI control plane for a team of persistent agents (researcher, writer, editor, clipper, publisher, analyst, bookkeeper) with an approvals inbox for risky actions, running on Hermes Agent when installed and a demo loop otherwise.
 - [Rare Tomato — one shared rule list for Grok Bot and other agents over MCP](https://github.com/liajomartinez/rare-tomato) - Early, work-in-progress Apache-2.0 app that keeps one master list of your rules and preferences and serves it over MCP to agents such as Claude, ChatGPT, Grok Bot and Muse, turning thumbs-down feedback into drafted rules and letting connected agents log what they did.
 - [Grok Bot Wiki extension for Gemini CLI](https://github.com/SeleemS/grokbotwiki-gemini-extension) - MIT Gemini CLI extension for the independent Grok Bot Wiki that connects its read-only MCP service and adds commands to find community Bot templates and look up source-linked troubleshooting guides, without running a Bot or touching an account, and notes that template listings are not tested Bot runs.
+- [CogineBot — open-source Grok Bot-style runtime (WIP)](https://github.com/cogine-ai/CogineBot) - Independently maintained open-source fork based on Rakazo for persistent bots, shared APIs and web/desktop/mobile clients; still in repository-preparation stage with no hosted service or installer yet.
+- [Orgbots — self-hosted AI employees with their own screen](https://github.com/Vishnu-KV-S/orgbots) - Open-source platform for autonomous AI employees on your own infrastructure, each with a screen on a shared cloud computer, durable runs, approvals and an audit trail — positioned as a self-hosted alternative to Grok Bot, Dots and Muse.
+- [Kith — open-source personal AI teammate with memory](https://github.com/drewsephski/kith) - Open-source personal AI teammate (web, desktop, mobile) with lasting memory, tools and routines you can self-host; described by its author as a Grok Bot / Muse / Dots alternative still in beta.
 
 ## Contributing
 
-2162 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2183 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

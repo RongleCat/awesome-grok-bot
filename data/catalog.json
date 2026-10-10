@@ -1,6 +1,6 @@
 {
   "name": "awesome-grok-bot",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "product": {
     "en": "Grok Bot is the always-on AI teammate launched 2026-08-11 by xAI/SpaceXAI with Cursor. Each Bot shares one persistent cloud computer (browser, files, terminal) and keeps working after you close the laptop. It is not grok.com chat, Grok Imagine, or a Grok 4.x model writeup.",
     "zh": "Grok Bot 是 2026-08-11 由 xAI/SpaceXAI 与 Cursor 上线的 always-on 云电脑队友。每个 Bot 共享一台持久云电脑（浏览器、文件、终端），合上笔记本也不停。它不是 grok.com 聊天、Grok Imagine，也不是 Grok 4.x 模型评测。",
@@ -1293,6 +1293,16 @@
             "en": "Official guide (2026-10-06) by Simon Lackowski of the Grok for Startups program introducing Founder Mode, a setup pack with a chief-of-staff Bot, eight specialist Bots in four folders and 16 paused routines that covers ICP research, design-partner outreach, call prep, a first playbook and pipeline forecasting.",
             "zh": "官方指南（2026-10-06）：Grok for Startups 项目的 Simon Lackowski 介绍 Founder Mode 配置包，包含一个幕僚长 Bot、分在四个文件夹里的八个专职 Bot 和 16 个默认暂停的例程，覆盖 ICP 调研、设计伙伴外联、会前准备、第一份销售手册和管道预测。",
             "ja": "公式ガイド（2026-10-06）：Grok for Startups プログラムの Simon Lackowski が、チーフ・オブ・スタッフ Bot、4 つのフォルダに分けた 8 つの専門 Bot、一時停止状態の 16 のルーチンからなる Founder Mode パックを紹介。ICP 調査、デザインパートナーへのアプローチ、商談準備、最初のプレイブック、パイプライン予測までをカバー。"
+          }
+        },
+        {
+          "title": "Grok Bot now has its own email (@bot)",
+          "url": "https://x.com/bot/status/2108609764766908772",
+          "source": "GB-2187",
+          "blurb": {
+            "en": "Official @bot announcement (2026-10-09): each Grok Bot can claim a @mail.grokbot.com inbox to sign up for services, contact businesses, or schedule time; ask your Bot or tag @bot on X, and team admins must enable it for their team.",
+            "zh": "官方 @bot 公告（2026-10-09）：每个 Grok Bot 可领取 @mail.grokbot.com 邮箱，用来注册服务、联系商家或约时间；向 Bot 提问或在 X 上 @bot 即可，团队管理员需为团队开启。",
+            "ja": "公式 @bot 発表（2026-10-09）：各 Grok Bot が @mail.grokbot.com の受信箱を取得でき、サービス登録・事業者連絡・予定調整に使える。Bot に頼むか X で @bot。チームでは管理者が有効化が必要。"
           }
         }
       ]
@@ -11324,6 +11334,56 @@
             "zh": "让 Grok Bot 按 BOT.md 指令在自己的电脑上安装的工具包：创建 Base 或 Solana 钱包、用 x402 为 API 付费、注册 ERC-8004 身份，并在主人设定的额度内发送 USDC。",
             "ja": "Grok Bot が BOT.md の指示に従って自分のコンピュータに入れるキット。Base または Solana のウォレット作成、x402 での API 支払い、ERC-8004 アイデンティティ登録、オーナーが決めた上限内での USDC 送金ができる。"
           }
+        },
+        {
+          "title": "SMF Works Grok Bot templates (Michael Gannotti)",
+          "url": "https://github.com/smfworks/grok-bot-templates",
+          "source": "GB-2189",
+          "blurb": {
+            "en": "Catalog of published Grok Bot marketplace templates by Michael Gannotti / SMF Works (claim checker, AI daily radar, chief of staff, Builder/Gatekeeper Prime, first-week coach and more) with one-click Add links last verified logged-out on 9 Oct 2026.",
+            "zh": "Michael Gannotti / SMF Works 发布的 Grok Bot 模板目录（声明核查、AI 早报、参谋长、Builder/Gatekeeper Prime、新手第一周教练等），附一键添加链接，2026-10-09 未登录验证仍可用。",
+            "ja": "Michael Gannotti / SMF Works の公開 Grok Bot テンプレート一覧（クレーム検証、AI 朝刊、チーフ・オブ・スタッフ、Builder/Gatekeeper Prime、初週コーチなど）。ワンクリック追加リンク付きで、2026-10-09 にログアウト状態で確認。"
+          }
+        },
+        {
+          "title": "Outfield CRM plugin for Cursor / Grok Bot",
+          "url": "https://github.com/outfieldco/outfield-plugin",
+          "source": "GB-2190",
+          "blurb": {
+            "en": "Official Outfield CRM MCP connector package for Cursor (Grok Bot marketplace verification pending) so a Bot can search accounts and people, review deals and goals, and log activity over OAuth Streamable HTTP with no pasted API key.",
+            "zh": "Outfield CRM 的官方 MCP 连接包（面向 Cursor；Grok Bot 商店审核待完成）：Bot 可用 OAuth 的 Streamable HTTP 搜索客户与联系人、查看交易与目标并记录活动，无需粘贴 API Key。",
+            "ja": "Outfield CRM の公式 MCP コネクタ（Cursor 向け；Grok Bot マーケット確認は未了）。OAuth の Streamable HTTP でアカウントや人物の検索、案件・目標の確認、活動の記録ができ、API キーの貼り付けは不要。"
+          }
+        },
+        {
+          "title": "Alexa agent bridge — talk to Grok Bot via Echo",
+          "url": "https://github.com/eddielutte/alexa-agent-bridge",
+          "source": "GB-2191",
+          "blurb": {
+            "en": "Private Alexa skill your agent installs itself so you can ask questions on an Amazon Echo and hear the answer spoken back; end-to-end tested with Grok Bot in the UK, with signed releases and a setup skill.",
+            "zh": "由智能体自行安装的私有 Alexa skill：在 Amazon Echo 上提问，答案会语音播回；已在英国用 Grok Bot 端到端验证，带签名发布与安装技能。",
+            "ja": "エージェント自身が入れるプライベート Alexa スキル。Amazon Echo で質問し、答えを音声で返す。英国で Grok Bot による E2E 検証済みで、署名付きリリースとセットアップスキル付き。"
+          }
+        },
+        {
+          "title": "t3-lab-grok — delegate from Grok Bot to T3 Nightly",
+          "url": "https://github.com/Ranvier-Technologies/t3-lab-grok",
+          "source": "GB-2192",
+          "blurb": {
+            "en": "Cursor plugin / MCP facade that keeps the parent chat in Cursor Agent, Grok Bot or Codex while launching durable work into official T3 Code Nightly environments, with verified checkouts and text-first status (not an official T3 product).",
+            "zh": "Cursor 插件 / MCP 门面：父对话留在 Cursor Agent、Grok Bot 或 Codex，把持久任务派到官方 T3 Code Nightly 环境，带校验 checkout 与纯文本状态（非官方 T3 产品）。",
+            "ja": "Cursor プラグイン / MCP ファサード。親チャットは Cursor Agent・Grok Bot・Codex のまま、公式 T3 Code Nightly 環境へ耐久ジョブを起動し、検証済み checkout とテキスト優先の状態を返す（非公式 T3 製品）。"
+          }
+        },
+        {
+          "title": "universal-video-skills — model-agnostic video pack",
+          "url": "https://github.com/svenkatreddy/universal-video-skills",
+          "source": "GB-2193",
+          "blurb": {
+            "en": "Vendor-neutral Agent Skills pack for video work (prompt craft, direction, storyboards, character consistency, dialogue/audio, assembly, adapters, QA) that installs into Grok Bot and other Agent Skills clients without locking to one generator.",
+            "zh": "面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。",
+            "ja": "動画向けのベンダー中立 Agent Skills パック（プロンプト、演出、絵コンテ、キャラ一貫性、台詞/音声、組み立て、アダプタ、QA）。Grok Bot など Agent Skills 対応クライアントに入れられ、特定ジェネレータに縛られない。"
+          }
         }
       ]
     },
@@ -11563,6 +11623,16 @@
             "en": "News report (2026-10-07) on Elon Musk's post that Grok Bot will pick the best backend model for each task, including Claude Opus 5.5, Midjourney and Suno, with context on the previous day's Grok access problems, shared Team Bots and rival agents such as Meta's Muse.",
             "zh": "新闻报道（2026-10-07）：马斯克发帖称 Grok Bot 今后会按任务选用最合适的后端模型，包括 Claude Opus 5.5、Midjourney 和 Suno；文中还提到前一天 Grok 的访问故障、可共享的 Team Bot，以及 Meta Muse 等竞品。",
             "ja": "ニュース記事（2026-10-07）：Grok Bot がタスクごとに Claude Opus 5.5、Midjourney、Suno を含む最適なバックエンドモデルを使うというイーロン・マスクの投稿を報道。前日の Grok の接続障害、共有できる Team Bot、Meta の Muse など競合の動きにも触れている。"
+          }
+        },
+        {
+          "title": "9to5Mac: how to claim your Grok Bot email address",
+          "url": "https://9to5mac.com/2026/10/09/grok-bot-just-got-its-own-email-address-heres-how-to-claim-yours/",
+          "source": "GB-2188",
+          "blurb": {
+            "en": "9to5Mac walkthrough of SpaceXAI's Oct 9 rollout of per-Bot @mail.grokbot.com inboxes, including asking the Bot to claim a custom name and using it to sign up for services or schedule meetings.",
+            "zh": "9to5Mac 介绍 SpaceXAI 于 10 月 9 日推出的每 Bot 一个 @mail.grokbot.com 邮箱：可让 Bot 领取自定义名字，用来注册服务或安排会面。",
+            "ja": "9to5Mac が SpaceXAI の 10 月 9 日ロールアウトを解説。Bot ごとに @mail.grokbot.com を取得し、カスタム名の請求やサービス登録・打ち合わせに使える。"
           }
         }
       ]
@@ -15574,6 +15644,56 @@
             "zh": "开源的 Next.js 网站和邮件简报，每个工作日从公开的 X 帖子里挑出大家用 Grok Bot 做的有趣东西，带归档、RSS 和双重确认的邮件订阅。",
             "ja": "公開 X 投稿から Grok Bot で作られた面白いものを平日ごとにまとめるオープンソースの Next.js サイト兼ニュースレター。アーカイブ、RSS、ダブルオプトインのメール登録付き。"
           }
+        },
+        {
+          "title": "grokbot-agent-bots — coding-agent crew for Grok Bot",
+          "url": "https://github.com/reichenbach/grokbot-agent-bots",
+          "source": "GB-2194",
+          "blurb": {
+            "en": "Setup that lets a lead Grok Bot spin up teammate Bots for Claude Code, Codex, Gemini or local CLIs on your own machines: they branch, code and report back while you stay the approval gate for push, merge and deploys.",
+            "zh": "让主 Grok Bot 在你自己的电脑上为 Claude Code、Codex、Gemini 或本地 CLI 拉起队友 Bot：它们建分支、写代码并汇报，推送、合并和部署仍由你批准。",
+            "ja": "主 Grok Bot が自分のマシン上で Claude Code・Codex・Gemini・ローカル CLI 向けの相棒 Bot を立てる仕組み。ブランチ作成・実装・報告は Bot、push・merge・デプロイは人間が承認。"
+          }
+        },
+        {
+          "title": "omarchy-grokbot-usage — Omarchy bar quota widget",
+          "url": "https://github.com/songlairui/omarchy-grokbot-usage",
+          "source": "GB-2195",
+          "blurb": {
+            "en": "Omarchy (Quickshell) bar widget that shows Grok Bot weekly remaining quota with pace colours plus a popup of remaining-vs-pace charts for Grok Bot and Cursor included usage.",
+            "zh": "Omarchy（Quickshell）状态栏小组件：显示 Grok Bot 本周剩余额度与消耗节奏配色，弹窗里还有 Grok Bot 与 Cursor 计入用量的剩余-节奏曲线。",
+            "ja": "Omarchy（Quickshell）バーウィジェット。Grok Bot の週次残量をペース色で表示し、ポップアップで Grok Bot と Cursor 込み利用量の残量対ペースチャートを出す。"
+          }
+        },
+        {
+          "title": "calico — desktop kit for grokbot-buddy ESP32 panel",
+          "url": "https://github.com/newtosh/calico",
+          "source": "GB-2196",
+          "blurb": {
+            "en": "Linux-first Electron companion, ESP32-S3 firmware and Grok Bot webhook kit for the grokbot-buddy desk panel that shows what your agents are doing, with tray app, USB/BLE setup and signed AppImage releases.",
+            "zh": "面向 Linux 的 Electron 伴侣应用、ESP32-S3 固件与 Grok Bot webhook 套件，驱动 grokbot-buddy 桌面屏显示智能体动态；含托盘应用、USB/BLE 配网与签名 AppImage 发布。",
+            "ja": "Linux 優先の Electron コンパニオン、ESP32-S3 ファーム、Grok Bot webhook キット。grokbot-buddy デスクパネルにエージェントの様子を表示。トレイアプリ、USB/BLE 設定、署名付き AppImage 付き。"
+          }
+        },
+        {
+          "title": "spum-pipeline — agent orchestration for Cursor / Grok Bots",
+          "url": "https://github.com/Spumcake/spum-pipeline",
+          "source": "GB-2197",
+          "blurb": {
+            "en": "Cursor agents, rules and skills that take a software idea from a short brief through specification, design and incremental implementation with a coordinator that splits work into small owned tasks, usable from Cursor IDE and Grok Bots.",
+            "zh": "一套 Cursor agents/rules/skills：用协调者把软件点子从简短 brief 拆到规格、设计与增量实现，任务小、有明确负责人；可用于 Cursor IDE 与 Grok Bot。",
+            "ja": "短いブリーフから仕様・設計・段階実装まで進める Cursor の agents/rules/skills。コーディネータが小さな担当タスクに分割。Cursor IDE と Grok Bot で利用可能。"
+          }
+        },
+        {
+          "title": "freetoken-bots — OpenCode Free models on Grok Bot box",
+          "url": "https://github.com/derekwalldevin-wen/freetoken-bots",
+          "source": "GB-2198",
+          "blurb": {
+            "en": "Scripts and docs to run OpenCode Free zero-price models on a Grok Bot cloud computer (local opencode serve, daily radar scan, assistant diversion) without auto-switching to paid models.",
+            "zh": "在 Grok Bot 云电脑上接入 OpenCode Free 零价模型的脚本与文档（本机 opencode serve、每日雷达扫描、助手分流），不会自动切到付费模型。",
+            "ja": "Grok Bot クラウドコンピュータで OpenCode Free のゼロ価格モデルを使うスクリプトと文書（ローカル opencode serve、毎日のレーダー、アシスタント分流）。有料への自動切替なし。"
+          }
         }
       ]
     },
@@ -18664,6 +18784,66 @@
             "zh": "开发者附可运行复现的报告：Grok Bot 复用远程 MCP 会话时没有带上 MCP-Protocol-Version 请求头，严格的服务端会返回空的 HTTP 400；官方已确认并转交建议的修复。",
             "ja": "Grok Bot がリモート MCP セッションを再利用すると MCP-Protocol-Version ヘッダーを付けず、厳格なサーバーが空の HTTP 400 を返すという再現手順付きの開発者報告。運営が確認し、提案された修正をチームに共有。"
           }
+        },
+        {
+          "title": "Forum: UpdateRoutine rejects email trigger on claimed inbox",
+          "url": "https://forum.cursor.com/t/grok-bot-updateroutine-rejects-email-trigger-even-with-valid-inbox-address/174234",
+          "source": "GB-2202",
+          "blurb": {
+            "en": "Report that ClaimEmailInbox succeeds for a @mail.grokbot.com address but UpdateRoutine with an email trigger on that inbox fails validation with “Not a valid trigger,” blocking email-triggered routines on the new Bot mail feature.",
+            "zh": "反馈：ClaimEmailInbox 能为 @mail.grokbot.com 领取成功，但对同一收件箱用 email 触发器调用 UpdateRoutine 会校验失败（Not a valid trigger），新邮件功能下无法建邮件触发例程。",
+            "ja": "ClaimEmailInbox で @mail.grokbot.com は取れるのに、その受信箱への email トリガで UpdateRoutine すると “Not a valid trigger” で弾かれ、新メール機能でメール起動ルーチンが作れないという報告。"
+          }
+        },
+        {
+          "title": "Forum: macOS local computer stays disconnected until app focused",
+          "url": "https://forum.cursor.com/t/grok-bot-0-68-1-macos-mac-shows-disconnected-while-awake-and-in-use-local-computer-doesnt-reconnect-until-app-is-focused/174223",
+          "source": "GB-2203",
+          "blurb": {
+            "en": "Bug on Grok Bot 0.68.1 (macOS) where the Mac computer link shows disconnected for long stretches while the machine is awake and in use; Shell from Bots fails until the Grok Bot app is focused, and staff called it a known resource-saving issue under investigation.",
+            "zh": "Grok Bot 0.68.1（macOS）下本机电脑链路在 Mac 醒着且正在使用时仍长时间显示断开，Bot 的 Shell 失败，直到把 Grok Bot 应用到前台；官方称是已知的省资源问题并在跟进。",
+            "ja": "Grok Bot 0.68.1（macOS）で、Mac が起動中・使用中なのにローカルコンピュータが長時間 disconnected と出る。Bot の Shell はアプリを前面にするまで失敗。運営は省リソースの既知問題として調査中と回答。"
+          }
+        },
+        {
+          "title": "Forum: Enterprise — can admins block members creating bots?",
+          "url": "https://forum.cursor.com/t/grok-bot-enterprise-can-admins-prevent-users-from-creating-their-own-bots/174226",
+          "source": "GB-2204",
+          "blurb": {
+            "en": "Enterprise evaluation question asking whether admins can stop members from creating their own bots and only allow published Team Bots; no built-in setting was found in the docs the asker checked.",
+            "zh": "企业版评估提问：管理员能否禁止成员自建 Bot、只允许使用已发布的 Team Bots；提问者在文档里没找到对应开关。",
+            "ja": "Enterprise 評価の質問。管理者がメンバーの Bot 自作を禁止し、公開済み Team Bots だけ使わせられるか。質問者は文書に該当設定を見つけられなかった。"
+          }
+        },
+        {
+          "title": "Forum: bots error out on scientific literature review",
+          "url": "https://forum.cursor.com/t/grok-bot-bots-error-out-and-stop-responding-whenever-i-ask-for-a-scientific-literature-review-reset-didnt-help/174218",
+          "source": "GB-2205",
+          "blurb": {
+            "en": "Bug report that asking any Bot for a scientific literature review causes errors and a stop responding state across the original Bot, replacements and the primary Bot; Reset did not help.",
+            "zh": "反馈：让任一 Bot 做科学文献综述时会报错并停止响应，原 Bot、重建的 Bot 和主 Bot 都如此，Reset 无效。",
+            "ja": "科学文献レビューを頼むと Bot がエラーで応答停止する報告。元の Bot・作り直した Bot・プライマリ Bot いずれでも起き、Reset でも直らない。"
+          }
+        },
+        {
+          "title": "Forum: no way to view or export shared user memory",
+          "url": "https://forum.cursor.com/t/grok-bot-no-way-to-view-or-export-shared-user-memory-unlike-grok-chats-memory-md/174198",
+          "source": "GB-2206",
+          "blurb": {
+            "en": "Feature request for a way to view or export Grok Bot's shared user memory (facts every Bot can read/write) the way Grok Chat exposes MEMORY.md; staff merged related posts into a desktop+iOS Memory Management thread.",
+            "zh": "功能请求：希望能像 Grok Chat 的 MEMORY.md 那样查看或导出 Grok Bot 的共享用户记忆（各 Bot 可读可写的事实）；官方把相关帖合并进桌面+iOS 的 Memory Management 讨论。",
+            "ja": "Grok Chat の MEMORY.md のように、Grok Bot の共有ユーザーメモリ（各 Bot が読み書きする事実）を閲覧・エクスポートしたいという要望。運営は関連投稿をデスクトップ+iOS の Memory Management スレに統合。"
+          }
+        },
+        {
+          "title": "Forum: computer stuck starting up after Oct 8; Reset blocked",
+          "url": "https://forum.cursor.com/t/grok-bot-computer-stuck-starting-up-update-reset-blocked-please-recover-server-side/174158",
+          "source": "GB-2207",
+          "blurb": {
+            "en": "Report that a Grok Bot computer stayed on “still starting up” from the evening of 8 Oct 2026 so every Shell/file/browser call failed, while Update/Reset stayed blocked and the user asked for server-side recovery.",
+            "zh": "反馈：自 2026-10-08 晚起电脑一直停在 “still starting up”，Shell/文件/浏览器全部失败，Update/Reset 不可用，用户请求服务端恢复。",
+            "ja": "2026-10-08 夜からコンピュータが “still starting up” のまま Shell/ファイル/ブラウザが全て失敗し、Update/Reset もできないためサーバー側復旧を求めた報告。"
+          }
         }
       ]
     },
@@ -21703,6 +21883,36 @@
             "en": "MIT Gemini CLI extension for the independent Grok Bot Wiki that connects its read-only MCP service and adds commands to find community Bot templates and look up source-linked troubleshooting guides, without running a Bot or touching an account, and notes that template listings are not tested Bot runs.",
             "zh": "独立站 Grok Bot Wiki 的 Gemini CLI 扩展（MIT）：接入其只读 MCP 服务，新增查找社区 Bot 模板和查询带来源链接的故障排查指南的命令，不会运行 Bot 或改动账号，并说明模板列表并非经过实测的 Bot 运行结果。",
             "ja": "独立サイト Grok Bot Wiki 用の Gemini CLI 拡張（MIT）。読み取り専用の MCP サービスにつなぎ、コミュニティの Bot テンプレート検索と出典付きトラブルシューティングガイドの参照コマンドを追加する。Bot を動かしたりアカウントを変えたりせず、テンプレート一覧は実際に試した結果ではないと明記。"
+          }
+        },
+        {
+          "title": "CogineBot — open-source Grok Bot-style runtime (WIP)",
+          "url": "https://github.com/cogine-ai/CogineBot",
+          "source": "GB-2199",
+          "blurb": {
+            "en": "Independently maintained open-source fork based on Rakazo for persistent bots, shared APIs and web/desktop/mobile clients; still in repository-preparation stage with no hosted service or installer yet.",
+            "zh": "基于 Rakazo 独立维护的开源仓库，面向持久 Bot、共享 API 与 Web/桌面/移动客户端；仍处仓库准备阶段，尚无托管服务或安装包。",
+            "ja": "Rakazo ベースの独立メンテのオープンソース。永続 Bot、共有 API、Web/デスクトップ/モバイルクライアント向け。まだリポジトリ準備段階でホストサービスやインストーラはない。"
+          }
+        },
+        {
+          "title": "Orgbots — self-hosted AI employees with their own screen",
+          "url": "https://github.com/Vishnu-KV-S/orgbots",
+          "source": "GB-2200",
+          "blurb": {
+            "en": "Open-source platform for autonomous AI employees on your own infrastructure, each with a screen on a shared cloud computer, durable runs, approvals and an audit trail — positioned as a self-hosted alternative to Grok Bot, Dots and Muse.",
+            "zh": "开源平台：在自有基础设施上跑自主 AI 员工，每人在共享云电脑上有一块屏幕，带持久运行、审批与审计轨迹；定位为 Grok Bot / Dots / Muse 的自托管替代。",
+            "ja": "自前インフラで動く自律 AI 従業員向けオープンソース。共有クラウドコンピュータ上に各自の画面があり、耐久実行・承認・監査ログ付き。Grok Bot / Dots / Muse のセルフホスト代替を掲げる。"
+          }
+        },
+        {
+          "title": "Kith — open-source personal AI teammate with memory",
+          "url": "https://github.com/drewsephski/kith",
+          "source": "GB-2201",
+          "blurb": {
+            "en": "Open-source personal AI teammate (web, desktop, mobile) with lasting memory, tools and routines you can self-host; described by its author as a Grok Bot / Muse / Dots alternative still in beta.",
+            "zh": "开源个人 AI 队友（Web/桌面/移动），有持久记忆、工具与例程，可自托管；作者称为仍处 beta 的 Grok Bot / Muse / Dots 替代。",
+            "ja": "オープンソースの個人 AI チームメイト（Web/デスクトップ/モバイル）。持続メモリ・ツール・ルーチンをセルフホスト可能。作者は beta の Grok Bot / Muse / Dots 代替と説明。"
           }
         }
       ]
