@@ -11384,6 +11384,16 @@
             "zh": "面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。",
             "ja": "動画向けのベンダー中立 Agent Skills パック（プロンプト、演出、絵コンテ、キャラ一貫性、台詞/音声、組み立て、アダプタ、QA）。Grok Bot など Agent Skills 対応クライアントに入れられ、特定ジェネレータに縛られない。"
           }
+        },
+        {
+          "title": "CrewPay MCP",
+          "url": "https://github.com/fxams/crew",
+          "source": "GB-2208",
+          "blurb": {
+            "en": "Hosted MCP (https://mcp.crewpay.dev; npm crewpay-mcp) so Grok Bot or other agents can launch tokens on Pump.fun, Bags.fm, and Zora on Base and hire human KOL crews paid onchain.",
+            "zh": "托管 MCP（https://mcp.crewpay.dev；npm crewpay-mcp）：让 Grok Bot 或其他智能体在 Pump.fun、Bags.fm 与 Base 上的 Zora 发币，并雇佣链上付款的人类 KOL 团队。",
+            "ja": "ホスト型 MCP（https://mcp.crewpay.dev、npm crewpay-mcp）。Grok Bot などのエージェントが Pump.fun、Bags.fm、Base 上の Zora でトークンを発行し、オンチェーン支払いの人間 KOL クルーを雇える。"
+          }
         }
       ]
     },

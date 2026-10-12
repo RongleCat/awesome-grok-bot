@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [イベントの詳細](./EVENTS.ja.md)
 
 - **中国**（3）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017) · [マカオ](./EVENTS.ja.md#mo-20261112)
-- **アメリカ**（13）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [アトランタ](./EVENTS.ja.md#atl-20261016) · [シアトル](./EVENTS.ja.md#sea-20261012) · [シカゴ（ペアビルド）](./EVENTS.ja.md#chi-20261016) · [インディアナポリス（フィッシャーズ）](./EVENTS.ja.md#ind-20261112) · [オースティン（ハッカソン）](./EVENTS.ja.md#aus-20261019) · [ニューヨーク（スタートアップ）](./EVENTS.ja.md#nyc-20261105) · [チャタヌーガ](./EVENTS.ja.md#cha-20261216) · [アーバナ（UIUC ワークショップ）](./EVENTS.ja.md#urb-20261009)
+- **アメリカ**（12）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [アトランタ](./EVENTS.ja.md#atl-20261016) · [シアトル](./EVENTS.ja.md#sea-20261012) · [シカゴ（ペアビルド）](./EVENTS.ja.md#chi-20261016) · [インディアナポリス（フィッシャーズ）](./EVENTS.ja.md#ind-20261112) · [オースティン（ハッカソン）](./EVENTS.ja.md#aus-20261019) · [ニューヨーク（スタートアップ）](./EVENTS.ja.md#nyc-20261105) · [チャタヌーガ](./EVENTS.ja.md#cha-20261216)
 - **ドイツ**（5）：[シュトゥットガルト](./EVENTS.ja.md#str-20261015) · [フランクフルト](./EVENTS.ja.md#fra-20261120) · [カッセル](./EVENTS.ja.md#kas-20261112) · [フランクフルト](./EVENTS.ja.md#fra-20261030) · [ハンブルク](./EVENTS.ja.md#ham-20261028)
 - **カナダ**（4）：[トロント](./EVENTS.ja.md#yyz-20261026) · [カルガリー](./EVENTS.ja.md#yyc-20261028) · [ハリファックス](./EVENTS.ja.md#yhz-20261015) · [オタワ](./EVENTS.ja.md#yow-20261017)
 - **イタリア**（4）：[ローマ](./EVENTS.ja.md#rom-20261023) · [トレヴィーゾ](./EVENTS.ja.md#tvs-20261022) · [ボローニャ](./EVENTS.ja.md#blq-20261012) · [パヴィア](./EVENTS.ja.md#pav-20261105)
@@ -49,7 +49,6 @@
 - **イギリス**（2）：[ロンドン（ハッカソン）](./EVENTS.ja.md#ldn-20261022) · [オームスカーク](./EVENTS.ja.md#ork-20261024)
 - **グアテマラ**（2）：[グアテマラ](./EVENTS.ja.md#gua-20261205) · [グアテマラシティ（Build & Pitch）](./EVENTS.ja.md#gua-20261121)
 - **インドネシア**（2）：[ジャカルタ](./EVENTS.ja.md#jkt-20261107) · [チャングー / バリ](./EVENTS.ja.md#bli-20261025)
-- **日本**（2）：[東京](./EVENTS.ja.md#tyo-20261011) · [川崎（神奈川）](./EVENTS.ja.md#kaw-20261104)
 - **ペルー**（2）：[ワンカヨ](./EVENTS.ja.md#hyo-20261023) · [リマ（10/17）](./EVENTS.ja.md#lim-20261017)
 - **トーゴ**（2）：[ロメ（ワークショップ）](./EVENTS.ja.md#lfw-20261017) · [ロメ（ビルドデー）](./EVENTS.ja.md#lfw-20261114)
 - **アルバニア**（1）：[ティラナ](./EVENTS.ja.md#tia-20261017)
@@ -64,11 +63,11 @@
 - **フィンランド**（1）：[ヘルシンキ](./EVENTS.ja.md#hel-20261027)
 - **ガーナ**（1）：[アクラ](./EVENTS.ja.md#acc-20261017)
 - **イスラエル**（1）：[テルアビブ](./EVENTS.ja.md#tlv-20261019)
+- **日本**（1）：[川崎（神奈川）](./EVENTS.ja.md#kaw-20261104)
 - **カンボジア**（1）：[シェムリアップ](./EVENTS.ja.md#srp-20261101)
 - **スリランカ**（1）：[コロンボ](./EVENTS.ja.md#cmb-20261017)
 - **モロッコ**（1）：[カサブランカ](./EVENTS.ja.md#cas-20261017)
 - **ノルウェー**（1）：[オスロ](./EVENTS.ja.md#osl-20261016)
-- **フィリピン**（1）：[セブ](./EVENTS.ja.md#ceb-20260919)
 - **スウェーデン**（1）：[ストックホルム](./EVENTS.ja.md#sto-20261014)
 - **エルサルバドル**（1）：[サンサルバドル（ワークショップ）](./EVENTS.ja.md#sal-20261017)
 - **トリニダード・トバゴ**（1）：[ポートオブスペイン](./EVENTS.ja.md#pos-20261030)
@@ -1232,6 +1231,7 @@
 - [Alexa agent bridge — talk to Grok Bot via Echo](https://github.com/eddielutte/alexa-agent-bridge) - エージェント自身が入れるプライベート Alexa スキル。Amazon Echo で質問し、答えを音声で返す。英国で Grok Bot による E2E 検証済みで、署名付きリリースとセットアップスキル付き。
 - [t3-lab-grok — delegate from Grok Bot to T3 Nightly](https://github.com/Ranvier-Technologies/t3-lab-grok) - Cursor プラグイン / MCP ファサード。親チャットは Cursor Agent・Grok Bot・Codex のまま、公式 T3 Code Nightly 環境へ耐久ジョブを起動し、検証済み checkout とテキスト優先の状態を返す（非公式 T3 製品）。
 - [universal-video-skills — model-agnostic video pack](https://github.com/svenkatreddy/universal-video-skills) - 動画向けのベンダー中立 Agent Skills パック（プロンプト、演出、絵コンテ、キャラ一貫性、台詞/音声、組み立て、アダプタ、QA）。Grok Bot など Agent Skills 対応クライアントに入れられ、特定ジェネレータに縛られない。
+- [CrewPay MCP](https://github.com/fxams/crew) - ホスト型 MCP（https://mcp.crewpay.dev、npm crewpay-mcp）。Grok Bot などのエージェントが Pump.fun、Bags.fm、Base 上の Zora でトークンを発行し、オンチェーン支払いの人間 KOL クルーを雇える。
 
 ## レビューと比較
 
@@ -2296,7 +2296,7 @@
 
 ## 貢献
 
-8 セクションに 2183 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2184 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

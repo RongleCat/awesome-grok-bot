@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [Full meetup notes](./EVENTS.md)
 
 - **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261112)
-- **United States**（13）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012) · [Chicago (pair build)](./EVENTS.md#chi-20261016) · [Indianapolis (Fishers)](./EVENTS.md#ind-20261112) · [Austin hackathon](./EVENTS.md#aus-20261019) · [New York (startup workshop)](./EVENTS.md#nyc-20261105) · [Chattanooga](./EVENTS.md#cha-20261216) · [Urbana (UIUC workshop)](./EVENTS.md#urb-20261009)
+- **United States**（12）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012) · [Chicago (pair build)](./EVENTS.md#chi-20261016) · [Indianapolis (Fishers)](./EVENTS.md#ind-20261112) · [Austin hackathon](./EVENTS.md#aus-20261019) · [New York (startup workshop)](./EVENTS.md#nyc-20261105) · [Chattanooga](./EVENTS.md#cha-20261216)
 - **Germany**（5）：[Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261120) · [Kassel](./EVENTS.md#kas-20261112) · [Frankfurt](./EVENTS.md#fra-20261030) · [Hamburg](./EVENTS.md#ham-20261028)
 - **Canada**（4）：[Toronto](./EVENTS.md#yyz-20261026) · [Calgary](./EVENTS.md#yyc-20261028) · [Halifax](./EVENTS.md#yhz-20261015) · [Ottawa](./EVENTS.md#yow-20261017)
 - **Italy**（4）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022) · [Bologna](./EVENTS.md#blq-20261012) · [Pavia](./EVENTS.md#pav-20261105)
@@ -49,7 +49,6 @@
 - **United Kingdom**（2）：[London hackathon](./EVENTS.md#ldn-20261022) · [Ormskirk (NorthWest)](./EVENTS.md#ork-20261024)
 - **Guatemala**（2）：[Guatemala](./EVENTS.md#gua-20261205) · [Guatemala City (Build & Pitch)](./EVENTS.md#gua-20261121)
 - **Indonesia**（2）：[Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
-- **Japan**（2）：[Tokyo](./EVENTS.md#tyo-20261011) · [Kawasaki (Kanagawa)](./EVENTS.md#kaw-20261104)
 - **Peru**（2）：[Huancayo](./EVENTS.md#hyo-20261023) · [Lima (17 Oct)](./EVENTS.md#lim-20261017)
 - **Togo**（2）：[Lomé workshop](./EVENTS.md#lfw-20261017) · [Lomé build day](./EVENTS.md#lfw-20261114)
 - **Albania**（1）：[Tirana](./EVENTS.md#tia-20261017)
@@ -64,11 +63,11 @@
 - **Finland**（1）：[Helsinki](./EVENTS.md#hel-20261027)
 - **Ghana**（1）：[Accra](./EVENTS.md#acc-20261017)
 - **Israel**（1）：[Tel Aviv](./EVENTS.md#tlv-20261019)
+- **Japan**（1）：[Kawasaki (Kanagawa)](./EVENTS.md#kaw-20261104)
 - **Cambodia**（1）：[Siem Reap](./EVENTS.md#srp-20261101)
 - **Sri Lanka**（1）：[Colombo](./EVENTS.md#cmb-20261017)
 - **Morocco**（1）：[Casablanca](./EVENTS.md#cas-20261017)
 - **Norway**（1）：[Oslo](./EVENTS.md#osl-20261016)
-- **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
 - **Sweden**（1）：[Stockholm](./EVENTS.md#sto-20261014)
 - **El Salvador**（1）：[San Salvador workshop](./EVENTS.md#sal-20261017)
 - **Trinidad and Tobago**（1）：[Port of Spain](./EVENTS.md#pos-20261030)
@@ -1232,6 +1231,7 @@
 - [Alexa agent bridge — talk to Grok Bot via Echo](https://github.com/eddielutte/alexa-agent-bridge) - Private Alexa skill your agent installs itself so you can ask questions on an Amazon Echo and hear the answer spoken back; end-to-end tested with Grok Bot in the UK, with signed releases and a setup skill.
 - [t3-lab-grok — delegate from Grok Bot to T3 Nightly](https://github.com/Ranvier-Technologies/t3-lab-grok) - Cursor plugin / MCP facade that keeps the parent chat in Cursor Agent, Grok Bot or Codex while launching durable work into official T3 Code Nightly environments, with verified checkouts and text-first status (not an official T3 product).
 - [universal-video-skills — model-agnostic video pack](https://github.com/svenkatreddy/universal-video-skills) - Vendor-neutral Agent Skills pack for video work (prompt craft, direction, storyboards, character consistency, dialogue/audio, assembly, adapters, QA) that installs into Grok Bot and other Agent Skills clients without locking to one generator.
+- [CrewPay MCP](https://github.com/fxams/crew) - Hosted MCP (https://mcp.crewpay.dev; npm crewpay-mcp) so Grok Bot or other agents can launch tokens on Pump.fun, Bags.fm, and Zora on Base and hire human KOL crews paid onchain.
 
 ## Reviews & Comparisons
 
@@ -2296,7 +2296,7 @@
 
 ## Contributing
 
-2183 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2184 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

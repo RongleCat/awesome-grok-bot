@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -38,7 +38,7 @@
 [全部活动介绍](./EVENTS.zh.md)
 
 - **中国**（3）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [澳门](./EVENTS.zh.md#mo-20261112)
-- **美国**（13）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012) · [芝加哥（配对共建）](./EVENTS.zh.md#chi-20261016) · [印第安纳波利斯（Fishers）](./EVENTS.zh.md#ind-20261112) · [奥斯汀 Hackathon](./EVENTS.zh.md#aus-20261019) · [纽约（创业工作坊）](./EVENTS.zh.md#nyc-20261105) · [查塔努加](./EVENTS.zh.md#cha-20261216) · [厄巴纳（UIUC 工作坊）](./EVENTS.zh.md#urb-20261009)
+- **美国**（12）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012) · [芝加哥（配对共建）](./EVENTS.zh.md#chi-20261016) · [印第安纳波利斯（Fishers）](./EVENTS.zh.md#ind-20261112) · [奥斯汀 Hackathon](./EVENTS.zh.md#aus-20261019) · [纽约（创业工作坊）](./EVENTS.zh.md#nyc-20261105) · [查塔努加](./EVENTS.zh.md#cha-20261216)
 - **德国**（5）：[斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20261120) · [卡塞尔](./EVENTS.zh.md#kas-20261112) · [法兰克福](./EVENTS.zh.md#fra-20261030) · [汉堡](./EVENTS.zh.md#ham-20261028)
 - **加拿大**（4）：[多伦多](./EVENTS.zh.md#yyz-20261026) · [卡尔加里](./EVENTS.zh.md#yyc-20261028) · [哈利法克斯](./EVENTS.zh.md#yhz-20261015) · [渥太华](./EVENTS.zh.md#yow-20261017)
 - **意大利**（4）：[罗马](./EVENTS.zh.md#rom-20261023) · [特雷维索](./EVENTS.zh.md#tvs-20261022) · [博洛尼亚](./EVENTS.zh.md#blq-20261012) · [帕维亚](./EVENTS.zh.md#pav-20261105)
@@ -49,7 +49,6 @@
 - **英国**（2）：[伦敦 Hackathon](./EVENTS.zh.md#ldn-20261022) · [奥姆斯柯克（西北）](./EVENTS.zh.md#ork-20261024)
 - **危地马拉**（2）：[危地马拉](./EVENTS.zh.md#gua-20261205) · [危地马拉城（Build & Pitch）](./EVENTS.zh.md#gua-20261121)
 - **印度尼西亚**（2）：[雅加达](./EVENTS.zh.md#jkt-20261107) · [巴厘岛Canggu](./EVENTS.zh.md#bli-20261025)
-- **日本**（2）：[东京](./EVENTS.zh.md#tyo-20261011) · [川崎（神奈川）](./EVENTS.zh.md#kaw-20261104)
 - **秘鲁**（2）：[万卡约](./EVENTS.zh.md#hyo-20261023) · [利马（10/17）](./EVENTS.zh.md#lim-20261017)
 - **多哥**（2）：[洛美工作坊](./EVENTS.zh.md#lfw-20261017) · [洛美构建日](./EVENTS.zh.md#lfw-20261114)
 - **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20261017)
@@ -64,11 +63,11 @@
 - **芬兰**（1）：[赫尔辛基](./EVENTS.zh.md#hel-20261027)
 - **加纳**（1）：[阿克拉](./EVENTS.zh.md#acc-20261017)
 - **以色列**（1）：[特拉维夫](./EVENTS.zh.md#tlv-20261019)
+- **日本**（1）：[川崎（神奈川）](./EVENTS.zh.md#kaw-20261104)
 - **柬埔寨**（1）：[暹粒](./EVENTS.zh.md#srp-20261101)
 - **斯里兰卡**（1）：[科伦坡](./EVENTS.zh.md#cmb-20261017)
 - **摩洛哥**（1）：[卡萨布兰卡](./EVENTS.zh.md#cas-20261017)
 - **挪威**（1）：[奥斯陆](./EVENTS.zh.md#osl-20261016)
-- **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
 - **瑞典**（1）：[斯德哥尔摩](./EVENTS.zh.md#sto-20261014)
 - **萨尔瓦多**（1）：[圣萨尔瓦多工作坊](./EVENTS.zh.md#sal-20261017)
 - **特立尼达和多巴哥**（1）：[西班牙港](./EVENTS.zh.md#pos-20261030)
@@ -1232,6 +1231,7 @@
 - [Alexa agent bridge — talk to Grok Bot via Echo](https://github.com/eddielutte/alexa-agent-bridge) - 由智能体自行安装的私有 Alexa skill：在 Amazon Echo 上提问，答案会语音播回；已在英国用 Grok Bot 端到端验证，带签名发布与安装技能。.
 - [t3-lab-grok — delegate from Grok Bot to T3 Nightly](https://github.com/Ranvier-Technologies/t3-lab-grok) - Cursor 插件 / MCP 门面：父对话留在 Cursor Agent、Grok Bot 或 Codex，把持久任务派到官方 T3 Code Nightly 环境，带校验 checkout 与纯文本状态（非官方 T3 产品）。.
 - [universal-video-skills — model-agnostic video pack](https://github.com/svenkatreddy/universal-video-skills) - 面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。.
+- [CrewPay MCP](https://github.com/fxams/crew) - 托管 MCP（https://mcp.crewpay.dev；npm crewpay-mcp）：让 Grok Bot 或其他智能体在 Pump.fun、Bags.fm 与 Base 上的 Zora 发币，并雇佣链上付款的人类 KOL 团队。.
 
 ## 评测与对比
 
@@ -2296,7 +2296,7 @@
 
 ## 贡献
 
-目前 8 个分类、2183 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2184 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
