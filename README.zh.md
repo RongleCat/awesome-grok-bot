@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1232,6 +1232,7 @@
 - [Alexa agent bridge — talk to Grok Bot via Echo](https://github.com/eddielutte/alexa-agent-bridge) - 由智能体自行安装的私有 Alexa skill：在 Amazon Echo 上提问，答案会语音播回；已在英国用 Grok Bot 端到端验证，带签名发布与安装技能。.
 - [t3-lab-grok — delegate from Grok Bot to T3 Nightly](https://github.com/Ranvier-Technologies/t3-lab-grok) - Cursor 插件 / MCP 门面：父对话留在 Cursor Agent、Grok Bot 或 Codex，把持久任务派到官方 T3 Code Nightly 环境，带校验 checkout 与纯文本状态（非官方 T3 产品）。.
 - [universal-video-skills — model-agnostic video pack](https://github.com/svenkatreddy/universal-video-skills) - 面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。.
+- [SEOmatic SEO templates for Grok Bot](https://github.com/Minh42/seomatic-mcp/tree/main/grok-bot) - 九个开源 SEO 用 Grok Bot 模板（每周简报、流量下跌监控、快速见效、AI 可见度、本地 SEO、代理商报告），含 routines 与 SEO 技能，基于托管的 SEOmatic MCP 服务器；添加后需重新连接 MCP，所有修改需你批准后才上线。.
 
 ## 评测与对比
 
@@ -2296,7 +2297,7 @@
 
 ## 贡献
 
-目前 8 个分类、2183 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2184 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

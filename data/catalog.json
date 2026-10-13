@@ -11384,6 +11384,15 @@
             "zh": "面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。",
             "ja": "動画向けのベンダー中立 Agent Skills パック（プロンプト、演出、絵コンテ、キャラ一貫性、台詞/音声、組み立て、アダプタ、QA）。Grok Bot など Agent Skills 対応クライアントに入れられ、特定ジェネレータに縛られない。"
           }
+        },
+        {
+          "title": "SEOmatic SEO templates for Grok Bot",
+          "url": "https://github.com/Minh42/seomatic-mcp/tree/main/grok-bot",
+          "blurb": {
+            "en": "Nine open-source Grok Bot templates for SEO (weekly brief, traffic-drop watch, quick wins, AI visibility, local SEO, agency reports) with routines and SEO skills, built on the hosted SEOmatic MCP server; reconnect the MCP after Add, and fixes wait for your approval.",
+            "zh": "九个开源 SEO 用 Grok Bot 模板（每周简报、流量下跌监控、快速见效、AI 可见度、本地 SEO、代理商报告），含 routines 与 SEO 技能，基于托管的 SEOmatic MCP 服务器；添加后需重新连接 MCP，所有修改需你批准后才上线。",
+            "ja": "SEO 向けのオープンソース Grok Bot テンプレート 9 種（週次ブリーフ、流入減少ウォッチ、クイックウィン、AI 可視性、ローカル SEO、代理店レポート）。routines と SEO スキル付きで、ホスト型 SEOmatic MCP サーバーを利用。追加後に MCP を再接続し、修正はあなたの承認後にのみ反映されます。"
+          }
         }
       ]
     },
