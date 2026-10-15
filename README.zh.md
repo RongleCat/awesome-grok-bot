@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -261,6 +261,7 @@
 - [Grokbot Field Guide (8 use cases)](https://github.com/tal-giladi/grokbot-field-guide) - 对照《Getting started with Grok Bot》视频八个用例的动手教程，含起始提示词与仓库内 HTML 指南。.
 - [Grok Bot setup & 5 pitfalls guide](https://github.com/dadamingmax/Grok-Bot-Setup-and-Usage-Guide) - 中文长文：讲清 Grok Bot 是什么、SuperGrok/Cursor 开通、从零搭第一个 Bot，以及额度与审批等 5 个实测踩坑。.
 - [China Grok Bot install tutorial](https://github.com/jobinben/Grok-Bot-Tutorial) - 面向国内的 2026 Grok Bot 教程：讲清云端队友是什么、怎么用，以及如何升级 SuperGrok 获得使用资格。.
+- [Grok Bot 从 0 到 1 (grokguide.si)](https://grokguide.si/) - 中文零基础教程：15 章入门到排错，另有常见问题和账号与账单栏目（取消、退款、充值、登录、合并账号），每页附 docs.x.ai 官方来源。.
 - [Grok Bot handbook (grokbot.run)](https://grokbot.run/) - 非官方英文手册：Cursor 登录、可复制首单、共享电脑隔离、计划页冲突对照，以及 Recover 优先于 Reset。.
 - [Grok Bot fleet ops lessons](https://github.com/jasonpalmer1/grok-fleet-lessons) - 把 Grok Bot 舰队和 Claude 舰队一起跑的运维经验：hub/lanes、省 token、双运行时真源，以及群聊降噪规则。.
 - [Grok Bot Spec-to-Ship kit](https://github.com/Iron-Mark/grok-bot-spec-to-ship) - 开源工具包与 live-run 证明：Grok Bot 群组可把模糊目标经研究与 PRD 一路做到已合并 PR，无需人类当路由。.
@@ -2296,7 +2297,7 @@
 
 ## 贡献
 
-目前 8 个分类、2183 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2184 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

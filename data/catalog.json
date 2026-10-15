@@ -1716,6 +1716,16 @@
           }
         },
         {
+          "title": "Grok Bot 从 0 到 1 (grokguide.si)",
+          "url": "https://grokguide.si/",
+          "source": "GB-2208",
+          "blurb": {
+            "en": "Chinese beginner course in 15 chapters plus an FAQ and an account-and-billing section (cancel, refunds, top-ups, sign-in, merging accounts), each page citing docs.x.ai.",
+            "zh": "中文零基础教程：15 章入门到排错，另有常见问题和账号与账单栏目（取消、退款、充值、登录、合并账号），每页附 docs.x.ai 官方来源。",
+            "ja": "中国語の入門講座（全 15 章）に FAQ とアカウント・請求セクション（解約、返金、チャージ、サインイン、アカウント統合）を加え、各ページで docs.x.ai を出典として示します。"
+          }
+        },
+        {
           "title": "Grok Bot handbook (grokbot.run)",
           "url": "https://grokbot.run/",
           "source": "day-20260904-1804",

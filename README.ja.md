@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -261,6 +261,7 @@
 - [Grokbot Field Guide (8 use cases)](https://github.com/tal-giladi/grokbot-field-guide) - Getting started with Grok Bot 動画の8用例を自分で組むチュートリアルで、開始プロンプトと HTML 版ガイドを同梱しています。
 - [Grok Bot setup & 5 pitfalls guide](https://github.com/dadamingmax/Grok-Bot-Setup-and-Usage-Guide) - Grok Bot の定義、SuperGrok/Cursor の利用条件、最初の Bot 構築手順、枠と承認まわりの実測ピットフォール 5 点をまとめた中国語長文ガイドです。
 - [China Grok Bot install tutorial](https://github.com/jobinben/Grok-Bot-Tutorial) - 2026 年の中国向け Grok Bot チュートリアルで、クラウド仲間の概要・使い方・SuperGrok アップグレードによる利用条件を説明します。
+- [Grok Bot 从 0 到 1 (grokguide.si)](https://grokguide.si/) - 中国語の入門講座（全 15 章）に FAQ とアカウント・請求セクション（解約、返金、チャージ、サインイン、アカウント統合）を加え、各ページで docs.x.ai を出典として示します。
 - [Grok Bot handbook (grokbot.run)](https://grokbot.run/) - 非公式の英語ハウツー。Cursor ログイン、コピー可能な最初の仕事、共有コンピュータの隔離、プランページの食い違い、Recover を Reset より先に、をまとめています。
 - [Grok Bot fleet ops lessons](https://github.com/jasonpalmer1/grok-fleet-lessons) - Claude 艦隊と並走する Grok Bot 艦隊の運用メモ。hub/lanes・トークン節約・二重ランタイム SoT・ルーム雑音ルール。
 - [Grok Bot Spec-to-Ship kit](https://github.com/Iron-Mark/grok-bot-spec-to-ship) - オープンキットと live-run 証明。Grok Bot グループが曖昧な目標を調査・PRD 経由でマージ済み PR まで運び、人間ルータ不要。
@@ -2296,7 +2297,7 @@
 
 ## 貢献
 
-8 セクションに 2183 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2184 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
