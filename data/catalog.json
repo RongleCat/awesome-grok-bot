@@ -4474,6 +4474,15 @@
             "zh": "AI in Action for Medical Affairs 工作坊（2026-10-13 至 14，费城）的配套网站，用大白话讲参会者如何把免费的 Open Medical Affairs 资料库交给 Grok Bot 这类个人智能体，再审阅它的产出。",
             "ja": "AI in Action for Medical Affairs ワークショップ（2026-10-13〜14、フィラデルフィア）の公式サイト。無料の Open Medical Affairs ライブラリを Grok Bot などの個人エージェントに渡し、成果物を確認する方法を平易に解説。"
           }
+        },
+        {
+          "title": "24 small-business Grok Bot setups, credited",
+          "url": "https://whatshouldmybotdo.com/roundups/grok-bot-small-business-examples",
+          "blurb": {
+            "en": "Roundup of 24 real small-business owners' Grok Bot setups posted on X (bookkeeping, leads, quotes, inbox), each quoted and linked to the owner's post.",
+            "zh": "汇总 24 位小企业主在 X 上公开的真实 Grok Bot 用法（记账、线索、报价、收件箱），每条均引用并链接到原帖。",
+            "ja": "小規模事業者 24 人が X で公開した実際の Grok Bot 活用例（経理、リード、見積もり、受信箱）のまとめ。各例は引用付きで元の投稿にリンクしています。"
+          }
         }
       ]
     },

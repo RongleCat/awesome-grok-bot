@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -539,6 +539,7 @@
 - [Prime Directive — a two-Bot coding team where only you merge](https://github.com/smfworks/prime-directive) - Builder Prime と Gatekeeper Prime の 2 つの共有 Grok Bot テンプレートとプレイブック。1 体が作り、もう 1 体がレビューし、人間の承認なしには何もマージしないコーディングチーム。セットアップと仕組みのガイド付き。
 - [Next Mission — Grok Bot template files for U.S. military transition](https://github.com/gabe-mobius/next-mission) - 退役・除隊を控えた米軍人を支える Next Mission Grok Bot テンプレートの共有ファイル。除隊までの残り期間別に出典付きでまとめたチェックリスト、州の退役軍人給付、出典チェックと個人の期限リストを作るスクリプトを収録。
 - [AI in Action for Medical Affairs — workshop site for using Grok Bot](https://github.com/Open-Medical-Affairs/AI-in-Action-Website) - AI in Action for Medical Affairs ワークショップ（2026-10-13〜14、フィラデルフィア）の公式サイト。無料の Open Medical Affairs ライブラリを Grok Bot などの個人エージェントに渡し、成果物を確認する方法を平易に解説。
+- [24 small-business Grok Bot setups, credited](https://whatshouldmybotdo.com/roundups/grok-bot-small-business-examples) - 小規模事業者 24 人が X で公開した実際の Grok Bot 活用例（経理、リード、見積もり、受信箱）のまとめ。各例は引用付きで元の投稿にリンクしています。
 
 ## スキル、プラグインと MCP
 
@@ -2296,7 +2297,7 @@
 
 ## 貢献
 
-8 セクションに 2183 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2184 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

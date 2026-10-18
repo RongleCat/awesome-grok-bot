@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -539,6 +539,7 @@
 - [Prime Directive — a two-Bot coding team where only you merge](https://github.com/smfworks/prime-directive) - Playbook and two shared Grok Bot templates, Builder Prime and Gatekeeper Prime, for a coding team in which one Bot builds, the other reviews and nothing merges without the human's approval, with setup and how-it-works guides.
 - [Next Mission — Grok Bot template files for U.S. military transition](https://github.com/gabe-mobius/next-mission) - Shared files for the Next Mission Grok Bot template that helps U.S. service members who are retiring or separating, including a sourced master checklist by time to separation, state veteran benefits and scripts that check sourcing and build a personal deadline list.
 - [AI in Action for Medical Affairs — workshop site for using Grok Bot](https://github.com/Open-Medical-Affairs/AI-in-Action-Website) - Companion website for the AI in Action for Medical Affairs workshop (13–14 Oct 2026, Philadelphia) that explains in plain words how attendees can hand the free Open Medical Affairs libraries to a personal agent such as Grok Bot and review what it makes.
+- [24 small-business Grok Bot setups, credited](https://whatshouldmybotdo.com/roundups/grok-bot-small-business-examples) - Roundup of 24 real small-business owners' Grok Bot setups posted on X (bookkeeping, leads, quotes, inbox), each quoted and linked to the owner's post.
 
 ## Skills, Plugins & MCP
 
@@ -2296,7 +2297,7 @@
 
 ## Contributing
 
-2183 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2184 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

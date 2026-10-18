@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -539,6 +539,7 @@
 - [Prime Directive — a two-Bot coding team where only you merge](https://github.com/smfworks/prime-directive) - 一套剧本加两个共享的 Grok Bot 模板（Builder Prime 与 Gatekeeper Prime）：一个 Bot 写代码，一个 Bot 审查，没有人类点头就不合并；附搭建指南和运行原理说明。.
 - [Next Mission — Grok Bot template files for U.S. military transition](https://github.com/gabe-mobius/next-mission) - Next Mission Grok Bot 模板的共享文件，帮助即将退役或离队的美国军人：按距离离队时间编排、注明出处的总清单，州退伍军人福利表，以及检查出处和生成个人截止日期清单的脚本。.
 - [AI in Action for Medical Affairs — workshop site for using Grok Bot](https://github.com/Open-Medical-Affairs/AI-in-Action-Website) - AI in Action for Medical Affairs 工作坊（2026-10-13 至 14，费城）的配套网站，用大白话讲参会者如何把免费的 Open Medical Affairs 资料库交给 Grok Bot 这类个人智能体，再审阅它的产出。.
+- [24 small-business Grok Bot setups, credited](https://whatshouldmybotdo.com/roundups/grok-bot-small-business-examples) - 汇总 24 位小企业主在 X 上公开的真实 Grok Bot 用法（记账、线索、报价、收件箱），每条均引用并链接到原帖。.
 
 ## 技能、插件与 MCP
 
@@ -2296,7 +2297,7 @@
 
 ## 贡献
 
-目前 8 个分类、2183 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2184 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
