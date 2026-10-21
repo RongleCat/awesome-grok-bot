@@ -11384,6 +11384,16 @@
             "zh": "面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。",
             "ja": "動画向けのベンダー中立 Agent Skills パック（プロンプト、演出、絵コンテ、キャラ一貫性、台詞/音声、組み立て、アダプタ、QA）。Grok Bot など Agent Skills 対応クライアントに入れられ、特定ジェネレータに縛られない。"
           }
+        },
+        {
+          "title": "Offhand — a to-do list Grok Bot shares with your other agents",
+          "url": "https://offhandapp.com/use/grok-bot",
+          "source": "pr-offhand",
+          "blurb": {
+            "en": "Remote MCP server: Grok Bot adds it from one message, then hands Claude, ChatGPT or Muse a task and takes the ones they hand it.",
+            "zh": "远程 MCP 服务器：给 Grok Bot 发一条消息即可添加；它把任务交给 Claude、ChatGPT 或 Muse，也接手它们交来的任务。",
+            "ja": "リモート MCP サーバー。メッセージ 1 通で Grok Bot に追加でき、Claude・ChatGPT・Muse にタスクを渡し、渡されたタスクも引き受けます。"
+          }
         }
       ]
     },

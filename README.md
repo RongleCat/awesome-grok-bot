@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1232,6 +1232,7 @@
 - [Alexa agent bridge — talk to Grok Bot via Echo](https://github.com/eddielutte/alexa-agent-bridge) - Private Alexa skill your agent installs itself so you can ask questions on an Amazon Echo and hear the answer spoken back; end-to-end tested with Grok Bot in the UK, with signed releases and a setup skill.
 - [t3-lab-grok — delegate from Grok Bot to T3 Nightly](https://github.com/Ranvier-Technologies/t3-lab-grok) - Cursor plugin / MCP facade that keeps the parent chat in Cursor Agent, Grok Bot or Codex while launching durable work into official T3 Code Nightly environments, with verified checkouts and text-first status (not an official T3 product).
 - [universal-video-skills — model-agnostic video pack](https://github.com/svenkatreddy/universal-video-skills) - Vendor-neutral Agent Skills pack for video work (prompt craft, direction, storyboards, character consistency, dialogue/audio, assembly, adapters, QA) that installs into Grok Bot and other Agent Skills clients without locking to one generator.
+- [Offhand — a to-do list Grok Bot shares with your other agents](https://offhandapp.com/use/grok-bot) - Remote MCP server: Grok Bot adds it from one message, then hands Claude, ChatGPT or Muse a task and takes the ones they hand it.
 
 ## Reviews & Comparisons
 
