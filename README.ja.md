@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -529,6 +529,7 @@
 - [Tesla Ready — a Grok Bot that warms up your Tesla](https://github.com/acupofcode2/tesla-ready-grok-bot) - 無料の Grok Bot テンプレート Tesla Ready の公開スキル。カレンダーと交通状況に合わせて Tesla の車内を事前に暖房・冷房し、Tesla 公式 Fleet API だけを使い、鍵とトークンは所有者の Grok Bot の PC にだけ置く。
 - [photo-trace — phone photo of an error to root cause (Dublin Builder Day)](https://github.com/henry-da-lab/photo-trace) - 2026 年 10 月 4 日の Grok Bot Dublin Builder Day で Grok Bot と Bronto を使って作られた作品。スマホでエラーを撮ると、ノート PC に該当する Bronto のログ検索、原因 1 つ、修正コマンド 1 つが表示され、実行は人の承認後のみ。
 - [NetProjects: how we run our sites with about 30 Grok Bot agents](https://netprojects.com/insights/how-we-run-netprojects-with-ai-agents) - Internet Projects Ltd が、Chief of Staff が統括する単一職務のエージェント約 30 体を Grok Bot で運用する方法を紹介。既定は下書き、本番は人の承認、コードはレビュー付きプルリクエストで Cursor に任せ、9 月の初期トラブルとサポートへの報告も記載。
+- [GrokBotCEO — a company run by 31 Grok Bots](https://grokbotceo.com) - 31 体の Grok Bot が Mechanics Helper、GradeShelf、Fabbed など 7 つの公開サイトを運営する、ビルド・イン・パブリックの記録。実際の成果も失敗も正直に公開。
 - [Frostwell Cakes — a Next.js cake shop built by Grok Bot from GitHub issues](https://github.com/dev-repos/nextjs-cake-shop-grok-bot) - AI システム設計チュートリアル用の MIT デモ。スマホから指示しながら Grok Bot が GitHub の Issue をもとに作ったモバイル優先の Next.js オーダーケーキ店で、Vercel にデプロイ。注文はデータベースではなく HMAC 署名付きリンクで運び、店側に受注/辞退メールを送り、PayPal 請求はスタブ。
 - [The 2026 Nobel Prizes explained by a team of Grok Bots](https://github.com/az9713/grokbots-nobel-2026-explainers) - 名前付きのエージェントチーム（リサーチ、分野ライター、イラスト、フロントエンド、テスター、公開担当を Chief GrokBot が統括）が作った、2026 年ノーベル物理学・医学・化学賞のインタラクティブな 1 ページ解説 3 本。各フォルダに調査資料、ナレーション、QA レポートがあり、化学編はチーム全体の対話記録付き。
 - [Gefühls-Journal — an encrypted mood-journal PWA built entirely by a Grok Bot team](https://github.com/Oliver19xx/gefuehlsjournal) - ドイツ語のオフライン感情ジャーナルアプリ。企画、バックログ、デザイン、コード、テスト、デプロイはすべて Grok Bot のチーム（プロダクトオーナー、UX、UI、テスター、開発）が担い、人は方向づけだけ。感情の輪と書き出しのヒントで記録を促し、各エントリーは端末内で AES-256-GCM 暗号化、PIN も設定できる。

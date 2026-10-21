@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -529,6 +529,7 @@
 - [Tesla Ready — a Grok Bot that warms up your Tesla](https://github.com/acupofcode2/tesla-ready-grok-bot) - 免费 Grok Bot 模板 Tesla Ready 背后的公开技能：根据日历和路况提前给特斯拉车内加热或降温，只走特斯拉官方 Fleet API，密钥和 token 都只留在车主自己的 Grok Bot 电脑上。.
 - [photo-trace — phone photo of an error to root cause (Dublin Builder Day)](https://github.com/henry-da-lab/photo-trace) - 2026 年 10 月 4 日 Grok Bot 都柏林 Builder Day 上用 Grok Bot 和 Bronto 做的作品：手机拍下报错，笔记本上就显示对应的 Bronto 日志检索、一条根因和一条修复命令，命令要人确认后才执行。.
 - [NetProjects: how we run our sites with about 30 Grok Bot agents](https://netprojects.com/insights/how-we-run-netprojects-with-ai-agents) - Internet Projects Ltd 分享他们在 Grok Bot 上跑约 30 个各管一摊的智能体：由一个 Chief of Staff 统筹，默认只出草稿，上生产要人点头，代码活交给 Cursor 走经过审核的 PR，并列出了 9 月初期向官方支持报告过的问题。.
+- [GrokBotCEO — a company run by 31 Grok Bots](https://grokbotceo.com) - 公开构建日志：31 个 Grok Bot 运营 7 个上线网站（包括 Mechanics Helper、GradeShelf 和 Fabbed），如实记录真实成果与失误。.
 - [Frostwell Cakes — a Next.js cake shop built by Grok Bot from GitHub issues](https://github.com/dev-repos/nextjs-cake-shop-grok-bot) - AI 系统设计教程的 MIT 演示项目：一个移动优先的 Next.js 定制蛋糕店，由 Grok Bot 照着 GitHub issue 搭建、全程在手机上指挥，部署在 Vercel；订单不用数据库，而是放在 HMAC 签名链接里，给店家发接单/拒单邮件，PayPal 开票步骤为占位实现。.
 - [The 2026 Nobel Prizes explained by a team of Grok Bots](https://github.com/az9713/grokbots-nobel-2026-explainers) - 由一支有名有姓的智能体团队（研究、领域写手、插画、前端、测试、发布，由 Chief GrokBot 统筹）做的三个交互式单页解读，分别讲 2026 年诺贝尔物理、医学和化学奖；每个目录都保留研究资料、叙事稿和测试报告，化学篇还附完整团队对话记录。.
 - [Gefühls-Journal — an encrypted mood-journal PWA built entirely by a Grok Bot team](https://github.com/Oliver19xx/gefuehlsjournal) - 德语离线心情日记应用，规划、需求清单、设计、代码、测试和部署全部出自一支 Grok Bot 团队（产品负责人、UX、UI、测试、开发），人只给方向；用情绪轮和写作提示引导记录，每条日记都以 AES-256-GCM 加密存在本机，可另设 PIN。.

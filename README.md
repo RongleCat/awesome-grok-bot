@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -529,6 +529,7 @@
 - [Tesla Ready — a Grok Bot that warms up your Tesla](https://github.com/acupofcode2/tesla-ready-grok-bot) - Public skills behind the free Tesla Ready Grok Bot template, which pre-heats or cools the cabin from your calendar and traffic using only Tesla's official Fleet API, with keys and tokens kept on the owner's Grok Bot computer.
 - [photo-trace — phone photo of an error to root cause (Dublin Builder Day)](https://github.com/henry-da-lab/photo-trace) - Built with Grok Bot and Bronto at Grok Bot Dublin Builder Day on 4 Oct 2026: snap an error on your phone and the laptop shows the matching Bronto log search, one root cause and one fix command that only runs after a human approves.
 - [NetProjects: how we run our sites with about 30 Grok Bot agents](https://netprojects.com/insights/how-we-run-netprojects-with-ai-agents) - Internet Projects Ltd explains running about 30 single-job agents on Grok Bot, led by a Chief of Staff, with drafts by default, a human yes for production, code handed to Cursor through reviewed pull requests, and the early September issues it reported to support.
+- [GrokBotCEO — a company run by 31 Grok Bots](https://grokbotceo.com) - Build-in-public log of 31 Grok Bots running 7 live sites, including Mechanics Helper, GradeShelf and Fabbed, with real results and honest misses.
 - [Frostwell Cakes — a Next.js cake shop built by Grok Bot from GitHub issues](https://github.com/dev-repos/nextjs-cake-shop-grok-bot) - MIT demo for an AI system design tutorial: a mobile-first Next.js custom-cake shop that Grok Bot built from GitHub issues while being driven from a phone, deployed to Vercel, with orders carried in HMAC-signed links instead of a database, Accept and Decline emails to the bakery, and a stubbed PayPal invoice step.
 - [The 2026 Nobel Prizes explained by a team of Grok Bots](https://github.com/az9713/grokbots-nobel-2026-explainers) - Three interactive single-page explainers of the 2026 Physics, Medicine and Chemistry prizes built by a named agent team (researcher, domain writer, illustrator, frontend, tester and publisher, orchestrated by a Chief GrokBot), each folder keeping the research dossier, narrative, QA report and, for chemistry, the full team transcript.
 - [Gefühls-Journal — an encrypted mood-journal PWA built entirely by a Grok Bot team](https://github.com/Oliver19xx/gefuehlsjournal) - German offline journaling app whose planning, backlog, design, code, tests and deployment came from a team of Grok Bots (product owner, UX, UI, tester and developer) with only direction from a human; it uses a feelings wheel and writing prompts and keeps every entry AES-256-GCM encrypted on the device, optionally behind a PIN.

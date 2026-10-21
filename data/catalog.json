@@ -4474,6 +4474,16 @@
             "zh": "AI in Action for Medical Affairs 工作坊（2026-10-13 至 14，费城）的配套网站，用大白话讲参会者如何把免费的 Open Medical Affairs 资料库交给 Grok Bot 这类个人智能体，再审阅它的产出。",
             "ja": "AI in Action for Medical Affairs ワークショップ（2026-10-13〜14、フィラデルフィア）の公式サイト。無料の Open Medical Affairs ライブラリを Grok Bot などの個人エージェントに渡し、成果物を確認する方法を平易に解説。"
           }
+        },
+        {
+          "title": "GrokBotCEO — a company run by 31 Grok Bots",
+          "url": "https://grokbotceo.com",
+          "source": "GB-2208",
+          "blurb": {
+            "en": "Build-in-public log of 31 Grok Bots running 7 live sites, including Mechanics Helper, GradeShelf and Fabbed, with real results and honest misses.",
+            "zh": "公开构建日志：31 个 Grok Bot 运营 7 个上线网站（包括 Mechanics Helper、GradeShelf 和 Fabbed），如实记录真实成果与失误。",
+            "ja": "31 体の Grok Bot が Mechanics Helper、GradeShelf、Fabbed など 7 つの公開サイトを運営する、ビルド・イン・パブリックの記録。実際の成果も失敗も正直に公開。"
+          }
         }
       ]
     },
