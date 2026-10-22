@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1222,6 +1222,7 @@
 - [LinkMCP — your LinkedIn account as tools for Grok Bot](https://github.com/linkmcp-io/linkmcp-cursor-plugin) - 設定ファイルだけの MIT プラグインで、Grok Bot の Marketplace から入れられる。LinkMCP のホスト型 LinkedIn MCP サーバーをブラウザのサインインでつなぎ、Bot が人や企業の調査、LinkedIn や Sales Navigator の検索、メッセージの読み書き、投稿やリアクション、招待の管理、勤務先メールの検索をできるようにする。7 日間の無料トライアルあり。
 - [JevGB — cheap task routing for Grok Bot with Grok Build handoffs](https://github.com/SuperfastSimon/jevgb) - grok-bot-jev を拡張した非公式の MIT Python CLI。Grok Bot が高コストな手順の前に呼び出し、Grok Build への簡潔な引き継ぎ、キャッシュ再利用、重複呼び出しのスキップ、リトライ停止、調査の上限設定などの動作を選ぶ。オフラインのルール分類器で動き、トークン台帳とローカルダッシュボードで正味の節約を正直に示す。
 - [Synorb plugin — source-cited world context for Grok Bot](https://github.com/Synorb/synorb-cursor-plugin) - Cursor と Grok Bot 向けプラグイン。Synorb のホスト型 MCP サーバーに接続し、組織・人物・データセットに関する構造化 Streams の検索、出典 URL 付き Manifests の取得、追跡用 Beacons の保存（保存時はユーザー承認）ができる。
+- [ppl for Grok Bot](https://github.com/ppl-crm/ppl-grok-plugin) - ppl パーソナル CRM の公式 Grok Bot / Grok Build プラグイン。OAuth でホスト MCP（https://withppl.com/mcp）に繋ぎ、連絡先・メモ・リマインダー・人間関係の記憶を Bot が管理できます（無料ベータ登録: https://withppl.com/register）。
 - [freddy plugin — ask Grok Bot about your own wearable and health data](https://github.com/reThrive-Labs/freddy-plugin) - Cursor と Grok Bot 向けプラグイン。ホスト型 freddy MCP サーバーと、健康アプリやウェアラブルの接続・週次ヘルスレビュー・長期トレンドの 3 スキルを追加。OAuth でサインインし API キー不要。
 - [Salespeak Company Context plugin — answers about your own company](https://github.com/salespeak-ai/company-context-plugin) - Cursor と Grok Bot 向けプラグイン。Salespeak に記録された資料から自社の製品・価格・セキュリティ・顧客について Bot が回答し、出典を添付。資料が食い違う場合は両方を示して選ばせる。
 - [Gable plugin — real-estate listings, buyers and offers for Grok Bot](https://github.com/getgable/gable-cursor-plugin) - Cursor と Grok Bot 向けプラグイン。Gable のリモート MCP サーバーに接続し、不動産エージェントの物件・買い手の参照と更新、内見とフィードバックの記録、オファーと条件の登録、タスク完了を Bot が行える。

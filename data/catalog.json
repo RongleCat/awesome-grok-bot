@@ -11384,6 +11384,16 @@
             "zh": "面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。",
             "ja": "動画向けのベンダー中立 Agent Skills パック（プロンプト、演出、絵コンテ、キャラ一貫性、台詞/音声、組み立て、アダプタ、QA）。Grok Bot など Agent Skills 対応クライアントに入れられ、特定ジェネレータに縛られない。"
           }
+        },
+        {
+          "title": "ppl for Grok Bot",
+          "url": "https://github.com/ppl-crm/ppl-grok-plugin",
+          "source": "GB-2209",
+          "blurb": {
+            "en": "Official ppl personal CRM plugin for Grok Bot and Grok Build that OAuth-connects the hosted MCP at https://withppl.com/mcp so a Bot can manage contacts, notes, reminders, and relationship memory (free beta signup at https://withppl.com/register)",
+            "zh": "ppl 个人 CRM 的官方 Grok Bot / Grok Build 插件：通过 OAuth 连接托管 MCP（https://withppl.com/mcp），让 Bot 管理联系人、笔记、提醒和人际关系记忆（免费测试版注册：https://withppl.com/register）",
+            "ja": "ppl パーソナル CRM の公式 Grok Bot / Grok Build プラグイン。OAuth でホスト MCP（https://withppl.com/mcp）に繋ぎ、連絡先・メモ・リマインダー・人間関係の記憶を Bot が管理できます（無料ベータ登録: https://withppl.com/register）"
+          }
         }
       ]
     },
