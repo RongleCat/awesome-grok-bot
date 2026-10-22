@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1222,6 +1222,7 @@
 - [LinkMCP — your LinkedIn account as tools for Grok Bot](https://github.com/linkmcp-io/linkmcp-cursor-plugin) - Configuration-only MIT plugin, installable from the Grok Bot Marketplace, that adds LinkMCP's hosted LinkedIn MCP server with browser sign-in so a Bot can research people and companies, search LinkedIn and Sales Navigator, read and answer messages, post and react, manage invitations and find work emails, with a 7-day free trial.
 - [JevGB — cheap task routing for Grok Bot with Grok Build handoffs](https://github.com/SuperfastSimon/jevgb) - Unofficial MIT Python CLI extended from grok-bot-jev that a Grok Bot calls before costly steps to pick an action such as a compact Grok Build handoff, cache reuse, duplicate-call skip, retry stop or capped research, works offline with a rule classifier, and logs a token ledger with a local dashboard that reports net savings honestly.
 - [Synorb plugin — source-cited world context for Grok Bot](https://github.com/Synorb/synorb-cursor-plugin) - Plugin for Cursor and Grok Bot that connects Synorb's hosted MCP server, so a Bot can search structured Streams about organizations, people and datasets, pull Manifests with source URLs and save Beacons to track them, with user approval before saving.
+- [ppl for Grok Bot](https://github.com/ppl-crm/ppl-grok-plugin) - Official ppl personal CRM plugin for Grok Bot and Grok Build that OAuth-connects the hosted MCP at https://withppl.com/mcp so a Bot can manage contacts, notes, reminders, and relationship memory (free beta signup at https://withppl.com/register).
 - [freddy plugin — ask Grok Bot about your own wearable and health data](https://github.com/reThrive-Labs/freddy-plugin) - Plugin for Cursor and Grok Bot that adds the hosted freddy MCP server and three skills for connecting a health app or wearable, a weekly health review and long-term trends, signed in with OAuth and no API key.
 - [Salespeak Company Context plugin — answers about your own company](https://github.com/salespeak-ai/company-context-plugin) - Plugin for Cursor and Grok Bot that lets a Bot answer questions about your own company's product, pricing, security and customers from records kept in Salespeak, attaching the sources and asking you to choose when they disagree.
 - [Gable plugin — real-estate listings, buyers and offers for Grok Bot](https://github.com/getgable/gable-cursor-plugin) - Plugin for Cursor and Grok Bot that connects Gable's remote MCP server so a Bot can look up and update listings and buyers, log showings and feedback, record offers and conditions and complete tasks for a real-estate agent.

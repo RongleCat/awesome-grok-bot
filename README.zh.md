@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1222,6 +1222,7 @@
 - [LinkMCP — your LinkedIn account as tools for Grok Bot](https://github.com/linkmcp-io/linkmcp-cursor-plugin) - 只含配置的 MIT 插件，可在 Grok Bot Marketplace 安装：接入 LinkMCP 托管的 LinkedIn MCP 服务器（浏览器登录），让 Bot 调研人和公司、搜索 LinkedIn 与 Sales Navigator、读回私信、发帖和互动、管理邀请并查找工作邮箱；有 7 天免费试用。.
 - [JevGB — cheap task routing for Grok Bot with Grok Build handoffs](https://github.com/SuperfastSimon/jevgb) - 非官方 MIT 开源 Python 命令行，扩展自 grok-bot-jev：Grok Bot 在高成本步骤前调用它选择动作，如把精简任务书交给 Grok Build、复用缓存、跳过重复调用、停止重试或限量调研；默认用离线规则分类器，并记录令牌账本、提供本地看板，如实报告净节省。.
 - [Synorb plugin — source-cited world context for Grok Bot](https://github.com/Synorb/synorb-cursor-plugin) - Cursor 与 Grok Bot 插件，接入 Synorb 托管的 MCP 服务，让 Bot 检索关于机构、人物和数据集的结构化 Streams，拉取带来源链接的 Manifests，并保存 Beacons 持续追踪；保存前需用户确认。.
+- [ppl for Grok Bot](https://github.com/ppl-crm/ppl-grok-plugin) - ppl 个人 CRM 的官方 Grok Bot / Grok Build 插件：通过 OAuth 连接托管 MCP（https://withppl.com/mcp），让 Bot 管理联系人、笔记、提醒和人际关系记忆（免费测试版注册：https://withppl.com/register）.
 - [freddy plugin — ask Grok Bot about your own wearable and health data](https://github.com/reThrive-Labs/freddy-plugin) - Cursor 与 Grok Bot 插件，加入托管的 freddy MCP 服务和三个技能：接入健康应用或穿戴设备、每周健康回顾、长期趋势分析；OAuth 登录，无需 API Key。.
 - [Salespeak Company Context plugin — answers about your own company](https://github.com/salespeak-ai/company-context-plugin) - Cursor 与 Grok Bot 插件：让 Bot 根据 Salespeak 中记录的资料回答关于自家公司产品、定价、安全和客户的问题，附上出处；资料互相矛盾时列出两种说法让你选。.
 - [Gable plugin — real-estate listings, buyers and offers for Grok Bot](https://github.com/getgable/gable-cursor-plugin) - Cursor 与 Grok Bot 插件，接入 Gable 的远程 MCP 服务，让 Bot 替房产经纪人查询和更新房源与买家、记录带看与反馈、登记报价和条件并完成待办。.
