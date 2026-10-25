@@ -11384,6 +11384,16 @@
             "zh": "面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。",
             "ja": "動画向けのベンダー中立 Agent Skills パック（プロンプト、演出、絵コンテ、キャラ一貫性、台詞/音声、組み立て、アダプタ、QA）。Grok Bot など Agent Skills 対応クライアントに入れられ、特定ジェネレータに縛られない。"
           }
+        },
+        {
+          "title": "/call-me — Grok Bot rings or texts your iPhone",
+          "url": "https://github.com/radres/call-me",
+          "source": "pr-call-me",
+          "blurb": {
+            "en": "Hosted remote MCP server and iPhone app that Grok Bot sets up when told \"install callmemcp.com\": it can ring the user's iPhone, read a question aloud and take the spoken answer back as text, or text and wait for a reply; the iPhone app is a paid subscription.",
+            "zh": "托管的远程 MCP 服务器加 iPhone 应用：对 Grok Bot 说“install callmemcp.com”即可装上，之后它能给用户的 iPhone 打电话、朗读问题并把口头回答转成文字，或发短信并等待回复；该 iPhone 应用为付费订阅。",
+            "ja": "ホスト型のリモート MCP サーバーと iPhone アプリ。Grok Bot に「install callmemcp.com」と伝えると導入され、ユーザーの iPhone に電話して質問を読み上げ、音声の返答をテキストで受け取れるほか、テキスト送信と返信待ちもできます。iPhone アプリは有料サブスクリプションです。"
+          }
         }
       ]
     },
