@@ -21914,6 +21914,16 @@
             "zh": "开源个人 AI 队友（Web/桌面/移动），有持久记忆、工具与例程，可自托管；作者称为仍处 beta 的 Grok Bot / Muse / Dots 替代。",
             "ja": "オープンソースの個人 AI チームメイト（Web/デスクトップ/モバイル）。持続メモリ・ツール・ルーチンをセルフホスト可能。作者は beta の Grok Bot / Muse / Dots 代替と説明。"
           }
+        },
+        {
+          "title": "Money With AI",
+          "url": "https://moneywithai.net/",
+          "source": "pr-20261025",
+          "blurb": {
+            "en": "Free directory of 300+ Grok Bot setups and 130+ business use cases, each with creator credit, original source, tools and steps, plus a public JSON API and read-only MCP.",
+            "zh": "免费的 Grok Bot 配置目录：收录 300 多个配置和 130 多个商业用例，每条注明作者、原始来源、所需工具和步骤，并提供公开 JSON API 与只读 MCP。",
+            "ja": "Grok Bot の設定 300 件以上とビジネス用例 130 件以上を集めた無料ディレクトリ。各項目に作者、元ソース、ツール、手順を記載。公開 JSON API と読み取り専用 MCP 付き。"
+          }
         }
       ]
     }
