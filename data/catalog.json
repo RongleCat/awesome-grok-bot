@@ -18856,6 +18856,16 @@
       },
       "items": [
         {
+          "title": "Awesome Grok Bot",
+          "url": "https://www.awsomebot.com",
+          "source": "GB-2208",
+          "blurb": {
+            "en": "Searchable multilingual directory of public Grok Bot teammates (community-run, not affiliated with xAI).",
+            "zh": "可搜索的多语言公开 Grok Bot 队友目录（社区运营，与 xAI 无关）。",
+            "ja": "公開 Grok Bot チームメイトの検索可能な多言語ディレクトリ（コミュニティ運営、xAI 非公認）。"
+          }
+        },
+        {
           "title": "SpaceXAI Grok Bot check-in display",
           "url": "https://github.com/ivoklimsa/spacexai_grokbot_checkin",
           "source": "GB-1755",
