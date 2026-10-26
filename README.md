@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,43 +37,30 @@
 
 [Full meetup notes](./EVENTS.md)
 
-- **China**（3）：[Shanghai](./EVENTS.md#sha-20261018) · [Wuhan](./EVENTS.md#wuh-20261017) · [Macao](./EVENTS.md#mo-20261112)
-- **United States**（13）：[Pittsburgh](./EVENTS.md#pgh-20261013) · [Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Atlanta](./EVENTS.md#atl-20261016) · [Seattle](./EVENTS.md#sea-20261012) · [Chicago (pair build)](./EVENTS.md#chi-20261016) · [Indianapolis (Fishers)](./EVENTS.md#ind-20261112) · [Austin hackathon](./EVENTS.md#aus-20261019) · [New York (startup workshop)](./EVENTS.md#nyc-20261105) · [Chattanooga](./EVENTS.md#cha-20261216) · [Urbana (UIUC workshop)](./EVENTS.md#urb-20261009)
-- **Germany**（5）：[Stuttgart](./EVENTS.md#str-20261015) · [Frankfurt](./EVENTS.md#fra-20261120) · [Kassel](./EVENTS.md#kas-20261112) · [Frankfurt](./EVENTS.md#fra-20261030) · [Hamburg](./EVENTS.md#ham-20261028)
-- **Canada**（4）：[Toronto](./EVENTS.md#yyz-20261026) · [Calgary](./EVENTS.md#yyc-20261028) · [Halifax](./EVENTS.md#yhz-20261015) · [Ottawa](./EVENTS.md#yow-20261017)
-- **Italy**（4）：[Rome](./EVENTS.md#rom-20261023) · [Treviso](./EVENTS.md#tvs-20261022) · [Bologna](./EVENTS.md#blq-20261012) · [Pavia](./EVENTS.md#pav-20261105)
-- **Brazil**（3）：[Vitória da Conquista](./EVENTS.md#vdc-20261014) · [Curitiba](./EVENTS.md#cwb-20261111) · [Florianópolis](./EVENTS.md#fln-20261016)
-- **South Korea**（3）：[Seoul](./EVENTS.md#sel-20261027) · [Seoul (13 Oct)](./EVENTS.md#sel-20261013) · [Seoul hackathon #4](./EVENTS.md#sel-20261024)
-- **Ecuador**（2）：[Ambato](./EVENTS.md#atu-20261029) · [Quito](./EVENTS.md#uio-20261021)
-- **Spain**（2）：[Alicante](./EVENTS.md#alc-20261107) · [Bilbao](./EVENTS.md#bil-20261019)
-- **United Kingdom**（2）：[London hackathon](./EVENTS.md#ldn-20261022) · [Ormskirk (NorthWest)](./EVENTS.md#ork-20261024)
+- **China**（1）：[Macao](./EVENTS.md#mo-20261112)
+- **United States**（7）：[Philadelphia](./EVENTS.md#phl-20261027) · [Philadelphia](./EVENTS.md#phl-20261117) · [Philadelphia](./EVENTS.md#phl-20261217) · [Tampa Bay](./EVENTS.md#tpa-20261114) · [Indianapolis (Fishers)](./EVENTS.md#ind-20261112) · [New York (startup workshop)](./EVENTS.md#nyc-20261105) · [Chattanooga](./EVENTS.md#cha-20261216)
+- **Germany**（4）：[Frankfurt](./EVENTS.md#fra-20261120) · [Kassel](./EVENTS.md#kas-20261112) · [Frankfurt](./EVENTS.md#fra-20261030) · [Hamburg](./EVENTS.md#ham-20261028)
+- **Canada**（2）：[Toronto](./EVENTS.md#yyz-20261026) · [Calgary](./EVENTS.md#yyc-20261028)
 - **Guatemala**（2）：[Guatemala](./EVENTS.md#gua-20261205) · [Guatemala City (Build & Pitch)](./EVENTS.md#gua-20261121)
-- **Indonesia**（2）：[Jakarta](./EVENTS.md#jkt-20261107) · [Canggu / Bali](./EVENTS.md#bli-20261025)
-- **Japan**（2）：[Tokyo](./EVENTS.md#tyo-20261011) · [Kawasaki (Kanagawa)](./EVENTS.md#kaw-20261104)
-- **Peru**（2）：[Huancayo](./EVENTS.md#hyo-20261023) · [Lima (17 Oct)](./EVENTS.md#lim-20261017)
-- **Togo**（2）：[Lomé workshop](./EVENTS.md#lfw-20261017) · [Lomé build day](./EVENTS.md#lfw-20261114)
-- **Albania**（1）：[Tirana](./EVENTS.md#tia-20261017)
 - **Argentina**（1）：[Bariloche (1st anniversary)](./EVENTS.md#brc-20261128)
 - **Austria**（1）：[Vienna](./EVENTS.md#vie-20261031)
 - **Bangladesh**（1）：[Dhaka](./EVENTS.md#dac-20261031)
 - **Bulgaria**（1）：[Sofia](./EVENTS.md#sof-20261030)
-- **Bolivia**（1）：[Santa Cruz (AI Security Day)](./EVENTS.md#vvi-20261024)
+- **Brazil**（1）：[Curitiba](./EVENTS.md#cwb-20261111)
 - **Côte d'Ivoire**（1）：[Abidjan](./EVENTS.md#abj-20261107)
-- **Colombia**（1）：[Zarzal](./EVENTS.md#zar-20261017)
+- **Ecuador**（1）：[Ambato](./EVENTS.md#atu-20261029)
+- **Spain**（1）：[Alicante](./EVENTS.md#alc-20261107)
 - **Ethiopia**（1）：[Jimma](./EVENTS.md#jim-20261115)
 - **Finland**（1）：[Helsinki](./EVENTS.md#hel-20261027)
-- **Ghana**（1）：[Accra](./EVENTS.md#acc-20261017)
-- **Israel**（1）：[Tel Aviv](./EVENTS.md#tlv-20261019)
+- **Indonesia**（1）：[Jakarta](./EVENTS.md#jkt-20261107)
+- **Italy**（1）：[Pavia](./EVENTS.md#pav-20261105)
+- **Japan**（1）：[Kawasaki (Kanagawa)](./EVENTS.md#kaw-20261104)
 - **Cambodia**（1）：[Siem Reap](./EVENTS.md#srp-20261101)
-- **Sri Lanka**（1）：[Colombo](./EVENTS.md#cmb-20261017)
-- **Morocco**（1）：[Casablanca](./EVENTS.md#cas-20261017)
-- **Norway**（1）：[Oslo](./EVENTS.md#osl-20261016)
-- **Philippines**（1）：[Cebu](./EVENTS.md#ceb-20260919)
-- **Sweden**（1）：[Stockholm](./EVENTS.md#sto-20261014)
-- **El Salvador**（1）：[San Salvador workshop](./EVENTS.md#sal-20261017)
+- **South Korea**（1）：[Seoul](./EVENTS.md#sel-20261027)
+- **Togo**（1）：[Lomé build day](./EVENTS.md#lfw-20261114)
 - **Trinidad and Tobago**（1）：[Port of Spain](./EVENTS.md#pos-20261030)
 - **Zambia**（1）：[Lusaka #2](./EVENTS.md#lun-20261031)
-- **Online**（6）：[Online (Goiânia)](./EVENTS.md#gyn-20261017) · [Sales webinar](./EVENTS.md#sales-20261013) · [Grok Bot + Cursor webinar](./EVENTS.md#scs-20261015) · [Financial services webinar](./EVENTS.md#fin-20261020) · [Admins webinar](./EVENTS.md#adm-20261021) · [What's New webinar (Oct 30)](./EVENTS.md#wng-20261030)
+- **Online**（1）：[What's New webinar (Oct 30)](./EVENTS.md#wng-20261030)
 
 ## Contents
 
@@ -1987,6 +1974,7 @@
 
 ## Related Lists
 
+- [Awesome Grok Bot](https://www.awsomebot.com) - Searchable multilingual directory of public Grok Bot teammates (community-run, not affiliated with xAI).
 - [SpaceXAI Grok Bot check-in display](https://github.com/ivoklimsa/spacexai_grokbot_checkin) - Fullscreen venue check-in kiosk that spawns floating grokbot avatars for each guest name, with a live Vercel demo.
 - [Railagent — cross-platform messaging MCP for Grok Bot and peers](https://github.com/Railagent-io/Railagent) - Hosted MCP inbox so agents (including Grok Bot) get one address to message and share files across platforms.
 - [nix-grok-build — declarative Grok Build on Nix](https://github.com/gaavin/nix-grok-build) - Nix flake packaging the official Grok Build CLI binaries for declarative NixOS / Home Manager installs.
@@ -2296,7 +2284,7 @@
 
 ## Contributing
 
-2183 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2184 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
