@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -2293,10 +2293,11 @@
 - [CogineBot — open-source Grok Bot-style runtime (WIP)](https://github.com/cogine-ai/CogineBot) - Independently maintained open-source fork based on Rakazo for persistent bots, shared APIs and web/desktop/mobile clients; still in repository-preparation stage with no hosted service or installer yet.
 - [Orgbots — self-hosted AI employees with their own screen](https://github.com/Vishnu-KV-S/orgbots) - Open-source platform for autonomous AI employees on your own infrastructure, each with a screen on a shared cloud computer, durable runs, approvals and an audit trail — positioned as a self-hosted alternative to Grok Bot, Dots and Muse.
 - [Kith — open-source personal AI teammate with memory](https://github.com/drewsephski/kith) - Open-source personal AI teammate (web, desktop, mobile) with lasting memory, tools and routines you can self-host; described by its author as a Grok Bot / Muse / Dots alternative still in beta.
+- [WhatAgentsCanDo.com](https://whatagentscando.com) - Free searchable directory of real, sourced AI agent use cases with copy-paste prompts, hundreds of them for Grok Bot, plus a free Grok Bot 101 course.
 
 ## Contributing
 
-2183 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2184 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

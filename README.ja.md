@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -2293,10 +2293,11 @@
 - [CogineBot — open-source Grok Bot-style runtime (WIP)](https://github.com/cogine-ai/CogineBot) - Rakazo ベースの独立メンテのオープンソース。永続 Bot、共有 API、Web/デスクトップ/モバイルクライアント向け。まだリポジトリ準備段階でホストサービスやインストーラはない。
 - [Orgbots — self-hosted AI employees with their own screen](https://github.com/Vishnu-KV-S/orgbots) - 自前インフラで動く自律 AI 従業員向けオープンソース。共有クラウドコンピュータ上に各自の画面があり、耐久実行・承認・監査ログ付き。Grok Bot / Dots / Muse のセルフホスト代替を掲げる。
 - [Kith — open-source personal AI teammate with memory](https://github.com/drewsephski/kith) - オープンソースの個人 AI チームメイト（Web/デスクトップ/モバイル）。持続メモリ・ツール・ルーチンをセルフホスト可能。作者は beta の Grok Bot / Muse / Dots 代替と説明。
+- [WhatAgentsCanDo.com](https://whatagentscando.com) - 出典付きの実際の AI エージェント活用事例を検索できる無料ディレクトリ。コピーして使えるプロンプト付きで、Grok Bot の事例が数百件あり、無料の Grok Bot 101 コースもあります。
 
 ## 貢献
 
-8 セクションに 2183 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2184 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

@@ -21914,6 +21914,16 @@
             "zh": "开源个人 AI 队友（Web/桌面/移动），有持久记忆、工具与例程，可自托管；作者称为仍处 beta 的 Grok Bot / Muse / Dots 替代。",
             "ja": "オープンソースの個人 AI チームメイト（Web/デスクトップ/モバイル）。持続メモリ・ツール・ルーチンをセルフホスト可能。作者は beta の Grok Bot / Muse / Dots 代替と説明。"
           }
+        },
+        {
+          "title": "WhatAgentsCanDo.com",
+          "url": "https://whatagentscando.com",
+          "source": "related",
+          "blurb": {
+            "en": "Free searchable directory of real, sourced AI agent use cases with copy-paste prompts, hundreds of them for Grok Bot, plus a free Grok Bot 101 course.",
+            "zh": "免费可搜索的真实 AI Agent 用例目录，每条附公开出处和可直接复制的提示词，其中数百条是 Grok Bot 用例，另有免费的 Grok Bot 101 课程。",
+            "ja": "出典付きの実際の AI エージェント活用事例を検索できる無料ディレクトリ。コピーして使えるプロンプト付きで、Grok Bot の事例が数百件あり、無料の Grok Bot 101 コースもあります。"
+          }
         }
       ]
     }

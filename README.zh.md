@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -2293,10 +2293,11 @@
 - [CogineBot — open-source Grok Bot-style runtime (WIP)](https://github.com/cogine-ai/CogineBot) - 基于 Rakazo 独立维护的开源仓库，面向持久 Bot、共享 API 与 Web/桌面/移动客户端；仍处仓库准备阶段，尚无托管服务或安装包。.
 - [Orgbots — self-hosted AI employees with their own screen](https://github.com/Vishnu-KV-S/orgbots) - 开源平台：在自有基础设施上跑自主 AI 员工，每人在共享云电脑上有一块屏幕，带持久运行、审批与审计轨迹；定位为 Grok Bot / Dots / Muse 的自托管替代。.
 - [Kith — open-source personal AI teammate with memory](https://github.com/drewsephski/kith) - 开源个人 AI 队友（Web/桌面/移动），有持久记忆、工具与例程，可自托管；作者称为仍处 beta 的 Grok Bot / Muse / Dots 替代。.
+- [WhatAgentsCanDo.com](https://whatagentscando.com) - 免费可搜索的真实 AI Agent 用例目录，每条附公开出处和可直接复制的提示词，其中数百条是 Grok Bot 用例，另有免费的 Grok Bot 101 课程。.
 
 ## 贡献
 
-目前 8 个分类、2183 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2184 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
