@@ -1617,12 +1617,12 @@
         },
         {
           "title": "Grok Bot Plays",
-          "url": "https://github.com/ZooHero500/plays",
+          "url": "https://grokbotplays.com",
           "source": "day-20260830-1304",
           "blurb": {
-            "en": "Unofficial how-to catalog of Grok Bot plays rewritten from public posts and docs with source links; the site hosts 138 English plays (grokbotplays.com).",
-            "zh": "非官方 Grok Bot 玩法目录：从公开帖和文档改写并附来源链接；站点有 138 条英文玩法（grokbotplays.com）。",
-            "ja": "非公式の Grok Bot プレイ集。公開投稿とドキュメントから書き直し、出典付き。サイトに英語 138 本（grokbotplays.com）。"
+            "en": "Unofficial how-to catalog of 383 Grok Bot plays rewritten from public posts and docs, each linked to its source.",
+            "zh": "非官方 Grok Bot 玩法目录：383 条玩法从公开帖和文档改写，每条附原始来源链接。",
+            "ja": "非公式の Grok Bot プレイ集。公開投稿とドキュメントから書き直した 383 本、各本に出典リンク付き。"
           }
         },
         {

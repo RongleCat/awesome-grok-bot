@@ -251,7 +251,7 @@
 - [yuanyijie/learn-grok-bot](https://github.com/yuanyijie/learn-grok-bot) - 非官方 16 课：拆 Grok Bot 桌面 Agent 的产品壳——Electron 分层、回合环、推理路由、沙箱、MCP、自动化。.
 - [A deep dive into Grok Bot](https://flaviocopes.com/grok-bot/) - Flavio Copes 2026-08-28 长文：共享云电脑、技能变例程、分享模板、Stripe Link 付款审批，以及什么时候该写脚本而不是用 Bot。.
 - [LAVX: a deep dive into Grok Bot](https://news.lavx.hu/article/a-deep-dive-into-grok-bot) - 2026-08-29 实操长文：共享云电脑隔离、先插件后浏览器、Stripe Link 审批，以及何时该用 Zapier/n8n 或编程代理。.
-- [Grok Bot Plays](https://github.com/ZooHero500/plays) - 非官方 Grok Bot 玩法目录：从公开帖和文档改写并附来源链接；站点有 138 条英文玩法（grokbotplays.com）。.
+- [Grok Bot Plays](https://grokbotplays.com) - 非官方 Grok Bot 玩法目录：383 条玩法从公开帖和文档改写，每条附原始来源链接。.
 - [s-hiraoku/grok-bot-playbook](https://github.com/s-hiraoku/grok-bot-playbook) - 日文现场手册（Next.js）：把 Grok Bot 当有名角色来跑——角色契约、请求模板、Skill/Routine 流程、团队边界与交接用 .md。.
 - [mKay00/grok-bot-second-brain](https://github.com/mKay00/grok-bot-second-brain) - 可克隆的五 Bot 第二大脑方案：共用一台 Grok Bot 电脑（Conductor/Capture/Memory/Ops/Research + vault-template 与 PLAN.md 问卷）。.
 - [maplefukku/grok-bot-ops](https://github.com/maplefukku/grok-bot-ops) - 用 Grok Bot 跑产品开发的日文司令室：routine 原稿、验证技能移植包、knowhow 日志，以及 Cursor 插件包装。.

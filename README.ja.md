@@ -251,7 +251,7 @@
 - [yuanyijie/learn-grok-bot](https://github.com/yuanyijie/learn-grok-bot) - 非公式 16 レッスン。Grok Bot デスクトップ Agent のハーネス（Electron、ターンループ、推論ルータ、サンドボックス、MCP、自動化）を学ぶ。
 - [A deep dive into Grok Bot](https://flaviocopes.com/grok-bot/) - Flavio Copes の 2026-08-28 深掘り。共有パソコン、スキルからルーチン、テンプレート共有、Stripe Link の支出承認、スクリプトの方がよい場合。
 - [LAVX: a deep dive into Grok Bot](https://news.lavx.hu/article/a-deep-dive-into-grok-bot) - 2026-08-29 の実務ガイド。共有クラウドPCの境界、プラグイン優先、Stripe Link 承認、Zapier/n8n やコーディングエージェントの方が向く場合。
-- [Grok Bot Plays](https://github.com/ZooHero500/plays) - 非公式の Grok Bot プレイ集。公開投稿とドキュメントから書き直し、出典付き。サイトに英語 138 本（grokbotplays.com）。
+- [Grok Bot Plays](https://grokbotplays.com) - 非公式の Grok Bot プレイ集。公開投稿とドキュメントから書き直した 383 本、各本に出典リンク付き。
 - [s-hiraoku/grok-bot-playbook](https://github.com/s-hiraoku/grok-bot-playbook) - Grok Bot を役割契約・依頼型・Skill/Routine・承認境界で回す日本語の現場手帳（Next.js）。ハンドオフ用 .md 付き（0★）。
 - [mKay00/grok-bot-second-brain](https://github.com/mKay00/grok-bot-second-brain) - 共有 Grok Bot コンピュータ向け5 Bot 第二脳プラン（Conductor/Capture/Memory/Ops/Research + vault-template と PLAN.md、0★）。
 - [maplefukku/grok-bot-ops](https://github.com/maplefukku/grok-bot-ops) - Grok Bot で製品開発を回す日本語の司令室リポジトリ。routine 原稿、検証スキル移植、ノウハウ記録、Cursor プラグイン包装（0★）。
