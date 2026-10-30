@@ -11384,6 +11384,16 @@
             "zh": "面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。",
             "ja": "動画向けのベンダー中立 Agent Skills パック（プロンプト、演出、絵コンテ、キャラ一貫性、台詞/音声、組み立て、アダプタ、QA）。Grok Bot など Agent Skills 対応クライアントに入れられ、特定ジェネレータに縛られない。"
           }
+        },
+        {
+          "title": "b2bsearch-plugin — B2B people and company data for Grok Bot",
+          "url": "https://github.com/b2bsearch/b2bsearch-plugin",
+          "source": "GB-2208",
+          "blurb": {
+            "en": "Six skills and a ready Prospecting Desk setup for a Grok Bot that uses the official Apify plugin to size a segment first, then pull people with live emails, decision makers by company domain, company lists and job postings as hiring signals; the same repo installs in Cursor and Claude Code (maintained by the author of the b2bsearch Actors).",
+            "zh": "六个技能加一份现成的 Prospecting Desk 设定：让 Grok Bot 通过官方 Apify 插件先估算目标人群规模，再拉取带有效邮箱的人员、按公司域名查找决策人、公司列表，以及作为招聘信号的职位；同一仓库也可装进 Cursor 和 Claude Code（由 b2bsearch Actors 的作者维护）。",
+            "ja": "6 つのスキルと、そのまま使える Prospecting Desk 設定。Grok Bot が公式 Apify プラグイン経由でまず対象セグメントの規模を数え、次に有効なメール付きの人物、会社ドメインごとの意思決定者、企業リスト、採用シグナルとしての求人を取得します。同じリポジトリは Cursor と Claude Code にも入ります（b2bsearch Actors の作者がメンテナンス）。"
+          }
         }
       ]
     },
