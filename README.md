@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1232,6 +1232,7 @@
 - [Alexa agent bridge — talk to Grok Bot via Echo](https://github.com/eddielutte/alexa-agent-bridge) - Private Alexa skill your agent installs itself so you can ask questions on an Amazon Echo and hear the answer spoken back; end-to-end tested with Grok Bot in the UK, with signed releases and a setup skill.
 - [t3-lab-grok — delegate from Grok Bot to T3 Nightly](https://github.com/Ranvier-Technologies/t3-lab-grok) - Cursor plugin / MCP facade that keeps the parent chat in Cursor Agent, Grok Bot or Codex while launching durable work into official T3 Code Nightly environments, with verified checkouts and text-first status (not an official T3 product).
 - [universal-video-skills — model-agnostic video pack](https://github.com/svenkatreddy/universal-video-skills) - Vendor-neutral Agent Skills pack for video work (prompt craft, direction, storyboards, character consistency, dialogue/audio, assembly, adapters, QA) that installs into Grok Bot and other Agent Skills clients without locking to one generator.
+- [Agent Visibility Audit by AgentPay — Grok Bot template](https://x.ai/bot/hmaOSedtl0XZ7jhqnVfe3) - Free, read-only Grok Bot template that audits an AI agent or product URL for AI-search visibility (robots.txt, sitemap, structured data, MCP manifests, x402 payment signals, trust gaps) and reports only verified findings with plain-language fixes; instructions at github.com/shawnhvac/agent-visibility-audit-bot.
 
 ## Reviews & Comparisons
 
