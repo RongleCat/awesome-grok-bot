@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1232,6 +1232,7 @@
 - [Alexa agent bridge — talk to Grok Bot via Echo](https://github.com/eddielutte/alexa-agent-bridge) - エージェント自身が入れるプライベート Alexa スキル。Amazon Echo で質問し、答えを音声で返す。英国で Grok Bot による E2E 検証済みで、署名付きリリースとセットアップスキル付き。
 - [t3-lab-grok — delegate from Grok Bot to T3 Nightly](https://github.com/Ranvier-Technologies/t3-lab-grok) - Cursor プラグイン / MCP ファサード。親チャットは Cursor Agent・Grok Bot・Codex のまま、公式 T3 Code Nightly 環境へ耐久ジョブを起動し、検証済み checkout とテキスト優先の状態を返す（非公式 T3 製品）。
 - [universal-video-skills — model-agnostic video pack](https://github.com/svenkatreddy/universal-video-skills) - 動画向けのベンダー中立 Agent Skills パック（プロンプト、演出、絵コンテ、キャラ一貫性、台詞/音声、組み立て、アダプタ、QA）。Grok Bot など Agent Skills 対応クライアントに入れられ、特定ジェネレータに縛られない。
+- [Agent Visibility Audit by AgentPay — Grok Bot template](https://x.ai/bot/hmaOSedtl0XZ7jhqnVfe3) - 無料・読み取り専用の Grok Bot テンプレート。AI エージェントや製品 URL の AI 検索での見つけやすさ（robots.txt、サイトマップ、構造化データ、MCP マニフェスト、x402 決済シグナル、信頼面の欠落）を監査し、実際に取得して検証できた結果のみを平易な修正案つきで報告します。説明は github.com/shawnhvac/agent-visibility-audit-bot。
 
 ## レビューと比較
 

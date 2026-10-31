@@ -11384,6 +11384,16 @@
             "zh": "面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。",
             "ja": "動画向けのベンダー中立 Agent Skills パック（プロンプト、演出、絵コンテ、キャラ一貫性、台詞/音声、組み立て、アダプタ、QA）。Grok Bot など Agent Skills 対応クライアントに入れられ、特定ジェネレータに縛られない。"
           }
+        },
+        {
+          "title": "Agent Visibility Audit by AgentPay — Grok Bot template",
+          "url": "https://x.ai/bot/hmaOSedtl0XZ7jhqnVfe3",
+          "source": "GB-2208",
+          "blurb": {
+            "en": "Free, read-only Grok Bot template that audits an AI agent or product URL for AI-search visibility (robots.txt, sitemap, structured data, MCP manifests, x402 payment signals, trust gaps) and reports only verified findings with plain-language fixes; instructions at github.com/shawnhvac/agent-visibility-audit-bot.",
+            "zh": "免费、只读的 Grok Bot 模板：审计 AI 智能体或产品网址在 AI 搜索中的可见度（robots.txt、站点地图、结构化数据、MCP 清单、x402 支付信号、信任缺口），只报告经过实际抓取验证的结果，并给出通俗的修复建议；说明见 github.com/shawnhvac/agent-visibility-audit-bot。",
+            "ja": "無料・読み取り専用の Grok Bot テンプレート。AI エージェントや製品 URL の AI 検索での見つけやすさ（robots.txt、サイトマップ、構造化データ、MCP マニフェスト、x402 決済シグナル、信頼面の欠落）を監査し、実際に取得して検証できた結果のみを平易な修正案つきで報告します。説明は github.com/shawnhvac/agent-visibility-audit-bot。"
+          }
         }
       ]
     },
