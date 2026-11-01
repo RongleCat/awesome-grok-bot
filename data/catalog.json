@@ -21914,6 +21914,16 @@
             "zh": "开源个人 AI 队友（Web/桌面/移动），有持久记忆、工具与例程，可自托管；作者称为仍处 beta 的 Grok Bot / Muse / Dots 替代。",
             "ja": "オープンソースの個人 AI チームメイト（Web/デスクトップ/モバイル）。持続メモリ・ツール・ルーチンをセルフホスト可能。作者は beta の Grok Bot / Muse / Dots 代替と説明。"
           }
+        },
+        {
+          "title": "Awesome Grok Bots — Grok Bot shares with real run screenshots",
+          "url": "https://github.com/grokbotsmarket/awesome-grok-bots",
+          "source": "GB-2208",
+          "blurb": {
+            "en": "Daily-synced list of Grok Bot share links grouped by task, each with a screenshot or recording of a real run posted on X, credited to its author and mirrored on grokbotsmarket.com.",
+            "zh": "每日同步的 Grok Bot 分享链接清单，按任务分组，每条附原作者在 X 上发布的真实运行截图或录屏，并注明作者；同步展示于 grokbotsmarket.com。",
+            "ja": "タスク別に整理した Grok Bot 共有リンク集。各項目に X で投稿された実際の実行スクリーンショットまたは録画と作者のクレジットを付け、毎日同期。grokbotsmarket.com にも掲載。"
+          }
         }
       ]
     }
