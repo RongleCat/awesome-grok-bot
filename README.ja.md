@@ -2293,6 +2293,7 @@
 - [CogineBot — open-source Grok Bot-style runtime (WIP)](https://github.com/cogine-ai/CogineBot) - Rakazo ベースの独立メンテのオープンソース。永続 Bot、共有 API、Web/デスクトップ/モバイルクライアント向け。まだリポジトリ準備段階でホストサービスやインストーラはない。
 - [Orgbots — self-hosted AI employees with their own screen](https://github.com/Vishnu-KV-S/orgbots) - 自前インフラで動く自律 AI 従業員向けオープンソース。共有クラウドコンピュータ上に各自の画面があり、耐久実行・承認・監査ログ付き。Grok Bot / Dots / Muse のセルフホスト代替を掲げる。
 - [Kith — open-source personal AI teammate with memory](https://github.com/drewsephski/kith) - オープンソースの個人 AI チームメイト（Web/デスクトップ/モバイル）。持続メモリ・ツール・ルーチンをセルフホスト可能。作者は beta の Grok Bot / Muse / Dots 代替と説明。
+- [Awesome Grok Bots — Grok Bot shares with real run screenshots](https://github.com/grokbotsmarket/awesome-grok-bots) - タスク別に整理した Grok Bot 共有リンク集。各項目に X で投稿された実際の実行スクリーンショットまたは録画と作者のクレジットを付け、毎日同期。grokbotsmarket.com にも掲載。
 
 ## 貢献
 
