@@ -1667,6 +1667,7 @@
 - [calico — desktop kit for grokbot-buddy ESP32 panel](https://github.com/newtosh/calico) - Linux 優先の Electron コンパニオン、ESP32-S3 ファーム、Grok Bot webhook キット。grokbot-buddy デスクパネルにエージェントの様子を表示。トレイアプリ、USB/BLE 設定、署名付き AppImage 付き。
 - [spum-pipeline — agent orchestration for Cursor / Grok Bots](https://github.com/Spumcake/spum-pipeline) - 短いブリーフから仕様・設計・段階実装まで進める Cursor の agents/rules/skills。コーディネータが小さな担当タスクに分割。Cursor IDE と Grok Bot で利用可能。
 - [freetoken-bots — OpenCode Free models on Grok Bot box](https://github.com/derekwalldevin-wen/freetoken-bots) - Grok Bot クラウドコンピュータで OpenCode Free のゼロ価格モデルを使うスクリプトと文書（ローカル opencode serve、毎日のレーダー、アシスタント分流）。有料への自動切替なし。
+- [5dive (self-hosted agent team)](https://github.com/5dive-ai/5dive) - オープンソース（MIT）でセルフホストできる Grok Bot の代替。Claude Code、Codex、Grok などのエージェント CLI が自分の Linux サーバー上で1つのチームとして動き、各エージェントは独立した Linux ユーザーで動きます。
 
 ## コミュニティと障害事例
 

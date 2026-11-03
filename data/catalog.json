@@ -15694,6 +15694,16 @@
             "zh": "在 Grok Bot 云电脑上接入 OpenCode Free 零价模型的脚本与文档（本机 opencode serve、每日雷达扫描、助手分流），不会自动切到付费模型。",
             "ja": "Grok Bot クラウドコンピュータで OpenCode Free のゼロ価格モデルを使うスクリプトと文書（ローカル opencode serve、毎日のレーダー、アシスタント分流）。有料への自動切替なし。"
           }
+        },
+        {
+          "title": "5dive (self-hosted agent team)",
+          "url": "https://github.com/5dive-ai/5dive",
+          "source": "pr-5dive",
+          "blurb": {
+            "en": "Open-source (MIT), self-hosted alternative to Grok Bot: Claude Code, Codex, Grok and other agent CLIs run as one team on your own Linux server, each agent its own Linux user.",
+            "zh": "开源（MIT）、可自托管的 Grok Bot 替代：Claude Code、Codex、Grok 等 agent 命令行在你自己的 Linux 服务器上组成一个团队，每个 agent 是独立的 Linux 用户。",
+            "ja": "オープンソース（MIT）でセルフホストできる Grok Bot の代替。Claude Code、Codex、Grok などのエージェント CLI が自分の Linux サーバー上で1つのチームとして動き、各エージェントは独立した Linux ユーザーで動きます。"
+          }
         }
       ]
     },
