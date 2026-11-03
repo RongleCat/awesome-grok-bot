@@ -1232,6 +1232,7 @@
 - [Alexa agent bridge — talk to Grok Bot via Echo](https://github.com/eddielutte/alexa-agent-bridge) - 由智能体自行安装的私有 Alexa skill：在 Amazon Echo 上提问，答案会语音播回；已在英国用 Grok Bot 端到端验证，带签名发布与安装技能。.
 - [t3-lab-grok — delegate from Grok Bot to T3 Nightly](https://github.com/Ranvier-Technologies/t3-lab-grok) - Cursor 插件 / MCP 门面：父对话留在 Cursor Agent、Grok Bot 或 Codex，把持久任务派到官方 T3 Code Nightly 环境，带校验 checkout 与纯文本状态（非官方 T3 产品）。.
 - [universal-video-skills — model-agnostic video pack](https://github.com/svenkatreddy/universal-video-skills) - 面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。.
+- [TraderWAI — trading MCP plugin for Grok Bot](https://github.com/leonardo-mazzitelli/traderwai-mcp) - TraderWAI 托管 MCP 的 Cursor/Grok Bot 插件（OAuth）：实时行情图表、基于 1 分钟历史的回测，并在用户自己的 MetaTrader、cTrader、Binance 或 Bybit 账户中按其风险限额下带止损的订单；交易有风险。.
 
 ## 评测与对比
 

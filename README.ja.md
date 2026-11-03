@@ -1232,6 +1232,7 @@
 - [Alexa agent bridge — talk to Grok Bot via Echo](https://github.com/eddielutte/alexa-agent-bridge) - エージェント自身が入れるプライベート Alexa スキル。Amazon Echo で質問し、答えを音声で返す。英国で Grok Bot による E2E 検証済みで、署名付きリリースとセットアップスキル付き。
 - [t3-lab-grok — delegate from Grok Bot to T3 Nightly](https://github.com/Ranvier-Technologies/t3-lab-grok) - Cursor プラグイン / MCP ファサード。親チャットは Cursor Agent・Grok Bot・Codex のまま、公式 T3 Code Nightly 環境へ耐久ジョブを起動し、検証済み checkout とテキスト優先の状態を返す（非公式 T3 製品）。
 - [universal-video-skills — model-agnostic video pack](https://github.com/svenkatreddy/universal-video-skills) - 動画向けのベンダー中立 Agent Skills パック（プロンプト、演出、絵コンテ、キャラ一貫性、台詞/音声、組み立て、アダプタ、QA）。Grok Bot など Agent Skills 対応クライアントに入れられ、特定ジェネレータに縛られない。
+- [TraderWAI — trading MCP plugin for Grok Bot](https://github.com/leonardo-mazzitelli/traderwai-mcp) - TraderWAI のホスト型 MCP（OAuth）向け Cursor/Grok Bot プラグイン。リアルタイムのチャート、1 分足履歴でのバックテスト、ユーザー自身の MetaTrader・cTrader・Binance・Bybit 口座でリスク上限内のストップ付き注文。取引にはリスクがあります。
 
 ## レビューと比較
 
