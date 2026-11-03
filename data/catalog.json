@@ -11384,6 +11384,16 @@
             "zh": "面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。",
             "ja": "動画向けのベンダー中立 Agent Skills パック（プロンプト、演出、絵コンテ、キャラ一貫性、台詞/音声、組み立て、アダプタ、QA）。Grok Bot など Agent Skills 対応クライアントに入れられ、特定ジェネレータに縛られない。"
           }
+        },
+        {
+          "title": "TraderWAI — trading MCP plugin for Grok Bot",
+          "url": "https://github.com/leonardo-mazzitelli/traderwai-mcp",
+          "source": "pr-traderwai",
+          "blurb": {
+            "en": "Cursor/Grok Bot plugin for TraderWAI's hosted MCP (OAuth): live market charts, backtests on 1-minute history and orders with stop loss on the user's own MetaTrader, cTrader, Binance or Bybit account within their risk limits; trading involves risk.",
+            "zh": "TraderWAI 托管 MCP 的 Cursor/Grok Bot 插件（OAuth）：实时行情图表、基于 1 分钟历史的回测，并在用户自己的 MetaTrader、cTrader、Binance 或 Bybit 账户中按其风险限额下带止损的订单；交易有风险。",
+            "ja": "TraderWAI のホスト型 MCP（OAuth）向け Cursor/Grok Bot プラグイン。リアルタイムのチャート、1 分足履歴でのバックテスト、ユーザー自身の MetaTrader・cTrader・Binance・Bybit 口座でリスク上限内のストップ付き注文。取引にはリスクがあります。"
+          }
         }
       ]
     },
