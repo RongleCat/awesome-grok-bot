@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,43 +37,14 @@
 
 [イベントの詳細](./EVENTS.ja.md)
 
-- **中国**（3）：[上海](./EVENTS.ja.md#sha-20261018) · [武漢](./EVENTS.ja.md#wuh-20261017) · [マカオ](./EVENTS.ja.md#mo-20261112)
-- **アメリカ**（13）：[ピッツバーグ](./EVENTS.ja.md#pgh-20261013) · [フィラデルフィア](./EVENTS.ja.md#phl-20261027) · [フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [アトランタ](./EVENTS.ja.md#atl-20261016) · [シアトル](./EVENTS.ja.md#sea-20261012) · [シカゴ（ペアビルド）](./EVENTS.ja.md#chi-20261016) · [インディアナポリス（フィッシャーズ）](./EVENTS.ja.md#ind-20261112) · [オースティン（ハッカソン）](./EVENTS.ja.md#aus-20261019) · [ニューヨーク（スタートアップ）](./EVENTS.ja.md#nyc-20261105) · [チャタヌーガ](./EVENTS.ja.md#cha-20261216) · [アーバナ（UIUC ワークショップ）](./EVENTS.ja.md#urb-20261009)
-- **ドイツ**（5）：[シュトゥットガルト](./EVENTS.ja.md#str-20261015) · [フランクフルト](./EVENTS.ja.md#fra-20261120) · [カッセル](./EVENTS.ja.md#kas-20261112) · [フランクフルト](./EVENTS.ja.md#fra-20261030) · [ハンブルク](./EVENTS.ja.md#ham-20261028)
-- **カナダ**（4）：[トロント](./EVENTS.ja.md#yyz-20261026) · [カルガリー](./EVENTS.ja.md#yyc-20261028) · [ハリファックス](./EVENTS.ja.md#yhz-20261015) · [オタワ](./EVENTS.ja.md#yow-20261017)
-- **イタリア**（4）：[ローマ](./EVENTS.ja.md#rom-20261023) · [トレヴィーゾ](./EVENTS.ja.md#tvs-20261022) · [ボローニャ](./EVENTS.ja.md#blq-20261012) · [パヴィア](./EVENTS.ja.md#pav-20261105)
-- **ブラジル**（3）：[ヴィトーリア・ダ・コンキスタ](./EVENTS.ja.md#vdc-20261014) · [クリチバ](./EVENTS.ja.md#cwb-20261111) · [フロリアノポリス](./EVENTS.ja.md#fln-20261016)
-- **韓国**（3）：[ソウル](./EVENTS.ja.md#sel-20261027) · [ソウル（10/13）](./EVENTS.ja.md#sel-20261013) · [ソウル（ハッカソン #4）](./EVENTS.ja.md#sel-20261024)
-- **エクアドル**（2）：[アンバト](./EVENTS.ja.md#atu-20261029) · [キト](./EVENTS.ja.md#uio-20261021)
-- **スペイン**（2）：[アリカンテ](./EVENTS.ja.md#alc-20261107) · [ビルバオ](./EVENTS.ja.md#bil-20261019)
-- **イギリス**（2）：[ロンドン（ハッカソン）](./EVENTS.ja.md#ldn-20261022) · [オームスカーク](./EVENTS.ja.md#ork-20261024)
+- **中国**（1）：[マカオ](./EVENTS.ja.md#mo-20261112)
+- **アメリカ**（5）：[フィラデルフィア](./EVENTS.ja.md#phl-20261117) · [フィラデルフィア](./EVENTS.ja.md#phl-20261217) · [タンパベイ](./EVENTS.ja.md#tpa-20261114) · [インディアナポリス（フィッシャーズ）](./EVENTS.ja.md#ind-20261112) · [チャタヌーガ](./EVENTS.ja.md#cha-20261216)
+- **ドイツ**（2）：[フランクフルト](./EVENTS.ja.md#fra-20261120) · [カッセル](./EVENTS.ja.md#kas-20261112)
 - **グアテマラ**（2）：[グアテマラ](./EVENTS.ja.md#gua-20261205) · [グアテマラシティ（Build & Pitch）](./EVENTS.ja.md#gua-20261121)
-- **インドネシア**（2）：[ジャカルタ](./EVENTS.ja.md#jkt-20261107) · [チャングー / バリ](./EVENTS.ja.md#bli-20261025)
-- **日本**（2）：[東京](./EVENTS.ja.md#tyo-20261011) · [川崎（神奈川）](./EVENTS.ja.md#kaw-20261104)
-- **ペルー**（2）：[ワンカヨ](./EVENTS.ja.md#hyo-20261023) · [リマ（10/17）](./EVENTS.ja.md#lim-20261017)
-- **トーゴ**（2）：[ロメ（ワークショップ）](./EVENTS.ja.md#lfw-20261017) · [ロメ（ビルドデー）](./EVENTS.ja.md#lfw-20261114)
-- **アルバニア**（1）：[ティラナ](./EVENTS.ja.md#tia-20261017)
 - **アルゼンチン**（1）：[バリローチェ（1 周年）](./EVENTS.ja.md#brc-20261128)
-- **オーストリア**（1）：[ウィーン](./EVENTS.ja.md#vie-20261031)
-- **バングラデシュ**（1）：[ダッカ](./EVENTS.ja.md#dac-20261031)
-- **ブルガリア**（1）：[ソフィア](./EVENTS.ja.md#sof-20261030)
-- **ボリビア**（1）：[サンタクルス（AI Security Day）](./EVENTS.ja.md#vvi-20261024)
-- **コートジボワール**（1）：[アビジャン](./EVENTS.ja.md#abj-20261107)
-- **コロンビア**（1）：[サルサル](./EVENTS.ja.md#zar-20261017)
+- **ブラジル**（1）：[クリチバ](./EVENTS.ja.md#cwb-20261111)
 - **エチオピア**（1）：[ジンマ](./EVENTS.ja.md#jim-20261115)
-- **フィンランド**（1）：[ヘルシンキ](./EVENTS.ja.md#hel-20261027)
-- **ガーナ**（1）：[アクラ](./EVENTS.ja.md#acc-20261017)
-- **イスラエル**（1）：[テルアビブ](./EVENTS.ja.md#tlv-20261019)
-- **カンボジア**（1）：[シェムリアップ](./EVENTS.ja.md#srp-20261101)
-- **スリランカ**（1）：[コロンボ](./EVENTS.ja.md#cmb-20261017)
-- **モロッコ**（1）：[カサブランカ](./EVENTS.ja.md#cas-20261017)
-- **ノルウェー**（1）：[オスロ](./EVENTS.ja.md#osl-20261016)
-- **フィリピン**（1）：[セブ](./EVENTS.ja.md#ceb-20260919)
-- **スウェーデン**（1）：[ストックホルム](./EVENTS.ja.md#sto-20261014)
-- **エルサルバドル**（1）：[サンサルバドル（ワークショップ）](./EVENTS.ja.md#sal-20261017)
-- **トリニダード・トバゴ**（1）：[ポートオブスペイン](./EVENTS.ja.md#pos-20261030)
-- **ザンビア**（1）：[ルサカ #2](./EVENTS.ja.md#lun-20261031)
-- **オンライン**（6）：[オンライン（ゴイアニア）](./EVENTS.ja.md#gyn-20261017) · [営業ウェビナー](./EVENTS.ja.md#sales-20261013) · [Grok Bot + Cursor ウェビナー](./EVENTS.ja.md#scs-20261015) · [金融サービスウェビナー](./EVENTS.ja.md#fin-20261020) · [管理者ウェビナー](./EVENTS.ja.md#adm-20261021) · [新機能ウェビナー（10/30）](./EVENTS.ja.md#wng-20261030)
+- **トーゴ**（1）：[ロメ（ビルドデー）](./EVENTS.ja.md#lfw-20261114)
 
 ## 目次
 
@@ -1326,6 +1297,7 @@
 - [OGG Switch — Grok Build + Oh My Pi control plane](https://github.com/akiteet/ogg-switch) - Grok Build と Oh My Pi（OMP）を統合する Tauri 2 デスクトップ制御面。100+ プロバイダ、OAuth/API キー、OMP セマンティックロール、テレメトリなし。
 - [Mail Agents openbot (GrokBot-shaped)](https://github.com/matjazonline/openbot) - Rust の BYOK マルチエージェント。エージェント毎メール、共有組織メモリとツール。GrokBot / Buzz 形の代替。
 - [rakazo](https://github.com/elie222/rakazo) - オープンソースの Grok Bot 代替。always-on の仲間を自分でホストします。
+- [DeployButler](https://deploybutler.com/) - rakazo の非公式デプロイ代行サービス。自分の VPS への導入と、無料の手順付きインストール／トラブルシューティングガイドを提供。
 - [guaca](https://github.com/madebywelch/guaca) - 持続するパソコン操作エージェントの、もう一つの自前ホスト実装。
 - [OpenGrokBot](https://github.com/wolfqing/OpenGrokBot) - OpenClaw に自前モデルを足し、Bot の代わりとして組んだもの。
 - [XinyunOpenBot](https://github.com/dongpen-max/XinyunOpenBot) - 同じ仕事を狙った中国語のオープンソース代替。
@@ -2296,7 +2268,7 @@
 
 ## 貢献
 
-8 セクションに 2183 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2184 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

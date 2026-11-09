@@ -12286,6 +12286,16 @@
           }
         },
         {
+  "title": "DeployButler",
+  "url": "https://deploybutler.com/",
+  "blurb": {
+    "en": "Unofficial done-for-you deployment service for rakazo: setup on your own VPS plus free step-by-step install and troubleshooting guides.",
+    "zh": "非官方 rakazo 代部署服务：在你自己的 VPS 上完成部署，附免费分步安装与排障教程。",
+    "ja": "rakazo の非公式デプロイ代行サービス。自分の VPS への導入と、無料の手順付きインストール／トラブルシューティングガイドを提供。"
+  }
+},
+
+        {
           "title": "guaca",
           "url": "https://github.com/madebywelch/guaca",
           "source": "GB-062",
