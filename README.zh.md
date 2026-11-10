@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -315,6 +315,7 @@
 - [The Agent Roster Playbook — 11 steps from the Grok Bot team's workflow](https://github.com/DevvGwardo/agent-roster-playbook) - 对一篇文章的精简整理（注明出处）：SpaceXAI 与 Cursor 团队如何运营窄职责 Grok Bot 阵容——可编辑档案、三层记忆、监视通道、技能串联与 Bot 间交接。.
 - [grokbot.guru — practical Grok Bot how-tos, templates, and news](https://grokbot.guru/) - 独立的 Grok Bot 实用站点：入门与进阶教程、可复制的 Bot 模板（销售/营销/个人）、工具箱汇总，以及新闻与热点栏目。.
 - [Guía en español: a 4-Bot sales team with Grok Bot (Guatemala meetup workshop)](https://github.com/valenzmanu/guia-grok-bot) - Manuel Valenzuela 在 Grok Bot 危地马拉 Meetup（UFM，2026 年 10 月 3 日）工作坊整理的西班牙语指南（CC BY 4.0）：给出 Scout、Analista、Builder、SDR 四个 Bot 的描述和提示词，找出没有官网的本地商家、打分、做演示落地页并起草从不发送的开发信，另附只用一个 Bot 的省额度方案、伦理规则和故障处理表。.
+- [Little Book of Bots](https://littlebookofbots.com/) - 独立的通俗指南，收录家庭日常使用 Grok Bot 的点子，涵盖爱好、智能家居、整理收纳、隐私与防骗、健康文书和出行，每条都附有可复制的请求。.
 
 ## 真实使用案例
 
@@ -2296,7 +2297,7 @@
 
 ## 贡献
 
-目前 8 个分类、2183 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2184 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
