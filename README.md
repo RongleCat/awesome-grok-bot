@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -315,6 +315,7 @@
 - [The Agent Roster Playbook — 11 steps from the Grok Bot team's workflow](https://github.com/DevvGwardo/agent-roster-playbook) - Condensed, credited reference of an article on how SpaceXAI and Cursor teams run narrow Grok Bot rosters: editable profiles, three-layer memory, watcher lanes, skill chaining, and bot-to-bot handoffs.
 - [grokbot.guru — practical Grok Bot how-tos, templates, and news](https://grokbot.guru/) - Independent Grok Bot site with beginner and advanced how-tos, copyable bot templates (sales, marketing, personal), a toolkit shelf, and a news and trending desk.
 - [Guía en español: a 4-Bot sales team with Grok Bot (Guatemala meetup workshop)](https://github.com/valenzmanu/guia-grok-bot) - Spanish-language CC BY 4.0 guide from Manuel Valenzuela's workshop at the Grok Bot Guatemala Meetup (UFM, 3 Oct 2026), with descriptions and prompts for four Bots (Scout, Analyst, Builder, SDR) that find local businesses without a website, score them, build a demo landing page and draft outreach that is never sent, plus a one-Bot credit-saving plan, ethics rules and a troubleshooting table.
+- [Little Book of Bots](https://littlebookofbots.com/) - Independent, plain-language collection of everyday Grok Bot ideas for home life (hobbies, smart home, organizing, privacy and scam protection, health paperwork, and travel), each with a request you can copy.
 
 ## Field Cases
 
@@ -2296,7 +2297,7 @@
 
 ## Contributing
 
-2183 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2184 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 

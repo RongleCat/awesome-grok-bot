@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -315,6 +315,7 @@
 - [The Agent Roster Playbook — 11 steps from the Grok Bot team's workflow](https://github.com/DevvGwardo/agent-roster-playbook) - SpaceXAI と Cursor チームが狭い役割の Grok Bot 群をどう回すかを、出典付きで要約したリファレンス。編集可能なプロフィール、3層メモリ、監視レーン、スキル連鎖、Bot 間引き継ぎ。
 - [grokbot.guru — practical Grok Bot how-tos, templates, and news](https://grokbot.guru/) - 独立系の Grok Bot 実用サイト。初級・上級のハウツー、コピーできる Bot テンプレート（営業・マーケ・個人）、ツールキット一覧、ニュース/トレンド欄。
 - [Guía en español: a 4-Bot sales team with Grok Bot (Guatemala meetup workshop)](https://github.com/valenzmanu/guia-grok-bot) - Manuel Valenzuela が Grok Bot Guatemala Meetup（UFM、2026 年 10 月 3 日）のワークショップをまとめたスペイン語ガイド（CC BY 4.0）。Scout・Analista・Builder・SDR の 4 つの Bot の説明とプロンプトで、Web サイトのない地元店舗を探し、採点し、デモ用ランディングページを作り、送信しない営業文を下書きする。1 Bot だけの節約プラン、倫理ルール、トラブル対応表付き。
+- [Little Book of Bots](https://littlebookofbots.com/) - 趣味、スマートホーム、整理、プライバシーと詐欺対策、健康の手続き、旅行など、家庭での日常向け Grok Bot のアイデアを平易な言葉で集め、それぞれにコピーできる依頼文を添えた独立ガイド。
 
 ## 実地事例
 
@@ -2296,7 +2297,7 @@
 
 ## 貢献
 
-8 セクションに 2183 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2184 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

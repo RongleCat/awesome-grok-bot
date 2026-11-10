@@ -2254,6 +2254,16 @@
             "zh": "Manuel Valenzuela 在 Grok Bot 危地马拉 Meetup（UFM，2026 年 10 月 3 日）工作坊整理的西班牙语指南（CC BY 4.0）：给出 Scout、Analista、Builder、SDR 四个 Bot 的描述和提示词，找出没有官网的本地商家、打分、做演示落地页并起草从不发送的开发信，另附只用一个 Bot 的省额度方案、伦理规则和故障处理表。",
             "ja": "Manuel Valenzuela が Grok Bot Guatemala Meetup（UFM、2026 年 10 月 3 日）のワークショップをまとめたスペイン語ガイド（CC BY 4.0）。Scout・Analista・Builder・SDR の 4 つの Bot の説明とプロンプトで、Web サイトのない地元店舗を探し、採点し、デモ用ランディングページを作り、送信しない営業文を下書きする。1 Bot だけの節約プラン、倫理ルール、トラブル対応表付き。"
           }
+        },
+        {
+          "title": "Little Book of Bots",
+          "url": "https://littlebookofbots.com/",
+          "source": "community-pr",
+          "blurb": {
+            "en": "Independent, plain-language collection of everyday Grok Bot ideas for home life (hobbies, smart home, organizing, privacy and scam protection, health paperwork, and travel), each with a request you can copy.",
+            "zh": "独立的通俗指南，收录家庭日常使用 Grok Bot 的点子，涵盖爱好、智能家居、整理收纳、隐私与防骗、健康文书和出行，每条都附有可复制的请求。",
+            "ja": "趣味、スマートホーム、整理、プライバシーと詐欺対策、健康の手続き、旅行など、家庭での日常向け Grok Bot のアイデアを平易な言葉で集め、それぞれにコピーできる依頼文を添えた独立ガイド。"
+          }
         }
       ]
     },
