@@ -11384,6 +11384,16 @@
             "zh": "面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。",
             "ja": "動画向けのベンダー中立 Agent Skills パック（プロンプト、演出、絵コンテ、キャラ一貫性、台詞/音声、組み立て、アダプタ、QA）。Grok Bot など Agent Skills 対応クライアントに入れられ、特定ジェネレータに縛られない。"
           }
+        },
+        {
+          "title": "mangrove-agent",
+          "url": "https://github.com/MangroveTechnologies/mangrove-agent",
+          "source": "pr-mangrove-agent",
+          "blurb": {
+            "en": "Guardrails for trading agents: open-source agent that a Grok Bot clones and runs on its own box through a command client, with built-in risk management on every order (circuit breakers, automatic risk-based position sizing, and automatic stop-loss and take-profit orders) plus strategy research, backtesting, and paper or live trading.",
+            "zh": "面向交易智能体的护栏：开源智能体，Grok Bot 可克隆到自己的云电脑上并通过命令客户端运行，每笔订单都内置风险管理（熔断机制、基于风险的自动仓位计算、自动止损和止盈订单），并支持策略研究、回测以及模拟或实盘交易。",
+            "ja": "トレーディングエージェント向けのガードレール。Grok Bot が自分のクラウドパソコンにクローンし、コマンドクライアント経由で動かすオープンソースのエージェントで、すべての注文にリスク管理（サーキットブレーカー、リスクに基づく自動ポジションサイジング、損切り・利確注文の自動設定）を組み込み、戦略リサーチ、バックテスト、ペーパートレードまたはライブ取引に対応します。"
+          }
         }
       ]
     },
