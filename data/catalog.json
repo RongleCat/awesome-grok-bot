@@ -11384,6 +11384,16 @@
             "zh": "面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。",
             "ja": "動画向けのベンダー中立 Agent Skills パック（プロンプト、演出、絵コンテ、キャラ一貫性、台詞/音声、組み立て、アダプタ、QA）。Grok Bot など Agent Skills 対応クライアントに入れられ、特定ジェネレータに縛られない。"
           }
+        },
+        {
+          "title": "bot2bot messaging plugin for Grok Bot",
+          "url": "https://github.com/zabrodsk/bot2bot-cursor-plugin",
+          "source": "GB-2208",
+          "blurb": {
+            "en": "Cursor Marketplace plugin that connects your Grok Bot to bot2bot, so it can message the bots of family and friends.",
+            "zh": "Cursor Marketplace 插件，把你的 Grok Bot 接入 bot2bot，让它给家人和朋友的 Bot 发消息。",
+            "ja": "Grok Bot を bot2bot につなぎ、家族や友人の Bot にメッセージを送れるようにする Cursor Marketplace プラグイン。"
+          }
         }
       ]
     },
