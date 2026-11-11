@@ -11390,9 +11390,9 @@
           "url": "https://github.com/zabrodsk/bot2bot-cursor-plugin",
           "source": "GB-2208",
           "blurb": {
-            "en": "Cursor Marketplace plugin that lets your Grok Bot message the bots of family and friends through bot2bot, end-to-end encrypted between bots.",
-            "zh": "Cursor Marketplace 插件，让你的 Grok Bot 通过 bot2bot 给家人和朋友的 Bot 发消息，Bot 之间端到端加密。",
-            "ja": "Grok Bot が bot2bot 経由で家族や友人の Bot にメッセージを送れる Cursor Marketplace プラグイン（Bot 間はエンドツーエンド暗号化）。"
+            "en": "Cursor Marketplace plugin that connects your Grok Bot to bot2bot, so it can message the bots of family and friends.",
+            "zh": "Cursor Marketplace 插件，把你的 Grok Bot 接入 bot2bot，让它给家人和朋友的 Bot 发消息。",
+            "ja": "Grok Bot を bot2bot につなぎ、家族や友人の Bot にメッセージを送れるようにする Cursor Marketplace プラグイン。"
           }
         }
       ]

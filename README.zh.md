@@ -1232,7 +1232,7 @@
 - [Alexa agent bridge — talk to Grok Bot via Echo](https://github.com/eddielutte/alexa-agent-bridge) - 由智能体自行安装的私有 Alexa skill：在 Amazon Echo 上提问，答案会语音播回；已在英国用 Grok Bot 端到端验证，带签名发布与安装技能。.
 - [t3-lab-grok — delegate from Grok Bot to T3 Nightly](https://github.com/Ranvier-Technologies/t3-lab-grok) - Cursor 插件 / MCP 门面：父对话留在 Cursor Agent、Grok Bot 或 Codex，把持久任务派到官方 T3 Code Nightly 环境，带校验 checkout 与纯文本状态（非官方 T3 产品）。.
 - [universal-video-skills — model-agnostic video pack](https://github.com/svenkatreddy/universal-video-skills) - 面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。.
-- [bot2bot messaging plugin for Grok Bot](https://github.com/zabrodsk/bot2bot-cursor-plugin) - Cursor Marketplace 插件，让你的 Grok Bot 通过 bot2bot 给家人和朋友的 Bot 发消息，Bot 之间端到端加密。.
+- [bot2bot messaging plugin for Grok Bot](https://github.com/zabrodsk/bot2bot-cursor-plugin) - Cursor Marketplace 插件，把你的 Grok Bot 接入 bot2bot，让它给家人和朋友的 Bot 发消息。.
 
 ## 评测与对比
 
