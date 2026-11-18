@@ -683,7 +683,7 @@
 - [Йа Криведко — Grok Bot marketplace adapter](https://github.com/ast-ashulga/as.krivedko.grokbot) - 面向 Grok Bot Marketplace 的「Йа Криведко」（padonki/olbanian）薄适配器：锁定拼写子模块、skill/SKILL.md、人设、夹具与分享模板发布清单。.
 - [Agora — Grok Bot career-fleet blueprints](https://github.com/LayishSieger/agora) - 面向 Grok Bot 的职业舰队蓝图与安装遥测：含精简公开模板（人设 + create/steward skills），以及每台盒子上的 profile/简历事实源路径。.
 - [SuperMe — official Cursor / Grok Build plugin manifests](https://github.com/superme-ai/superme-plugins) - SuperMe 官方市场清单，面向 Cursor 与 Grok Build（含 .grok-plugin）：OAuth 接入托管 mcp.superme.ai，多人视角工作建议，无需本地服务或粘贴 API Key。.
-- [BotShelf Vampire](https://github.com/BotShelfVampire/botshelf) - 免费的可复制 Grok Bot 工作流包，涵盖来源研究、会议行动项与代码审查，附试用指南和运行证据要求；另有 Claude Code 与 ChatGPT 版本。.
+- [BotShelf Vampire — Grok Bot tools (unofficial)](https://github.com/BotShelfVampire/botshelf-grok-bot-tools) - 可复制到 Grok Bot 或 Grok Build 的非官方文本（技能、例行任务说明、Bot 初始设定文本与检查清单），采用 MIT 许可，作者尚未记录实际运行，因此全部标注为 Untested（未经测试）。.
 - [Kontext memory plugin for Grok Bot](https://github.com/TheKontextCo/kontext-grok-plugin) - Cursor 市场插件，可在 Grok Bot 安装：经托管 Kontext MCP 提供可移植项目/任务/记忆。.
 - [BotOps Grok Bot fleet lifecycle skill](https://github.com/granda/botops) - 面向 Grok Bot 舰队的 Agent Skills：CoS→L2→L3 分层、Notion 工单与低噪音 swarm 规则。.
 - [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - 通过本机 macOS helper 让 Bot 读、分拣、发 iMessage。.

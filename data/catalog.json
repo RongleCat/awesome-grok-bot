@@ -5896,13 +5896,13 @@
           }
         },
         {
-          "title": "BotShelf Vampire",
-          "url": "https://github.com/BotShelfVampire/botshelf",
+          "title": "BotShelf Vampire — Grok Bot tools (unofficial)",
+          "url": "https://github.com/BotShelfVampire/botshelf-grok-bot-tools",
           "source": "GB-593",
           "blurb": {
-            "en": "Free, copyable Grok Bot workflow packs for source research, meeting actions and code review, with trial guides and run-evidence requirements; includes Claude Code and ChatGPT variants.",
-            "zh": "免费的可复制 Grok Bot 工作流包，涵盖来源研究、会议行动项与代码审查，附试用指南和运行证据要求；另有 Claude Code 与 ChatGPT 版本。",
-            "ja": "出典付き調査、会議のアクション整理、コードレビュー向けの無料Grok Botワークフローパックで、試用ガイドと実行証拠の要件を備え、Claude Code・ChatGPT版も収録。"
+            "en": "Unofficial MIT-licensed texts to copy into Grok Bot or Grok Build (skills, routine briefs, Bot setup sheets and checklists), each marked Untested because the authors have not recorded a run.",
+            "zh": "可复制到 Grok Bot 或 Grok Build 的非官方文本（技能、例行任务说明、Bot 初始设定文本与检查清单），采用 MIT 许可，作者尚未记录实际运行，因此全部标注为 Untested（未经测试）。",
+            "ja": "Grok Bot・Grok Build にコピーして使う非公式の文面集（スキル、ルーティンの依頼文、Bot の初期設定の文面、チェックリスト）で、MIT ライセンス、作者による実行の記録はまだ無いため全件に Untested（未検証）と明記。"
           }
         },
         {

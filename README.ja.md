@@ -683,7 +683,7 @@
 - [Йа Криведко — Grok Bot marketplace adapter](https://github.com/ast-ashulga/as.krivedko.grokbot) - Grok Bot Marketplace 向け «Йа Криведко»（padonki/olbanian）薄いアダプタ。正書法サブモジュール固定、skill/SKILL.md、profile、fixture、テンプレ公開チェックリスト。
 - [Agora — Grok Bot career-fleet blueprints](https://github.com/LayishSieger/agora) - Grok Bot 向けキャリア艦隊ブループリントとインストール計測。薄い公開テンプレ（persona + create/steward skills）とボックスごとの profile/履歴書 SoT。
 - [SuperMe — official Cursor / Grok Build plugin manifests](https://github.com/superme-ai/superme-plugins) - Cursor / Grok Build 向け SuperMe 公式マーケットマニフェスト（.grok-plugin）。ホスト型 mcp.superme.ai へ OAuth、ローカルサーバや API キー貼り付け不要。
-- [BotShelf Vampire](https://github.com/BotShelfVampire/botshelf) - 出典付き調査、会議のアクション整理、コードレビュー向けの無料Grok Botワークフローパックで、試用ガイドと実行証拠の要件を備え、Claude Code・ChatGPT版も収録。
+- [BotShelf Vampire — Grok Bot tools (unofficial)](https://github.com/BotShelfVampire/botshelf-grok-bot-tools) - Grok Bot・Grok Build にコピーして使う非公式の文面集（スキル、ルーティンの依頼文、Bot の初期設定の文面、チェックリスト）で、MIT ライセンス、作者による実行の記録はまだ無いため全件に Untested（未検証）と明記。
 - [Kontext memory plugin for Grok Bot](https://github.com/TheKontextCo/kontext-grok-plugin) - Grok Bot が入れられる Cursor マーケットプラグイン。ホスト済み Kontext MCP でプロジェクト・タスク・記憶。
 - [BotOps Grok Bot fleet lifecycle skill](https://github.com/granda/botops) - Grok Bot フリート向け Agent Skills。CoS→L2→L3、Notion チケット、静かなスウォーム規則。
 - [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - ローカルの macOS helper 経由で、Bot が iMessage を読み、仕分け、送ります。
