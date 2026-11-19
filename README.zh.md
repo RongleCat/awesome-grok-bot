@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -37,43 +37,10 @@
 
 [全部活动介绍](./EVENTS.zh.md)
 
-- **中国**（3）：[上海](./EVENTS.zh.md#sha-20261018) · [武汉](./EVENTS.zh.md#wuh-20261017) · [澳门](./EVENTS.zh.md#mo-20261112)
-- **美国**（13）：[匹兹堡](./EVENTS.zh.md#pgh-20261013) · [费城](./EVENTS.zh.md#phl-20261027) · [费城](./EVENTS.zh.md#phl-20261117) · [费城](./EVENTS.zh.md#phl-20261217) · [坦帕湾](./EVENTS.zh.md#tpa-20261114) · [亚特兰大](./EVENTS.zh.md#atl-20261016) · [西雅图](./EVENTS.zh.md#sea-20261012) · [芝加哥（配对共建）](./EVENTS.zh.md#chi-20261016) · [印第安纳波利斯（Fishers）](./EVENTS.zh.md#ind-20261112) · [奥斯汀 Hackathon](./EVENTS.zh.md#aus-20261019) · [纽约（创业工作坊）](./EVENTS.zh.md#nyc-20261105) · [查塔努加](./EVENTS.zh.md#cha-20261216) · [厄巴纳（UIUC 工作坊）](./EVENTS.zh.md#urb-20261009)
-- **德国**（5）：[斯图加特](./EVENTS.zh.md#str-20261015) · [法兰克福](./EVENTS.zh.md#fra-20261120) · [卡塞尔](./EVENTS.zh.md#kas-20261112) · [法兰克福](./EVENTS.zh.md#fra-20261030) · [汉堡](./EVENTS.zh.md#ham-20261028)
-- **加拿大**（4）：[多伦多](./EVENTS.zh.md#yyz-20261026) · [卡尔加里](./EVENTS.zh.md#yyc-20261028) · [哈利法克斯](./EVENTS.zh.md#yhz-20261015) · [渥太华](./EVENTS.zh.md#yow-20261017)
-- **意大利**（4）：[罗马](./EVENTS.zh.md#rom-20261023) · [特雷维索](./EVENTS.zh.md#tvs-20261022) · [博洛尼亚](./EVENTS.zh.md#blq-20261012) · [帕维亚](./EVENTS.zh.md#pav-20261105)
-- **巴西**（3）：[维多利亚·达孔基斯塔](./EVENTS.zh.md#vdc-20261014) · [库里蒂巴](./EVENTS.zh.md#cwb-20261111) · [弗洛里亚诺波利斯](./EVENTS.zh.md#fln-20261016)
-- **韩国**（3）：[首尔](./EVENTS.zh.md#sel-20261027) · [首尔（10/13）](./EVENTS.zh.md#sel-20261013) · [首尔 Hackathon #4](./EVENTS.zh.md#sel-20261024)
-- **厄瓜多尔**（2）：[安巴托](./EVENTS.zh.md#atu-20261029) · [基多](./EVENTS.zh.md#uio-20261021)
-- **西班牙**（2）：[阿利坎特](./EVENTS.zh.md#alc-20261107) · [毕尔巴鄂](./EVENTS.zh.md#bil-20261019)
-- **英国**（2）：[伦敦 Hackathon](./EVENTS.zh.md#ldn-20261022) · [奥姆斯柯克（西北）](./EVENTS.zh.md#ork-20261024)
 - **危地马拉**（2）：[危地马拉](./EVENTS.zh.md#gua-20261205) · [危地马拉城（Build & Pitch）](./EVENTS.zh.md#gua-20261121)
-- **印度尼西亚**（2）：[雅加达](./EVENTS.zh.md#jkt-20261107) · [巴厘岛Canggu](./EVENTS.zh.md#bli-20261025)
-- **日本**（2）：[东京](./EVENTS.zh.md#tyo-20261011) · [川崎（神奈川）](./EVENTS.zh.md#kaw-20261104)
-- **秘鲁**（2）：[万卡约](./EVENTS.zh.md#hyo-20261023) · [利马（10/17）](./EVENTS.zh.md#lim-20261017)
-- **多哥**（2）：[洛美工作坊](./EVENTS.zh.md#lfw-20261017) · [洛美构建日](./EVENTS.zh.md#lfw-20261114)
-- **阿尔巴尼亚**（1）：[地拉那](./EVENTS.zh.md#tia-20261017)
+- **美国**（2）：[费城](./EVENTS.zh.md#phl-20261217) · [查塔努加](./EVENTS.zh.md#cha-20261216)
 - **阿根廷**（1）：[巴里洛切（一周年）](./EVENTS.zh.md#brc-20261128)
-- **奥地利**（1）：[维也纳](./EVENTS.zh.md#vie-20261031)
-- **孟加拉国**（1）：[达卡](./EVENTS.zh.md#dac-20261031)
-- **保加利亚**（1）：[索非亚](./EVENTS.zh.md#sof-20261030)
-- **玻利维亚**（1）：[圣克鲁斯（AI 安全日）](./EVENTS.zh.md#vvi-20261024)
-- **科特迪瓦**（1）：[阿比让](./EVENTS.zh.md#abj-20261107)
-- **哥伦比亚**（1）：[萨尔萨尔](./EVENTS.zh.md#zar-20261017)
-- **埃塞俄比亚**（1）：[吉马](./EVENTS.zh.md#jim-20261115)
-- **芬兰**（1）：[赫尔辛基](./EVENTS.zh.md#hel-20261027)
-- **加纳**（1）：[阿克拉](./EVENTS.zh.md#acc-20261017)
-- **以色列**（1）：[特拉维夫](./EVENTS.zh.md#tlv-20261019)
-- **柬埔寨**（1）：[暹粒](./EVENTS.zh.md#srp-20261101)
-- **斯里兰卡**（1）：[科伦坡](./EVENTS.zh.md#cmb-20261017)
-- **摩洛哥**（1）：[卡萨布兰卡](./EVENTS.zh.md#cas-20261017)
-- **挪威**（1）：[奥斯陆](./EVENTS.zh.md#osl-20261016)
-- **菲律宾**（1）：[宿务](./EVENTS.zh.md#ceb-20260919)
-- **瑞典**（1）：[斯德哥尔摩](./EVENTS.zh.md#sto-20261014)
-- **萨尔瓦多**（1）：[圣萨尔瓦多工作坊](./EVENTS.zh.md#sal-20261017)
-- **特立尼达和多巴哥**（1）：[西班牙港](./EVENTS.zh.md#pos-20261030)
-- **赞比亚**（1）：[卢萨卡（第 2 场）](./EVENTS.zh.md#lun-20261031)
-- **线上**（6）：[线上（戈亚尼亚）](./EVENTS.zh.md#gyn-20261017) · [销售专场](./EVENTS.zh.md#sales-20261013) · [Grok Bot + Cursor 专场](./EVENTS.zh.md#scs-20261015) · [金融服务专场](./EVENTS.zh.md#fin-20261020) · [管理员专场](./EVENTS.zh.md#adm-20261021) · [新功能讲解（10/30）](./EVENTS.zh.md#wng-20261030)
+- **德国**（1）：[法兰克福](./EVENTS.zh.md#fra-20261120)
 
 ## 目录
 
@@ -315,6 +282,7 @@
 - [The Agent Roster Playbook — 11 steps from the Grok Bot team's workflow](https://github.com/DevvGwardo/agent-roster-playbook) - 对一篇文章的精简整理（注明出处）：SpaceXAI 与 Cursor 团队如何运营窄职责 Grok Bot 阵容——可编辑档案、三层记忆、监视通道、技能串联与 Bot 间交接。.
 - [grokbot.guru — practical Grok Bot how-tos, templates, and news](https://grokbot.guru/) - 独立的 Grok Bot 实用站点：入门与进阶教程、可复制的 Bot 模板（销售/营销/个人）、工具箱汇总，以及新闻与热点栏目。.
 - [Guía en español: a 4-Bot sales team with Grok Bot (Guatemala meetup workshop)](https://github.com/valenzmanu/guia-grok-bot) - Manuel Valenzuela 在 Grok Bot 危地马拉 Meetup（UFM，2026 年 10 月 3 日）工作坊整理的西班牙语指南（CC BY 4.0）：给出 Scout、Analista、Builder、SDR 四个 Bot 的描述和提示词，找出没有官网的本地商家、打分、做演示落地页并起草从不发送的开发信，另附只用一个 Bot 的省额度方案、伦理规则和故障处理表。.
+- [Grok Bots Market — directory of ready-made Grok Bots](https://grokbotsmarket.com/) - 独立的 Grok Bot 公开模板目录，按任务和所连应用分类，每个 Bot 都有说明、接入说明和「Add to Grok Bot」链接，部分附实测录屏。.
 
 ## 真实使用案例
 
@@ -2296,7 +2264,7 @@
 
 ## 贡献
 
-目前 8 个分类、2183 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2184 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
