@@ -2254,6 +2254,16 @@
             "zh": "Manuel Valenzuela 在 Grok Bot 危地马拉 Meetup（UFM，2026 年 10 月 3 日）工作坊整理的西班牙语指南（CC BY 4.0）：给出 Scout、Analista、Builder、SDR 四个 Bot 的描述和提示词，找出没有官网的本地商家、打分、做演示落地页并起草从不发送的开发信，另附只用一个 Bot 的省额度方案、伦理规则和故障处理表。",
             "ja": "Manuel Valenzuela が Grok Bot Guatemala Meetup（UFM、2026 年 10 月 3 日）のワークショップをまとめたスペイン語ガイド（CC BY 4.0）。Scout・Analista・Builder・SDR の 4 つの Bot の説明とプロンプトで、Web サイトのない地元店舗を探し、採点し、デモ用ランディングページを作り、送信しない営業文を下書きする。1 Bot だけの節約プラン、倫理ルール、トラブル対応表付き。"
           }
+        },
+        {
+          "title": "Grok Bots Market — directory of ready-made Grok Bots",
+          "url": "https://grokbotsmarket.com/",
+          "source": "community-pr",
+          "blurb": {
+            "en": "Independent directory of public Grok Bot templates sorted by task and connected app, each with a description, setup notes, and an Add to Grok Bot link, and some with a recorded demo run.",
+            "zh": "独立的 Grok Bot 公开模板目录，按任务和所连应用分类，每个 Bot 都有说明、接入说明和「Add to Grok Bot」链接，部分附实测录屏。",
+            "ja": "Grok Bot の公開テンプレートをタスクと連携アプリ別に整理した独立ディレクトリ。各 Bot に説明・接続メモ・Add to Grok Bot リンクがあり、一部は実行デモ動画付き。"
+          }
         }
       ]
     },

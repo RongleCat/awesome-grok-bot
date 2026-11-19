@@ -315,6 +315,7 @@
 - [The Agent Roster Playbook — 11 steps from the Grok Bot team's workflow](https://github.com/DevvGwardo/agent-roster-playbook) - Condensed, credited reference of an article on how SpaceXAI and Cursor teams run narrow Grok Bot rosters: editable profiles, three-layer memory, watcher lanes, skill chaining, and bot-to-bot handoffs.
 - [grokbot.guru — practical Grok Bot how-tos, templates, and news](https://grokbot.guru/) - Independent Grok Bot site with beginner and advanced how-tos, copyable bot templates (sales, marketing, personal), a toolkit shelf, and a news and trending desk.
 - [Guía en español: a 4-Bot sales team with Grok Bot (Guatemala meetup workshop)](https://github.com/valenzmanu/guia-grok-bot) - Spanish-language CC BY 4.0 guide from Manuel Valenzuela's workshop at the Grok Bot Guatemala Meetup (UFM, 3 Oct 2026), with descriptions and prompts for four Bots (Scout, Analyst, Builder, SDR) that find local businesses without a website, score them, build a demo landing page and draft outreach that is never sent, plus a one-Bot credit-saving plan, ethics rules and a troubleshooting table.
+- [Grok Bots Market — directory of ready-made Grok Bots](https://grokbotsmarket.com/) - Independent directory of public Grok Bot templates sorted by task and connected app, each with a description, setup notes, and an Add to Grok Bot link, and some with a recorded demo run.
 
 ## Field Cases
 

@@ -315,6 +315,7 @@
 - [The Agent Roster Playbook — 11 steps from the Grok Bot team's workflow](https://github.com/DevvGwardo/agent-roster-playbook) - SpaceXAI と Cursor チームが狭い役割の Grok Bot 群をどう回すかを、出典付きで要約したリファレンス。編集可能なプロフィール、3層メモリ、監視レーン、スキル連鎖、Bot 間引き継ぎ。
 - [grokbot.guru — practical Grok Bot how-tos, templates, and news](https://grokbot.guru/) - 独立系の Grok Bot 実用サイト。初級・上級のハウツー、コピーできる Bot テンプレート（営業・マーケ・個人）、ツールキット一覧、ニュース/トレンド欄。
 - [Guía en español: a 4-Bot sales team with Grok Bot (Guatemala meetup workshop)](https://github.com/valenzmanu/guia-grok-bot) - Manuel Valenzuela が Grok Bot Guatemala Meetup（UFM、2026 年 10 月 3 日）のワークショップをまとめたスペイン語ガイド（CC BY 4.0）。Scout・Analista・Builder・SDR の 4 つの Bot の説明とプロンプトで、Web サイトのない地元店舗を探し、採点し、デモ用ランディングページを作り、送信しない営業文を下書きする。1 Bot だけの節約プラン、倫理ルール、トラブル対応表付き。
+- [Grok Bots Market — directory of ready-made Grok Bots](https://grokbotsmarket.com/) - Grok Bot の公開テンプレートをタスクと連携アプリ別に整理した独立ディレクトリ。各 Bot に説明・接続メモ・Add to Grok Bot リンクがあり、一部は実行デモ動画付き。
 
 ## 実地事例
 
