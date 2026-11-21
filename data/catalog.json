@@ -21914,6 +21914,16 @@
             "zh": "开源个人 AI 队友（Web/桌面/移动），有持久记忆、工具与例程，可自托管；作者称为仍处 beta 的 Grok Bot / Muse / Dots 替代。",
             "ja": "オープンソースの個人 AI チームメイト（Web/デスクトップ/モバイル）。持続メモリ・ツール・ルーチンをセルフホスト可能。作者は beta の Grok Bot / Muse / Dots 代替と説明。"
           }
+        },
+        {
+          "title": "Bot 直聘",
+          "url": "https://bot.jiachengbo.com",
+          "source": "community-pr",
+          "blurb": {
+            "en": "Chinese-language shelf of 83 Grok Bot templates, each reviewed from its full configuration, with permissions, usage cost and what to prepare before importing.",
+            "zh": "中文 Grok Bot 模板货架：83 个模板逐个读过完整配置，标注权限、额度消耗和导入前要准备什么。",
+            "ja": "83件の Grok Bot テンプレートを、設定内容を一つずつすべて確認したうえで紹介する中国語の一覧。各テンプレートの必要な権限、利用枠の消費、インポート前に用意するものを明記。"
+          }
         }
       ]
     }
