@@ -11384,6 +11384,16 @@
             "zh": "面向视频制作的厂商中立 Agent Skills 包（提示词、导戏、分镜、角色一致性、对白/音频、剪辑、模型适配与质检），可装进 Grok Bot 及其他 Agent Skills 客户端，不绑定单一生成器。",
             "ja": "動画向けのベンダー中立 Agent Skills パック（プロンプト、演出、絵コンテ、キャラ一貫性、台詞/音声、組み立て、アダプタ、QA）。Grok Bot など Agent Skills 対応クライアントに入れられ、特定ジェネレータに縛られない。"
           }
+        },
+        {
+          "title": "DC Hub — data center and energy intelligence MCP for Grok Bot",
+          "url": "https://github.com/azmartone67/dchub-mcp-server",
+          "source": "pr-dchub",
+          "blurb": {
+            "en": "DC Hub is the orchestration layer for data center and energy intelligence: connect Grok Bot or Cursor to the hosted MCP at https://dchub.cloud/mcp (DCHUB_API_KEY is optional) and call execute_plan first for dated, cited answers on data center, colocation, energy, power grid, fiber, site selection and capacity, including the Data Center Power Index (DCPI).",
+            "zh": "DC Hub 是数据中心与能源情报的编排层：把 Grok Bot 或 Cursor 连接到托管 MCP https://dchub.cloud/mcp（DCHUB_API_KEY 可选），先调用 execute_plan，即可获得数据中心、托管（colocation）、能源、电网、光纤、选址与容量方面带日期和引用的答案，包括 Data Center Power Index (DCPI)。",
+            "ja": "DC Hub はデータセンターとエネルギー情報のオーケストレーション層。Grok Bot や Cursor をホスト MCP https://dchub.cloud/mcp（DCHUB_API_KEY は任意）につなぎ、まず execute_plan を呼ぶと、データセンター、コロケーション、エネルギー、電力網、光ファイバー、立地選定、キャパシティについて日付と出典付きの回答が得られる。Data Center Power Index (DCPI) も含む。"
+          }
         }
       ]
     },
