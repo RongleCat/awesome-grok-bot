@@ -15694,6 +15694,16 @@
             "zh": "在 Grok Bot 云电脑上接入 OpenCode Free 零价模型的脚本与文档（本机 opencode serve、每日雷达扫描、助手分流），不会自动切到付费模型。",
             "ja": "Grok Bot クラウドコンピュータで OpenCode Free のゼロ価格モデルを使うスクリプトと文書（ローカル opencode serve、毎日のレーダー、アシスタント分流）。有料への自動切替なし。"
           }
+        },
+        {
+          "title": "relaybot",
+          "url": "https://github.com/zthreefires/relaybot",
+          "source": "https://github.com/zthreefires/relaybot",
+          "blurb": {
+            "en": "Send a coding task from Grok Bot to Codex or Claude Code on your Mac, get the result or an approval request back in the same chat by webhook, and reply to continue the session.",
+            "zh": "在 Grok Bot 聊天里让自己 Mac 上的 Codex 或 Claude Code 跑任务，结果或授权请求会通过 webhook 回到原对话，回复即可继续同一会话。",
+            "ja": "Grok Bot から自分の Mac 上の Codex や Claude Code に作業を依頼し、結果や承認依頼を webhook で元のチャットに受け取り、返信して同じセッションを続けられます。"
+          }
         }
       ]
     },

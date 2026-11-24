@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1667,6 +1667,7 @@
 - [calico — desktop kit for grokbot-buddy ESP32 panel](https://github.com/newtosh/calico) - Linux-first Electron companion, ESP32-S3 firmware and Grok Bot webhook kit for the grokbot-buddy desk panel that shows what your agents are doing, with tray app, USB/BLE setup and signed AppImage releases.
 - [spum-pipeline — agent orchestration for Cursor / Grok Bots](https://github.com/Spumcake/spum-pipeline) - Cursor agents, rules and skills that take a software idea from a short brief through specification, design and incremental implementation with a coordinator that splits work into small owned tasks, usable from Cursor IDE and Grok Bots.
 - [freetoken-bots — OpenCode Free models on Grok Bot box](https://github.com/derekwalldevin-wen/freetoken-bots) - Scripts and docs to run OpenCode Free zero-price models on a Grok Bot cloud computer (local opencode serve, daily radar scan, assistant diversion) without auto-switching to paid models.
+- [relaybot](https://github.com/zthreefires/relaybot) - Send a coding task from Grok Bot to Codex or Claude Code on your Mac, get the result or an approval request back in the same chat by webhook, and reply to continue the session.
 
 ## Community & Failure Modes
 
@@ -2296,7 +2297,7 @@
 
 ## Contributing
 
-2183 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2184 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
