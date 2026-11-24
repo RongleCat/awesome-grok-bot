@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1667,6 +1667,7 @@
 - [calico — desktop kit for grokbot-buddy ESP32 panel](https://github.com/newtosh/calico) - Linux 優先の Electron コンパニオン、ESP32-S3 ファーム、Grok Bot webhook キット。grokbot-buddy デスクパネルにエージェントの様子を表示。トレイアプリ、USB/BLE 設定、署名付き AppImage 付き。
 - [spum-pipeline — agent orchestration for Cursor / Grok Bots](https://github.com/Spumcake/spum-pipeline) - 短いブリーフから仕様・設計・段階実装まで進める Cursor の agents/rules/skills。コーディネータが小さな担当タスクに分割。Cursor IDE と Grok Bot で利用可能。
 - [freetoken-bots — OpenCode Free models on Grok Bot box](https://github.com/derekwalldevin-wen/freetoken-bots) - Grok Bot クラウドコンピュータで OpenCode Free のゼロ価格モデルを使うスクリプトと文書（ローカル opencode serve、毎日のレーダー、アシスタント分流）。有料への自動切替なし。
+- [relaybot](https://github.com/zthreefires/relaybot) - Grok Bot から自分の Mac 上の Codex や Claude Code に作業を依頼し、結果や承認依頼を webhook で元のチャットに受け取り、返信して同じセッションを続けられます。
 
 ## コミュニティと障害事例
 
@@ -2296,7 +2297,7 @@
 
 ## 貢献
 
-8 セクションに 2183 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2184 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 
