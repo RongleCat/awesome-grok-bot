@@ -1667,7 +1667,7 @@
 - [calico — desktop kit for grokbot-buddy ESP32 panel](https://github.com/newtosh/calico) - 面向 Linux 的 Electron 伴侣应用、ESP32-S3 固件与 Grok Bot webhook 套件，驱动 grokbot-buddy 桌面屏显示智能体动态；含托盘应用、USB/BLE 配网与签名 AppImage 发布。.
 - [spum-pipeline — agent orchestration for Cursor / Grok Bots](https://github.com/Spumcake/spum-pipeline) - 一套 Cursor agents/rules/skills：用协调者把软件点子从简短 brief 拆到规格、设计与增量实现，任务小、有明确负责人；可用于 Cursor IDE 与 Grok Bot。.
 - [freetoken-bots — OpenCode Free models on Grok Bot box](https://github.com/derekwalldevin-wen/freetoken-bots) - 在 Grok Bot 云电脑上接入 OpenCode Free 零价模型的脚本与文档（本机 opencode serve、每日雷达扫描、助手分流），不会自动切到付费模型。.
-- [relaybot](https://github.com/zthreefires/relaybot) - 在 Grok Bot 聊天里让自己 Mac 上的 Codex 或 Claude Code 跑任务，结果或授权请求会通过 webhook 回到原对话，回复即可继续同一会话。.
+- [relaybot](https://github.com/zthreefires/relaybot) - 在 Grok Bot 聊天里让自己 Mac 上的 Codex 或 Claude Code 跑任务，结果或授权请求会通过 webhook 回到原对话，回复即可继续同一会话.
 
 ## 社区与故障现场
 
