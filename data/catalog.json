@@ -11646,6 +11646,16 @@
       },
       "items": [
         {
+          "title": "BotArk — native multi-agent desktop & mobile workspace for Grok Bot",
+          "url": "https://github.com/qybaihe/botark",
+          "source": "day-20261126",
+          "blurb": {
+            "en": "Open-source (MIT) macOS, Windows, iOS, and Android workspace that runs Grok Bot (auto-expanding multi-bot fleets with sandboxes, triggers, memory, and cloud terminal) alongside ChatGPT Dot, Meta Muse, Google Antigravity, Hark, Cue, and Hermes with native multi-agent collaboration rooms and approval-gated local MCP.",
+            "zh": "开源（MIT）跨平台桌面与移动端工作台（macOS / Windows / iOS / Android），原生接入 Grok Bot（单号自动展开多 Bot、定时触发器、记忆、云端沙盒终端与隔离代理），并支持与 ChatGPT Dot、Meta Muse、Google Antigravity、Hark、Cue、Hermes 同房原生群聊协作与受控本地 MCP。",
+            "ja": "MIT ライセンスの macOS / Windows / iOS / Android 向けネイティブワークスペース。Grok Bot（単一ログインでの複数ボット自動展開、トリガー、メモリ、クラウド端末、アカウント別プロキシ隔離）を ChatGPT Dot・Meta Muse・Google Antigravity・Hark・Cue・Hermes と並べて動かし、マルチエージェント協働ルームや承認制ローカル MCP に対応します。"
+          }
+        },
+        {
           "title": "Grok Bot event bridge — JSONL queue + webhook wake",
           "url": "https://github.com/tqd118/grok-bot-event-bridge",
           "source": "GB-1847",

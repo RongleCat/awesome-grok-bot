@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1262,6 +1262,7 @@
 
 ## オープンソースの代替
 
+- [BotArk — native multi-agent desktop & mobile workspace for Grok Bot](https://github.com/qybaihe/botark) - MIT ライセンスの macOS / Windows / iOS / Android 向けネイティブワークスペース。Grok Bot（単一ログインでの複数ボット自動展開、トリガー、メモリ、クラウド端末、アカウント別プロキシ隔離）を ChatGPT Dot・Meta Muse・Google Antigravity・Hark・Cue・Hermes と並べて動かし、マルチエージェント協働ルームや承認制ローカル MCP に対応します。
 - [Grok Bot event bridge — JSONL queue + webhook wake](https://github.com/tqd118/grok-bot-event-bridge) - 個人向けイベント駆動ブリッジ。同僚ボットがローカル JSONL キューへ追記し、webhook routine で Helper Grok Bot を起こすため、着信 HTTP や忙しいポーリングは不要です。
 - [Grok Bot SDLC portable — host-agnostic bot definition pack](https://github.com/dsickles/grok-bot-sdlc-portable) - バックログからドキュメントまでの SDLC 向け 7 つのクラウド Grok Bot 役割を公開 Markdown でまとめたパック。個人オーバーレイは git 外に置き、ホスト間で持ち運べます。
 - [BOTELLIGENCE — Grok Bot fleet control-center kit](https://github.com/vsgellon/botelligence-control-center) - 標準ライブラリのみのインストール可能な Python コックピット。非公開 Grok Bot フリートのヘルス・自己報告・安全アラートを表示し、最適化/一時停止/ロールバックを管理ボットの webhook に転送します。
@@ -2296,7 +2297,7 @@
 
 ## 貢献
 
-8 セクションに 2183 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2184 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

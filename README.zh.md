@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1262,6 +1262,7 @@
 
 ## 开源替代
 
+- [BotArk — native multi-agent desktop & mobile workspace for Grok Bot](https://github.com/qybaihe/botark) - 开源（MIT）跨平台桌面与移动端工作台（macOS / Windows / iOS / Android），原生接入 Grok Bot（单号自动展开多 Bot、定时触发器、记忆、云端沙盒终端与隔离代理），并支持与 ChatGPT Dot、Meta Muse、Google Antigravity、Hark、Cue、Hermes 同房原生群聊协作与受控本地 MCP。
 - [Grok Bot event bridge — JSONL queue + webhook wake](https://github.com/tqd118/grok-bot-event-bridge) - 个人事件驱动桥：同事机器人写入本机 JSONL 队列，经 webhook routine 唤醒 Helper Grok Bot，无需入站 HTTP 或忙轮询。.
 - [Grok Bot SDLC portable — host-agnostic bot definition pack](https://github.com/dsickles/grok-bot-sdlc-portable) - 七个云端 Grok Bot 角色的公开 Markdown 包，覆盖从 backlog 到文档的 SDLC 流水线；个人覆盖层不进 git，便于跨主机迁移。.
 - [BOTELLIGENCE — Grok Bot fleet control-center kit](https://github.com/vsgellon/botelligence-control-center) - 仅标准库的可安装 Python 驾驶舱：监控私有 Grok Bot 舰队健康、自报告与安全告警，并把优化/暂停/回滚请求转发到管理机器人 webhook。.
@@ -2296,7 +2297,7 @@
 
 ## 贡献
 
-目前 8 个分类、2183 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2184 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 
