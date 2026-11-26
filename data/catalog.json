@@ -18856,6 +18856,16 @@
       },
       "items": [
         {
+          "title": "awesome-grok-bots — Grok Bots Market directory data",
+          "url": "https://github.com/grokbotsmarket/awesome-grok-bots",
+          "source": "community-pr",
+          "blurb": {
+            "en": "Daily-synced list of 250+ public Grok Bot share links grouped by task, each with a run demo on grokbotsmarket.com.",
+            "zh": "每日同步的 250 多个公开 Grok Bot 分享链接，按任务分组，每个都在 grokbotsmarket.com 附实测演示。",
+            "ja": "毎日同期される 250 件超の公開 Grok Bot 共有リンク。タスク別に整理し、grokbotsmarket.com で実行デモ付き。"
+          }
+        },
+        {
           "title": "SpaceXAI Grok Bot check-in display",
           "url": "https://github.com/ivoklimsa/spacexai_grokbot_checkin",
           "source": "GB-1755",

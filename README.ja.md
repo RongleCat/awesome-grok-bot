@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1987,6 +1987,7 @@
 
 ## 関連リスト
 
+- [awesome-grok-bots — Grok Bots Market directory data](https://github.com/grokbotsmarket/awesome-grok-bots) - 毎日同期される 250 件超の公開 Grok Bot 共有リンク。タスク別に整理し、grokbotsmarket.com で実行デモ付き。
 - [SpaceXAI Grok Bot check-in display](https://github.com/ivoklimsa/spacexai_grokbot_checkin) - 全画面の会場チェックインキオスク。ゲスト名ごとに漂う grokbot アバターを出し、Vercel デモ付き。
 - [Railagent — cross-platform messaging MCP for Grok Bot and peers](https://github.com/Railagent-io/Railagent) - ホスト MCP の受信箱。Grok Bot を含むエージェントが 1 つのアドレスで横断メッセージとファイル共有できる。
 - [nix-grok-build — declarative Grok Build on Nix](https://github.com/gaavin/nix-grok-build) - 公式 Grok Build CLI バイナリを Nix flake 化。NixOS / Home Manager で宣言的に導入。
