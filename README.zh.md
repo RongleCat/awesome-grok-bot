@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1987,6 +1987,7 @@
 
 ## 相关列表
 
+- [awesome-grok-bots — Grok Bots Market directory data](https://github.com/grokbotsmarket/awesome-grok-bots) - 每日同步的 250 多个公开 Grok Bot 分享链接，按任务分组，每个都在 grokbotsmarket.com 附实测演示。.
 - [SpaceXAI Grok Bot check-in display](https://github.com/ivoklimsa/spacexai_grokbot_checkin) - 全屏会场签到屏：为每位嘉宾名字生成漂浮 grokbot 头像，附 Vercel 演示。.
 - [Railagent — cross-platform messaging MCP for Grok Bot and peers](https://github.com/Railagent-io/Railagent) - 托管 MCP 收件箱：让含 Grok Bot 在内的智能体共用一个地址，跨平台发消息与传文件。.
 - [nix-grok-build — declarative Grok Build on Nix](https://github.com/gaavin/nix-grok-build) - 用 Nix flake 封装官方 Grok Build CLI 二进制，便于 NixOS / Home Manager 声明式安装。.

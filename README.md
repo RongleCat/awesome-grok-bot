@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1987,6 +1987,7 @@
 
 ## Related Lists
 
+- [awesome-grok-bots — Grok Bots Market directory data](https://github.com/grokbotsmarket/awesome-grok-bots) - Daily-synced list of 250+ public Grok Bot share links grouped by task, each with a run demo on grokbotsmarket.com.
 - [SpaceXAI Grok Bot check-in display](https://github.com/ivoklimsa/spacexai_grokbot_checkin) - Fullscreen venue check-in kiosk that spawns floating grokbot avatars for each guest name, with a live Vercel demo.
 - [Railagent — cross-platform messaging MCP for Grok Bot and peers](https://github.com/Railagent-io/Railagent) - Hosted MCP inbox so agents (including Grok Bot) get one address to message and share files across platforms.
 - [nix-grok-build — declarative Grok Build on Nix](https://github.com/gaavin/nix-grok-build) - Nix flake packaging the official Grok Build CLI binaries for declarative NixOS / Home Manager installs.
