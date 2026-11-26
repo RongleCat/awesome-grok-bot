@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -1262,6 +1262,7 @@
 
 ## Open-Source Alternatives
 
+- [BotArk — native multi-agent desktop & mobile workspace for Grok Bot](https://github.com/qybaihe/botark) - Open-source (MIT) macOS, Windows, iOS, and Android workspace that runs Grok Bot (auto-expanding multi-bot fleets with sandboxes, triggers, memory, and cloud terminal) alongside ChatGPT Dot, Meta Muse, Google Antigravity, Hark, Cue, and Hermes with native multi-agent collaboration rooms and approval-gated local MCP.
 - [Grok Bot event bridge — JSONL queue + webhook wake](https://github.com/tqd118/grok-bot-event-bridge) - Personal event-driven bridge that lets a colleague bot append to a local JSONL queue and wake a Helper Grok Bot via webhook routine without inbound HTTP or busy polling.
 - [Grok Bot SDLC portable — host-agnostic bot definition pack](https://github.com/dsickles/grok-bot-sdlc-portable) - Public markdown pack of seven cloud Grok Bot roles for an SDLC pipeline (backlog through docs), with personal overlays kept out of git so jobs stay portable across hosts.
 - [BOTELLIGENCE — Grok Bot fleet control-center kit](https://github.com/vsgellon/botelligence-control-center) - Installable stdlib-only Python cockpit for a private Grok Bot fleet, showing health, self-reports, and safety alerts while forwarding optimize/pause/rollback actions to a managing bot webhook.
@@ -2296,7 +2297,7 @@
 
 ## Contributing
 
-2183 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2184 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
