@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -221,6 +221,7 @@
 
 ## チュートリアルとガイド
 
+- [Screenpipe setup guide for Grok Bot](https://screenpipe.com/integrations/grokbot) - Grok Bot の非公開スキルを設定し、接続した Mac または Windows PC で Screenpipe が記録した画面のテキストや会話を検索します。
 - [GrokBot DevFlow — SHP agent team workflow](https://github.com/sheepnir/GrokBot_DevFlow) - 承認済みプロセス v1.1。Cursor Ultra 上の Grok Bot 役割で SHP 開発チームを回す（Bot が調整、Cloud Agent が成果物）。
 - [Grok Bot POC + CLI/LinkedIn playbook](https://github.com/rifaterdemsahin/grokbot) - Grok Bot / Grok CLI の導入メモと LinkedIn 採用パイプライン解説、スクリーンショット集です。
 - [Panda Labs verification loop for Grok Bot teams](https://github.com/PandaHK-Hub/verification-loop) - Grok Bot チームのスキル成熟向け You→CoS→Worker→Auditor 検証ループの公開メソッド解説。
@@ -2296,7 +2297,7 @@
 
 ## 貢献
 
-8 セクションに 2183 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
+8 セクションに 2184 件を収録しています。PR の前に [CONTRIBUTING.ja.md](CONTRIBUTING.ja.md) を読んでください。対象はクラウドパソコン仲間としての Grok Bot、リンクは開けること、説明は句点で終わる一文です。
 
 ---
 

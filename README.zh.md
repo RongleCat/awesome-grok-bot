@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -221,6 +221,7 @@
 
 ## 教程与上手指南
 
+- [Screenpipe setup guide for Grok Bot](https://screenpipe.com/integrations/grokbot) - 设置 Grok Bot 私有技能，在已连接的 Mac 或 Windows 电脑上搜索 Screenpipe 记录的屏幕文字和对话.
 - [GrokBot DevFlow — SHP agent team workflow](https://github.com/sheepnir/GrokBot_DevFlow) - 经批准的流程 v1.1：用 Cursor Ultra 上的 Grok Bot 角色组成 SHP 研发团队（Bot 协调、Cloud Agent 产出）。.
 - [Grok Bot POC + CLI/LinkedIn playbook](https://github.com/rifaterdemsahin/grokbot) - Grok Bot / Grok CLI 实操安装笔记，含 LinkedIn 招聘流水线说明与截图证据库。.
 - [Panda Labs verification loop for Grok Bot teams](https://github.com/PandaHK-Hub/verification-loop) - 公开方法说明：You→CoS→Worker→Auditor 验证环，用于打磨 Grok Bot 团队技能。.
@@ -2296,7 +2297,7 @@
 
 ## 贡献
 
-目前 8 个分类、2183 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
+目前 8 个分类、2184 条精选。提交前请读 [CONTRIBUTING.md](CONTRIBUTING.md)：必须是云电脑队友这个产品、链接能打开、一句话说明、句号结尾。
 
 ---
 

@@ -1316,6 +1316,15 @@
       },
       "items": [
         {
+          "title": "Screenpipe setup guide for Grok Bot",
+          "url": "https://screenpipe.com/integrations/grokbot",
+          "blurb": {
+            "en": "Set up a private Grok Bot skill to search screen text and conversations captured by Screenpipe on your connected Mac or Windows PC.",
+            "zh": "设置 Grok Bot 私有技能，在已连接的 Mac 或 Windows 电脑上搜索 Screenpipe 记录的屏幕文字和对话.",
+            "ja": "Grok Bot の非公開スキルを設定し、接続した Mac または Windows PC で Screenpipe が記録した画面のテキストや会話を検索します。"
+          }
+        },
+        {
           "title": "GrokBot DevFlow — SHP agent team workflow",
           "url": "https://github.com/sheepnir/GrokBot_DevFlow",
           "source": "GB-1715",
