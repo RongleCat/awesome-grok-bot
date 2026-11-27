@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <img src="https://img.shields.io/badge/entries-2183-blueviolet" alt="Entry count" />
+  <img src="https://img.shields.io/badge/entries-2184-blueviolet" alt="Entry count" />
   <img src="https://img.shields.io/badge/Grok%20Bot-beta%20(2026--08--11)-informational" alt="Grok Bot status" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License" />
 </p>
@@ -221,6 +221,7 @@
 
 ## Tutorials & Guides
 
+- [Screenpipe setup guide for Grok Bot](https://screenpipe.com/integrations/grokbot) - Set up a private Grok Bot skill to search screen text and conversations captured by Screenpipe on your connected Mac or Windows PC.
 - [GrokBot DevFlow — SHP agent team workflow](https://github.com/sheepnir/GrokBot_DevFlow) - Approved process v1.1 for running an SHP software team of Grok Bot roles with Cursor Ultra (bots coordinate, cloud agents produce).
 - [Grok Bot POC + CLI/LinkedIn playbook](https://github.com/rifaterdemsahin/grokbot) - Hands-on Grok Bot and Grok CLI install notes with a documented LinkedIn recruiter pipeline and screenshot evidence gallery.
 - [Panda Labs verification loop for Grok Bot teams](https://github.com/PandaHK-Hub/verification-loop) - Public method write-up of a You→CoS→Worker→Auditor verification loop for maturing Grok Bot team skills.
@@ -2296,7 +2297,7 @@
 
 ## Contributing
 
-2183 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
+2184 curated entries across 8 sections. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR: the resource must be about Grok Bot the cloud-computer teammate, the link must work, and the blurb is one sentence ending with a period.
 
 ---
 
