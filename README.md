@@ -542,6 +542,7 @@
 
 ## Skills, Plugins & MCP
 
+- [AdaptOrch — DAG routing & run-evidence MCP plugin for Grok Bot / Grok Build](https://github.com/dmae97/Adaptorch-MCP) - Official AdaptOrch Cursor/Grok Bot plugin (`plugins/adaptorch-cursor`), Grok Build plugin (`plugins/adaptorch-grok`), and remote Streamable HTTP MCP (`https://adaptorch.com/mcp`) for multi-model synthesis, topology routing, and verifiable execution receipts. Benchmarks & live Three.js OFF vs ON demo at [adaptorch.com](https://adaptorch.com/#proof).
 - [Car Chaser — skills for the Car Chaser Grok Bot template](https://github.com/function1st/grok-bot-car-chaser) - Two installable skills for the Car Chaser Grok Bot template (getting-started rules plus photo-filter car watch) that the template pulls in because template imports currently drop skills.
 - [Schoolyland — WordPress course-business MCP plugin for Grok Bot](https://github.com/schoolyland/cursor-plugin) - Schoolyland plugin for Cursor and Grok Bot that connects to a hosted MCP so the agent can manage WordPress course sites (Elementor, WooCommerce, LearnDash, FluentCRM) via OAuth.
 - [Refine — academic proofreading MCP plugin for Grok Bot](https://github.com/0mm-mark/refined) - Grok Bot/Cursor connector for Refine.ink academic proofreading via hosted MCP (OAuth or API key) plus a refine-review skill for running paper reviews from chat.
